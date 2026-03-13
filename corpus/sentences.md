@@ -2228,3 +2228,171 @@ Natural:  The navigator received a perceptual insight / vision.
 **Emergent compounds from this batch:** `pa-ra` (field), `wi-ka-su` (ritual), `fe-su` (ward/barrier), `zo-se-ki` (trance), `ti-mu` (relic), `fe-no-ka` (forbidden boundary), `di-ki-li` (navigator), `se-to` (perceptual insight/vision). Candidates for W-registration.
 
 **The mystic-primitive question is not closed, just deferred properly.** If corpus sentences keep appearing where the `wi`-as-instrument vs `wi`-as-direct-agent ambiguity (S075) matters — i.e., where Concordian speakers would systematically need to distinguish trained-will-resonance from physical-command — and no compound patch resolves it, that is when a dedicated domain root becomes justified. The threshold: more than three attested sentences where the ambiguity produces genuinely wrong or misleading readings.
+
+---
+
+## Religious Construct Probe (S079–S085)
+
+**Purpose:** Test Monday's extension of the composability hypothesis to religious constructs. Different target than the mystic batch: mystic = mechanism (how things work); religion = interpretation and structure (what it means, who enforces it). Seven sentences covering the core religious vocabulary candidates. Criterion: maintenance manual? Or something better?
+
+---
+
+**S079 — She sent a prayer** *(T-REL-001)*
+
+*Target: "She prayed." / "She sent a prayer."*
+
+```
+Gloss:    la-ze  ka-wi-si
+Literal:  agent:she  action:will-signal
+Natural:  She performed intentional-signaling / she prayed.
+```
+
+- `wi-si` = will-signal = a signal constituted by and originating from intention. Head-final: `si` (signal) is head; `wi` (will/intention) specifies origin. Not `ka-si` (transmit, directed point-to-point, W024) — the distinction is that `wi-si` is signal whose content *is* the will itself, rather than a signal carrying information. A prayer is the will-signal; a command is an action-signal.
+- `ka-wi-si` = action of performing will-signaling = to pray (as an act). The `ka` marks this as a deliberate activity.
+- Recipient optionally marked: `la-ze  ne-[recipient]  ka-wi-si` = she prayed *to* [recipient]. Without `ne`, the recipient is contextual or unspecified — both common uses of prayer.
+
+**Verdict S079: clean.** `wi-si` distinguishes prayer from command (`ka-si`) and from ordinary signal-emission. The Concordian framing — prayer as will-signal, not petition-to-supernatural-authority — is consistent with an analytic epistemic culture.
+
+---
+
+**S080 — The scripture holds the doctrine** *(T-REL-002)*
+
+*Target: "The scripture contains the founding doctrine."*
+
+```
+Gloss:    la-si-su  ko  lo-to-re-su
+Literal:  agent:encoded-structure  contains  patient:recurring-organized-doctrine
+Natural:  The archive holds the canonical doctrine.
+```
+
+- `si-su` = encoded-structure = archive / organized recording system (S056, S070). Here used for the scripture as a physical institutional archive.
+- `to-re-su` = concept-recurring-structure = organized knowledge that is repeatedly transmitted and maintained. Head-final: `su` (structure/organization) is head; `to-re` (recurring doctrine — a conceptual pattern characterized by `re`, periodicity/preservation) modifies it. A `to-re-su` is not any organized knowledge (`to-su`), but specifically the kind that has been canonized and is reproduced over time: scripture, canon, tradition.
+- `ko` = passive containment. `la-si-su  ko  lo-to-re-su` follows the S070 pattern: the archive holds the records.
+
+**Verdict S080: clean.** `to-re-su` (canonical doctrine / scripture as content) is a useful and precise compound — distinct from `to-su` (organized knowledge generally) by the inclusion of `re` (recurring, transmitted over time).
+
+---
+
+**S081 — The relic is sacred** *(T-REL-003)*
+
+*Target: "The relic is holy / set apart."*
+
+```
+Gloss:    lo-ti-mu  fe-vo
+Literal:  patient:ancient-artifact  boundary-value
+Natural:  The relic has the quality of set-apart value.
+```
+
+- `ti-mu` = time-artifact = relic (S076).
+- `fe-vo` = boundary-value = the quality of carrying value that is defined by a boundary — i.e., value that is protected by a prohibition against casual crossing. Head-final: `vo` (quality/value) is head; `fe` (boundary) specifies that the value is of the boundary-protected kind. Sacred = the quality of having value that prohibits approach or casual use. Contrast `fe-no-ka` (S077, forbidden boundary): that is a boundary classified by its prohibition; `fe-vo` is a value classified by its boundary character.
+- The Concordian framing: a relic is sacred not because of divine decree but because it is an entity possessing recognized value that carries a boundary (approaches, uses, states of contact are restricted). This is structurally precise and culturally exactly right for an analytic culture.
+
+**Verdict S081: clean.** `fe-vo` (sacredness / boundary-protected value) correctly frames holiness in structural rather than supernatural terms. Pairs naturally with `fe-no-ka` (S077) and `vo-fe` (value at the boundary = another possible reading: the point at which something attains recognizable value — slightly different). `fe-vo` and `vo-fe` are related but not identical compounds; both are useful.
+
+---
+
+**S082 — The doctrine keeper addressed the gathering** *(T-REL-004)*
+
+*Target: "The priest/scholar addressed the assembly."*
+
+```
+Gloss:    la-to-su-li  si-ki  ne-li-pu
+Literal:  agent:knowledge-organizer  signal-outward  toward:collective
+Natural:  The doctrine keeper transmitted signal to the collective.
+```
+
+- `to-su-li` = concept-structure-person = "one who organizes and maintains structured knowledge" (already in registry, W003 related). In the Concordian setting, this is the most natural form for a priest: not a supernatural intermediary, but a person whose social role is management of canonical doctrine. The same compound covers librarian, archivist, and religious authority — because in Concordian culture they are structurally the same role.
+- `si-ki` = signal-motion = transmit / direct outward (S076 Verdict: transmit).
+- `ne-li-pu` = relation:collective = toward the gathered group.
+
+**Verdict S082: clean.** The Concordian frame makes an importantly non-religious claim: the person who "performs religion" is not a specially endowed spiritual figure but a `to-su-li` — a knowledge organizer. A priest is distinguishable from a librarian only by what body of `to-re-su` they maintain. This is a structural consequence of the primitive set, not an import from outside — and it is the most culturally specific result of the batch.
+
+---
+
+**S083 — The pilot attunes to the machine** *(T-REL-005)*
+
+*Target: "The pilot attunes to / synchronizes with the machine."*
+
+*This is the key test. `ne-ra-ki` candidate for "attune": entering the state of energetic connection.*
+
+```
+Gloss:    la-ra-ki-li  ne-ra-ki  lo-mu
+Literal:  agent:pilot  enter-energy-relation  patient:machine
+Natural:  The pilot enters into energetic resonance with the machine.
+```
+
+- `ne-ra` = relation-energy = a relational connection in the energetic domain = resonance / attunement. Head-final: `ra` (energy) is head; `ne` (relation) specifies the character of the energy — not a point-source (`pa-ra`, S072) but a relational binding between two systems. `ne-ra` is the state where two energy systems are coupled.
+- `ne-ra-ki` = inchoative of `ne-ra` = entering the state of energetic coupling = attune / synchronize. Inchoative pattern: appending `ki` (motion → state-entering) to a state compound (established from `ne-ki`, `zo-ki`, `ko-ki`, `zo-se-ki`).
+- `lo-mu` = the machine as the patient of the attunement — the entity being coupled with.
+
+**Structural comparison with S075:** S075 (`la-wi-ze  ka  lo-mu`) uses *will* as agent acting *on* the machine. S083 uses the pilot as agent entering *into relation with* the machine. These are subtly different: S075 encodes a directive relationship (will → machine); S083 encodes a relational state transition (pilot ↔ machine, mutual coupling). In a mecha context where the resonance is bidirectional, S083 is the more accurate form.
+
+**Verdict S083: clean and structurally important.** `ne-ra` (resonance / energetic coupling) and `ne-ra-ki` (to attune) are productive and precise. The compound resolves S075's ambiguity for the specifically relational case: S075 = will acts on machine (directive); S083 = pilot enters energetic coupling with machine (relational/bidirectional). `ne-ra` is the candidate compound for the Concordian mecha resonance concept. Watch whether it eventually needs to be more than a compound.
+
+---
+
+**S084 — The doctrine holds that the machine has a spirit** *(T-REL-006)*
+
+*Target: "They believe the machine has a soul."*
+
+*Concordian framing: this is an epistemic claim within a doctrine, not an ontological assertion.*
+
+```
+Gloss:    la-li-pu  to-re-su  si  lo-mu  zo-to
+Literal:  agent:collective  recurring-doctrine  signals  patient:machine  living-pattern
+Natural:  The group's canonical doctrine signals that the machine has a living-pattern.
+```
+
+- `to-re-su` in the instrument slot: the organized doctrine is the means by which the signal is transmitted. This uses `to-re-su` as a citation frame — the group's scripture/tradition is doing the asserting.
+- `zo-to` = living-pattern = the conceptual organization of a living entity = soul / spirit as a functional description. Head-final: `to` (conceptual pattern) is head; `zo` (living) specifies that the pattern is of the living-thing type. `zo-to` makes no commitment about whether the pattern is embodied, supernatural, or emergent — it merely asserts that the machine has a *pattern characteristic of living things*. This is the maximally neutral Concordian framing of "soul."
+- `si` = signal (as predicate here, in the "the doctrine emits the claim that..." frame). Parallels `la-se-ka  be  [proposition]` (C004) but with `si` rather than `be` — the signal is the mode of assertion.
+
+**The two candidates for "spirit/soul":**
+- `zo-si` = living-signal = a spirit as a non-physical entity whose existence consists of emitting signal (an entity that is a living signal without a body)
+- `zo-to` = living-pattern = a soul as the organized conceptual pattern constituting the identity of a living entity
+
+These are not identical. `zo-si` is appropriate when "spirit" means an agent without a physical substrate — a ghost, a disembodied entity. `zo-to` is appropriate when "soul" means the identity-pattern of a being — the organizing principle of a living entity. Two valid uses, two compounds. Neither yet requires a primitive.
+
+**Verdict S084: serviceable.** The sentence works and produces the correct Concordian framing: soul/spirit is a doctrine-level claim, not an uncontested ontological fact. `zo-to` and `zo-si` are both useful but need to be kept distinct. Logged as a watch item.
+
+---
+
+**S085 — The spirits protect the shrine** *(T-REL-007)*
+
+*Target: "The spirits protect the shrine / holy place."*
+
+```
+Gloss:    la-zo-si  lo-pa-wi-ka-su  no-de
+Literal:  agent:living-signal  patient:ritual-place  preserve
+Natural:  The spirits preserve the ritual place.
+```
+
+- `zo-si` = living-signal = spirit / disembodied living agent. Here used as the actual agent — the spirits are the grammatical subject performing the preservation, not quoted inside a doctrine claim. This tests whether `zo-si` functions cleanly as a non-physical agent without strain.
+- `pa-wi-ka-su` = place-ritual = a place defined by its ritual function = shrine / temple. Head-final: `wi-ka-su` (ritual, S073) is head; `pa` (place) is modifier — a place that is a ritual. Wait, head-final means the last element is the head: `pa-wi-ka-su` has `su` as head (structure), `wi-ka` (intentional action) as second modifier, `pa` as first modifier. Reading: an organized structure for intentional action within a place = a formal ritual institution of the place. That works.
+- Alternative: `pa-wi-ka` = place-intentional-action = "the place of intentional practice" = shrine without the `su`. Slightly less formal. For the sentence, `pa-wi-ka-su` is used for a recognized institutional holy site.
+- `no-de` = preserve (from S030: no-de = prevent-decay).
+- The agent `la-zo-si` in agent slot: grammatically, Tonesu does not restrict the agent slot to physically embodied agents. `la-wi-ka-su` (S073: the ritual as agent) and `la-se-ka` (C004: the examination as agent) established non-physical, non-intentional entities in the agent slot. A spirit (`zo-si`) is a non-physical but *intentional* agent — in some ways a cleaner occupant of the `la` slot than a ritual or an examination.
+
+**Verdict S085: clean.** `zo-si` works as an agent without strain. `pa-wi-ka-su` (shrine) is productive. The sentence is not a maintenance manual. It reads, in Concordian: "a living-signal entity preserves the ritual-structure." That is precisely how an analytic culture would record a religious claim — accurate to the doctrine's content, neutral about its ontological truth.
+
+---
+
+### Religious Construct Batch Summary
+
+| Sentence | Target concept | Form | Verdict |
+|----------|---------------|------|---------|
+| S079 | prayer | `ka-wi-si` | clean — will-signal as act |
+| S080 | scripture / doctrine | `to-re-su` | clean — recurring organized doctrine |
+| S081 | sacred / holy | `fe-vo` | clean — boundary-protected value |
+| S082 | priest / doctrine keeper | `to-su-li` | clean — same as librarian/archivist (Concordian structural finding) |
+| S083 | attunement / resonance | `ne-ra-ki` | clean — **key compound; resolves S075 directive vs relational** |
+| S084 | spirit / soul (as claim) | `zo-to` | serviceable — works as epistemic frame; `zo-si` vs `zo-to` distinction needed |
+| S085 | spirits as agents | `zo-si` | clean — non-physical agent holds in grammar |
+
+**Verdict: composability holds for religion.** 6/7 clean; S084 is serviceable with a watch item (`zo-si` vs `zo-to` disambiguation). No religious primitive required.
+
+**Most important structural finding: S082.** In Concordian grammar, "priest" comes out as `to-su-li` — the same compound as librarian and archivist. This is not a failure to express religion; it is the language making a structural claim about Concordian culture: religious authority and knowledge authority are the same institution. A culture whose primitives treat doctrine as organized recurring knowledge (`to-re-su`) and religious roles as knowledge management roles (`to-su-li`) is making a specific statement about what religion *is* in their ontology.
+
+**Resonance finding: S083.** `ne-ra` (energy-relation = resonance/coupling) solves the S075 ambiguity for the bidirectional mecha-resonance case. `wi` as agent = directed will acting on a machine; `ne-ra-ki` = entering a mutual coupling with a machine. The distinction is precise and now attested. This is the strongest compound candidate from the entire mystic+religion sequence.
+
+**Emergent compounds from this batch:** `wi-si` (prayer/will-signal), `to-re-su` (canonical doctrine/scripture), `fe-vo` (sacredness), `pa-wi-ka-su` (shrine/temple), `ne-ra` (resonance/energetic coupling), `ne-ra-ki` (to attune), `zo-to` (soul/identity-pattern of living entity), `zo-si` (spirit/disembodied living agent). Candidates for W-registration.

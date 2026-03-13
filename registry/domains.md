@@ -99,6 +99,31 @@ Core compounds already functioning in this domain (all from S072–S078):
 
 ---
 
+## Religion / Doctrine
+
+Religious constructs in Tonesu are treated as organized social and epistemic structures, not supernatural ontological primitives. The domain uses `to` (conceptual pattern), `re` (recurrence/tradition), `su` (organization), and `fe` (sacred boundary). **The key cultural finding from corpus testing (S079–S085): Concordian "priest" (`to-su-li`) is structurally identical to librarian/archivist.** Religious authority and knowledge authority are the same institution in this grammar.
+
+| Label | Name | Substrate | Principle | Parent | Status | Notes |
+|-------|------|-----------|-----------|--------|--------|-------|
+| `da-to-re` | Doctrinal domain | `to` knowledge/pattern | `re` recurrence/preservation | `da-to` | proposed | religion, tradition, canon; doctrine as recurring organized knowledge |
+
+Core compounds from the religious probe S079–S085:
+
+| Compound | Meaning | Notes |
+|----------|---------|-------|
+| `wi-si` | prayer / will-signal | intentional signal whose content is the will itself |
+| `to-re-su` | canonical doctrine / scripture | organized recurring knowledge |
+| `fe-vo` | sacredness | boundary-protected value; the quality of being set apart |
+| `pa-wi-ka-su` | shrine / temple | place defined by its role as a ritual institution |
+| `ne-ra` | resonance / energetic coupling | relational energy state; resolves S075 will-agent ambiguity |
+| `ne-ra-ki` | to attune | inchoative: entering the resonance state |
+| `zo-to` | soul / identity-pattern | living-pattern; the organizing conceptual structure of a living entity |
+| `zo-si` | spirit / disembodied agent | living-signal; an agent whose existence is signal without physical substrate |
+
+**`zo-si` vs `zo-to`:** not interchangeable. `zo-si` = entity without body (ghost, spirit as separate being). `zo-to` = the organizing pattern of a living entity's identity (soul as the conceptual structure of a person). A person has `zo-to`; a ghost *is* `zo-si`.
+
+---
+
 ## Open Questions
 
 - [ ] Several entries have substrate == principle (e.g. `da-su`). Review whether this is meaningful or an artifact of placeholder design.
