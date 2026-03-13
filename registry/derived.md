@@ -335,6 +335,17 @@ Notes:        Cultural weight: in Concordian formal discourse, to-fe-ka occupies
               Domain 2 (deliberateness)/Domain 4 (limits): Concordia does not have a separate
               moral framework for intellectual honesty — epistemic fraud is a category of
               boundary violation, the same ontological class as approaching a physical limit.
+              Directionality note: to-fe-ka covers boundary crossings in both directions.
+              INFLATION: presenting se as to (overclaiming certainty). Assertive; visible;
+                politically risky; the mislabeling is present in the claim itself.
+              DEFLATION: presenting to-su as si (suppressing established status; denying a
+                category upgrade that is warranted). Withholding; harder to prove; politically
+                safer because the fraud lies in absence of promotion rather than a false claim.
+              In Concordian political practice, deliberate deflation is likely the more common
+              form of to-fe-ka: a speaker who says 'this is only si' when it has reached to-su
+              status is doing something structurally distinct from one inflating speculation into
+              fact. A to-fe-li adjudicating a deflation charge must establish what epistemic
+              status the claim had actually reached — a higher evidentiary burden than inflation.
 Related:      to-fe (W028), fe-si (W024), fe-ki (reach a limit)
 ```
 

@@ -138,6 +138,19 @@ Tonesu draws at least seven distinct states:
 
 The `ki`/`ka` distinction (Domain 2) does the accountability work: the language forces the speaker to commit to whether a boundary-crossing was accidental or deliberate. There is no convenient grammatical ambiguity between honest error and fraud.
 
+**Political register — how Concordian discourse handles epistemic categories strategically:**
+
+Direct lies (`to-fe-ka` inflation) are politically dangerous because the mislabeling is visible and assertive. The dominant political maneuver instead becomes *category management*: argumentation about which epistemic level applies, rather than false claims about content.
+
+| Political move | Mechanism | Epistemic label used |
+|----------------|-----------|---------------------|
+| Claim suppression | Downgrade `to-su` to `si`: "this is only a report" | Deflation `to-fe-ka` — harder to prove; requires showing what status the claim had actually reached |
+| Uncertainty projection | Correctly label `si` while implying it is not worth acting on | Technically honest; politically manipulative |
+| Strategic precision | Use `to` carefully: "we believe" rather than "it is established" | Stays within bounds; pressure toward epistemic transparency |
+| Formal accusation | Challenge opponent's category assignment before a `to-fe-li` panel | "Your claim never crossed the `to-fe` boundary" |
+
+The irony Monday's analysis identified: a language with precise epistemic vocabulary doesn't eliminate political manipulation; it *formalizes* it. Political argument in Concordia looks like academic peer review. The moderator's question — "Is your claim `si`, `to`, or `to-su`?" — is a realistic institutional procedure, not an absurdity.
+
 **Note:** English frames dishonesty as a *moral* failure (lying is wrong). Tonesu frames it as a *structural* failure — violating a category boundary. This uses the same `fe` root as physical danger and warnings. Concordia's ethics and its risk-management framework are the same ontology. Intellectual dishonesty is not a separate moral domain; it is a species of boundary violation.
 
 ---
