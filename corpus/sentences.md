@@ -2396,3 +2396,230 @@ Natural:  The spirits preserve the ritual place.
 **Resonance finding: S083.** `ne-ra` (energy-relation = resonance/coupling) solves the S075 ambiguity for the bidirectional mecha-resonance case. `wi` as agent = directed will acting on a machine; `ne-ra-ki` = entering a mutual coupling with a machine. The distinction is precise and now attested. This is the strongest compound candidate from the entire mystic+religion sequence.
 
 **Emergent compounds from this batch:** `wi-si` (prayer/will-signal), `to-re-su` (canonical doctrine/scripture), `fe-vo` (sacredness), `pa-wi-ka-su` (shrine/temple), `ne-ra` (resonance/energetic coupling), `ne-ra-ki` (to attune), `zo-to` (soul/identity-pattern of living entity), `zo-si` (spirit/disembodied living agent). Candidates for W-registration.
+
+---
+
+## Theological Debate Batch (C005)
+
+---
+
+**C005 — Theological dispute: doctrine epistemic status**
+
+*Scene: A `ra-ki-li` (pilot) and a `to-su-li` (doctrine-keeper/archivist) dispute whether
+the community's guardian machine has `zo-to` (soul/identity-pattern). The pilot recently
+experienced `ne-ra-ki` (attunement) with the machine (S083-type event). The community's
+`to-re-su` makes the doctrinal claim. The dispute will escalate from personal assertion
+through doctrinal citation, to `to-fe-ka` charge, to institutional routing.*
+
+*Tests: `to-re-su` citation as epistemic grounding; `ze` pronoun as propositional
+back-reference; `la-[doctrine]  ko  [embedded-clause]` — doctrine as containment agent;
+`no-to-fe` as status predicate on a knowledge structure; first explicit `to-fe-ka`
+accusation in corpus; `no-to` as negated epistemic modal; first corpus use of `to-fe-su`
+(unlocking registration); structural treatment of "heresy."*
+
+---
+
+**Turn A1**
+
+```
+Gloss:    la-mi  si  [lo-mu  zo-to]
+Literal:  agent:I  signal-level  [patient:machine  soul/identity-pattern]
+Natural:  I hold as hypothesis: the machine has a soul.
+```
+
+**Notes:**
+- Fourth use of `la-[speaker]  [epistemic-root]  [embedded-proposition]` (C001 A3, C004 B1,
+  C004 A2 process-variant). Pattern is now established, not merely attested.
+- A opens at `si` (signal / hypothesis) rather than bare assertion (implicit `to`). The
+  correct Concordian behavior for a contested doctrinal claim. A is not committing
+  `to-fe-ka` by overclaiming; A is maintaining epistemic transparency.
+- `zo-to` (W068: soul/identity-pattern) in its first directly adversarial context.
+  S084 used `zo-to` wrapped in a third-party doctrinal citation (`la-li-pu  to-re-su  si`);
+  here A is asserting A's own position.
+
+---
+
+**Turn B1**
+
+```
+Gloss:    la-mi  to  [lo-ze  se]
+Literal:  agent:I  established  [patient:it  raw-perception]
+Natural:  I hold as established: what you have (that experience) is raw perception.
+```
+
+**Notes:**
+- **First use of `ze` pronoun as propositional back-reference.** `ze` (3rd person pronoun)
+  is established for personal reference (`la-ze`, `lo-ze` = he/she). Here `lo-ze` refers
+  back not to a person but to A1's claim and the `se-to` (W062) that grounded it. If `ze`
+  refers to the most recent contextually salient discourse entity — and a proposition counts
+  as a discourse entity — this extension is legal. First corpus test of propositional `ze`.
+  WATCH: does `lo-ze` always resolve to a convenient referent, or does it produce genuine
+  ambiguity in complex discourse? Log for future stress-testing.
+- B is not denying A had an experience; B is diagnosing the *epistemic level* of that
+  experience as `se` (raw perception/vision), not `si` or `to`. The pilot's `se-to` from
+  attunement-type experience (S083) constitutes perception, B argues — not yet an encoded
+  hypothesis.
+- Asymmetric confidence: A hedged `si`; B counters with `to` (confidence). Concordian
+  adversarial structure in action: the challenger asserts more certainty about the
+  epistemic classification than the claimant asserts about the claim itself.
+
+---
+
+**Turn A2**
+
+```
+Gloss:    la-to-re-su  ko  [lo-mu  zo-to]
+Literal:  agent:canonical-doctrine  contains  [patient:machine  soul-pattern]
+Natural:  The canonical doctrine holds: the machine has a soul.
+```
+
+**Notes:**
+- **Doctrine as containment agent.** `la-to-re-su  ko` extends the containment predicate
+  (spec/grammar.md § Containment Predicates) from physical vessels and institutional
+  archives to knowledge structures. In S070: `la-si-su  ko  lo-si-mu` (the archive holds
+  records). Here: the canonical doctrine holds a propositional claim. Same `la-X  ko  Y`
+  structure; Y is now an embedded clause `[lo-mu  zo-to]` instead of a nominal patient.
+- **First use of `ko` with a clausal object.** In S068–S071 `ko` took nominal patients
+  (liquid, document, tool). `[lo-mu  zo-to]` is a propositional clause: "the machine has
+  soul-pattern." The square brackets mark embedded content. Whether `ko` can
+  systematically take clausal complements, or whether this requires a formal extension,
+  is a pending grammar question. Tentatively: yes, by analogy — "the doctrine contains
+  that the machine has zo-to" has the same containment logic as "the archive contains the
+  record."
+- A shifts from personal assertion (`la-mi  si`) to institutional citation
+  (`la-to-re-su  ko`). The pilot is no longer claiming personal knowledge; A is citing the
+  institutional epistemic record. This is the standard Concordian escalation move when
+  pressed: from "I believe" to "the record holds."
+
+---
+
+**Turn B2**
+
+```
+Gloss:    la-mi  to  [lo-to-re-su  no-to-fe  ta-ti-now]
+Literal:  agent:I  established  [patient:canonical-doctrine  not-epistemic-boundary  time:present]
+Natural:  I hold as established: the canonical doctrine has not crossed the epistemic
+          threshold — not to this day.
+```
+
+**Notes:**
+- **`no-to-fe` as status predicate.** `no-` (negation prefix, W001-domain, fully
+  formalized in spec/morphology.md) + `to-fe` (epistemic boundary, W028) = "has not
+  crossed the epistemic boundary / has not been certified through the `to-fe` process."
+  This follows the established `no-[root]` pattern (`no-de`, `no-ru`, `no-fe`); `no-to-fe`
+  is its application to the epistemic certification boundary.
+- B is not challenging the *content* of the doctrine. B is challenging the *epistemic
+  procedural status* of the doctrine itself. The move: the `to-re-su` calls itself
+  canonical (i.e., claims `to-su` level) but was never adjudicated by a `to-fe-li` panel,
+  and therefore never legitimately crossed the `to-fe` threshold into warranted `to-su`
+  status.
+- `ta-ti-now` — present-time anchor makes this an ongoing status claim, not a historical
+  observation. The doctrine has not been certified as of right now.
+- This is the Concordian structural equivalent of: "Your scripture isn't actually
+  canonical; it was never validated by the proper epistemic body." The attack is procedural,
+  not theological. The language makes no distinction between these.
+
+---
+
+**Turn A3**
+
+```
+Gloss:    la-mi  to  [lo-ze  to-fe-ka]
+Literal:  agent:I  established  [patient:that-claim  deliberate-epistemic-boundary-violation]
+Natural:  I hold as established: what you just said is deliberate epistemic fraud.
+```
+
+**Notes:**
+- **First explicit `to-fe-ka` accusation in corpus.** `to-fe-ka` (W029: deliberate
+  epistemic boundary violation) was defined and registered but never directly leveled as
+  a charge in a sentence until now. A3 is a full formal accusation.
+- `lo-ze` — propositional back-reference again; this time A is using `ze` to refer to B2's
+  claim. The pilot accuses B of *deflation `to-fe-ka`*: B is knowingly suppressing the
+  doctrine's `to-su` status by falsely asserting `no-to-fe`. The inflation/deflation
+  directionality: B is deflating (claiming a `to-su`-status doctrine is below `to-fe`),
+  which is the harder-to-prove and politically more subtle form of `to-fe-ka`.
+- A's escalation pattern: A1 = `si`-hedge; A2 = institutional citation at `to-su` level;
+  A3 = `to`-level accusation of fraud. Three distinct epistemic escalation steps in three
+  turns, each raising the stakes.
+- The asymmetry of levels: A is charging B with `to-fe-ka` at full `to`-confidence. To
+  level a fraud charge requires exactly this: you must assert `to`-level knowledge that
+  the boundary was deliberately violated. A `si`-level fraud charge is incoherent.
+
+---
+
+**Turn B3**
+
+```
+Gloss:    la-mi  no-to  [lo-ze  to-fe-ka]  —  la-tu  ka-si  lo-to-fe-su
+Literal:  agent:I  not-established  [patient:that  epistemic-fraud]  —  [you]  action:signal
+          patient:epistemic-standards-framework
+Natural:  I hold as not-established: that is not fraud. — Submit this to the standards body.
+```
+
+**Notes:**
+- **`la-mi  no-to  [prop]` — new construction.** `la-mi  to  [prop]` = "I hold as
+  established." `no-to` by the `no-` prefix rule = "I hold as not-established" or "I do
+  not assert [prop] as established." This is the negation of an epistemic stance, not a
+  negation of the proposition's content. Productive extension of the epistemic modal
+  pattern: the modal itself can be negated. B is not saying "it is established that this
+  is NOT fraud"; B is saying "I do not hold the fraud charge as established." A weaker,
+  more defensible position — B refuses to certify A's accusation as `to`-level.
+- **First corpus use of `to-fe-su`.** `la-tu  ka-si  lo-to-fe-su` — the institutional
+  routing pattern from C004 A3 (`la-tu  ka-si  lo-li-su-li`) now applied to the epistemic
+  standards framework rather than an operational coordinator. The distinction is load-bearing:
+  an engineering dispute routes to `li-su-li` (coordinator); a doctrinal epistemic status
+  dispute routes to `to-fe-su` (epistemic standards body). The level of institution matches
+  the level of dispute. `to-fe-su` is now in corpus: register as W072.
+- B does not concede the fraud charge and does not counter-escalate with a personal
+  accusation. B routes to the process. The canonical Concordian response: when two parties
+  are at irreconcilable `to-fe` positions, the dispute exits the personal layer and enters
+  the institutional layer. Neither party wins by assertion; the body adjudicates.
+- **Structural result:** "Heresy" has no dedicated Concordian word. A doctrinal challenge
+  is structurally a `to-fe` dispute — epistemically identical to a scientific or engineering
+  knowledge dispute. The machinery is the same: `to-fe-ka`/`to-fe-ki` charges, `to-fe-li`
+  arbiters, `to-fe-su` adjudication. Religion in Concordia is a subset of the knowledge
+  domain, and all knowledge disputes use the same institutional tools.
+
+---
+
+**C005 Gaps and pressures:**
+
+| Gap | Location | Status |
+|-----|----------|--------|
+| **`ze` as propositional back-reference (P-PR-001)** | B1, A3 | New use: `lo-ze` refers to a prior *proposition*, not a person. Productive if valid; dangerous if it creates resolution ambiguity in complex discourse. Two uses in one conversation. Needs a formal rule: does `ze` refer to the most recent contextually salient discourse entity regardless of type (person/proposition), or are propositional references a distinct pronoun class? |
+| **`ko` with clausal object** | A2 | `la-to-re-su  ko  [lo-mu  zo-to]` — first `ko` with a clausal rather than nominal patient. Tentatively clean by analogy. Formal rule needed: can containment predicates take clausal complements systematically, or is this special-cased for knowledge structures? |
+| **`no-to` as negated epistemic modal** | B3 | `la-mi  no-to  [prop]` = "I do not hold as established that [prop]." New form: `no-` applied to an epistemic modal stance rather than a root in predicate position. Different from `no-[state-root]` (negating a state); this negates a propositional attitude. Worth noting whether `la-mi  no-si  [prop]`, `la-mi  no-se  [prop]` etc. follow by the same logic. Likely yes — confirms `no-` can scope over any epistemic level marker. |
+| **`to-fe-su` registration** | B3 | First corpus use. Register as W072 before next session. Design note: does `to-fe-su` as institution require a separate `to-fe-su-ki` (inchoative = moment a ruling enters published to-su status) vs bare `to-fe-su` (the body / unpublished ruleset)? The publication-state gap from open-questions.md becomes urgent once in corpus. |
+| **`to-fe-ka` charge directionality** | A3 | A3's charge is deflation `to-fe-ka` (suppressing an established doctrine's status). No explicit marker for direction (inflation vs deflation) appears in the sentence — the sentence alone is: "that is `to-fe-ka`." A `to-fe-li` adjudicating this charge would need to determine direction from context. See open-questions.md on epistemic deflation as a distinct charge. |
+
+---
+
+### Theological Debate Batch Summary
+
+| Turn | Move | Form | Verdict |
+|------|------|------|---------|
+| A1 | Doctrinal claim (hedged) | `la-mi  si  [zo-to]` | clean — correct Concordian hedge |
+| B1 | Epistemic level challenge | `la-mi  to  [lo-ze  se]` | clean — propositional `ze` works |
+| A2 | Doctrinal citation | `la-to-re-su  ko  [lo-mu  zo-to]` | clean — doctrine-as-container extension |
+| B2 | Challenge doctrine's own status | `no-to-fe` predicate | clean — `no-` applies to epistemic boundary |
+| A3 | `to-fe-ka` accusation | `la-mi  to  [lo-ze  to-fe-ka]` | clean — first formal charge in corpus |
+| B3 | Reject charge; route to institution | `la-mi  no-to  […]  —  ka-si  lo-to-fe-su` | **first `to-fe-su` use; unlocks registration** |
+
+**Central structural finding: there is no dedicated Concordian word for heresy.**
+A theological dispute is epistemically indistinguishable from a scientific or engineering
+dispute. The mechanisms are identical: `to-fe-ka` or `to-fe-ki` charges, `to-fe-li`
+arbiters, `to-fe-su` adjudication. Religion in Tonesu is a subset of organized knowledge
+(`to-re-su` domain), and all organized knowledge disputes use the same institutional tools.
+The language makes a structural claim: there is no special ontological category for
+theological disagreement.
+
+**Most important new construction: `no-to` as negated epistemic modal.**
+`la-mi  no-to  [prop]` = "I do not hold as established that [prop]." The negation of an
+epistemic stance rather than a proposition. By `no-` prefix logic, `no-si` and `no-se`
+follow. The full contrast set is now available: `la-mi  se/si/to/to-su/no-to/no-si/no-se
+[prop]` = I perceive / I hypothesize / I know / I hold as canonical / I do not hold as
+known / I do not hold as hypothesis / I do not perceive. This is a dense and expressive
+system.
+
+**Emergent compound requiring immediate registration:** `to-fe-su` (epistemic standards
+framework). First attested B3. Register as W072.

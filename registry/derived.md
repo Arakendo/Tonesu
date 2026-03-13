@@ -1354,6 +1354,40 @@ Notes:        Third member of the [domain]-vo quality pattern: ha-vo (thermal qu
 Related:      ra (energy), vo (value/quality), si-fe (W070), pa-ra (W053, field)
 ```
 
+**W072**
+```
+Form:         to-fe-su
+Type:         compound
+Class:        entity / institution
+Definition:   epistemic standards framework; the formal body or code whose authority is
+              to define, certify, and adjudicate epistemic category boundaries and
+              knowledge promotion thresholds.
+Composition:  to-fe (W028, epistemic boundary) + su (structure/organization) — organized
+              structure governing epistemic boundaries. Head-final: su (structure) is head;
+              to-fe specifies the domain of governance as epistemic.
+Register:     formal / institutional
+Domain:       knowledge / institutions / ethics
+Status:       proposed
+Examples:     "la-tu  ka-si  lo-to-fe-su" — submit this to the epistemic standards body (C005 B3)
+Notes:        The foundational institutional entity of the Concordian epistemic system.
+              `to-fe-su` is what converts subjective threshold judgments into objective
+              adjudicable ones: without a published procedural standard (from `to-fe-su`),
+              a `to-fe-li` cannot distinguish deliberate deflation (`to-fe-ka`) from
+              legitimate conservative epistemic judgment — both look like "I assessed the
+              threshold as unmet." See notes/open-questions.md: manufactured-doubt problem.
+              WATCH: the publication-state gap. There is currently no distinction between
+              a `to-fe-su` ruling that is internal (adopted by the body) and one that has
+              been published to `to-su` status (openly challengeable). An internal-but-not-
+              published standard is unchallengeable — institutional capture by another name.
+              Candidate: `to-fe-su-ki` (inchoative = the moment a standards rule enters
+              published to-su status) vs bare `to-fe-su` (the body / unpublished ruleset).
+              Do not register the distinction until corpus demands it.
+              ALSO NOTE: `to-fe-su` is self-applying: its own rules must themselves be
+              published to `to-su` status to be legitimately binding (the self-legitimation
+              principle from notes/semantic-map.md § Domain 6).
+Related:      to-fe (W028), to-fe-ka (W029), to-fe-li (W032), to-su (organized knowledge)
+```
+
 ---
 
 ## Open Questions
