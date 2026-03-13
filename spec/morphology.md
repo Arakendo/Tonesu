@@ -68,6 +68,8 @@ Convert roots from one lexical role to another. Attach directly to the root. Ful
 | `-su` | result / product | `ka-su` → what was produced |
 | `-to` | abstract nominalization | `ka-to` → the concept of the action |
 | `-se` | quality / property | `ra-se` → energetic |
+
+> **Note:** `-se` shares form with root `se` (perception). The link is indirect — "a quality is what is perceivable about a thing" — and does not satisfy the transparent overlap standard as cleanly as other suffixes. Justification or rename required before this suffix is considered stable. See notes/open-questions.md.
 | `-ki` | verbal noun (ongoing process) | `be-ki` → the act of creating |
 
 Multiple derivational suffixes can stack if semantically required, but prefer compounds over long suffix chains.

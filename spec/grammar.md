@@ -49,21 +49,64 @@ Short, phonetically distinct syllables. Never merge with roots ambiguously.
 
 ## Particle–Root Overlap Policy
 
-A grammatical particle **may share phonetic form with a primitive root only if its grammatical function is semantically derived from that root's meaning.** Such overlaps are intentional and transparent — a speaker who knows the root can infer the particle's role.
+Any grammatical function word (particle, frame word, negation prefix, pronoun, derivational suffix, or quantity prefix) **may share phonetic form with a primitive root only if its grammatical function is semantically derived from that root's meaning.** Such overlaps are intentional and transparent — a speaker who knows the root can infer the function word's role.
 
-| Particle | Root overlap | Relationship | Status |
-|----------|-------------|--------------|--------|
-| `pa` | `pa` (place/space) | location marker derived from place root | Transparent ✓ |
-| `ne` | `ne` (relation) | recipient/relation marker derived from relation root | Transparent ✓ |
-| `ka` | `ka` (action) | action marker derived from action root | Transparent ✓ |
-| `la` | — | no root `la` | Clean |
-| `lo` | — | no root `lo` | Clean |
-| `ro` | — | no root `ro` | Clean |
-| `ta` | — | no root `ta` | Clean |
-| `na` | — | no root `na` | Clean |
-| `da` | — | no root `da` | Clean |
+Non-transparent collisions are **not permitted**: if the function word's meaning is unrelated to the root, one must be renamed.
 
-Non-transparent collisions (particle and root share form but meanings are unrelated) are **not permitted**. The former `ra` instrument particle was a non-transparent collision with root `ra` (energy/force) and was renamed to `ro` to resolve this.
+### Full Function-Word Audit
+
+**Core particles**
+
+| Form | Function | Root overlap | Relationship | Status |
+|------|----------|-------------|--------------|--------|
+| `la` | agent marker | — | no root `la` | Clean |
+| `lo` | patient marker | — | no root `lo` | Clean |
+| `ro` | instrument marker | — | no root `ro` | Clean |
+| `pa` | location marker | `pa` (place/space) | location from place root | Transparent ✓ |
+| `ne` | relation/recipient marker | `ne` (relation) | relation marker from relation root | Transparent ✓ |
+| `ta` | time reference | — | no root `ta` | Clean |
+| `ka` | action marker | `ka` (action) | action marker from action root | Transparent ✓ |
+| `na` | proper name marker | — | no root `na` | Clean |
+| `da` | domain marker | — | no root `da` | Clean |
+
+**Frame words and negation**
+
+| Form | Function | Root overlap | Relationship | Status |
+|------|----------|-------------|--------------|--------|
+| `go` | causal frame | `go` (cause/origin) | causal marker from cause root | Transparent ✓ |
+| `du` | result frame | `du` (result/effect) | result marker from result root | Transparent ✓ |
+| `no` | negation prefix | `no` (negation/absence) | negation function from negation root | Transparent ✓ |
+
+**Quantity prefixes** (see spec/morphology.md)
+
+| Form | Function | Root overlap | Relationship | Status |
+|------|----------|-------------|--------------|--------|
+| `nu-` | indefinite quantity | `nu` (quantity/number) | quantity prefix from quantity root | Transparent ✓ |
+| `ru-` | singular | `ru` (unity/singularity) | singular from unity root | Transparent ✓ |
+| `pu-` | plural | `pu` (plurality) | plural from plurality root | Transparent ✓ |
+
+**Derivational suffixes** (see spec/morphology.md)
+
+| Form | Function | Root overlap | Relationship | Status |
+|------|----------|-------------|--------------|--------|
+| `-li` | agent suffix | `li` (social agent) | agent function from agent root | Transparent ✓ |
+| `-mu` | device suffix | `mu` (artifact) | device from artifact root | Transparent ✓ |
+| `-pa` | location suffix | `pa` (place) | location from place root | Transparent ✓ |
+| `-su` | result/product suffix | `su` (structure) | result = the structure produced | Transparent ✓ |
+| `-to` | abstract nominalizer | `to` (concept/pattern) | abstraction from concept root | Transparent ✓ |
+| `-se` | quality/property suffix | `se` (perception) | "perceivable property" — indirect link | **Needs justification** |
+| `-ki` | inchoative / verbal noun | `ki` (motion) | entering-state from motion root | Transparent ✓ |
+
+**Pronouns**
+
+| Form | Function | Root overlap | Relationship | Status |
+|------|----------|-------------|--------------|--------|
+| `mi` | 1st person (I) | — | no root `mi` | Clean |
+| `tu` | 2nd person (you) | — | no root `tu` | Clean |
+| `se` | 3rd person (other/they) | `se` (perception) | other/they ≠ perception | **COLLISION** |
+| `wi` | group (we/they) | `wi` (will/intention) | group ≠ will; also candidate purpose-frame | **COLLISION × 2** |
+
+The `se` and `wi` pronoun collisions are open issues. Candidate replacements: `ze` for 3rd person, `yu` for group — both are available CV forms with no root or function-word assignment. See notes/open-questions.md.
 
 ---
 
