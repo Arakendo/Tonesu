@@ -593,6 +593,94 @@ to-go [lo-to-re-su  to-fe-su-ki  ti-de]  lo-ne-fe  de  ti-de
 
 ---
 
+## Model-Domain Frame (`to  lo-[model]  be`)
+
+A **discourse-scope frame** that opens and closes a stretch of sentences as operating in
+the model layer (non-actual, analytical, hypothetical), removing the need to mark each
+sentence individually with `to-go`. Where `to-go [X]  Y` is a clause-level counterfactual
+frame for a single causal assertion, the model-domain frame opens a discourse scope over
+multiple sentences.
+
+**Scope-open:**
+```
+to  lo-[model-reference]  be
+```
+*The conceptual model [of X] activates. All following sentences operate in model space
+until the scope is closed.*
+
+- `to` = conceptual model root (predicate)
+- `lo-[model-reference]` = patient: the model being activated (e.g., `lo-go-su` = the causal
+  analysis; `lo-to-go-su` = the counterfactual analysis; any model-reference NP)
+- `be` = generation/activation: the model activates
+- No `la-` required — scope opens impersonally, parallel to `to-go [X]  Y`
+
+**Attributed scope-open:** when the scope belongs to a specific assertor (investigation
+body, doctrine, theory):
+```
+la-X  to  lo-[model-reference]  be
+```
+*X activates the model scope. All following sentences are attributable to X's model.*
+
+**In-scope sentences:** sentences between the scope-open and scope-close operate in the
+model layer. They are stated as in-model facts — not individual counterfactuals. No
+`to-go` prefix required per sentence.
+
+- Causal links inside scope use `go [X]  Y` (model-causal assertion within the frame),
+  not `to-go [X]  Y` (the outer scope already marks non-actuality).
+- Temporal markers (`ti-de`, etc.) inside scope mark time within the model scenario,
+  exactly as in individual `to-go [X]  Y` sentences.
+
+**Scope-close:**
+```
+to  lo-[model-reference]  de           ← explicit close
+```
+or any actuality-asserted sentence (world-layer assertion implicitly terminates scope).
+
+- `de` = decay/close: the model deactivates. Symmetric with `be` (open).
+- Attributed close: `la-X  to  lo-[model-reference]  de` — X closes the scope they opened.
+- **Formal register** expects a symmetric explicit close (same attributor opens and closes).
+- **Casual register** may rely on implicit close via actuality-return sentence.
+
+**Actuality-return sentence:** any sentence using `la-[agent]  ka  [action]` (agentive
+world-layer assertion) or similar world-layer construction with no model-frame marker
+terminates model scope implicitly and reasserts the world layer.
+
+**Summary:**
+
+| Form | Layer | Scope |
+|------|-------|-------|
+| `go [X]  Y` | world | single causal assertion |
+| `to-go [X]  Y` | model | single non-actual causal assertion |
+| `to  lo-[model]  be ... de` | model | multi-sentence non-actual scope |
+| `la-X  to  [to-go [X]  Y]` | epistemic | attributed single counterfactual |
+| `la-X  to  lo-[model]  be ... de` | epistemic | attributed multi-sentence scope |
+
+**Relationship to `to-go [X]  Y`:** for single-sentence counterfactuals, `to-go [X]  Y`
+remains canonical — it is more compact and grammatically self-contained. The model-domain
+frame is warranted when three or more sentences belong to a single analytical scope and
+the per-sentence `to-go` prefix creates structural redundancy.
+
+Examples:
+```
+to  lo-go-su  be
+```
+*The causal analysis model activates.* (S159)
+
+```
+to  lo-go-su  be
+lo-si  no  be  ti-de.  la-li-pu  no  se  lo-si  ti-de.  la-li-pu  no  ka  fe-si  ti-de.
+to  lo-go-su  de.
+```
+*[Model open] Signal had not arrived. Crew had not received it. Crew had not warned.
+[Model closed.]* (S159)
+
+```
+la-to-fe-su  to  lo-go-su  be
+```
+*The investigation body opens the causal model.* (S160)
+
+---
+
 ## Temporal Frame (`ta`)
 
 The particle `ta` (time reference) functions both as a simple time marker before a time expression and as a clause introducer for temporal subordinate clauses.

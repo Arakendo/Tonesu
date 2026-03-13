@@ -418,6 +418,9 @@ This is a stratified causal ontology: physical causation, model causation, and a
 | `to-ko` (W006) | retained knowledge / memory |
 | `to-si` (W026) | query signal (reaching toward knowledge) |
 | `to-go` (W089) | hypothetical causal frame (model causation) |
+| `to  lo-[model]  be` | model-domain scope open (activates multi-sentence model frame) |
+| `to  lo-[model]  de` | model-domain scope close (symmetric; explicit close) |
+| `la-X  to  lo-[model]  be` | attributed model-domain scope (X opens the frame) |
 
 This subsystem coheres as a complete architecture for reasoning about knowledge. The language has grown a philosophy of science vocabulary from two roots (`to` and the available compound space) without deliberate design.
 
