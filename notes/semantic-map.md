@@ -505,9 +505,19 @@ Because `zo` (organism) and `li` (social agent) are distinct, a speaker can loca
 
 The second construction is not designed — it falls out of the ontology. It maps precisely onto dissociated emotional experience: the feeling is happening somewhere in the system, but the agent is observing rather than inhabiting it. This corresponds to what many people on SSRIs or in dissociative states report: the emotion is registered and even nameable, but not felt *from the inside*.
 
-**`xa` primitive candidacy (held):**
+**`fa` — affective substrate primitive (added March 2026):**
 
-A new root `xa` meaning "pre-conceptual affective state" — internal affective signal before it resolves or fails to resolve — was proposed (Monday, March 2026). Argument: `se` leans toward external detection; the *felt interior* of affect may be categorically different. Counter: `zo-se` (organism-perception) already spans internal signals, and `se-no-to` handles the unresolved case without a new primitive. Position: hold. Escalation threshold: corpus sentences where `zo-se` produces a structurally wrong reading for internal affect specifically — not merely the unresolved case, which W090 covers. If escalated, `xa` would be the first root to cross the no-emotional-primitives threshold, but as a *pre-conceptual affect* root (categorically different from an emotion primitive). See EM-002.
+`fa` is primitive 33. Its justification parallels `ha`: just as thermal *state* (`ha`) is not the same as *energy* (`ra`), the *inward-facing felt-interior* of organism state (`fa`) is not the same as *outward-facing sensory detection* (`se`). A person who is chemically depressed but sitting in silence is not detecting anything — yet `fa` is clearly active and degraded. `se` was defined as "sight, hearing, touch, detection" — outward-facing. `fa` fills the inward gap without crossing into named emotions.
+
+Usage guard (normative, Principle 9): `fa` names the substrate, not the state. Named emotional states remain derived via process constructions. `fa` appears where the substrate is foregrounded:
+
+| Construction | Meaning |
+|---|---|
+| `fa-no-to` | unresolved affect (fa-based; parallels `se-no-to` W090) |
+| `fa-no` | affective numbness / flatness |
+| `fa-be` | affect rising / emerging |
+| `fa-de` | affect diminishing / fading |
+| `la-mi  to  [la-zo-mi  fa  lo-X]` | observer mode: I model that my organism's affective substrate is in state X |
 
 ---
 

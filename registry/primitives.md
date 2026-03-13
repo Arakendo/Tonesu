@@ -5,7 +5,7 @@
 This is the closed (or near-closed) set of foundational semantic roots. These are the conceptual atoms from which all other vocabulary is built. Changes here are breaking changes to the whole language.
 
 **Target size: 30–100 roots.**
-Current count: 32 (31 starter set + `ha` added after corpus stress test, March 2026)
+**Current count: 33 (31 starter set + `ha` added after corpus stress test, March 2026 + `fa` added as affective substrate primitive, March 2026)**
 
 ---
 
@@ -195,6 +195,22 @@ As a result, `ra-de` does not mean "cold" — it means "energy is decreasing" (p
 |------|-------|----------|----------|
 | `ra` | energy / force | power, charge, capacity to cause change, kinetic force | thermal state of matter (use `ha`), structure, information, motion itself |
 | `ha` | heat / thermal state | temperature, warmth, coldness as matter-property, thermal intensity | energy as force or capacity (use `ra`), light (use `lu`), sound (use `so`) |
+
+---
+
+### Affective Substrate
+
+**`fa` vs `se` distinction (explicit):**
+
+`se` is *outward-facing* detection — the organism registering signals from the world: sight, sound, touch, pressure, external-object awareness. `fa` is the *inward-facing* felt-interior of organismic state — the affective tone arising from body chemistry, mood substrate, memory activation, and arousal level. The distinction: a person who is chemically depressed but sitting in silence is not *detecting* anything (`se`), yet `fa` is clearly active and degraded. A person under anaesthesia has `se` blocked but `fa` continues as substrate until the body shuts down. They are orthogonal, not on the same axis.
+
+This is the same logic that separated `ha` from `ra`: thermal *state of matter* is not the same as *energy as force*, even though heat and energy interact constantly.
+
+**Usage guard (normative, per Principle 9):** `fa` names the substrate, not the state. `fa-vo-be` is not joy; `fa-vo-de` is not sadness. Named emotional states are still derived via process constructions. `fa` appears where the substrate itself is foregrounded: unresolved affect, numbness, arousal level, observer-mode separation.
+
+| Root | Gloss | Includes | Excludes |
+|------|-------|----------|---------|
+| `fa` | affective substrate | inward-facing felt tone of organism state: mood substrate, arousal level, valence of internal chemistry, pre-conceptual affect | named emotions (use process constructions), external sensory detection (use `se`), conceptual knowledge (use `to`) |
 
 ---
 

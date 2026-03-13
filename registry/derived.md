@@ -1799,10 +1799,9 @@ Notes:        Related construction: `la-mi  to  [la-zo-mi  se  lo-X]` — observ
               agent analytically models that organism is feeling X. Falls out of the
               zo/li ontological split without requiring new grammar. See semantic-map.md
               § Domain 7 for the full emotional process model and canonized construction
-              table. If corpus pressure builds for a root separating internal affective
-              signals from external sensory signals, `xa` is the first CVC candidate
-              (see EM-002, spec/phonology.md § CVC Root Reserve).
-Related:      se (perception), no (negation), to (conceptual pattern), zo (organism),
+              table. `fa` (primitive 33) is the affective substrate root; `fa-no-to` is
+              the fa-based form of unresolved affect alongside this se-based form.
+Related:      se (perception), fa (affective substrate), no (negation), to (conceptual pattern), zo (organism),
               la-zo-mi se lo-X (somatic/reactive construction, Domain 7)
 
 ---

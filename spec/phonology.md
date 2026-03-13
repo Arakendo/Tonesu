@@ -139,7 +139,7 @@ Taken forms (43 of 80):
 
 | Category | Forms |
 |----------|-------|
-| Roots (32) | `mu ma li zo ki ka be de su to fe ne pe go du pa di ti re se so lu si vo wi no nu ru pu ra ko ha` |
+| Roots (33) | `mu ma li zo ki ka be de su to fe ne pe go du pa di ti re se so lu si vo wi no nu ru pu ra ko ha fa` |
 | Particles (6) | `la lo ro ta na da` |
 | Pronouns (4) | `mi tu ze yu` |
 | Derivational (1) | `ge` |
@@ -162,7 +162,7 @@ Note: `ka`, `ne`, `pa` are counted under roots; not double-counted as particles.
 | **z** | `za` | — | `zi` | — | `zu` |
 | **l** | — | `le` | — | — | — |
 | **r** | — | — | `ri` | — | — |
-| **f** | `fa` | — | `fi` | `fo` | `fu` |
+| **f** | — | — | `fi` | `fo` | `fu` |
 | **h** | — | `he` | `hi` | `ho` | `hu` |
 | **y** | `ya` | `ye` | `yi` | `yo` | — |
 | **w** | `wa` | `we` | — | `wo` | `wu` |
