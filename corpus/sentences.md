@@ -142,9 +142,17 @@ Notes:    `ne` as relation marker here doubles as a grammatical particle. Needs 
 
 - [ ] "The network failed to transmit the signal before the deadline." (time constraint + failure)
 - [ ] "A scientist who studies living information patterns works at the institute." (relative clause)
-- [ ] "Build me a system that remembers past queries." (imperative + embedded purpose)
+- [ ] "Build me a system that remembers past queries." (imperative + relative clause + memory semantics)
 - [ ] "This concept has no equivalent in the old language." (negation + abstract comparison)
 - [ ] A full 3–4 sentence paragraph on a coherent topic
+
+**Purpose-clause stress tests** *(require purpose-frame formalization — see spec/grammar.md)*
+- [ ] **P001** — "They study in order to understand." *(purpose, same agent — canonical form of `wi` same-agent reduction)*
+- [ ] **P002** — "I built the machine for you to use." *(purpose, different agent — full clause marking required)*
+- [ ] **P003** — "She sent the message to warn them." *(purpose, different agent; tests whether warning-event agent defaults to sender or must be stated)*
+
+**Relative-clause pressure test** *(do not attempt until purpose-clause structure is stable)*
+- [ ] **P004** — "Build me a system that remembers past queries." *(imperative + beneficiary + noun-modifying clause + memory/retrieval semantics + past reference — let compounding fail first before designing a relativizer)*
 
 ---
 
@@ -198,7 +206,7 @@ Natural:  People create information-storage artifacts.
 - `zo-li` = living-person: the natural compound for "people." With `la` as the unambiguous agent particle, `la zo-li` is clean — particle followed by root compound, no collision.
 - `si-ko-mu` = signal + containment + artifact. Head-final rule: `mu` (artifact) is the head; characterized by containing (`ko`) signals (`si`). The purpose clause "to store information" is absorbed into the compound — the artifact's nature encodes its purpose.
 - `ka-be` = action:generate/create. `be` (growth/creation) covers intentional fabrication at this stage.
-- **Purpose clause absorbed by compounding:** Works here because purpose IS the artifact's nature. For external purpose — "She studies *to understand*", "He runs *to escape*" — no general purpose-clause structure exists. Candidate: `wi` (will/intention) as a purpose marker or pre-verbal frame.
+- **Purpose clause absorbed by compounding:** Works here because purpose IS the artifact's nature. For external purpose — "She studies *to understand*", "He runs *to escape*" — a general purpose-clause structure is now formalized in spec/grammar.md: `wi [clause]` introduces the intended outcome. `wi` is a transparent overlap with root `wi` (will/intention).
 
 **Gaps exposed:**
 1. **Purpose clauses** ("to [infinitive phrase]") need a formal structure when not collapsible into compounding. Candidate: `wi [action]` = "intending to [action]". Flag for spec/grammar.md.

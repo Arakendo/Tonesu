@@ -23,7 +23,8 @@ Consolidated list of unresolved design decisions from across all spec and regist
 - [ ] **Conditionals:** no dedicated conditional particle exists. S013 shows `go` (causal framing) is a viable substitute — decide whether to add a conditional particle or formalize causal framing as the canonical strategy.
 - [x] ~~**Inchoative derivation**~~ → **Resolved:** `ROOT + ki` = enter state ROOT. Full table in spec/morphology.md. First attested: `ne-ki` (connect) in S013.
 - [ ] Causal framing (`go`/`du` pair) — how does it integrate with SOV order?
-- [ ] **Purpose clauses:** no dedicated structure for "to [infinitive]" when purpose cannot be embedded in a compound. S014 worked around it via compounding; does not generalize. Candidate: `wi [action]` = "intending to [action]" as a purpose frame. Define in spec/grammar.md.
+- [x] ~~**Purpose clauses:** no dedicated structure for "to [infinitive]" when purpose cannot be embedded in a compound.~~ → **Resolved:** `wi [clause]` is the canonical purpose frame. `wi` is a transparent overlap with root `wi` (will/intention). Full clause scope is canonical; same-agent reduction permitted when agents are identical. Defined in spec/grammar.md § Purpose Frame. Stress-test sentences P001–P004 queued in corpus/sentences.md.
+- [ ] **Clause-nesting syntax:** `go`, `wi`, and `ta` all introduce subordinate clauses, but no syntactic device delimits them in speech or writing beyond gloss-notation brackets `[...]`. Decide: explicit open/close particles, pause/stress convention, or rely on head-final parsing alone. Prerequisite for full stress-test evaluation of P001–P004.
 - [ ] Finalize phonetic forms of tense/aspect/modality markers (current labels are English glosses).
 - [ ] Decide stacking limit for derivational suffixes before restructuring as a compound is required.
 - [ ] Should modality (might/must/plan) live on the verb or as a sentence-level particle?

@@ -196,6 +196,46 @@ The temporal particle `ta` with a subordinated clause (`ta [clause]`) expresses 
 
 ---
 
+## Purpose Frame
+
+The root `wi` (will/intention) doubles as a purpose-frame particle, introducing a subordinate clause whose content is the intended outcome of the main clause event. This is a transparent overlap: the purpose-frame function is semantically derived from the will/intention root.
+
+```
+MAIN-CLAUSE  wi [PURPOSE-CLAUSE]
+```
+
+The event in the main clause is performed with the intention that the purpose clause occur.
+
+**Canonical constraint:** `wi` introduces a **full clause**, not a bare verb phrase. The purpose clause may omit its agent when it is identical to the main clause agent (same-agent reduction), but full clause structure — including explicit agent marking — is canonical and always valid.
+
+### Same-agent purpose (agent omitted in purpose clause)
+
+```
+la-ze  ka-study  wi [ka-understand]
+agent:they  action:study  intention [action:understand]
+```
+*They study in order to understand.*
+
+Reduced form: purpose-clause agent is omitted because it is identical to the main clause agent (`ze`). Full form retains `la-ze`.
+
+### Different-agent purpose (agent explicit in purpose clause)
+
+```
+la-mi  ka-be  lo-mu  wi [la-tu  ka-use  lo-mu]
+agent:I  action:create  patient:artifact  intention [agent:you  action:use  patient:artifact]
+```
+*I built the machine for you to use.*
+
+Different agents require full clause marking. Same-agent reduction **does not apply**.
+
+### Open questions inherited by this structure
+
+- Clause nesting syntax is not yet defined. Brackets in glosses `[...]` are a notation convention, not a defined syntactic device. The spoken/written mechanism for delimiting a subordinate clause is an open question (see Open Questions).
+- When the purpose-clause patient is the same as the main-clause patient, can it be omitted? (Pending corpus evidence.)
+- `wi` introduces purpose (intended outcome). It does not introduce reason (causal origin — that is `go`). Distinguish: `wi [understand]` = "in order to understand"; `go [understood]` = "because (they) understood".
+
+---
+
 ## Minimal Pronoun Set
 
 | Form | Meaning |
@@ -212,6 +252,7 @@ Pronouns follow the same case-marking rules as nouns.
 ## Open Questions
 
 - [ ] Finalize grouping/nesting particle syntax
+- [ ] **Clause-nesting syntax:** `go`, `wi`, and `ta` all introduce subordinate clauses. No syntactic device yet exists for delimiting them in speech or writing beyond gloss-notation brackets `[...]`. Decide: explicit open/close particles, pause/stress convention, or rely on head-final parsing alone. This is a prerequisite for full purpose-clause and causal-conditional formalization.
 - [ ] Decide whether domain marker `da` is pre-posed before the domain root or wraps a phrase
 - [ ] Specify behavior when agent and patient are both omitted (topic-drop)
 - [ ] Confirm particle set doesn't collide with planned root phonology
