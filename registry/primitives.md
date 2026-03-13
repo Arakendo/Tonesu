@@ -5,7 +5,7 @@
 This is the closed (or near-closed) set of foundational semantic roots. These are the conceptual atoms from which all other vocabulary is built. Changes here are breaking changes to the whole language.
 
 **Target size: 30–100 roots.**
-Current count: 31 (starter set — to be expanded carefully)
+Current count: 32 (31 starter set + `ha` added after corpus stress test, March 2026)
 
 ---
 
@@ -185,9 +185,16 @@ A robot that acts with intention is `mu + li`. An animal is `zo`. A human is `zo
 
 ### Energy and Force
 
+**`ra` vs `ha` distinction (explicit):**
+
+`ra` is energy as *force or capacity* — the potential or actual ability to cause change. An electrical charge, a structural load, a kinetic impact: these are `ra`. `ha` is the *thermal state of matter* — how much heat a substance currently holds, experienced as temperature. The difference: a frozen conductor carrying high current has high `ra` and low `ha` simultaneously. They are orthogonal properties.
+
+As a result, `ra-de` does not mean "cold" — it means "energy is decreasing" (power failure, deceleration). Cold is `no-ha` (absence/negation of thermal intensity). Hot is `ha-vo` (thermal intensity as quality), `ha-be` (heat increasing), or bare `ha` in predicate position.
+
 | Root | Gloss | Includes | Excludes |
 |------|-------|----------|----------|
-| `ra` | energy / force | power, charge, capacity to cause change | structure, information, motion itself |
+| `ra` | energy / force | power, charge, capacity to cause change, kinetic force | thermal state of matter (use `ha`), structure, information, motion itself |
+| `ha` | heat / thermal state | temperature, warmth, coldness as matter-property, thermal intensity | energy as force or capacity (use `ra`), light (use `lu`), sound (use `so`) |
 
 ---
 

@@ -96,3 +96,4 @@ Consolidated list of unresolved design decisions from across all spec and regist
 - [ ] Does the language need a passive voice construction?
 - [ ] How should idiomatic metaphors be handled — preserve, block, or formally encode as analogy?
 - [ ] Translation policy for culturally specific concepts with no structural equivalent.
+- [ ] **20 ordinary-life sentence test (Principle 9 corollary).** Before evaluating any further primitive candidates, write 20 sentences covering everyday human experience: hunger, fatigue, weather, social interaction, etc. The goal is to find where Tonesu forces *semantic distortion* (not just verbosity). Distortion = the compound says something structurally wrong, not just long. `ha` (heat/thermal state) already passed this test (8 sentences, March 2026). Next candidate domains if the test reveals genuine gaps: need/deficit (find a phoneme other than `na`), embodied-state specificity, social relation primitives.

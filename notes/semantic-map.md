@@ -381,6 +381,8 @@ This means emotional vocabulary in Tonesu is always built, never given. The foll
 | Anxiety / anticipatory dread | `la-mi  se  fe-ki` | I perceive limit-approach | The boundary hasn't been crossed yet; the approach is the experience |
 | Fatigue | `la-zo-mi  de` | my organism is decaying | Bodily resource depletion — `zo` (organism) rather than `li` (agent) signals the body as object |
 | Hunger | `la-zo-mi  de  lo-ra` | my organism decays at [energy] | Energy resource deficit in the body |
+| Too cold / uncomfortable | `la-zo-mi  se  no-ha` | my organism perceives low-thermal-state | Uses `ha` (primitive 32); `no-ha` = cold as matter-property |
+| Too hot / discomfort | `la-zo-mi  se  ha-fe` | my organism perceives thermal limit | Approaching or crossing a thermal threshold |
 | Comfort / ease | `la-zo-mi  ru` | my organism is unified/coherent | The body is not fragmented, not under stress |
 | Trust | `la-mi  se  vo-ne  lo-[person]` | I perceive the relation to [person] as having quality/worth | Trust is not a state but a perceived-quality-of-relation |
 | Desire / longing | `la-mi  wi  lo-[X]` | I intend toward [X] | `wi` (intention) covers desire naturally; longing = intention + `fe-ki` (the gap has not closed) |
