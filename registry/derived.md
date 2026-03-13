@@ -95,6 +95,27 @@ Examples:     "the to-li studied the pattern"
 Related:      to-su-li (one who organizes knowledge; librarian, archivist)
 ```
 
+**W033**
+```
+Form:         li-be
+Type:         compound
+Class:        entity
+Definition:   child; young person; one in their growth phase
+Composition:  li (social agent/person) + be (growth/increase) — a person characterized
+              by being in the growth phase of their development; not yet at full social
+              standing or capability
+Register:     standard
+Domain:       social / general
+Status:       proposed
+Examples:     "la-li-be  lo-ma  ka-ko" — the child drinks water (S020)
+Notes:        Head-final: li (person) is the head; be specifies the life phase. Contrast
+              li-de (a person in decay/late-life phase; not registered) and li-su-li (W001,
+              one who organizes people). li-be is purely descriptive, not a social role.
+              Does not require a dedicated "child" primitive: the growth-phase characterization
+              is compositionally transparent.
+Related:      li-su-li (W001), zo-li (compound: living-person)
+```
+
 **W032**
 ```
 Form:         to-fe-li
@@ -283,6 +304,50 @@ Notes:        Distinct from to-ki (W020, computation/reasoning process): to-ki i
 Related:      to-ki (W020), to-su (W030), to-su-li (expert / one who has comprehended)
 ```
 
+**W034**
+```
+Form:         se-ka
+Type:         compound
+Class:        process / entity
+Definition:   examination; act of deliberate perception; inspection, observation, survey
+Composition:  se (perception/sense) + ka (action) — head-final: an action characterized by
+              being perceptual in nature; deliberate use of sensory/cognitive faculties to
+              assess something
+Register:     standard
+Domain:       general
+Status:       proposed
+Examples:     verbal form: "la-su-mu-li  lo-mu  ka-se-past" — the engineer inspected the machine (S025)
+Notes:        When used verbally in a gloss, the form is "ka-se" (action particle + perception root).
+              se-ka is the nominalized form: "the examination," "an inspection."
+              Contrast with to-ki (W020, reasoning process): to-ki operates on knowledge already
+              held; se-ka is directed outward at an object in the world. They often co-occur:
+              careful inspection (se-ka) feeds into assessment (to-ki).
+Related:      se (primitive: perception), to-ki (W020), to-su-ki (W025)
+```
+
+**W035**
+```
+Form:         de-be
+Type:         compound
+Class:        process
+Definition:   repair; restore; reverse decay; bring back to functional state
+Composition:  de (decay/decrease) + be (growth/increase) — head-final: growth that is
+              characterized as occurring after and in response to decay; recovery-growth;
+              the specific form of increase that counteracts a prior decrease
+Register:     standard
+Domain:       general / technical
+Status:       proposed
+Examples:     "la-ze  lo-ze  ka-de-be-past" — she repaired it (S027)
+              "ka-de-be" = the act of repairing
+Notes:        The de-be compound is semantically precise: not all growth is repair (ka-be
+              covers creation from nothing), and not all decay states are followed by growth.
+              de-be specifically encodes directional recovery: from-decay-toward-growth.
+              Applicable to physical objects (repairing a machine), infrastructure, relationships,
+              or any system that can decay and be restored.
+              Contrast: ka-be (creation from scratch, S014); de (decay, no recovery, S026).
+Related:      be (primitive: growth), de (primitive: decay), ka-be (create), ra-be (energy-growth)
+```
+
 **W028**
 ```
 Form:         to-fe
@@ -427,6 +492,37 @@ Notes:        Colloquial compression pattern: ordinary speakers shorten the engi
               Formal rule for colloquial compression is pending (see notes/open-questions.md).
 Related:      to-su (W030, organized structured knowledge), to-si (W026, query),
               to-ko-mu (memory device / formal compound)
+```
+
+---
+
+## Communities and Places
+
+**W036**
+```
+Form:         li-pu-pa
+Casual form:  li-pu (in particle-marked position; see Notes)
+Type:         compound
+Class:        entity
+Definition:   city; inhabited settlement; a place defined by the organized presence of many people
+Composition:  li (social agent/person) + pu (plurality/collective) + pa (place/space) —
+              head-final: a place (pa) characterized by being the location of an organized
+              collective (li-pu) of persons; the place whose defining feature is inhabited
+              social organization
+Register:     standard
+Domain:       social / geography
+Status:       proposed
+Examples:     "pa-li-pu" — at the city / to the city (particle + colloquial short form)
+              "wi [ka-ra-be  pa-li-pu]" — intention: restore energy to the city (S027)
+Notes:        When preceded by the location particle pa, the full form pa-li-pu-pa would be
+              redundant (pa already supplies the location frame). The short form li-pu is used
+              in particle-marked position: pa-li-pu = at/to the city.
+              li-pu alone (without pa) = the city-community / the collective of urban persons,
+              as a social entity rather than a physical place.
+              Not to be confused with li-pu-su (city governance / urban administration structure),
+              which is unregistered but derivationally available.
+Related:      li (primitive: person), pu (primitive: plurality), pa (particle/primitive: place),
+              li-su-li (W001, organizer/leader)
 ```
 
 ---

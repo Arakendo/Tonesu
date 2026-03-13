@@ -291,6 +291,199 @@ Natural:  She sent the message for them to warn us.
 - **Two new vocabulary items registered:** `si-ki` (W023) = send/transmit; `fe-si` (W024) = warn/alert. Both proposed-status.
 - **`ka-si-ki-past` and `ka-fe-si`:** tense/aspect markers remain placeholder glosses.
 
+---
+
+**S018 — Purpose frame, same agent; comprehension** *(P001)*
+
+*Target: "They study in order to comprehend."*
+
+```
+Gloss:    la-yu  ka-to-ki  wi [ka-to-su-ki]
+Literal:  agent:group  action:process-knowledge  intention [action:comprehend]
+Natural:  They study in order to comprehend.
+```
+
+**Notes:**
+- **Agent inheritance rule (4th confirmation):** purpose clause omits `la-yu` → matrix agent `yu` inherited without ambiguity. Rule confirmed.
+- **`to-su-ki` first corpus attestation:** W025 (to-su + inchoative `ki` = enter state of organized knowledge). The learning process (`to-ki`) + purpose marker (`wi`) + comprehension threshold (`to-su-ki`) encodes the full arc of understanding: ongoing process → arrival at organized grasping. The combination is productive.
+- **`wi` same-agent reduction (confirmed):** no agent in purpose clause; matrix agent inherited. Consistent with S016 (different-agent), S017 (same-agent with warning semantics). Fourth confirmation.
+- **P001 pass.** No new gaps.
+
+---
+
+**S019 — Compounding vs. relative clause; imperative** *(P004)*
+
+*Target: "Build me a system that remembers past queries."*
+
+**Version A — Noun compounding workaround (canonical form):**
+
+```
+Gloss:    lo-to-ko-mu  ne-mi  ka-be
+Literal:  patient:memory-device  recipient:me  action:create
+Natural:  Build me a memory device. (imperative: la-tu dropped)
+```
+
+**Version B — What you'd need to express the original (does not yet work):**
+
+The target requires a noun modified by a verb clause: "[a device] [that] [remembers past queries]." Tonesu has no relativizer particle; the structure `lo-mu [REL:la-mu ka-to-ko-past-si] ne-mi ka-be` is not currently expressible.
+
+**Notes:**
+- **Imperative resolved:** `la-tu` drop formalized in spec/grammar.md § Imperatives: drop `la-tu`, all other markers remain. Version A above uses the canonical form. Note the SOV argument order is maintained — the agent slot is simply absent.
+- **Relativizer gap confirmed:** "a system that remembers" requires a verbal relative clause; compounding handles this by encoding the capability in the noun itself. `to-ko-mu` (memory-containment-device) works for defining properties (the device IS a memory device) but cannot express incidental predication (a device that happened to already know something specific). Logged in notes/open-questions.md.
+- **`to-ko-mu`** = memory device; formal compound of W027 (`to-ko`). Colloquial short form drops `-mu`; documented in spec/morphology.md.
+- **P004 pass** (partial): imperative gap closed; relativizer remains open.
+
+---
+
+**S020 — Primitive validation: child drinks water** *(T021)*
+
+*Target: "The child drinks water."*
+
+```
+Gloss:    la-li-be  lo-ma  ka-ko
+Literal:  agent:young-person  patient:matter/water  action:contain/ingest
+Natural:  The child drinks water.
+```
+
+**Notes:**
+- **`li-be`** = growing-person / child. `li` (social agent) + `be` (growth) = person in their growth phase. Candidate W033; registered in registry/derived.md.
+- **`ma` for water:** the primitives table notes "water is `ma`" in context. Here the sentence (a person ingesting substance) makes `ma` unambiguously water. Primitive `ma` validated for substance reference.
+- **`ka-ko`** = action of containing = ingest / drink / take in. `ko` (containment) used as verbal root: the act of bringing a substance into containment within the body. First corpus use.
+- **T021 pass.** Clean.
+
+---
+
+**S021 — Primitive validation: tool cuts wood** *(T022)*
+
+*Target: "The tool cuts wood."*
+
+```
+Gloss:    ro-mu  lo-zo-ma  ka-fe
+Literal:  instrument:artifact  patient:organic-matter  action:divide/cut
+Natural:  With a tool, one cuts wood. / A tool cuts wood.
+```
+
+**Notes:**
+- **Instrument-as-agent tension resolved:** English "the tool cuts" treats an artifact as a grammatical subject. Tonesu refuses this: `la` (agent) + `ka` (intentional action) requires a volitional agent. A tool is not volitional; it is an instrument (`ro`). The human user is a dropped/implied agent — see agentless clause open question. The English sentence is ontologically misleading. The Tonesu form is more accurate: the tool mediates the action, it does not perform it.
+- **`zo-ma`** = organic-matter = wood / biological substance. `zo` (living organism) + `ma` (matter) = organic substance. Transparent compound; not registered separately.
+- **`ka-fe`** = action of dividing / cutting / creating a boundary. `fe` (boundary) used as verbal root. First corpus use.
+- **T022 pass** (with intentionality principle confirmed). Agentless-with-instrument construction noted; formal grammar rule pending.
+
+---
+
+**S022 — Primitive validation: star emits light** *(T023)*
+
+*Target: "The star emits light."*
+
+```
+Gloss:    la-ra-su  lo-lu  be
+Literal:  agent:energy-structure/star  patient:light  [grow/emit]
+Natural:  The star emits light.
+```
+
+**Notes:**
+- **Non-intentional production grammar:** bare `be` (not `ka-be`) marks non-intentional generation. First corpus use of `be` as a transitive verb without the `ka` action particle. The distinction is now doing grammatical work:
+  - `ka-be` = deliberate creation (S014: people create tools)
+  - `be` alone = natural emergence / non-intentional production (this sentence)
+  `ka` is not obligatory on `be`; its presence signals intentionality — its absence signals natural process.
+- **`la` with a non-volitional natural agent:** the star holds the agent slot even without intent. `la` marks the causal source of the event; non-volitional sources may occupy `la` when the verb is bare `be`. Contrast with S021: the tool uses `ro` (instrument) because a volitional human act is implied; here no human agent exists — the star IS the generative source, so `la` is correct.
+- **`ra-su`** = energy-structure = natural energy mass / star. `ra` (energy) + `su` (structure) = a structured concentration of energy. Distinct from `ra-ki-mu` (W012: engine, which is an artifact). A star is not an artifact; it is a natural energy structure. Registry candidate.
+- **Natural object gap flagged:** stars, rivers, geological features — non-artifact, non-living physical objects — have no clean entity class. `ra-su` works for energy-generating natural bodies; a general "natural non-living physical object" category may emerge. Logged in notes/open-questions.md.
+- **T023 pass** (with non-intentional production distinction formalized).
+
+---
+
+**S023 — Primitive validation: machine stores information** *(T024)*
+
+*Target: "The machine stores information."*
+
+```
+Gloss:    la-to-ki-mu  lo-si  ka-ko
+Literal:  agent:computation-device  patient:signal/data  action:contain
+Natural:  The machine stores information.
+```
+
+**Notes:**
+- `to-ki-mu` (W011) = knowledge-processing device = computer. First use without a purpose clause.
+- `si` = signal / encoded representation = information / data. Consistent with S013–S014 usage. `si` is validated as the right root for "information."
+- `ka-ko` = action of containing = store. Second corpus use (first: S020). `ka-ko` now confirmed as the canonical store / hold / contain verb across substances (water, S020) and abstract data (information, this sentence).
+- **T024 pass.** Clean.
+
+---
+
+**S024 — Primitive validation: river flows to the sea** *(T025)*
+
+*Target: "The river flows to the sea."*
+
+```
+Gloss:    la-ma-di  pa-pu-ma  ka-ki
+Literal:  agent:directed-matter/river  location:collective-water/sea  action:move
+Natural:  The river flows to the sea.
+```
+
+**Notes:**
+- **`ma-di`** = directed-matter = river / stream. `ma` (matter/substance) + `di` (direction) = matter with inherent directedness. Preferred over `ma-ki` (matter-motion) because rivers have stable direction; `ma-ki` generalizes to any flowing substance.
+- **`pu-ma`** = collective-water = sea / large water body. `pu` (plurality) + `ma` (matter/water) = accumulated water. In the `pa` particle position: `pa-pu-ma` = at/to the sea.
+- **Directional destination gap flagged:** `pa` (location particle) does not distinguish rest-at, move-toward, or move-from. "The river flows to the sea" and "the river is in the sea" both use `pa-pu-ma`. The `di` root exists but is not yet a grammatical particle. Logged as open question: promote `di` to destination particle.
+- `ka-ki` = action of moving / flow. The motion's direction is encoded in the agent itself (`ma-di`), not in a separate directional marker.
+- **T025 pass** (with destination-particle gap logged).
+
+---
+
+## Narrative Scene: The Engineer
+
+*Target: "The engineer inspected the machine. It was damaged. She repaired it to restore power to the city."*
+
+*Tests: narrative continuity, cross-sentence pronoun tracking, agentless state description, repair verb, purpose clause, compound noun for city.*
+
+---
+
+**S025 — Scene sentence 1: inspection**
+
+```
+Gloss:    la-su-mu-li  lo-mu  ka-se-past
+Literal:  agent:engineer  patient:machine  action:perceive/inspect-PAST
+Natural:  The engineer inspected the machine.
+```
+
+**Notes:**
+- `su-mu-li` (W002) = engineer / systems-builder. First narrative use of this role compound.
+- `ka-se` = action of perceiving = inspect / examine deliberately. `se` (perception) used as verbal root with action particle. The act is intentional (`ka`), the mode is perceptual (`se`). No separate compound word needed; particle + root form is sufficient. Noun form `se-ka` (examination / inspection) registered as W034.
+- `-past` tense marker is placeholder gloss.
+
+---
+
+**S026 — Scene sentence 2: damage state**
+
+```
+Gloss:    lo-ze  de-past
+Literal:  patient:it  decay-PAST
+Natural:  It was damaged.
+```
+
+**Notes:**
+- **Agentless-event construction tested:** `lo-ze  de-past` = the machine (as patient) underwent a decay event; no agent specified. This is distinct from `la-[agent]  lo-ze  ka-de-past` (someone intentionally damaged it). The absence of `la` + bare `lo` = passive / agentless event.
+- **Copula gap flagged:** "It was damaged" is a predicative adjective in English (state attribution). Tonesu handles this by treating the state as a past event (`de-past`). A dedicated copula structure for "X is [in state] Y" without implying an event remains undefined. Logged in open-questions.md.
+- **`ze` as non-person pronoun:** first use of `ze` for an inanimate artifact. Confirms `ze` covers all non-speaker/non-addressee referents, including objects.
+- **T006 parallel:** "The old structure collapsed" (T006) is structurally identical — agentless past event, patient as subject. This sentence gives concrete corpus evidence for that pattern.
+
+---
+
+**S027 — Scene sentence 3: repair and purpose**
+
+```
+Gloss:    la-ze  lo-ze  ka-de-be-past  wi [ka-ra-be  pa-li-pu]
+Literal:  agent:she  patient:it  action:repair-PAST  intention [action:energy-restore  location:city]
+Natural:  She repaired it to restore power to the city.
+```
+
+**Notes:**
+- **`de-be`** = decay-growth = process of reversing decay = repair / restoration. Head-final: `be` (growth) is the head; `de` (decay) specifies the starting condition. `de-be` = growth characterized as recovery from decay. `ka-de-be` = the act of repairing. Candidate W035; registered in registry/derived.md.
+- **`ra-be`** = energy-growth = energy restoration / power return. `ra` (energy) + `be` (growth/increase) = energy increasing. In the purpose clause: the intended outcome is energy being restored to the city.
+- **`li-pu`** = person-collective = city (colloquial short form of `li-pu-pa`). `li` (social agent) + `pu` (plurality) = organized collective of persons. Full compound: `li-pu-pa` (person-collective-place). In the `pa` particle position: `pa-li-pu` = at/to the city. Candidate W036; registered in registry/derived.md.
+- **Agent inheritance (5th corpus confirmation):** `wi` clause omits agent → matrix agent `ze` inherited. Canonical.
+- **Cross-sentence pronoun tracking:** `mu` (machine, introduced S025) is tracked as `ze` from S026 onward. First multi-sentence pronoun tracking test in the corpus.
+
 *(Running notes on what works and what doesn't)*
 
 - The SOV + particle system reads clearly for simple sentences
@@ -302,9 +495,13 @@ Natural:  She sent the message for them to warn us.
 - ~~Inchoative derivation pattern missing~~ → resolved: `ROOT + ki` = enter state ROOT (spec/morphology.md)
 - Abstract agents (`to`, `si` as grammatical subjects) work cleanly with `la` as the unambiguous agent marker
 - ~~Purpose clauses not formalized~~ → resolved: `wi [clause]` defined in spec/grammar.md § Purpose Frame
-- **Boundary rule tested (S015–S019):** matrix-level argument marker unambiguously signals return to matrix clause in single-level embedding. `ne` inside subordinate clause confirmed as argument marker, not boundary signal. Nested subordination untested.
-- **Agent inheritance rule (wi-clauses, confirmed S016–S018):** omitting the purpose-clause agent unambiguously inherits the matrix agent. Rule formally stated in spec/grammar.md § Purpose Frame.
-- **Compounding vs relative clause (S019):** compounding covers taxonomic description adequately; it cannot express capability (noun as agent of its own action). Relativizer gap confirmed. Imperative gap also confirmed. Both logged in open-questions.
+- **Boundary rule tested (S015–S027):** matrix-level argument marker unambiguously signals return to matrix clause in single-level embedding. `ne` inside subordinate clause confirmed as argument marker, not boundary signal. Nested subordination untested.
+- **Agent inheritance rule (wi-clauses, 5th confirmation at S027):** omitting the purpose-clause agent unambiguously inherits the matrix agent. Rule formally stated in spec/grammar.md § Purpose Frame.
+- ~~**Compounding vs relative clause (S019):** compounding covers noun-naming but breaks for capability expression.~~ Relativizer gap confirmed (S019); imperative gap closed (spec/grammar.md § Imperatives).
+- **Intentionality split (S021–S022):** `ka` on a verb marks deliberate action; bare `be` marks non-intentional production. `ro` marks instrument; `la` marks causal source. Tools use `ro`; natural sources use `la` with bare `be`. Split first attested S021–S022.
+- **Agentless-event construction (S021, S026):** `lo-[patient]  [verb]` without `la` marks a patientive event with no specified agent. First used for instrument-mediated action (S021) and state description (S026). Formal grammar rule pending; see open-questions.
+- **Cross-sentence pronoun tracking (S025–S027):** `ze` successfully tracks a machine referent across three sentences. First multi-sentence pronoun coherence test. `ze` confirmed as covering non-person referents.
+- **Directional destination gap (S024):** `pa` does not distinguish rest-at from move-toward. `di` root candidate for destination particle; see open-questions.
 
 ---
 
@@ -348,9 +545,9 @@ These sentences must remain expressible under any revision to phonology, grammar
 
 These are the minimal sentences that should work as soon as primitives are defined. If they cannot be expressed cleanly, the primitive set needs revision before anything else proceeds.
 
-- [ ] **T021** — The child drinks water. *(basic SVO, animate agent, substance)*
-- [ ] **T022** — The tool cuts wood. *(instrument as agent, material object, action)*
-- [ ] **T023** — The star emits light. *(natural agent, emission process, no intention)*
-- [ ] **T024** — The machine stores information. *(device, abstract object, containment)*
-- [ ] **T025** — The river flows to the sea. *(motion, direction, natural destination)*
-- [ ] **T026** — Knowledge grows when information connects. *(abstract causation, two abstract NPs, conditional)*
+- [x] **T021** — The child drinks water. *(basic SVO, animate agent, substance)* → **S020**
+- [x] **T022** — The tool cuts wood. *(instrument as agent, material object, action)* → **S021** (instrument takes `ro`, not `la`; intentionality principle)
+- [x] **T023** — The star emits light. *(natural agent, emission process, no intention)* → **S022** (bare `be` for non-intentional production)
+- [x] **T024** — The machine stores information. *(device, abstract object, containment)* → **S023**
+- [x] **T025** — The river flows to the sea. *(motion, direction, natural destination)* → **S024** (destination-particle gap flagged)
+- [x] **T026** — Knowledge grows when information connects. *(abstract causation, two abstract NPs, conditional)* → **S013** (already written)
