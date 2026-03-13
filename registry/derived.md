@@ -494,6 +494,32 @@ Related:      to-su (W030, organized structured knowledge), to-si (W026, query),
               to-ko-mu (memory device / formal compound)
 ```
 
+**W037**
+```
+Form:         ti-fe
+Type:         compound
+Class:        entity / concept
+Definition:   time-limit; deadline; the temporal boundary of a permissible or safe operating window
+Composition:  ti (time/sequence) + fe (boundary/limit) — a boundary in the dimension of time;
+              the point past which a process has exceeded its safe or intended temporal envelope
+Register:     standard
+Domain:       general / technical
+Status:       proposed
+Examples:     "ti-fe  ki-now" — [it is] approaching the time-limit now (C001)
+Notes:        Extends the fe consolidation principle (Domain 4: Limits and Thresholds) into the
+              temporal dimension. Concordia does not treat deadlines as social conventions
+              separate from physical limits — both are species of fe. A ti-fe is as real as a
+              ra-fe (energy boundary) or a to-fe (epistemic boundary): crossing it has
+              consequences that follow from the same ontological category.
+              The compound is head-final: fe (boundary) is the head; ti (time) specifies the
+              dimension. Compare: to-fe (knowledge-boundary), ra-fe (energy-boundary, unregistered
+              but derivationally available), wi-fe (intention-limit/ethical constraint, unregistered).
+              Do not confuse with ti-fe-ki (reaching the time-limit, the crossing event) or
+              re-ti-fe (a recurring deadline — deadline that repeats on a cycle).
+Related:      fe (primitive: boundary/limit), ti (primitive: time), fe-si (W024: warning),
+              fe-ki (reach a limit), to-fe (W028)
+```
+
 ---
 
 ## Communities and Places

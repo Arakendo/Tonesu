@@ -551,3 +551,133 @@ These are the minimal sentences that should work as soon as primitives are defin
 - [x] **T024** — The machine stores information. *(device, abstract object, containment)* → **S023**
 - [x] **T025** — The river flows to the sea. *(motion, direction, natural destination)* → **S024** (destination-particle gap flagged)
 - [x] **T026** — Knowledge grows when information connects. *(abstract causation, two abstract NPs, conditional)* → **S013** (already written)
+
+---
+
+## Conversations
+
+Conversations test what isolated sentences cannot: turn-taking, pronoun tracking across speakers, content questions, responsive particles, ellipsis. Each exchange is labeled C-series.
+
+---
+
+**C001 — First conversation: backup unit failure**
+
+*Scene: The relay platform, shortly after S027. Engineer A (ze) has discovered the backup power unit is also failing. Engineer B (a colleague) arrives.*
+
+*Tests: content question, copula gap, agentless state, W037 `ti-fe`, utterance-level epistemic marking, imperative in dialogue, acknowledgment particle, agent drop.*
+
+---
+
+**Turn A1**
+
+```
+Gloss:    la-mi  pa-re-mu  lo-de  ka-se-past
+Literal:  agent:I  location:backup-unit  patient:decay  action:perceive-PAST
+Natural:  I found damage in the backup unit.
+```
+
+**Notes:**
+- `re-mu` = repeat-artifact = backup / secondary unit. `re` (repetition) + `mu` (artifact) = a second instance of the artifact serving the same function. Transparent compound; not registered separately.
+- `lo-de` = patient:decay — the decay is what was perceived. Treating damage as a concrete patient-of-perception rather than a predicate. First use of a process root as a nominal patient.
+- Agent `la-mi` is explicit because A is introducing new information; no prior discourse context to rely on.
+
+---
+
+**Turn B1**
+
+```
+Gloss:    de  vo  to-si?
+Literal:  decay  quality  QUERY
+Natural:  What kind of damage?
+```
+
+**Notes:**
+- **First content question in corpus.** `to-si` (W026, query/knowledge-seeking signal) used as a floating interrogative placeholder at end of utterance. Extends W026 from its registered nominal sense ("a query") to a grammatical interrogative function: "the thing-I-am-seeking-knowledge-of."
+- Structure: `de` (the topic: decay) + `vo` (the dimension being questioned: quality/kind) + `to-si?` (interrogative marker: what?). Reads: "Decay — quality — [seeking this information]?" = "What quality is the damage?"
+- `to-si` as interrogative placeholder is semantically transparent: it is literally a knowledge-seeking signal, placed where the unknown information would go. No new particle required; W026 function extended.
+- Contrast with yes/no questions (`?` at end of full proposition): content questions use `to-si?` in the slot corresponding to the queried element.
+
+---
+
+**Turn A2**
+
+```
+Gloss:    lo-re-mu  de-now
+          ti-fe  ki-now
+Literal:  patient:backup-unit  decay-NOW
+          time-limit  approach-NOW
+Natural:  The backup unit is decaying.
+          [It] approaches the time-limit.
+```
+
+**Notes:**
+- **Copula gap (2nd confirmation):** `lo-re-mu  de-now` = patient:backup-unit + decay-NOW. No linking verb. The state is attributed to the patient by juxtaposition. Consistent with S026 (`lo-ze  de-past`). Copula-by-juxtaposition is the working pattern; formal rule pending.
+- **`ti-fe` first corpus use:** W037 (time + boundary = period-limit, deadline). The time-limit approaches; sense of urgency conveyed without intensifiers or exclamations.
+- **`ki-now` with dropped argument:** bare `ki-now` (motion-NOW) without `la` or `lo`. The subject of "approaches" is pragmatically recoverable (the system, the failure event, the time itself — it does not matter). First attested *argument-drop driven by discourse context* rather than imperative agent-drop. Minimal, clean.
+- Two separate sentences rather than a compound: A is giving information sequentially, not composing a complex clause. Normal for speech under urgency.
+
+---
+
+**Turn B2**
+
+```
+Gloss:    ta-now  fe-ki?
+Literal:  time:now/today  limit-cross?
+Natural:  Does it cross the limit today?
+```
+
+**Notes:**
+- Yes/no question with content `?` at end. `ta-now` = at this time-period = today / currently. `fe-ki` = reach/cross a limit (from W024 related entry, first verbal use in a question).
+- Clean. No gaps.
+- **"Today" resolved:** `ta-now` covers "at this time-period" colloquially; no dedicated word for day-as-unit-of-time yet. The time-period granularity (hour? day? shift?) is context-dependent. Adequately ambiguous; flag for future number/time vocabulary.
+
+---
+
+**Turn A3**
+
+```
+Gloss:    la-mi  si  [fe-ki-now]
+          ne-li-su-li  ka-fe-si
+Literal:  agent:I  signal-level  [limit-cross-NOW]
+          recipient:coordinator  action:warn
+Natural:  I assess [as signal-level]: it crosses the limit now.
+          Warn the coordinator.
+```
+
+**Notes:**
+- **First utterance-level epistemic marker.** `la-mi  si  [proposition]` = "I, at `si` epistemic level, assert [...]." The speaker marks their confidence explicitly: `si` (signal/hypothesis, not yet `to` = established). This is Domain 1 (Epistemic States) operating at discourse level — a speaker hedging not the content of their claim but its *epistemic status*.
+- This construction is productive: `la-[speaker]  [epistemic-root]  [proposition]` = "I hold [proposition] at [level]." The epistemic root (`se`, `si`, `to`, `to-su`) becomes a sentence-level modal operator. First corpus evidence that the epistemic vocabulary functions this way. The pattern should be documented in spec/grammar.md once confirmed by a second case.
+- **Note:** this is NOT the same as the evidentiality candidates `se-ro`/`si-ro`/`to-ro` (which mark *how* you came to know). This marks *what status you assign the proposition*. Both mechanisms may coexist; they are orthogonal.
+- Second sentence: imperative with recipient. `ne-li-su-li` (W001 in recipient slot) first corpus use of that form. `la-tu` dropped (imperative rule). Clean.
+
+---
+
+**Turn B3**
+
+```
+Gloss:    ka-to-su-ki
+          ka-ki-now
+Literal:  action:comprehend
+          action:go-NOW
+Natural:  Understood.
+          I'm going now. / On my way.
+```
+
+**Notes:**
+- **`ka-to-su-ki` as responsive:** first standalone use of W025 in conversational acknowledgment. `ka` (action) + `to-su-ki` (enter organized understanding) = "I have grasped this." Compact and precise: not "I heard you" (merely signal-level reception) but "I have understood" (comprehension achieved).
+- **Agent drop in B3b:** `ka-ki-now` with `la-mi` omitted. In prior imperative constructions (S019, A3 above), `la-tu` (addressee-as-agent) is dropped. Here the *speaker* drops themselves. First attested case of speaker-drop in conversational context. This is presumably licensed by immediate-context salience: the speaker is the obvious actor. The rule is provisional: *in face-to-face exchange, the current speaker may be dropped from the agent slot when the action described can only be theirs.* Log as a grammar open question.
+- **Absence of "yes" / affirmative particle:** The entire acknowledgment arc (Turn B3) manages without a standalone affirmative. English "yes" doesn't appear because Tonesu routes agreement through action-confirmation (`ka-to-su-ki` = I have understood, implicitly affirming) and motion-declaration (`ka-ki-now` = I am acting on it). This gap may be real (Concordia never developed a simple "yes") or the pattern may be that Tonesu *always expresses what kind of affirmation*. Needs more corpus data.
+
+---
+
+**Conversation gaps discovered:**
+
+| Gap | First exposed | Status |
+|-----|--------------|--------|
+| Content question word | B1: `to-si` as interrogative placeholder (workaround using W026) | Open — workaround documented |
+| Copula / predicate-state | A2a: juxtaposition pattern (`lo-X  state-NOW`) | Confirmed pattern; formal rule pending |
+| `ti-fe` (time-limit, deadline) | A2b | Resolved — W037 registered |
+| Argument drop by discourse context | A2b: bare `ki-now` | Open — related to topic-drop question |
+| Utterance-level epistemic modal | A3a: `si [proposition]` pattern | New — needs grammar.md entry once confirmed |
+| Agent drop (speaker) in conversation | B3b: `la-mi` omitted | Open — provisional rule noted above |
+| Affirmative / negative particles | B3: no "yes" used; routed through action-confirmation | Open — may be intentional absence |
