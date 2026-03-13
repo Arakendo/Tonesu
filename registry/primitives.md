@@ -206,6 +206,18 @@ As a result, `ra-de` does not mean "cold" — it means "energy is decreasing" (p
 
 This is the same logic that separated `ha` from `ra`: thermal *state of matter* is not the same as *energy as force*, even though heat and energy interact constantly.
 
+**Substrate symmetry:** `fa` completes a pattern already present in the primitive set:
+
+| Root | Domain | Role |
+|------|--------|------|
+| `ma` | matter | physical substrate |
+| `ra` | energy | dynamic property |
+| `ha` | heat | thermal state of matter |
+| `zo` | organism | biological substrate |
+| `fa` | affect | organism's interior state |
+
+Each row is a real ontological layer, not reducible to the others. `fa` is the affective-state complement to `zo` the same way `ha` is the thermal-state complement to `ma`.
+
 **The three-stage pipeline:** `fa` occupies the middle position in the mental processing sequence:
 
 ```
@@ -215,12 +227,21 @@ perception (outward)   affect (substrate)   cognition (model)
 
 A sudden loud bang: `la-mi  se  so` (I hear a sound) → `la-mi  fa-be` (affect rising) → `la-mi  to  lo-go` (I form a model of the cause). These are three distinct events on the same pipeline. `fa` is the layer that can get stuck — `fa-no-to` = the signal arrived and affect activated, but no model formed.
 
+Concrete three-step example (thunder):
+```
+la-mi  se  so       I hear a sound
+la-mi  fa-be        dread rises
+la-mi  to  lo-go    I identify the cause
+```
+
 **Stress-test verdict (Monday, March 2026):** All three boundary zones passed:
 - `se` vs `fa`: perception and affect are clearly distinct — a chemically depressed person has active `fa` without any active `se` target
 - `fa` vs `vo`: `fa` is pre-evaluative; affect rises before value judgment occurs — `fa-be` with no `vo` modifier is valid and common (uneasy affect with no evaluation)
 - `fa` vs `to`: the stages are sequential and separable; `fa-no-to` = affect without cognition is the most important construction
 
 **Drift risk (logged):** Speakers may use `fa-be` as a catch-all casual emotional marker. This is acceptable colloquial drift — formal register preserves specificity. The constraint holds in normative usage.
+
+**Phonesthetic note:** The `f`-initial open-vowel onset produces compounds (`fa-be`, `fa-no`, `fa-ki`, `fa-re`) that phonologically suggest soft interior motion — distinct from the sharper detection roots (`se`, `si`, `so`). This alignment between phonology and semantics is incidental but welcome.
 
 **Usage guard (normative, per Principle 9):** `fa` names the substrate, not the state. `fa-vo-be` is not joy; `fa-vo-de` is not sadness. Named emotional states are still derived via process constructions. `fa` appears where the substrate itself is foregrounded: unresolved affect, numbness, arousal level, observer-mode separation.
 
