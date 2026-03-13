@@ -518,11 +518,31 @@ Usage guard (normative, Principle 9): `fa` names the substrate, not the state. N
 
 | Construction | Meaning |
 |---|---|
-| `fa-no-to` | unresolved affect (fa-based; parallels `se-no-to` W090) |
-| `fa-no` | affective numbness / flatness |
 | `fa-be` | affect rising / emerging |
 | `fa-de` | affect diminishing / fading |
+| `fa-ki` | affect shifting (changing character, not just level) |
+| `fa-re` | recurring affect / cyclical pattern |
+| `fa-no` | affective numbness / flatness |
+| `fa-no-to` | unresolved affect — substrate active, no model formed (fa-based; parallels `se-no-to` W090) |
+| `la-mi  fa-no-to  lo-go` | unresolved affect with no identifiable cause — the most precise Tonesu form for "I feel something but I don't know why" |
+| `la-mi  fa  fe-ki` | free-floating anxiety — affect in boundary-approach without a specific threat object |
+| `la-mi  fa  vo-de  re` | persistent low — affect repeatedly registering value-decay; closest Tonesu form to sustained depression |
 | `la-mi  to  [la-zo-mi  fa  lo-X]` | observer mode: I model that my organism's affective substrate is in state X |
+
+**Three-stage pipeline:** `fa` is the middle layer between external signal and conceptual model:
+
+```
+se (perception) → fa (affect substrate) → to (model / cognition)
+```
+
+The pipeline can stall at `fa`: `fa-be` with no `to` resolving = affect activated but not understood. `fa-no-to` is the canonical name for this stall. The pipeline can also skip `fa` for purely propositional events — hearing a fact (`la-mi  se  lo-si`) goes `se → to` directly, with no affective substrate involved. `fa` is not mandatory in all mental processing; it is a layer that activates for organism-relevant signals.
+
+**Three-stage sequence example — anxiety resolving:**
+- `la-mi  fa-be` — affect is rising (pre-evaluative, no object yet)
+- `la-mi  fa-no-to` — substrate active, no model formed
+- `la-mi  to  lo-go` — cause identified; model forms
+
+This sequence is more psychologically accurate than any single-word emotion label. Each stage is a valid standalone utterance.
 
 ---
 
