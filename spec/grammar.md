@@ -167,19 +167,50 @@ la engineer  lo machine  ka build-now  ?
 
 ---
 
-## Causal Conditional
+## Subordinate Clauses
 
-The `go`/`du` pair encodes causal relations and serves as the canonical conditional structure. No dedicated "if/when" particle is needed.
+Tonesu has a class of **clause-introducing words** that open a dependent clause modifying or specifying the matrix (main) clause. The three current clause introducers are:
+
+| Introducer | Type | Meaning |
+|------------|------|---------|
+| `go` | causal | because / since (cause introduces effect) |
+| `wi` | purpose | in order that / with the intention that |
+| `ta` | temporal | at the time that / when (time reference, no causal implication) |
+
+### Boundary Rule
+
+A subordinate clause begins immediately after its clause introducer and extends over the following clause material until parsing returns to the matrix clause, normally signaled by the next matrix-level argument or predicate marker (`la`, `lo`, `ka`, etc.).
+
+In gloss notation, subordinate clauses are shown in brackets `[...]`. These brackets are a **notation convention only** — they are not a defined syntactic device in the language. The mechanism for marking clause boundaries in speech and writing is an open question (see Open Questions).
+
+### Formal and Casual Register
+
+- **Formal register:** all matrix-level argument and predicate markers are present, making clause boundaries unambiguous without additional devices.
+- **Casual register:** reduction is permitted when the boundary is recoverable without explicit marking — typically in same-agent contexts or when clause shape makes the boundary obvious from context.
+
+The canonical form is always the formal register. Casual reduction is derived from it and must be traceable back to a fully explicit form.
+
+### Nested Subordination
+
+Embedding a subordinate clause inside another subordinate clause (e.g., a purpose clause inside a causal clause) is **not yet specified**. The boundary rule above handles single-level embedding only. Nested structures should appear in the corpus before a general rule is written. Treat nested subordination as **provisional** until corpus evidence demands a solution.
+
+---
+
+## Causal Frame (`go`)
+
+The root `go` (cause/origin) functions as a clause introducer for causal and conditional relations. This is a transparent overlap: the causal-frame function is semantically derived from the cause root.
+
+For clause boundary rules and register, see **Subordinate Clauses** above.
 
 ```
-go [clause A]  [main clause]
+go [CAUSE-CLAUSE]  MATRIX-CLAUSE
 ```
-*Because/when A is true, the main clause follows.*
+*Because / when [cause clause] is true, the matrix clause follows.*
 
 ```
-go [clause A]  du [clause B]
+go [CAUSE-CLAUSE]  du [RESULT-CLAUSE]
 ```
-*If A, then B.* (Explicit `du` optional when the main clause follows naturally.)
+*If [cause clause], then [result clause].* (`du` explicit optional; required when the result clause does not follow naturally from word order alone.)
 
 Examples:
 ```
@@ -192,7 +223,30 @@ go [ka-be]  du [la-to  ka-zu]
 ```
 *If something grows, knowledge increases.*
 
-The temporal particle `ta` with a subordinated clause (`ta [clause]`) expresses "at the time that" but lacks the causal implication. For conditionals with implied causation, prefer `go` framing.
+**Distinction from `wi`:** `go` looks backward to a cause that already holds or is posited. `wi` looks forward to an intended outcome. These are not interchangeable.
+
+---
+
+## Temporal Frame (`ta`)
+
+The particle `ta` (time reference) functions both as a simple time marker before a time expression and as a clause introducer for temporal subordinate clauses.
+
+For clause boundary rules and register, see **Subordinate Clauses** above.
+
+**As a time marker** (before a time expression):
+```
+ta-future
+ta-past
+ta [specific time reference]
+```
+
+**As a temporal clause introducer:**
+```
+ta [TIME-CLAUSE]  MATRIX-CLAUSE
+```
+*At the time that [time clause], the matrix clause holds.*
+
+`ta` expresses temporal coincidence or sequence. It carries no causal implication. For events where the temporal relationship also implies causation, prefer `go` framing.
 
 ---
 
@@ -228,11 +282,11 @@ agent:I  action:create  patient:artifact  intention [agent:you  action:use  pati
 
 Different agents require full clause marking. Same-agent reduction **does not apply**.
 
-### Open questions inherited by this structure
+**Distinction from `go`:** `wi` introduces purpose — an intended outcome that has not yet occurred. `go` introduces cause — an origin that already holds or is posited. `wi [understand]` = "in order to understand"; `go [understood]` = "because (they) understood."
 
-- Clause nesting syntax is not yet defined. Brackets in glosses `[...]` are a notation convention, not a defined syntactic device. The spoken/written mechanism for delimiting a subordinate clause is an open question (see Open Questions).
-- When the purpose-clause patient is the same as the main-clause patient, can it be omitted? (Pending corpus evidence.)
-- `wi` introduces purpose (intended outcome). It does not introduce reason (causal origin — that is `go`). Distinguish: `wi [understand]` = "in order to understand"; `go [understood]` = "because (they) understood".
+For clause boundary rules, register, and nested subordination policy, see **Subordinate Clauses** above.
+
+> **Open:** When the purpose-clause patient is identical to the main-clause patient, can it be omitted by same-patient reduction? Pending corpus evidence from P001–P003.
 
 ---
 
@@ -252,7 +306,7 @@ Pronouns follow the same case-marking rules as nouns.
 ## Open Questions
 
 - [ ] Finalize grouping/nesting particle syntax
-- [ ] **Clause-nesting syntax:** `go`, `wi`, and `ta` all introduce subordinate clauses. No syntactic device yet exists for delimiting them in speech or writing beyond gloss-notation brackets `[...]`. Decide: explicit open/close particles, pause/stress convention, or rely on head-final parsing alone. This is a prerequisite for full purpose-clause and causal-conditional formalization.
+- [ ] **Subordinate clause delimiter:** The boundary rule is defined (see Subordinate Clauses): a subordinate clause extends until the next matrix-level argument or predicate marker. What remains open is the **formal-register mechanism**: does Tonesu rely purely on explicit matrix markers (no new device needed), or add optional explicit bracket particles for complex cases? The casual-register reduction rule follows once the formal answer is settled.
 - [ ] Decide whether domain marker `da` is pre-posed before the domain root or wraps a phrase
 - [ ] Specify behavior when agent and patient are both omitted (topic-drop)
 - [ ] Confirm particle set doesn't collide with planned root phonology
