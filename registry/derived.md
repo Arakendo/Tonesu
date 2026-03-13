@@ -193,6 +193,44 @@ Notes:        Registered to resolve placeholder gloss `ka-use` in S016. Candidat
 Related:      mu-ka-li (operator, one who uses tools), mu-ka-mu (tool for operating another tool)
 ```
 
+**W023**
+```
+Form:         si-ki
+Type:         compound
+Class:        process
+Definition:   transmit; send a signal or message; directed point-to-point signal motion
+Composition:  si (signal/representation) + ki (motion) — the motion of a signal toward a recipient
+Register:     standard
+Domain:       communication
+Status:       proposed
+Examples:     "la-ze  lo-si  ka-si-ki" — she sent the message (S017)
+Notes:        Distinct from W021 si-ne-ki (communication/networking): si-ki is directed one-way
+              transmission (signal + motion); si-ne-ki is relational communication
+              (signal + relation + motion), implying a maintained connection or broadcast.
+              Use si-ki for "send"; si-ne-ki for "communicate / network."
+Related:      si-ne-ki (W021), si-ki-mu (transmitter / sender device)
+```
+
+**W024**
+```
+Form:         fe-si
+Type:         compound
+Class:        process / entity
+Definition:   warn; issue a warning or alert; a signal that marks a boundary or limit condition
+Composition:  fe (boundary/limit) + si (signal) — head-final: a signal characterized as
+              boundary-marking; a signal that a limit is approaching, present, or has been crossed
+Register:     standard
+Domain:       general
+Status:       proposed
+Examples:     "ka-fe-si  ne-yu" — warn them / issue a warning to them
+              "la-ze  lo-si  ka-si-ki-past  wi [ka-fe-si  ne-yu]" — she sent the message to warn them (S017)
+Notes:        fe (boundary) characterizes warnings precisely: a warning signals that a limit exists,
+              is approaching, or has been crossed. Preferred over de-si (decay-signal), which
+              conflates the warning with the harm itself. head-final: si is the head (it is a signal);
+              fe specifies what kind.
+Related:      fe-si-mu (warning device / alarm), fe-ki (to reach a limit / become bounded)
+```
+
 ---
 
 ### Abstract Concepts

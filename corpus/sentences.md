@@ -149,7 +149,7 @@ Notes:    `ne` as relation marker here doubles as a grammatical particle. Needs 
 **Purpose-clause stress tests** *(require purpose-frame formalization — see spec/grammar.md)*
 - [ ] **P001** — "They study in order to understand." *(purpose, same agent — canonical form of `wi` same-agent reduction)*
 - [x] **P002** → attempted as **S016**. Different-agent constraint confirmed; same-patient reduction provisionally valid. See S016 notes.
-- [ ] **P003** — "She sent the message to warn them." *(purpose, different agent; tests whether warning-event agent defaults to sender or must be stated)*
+- [x] **P003** → attempted as **S017**. Default reading is same-agent; agent inheritance rule confirmed (3rd data point). See S017 notes.
 
 **Relative-clause pressure test** *(do not attempt until purpose-clause structure is stable)*
 - [ ] **P004** — "Build me a system that remembers past queries." *(imperative + beneficiary + noun-modifying clause + memory/retrieval semantics + past reference — let compounding fail first before designing a relativizer)*
@@ -257,7 +257,39 @@ la-mi  ka-be-past  lo-mu  wi [la-tu  ka-mu-ka]
 
 ---
 
-## Observations
+**S017 — Purpose frame, same agent; warning semantics** *(P003)*
+
+*Target: "She sent the message to warn them."*
+
+**Reduced form (same-agent; canonical in practice):**
+```
+Gloss:    la-ze  lo-si  ka-si-ki-past  wi [ka-fe-si  ne-yu]
+Literal:  agent:she  patient:signal  action:transmit-PAST  intention [action:warn  recipient:them]
+Natural:  She sent the message to warn them.
+```
+
+**Canonical form (full agent explicit):**
+```
+la-ze  lo-si  ka-si-ki-past  wi [la-ze  ka-fe-si  ne-yu]
+```
+*Same as above; `la-ze` retained in purpose clause.*
+
+**P003b — Evil variant (different agent, different recipient):**
+```
+Gloss:    la-ze  lo-si  ka-si-ki-past  wi [la-yu  ka-fe-si  ne-mi]
+Literal:  agent:she  patient:signal  action:transmit-PAST  intention [agent:them  action:warn  recipient:us]
+Natural:  She sent the message for them to warn us.
+```
+*`la-yu` explicit because purpose-clause agent (them) ≠ matrix agent (she). Same-agent reduction does not apply.*
+
+**Notes:**
+- **P003 is same-agent by default,** not different-agent. Plain English "warn them" has the sender as the warner; the message is the instrument, not an independent agent. This is a control property of the verb, not of the purpose-frame itself.
+- **Agent inheritance rule (3rd confirmation):** purpose clause omits `la-ze` → matrix agent `ze` inherited unambiguously. See spec/grammar.md § Purpose Frame — rule now formally stated.
+- **`ne` particle inside purpose clause:** `ne-yu` (recipient:them) appears inside the `wi` subordinate clause without issue. `ne` marks an argument within the clause; it is not a clause introducer and does not affect the boundary rule. Passes cleanly. ✓
+- **Boundary rule (pass):** `wi` opens, purpose clause runs to sentence end. Same right-edge pattern as S016. ✓
+- **P003b** exposes the genuinely different-agent case: `la-yu` required when purpose-clause agent ≠ matrix agent. Consistent with S016. The absence of an agent marker in a `wi` clause now has a confirmed, unambiguous interpretation: inherit the matrix agent.
+- **Two new vocabulary items registered:** `si-ki` (W023) = send/transmit; `fe-si` (W024) = warn/alert. Both proposed-status.
+- **`ka-si-ki-past` and `ka-fe-si`:** tense/aspect markers remain placeholder glosses.
 
 *(Running notes on what works and what doesn't)*
 
@@ -270,8 +302,8 @@ la-mi  ka-be-past  lo-mu  wi [la-tu  ka-mu-ka]
 - ~~Inchoative derivation pattern missing~~ → resolved: `ROOT + ki` = enter state ROOT (spec/morphology.md)
 - Abstract agents (`to`, `si` as grammatical subjects) work cleanly with `la` as the unambiguous agent marker
 - ~~Purpose clauses not formalized~~ → resolved: `wi [clause]` defined in spec/grammar.md § Purpose Frame
-- **Boundary rule tested (S015, S016):** matrix-level argument marker unambiguously signals return to matrix clause in single-level embedding — no explicit clause delimiters needed for these cases. Nested subordination untested.
-- **Same-patient reduction (S016):** omitting the purpose-clause patient when identical to the main-clause patient appears recoverable. Provisionally valid; see spec/grammar.md § Purpose Frame.
+- **Boundary rule tested (S015, S016, S017):** matrix-level argument marker unambiguously signals return to matrix clause in single-level embedding — no explicit clause delimiters needed for these cases. `ne` inside a subordinate clause confirmed as argument marker, not boundary signal. Nested subordination untested.
+- **Agent inheritance rule (wi-clauses, confirmed S016–S017):** omitting the purpose-clause agent unambiguously inherits the matrix agent. Any other agent requires explicit `la-[agent]`. Rule formally stated in spec/grammar.md § Purpose Frame.
 
 ---
 

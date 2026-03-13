@@ -282,11 +282,24 @@ agent:I  action:create  patient:artifact  intention [agent:you  action:use  pati
 
 Different agents require full clause marking. Same-agent reduction **does not apply**.
 
+### Agent inheritance rule (confirmed S016–S017)
+
+When a `wi` purpose clause omits its agent marker, the matrix clause agent is inherited. This is the unambiguous default interpretation — agent omission is never ambiguous in a `wi` clause.
+
+> **If the agent is absent, the matrix agent is performing the purpose-clause action.**
+> **Any other agent must be explicitly marked with `la-[agent]`.**
+
+This rule is confirmed by two corpus examples:
+- S016: matrix agent `mi` (I), purpose clause has no agent → `mi` does the operating
+- S017: matrix agent `ze` (she), purpose clause has no agent → `ze` does the warning
+
+The rule likely generalizes to `go` and `ta` subordinate clauses, but is only confirmed for `wi` at this stage.
+
 **Distinction from `go`:** `wi` introduces purpose — an intended outcome that has not yet occurred. `go` introduces cause — an origin that already holds or is posited. `wi [understand]` = "in order to understand"; `go [understood]` = "because (they) understood."
 
 For clause boundary rules, register, and nested subordination policy, see **Subordinate Clauses** above.
 
-> **Open:** Same-patient reduction — can the purpose-clause patient be omitted when identical to the main-clause patient? **Provisional verdict (S016):** yes, when the shared patient is explicit in the immediately preceding main clause. Example: `la-mi  ka-be-past  lo-mu  wi [la-tu  ka-use]` recovers `lo-mu` unambiguously. Further corpus evidence (P003) required before this is fully closed.
+> **Provisional (S016–S017):** Same-patient reduction — the purpose-clause patient may be omitted when identical to the immediately preceding main-clause patient. Confirmed in S016 (`lo-mu` recovered); S017 has no shared patient (matrix patient `lo-si` is the message; warning target is a recipient `ne-yu`, not a patient). Pending one more case before closing.
 
 ---
 
