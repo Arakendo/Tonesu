@@ -1806,6 +1806,48 @@ Related:      se (perception), fa (affective substrate), no (negation), to (conc
 
 ---
 
+---
+
+**W091**
+Form:         ne-de
+Composition:  ne (relation/connection) + de (decay/decrease)
+Gloss:        relational dissolution / relation ends
+Definition:   The process of a relational bond decaying or dissolving. No causation or
+              intentionality asserted — pure state description. Equivalent to "the
+              relationship ended" with no claim about who caused it or whether the ending
+              was chosen or unchosen. The `ne` here is the primitive root (relation,
+              connection, bond), not the G005 particle (recipient marker).
+              Contrast: `ka-ne-de` (volitional dissolution — an agent chose to end it);
+              `ne-be` (relation strengthening, opposite trajectory).
+First use:    S133 (fa-VAL-B, March 2026): `ne-mi  de` — "my relationship ended."
+Notes:        Head-final: `de` (decay) is head process; `ne` specifies what is decaying —
+              the relational bond. `ne-mi  de` = "my-relation decays" where `-mi` attaches
+              to `ne` to form the referring NP.
+Related:      ne (relation), de (decay), ka-ne-de (W092), se-no-to (W090)
+
+---
+
+**W092**
+Form:         ka-ne-de
+Composition:  ka (intentional action) + ne (relation) + de (decay)
+Gloss:        intentional relational dissolution / volitional ending of a bond
+Definition:   A named agent deliberately caused a relational bond to dissolve. Used where
+              English says "X broke up with Y" or "X ended things with Y." The `ka` root
+              (intentional action, deliberate act) marks that the dissolution was chosen,
+              not that it simply happened. Agent is marked `la-X`; patient relational
+              territory is `lo-ne-Y` (the relation belonging to the patient).
+              `ka-ne-de` differs from bare `ne-de` (W091) exactly as "X intentionally
+              broke the connection" differs from "the connection broke."
+First use:    S132 (fa-VAL-A, March 2026): `la-ze  ka-ne-de  lo-ne-mi` — "they
+              intentionally ended my relationship."
+Notes:        Compositional parse: `ka` (intentional-action modifier) + `ne-de`
+              (relation-decay compound). The `ka-` prefix lifts natural-process `ne-de`
+              into the agentive register. Standard agentive frame: `la-[agent]  ka-ne-de
+              lo-ne-[patient]`.
+Related:      ka (intentional action), ne (relation), de (decay), ne-de (W091)
+
+---
+
 - [x] ~~Resolve whether compound forms use hyphens in writing or run together~~ → Resolved: solid spelling is canonical; hyphens are analytic notation only. See spec/word-formation.md § Written Form.
 - [ ] Review W002 (su-mu-li) — does it conflict with the derivational marker stack order?
 - [ ] Develop domain-specific sub-lists once domains are finalized (see ontology/domains.md)

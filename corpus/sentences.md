@@ -5032,3 +5032,117 @@ distinction is carried by internal time-marking:
 
 **CF-001 status:** Design path identified and verified across three domains. Grammar
 spec section to be written. Compound `to-go` to be registered.
+
+---
+
+## fa-VAL Diagnostic: Affective Substrate Batch (S132–S134)
+
+**Purpose:** First corpus attestations of `fa` (affective substrate, primitive 33),
+`ne-de` (relation-decay), and `ka-ne-de` (intentional relation-dissolution). Validates
+the se/fa distinction across formal, casual, and analytical registers using a breakup
+scenario developed in design session March 2026.
+
+**Core oppositions under examination:**
+- `ne-mi  de` (agentless dissolution) vs `la-ze  ka-ne-de  lo-ne-mi` (agentive)
+- `fa-be` without object (substrate register) vs `se  vo-de  lo-ne-mi` (detection register)
+- `fa-no-to` (unresolved substrate affect) as a complete discourse move
+
+**New compounds introduced this batch:**
+- `ne-de` = relation + decay = relational dissolution (W091)
+- `ka-ne-de` = intentional-action + relation-decay = volitional dissolution (W092)
+
+---
+
+**S132 — Formal register: intentional dissolution + affect-rise + se-detection** *(fa-VAL-A)*
+
+"They ended my relationship. Affect rising; I perceive value-loss."
+
+```
+Gloss:    la-ze  ka-ne-de  lo-ne-mi; la-mi  fa-be  se  vo-de  lo-ne-mi
+Literal:  agent:they  intentional-relation-decay  patient:my-relation;
+          agent:I  affect-rises  perceive  value-decay  patient:my-relation
+Natural:  They intentionally ended my relationship. Affect is rising in me;
+          I perceive value-decay when I look at it.
+```
+
+**Notes:**
+- First attestation of `ka-ne-de` (W092): volitional reading; `ka` (intentional action) +
+  `ne-de` (relation-decay). The `ka` distinguishes this from bare `ne-mi  de` (S133),
+  where dissolution happens without an assigned will.
+- `fa-be` (affect-rises) in emotional context: first corpus use in a relational-loss
+  frame. No named emotion. Raw substrate signal.
+- `se  vo-de  lo-ne-mi` — the se-register form: outward-facing detection needs an object
+  (`lo-ne-mi`). Speaker detects quality-decay in the relationship as external object.
+  This is the `se` column of Domain 7: detection directed at the relation.
+- Clause structure: the first half names the agent and their act; the second half names no
+  reason — both clauses are grammatically complete. Formal register licenses both.
+
+---
+
+**S133 — Casual compressed: dual-register demonstration** *(fa-VAL-B)*
+
+"My relationship ended. [Affect rising.]"
+
+```
+Gloss:    ne-mi  de; fa-be
+Literal:  my-relation  decays; affect-rises
+Natural:  My relationship ended. [I feel the affect rising.]
+```
+
+**Notes:**
+- First direct attestation of `ne-de` (W091) via `ne-mi  de`: `ne` (relation root) + `mi`
+  (speaker reference) as head NP; `de` (decay) as predicate. No agent named. The
+  dissolving is not attributed to any will — it simply occurred.
+- Contrast pair with S132: S132 names the agent (`la-ze  ka-ne-de`); S133 omits agent
+  and strips `ka` (intentionality). Same external event; different what-is-predicated.
+- `fa-be` stands alone as an utterance complete without object or `lo-` patient. This is
+  the `fa` substrate column: affect active without an external target to `se` onto.
+- Most directly demonstrates P9 corollary: unresolved affect is not a failed diagnostic.
+  `fa-be` with no object is grammatically and pragmatically complete.
+
+---
+
+**S134 — Analytical observer: `fa-no-to  lo-go` construction** *(fa-VAL-C)*
+
+"My relationship ended. My affect has no model of the cause."
+
+```
+Gloss:    ne-mi  de.  la-mi  fa-no-to  lo-go.
+Literal:  my-relation  decays.  agent:I  affect-no-model  patient:cause.
+Natural:  My relationship ended. My affect has not resolved into a model of the cause.
+```
+
+**Notes:**
+- First corpus use of `fa-no-to` (fa-based unresolved affect). Parallels W090 `se-no-to`
+  but uses the affective substrate root: substrate-affect-without-model. Where `se-no-to`
+  describes perceptual signal without resolution, `fa-no-to` describes the same stall at
+  the substrate level itself.
+- `lo-go` = patient: cause/origin. The construction `fa-no-to  lo-go` is precise:
+  "affect has not resolved into knowledge of [the cause]." Most accurate Tonesu form for
+  "I got dumped and I don't understand why." Speaker names the absence of model and
+  specifies exactly where the gap lies: at causal explanation.
+- Three-sentence progression (S132 → S133 → S134): formal indictment → compressed
+  felt-experience → observer-mode registration of confusion as state.
+- `la-mi` in S134 is the observer's anchor. Speaker is modeling their own substrate:
+  "I-as-observer: affect-no-model." Not confusion stated from inside confusion — the
+  registering of confusion as a named state. Analogous to Domain 7 observer mode:
+  `la-mi  to  [la-zo-mi  se  lo-X]`.
+
+---
+
+### fa-VAL Verdict
+
+**`fa` primitive validates across all three registers without grammar extension.**
+
+| Code | Register | Key construction | New compounds |
+|------|----------|------------------|---------------|
+| fa-VAL-A | Formal | `la-ze  ka-ne-de  lo-ne-mi; la-mi  fa-be  se  vo-de  lo-ne-mi` | W092 first attestation |
+| fa-VAL-B | Casual | `ne-mi  de; fa-be` | W091 first attestation |
+| fa-VAL-C | Analytical | `ne-mi  de.  la-mi  fa-no-to  lo-go.` | `fa-no-to` first corpus use |
+
+**Finding:** `fa` requires no new grammar rules. The se/fa complementarity holds under
+pressure: `fa-be` without object is complete; `se  vo-de  lo-ne-mi` needs the object;
+both are available to the same speaker in adjacent clauses (S132). The three-stage
+pipeline (`se → fa → to`) can stall at `fa-no-to  lo-go` and remain a well-formed
+discourse move (S134). The agentive/agentless contrast (`ka-ne-de` vs bare `ne-mi  de`)
+falls out of existing grammar without new machinery (S132 vs S133).
