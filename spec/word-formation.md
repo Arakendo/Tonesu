@@ -95,6 +95,40 @@ The preferred canonical form is registered in lexicon/roots.md. Alternates may b
 
 ---
 
+## Compound Grouping Marker
+
+**Default parse: right-branching.**
+
+In a plain hyphenated chain, each element modifies the accumulating chain from left to right. The last element is always the semantic head.
+
+```
+A-B-C-D   →   A modifies [B modifies [C modifies D]]
+```
+
+**Grouping marker: `'` (apostrophe)**
+
+When a compound's default right-branching parse is ambiguous or when a subunit must be understood as a whole before being modified, `'` marks the left boundary of that subcompound.
+
+```
+A'B-C-D   →   A modifies [B-C-D as a pre-bound unit]
+A-B'C-D   →   [A-B as a plain chain] modifies [C-D as a pre-bound unit]
+```
+
+The elements from `'` to the end of the compound (or the next `'` if present) form the subcompound. Everything to the left then attaches to that subcompound as a modifier.
+
+**Usage policy:**
+
+- Omit for compounds of 2–3 roots where the parse is unambiguous.
+- Optional at depth-4 where structure is still clear from primitive meanings alone.
+- Expected when X-X repetition appears inside a longer compound (X-X creates genuine parse ambiguity at depth ≥ 4 because the repeated roots can be read as either a meta-level unit or the start of a plain chain).
+- **One `'` per compound maximum.** If a second apostrophe would be needed to express the structure, the compound is too deep — restructure as a phrase using connective particles (e.g. `ne`) or split into two sentences.
+
+**Phonological status:** prosodic juncture — a slight phrasal pause at the marked boundary. Not a segmental phoneme; not in the consonant inventory. See spec/phonology.md § Prosodic Juncture Marker.
+
+**Corpus basis:** S045 (T-APO-001) — one apostrophe earns its weight; S046 (T-APO-002) — two apostrophes confirmed legal but practically inadvisable; phrase restructuring recommended instead.
+
+---
+
 ## Lexical Status Tiers
 
 | Tier | Meaning |
