@@ -148,7 +148,7 @@ Notes:    `ne` as relation marker here doubles as a grammatical particle. Needs 
 
 **Purpose-clause stress tests** *(require purpose-frame formalization — see spec/grammar.md)*
 - [ ] **P001** — "They study in order to understand." *(purpose, same agent — canonical form of `wi` same-agent reduction)*
-- [ ] **P002** — "I built the machine for you to use." *(purpose, different agent — full clause marking required)*
+- [x] **P002** → attempted as **S016**. Different-agent constraint confirmed; same-patient reduction provisionally valid. See S016 notes.
 - [ ] **P003** — "She sent the message to warn them." *(purpose, different agent; tests whether warning-event agent defaults to sender or must be stated)*
 
 **Relative-clause pressure test** *(do not attempt until purpose-clause structure is stable)*
@@ -209,8 +209,51 @@ Natural:  People create information-storage artifacts.
 - **Purpose clause absorbed by compounding:** Works here because purpose IS the artifact's nature. For external purpose — "She studies *to understand*", "He runs *to escape*" — a general purpose-clause structure is now formalized in spec/grammar.md: `wi [clause]` introduces the intended outcome. `wi` is a transparent overlap with root `wi` (will/intention).
 
 **Gaps exposed:**
-1. **Purpose clauses** ("to [infinitive phrase]") need a formal structure when not collapsible into compounding. Candidate: `wi [action]` = "intending to [action]". Flag for spec/grammar.md.
+1. ~~**Purpose clauses**~~ → resolved: `wi [clause]` formalized in spec/grammar.md.
 2. `si` (signal/representation) is carrying "information" in both S013 and S014. Confirm this is the right root vs. `to` (conceptual pattern) or `to+si` (encoded knowledge).
+
+---
+
+**S015 — Temporal frame**
+
+*Target: "When they study, knowledge grows."*
+
+```
+Gloss:    ta [la-yu  ka-to-ki]  la-to  ka-be
+Literal:  temporal [agent:group  action:learn-process]  agent:knowledge  action:grow
+Natural:  When they study, knowledge grows.
+```
+
+**Notes:**
+- **Boundary rule test (pass):** `ta` opens the subordinate clause `la-yu  ka-to-ki`. The matrix clause begins at `la-to` — the next matrix-level argument marker. The subordinate agent `la-yu` is already consumed, so `la-to` is unambiguously matrix-level. Boundary recovered without explicit delimiters. No new machinery needed for this case. ✓
+- **`ta` vs `go` doing real work:** S013 used `go` to *assert causation* — "because information connects, knowledge grows." This sentence uses `ta` for temporal correlation only — "when studying happens, knowledge grows" — without claiming studying is the cause. The `ta`/`go` distinction is not cosmetic; the two frames make genuinely different claims.
+- **`yu` first corpus appearance:** `la-yu` is the first gloss use of the renamed group pronoun. No collision with root `wi` (will/intention). Clean.
+- **`to-ki`** = W020 (learning/computation/reasoning). "Study" is the deliberate human variant; `to-ki` covers it at this stage.
+
+---
+
+**S016 — Purpose frame, different agent** *(P002)*
+
+*Target: "I built the machine for you to use."*
+
+```
+Gloss:    la-mi  ka-be-past  lo-mu  wi [la-tu  ka-use  lo-mu]
+Literal:  agent:I  action:create-PAST  patient:machine  intention [agent:you  action:use  patient:machine]
+Natural:  I built the machine for you to use.
+```
+
+**Reduced form (same-patient candidate):**
+```
+la-mi  ka-be-past  lo-mu  wi [la-tu  ka-use]
+```
+*Purpose-clause patient omitted — recoverable from main-clause patient immediately preceding `wi`.*
+
+**Notes:**
+- **Boundary rule test (pass):** `wi` opens the purpose clause at `la-tu`. The clause extends to sentence end — no matrix-level marker follows; right edge is sentence termination. Boundary rule holds. ✓
+- **Different-agent confirmed:** Main-clause agent is `mi` (I); purpose-clause agent is `tu` (you). `la-tu` must be explicit. Same-agent reduction does not apply. Spec constraint correct.
+- **Same-patient reduction: provisionally valid.** `lo-mu` (patient:machine) appears in both clauses. The reduced form recovers the patient from the immediately preceding main-clause patient. Recovery is unambiguous in this configuration. First corpus evidence bearing on the open question from spec/grammar.md § Purpose Frame. Provisional verdict: same-patient reduction is valid when the shared patient is explicitly present in the main clause; update grammar spec accordingly.
+- **`ka-use` is a placeholder gloss.** "Use/operate" has no defined compound yet. Candidate: `mu-ka` (artifact + action, head-final → the action characterized by artifact use). Needs registry entry before this sentence is finalized.
+- **`ka-be-past`:** tense marker is a placeholder gloss, consistent with current corpus convention.
 
 ---
 
@@ -220,11 +263,15 @@ Natural:  People create information-storage artifacts.
 
 - The SOV + particle system reads clearly for simple sentences
 - Nested concepts (S010) reveal the need for explicit grouping markers
-- ~~Particle/root collision (`li`)~~ → resolved by renaming agent particle to `la`. Remaining overlaps (`ra`, `pa`, `ka`, `ne`) are lower priority
+- ~~Particle/root collision (`li`)~~ → resolved by renaming agent particle to `la`
+- ~~Particle/root collision (`ra`)~~ → resolved: instrument particle renamed `ro`
+- ~~Pronoun collisions (`se`, `wi`)~~ → resolved: pronouns renamed `ze`, `yu`
 - Causal structures (S011, S013) confirm `go`/`du` framing as the canonical conditional strategy — no new particle needed
 - ~~Inchoative derivation pattern missing~~ → resolved: `ROOT + ki` = enter state ROOT (spec/morphology.md)
-- Abstract agents (`to`, `si` as grammatical subjects) now work cleanly with `la` as the unambiguous agent marker
-- Purpose clauses ("to [infinitive]") not yet formalized — S014 absorbs via compounding but this won't generalize
+- Abstract agents (`to`, `si` as grammatical subjects) work cleanly with `la` as the unambiguous agent marker
+- ~~Purpose clauses not formalized~~ → resolved: `wi [clause]` defined in spec/grammar.md § Purpose Frame
+- **Boundary rule tested (S015, S016):** matrix-level argument marker unambiguously signals return to matrix clause in single-level embedding — no explicit clause delimiters needed for these cases. Nested subordination untested.
+- **Same-patient reduction (S016):** omitting the purpose-clause patient when identical to the main-clause patient appears recoverable. Provisionally valid; see spec/grammar.md § Purpose Frame.
 
 ---
 

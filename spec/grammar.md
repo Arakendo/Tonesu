@@ -286,7 +286,7 @@ Different agents require full clause marking. Same-agent reduction **does not ap
 
 For clause boundary rules, register, and nested subordination policy, see **Subordinate Clauses** above.
 
-> **Open:** When the purpose-clause patient is identical to the main-clause patient, can it be omitted by same-patient reduction? Pending corpus evidence from P001–P003.
+> **Open:** Same-patient reduction — can the purpose-clause patient be omitted when identical to the main-clause patient? **Provisional verdict (S016):** yes, when the shared patient is explicit in the immediately preceding main clause. Example: `la-mi  ka-be-past  lo-mu  wi [la-tu  ka-use]` recovers `lo-mu` unambiguously. Further corpus evidence (P003) required before this is fully closed.
 
 ---
 
