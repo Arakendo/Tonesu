@@ -2940,3 +2940,294 @@ grounded.
 - `wi-re-su` — operational protocol / recurring procedural program (first use S088). Register W074.
 - `ka-wi-de` — mission departure (used in S092, transparent compound — register when second context appears).
 - `ta-ti-de  lo-[event]` — before-[event] temporal construction (first use S092). Grammar pattern rather than compound.
+
+---
+
+## Question Battery (C006)
+
+---
+
+**C006 — Pre-jump briefing: polar question, content question, and the ambiguous case**
+
+*Scene: Navigator A (`di-ki-li`) and Pilot B (`ra-ki-li`) in a pre-jump sequence. The
+field (`pa-ra`) ahead may carry resonance conditions. Six turns covering all four
+question-and-answer pressures from the open-question log.*
+
+*Tests: P-QM-001 (polar vs content question using `to-si`); P-AF-001 (minimal affirmative:
+first corpus test of `ru`); the ambiguous `to-si` case; negation of a proposition
+(`la-mi  no-se`); direct disagreement without epistemic modal; response-form as question-
+type disambiguator.*
+
+---
+
+**Turn A1**
+
+```
+Gloss:    to-si — lo-pa-ra  be-now
+Literal:  knowledge-inquiry — patient:field  is-active-now
+Natural:  Is the field active?
+```
+
+**Notes:**
+- Third polar question in corpus (B2.C004 was a polar; C003 A1 was first explicit
+  polar). Structure: `to-si` fronted (OUTSIDE the proposition), dash as inquiry-frame
+  boundary, then the complete well-formed proposition `lo-pa-ra  be-now`.
+- The proposition `lo-pa-ra  be-now` is structurally complete: a patient exists, a state
+  predicate follows. `to-si` does not fill any argument slot inside it; it sits outside
+  the proposition, querying the truth value. This is the defining structural feature of
+  the polar question type.
+- Contrast with C001 B1: `de  vo  to-si?` — there, `to-si?` fills the *qualifier slot*
+  inside the proposition (what quality of decay?). The unknown argument is inside; `to-si`
+  is inside. Here: unknown is outside (truth value); `to-si` is outside.
+- The positional distinction is now explicit: **content questions** have `to-si` filling
+  an argument slot inside the proposition; **polar questions** have `to-si` fronted
+  outside the complete proposition.
+
+---
+
+**Turn B1**
+
+```
+Gloss:    ru — lo-pa-ra  be-now  ra-vo  nu-be  lo-si-fe
+Literal:  [affirm] — patient:field  active-now  energy-quality  exceeds  threshold
+Natural:  Yes — the field is active and above threshold.
+```
+
+**Notes:**
+- **First corpus use of `ru` (W039: unity/coherence) as a minimal affirmative.** `ru` =
+  coherence/unity — standing alone as the first element, it functions as "[that coheres]" /
+  "yes." This is semantically transparent: `ru` is not a new function word; it is the
+  primitive whose meaning ("it holds together," "it is coherent") works as an affirmation
+  of the prior question's proposition. `lo-pa-ra  be-now` = the field is active = that
+  is coherent with what you asked = `ru`.
+- The dash separates the affirmative from the extended answer. B does not stop at `ru`;
+  B adds the relevant qualifier (`ra-vo  nu-be  lo-si-fe` = intensity above threshold,
+  reusing the S067/B2 pattern). This is the natural Concordian pattern: confirm +
+  specify. The minimal affirmative is not used alone when more is known.
+- **`ru` as functional "yes":** `ru` satisfies a polar question (the question was binary;
+  `ru` picks the affirmative branch). Compare with echo-confirmation (C003 B1: full
+  proposition restatement) and action-confirmation (C001 B3: `ka-to-su-ki`). Three
+  strategies now attested: (1) `ru` = minimal affirm; (2) echo = restatement from speaker's
+  perspective; (3) action-commit = `ka-[verb]` = I will/am doing it. All three are licensed;
+  `ru` is the shortest.
+
+---
+
+**Turn A2**
+
+```
+Gloss:    lo-pa-ra  ne-ra  vo  to-si?
+Literal:  patient:field  resonance  quality  [what]?
+Natural:  What is the character of the field's resonance?
+```
+
+**Notes:**
+- **Content question.** `to-si?` at the END of the proposition, in the qualifier slot.
+  The proposition has a gap: `lo-pa-ra  ne-ra  vo  ___?` — the unknown is the qualitative
+  character/kind of the resonance. `to-si` fills that slot the way an unknown argument
+  would. Compare C001 B1: `de  vo  to-si?` (`to-si` in the quality slot of damage type).
+  Same structure: `[entity]  [relation]  [dimension]  to-si?`
+- `ne-ra` (W058, resonance/energetic coupling) as a predicate on `lo-pa-ra`: the field
+  *has* a resonance character. Second/third attestation of `ne-ra`, which matters for
+  status upgrade beyond proposed.
+- The positional signature is now visible across two corpus cases:
+  - Content question: `to-si` **at the end / in argument position** — `de  vo  to-si?`
+    (C001 B1), `lo-pa-ra  ne-ra  vo  to-si?` (C006 A2)
+  - Polar question: `to-si` **fronted before a complete proposition** — `to-si — [prop]`
+    (C003 A1, C006 A1)
+
+---
+
+**Turn B2**
+
+```
+Gloss:    lo-ne-ra  no-to-fe  —  lo-pa-ra  no-ne-fe  lo-mu
+Literal:  patient:the-resonance  uncertified/unestablished — patient:field
+          not-dependency-condition  patient:machine
+Natural:  The resonance character is uncertified. The field has no link to the machine.
+```
+
+**Notes:**
+- **`lo-ne-ra` as nominal patient.** `ne-ra` (resonance, W058) in patient slot with `lo`
+  particle = the resonance [of the field, contextually recoverable]. First use of `ne-ra`
+  as a standalone nominal. Distinct from `ne-ra-ki` (the inchoative process) — here the
+  resonance itself is the subject of a status predication.
+- **`no-to-fe`** reused from C005 B2. Here: the resonance character is `no-to-fe`
+  (uncertified / has not crossed the epistemic boundary into established status). The
+  pilot does not know the quality of this field's resonance — it is at `si` level at best.
+- **Second sentence:** `lo-pa-ra  no-ne-fe  lo-mu` = the field is not in a dependency
+  condition toward / linked to the machine. `ne-fe` (W042, dependency/requirement) in
+  negative: `no-ne-fe` = no established relational dependency between field and machine.
+  The machine is not yet attuned to this field. This is B warning A: the field's resonance
+  properties are unknown and the machine has not established a link.
+- **New `no-ne-fe` compound.** `no-` (negation) + `ne-fe` (dependency condition, W042)
+  = no active dependency / no established link. Third `no-`+ compound compound (prior:
+  `no-to-fe` C005 B2, `no-to` C005 B3). The pattern continues to be productive.
+
+---
+
+**Turn A3**
+
+```
+Gloss:    to-si — la-mi  ne-ra-ki
+Literal:  knowledge-inquiry — agent:I  attune
+Natural:  [Am I attuning? / What am I attuning to?]
+```
+
+**Notes:**
+- **THE AMBIGUOUS CASE.** `to-si` fronted before what appears to be a polar proposition
+  (`la-mi  ne-ra-ki` = I [am] attuning). But `ne-ra-ki` is an inchoative process that
+  normally takes a `lo`-patient (the thing being attuned to). The patient is absent. Two
+  valid readings:
+  - **Polar reading:** the patient is dropped by discourse context (the field was just
+    discussed); the question is: "Am I attuning [to the field / to it]?" — unknown is
+    truth-value of the complete proposition with recovered patient.
+  - **Content reading:** the patient is unknown (not omitted); the question is: "What am
+    I attuning to?" — unknown is the argument, and `to-si` fronts a proposition with an
+    unknown patient slot. But on the content reading, `to-si` should be in argument
+    position (`la-mi  ne-ra-ki  to-si?`) rather than fronted.
+- **The positional rule resolves it: fronted `to-si` = polar.** The content reading would
+  require `to-si?` in the patient slot: `la-mi  ne-ra-ki  to-si?` ("what am I attuning
+  to?"). A3 as written — `to-si` fronted — is therefore unambiguously polar by position:
+  the question is whether A is attuning (or beginning to), not what A is attuning to.
+  The dropped patient is recovered by discourse context (the field, established in A1).
+- **Key result:** the ambiguous case is resolved by the positional rule, not by context
+  alone. This is strong evidence that the fronted vs in-argument distinction is
+  grammatically load-bearing and sufficient — no additional polar particle is needed.
+
+---
+
+**Turn B3**
+
+```
+Gloss:    no — lo-pa-ra  no-ne-fe  ta-ti-now
+Literal:  [negate] — patient:field  no-dependency-state  time:present
+Natural:  No — the field has no link right now.
+```
+
+**Notes:**
+- **First corpus use of bare `no` as minimal negative response.** Parallel to `ru` (B1)
+  as minimal affirmative. `no` answers the polar question from A3 in the negative branch.
+  Semantically transparent: `no` = absence/negation = the situation does NOT cohere with
+  the proposition in A3. B has not yet entered attuned state; the field has no established
+  coupling with the pilot's systems.
+- `no` + dash + elaboration: same structural pattern as `ru` (B1). The minimal
+  response + the informative follow-up. The pair is now established: `ru — [elaboration]`
+  = yes + detail; `no — [elaboration]` = no + detail.
+- `ta-ti-now` = present-time anchor (from C005 B2 pattern). The dependency state is
+  assessed as absent at this moment, not in general.
+- `no-ne-fe` reused from B2: the field has no active link to the machine. Consistent
+  with the technical situation: the pilot cannot attune to a field that has no established
+  coupling with the ship's systems.
+
+---
+
+**Turn A4**
+
+```
+Gloss:    la-mi  si  [ta-ti-be  ne-ra-ki  be]
+Literal:  agent:I  signal-level  [time:approaching  attune  grows]
+Natural:  I assess: the link will develop soon.
+```
+
+**Notes:**
+- `la-mi  si  [prop]` — fifth use of the utterance-level epistemic modal pattern.
+  Fully established.
+- `ta-ti-be  ne-ra-ki  be` = "at the upcoming time, attuning grows." `ta-ti-be` (W040,
+  future time reference) used as temporal frame for an anticipated process. `ne-ra-ki`
+  (W059, to attune / enter resonance) + `be` (grow/develop) = the attuning process is
+  developing. First use of `ne-ra-ki` with `be` as a growth/continuation predicate rather
+  than as a completed inchoative.
+- A asserts confidence that the link will form, but marks it only at `si` level (a
+  judgment about a future state, not an established fact). Correct Concordian hedging
+  for a future prediction.
+
+---
+
+**Turn B4**
+
+```
+Gloss:    ru — ta-ti-re  ki
+Literal:  [affirm] — time:cycle-coming  approach
+Natural:  Yes — it's coming up in the cycle.
+```
+
+**Notes:**
+- `ru` second use in the same conversation — second corpus attestation. Confirms it is
+  stable as a minimal affirmative, not a one-off. The pattern is now: `ru` is a
+  sentence-initial affirmative particle licensed as a standalone clause followed by `—`
+  and an elaboration.
+- `ta-ti-re` = time-cycle = the next cycle / the recurrent time. `ti` (time) + `re`
+  (recurrence). First use of `ti-re` as a time nominal: "the upcoming time in the cycle."
+  Related to S092's `ta-ti-de` (before = time-decay) — this is the future-cycle
+  complement: `ti-re` = the recurring upcoming moment. Distinct from `ti-be` (W040,
+  next/upcoming time in general): `ti-be` is the next temporal interval; `ti-re` is
+  specifically the next occurrence in a recurring sequence. The distinction matters for
+  scheduled events.
+- `ki` alone = approach / comes. Bare predicate with dropped agent (the thing coming is
+  the link / the resonance readiness — contextually recoverable). Consistent with the
+  argument-drop by context pattern established in C001 A2b.
+
+---
+
+**C006 Gaps and pressures:**
+
+| Gap | Location | Status |
+|-----|----------|--------|
+| **P-QM-001 RESOLVED** | A1, A2, A3 | Three-sentence battery confirms the distinctions. See summary below. |
+| **P-AF-001 RESOLVED** | B1, B4 | `ru` attested twice. See summary below. |
+| **`no` as minimal negative** | B3 | Paired with `ru` (B1). First corpus use. Clean. Structural parallel established: `ru — [elaboration]` ↔ `no — [elaboration]`. |
+| **`ti-re` vs `ti-be`** | B4 | `ti-re` (recurring time) first use. Distinction from `ti-be` (next time): `ti-re` is the recurring next occurrence; `ti-be` is the next temporal interval generally. Does this distinction hold under corpus pressure? Watch. |
+| **`no-ne-fe`** | B2, B3 | `no-` + `ne-fe` (dependency compound W042) = no established link. Second use in same conversation: stable compound, register for next session. |
+| **`ne-ra-ki  be`** | A4 | Using `ne-ra-ki` (inchoative) + `be` (grow): "the attuning develops." This uses the inchoative as a nominal/process that can itself grow. Grammatically interesting — the entering-state is itself subject to `be`. |
+
+---
+
+### C006 Summary: P-QM-001 and P-AF-001 resolved
+
+**P-QM-001 — Polar vs content questions: RESOLVED.**
+
+The distinction is **positional**, not lexical. Both question types use `to-si`; the
+position of `to-si` relative to the proposition determines the type:
+
+| Type | Structure | `to-si` position | Unknown |
+|------|-----------|-----------------|---------|
+| Content | `[entity]  [relation]  [dimension]  to-si?` | **inside**, in argument slot | The argument in that slot |
+| Polar | `to-si — [complete proposition]` | **outside**, fronting the proposition | The truth value |
+
+The three-sentence test:
+- A1 (`to-si — lo-pa-ra  be-now`) = polar: `to-si` outside, proposition complete. ✓
+- A2 (`lo-pa-ra  ne-ra  vo  to-si?`) = content: `to-si` inside, in qualifier slot. ✓
+- A3 (`to-si — la-mi  ne-ra-ki`) = potentially ambiguous BUT the positional rule
+  resolves it as polar. Content reading would require `la-mi  ne-ra-ki  to-si?`
+  (in-argument). As written — `to-si` fronted — the question is polar (truth value of A
+  attuning), with the patient recovered from discourse context. ✓
+
+**No new polar particle needed.** The positional rule is sufficient. `to-si` carries both
+question types; the position disambiguates. Any genuinely persistent ambiguity (fronted
+`to-si` before a proposition with an *unknown* argument) is dissolved by the response:
+a complete answer satisfies both readings simultaneously.
+
+**P-AF-001 — Minimal affirmative: RESOLVED.**
+
+`ru` (W039, unity/coherence) works as a minimal affirmative. Two corpus attestations
+in C006 (B1, B4). Semantically transparent: `ru` = "[that] coheres" = yes.
+
+Pair established:
+- Affirmative minimal: `ru` (or `ru — [elaboration]`)
+- Negative minimal: `no` (or `no — [elaboration]`)
+
+Both are transparent extensions of the root primitives (`ru` = coherence/unity;
+`no` = negation/absence). No new particles invented; the primitives serve as
+discourse particles in sentence-initial position.
+
+Three-tier confirmation strategy now fully attested:
+
+| Strategy | Form | First use | When to use |
+|----------|------|-----------|-------------|
+| Minimal `ru` | bare `ru` or `ru — [detail]` | C006 B1 | fast acknowledgment; clean polar confirmation |
+| Echo-confirm | restate proposition from speaker's perspective | C003 B1 | confirms understanding *and* speaker's position |
+| Action-commit | `ka-[action]` = I am/will do it | C001 B3 | confirms AND commits to action |
+
+**Emergent compound from this batch:** `no-ne-fe` (no active link / no dependency state).
+First used B2, reused B3. Register as W075 next session.

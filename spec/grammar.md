@@ -184,12 +184,103 @@ no-ka-ki  lo-mu    →  Don't move the machine.
 
 ## Questions
 
-Interrogative particle at sentence end (or optionally front for emphasis).
+Tonesu encodes all questions using `to-si` (W026, knowledge-seeking signal). The same
+particle serves both **content questions** (WH-questions) and **polar questions**
+(yes/no questions). The type is determined by the position of `to-si` relative to the
+proposition.
+
+### Content Questions
+
+`to-si` occupies the **argument slot** of the unknown constituent, inside the proposition.
+The proposition has a syntactic gap; `to-si` fills it.
 
 ```
-la engineer  lo machine  ka build-now  ?
+de  vo  to-si?
 ```
-*Is the engineer building the machine?*
+*What kind / quality of damage?*  (`to-si` in the quality-qualifier slot, C001 B1)
+
+```
+lo-pa-ra  ne-ra  vo  to-si?
+```
+*What is the character of the field's resonance?*  (`to-si` in the qualifier slot; C006 A2)
+
+General pattern:
+
+```
+[entity]  [relation]  [dimension]  to-si?
+```
+
+`to-si?` carries a terminal rise marker (`?`) in written gloss, matching its
+function as the end of an incomplete proposition seeking the missing argument.
+
+### Polar Questions
+
+`to-si` is **fronted** before the proposition, separated by a dash as an inquiry-frame
+boundary. The proposition is structurally complete (missing arguments are recovered by
+discourse context, not unknown). The unknown is the **truth value** of the proposition.
+
+```
+to-si — lo-pa-ra  be-now
+```
+*Is the field active?*  (C006 A1)
+
+```
+to-si — la-tu  ki  pa-li-pu  ta-ti-be
+```
+*Are you approaching the congregation?*  (C003 A1)
+
+General pattern:
+
+```
+to-si — [complete proposition]
+```
+
+The dash (`—`) marks the boundary between the inquiry frame and the proposition whose
+truth value is sought. It may be absent in rapid speech register, but is preserved in
+formal gloss.
+
+### Summary Table
+
+| Question type | `to-si` position | What is unknown |
+|---------------|-----------------|-----------------|
+| Content | **Inside** proposition, in argument slot | The argument in that slot |
+| Polar | **Outside** proposition (fronted, pre-dash) | The truth value |
+
+### The Ambiguous Case
+
+When `to-si` is fronted before a proposition whose patient is **absent** (dropped by
+context), two readings are available: polar (truth-value unknown) and content (patient
+argument unknown). The positional rule resolves this: **fronted = polar**. A content
+reading requires `to-si` in argument position (`to-si?` at the end).
+
+```
+to-si — la-mi  ne-ra-ki
+```
+*Am I attuning?*  — fronted `to-si` = polar. The patient (what A would attune to)
+is absent but contextually recoverable; the question is whether attuning is occurring.
+Content reading (`what do I attune to?`) would require: `la-mi  ne-ra-ki  to-si?`
+
+Ambiguous fringe cases are dissolved by **response completeness**: a full answer
+(`ru — ne-ra-ki  lo-pa-ra`) satisfies both the polar reading (via `ru`) and the
+content reading (via specifying the patient). The language does not require the question
+type to be syntactically unambiguous because a complete answer covers both.
+
+### Answers to Polar Questions
+
+Polar questions receive minimal or full responses:
+
+| Answer type | Form | Meaning |
+|-------------|------|---------|
+| Minimal affirmative | `ru` | "[that] coheres" — yes (C006 B1) |
+| Full affirmative | `ru — [proposition]` | yes + elaboration (C006 B1, B4) |
+| Minimal negative | `no` | "[that] does not hold" — no (C006 B3) |
+| Full negative | `no — [proposition]` | no + elaboration (C006 B3) |
+| Echo confirmation | restate proposition from speaker's perspective | yes, with expressed agreement (C003 B1) |
+| Action-commit | `ka-[verb]` | I will/am doing it (C001 B3) |
+
+`ru` and `no` are not new particles — they are the primitives for unity/coherence and
+negation/absence used sentence-initially as affirmative and negative discourse responses.
+Their use here is semantically transparent and does not require special lexical status.
 
 ---
 

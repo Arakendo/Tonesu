@@ -1459,6 +1459,34 @@ Related:      wi (will), re (recurrence), su (structure), wi-ka-su (W054), wi-to
 
 ---
 
+**W075**
+```
+Form:         no-ne-fe
+Type:         compound
+Class:        state / relational predicate
+Definition:   no established link; no active dependency; absence of an institutional
+              or relational coupling between two systems or agents.
+Composition:  no (negation/absence) + ne (relation) + fe (boundary/condition) —
+              negation of dependency-condition (W042, ne-fe). Head-final: fe
+              (boundary/condition) is head; no-ne negates the relational boundary.
+Register:     technical / operational
+Domain:       navigation / institutional
+Status:       proposed
+Examples:     "lo-pa-ra  no-ne-fe  lo-mu" — the field has no link to the machine (C006 B2, B3)
+Notes:        Extends the ne-fe (W042, dependency condition / established link) base with the
+              no- prefix. Follows the established no-[compound] pattern: no-to-fe (C005 B2,
+              uncertified), no-ne-fe (C006, no link). The compound captures the state in
+              which two systems that could be coupled are not. Often used in technical
+              pre-checks: asserting that a coupling has not yet been established before
+              attempting to form it. Distinct from no-to-fe (status not yet established):
+              no-ne-fe asserts that the relational dependency itself is absent, not merely
+              that its status is unknown.
+Related:      no (negation), ne-fe (W042), no-to-fe (compound, C005 B2), ne-ra (W058),
+              ne-ra-ki (W059)
+```
+
+---
+
 ## Open Questions
 
 - [x] ~~Resolve whether compound forms use hyphens in writing or run together~~ → Resolved: solid spelling is canonical; hyphens are analytic notation only. See spec/word-formation.md § Written Form.
