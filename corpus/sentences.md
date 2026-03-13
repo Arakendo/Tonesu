@@ -53,11 +53,12 @@ Notes:    "knowledge-system" = to-su (W030). Compound slots cleanly as patient N
 **S003 — With instrument**
 
 ```
-Gloss:    la-engineer  lo-machine  ra-tool  ka-build-now
+Gloss:    la-engineer  lo-machine  ro-tool  ka-build-now
 Literal:  agent:engineer  patient:machine  instrument:tool  action:build-present
 Natural:  The engineer builds the machine with a tool.
-Notes:    ra used as instrument particle here — but ra is also a root meaning "energy/force".
-          Collision risk flagged. See spec/grammar.md open questions.
+Notes:    Instrument particle is `ro` (no root `ro` exists — clean).
+          Former `ra` instrument particle was renamed to `ro` because `ra` = energy/force root
+          and the collision was non-transparent. Resolved. See spec/grammar.md particle policy.
 ```
 
 ---

@@ -36,6 +36,7 @@ Consolidated list of unresolved design decisions from across all spec and regist
 - [x] ~~Is `li` too broad?~~ → Decided: `li ⊂ zo`. Every `li` is a `zo`. Animals are `zo` only. AI/institutions are `mu + li`. See registry/primitives.md entity model.
 - [x] ~~`ki` overloaded?~~ → Narrowed: `ki` = motion only. General transformation uses `be`/`de` compounds. Candidate root `ce` (state change) pending corpus evaluation.
 - [ ] Does `to` need to split into `thought` and `knowledge`? Working model: `to` = conceptual pattern/thought; `to+su` = organized knowledge (body of knowledge); `to+si` = encoded information / data. Confirm before corpus work scales — S013 used `to` alone for "knowledge", which may be too loose.
+- [x] ~~**`ra` particle / `ra` root collision.**~~ → **Resolved:** instrument particle renamed from `ra` to `ro` (`ro` has no root assignment). The collision was non-transparent — instrument-marking and energy/force share no semantic relationship. Policy formalized in spec/grammar.md: **Particle–Root Overlap Policy** (particles may share a root's form only when the particle's function is semantically derived from that root). `ra` now unambiguously means energy/force everywhere it appears.
 - [ ] Should `ra` (energy) cover information energy or remain strictly physical?
 - [ ] Phonetic cluster `se`/`so`/`si`: evaluate survival at normal speech speed.
 - [ ] Evaluate candidate root `ce` (transformation/state change) after first corpus sentences.

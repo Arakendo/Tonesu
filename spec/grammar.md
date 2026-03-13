@@ -35,7 +35,7 @@ Short, phonetically distinct syllables. Never merge with roots ambiguously.
 |----------|------|-------|
 | `la` | agent marker | marks the doer |
 | `lo` | patient marker | marks the affected object |
-| `ra` | instrument marker | marks the tool or cause |
+| `ro` | instrument marker | marks the tool or cause |
 | `pa` | location marker | where the action occurs |
 | `ne` | recipient/relation | who receives or to whom |
 | `ta` | time reference | temporal anchor |
@@ -44,6 +44,28 @@ Short, phonetically distinct syllables. Never merge with roots ambiguously.
 | `da` | domain marker | signals a conceptual domain reference |
 
 *Particles are pre-posed (come before the element they mark).*
+
+---
+
+## Particle–Root Overlap Policy
+
+A grammatical particle **may share phonetic form with a primitive root only if its grammatical function is semantically derived from that root's meaning.** Such overlaps are intentional and transparent — a speaker who knows the root can infer the particle's role.
+
+| Particle | Root overlap | Relationship | Status |
+|----------|-------------|--------------|--------|
+| `pa` | `pa` (place/space) | location marker derived from place root | Transparent ✓ |
+| `ne` | `ne` (relation) | recipient/relation marker derived from relation root | Transparent ✓ |
+| `ka` | `ka` (action) | action marker derived from action root | Transparent ✓ |
+| `la` | — | no root `la` | Clean |
+| `lo` | — | no root `lo` | Clean |
+| `ro` | — | no root `ro` | Clean |
+| `ta` | — | no root `ta` | Clean |
+| `na` | — | no root `na` | Clean |
+| `da` | — | no root `da` | Clean |
+
+Non-transparent collisions (particle and root share form but meanings are unrelated) are **not permitted**. The former `ra` instrument particle was a non-transparent collision with root `ra` (energy/force) and was renamed to `ro` to resolve this.
+
+---
 
 Example:
 ```
