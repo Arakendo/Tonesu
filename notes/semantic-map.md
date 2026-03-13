@@ -366,6 +366,33 @@ This precision likely produces a culture that is philosophically sophisticated a
 
 ---
 
+### Domain 7: Emotional and Experiential States
+
+**Design decision (locked, March 2026):** Tonesu does not use emotional primitive roots. Concordian culture frames emotional states as reportable system diagnostics — processual descriptions of internal state transitions — rather than as primitive expressive acts. See spec/principles.md § 9.
+
+This means emotional vocabulary in Tonesu is always built, never given. The following table gives the standard Concordian expressions for common emotional states, derived from existing primitives:
+
+| Emotional state | Tonesu construction | Literal reading | Notes |
+|-----------------|--------------------|-----------------|---------|
+| Fear / threat-response | `la-mi  se  fe-de` | I perceive boundary-decay | Something I value is approaching a negative limit |
+| Fear (specific) | `la-mi  se  fe-de  lo-[X]` | I perceive boundary-decay at [X] | Concordian form specifies the object of fear — bare "I'm afraid" is incomplete |
+| Joy / positive-valence | `la-mi  se  vo-be` | I perceive value-growth | Something is increasing in quality/worth |
+| Grief / loss | `la-mi  se  vo-de` | I perceive value-decay | Something of worth is deteriorating or gone |
+| Anxiety / anticipatory dread | `la-mi  se  fe-ki` | I perceive limit-approach | The boundary hasn't been crossed yet; the approach is the experience |
+| Fatigue | `la-zo-mi  de` | my organism is decaying | Bodily resource depletion — `zo` (organism) rather than `li` (agent) signals the body as object |
+| Hunger | `la-zo-mi  de  lo-ra` | my organism decays at [energy] | Energy resource deficit in the body |
+| Comfort / ease | `la-zo-mi  ru` | my organism is unified/coherent | The body is not fragmented, not under stress |
+| Trust | `la-mi  se  vo-ne  lo-[person]` | I perceive the relation to [person] as having quality/worth | Trust is not a state but a perceived-quality-of-relation |
+| Desire / longing | `la-mi  wi  lo-[X]` | I intend toward [X] | `wi` (intention) covers desire naturally; longing = intention + `fe-ki` (the gap has not closed) |
+
+**Cultural note:** The Concordian form almost always specifies *what* is feared, valued, or desired. Bare emotional declarations (`la-mi  se  vo-be` without specifying what) are grammatically complete but culturally thin — like saying "signal received" without content. Precision is the register.
+
+**The register gap and its narrative use:** When a Concordian speaker says `la-mi  se  fe-de  lo-ne-mi` and a non-Concordian hears it as "I'm afraid," that is the translation gap doing characterization work. The Concordian has specified (a) the type of emotional state, (b) the direction of change, and (c) the object. The non-Concordian compressed all three into a single opaque feeling-word. Neither is wrong; they are speaking different ontologies.
+
+**What this is not:** Option B does not mean Concordians are emotionally flat, suppressed, or robotic. It means their emotional vocabulary is precise in the same way their epistemic vocabulary is precise. A Concordian who says `la-mi  se  fe-de  lo-ne-mi` is not being clinical — they are being accurate. The feeling is real and fully human. The framing is Concordian.
+
+---
+
 ## Discourse-Level Emergence
 
 Following C001–C004, the language has crossed from sentence-grammar into discourse grammar. The distinction matters: sentence grammar rules describe how words combine within an utterance; discourse grammar rules describe how utterances combine across turns.

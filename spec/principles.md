@@ -67,3 +67,18 @@ The language has a formal register (explicit, transparent, compositional) and a 
 The primitive root set and domain rules must be stable before the vocabulary registry grows. A large vocabulary built on an unstable foundation requires wholesale revision. Fewer, better-defined primitives are always preferable to more primitives added prematurely.
 
 *Corollary: resist the temptation to add a new primitive root every time a compound feels awkward. Awkward compounds are a diagnostic, not a problem to be solved by root proliferation.*
+
+---
+
+## 9. Emotions Are System States, Not Primitives
+
+Tonesu is a human language spoken by fully human people. Concordians experience the full range of human emotion. However, **Concordian culture frames emotional states as reportable system diagnostics**, not as opaque private experiences. This is not a deficiency — it is a cultural practice that the language reflects and reinforces.
+
+Consequences:
+
+- **No emotional primitive roots.** Emotional states are expressed as derived compounds or idiomatic constructions using existing process, quality, and boundary roots. A new root for "fear" or "joy" fails Validation Rule 1 (irreducibility): both concepts are expressible through existing primitives without circular nonsense.
+- **The diagnostic framing is the native register.** `la-mi  se  fe-de` (I perceive boundary-decay) is not a clunky workaround for "I'm afraid" — it is the privileged Concordian way to express that state. The process-orientation is intentional.
+- **Emotional idioms must be documented as corpus develops.** Because the framing is precise but unfamiliar, the standard emotional expressions become vocabulary items in their own right — registered as derived words (W-series) once attested in corpus. The compound is the word; it is not pending a real word.
+- **The register gap is productive, not a bug.** When a Concordian says `la-mi  se  fe-de  lo-ne-mi` (I perceive decay-threat at my connection), a non-Concordian might need it translated as "I'm afraid of losing this relationship." That translation gap is a characterization of Concordian culture, not a failure of the language.
+
+*Corollary: do not add sensory or embodied-experience primitives preemptively. Run the 20 ordinary-life sentence test (see notes/open-questions.md) first. If a concept fails to express without genuine distortion — not just verbosity — then and only then evaluate it as a primitive candidate.*
