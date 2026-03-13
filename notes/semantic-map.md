@@ -41,9 +41,12 @@ EXISTENCE
 │   ├── go  (cause/origin)
 │   └── du  (result/effect)
 │
-├── Space-Time
+├── Space
 │   ├── pa  (place/space)
 │   ├── di  (direction)
+│   └── ko  (containment/interior)
+│
+├── Time
 │   ├── ti  (time/sequence)
 │   └── re  (repetition/cycle)
 │
@@ -61,10 +64,11 @@ EXISTENCE
 ├── Quantity
 │   ├── nu  (quantity/number)
 │   ├── ru  (unity/singularity)
-│   └── plu (plurality/collective)
+│   └── pu  (plurality/collective)
 │
 └── Force
-    └── ra  (energy/force)
+    ├── ra  (energy/force)
+    └── ha  (heat/thermal state)
 ```
 
 ---
@@ -85,6 +89,7 @@ These pairs are the most likely sources of ambiguity. Their boundaries must be e
 | `wi` (intention) | `ka` (action) | `wi` is the goal state. `ka` is the actual operation. |
 | `vo` (value) | `to` (knowledge) | `vo` is evaluative/qualitative. `to` is descriptive/structural. |
 | `ne` (relation) | `pe` (part) | `ne` is a link between peers. `pe` is a component inside a whole. |
+| `ra` (energy) | `ha` (heat) | `ra` is energy as force or capacity (electrical charge, kinetic force, structural load). `ha` is the thermal state of matter. A frozen conductor carrying high current has high `ra` and low `ha` simultaneously — they are orthogonal. `ra-de` = power failure; cold = `no-ha`. |
 
 ---
 

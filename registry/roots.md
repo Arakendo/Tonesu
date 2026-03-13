@@ -46,6 +46,7 @@ For contracted everyday forms, see lexicon/colloquial.md.
 | R029 | `pu` | plurality / collective | quantity | general |
 | R030 | `ra` | energy / force | force | general |
 | R031 | `ko` | containment / interior | space | general |
+| R032 | `ha` | heat / thermal state | force | general |
 
 ---
 
@@ -53,9 +54,9 @@ For contracted everyday forms, see lexicon/colloquial.md.
 
 | ID | Particle | Role | Notes |
 |----|----------|------|-------|
-| G001 | `la` | agent marker | precedes the agent NP |
+| G001 | `la` | perspective anchor | precedes the perspective-privileged participant (agent in action clauses, stance-holder in epistemic clauses, relational anchor in stative predicates) |
 | G002 | `lo` | patient marker | precedes the affected NP |
-| G003 | `ra` | instrument/cause marker | precedes tool or reason |
+| G003 | `ro` | instrument/cause marker | precedes tool or reason; `ro` has no root assignment — renamed from `ra` to eliminate particle/root collision |
 | G004 | `pa` | location marker | precedes place NP |
 | G005 | `ne` | recipient / relation | precedes beneficiary or target |
 | G006 | `ta` | time reference | precedes temporal expression |
@@ -63,7 +64,7 @@ For contracted everyday forms, see lexicon/colloquial.md.
 | G008 | `na` | proper name marker | precedes identifiers |
 | G009 | `da` | domain marker | precedes domain label |
 
-*Note: `la` (agent particle) is now phonetically distinct from `li` (person/agent root) — that collision is resolved. Remaining particles that overlap with roots (`ra`, `pa`, `ka`, `ne`) are lower priority and still under review.*
+*Note: `la` (perspective anchor particle) is phonetically distinct from `li` (person/agent root) — resolved. `ro` (instrument particle) has no root assignment — resolved by rename from `ra`. Remaining particles that overlap with roots (`pa`, `ka`, `ne`) are lower priority and still under review.*
 
 ---
 
