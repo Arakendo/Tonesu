@@ -1848,6 +1848,83 @@ Related:      ka (intentional action), ne (relation), de (decay), ne-de (W091)
 
 ---
 
+**W093**
+Form:         fa-ki
+Composition:  fa (affective substrate) + ki (motion/becoming/change)
+Gloss:        affect-shift / qualitative substrate change
+Definition:   The affective substrate changes character or register — not a change in
+              level (up or down) but a qualitative shift: from diffuse to focused, from
+              anxiety to dread, from grief to numbness. `fa-ki` names the change event
+              itself; what the substrate shifted *from* and *to* is left underspecified
+              unless context adds it. Distinct from `fa-be` (level rising) and `fa-de`
+              (level falling): those are quantitative changes; `fa-ki` is qualitative.
+First use:    S142 (fa-CON-C1, March 2026): `la-mi  fa-ki.  no  fa-be;  no  fa-de.`
+Notes:        The diagnostic sentence pattern "not `fa-be`; not `fa-de`" isolates
+              `fa-ki` as the correct construction when affect changed without escalating
+              or diminishing.
+Related:      fa (affective substrate), ki (motion/change), fa-be (W-pending), fa-de (W094)
+
+---
+
+**W094**
+Form:         fa-de
+Composition:  fa (affective substrate) + de (decay/decrease)
+Gloss:        affect-fading / substrate diminishing
+Definition:   The affective substrate level is diminishing or fading. The affect is still
+              partially present; what is named is its downward trajectory. Distinct from
+              `fa-no` (substrate absent, flatness — the end state) and `la-zo-mi  de`
+              (bodily resource depletion = fatigue). `fa-de` describes the active process
+              of the substrate decreasing.
+First use:    S145 (fa-CON-C4, March 2026): `la-mi  fa-be  ta-ti-de.  la-mi  fa-de.`
+Notes:        Complement to `fa-be` (substrate rising). Together with `fa-ki`, the three
+              level-and-character compounds are: `fa-be` (up), `fa-de` (down), `fa-ki`
+              (qualitative shift). Not interchangeable with `la-zo-mi  de` — the latter
+              is bodily physical depletion; `fa-de` is affective tone diminishing.
+Related:      fa (affective substrate), de (decay), fa-be, fa-ki (W093), fa-no (W095)
+
+---
+
+**W095**
+Form:         fa-no
+Composition:  fa (affective substrate) + no (negation/absence)
+Gloss:        affective numbness / substrate absent
+Definition:   The affective substrate is inactive — not active but unresolved (`fa-no-to`),
+              not fading (`fa-de`), but simply not present. Flatness. The organism-state
+              channel is offline. The speaker may retain full perceptual and cognitive
+              function (`se` and `to` unaffected) while `fa` is absent. Corresponds to
+              anhedonia, SSRI-induced affect-flatness, or dissociative emotional absence.
+              Distinct from `se-no` (no external detection = nothing to sense from outside).
+First use:    S144 (fa-CON-C3, March 2026): `la-mi  se  vo-de  lo-ne-mi.  la-mi  fa-no.`
+Notes:        The diagnostic pair `se  [active]  +  fa-no` is the canonical Tonesu form
+              for "I know this should affect me, but it doesn't." Perception and cognition
+              functioning; affect substrate absent.
+Related:      fa (affective substrate), no (negation/absence), fa-de (W094), se-no (signal-absence)
+
+---
+
+**W096**
+Form:         fa-re
+Composition:  fa (affective substrate) + re (repetition/cycle)
+Gloss:        recurring affect / cyclical substrate pattern
+Definition:   The affective substrate state as a whole is cycling — returning to a
+              recognizable pattern. `fa-re` is a meta-level observation: not that a
+              specific emotional content recurs (`fa  vo-de  re` = value-decay cycling),
+              but that the *patterned substrate state itself* is recurring. Used when the
+              speaker recognizes they are in a cycle without necessarily naming the
+              emotional content. Natural companion: `to-ko  lo-su` (I remember this
+              pattern-structure = I've been here before).
+First use:    S143 (fa-CON-C2, March 2026): `la-mi  fa-re.  la-mi  to-ko  lo-su.`
+Notes:        Concordian `re` as a primitive (repetition is ontologically basic) means
+              this compound is structurally natural: affect-cycling is a first-class
+              observable fact, not a secondary inference. `fa-re` is pattern recognition
+              turned inward.
+              Contrast: `fa  vo-de  re` (S137) = the specific content (value-decay) is
+              what cycles; `fa-re` = the whole substrate pattern is cycling regardless
+              of its specific content.
+Related:      fa (affective substrate), re (repetition/cycle), to-ko (W027)
+
+---
+
 - [x] ~~Resolve whether compound forms use hyphens in writing or run together~~ → Resolved: solid spelling is canonical; hyphens are analytic notation only. See spec/word-formation.md § Written Form.
 - [ ] Review W002 (su-mu-li) — does it conflict with the derivational marker stack order?
 - [ ] Develop domain-specific sub-lists once domains are finalized (see ontology/domains.md)
