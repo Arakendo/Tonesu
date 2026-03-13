@@ -260,6 +260,12 @@ If Concordia distinguishes `to-fe-ki` (honest epistemic error) from `to-fe-ka` (
 
 **Connection to evidentiality (open question):** `to-fe-li` have the strongest functional need for evidential markers. Adjudicating a claim requires specifying *how* the arbiter established the true epistemic status. A `to-fe-li` who determines that a claim was `se` rather than `to` must be able to say: I established this by direct perception (`se-ro`), by received signal (`si-ro`), or by inference (`to-ro`). This is the clearest use case for evidentiality — and the reason the question should be left open until a corpus sentence involving adjudication makes the need concrete.
 
+**The self-legitimation problem (quis custodiet):** If `to-fe-su` certifies epistemic claims, who certifies `to-fe-su`? The Concordian answer is not an external authority (infinite regress) but *self-application*: `to-fe-su`'s own rules are themselves published to `to-su` status — openly systematized, challengeable, revisable through the same `to-fe-li` + `to-fe-su` process they define. The circularity is intentional: the system bootstraps legitimacy through transparent, revisable procedure rather than external sanction, the same way scientific methodology is validated by track record and openness to revision rather than by a higher authority.
+
+The practical consequence: a `to-fe-su` body that made its own rules unchallengeable would be committing `to-fe-ka` on its own standards — suppressing the epistemic status of a meta-level claim. Any `to-fe-li` could adjudicate that. The recursion is stable because the meta-level rules are subject to the object-level procedure.
+
+Vocabulary gap this exposes: there is currently no distinction between a `to-fe-su` ruling that is internal and one that has been published to `to-su` status and is therefore openly challengeable. A standard that has been adopted but not yet published is distinguishable from a standard that has been certified as meeting its own criteria. That distinction is where institutional capture would show up. Flagged in notes/open-questions.md.
+
 ---
 
 ## Open Questions
