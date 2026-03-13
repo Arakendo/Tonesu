@@ -95,6 +95,39 @@ Examples:     "the to-li studied the pattern"
 Related:      to-su-li (one who organizes knowledge; librarian, archivist)
 ```
 
+**W032**
+```
+Form:         to-fe-li
+Type:         compound
+Class:        entity
+Definition:   epistemic guardian; one with recognized social authority to adjudicate
+              epistemic claims; knowledge auditor, peer reviewer, truth arbiter
+Composition:  to-fe (W028, epistemic boundary) + -li (social agent) — a person whose
+              recognized social role is maintaining and adjudicating epistemic category integrity
+Register:     formal
+Domain:       knowledge / institutions / ethics
+Status:       proposed
+Examples:     "the to-fe-li reviewed the claim and confirmed it as to, not se"
+              "la-to-fe-li  ka-to-fe-ki-past  lo-to-su" — the arbiter ruled the error unintentional
+Notes:        Critically distinct from to-li (W003, knower/scientist): to-li produces knowledge;
+              to-fe-li adjudicates it. The to-li asks: what is true? The to-fe-li asks: has the
+              epistemic procedure been followed; is this claim's category warranted?
+              The role is institutional, not personal: a to-li becomes relevant by having knowledge;
+              a to-fe-li is relevant by holding recognized authority to certify or contest
+              epistemic categories in formal contexts.
+              The existence of to-fe-li as a recognized social role is what gives to-fe-ka its
+              cultural weight: fraud (to-fe-ka) is a charge that a to-fe-li can formally bring;
+              without the role, the vocabulary is description only. With it, it is actionable.
+              Structural mirror: to-fe-ka (boundary violation) ↔ to-fe-li (boundary upholder).
+              The same root triple, opposite social functions.
+              Unregistered institutional form: to-fe-su (the epistemic code / standards framework
+              within which to-fe-li operate). Register when corpus demands it.
+              Evidentiality pressure: to-fe-li have the strongest need for evidential markers
+              (se-ro / si-ro / to-ro, pending) — adjudicating an epistemic claim requires
+              specifying how the arbiter established the true status.
+Related:      to-li (W003), to-fe (W028), to-fe-ka (W029), to-su-li
+```
+
 ---
 
 ### Objects and Devices

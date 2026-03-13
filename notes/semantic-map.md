@@ -227,6 +227,26 @@ The pattern: Concordia invests precision where *accountability, epistemics, and 
 
 ---
 
+### Domain 6: Epistemic Accountability Roles
+
+The five domains above describe *vocabulary*. This domain describes the *institutional architecture* that vocabulary implies.
+
+If Concordia distinguishes `to-fe-ki` (honest epistemic error) from `to-fe-ka` (deliberate fraud), then some mechanism must exist for making that determination formally. That mechanism requires a recognized class of agents whose social authority is adjudicating epistemic claims. The vocabulary did not create this institution; it revealed that the institution must already have existed for the vocabulary to carry social weight.
+
+| Role | Form | Distinction |
+|------|------|-------------|
+| Knower / scholar | `to-li` (W003) | produces knowledge; primary relationship to `to` is research |
+| Knowledge organizer | `to-su-li` | maintains structured knowledge systems; librarian/archivist |
+| Epistemic guardian | `to-fe-li` (W032) | adjudicates epistemic claims; authority over `to-fe`; certifies or contests category assignments |
+
+**The asymmetric pair:** `to-fe-li` (uphold) / `to-fe-ka` (violate) — same root triple, structurally opposite social functions. The pair only makes sense together: the role exists because the violation is possible; the violation carries weight because the role exists.
+
+**Institutional implication:** The body or framework within which `to-fe-li` operate would be `to-fe-su` (epistemic code / standards framework) — as yet unregistered. Register when corpus work produces a sentence that requires the institution, not just the agent.
+
+**Connection to evidentiality (open question):** `to-fe-li` have the strongest functional need for evidential markers. Adjudicating a claim requires specifying *how* the arbiter established the true epistemic status. A `to-fe-li` who determines that a claim was `se` rather than `to` must be able to say: I established this by direct perception (`se-ro`), by received signal (`si-ro`), or by inference (`to-ro`). This is the clearest use case for evidentiality — and the reason the question should be left open until a corpus sentence involving adjudication makes the need concrete.
+
+---
+
 ## Open Questions
 
 - [ ] `to` appears in both Structure and Mind clusters — should it split into two roots?
