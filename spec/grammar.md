@@ -316,6 +316,36 @@ Pronouns follow the same case-marking rules as nouns.
 
 ---
 
+## Imperative
+
+A direct command is a **reduced matrix clause** with the second-person agent marker suppressed.
+
+**Rule:** Omit `la-tu`. All other argument and predicate markers remain in their canonical positions. The addressee-as-agent is implied by the absence of any other agent marker in an addressed-speech context.
+
+```
+lo-mu  ne-mi  ka-be
+(patient:machine)  (recipient:me)  (action:build)
+→  Build me a machine.
+
+ka-be  lo-mu
+(action:build)  (patient:machine)
+→  Build it.
+
+no-ka-ki  lo-mu
+(neg-action:move)  (patient:machine)
+→  Don't move the machine.
+```
+
+**Interpretation rule:** When no `la-X` is present in an addressed-speech context and the clause is not one of the recognized agentless-process forms, parse as imperative.
+
+**Emphatic and polite forms:** Retaining `la-tu` explicitly shifts the register toward formal request or emphasis. Full form (`la-tu  lo-mu  ka-be`) = strong directive or polite request depending on prosody. Reduced form = standard command. The prosodic distinction is pending phonology decisions.
+
+**Consistency with agent inheritance:** The same agent-omission logic used in `wi` purpose clauses applies here — omission always refers to a contextually established agent, never an unspecified placeholder. In the imperative, context establishes the addressee (`tu`) as that agent.
+
+**Corpus status:** Imperative forms not yet attested in corpus. S019 (P004) identified the gap; this rule closes it as a grammar specification. First corpus example pending.
+
+---
+
 ## Open Questions
 
 - [ ] Finalize grouping/nesting particle syntax
