@@ -1,0 +1,175 @@
+# Prior Art
+
+## Status: Draft
+
+This file documents existing languages and systems that inform the design. Understanding what each one solved — and where each one broke — prevents repeating the same mistakes.
+
+---
+
+## Engineered Human Languages
+
+---
+
+### Esperanto
+**Created:** 1887, L. L. Zamenhof
+**Goal:** Universal auxiliary language; easy to learn, phonetically regular
+
+**What it does well:**
+- Fully phonetic: one sound per letter, no exceptions
+- Agglutinative morphology with productive affixes — small root vocabulary generates many words
+- Extremely regular grammar, almost no exceptions
+- Large enough speaker community to test real use
+
+**Relevant design patterns:**
+- Agent suffix (-ist-), instrument suffix (-il-), place suffix (-ej-), abstract noun suffix (-ec-) — similar to derivational markers in this project
+- Root vocabulary is small; most words derived from roots + affixes
+
+**Limitations for this project:**
+- Roots are mostly arbitrary (European-derived, not semantically decomposed)
+- No formal domain system
+- No mechanism for structured concept creation
+- Semantic transparency is weak: words are compositional in form, not in meaning
+
+---
+
+### Lojban
+**Predecessor:** Loglan (1955, James Cooke Brown); Lojban (1987, Bob LeChevalles)
+**Goal:** Unambiguous grammar that maps to predicate logic; test Sapir-Whorf hypothesis
+
+**What it does well:**
+- Grammar encodes predicate-argument structure explicitly
+- Machine-parseable — no grammatical ambiguity by design
+- Explicit markers for epistemic stance (evidentials): speaker's confidence level
+- Compounds (lujvo) built from combining form roots (rafsi)
+
+**Relevant design patterns:**
+- Predicate logic structure as sentence grammar — close to the "typed semantic graph" concept
+- Compound words have documented etymology visible in their structure
+- Strict separation of grammar from content words
+
+**Limitations for this project:**
+- Root vocabulary (gismu) is not semantically transparent — roots are phonetically engineered blends of world languages, not semantic composites
+- Highly complex and difficult to speak naturally
+- No domain hierarchy or namespace system
+- Very few fluent speakers; untested at scale
+
+---
+
+### Toki Pona
+**Created:** 2001, Sonja Lang
+**Goal:** A minimal language for clarity of thought; inspired by Taoism
+
+**What it does well:**
+- ~120–137 root words total — forces compositional thinking
+- New concepts must be constructed from primitives: "computer" = "thinking machine"
+- Very low learning curve; speakers productive in weeks
+- Demonstrates that compositional semantic coverage is possible with a tiny vocabulary
+
+**Relevant design patterns:**
+- Minimal primitive set working in practice
+- Natural pressure toward compound construction
+- Shows that ambiguity is often contextually resolvable even with a small vocabulary
+
+**Limitations for this project:**
+- No formal domain system or word-formation rules
+- Intentionally imprecise — unsuitable for technical or scientific use
+- No mechanism for expanding precision; the minimalism is a feature, not a bug
+- No phonemic self-description
+
+---
+
+### Ithkuil
+**Created:** 2004 (and revisions), John Quijada
+**Goal:** Maximum semantic and grammatical precision in minimal phonetic space
+
+**What it does well:**
+- Encodes very fine-grained semantic distinctions: perspective, intentionality, scope, evidentiality
+- Morphology is highly systematic and fully documented
+- Demonstrates how much meaning can be packed into a compact form
+
+**Relevant design patterns:**
+- Ontological categories baked into grammar (similar to "entity/process/relation" type markers)
+- Explicit encoding of conceptual structure in word form
+
+**Limitations for this project:**
+- Extraordinarily complex; essentially impossible for casual use
+- Not designed for phonetic simplicity or global learnability
+- No domain extensibility mechanism
+
+---
+
+### Interlingua
+**Created:** 1951, IALA
+**Goal:** International auxiliary language based on common scientific vocabulary
+
+**Relevant to this project:**
+- Scientific vocabulary built from Latin/Greek morphology (photosynthesis, thermodynamics, bioinformatics)
+- Shows that structured morphological derivation works in practice for technical domains
+- But: process is cultural and ad-hoc, not formally governed by a designed system
+
+---
+
+## Philosophical / Historical Attempts
+
+---
+
+### John Wilkins — Real Character (1668)
+**Goal:** A universal language where word structure encodes taxonomic position in a knowledge tree
+
+**What it did:**
+- Organized all of knowledge into a hierarchy
+- Word forms encoded the concept's location in the hierarchy
+- Concept essentially identical to "self-describing constructs"
+
+**Why it failed:**
+- Taxonomy became too rigid — knowledge changed but the word structure could not adapt
+- Ontological bias: Wilkins' categories encoded a specific 17th-century European worldview
+- No mechanism for revision without breaking the whole system
+
+**Lesson for this project:**
+The most direct ancestor of this project. The domain inheritance and stability rules in ontology/domains.md are a direct response to Wilkins' failure mode.
+
+---
+
+## Computational / Formal Systems
+
+---
+
+### RDF / OWL / Formal Ontologies
+**Type:** Semantic web standards; knowledge representation languages
+**Used for:** Defining concepts, properties, and relationships in machine-readable form
+
+**What it does well:**
+- Explicit class hierarchies and domain/range constraints
+- Namespace system (URIs) for concepts — directly analogous to the domain system in this project
+- Inheritance, composition, and constraint all formally defined
+
+**Relevant design patterns:**
+- The domain-as-namespace idea derives most directly from this tradition
+- "Domain declaration rule" in ontology/domains.md maps closely to how ontologies define new classes
+
+**Limitations:**
+- Not a spoken language; no phonology
+- Verbose and not human-friendly for everyday use
+
+---
+
+## Summary Table
+
+| System | Phonetic | Compositional semantics | Domain system | Scalable | Speakable |
+|--------|----------|------------------------|---------------|----------|-----------|
+| Esperanto | Yes | Partial | No | Limited | Yes |
+| Lojban | Yes | No | No | Limited | Difficult |
+| Toki Pona | Yes | Yes (minimal) | No | No | Yes |
+| Ithkuil | Yes | Partial | No | No | Very hard |
+| Wilkins | No | Yes | Implicit | No | N/A |
+| OWL/RDF | No | Yes | Yes | Yes | No |
+| **This project** | **Yes** | **Yes** | **Yes** | **Yes (goal)** | **Yes (goal)** |
+
+---
+
+## Open Questions
+
+- [ ] Review AUI (1962, W. John Weilgart) — a semantic atomic language using symbols; potentially relevant
+- [ ] Review Ceqli and other agglutinative auxlangs for morphological patterns
+- [ ] Investigate how constructed languages handle semantic drift over time (Esperanto dialects, Lojban variants)
