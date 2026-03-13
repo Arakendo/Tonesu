@@ -801,6 +801,561 @@ Related:      ma (matter), no (negation), de (decay), ne-fe (W042), zo-li (perso
 
 ---
 
+**W047**
+```
+Form:         ka-mu
+Type:         compound
+Class:        entity / object
+Definition:   tool; an artifact defined by its action-function; an instrument for performing
+              a specific deliberate action.
+Composition:  ka (deliberate action) + mu (artifact) — artifact whose identity is the action
+              it performs. Head-final: mu (artifact) is head; ka specifies functional class.
+Register:     standard
+Domain:       material / technical
+Status:       proposed
+Examples:     "la-ze  lo-ka-mu  ne-ko-mu  ka-ko" — he placed the tool into the container (S071)
+Notes:        Distinct from ra-ki-mu (engine/power-machine, W012) where the artifact is defined
+              by energy and motion. ka-mu is the generic functional tool: the artifact is defined
+              by what deliberate action it affords. Used in S047A (ka-mu-to = concept of
+              device-maintenance) and S071 (ka-mu as physical object). Also appears as the suffix
+              exemplar in morphology.md (-mu = device/instrument; ka-mu → tool for the action).
+Related:      mu (artifact), ka (deliberate action), ra-ki-mu (W012), ko-mu (W052, vessel)
+```
+
+**W048**
+```
+Form:         ko-pa
+Type:         compound
+Class:        entity / place
+Definition:   room; enclosed space; a bounded interior place.
+Composition:  ko (containment/interior) + pa (place/space) — a place defined by enclosure.
+              Head-final: pa (place) is head; ko specifies the bounding character.
+Register:     standard
+Domain:       spatial
+Status:       proposed
+Examples:     "lo-ko-pa  ha-vo  nu-be  lo-ki-pa" — the room is warmer than the corridor (S064)
+Notes:        Paired with ki-pa (W049, corridor). ko-pa = bounded; ki-pa = transitive. The
+              contrast follows from the primitives: containment (ko) vs motion (ki) as the
+              defining character of a place. Generalizes to any enclosed space: chamber,
+              cabin, cockpit, archive room.
+Related:      ko (containment), pa (place), ki-pa (W049), ko-mu (W052, enclosed artifact/vessel)
+```
+
+**W049**
+```
+Form:         ki-pa
+Type:         compound
+Class:        entity / place
+Definition:   corridor; passage; a place defined by motion through it.
+Composition:  ki (motion) + pa (place) — a place whose defining character is directed passage.
+              Head-final: pa (place) is head; ki specifies the motion character.
+Register:     standard
+Domain:       spatial
+Status:       proposed
+Examples:     "lo-ko-pa  ha-vo  nu-be  lo-ki-pa" — the room is warmer than the corridor (S064)
+Notes:        Paired with ko-pa (W048, room). The distinction: a room exists to contain; a
+              corridor exists to pass through. Extends to any transitive passage space: hallway,
+              airlock approach, transit tube.
+Related:      ki (motion), pa (place), ko-pa (W048)
+```
+
+**W050**
+```
+Form:         pa-nu
+Type:         compound
+Class:        property / quantity
+Definition:   size; spatial magnitude; volume or extent of a physical entity.
+Composition:  pa (space/place) + nu (quantity/number) — the quantity of space occupied.
+              Head-final: nu (quantity) is head; pa specifies the dimension.
+Register:     standard
+Domain:       spatial / measurement
+Status:       proposed
+Examples:     "lo-mu  pa-nu  nu-be  lo-mu-ne" — the machine is larger than the other one (S065)
+Notes:        Follows the [domain]-nu/vo quality pattern: ha-vo (thermal quality), ra-vo (energy
+              quality, W067), pa-nu (spatial quantity). The nu head rather than vo head reflects
+              that size is a measurable quantity, not merely a quality. Admits comparative
+              construction nu-no/nu-be directly: pa-nu nu-be = larger; pa-nu nu-no = smaller.
+Related:      pa (space), nu (quantity), ha-vo (W033-domain), ra-vo (W071)
+```
+
+**W051**
+```
+Form:         zo-de
+Type:         compound
+Class:        state / process
+Definition:   fatigue; physical tiredness; the wearing-down of a living body through exertion.
+Composition:  zo (living organism) + de (decay/decrease) — biological decay from use.
+              Head-final: de (decay) is head; zo specifies the domain as living/biological.
+Register:     standard
+Domain:       biological
+Status:       proposed
+Examples:     "lo-li-be  ta-ti-now  zo-de  nu-no  ta-ti-de" — the child is less tired than
+              yesterday (S066)
+Notes:        Third member of the de-domain contrast set: ra-de (power/energy loss = power
+              failure or deceleration), ha-de (W044, thermal decrease = cooling), zo-de
+              (biological wear = fatigue). The three are strictly orthogonal: a person who is
+              zo-de is not necessarily ra-de or ha-de; an overheating engine is ha-de, not zo-de.
+              The de head with a domain modifier has proven productive across four roots now
+              (ra-de, ha-de, zo-de, no-de = preservation).
+Related:      zo (living), de (decay), ra-de (power loss), ha-de (W044), ne-fe (W042)
+```
+
+**W052**
+```
+Form:         ko-mu
+Type:         compound
+Class:        entity / object
+Definition:   vessel; container; an artifact whose defining function is containment.
+Composition:  ko (containment) + mu (artifact) — an artifact defined by its holding function.
+              Head-final: mu (artifact) is head; ko specifies functional class.
+Register:     standard
+Domain:       material / technical
+Status:       proposed
+Examples:     "la-ko-mu  ko  lo-ma-di" — the vessel holds water (S068)
+              "la-ze  lo-ka-mu  ne-ko-mu  ka-ko" — he placed the tool into the container (S071)
+Notes:        Distinct from ko-pa (W048, enclosed space): ko-mu is a portable artifact that
+              holds; ko-pa is a fixed place that encloses. Both have ko as modifier but differ
+              in head (mu = artifact vs pa = place). The S071 use (ne-ko-mu = toward the
+              container as destination) confirms ko-mu as a spatial reference landmark.
+Related:      ko (containment), mu (artifact), ko-pa (W048), la-X ko lo-Y (containment predicate)
+```
+
+**W053**
+```
+Form:         pa-ra
+Type:         compound
+Class:        entity / phenomenon
+Definition:   field; the spatial distribution of an energetic quantity; a region characterized
+              by the presence of a force or energy.
+Composition:  pa (space/place) + ra (energy/force) — energy organized over space.
+              Head-final: ra (energy) is head; pa specifies that the energy is distributed
+              spatially rather than concentrated at a point.
+Register:     standard
+Domain:       physical / mystic
+Status:       proposed
+Examples:     "la-ra-ki-li  se  lo-pa-ra" — the pilot sensed the field (S072)
+Notes:        Distinct from ha-ra (thermal energy as a stored quantity, S037): ha-ra is thermal
+              energy as a material property; pa-ra is energy as a spatial phenomenon. Analogous
+              to the difference between "heat in this metal" and "a gravitational field." Also
+              serves as the Concordian term for mystic fields (da-wi-ra domain) without
+              committing to any ontological difference from physical fields.
+Related:      pa (space), ra (energy/force), ha-ra (thermal energy), ne-ra (W058, resonance)
+```
+
+**W054**
+```
+Form:         wi-ka-su
+Type:         compound
+Class:        entity / structure
+Definition:   ritual; a formally organized system of intentional acts; a structured practice
+              of deliberate action.
+Composition:  wi (will/intention) + ka (deliberate action) + su (order/structure) — organized
+              intentional-action. Head-final: su (structure) is head; wi-ka (intentional action)
+              modifies to specify type.
+Register:     formal / ritual
+Domain:       social / mystic / religious
+Status:       proposed
+Examples:     "la-wi-ka-su  lo-fe-su  be-past" — the ritual strengthened the ward (S073)
+Notes:        Distinct from wi-to (W045, plan): wi-to is a purposive design object (what you
+              write down); wi-ka-su is an organized *practice* (what you repeatedly perform).
+              A plan is not yet enacted; a ritual is enacted repeatedly. The su head marks
+              institutional organization, consistent with spec (su = external organizational
+              arrangement). wi-ka-su is a natural non-sentient agent in the la slot.
+Related:      wi (will), ka (action), su (structure), wi-to (W045), fe-su (W055)
+```
+
+**W055**
+```
+Form:         fe-su
+Type:         compound
+Class:        entity / structure
+Definition:   ward; protective barrier; a constructed boundary with a defensive function.
+Composition:  fe (boundary/limit) + su (structure/organization) — a boundary that has been
+              organized into a structure. Head-final: su (structure) is head; fe specifies
+              the boundary function.
+Register:     standard / formal
+Domain:       physical / protective / mystic
+Status:       proposed
+Examples:     "la-wi-ka-su  lo-fe-su  be-past" — the ritual strengthened the protective barrier (S073)
+Notes:        Distinct from fe-no-ka (W056, forbidden boundary): fe-su is a constructed barrier
+              that holds; fe-no-ka is a prohibition that defines a boundary. A ward is built;
+              a taboo is declared. Also distinct from ha-fe (thermal threshold, S034) and si-fe
+              (signal threshold, S067): those are measurement boundaries, not structural ones.
+Related:      fe (boundary), su (structure), fe-no-ka (W056), pa-wi-ka-su (W061)
+```
+
+**W056**
+```
+Form:         fe-no-ka
+Type:         compound
+Class:        entity / property
+Definition:   forbidden boundary; taboo; a limit defined by its prohibition against crossing.
+Composition:  fe (boundary) + no (negation) + ka (deliberate action) — bound whose crossing
+              is prohibited. Head-final: fe (boundary) is head; no-ka (no-action = prohibition)
+              modifies it to specify the character of the boundary.
+Register:     standard / formal
+Domain:       social / mystic / legal
+Status:       proposed
+Examples:     "la-yu  fe-ki  lo-fe-no-ka" — they crossed the forbidden boundary (S077)
+Notes:        The prohibition is structural, not agentive: fe-no-ka encodes the boundary's
+              property (it is a no-action boundary) rather than asserting who declared the
+              prohibition. Extends across institutional, cultural, physical, and mystic contexts.
+              Tonesu's most natural expression of "taboo" — the cultural prohibition is
+              encoded as a boundary characteristic, not as a rule from an authority.
+Related:      fe (boundary), no (negation), ka (action), fe-su (W055), fe-vo (W062)
+```
+
+**W057**
+```
+Form:         ti-mu
+Type:         compound
+Class:        entity / object
+Definition:   relic; ancient artifact; an object characterized by significant temporal depth.
+Composition:  ti (time) + mu (artifact) — an artifact defined by its relationship to time.
+              Head-final: mu (artifact) is head; ti specifies temporal character.
+Register:     standard / historical
+Domain:       material / historical / mystic
+Status:       proposed
+Examples:     "la-ti-mu  si-ki  no-to-ge" — the relic emits an anomalous signal (S076)
+Notes:        A ti-mu is characterized by temporal depth — it is from/of a past time. Does
+              not imply mystical properties; the mystical connotation comes from context
+              (the anomalous signal), not from the compound structure. In non-mystical use:
+              any ancient artifact (archaeological relic, old machine part, historical document).
+              mu head makes it portable and object-class.
+Related:      ti (time), mu (artifact), si-su (archive, encoded structure)
+```
+
+**W058**
+```
+Form:         ne-ra
+Type:         compound
+Class:        state / relation
+Definition:   resonance; energetic coupling; a relational state in which two systems are
+              energetically connected or synchronized.
+Composition:  ne (relation/connection) + ra (energy/force) — a relational connection in the
+              energetic domain. Head-final: ra (energy) is head; ne specifies that the energy
+              is organized as a relation between systems rather than as a point quantity.
+Register:     standard / technical / mystic
+Domain:       physical / mecha resonance
+Status:       proposed
+Examples:     "la-ra-ki-li  ne-ra-ki  lo-mu" — the pilot entered resonance with the machine (S083)
+Notes:        Key compound for the Concordia mecha resonance concept. Structurally distinct
+              from pa-ra (W053, spatial field = energy over space) and ha-ra (thermal energy
+              as material property): ne-ra is energy *as a relation between two systems*.
+              The bidirectional/mutual coupling reading distinguishes it from la-wi-ze ka lo-mu
+              (S075, directed will-as-agent acting on the machine, unidirectional).
+              WATCH: if ne-ra appears in five or more sentences across diverse contexts, evaluate
+              whether the relational-energy concept has become load-bearing enough to consider a
+              shortform or formal lexicalization status.
+Related:      ne (relation), ra (energy), pa-ra (W053), ne-ra-ki (W059), wi (will/intention)
+```
+
+**W059**
+```
+Form:         ne-ra-ki
+Type:         compound
+Class:        process / verb
+Definition:   to attune; to synchronize; to enter a state of energetic coupling with another
+              system.
+Composition:  ne-ra (resonance, W058) + ki (motion/inchoative) — entering the resonance state.
+              Inchoative: appending ki to a state compound produces the event of entering that
+              state. Pattern: ne-ki (connect), zo-ki (come to life), ko-ki (enter containment),
+              zo-se-ki (W060, enter trance).
+Register:     standard / technical / mystic
+Domain:       mecha / mystic / physics
+Status:       proposed
+Examples:     "la-ra-ki-li  ne-ra-ki  lo-mu" — the pilot attuned to the machine (S083)
+Notes:        The patient (lo-mu) is the entity being coupled with, not acted upon. This is
+              the grammatically significant feature: ne-ra-ki uses a patient-as-coupling-target,
+              not a patient-as-affected-object (the la-X ka lo-Y = "acts on" frame). A speaker
+              who says ne-ra-ki is asserting a mutual or relational coupling, not a one-way
+              action. The compound resolves the direction ambiguity of S075 for bidirectional
+              resonance cases.
+Related:      ne-ra (W058), ki (motion/inchoative), zo-se-ki (W060), ne-ki (connect)
+```
+
+**W060**
+```
+Form:         zo-se-ki
+Type:         compound
+Class:        process / verb
+Definition:   to enter trance; to transition into a state of heightened bodily perception;
+              to shift from cognitive-processing to raw sensory mode.
+Composition:  zo (living organism) + se (perception) + ki (inchoative) — entering the
+              organism-perception state. Head-final with inchoative suffix: base zo-se =
+              "organism-perception state"; ki shifts it to the entering event.
+Register:     standard
+Domain:       biological / cognitive / mystic
+Status:       proposed
+Examples:     "la-ze  zo-se-ki" — she entered the trance state (S074)
+Notes:        The Concordian framing of trance is not supernatural. It is a cognitive mode
+              transition: from to-dominated processing (reasoning, pattern-matching) to
+              zo-se-dominated presence (raw sensory awareness of the body and environment).
+              In mecha context: pilots use zo-se-ki to shift into the perceptual mode that
+              enables ne-ra-ki (W059, attunement). The sequence zo-se-ki → ne-ra-ki is the
+              canonical Concordian description of the mecha synchronization process.
+Related:      zo (living), se (perception), ki (inchoative), ne-ra-ki (W059)
+```
+
+**W061**
+```
+Form:         di-ki-li
+Type:         compound
+Class:        entity / person
+Definition:   navigator; one who works with directed motion; a person whose role is
+              pathfinding and movement guidance.
+Composition:  di (direction/orientation) + ki (motion) + li (social agent) — a person
+              whose defining work is directed movement. Head-final: li (person) is head;
+              di-ki (directed motion) specifies the domain of expertise.
+Register:     standard
+Domain:       social / technical
+Status:       proposed
+Examples:     "la-di-ki-li  se  lo-se-to" — the navigator received a vision (S078)
+Notes:        di-ki = directed motion = navigation as activity type. The navigator is the
+              person who performs di-ki as their social role. Distinct from ra-ki-li (pilot,
+              W012-derived: energy-motion-person) — the pilot operates a power system; the
+              navigator directs a course. In Concordian mecha context: pilot manages the
+              physical drive system; navigator manages the spatial path. Both may be the
+              same individual in a small vessel.
+Related:      di (direction), ki (motion), li (person), ra-ki-li (pilot)
+```
+
+**W062**
+```
+Form:         se-to
+Type:         compound
+Class:        entity / cognitive state
+Definition:   perceptual insight; vision; a conceptual pattern that arrives through direct
+              perception rather than reasoning or inference.
+Composition:  se (raw perception) + to (conceptual pattern) — a concept grounded in direct
+              sensory experience. Head-final: to (concept) is head; se specifies the
+              epistemic origin as perceptual.
+Register:     standard
+Domain:       cognitive / mystic
+Status:       proposed
+Examples:     "la-di-ki-li  se  lo-se-to" — the navigator received a vision (S078)
+Notes:        Distinct from si-to (information-concept = signal-derived knowledge) and to alone
+              (pattern/concept, origin unspecified). se-to is a concept that arrives through
+              the perceptual channel: a flash of direct understanding, a vision, a gestalt.
+              WATCH: does se-to cover both ordinary perceptual insight and prophetic/mystic
+              reception? If the Concordia setting requires the distinction, se-ne-to
+              (perception-relation-concept = conceptual reception through a link to an external
+              source) is the candidate. Do not split until corpus shows conflict.
+Related:      se (perception), to (concept/pattern), si-to (signal-concept), zo-se-ki (W060)
+```
+
+**W063**
+```
+Form:         wi-si
+Type:         compound
+Class:        entity / act
+Definition:   prayer; will-signal; an intentional signal whose content is the will or
+              intention of the sender.
+Composition:  wi (will/intention) + si (signal) — an intentional signal constituted by will.
+              Head-final: si (signal) is head; wi specifies that origin and content are the
+              will itself.
+Register:     standard / ritual
+Domain:       religious / communicative
+Status:       proposed
+Examples:     "la-ze  ka-wi-si" — she prayed (S079)
+Notes:        Distinct from ka-si (W024, transmit: directed signal with information content)
+              and si alone (signal). wi-si is the specific case where the will is both the
+              means and the message. In secular Concordian use: any signal whose content
+              is the sender's intention rather than information (a command-wish to an
+              unresponsive system, a vow, a declaration of intent to an absent party).
+              In religious use: directed toward a deity or doctrinal structure.
+Related:      wi (will), si (signal), ka-si (W024), ne-ra (W058)
+```
+
+**W064**
+```
+Form:         to-re-su
+Type:         compound
+Class:        entity / structure
+Definition:   canonical doctrine; scripture; an organized body of recurring knowledge that
+              is preserved and transmitted across time.
+Composition:  to (conceptual pattern/knowledge) + re (recurrence/cycle) + su (structure) —
+              organized knowledge that is cyclically maintained. Head-final: su (structure)
+              is head; to-re (recurring doctrine) modifies it.
+Register:     formal / institutional
+Domain:       religious / institutional / knowledge
+Status:       proposed
+Examples:     "la-si-su  ko  lo-to-re-su" — the archive holds the canonical doctrine (S080)
+Notes:        Distinct from to-su (organized knowledge generally): the re component specifies
+              that this body of knowledge is actively reproduced and preserved over time.
+              A scientific paper is to-su; a scripture or canon is to-re-su. The rec that
+              it recurs is what makes it canonical — it is not merely stored but repeatedly
+              transmitted. Covers: religious scripture, constitutional canon, ancestral law,
+              any formally preserved and reproduced doctrine.
+Related:      to (knowledge/pattern), re (recurrence), su (structure), to-su (body of knowledge)
+```
+
+**W065**
+```
+Form:         fe-vo
+Type:         compound
+Class:        property / quality
+Definition:   sacredness; the quality of being set apart; boundary-protected value.
+Composition:  fe (boundary/limit) + vo (value/quality) — value defined by a boundary that
+              restricts casual access or use. Head-final: vo (quality) is head; fe specifies
+              the character of the value as boundary-protected.
+Register:     standard / formal
+Domain:       religious / social / ethical
+Status:       proposed
+Examples:     "lo-ti-mu  fe-vo" — the relic is sacred (S081)
+Notes:        The Concordian framing of "sacred" is structural: fe-vo is not a supernatural
+              designation but a description of a quality that prohibits casual crossing. An
+              object or place is fe-vo when approaching or using it without authorization
+              violates a recognized boundary. Extends beyond religion: classified information
+              is fe-vo; a sealed tomb is fe-vo; a legally protected space is fe-vo.
+              Contrast: fe-no-ka (W056) is the boundary itself defined by prohibition;
+              fe-vo is the quality predicated of an entity that carries such a boundary.
+Related:      fe (boundary), vo (value/quality), fe-no-ka (W056), fe-su (W055)
+```
+
+**W066**
+```
+Form:         pa-wi-ka-su
+Type:         compound
+Class:        entity / place
+Definition:   shrine; temple; a place constituted by its function as a ritual institution.
+Composition:  pa (place) + wi (will/intention) + ka (deliberate action) + su (structure) —
+              a place that is an organized structure for intentional practice. Head-final:
+              su (structure) is head; wi-ka (intentional action) specifies the type of
+              organization; pa marks it as a place.
+Register:     standard / formal
+Domain:       religious / social / spatial
+Status:       proposed
+Examples:     "la-zo-si  lo-pa-wi-ka-su  no-de" — the spirits preserve the shrine (S085)
+Notes:        Four-morpheme compound; close to the word-formation spec's recommended limit
+              before restructuring as a phrase. However, the compound is compositionally
+              transparent at each step and the full referent (a formal place for organized
+              intentional practice) benefits from being a single lexical item in religious
+              discourse. Shorter alternatives: pa-wi-ka (place of intentional practice,
+              informal/general) vs pa-wi-ka-su (recognized/formal institutional site).
+              For casual speech, pa-wi-ka is preferred; formal register uses pa-wi-ka-su.
+Related:      pa (place), wi (will), ka (action), su (structure), wi-ka-su (W054, ritual)
+```
+
+**W067**
+```
+Form:         si-mu
+Type:         compound
+Class:        entity / object
+Definition:   individual document; a single encoded record; a discrete artifact that carries
+              encoded information.
+Composition:  si (signal/encoded representation) + mu (artifact) — an artifact defined by
+              its encoded information content. Head-final: mu (artifact) is head; si
+              specifies the artifact as an information carrier.
+Register:     standard
+Domain:       information / material
+Status:       proposed
+Examples:     "la-li-ze  lo-si-mu  ne-si-su  ka-ko" — she placed the document into the archive (S069)
+Notes:        Distinct from si-su (W028, archive/information-structure = the collection) and
+              ka-si (W024, transmission = the act of sending signal). si-mu is the singular
+              physical or encoded record: one document, one file, one data carrier. The
+              distinction si-mu (one record) vs si-su (the archive/collection) mirrors
+              the individual-vs-system contrast that ka-mu/ka-su and mu/su show throughout.
+Related:      si (signal), mu (artifact), si-su (W028, archive), ka-si (W024, transmit)
+```
+
+**W068**
+```
+Form:         zo-to
+Type:         compound
+Class:        entity / concept
+Definition:   soul; the organizing conceptual pattern of a living entity; the identity-pattern
+              that constitutes what a being is.
+Composition:  zo (living organism) + to (conceptual pattern) — the conceptual pattern that
+              is characteristic of a living being. Head-final: to (pattern) is head; zo
+              specifies the living-entity domain.
+Register:     standard / philosophical / religious
+Domain:       cognitive / spiritual / biological
+Status:       proposed
+Examples:     "la-li-pu  to-re-su  si  lo-mu  zo-to" — the group's doctrine claims the
+              machine has a soul (S084)
+Notes:        KEEP DISTINCT FROM zo-si (W069). zo-to = the organizing pattern of a living
+              being's identity — the soul as the constitutive conceptual structure of a
+              person. A person has zo-to. zo-si = a disembodied living-signal agent — the
+              soul as a separate entity that can exist without a body. A ghost IS zo-si.
+              This mirrors the philosophical split between soul-as-pattern and soul-as-entity.
+              Crucially: lo-mu zo-to as a doctrinal claim (wrapped in to-re-su si) is
+              metaphysically neutral — the language asserts what the doctrine claims,
+              not whether zo-to is objectively real.
+Related:      zo (living), to (pattern/concept), zo-si (W069), wi-to (W045)
+```
+
+**W069**
+```
+Form:         zo-si
+Type:         compound
+Class:        entity / agent
+Definition:   spirit; disembodied living agent; an entity whose existence consists of
+              signal without physical substrate.
+Composition:  zo (living organism) + si (signal/representation) — a living entity that
+              exists as signal. Head-final: si (signal) is head; zo specifies that the
+              signal has the character of a living entity.
+Register:     standard / philosophical / religious
+Domain:       spiritual / mystic / biological
+Status:       proposed
+Examples:     "la-zo-si  lo-pa-wi-ka-su  no-de" — the spirits preserve the shrine (S085)
+Notes:        KEEP DISTINCT FROM zo-to (W068). zo-si = a living entity that *is* signal
+              without body — a ghost, spirit, non-physical agent. Used in agent (la) slot
+              (S085): grammatically valid — the la slot does not require physically embodied
+              agents (established from la-wi-ka-su, la-se-ka, la-wi-ze). zo-si as an agent
+              is a non-physical actor with living-entity properties.
+              Metaphysical neutrality: using zo-si does not commit the speaker to the
+              ontological claim that spirits are real. Concordians describing a doctrine use
+              zo-si as a technical term for what the doctrine asserts.
+Related:      zo (living), si (signal), zo-to (W068), zo-se-ki (W060)
+```
+
+**W070**
+```
+Form:         si-fe
+Type:         compound
+Class:        entity / property
+Definition:   signal threshold; the boundary value at which a signal becomes detectable,
+              actionable, or meaningful.
+Composition:  si (signal/encoded information) + fe (boundary/limit) — the boundary of a
+              signal. Head-final: fe (boundary) is head; si specifies the domain as signal.
+Register:     standard / technical
+Domain:       information / physical / measurement
+Status:       proposed
+Examples:     "lo-ra-vo  nu-no  lo-si-fe" — the signal intensity is below threshold (S067)
+Notes:        Parallel to ha-fe (thermal threshold, W033-domain) and fe-no-ka (W056,
+              prohibitive boundary). si-fe is the signal-domain threshold: the point at
+              which a signal transitions from undetectable to detectable, from noise to
+              information, from legal to illegal signal strength. In sensory/mystic context:
+              the perceptual threshold below which no se or se-to occurs. A useful pair:
+              si-fe (can the signal be received?) vs no-si (the signal is absent).
+Related:      si (signal), fe (boundary), ha-fe (thermal threshold), ra-vo (W071, signal intensity)
+```
+
+**W071**
+```
+Form:         ra-vo
+Type:         compound
+Class:        property / quality
+Definition:   signal intensity; energy quality; the qualitative and quantitative character
+              of an energetic or signal output.
+Composition:  ra (energy/force) + vo (value/quality) — the quality dimension of energy.
+              Head-final: vo (quality) is head; ra specifies the domain.
+Register:     standard / technical
+Domain:       physical / information / measurement
+Status:       proposed
+Examples:     "lo-ra-vo  nu-no  lo-si-fe" — the signal intensity is below threshold (S067)
+Notes:        Third member of the [domain]-vo quality pattern: ha-vo (thermal quality,
+              W033-domain), pa-nu (spatial quantity uses nu not vo), ra-vo (energy/signal
+              quality). ra-vo can describe both raw energy output (power level of an engine)
+              and signal strength (signal quality of a communication channel). In Concordia:
+              a pa-ra (field, W053) has a ra-vo; an anomalous emission that breaks a si-fe
+              (W070, signal threshold) has a measurable ra-vo.
+Related:      ra (energy), vo (value/quality), si-fe (W070), pa-ra (W053, field)
+```
+
+---
+
 ## Open Questions
 
 - [x] ~~Resolve whether compound forms use hyphens in writing or run together~~ → Resolved: solid spelling is canonical; hyphens are analytic notation only. See spec/word-formation.md § Written Form.
