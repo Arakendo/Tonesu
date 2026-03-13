@@ -1432,3 +1432,68 @@ Natural:  The standards adjudicator operates per the engineering verification do
 - **`'` directionality rule used here is consistent:** `'` marks the left boundary of a subcompound. `A-B'C-D` = plain chain `[A-B]` modifies pre-bound unit `[C-D]`. `A'B-C-D` = single modifier `A` attaches to pre-bound unit `[B-C-D]`. Both directions attested in one sentence set.
 - **Phonological status of `'` unresolved.** See open-questions.md. Whether the two readings are also phonologically distinct depends on that resolution.
 - **T-APO-001 verdict: `'` earns its weight.** The ungrouped form is genuinely ambiguous post-S040. The two grouped forms are unambiguous, non-equivalent in meaning, and compositionally transparent.
+
+---
+
+## Double Apostrophe Test (S046)
+
+**Purpose:** Determine what two apostrophes mean under the current rule (`'` = left boundary of subcompound). Test whether `A'B'C-D` produces (i) a nested tree (current rule → A modifies `[B modifies [C-D]]`) or (ii) flat coordination (`[A] [B] [C-D]` as parallel chunks). Determine whether the nested form is useful or whether multi-apostrophe compounds should always be restructured as phrases.
+
+The concept under test: the abstract study of how embodied persons derive concepts from perception (roughly: philosophy of mind, cognitive theory). Three approaches.
+
+---
+
+**S046 — Two apostrophes: nested vs. phrase restructuring** *(T-APO-002)*
+
+*Target: "Concordian scholars study the theory of how persons derive concepts from perception."*
+
+**Attempt A — two apostrophes (nested, current rule):**
+
+```
+Gloss:    la-to-li  ka  to-to'ma-li'ne-se-to
+Parse:    to-to modifies [ma-li modifies [ne-se-to]]
+Literal:  agent:concept-person  does  meta-concept [embodied-person [perceptual-conceptual-relation]]
+Natural:  Concordian scholars engage in the meta-theory of how embodied persons build conceptual relations from perception.
+```
+
+Nested reading under the left-boundary rule, working inside-out:
+- `ne-se-to` = relation (`ne`) of perceived (`se`) conceptual patterns (`to`) = a conceptual relation grounded in observation
+- `ma-li'ne-se-to` = `ma-li` modifies `[ne-se-to]` = the perceptual-conceptual relations *of* an embodied person = how a physical being generates grounded concepts from what they sense
+- `to-to'ma-li'ne-se-to` = meta-concept applied to `[ma-li'ne-se-to]` = the abstract theoretical study of that whole process
+
+This is coherent and compositionally traceable, but requires the reader to apply the nesting rule twice in succession — two left-boundary resolutions before arriving at the final meaning.
+
+---
+
+**Attempt B — phrase restructuring (recommended):**
+
+```
+Gloss:    la-to-li  ka  to-to  ne  ma-li'ne-se-to
+Literal:  agent:concept-person  does  meta-concept  relation  [embodied-person][perceptual-conceptual-relation]
+Natural:  Concordian scholars engage in the meta-theory that is connected to how embodied persons build conceptual relations from perception.
+```
+
+`ne` (relation/connection) serves as an explicit connective particle between the outer meta-concept and the inner compound. The single-apostrophe subcompound `ma-li'ne-se-to` is well within the established S045 pattern. Reading is unambiguous and requires only one `'` resolution. The `ne` particle does the structural work that the second `'` was trying to do.
+
+---
+
+**Attempt C — two-sentence split (maximum clarity):**
+
+```
+Sentence 1:  lo-ma-li  ne-se-to  ka
+             Embodied persons construct perceptual-conceptual relations.
+
+Sentence 2:  lo-ne-se-to-su  to-to
+             The study of that is a meta-conceptual framework.
+```
+
+Two short sentences, no apostrophes needed. Unambiguous. The formal register equivalent of what Attempt A compressed into one word.
+
+---
+
+**Notes:**
+- **Attempt A is grammatically legal under the current rule** — two nested `'` markers produce a well-formed tree. But the cognitive load of resolving two left-boundary operations in sequence is high, even for a formal register reader. The nesting is correct; the readability is strained.
+- **Attempt B is the recommended form.** `ne` as an explicit connective between two subcompound units costs one extra morpheme and gains full parse transparency. This is consistent with the ambiguity-resolution rule in word-formation.md: "shortest valid *unambiguous* form" — Attempt A is shorter but not unambiguous on first read; Attempt B is the shortest *clearly* unambiguous form.
+- **Attempt C confirms the phrase-split option.** The two-sentence form has zero parse complexity and fits the spec's contraction rule: "if a compound requires more than one apostrophe, restructure as a phrase." This is the pattern to recommend in the usage policy.
+- **The `ma-li` / `-li` suffix collision appears here.** `ma-li` is parsed as modifier + root (`ma` = matter, `li` = social agent = "embodied person"). But `-li` is also the derivational suffix meaning "one who does" (morphology.md). The forms are identical: `ma-li` (compound) vs `ma-li` (matter + doer-suffix = "one who works with matter / material agent"). The two readings are semantically close enough to be genuinely confusing in some contexts. Logged in open-questions.md.
+- **T-APO-002 verdict:** Two apostrophes produce nested structure that is legal but strains readability. Usage policy update: **compounds requiring more than one `'` should be restructured as phrases** (Attempt B or C). Single `'` confirmed as the practical limit. This closes the remaining prerequisite for adopting `'` into word-formation.md.
