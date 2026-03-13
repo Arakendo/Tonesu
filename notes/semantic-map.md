@@ -575,7 +575,7 @@ This reuse is not incidental — it reflects a genuine ontological commitment: *
 **Grammar pressures introduced by discourse that sentence-grammar could not show:**  
 - P-QM-001: polar question marker (see open-questions.md)  
 - P-AF-001: minimal affirmative particle (see open-questions.md)  
-- P-GP-001: `vo`/`ru` predication slot (see open-questions.md, from S028–S031)  
+- ~~P-GP-001: `vo`/`ru` predication slot~~ → **Resolved S162–S165.** Three strategies: `lo-X  Q` (patientive/contingent), `la-X  Q` (attributive/intrinsic), `ka  Q` (manner). See spec/grammar.md § Predication Strategies.  
 
 ---
 

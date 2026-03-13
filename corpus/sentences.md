@@ -6117,3 +6117,150 @@ and used in S158–S161. Not separately registered at this stage — monitor for
 it needs its own W-number as usage spreads.
 
 **MG-001 status:** CLOSED.
+
+---
+
+## P-GP-001: Predication Strategies (S162–S165)
+
+These four sentences resolve the three-construction predication problem flagged at S030–S031.
+The batch produces the required third contrastive pair (`la-X  Q` vs `lo-X  Q` with the
+same noun and quality) and adds a second full attestation of the manner-adverbial Type 3
+construction (`ka  Q`).
+
+**Three types in play:**
+- **Type 1** `lo-X  Q` — patientive state: X is in state Q (patient-slot, contingent)
+- **Type 2** `la-X  Q` — attributive property: X has quality Q (agent-slot, intrinsic)
+- **Type 3** `ka  Q` — manner adverbial: action performed with quality Q (post-action)
+
+---
+
+**S162 — Intrinsic worth** *(P-GP-001-A)*
+
+*Target: "A person has worth."*
+
+```
+Gloss:    la-li  vo
+Literal:  agent:person  value/quality
+Natural:  A person has worth.
+```
+
+**Notes:**
+- **Type 2 predication** (`la-X  Q`): agent-slot subject, quality predicate. X is the
+  structural bearer of Q. The claim is intrinsic — it holds regardless of circumstance.
+- Third `la-X  Q` sentence in corpus (after S030: `la-to-su-mu  vo` — archive has value;
+  S034: `la-ra-ki-mu  ha-fe` — engine is at a thermal threshold). Pattern now confirmed
+  in three distinct domains: epistemic (S030), thermal/material (S034), social/personal (S162).
+- `la-li  vo` does not mean "the person is in a valued state" — that would be Type 1
+  and is S163. It means the person *holds* worth as part of their constitution. The
+  claim does not depend on circumstances.
+- **Contrastive Pair 3 upper half.** Pairs with S163.
+
+---
+
+**S163 — Social esteem** *(P-GP-001-B) — Contrastive Pair 3*
+
+*Target: "The person is held in esteem."*
+
+```
+Gloss:    lo-li  vo
+Literal:  patient:person  value/quality
+Natural:  The person is [socially] valued.
+```
+
+**Notes:**
+- **Type 1 predication** (`lo-X  Q`): patient-slot subject, quality predicate. X occupies
+  state Q as a current condition. The claim is contingent — social recognition can change.
+- **Contrastive Pair 3 (with S162):** Same noun (`li` = person), same quality (`vo` = value).
+  Different slot → different claims:
+  - `la-li  vo` → person *holds* worth — intrinsic, structural property of being a person
+  - `lo-li  vo` → person *is in* a valued state — contingent social esteem
+- The distinction maps onto a meaningful philosophical line: intrinsic worth cannot be
+  revoked by social consensus; social esteem can. Tonesu captures this via the `la`/`lo`
+  slot distinction rather than with separate vocabulary.
+- **P-GP-001 resolution criterion (three contrastive pairs) now met.**
+  Pair 1: `lo-X  Q` (C002 A3 `lo-si-mu  ru`) vs `la-X  Q` (S030 `la-to-su-mu  vo`)
+  — pattern introduced.
+  Pair 2: `lo` compound (S033 `lo-pa  ha-vo`) vs `la` compound (S034 `la-ra-ki-mu  ha-fe`)
+  — compound predicates in both positions.
+  Pair 3: S162 vs S163 — minimal pair, same noun and quality, different slot, different claim.
+
+---
+
+**S164 — Skilled action** *(P-GP-001-C)*
+
+*Target: "The engineer works with care."*
+
+```
+Gloss:    la-su-mu-li  ka  vo
+Literal:  agent:engineer  action  quality
+Natural:  The engineer acts with quality/care.
+```
+
+**Notes:**
+- **Type 3 predication** (`ka  Q`): the quality (`vo`) follows the action marker `ka` and
+  characterizes *how* the action is performed — a manner modifier.
+- Second full Type 3 attestation (after S031: `la-li-pu  ka  ru`). Pattern confirmed:
+  `ka  Q` gives a manner reading; the quality modifies the action, not the agent entity.
+- Contrast with `la-su-mu-li  vo` (hypothetical, Type 2): that would mean "the engineer
+  *has* quality" — an attributive claim. S164 says "the engineer *acts* with quality on
+  this occasion" — two different claims.
+- `su-mu-li` (W002): structural engineer / builder. First use as subject of a
+  `ka`-manner-qualified action.
+
+---
+
+**S165 — Document incoherence** *(P-GP-001-D)*
+
+*Target: "The document lacks coherence."*
+
+```
+Gloss:    la-si-mu  no-ru
+Literal:  agent:document  negate-unity
+Natural:  The document lacks coherence.
+```
+
+**Notes:**
+- **Type 2 predication, negated** (`la-X  no-Q`): the document *holds* the property
+  of non-unity — a structural deficiency, not a transient state.
+- Explicit contrast with C002 A1 (`lo-si-mu  no-ru` = "the relay is in a non-unified
+  state"). Same compound predicate (`no-ru`), different slot frame:
+  - `lo-si-mu  no-ru` (C002 A1) → relay IS in non-unity state — contingent device fault
+    (can be repaired, C002 A2)
+  - `la-si-mu  no-ru` (S165) → document HAS non-unity — structural text deficiency
+    (intervention is rewriting, not repair)
+- The `la` frame makes `no-ru` a structural claim: the document's incoherence is a
+  property of its composition, not a state it might exit. Different kind of failure;
+  different remedy.
+- Confirms `no-` works in `la-X  no-Q` position (Type 2 negation).
+- `si-mu` = signal-artifact = document / textual record. Compositional; no new registration.
+
+---
+
+### P-GP-001 Verdict
+
+**Three predication strategies confirmed and distinguished.**
+
+| Pattern | Reading | Frame | Example |
+|---------|---------|-------|---------|
+| `lo-X  Q` | X is *in* state Q | patient-slot; contingent | `lo-li  vo` → person is socially valued (S163) |
+| `la-X  Q` | X *has* quality Q | agent-slot; intrinsic | `la-li  vo` → person has worth (S162) |
+| `ka  Q` | action performed *with* Q | post-`ka`; manner | `la-su-mu-li  ka  vo` → engineer acts with care (S164) |
+
+**`lo-X  Q` vs `la-X  Q` — the slot distinction is semantic, not stylistic.**
+The two forms cannot substitute freely. When the same noun and quality appear in both
+frames, the claims differ genuinely (Contrastive Pair 3: S162 vs S163).
+
+**Summary rule:**
+- Use `lo-X  Q` when Q is a state X can enter and exit — current condition, contingent
+  assessment.
+- Use `la-X  Q` when Q is part of X's constitution — intrinsic quality, structural
+  character, defining property.
+- Use `ka  Q` when Q characterizes the action being performed, not the entity.
+
+**`no-` works in all three positions.** Negated predicates (`no-ru`, `no-vo`, `no-fe`)
+function identically to positive ones. The frame (`lo`/`la`/`ka`) determines the scope
+of the claim; `no-` negates the predicate within that frame.
+
+**Grammar status:** Formalized in spec/grammar.md § Predication Strategies.
+
+**P-GP-001 status:** CLOSED.

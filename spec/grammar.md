@@ -144,6 +144,87 @@ Open question: use paired particles (e.g. `be...be`) or rely on stress/pause?
 
 ---
 
+## Predication Strategies
+
+There are three ways to predicate a quality or state of an entity. They are grammatically
+distinct and semantically non-equivalent.
+
+### Type 1 — Patientive state: `lo-X  Q`
+
+`lo-[entity]  [quality]` = "X is in state Q"
+
+The entity occupies the patient slot (`lo`) and is in the named state as a current
+condition. The claim is contingent — the state can change.
+
+```
+lo-si-mu  ru        →  The relay is stable.            (C002 A3)
+lo-pa     ha-vo     →  The room is warm.               (S033)
+lo-li     vo        →  The person is socially valued.  (S163)
+```
+
+### Type 2 — Attributive property: `la-X  Q`
+
+`la-[entity]  [quality]` = "X has quality Q"
+
+The entity occupies the agent slot (`la`) and is the structural bearer of the quality.
+The claim is intrinsic or structural — a property of the entity's constitution.
+
+```
+la-to-su-mu  vo     →  The archive has value.              (S030)
+la-ra-ki-mu  ha-fe  →  The engine is at a thermal limit.   (S034)
+la-li        vo     →  A person has worth.                 (S162)
+```
+
+### Type 3 — Manner adverbial: `ka  Q`
+
+`ka  [quality]` = "the action is performed with Q"
+
+The quality follows the action marker `ka` and characterizes *how* the action is
+performed. Q modifies the action, not the agent.
+
+```
+la-li-pu     ka  ru  →  The collective acts with unity.  (S031)
+la-su-mu-li  ka  vo  →  The engineer acts with care.     (S164)
+```
+
+### Distinguishing `lo-X  Q` from `la-X  Q`
+
+Both forms predicate a quality of an entity but make different claims. They cannot
+substitute freely.
+
+| | `lo-X  Q` | `la-X  Q` |
+|---|---|---|
+| Slot | patient — X occupies or receives Q | agent — X holds or possesses Q |
+| Claim type | contingent state (can change) | structural / intrinsic property |
+| Decision rule | can X exit this state? → use `lo` | is Q part of X's constitution? → use `la` |
+
+**Minimal pair (S162 vs S163):** Same noun (`li` = person), same quality (`vo` = value):
+- `la-li  vo` = "a person has worth" — intrinsic; cannot be revoked by social consensus
+- `lo-li  vo` = "the person is valued" — contingent social esteem; can change
+
+### Compound quality predicates
+
+Compound predicates (`ha-vo`, `ha-fe`, `no-ru`, etc.) work in all three positions
+without modification.
+
+```
+lo-pa        ha-vo   →  The room is warm.                  (Type 1, S033)
+la-ra-ki-mu  ha-fe   →  The engine has a thermal limit.    (Type 2, S034)
+la-si-mu     no-ru   →  The document lacks coherence.      (Type 2 negated, S165)
+```
+
+`no-` applied to a quality root negates the predicate within whichever frame it appears in.
+
+### Summary
+
+| Pattern | Example | Reading |
+|---------|---------|---------|
+| `lo-X  Q` | `lo-li  vo` | X is in state Q — patient slot, contingent |
+| `la-X  Q` | `la-li  vo` | X has quality Q — agent slot, structural/intrinsic |
+| `ka  Q` | `la-su-mu-li  ka  vo` | action performed with Q — manner |
+
+---
+
 ## Negation
 
 Negation in Tonesu uses a single root `no` (negation/absence) operating at three scope levels. For derivational detail on the prefix, see spec/morphology.md § Productive Prefixes.
