@@ -266,6 +266,12 @@ The practical consequence: a `to-fe-su` body that made its own rules unchallenge
 
 Vocabulary gap this exposes: there is currently no distinction between a `to-fe-su` ruling that is internal and one that has been published to `to-su` status and is therefore openly challengeable. A standard that has been adopted but not yet published is distinguishable from a standard that has been certified as meeting its own criteria. That distinction is where institutional capture would show up. Flagged in notes/open-questions.md.
 
+**The binding principle — unpublished rules cannot bind:** A constitutional principle that falls directly from the ontology without new vocabulary. If legitimacy comes from surviving the epistemic pipeline (from `si` → `to` → `to-su`), then a rule that has not been published to `to-su` status has not achieved the epistemic status required to make binding claims on others. Enforcing an unpublished standard is structurally identical to `to-fe-ka` deflation at the meta-level: the rule-maker is treating an internal adoption (`si`) as if it had the authority of established knowledge (`to-su`), while withholding the publication that would make it challengeable. Any `to-fe-li` could adjudicate this as meta-level inflation.
+
+Concordian constitutional consequence: power does not come from hierarchy or secrecy. It comes from surviving public scrutiny. Unpublished standards are epistemically illegitimate by the same logic that makes ordinary `to-fe-ka` a violation — and for the exact same reason. No new vocabulary required; the existing framework covers it.
+
+**`to-fe-su-ki` as constitutional event:** The transition from internal adoption to published `to-su` status (`to-fe-su-ki`, the inchoative) is the moment when authority becomes legitimate. Before `to-fe-su-ki`: the body has power but not legitimacy. After `to-fe-su-ki`: the standard is published, challengeable, and binding. The political consequence is that Concordia's most contested institutional space is not legislative votes but the timing and execution of publication — the ceremony that converts internal decisions into legitimate authority. Battles over *when* `to-fe-su-ki` occurs are battles over legitimacy itself.
+
 ---
 
 ## Open Questions
