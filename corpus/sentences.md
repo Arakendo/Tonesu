@@ -4340,3 +4340,391 @@ always provide compound-length disambiguation. The open question in primitives.m
 both `so-[X]` and `si-[X]` compounds in adjacent positions (e.g. an audio engineering
 domain), the `so`/`si` boundary should be evaluated again in that domain's sentence
 patterns specifically. No action now.
+
+---
+
+## Four Deep Axes: Capability / Similarity / Possession / Counterfactual (S114–S125)
+
+**Purpose:** Stress tests proposed by Monday for probing semantic axes that minimalist
+primitive systems sometimes handle poorly. Four batches test: (1) capability vs intention
+vs causation, (2) similarity vs identity vs component membership, (3) possession vs
+containment, and (4) conditional/counterfactual logic.
+
+**Ad hoc compounds introduced this batch:**
+- `ra-ma` = energy-matter = fuel (energy-bearing raw material)
+- `ki-pa-mu` = motion-place-artifact = vehicle / spacecraft (a place-artifact defined by movement)
+- `to-ru` = pattern-unity = same model / same type / same design
+- `ne-to` = relation-pattern = similarity / analogy (a relational pattern between two entities)
+- `su-ru` = structure-unity = unified system / single system
+- `pa-ki` = place-motion = spatial drift / uncontrolled movement through space
+- `ra-be-vo` = energy-generative-quality = capacity for energy generation (three-morpheme compound)
+
+---
+
+### Test 1 — Capability vs intention vs causation (S114–S116)
+
+**Target:** cleave three meanings English collapses into "can" / "designed to" / "because":
+(1) dispositional capability, (2) design intention, (3) causal chain.
+
+---
+
+**S114 — Capability: "The reactor is capable of generating greater energy output."** *(T-AX-001)*
+
+```
+Gloss:    lo-ra-ki-mu  be-vo
+Literal:  patient:engine  generative-quality
+Natural:  The engine has generative capacity / is capable of producing output.
+```
+
+**Notes:**
+- `be-vo` = growth-quality = generative potential. `be` (growth/increase) as the
+  property-head modifying the entity; `-vo` suffix (via root `vo` = value/quality)
+  marks this as a quality/degree predicate. `lo-ra-ki-mu  be-vo` = "the engine has
+  the quality of being generative" = has productive capacity.
+- **Comparison with S115 (`wi`-intention):** `be-vo` is a bare stative property —
+  it makes no claim about direction, purpose, or agent. The reactor simply has this
+  property. `wi [clause]` (S115) asserts a *directed goal state*, which requires an
+  agent or design-institution. The two are clearly semantically distinct.
+- **"Greater energy" can be appended:** `lo-ra-ki-mu  be-vo  lo-ra  nu-be` — "the
+  engine has generative capacity [yielding] energy exceeding [current output]." The
+  degree phrase floats after the predicate as a scope modifier, consistent with the
+  comparison construction established in S064–S067. Both forms (bare `be-vo` and
+  expanded `be-vo  lo-ra  nu-be`) appear to be grammatical.
+- **Capability primitive verdict:** `be-vo` covers dispositional capability cleanly.
+  The quality is the entity's *property*, not its intent or its causal history. The
+  watch item can be updated: compound strategy is viable for this use case.
+
+---
+
+**S115 — Intention/design: "The reactor is designed to generate greater energy output."** *(T-AX-002)*
+
+```
+Gloss:    la-ra-ki-mu  wi  [lo-ra  nu-be  ka-be]
+Literal:  agent:engine  design-purpose  [patient:energy  more-than  action:generate]
+Natural:  The engine is [institutionally] designed for generating greater energy output.
+```
+
+**Notes:**
+- `wi [clause]` = purpose frame. Established in spec/grammar.md § Purpose Frame.
+  `la-ra-ki-mu  wi [...]` = the engine's design intent is [to generate greater energy].
+- **Non-intentional agent in `wi` frame:** `ra-ki-mu` (an artifact) cannot have
+  literal will. This is design-intent attribution, identical to the pattern in S034
+  (`la-ra-ki-mu  wi [lo-ha  no-fe]` = the reactor must stay cool). The machine's `wi`
+  is its functional design goal, not its agentive intention. Pattern confirmed: `wi [X]`
+  on an artifact = prescriptive / design-goal reading. Social context (the institution
+  that designed it) is implicit.
+- **Contrast with S114:** S115 asserts a *directed goal state* (purpose); S114 asserts
+  a *property* (capacity). A reactor that was designed to generate less power might
+  still *be capable* of more (`be-vo`). A reactor designed for more power might
+  currently be damaged and lack that capacity (`no-be-vo`). The two are logically
+  independent — the language keeps them separate.
+
+---
+
+**S116 — Causation: "The reactor generates more power because of the new fuel."** *(T-AX-003)*
+
+```
+Gloss:    go [ra-ma  be]  lo-ra-ki-mu  lo-ra  nu-be  ka-be
+Literal:  cause:[fuel  grows/added]  patient:engine  patient:energy  more-than  action:generates
+Natural:  Because fuel was added, the engine generates greater energy output.
+```
+
+**Notes:**
+- `ra-ma` = energy-matter = fuel. Head-final: `ma` (raw material/substance) is head;
+  `ra` (energy) modifies it as an energy-bearing material. First use; compound candidate.
+- `go [ra-ma  be]` = causal frame: the cause is [fuel growth/addition]. `ra-ma  be` =
+  "fuel increases / fuel comes into existence" = fuel is added. The inner clause is a
+  stative-change predication: bare `be` (growth) with `ra-ma` as patient, no agent.
+- `lo-ra-ki-mu  lo-ra  nu-be  ka-be` = matrix clause: engine [regarding] energy
+  more-than action:generates. The `lo-ra  nu-be` phrase is a topic-scope modifier
+  ("with respect to energy, more than before") preceding the predicate `ka-be`.
+- **Contrast with S114 and S115:** S116 is a factual causal assertion — the engine
+  *is* generating more, *because of* X. No capability claim; no design-goal claim.
+  The `go [X]  matrix` causal frame handles pure causation cleanly.
+- **Three-way verdict (Test 1):** capability = `be-vo`, intention = `wi [clause]`,
+  causation = `go [X]  matrix`. All three are formally and semantically distinct.
+  No new primitive needed. Capability primitive watch item: `be-vo` is sufficient for
+  current corpus pressure.
+
+---
+
+### Test 2 — Similarity / identity / component membership (S117–S119)
+
+---
+
+**S117 — Identity: "These two engines are the same model."** *(T-AX-004)*
+
+```
+Gloss:    lo-pu-ra-ki-mu  to-ru
+Literal:  patient:plural-engine  pattern-unity
+Natural:  The engines share a unified pattern / are the same model/type.
+```
+
+**Notes:**
+- `to-ru` = pattern-unity. Head-final: `ru` (unity/singularity) is head; `to`
+  (conceptual pattern) modifies it. "The unity in question is at the pattern level" =
+  same design template = same model.
+- `lo-pu-ra-ki-mu` = patient:plural-engine. `pu-` prefix marks plurality on the compound.
+- **Contrast with S118:** `to-ru` asserts a single unified pattern — the two things share
+  one conceptual template. `ne-to` (S118) asserts a relational pattern — the things are
+  connected by pattern similarity, not necessarily identical. Same model (`to-ru`) is
+  stronger than similar (`ne-to`).
+
+---
+
+**S118 — Similarity: "These two engines are similar."** *(T-AX-005)*
+
+```
+Gloss:    lo-pu-ra-ki-mu  ne-to
+Literal:  patient:plural-engine  relation-pattern
+Natural:  The engines have a relational pattern / are similar to each other.
+```
+
+**Notes:**
+- `ne-to` = relation-pattern = similarity / analogy. Head-final: `to` (conceptual
+  pattern) is head; `ne` (relation/connection) modifies it. "The pattern is a relational
+  one" = there exists a pattern of mutual correspondence = similarity.
+- **Strength distinction:** `to-ru` = they ARE one (pattern); `ne-to` = they RELATE
+  (pattern). These are genuinely distinct: `to-ru` is identity, `ne-to` is analogy.
+  No new primitive needed for similarity — `ne-to` is transparent and well-motivated.
+- **Similarity primitive verdict:** `ne-to` is sufficient. Monday's prediction confirmed.
+
+---
+
+**S119 — Component membership: "These two engines are parts of the same system."** *(T-AX-006)*
+
+```
+Gloss:    lo-pu-ra-ki-mu  pe  lo-su-ru
+Literal:  patient:plural-engine  component  patient:unified-structure
+Natural:  The engines are components of one unified system.
+```
+
+**Notes:**
+- `su-ru` = structure-unity = unified system / single system. Head-final: `ru` (unity)
+  is head; `su` (structure/organization) modifies it. "The unity in question is
+  structural" = a single organized system.
+- `pe` as stative predicate: `lo-X  pe  lo-Y` = X is a component of Y. This extends
+  `pe` from its primitive definition (part/component) into the predicate slot. The
+  two-`lo` construction (`lo-X  pe  lo-Y`) parallels the comparison structure
+  (`lo-X  quality  lo-Y`) established in S064–S067. **First corpus use of `pe` as a
+  stative predicate.** The construction is compositionally clean.
+- **Three-way verdict (Test 2):** identity = `to-ru`, similarity = `ne-to`, component
+  membership = `pe` (predicate) with `su-ru` whole. All three are distinct. No new
+  primitive needed.
+
+---
+
+### Test 3 — Possession vs containment (S120–S122)
+
+---
+
+**S120 — Possession: "The pilot has a tool."** *(T-AX-007)*
+
+*Note: This is also the first attempt at the queued T001 — "This device belongs to me."
+The test sentence is generalized to 3rd person for structural clarity.*
+
+```
+Gloss:    la-zo-li  ne  lo-mu-ka
+Literal:  agent:person  relation/possess  patient:tool
+Natural:  The person is in relation to (possesses) a tool.
+```
+
+**Notes:**
+- `ne` as **stative possession predicate**. In particle use, `ne` precedes its NP
+  (`ne-X` = recipient:X). In predicate use, `ne` stands alone between argument markers:
+  `la-X  ne  lo-Y` = X holds a relational state with respect to Y. The disambiguation is
+  structural: `ne` as particle would produce `ne-lo-mu-ka` (ungrammatical run-on) or
+  appear before the NP without `lo`. In the predicate slot, `ne  lo-Y` is unambiguous.
+- `mu-ka` = artifact-action = tool. Established compound (stress-test table, primitives.md).
+- **Possession as relation:** Tonesu does not have a dedicated possession primitive.
+  Ownership is a type of relation (`ne`). This is philosophically coherent with the
+  setting: in Concordian culture, "having" is a relational state, not an ontological
+  category. It can dissolve (`de`), strengthen (`be`), be transferred (`ne-particle`
+  + `de`), or be in dispute (`ne-fe`).
+- **First corpus test of possession via `ne` predicate.** T001 and T002 remain queued
+  as more complex possession tests (pronoun reference, shared possession).
+
+---
+
+**S121 — Physical containment: "The tool is inside the container."** *(T-AX-008)*
+
+```
+Gloss:    la-ko-mu  ko  lo-mu-ka
+Literal:  agent:container  containment  patient:tool
+Natural:  The container holds the tool.
+```
+
+**Notes:**
+- Applies the established `la-X  ko  lo-Y` rule (spec/grammar.md § Containment
+  Predicates). The container is the `la`-agent of the containment state; the tool is
+  the `lo`-patient (contents).
+- `ko-mu` (W052) = containment-artifact = vessel/container. Used with `la` particle.
+- **Contrast with S120:** `la-zo-li  ne  lo-mu-ka` = possession (relational state
+  between person and tool, no spatial claim). `la-ko-mu  ko  lo-mu-ka` = containment
+  (spatial state: tool is physically inside container, no ownership claim). The two
+  predicates are orthogonal:
+  - A pilot can possess a tool that is not in a container.
+  - A tool can be in a container without being owned by anyone.
+  - A pilot can own a tool that is stored in a container they don't own.
+
+---
+
+**S122 — Container perspective: "The container has tools in it."** *(T-AX-009)*
+
+```
+Gloss:    la-ko-mu  ko  lo-pu-mu-ka
+Literal:  agent:container  containment  patient:plural-tools
+Natural:  The container holds multiple tools.
+```
+
+**Notes:**
+- Same structure as S121 with `pu-` pluralizer on the contents.
+- **Possession/containment verdict (Test 3):** `ne` (possession) and `ko` (containment)
+  are formally and semantically distinct. The `la`/`lo` argument positions are the same,
+  but the predicates `ne` and `ko` carry entirely different meanings. The language
+  cleanly separates:
+  | Concept | Form | Predicate |
+  |---------|------|-----------|
+  | possession | `la-X  ne  lo-Y` | `ne` (relation) |
+  | containment | `la-X  ko  lo-Y` | `ko` (containment) |
+  - No new primitive needed. Monday's prediction confirmed.
+
+---
+
+### Test 4 — Conditional and counterfactual logic (S123–S125)
+
+---
+
+**S123 — Present/future conditional: "If the engine fails, the ship drifts."** *(T-AX-010)*
+
+```
+Gloss:    go [lo-ra-ki-mu  de]  lo-ki-pa-mu  pa-ki
+Literal:  cause:[patient:engine  decay]  patient:vehicle  place:motion
+Natural:  Given engine failure, the vehicle drifts through space.
+```
+
+**Notes:**
+- `go [X]  matrix` = causal/conditional frame. Established in spec/grammar.md §
+  Causal Frame and open-questions.md (Conditionals item). The causal frame functions
+  as the conditional when the inner clause describes a trigger condition.
+- `ki-pa-mu` = motion-place-artifact = vehicle / spacecraft. Head-final: `mu` (artifact)
+  is head; `ki-pa` (motion-place, established as corridor/passage compound, S064) specifies
+  a place-artifact defined by movement. A spacecraft is a moving-place-artifact. Ad hoc
+  compound; candidate for registration.
+- `pa-ki` = place-motion = spatial drifting / uncontrolled movement through space.
+  `pa` (place/space particle/root) + `ki` (motion) = motion-through-space. As a compound
+  predicate: "there is spatial motion [of the subject]" = drifts.
+- **Conditional readings:** `go [X]  Y` can be read as (a) present-factual ("the engine
+  is failing; it's drifting now"), (b) general conditional ("whenever the engine fails,
+  it drifts"), or (c) future hypothetical ("if it fails, it will drift"). The `go` frame
+  is *actuality-neutral* — it asserts the causal relationship without specifying whether
+  the premise is actual. This is a deliberate feature: the language marks causal
+  structure, not factuality of conditions.
+
+---
+
+**S124 — Future conditional with recurrence: "If the engine fails again, the ship will drift."** *(T-AX-011)*
+
+```
+Gloss:    go [lo-ra-ki-mu  re-de]  lo-ki-pa-mu  pa-ki
+Literal:  cause:[patient:engine  cycle-decay]  patient:vehicle  place:motion
+Natural:  Given a recurrent engine failure, the vehicle will drift.
+```
+
+**Notes:**
+- `re-de` = repetition-decay = recurrent/repeated failure = "fails again." `re`
+  (repetition/cycle) + `de` (decay/failure). First use of `re-de` as a predicate in a
+  subordinate causal clause.
+- **"Will" (future):** Tonesu has no dedicated future tense marker. The future reading
+  arises from the conditional structure: a hypothetical causal premise (`go [...]`)
+  with a result clause implies the result is prospective. The causal frame is
+  inherently forward-directed when the premise is not currently actual.
+
+---
+
+**S125 — Past counterfactual: "If the engine had failed, the ship would have drifted."** *(T-AX-012)*
+
+*Two attempts: one indicative past, one counterfactual.*
+
+**Attempt A — Indicative past conditional (what the language CAN say):**
+
+```
+Gloss:    go [lo-ra-ki-mu  ti-de-de]  lo-ki-pa-mu  pa-ki  ti-de
+Literal:  cause:[patient:engine  past-decay]  patient:vehicle  place:motion  time:past
+Natural:  When/because the engine had failed, the vehicle drifted.
+```
+
+- `ti-de-de` = time-decay-decay = past failure / a decay event in past time. `ti-de`
+  (past time, W041) combined with `de` (decay/failure) inside the cause clause.
+- `pa-ki  ti-de` = spatial-motion  past-time = "drifted [at past time]."
+- **Verdict A:** This is a *factual past conditional* — it asserts that the engine
+  actually failed and the ship actually drifted. The causal relationship in past time
+  is cleanly expressed.
+
+**Attempt B — Counterfactual (what the language CANNOT cleanly say):**
+
+The target is the *non-actual* reading: the engine did NOT fail, but IF it had,
+the ship WOULD have drifted.
+
+For this, the language would need to mark the premise as **non-actual** — a hypothetical
+scenario rather than an asserted past event. No grammatical device for this exists.
+
+*Closest available construction:*
+
+```
+la-mi  to  [go [lo-ra-ki-mu  ti-de-de]  lo-ki-pa-mu  pa-ki  ti-de]
+agent:I  hold-conceptually  [causal-conditional chain in past time]
+My conceptual model: [had the engine failed, the vehicle would have drifted.]
+```
+
+- Wrapping the causal chain in `la-mi  to  [...]` = "I hold as a conceptual model"
+  marks the entire scenario as an epistemic *pattern* rather than a factual claim.
+  The counterfactual force comes from the framing, not from any grammatical marker
+  on the conditional itself.
+- **Limitation:** the counterfactual reading requires an explicit stance-holder
+  (`la-mi`). Bare counterfactuals — where no stance-holder is stated and the
+  non-actuality of the premise is marked grammatically — are not expressible.
+
+**Gap identified: CF-001 — Counterfactual non-actuality marker.**
+Tonesu can express causal chains, past events, and hypothetical-framed scenarios.
+It cannot grammatically mark the non-actuality of a conditional premise without
+adding an epistemic stance-holder. This is not a *primitive* gap — all the conceptual
+components are present. It is a *grammar* gap: no device exists to flag a subordinate
+clause as a non-actual premise (the counterfactual mood in traditional grammar).
+
+Design paths: (a) a new clause-level marker for non-actual premises (a small functional
+particle); (b) accept that counterfactuals always require `la-X  to  [...]` framing with
+an explicit stance-holder; (c) reserve the `to` bare-frame (`to [scenario]`) as a
+hypothetical/non-actual scene-setter without a stance-holder. Path (c) is the least
+invasive — `to [X]` would mean "in the conceptual scenario / hypothetically: [X]."
+This would need corpus pressure and a second use case before formalizing. **Watch.**
+
+---
+
+**S114–S125 Summary: Four Axes**
+
+| Axis | Test | Core construction | Gap? |
+|------|------|------------------|------|
+| Capability | `be-vo` | stative quality predicate | None — `be-vo` sufficient |
+| Intention | `wi [clause]` | purpose frame | None — established |
+| Causation | `go [X]  matrix` | causal frame | None — established |
+| Identity | `to-ru` | pattern-unity | None — new compound |
+| Similarity | `ne-to` | relation-pattern | None — new compound |
+| Component | `pe  lo-su-ru` | part + unified-whole | None — `pe` in predicate |
+| Possession | `la-X  ne  lo-Y` | relational predicate | None — `ne` extends cleanly |
+| Containment | `la-X  ko  lo-Y` | containment predicate | None — established |
+| Present conditional | `go [X]  Y` | causal/conditional frame | None — established |
+| Counterfactual | requires `la-X  to  [...]` | epistemic wrap | **CF-001 watch** |
+
+**Overall verdict:** The primitive set holds across all four axes. No new primitive is
+needed from this battery. One grammar gap identified (CF-001: counterfactual non-actuality
+marking). The capability watch item can be partially resolved: `be-vo` handles
+dispositional capability cleanly in current corpus use cases.
+
+**New compounds from this batch worth registering:**
+- `to-ru` (pattern-unity = same model/type)
+- `ne-to` (relation-pattern = similarity/analogy)
+- `su-ru` (structure-unity = unified system/single system)
+- `ra-ma` (energy-matter = fuel)
+- `ki-pa-mu` (motion-place-artifact = vehicle/spacecraft)
+- `pa-ki` (place-motion = spatial drift/uncontrolled movement)

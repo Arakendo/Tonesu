@@ -1636,6 +1636,108 @@ Related:      zo-ne-du (W078), re (recurrence), zo-ne-go-re (W080)
 
 ---
 
+**W082**
+Form:         ra-ma
+Composition:  ra (energy) + ma (matter/substance) — energy-bearing raw material
+Gloss:        fuel / energy-material
+Definition:   Any substance consumed or converted to produce usable energy. Not restricted
+              to combustion — includes any energy-dense material: chemical fuel, power
+              cells, fissile material. The `ra` head marks energy as the functional output;
+              `ma` grounds it as a physical substance.
+First use:    S116 (T-AX-003): causal clause "because fuel was added."
+Notes:        Distinct from `ra` alone (energy as a phenomenon) and `ra-ki` (energy in
+              motion). `ra-ma` is specifically the material that *stores* energy before
+              conversion. `ra-ma  be` = fuel is added / fuel increases.
+Related:      ra (energy), ma (matter), ra-ki (W009), ra-ki-mu (W012)
+
+---
+
+**W083**
+Form:         to-ru
+Composition:  to (conceptual pattern) + ru (unity/singularity) — unified pattern
+Gloss:        same model / same type / identical design
+Definition:   Predicate asserting that multiple entities share a single unified conceptual
+              template: same design, same category, same type. Stronger than similarity
+              (`ne-to`): `to-ru` claims identity at the pattern level, not merely analogy.
+              Used in plural-subject predication: `lo-pu-X  to-ru` = "the Xs are all the
+              same model."
+First use:    S117 (T-AX-004): "These two engines are the same model."
+Notes:        Contrast with `ne-to` (W084, similarity — relational pattern, weaker).
+              `to-ru` is a unification claim; `ne-to` is a correspondence claim.
+Related:      to (conceptual pattern), ru (unity), ne-to (W084), ru-to (unified concept =
+              definition, W040)
+
+---
+
+**W084**
+Form:         ne-to
+Composition:  ne (relation/connection) + to (conceptual pattern) — relational pattern
+Gloss:        similarity / analogy / resemblance
+Definition:   Predicate asserting that two or more entities stand in a pattern of mutual
+              correspondence — they are similar or analogous to each other. Weaker than
+              `to-ru` (W083, identity): `ne-to` claims a relational pattern, not a shared
+              template. Used in plural-subject predication: `lo-pu-X  ne-to` = "the Xs
+              are similar to each other."
+First use:    S118 (T-AX-005): "These two engines are similar."
+Notes:        The head is `to` (the pattern); `ne` specifies the pattern is relational.
+              Contrast: `to-ru` = one unified pattern (identity); `ne-to` = relational
+              pattern between distinct entities (similarity).
+Related:      ne (relation), to (pattern), to-ru (W083), ne-fe (W042)
+
+---
+
+**W085**
+Form:         su-ru
+Composition:  su (structure/organization) + ru (unity/singularity) — unified structure
+Gloss:        unified system / single system / one system
+Definition:   A structured whole in which components are bound into a single organized
+              system. Used as the referent in component-membership predicates: `la-X  pe
+              lo-su-ru` = X is a component of one unified system. Distinct from `su-mu`
+              (structural artifact = machine part) in that `su-ru` names the unity of the
+              system itself, not a physical component.
+First use:    S119 (T-AX-006): "The engines are parts of the same system."
+Notes:        `pe` as stative predicate (`lo-X  pe  lo-su-ru`) = first corpus use of `pe`
+              in the predicate slot (established as first-attested construction).
+Related:      su (structure), ru (unity), pe (component/part), su-mu (structured artifact)
+
+---
+
+**W086**
+Form:         ki-pa-mu
+Composition:  ki (motion) + pa (place/space) + mu (artifact) — moving-place-artifact
+Gloss:        vehicle / spacecraft / any transport vessel
+Definition:   An artifact defined by its function as a place that moves: an enclosed
+              space capable of motion. Most naturally maps to spacecraft in the Concordian
+              setting, but is general enough to cover any transport vessel (ship, vehicle).
+              Compositional transparency: a `mu` (artifact) whose essential property is
+              `ki-pa` (a place in motion / a corridor through space).
+First use:    S123–S125 (T-AX-010–012): "the ship drifts."
+Notes:        Builds on `ki-pa` (W049, motion-place = corridor/passage): `ki-pa-mu` is
+              the artifact form of that concept — a movable passage, a craft. Distinct from
+              `ko-mu` (W052, containment-artifact = static vessel/container) in that `ki-mu`
+              is defined by motion, not static containment. Both can co-apply to a spacecraft
+              that is both a containing artifact and a moving one.
+Related:      ki (motion), pa (place), mu (artifact), ki-pa (W049), ko-mu (W052)
+
+---
+
+**W087**
+Form:         pa-ki
+Composition:  pa (place/space) + ki (motion) — motion-through-space
+Gloss:        spatial drift / uncontrolled movement / adrift
+Definition:   Stative predicate: an entity is in uncontrolled spatial motion, moving
+              through space without directed propulsion. In sentence position: `lo-X  pa-ki`
+              = X drifts / X is adrift / X moves through space [without control]. The `pa`
+              head grounds the motion as spatial (place-relative); `ki` specifies motion
+              as the property.
+First use:    S123–S125 (T-AX-010–012): conditional/counterfactual drift sentences.
+Notes:        Distinct from `ki` alone (inchoative motion, often directed) and `ki-pa`
+              (W049, motion-place = corridor = a structured path). `pa-ki` is the stative
+              compound for existing adrift in space — unstructured, ongoing, spatial motion.
+Related:      pa (place), ki (motion), ki-pa (W049), ki-mu (motion artifact)
+
+---
+
 - [x] ~~Resolve whether compound forms use hyphens in writing or run together~~ → Resolved: solid spelling is canonical; hyphens are analytic notation only. See spec/word-formation.md § Written Form.
 - [ ] Review W002 (su-mu-li) — does it conflict with the derivational marker stack order?
 - [ ] Develop domain-specific sub-lists once domains are finalized (see ontology/domains.md)
