@@ -1736,3 +1736,36 @@ Attempt B is wrong: `wi` = volitional desire. An unconscious patient has no `wi`
 Neither attempt preserves the target meaning without distortion. There is no clean way to say "X requires Y to maintain integrity" as a **state predication** rather than a **causal prediction**.
 
 **Verdict S057: genuine gap confirmed. Need/functional-dependency is not expressible as a state — only as a consequence chain. This is semantic distortion, not verbosity. The concept is: `X is in a condition where absence of Y → de`. Candidate compound: `ne-fe` (relation-boundary = dependency condition) or a new root. Log as pending primitive evaluation.**
+
+---
+
+**S058 — Need: `ne-fe` compound test** *(T-PRM-003)*
+
+*Target: "The patient needs water."*
+
+*Testing whether `ne-fe` (relation-boundary = dependency condition) resolves S057's gap without a new primitive.*
+
+```
+Gloss:    lo-zo-li  ne-fe  ma
+Literal:  patient:person  dependency-condition  substance
+Natural:  The person needs substance / the person is in a dependency-condition toward substance.
+```
+
+Breakdown:
+- `zo-li` = living social agent = person / patient
+- `ne-fe` = compound: relation (`ne`) + boundary/limit (`fe`) = a relation that must be maintained; a dependency condition
+- `ma` = raw matter / substance (water is the canonical `ma`; no more specific root exists)
+- `ne-fe` occupies the predicate slot (after the `lo`-marked patient); `ma` follows as the complement — the substance of the dependency
+
+**Parsing disambiguation:** `ne` is both a root (relation/connection) and a particle (recipient marker). In this sentence, `ne` could theoretically be read as the recipient particle, giving `ne-fe  ma` = "recipient:boundary  substance" — which doesn\'t parse (the particle expects a noun phrase, not a root `fe` fused to it). The compound reading `ne-fe` as a single predicate is unambiguous in the predicate slot.
+
+**Contrast with S057 causal paraphrase:**
+
+| Form | Expression | Type of claim |
+|------|------------|---------------|
+| S057 | `lo-zo-li  no-ma  go  de` | causal prediction — "if no substance, decay follows" |
+| S058 | `lo-zo-li  ne-fe  ma` | state description — "the person is in a dependency-condition toward substance" |
+
+The S058 form describes the **current state** of the person, not a predicted consequence. These are different propositions: S057 says what will happen; S058 says what is true now.
+
+**Verdict S058: `ne-fe` bridges the gap. The compound produces a genuine state predication without causal reframing.** The primitive system survives without a new root. `ne-fe` should be registered as a stable compound for dependency/requirement conditions. No new primitive.

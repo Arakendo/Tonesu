@@ -681,8 +681,43 @@ Related:      li (primitive: person), pu (primitive: plurality), pa (particle/pr
 
 ---
 
+## Dependency and Requirement
+
+**W042**
+```
+Form:         ne-fe
+Type:         compound
+Class:        relation / state predicate
+Definition:   dependency condition; requirement; the state of being in a relation that must
+              be maintained for integrity. "X ne-fe Y" = X is in a dependency-condition
+              toward Y; X requires Y.
+Composition:  ne (relation/connection) + fe (boundary/limit) — a relation whose boundary
+              must be satisfied; a connection that is a structural requirement, not merely
+              a link. Head-final: fe (boundary) is the head; ne specifies the type of
+              boundary (relational dependency).
+Register:     standard
+Domain:       general / systems
+Status:       accepted
+Examples:     "lo-zo-li  ne-fe  ma" — the person needs substance/water (S058)
+              "lo-su  ne-fe  ra" — the structure requires energy
+              "lo-mu  ne-fe  lo-ki" — the device requires motion (e.g. must be wound)
+Notes:        Resolves the S057 gap: "need/functional dependency" cannot be expressed purely
+              as a causal prediction (no-Y go de) without reframing the proposition type.
+              ne-fe produces a genuine state predication.
+              ne-fe in predicate slot is unambiguous despite ne being a particle: the ne
+              particle expects a following noun phrase; ne-fe fused is itself the predicate.
+              Contrast with wi (desire/intention): ne-fe is structural dependency, independent
+              of volition. An unconscious patient ne-fe ma; wi requires a conscious agent.
+              Contrast with no-Y go de (causal frame): says "absence-of-Y causes decay";
+              ne-fe says "is in a condition requiring Y" — present-state claim, not prediction.
+Related:      ne (primitive: relation), fe (primitive: boundary), wi (primitive: will/intention),
+              no (primitive: negation), S057 (causal paraphrase), S058 (state predication test)
+```
+
+---
+
 ## Open Questions
 
-- [ ] Resolve whether compound forms use hyphens in writing or run together
+- [x] ~~Resolve whether compound forms use hyphens in writing or run together~~ → Resolved: solid spelling is canonical; hyphens are analytic notation only. See spec/word-formation.md § Written Form.
 - [ ] Review W002 (su-mu-li) — does it conflict with the derivational marker stack order?
 - [ ] Develop domain-specific sub-lists once domains are finalized (see ontology/domains.md)
