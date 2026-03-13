@@ -102,6 +102,13 @@ Some compound concepts naturally span clusters. Document these explicitly to pre
 | tool | object | action/cause | `mu-ka` |
 | language | signal | structure | `si-su` |
 | mind | knowledge + will | agent | `to-wi-li` or `to-li`? — *pending* |
+| mathematics | pattern/knowledge | structure + relation | `to-su-ne` (conceptual structural relation) |
+| dimension / parameter / axis | quantity | conceptual pattern | `nu-to` (quantitative concept) |
+| equation | conceptual pattern | relation | `to-ne` (conceptual relation) |
+| proof | conceptual pattern | cause → result chain | `to-go-du` (causal conceptual chain) — *note: this may be the most natural use of the `go`/`du` pair in the whole language; worth a dedicated corpus stress test* |
+| algorithm / procedure | conceptual pattern | intentional action + structure | `to-ka-su` (procedural conceptual structure) |
+| field (physics) | energy | relation | `ra-ne` (energy relations) |
+| wave | energy | cycle/repetition | `ra-re` (cyclical energy) |
 
 ---
 

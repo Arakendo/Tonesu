@@ -220,6 +220,9 @@ These concepts must be expressible using only existing primitives. If a construc
 | government | `li + pu + su` | organized structure of many social agents |
 | memory | `to + ko` | contained / stored conceptual pattern |
 | computer | `to + ki + mu` | artifact that processes conceptual patterns |
+| mathematics | `to-su-ne` | conceptual structural relations — composes without new roots |
+| dimension / parameter | `nu-to` | quantitative concept — "axis of measurement"; composes cleanly |
+| proof | `to-go-du` | conceptual causal chain: from premises (`to`) via cause (`go`) to conclusion (`du`). High-confidence compound — flag for dedicated corpus test |
 | give / transfer (loss) | `la-[giver]  ne-[recipient]  lo-[object]  de` | recipient particle + release; giver loses possession. Corpus: S056. |
 | copy / transfer (no loss) | pending — candidate `ka-ne` or `de-ki-be` | agentive transfer without possession-loss; no clean current form. S056 verdict. |
 | need / dependency | pending — candidate `ne-fe` or new root | the state "X requires Y to avoid de" has no clean predication form; forces causal paraphrase. Corpus: S057. |
