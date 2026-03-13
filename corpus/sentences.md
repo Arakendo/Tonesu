@@ -1769,3 +1769,117 @@ Breakdown:
 The S058 form describes the **current state** of the person, not a predicted consequence. These are different propositions: S057 says what will happen; S058 says what is true now.
 
 **Verdict S058: `ne-fe` bridges the gap. The compound produces a genuine state predication without causal reframing.** The primitive system survives without a new root. `ne-fe` should be registered as a stable compound for dependency/requirement conditions. No new primitive.
+
+---
+
+## `ne-fe` Generality Stress Test (S059–S063)
+
+*Testing whether `ne-fe` is genuinely general or accidentally lucky. Five sentences across distinct subject types, object types, and negation.*
+
+---
+
+**S059 — Child needs sleep** *(T-PRM-004)*
+
+*Target: "The child needs sleep."*
+
+```
+Gloss:    lo-li-be  ne-fe  zo-no-ki
+Literal:  patient:child  dependency-condition  living-non-motion
+Natural:  The child needs sleep / rest.
+```
+
+- `li-be` = person in growth phase = child (W033)
+- `zo-no-ki` = living + negation + motion = living-stillness = rest/sleep. Head-final: `ki` (motion) is the head; `no-ki` = non-motion; `zo-no-ki` = the non-motion state of a living body.
+- `ne-fe` = dependency-condition (W042)
+
+**Verdict S059: clean.** New compound `zo-no-ki` (sleep/rest) emerges naturally. No ambiguity. `ne-fe` holds in child + biological-state context.
+
+---
+
+**S060 — Machine needs cooling** *(T-PRM-005)*
+
+*Target: "The machine needs cooling."*
+
+```
+Gloss:    lo-mu  ne-fe  ha-de
+Literal:  patient:artifact  dependency-condition  thermal-decrease
+Natural:  The machine needs cooling.
+```
+
+- `mu` = artifact/device
+- `ha-de` = thermal-state + decrease = the process of heat reduction = cooling. Head-final: `de` (decay/decrease) is the head; `ha` specifies the domain of decrease.
+- `ne-fe` = dependency-condition
+
+**Verdict S060: clean.** `ha-de` (cooling) is a natural compound parallel to `ha-be` (heating). `ne-fe` holds for artifact + physical-process context.
+
+---
+
+**S061 — City needs water** *(T-PRM-006)*
+
+*Target: "This city needs water."*
+
+```
+Gloss:    lo-li-pu-pa  ne-fe  ma
+Literal:  patient:city  dependency-condition  substance
+Natural:  The city needs water / substance supply.
+```
+
+- `li-pu-pa` = city (W036)
+- `ma` = raw matter / substance; water is the canonical `ma` in prior corpus usage
+- `ne-fe` = dependency-condition
+
+**Verdict S061: clean.** `ne-fe` scales to collective institutional subjects. `lo-li-pu-pa` is a long patient phrase but parses unambiguously — particle `lo` scopes all the way to the predicate slot.
+
+---
+
+**S062 — Team needs a plan** *(T-PRM-007)*
+
+*Target: "The team needs a plan."*
+
+```
+Gloss:    lo-li-pu  ne-fe  wi-to
+Literal:  patient:collective  dependency-condition  intentional-pattern
+Natural:  The team needs a plan / purposive structure.
+```
+
+- `li-pu` = persons-collective = team / group
+- `wi-to` = will/intention + conceptual pattern = a pattern governed by intention = plan / strategy. Head-final: `to` (conceptual pattern) is the head; `wi` specifies that the pattern is purposive/goal-directed.
+- `ne-fe` = dependency-condition
+
+**Verdict S062: clean.** `wi-to` (plan) is a useful new compound. `ne-fe` holds for collective + abstract-object context. Note: `to-wi` would mean "intention characterized by pattern = deliberate will" — subtly different (more motivation than plan). `wi-to` as "intentional design/plan" is the correct head-final reading.
+
+---
+
+**S063 — Patient no longer needs medicine** *(T-PRM-008)*
+
+*Target: "The patient no longer needs medicine."*
+
+```
+Gloss:    lo-zo-li  ta-ti-now  no-ne-fe  ma-no-de
+Literal:  patient:person  at-present-time  non-dependency-condition  preserving-substance
+Natural:  The person currently does not need medicine.
+```
+
+- `zo-li` = living social agent = patient / person
+- `ta-ti-now` = temporal particle + present time = currently / at this time (distinguishes present state from prior need)
+- `no-ne-fe` = negation-prefix + dependency-condition = non-dependency = does not need. The `no-` prefix operates on `ne-fe` as a unit; `no-ne-fe` = the absence of the dependency-condition.
+- `ma-no-de` = substance + no-decay = a preserving/maintaining substance = medicine/treatment. Head-final: `de` (decay) is the head; `no-de` = non-decay; `ma-no-de` = matter characterized by preventing decay.
+
+**"No longer"** (implying prior need that has ended) requires the temporal frame `ta-ti-now` to contrast with implied prior state. The bare `no-ne-fe` merely asserts current non-dependency without implying change. To assert explicitly that the patient *previously* needed medicine: `ta-ti-de  ne-fe  ta-ti-now  no-ne-fe  ma-no-de` (past dependency + present non-dependency) — which is grammatically valid but verbose; context usually supplies the implication.
+
+**Verdict S063: clean.** `no-ne-fe` (negated dependency) is grammatical and compositional. `ma-no-de` (medicine) is a useful new compound. The "no longer" temporal nuance is handled by the time-particle system rather than a dedicated word, consistent with Principle 4 (optional rather than mandatory marking).
+
+---
+
+### `ne-fe` Batch Summary
+
+| Sentence | Subject type | Object type | Verdict |
+|----------|-------------|-------------|---------|
+| S058 | person (patient) | raw substance | clean — state predication confirmed |
+| S059 | child | biological rest state | clean — `zo-no-ki` emerges |
+| S060 | machine/artifact | physical process | clean — `ha-de` parallel to `ha-be` |
+| S061 | collective institution | raw substance | clean — scales to complex subject |
+| S062 | collective agent | abstract structure | clean — `wi-to` (plan) emerges |
+| S063 | person | medicine | clean — `no-ne-fe` and `ma-no-de` both compositional |
+
+**`ne-fe` is genuinely general.** It held across six sentences spanning biological, mechanical, institutional, and abstract domains. Three new compounds emerged from the test: `zo-no-ki` (sleep/rest), `wi-to` (plan/intentional pattern), `ma-no-de` (medicine/preserving substance). These should be evaluated for W-registration.

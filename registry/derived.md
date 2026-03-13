@@ -710,8 +710,84 @@ Notes:        Resolves the S057 gap: "need/functional dependency" cannot be expr
               of volition. An unconscious patient ne-fe ma; wi requires a conscious agent.
               Contrast with no-Y go de (causal frame): says "absence-of-Y causes decay";
               ne-fe says "is in a condition requiring Y" — present-state claim, not prediction.
+              Negation: no-ne-fe = non-dependency = does not need (S063).
+              Generality confirmed: S058–S063 across biological, mechanical, institutional,
+              and abstract domains.
 Related:      ne (primitive: relation), fe (primitive: boundary), wi (primitive: will/intention),
-              no (primitive: negation), S057 (causal paraphrase), S058 (state predication test)
+              no (primitive: negation), S057 (causal paraphrase), S058–S063 (stress tests)
+```
+
+**W043**
+```
+Form:         zo-no-ki
+Type:         compound
+Class:        state
+Definition:   rest; sleep; the state of reduced or absent voluntary motion in a living body.
+Composition:  zo (living thing) + no (negation) + ki (motion) — living non-motion. Head-final:
+              ki (motion) is the head; no-ki = non-motion; zo specifies biological domain.
+Register:     standard
+Domain:       biological / general
+Status:       proposed
+Examples:     "lo-li-be  ne-fe  zo-no-ki" — the child needs sleep (S059)
+Notes:        Distinct from mu-no-ki (device at rest / powered-off). zo prefix makes this
+              specifically a living body's rest state, not mere mechanical stillness.
+Related:      zo (living thing), ki (motion), no (negation), li-be (W033), ne-fe (W042)
+```
+
+**W044**
+```
+Form:         ha-de
+Type:         compound
+Class:        process
+Definition:   cooling; the process of thermal decrease; reduction of heat in a system.
+Composition:  ha (thermal state) + de (decay/decrease) — thermal decrease. Head-final: de
+              (decrease) is the head; ha specifies thermal domain (vs ra-de = power loss).
+Register:     standard
+Domain:       physical / technical
+Status:       proposed
+Examples:     "lo-mu  ne-fe  ha-de" — the machine needs cooling (S060)
+Notes:        Systematic pair with ha-be (heating). ra-de ≠ ha-de: ra-de = energy decrease
+              (power failure/deceleration); ha-de = heat reduction. Orthogonal properties.
+Related:      ha (thermal state), de (decrease), ra-de (power loss — contrast), ne-fe (W042)
+```
+
+**W045**
+```
+Form:         wi-to
+Type:         compound
+Class:        entity / structure
+Definition:   plan; intentional pattern; purposive design; goal-directed conceptual structure.
+Composition:  wi (will/intention) + to (conceptual pattern) — a conceptual pattern that is
+              oriented toward purpose. Head-final: to (pattern) is the head; wi specifies
+              the pattern is purposive rather than descriptive.
+Register:     standard
+Domain:       cognitive / social
+Status:       proposed
+Examples:     "lo-li-pu  ne-fe  wi-to" — the team needs a plan (S062)
+Notes:        Contrast with to-wi: to modifies wi = "deliberate intention" (emphasis on the
+              intentional state). wi-to = the plan as a structured artifact; to-wi = the will
+              to act deliberately. wi-to is what you write down; to-wi is the motivation behind it.
+Related:      wi (will/intention), to (conceptual pattern), ne-fe (W042)
+```
+
+**W046**
+```
+Form:         ma-no-de
+Type:         compound
+Class:        entity / substance
+Definition:   medicine; treatment; a substance whose function is to preserve or restore
+              biological integrity.
+Composition:  ma (matter/substance) + no (negation) + de (decay/dissolution) — substance
+              that negates decay. Head-final: de is head of no-de; ma specifies material class.
+Register:     standard
+Domain:       biological / medical
+Status:       proposed
+Examples:     "lo-zo-li  ta-ti-now  no-ne-fe  ma-no-de" — the patient no longer needs
+              medicine (S063)
+Notes:        Works for any substance preventing or reversing deterioration in a living
+              system. mu-no-de (unregistered) = preservative coating on an artifact — same
+              internal structure, different subject class (mu vs ma).
+Related:      ma (matter), no (negation), de (decay), ne-fe (W042), zo-li (person/patient)
 ```
 
 ---
