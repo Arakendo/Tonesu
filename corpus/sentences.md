@@ -237,14 +237,14 @@ Natural:  When they study, knowledge grows.
 *Target: "I built the machine for you to use."*
 
 ```
-Gloss:    la-mi  ka-be-past  lo-mu  wi [la-tu  ka-use  lo-mu]
-Literal:  agent:I  action:create-PAST  patient:machine  intention [agent:you  action:use  patient:machine]
+Gloss:    la-mi  ka-be-past  lo-mu  wi [la-tu  ka-mu-ka  lo-mu]
+Literal:  agent:I  action:create-PAST  patient:machine  intention [agent:you  action:operate  patient:machine]
 Natural:  I built the machine for you to use.
 ```
 
 **Reduced form (same-patient candidate):**
 ```
-la-mi  ka-be-past  lo-mu  wi [la-tu  ka-use]
+la-mi  ka-be-past  lo-mu  wi [la-tu  ka-mu-ka]
 ```
 *Purpose-clause patient omitted — recoverable from main-clause patient immediately preceding `wi`.*
 
@@ -252,7 +252,7 @@ la-mi  ka-be-past  lo-mu  wi [la-tu  ka-use]
 - **Boundary rule test (pass):** `wi` opens the purpose clause at `la-tu`. The clause extends to sentence end — no matrix-level marker follows; right edge is sentence termination. Boundary rule holds. ✓
 - **Different-agent confirmed:** Main-clause agent is `mi` (I); purpose-clause agent is `tu` (you). `la-tu` must be explicit. Same-agent reduction does not apply. Spec constraint correct.
 - **Same-patient reduction: provisionally valid.** `lo-mu` (patient:machine) appears in both clauses. The reduced form recovers the patient from the immediately preceding main-clause patient. Recovery is unambiguous in this configuration. First corpus evidence bearing on the open question from spec/grammar.md § Purpose Frame. Provisional verdict: same-patient reduction is valid when the shared patient is explicitly present in the main clause; update grammar spec accordingly.
-- **`ka-use` is a placeholder gloss.** "Use/operate" has no defined compound yet. Candidate: `mu-ka` (artifact + action, head-final → the action characterized by artifact use). Needs registry entry before this sentence is finalized.
+- **`mu-ka`** (W022) = operate/use an artifact. Head-final: artifact (`mu`) specifies the action (`ka`). Registered in registry/derived.md. Placeholder `ka-use` retired.
 - **`ka-be-past`:** tense marker is a placeholder gloss, consistent with current corpus convention.
 
 ---

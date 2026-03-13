@@ -78,7 +78,7 @@ Register:     standard
 Domain:       general / technical
 Status:       proposed
 Examples:     "the su-mu-li designed the bridge"
-Related:      su-li (anyone organized), mu-ka-li (tool-maker)
+Related:      su-li (anyone organized), mu-ka-li (operator; one who uses tools — see W022)
 ```
 
 **W003**
@@ -171,6 +171,26 @@ Domain:       communication
 Status:       proposed
 Examples:     "si-ne-ki failed during the storm"
 Related:      si-ne-mu (communication device), si-ne-su (communication structure / network)
+```
+
+**W022**
+```
+Form:         mu-ka
+Type:         compound
+Class:        process
+Definition:   operate or use an artifact; use, operate, employ a tool or device
+Composition:  mu (artifact/object) + ka (action) — head-final: an action characterized by its
+              relationship to an artifact; the act of putting an artifact to work
+Register:     standard
+Domain:       general
+Status:       proposed
+Examples:     "la-tu  ka-mu-ka  lo-mu" — you operate the machine
+              "la-mi  ka-be-past  lo-mu  wi [la-tu  ka-mu-ka]" — I built the machine for you to use (S016)
+Notes:        Registered to resolve placeholder gloss `ka-use` in S016. Candidate form was
+              identified during corpus work. Head-final rule satisfied: the artifact (mu) specifies
+              the domain of the action (ka). Contrast with su-mu-li where mu describes the object
+              produced; here mu describes the object acted upon.
+Related:      mu-ka-li (operator, one who uses tools), mu-ka-mu (tool for operating another tool)
 ```
 
 ---
