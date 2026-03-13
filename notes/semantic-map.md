@@ -477,6 +477,38 @@ The performative gap is the genuine source of awkwardness. The current system as
 
 Position (a) is the default until corpus evidence forces a choice. The awkwardness is real and is a feature of the reflective register being the only formally-documented one — casual register compression will address it over time for the first two flavours. The performative register question is logged. See open-questions.md.
 
+**Emotional experience as process, not state:**
+
+The design principle in spec/principles.md § 9 has a second, less visible consequence: Tonesu encodes emotional experience not as *states* one has but as *signal-processing events* one undergoes. A signal arrives (`se`), an interpretive attempt is made, and the process either resolves into a conceptual model (`to`) or does not. This is structurally different from most natural languages, which treat emotions as named states with fixed form.
+
+The result: Tonesu can express something most natural languages handle very poorly — **perception without interpretive resolution**. The state of feeling something without being able to name, locate, or model it. This corresponds to several well-documented psychological phenomena: alexithymia, depressive anhedonia, SSRI emotional flattening, trauma-related affect disruption. English can only gesture at these: "I feel weird," "something's wrong," "I don't know what I'm feeling." These are descriptions of a *failure to classify*, not names of the state itself.
+
+**Canonized constructions (March 2026):**
+
+| State | Construction | Literal |
+|---|---|---|
+| Unresolved affect | `se-no-to` (W090) | signal + no-model |
+| "I feel something I can't identify" | `la-mi  se, no-to-mi` | I perceive; my model is empty |
+| Depression-like cluster | `zo-mi  se  vo-de  re / no-go / wi-de` | organism repeatedly perceives value-decay / no identifiable cause / will-diminishing |
+| Anxiety-like cluster | `zo-mi  se  fe-ki` | organism perceives approaching-boundary |
+| Emotional numbness / flatness | `se-no` | signal-absence |
+| Observer mode (dissociation) | `la-mi  to  [la-zo-mi  se  lo-X]` | I model analytically that my organism perceives X |
+
+`se-no-to` is the canonical shortform for unresolved affect. Registered as W090. Compositionally unambiguous via two parse paths that converge: `[se-no]+[to]` and `[se]+[no-to]` both yield signal-without-model.
+
+**The `zo`/`li` observer split:**
+
+Because `zo` (organism) and `li` (social agent) are distinct, a speaker can locate emotional experience in the body or the agent's perspective:
+
+- `la-mi  se  lo-X` — I (as agent) perceive X. Feeling is integrated into the self.
+- `la-mi  to  [la-zo-mi  se  lo-X]` — I (as agent) model that my organism perceives X. Feeling held at analytical distance.
+
+The second construction is not designed — it falls out of the ontology. It maps precisely onto dissociated emotional experience: the feeling is happening somewhere in the system, but the agent is observing rather than inhabiting it. This corresponds to what many people on SSRIs or in dissociative states report: the emotion is registered and even nameable, but not felt *from the inside*.
+
+**`xa` primitive candidacy (held):**
+
+A new root `xa` meaning "pre-conceptual affective state" — internal affective signal before it resolves or fails to resolve — was proposed (Monday, March 2026). Argument: `se` leans toward external detection; the *felt interior* of affect may be categorically different. Counter: `zo-se` (organism-perception) already spans internal signals, and `se-no-to` handles the unresolved case without a new primitive. Position: hold. Escalation threshold: corpus sentences where `zo-se` produces a structurally wrong reading for internal affect specifically — not merely the unresolved case, which W090 covers. If escalated, `xa` would be the first root to cross the no-emotional-primitives threshold, but as a *pre-conceptual affect* root (categorically different from an emotion primitive). See EM-002.
+
 ---
 
 ## Discourse-Level Emergence

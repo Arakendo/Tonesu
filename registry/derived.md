@@ -1779,6 +1779,34 @@ Related:      go (causal frame, W-grammar), du (result frame), to (conceptual pa
 
 ---
 
+**W090**
+Form:         se-no-to
+Composition:  se (perception) + no (negation/absence) + to (conceptual pattern)
+Gloss:        unresolved affect / signal without model
+Definition:   The state of perceiving an affective or emotional signal that has not
+              resolved into a conceptual model. Not ignorance about external facts — the
+              specific phenomenon of receiving internal signal that cannot be named,
+              located, or categorized. Compositionally unambiguous via two converging
+              parse paths: [se-no]+[to] (no-signal-thought) and [se]+[no-to] (perception-
+              of-no-model) both yield the same meaning.
+              This covers a cluster of psychological phenomena: alexithymia, depressive
+              anhedonia, SSRI emotional flattening, trauma-related affect disruption.
+              Shortform for the full construction `la-mi  se, no-to-mi`.
+              Contrast: `se-no` (signal-absence = emotional numbness, total-absence case)
+              vs `se-no-to` (signal received but not resolved — the more common case).
+First use:    Canonized by design decision, March 2026. Corpus attestation pending.
+Notes:        Related construction: `la-mi  to  [la-zo-mi  se  lo-X]` — observer mode;
+              agent analytically models that organism is feeling X. Falls out of the
+              zo/li ontological split without requiring new grammar. See semantic-map.md
+              § Domain 7 for the full emotional process model and canonized construction
+              table. If corpus pressure builds for a root separating internal affective
+              signals from external sensory signals, `xa` is the first CVC candidate
+              (see EM-002, spec/phonology.md § CVC Root Reserve).
+Related:      se (perception), no (negation), to (conceptual pattern), zo (organism),
+              la-zo-mi se lo-X (somatic/reactive construction, Domain 7)
+
+---
+
 - [x] ~~Resolve whether compound forms use hyphens in writing or run together~~ → Resolved: solid spelling is canonical; hyphens are analytic notation only. See spec/word-formation.md § Written Form.
 - [ ] Review W002 (su-mu-li) — does it conflict with the derivational marker stack order?
 - [ ] Develop domain-specific sub-lists once domains are finalized (see ontology/domains.md)
