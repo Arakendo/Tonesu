@@ -45,7 +45,7 @@ Short suffix syllables that shift a root into a different lexical role. Regular,
 | `-pa` | location | build-pa → construction site |
 | `-su` | result/state | build-su → structure / what was built |
 | `-to` | abstract concept | build-to → the concept of construction |
-| `-se` | quality/property | energy-se → energetic |
+| `-ge` | quality/property | energy-ge → energetic |
 | `-ki` | ongoing process | build-ki → the act of building (verbal noun) |
 
 Derivational suffixes attach directly to the root without a separator.
@@ -129,6 +129,23 @@ The elements from `'` to the end of the compound (or the next `'` if present) fo
 
 ---
 
+## Written Form
+
+**Default: no separator. Compounds are written solid.**
+
+```
+to-fe-su-ki  (analytical notation)  →  tofesuki  (written form)
+ra-ge        (analytical notation)  →  rage      (written form)
+```
+
+Hyphens appear throughout this spec and corpus as **analytical notation only** — they mark morpheme boundaries for documentation and glossing, the way IPA represents pronunciation without being the word itself. They are not part of the orthographic form.
+
+**The only normative non-alphabetic character in a written compound is `'`** (the prosodic juncture marker, § Compound Grouping Marker). A compound with a grouping marker writes `'` exactly as specified; all other morpheme boundaries are invisible in writing.
+
+**Reserve on hyphens:** hyphens are not currently adopted as orthographic convention but are not discarded. If a structural role analogous to `'` emerges — a boundary that earns its weight by conveying information beyond what the morpheme sequence alone carries — hyphens are the candidate for that role. Do not use hyphens in nominal written forms; a potential future use is non-nominal.
+
+---
+
 ## Lexical Status Tiers
 
 | Tier | Meaning |
@@ -186,6 +203,6 @@ Status:       proposed | accepted | lexicalized | deprecated
 
 ## Open Questions
 
-- [ ] Decide separator convention at compound boundaries (none, hyphen in writing, pause in speech)
+- [x] ~~Decide separator convention at compound boundaries (none, hyphen in writing, pause in speech).~~ → **Resolved: solid spelling (no separator).** See § Written Form.
 - [ ] Define maximum compound length before compression is required
 - [ ] Confirm suffix order when multiple derivational markers stack
