@@ -138,11 +138,19 @@ to-fe-su-ki  (analytical notation)  →  tofesuki  (written form)
 ra-ge        (analytical notation)  →  rage      (written form)
 ```
 
-Hyphens appear throughout this spec and corpus as **analytical notation only** — they mark morpheme boundaries for documentation and glossing, the way IPA represents pronunciation without being the word itself. They are not part of the orthographic form.
+Hyphens may be used in analytic or pedagogical contexts to display compound structure. They do not carry grammatical meaning and may be omitted in normal writing. Their role in this spec and corpus is notation only — the way IPA represents pronunciation without being the word itself.
 
-**The only normative non-alphabetic character in a written compound is `'`** (the prosodic juncture marker, § Compound Grouping Marker). A compound with a grouping marker writes `'` exactly as specified; all other morpheme boundaries are invisible in writing.
+**The only normative non-alphabetic character in a written compound is `'`** (the prosodic juncture marker, § Compound Grouping Marker). `'` is structural: it encodes prosodic grouping that bare letter sequences cannot. Hyphens encode nothing; they are readability aids that a writer may add or omit at will.
 
-**Reserve on hyphens:** hyphens are not currently adopted as orthographic convention but are not discarded. If a structural role analogous to `'` emerges — a boundary that earns its weight by conveying information beyond what the morpheme sequence alone carries — hyphens are the candidate for that role. Do not use hyphens in nominal written forms; a potential future use is non-nominal.
+This gives Tonesu three layers with distinct functions:
+
+| Layer | Device | Role |
+|-------|--------|------|
+| Spoken morphology | none | continuous phonological word |
+| Structural grouping | `'` | prosodic boundary, left edge of subcompound |
+| Analytic clarity | `-` | optional notation in specs, teaching, glosses |
+
+Because hyphens carry no grammatical meaning, written forms strip cleanly: `to'semaka` and `to'se-ma-ka` are the same word. The apostrophe is the only mark that matters.
 
 ---
 
