@@ -250,6 +250,61 @@ Notes:        Distinct from to-ki (W020, computation/reasoning process): to-ki i
 Related:      to-ki (W020), to-su (W030), to-su-li (expert / one who has comprehended)
 ```
 
+**W028**
+```
+Form:         to-fe
+Type:         compound
+Class:        entity / concept
+Definition:   epistemic boundary; the categorical line between epistemic states;
+              the principle that se/si/to/to-su are not interchangeable
+Composition:  to (knowledge/pattern) + fe (boundary/limit/category) — knowledge-boundary;
+              the edge between one epistemic status and the next
+Register:     formal
+Domain:       knowledge / ethics
+Status:       proposed
+Examples:     "the to-fe between observation and knowledge is fundamental to Concordian discourse"
+Notes:        Does not denote a boundary in physical space but a boundary in epistemic category.
+              The root fe already covers all category-edges (physical, temporal, abstract);
+              to-fe specifies the knowledge-category application.
+              Derived forms: to-fe-ki (unintentional epistemic category confusion; honest error,
+              accidental — entered a wrong epistemic category); to-fe-ka (deliberate epistemic
+              boundary violation; see W029).
+              The distinction between to-fe-ki and to-fe-ka mirrors Domain 2: the same ki/ka pair
+              that separates natural transition from deliberate action.
+Related:      to (W—), fe (primitive), to-fe-ka (W029)
+```
+
+**W029**
+```
+Form:         to-fe-ka
+Type:         compound
+Class:        process
+Definition:   deliberate epistemic mislabeling; present information of one epistemic status as
+              another, knowing the true status; epistemic fraud; intellectual misrepresentation
+Composition:  to-fe (W028, epistemic boundary) + ka (deliberate intentional action) —
+              the intentional act of violating an epistemic category boundary;
+              ka's intentionality is what makes this fraud rather than error
+Register:     formal
+Domain:       ethics / knowledge
+Status:       proposed
+Examples:     "calling se (perception) to (knowledge) is to-fe-ka"  
+              "la-ze  ka-to-fe-ka  lo-to-si" — she misrepresented the query as established knowledge
+Notes:        Cultural weight: in Concordian formal discourse, to-fe-ka occupies the same severity
+              as fraud or perjury in legal systems — a deliberate violation of the epistemic contract
+              that makes shared knowledge trustworthy. In casual speech, imprecise epistemic marking
+              is tolerated (same as English 'I know' for 'I believe'); to-fe-ka requires
+              both awareness of the mis-categorization and deliberate choice to misrepresent.
+              Contrast: to-fe-ki (same boundary-crossing without intention; honest error;
+              correctable through clarification). The ki/ka choice forces the speaker to commit
+              to whether the violation was accidental or deliberate — the language does not allow
+              convenient ambiguity on this point.
+              This compound demonstrates the convergence of Domain 1 (epistemic precision) and
+              Domain 2 (deliberateness)/Domain 4 (limits): Concordia does not have a separate
+              moral framework for intellectual honesty — epistemic fraud is a category of
+              boundary violation, the same ontological class as approaching a physical limit.
+Related:      to-fe (W028), fe-si (W024), fe-ki (reach a limit)
+```
+
 ---
 
 ### Abstract Concepts

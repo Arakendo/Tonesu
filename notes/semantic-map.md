@@ -128,6 +128,18 @@ Tonesu draws at least seven distinct states:
 
 **Cultural claim:** The epistemic status of information matters. There is a categorical difference between detecting (`se`), encoding (`si`), understanding (`to`), and systematizing (`to-su`). An unsupported claim is not an encoded fact is not an integrated model. Concordian speakers are expected to track these distinctions — passing off `se` as `to` is epistemically dishonest in a way the language makes explicit.
 
+**Social consequences of epistemic mislabeling:**
+
+| Context | Act | Label | Treatment |
+|---------|-----|-------|-----------|
+| Casual speech | "I know" when meaning "I think" | imprecision | Tolerated; register-appropriate reduction |
+| Honest error | Genuinely confuses `se` with `to` | `to-fe-ki` (boundary-crossing by motion, neutral) | Correctable; low social cost |
+| Formal discourse, deliberate | Knowingly presents `se` as `to` | `to-fe-ka` (boundary-crossing by intentional action) | Epistemic fraud; equivalent to perjury in high-stakes contexts |
+
+The `ki`/`ka` distinction (Domain 2) does the accountability work: the language forces the speaker to commit to whether a boundary-crossing was accidental or deliberate. There is no convenient grammatical ambiguity between honest error and fraud.
+
+**Note:** English frames dishonesty as a *moral* failure (lying is wrong). Tonesu frames it as a *structural* failure — violating a category boundary. This uses the same `fe` root as physical danger and warnings. Concordia's ethics and its risk-management framework are the same ontology. Intellectual dishonesty is not a separate moral domain; it is a species of boundary violation.
+
 ---
 
 ### Domain 2: Deliberateness of Change
