@@ -75,6 +75,30 @@ These provide meta-structure. All other domains inherit from or compose with the
 
 ---
 
+## Mystic / Resonance
+
+This domain covers mystic phenomena in the Concordia setting: resonance between will and physical systems, structured intentional practice, anomalous signal phenomena, and perceptual states beyond ordinary cognitive processing. **Proposed, not yet required.** The corpus test S072–S078 confirmed that all core mystic concepts compose from existing primitives. The domain label is reserved for use as a register/qualifier rather than as a semantic reboot.
+
+| Label | Name | Substrate | Principle | Parent | Status | Notes |
+|-------|------|-----------|-----------|--------|--------|-------|
+| `da-wi-ra` | Resonance domain | `wi` will/intention | `ra` force/energy | — | proposed | mystic practices, will-resonance, ritual, perception-states; NOT evidence for a new primitive yet |
+
+Core compounds already functioning in this domain (all from S072–S078):
+
+| Compound | Meaning | Notes |
+|----------|---------|-------|
+| `pa-ra` | field (spatial energy distribution) | physics term, also mystic field |
+| `wi-ka-su` | ritual | organized intentional-action structure |
+| `fe-su` | ward / protective barrier | constructed boundary |
+| `zo-se-ki` | entering trance | organism-perception state transition |
+| `ti-mu` | relic | time-artifact (characterized by temporal depth) |
+| `fe-no-ka` | forbidden boundary | prohibition encoded as boundary property |
+| `se-to` | vision / perceptual insight | concept arising from direct perception |
+
+**Primitive threshold conditions:** a mystic primitive becomes justified when three or more attested corpus sentences produce genuinely misleading readings using existing roots, and no compound resolves the ambiguity. Current watch: S075 `la-wi-ze  ka  lo-mu` (will-as-agent vs will-as-instrument ambiguity). See notes/open-questions.md.
+
+---
+
 ## Open Questions
 
 - [ ] Several entries have substrate == principle (e.g. `da-su`). Review whether this is meaningful or an artifact of placeholder design.

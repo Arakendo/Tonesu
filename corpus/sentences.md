@@ -2072,3 +2072,159 @@ Natural:  He placed the tool into the container.
 | S071 | `ka-ko` | person + destination | agentive + explicit target | clean |
 
 **`ko` / `ka-ko` distinction confirmed.** `ko` in the predicate slot is always a passive relational state; `ka-ko` always asserts intentional placement. The distinction is load-bearing: institutional archives, material containers, and physical vessels are grammatically identical under `ko`-predication — the intentionality of the containing entity is irrelevant to the form. Intentional placing requires `ka-ko` with an explicit agent. Rule written into spec/grammar.md § Containment Predicates.
+
+---
+
+## Mystic Domain Probe (S072–S078)
+
+**Purpose:** Test Monday's hypothesis that "magic" in a Concordia-style setting (space mecha + loose mystic system) does not require a new primitive — that `ra`, `wi`, `to`, `fe`, `ne`, and `se` already cover the conceptual ground. Seven sentences drawn from the domain. Verdict criterion: does the sentence come out clean, serviceable, or distorted? "Maintenance manual haunted by a ghost" = distorted.
+
+---
+
+**S072 — The pilot sensed the field** *(T-MYS-001)*
+
+*Target: "The pilot sensed the field."*
+
+```
+Gloss:    la-ra-ki-li  se  lo-pa-ra
+Literal:  agent:pilot  perceive  patient:space-energy
+Natural:  The pilot detected the spatial energy field.
+```
+
+- `ra-ki-li` = energy-motion-person = pilot (established compound).
+- `pa-ra` = space-energy = a field: the spatial distribution of an energetic quantity. Head-final: `ra` (energy) is head; `pa` (space) specifies the domain of distribution. The field is energy organized across space, not a point source. First use. Natural companion to `ha-ra` (thermal energy, S037).
+- `se` = raw detection / sensing. No interpretation implied — the pilot registers the field, not yet processes what it means.
+
+**Verdict S072: clean and useful.** `pa-ra` (field) is a productive compound; `ra-ki-li` in agent position with `se` predicate is a standard perception sentence. No strain.
+
+---
+
+**S073 — The ritual strengthened the ward** *(T-MYS-002)*
+
+*Target: "The ritual strengthened the protection."*
+
+```
+Gloss:    la-wi-ka-su  lo-fe-su  be-past
+Literal:  agent:ritual  patient:boundary-structure  grew
+Natural:  The ritual strengthened the ward.
+```
+
+- `wi-ka-su` = will-action-structure = a formally structured system of intentional acts = ritual / formal procedure. Head-final: `su` (structure/organization) is head; `wi-ka` (intentional action) specifies the type. Three morphemes, but compositionally transparent: a ritual is specifically an *organized system* of intentional acts, distinguished from `wi-to` (plan, a purposive design object) and `wi-ka` (bare intentional action). First use.
+- `fe-su` = boundary-structure = ward / protective barrier. Head-final: `su` (structure) is head; `fe` (boundary) specifies function. Distinct from `ha-fe` (thermal threshold, S034) — `fe-su` is a constructed boundary, not a threshold of a physical quantity.
+- `be` = growth/increase. In predicate position with a structural object as patient: the boundary structure grew = was strengthened / expanded.
+- Non-sentient agent in `la` slot: `la-wi-ka-su` (the ritual as actor) parallels `la-se-ka` (the process as actor) from C004. Grammatically established.
+
+**Verdict S073: clean.** Two useful compounds: `wi-ka-su` (ritual) and `fe-su` (ward/barrier). The mystical action composes entirely from force-pattern-will primitives.
+
+---
+
+**S074 — She entered the trance state** *(T-MYS-003)*
+
+*Target: "She entered the trance state."*
+
+```
+Gloss:    la-ze  zo-se-ki
+Literal:  agent:she  [living-perception]-enter
+Natural:  She entered the state of heightened bodily perception.
+```
+
+- `zo-se-ki` = inchoative of `zo-se`. Head-final: `ki` (motion/entering) as inchoative marker; base compound `zo-se` = organism-perception = the raw perceptual state of a living body. `zo-se-ki` = enter the organism-perception state = go into the state where bodily perception dominates. Same inchoative compounding pattern as `ne-ki` (connect), `zo-ki` (come to life), `ko-ki` (enter containment).
+- "Trance" in the Concordian frame is not mystical in origin — it is a perceptual mode transition: the pilot/practitioner shifts from cognitive-processing dominance (`to`-mode) to raw sensory presence (`se`-mode) in the body (`zo`). This is a recognizable concept in the mecha context: pilots who "sink into" machine resonance by releasing cognitive overlay.
+
+**Verdict S074: clean.** `zo-se-ki` (entering trance/heightened perception state) is compositionally valid and produces precisely the right Concordian framing: not "entering a mystical realm" but "entering the organism-perception mode." Which is exactly how this culture would describe it — as a sensory-cognitive state, not a spiritual journey.
+
+---
+
+**S075 — The machine responds to her will** *(T-MYS-004)*
+
+*Target: "The machine responds to her will."*
+
+```
+Gloss:    la-wi-ze  ka  lo-mu
+Literal:  agent:her-will  acts-upon  patient:machine
+Natural:  Her will acts upon the machine.
+```
+
+- `wi-ze` = her-will / her-intention = will (`wi`) possessed by her (`ze`). `wi` in the agent slot as the acting entity. Non-sentient/non-physical agents in the `la` slot are established (C004: `la-se-ka` process-as-agent). Will occupying the agent slot is structurally valid.
+- This sentence is structurally identical to an ordinary one where "her command" acts on the machine — the `la` slot takes agents of any type. The *mystical* reading (her will, unmediated, acts on the machine without physical command) vs the *mundane* reading (her intention causes her to command the machine) are **not distinguished by the sentence alone**.
+
+**Strain analysis:** `la-wi-ze  ka  lo-mu` is not distorted — it is ambiguous. In an engineering register it describes command; in a mystic register it describes direct will-resonance. Tonesu does not currently distinguish these. The candidate disambiguation:
+- Mundane: `la-ze  ro-wi  ka  lo-mu` = "she (by means of will/command) acts on the machine" — will as instrument
+- Mystic: `la-wi-ze  ka  lo-mu` — will as direct agent, person absent from agent slot
+- The contrast is: person-uses-will (`ro-wi`) vs will-acts-directly (`la-wi-ze`). If this distinction is needed regularly, it is the pressure point, not the whole sentence.
+
+**Verdict S075: serviceable, with one ambiguity seam.** Structurally clean; semantically underdetermined between mundane-command and mystic-resonance. The seam is at whether `wi` occupies the instrument slot (`ro-wi`) or the agent slot (`la-wi-ze`). Log as a watch item.
+
+---
+
+**S076 — The relic emits a strange signal** *(T-MYS-005)*
+
+*Target: "The relic emits a strange signal."*
+
+```
+Gloss:    la-ti-mu  si-ki  no-to-ge
+Literal:  agent:ancient-artifact  signals-outward  patternless-quality
+Natural:  The relic emits an anomalous signal.
+```
+
+- `ti-mu` = time-artifact = relic / ancient object. Head-final: `mu` (artifact) is head; `ti` (time) specifies temporal depth — an artifact characterized by significant time. First use. Transparent: "a thing from time."
+- `si-ki` = signal-motion = signal going outward / transmission. Established direction: `si` (signal) + `ki` (motion) = signal in motion = emit/transmit. Uses the same motion-as-emission pattern as `ra-ki-mu` (engine: energy + motion + artifact).
+- `no-to-ge` = negation + concept + quality-suffix = the quality of being patternless / unclassified / anomalous. `no-to` = pattern-absence; `-ge` = quality of. The signal has no recognized conceptual framework. Distinct from `no-to-su` (absence of organized knowledge) — `no-to-ge` is a predication about the signal's qualitative character.
+
+**Verdict S076: clean and evocative.** `ti-mu` (relic) is immediately useful. `no-to-ge` correctly produces the Concordian framing of "strange": not "weird" in an emotional sense, but "outside the current pattern-recognition schema." A properly creepy ancient artifact in Concordian terms is one that emits signals that no existing `to` framework can classify.
+
+---
+
+**S077 — They crossed the forbidden boundary** *(T-MYS-006)*
+
+*Target: "They crossed the forbidden boundary."*
+
+```
+Gloss:    la-yu  fe-ki  lo-fe-no-ka
+Literal:  agent:they  boundary-cross  patient:prohibition-boundary
+Natural:  They crossed the boundary that action forbids.
+```
+
+- `fe-ki` = boundary-motion = boundary crossing. Inchoative frame: `fe` (boundary) + `ki` (motion) = entering-boundary-state = to cross a threshold / transgress. Consistent with the established inchoative pattern.
+- `fe-no-ka` = boundary + no-action = the boundary defined by its prohibition. Head-final: `fe` (boundary) is head; `no-ka` (negation-action = prohibition / the no-action state) modifies it. "The border that must not be crossed" formulated as: the boundary whose crossing is prohibited = `fe-no-ka`. Note: built from `no-` (productive negation prefix, now formalized) + `ka` (action) + `fe` head. Clean composition.
+- The sentence makes no claim about why the boundary is forbidden — whether by institutional decree, mystic danger, physical necessity, or cultural taboo. The prohibition is encoded in the structure of the referent (`fe-no-ka`), not in any new modal root.
+
+**Verdict S077: clean.** `fe-no-ka` (forbidden boundary / prohibition threshold) is a natural compound. The Concordian framing of "taboo" as a *boundary with a no-action property* is exactly right — prohibition is a structural condition, not a feeling.
+
+---
+
+**S078 — The navigator received a vision** *(T-MYS-007)*
+
+*Target: "The navigator saw a vision."*
+
+```
+Gloss:    la-di-ki-li  se  lo-se-to
+Literal:  agent:navigator  perceive  patient:perception-concept
+Natural:  The navigator received a perceptual insight / vision.
+```
+
+- `di-ki-li` = direction-motion-person = navigator: one whose work is directed motion through space. Head-final: `li` (person) is head; `di-ki` (directed motion) specifies the domain. First use. Note: `di` (direction/orientation) + `ki` (motion) = directed movement = navigation as an activity type.
+- `se-to` = perception-concept = the conceptual pattern that arises from direct perception. Head-final: `to` (conceptual pattern) is head; `se` (perception) specifies that the concept originates from raw sensory input rather than reasoning (`go`) or signal decoding (`si`). A `se-to` is what you grasp directly by sensing, not by inference. In the mystic context: a vision is literally a perceptual-concept — a conceptual image arriving through the perceptual channel. First use.
+- The slight recursion (`se` verb + `se`-inside-`se-to` object) is semantically distinct: the outer `se` is the act of receiving; the `se` inside `se-to` names the epistemic *origin* of the concept. The navigator perceives (`se`) a concept-from-perception (`se-to`).
+
+**Verdict S078: clean but carries tension.** `se-to` (perceptual insight) is semantically precise and useful. The tension: "vision" in a mystic sense implies content from outside the perceiver's ordinary sensory experience — the navigator sees something *beyond* what the eyes physically collect. `se-to` doesn't distinguish ordinary insight from prophetic reception. A mystic vision that seems to originate from an external unseen domain might need `se-ne-to` (perception-relation-concept = a concept received through perceptual connection to something external) or a domain qualifier. Logged as a watch item.
+
+---
+
+### Mystic Domain Batch Summary
+
+| Sentence | Target concept | Form | Verdict |
+|----------|---------------|------|---------|
+| S072 | field | `pa-ra` | clean — immediate use |
+| S073 | ritual / ward | `wi-ka-su`, `fe-su` | clean — ritual as organized-will-structure |
+| S074 | trance | `zo-se-ki` | clean — perceptual mode transition |
+| S075 | will as cause | `la-wi-ze  ka` | serviceable — ambiguous instrument vs agent |
+| S076 | relic / anomalous signal | `ti-mu`, `no-to-ge` | clean — "strange" = patternless quality |
+| S077 | forbidden boundary | `fe-no-ka` | clean — prohibition as a boundary property |
+| S078 | vision / insight | `se-to` | clean — 1 watch item (mystic vs ordinary insight) |
+
+**Verdict: Monday's hypothesis confirmed.** 6/7 sentences compose cleanly from existing roots with no strain. S075 has one ambiguity seam (`wi` as instrument vs direct agent); S078 has one unresolved nuance (prophetic vs ordinary perceptual insight). Neither requires a new primitive. Both are compound-level issues.
+
+**Emergent compounds from this batch:** `pa-ra` (field), `wi-ka-su` (ritual), `fe-su` (ward/barrier), `zo-se-ki` (trance), `ti-mu` (relic), `fe-no-ka` (forbidden boundary), `di-ki-li` (navigator), `se-to` (perceptual insight/vision). Candidates for W-registration.
+
+**The mystic-primitive question is not closed, just deferred properly.** If corpus sentences keep appearing where the `wi`-as-instrument vs `wi`-as-direct-agent ambiguity (S075) matters — i.e., where Concordian speakers would systematically need to distinguish trained-will-resonance from physical-command — and no compound patch resolves it, that is when a dedicated domain root becomes justified. The threshold: more than three attested sentences where the ambiguity produces genuinely wrong or misleading readings.

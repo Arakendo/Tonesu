@@ -71,6 +71,13 @@ Consolidated list of unresolved design decisions from across all spec and regist
 
 ---
 
+## Mystic / Resonance Domain
+
+- [ ] **Mystic primitive threshold — deferred watch.** Corpus batch S072–S078 tested seven mystic-domain sentences without a new primitive. Result: 6/7 clean. Existing roots cover: field (`pa-ra`), ritual (`wi-ka-su`), ward (`fe-su`), trance (`zo-se-ki`), relic (`ti-mu`), forbidden boundary (`fe-no-ka`), vision (`se-to`). No primitive gap found yet. **Key ambiguity:** S075 `la-wi-ze  ka  lo-mu` (will-as-agent acting on a machine) is structurally valid but semantically underdetermined between mundane-command and mystic-direct-resonance. Candidate distinction: `la-ze  ro-wi  ka  lo-mu` (person uses will as instrument = command) vs `la-wi-ze  ka  lo-mu` (will itself is agent = direct resonance). If this distinction must be made regularly in the Concordia mecha context, the ambiguity seam is load-bearing. Primitive threshold: three or more corpus sentences where this ambiguity produces wrong readings and no compound or particle fixes it. Domain label `da-wi-ra` reserved in registry/domains.md.
+- [ ] **`se-to` (vision/perceptual insight) range — watch.** S078 confirmed `se-to` = concept arising from direct perception = worked for "the navigator received a vision." Unresolved: does `se-to` cover both ordinary perceptual insight (you see something and grasp a pattern) and prophetic/mystic reception (a concept arrives through the perceptual channel from an external non-ordinary source)? If the Concordia setting requires the distinction, `se-ne-to` (perception-relation-concept = conceptual reception through a relational link to an external source) is the candidate. Do not split until corpus shows the two readings in conflict.
+
+---
+
 ## Word Formation
 
 - [x] ~~**Decide separator convention at compound boundaries.**~~ → **Resolved: no separator — solid spelling.** Canonical written form is solid: `tofesuki` not `to-fe-su-ki`. Hyphens throughout the spec and corpus are analytical notation only (morpheme-boundary glossing, not orthography). `'` remains the only normative non-alphabetic character in a compound. Hyphens are **reserved** as a potential future structural marker for non-nominal constructions, analogous to how `'` earned its role — but that use case is not yet defined. Do not use hyphens in nominal written forms. See spec/word-formation.md § Written Form.
