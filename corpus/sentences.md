@@ -3230,4 +3230,278 @@ Three-tier confirmation strategy now fully attested:
 | Action-commit | `ka-[action]` = I am/will do it | C001 B3 | confirms AND commits to action |
 
 **Emergent compound from this batch:** `no-ne-fe` (no active link / no dependency state).
-First used B2, reused B3. Register as W075 next session.
+First used B2, reused B3. Registered as W075 (`3323195`).
+
+---
+
+## Epistemic Testimony (C007)
+
+---
+
+**C007 — Formal testimony: the negated epistemic scale**
+
+*Scene: After the C006 field anomaly, the ship's knowledge-keeper (`to-fe-ki-li`, A)
+conducts a formal post-event testimony session with pilot B (`ra-ki-li`) regarding
+what the pilot knew — and did not know — during the approach.*
+
+*Tests: bare `la-mi  to  [prop]` (first clean first-person established modal); `no-to`
+second attestation (C005 B3 was first); `no-si` first attestation; `no-se` first
+attestation; nested epistemic embedding (A5, outer frame certifies inner epistemic
+state); bare `ru` with no elaboration (B5, fourth attestation, first completely bare
+use).*
+
+---
+
+**Turn A1**
+
+```
+Gloss:    to-si — la-tu  to  [lo-pa-ra  nu-be  lo-si-fe]
+Literal:  knowledge-inquiry — agent:you  established  [patient:field  exceeds  threshold]
+Natural:  Do you hold as established: the field exceeded threshold?
+```
+
+**Notes:**
+- Polar question (`to-si` fronted). Distinctively, the embedded proposition itself
+  contains an epistemic modal: A is not asking about the field event but about B's
+  epistemic *status* regarding it. "Is it the case that you hold [X] as established?"
+  — the object of inquiry is B's epistemic commitment.
+- First polar question in the corpus directed at a speaker's epistemic state rather than
+  a physical or social fact. The structure `to-si — la-tu  [modal]  [sub-prop]` is
+  the formal interrogative for probing someone's epistemic level.
+- This sets the investigator's method: ask about `to` level first, then drill down.
+
+---
+
+**Turn B1**
+
+```
+Gloss:    ru — la-mi  to  [lo-pa-ra  nu-be  lo-si-fe]
+Literal:  [affirm] — agent:I  established  [patient:field  exceeds  threshold]
+Natural:  Yes — I hold as established: the field exceeded threshold.
+```
+
+**Notes:**
+- `ru` third full attestation (C006 B1, C006 B4, C007 B1). Pattern fully confirmed.
+- **First clean `la-mi  to  [prop]` form.** The first-person speaker marking established
+  personal knowledge. Prior `to`-level uses: C005 had third-person subjects (`la-yo  to
+  [prop]`). Here the pilot makes a first-person claim at established level, with `la-mi`
+  in the agent slot. The construction is parallel: `la-[speaker]  to  [prop]` = "I,
+  the speaker, hold [prop] as a conceptual pattern / established fact." Full paradigm
+  now covers both first-person and third-person subjects.
+- Clean split emerging: B knows the event (threshold breach, `to`). B does not know
+  the resonance character (upcoming B2, `no-to`). A testimony session can partition
+  a speaker's knowledge at the proposition level.
+
+---
+
+**Turn A2**
+
+```
+Gloss:    lo-ne-ra  vo  to-si?
+Literal:  patient:the-resonance  quality  [what]?
+Natural:  What is the resonance character?
+```
+
+**Notes:**
+- Content question (`to-si?` in qualifier slot). Identical form to C006 A2 (same topic,
+  different institutional register: field-check vs formal testimony). The interrogative
+  form is register-neutral; the institutional weight of the scene comes from context
+  and participants, not syntax.
+- Second occurrence of `lo-ne-ra  vo  to-si?` across the corpus: confirms the form
+  is stable and repeatable when the referent is the same.
+
+---
+
+**Turn B2**
+
+```
+Gloss:    la-mi  no-to  [lo-ne-ra  vo]
+Literal:  agent:I  not-established  [patient:the-resonance  quality]
+Natural:  I do not hold the resonance character as established.
+```
+
+**Notes:**
+- **`no-to` second corpus attestation.** First: C005 B3 (`la-mi  no-to` — pilot
+  regarding the machine's soul-claim). Same frame (`la-mi  no-to  [embedded prop]`),
+  different embedded proposition, different scene. Pattern confirmed: two attestations
+  across two distinct conversations.
+- DIRECT CONTRAST with B1: same speaker, same session, different propositions. B holds
+  `to` (established) for the threshold breach. B holds `no-to` (sub-established) for
+  the resonance character. The graduated scale enables exactly this: to report
+  differential knowledge precision within a single testimony.
+- `no-to` alone does not entail `no-si` or `no-se`. The pilot may still hypothesize
+  or perceive the resonance character — the investigator needs to probe further.
+
+---
+
+**Turn A3**
+
+```
+Gloss:    to-si — la-tu  si  [lo-ne-ra  vo]
+Literal:  knowledge-inquiry — agent:you  hypothesize  [patient:the-resonance  quality]
+Natural:  Do you hypothesize a resonance character?
+```
+
+**Notes:**
+- Polar question targeting the `si` (hypothesis) level. After B2 denied `to`, A probes
+  the next level down: does B at least have a working model?
+- Second corpus example of a polar question querying an embedded epistemic modal
+  (first was A1 of this same batch). The pattern `to-si — la-tu  [modal]  [sub-prop]`
+  is stable across levels.
+- Systematic drilling: `to` (A1) → `si` (A3) → `se` (A4). Three questions, three
+  levels. The investigator works from top down.
+
+---
+
+**Turn B3**
+
+```
+Gloss:    la-mi  no-si  [lo-ne-ra  vo]
+Literal:  agent:I  not-hypothesize  [patient:the-resonance  quality]
+Natural:  I do not hypothesize a resonance character.
+```
+
+**Notes:**
+- **First corpus use of `no-si`.** `la-mi  no-si  [prop]` = the speaker denies having
+  a working hypothesis about [prop]. Not merely sub-established — not even a formed
+  working model.
+- KEY DISTINCTION from `no-to`:
+  - `no-to` (B2): I don't hold it as established. Could still hypothesize or perceive.
+  - `no-si` (B3): I don't even hypothesize it. `no-si` entails `no-to` (if you have no
+    hypothesis, you necessarily have no established knowledge either) but does NOT entail
+    `no-se` (you could have a perceptual signal without forming a hypothesis from it).
+- B3 removes the hypothesis possibility that B2 left open. After B2 + B3, the only
+  remaining question is whether B has any raw perceptual signal at all.
+
+---
+
+**Turn A4**
+
+```
+Gloss:    to-si — la-tu  se  [lo-ne-ra]
+Literal:  knowledge-inquiry — agent:you  perceive  [patient:the-resonance]
+Natural:  Do you perceive the resonance?
+```
+
+**Notes:**
+- Floor-level probe. `se` = raw perception / signal basis. The most basic question:
+  does B have any signal data for the resonance at all?
+- Note: the `vo` qualifier is absent. At the `se` floor, asking about perceptual
+  *character* would be premature — A is asking whether any signal exists, not what
+  character it has. The qualifier is properly omitted here.
+- Third concurrence of polar + embedded epistemic modal in this batch (A1, A3, A4).
+
+---
+
+**Turn B4**
+
+```
+Gloss:    la-mi  no-se  [lo-ne-ra]
+Literal:  agent:I  not-perceive  [patient:the-resonance]
+Natural:  I have no perceptual basis for the resonance.
+```
+
+**Notes:**
+- **First corpus use of `no-se`.** `la-mi  no-se  [prop]` = the speaker has no
+  perceptual / signal basis for the embedded proposition. Epistemic floor: no raw input.
+- HIERARCHICAL ENTAILMENT: `no-se` entails `no-si` and `no-to`. If you have no
+  perceptual basis, you necessarily have no formed hypothesis and no established
+  knowledge. B4 retroactively subsumes B2 and B3 — the floor denial is the maximally
+  strong claim that covers the entire scale.
+- After B4, the complete epistemic diagram for the resonance character:
+  `se: absent / si: absent / to: absent`. Total epistemic blank.
+  Contrast with the threshold breach from B1: `se: present / si: present / to: present`
+  (established, which entails `si` and `se` were both active). Clean partition: B knows
+  the event at every level; B has no epistemic contact with the resonance at any level.
+
+---
+
+**Turn A5**
+
+```
+Gloss:    la-mi  to  [la-tu  no-se  lo-ne-ra]
+Literal:  agent:I  established  [agent:you  not-perceive  patient:the-resonance]
+Natural:  I hold as established: you have no perceptual basis for the resonance.
+```
+
+**Notes:**
+- **First corpus case of nested / stacked epistemic modals.** The outer frame
+  `la-mi  to` (A certifies at established level) takes an embedded proposition that
+  itself contains an epistemic disclaimer: `la-tu  no-se  lo-ne-ra` (B has no
+  perceptual basis for the resonance). A is converting B's personal epistemic floor
+  into a formally certified matter of record.
+- This is the institutional function of open testimony: the knowledge-keeper transforms
+  a speaker's subjective epistemic state into a certified fact. "It is established that
+  you have no signal basis" — the negative epistemic state becomes a positive certified
+  claim about that state.
+- The `no-se` floor is chosen for the outer certification: since `no-se` entails
+  `no-si` and `no-to`, certifying at floor is the maximally strong institutional
+  summary without redundancy. "I establish that your epistemic contact is zero" is
+  more economical than certifying each level separately.
+- Grammatically: the embedding works because `la-tu  no-se  lo-ne-ra` is a well-formed
+  proposition (agent + negated epistemic root + embedded patient). It occupies the
+  `[prop]` slot of `la-mi  to  [prop]` exactly as any other proposition. No special
+  construction is needed; subordination generates nested epistemic embedding freely.
+
+---
+
+**Turn B5**
+
+```
+Gloss:    ru
+Literal:  [affirm/cohere]
+Natural:  Acknowledged.
+```
+
+**Notes:**
+- **Bare `ru` with no elaboration: fourth total attestation, first completely bare
+  use.** Prior three: C006 B1 (`ru — [detail]`), C006 B4 (`ru — [detail]`), C007 B1
+  (`ru — [detail]`). All had elaborations following the dash. Here, B ratifies A's
+  formal institutional summary with nothing added — no correction, no detail, no
+  new information.
+- In formal institutional contexts, bare `ru` is the acknowledgment token: pure
+  alignment without additional content. The `— [elaboration]` seen in all prior uses
+  was a choice to add more, never a syntactic requirement.
+- Confirms: `ru` is fully functional as a standalone clause. The minimum affirmative
+  in Tonesu is one word.
+
+---
+
+**C007 Gaps and pressures:**
+
+| Gap | Location | Status |
+|-----|----------|--------|
+| **`la-mi  to  [prop]` first-person** | B1 | Second occurrence across speakers (C005: third-person; C007 B1: first-person). Pattern fully confirmed for all persons. |
+| **`no-to` → CONFIRMED** | B2 | Second attestation (C005 B3, C007 B2). Two scenes, two different embedded propositions. Pattern confirmed. |
+| **`no-si` first use** | B3 | One attestation. Compositionally expected to work exactly as designed; watch for second. |
+| **`no-se` first use** | B4 | One attestation. Same as above; watch for second. |
+| **Nested epistemic embedding** | A5 | First instance. Structurally clean and compositionally derived. Watch for second before treating as fully confirmed general rule. |
+| **`la-mi  se  [prop]` (positive perceptual floor)** | — | Negated form (`no-se`) now attested; positive has not yet appeared in corpus. Expected by symmetry. Watch. |
+| **Bare `ru`** | B5 | Fourth total; first bare, confirming optional elaboration. Fully confirmed. |
+
+---
+
+### C007 Summary: negated epistemic scale
+
+The `la-[speaker]  [modal]  [prop]` frame takes three epistemic roots (`se`, `si`, `to`)
+and their negated forms (`no-se`, `no-si`, `no-to`). The six forms confirm a
+hierarchically structured subsystem:
+
+| Level | Positive | Negative | Entailments |
+|-------|----------|----------|-------------|
+| Established | `to` | `no-to` | `to` → `si` + `se`; `no-to` → nothing |
+| Hypothesis | `si` | `no-si` | `si` → `se`; `no-si` → `no-to` |
+| Perceptual | `se` | `no-se` | (floor); `no-se` → `no-si` + `no-to` |
+
+Positive: floor implies upper levels (`se` is required for `si`, `si` for `to`).
+Negated: floor denial implies all upper denials (`no-se` subsumes `no-si` and `no-to`).
+Mid-level negations do not imply lower levels: `no-to` alone is consistent with having
+`si` or `se`.
+
+The negated forms use `no-` as a prefix on the epistemic root in the standard modal
+frame. The mechanism is fully compositional — no special rule needed. Formalized in
+spec/grammar.md § Epistemic Modality.
+
+**`no-to` vs `no-to-fe`** remain distinct constructions (noted in spec):
+- `no-to` in epistemic position = personal epistemic disclaimer (two morphemes)
+- `no-to-fe` as state predicate = institutional status descriptor (three morphemes)

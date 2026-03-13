@@ -284,6 +284,105 @@ Their use here is semantically transparent and does not require special lexical 
 
 ---
 
+## Epistemic Modality
+
+Tonesu encodes speaker-level epistemic commitment through an **utterance-level modal
+frame** placed at the beginning of a clause:
+
+```
+la-[speaker]  [epistemic-root]  [embedded proposition]
+```
+
+The epistemic root appears immediately after the speaker-argument (`la-[speaker]`), before
+the embedded proposition. The root modifies the speaker's *relationship to* the
+proposition, not the proposition's internal content.
+
+In gloss notation, the embedded proposition is shown in brackets `[...]` — the same
+convention used for subordinate clauses.
+
+### Positive Epistemic Scale
+
+Three personal epistemic levels, perceptual floor to established ceiling:
+
+| Level | Root | Meaning | Corpus |
+|-------|------|---------|--------|
+| Perceptual | `se` | I have signal data / I perceive | (negated form attested C007 B4; positive awaited) |
+| Hypothesis | `si` | I hold at assessment level / I hypothesize | C001 A3, C006 A4 |
+| Established | `to` | I hold as a conceptual pattern / I know | C005, C007 B1 |
+
+The scale is hierarchical: `to` entails `si`; `si` entails `se`. Marking something as
+established implies you have a hypothesis for it and a perceptual basis for it.
+
+Institutional knowledge frameworks (`to-fe-su`, W072) represent a social layer above
+personal `to` and are expressed through dedicated compounds, not by extending this
+personal modal hierarchy.
+
+### Negated Epistemic Modals
+
+The prefix `no-` applies to any epistemic root in the modal position:
+
+```
+la-[speaker]  no-[epistemic-root]  [embedded proposition]
+```
+
+| Negated form | Meaning | Corpus |
+|--------------|---------|--------|
+| `no-to` | I do not hold as established | C005 B3 (first), C007 B2 (confirmed) |
+| `no-si` | I do not hypothesize | C007 B3 (first) |
+| `no-se` | I have no perceptual basis | C007 B4 (first) |
+
+**Entailment direction is reversed from the positive scale.** The floor denial (`no-se`)
+is the strongest claim, subsuming all levels above it. Mid-level and ceiling denials do
+not entail the levels below:
+
+```
+Positive:   se → si → to         (floor presence entails upper: se required for si, si for to)
+Negated:   no-se → no-si → no-to  (floor denial entails all: no-se subsumes no-si and no-to)
+```
+
+`no-to` alone is consistent with having `si` or `se` — saying "I don't hold X as
+established" leaves open the possibility that you hypothesize it or have a perceptual
+signal for it.
+
+### Distinguishing `no-to` from `no-to-fe`
+
+These constructions share the sequence `no-...-to` but are structurally and
+semantically different:
+
+- **`no-to` in epistemic position** (`la-[speaker]  no-to  [prop]`): personal epistemic
+  disclaimer. The speaker denies holding the proposition at established level. Two
+  morphemes: `no-` prefix on the `to` epistemic root.
+
+- **`no-to-fe` as state predicate** (`lo-[thing]  no-to-fe`): institutional status
+  descriptor. The proposition or entity has not crossed the certification threshold.
+  Three morphemes: `no-` prefix on the compound `to-fe` (knowledge-boundary). Attested
+  C005 B2.
+
+`no-to` is about the speaker's epistemic state. `no-to-fe` is about an entity's
+certification status. They can co-occur without entailing each other.
+
+### Nested Epistemic Embedding
+
+The embedded proposition slot may itself contain an epistemic modal, since
+`la-[speaker]  [modal]  [prop]` is a well-formed proposition that can occupy any
+`[prop]` slot:
+
+```
+la-mi  to  [la-tu  no-se  lo-ne-ra]
+```
+*I hold as established: [you have no perceptual basis for the resonance].* (C007 A5)
+
+The outer `la-mi  to` certifies as established; the inner `la-tu  no-se  [prop]` is a
+well-formed epistemic claim that serves as the embedded proposition. This is the
+institutional form: a knowledge-keeper converts a witness's personal epistemic floor
+into a formally certified matter of record.
+
+No additional rule is required — nested embedding is a compositional application of
+the standard subordination mechanism. One corpus attestation (C007 A5); treat as
+confirmed structure pending a second case.
+
+---
+
 ## Subordinate Clauses
 
 Tonesu has a class of **clause-introducing words** that open a dependent clause modifying or specifying the matrix (main) clause. The three current clause introducers are:
