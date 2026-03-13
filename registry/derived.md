@@ -1487,7 +1487,154 @@ Related:      no (negation), ne-fe (W042), no-to-fe (compound, C005 B2), ne-ra (
 
 ---
 
-## Open Questions
+**W076**
+```
+Form:         zo-ne
+Type:         compound
+Class:        relation
+Definition:   biological kinship bond; living relational tie; the fact of being
+              biologically related to another living being.
+Composition:  zo (living thing) + ne (relation/connection) — a relational connection
+              of the biological/living type. Base for the entire kinship compound family.
+Register:     standard
+Domain:       kinship / social
+Status:       proposed
+Examples:     (base compound; used as head in W077–W081; appears as standalone to name
+              the kinship concept abstractly)
+Notes:        zo-ne is the semantic root for all biological kin vocabulary. Five derived
+              forms build from it:
+                zo-ne-go (W077): parent (kin + origin)
+                zo-ne-du (W078): child (kin + result)
+                zo-ne-ru (W079): sibling (kin + unity)
+                zo-ne-go-re (W080): ancestor (kin-parent + recurrence)
+                zo-ne-du-re (W081): descendant (kin-child + recurrence)
+              All kin terms are sex-neutral: Tonesu has no sex primitive. There is no
+              distinction between mother/father, brother/sister. The kinship bond is
+              structurally prior to biological sex.
+Related:      zo (living), ne (relation), W077–W081
+```
+
+---
+
+**W077**
+```
+Form:         zo-ne-go
+Type:         compound
+Class:        relation / role
+Definition:   parent; the biological origin-party in a kinship bond; the one from whom
+              a living being biologically derives.
+Composition:  zo-ne (kinship bond, W076) + go (cause/origin) — the kin-relation where
+              the described party is the source. Head-final: go (origin) qualifies the
+              kin-bond type.
+Register:     standard
+Domain:       kinship
+Status:       proposed
+Examples:     "lo-di-ki-li  zo-ne-go  la-mi" — the navigator is my parent (S093)
+Notes:        Sex-neutral: covers both "mother" and "father." Cannot be specified as
+              sex-typed without additional vocabulary not yet in the system.
+              Sentence structure: lo-[parent]  zo-ne-go  la-[child] or lo-[child's reference].
+              The go qualifier makes the described party the SOURCE in the kin-bond.
+              Contrast: zo-ne-du (W078) where the described party is the RESULT.
+Related:      zo-ne (W076), go (origin), zo-ne-du (W078), zo-ne-go-re (W080)
+```
+
+---
+
+**W078**
+```
+Form:         zo-ne-du
+Type:         compound
+Class:        relation / role
+Definition:   child; offspring; the biological result-party in a kinship bond; the one
+              who biologically derives from a parent.
+Composition:  zo-ne (kinship bond, W076) + du (result/effect) — the kin-relation where
+              the described party is the product. Head-final: du (result) qualifies the
+              kin-bond type.
+Register:     standard
+Domain:       kinship
+Status:       proposed
+Examples:     "lo-ra-ki-li  zo-ne-du  la-mi" — the pilot is my child (S094)
+Notes:        Sex-neutral. Symmetric to zo-ne-go (W077): if A is B's zo-ne-go, then B is
+              A's zo-ne-du.
+              The du qualifier makes the described party the RESULT in the kin-bond.
+Related:      zo-ne (W076), du (result), zo-ne-go (W077), zo-ne-du-re (W081)
+```
+
+---
+
+**W079**
+```
+Form:         zo-ne-ru
+Type:         compound
+Class:        relation
+Definition:   sibling; a person who shares the same biological origin as the reference
+              person; kin-in-unity.
+Composition:  zo-ne (kinship bond, W076) + ru (unity/singularity) — the kin-relation
+              of shared source: two people who are ONE in terms of origin. Head-final:
+              ru (unity) qualifies the direction of the kin-bond as sameness.
+Register:     standard
+Domain:       kinship
+Status:       proposed
+Examples:     "lo-ra-ki-li  zo-ne-ru  la-mi" — the pilot is my sibling (S095)
+              "lo-ra-ki-li  zo-ne-ru  lo-di-ki-li" — the pilot is the navigator's sibling (S096b)
+Notes:        Sex-neutral: covers both "brother" and "sister."
+              The sibling bond is symmetric: lo-A  zo-ne-ru  lo-B ↔ lo-B  zo-ne-ru  lo-A.
+              The ru qualifier indicates that the ORIGIN is singular/shared, not that the
+              persons themselves are merged.
+Related:      zo-ne (W076), ru (unity), zo-ne-go (W077), zo-ne-du (W078)
+```
+
+---
+
+**W080**
+```
+Form:         zo-ne-go-re
+Type:         compound
+Class:        relation / role
+Definition:   ancestor; a person from whom the reference person biologically descends
+              through one or more intermediate generations; the recurringly-iterated
+              kin-source.
+Composition:  zo-ne-go (parent, W077) + re (recurrence/cycle) — the parent compound
+              with iteration: the origin step recurs up the lineage. Head-final: re
+              (recurrence) qualifies the parent compound.
+Register:     standard
+Domain:       kinship
+Status:       proposed
+Examples:     "lo-di-ki-li  zo-ne-go-re  la-mi" — the navigator is my ancestor (S097)
+Notes:        Non-specific about generation distance. zo-ne-go-re covers grandparent,
+              great-grandparent, and all more distant ancestors equally. Specifying degree
+              requires either a numeral system (not yet in corpus) or a multi-sentence
+              path description. See NUM-001 in open-questions.md.
+              Contrast: zo-ne-go (W077) = exactly one step back (parent only).
+Related:      zo-ne-go (W077), re (recurrence), zo-ne-du-re (W081)
+```
+
+---
+
+**W081**
+```
+Form:         zo-ne-du-re
+Type:         compound
+Class:        relation / role
+Definition:   descendant; a person who biologically descends from the reference person
+              through one or more successive generations; the recurringly-iterated
+              kin-result.
+Composition:  zo-ne-du (child, W078) + re (recurrence/cycle) — the child compound
+              with iteration: the result-step recurs down the lineage. Head-final: re
+              (recurrence) qualifies the child compound.
+Register:     standard
+Domain:       kinship
+Status:       proposed
+Examples:     "lo-ra-ki-li  zo-ne-du-re  la-mi" — the pilot is my descendant (S098)
+Notes:        Symmetric to zo-ne-go-re (W080). Both are non-specific about generation
+              distance. The compound family is fully symmetric:
+                one step: zo-ne-go / zo-ne-du
+                iterated: zo-ne-go-re / zo-ne-du-re
+                lateral: zo-ne-ru (no directional pair — sibling bond is symmetric)
+Related:      zo-ne-du (W078), re (recurrence), zo-ne-go-re (W080)
+```
+
+---
 
 - [x] ~~Resolve whether compound forms use hyphens in writing or run together~~ → Resolved: solid spelling is canonical; hyphens are analytic notation only. See spec/word-formation.md § Written Form.
 - [ ] Review W002 (su-mu-li) — does it conflict with the derivational marker stack order?

@@ -3505,3 +3505,288 @@ spec/grammar.md § Epistemic Modality.
 **`no-to` vs `no-to-fe`** remain distinct constructions (noted in spec):
 - `no-to` in epistemic position = personal epistemic disclaimer (two morphemes)
 - `no-to-fe` as state predicate = institutional status descriptor (three morphemes)
+
+---
+
+## Kinship Probe (S093–S100)
+
+---
+
+**Scene: crew registry — next-of-kin declaration**
+
+*Before a long-range mission, the knowledge-keeper (`to-fe-ki-li`) records formal
+kinship declarations from each crew member. Pilot (`ra-ki-li`) and navigator
+(`di-ki-li`) are present. Sentences are formal declarations, not natural dialogue:
+each one tests a specific kinship composition.*
+
+*Design note: this batch probes whether `zo-ne` (living-kin-relation) as a base
+compound plus directional qualifiers (`go` = origin, `du` = result, `ru` = unity,
+`re` = iterated) can cover the full kinship vocabulary without new primitives. It
+also tests the limits of kinship path composition: when does stringing kin-steps
+together require grammatical machinery Tonesu doesn't have yet?*
+
+*No new primitives expected. Predicted gaps: noun modification / relative clause
+(for embedding a multi-step kin path as an argument), and numeral/cardinal system
+(for specifying generation distance precisely).*
+
+---
+
+**S093 — Parent (one step up)**
+
+```
+Gloss:    lo-di-ki-li  zo-ne-go  la-mi
+Literal:  patient:navigator  living-kin-origin  agent:I
+Natural:  The navigator is my parent.
+```
+
+**Notes:**
+- **First corpus use of `zo-ne-go` (W077).** `zo-ne` = living kin relation (base);
+  `go` = origin/source. Together: the entity that is the living-kin-source of the
+  reference person. "The navigator is [my] living-kin-origin" = the navigator is
+  my parent.
+- No sex distinction. `zo-ne-go` is sex-neutral — it covers what English splits
+  into "mother" and "father." Tonesu has no sex or gender primitive, so kinship
+  terms are structurally sex-blind. The language cannot say "my mother" vs "my
+  father" without additional vocabulary that does not naturally derive from the
+  existing primitives. This is a Concordian cultural result, not a gap: the
+  kinship system treats the parent-child bond as structurally prior to sex.
+- **`la-mi` in the second participant position.** The relational predicate has two
+  participants: `lo-di-ki-li` (the entity BEING described as a kin-type) and
+  `la-mi` (the reference anchor = the speaker, from whose perspective the
+  kin-relation is defined). The speaker uses `la-mi` (not `lo-mi`) — consistent
+  with the established pattern where first-person always marks its speaker as `la`
+  ("agent" in the broad sense of: perspective-holder, perspective-anchor). This
+  is a semantic extension of `la` beyond strict intentional action — `la` serves
+  as the relational perspective anchor in stative-relational predicates. Flag as
+  new grammatical use pressure.
+
+---
+
+**S094 — Child (one step down)**
+
+```
+Gloss:    lo-ra-ki-li  zo-ne-du  la-mi
+Literal:  patient:pilot  living-kin-result  agent:I
+Natural:  The pilot is my child.
+```
+
+**Notes:**
+- **First corpus use of `zo-ne-du` (W078).** `zo-ne` base + `du` (result/effect) =
+  the entity that is the kin-result of the reference person = child/offspring.
+- The structural parallel with S093 is exact: `lo-[described-party]  [kin-type]
+  la-[reference-person]`. The kin-type (`zo-ne-go` vs `zo-ne-du`) encodes the
+  direction: toward the source (parent) vs away from the source (child). The
+  reference person (`la-mi`) is always in the same position.
+- **`go`/`du` as relational direction qualifiers.** Already established as origin/
+  result for causal relations (`go-du` frame). Here they extend into kinship:
+  `go` = the source party in the kin-bond; `du` = the result party. The extension
+  is semantically transparent — biological parentage is a special case of the
+  origin/result polarity. No new semantic burden on either primitive.
+
+---
+
+**S095 — Sibling**
+
+```
+Gloss:    lo-ra-ki-li  zo-ne-ru  la-mi
+Literal:  patient:pilot  living-kin-unity  agent:I
+Natural:  The pilot is my sibling.
+```
+
+**Notes:**
+- **First corpus use of `zo-ne-ru` (W079).** `zo-ne` base + `ru` (unity/oneness
+  /singularity) = kin-unity = a person who shares one origin with the reference
+  person. The `ru` qualifier marks that the kin-bond is one of sameness: pilot and
+  speaker have the same source. Semantically: `ru` (unity) applied to the kinship
+  relation = "we are one in terms of origin."
+- Same structural pattern as S093/S094.
+- Tonesu sibling is also sex-neutral: no distinction between brother and sister.
+  `zo-ne-ru` covers both. The language has no mechanism for sex-typed kin terms
+  without an unregistered sex primitive — and the design pressure for such a
+  primitive has not yet appeared.
+- The sibling relation is symmetric: `lo-A  zo-ne-ru  lo-B` ↔ `lo-B  zo-ne-ru
+  lo-A`. The directionality (`la`/`lo`) signals only WHOSE perspective anchors
+  the description, not the direction of the bond itself.
+
+---
+
+**S096 — Parent's sibling ("aunt/uncle" equivalent): two-sentence path**
+
+```
+Gloss:    [S096a]  lo-di-ki-li  zo-ne-go  la-mi
+Literal:  patient:navigator  living-kin-origin  agent:I
+Natural:  The navigator is my parent.
+
+          [S096b]  lo-ra-ki-li  zo-ne-ru  lo-di-ki-li
+Literal:  patient:pilot  living-kin-unity  patient:navigator
+Natural:  The pilot is the navigator's sibling.
+```
+
+**Notes:**
+- **First multi-step kinship path in corpus.** English compresses this to "aunt"
+  or "uncle." Tonesu does not. The path is TWO SENTENCES because the kin-bond
+  is two steps: from speaker → to parent → to parent's sibling.
+- S096b uses `lo-di-ki-li` in the reference position rather than `la-mi`. This
+  confirms the reference participant is not limited to first-person — any
+  patient-marked entity can anchor a kinship predicate.
+- KEY FINDING: **Tonesu cannot compress this into a single noun phrase without
+  a relative clause.** "My parent's sibling" used as a single noun phrase
+  argument (e.g. "I spoke to my parent's sibling" in one sentence) requires
+  describing the pilot as "the entity who has kin-unity with the entity who has
+  kin-origin status toward me" — which is a relative clause embedding. NO
+  relative clause introducer exists in Tonesu grammar yet. This is the first
+  corpus moment that definitively requires one. (See NM-001 in open questions.)
+- Concordians handle this by stating the path declaratively, in sequence. The
+  meaning accumulates across sentences. This is fully coherent as a communicative
+  strategy — and from a Concordian perspective, the longer path is actually
+  *more informative*, not a workaround. There is no pressure to abbreviate it.
+
+---
+
+**S097 — Ancestor (iterated parent)**
+
+```
+Gloss:    lo-di-ki-li  zo-ne-go-re  la-mi
+Literal:  patient:navigator  living-kin-origin-recurring  agent:I
+Natural:  The navigator is my ancestor.
+```
+
+**Notes:**
+- **First corpus use of `zo-ne-go-re` (W080).** `zo-ne-go` (parent, W077) +
+  `re` (recurrence/cycle) = the recurringly-iterated kin-source = ancestor.
+  An ancestor is a parent of a parent of a parent... the `re` marks that the
+  origin step recurs up the lineage.
+- `zo-ne-go-re` is **non-specific about generation distance**. It says "some
+  iterated number of kin-steps back." The navigator could be the speaker's
+  grandparent, great-grandparent, or any more distant ancestor. The compound
+  captures the property of being IN the ancestral line, not the specific degree.
+- **Generation count is not expressible with current vocabulary.** To say
+  "two generations back" (grandparent specifically) requires either:
+  (a) a numeral system (integers, "two" — not yet in corpus); or
+  (b) a two-sentence path (`lo-A  zo-ne-go  la-mi` / `lo-B  zo-ne-go  lo-A`
+  — B is A's parent; A is my parent; therefore B is my grandparent).
+  The language has `nu` (quantity/number) and `re` (recurrence) but no cardinal
+  counting system yet. This is the first sentence that definitively requires one.
+  (See NUM-001 in open questions.)
+
+---
+
+**S098 — Descendant (iterated child)**
+
+```
+Gloss:    lo-ra-ki-li  zo-ne-du-re  la-mi
+Literal:  patient:pilot  living-kin-result-recurring  agent:I
+Natural:  The pilot is my descendant.
+```
+
+**Notes:**
+- **First corpus use of `zo-ne-du-re` (W081).** `zo-ne-du` (child, W078) +
+  `re` (recurrence) = iterated kin-result = descendant. Parallel structure to
+  W080 (`zo-ne-go-re`); the `re` adds the iteration.
+- The compound set is now symmetric at every level:
+  - parent / child: `zo-ne-go` / `zo-ne-du`
+  - ancestor / descendant: `zo-ne-go-re` / `zo-ne-du-re`
+  - sibling: `zo-ne-ru` (no directional pair — the sibling bond is symmetric)
+
+---
+
+**S099 — Grandparent: the generation-count problem**
+
+```
+Gloss:    lo-di-ki-li  zo-ne-go  lo-ra-ki-li — lo-to-fe-ki-li  zo-ne-go  lo-di-ki-li
+Literal:  patient:navigator  kin-origin  patient:pilot — patient:keeper  kin-origin  patient:navigator
+Natural:  The navigator is the pilot's parent. The keeper is the navigator's parent.
+          [Therefore: the keeper is the pilot's grandparent — by two-sentence path.]
+```
+
+**Notes:**
+- **Two-sentence path for "grandparent."** No single-sentence equivalent is
+  available without a numeral (to quantify generation distance) or a
+  relative clause (to embed a kin-noun phrase). Two declarations, two steps.
+- This sentence also shows `zo-ne-go` with non-first-person reference: both
+  `lo-ra-ki-li` and `lo-di-ki-li` serve as the reference anchor (the `la`
+  slot is replaced by `lo` for third-person parties). Confirms: the reference
+  anchor position takes `la` for first/second person and `lo` for third-person —
+  consistent with the existing case marking paradigm.
+- English compresses "grandparent" into a single word. Tonesu requires TWO
+  sentences. This is not awkward — it's structurally honest about the fact that
+  "grandparent" IS a two-step path. The compression in English is a convenience
+  label, not deeper information. Tonesu makes the path explicit.
+
+---
+
+**S100 — "Cousin" as a three-sentence path**
+
+```
+Gloss:    [S100a]  lo-di-ki-li  zo-ne-go  la-mi
+Natural:  The navigator is my parent.
+
+          [S100b]  lo-ra-ki-li  zo-ne-ru  lo-di-ki-li
+Natural:  The pilot is the navigator's sibling.
+
+          [S100c]  lo-li  zo-ne-du  lo-ra-ki-li
+Natural:  Someone is the pilot's child.
+```
+
+**Notes:**
+- **The "cousin" equivalence — three sentences.** Each step is one sentence.
+  English "cousin" = parent's sibling's child = three structural facts.
+  Tonesu states all three. No compression is attempted; none is needed.
+- S100c uses unspecific `lo-li` (patient: a person, unspecified) in subject
+  position. This is the first use of bare `li` (person/social agent) as an
+  existential rather than a specific named individual. The sentence asserts
+  that SOME person is the pilot's child without naming them.
+- **The compression trap.** English speakers encountering this system might
+  want to register a compound `zo-ne-ru-du` = kin-unity-result = "child of
+  one's sibling" — the Tonesu analogue of "cousin." This would be legitimate
+  as a compound. The question is whether Concordians WANT it. Given what
+  the language has shown: they probably don't. A compressed label drops the
+  path information. "My cousin" in English is ambiguous about *which* parent's
+  sibling's child — first cousin vs second cousin, once-removed vs twice-removed
+  — precisely because the label compresses away the path. Tonesu deliberately
+  does not compress it.
+- If Concordian culture ever needs a kinship term for "the child of your
+  assigned crew partner" or similar social bond (not biological kin), that would
+  be built from `wi-ne` or `ne-li` (intentional-relation or relational-person),
+  NOT from `zo-ne`. The `zo-ne` family is strictly biological lineage.
+
+---
+
+**S093–S100 Summary: kinship system**
+
+**All kinship vocabulary composes from two primitives: `zo` (living) and `ne` (relation).**
+
+The base compound `zo-ne` (W076, biological kin bond) functions as the base for
+all specific kinship terms. Five compounds are sufficient for the entire biological
+kinship vocabulary:
+
+| Compound | W#  | Meaning | Composition |
+|----------|-----|---------|-------------|
+| `zo-ne` | W076 | biological kinship (base) | living + relation |
+| `zo-ne-go` | W077 | parent | kin + origin |
+| `zo-ne-du` | W078 | child/offspring | kin + result |
+| `zo-ne-ru` | W079 | sibling | kin + unity |
+| `zo-ne-go-re` | W080 | ancestor | kin-parent + recurrence |
+| `zo-ne-du-re` | W081 | descendant | kin-child + recurrence |
+
+All kin terms are **sex-neutral**. Tonesu has no sex primitive; the parent-child
+bond is structurally prior to biological sex. "Mother" and "father" do not exist
+as separate terms.
+
+Kinship paths beyond one step are described as **sequences of simple sentences**.
+"Cousin" is three sentences. "Grandparent" is two. There is no pressure to
+abbreviate — the path carries more information than a compressed label.
+
+**Two grammatical pressures surfaced:**
+
+| Gap | Location | Pressure |
+|-----|----------|---------|
+| **NM-001: Relative clause / noun modification** | S096 | Cannot embed "parent's sibling" as a single noun-phrase argument. Requires a relative clause introducer not yet defined. |
+| **NUM-001: Numerals / cardinal counting** | S097, S099 | Cannot specify generation distance precisely (`zo-ne-go-re` = "some ancestor," not "grandparent" specifically). System needs cardinal numbers. |
+
+**`la` as relational anchor:** `la-mi` appears in the reference position of kinship
+predicates (not as a strict intentional agent but as the perspective-holder of the
+kin-bond). This is a previously undocumented use of `la`. Related to P-PR-001
+(`ze` back-reference); both arise from the same underlying question: how does Tonesu
+mark a participant whose role is epistemic/relational reference rather than action
+initiation?
