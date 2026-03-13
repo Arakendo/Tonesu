@@ -459,6 +459,24 @@ This means emotional vocabulary in Tonesu is always built, never given. The foll
 
 **What this is not:** Option B does not mean Concordians are emotionally flat, suppressed, or robotic. It means their emotional vocabulary is precise in the same way their epistemic vocabulary is precise. A Concordian who says `la-mi  se  fe-de  lo-ne-mi` is not being clinical — they are being accurate. The feeling is real and fully human. The framing is Concordian.
 
+**Three distinct flavours of emotional expression and how the system handles each:**
+
+The "awkward" judgment on Tonesu's emotional vocabulary is real but needs to be aimed more precisely. There are three distinct things people do when they "express emotion" and they are not all handled the same way:
+
+| Flavour | Example | System status |
+|---------|---------|---------------|
+| **Reflective / relational** | "I'm afraid of losing this connection" | Handled well. `la-mi  se  fe-de  lo-ne-mi` is the Concordian form. May compress in casual register over time. |
+| **Somatic / reactive** | "I'm cold", "I'm exhausted", "I'm in pain" | Handled well via `la-zo-mi` cluster. Pointing at the organism (`zo`) rather than the agent (`li`) captures the non-agentive quality of body-states correctly. These will compress earliest. |
+| **Performative / expressive** | "Ugh." "Oh no." Sharp intake of breath. Crying. | **Not handled.** These are not propositional — they do not report an emotional state, they *are* an emotional act. They have no object and make no claim. The current spec has no register for this. |
+
+The performative gap is the genuine source of awkwardness. The current system assumes all emotional expression is a structured report (`la-X  se  Y`). That is coherent for Concordian discourse culture. But even fully analytical humans emit sounds when hurt — the question is whether Tonesu commits Concordians to packaging *every* emotional signal as a diagnostic proposition, or whether a performative/expressive register exists that the spec has not yet addressed.
+
+**The fork:** Two defensible positions:
+- **(a) Performative expression is paralinguistic**, not Tonesu proper. Concordians cry, laugh, and flinch like any humans; these are pre-linguistic responses outside the scope of the grammar. The language handles propositional emotional expression; the body handles the rest. This is probably the more empirically accurate claim about real language.
+- **(b) Concordian culture genuinely suppressed the performative register.** The diagnostic form is the only sanctioned emotional utterance. This makes Concordia emotionally alien in an interesting way — a working medical team more than a family — but may be too strong a cultural claim and is not supported by corpus evidence.
+
+Position (a) is the default until corpus evidence forces a choice. The awkwardness is real and is a feature of the reflective register being the only formally-documented one — casual register compression will address it over time for the first two flavours. The performative register question is logged. See open-questions.md.
+
 ---
 
 ## Discourse-Level Emergence
