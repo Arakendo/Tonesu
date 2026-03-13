@@ -1675,3 +1675,64 @@ Both are syntactically valid. The verb `se` (perception, used here as a predicat
 | ~~`-se`~~ `-ge` / `se` | quality suffix | perception root | **diverge** — quality-predicate vs sensor-compound | **resolved: suffix renamed to `-ge`** (S049C attested collision) |
 
 **Batch conclusion:** Context disambiguates reliably **when the syntactic position is unambiguous** (suffix only in predicate or derivational position; root only in nominal/agent/subject position). Ambiguity arises specifically at **the right edge of a multi-root compound in nominal position**, where both analyses are structurally valid. The proposed resolution — hyphen-boundary notation distinguishing `X-Y-Z` (compound, root final) from `XY-Z` (root chain + suffix) — would eliminate all three collision cases in writing without changing the spoken forms. Log as a single pending convention decision covering all three pairs.
+
+---
+
+## Primitive Pressure Tests (S056–S057)
+
+*Testing whether transfer/exchange and need/functional-dependency force a new primitive, or compose cleanly from existing roots.*
+
+---
+
+**S056 — Transfer / giving** *(T-PRM-001)*
+
+*Target: "She gave the archive to the council."*
+
+```
+Gloss:    la-ze  ne-li-pu-su  lo-si-su  de
+Literal:  agent:she  recipient:council  patient:archive  release
+Natural:  She released the archive to the council.
+```
+
+Breakdown:
+- `ze` = 3rd-person pronoun (she)
+- `si-su` = structured encoded representation = archive / database / document collection
+- `li-pu-su` = organized structure of many social agents = council / body / institution
+- `ne` = recipient particle (already in grammar.md particle table)
+- `de` = release / relinquish — from the giver's perspective, their possession decreases
+
+The `ne` recipient particle + `de` predicate handles giving-with-release cleanly. No additional root or compound needed for this case.
+
+**However:** this only covers giving where the giver loses possession. "She sent a copy to the council" — where she retains the original — has no clean expression. `de` (release/decrease) implies the giver's possession ends. A pure transfer without loss would need `ki` (motion from) + `ne` (toward), but that reads as "the archive moved toward the council" rather than "she transferred it." The agentive transfer-without-loss case is the actual pressure point, not the simple gift.
+
+**Verdict S056: giving-with-release composes cleanly (`ne-particle` + `de`). The pressure point is transfer-without-loss (copy/share rather than give). Downgrade from gap to compound candidate: `de-ki-be` or a lexicalized `ka-ne` (intentional-toward-recipient) for agentive transfer. Monitor corpus.**
+
+---
+
+**S057 — Need / functional dependency** *(T-PRM-002)*
+
+*Target: "The patient needs water."*
+
+Attempt A — paraphrase via consequence structure:
+
+```
+Gloss:    lo-zo-li  no-ma  go  de
+Literal:  patient:person  absence-substance  cause  decay
+Natural:  For the person, absence of substance causes decay.
+```
+
+Attempt B — desire frame (wrong register but testing the fit):
+
+```
+Gloss:    la-zo-li  wi  lo-ma
+Literal:  agent:person  wants  patient:substance
+Natural:  The person wants substance.
+```
+
+Attempt A is **semantically precise** but pragmatically reframes the proposition. The speaker has to describe the consequence structure instead of the state. "The patient needs water" is a claim about current dependency; Attempt A is a claim about causal architecture. These are not the same claim — Attempt A is an explanation of why (`no-ma go de`), not a characterization of the patient's current state.
+
+Attempt B is wrong: `wi` = volitional desire. An unconscious patient has no `wi` active.
+
+Neither attempt preserves the target meaning without distortion. There is no clean way to say "X requires Y to maintain integrity" as a **state predication** rather than a **causal prediction**.
+
+**Verdict S057: genuine gap confirmed. Need/functional-dependency is not expressible as a state — only as a consequence chain. This is semantic distortion, not verbosity. The concept is: `X is in a condition where absence of Y → de`. Candidate compound: `ne-fe` (relation-boundary = dependency condition) or a new root. Log as pending primitive evaluation.**

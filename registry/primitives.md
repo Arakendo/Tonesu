@@ -220,6 +220,9 @@ These concepts must be expressible using only existing primitives. If a construc
 | government | `li + pu + su` | organized structure of many social agents |
 | memory | `to + ko` | contained / stored conceptual pattern |
 | computer | `to + ki + mu` | artifact that processes conceptual patterns |
+| give / transfer (loss) | `la-[giver]  ne-[recipient]  lo-[object]  de` | recipient particle + release; giver loses possession. Corpus: S056. |
+| copy / transfer (no loss) | pending — candidate `ka-ne` or `de-ki-be` | agentive transfer without possession-loss; no clean current form. S056 verdict. |
+| need / dependency | pending — candidate `ne-fe` or new root | the state "X requires Y to avoid de" has no clean predication form; forces causal paraphrase. Corpus: S057. |
 
 *All seven compose without new roots. `tree` is the weakest — `zo+su` is structurally valid but loses the plant/non-animal distinction. Flagged for review once the `zo` subtypes decision is made.*
 
@@ -227,9 +230,11 @@ These concepts must be expressible using only existing primitives. If a construc
 
 ## Open Questions
 
-- [ ] `zo` subtypes: should plant, animal, and fungus be distinguishable by compound, or is `zo` intentionally undifferentiated below the organism level?
-- [ ] Does `to` need to split? Current model: `to` = all conceptual pattern including knowledge. Risk: overload. Split candidate: `to` = thought/pattern, new root = stored/retrieved knowledge.
+- [ ] `zo` subtypes: should plant, animal, and fungus be distinguishable by compound, or is `zo` intentionally undifferentiated below the organism level? **Candidate: `zo-ki` (motile organism = animal) / `zo-no-ki` (non-motile = plant/fungus). No new root needed.**
+- [ ] Does `to` need to split? Current model: `to` = all conceptual pattern including knowledge. Risk: overload. Split candidate: `to` = thought/pattern, new root = stored/retrieved knowledge. **Do not split until corpus forces it — probably after ~100 more sentences.**
 - [ ] Should `ra` (energy) cover information energy or remain strictly physical? Currently excluded from `si`/`to` scope.
 - [ ] Phonetic cluster `se`/`so`/`si`: evaluate whether all three survive at normal speech speed or whether one needs reassignment.
 - [ ] Evaluate candidate root `ce` (transformation/state change) after first corpus sentences are written.
 - [ ] Update all references from `plu` → `pu` across spec and corpus files.
+- [ ] **Need / functional dependency — confirmed gap (S057).** State "X requires Y to maintain integrity" has no clean predication form. Forces causal paraphrase (`no-Y go de`), which is explanation-of-cause, not state characterization. This is semantic distortion. Candidate: `ne-fe` (relation-boundary) as a dependency compound, or a new dedicated root. Evaluate against Validation Rules before registering.
+- [ ] **Static state / copula — slow-pressure watch.** No primitive for "X is in condition Y" without invoking change (`be`/`de`) or evaluation (`vo`). Currently handled by juxtaposition predicates (`lo-X  state`) and P-GP-001 copula patterns. Likely becomes explicit pressure after ~100–200 corpus sentences. Do not add root prematurely — monitor whether grammar formalizes the copula pattern first.
