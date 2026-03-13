@@ -767,6 +767,15 @@ Examples:     "lo-li-pu  ne-fe  wi-to" — the team needs a plan (S062)
 Notes:        Contrast with to-wi: to modifies wi = "deliberate intention" (emphasis on the
               intentional state). wi-to = the plan as a structured artifact; to-wi = the will
               to act deliberately. wi-to is what you write down; to-wi is the motivation behind it.
+              WATCH: semantic range of wi-to may broaden with corpus pressure. Current attested
+              meaning: plan (a structured goal-oriented artifact). Candidate extensions: design
+              (purposive structure without a single outcome); intention-model (an agent's internal
+              goal representation); program (a sequenced purposive structure). These are not
+              identical: a design is not implemented, a program is sequenced, an intention-model
+              is internal. If wi-to is used in all four senses, the compound is doing too much. If
+              corpus differentiates them, wi-to may need to narrow to one reading and the others
+              will need their own forms (e.g. wi-to-ki for program; wi-to-su for design-doc).
+              Do not widen the definition until corpus pressure requires it.
 Related:      wi (will/intention), to (conceptual pattern), ne-fe (W042)
 ```
 
