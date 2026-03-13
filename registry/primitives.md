@@ -224,10 +224,10 @@ These concepts must be expressible using only existing primitives. If a construc
 | dimension / parameter | `nu-to` | quantitative concept — "axis of measurement"; composes cleanly |
 | proof | `to-go-du` | conceptual causal chain: from premises (`to`) via cause (`go`) to conclusion (`du`). High-confidence compound — flag for dedicated corpus test |
 | give / transfer (loss) | `la-[giver]  ne-[recipient]  lo-[object]  de` | recipient particle + release; giver loses possession. Corpus: S056. |
-| copy / transfer (no loss) | pending — candidate `ka-ne` or `de-ki-be` | agentive transfer without possession-loss; no clean current form. S056 verdict. |
-| need / dependency | pending — candidate `ne-fe` or new root | the state "X requires Y to avoid de" has no clean predication form; forces causal paraphrase. Corpus: S057. |
+| copy / transfer (no loss) | `de-ki-be` or `ka-ne` (candidates) | Agentive transfer without possession-loss. S056 downgraded this from gap to candidate: `de-ki-be` (release-motion-generate) or `ka-ne` (intentional-toward-recipient). Neither fully attested. Monitor corpus for a copy/share sentence to force the decision. |
+| need / dependency | `ne-fe` | Resolved S058: `lo-zo-li  ne-fe  ma` = "the person is in a dependency-condition toward substance." State predication confirmed. `ne-fe` registered as derived compound. |
 
-*All seven compose without new roots. `tree` is the weakest — `zo+su` is structurally valid but loses the plant/non-animal distinction. Flagged for review once the `zo` subtypes decision is made.*
+*`tree` is the weakest — `zo+su` is structurally valid but loses the plant/non-animal distinction. `zo` subtypes decision is now settled (compound strategy: `zo-ki` / `zo-no-ki`), so this row is closed. `need/dependency` resolved by `ne-fe` (S058). `copy/transfer` still pending corpus pressure.*
 
 ---
 
