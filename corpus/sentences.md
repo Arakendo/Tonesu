@@ -1497,3 +1497,179 @@ Two short sentences, no apostrophes needed. Unambiguous. The formal register equ
 - **Attempt C confirms the phrase-split option.** The two-sentence form has zero parse complexity and fits the spec's contraction rule: "if a compound requires more than one apostrophe, restructure as a phrase." This is the pattern to recommend in the usage policy.
 - **The `ma-li` / `-li` suffix collision appears here.** `ma-li` is parsed as modifier + root (`ma` = matter, `li` = social agent = "embodied person"). But `-li` is also the derivational suffix meaning "one who does" (morphology.md). The forms are identical: `ma-li` (compound) vs `ma-li` (matter + doer-suffix = "one who works with matter / material agent"). The two readings are semantically close enough to be genuinely confusing in some contexts. Logged in open-questions.md.
 - **T-APO-002 verdict:** Two apostrophes produce nested structure that is legal but strains readability. Usage policy update: **compounds requiring more than one `'` should be restructured as phrases** (Attempt B or C). Single `'` confirmed as the practical limit. This closes the remaining prerequisite for adopting `'` into word-formation.md.
+
+---
+
+## Suffix–Root Collision Batch (S047–S055)
+
+**Purpose:** Three derivational suffixes share their form with primitive roots: `-to` / `to`, `-li` / `li`, `-se` / `se`. The question is whether context reliably disambiguates the two readings in realistic sentences, or whether structural resolution is required. Each pair gets three sentence slots: (A) suffix reading clearly dominant, (B) compound-head reading clearly dominant, (C) both readings structurally valid — verdict on whether meaning differs.
+
+---
+
+### Pair 1: `-to` (abstract nominalization) vs `to-` (conceptual framework)
+
+**S047A — `-to` suffix reading** *(T-SFX-001)*
+
+*Target: "Maintenance is a difficult concept."*
+
+```
+Gloss:    lo-ka-mu-to  fe-ki
+Literal:  patient:action-device-[concept-of]  boundary-intense
+Natural:  The concept of device-maintenance is complex.
+```
+
+`ka-mu-to` = action (`ka`) + device (`mu`) + abstract-nominalization (`-to`) = "the concept of maintaining devices." The `-to` suffix nominalizes `ka-mu` into an abstract concept-thing. The reading is unambiguous: there is nothing here for `to` as a compound head to modify — it sits at the end of a three-part derivation chain with no following root for it to govern.
+
+**Verdict A: `-to` suffix reading is primary and unambiguous in final position with no following root.**
+
+---
+
+**S047B — `to-` compound-head reading** *(T-SFX-002)*
+
+*Target: "The fault theory predicts cascade failure."*
+
+```
+Gloss:    lo-to-de-ne  du  lo-ne-de-ki
+Literal:  patient:concept-decay-relation  produces  patient:connection-decay-motion
+Natural:  The theory of fault propagation produces cascade failure.
+```
+
+`to-de-ne` = `to` (conceptual framework) as head, modified by `de-ne` (decay-relation = fault-propagation pattern). This is `to` as compound head: it governs the whole right-branching compound. A `-to` suffix reading would require `to` to follow a root and nominalize it (`de-ne-to`), which would have a different word order. Here `to` is unambiguously the head of the compound, not a suffix, because it comes *first*.
+
+**Verdict B: `to-` compound-head reading is primary and unambiguous when `to` appears at the left (head position). Suffix can only appear at the right edge.**
+
+---
+
+**S047C — structural ambiguity test** *(T-SFX-003)*
+
+*Target: "The relay device concept is stable."*
+
+```
+Form:     lo-si-mu-to  ru
+```
+
+Two valid parses:
+
+- Suffix: `si-mu` (relay device, W039) + `-to` (abstract nominalization) = "the concept of the relay device" → the thing being evaluated is an abstract idea
+- Compound: `si-mu-to` right-branching, `to` as head modified by `si-mu` = "a conceptual framework in the domain of signal-devices" → the thing being evaluated is a body of doctrine about relay devices
+
+Both parse as `lo-[form]  ru` = "the [X] is stable/coherent." The two readings are genuinely non-equivalent: stability of *a concept* vs stability of *a doctrine* are different claims. Context (is this a philosophical statement or an engineering review?) would resolve it in speech, but the written form is ambiguous.
+
+**Verdict C: genuine ambiguity exists at the right edge when `to` follows a two-morpheme compound. The two readings are non-equivalent. Resolution: word-formation convention should specify that `-to` suffix is written without hyphen separation (`simu-to`) while the compound head form retains the hyphen (`si-mu-to`), making the boundary explicit in writing. Log as pending convention decision.**
+
+---
+
+### Pair 2: `-li` (agent suffix) vs `li` (social agent root)
+
+**S048A — `-li` suffix reading** *(T-SFX-004)*
+
+*Target: "The signal analyst identified the fault."*
+
+```
+Gloss:    la-si-to-li  ka  lo-de-ne
+Literal:  agent:signal-concept-[one-who-does]  does  patient:decay-relation
+Natural:  The signal analyst identified the fault.
+```
+
+`si-to-li` = signal (`si`) + conceptual-framework (`to`) + agent-suffix (`-li`) = "one who performs conceptual work on signals" = signal analyst. The `-li` suffix is final, nominalizing `si-to` into a person-type. The `li` root reading would require treating this as a three-root compound with `li` (social agent) as head: "a social agent in the domain of signal-concepts." That reading is semantically identical to the suffix reading — both describe a person who works with signal knowledge.
+
+**Verdict A: `-li` suffix and `li`-as-head compound produce the same meaning when `li` is final. No practical ambiguity here — the two analyses converge.**
+
+---
+
+**S048B — `li` root reading (distinct from suffix)** *(T-SFX-005)*
+
+*Target: "Relay operators are social nodes in the network."*
+
+```
+Gloss:    lo-si-mu-li  ne  lo-ne-su
+Literal:  patient:signal-device-person  relation  patient:connection-arrangement
+Natural:  Signal-device operators are relational members of the network.
+```
+
+`si-mu-li` = signal (`si`) + device (`mu`) + social-agent (`li`) = "person associated with signal devices" = relay operator. The `li` root carries its full meaning as a social agent — it's not just nominalizing; it's specifying that the entity is a *person-type*, distinct from a device (`si-mu-mu` = device-of-devices) or a process. A `-li` suffix reading would also work here (one who operates signal devices), and again converges to the same referent.
+
+**Verdict B: confirmed from both sides — `-li` suffix and `li` root-as-head consistently converge when the role is "person who does/uses X." The divergence would only appear if `li` carried social-agent meaning that `-li` does not (i.e., if `-li` is purely formal-nominalization and `li` root implies full social standing). Currently no corpus evidence of that distinction mattering.**
+
+---
+
+**S048C — potential divergence test** *(T-SFX-006)*
+
+*Target: "An AI system is not a person."*
+
+```
+Form:     lo-to-mu-li  no  lo-mu-li
+Gloss:    lo-to-mu-li = concept-device-person   lo-mu-li = device-person
+```
+
+- `to-mu-li`: concept (`to`) + device (`mu`) + `li` — head-final compound. `li` as root = "a social agent whose nature is that of a conceptual device" = an entity with person-status in the conceptual-device domain. In Tonesu ontology, an AI fitted with person-status would be `to-mu-li` (a conceptual device acknowledged as a social agent — per primitives.md: "AI/institutions are `mu + li`").
+- `to-mu-li` with `-li` suffix nominalization = "one who operates conceptual devices" = a knowledge-worker. Entirely different referent.
+
+The same three-syllable form means either (a) an entity *being* a social agent of a certain type, or (b) a person *doing* something with conceptual devices. In a sentence asserting or denying personhood, this ambiguity is semantically significant.
+
+**Verdict C: genuine ambiguity exists and the two readings are non-equivalent in contexts where personhood or agency status is being asserted. The `-li` suffix (role) vs `li` root (being) distinction should be preserved and made explicit. Same hyphen-boundary convention as `-to` applies: `tomu-li` = suffix (role); `to-mu-li` = compound (being). Log as pending convention decision alongside `to`/`-to`.**
+
+---
+
+### Pair 3: `-se` (quality/property suffix) vs `se` (perception root)
+
+**S049A — `-se` suffix reading** *(T-SFX-007)*
+
+*Target: "The signal is energetic."*
+
+```
+Gloss:    lo-si  ra-se
+Literal:  patient:signal  energy-[quality]
+Natural:  The signal is energetic / high-energy.
+```
+
+`ra-se` = energy (`ra`) + quality-suffix (`-se`) = energetic, the canonical example from morphology.md. The `-se` suffix derives an adjective from a root. The `se` root reading would give `ra-se` as "perception of energy" — a compound meaning "energy detection / energy sensing." These are genuinely different: "the signal is energetic" vs "the signal is an energy-perception." In a predicate position (`lo-si  ra-se`) context disambiguates: quality predicates describe the subject, so the quality reading is dominant.
+
+**Verdict A: `-se` quality suffix is primary in predicate position. The `se`-as-root perception reading would not function as a predicate quality.**
+
+---
+
+**S049B — `se` root reading (distinct from suffix)** *(T-SFX-008)*
+
+*Target: "Energy detection failed."*
+
+```
+Gloss:    lo-ra-se  de-past  ta-ti-de
+Literal:  patient:energy-perception  decayed  at-past-time
+Natural:  The energy sensor / energy detection failed at some past time.
+```
+
+`ra-se` = energy (`ra`) + perception (`se`) = "energy sensing / the act of perceiving energy" = a sensor or detection process. This is `se` as a full root in a compound, not a quality suffix. The entity referred to is a *process* or *device*, not a quality. Used as the subject of `de` (decay/failure), it is clearly nominal — it is a thing that failed, not a quality being predicated.
+
+**Verdict B: `se` root reading is primary in subject/nominal position. A quality suffix cannot be a subject.**
+
+---
+
+**S049C — ambiguity test** *(T-SFX-009)*
+
+*Target: "The energetic sensor detected the fault."*
+
+```
+Form:     la-ra-se  se  lo-de-ne
+```
+
+Two parses:
+
+- `-se` suffix: `ra-se` = energetic (quality) → `la-ra-se` = "the energetic one / one characterized by energy." Sentence: "the energetic [entity] perceived the fault."
+- `se` root: `ra-se` = energy-perception = an energy sensor → `la-ra-se` = "the energy sensor." Sentence: "the energy sensor detected the fault."
+
+Both are syntactically valid. The verb `se` (perception, used here as a predicate) is the same root as the suffix, which makes the sentence unusually dense with `se`. The two readings produce different subjects (a quality-characterized entity vs a specific sensor device) and therefore different sentences.
+
+**Verdict C: genuine ambiguity in agent position. The encoded quality and the perception root produce non-equivalent referents. The `-se` suffix is flagged as unstable in morphology.md for exactly this reason — this sentence confirms that instability experimentally. The hyphen-boundary convention proposed for `-to` and `-li` would help here too: `ra-se` = the sensor (compound); `rase` = energetic (derived quality). However, the morphology.md flag ("justification or rename required before this suffix is considered stable") should be escalated: this pair generates the sharpest collision of the three. Log for targeted resolution.**
+
+---
+
+### Suffix–Root Collision Summary
+
+| Pair | Suffix form | Root form | Converge or diverge? | Action |
+|------|------------|-----------|---------------------|--------|
+| `-to` / `to` | final nominalizer | left-edge compound head | **diverge** — concept-of vs doctrine-about | hyphen-boundary convention |
+| `-li` / `li` | role nominalizer | being/status root | **converge** for role contexts; **diverge** for personhood assertion | hyphen-boundary convention; flag personhood edge case |
+| `-se` / `se` | quality suffix | perception root | **diverge** — quality-predicate vs sensor-compound; suffix flagged unstable | escalate `-se` instability; hyphen-boundary convention |
+
+**Batch conclusion:** Context disambiguates reliably **when the syntactic position is unambiguous** (suffix only in predicate or derivational position; root only in nominal/agent/subject position). Ambiguity arises specifically at **the right edge of a multi-root compound in nominal position**, where both analyses are structurally valid. The proposed resolution — hyphen-boundary notation distinguishing `X-Y-Z` (compound, root final) from `XY-Z` (root chain + suffix) — would eliminate all three collision cases in writing without changing the spoken forms. Log as a single pending convention decision covering all three pairs.
