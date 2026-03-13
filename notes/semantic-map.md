@@ -436,24 +436,29 @@ The first introduces a *speaker stance* where none is needed. The distinction ma
 
 **Design decision (locked, March 2026):** Tonesu does not use emotional primitive roots. Concordian culture frames emotional states as reportable system diagnostics — processual descriptions of internal state transitions — rather than as primitive expressive acts. See spec/principles.md § 9.
 
-This means emotional vocabulary in Tonesu is always built, never given. The following table gives the standard Concordian expressions for common emotional states, derived from existing primitives:
+This means emotional vocabulary in Tonesu is always built, never given. The two roots involved are `se` (outward-facing detection — perceiving something specific) and `fa` (inward-facing affective substrate — the felt-interior tone of the organism, complete without an object). `se` constructions are culturally expected to specify an object; `fa` constructions are complete without one — the substrate itself is the full statement.
 
-| Emotional state | Tonesu construction | Literal reading | Notes |
-|-----------------|--------------------|-----------------|---------|
-| Fear / threat-response | `la-mi  se  fe-de` | I perceive boundary-decay | Something I value is approaching a negative limit |
-| Fear (specific) | `la-mi  se  fe-de  lo-[X]` | I perceive boundary-decay at [X] | Concordian form specifies the object of fear — bare "I'm afraid" is incomplete |
-| Joy / positive-valence | `la-mi  se  vo-be` | I perceive value-growth | Something is increasing in quality/worth |
-| Grief / loss | `la-mi  se  vo-de` | I perceive value-decay | Something of worth is deteriorating or gone |
-| Anxiety / anticipatory dread | `la-mi  se  fe-ki` | I perceive limit-approach | The boundary hasn't been crossed yet; the approach is the experience |
-| Fatigue | `la-zo-mi  de` | my organism is decaying | Bodily resource depletion — `zo` (organism) rather than `li` (agent) signals the body as object |
-| Hunger | `la-zo-mi  de  lo-ra` | my organism decays at [energy] | Energy resource deficit in the body |
-| Too cold / uncomfortable | `la-zo-mi  se  no-ha` | my organism perceives low-thermal-state | Uses `ha` (primitive 32); `no-ha` = cold as matter-property |
-| Too hot / discomfort | `la-zo-mi  se  ha-fe` | my organism perceives thermal limit | Approaching or crossing a thermal threshold |
-| Comfort / ease | `la-zo-mi  ru` | my organism is unified/coherent | The body is not fragmented, not under stress |
-| Trust | `la-mi  se  vo-ne  lo-[person]` | I perceive the relation to [person] as having quality/worth | Trust is not a state but a perceived-quality-of-relation |
-| Desire / longing | `la-mi  wi  lo-[X]` | I intend toward [X] | `wi` (intention) covers desire naturally; longing = intention + `fe-ki` (the gap has not closed) |
+| Emotional state | `se` form (object-directed) | `fa` form (substrate, no object needed) | Notes |
+|-----------------|-----------------------------|-----------------------------------------|-------|
+| Fear / threat-response | `la-mi  se  fe-de  lo-[X]` | `la-mi  fa  fe-de` | `se` requires object; `fa` = free-floating dread, no target |
+| Joy / positive-valence | `la-mi  se  vo-be  lo-[X]` | `la-mi  fa  vo-be` | `fa` = undirected positive affect, mood lift |
+| Grief / loss | `la-mi  se  vo-de  lo-[X]` | `la-mi  fa  vo-de` | `fa` = pervasive low / depression-like state |
+| Grief, persistent | — | `la-mi  fa  vo-de  re` | `re` (repetition) = sustained low without identifiable cause |
+| Anxiety | `la-mi  se  fe-ki  lo-[X]` | `la-mi  fa  fe-ki` | `fa` = free-floating anxiety, no specific threat |
+| Unresolved affect | — | `fa-no-to` (W090 equiv.) | felt state with no model at all — see W090 |
+| Emotional numbness | — | `fa-no` | substrate absent / flat |
+| Affect rising | — | `fa-be` | mood lifting, arousal increasing |
+| Affect fading | — | `fa-de` | affect diminishing, dissipating |
+| Observer mode | — | `la-mi  to  [la-zo-mi  fa  lo-X]` | I model that my organism's affective state is X — the SSRI/dissociation construction |
+| Fatigue | `la-zo-mi  de` | — | bodily resource depletion — organism (`zo`), not affect (`fa`) |
+| Hunger | `la-zo-mi  de  lo-ra` | — | energy deficit — bodily, not affective |
+| Too cold | `la-zo-mi  se  no-ha` | — | thermoreceptor detection — `se` correct here, external signal |
+| Too hot | `la-zo-mi  se  ha-fe` | — | thermal threshold — same |
+| Comfort / ease | `la-zo-mi  ru` | — | organism coherence — structural state, not affective tone |
+| Trust | `la-mi  se  vo-ne  lo-[person]` | — | always object-directed; no bare substrate form |
+| Desire / longing | `la-mi  wi  lo-[X]` | — | `wi` (intention) — directed by definition |
 
-**Cultural note:** The Concordian form almost always specifies *what* is feared, valued, or desired. Bare emotional declarations (`la-mi  se  vo-be` without specifying what) are grammatically complete but culturally thin — like saying "signal received" without content. Precision is the register.
+**Cultural note:** `se` constructions are culturally expected to name *what* is feared, valued, or desired. Bare `la-mi  se  vo-be` without an object is grammatically complete but culturally thin — like saying "signal received" without content. `fa` constructions are the inverse: they are complete *without* an object by design. `la-mi  fa  vo-de` is not an incomplete grief statement; it is a precise substrate statement. Concordian culture accepts both registers without requiring object-specification for the `fa` form.
 
 **The register gap and its narrative use:** When a Concordian speaker says `la-mi  se  fe-de  lo-ne-mi` and a non-Concordian hears it as "I'm afraid," that is the translation gap doing characterization work. The Concordian has specified (a) the type of emotional state, (b) the direction of change, and (c) the object. The non-Concordian compressed all three into a single opaque feeling-word. Neither is wrong; they are speaking different ontologies.
 
