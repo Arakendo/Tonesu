@@ -1,6 +1,6 @@
 # Tonesu
 
-A personal study project designing a phonetic, semantically compositional, domain-extensible language.
+A personal study project designing a phonetic, semantically compositional, domain-extensible language. Tonesu is developed both as a linguistic design exercise and as a **worldbuilding language** — a system for generating culturally coherent names, institutions, technical vocabulary, and in-world text that feels architecturally consistent rather than decorative.
 
 The language is called **Tonesu** — the casual contraction of the formal compound `to-ne-su` (pattern – relation – structure). The name is itself a demonstration of the dual-register design: a compositional root compound that contracts into a natural spoken form.
 

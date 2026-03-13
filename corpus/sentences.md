@@ -147,12 +147,12 @@ Notes:    `ne` as relation marker here doubles as a grammatical particle. Needs 
 - [ ] A full 3–4 sentence paragraph on a coherent topic
 
 **Purpose-clause stress tests** *(require purpose-frame formalization — see spec/grammar.md)*
-- [ ] **P001** — "They study in order to understand." *(purpose, same agent — canonical form of `wi` same-agent reduction)*
+- [x] **P001** → attempted as **S018**. Same-agent confirmation; agent inheritance rule confirmed (4th data point). `to-su-ki` = comprehend. No surprises. See S018 notes.
 - [x] **P002** → attempted as **S016**. Different-agent constraint confirmed; same-patient reduction provisionally valid. See S016 notes.
 - [x] **P003** → attempted as **S017**. Default reading is same-agent; agent inheritance rule confirmed (3rd data point). See S017 notes.
 
-**Relative-clause pressure test** *(do not attempt until purpose-clause structure is stable)*
-- [ ] **P004** — "Build me a system that remembers past queries." *(imperative + beneficiary + noun-modifying clause + memory/retrieval semantics + past reference — let compounding fail first before designing a relativizer)*
+**Relative-clause pressure test**
+- [x] **P004** → attempted as **S019**. Compounding covers noun-naming but breaks for capability expression. Relativizer gap exposed. Imperative gap also exposed. See S019 notes.
 
 ---
 
@@ -302,8 +302,9 @@ Natural:  She sent the message for them to warn us.
 - ~~Inchoative derivation pattern missing~~ → resolved: `ROOT + ki` = enter state ROOT (spec/morphology.md)
 - Abstract agents (`to`, `si` as grammatical subjects) work cleanly with `la` as the unambiguous agent marker
 - ~~Purpose clauses not formalized~~ → resolved: `wi [clause]` defined in spec/grammar.md § Purpose Frame
-- **Boundary rule tested (S015, S016, S017):** matrix-level argument marker unambiguously signals return to matrix clause in single-level embedding — no explicit clause delimiters needed for these cases. `ne` inside a subordinate clause confirmed as argument marker, not boundary signal. Nested subordination untested.
-- **Agent inheritance rule (wi-clauses, confirmed S016–S017):** omitting the purpose-clause agent unambiguously inherits the matrix agent. Any other agent requires explicit `la-[agent]`. Rule formally stated in spec/grammar.md § Purpose Frame.
+- **Boundary rule tested (S015–S019):** matrix-level argument marker unambiguously signals return to matrix clause in single-level embedding. `ne` inside subordinate clause confirmed as argument marker, not boundary signal. Nested subordination untested.
+- **Agent inheritance rule (wi-clauses, confirmed S016–S018):** omitting the purpose-clause agent unambiguously inherits the matrix agent. Rule formally stated in spec/grammar.md § Purpose Frame.
+- **Compounding vs relative clause (S019):** compounding covers taxonomic description adequately; it cannot express capability (noun as agent of its own action). Relativizer gap confirmed. Imperative gap also confirmed. Both logged in open-questions.
 
 ---
 
