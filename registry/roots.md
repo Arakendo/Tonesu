@@ -76,7 +76,7 @@ For contracted everyday forms, see lexicon/colloquial.md.
 | D003 | `-pa` | location | action, state root | build-pa → construction site |
 | D004 | `-su` | result / state | action root | build-su → structure |
 | D005 | `-to` | abstract concept | any root | build-to → concept of construction |
-| D006 | `-se` | quality / property | entity or state root | energy-se → energetic |
+| D006 | `-ge` | quality / property | entity or state root | `ra-ge` → energetic |
 | D007 | `-ki` | ongoing process (verbal noun) | action root | build-ki → the building (activity) |
 
 ---

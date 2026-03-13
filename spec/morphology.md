@@ -67,10 +67,10 @@ Convert roots from one lexical role to another. Attach directly to the root. Ful
 | `-pa` | location | `ka-pa` → site of the action |
 | `-su` | result / product | `ka-su` → what was produced |
 | `-to` | abstract nominalization | `ka-to` → the concept of the action |
-| `-se` | quality / property | `ra-se` → energetic |
-
-> **Note:** `-se` shares form with root `se` (perception). The link is indirect — "a quality is what is perceivable about a thing" — and does not satisfy the transparent overlap standard as cleanly as other suffixes. Justification or rename required before this suffix is considered stable. See notes/open-questions.md.
+| `-ge` | quality / property | `ra-ge` → energetic |
 | `-ki` | verbal noun (ongoing process) | `be-ki` → the act of creating |
+
+> **Design note:** the quality/property suffix was formerly `-se`, sharing form with root `se` (perception). The semantic domains overlap — "a quality is what is perceivable about a thing" — producing genuine ambiguity in nominal position (attested S049C). Renamed to `-ge` (no root collision). Rule formalized: **a suffix must not share form with a root whose semantic domain overlaps with the suffix's derivational role.** `-li`, `-mu`, `-pa`, `-su`, `-to`, `-ki` all satisfy this rule because their root forms and suffix functions are semantically distinct despite formal identity.
 
 Multiple derivational suffixes can stack if semantically required, but prefer compounds over long suffix chains.
 

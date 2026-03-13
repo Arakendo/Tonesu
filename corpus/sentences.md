@@ -1611,9 +1611,11 @@ The same three-syllable form means either (a) an entity *being* a social agent o
 
 ---
 
-### Pair 3: `-se` (quality/property suffix) vs `se` (perception root)
+### Pair 3: ~~`-se`~~ `-ge` (quality/property suffix) vs `se` (perception root)
 
-**S049A — `-se` suffix reading** *(T-SFX-007)*
+> **Rename note (post-test):** the quality/property suffix was `-se` when these sentences were written. S049C confirmed the collision was genuine and non-trivial. The suffix was subsequently renamed to `-ge` (no root conflict). The forms below are preserved verbatim as the test evidence that motivated the rename. In current Tonesu: S049A quality reading = `lo-si ra-ge`; S049C quality reading = `la-ra-ge se lo-de-ne`.
+
+**S049A — ~~`-se`~~ `-ge` suffix reading** *(T-SFX-007)*
 
 *Target: "The signal is energetic."*
 
@@ -1670,6 +1672,6 @@ Both are syntactically valid. The verb `se` (perception, used here as a predicat
 |------|------------|-----------|---------------------|--------|
 | `-to` / `to` | final nominalizer | left-edge compound head | **diverge** — concept-of vs doctrine-about | hyphen-boundary convention |
 | `-li` / `li` | role nominalizer | being/status root | **converge** for role contexts; **diverge** for personhood assertion | hyphen-boundary convention; flag personhood edge case |
-| `-se` / `se` | quality suffix | perception root | **diverge** — quality-predicate vs sensor-compound; suffix flagged unstable | escalate `-se` instability; hyphen-boundary convention |
+| ~~`-se`~~ `-ge` / `se` | quality suffix | perception root | **diverge** — quality-predicate vs sensor-compound | **resolved: suffix renamed to `-ge`** (S049C attested collision) |
 
 **Batch conclusion:** Context disambiguates reliably **when the syntactic position is unambiguous** (suffix only in predicate or derivational position; root only in nominal/agent/subject position). Ambiguity arises specifically at **the right edge of a multi-root compound in nominal position**, where both analyses are structurally valid. The proposed resolution — hyphen-boundary notation distinguishing `X-Y-Z` (compound, root final) from `XY-Z` (root chain + suffix) — would eliminate all three collision cases in writing without changing the spoken forms. Log as a single pending convention decision covering all three pairs.

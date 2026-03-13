@@ -94,7 +94,7 @@ Non-transparent collisions are **not permitted**: if the function word's meaning
 | `-pa` | location suffix | `pa` (place) | location from place root | Transparent ✓ |
 | `-su` | result/product suffix | `su` (structure) | result = the structure produced | Transparent ✓ |
 | `-to` | abstract nominalizer | `to` (concept/pattern) | abstraction from concept root | Transparent ✓ |
-| `-se` | quality/property suffix | `se` (perception) | "perceivable property" — indirect link | **Needs justification** |
+| `-ge` | quality/property suffix | none | no root `ge` exists — collision-free | **Resolved** (renamed from `-se`, S049C) |
 | `-ki` | inchoative / verbal noun | `ki` (motion) | entering-state from motion root | Transparent ✓ |
 
 **Pronouns**
