@@ -155,9 +155,31 @@ na-Derik poss tool →  Derik's tool
 
 ---
 
+## Casual Register: Colloquial Compression
+
+Formal compounds in Tonesu can be long. Casual speech compresses them by stripping contextually recoverable qualifiers. First documented case: `ti-past-to-si-ko-mu` → `to-ko` (see registry/derived.md W027).
+
+**Observed compression pattern (W027 case study):**
+
+| Step | Mechanism | Element dropped |
+|------|-----------|----------------|
+| 1 | Qualifier drop | `ti-` — living quality is contextually implied by the device category |
+| 2 | Qualifier drop | `past` tense — the device is definitionally historical |
+| 3 | Nucleus collapse | `to-si` → `to` — non-expert speakers name by salient function (storage), not mechanism |
+| 4 | Metonymic drop | `-mu` — device suffix drops when the category referent is clear |
+
+**Working principle:** casual forms strip qualifiers that are recoverable from context or cultural knowledge, retaining the semantic nucleus that identifies function from the *user's* perspective rather than the engineer's.
+
+**Formal rule:** pending. One documented case is insufficient to generalize. Additional corpus compression pairs needed before full rule is stated. See notes/open-questions.md.
+
+> **Note:** This is the Tonesu casual register equivalent of word-clipping in natural languages (English: "refrigerator" → "fridge"; "television" → "TV"). Unlike phonological erosion, Tonesu casual compression is *morphologically principled* — whole morphemes are dropped, not sounds within them.
+
+---
+
 ## Open Questions
 
 - [ ] Finalize phonetic forms of tense/aspect markers (placeholders like `-past` are English glosses, not real roots)
 - [ ] Decide stacking limit — at what point does a suffix chain require restructuring as a compound?
 - [ ] Should definiteness markers `ko-` / `ne-` be drawn from root vocabulary or be dedicated particles? Note: `ko` is now a primitive (containment) — `ko-` as definiteness would collide.
 - [ ] Does modality (might/must/plan) live on the verb or as a separate sentence-level particle?
+- [ ] Formal colloquial compression rule: one documented case (W027). More corpus pairs needed to generalize the pattern into a stable rule.

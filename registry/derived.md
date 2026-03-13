@@ -231,6 +231,25 @@ Notes:        fe (boundary) characterizes warnings precisely: a warning signals 
 Related:      fe-si-mu (warning device / alarm), fe-ki (to reach a limit / become bounded)
 ```
 
+**W025**
+```
+Form:         to-su-ki
+Type:         derivation (inchoative compound)
+Class:        process
+Definition:   comprehend; come to understand; enter a state of organized knowledge
+Composition:  to-su (W030, organized knowledge) + inchoative -ki (enter state of) →
+              the moment of grasping structure; arriving at organized understanding
+Register:     standard
+Domain:       knowledge
+Status:       proposed
+Examples:     "la-yu  ka-to-ki  wi [ka-to-su-ki]" — they study in order to comprehend (S018)
+Notes:        Distinct from to-ki (W020, computation/reasoning process): to-ki is the ongoing
+              act of processing; to-su-ki is the threshold moment of grasping organized structure.
+              to-ki describes the journey; to-su-ki describes arrival.
+              First attested: S018. Identified as W025 candidate in S018 corpus notes.
+Related:      to-ki (W020), to-su (W030), to-su-li (expert / one who has comprehended)
+```
+
 ---
 
 ### Abstract Concepts
@@ -261,6 +280,54 @@ Domain:       social / technical
 Status:       proposed
 Examples:     "the ne-su of traders spanned three regions"
 Related:      li-ne-su (social network), si-ne-su (communication network)
+```
+
+**W026**
+```
+Form:         to-si
+Type:         compound
+Class:        entity / process
+Definition:   query; a signal seeking knowledge; the act or artifact of requesting information
+Composition:  to (knowledge/pattern) + si (signal/representation) — head-final: a signal
+              whose content is a knowledge request; inquiry encoded as a signal
+Register:     formal
+Domain:       knowledge / communication
+Status:       proposed
+Examples:     S019 compound: ti-past-to-si-ko-mu — device that retains past queries
+Notes:        Direction is inward (signal reaching for knowledge), distinct from si-ki (W023,
+              transmit/send; signal moving outward). to-si is a content type; si-ki is a
+              directional act. A to-si can be sent via si-ki: "la-mi  ka-si-ki  lo-to-si" —
+              I transmitted the query.
+              Needed to close S019 compound analysis.
+Related:      si-ki (W023), to-ko (W027), to-su (W030)
+```
+
+**W027**
+```
+Form:         to-ko
+Casual form:  to-ko (device by metonymy when context is clear; see Notes)
+Type:         compound
+Class:        entity / concept
+Definition:   memory; retained or stored knowledge; the faculty or substrate of knowledge persistence
+Composition:  to (knowledge/pattern) + ko (containment) — knowledge held within; knowledge
+              that persists rather than flows or processes
+Register:     standard
+Domain:       knowledge
+Status:       proposed
+Examples:     "to-ko-ka" — the act of remembering (to-ko + action marker ka)
+              S019 fragment: to-si-ko-mu — device that contains queries
+Notes:        Colloquial compression pattern: ordinary speakers shorten the engineering compound
+              ti-past-to-si-ko-mu (historical query archive) to to-ko or to-ko-mu in casual speech.
+              Mechanism: (1) ti- dropped — living quality is contextually implied;
+              (2) past dropped — the device is defined by its historical function;
+              (3) to-si collapsed to to — lay speakers name the device by what it does for them
+              (stores knowledge), not by its query mechanism; (4) -mu dropped by metonymy when
+              the category referent is clear.
+              This is the first documented casual compression in Tonesu. The pattern suggests:
+              qualifier stripping + semantic nucleus retention + metonymic -mu drop.
+              Formal rule for colloquial compression is pending (see notes/open-questions.md).
+Related:      to-su (W030, organized structured knowledge), to-si (W026, query),
+              to-ko-mu (memory device / formal compound)
 ```
 
 ---
