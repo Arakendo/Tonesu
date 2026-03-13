@@ -615,6 +615,42 @@ go [ka-be]  du [la-to  ka-zu]
 
 **Distinction from `wi`:** `go` looks backward to a cause that already holds or is posited. `wi` looks forward to an intended outcome. These are not interchangeable.
 
+### `du` as full clause introducer
+
+`du` (result/effect) operates symmetrically with `go` in the result position. When the
+result clause is complex enough to require full clause structure, `du [RESULT-CLAUSE]`
+expands the compound form:
+
+```
+go [CAUSE-CLAUSE]  du [RESULT-CLAUSE]
+```
+
+**Boundary rule for `go...du`:**
+- The `go`-clause extends until `du` is encountered. `du` is a matrix-level frame word
+  and terminates the cause clause immediately.
+- The `du`-clause extends from `du` until sentence boundary (or the next matrix-level
+  frame word, if embedded).
+- **No outer matrix clause is required.** `go [X]  du [Y]` is a complete biclausal
+  proposition — the causal relationship itself is the full assertion.
+
+**Two registers:**
+
+| Register | Form | Use |
+|----------|------|-----|
+| Formal | `go [full cause clause]  du [full result clause]` | new context, technical or legal prose |
+| Compact | `go-[cause-compound]  du-[result-compound]` | established context, conversational (S011, S028) |
+
+Examples:
+```
+go [lo-si  be]  du [la-ka-si-mu  ka-si  ru]          (S169)
+```
+*Because the signal grew, the transmitter transmitted successfully.*
+
+```
+go [lo-to-su-mu  de]  du [lo-to-su  de]              (S170)
+```
+*If the archive decays, organized knowledge decays.*
+
 ---
 
 ## Counterfactual Frame (`to-go`)
@@ -759,6 +795,65 @@ to  lo-go-su  de.
 la-to-fe-su  to  lo-go-su  be
 ```
 *The investigation body opens the causal model.* (S160)
+
+---
+
+## Aspect
+
+Repetition/habituality in Tonesu is expressed by two distinct strategies that are not
+synonymous. Both are grammatically legal.
+
+### Strategy 1 — Time-adverbial (`ta-re-[cycle]`)
+
+```
+la-[agent]  ta-re-[time-unit]  VERB
+```
+
+The time slot (`ta`) contains a compound time noun built with `re` (repetition) as a
+modifier: `ta-re-ti` (at each recurring cycle), `ta-re-X` (at each recurring X). This
+strategy quantifies over **scheduled intervals** — it says when the event recurs.
+
+```
+la-wi-re-su  ta-re-ti  ka-ne        (S166)
+```
+*The committee meets at each recurring interval.* — a fact about the committee's schedule.
+
+### Strategy 2 — Morphological aspect prefix (`re-VERB`)
+
+```
+la-[agent]  re-[verb-compound]
+```
+
+The prefix `re-` (repetition) attaches to the entire verb compound (before `ka-`). This
+strategy marks **dispositional habituality** — a property of the agent's or system's
+characteristic behavior.
+
+```
+la-ze  re-ka-se                     (S167)
+```
+*She habitually records observations.* — a claim about her disposition, not her schedule.
+
+### Distinguishing the two
+
+| | Strategy 1 `ta-re-X  VERB` | Strategy 2 `re-VERB` |
+|--|--|--|
+| What it describes | external frequency / schedule | agent or system disposition |
+| Negatable while the other holds | yes — she can have a disposition without a schedule | yes — a schedule can exist without indicating disposition |
+| Register | neutral | neutral |
+
+**Minimal contrast:** `la-ze  ta-re-ti  ka-se` = "she records at regular intervals"
+(schedule); `la-ze  re-ka-se` = "she is a habitual recorder" (character).
+
+### Aspect with past/future markers
+
+`re-VERB  ta-[time]` — the aspect prefix and the time marker are independent:
+
+```
+lo-to-su-mu  re-ka-de-be  ti-de     (S168)
+```
+*The archive was habitually maintained.* (`re-` = habitual aspect; `ti-de` = past time)
+
+The two modifiers are orthogonal and do not collapse.
 
 ---
 

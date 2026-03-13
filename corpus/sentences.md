@@ -6264,3 +6264,243 @@ of the claim; `no-` negates the predicate within that frame.
 **Grammar status:** Formalized in spec/grammar.md § Predication Strategies.
 
 **P-GP-001 status:** CLOSED.
+
+---
+
+## P-GP-002: Aspect — Time Adverbial vs Morphological (S166–S168)
+
+These three sentences establish the corpus evidence needed to decide whether
+habituality/repetition in Tonesu is expressed as a time adverbial (`ta-re-ti` / `ta-re-X`)
+or as a morphological prefix on the verb (`re-VERB`), or both with distinct semantics.
+
+S029 Attempt A (`ta-re-ti`) was canonical for the single-event case but left the
+morphological-prefix question (Attempt B: `re-fe-ki`) unresolved. The trigger for
+resolution: a sentence that *requires* the difference between "she teaches at recurring
+times" (schedule/frequency) vs "she is a habitual teacher" (disposition/character).
+
+---
+
+**S166 — Recurring event (scheduled frequency)** *(P-GP-002-A)*
+
+*Target: "The committee meets every cycle."*
+
+```
+Gloss:    la-wi-re-su  ta-re-ti  ka-ne
+Literal:  agent:protocol-body  time:repeat-cycle  action:assemble
+Natural:  The committee meets at each recurring interval.
+```
+
+**Notes:**
+- **Time-adverbial strategy** (`ta-re-ti`): frequency is expressed as a time phrase in
+  the `ta` slot. The action (`ka-ne`) is a discrete event; the `ta-re-ti` positions it
+  as recurring. This is exactly S029 Attempt A extended to an institutional subject.
+- `wi-re-su` (W074): operational protocol / body that implements recurring procedure.
+  The committee is structurally an entity that meets — the meeting is its protocol.
+- `ka-ne` = action:assemble / convene. `ne` (relation/reciprocity) + `ka` = enter into
+  mutual relation = gather. Compositional; not separately registered.
+- **Reading:** contingent frequency — "this committee meets on a recurring schedule."
+  Says nothing about the committee's character or disposition; only about its schedule.
+
+---
+
+**S167 — Dispositional habit (intrinsic character)** *(P-GP-002-B)*
+
+*Target: "She is a habitual recorder of observations."*
+
+```
+Gloss:    la-ze  re-ka-se
+Literal:  agent:she  repeat-action:perceive/record
+Natural:  She habitually records observations.
+```
+
+**Notes:**
+- **Morphological-aspect strategy** (`re-VERB`): `re` prefixes the verb compound
+  (`ka-se` = action:perceive/observe). The repetition is internal to the action —
+  a dispositional claim about how she characteristically behaves.
+- **Contrast with S166:** `la-ze  ta-re-ti  ka-se` would say "she records observations
+  at each recurring interval" (scheduled). S167's `re-ka-se` says "habitual recording
+  is part of her character" — a property of the agent, not a property of her schedule.
+- The two strategies now have genuine, minimally distinguishable meanings:
+  - `ta-re-[X]  VERB` = the event recurs at regular/scheduled intervals (external frequency)
+  - `re-VERB` = the agent has a disposition to do this habitually (internal aspect)
+- This is the decisive contrastive pair. **Both strategies are legal; they are not
+  synonymous.** Option (c) of the original P-GP-002 question: both legal, distinct.
+- `re` as a productive verbal prefix is now confirmed. It is not merely a noun modifier
+  (as in `re-ti` = recurring-time) but also a verb aspect prefix.
+
+---
+
+**S168 — Habitual-past: institutional practice** *(P-GP-002-C)*
+
+*Target: "The archive was regularly maintained."*
+
+```
+Gloss:    lo-to-su-mu  re-ka-de-be  ti-de
+Literal:  patient:archive  repeat-action:repair  time:past
+Natural:  The archive was habitually maintained [in the past].
+```
+
+**Notes:**
+- `re-ka-de-be` = repeat + action + repair (`de-be` = W035 = decay-then-grow = repair).
+  First triple-prefix action compound: `re-` (aspect) + `ka-` (action) + `de-be` (root).
+  Composes cleanly left to right: repeat(action(repair)) = habitual-repair-action.
+- `ti-de` (W041 = time-decay = past time interval) marks the habitual as past-located.
+  The repetition marker `re-` is the aspect; `ti-de` is the temporal anchor. These are
+  orthogonal modifiers and do not collapse into each other.
+- Combined with `ta-re-ti` strategy: both `re-VERB  ti-de` and `ta-re-ti  VERB  ti-de`
+  can express past-habitual. They differ in the same way as S166/S167:
+  `ta-re-ti  ka-de-be  ti-de` = archived repairs happened on a recurring schedule;
+  `re-ka-de-be  ti-de` = habitually maintaining was a characteristic of how the archive
+  was managed.
+
+---
+
+### P-GP-002 Verdict
+
+**Both strategies are legal and semantically distinct. Option (c): adopted.**
+
+| Strategy | Form | Reading |
+|----------|------|---------|
+| Time-adverbial | `ta-re-[cycle]  VERB` | event recurs at scheduled intervals — external frequency |
+| Morphological aspect | `re-VERB` | agent has a habitual disposition — internal character |
+
+**Decision rule:** use `ta-re-X` when you are talking about a schedule or frequency;
+use `re-VERB` when you are talking about the agent's or system's characteristic behavior.
+
+**`re` as verb-aspect prefix:** confirmed productive. `re-VERB` is a standard aspect
+prefix operating at the same morphological level as `no-` (negation). The prefix
+modifies the action's aspect without modifying the action compound's root.
+
+**`ta-re-ti` revises to `ta-re-[cycle-noun]`:** `re-ti` (W-unregistered / compositional)
+remains valid; the `ta` slot accepts any compound time noun. No registration needed.
+
+**Grammar status:** Formalized in spec/grammar.md § Aspect.
+
+**P-GP-002 status:** CLOSED.
+
+---
+
+## P-GP-003: `go`/`du` Bilateral Clause Coordination (S169–S171)
+
+These three sentences resolve whether a fully biclausal `go [clause]  du [clause]`
+construction — with no outer matrix clause — is grammatically legal and what its
+boundary rule is.
+
+S028 established the single-frame abbreviated form (`go-cause  du-result` using noun
+compounds) as canonical and deferred the full two-clause form pending a boundary analysis.
+
+---
+
+**S169 — Biclausal causal coordination** *(P-GP-003-A)*
+
+*Target: "Because the signal strengthened, the transmission succeeded."*
+
+**Abbreviated form (S011-style, established):**
+
+```
+Gloss:    go-si-be  du-ka-si-ru
+Literal:  cause:signal-grow  result:action-transmit-succeed
+Natural:  Signal-growth caused transmission-success.
+```
+
+**Full biclausal form (candidate):**
+
+```
+Gloss:    go [lo-si  be]  du [la-ka-si-mu  ka-si  ru]
+Literal:  cause [patient:signal  grow]  result [agent:transmitter  action:transmit  unified]
+Natural:  Because the signal grew, the transmitter transmitted successfully.
+```
+
+**Notes:**
+- **The boundary analysis:** `go [lo-si  be]` is a standard subordinate cause clause.
+  It closes when `du` appears — `du` is a matrix-level frame word, not a
+  clause-internal particle. The parser recognizes `du` as the boundary of the `go`
+  clause and opens the result clause. `du [la-ka-si-mu  ka-si  ru]` then closes at
+  end-of-utterance (silence / sentence boundary).
+- **There is no missing matrix clause.** The full utterance *is* the biclausal
+  coordination: `go [X]  du [Y]` is a complete proposition — "X is cause, Y is result."
+  No outer sentence is needed. The assertion is the causal relationship itself.
+- **The abbreviated form and the full form make the same claim at different lexical
+  resolution.** The abbreviated form collapses both clauses into noun compounds; the
+  full form expands them. Both are grammatically complete.
+- The full form is adopted as the **formal register** of the construction. The
+  abbreviated form is the **casual/compact register** (preferred when context
+  is established).
+- `ka-si-mu` = action-signal-artifact = transmitter. Compositional.
+  `ka-si  ru` = transmit-unified = transmit successfully (manner: `ru`).
+
+---
+
+**S170 — Conditional with explicit consequence** *(P-GP-003-B)*
+
+*Target: "If the archive decays, knowledge is lost."*
+
+```
+Gloss:    go [lo-to-su-mu  de]  du [lo-to-su  de]
+Literal:  cause [patient:archive  decay]  result [patient:organized-knowledge  decay]
+Natural:  If the archive decays, organized knowledge decays.
+```
+
+**Notes:**
+- Classic conditional: the `go [...]` premise is a posited (not asserted) condition;
+  `du [...]` is the consequence that would follow. No outer matrix needed.
+- Both clauses have their own `lo`-patient and `de` predicate. Each clause is
+  structurally complete. The two are bound by the `go ... du` coordination, not by
+  grammatical subordination to an outer sentence.
+- **`to-su-mu` vs `to-su`:** the archive (`to-su-mu` = knowledge-structure-artifact
+  = storage device for organized knowledge) decays physically; what is lost is the
+  organized knowledge itself (`to-su`). The compound distinction is doing real semantic
+  work: device-decay ≠ knowledge-decay, but the former causes the latter.
+- This is the canonical form for general conditionals in Tonesu: `go [condition]  du [consequence]`.
+
+---
+
+**S171 — Multi-agent biclausal action** *(P-GP-003-C)*
+
+*Target: "Because the engineer repaired it, the system recovered."*
+
+```
+Gloss:    go [la-su-mu-li  lo-mu  ka-de-be]  du [lo-su  be]
+Literal:  cause [agent:engineer  patient:device  action:repair]  result [patient:structure  grow]
+Natural:  Because the engineer repaired the device, the system recovered.
+```
+
+**Notes:**
+- Both clauses have full participant structure: cause-clause has `la`, `lo`, `ka`;
+  result-clause has `lo`, predicate. No ellipsis required.
+- **Confirmation of the boundary rule:** `du` signals the end of the `go`-clause and
+  opens the result clause. The result clause terminates at sentence boundary. No additional
+  boundary marker is needed.
+- `ka-de-be` = action:repair (action + decay-then-grow, W035). First use of `ca-de-be`
+  in the cause-slot of a `go [...]` clause.
+- `lo-su  be` = patient:structure  grow = the system recovers. Bare `su` (structure)
+  as a nominalized patient — the system/organization as a whole recovers.
+
+---
+
+### P-GP-003 Verdict
+
+**`go [CAUSE-CLAUSE]  du [RESULT-CLAUSE]` is grammatically complete and legal.**
+No outer matrix clause is required. The coordination itself is the full assertion.
+
+**Boundary rule (extended from Subordinate Clauses):**
+> The `go`-clause extends from `go` through the clause material and terminates when
+> `du` is encountered. `du` is a matrix-level frame word; it cannot appear inside a
+> `go`-clause.
+> The `du`-clause extends from `du` through the clause material and terminates at
+> sentence boundary or the next matrix-level frame word.
+
+**Two registers:**
+
+| Register | Form | Use |
+|----------|------|-----|
+| Formal / full | `go [full cause clause]  du [full result clause]` | new topics, technical or legal prose, where participant resolution matters |
+| Compact / casual | `go-[cause-compound]  du-[result-compound]` | established context, conversational, abbreviated reporting |
+
+**`du` is now a full clause introducer**, parallel to `go` and `wi`. It introduces the
+result clause; the result is bounded by sentence boundary. `du` does not require an
+outer matrix: the `go...du` pairing is itself a complete biclausal proposition.
+
+**Grammar status:** Formalized in spec/grammar.md § Causal Frame (extended).
+
+**P-GP-003 status:** CLOSED.
