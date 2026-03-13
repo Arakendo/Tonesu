@@ -1383,13 +1383,12 @@ Notes:        The foundational institutional entity of the Concordian epistemic 
               a `to-fe-li` cannot distinguish deliberate deflation (`to-fe-ka`) from
               legitimate conservative epistemic judgment — both look like "I assessed the
               threshold as unmet." See notes/open-questions.md: manufactured-doubt problem.
-              WATCH: the publication-state gap. There is currently no distinction between
-              a `to-fe-su` ruling that is internal (adopted by the body) and one that has
-              been published to `to-su` status (openly challengeable). An internal-but-not-
-              published standard is unchallengeable — institutional capture by another name.
-              Candidate: `to-fe-su-ki` (inchoative = the moment a standards rule enters
-              published to-su status) vs bare `to-fe-su` (the body / unpublished ruleset).
-              Do not register the distinction until corpus demands it.
+              NOTE (resolved, March 2026): `to-fe-su-ki` (W097) is the inchoative form —
+              the moment a standards ruling enters published `to-su` status (openly
+              challengeable). Bare `to-fe-su` = the body itself / any unpublished internal
+              standard. An internal-but-unpublished standard is unchallengeable —
+              institutional capture by another name. The distinction is now registered; see
+              W097. First attested in corpus at S128 (CF-001-C).
               ALSO NOTE: `to-fe-su` is self-applying: its own rules must themselves be
               published to `to-su` status to be legitimately binding (the self-legitimation
               principle from notes/semantic-map.md § Domain 6).
@@ -1922,6 +1921,37 @@ Notes:        Concordian `re` as a primitive (repetition is ontologically basic)
               what cycles; `fa-re` = the whole substrate pattern is cycling regardless
               of its specific content.
 Related:      fa (affective substrate), re (repetition/cycle), to-ko (W027)
+
+---
+
+**W097**
+Form:         to-fe-su-ki
+Composition:  to-fe-su (W072, epistemic standards body/code) + ki (motion/becoming)
+Gloss:        publication event / standards-rule entering to-su status
+Definition:   The inchoative event of an epistemic standards ruling crossing from internal
+              adoption into published `to-su` status — openly challengeable by any party.
+              Bare `to-fe-su` names the body or its unpublished internal standards;
+              `to-fe-su-ki` names the specific event/state-transition: the moment the
+              standard becomes public and adjudicable. An internal ruling that has not
+              undergone `to-fe-su-ki` is unchallengeable; one that has is subject to the
+              normal epistemic-accountability framework.
+              This distinction resolves the institutional-capture problem: a standards body
+              can only bind others with rules that have passed through `to-fe-su-ki`. The
+              self-applying principle holds: `to-fe-su`'s own operating rules must themselves
+              undergo `to-fe-su-ki` to be legitimately binding (see notes/semantic-map.md
+              § Domain 6, binding principle).
+Type:         inchoative / event
+Class:        event / process
+Register:     formal / institutional
+Domain:       knowledge / institutions / ethics
+Status:       active
+First use:    S128 (CF-001-C): `to-go [lo-to-re-su  to-fe-su-ki  ti-de]  lo-ne-fe  de
+              ti-de` — "If the doctrine had been published, the dispute would have been
+              resolved." Also S131 (CF-001-F): same construction, confirmed.
+Notes:        Flagged as a candidate at W072 registration. Corpus demand satisfied: S128
+              and S131 both use the form before it was registered — retroactive first-use
+              assignment.
+Related:      to-fe-su (W072), ki (becoming/motion), to-su (organized knowledge), to-fe-li (W032)
 
 ---
 

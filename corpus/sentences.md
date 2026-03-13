@@ -5030,8 +5030,10 @@ distinction is carried by internal time-marking:
 - `to-go [lo-X  de  ti-de]  lo-Y  pa-ki  ti-de` = past counterfactual ("if X had failed, Y would have drifted")
 `to-go` marks the non-actuality axis; `ti-de` marks the temporal axis. Two-axis separation is clean.
 
-**CF-001 status:** Design path identified and verified across three domains. Grammar
-spec section to be written. Compound `to-go` to be registered.
+**CF-001 status:** COMPLETE. Grammar spec written: spec/grammar.md § Counterfactual Frame.
+W089 `to-go` registered in derived.md. Social domain Path C attested S155; attributed
+form attested S156. Future hypothetical (minimal contrast with S130) attested S157.
+`to-fe-su-ki` registered as W097 (first attested S128/S131).
 
 ---
 
@@ -5146,6 +5148,137 @@ both are available to the same speaker in adjacent clauses (S132). The three-sta
 pipeline (`se → fa → to`) can stall at `fa-no-to  lo-go` and remain a well-formed
 discourse move (S134). The agentive/agentless contrast (`ka-ne-de` vs bare `ne-mi  de`)
 falls out of existing grammar without new machinery (S132 vs S133).
+
+---
+
+## CF-001 Completion: Social Domain Path C + Future Hypothetical (S155–S157)
+
+**Purpose:** Close three remaining gaps from the CF-001 diagnostic:
+1. The social-domain Path C sentence was only sketched ("apply mentally") in the CF-001
+   verdict — never committed as a proper corpus entry.
+2. The attributed counterfactual form (`la-X  to  [to-go [X]  Y]`) was described and
+   specified in the verdict but has no corpus attestation.
+3. The future hypothetical (`to-go` without `ti-de`) was illustrated in the spec but
+   never in corpus — meaning the two-axis independence claim rests solely on examples
+   in the grammar spec, not corpus sentences.
+
+All three gaps resolved here. No new grammar or compounds introduced.
+
+---
+
+**S155 — Social domain Path C: bare counterfactual** *(CF-001-G)*
+
+"If she had received the signal, she would have warned the crew."
+
+```
+Gloss:    to-go [la-zo-li  se  lo-si  ti-de]  la-zo-li  ka  fe-si  lo-li-pu  ti-de
+Literal:  hypothetical-causal  [agent:person  detects  patient:signal  past]
+                                 agent:person  performs  warning-signal  to:crew  past
+Natural:  Counterfactually: given that the person had received the signal, she would
+          have issued the warning to the crew.
+```
+
+**Notes:**
+- The social-domain Path C sentence sketched in the CF-001 verdict (`to-go [lo-zo-li
+  se  lo-si  ti-de]  la-zo-li  ka  fe-si  lo-li-pu  ti-de`) is committed here with one
+  correction: premise uses `la-zo-li` (perspective-anchor agent) not `lo-zo-li`
+  (patient-marker), consistent with all other `se`-perception clauses in corpus.
+- Direct comparison with S127 (Path A version of same event):
+  - S127: `la-mi  to  [go [lo-zo-li  se  lo-si  ti-de]  la-zo-li  ka  fe-si  lo-li-pu  ti-de]`
+  - S155: `to-go [la-zo-li  se  lo-si  ti-de]  la-zo-li  ka  fe-si  lo-li-pu  ti-de`
+  The result clause is identical. The only structural difference is the removal of
+  `la-mi  to  [go [...]]` and the substitution of `to-go` as the outer frame. S155
+  requires no speaker; S127 requires `la-mi` as the mandatory attributor.
+- Cross-domain generalization complete: S130 (engineering), S131 (institutional),
+  S155 (social). `to-go [X]  Y` works domain-independently, as the CF-001 verdict
+  asserted.
+- `li-pu` = crew/collective. `lo-li-pu` = to:the-crew (recipient marked as patient).
+  `fe-si` = W024 (warning signal). `zo-li` = organism-person (gender-neutral third party).
+
+---
+
+**S156 — Social domain: attributed counterfactual** *(CF-001-H)*
+
+"The investigation body holds: counterfactually, if she had received the signal, she
+would have warned the crew."
+
+```
+Gloss:    la-to-fe-su  to  [to-go [la-zo-li  se  lo-si  ti-de]
+                             la-zo-li  ka  fe-si  lo-li-pu  ti-de]
+Literal:  agent:epistemic-standards-body  holds-model
+          [hypothetical-causal  [agent:person  detects  signal  past]
+                                  agent:person  performs  warning  to:crew  past]
+Natural:  The investigation body asserts as its model: had the person received the
+          signal, she would have issued the warning to the crew.
+```
+
+**Notes:**
+- First corpus attestation of the attributed counterfactual form:
+  `la-X  to  [to-go [premise]  result]`. The embedded proposition is S155; the outer
+  clause assigns epistemic ownership to `to-fe-su` (the epistemic standards/investigation
+  body, W072) rather than the speaker (`la-mi`).
+- This resolves the S127 illocutionary-weight problem directly. The CF-001 verdict
+  diagnosed S127's defect: in a post-incident investigation report, the counterfactual
+  claim belongs to the *inquiry body*, not to a private speaker's personal model. S156
+  uses `la-to-fe-su  to  [...]` — the investigation body owns the claim.
+- Force distinction, now corpus-attested:
+  | Construction | Force |
+  |---|---|
+  | `to-go [X]  Y` (S155) | bare counterfactual — no thinker asserted |
+  | `la-mi  to  [to-go [X]  Y]` (S127 Path A variant) | speaker's personal counterfactual model |
+  | `la-to-fe-su  to  [to-go [X]  Y]` (S156) | institutional counterfactual assertion |
+- Path A (`la-X  to  [...]`) continues to function, but the wrapper is now wrapping
+  `to-go [...]` rather than `go [...]`. The attributed form is Path A wrapping Path C —
+  exactly as the CF-001 verdict specified.
+
+---
+
+**S157 — Future hypothetical: minimal contrast with S130** *(CF-001-I)*
+
+"If the engine were to fail, the ship would drift."
+
+```
+Gloss:    to-go [lo-ra-ki-mu  de]  lo-ki-pa-mu  pa-ki
+Literal:  hypothetical-causal  [patient:engine  decays]  patient:ship  drifts
+Natural:  Were the engine to fail, the ship would drift. — Future hypothetical.
+```
+
+**Notes:**
+- Minimal contrast pair with S130 (past counterfactual):
+  - S130: `to-go [lo-ra-ki-mu  de  ti-de]  lo-ki-pa-mu  pa-ki  ti-de` — past; `ti-de` in
+    both premise and result
+  - S157: `to-go [lo-ra-ki-mu  de]  lo-ki-pa-mu  pa-ki` — future hypothetical; no `ti-de`
+  The frame marker `to-go` is identical. The only difference is time-marking inside the
+  clauses. The actuality-axis (`to-go`) and the temporal-axis (`ti-de`) are independent.
+- This provides the corpus evidence for the two-axis design claim that previously only
+  had spec-level illustration. `to-go` is now attested for both the past-counterfactual
+  and future-hypothetical readings.
+- The untensed/unmarked form is prospective (future-open) by default: `lo-ra-ki-mu  de`
+  = engine decays [in the hypothetical scenario, prospectively], with no time-location
+  asserted.
+- S157 is also the minimal engineering-domain future hypothetical — appropriate for
+  safety analysis: "if X were to fail under future operating conditions, Y would follow."
+
+---
+
+### CF-001 Final Status
+
+**All CF-001 corpus work complete.**
+
+| Code | Sentence | Construction | Status |
+|------|----------|-------------|--------|
+| CF-001-A | S126 | Path A, engineering | ✓ |
+| CF-001-B | S127 | Path A, social (problem case) | ✓ |
+| CF-001-C | S128 | Path A, institutional (worst case) | ✓ |
+| CF-001-D | S129 | Path B, bare `to` (rejected) | ✓ |
+| CF-001-E | S130 | Path C, engineering — past counterfactual | ✓ |
+| CF-001-F | S131 | Path C, institutional — past counterfactual | ✓ |
+| CF-001-G | S155 | Path C, social — past counterfactual | ✓ |
+| CF-001-H | S156 | Path A wrapping Path C — attributed counterfactual | ✓ |
+| CF-001-I | S157 | Path C, future hypothetical | ✓ |
+
+**Open follow-on:** MG-001 (model-domain frame — multi-sentence counterfactual scope).
+See notes/open-questions.md § MG-001.
 
 ---
 
