@@ -378,6 +378,60 @@ This precision likely produces a culture that is philosophically sophisticated a
 
 ---
 
+#### Hidden Property E: Model-reality stratification — the language has two ontological layers
+
+Tonesu did not design a distinction between world and model. It inherited one from the primitive set: `su` (structure in the world) and `to` (conceptual pattern / model) are separate roots from the start. The consequence is that the language has **two ontological layers** with an explicit boundary between them, and the epistemic pipeline runs from world to model in one direction.
+
+```
+WORLD LAYER          su  (physical/organizational structure)
+                     ↑ perception pipeline
+PERCEPTION           se → si → to
+                     ↑ (bottom layer: raw event)
+EVENTS               ki, ka, be, de, go
+─────────────────────────────────────────
+MODEL LAYER          to  (conceptual pattern / interpreted model)
+                     to-su  (organized knowledge)
+                     to-go  (hypothetical causal model)
+                     to-fe  (epistemic threshold / knowledge boundary)
+                     to-ko  (retained knowledge / memory)
+```
+
+The pipeline flows one way. You can move from `se` toward `to`; but `to` does not automatically update `su`. Models can be wrong; structures just are. This is not the same as epistemological skepticism — the world layer exists and is accessible to perception — it is an ontological commitment that **knowing** something is a different category of fact from **the thing existing**.
+
+**The three causal levels** (observed after CF-001):
+
+| Form | Domain | Meaning |
+|------|--------|---------|
+| `go [X]  Y` | world | X causes Y (real-world causal assertion) |
+| `to-go [X]  Y` | model | in the hypothetical model, X entails Y (model causation; non-actual) |
+| `la-X  to  [to-go [X]  Y]` | epistemic | agent X asserts the counterfactual model |
+
+This is a stratified causal ontology: physical causation, model causation, and attributed causal claim are formally distinct. English uses the same causal vocabulary for all three. Tonesu separates them.
+
+**The model grammar subsystem** (all built without new primitives):
+
+| Form | Meaning |
+|------|---------|
+| `to` | conceptual model / interpreted pattern |
+| `to-su` (W013) | organized body of knowledge |
+| `to-fe` (W028) | epistemic threshold (required evidence for promotion) |
+| `to-ko` (W006) | retained knowledge / memory |
+| `to-si` (W026) | query signal (reaching toward knowledge) |
+| `to-go` (W089) | hypothetical causal frame (model causation) |
+
+This subsystem coheres as a complete architecture for reasoning about knowledge. The language has grown a philosophy of science vocabulary from two roots (`to` and the available compound space) without deliberate design.
+
+**Why Path A felt wrong for counterfactuals** (the CF-001 diagnostic made this precise):  
+`la-mi  to  [go [...]]` = "I assert the model." That is an epistemic action by a person.  
+`to-go [X]  Y` = "in the model, the causal chain holds." That is a description of a model.  
+The first introduces a *speaker stance* where none is needed. The distinction maps exactly onto the model/epistemic stratification: model-truth (`to-go`) and attributed-model-truth (`la-X  to  [to-go]`) are semantically distinct operations.
+
+**What this means for Concordian intellectual culture:** The layered structure supports scientific reasoning in the technical sense — the ability to reason *about* models as objects, separately from reasoning about the world. A Concordian speaker can say "in the model, X causes Y" (`to-go [X]  Y`) without claiming X causes Y in reality, and can attribute the model to an assertion-holder (`la-X  to  [to-go [X]  Y]`) without claiming the model is correct. All three levels are grammatically distinguishable without any new primitives.
+
+**Open pressure:** the model layer currently has no explicit *frame-setter* for discourse about a model. You can assert `to-go [X]  Y` (a single counterfactual), but you cannot yet open a discourse scope with "speaking within the model of the reactor..." or "according to the theory..." as a sustained frame. This appeared naturally in the CF-001 diagnostic but was deferred. See Open Questions.
+
+---
+
 ### Domain 7: Emotional and Experiential States
 
 **Design decision (locked, March 2026):** Tonesu does not use emotional primitive roots. Concordian culture frames emotional states as reportable system diagnostics — processual descriptions of internal state transitions — rather than as primitive expressive acts. See spec/principles.md § 9.
@@ -447,3 +501,4 @@ This reuse is not incidental — it reflects a genuine ontological commitment: *
 - [ ] **`vo` subdivision.** The consolidation `vo` = beauty + worth + ethical value + quality may be too coarse for Concordia's precision culture. Should `vo` remain monolithic or eventually split into `vo-se` (sensory quality/beauty), `vo-li` (agent-relative ethical worth), `vo-su` (systematic/objective value measure)? Do not split until corpus produces a sentence where the ambiguity is load-bearing.
 - [ ] **`re` and aspect.** If repetition is primitive, does it interact with tense/aspect to produce habitual or iterative aspect grammatically? E.g., `re-ka-be` = habitually builds vs. `ka-be` = built (once). Resolve when tense/aspect phonology is finalized.
 - [ ] **False-`re` as an error class.** Is claiming `re` where the pattern is superficial (false analogy) a registered epistemic error category? Candidate: `re-fe-ka` (claiming pattern-identity across a boundary that doesn't actually hold). Do not register until corpus evidence.
+- [ ] **Model-domain frame — sustained model-space discourse.** CF-001 established `to-go [X]  Y` for single counterfactual assertions. But discourse sometimes requires a sustained frame: "speaking within the reactor model..." or "according to the failure analysis..." — a scope that covers multiple sentences, not a single conditional. The language currently has no way to open a model-domain scope without re-asserting `to-go` on every sentence. Candidate: bare `to [model-name  begins]` as a discourse-frame opener, closed by returning to actuality-marked utterances. Do not formalize until a corpus conversation or multi-sentence analysis requires it. Watch.
