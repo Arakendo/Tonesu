@@ -1374,3 +1374,61 @@ Natural:  The transit grid has a topological structure.
 **Batch conclusion:** All five X-X compounds parse consistently using ordinary head-final compounding. No new grammatical mechanism is needed. The meta-level reading is a natural consequence of head-final structure when modifier = head. The quality of the X-X reading is entirely dependent on the precision of the base primitive — `se-se` is the sharpest illustration: the narrow spec definition of `se` directly constrains `se-se` to sensor self-monitoring, blocking the "methodology" overreach. The spec precision is load-bearing.
 
 **Not yet formalized.** Two open items must be resolved before X-X is written into word-formation.md: (1) the `-to` suffix / `to-` compound head collision (logged in open-questions); (2) a second corpus round testing contrastive X-X vs X-Y pairs in the same domain to confirm the meta-level reading is stable against compound alternatives.
+
+---
+
+## Compound Grouping Test (S045)
+
+**Purpose:** Verify that the proposed apostrophe grouping marker `'` earns its weight — i.e., that a genuine ambiguity arises from plain hyphenated chains once the X-X meta pattern is established, and that `'` resolves it to two distinct, non-equivalent readings.
+
+---
+
+**S045 — Compound grouping disambiguation** *(T-APO-001)*
+
+*Target: "The standards adjudicator operates through [a formal method / an engineering doctrine]."*
+*Purpose: three-way comparison — ungrouped (ambiguous), and two distinct grouped readings.*
+
+**Attempt A — ungrouped:**
+
+```
+Gloss:    la-to-fe-li  wi  to-to-se-ma-ka
+Literal:  agent:concept-boundary-person  intends  concept-concept-perception-matter-action
+Natural:  The standards adjudicator operates through [???].
+```
+
+Ambiguous. Default right-branching gives Parse C; X-X recognition gives Parse B. A reader cannot determine which is intended.
+
+---
+
+**Attempt B — `to-to'se-ma-ka` (X-X applied to inspection):**
+
+```
+Gloss:    la-to-fe-li  wi  to-to'se-ma-ka
+Parse:    [to-to] + [se-ma-ka]
+Literal:  agent:concept-boundary-person  intends  [meta-concept][observation-of-material-work]
+Natural:  The standards adjudicator operates by applying formal theory to material inspection.
+```
+
+`to-to` = meta-concept / abstraction (X-X, attested S040). `se-ma-ka` = observation of material action = inspection of physical work. The `'` marks `se-ma-ka` as a pre-bound unit; the X-X compound modifies it as a whole. Reading: **active and procedural** — abstraction being used as a tool on a specific domain.
+
+---
+
+**Attempt C — `to'to-se-ma-ka` (outer concept wrapping theory of inspection):**
+
+```
+Gloss:    la-to-fe-li  wi  to'to-se-ma-ka
+Parse:    to + [to-se-ma-ka]
+Literal:  agent:concept-boundary-person  intends  [concept-of][theory-of-inspection]
+Natural:  The standards adjudicator operates per the engineering verification doctrine.
+```
+
+`to-se-ma-ka` = conceptual framework for inspecting material work = engineering verification theory / doctrine. The outer `to` nominalizes it as a conceptual object: a specific established framework being cited. Reading: **referential and doctrinal** — the authority invokes a named body of method.
+
+---
+
+**Notes:**
+- **The ambiguity is real.** Without X-X, `to-to-se-ma-ka` reads by pure right-branching as Attempt C. Once X-X = meta-concept is an established pattern (S040–S044), the first two `to`s draw the eye as a unit and Attempt B becomes an equally valid parse. Ungrouped Attempt A is genuinely ambiguous after S040.
+- **B ≠ C in Concordian formal register.** B = a procedure being actively performed (a method). C = a doctrine being cited (a named framework). In institutional contexts where `to-fe-li` figures operate, this distinction determines how a claim is classified — method vs. authority.
+- **`'` directionality rule used here is consistent:** `'` marks the left boundary of a subcompound. `A-B'C-D` = plain chain `[A-B]` modifies pre-bound unit `[C-D]`. `A'B-C-D` = single modifier `A` attaches to pre-bound unit `[B-C-D]`. Both directions attested in one sentence set.
+- **Phonological status of `'` unresolved.** See open-questions.md. Whether the two readings are also phonologically distinct depends on that resolution.
+- **T-APO-001 verdict: `'` earns its weight.** The ungrouped form is genuinely ambiguous post-S040. The two grouped forms are unambiguous, non-equivalent in meaning, and compositionally transparent.
