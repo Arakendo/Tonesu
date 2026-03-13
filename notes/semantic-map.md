@@ -366,6 +366,36 @@ This precision likely produces a culture that is philosophically sophisticated a
 
 ---
 
+## Discourse-Level Emergence
+
+Following C001–C004, the language has crossed from sentence-grammar into discourse grammar. The distinction matters: sentence grammar rules describe how words combine within an utterance; discourse grammar rules describe how utterances combine across turns.
+
+**Four discourse-layer systems now active in Tonesu:**
+
+| System | Corpus evidence | Status |
+|--------|----------------|--------|
+| Argument omission rules | Imperative `la-tu` drop (S019, C001, C002, C004), speaker drop `la-mi` (C001 B3), discourse-context drop (C001 A2b) | Three distinct omission environments confirmed; likely collapse to a general topic-drop rule eventually |
+| Epistemic stance marking | `la-[speaker]  [epistemic-root]  [prop]` attested C001 A3, C004 B1; `la-[process]  be  [prop]` attested C004 A2 | Two epistemic framing strategies: person-based and process-based |
+| Dialogue confirmation strategies | Action-commit (C001 B3), echo-restate (C003 B1), institutional routing (C004 A3) | Three strategies, none using a bare "yes" — language appears action-confirmation oriented |
+| Question construction | Content question via `to-si` (C001 B1), polar question via `to-si` fronting (C003 A1) | `to-si` is load-bearing for all inquiry types; polar/content distinction unresolved |
+
+**Boundary ontology generalization** (noted by Monday after C001):  
+`fe` (boundary/limit) systematically extends across domains:  
+- Physical limit → `fe` (primitive)  
+- Epistemic threshold → `to-fe` (W028)  
+- Temporal deadline → `ti-fe` (W037)  
+- Energetic extent → `ra-ki-fe` (unregistered, available)  
+- Ethical constraint → `wi-fe` (unregistered, available)  
+
+This reuse is not incidental — it reflects a genuine ontological commitment: **limits are limits, regardless of domain.** The same boundary-crossing vocabulary (`fe-ki` = reach a limit, `no-fe` = below the threshold, `fe-si` W024 = warning signal at a boundary) applies uniformly. This is one of the language's most coherent structural choices.
+
+**Grammar pressures introduced by discourse that sentence-grammar could not show:**  
+- P-QM-001: polar question marker (see open-questions.md)  
+- P-AF-001: minimal affirmative particle (see open-questions.md)  
+- P-GP-001: `vo`/`ru` predication slot (see open-questions.md, from S028–S031)  
+
+---
+
 ## Open Questions
 
 - [ ] `to` appears in both Structure and Mind clusters — should it split into two roots?

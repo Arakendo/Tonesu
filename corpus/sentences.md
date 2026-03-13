@@ -684,6 +684,271 @@ Natural:  Understood.
 
 ---
 
+**C002 — Technical coordination: relay failure**
+
+*Scene: Two engineers on different platforms. A is live at the relay installation; B is directing remotely.*
+
+*Tests: imperative × 2, diagnostic state-change loop (detect → examine → identify → repair → confirm), `lo-X  state` copula × 3, `ru`/`no-ru` as predicate quality on a non-person entity (first device-quality predication).*
+
+---
+
+**Turn A1**
+
+```
+Gloss:    lo-si-mu  no-ru
+Literal:  patient:relay  not-unified
+Natural:  The relay is unstable.
+```
+
+**Notes:**
+- `si-mu` = signal-artifact = relay device / transceiver. Registered as W039.
+- `no-ru` = negate-unity = incoherent / unstable. First use of `no-` on a quality root (previous: `no-de` S030). `no-` is now confirmed as a productive negation prefix on quality and process roots alike.
+- `lo-X  quality` with a device in the patient slot — confirms quality predication works on non-person entities. Extends the copula-by-juxtaposition pattern to artifact subjects.
+
+---
+
+**Turn B1**
+
+```
+Gloss:    ka-se  lo-si-su-mu
+Literal:  action:examine  patient:signal-structure-artifact
+Natural:  Examine the antenna array. [Imperative — `la-tu` dropped]
+```
+
+**Notes:**
+- `si-su-mu` = signal-structure-artifact = antenna array / receiving installation. Transparent compound; not registered separately.
+- Third imperative in corpus (`la-tu` drop confirmed pattern): S019 B, C001 A3, C002 B1Imperative now occurs both in formal instruction (S019) and in live technical direction. Register is the same.
+
+---
+
+**Turn A2**
+
+```
+Gloss:    lo-ne-mu  de
+Literal:  patient:connection-artifact  decayed
+Natural:  The connector is broken.
+```
+
+**Notes:**
+- `ne-mu` = relation-artifact = physical connector / coupling component. Transparent; not registered separately.
+- Bare `de` predication on an artifact — the connector has undergone non-intentional deterioration. Consistent with all prior `de` uses.
+
+---
+
+**Turn B2**
+
+```
+Gloss:    ka-de-be  lo-ne-mu
+Literal:  action:repair  patient:connection-artifact
+Natural:  Repair the connector. [Imperative]
+```
+
+**Notes:**
+- `de-be` (W035) used in imperative for the first time. Previously appeared only in declarative contexts. Works cleanly: the directive is to perform `de-be` on the patient.
+
+---
+
+**Turn A3**
+
+```
+Gloss:    lo-si-mu  ru  ta-now
+Literal:  patient:relay  unified  time:now
+Natural:  The relay is stable now.
+```
+
+**Notes:**
+- `lo-si-mu  ru  ta-now` closes the loop from A1. State has changed from `no-ru` → `ru`. `ta-now` marks the resolution as present-moment. First time a sentence directly inverts a previous one within the same conversation.
+- `ru` as predicate quality on a device: this is the affirmative twin of C002 A1's `no-ru`. Both confirm P-GP-001 territory: quality roots (`ru`, `no-ru`, `vo`) predicated on the patient via juxtaposition.
+
+---
+
+**C002 Gaps and pressures:**
+
+| Gap | Location | Status |
+|-----|----------|--------|
+| `no-` productivity on quality roots | A1 `no-ru` | Pattern confirmed — `no-de`, `no-ru`, `no-fe` all attested across S030/C002/C004; may be a general negation prefix |
+| Device-quality copula | A1, A3 | Extends `lo-X  state` to artifact subjects — no new rule needed, confirms pattern breadth |
+
+---
+
+**C003 — Casual social: travel question**
+
+*Scene: Two non-engineers in everyday context. A asks about travel plans.*
+
+*Tests: FIRST YES/NO QUESTION IN CORPUS (C003 A1 — critical gap), echo-confirmation as first-person restatement (no affirmative particle), `ta-ti-be` first proximate-future time reference, purpose clause in casual register.*
+
+*Grammar pressure: C003 A1 is the first sentence in the corpus that requires distinguishing a question from a statement in writing. This is the trigger for P-QM-001 (polar question marker). C003 B1 is the first conversation response that would normally use "yes" — it avoids it via echo-confirmation, triggering P-AF-001 (minimal affirmative particle).*
+
+---
+
+**Turn A1**
+
+```
+Gloss:    to-si  —  la-tu  ki  pa-li-pu  ta-ti-be
+Literal:  knowledge-inquiry — agent:you  motion  place:city  time:next-time
+Natural:  Are you going to the city soon?
+```
+
+**Notes:**
+- `to-si` (W026) redeployed as a POLAR question marker. Prior use in C001 B1: content question ("what kind of damage?" — unknown argument). Here: yes/no question (unknown truth-value of complete proposition). Same surface form, different logical scope.
+- Structural difference: in content questions, `to-si` fronts a proposition with a gap where the unknown argument sits (`to-si  [damage:___?]`). In polar questions, `to-si` fronts a complete well-formed proposition (`to-si  [la-tu  ki  pa-li-pu]`) with the truth value itself as the unknown. Both are semantically coherent under `to-si` = "seeking information." Whether this fully resolves or just defers the question depends on whether corpus eventually produces an ambiguous case. See P-QM-001.
+- `ta-ti-be` = time:next-time = proximate future / tomorrow / soon. `ti` (time) + `be` (grow/come) = an upcoming time interval. Registered as W040. First calendrical / temporal reference compound not using an English placeholder gloss.
+- The dash after `to-si` marks a pragmatic boundary: the inquiry frame (`to-si`) sets the mode, then the full proposition follows. This is the same boundary behavior as other clause-framing particles.
+
+---
+
+**Turn B1**
+
+```
+Gloss:    la-mi  ki  pa-li-pu  ta-ti-be
+Literal:  agent:I  motion  place:city  time:next-time
+Natural:  I'm going to the city soon.
+```
+
+**Notes:**
+- **Echo-confirmation**. B restates the proposition from B's own agent position rather than using a bare affirmative. The question's proposition (`la-tu  ki  pa-li-pu  ta-ti-be`) is answered by replacing `la-tu` (agent:you) with `la-mi` (agent:I) and repeating. "Yes" in Tonesu is currently: "I do the thing you asked about."
+- This is the same confirmation strategy as C001 B3 (`ka-to-su-ki` + `ka-ki-now`)  — agreement through action-commitment — but now in its minimal form: restate the claim from oneself. C001 used action-compounds to confirm; C003 B1 uses the proposition's own structure. Two echo-confirmation strategies now in corpus.
+- Gap: the echo is unambiguous here because `la-tu` → `la-mi` is a clean substitution. In more complex propositions, full echo may be syntactically heavy. The pressure toward a minimal `[affirm]` particle grows. See P-AF-001.
+
+---
+
+**Turn A2**
+
+```
+Gloss:    lo-ma-su  be-now  pa-ze
+Literal:  patient:water-structure  present/growing  place:there
+Natural:  A new water facility is there now.
+```
+
+**Notes:**
+- `ma-su` = matter-structure = water facility / material processing system. Transparent compound; not registered separately. `ma` (matter) + `su` (structure/organize) = a system that organizes material. Applicable to water treatment, filtration, reservoir management.
+- `be-now` used as presence/existence predicate: the facility is actively there and operational. Consistent with `be` as "grow/exist" in predicate position.
+- `pa-ze` = place:there = at that place. First use of `ze` (3rd-person/inanimate) in the location particle frame. `pa-ze` = location of the contextually established place (the city). Economy of reference: the city was established in A1; `ze` stands in without repeating `li-pu`.
+
+---
+
+**Turn B2**
+
+```
+Gloss:    la-mi  wi [ka-se  lo-ze]
+Literal:  agent:I  intention [action:examine  patient:it]
+Natural:  I intend to go see it.
+```
+
+**Notes:**
+- Purpose clause (`wi [clause]`) in casual register. C001's purpose clauses were obligation/instruction; this one is personal intention. Confirms `wi` is not register-restricted.
+- `ka-se  lo-ze` = examine/perceive it. `se` (perceive) as the verb content of the action. B intends to go look at the new facility. Simple and clean; the purpose clause carries the full meaning without a separate "go" verb because going is implied by the intention-toward.
+- Agent of `wi` clause: inherited as `la-mi` per the agent-inheritance rule. 7th corpus confirmation.
+
+---
+
+**C003 Gaps and pressures:**
+
+| Gap | Location | Status |
+|-----|----------|--------|
+| **Polar question marker (P-QM-001)** | A1 | Critical — `to-si` pressed into service for both content and polar questions. Works semantically but creates ambiguity with complex propositions. A dedicated polar marker (e.g., rising-particle or question-final morpheme) may be needed within 20–30 more sentences. |
+| **Minimal affirmative (P-AF-001)** | B1 | Echo-confirmation valid but verbose. Two strategies in corpus (action-commit C001, echo-restate C003); neither is a bare "yes." Pressure toward minimal particle grows with each conversation. |
+| `ta-ti-be` future reference | A1 | First real future time reference without English placeholder gloss. `ti-be` (W040) works; related expressions (`ti-de` = past time? `ti-re-be` = next cycle?) not yet tested. |
+
+---
+
+**C004 — Disagreement: disputed damage assessment**
+
+*Scene: Two engineers have both examined the same unit (following C002 pattern). They disagree on its status.*
+
+*Tests: FIRST DIRECT EPISTEMIC CONTRAST between two speakers (different epistemic levels on the same proposition), `la-[process]  be  [embedded-proposition]` as new evidential frame (examination as epistemic agent), `no-fe` first use, institutional routing as dialogue resolution.*
+
+---
+
+**Turn A1**
+
+```
+Gloss:    lo-mu  de
+Literal:  patient:machine  decayed
+Natural:  The unit is damaged.
+```
+
+**Notes:**
+- Bare unhedged assertion. No epistemic marker. A is asserting at the `to` level implicitly: "this is known, I'm not qualifying it." This is the default unmodified register.
+- Short form — the confident claim is also the economical one. Length correlates with uncertainty in Tonesu.
+
+---
+
+**Turn B1**
+
+```
+Gloss:    la-mi  si  [lo-mu  be-now]
+Literal:  agent:I  [signal-level]  [patient:machine  exists/functions-now]
+Natural:  I assess: the machine is still operating.
+```
+
+**Notes:**
+- **First direct epistemic contrast in corpus.** A1 makes a bare `to`-level (unmarked = assumed certain) assertion. B1 explicitly marks `si`-level (signal/inference level — not direct perception, not certain knowledge). The two speakers are at architecturally different epistemic positions about the same entity.
+- This is the first corpus test of Monday's proposed full epistemic ladder (`se` → `si` → `to`). The `si` marker is working exactly as predicted: B has a signal-level assessment, not a to-level certainty. The contrast is immediate and crisp.
+- `lo-mu  be-now` = the machine currently functions/exists. `be` as "is present and operational." This is the second corpus use of `be` as an existence predicate (first: C003 A2). Pattern tentatively confirmed: `be` can carry "is still present/operational" meaning in patient-predicate position.
+- Second corpus use of utterance-level epistemic modal (`la-[speaker]  [epistemic-root]  [embedded-prop]`). First was C001 A3 (`la-mi  si  [fe-ki-now]`). Pattern appears twice, different speakers, same structure. Ready to formalize in spec/grammar.md.
+
+---
+
+**Turn A2**
+
+```
+Gloss:    la-se-ka  be  [lo-mu  de]
+Literal:  agent:examination  produces/records  [patient:machine  decayed]
+Natural:  The examination produces the finding: the machine has decayed.
+```
+
+**Notes:**
+- **New evidential frame: process as epistemic agent.** `la-se-ka` = agent:examination. An examination process (`se-ka`, W034) occupies the `la` slot and produces (`be`) an embedded propositionas its output. This extends the epistemic agent pattern beyond persons: not just "I assess" but "the process produces [result]."
+- `be` with embedded proposition: `la-X  be  [proposition]` = "X generates/produces [proposition as finding]". First use of `be` with a clausal complement. The embedded `[lo-mu  de]` is the finding.
+- This is an important new construction: the examination is not a person, but it occupies the agent-epistemic position fully. This aligns with Concordian institutional epistemology — the validity of a claim comes from the process, not just the person. The process is the agent; its output is the proposition.
+- A is now escalating: A1 was personal assertion; A2 is impersonal institutional evidence. The claim hasn't changed but the grounding has shifted from personal to procedural.
+
+---
+
+**Turn B2**
+
+```
+Gloss:    lo-de  no-fe  —  lo-mu  be-now
+Literal:  patient:decay  not-at-boundary — patient:machine  functions-now
+Natural:  The decay has not reached the limit. The machine still functions.
+```
+
+**Notes:**
+- `no-fe` = negate-boundary = has not crossed the threshold. Third `no-` compound: `no-de` (S030), `no-ru` (C002 A1), `no-fe` (C004 B2). Pattern is now robust enough to note: `no-` functions as a productive negation prefix across process roots (`de`), quality roots (`ru`), and boundary terms (`fe`). Likely works on any primitive root.
+- B is making a quantitative threshold argument: the decay exists (B doesn't deny it), but hasn't reached `fe` (the limit/boundary). This uses the boundary ontology (`fe`) as a diagnostic threshold — the question isn't whether decay is present but whether it's reached significance.
+- Coordinate clauses separated by dash. Third dash-separation in corpus (C001 A2 used mid-sentence dash; S028 attempt used it; C004 B2 uses it in full discourse). Two short propositions that together form B's rebuttal.
+- The disagreement is now fully engaged: A says decay (de); B says decay present but below threshold (de + no-fe). Neither is lying or misperceiving — they're at different threshold assessments. This is a `to-fe` (epistemic boundary) dispute in practice.
+
+---
+
+**Turn A3**
+
+```
+Gloss:    la-tu  ka-si  lo-li-su-li  lo-ze
+Literal:  [you]  action:signal  patient:coordinator  relation:it
+Natural:  Signal the coordinator about it. [Imperative]
+```
+
+**Notes:**
+- A does not concede. A does not double down. A routes the dispute to institutional process: the coordinator (`li-su-li`, W001) will adjudicate.
+- `lo-ze` in the `ne`-adjacent (relation) position means "about it" / "regarding it" — the object of the signal is not just the coordinator but the matter at hand. First use of `lo-ze` as a relational argument after a direct object.
+- This is the institutional resolution pattern the Concordian design anticipates: when two persons disagree on epistemic status, neither gets to win by assertion — the process decides. A3 enacts this rather than states it.
+- **Fifth imperative in corpus** (S019 B, C001 A3, C002 B1, C002 B2, C004 A3). Imperative is now robust enough to be considered a fully verified construction.
+
+---
+
+**C004 Gaps and pressures:**
+
+| Gap | Location | Status |
+|-----|----------|--------|
+| `la-[process]  be  [proposition]` evidential frame | A2 | New pattern — process as epistemic agent producing a propositional finding. Needs a formal rule. How does the embedded proposition bind? Is the `be` here the same `be` as "grow/produce"? |
+| `lo-X  be-now` existence predicate | B1, A2 | `be` used as "is still functioning/present" in predicate position. Pattern appears in C003 A2 and C004 B1 — two corpus instances. Tentatively confirmed; related to copula-by-juxtaposition family. |
+| Utterance-level epistemic modal formalization | B1 | Two corpus cases now (`la-mi si [prop]` in C001 A3 and C004 B1). Ready to formalize in spec/grammar.md. |
+| `no-` as universal negation prefix | B2 | Three compounds: `no-de`, `no-ru`, `no-fe`. Ready to declare: `no-` + [root] = the negation/absence of that root in any slot. |
+
+---
+
 ## Primitive Property Tests
 
 These sentences directly exercise the four hidden properties identified in notes/semantic-map.md § Hidden Properties. Each one is designed to stress-test a specific structural commitment.

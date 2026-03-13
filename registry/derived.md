@@ -563,6 +563,66 @@ Related:      ra (primitive: energy/force), ki (primitive: motion), ra-ki-mu (W0
 
 ---
 
+**W039**
+```
+Form:         si-mu
+Type:         compound
+Class:        entity
+Definition:   relay device; signal transceiver; any artifact whose primary function is to
+              receive, process, and retransmit a signal. Covers radio relays, network nodes,
+              signal repeaters, and communication transceivers.
+Composition:  si (signal/information) + mu (artifact) — the artifact whose defining function
+              is signal-handling. Head-final: mu (artifact) is the head; si specifies the
+              functional type of device.
+Register:     standard
+Domain:       communication / infrastructure
+Status:       proposed
+Examples:     "lo-si-mu  no-ru" — the relay is unstable (C002 A1)
+              "lo-si-mu  ru  ta-now" — the relay is stable now (C002 A3)
+Notes:        si-mu is the minimal form (relay/transceiver). Extend with additional root:
+                si-mu-su = signal infrastructure (a relay network / organized array of devices)
+                si-su-mu = signal-structure-artifact = antenna array (structural installation;
+                           see C002 B1 — not separately registered, transparent)
+              Contrast to-ki-mu (W011: transmission device that processes knowledge/queries)
+              vs si-mu (relay device that transmits raw signal without semantic processing).
+              The distinction matters: a si-mu relays; a to-ki-mu reasons over the signal.
+Related:      si (primitive: signal), mu (primitive: artifact), to-ki-mu (W011),
+              si-ki (W023: a transmitted signal in motion), si-ne-ki (W021: a broadcast/propagation)
+```
+
+---
+
+**W040**
+```
+Form:         ti-be
+Type:         compound
+Class:        time reference
+Definition:   proximate future; next time; upcoming; tomorrow (or equivalent near-future
+              interval in context). The time period immediately ahead of the present moment.
+Composition:  ti (time) + be (grow/come) — time that is coming; the growing/approaching
+              time interval. Head-final: ti (time) is the head; be specifies the directional
+              relationship (approaching, not yet here, will arrive). Contrast: ti-de (time
+              that has passed — past interval; not yet registered but derivationally available).
+Register:     standard / casual
+Domain:       temporal reference
+Status:       proposed
+Examples:     "ta-ti-be" — at/in the next-time = tomorrow / soon (C003 A1, B1)
+Notes:        ti-be is used in the `ta` (temporal) particle frame: ta-ti-be = "at the
+              upcoming time." The unit implied (day, season, cycle) is context-dependent.
+              In casual usage, ta-ti-be typically means "tomorrow"; in planning contexts,
+              it may mean "in the upcoming cycle/period."
+              Related temporal compounds available but not yet registered:
+                ti-de  = past time / the time that has decayed (yesterday / prior period)
+                ti-re  = recurring time / habitual time (= re-ti, W029 precursor, see S029)
+                ti-fe  = time-limit / deadline (W037 — already registered)
+              The full time reference system: ti-de (past) | ta-now (present) | ti-be (near future).
+              Long-range future: wi-ti (intended-time = scheduled/planned time); unregistered.
+Related:      ti (primitive: time), be (primitive: growth/coming), ti-fe (W037: deadline),
+              ta (particle: temporal frame)
+```
+
+---
+
 ## Communities and Places
 
 **W036**
