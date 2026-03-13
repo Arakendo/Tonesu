@@ -256,6 +256,8 @@ If Concordia distinguishes `to-fe-ki` (honest epistemic error) from `to-fe-ka` (
 
 **Institutional implication:** The body or framework within which `to-fe-li` operate would be `to-fe-su` (epistemic code / standards framework) — as yet unregistered. Register when corpus work produces a sentence that requires the institution, not just the agent.
 
+**`to-fe-su` is structurally load-bearing, not optional:** The `to-fe-li` role can only adjudicate deflation charges objectively if `to-fe-su` defines epistemic promotion thresholds as a procedure. Without it, every deflation dispute collapses into "I judged the evidence insufficient" vs. "I say it was sufficient" — a stalemate, not an adjudicable charge. Deflation `to-fe-ka` can only be distinguished from legitimate conservative epistemic judgment (not a violation) if a procedural standard exists for what counts as sufficient evidence for `to-su` promotion. `to-fe-su` is what converts subjective threshold judgments into objective ones. The manufactured-doubt defense ("I was skeptical") fails when the standards body has certified that the threshold was met. See notes/open-questions.md.
+
 **Connection to evidentiality (open question):** `to-fe-li` have the strongest functional need for evidential markers. Adjudicating a claim requires specifying *how* the arbiter established the true epistemic status. A `to-fe-li` who determines that a claim was `se` rather than `to` must be able to say: I established this by direct perception (`se-ro`), by received signal (`si-ro`), or by inference (`to-ro`). This is the clearest use case for evidentiality — and the reason the question should be left open until a corpus sentence involving adjudication makes the need concrete.
 
 ---
