@@ -85,20 +85,20 @@ A robot that acts with intention is `mu + li`. An animal is `zo`. A human is `zo
 
 **Process model (explicit):**
 
-`ki` is narrowed to physical or positional motion only. General transformation is handled by compounding. `be` and `de` cover directed change (increase/decrease). A candidate root `ce` (transformation / state change) is flagged for evaluation if compounding proves insufficient.
+`ki` is narrowed to physical or positional motion only. General transformation is handled by compounding. `be` and `de` cover directed change (increase/decrease).
 
 | Root | Gloss | Includes | Excludes |
 |------|-------|----------|---------|
-| `ki` | motion | physical movement, displacement, travel | transformation, change of state, growth — those use `be`/`de` or `ce` |
+| `ki` | motion | physical movement, displacement, travel | transformation, change of state, growth — those use `be`/`de` compounds |
 | `ka` | intentional action | deliberate acts, operations, exertion of will | passive or involuntary processes |
 | `be` | growth / increase | building up, generation, emergence, gain | reduction, destruction, motion without change |
 | `de` | decay / decrease | breaking down, ending, entropy, loss | growth, construction |
 
-*Candidate root pending evaluation:*
+*Candidate root evaluated and rejected:*
 
 | Root | Gloss | Notes |
 |------|-------|-------|
-| `ce` | transformation / state change | for qualitative change that is neither motion nor growth/decay — e.g. melting, freezing, conversion. Add only if `ki+be`/`ki+de` compounds prove ambiguous. |
+| ~~`ce`~~ | ~~transformation / state change~~ | **Rejected — phonologically illegal.** `c` is excluded from the consonant inventory (see spec/phonology.md). Semantic need assessed: qualitative state change (`be`/`de` compounds and `ki`-compounds cover the space without ambiguity). No valid replacement form proposed; no corpus pressure identified. Closed. |
 
 ---
 
@@ -237,7 +237,7 @@ These concepts must be expressible using only existing primitives. If a construc
 - [ ] Does `to` need to split? Current model: `to` = all conceptual pattern including knowledge. Risk: overload. Split candidate: `to` = thought/pattern, new root = stored/retrieved knowledge. **Do not split until corpus forces it — probably after ~100 more sentences.**
 - [ ] Should `ra` (energy) cover information energy or remain strictly physical? Currently excluded from `si`/`to` scope.
 - [ ] Phonetic cluster `se`/`so`/`si`: evaluate whether all three survive at normal speech speed or whether one needs reassignment.
-- [ ] Evaluate candidate root `ce` (transformation/state change) after first corpus sentences are written.
+- [x] ~~Evaluate candidate root `ce` (transformation/state change) after first corpus sentences are written.~~ **Rejected — `c` is not in the consonant inventory (spec/phonology.md). Phonological gate failure; closed.**
 - [ ] Update all references from `plu` → `pu` across spec and corpus files.
 - [ ] **Need / functional dependency — resolved by compound `ne-fe` (S058).** `lo-zo-li  ne-fe  ma` = "the person is in a dependency-condition toward substance." State predication confirmed; no new primitive required. Register `ne-fe` as a stable compound for dependency/requirement conditions.
 - [ ] **Static state / copula — slow-pressure watch.** No primitive for "X is in condition Y" without invoking change (`be`/`de`) or evaluation (`vo`). Currently handled by juxtaposition predicates (`lo-X  state`) and P-GP-001 copula patterns. Likely becomes explicit pressure after ~100–200 corpus sentences. Do not add root prematurely — monitor whether grammar formalizes the copula pattern first.
