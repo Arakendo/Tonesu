@@ -274,6 +274,98 @@ Concordian constitutional consequence: power does not come from hierarchy or sec
 
 ---
 
+## Emergent Cultural Orientation
+
+Languages with clean ontologies produce emergent cultural properties. These are not designed — they are consequences of the category commitments made when the primitives were chosen. The ones below emerge from Tonesu's structure without any deliberate intent.
+
+Many of Monday's proposed properties are already partially captured in the Domains above. This section records the full picture systematically, cross-references what is already documented, and adds the observations that are new.
+
+### Already documented in the Domains
+
+| Property | Basis | Location |
+|----------|-------|----------|
+| Accountability culture — causal responsibility is linguistically foregrounded | `ka` / `be` / `de` split forces speaker to specify intentionality of every event | Domain 2: Deliberateness of Change |
+| Knowledge pipeline thinking — knowledge as developmental stages | `se → si → to → to-su → to-ko` epistemic ladder | Domain 1: Epistemic States |
+| Boundary ethics / safety culture — risk as limit-proximity | `fe` consolidates all boundary types | Domain 4: Limits and Thresholds |
+| Agency clarity — biology and intentionality are orthogonal | `zo` / `li` / `mu+li` separation | Domain 3: Agency Ontology |
+| Institutions around knowledge — vocabulary implies epistemic governance | `to-fe-li` / `to-fe-su` emerge from the epistemic ladder | Domain 6: Epistemic Accountability Roles |
+| Conflict as peer review — disputes are category-level, not assertion-level | `to-fe-ka` / `to-fe-ki` / `to-fe-li` frame arguments as epistemic classification | Domain 6 |
+| System naming culture — formal compounds vs. colloquial compression | `to-ki-mu` → `to-ko` compression pattern | spec/morphology.md § Casual Register |
+
+### New properties (not yet documented)
+
+**Event-based worldview.** Relations are expressed as processes (`ne-ki` = become-connected) rather than static states. The inchoative slot (`ROOT + ki`) converts every quality into a transition event. A Concordian speaker does not say "they are connected" — they say "connection occurred." The implication: stability is a *result* that is maintained, not a default state that persists. Systems are always either consolidating or dissolving. Rest is a special case of motion. This shapes how Concordia thinks about infrastructure, institutions, and relationships: they are all things that must be actively sustained, not things that simply exist.
+
+**Repair mindset.** The primitives emphasize processes (`ki`, `ka`, `be`, `de`), structures (`su`, `fe`, `ne`), and transitions — not terminal states. English asks "who broke this?" Concordian structure pushes toward "where did the process cross the boundary?" (`fe`), and then "how do we reverse the decay?" (`de-be`). Blame-assignment is structurally harder than root-cause analysis. This is not a moral claim; it is a grammatical affordance.
+
+**Clear but slightly austere register.** The precision investment (epistemic status, agency, causation, thresholds) comes at a cost: the categories that get *consolidated* — sensation modalities (`se` covers all senses), evaluative nuance (one root `vo`), aesthetic registers — are exactly the vocabulary that expressive and poetic registers rely on. Concordian speech will be precise where accountability is in play and relatively sparse where purely emotional or aesthetic expression is needed. This is not a deficiency; it is a reflection of priorities. The language can grow in those directions through compounding — but the primitives do not bias toward them.
+
+---
+
+### Hidden Properties in the Primitive Root Set
+
+These four properties are not obvious from individual roots but emerge from the *structure* of the root set as a whole.
+
+---
+
+#### Hidden Property A: Bilateral causation
+
+Most languages have a causal *relation* — a particle or construction that links cause to effect. Tonesu went further: `go` (cause/origin) and `du` (result/effect) are *both primitive*. They are separate ontological categories, not a single causal relation.
+
+The consequence: every causal event has two obligatory slots. You can name a cause without naming the result (`go [X]`) — but the grammar is then incomplete in a way that invites completion. Similarly, naming a result invites the question of what `go` produced it.
+
+This creates what might be called **double-entry causation**: a culture where naming a cause without tracing its result, or naming a state without asking what produced it, feels like an incomplete account. Post-incident reports are not supplementary — they are the natural completion of every sentence that names a cause. Impact analysis is not an extra step — it is what `du` is waiting for.
+
+The corpus already confirms this: S011, S013, and S027 all use `go`/`du` framing not as explicit causal particles but as the default way to structure explanations. The bilateral structure emerges naturally.
+
+---
+
+#### Hidden Property B: Repetition is ontologically primitive
+
+`re` (repetition/cycle) could have been derived — "the same thing in sequence" = `ti + ru + ki` or similar. It was not derived; it is primitive. This is a commitment: pattern-identity across time is a *fundamental* category, not something you infer from sequences of events.
+
+What this means: when a Concordian observes a pattern — the same failure mode appearing again, the same political maneuver being used, the same cycle in a system — they are not doing secondary reasoning ("I notice X has occurred repeatedly"). They are naming a primitive ontological fact: `re`.
+
+Cultural consequence: **historical pattern recognition is native**, not a specialized skill. A civilization that treats repetition as primitive will develop strong historiography, institutional memory, and cycle-awareness. Process improvement isn't "we should learn from mistakes" — it's a natural response to naming that the pattern `re` is present. Conversely, false analogies — claiming `re` where the pattern is superficial — become a specific recognizable error (a species of `to-fe-ka` applied to time).
+
+The `re` primitive also sets up a future distinction between `ti` (time as sequence) and `re` (the recurrence of pattern within time) that most natural languages conflate. Concordia can ask "is this the same thing happening again, or merely the next event in a sequence?" as a grammatically natural question.
+
+---
+
+#### Hidden Property C: Value is irreducible
+
+`vo` (value/quality) cannot be defined in terms of utility (`mu-ki`), scarcity (`nu + de`), survival advantage (`zo-be`), social consensus (`li-ne-to`), or any other compound. It is a primitive. The language treats evaluative facts as a fundamental category.
+
+This is a form of **built-in value realism**: the claim that things genuinely have evaluative properties that are not derived from other facts. A Concordian speaker who says "this has high vo" or "ka-vo-de" (deliberate destruction of value) is making an ontological commitment that cannot be dissolved into pragmatics.
+
+The consequence: ethical discourse in Concordia cannot be easily dismissed as "just subjective opinion" or "just social preference." You can argue about what `vo` a thing has — but arguing that `vo` doesn't exist as a category is like arguing that `ma` (matter) doesn't exist. The language doesn't support that move.
+
+This is especially significant paired with Domain 2 (Deliberateness): `ka-vo-de` (intentionally destroying value) is a grammatically coherent claim that carries the same accountability weight as `ka-de` (intentionally causing decay). The moral and the causal use the same framework.
+
+What `vo` consolidates that English distinguishes: beauty, worth, ethical value, quality, intensity. These are all `vo` in Tonesu. Whether that consolidation was wise — or whether Concordia will eventually need `vo-se` (perceived quality), `vo-li` (ethical value, agent-dependent), and `vo-su` (objective systematic worth) — is an open question.
+
+---
+
+#### Hidden Property D: Unity and plurality are qualitative, not quantitative
+
+The quantity cluster has three primitives: `nu` (quantity — how much, measurable), `ru` (unity — one-ness as a qualitative property), `pu` (plurality — many-ness as a collective property).
+
+Most languages that have quantity vocabulary treat "one" as just `nu = 1` and "many" as `nu > 1`. Tonesu separated the qualitative dimension (wholeness, coherence, collectivity) from the quantitative dimension (count, measure). This means:
+
+- `ru-su` = a *unified* system (coherent as a whole) ≠ `nu-su = 1` (there is one structure; count of one)
+- `li-pu` = a *collective* of persons (social collectivity) ≠ `nu-li = 12` (twelve people; count)
+
+The individual-collective tension — the fundamental tension of political philosophy — is built into the primitive set at the ontological level, not left to emerge from political vocabulary. **Concordia has a native, philosophically precise vocabulary for cohesion and fragmentation.**
+
+Practical consequences:
+- "The network is unified" (`ne-su-ru`) is a different claim from "there is one network" — the former asserts coherence, the latter asserts count
+- "The community" (`li-pu`) is a qualitative collective entity with emergent properties; not merely "many li"
+- Arguments about whether something is truly `ru` (a single coherent thing) vs. merely `nu = 1` (one thing by count) become natural and important — relevant to institutions, composite systems, political bodies
+
+This precision likely produces a culture that is philosophically sophisticated about collective identity: when does a group of people become a community? when does a collection of components become a system? These are `ru`/`pu` vs. `nu` questions, and they are primitive enough to be asked fluently.
+
+---
+
 ## Open Questions
 
 - [ ] `to` appears in both Structure and Mind clusters — should it split into two roots?
@@ -281,3 +373,6 @@ Concordian constitutional consequence: power does not come from hierarchy or sec
 - [ ] "Time" (`ti`) and "sequence" — are these one root or two?
 - [ ] Does "space" (`pa`) cover abstract topology (e.g. mathematical space) or only physical location?
 - [x] ~~Review `plu` — three-letter root is inconsistent with CV/CVC constraint~~ → **Resolved:** replaced with `pu`. See registry/primitives.md.
+- [ ] **`vo` subdivision.** The consolidation `vo` = beauty + worth + ethical value + quality may be too coarse for Concordia's precision culture. Should `vo` remain monolithic or eventually split into `vo-se` (sensory quality/beauty), `vo-li` (agent-relative ethical worth), `vo-su` (systematic/objective value measure)? Do not split until corpus produces a sentence where the ambiguity is load-bearing.
+- [ ] **`re` and aspect.** If repetition is primitive, does it interact with tense/aspect to produce habitual or iterative aspect grammatically? E.g., `re-ka-be` = habitually builds vs. `ka-be` = built (once). Resolve when tense/aspect phonology is finalized.
+- [ ] **False-`re` as an error class.** Is claiming `re` where the pattern is superficial (false analogy) a registered epistemic error category? Candidate: `re-fe-ka` (claiming pattern-identity across a boundary that doesn't actually hold). Do not register until corpus evidence.
