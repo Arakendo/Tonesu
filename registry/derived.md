@@ -1738,6 +1738,47 @@ Related:      pa (place), ki (motion), ki-pa (W049), ki-mu (motion artifact)
 
 ---
 
+**W088**
+Form:         pa-wi
+Composition:  pa (place/space) + wi (will/intention) — intentional place
+Gloss:        destination / target location / intended place
+Definition:   The place toward which an agent or entity is directed by intention or
+              design. Not merely a location (`pa`) but a location that has been willed or
+              designated as a target. In motion predicates: `la-X  ki  lo-pa-wi` = X moves
+              toward its destination. Distinct from a simple waypoint (a place passed
+              through) in that `pa-wi` is the terminal point of an intended trajectory.
+First use:    S126 (CF-001-A): "the ship would have reached its destination."
+Notes:        Head-final: `wi` (intent/will) is head; `pa` specifies the subject of the
+              intention as spatial — an intended place. Contrast with `wi-pa` (which would
+              be "intentional space" = the domain of will, not a specific target location).
+Related:      pa (place), wi (intention), ki (motion), pa-ki (W087)
+
+---
+
+**W089**
+Form:         to-go
+Composition:  to (conceptual pattern) + go (cause/origin) — conceptual causal frame
+Gloss:        hypothetical-causal frame / counterfactual conditional marker
+Definition:   A compound **frame marker** (not a content word) that extends the causal
+              conditional frame `go [X]  Y` into non-actual space. `to-go [X]  Y` asserts
+              that IF [X] obtained (non-actual premise), THEN [Y] would follow (non-actual
+              result). The `to-` modifier lifts the entire causal frame out of actuality-
+              assertion into the conceptual/hypothetical domain.
+              Classification: `to-go` functions structural like `go` and `du` — as a
+              frame-level particle — not like a lexical compound. See spec/grammar.md
+              § Counterfactual Frame for full grammatical definition and examples.
+First use:    S130 (CF-001-E): "if the engine had failed, the ship would have drifted."
+Notes:        Two-axis design: `to-go` marks non-actuality; `ti-de` markers inside clause
+              mark past-time location. These are independent.
+              - Future hypothetical: `to-go [lo-X  de]  result`
+              - Past counterfactual: `to-go [lo-X  de  ti-de]  result  ti-de`
+              Attributed form: `la-X  to  [to-go [premise]  result]` = X holds the
+              counterfactual as their own epistemic model (used in on-record assertions).
+Related:      go (causal frame, W-grammar), du (result frame), to (conceptual pattern),
+              go [X] Y construction (spec/grammar.md § Causal Frame)
+
+---
+
 - [x] ~~Resolve whether compound forms use hyphens in writing or run together~~ → Resolved: solid spelling is canonical; hyphens are analytic notation only. See spec/word-formation.md § Written Form.
 - [ ] Review W002 (su-mu-li) — does it conflict with the derivational marker stack order?
 - [ ] Develop domain-specific sub-lists once domains are finalized (see ontology/domains.md)

@@ -4728,3 +4728,307 @@ dispositional capability cleanly in current corpus use cases.
 - `ra-ma` (energy-matter = fuel)
 - `ki-pa-mu` (motion-place-artifact = vehicle/spacecraft)
 - `pa-ki` (place-motion = spatial drift/uncontrolled movement)
+
+---
+
+## CF-001 Diagnostic: Counterfactual Mini-Batch (S126–S131)
+
+**Purpose:** Three design paths were proposed for expressing past counterfactuals (S125,
+CF-001). This batch runs each path against three domains — engineering, social, and
+institutional — to determine which strategy is grammatically viable, cross-domain stable,
+and consistent with Tonesu's existing architecture.
+
+**Three paths under examination:**
+- **Path A** — epistemic wrapper: `la-X  to  [go [NON-ACTUAL-PREMISE]  RESULT]`
+- **Path B** — bare `to` as impersonal hypothetical frame: `to [go [X]  Y]`
+- **Path C** — compound hypothetical-causal frame marker: `to-go [X]  Y`
+
+**New compound introduced this batch:**
+- `pa-wi` = place-will = destination (the intended/targeted place)
+
+---
+
+### Path A — Epistemic wrapper across three domains (S126–S128)
+
+---
+
+**S126 — Engineering: "If the engine hadn't failed, the ship would have reached its destination."** *(CF-001-A)*
+
+```
+Gloss:    la-mi  to  [go [lo-ra-ki-mu  no-de  ti-de]  la-ki-pa-mu  ki  lo-pa-wi  ti-de]
+Literal:  agent:I  hold-model  [cause:[patient:engine  no-decay  past-time]
+                                 agent:vehicle  moves  patient:destination  past-time]
+Natural:  My conceptual model: given no engine failure, the ship would have reached its
+          destination.
+```
+
+**Notes:**
+- `pa-wi` = place-will = destination. Head-final: `wi` (will/intent) is head; `pa`
+  (place) modifies it as an intentional place — the place one is heading toward. First
+  use; compound candidate (W088).
+- `la-ki-pa-mu  ki  lo-pa-wi` = the vehicle moves [toward] its destination. `lo-pa-wi`
+  in the patient slot encodes the goal-state of movement: the motion event terminates at
+  the destination. The goal-as-patient construction is not yet explicit in spec; it works
+  by analogy with change-of-state constructions where the result of a process is in the
+  patient slot.
+- `no-de  ti-de` = no-decay at past-time = the decay event did not occur in the past.
+  `no-de` as a compound predicate means "failure did not happen." The premise is
+  non-actual: in reality the engine DID fail; the hypothetical premise inverts this.
+- **Path A — what it achieves:** The counterfactual is comprehensible and complete.
+  The `la-mi  to  [...]` framing marks the scenario as a conceptual model held by the
+  speaker. The non-actuality of the premise is implied by the framing: if the premise
+  were actual, no epistemic wrapper would be needed — a bare factual conditional would
+  suffice.
+- **Path A — what it costs:**
+  1. *Mandatory first-person stance-holder (`la-mi`).* The speaker necessarily claims
+     personal ownership of the counterfactual model. For a historian, investigator, or
+     narrator writing about someone else's past, the natural form would instead require
+     `la-to-fe-li  to  [...]` (the investigators hold...) or `la-[narrator]  to  [...]`
+     — always an explicit attributor. This reflects Concordian epistemic culture: every
+     claim is attributed. But it converts a non-actual conditional into an attributed
+     assertion, which has a different illocutionary weight.
+  2. *Epistemic weight mismatch.* `la-mi  to  [prop]` = "I hold [prop] at knowledge
+     level" — this asserts claim-strength. Counterfactuals in most discourse contexts
+     don't assert anything about the speaker's epistemic state; they assert a causal
+     relationship while flagging the premise as non-actual. Path A imports `to`'s
+     epistemic force inappropriately.
+  3. *No structural separation of non-actuality and causal claim.* The non-actuality of
+     the premise is implied only by inference from the epistemic wrapper — not marked
+     on the conditional itself. A reader must infer: "why is this inside `to [...]`?
+     Because the premise is non-actual." This is indirect.
+
+---
+
+**S127 — Social domain: "If she had received the signal, she would have warned the crew."** *(CF-001-B)*
+
+```
+Gloss:    la-mi  to  [go [lo-zo-li  se  lo-si  ti-de]  la-zo-li  ka  fe-si  lo-li-pu  ti-de]
+Literal:  agent:I  hold-model  [cause:[patient:person  perceives  patient:signal  past]
+                                 agent:person  performs  warning-signal  to:collective  past]
+Natural:  My conceptual model: given the person having perceived the signal, she would have
+          issued a warning to the crew.
+```
+
+**Notes:**
+- `li-pu` = plural-person = crew/collective. `lo-li-pu` = patient:collective = directed
+  to the crew. The `lo-` particle on the recipient argument of `ka  fe-si` marks the
+  crew as both patient and target of the warning action.
+- `fe-si` = W024, warning signal — the content of the transmitted signal.
+- **Path A — social domain problem exposed:** The counterfactual here is not primarily
+  about the speaker's epistemic model — it is an assertion about what would have happened
+  in a third-party situation. But `la-mi  to  [...]` makes it a first-person epistemic
+  claim: "I believe/model that..." A historian writing this investigation report is not
+  inserting their personal model — they are reporting a counterfactual finding. The
+  natural Concordian form would attribute this differently: to the investigation body,
+  not the speaker. Path A structurally conflates reasoning-about-the-world with claiming-
+  about-oneself. The language cannot write an anonymous counterfactual historical
+  assertion — every counterfactual carries its thinker.
+- **Cultural note:** This may not be a bug. Concordian epistemic culture insists that
+  all claims have attributors. An "anonymous" counterfactual assertion — one that makes
+  a claim about what would have happened with no stated epistemic owner — is potentially
+  a species of decontextualized authority claim. The language may be deliberately
+  forcing the question: *who* is asserting this counterfactual? But this implies that
+  counterfactuals in Concordian discourse are always testimony, not neutral logic.
+
+---
+
+**S128 — Institutional domain: "If the doctrine had been published, the dispute would have been resolved."** *(CF-001-C)*
+
+```
+Gloss:    la-mi  to  [go [lo-to-re-su  to-fe-su-ki  ti-de]  lo-ne-fe  de  ti-de]
+Literal:  agent:I  hold-model  [cause:[patient:doctrine  publication-event  past]
+                                 patient:relational-tension  dissolves  past]
+Natural:  My conceptual model: given [the doctrine having been published], the relational
+          tension would have dissolved.
+```
+
+**Notes:**
+- `to-re-su` = W064 (standing doctrine/policy). `to-fe-su-ki` = the inchoative
+  publication event: the doctrine crosses the epistemic threshold to published `to-su`
+  status. From semantic-map.md § Domain 6. Not yet in derived.md — compound candidate
+  (add alongside `pa-wi` W088).
+- `lo-ne-fe  de  ti-de` = patient:relational-tension dissolves at past-time = the
+  dispute was resolved. `de` (decay) as predicate on the tension: the tension dissolved.
+  Clean and compositionally transparent.
+- **Path A — institutional domain: worst case.** The sentence now asserts "I, the
+  speaker, hold as my conceptual model that the institutional causal chain would have
+  produced this outcome." In formal institutional discourse — an arbitration ruling, a
+  post-incident analysis, a legal brief — this personal framing (`la-mi`) is the wrong
+  register entirely. The statement belongs to an investigation body, not a private mind.
+  The institutional counterfactual assertion needs a third party as attributor, an
+  institutional voice, not a personal first-person claim.
+- **Path A verdict:** The epistemic wrapper strategy works the best in personal
+  reasoning contexts (S126 — the speaker reflecting on a situation they witnessed).
+  It degrades in social testimony contexts (S127 — historical claim about third
+  parties) and is structurally misaligned with institutional discourse (S128 — an
+  arbiter's counterfactual analysis). The problem is not that Path A is wrong; it is
+  that it is too strong — it collapses "I hold this as a personal model" with "this
+  is an assertion about what would have happened." These should be distinguishable.
+
+---
+
+### Path B — Bare `to` as hypothetical frame-setter (S129)
+
+---
+
+**S129 — Engineering: bare `to [scenario]` without a stance-holder** *(CF-001-D)*
+
+```
+Gloss:    to [go [lo-ra-ki-mu  de  ti-de]  lo-ki-pa-mu  pa-ki  ti-de]
+Literal:  conceptual  [cause:[patient:engine  decays  past]  patient:ship  drifts  past]
+Natural:  In the conceptual/hypothetical domain: if the engine had failed, the ship would
+          have drifted.
+```
+
+**Notes:**
+- **Grammar move attempted:** `to` in the frame-setter role — the entire bracketed
+  scenario is marked as non-actual/conceptual. No stance-holder (`la-X`) is named.
+  The `to [...]` construction claims: "this is a conceptual scenario, not an asserted
+  fact." Parallel to how `go [X]` introduces a causal frame without naming the
+  causal agent: `go` sets the frame, and the internal clause fills it. By analogy,
+  `to [scenario]` would set a hypothetical frame without naming a thinker.
+- **Grammatical question: is `to` licensed as an impersonal frame-setter?** All
+  current corpus attestations of `to` require a `la-X` agent: `la-mi  to  [prop]` =
+  "I hold [prop] as knowledge." The bare form `to [prop]` with no agent would require
+  argument-drop — the "thinker" is left unspecified. Tonesu permits argument-drop
+  in established contexts (speaker-drop `la-mi`, topic-drop, imperative-drop `la-tu`).
+  This would be a new drop environment: *thinker-drop* in epistemic frame constructions.
+- **Does `to [X  Y]` internally disambiguate from predicate `to`?** Yes, structurally.
+  When `to` is a predicate, it takes a proposition as argument: `la-X  to  [prop]`.
+  Bare `to [full-scenario-with-internal-clause-structure]` is distinguishable from a
+  predicate use because (a) there is no `la-X` opening agent, and (b) the bracketed
+  argument contains a full causal chain (`go [clause]  result`) — not a noun or simple
+  state. A parser would read bare `to [go [...] ...]` as a frame-setter, not as a
+  headless predicate. The structure is available.
+- **Path B verdict:** Grammatically accessible through argument-drop, but requires
+  formalizing a new drop environment (thinker-drop from epistemic frame). The resulting
+  construction reads well but has a subtle problem: `to [X]` with no thinker still
+  *implies* a thinker (the discourse-domain speaker). It suppresses the thinker without
+  eliminating the epistemic weight. The non-actuality of the premise comes from
+  inference ("this is in the conceptual domain, therefore it isn't being asserted as
+  factual") rather than from explicit marking. This is weaker than desired — it marks
+  the *register* as hypothetical but not the *premise* as non-actual. Useful as a
+  register device; insufficient as a grammatical counterfactual marker.
+
+---
+
+### Path C — Compound hypothetical-causal frame marker `to-go` (S130–S131)
+
+---
+
+**S130 — Engineering: `to-go [X]  Y` compound frame marker** *(CF-001-E)*
+
+```
+Gloss:    to-go [lo-ra-ki-mu  de  ti-de]  lo-ki-pa-mu  pa-ki  ti-de
+Literal:  hypothetical-causal  [engine  decays  past]  ship  drifts  past
+Natural:  Counterfactually: if the engine had failed, the ship would have drifted.
+```
+
+**Notes:**
+- `to-go` = conceptual-causal = hypothetical-causal frame marker. Head-final: `go`
+  (cause/origin) is the head — this IS a causal/conditional frame; `to` (conceptual
+  pattern) modifies it as hypothetical/non-actual. The compound marks the entire
+  conditional structure as non-actual: premise is non-actual, result is non-actual,
+  the causal link between them is being asserted.
+- **The structural operation:** `to-go [X]  Y` is to `go [X]  Y` as a compound
+  hypothetical-frame is to an actuality-neutral conditional. The `to-` prefix lifts
+  the causal frame out of actuality-assertion and into conceptual/hypothetical space.
+  `go [X]  Y` can be read as present, future, or general conditional (actuality-neutral
+  but not explicitly non-actual). `to-go [X]  Y` explicitly asserts non-actuality:
+  "the causal chain [X → Y] is held in the conceptual domain, not the actual one."
+- **Advantages:**
+  - *No stance-holder required.* The counterfactual is not attributed to any speaker;
+    it is an assertion about a causal relationship in non-actual space. The thinker is
+    absent in the same way the causal agent is absent from `go [X]  Y`: the frame sets
+    the relation, not the attributor.
+  - *Compositionally grounded.* `to-go` uses only existing roots with their established
+    meanings. A reader who knows `to` (conceptual/pattern) and `go` (cause/conditional
+    frame) can parse `to-go` without a glossary entry.
+  - *Extends the existing frame paradigm cleanly.* The frame inventory already includes
+    `go`, `du`, `wi` as clause-level frame markers. `to-go` is one new compound in the
+    same paradigm, not a new category.
+  - *Marks non-actuality on the frame, not on the premise.* The non-actuality is a
+    property of the conditional structure itself, not of a time-expression or negation
+    inside the premise. This is the right level: a counterfactual is non-actual as a
+    whole, not just non-actual in the premise.
+- **Disadvantages:**
+  - *Introduces a new compound frame marker into the grammar.* This must be explicitly
+    registered. It is not a derived word in the usual sense — it functions like `go` as
+    a structural particle, not like `ra-ki-mu` (a lexical compound). Its status
+    (grammar rule vs. derived form) needs definition.
+  - *Does not distinguish counterfactual from future hypothetical.* Both "if the engine
+    were to fail, the ship would drift" (future hypothetical) and "if the engine had
+    failed, the ship would have drifted" (past counterfactual) would use `to-go [X]  Y`.
+    The distinction between them would come from the internal time-marking (`ti-de` vs.
+    no time-marker) in the premise and result clauses, not from the frame marker itself.
+    This is arguably correct: the `to-go` frame marks non-actuality, and time-marking
+    adds the past/future dimension independently. The two-axis system (non-actuality via
+    `to-go`; time via `ti` compounds) is cleaner than a single frame that encodes both.
+
+---
+
+**S131 — Institutional domain: `to-go [X]  Y` generalization test** *(CF-001-F)*
+
+"If the doctrine had been published, the dispute would have been resolved."
+
+```
+Gloss:    to-go [lo-to-re-su  to-fe-su-ki  ti-de]  lo-ne-fe  de  ti-de
+Literal:  hypothetical-causal  [patient:doctrine  publication-event  past]
+                                patient:relational-tension  dissolves  past
+Natural:  Counterfactually, given that the doctrine had been published, the relational
+          tension would have dissolved.
+```
+
+**Notes:**
+- The `to-go` frame removes all reference to any speaker's epistemic state. The
+  sentence makes a bare counterfactual assertion about institutional causation: if
+  doctrine-publication had occurred, the dispute would have dissolved. This is the
+  register appropriate for an arbitration brief, a post-incident analysis, or a
+  narrative history — the exact contexts where Path A (S128) degraded.
+- **Contrast with S128 directly:**
+  - S128 (Path A): `la-mi  to  [go [...]]` = "I, the speaker, hold as my model that..."
+  - S131 (Path C): `to-go [...]` = "In the counterfactual domain: [causal chain]"
+  - S131 asserts the causal relationship in the counterfactual domain without any agent
+    of assertion. It is structurally analogous to how English "If X had happened, Y
+    would have followed" can be written in an investigation report without "I believe."
+- **Generalization confirmed:** `to-go [X]  Y` works identically in engineering
+  (S130), social (apply mentally — `to-go [lo-zo-li  se  lo-si  ti-de]  la-zo-li
+  ka  fe-si  lo-li-pu  ti-de` works), and institutional (S131) domains. No
+  domain-specific friction.
+
+---
+
+### CF-001 Verdict
+
+**`to-go [X]  Y` is the canonical counterfactual frame. Recommended for adoption.**
+
+| Path | Mechanism | Problems | Verdict |
+|------|-----------|----------|---------|
+| A (`la-X  to  [go [...]]`) | epistemic wrapper | mandatory stance-holder; wrong illocutionary weight; conflates personal model with bare counterfactual | Valid for personal reasoning; insufficient as a general counterfactual |
+| B (bare `to [go [...]]`) | impersonal register-shift | marks hypothetical register, not non-actuality; new argument-drop environment needed | Available but indirect; not a counterfactual marker |
+| C (`to-go [X]  Y`) | compound hypothetical-causal frame | must add to frame-marker paradigm | **Adopted.** Compositional, attributor-free, domain-general |
+
+**Path A survives as a complementary construction:** `la-X  to  [to-go [X]  Y]` = "I
+(or institution X) hold that: counterfactually, if [X], [Y]." When the epistemic
+attribution matters — an arbiter ruling, a personal assessment on the record — Path A
+wraps Path C. Both are now valid, with distinct illocutionary force:
+
+| Construction | Force |
+|-------------|-------|
+| `to-go [X]  Y` | bare counterfactual conditional |
+| `la-X  to  [to-go [X]  Y]` | attributed counterfactual (person/body X asserts the counterfactual) |
+
+**Grammar status of `to-go`:** unlike `ra-ki-mu` (lexical compound), `to-go` is a
+**frame-marker compound** — it functions structurally like `go` and `du`, not like a
+content word. To the grammar spec (§ Causal Frame), `to-go` is a compound extension
+of `go` that marks non-actuality. It should be registered in both derived.md (as a
+compound entry for lookup) and spec/grammar.md (as a frame-marker rule).
+
+**Future/present hypothetical vs. past counterfactual:** both use `to-go [X]  Y`. The
+distinction is carried by internal time-marking:
+- `to-go [lo-X  de]  lo-Y  de-ki` = future hypothetical ("if X were to fail, Y would decay into drift")
+- `to-go [lo-X  de  ti-de]  lo-Y  pa-ki  ti-de` = past counterfactual ("if X had failed, Y would have drifted")
+`to-go` marks the non-actuality axis; `ti-de` marks the temporal axis. Two-axis separation is clean.
+
+**CF-001 status:** Design path identified and verified across three domains. Grammar
+spec section to be written. Compound `to-go` to be registered.

@@ -536,6 +536,63 @@ go [ka-be]  du [la-to  ka-zu]
 
 ---
 
+## Counterfactual Frame (`to-go`)
+
+The compound `to-go` (conceptual-causal) extends the causal frame into non-actual space.
+Head-final: `go` (cause/conditional frame) is head; `to` (conceptual/pattern) marks the
+frame as hypothetical — the premise is non-actual, and so is the result.
+
+```
+to-go [NON-ACTUAL-PREMISE]  NON-ACTUAL-RESULT
+```
+*Counterfactually: if [premise had held], [result would have followed].*
+
+`to-go [X]  Y` is to `go [X]  Y` as a non-actual conditional is to an actuality-neutral
+conditional. Both mark the same causal relationship; only the ontological status differs:
+
+| Frame | Premise | Result | Use |
+|-------|---------|--------|-----|
+| `go [X]  Y` | asserted or unspecified | follows from X | factual, general, or prospective conditional |
+| `to-go [X]  Y` | explicitly non-actual | would have followed | counterfactual — past or future hypothetical |
+
+**No stance-holder required.** Unlike `la-X  to  [prop]` (personal epistemic claim),
+`to-go [X]  Y` makes a bare non-actual assertion about a causal relationship with no
+attributor. Appropriate for investigation reports, narrative history, legal briefs, and
+all other impersonal counterfactual discourse.
+
+**Temporal axis is independent of the actuality axis.** `to-go` marks non-actuality;
+time-marking inside premise and result clauses marks when the hypothetical is located:
+
+```
+to-go [lo-X  de]        result            → future hypothetical ("if X were to fail...")
+to-go [lo-X  de  ti-de] result  ti-de     → past counterfactual ("if X had failed...")
+```
+
+**Attributed counterfactual:** when epistemic attribution matters (an arbiter ruling,
+an on-the-record personal assessment), Path A wraps Path C:
+
+```
+la-X  to  [to-go [NON-ACTUAL-PREMISE]  NON-ACTUAL-RESULT]
+```
+*X holds as their conceptual model: counterfactually, if [premise], [result].*
+
+These two constructions have distinct illocutionary force:
+- `to-go [X]  Y` = bare counterfactual conditional (no thinker asserted)
+- `la-X  to  [to-go [X]  Y]` = attributed counterfactual (X owns the counterfactual claim)
+
+Examples:
+```
+to-go [lo-ra-ki-mu  de  ti-de]  lo-ki-pa-mu  pa-ki  ti-de
+```
+*If the engine had failed, the ship would have drifted.* (S130)
+
+```
+to-go [lo-to-re-su  to-fe-su-ki  ti-de]  lo-ne-fe  de  ti-de
+```
+*If the doctrine had been published, the dispute would have been resolved.* (S131)
+
+---
+
 ## Temporal Frame (`ta`)
 
 The particle `ta` (time reference) functions both as a simple time marker before a time expression and as a clause introducer for temporal subordinate clauses.
