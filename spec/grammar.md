@@ -103,10 +103,10 @@ Non-transparent collisions are **not permitted**: if the function word's meaning
 |------|----------|-------------|--------------|--------|
 | `mi` | 1st person (I) | — | no root `mi` | Clean |
 | `tu` | 2nd person (you) | — | no root `tu` | Clean |
-| `se` | 3rd person (other/they) | `se` (perception) | other/they ≠ perception | **COLLISION** |
-| `wi` | group (we/they) | `wi` (will/intention) | group ≠ will; also candidate purpose-frame | **COLLISION × 2** |
+| `ze` | 3rd person (other/they) | — | no root `ze` | Clean |
+| `yu` | group (we/they) | — | no root `yu` | Clean |
 
-The `se` and `wi` pronoun collisions are open issues. Candidate replacements: `ze` for 3rd person, `yu` for group — both are available CV forms with no root or function-word assignment. See notes/open-questions.md.
+The full pronoun set is collision-free. Former forms `se` (3rd person) and `wi` (group) were renamed: `se` collided non-transparently with root `se` (perception); `wi` collided non-transparently with root `wi` (will/intention) and also blocked adoption of `wi` as a purpose-frame particle.
 
 ---
 
@@ -202,8 +202,8 @@ The temporal particle `ta` with a subordinated clause (`ta [clause]`) expresses 
 |------|---------|
 | `mi` | speaker (I) |
 | `tu` | listener (you) |
-| `se` | other person/entity |
-| `wi` | group (we/they) |
+| `ze` | other person/entity |
+| `yu` | group (we/they) |
 
 Pronouns follow the same case-marking rules as nouns.
 
