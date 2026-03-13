@@ -755,28 +755,36 @@ Related:      ha (thermal state), de (decrease), ra-de (power loss — contrast)
 ```
 Form:         wi-to
 Type:         compound
-Class:        entity / structure
-Definition:   plan; intentional pattern; purposive design; goal-directed conceptual structure.
+Class:        entity / object
+Definition:   plan; particular purposive artifact; a specific, single-instance, externalized
+              goal-directed conceptual structure with a committed outcome.
 Composition:  wi (will/intention) + to (conceptual pattern) — a conceptual pattern that is
-              oriented toward purpose. Head-final: to (pattern) is the head; wi specifies
-              the pattern is purposive rather than descriptive.
+              oriented toward a specific purpose. Head-final: to (pattern) is the head; wi
+              specifies the pattern is purposive rather than descriptive.
 Register:     standard
-Domain:       cognitive / social
+Domain:       cognitive / social / operational
 Status:       proposed
 Examples:     "lo-li-pu  ne-fe  wi-to" — the team needs a plan (S062)
-Notes:        Contrast with to-wi: to modifies wi = "deliberate intention" (emphasis on the
-              intentional state). wi-to = the plan as a structured artifact; to-wi = the will
-              to act deliberately. wi-to is what you write down; to-wi is the motivation behind it.
-              WATCH: semantic range of wi-to may broaden with corpus pressure. Current attested
-              meaning: plan (a structured goal-oriented artifact). Candidate extensions: design
-              (purposive structure without a single outcome); intention-model (an agent's internal
-              goal representation); program (a sequenced purposive structure). These are not
-              identical: a design is not implemented, a program is sequenced, an intention-model
-              is internal. If wi-to is used in all four senses, the compound is doing too much. If
-              corpus differentiates them, wi-to may need to narrow to one reading and the others
-              will need their own forms (e.g. wi-to-ki for program; wi-to-su for design-doc).
-              Do not widen the definition until corpus pressure requires it.
-Related:      wi (will/intention), to (conceptual pattern), ne-fe (W042)
+              "la-to-li  lo-wi-to  be-past" — the engineer revised the plan (S086)
+              "la-li-su-li  lo-yu  lo-wi-to  ka-si-past" — the coordinator briefed the team
+              on the plan (S091)
+Notes:        CONFIRMED RANGE after stress test S086-S092:
+              wi-to = plan as a PARTICULAR, SINGLE-INSTANCE, EXTERNALIZED purposive artifact.
+              What you write down and can revise, transmit, or store. Four-way contrast now
+              corpus-grounded:
+                1. Internal motivational state → bare wi (primitive). wi-to does NOT bleed
+                   into this territory (S089).
+                2. Recurring institutionalized procedure → wi-re-su (W074; S088). wi-to is
+                   single-use; wi-re-su recurs by design.
+                3. Formal design specification (team-reviewed, publishable) → wi-to-su
+                   (W073; S092). wi-to is the concept; wi-to-su is the systematized form.
+                4. Standing doctrine → to-re-su (W064). wi-to and to-re-su contrast cleanly
+                   in a single sentence without bleed (S090).
+              Contrast with to-wi: to modifies wi = "deliberate intention" (emphasis on the
+              intentional state). wi-to = the plan as artifact; to-wi = the will to act
+              deliberately. wi-to is what exists externally; to-wi is the motivation.
+Related:      wi (will/intention), to (conceptual pattern), wi-to-su (W073), wi-re-su (W074),
+              to-re-su (W064), ne-fe (W042)
 ```
 
 **W046**
@@ -1386,6 +1394,67 @@ Notes:        The foundational institutional entity of the Concordian epistemic 
               published to `to-su` status to be legitimately binding (the self-legitimation
               principle from notes/semantic-map.md § Domain 6).
 Related:      to-fe (W028), to-fe-ka (W029), to-fe-li (W032), to-su (organized knowledge)
+```
+
+**W073**
+```
+Form:         wi-to-su
+Type:         compound
+Class:        entity / document
+Definition:   design specification; a formally organized purposive artifact; a plan that
+              has been systematized into a structure that can be collectively reviewed,
+              revised, and published.
+Composition:  wi-to (plan, W045) + su (structure/organization) — the organized, structured
+              form of a plan. Head-final: su (structure) is head; wi-to specifies the content
+              domain as purposive-conceptual.
+Register:     formal / technical
+Domain:       engineering / institutional
+Status:       proposed
+Examples:     "la-yu  lo-wi-to-su  be-past  ta-ti-de  lo-ka-wi-de" — the team updated the
+              design specification before the mission departure (S092)
+Notes:        Parallel to the to / to-su upgrade: to (knowledge/concept) → to-su (organized
+              body of knowledge). wi-to (plan/concept) → wi-to-su (plan organized as a formal
+              structure). The su head marks the upgrade from mental/paper artifact to
+              institutionally organized structure — something reviewable, publishable, subject
+              to to-fe-li scrutiny. A plan that has not gone through formalization is wi-to;
+              once it has been systematized as a team document or formal spec, it is wi-to-su.
+              Distinct from wi-ka-su (W054, ritual): wi-ka-su is an organized system of
+              deliberate actions (the doing); wi-to-su is an organized intentional-concept
+              structure (the specification).
+Related:      wi-to (W045), wi (will), to (concept), su (structure), wi-ka-su (W054),
+              to-re-su (W064)
+```
+
+**W074**
+```
+Form:         wi-re-su
+Type:         compound
+Class:        entity / structure
+Definition:   operational protocol; standing procedure; a formally organized willed structure
+              that recurs by design across multiple instances and potentially multiple agents.
+Composition:  wi (will/intention) + re (recurrence/cycle) + su (structure/organization) —
+              an organized structure for recurring intentional activity. Head-final: su
+              (structure) is head; wi (will) and re (recurrence) together specify a
+              recurring willed structure.
+Register:     formal / operational
+Domain:       institutional / operational
+Status:       proposed
+Examples:     "lo-wi-re-su  ta-re-ti  be" — the protocol executes each cycle (S088)
+Notes:        Sits in the wi-[X]-su family alongside wi-ka-su (W054, ritual) and wi-to-su
+              (W073, design specification). The differentiator is the middle morpheme:
+                wi-ka-su: will + DELIBERATE ACTION + structure = ritual (defined by the
+                  deliberate-action character of each instance)
+                wi-re-su: will + RECURRENCE + structure = protocol (defined by the recurring
+                  character across instances)
+                wi-to-su: will + CONCEPT + structure = design spec (defined by the
+                  conceptual/structural content)
+              wi-re-su covers: maintenance schedules, operational checklists, training
+              programs, standing orders, safety procedures. All share the property of
+              recurring across instances without being exhausted by any one instance.
+              Distinct from wi-to (W045, plan): a plan is single-instance and particular;
+              a protocol is multi-instance and institutional.
+Related:      wi (will), re (recurrence), su (structure), wi-ka-su (W054), wi-to (W045),
+              wi-to-su (W073)
 ```
 
 ---

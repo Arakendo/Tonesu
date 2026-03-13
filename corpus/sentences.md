@@ -2623,3 +2623,320 @@ system.
 
 **Emergent compound requiring immediate registration:** `to-fe-su` (epistemic standards
 framework). First attested B3. Register as W072.
+
+---
+
+## `wi-to` Semantic Range Stress Test (S086–S092)
+
+*Target: determine whether `wi-to` is overloaded across four candidate senses — plan,
+design, program (institutionalized sequence), and intention-model (internal goal state) —
+and narrow or bifurcate the entry accordingly.*
+
+*Probe design: each sentence targets one sense. If `wi-to` gives the right reading in all
+four, the compound is load-bearing but legitimate. If any sentence forces a structural
+wrong reading, `wi-to` has bled.*
+
+---
+
+**S086 — Engineer revised the plan** *(T-WIT-001 / baseline)*
+
+*Target: baseline `wi-to` use in context. Establish clean reference before stress cases.*
+
+```
+Gloss:    la-to-li  lo-wi-to  be-past
+Literal:  agent:knower/engineer  patient:plan  grew/changed-past
+Natural:  The engineer revised the plan.
+```
+
+**Notes:**
+- `be-past` = grew/changed/improved. A plan being revised is the plan growing into a better
+  version of itself. `be` here carries the productive/generative sense (the plan was
+  developed), not strictly growth in size. Attested pattern: `la-X  lo-Y  be` = X improved Y.
+- This is the intended baseline reading: `wi-to` = a concrete plan artifact that exists
+  externally (it can be revised, held, destroyed) and has a specific purposive structure.
+- Baseline datum: `wi-to` = **plan as external artifact** = what you write down and can
+  change. The head `to` is the pattern/concept; `wi` marks it as purposive.
+- `to-li` pressed into service for "engineer" — a knowledge-worker in the technical sense.
+  The `to-li` is the person whose work is pattern-making, which generalizes to design
+  engineer. Compare `to-su-li` (knowledge-structure person = librarian/archivist/priest)
+  and `ra-ki-li` (energy-motion person = pilot/driver).
+
+**Verdict S086: clean.** Baseline holds. `wi-to` = plan-as-concrete-revisable-artifact.
+
+---
+
+**S087 — The engineer designed the machine** *(T-WIT-002 / design)*
+
+*Target: "design" — purposive structure specifying *form* rather than sequence. Does `wi-to`
+cover this, or does it need a different head?*
+
+```
+Gloss:    la-to-li  lo-mu  wi-to  be-past
+Literal:  agent:engineer  patient:machine  plan/design  grew/made-past
+Natural:  The engineer designed the machine.
+```
+
+**Alternative — `wi-to-su` as formal design document:**
+
+```
+Gloss:    la-to-li  lo-wi-to-su  ka-past
+Literal:  agent:engineer  patient:design-specification  action-past
+Natural:  The engineer produced the design specification.
+```
+
+**Notes:**
+- **First candidate stress.** "Designed the machine" — the purposive conceptual work that
+  preceded building it. The question: does `lo-mu  wi-to  be-past` mean "the engineer
+  planned/designed the machine" (wi-to as predicate modifier or loose purposive qualifier),
+  or is `wi-to` playing a different role here than it did in S086?
+- In S086, `wi-to` was a *patient* (what was revised). In S087 first form, `wi-to` is
+  closer to being a predicate modifier or manner qualifier on `be` — "improved [the machine]
+  [with will-pattern]." This is a different grammatical slot and a different reading. That
+  shift is the signal.
+- **The distinction:** "plan" as a standalone artifact (S086, S062) vs "design" as a
+  purposive activity or form-specification of another object. When `wi-to` is the *patient*
+  of a verb, it reads as a plan-artifact. When it appears adjacent to another patient with
+  `be`, it reads as purposive-manner — and this is grammatically strained.
+- **Alternative is cleaner:** `wi-to-su` = purposive-concept-structure = a design
+  specification document. The `su` head marks it as an organized external artifact
+  containing formal specifications, not just a purposive idea. The engineer didn't just
+  have a willed-concept; the engineer made a structured specification.
+- **Tentative result:** `wi-to` (bare) = plan in the sense of a purposive mental-or-paper
+  object. `wi-to-su` = structured design specification — the formalized version. For
+  "designed the machine" as an activity rather than a document, a `ka-wi-to` (action of
+  will-patterning) construction would be needed (not yet attested).
+
+**Verdict S087: `wi-to` strained in predicate-modifier position.** Clean in patient slot.
+The compound does not naturally mean "to design [the machine]" as an activity; it means
+"the plan" as an artifact. `wi-to-su` is the right compound for formal design specification.
+New compound candidate: **`wi-to-su`** (design specification).
+
+---
+
+**S088 — The maintenance program runs every cycle** *(T-WIT-003 / program)*
+
+*Target: "program" = a sequenced structure that recurs, possibly performed by different
+agents on different instances. Does `wi-to` cover this?*
+
+```
+Attempt A (wi-to):
+Gloss:    lo-wi-to  ta-re-ti  be
+Literal:  patient:plan/program  time:recurring-cycle  runs/executes
+Natural:  The program executes each cycle.
+
+Attempt B (wi-re-su):
+Gloss:    lo-wi-re-su  ta-re-ti  be
+Literal:  patient:will-recurring-structure  time:recurring-cycle  runs/executes
+Natural:  The recurring protocol executes each cycle.
+```
+
+**Notes:**
+- **`wi-to` (Attempt A) — analysis:** `ta-re-ti` (recurring time) suggests the thing
+  recurs. If this is a `wi-to` (purposive concept), what recurs is the concept itself
+  being enacted — but a concept doesn't "run" or "execute"; an agent enacts it. `be` with
+  `lo-wi-to` as subject = "the plan grows/runs"? This is semantically odd: a plan isn't
+  the kind of thing that runs; it's the kind of thing that is *followed* or *enacted*.
+  `wi-to` lacks the autonomy to be the subject of `be` without an agent.
+- **`wi-re-su` (Attempt B) — analysis:** `wi` (will) + `re` (recurrence) + `su`
+  (structure) = organized recurring willed structure = a protocol / program that repeats
+  by design. The `su` head makes it an external structure rather than a mental concept.
+  The `re` in the middle marks it as a *recurring* structure. On this reading: the
+  recurring-willed-structure executes each cycle. Cleaner — `be` takes it as its natural
+  subject because a structure can run (instantiate), whereas a concept cannot.
+- **`re` placement:** modifier order puts `wi-re` (will-recurrence) before `su` —
+  "an institutionalized, recurring, willed structure." Compare `wi-ka-su` (W054, ritual):
+  `wi` + `ka` (deliberate action) + `su`. The difference between `wi-ka-su` (ritual) and
+  `wi-re-su` (program/protocol): a ritual is defined by its use of deliberate action;
+  a program is defined by its recurrence. Orthogonal heads on a shared `wi` modifier.
+- **Result:** `wi-to` cannot serve as program. A program has institutional recurrence
+  (`re`) and external structure (`su`); a plan has a specific outcome (`to`). These are
+  different heads. New compound: **`wi-re-su`** (operational protocol / recurring
+  procedural program).
+
+**Verdict S088: `wi-to` cannot cover "program."** `wi-re-su` is the correct compound for
+a recurring institutionalized procedure. The `su` head distinguishes it from `wi-to`
+(which has a `to` head, marking the purposive conceptual content, not the structure).
+
+---
+
+**S089 — Her intention guided the work** *(T-WIT-004 / intention-model)*
+
+*Target: "intention" = an internal goal representation, not a concrete artifact. Does this
+need `wi-to`, bare `wi`, or something else?*
+
+```
+Attempt A (wi-to):
+Gloss:    la-wi-to-ze  lo-ka  ki
+Literal:  agent:plan-of-her  patient:action  motion/directed
+Natural:  Her plan directed the action.
+
+Attempt B (bare wi):
+Gloss:    la-wi-ze  lo-ka  ki
+Literal:  agent:will/intention-of-her  patient:action  directed
+Natural:  Her will/intention directed the action.
+```
+
+**Notes:**
+- `wi-to-ze` = will-pattern-[possessive ze] = her plan. S075 established `wi-ze` = her
+  will as agent in `la` slot. The question is whether `wi-to` (plan) adds anything over
+  bare `wi` (will) in this context.
+- **Bare `wi` (Attempt B)** reads: "her will guided the action." This is clean — `wi`
+  alone is the primitive for will/intention, and Tonesu is established as preferring
+  primitives when compounds don't add precision.
+- **`wi-to-ze` (Attempt A)** reads: "her plan — as an existing external artifact —
+  guided the action." This adds the sense that the intention has been externalized or
+  committed to as a specific pattern. If there's a plan document, `wi-to` is correct;
+  if the guidance is coming from her internal motivational state, bare `wi` is better.
+- **The distinction is real and load-bearing.** Intention = internal motivational state
+  (`wi`). Plan = purposive concept externalized as an artifact (`wi-to`). This is not
+  a distinction the language collapses — `wi` and `wi-to` are already separate entries,
+  and this test confirms the line between them.
+- **Conclusion:** "Intention" as an internal goal representation = bare `wi`. No compound
+  needed. `wi-to` is not for internal motivational states; it is for externalized purposive
+  artifacts. The compound does not bleed into the primitive's territory.
+
+**Verdict S089: `wi-to` does NOT cover bare intention.** `wi` alone = internal
+motivational state. `wi-to` = externalized, concrete plan-artifact. The distinction holds.
+`wi-to` does not need to narrow on this axis; the compound and its base primitive already
+divide the domain correctly.
+
+---
+
+**S090 — The pilot followed a different doctrine from the mission plan** *(T-WIT-005 / stress)*
+
+*Target: sentence that forces both "doctrine/standing instruction" and "mission plan" to appear
+in the same context — the decisive disambiguation test.*
+
+```
+Gloss:    la-ra-ki-li  lo-to-re-su  be  no  lo-wi-to
+Literal:  agent:pilot  patient:canonical-doctrine  grew/followed  negation  patient:plan
+Natural:  The pilot followed the standing doctrine, not the mission plan.
+```
+
+**Notes:**
+- **Decisive result.** In a single sentence, `to-re-su` (canonical recurring doctrine)
+  and `wi-to` (specific mission plan) are contrastive. Their separation is immediately
+  legible: the pilot operated under the background standing instructions
+  (`to-re-su` = recurring canon) rather than the specific purposive plan for this
+  mission (`wi-to`).
+- This is the sentence the watch item was waiting for: `wi-to` and `to-re-su` *contrast
+  cleanly*. Neither bleeds into the other. `wi-to` = this specific plan for this specific
+  outcome; `to-re-su` = the established recurring doctrine that persists across missions.
+  Time-scope is the differentiator: `wi-to` is particular/single-use; `to-re-su` is
+  recurring/institutional.
+- `be  no  lo-wi-to` = "grew/followed [negation] the plan" = "followed [X], not the plan."
+  The `no` as a coordinator meaning "not [the alternative]" uses the established negation
+  pattern. First use of `no` as a contrast coordinator between two patients in the same
+  clause (rather than as a prefix). Tentatively clean; worth logging as a new `no` use.
+- **Design vs plan:** This sentence also confirms that `to-re-su` covers "standing design/
+  doctrine" in the sense of "established working instructions." `wi-to` narrows further:
+  it is not just "not doctrine" but specifically "mission-specific, single-use purposive
+  structure."
+
+**Verdict S090: clean and decisive.** `wi-to` and `to-re-su` are distinct and
+contrastive in a single sentence without strain. `wi-to` narrows to: **particular,
+single-instance, externalized purposive structure**. Standing doctrine covering multiple
+instances = `to-re-su`. Recurring procedure = `wi-re-su` (S088).
+
+---
+
+**S091 — The coordinator briefed the team on the plan** *(T-WIT-006 / transmission)*
+
+*Target: can `wi-to` be the object of a signal/briefing action? Tests whether a plan can
+be transmitted like information.*
+
+```
+Gloss:    la-li-su-li  lo-yu  lo-wi-to  ka-si-past
+Literal:  agent:coordinator  patient:group  [relation:]plan  action:transmitted-past
+Natural:  The coordinator briefed the team on the plan.
+```
+
+**Notes:**
+- `ka-si` (W024, transmit/signal) used with a double-patient construction: `lo-yu`
+  (the group = the recipient) and `lo-wi-to` (the plan = the content transmitted). First
+  double-patient with `ka-si`. The structure is: agent transmits [content] to [recipient].
+  In prior uses, `ka-si` took one patient (the recipient, or occasionally the content).
+  The double-patient form may need a formal grammar rule — or `ne-yu` (relation:group)
+  for the recipient and `lo-wi-to` for the content alone.
+- **`wi-to` as transmissible information object.** The test: can a plan be transmitted
+  the way a signal can? Yes — a plan is an externalized artifact (`to` head = conceptual
+  pattern, not merely a mental state), so it can be the content of a `ka-si` transmission
+  the way `si-mu` (a document) can. This confirms the "externalized artifact" character
+  of `wi-to`: it is a thing that can be held, transmitted, revised, and stored.
+- Distinction from `wi` (bare will): bare will cannot be transmitted via `ka-si`.
+  `la-li-su-li  lo-yu  lo-wi-ze  ka-si-past` = "the coordinator transmitted her will to
+  the group" — possible but reads as a command/order rather than a briefing. The
+  `wi-to` form is what makes it a briefing: content is shared, not imposed.
+
+**Verdict S091: clean.** `wi-to` works as a transmissible information object. A plan
+can be briefed the way a document can be archived. This confirms the artifact/external
+character of `wi-to`: it is a plan *as a thing that exists* in the world, not merely
+as an internal cognitive state.
+
+---
+
+**S092 — The team updated its design specification before the mission** *(T-WIT-007 / wi-to-su)*
+
+*Target: first corpus use of `wi-to-su` (design specification) proposed in S087.*
+
+```
+Gloss:    la-yu  lo-wi-to-su  be-past  ta-ti-de  lo-ka-wi-de
+Literal:  agent:group  patient:design-specification  grew/updated-past
+          time:before  patient:mission-departure
+Natural:  The team updated the design specification before the mission.
+```
+
+**Notes:**
+- **First corpus use of `wi-to-su`.** `wi` (will) + `to` (concept/pattern) + `su`
+  (structure) = purposive-concept-structure = design specification. The three-level
+  compound follows the established productive pattern: `wi-to` (purposive concept) →
+  `wi-to-su` (that purposive concept organized into a formal structure).
+- Compare `wi-to` (plan, two morphemes, the mental/paper artifact) vs `wi-to-su`
+  (design specification, three morphemes, the formally organized version). The `su` head
+  signals: this is not just a plan someone has; it is a structure that has been organized
+  into a form that can be reviewed, published, and revised by the team collectively.
+  Same distinction as `to` (knowledge/pattern) vs `to-su` (organized body of knowledge):
+  the `su` upgrade marks systemization.
+- `ta-ti-de  lo-ka-wi-de` = "before the departure." `ti-de` = time-decay = past/prior
+  time. `ka-wi-de` = action-will-departure = mission-departure (intended departure action).
+  This is a temporal prepositional phrase using `ta` (time marker) + `ti-de` (before/
+  prior) + `lo-ka-wi-de` (the departure). The structure functions as a before-clause.
+  New form: `ta-ti-de  lo-[event]` = "before [event]." Watch: does `ta-ti-de` generalize
+  as a "before" construction or is it specific to this context?
+
+**Verdict S092: clean.** `wi-to-su` (design specification) is a productive and
+unambiguous extension of `wi-to`. The compound composes cleanly. Register as W073.
+
+---
+
+### `wi-to` Stress Test Summary
+
+| Sentence | Target sense | Form tested | Verdict |
+|----------|-------------|-------------|---------|
+| S086 | plan (baseline) | `wi-to` | clean — canonical use |
+| S087 | design (form specification) | `wi-to` strained; `wi-to-su` proposed | **bifurcate** |
+| S088 | program (recurring procedure) | `wi-to` wrong; `wi-re-su` proposed | **separate compound** |
+| S089 | intention (internal state) | `wi-to` vs bare `wi` | **primitive wins** — `wi` alone correct |
+| S090 | plan vs doctrine (disambiguation) | `wi-to` vs `to-re-su` contrast | clean — no bleed |
+| S091 | transmissible plan object | `wi-to` as content of `ka-si` | clean — artifact character confirmed |
+| S092 | design specification (document) | `wi-to-su` first use | **new compound; register W073** |
+
+**Central finding: `wi-to` does NOT need to narrow — it already has the right range.**
+The watch item flagged four potential bleed directions; none materialized:
+1. **Design (form):** `wi-to` stretched in predicate position but is clean as a patient.
+   `wi-to-su` is the right form for a *formal* design specification. `wi-to` stays as
+   "plan/purposive design concept."
+2. **Program (recurrence):** `wi-re-su` is a clean new compound. `wi-to` ≠ program.
+3. **Intention (internal):** bare `wi` wins. `wi-to` does not bleed into the primitive.
+4. **Standing doctrine:** `to-re-su` covers it. No bleed.
+
+**`wi-to` is confirmed as: particular / single-instance / externalized purposive artifact.**
+Not internal state (`wi`). Not recurring procedure (`wi-re-su`). Not formal specification
+(`wi-to-su`). Not standing doctrine (`to-re-su`). The four-way contrast is now corpus-
+grounded.
+
+**New compounds from this batch:**
+- `wi-to-su` — design specification: purposive-concept-structure (first use S092). Register W073.
+- `wi-re-su` — operational protocol / recurring procedural program (first use S088). Register W074.
+- `ka-wi-de` — mission departure (used in S092, transparent compound — register when second context appears).
+- `ta-ti-de  lo-[event]` — before-[event] temporal construction (first use S092). Grammar pattern rather than compound.
