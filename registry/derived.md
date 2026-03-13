@@ -612,14 +612,41 @@ Notes:        ti-be is used in the `ta` (temporal) particle frame: ta-ti-be = "a
               In casual usage, ta-ti-be typically means "tomorrow"; in planning contexts,
               it may mean "in the upcoming cycle/period."
               Related temporal compounds available but not yet registered:
-                ti-de  = past time / the time that has decayed (yesterday / prior period)
                 ti-re  = recurring time / habitual time (= re-ti, W029 precursor, see S029)
                 ti-fe  = time-limit / deadline (W037 — already registered)
-              The full time reference system: ti-de (past) | ta-now (present) | ti-be (near future).
+              The full time reference system: ti-de (W041) | ta-now (present) | ti-be (near future).
               Long-range future: wi-ti (intended-time = scheduled/planned time); unregistered.
 Related:      ti (primitive: time), be (primitive: growth/coming), ti-fe (W037: deadline),
               ta (particle: temporal frame)
 ```
+
+---
+
+**W041**
+```
+Form:         ti-de
+Type:         compound
+Class:        time reference
+Definition:   past time; previous interval; yesterday (or equivalent past period in context).
+              The time period that has already passed relative to the present moment.
+Composition:  ti (time) + de (decay/decrease/end) — time that has ended; the diminished or
+              elapsed time interval. Head-final: ti (time) is the head; de specifies the
+              directional relationship (elapsed, no longer present). Mirrors ti-be (W040):
+              ti-be = time approaching; ti-de = time receded.
+Register:     standard / casual
+Domain:       temporal reference
+Status:       proposed
+Examples:     "lo-ha  de-past  ta-ti-de" — the thermal state decreased last night (S035)
+Notes:        ti-de is used in the `ta` (temporal) particle frame: ta-ti-de = "at/in the
+              past time." The unit implied (night, day, season, cycle) is context-dependent.
+              In casual usage, ta-ti-de typically means "last night / yesterday"; in analytical
+              contexts, it may mean "in the previous cycle/period."
+              The full time reference system: ti-de (past) | ta-now (present) | ti-be (W040, future).
+              Systematic pair: ti-be (approaching time) / ti-de (elapsed time). The pair uses
+              be/de (growth/decay) to encode temporal direction — the same roots that handle
+              all other directed change in the language. Consistent with the process ontology.
+Related:      ti (primitive: time), de (primitive: decay/end), ti-be (W040: proximate future),
+              ti-fe (W037: deadline), ta (particle: temporal frame)
 
 ---
 
