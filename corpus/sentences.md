@@ -681,3 +681,146 @@ Natural:  Understood.
 | Utterance-level epistemic modal | A3a: `si [proposition]` pattern | New — needs grammar.md entry once confirmed |
 | Agent drop (speaker) in conversation | B3b: `la-mi` omitted | Open — provisional rule noted above |
 | Affirmative / negative particles | B3: no "yes" used; routed through action-confirmation | Open — may be intentional absence |
+
+---
+
+## Primitive Property Tests
+
+These sentences directly exercise the four hidden properties identified in notes/semantic-map.md § Hidden Properties. Each one is designed to stress-test a specific structural commitment.
+
+---
+
+**S028 — Bilateral causation: double-entry framing** *(Hidden Property A)*
+
+*Target: "The storm caused the bridge to collapse."*
+
+**Attempt — `go`/`du` two-frame version:**
+
+```
+Gloss:    go [la-ra-ki  lo-su-mu  de]  du [de-ki]
+Literal:  cause [agent:storm  patient:structure-artifact  decay]  result [enter-decay]
+Natural:  Because [the storm decayed the structure], result: [collapse].
+```
+
+**Single-frame alternative (canonical from S011):**
+
+```
+go-ra-ki  du-de-ki-su-mu
+cause:storm  result:structure-collapse
+```
+
+**Notes:**
+- **`ra-ki`** = energy-motion = violent energetic event = storm. `ra` (energy) + `ki` (motion) = energy in motion; undirected discharge of kinetic force. Natural non-volitional agent, so paired with bare `de` (non-intentional decay). Registered as W038.
+- **`su-mu`** = structure-artifact = bridge / structural edifice. From the existing compound logic: `su` (structure) + `mu` (artifact). Not separately registered; transparent.
+- **`du` as full clause introducer — first test.** In S011, `du` appeared as a prefix on a noun compound (`du-machine-fail`). The two-frame form above uses `du [clause]` symmetrically with `go [clause]`. This is the first attempt; the construction is grammatically suspicious because the boundary rule should apply: `du [de-ki]` — a result clause after a cause clause. But what returns to matrix level after? There is no matrix clause here at all. This may be a **biclausal coordination structure** rather than a subordinate frame. That is a new grammatical category. See grammar-pressure note P-GP-003 and open-questions.md.
+- **Single-frame alternative is the safe canon.** Following S011's established pattern: `go-[cause]  du-[result]` using noun compounds as the minimal biclausal form. This works cleanly. The full two-frame version should be treated as provisional until the biclausal coordination rule is defined.
+- `de` as a transitive verb of sorts: `la-ra-ki  lo-su-mu  de` = "the storm decay-ed the structure." Bare `de` (non-intentional) with `la` agent and `lo` patient. First transitive use of `de`. The intentionality is absent: storms don't intend anything. Clean.
+
+---
+
+**S029 — Repetition and habitual aspect** *(Hidden Property B)*
+
+*Target: "The river floods every year."*
+
+**Attempt A — `re` as time modifier:**
+
+```
+Gloss:    la-ma-di  ta-re-ti  fe-ki
+Literal:  agent:river  time:repeat-cycle  boundary-cross
+Natural:  The river, at each recurring time, crosses its limit.
+```
+
+**Attempt B — `re` as verbal aspect prefix:**
+
+```
+Gloss:    la-ma-di  re-fe-ki
+Literal:  agent:river  repeat-boundary-cross
+Natural:  The river repeatedly crosses its limit.
+```
+
+**Notes:**
+- **`re-ti`** = recurring time-period = cycle, year-equivalent. The compound is transparent: `re` (repetition) + `ti` (time) = a time unit defined by recurrence. Tonesu has no registered word for "year"; `re-ti` routes this through the repetition primitive cleanly without borrowing. The unit implied (annually, seasonally?) is context-dependent — a feature, not a bug, given the language's preference for compositional precision.
+- **`fe-ki`** = reach or cross a limit = flood. The river exceeding its banks is a `fe-ki` event: it has crossed the boundary of its normal channel. No separate "flood" vocabulary needed.
+- **Attempt A vs B expose the aspect grammar pressure (P-GP-002).** Attempt A treats `re-ti` as a time adverbial (in the `ta` slot): safe, uses established grammar. Attempt B uses `re` as a prefix on the verb compound itself: uncharted. Both are compositionally plausible. The difference: Attempt A says "at recurring times, the river crosses its limit" (external frequency); Attempt B says "the river habitually limit-crosses" (internal aspect). These are distinct claims. Attempt A is canonical for now; Attempt B is flagged as pending the aspect grammar decision.
+- **Attempt A is S029 canon.** Note: makes `ta-re-ti` the first time-expression that uses a compound time noun (`re-ti`) rather than a bare placeholder gloss. Progress toward real tense/time vocabulary.
+
+---
+
+**S030 — Irreducible value and the `vo` predication problem** *(Hidden Property C)*
+
+*Target: "The archive must be preserved."*
+
+**Part 1 — Value predication:**
+
+```
+Gloss:    la-to-su-mu  vo
+Literal:  agent:archive  quality/value
+Natural:  The archive has value.
+```
+
+**Part 2 — Obligatory preservation:**
+
+```
+Gloss:    wi [ka-no-de]
+Literal:  intention [action:negate-decay]
+Natural:  [It] should not decay. (= must be preserved)
+```
+
+**Combined reading:**
+
+```
+la-to-su-mu  vo  wi [ka-no-de]
+```
+
+*The archive has value; the intention is its non-decay.*
+
+**Notes:**
+- **`vo` as predicate adjective — first unambiguous case.** `la-to-su-mu  vo` treats `vo` (value/quality) as a predicate in the agent position: "agent:archive  quality." This parallels the copula-by-juxtaposition pattern (`lo-X  state`) but inverts it: here the subject is in the `la` slot, not `lo`. The pattern divergence (agent-slot vs patient-slot for state description) is new and unresolved. Both patterns are now in corpus:
+  - `lo-X  state` = patient undergoes state (patientive)
+  - `la-X  quality` = agent possesses quality (attributive?)
+  These may be two distinct constructions with different implications, not registers of one pattern. Flag.
+- **`no-de`** = negate-decay = preserve / prevent degradation. `no` (negation) + `de` (decay). Head-final: the process being negated is `de`; `no` reverses it. Complement to W035 `de-be` (repair after decay). `de-be` = grow-after-decay; `no-de` = prevent-decay-from-occurring. First corpus use of `no` as a productive verbal prefix. Valuable.
+- **`wi` as obligation marker.** The purpose frame `wi [clause]` here functions differently from S016–S027. Previously: `wi` introduced an agent's *intended* outcome. Here: `wi` fronts the entire sentence as a prescription — "the intention [holding] is [non-decay]" — outside any specific agent's will. This approaches modal obligation. The polysemy is productive (intention and obligation share semantic space), but the agent of `wi` is now absent entirely. Log: when `wi [clause]` appears without a prior agent, its reading shifts from purpose ("in order to") toward obligation ("it is intended that"). The agent of `wi` is either the speaker, Concordian convention, or normative reality — ambiguous. Needs a ruling.
+- **`vo` as irreducible.** The sentence works without defining value in terms of anything else. No "valuable to whom" or "valuable for what purpose" is specified. This is the primitive doing its work: `vo` is the assertion; it stands alone.
+
+---
+
+**S031 — Unity vs plurality: the team acts as one** *(Hidden Property D)*
+
+*Target: "The team acts as one."*
+
+**Attempt A — `ru` as adverbial quality modifier:**
+
+```
+Gloss:    la-li-pu  ka  ru
+Literal:  agent:collective  action  unity
+Natural:  The collective acts with unity.
+```
+
+**Attempt B — `ru` incorporated into the agent compound:**
+
+```
+Gloss:    la-li-pu-ru  ka
+Literal:  agent:unified-collective  action
+Natural:  The unified collective acts.
+```
+
+**Notes:**
+- **`li-pu`** (from W036) = person-collective = team / group. First use as a grammatical subject without the location particle `pa`.
+- **Attempt A: `ru` as a floating quality modifier.** `ka  ru` — the action is characterized by unity. Parallel to how `vo` was used predicatively in S030. `ru` in post-verbal position modifies the manner of the action: "they act, and the manner is ru (unified)." This would make `ru` an adverb-of-manner in this position — a new grammatical function for a primitive not previously used this way.
+- **Attempt B: `ru` incorporated into the NP compound.** `la-li-pu-ru` = agent:many-persons-unified. The unity is an attribute of the collective, not a description of the action. These make different claims: Attempt A says "they are acting in coordination right now"; Attempt B says "they are a unified team (and they act)."
+- **Attempt A is preferred for the target sentence.** "Acts as one" is a manner description, not a permanent attribute. Attempt A captures this; Attempt B implies permanent coherence status. But both constructions need formal rules.
+- **`pe` (part) gap exposed.** "Acts as one" might also be expressed using `pe` (part/component): the team acts such that each `pe` moves with the whole. But `pe` has no corpus use yet. Flagged.
+- **Number/collective precision in practice.** This sentence confirms the `ru`/`pu`/`nu` distinction is doing real work: "the team acts as one" is a `ru` (unity/coherence) claim, not a `nu = 1` (count) claim. A hundred people can `ka ru` (act with unity). The English expression "as one" conflates `ru` with `nu = 1` in a way Tonesu does not.
+
+---
+
+### Structural Grammar Pressures
+
+The four hidden-property tests above revealed three places where the primitive set will eventually force new grammar, not just new vocabulary. These are logged in notes/open-questions.md (P-GP-001 through P-GP-003).
+
+| Pressure | Trigger sentence | Symptom |
+|----------|-----------------|---------|
+| **P-GP-001: `vo` and `ru` predication** | S030, S031 | Two competing copula-adjacent constructions: `la-X  quality` vs `lo-X  state`. Quality roots (`vo`, `ru`) used predicatively behave differently from state roots (`de`, `be`). A formal rule is needed. |
+| **P-GP-002: `re` aspect vs time adverbial** | S029 | `re-ti` as a time phrase vs `re-VERB` as habitual aspect are both compositionally legal. The language must settle whether aspect is encoded temporally (time-phrase strategy) or morphologically (verb-prefix strategy) before `re` can be used consistently. |
+| **P-GP-003: `go`/`du` bilateral clause coordination** | S028 | `go [clause]  du [clause]` is a biclausal coordination frame, not a standard subordinate clause. Current grammar only formalizes subordination (`go [clause]` with the matrix following). The symmetric two-frame case has no boundary rule — what comes after `du [clause]`? |

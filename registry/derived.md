@@ -522,6 +522,47 @@ Related:      fe (primitive: boundary/limit), ti (primitive: time), fe-si (W024:
 
 ---
 
+**W038**
+```
+Form:         ra-ki
+Type:         compound
+Class:        entity / process
+Definition:   violent energetic event; storm, surge, blast; natural kinetic-force discharge.
+              The canonical term for a storm or any non-volitional release of concentrated
+              energy in motion. Covers atmospheric storms, floods (in their kinetic expression),
+              rockslides, etc. — any event where undirected `ra` (energy/force) becomes `ki`
+              (motion at scale).
+Composition:  ra (energy/force) + ki (motion) — energy in motion; the compound identifies
+              an event as one whose defining characteristic is large-scale undirected kinetic
+              energy release. Head-final: ki (motion) is the event type; ra specifies the
+              substance/driver.
+Register:     standard
+Domain:       natural phenomena
+Status:       proposed
+Examples:     "go [la-ra-ki  lo-su-mu  de]  du [de-ki]" — because the storm decayed the
+              structure, result: collapse (S028)
+Notes:        Non-volitional by construction. A ra-ki cannot be the `la` agent of a `ka`
+              (intentional action) verb — it only appears with `de` (non-intentional decay),
+              `be` (non-intentional production), or bare state predicates. This distinguishes
+              it cleanly from all animate agents.
+              Contrast ra-ki-mu (W012: engine / machine) — an artifact that deliberately
+              converts energy in motion. W012 is a manufactured object; W038 is a natural event.
+              The shared `ra-ki` root expresses the same physical relationship (energy → motion)
+              but the mu suffix in W012 adds the artifact frame, changing it from an event to
+              a tool. W038, lacking mu, is raw event.
+              Derivationally available extensions:
+                ra-ki-fe = the boundary of the storm (its extent or the point where its energy
+                           is spent); unregistered
+                la-ra-ki = "agent: storm" in a causal frame (see S028); the storm as causal source
+              Do not confuse with ra-be (energy-generation, unregistered but legal), which would
+              describe a source that produces energy, vs ra-ki which describes energy already
+              in motion.
+Related:      ra (primitive: energy/force), ki (primitive: motion), ra-ki-mu (W012: engine),
+              go (primitive: causation), de (primitive: decay/deterioration)
+```
+
+---
+
 ## Communities and Places
 
 **W036**
