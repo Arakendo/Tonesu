@@ -86,5 +86,5 @@ For contracted everyday forms, see lexicon/colloquial.md.
 
 - [x] ~~Resolve particle/root phonetic collision for agent marker~~ → resolved: agent particle renamed `li` → `la`. Remaining overlaps: `ra`, `pa`, `ka`, `ne`.
 - [ ] Add tense/aspect suffix IDs as formal markers
-- [ ] Replace `plu` with a CV or CVC form to comply with syllable rules
+- [x] ~~Replace `plu` with a CV or CVC form to comply with syllable rules~~ → replaced with `pu`. Complete.
 - [ ] Assign final phonetic forms — current roots are placeholder assignments
