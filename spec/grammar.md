@@ -146,13 +146,39 @@ Open question: use paired particles (e.g. `be...be`) or rely on stress/pause?
 
 ## Negation
 
-Single negation particle prefixed to the verb or predicate.
+Negation in Tonesu uses a single root `no` (negation/absence) operating at three scope levels. For derivational detail on the prefix, see spec/morphology.md § Productive Prefixes.
+
+### Level 1 — Root and compound prefix
+
+`no-` prefixes a root or compound predicate to produce its absence or non-attainment. Scope is the **entire base form**, including multi-root compounds.
 
 ```
-no-build
-no-possible
-no-true
+no-de        →  preservation (non-decay)
+no-fe        →  below threshold (non-boundary)
+no-ha        →  cold (non-thermal)
+no-ne-fe     →  non-dependency (does not require)
 ```
+
+### Level 2 — Action negation
+
+`no-` prefixes a `ka`-compound in the predicate slot to negate a directed action. Standard form for imperative negation:
+
+```
+no-ka-ki  lo-mu    →  Don't move the machine.
+```
+
+### Level 3 — Clause negation (provisional)
+
+`no [ka-clause]` fronts an entire action clause, negating the action frame as a whole. Attested once (S036: `no [ka-se]` = "cannot consume"). Rule confirmed once a second corpus case appears.
+
+### Summary
+
+| Level | Form | Status |
+|-------|------|--------|
+| Root prefix | `no-X` | confirmed |
+| Compound prefix | `no-[compound]` | confirmed (S063) |
+| Action negation | `no-ka-X` | confirmed |
+| Clause negation | `no [ka-clause]` | provisional (S036) |
 
 ---
 
@@ -343,6 +369,81 @@ no-ka-ki  lo-mu
 **Consistency with agent inheritance:** The same agent-omission logic used in `wi` purpose clauses applies here — omission always refers to a contextually established agent, never an unspecified placeholder. In the imperative, context establishes the addressee (`tu`) as that agent.
 
 **Corpus status:** Imperative forms not yet attested in corpus. S019 (P004) identified the gap; this rule closes it as a grammar specification. First corpus example pending.
+
+---
+
+## Comparison
+
+Comparison between two entities on a shared quality dimension uses `nu-no` (less-than) or `nu-be` (more-than).
+
+**Composition:**
+- `nu-no` = quantity (`nu`) + negation (`no`) = less / fewer / to a lesser degree
+- `nu-be` = quantity (`nu`) + growth (`be`) = more / greater / to a higher degree
+
+Both are compositionally transparent: `nu` carries the measurable dimension; `no`/`be` give the direction.
+
+### Structure
+
+```
+lo-A  [quality]  nu-no  [baseline]   →  A has less [quality] than baseline
+lo-A  [quality]  nu-be  [baseline]   →  A has more [quality] than baseline
+```
+
+The baseline is typically `lo-B` (another entity). For comparison against a past or future state, substitute a temporal reference (`ta-ti-[time]`), giving a self-comparison across time.
+
+### Examples
+
+```
+lo-ma-di  ha-vo  nu-no  lo-pa-ma           (S039) →  The water is cooler than the air.
+lo-ko-pa  ha-vo  nu-be  lo-ki-pa           (S064) →  The room is warmer than the corridor.
+lo-mu  pa-nu  nu-be  lo-mu-ne              (S065) →  The machine is larger than the other one.
+lo-li-be  ta-ti-now  zo-de  nu-no  ta-ti-de (S066) →  The child is less tired than yesterday.
+lo-si  ra-vo  nu-be  lo-si-fe             (S067) →  The signal is stronger than the threshold.
+```
+
+### No degree split
+
+`nu-no`/`nu-be` apply to both count quantity (more soldiers) and quality degree (warmer). The `nu` root covers measurable dimension in both senses.
+
+**Corpus basis:** first attested S039 (`nu-no`); `nu-be` confirmed and generalized in S064–S067.
+
+---
+
+## Containment Predicates
+
+The root `ko` (containment/interior) functions as either a **state predicate** or a component of an **intentional action compound** (`ka-ko`). The distinction is grammatically and semantically significant.
+
+### `ko` as state predicate
+
+`la-[container]  ko  lo-[contents]` = X holds / contains Y (no action; current relational state)
+
+The container occupies the `la`-agent slot; the contents occupy the `lo`-patient slot. `ko` alone asserts a holding relationship, not an act of placing. Any entity that structurally contains another — physical vessel, institutional archive, material medium — is grammatically a `la`-agent of a `ko`-predicate.
+
+```
+la-mu        ko  lo-ha-ra      (S037) →  The metal holds thermal energy.
+la-ko-mu     ko  lo-ma-di     (S068) →  The vessel contains water.
+la-si-su     ko  lo-si-mu     (S070) →  The archive holds records.
+```
+
+### `ka-ko` as intentional action
+
+`la-[agent]  lo-[item]  [ne-destination]  ka-ko` = X intentionally stores / places Y [into Z]
+
+The `ka` action marker combines with `ko` to produce agentive containment. An agent must be present. The destination container is optionally marked with the `ne` recipient particle.
+
+```
+la-ze  lo-si-mu  ka-ko               (S069) →  She stored the document.
+la-ze  lo-ka-mu  ne-ko-mu  ka-ko    (S071) →  He placed the tool into the container.
+```
+
+### Rule
+
+| Form | Claim | Agent required |
+|------|-------|----------------|
+| `la-X  ko  lo-Y` | X is in the state of containing Y | no — any container entity |
+| `la-X  [lo-Y]  ka-ko` | X intentionally stores Y | yes — agentive |
+
+`ko` alone is never agentive. Intentional placement always uses `ka-ko`.
 
 ---
 

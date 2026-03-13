@@ -1883,3 +1883,192 @@ Natural:  The person currently does not need medicine.
 | S063 | person | medicine | clean — `no-ne-fe` and `ma-no-de` both compositional |
 
 **`ne-fe` is genuinely general.** It held across six sentences spanning biological, mechanical, institutional, and abstract domains. Three new compounds emerged from the test: `zo-no-ki` (sleep/rest), `wi-to` (plan/intentional pattern), `ma-no-de` (medicine/preserving substance). These should be evaluated for W-registration.
+
+---
+
+## Comparative Test Batch (S064–S067)
+
+**Purpose:** First systematic test of `nu-be` (more-than). S039 confirmed `nu-no` (less-than) in one thermal comparison. This batch confirms `nu-be`, tests generalization across quality types (thermal, spatial, biological, signal), and probes whether the comparison baseline can be a temporal reference rather than an entity.
+
+---
+
+**S064 — Room warmer than the corridor** *(T-CMP-001)*
+
+*Target: "The room is warmer than the corridor."*
+
+```
+Gloss:    lo-ko-pa  ha-vo  nu-be  lo-ki-pa
+Literal:  patient:contained-place  thermal-quality  more-than  patient:motion-place
+Natural:  The room has more thermal quality than the corridor.
+```
+
+- `ko-pa` = containment-place = room / enclosed space. Head-final: `pa` (place) is head; `ko` (containment) specifies it is a bounded, enclosed space. First corpus use.
+- `ki-pa` = motion-place = corridor / hallway. Head-final: `pa` (place) is head; `ki` (motion) specifies it is a place defined by passage through it. The two compounds form a natural pair: rooms are bounded (`ko`), corridors are transitive (`ki`).
+- `ha-vo` = thermal-quality = warmth (S033). `nu-be` follows in the comparative slot.
+- `nu-be` = quantity-growth = more / to a greater degree. Head-final: `nu` (quantity) is head; `be` (growth) gives the comparison direction. **First corpus attestation of `nu-be`.**
+
+**Verdict S064: clean.** `nu-be` works as the more-than comparative, symmetric with `nu-no`. The `ko-pa`/`ki-pa` room/corridor compound pair is useful for everyday speech.
+
+---
+
+**S065 — Machine larger than the other one** *(T-CMP-002)*
+
+*Target: "This machine is larger than the other one."*
+
+```
+Gloss:    lo-mu  pa-nu  nu-be  lo-mu-ne
+Literal:  patient:artifact  space-quantity  more-than  patient:reference-artifact
+Natural:  The machine has greater spatial magnitude than the related artifact.
+```
+
+- `pa-nu` = space-quantity = spatial magnitude / size / volume. Head-final: `nu` (quantity) is head; `pa` (space/place) specifies the dimension. First use. Analogous to `ha-vo` (thermal-quality) — both use a quantity/quality head with a domain modifier.
+- `mu-ne` = artifact-in-relation = the other / comparable artifact. `ne` (relation/connection) marks the second machine as the relational reference entity. Compositionally transparent; no dedicated demonstrative pronoun needed.
+- Second attestation of `nu-be`. Different quality type from S064 (spatial magnitude rather than thermal quality), confirming `nu-be` generalizes across quality domains.
+
+**Verdict S065: clean.** `nu-be` generalizes. `pa-nu` (size) and `mu-ne` (reference artifact) are both productive.
+
+---
+
+**S066 — Child less tired than yesterday** *(T-CMP-003)*
+
+*Target: "The child is less tired than yesterday."*
+
+```
+Gloss:    lo-li-be  ta-ti-now  zo-de  nu-no  ta-ti-de
+Literal:  patient:child  at-present-time  organism-decay  less-than  past-time-interval
+Natural:  The child has less fatigue now than at the past time.
+```
+
+- `li-be` = person in growth phase = child (W033).
+- `zo-de` = organism-decay = fatigue / physical tiredness. Head-final: `de` (decay) is head; `zo` (living organism) specifies biological decay — the wearing-down of a living body. Contrast `ra-de` (energy/power decay = power failure) and `ha-de` (thermal decrease = cooling, W044). `zo-de` is the specifically biological decay of exertion. First use.
+- `ta-ti-de` = past time interval = yesterday / a prior period (first used S035; W041 candidate).
+- **Structural extension:** the comparison baseline is a **temporal reference** (`ta-ti-de`), not a second entity (`lo-B`). The `[baseline]` slot in the comparative construction accepts either `lo-[entity]` (between two things) or `ta-ti-[time]` (one thing against its own earlier/later state). Both positions are syntactically parallel; neither requires a new grammatical device.
+
+**Verdict S066: clean.** `zo-de` (fatigue) is a useful compound. Temporal comparison (`ta-ti-X` as baseline) is grammatically valid and unambiguous. The self-comparison pattern is logged for the grammar formalization.
+
+---
+
+**S067 — Signal stronger than the threshold** *(T-CMP-004)*
+
+*Target: "The signal is stronger than the threshold."*
+
+```
+Gloss:    lo-si  ra-vo  nu-be  lo-si-fe
+Literal:  patient:signal  energy-quality  more-than  patient:signal-boundary
+Natural:  The signal has greater energy intensity than the signal threshold.
+```
+
+- `ra-vo` = energy-quality = signal intensity / force magnitude. Head-final: `vo` (quality) is head; `ra` (energy) specifies the domain. Analogous to `ha-vo` (thermal-quality). The `[domain]-vo` quality pattern is now confirmed across both thermal (`ha-vo`) and energetic (`ra-vo`) domains.
+- `si-fe` = signal-boundary = the signal threshold / the point at which a signal becomes actionable or alarm-triggering. Head-final: `fe` (boundary) is head; `si` (signal) specifies the domain. Consistent with prior `fe`-boundary compounds: `ha-fe` (thermal threshold, S034), `to-fe` (epistemic threshold).
+- Third attestation of `nu-be`. Abstract/technical domain (signal engineering) confirms the comparative works beyond physical, tactile qualities.
+
+**Verdict S067: clean.** `nu-be` with abstract quality dimensions is clean. The `[domain]-vo` pattern generalizes to signal intensity (`ra-vo`).
+
+---
+
+### Comparative Batch Summary
+
+| Sentence | Direction | Quality | Baseline type | Verdict |
+|----------|-----------|---------|---------------|---------|
+| S039 | `nu-no` | `ha-vo` (thermal) | entity | clean — first comparative |
+| S064 | `nu-be` | `ha-vo` (thermal) | entity | clean — first `nu-be` |
+| S065 | `nu-be` | `pa-nu` (size) | entity | clean — generalizes quality type |
+| S066 | `nu-no` | `zo-de` (fatigue) | temporal | clean — temporal baseline valid |
+| S067 | `nu-be` | `ra-vo` (intensity) | entity | clean — abstract quality |
+
+**Comparative system confirmed.** `nu-no`/`nu-be` are productive across quality types and baseline types. No new grammatical mechanism needed. Rule written into spec/grammar.md § Comparison.
+
+Secondary compounds emerging from this batch: `ko-pa` (room), `ki-pa` (corridor), `pa-nu` (size), `zo-de` (fatigue), `ra-vo` (signal intensity), `si-fe` (signal threshold).
+
+---
+
+## Containment Predicate Test Batch (S068–S071)
+
+**Purpose:** Settle the `ko` (passive containment state) vs `ka-ko` (intentional storing action) distinction. S037 established `la-X  ko  lo-Y` as a valid state predicate (the metal holds thermal energy). The open question: is `ko` in the predicate slot always passive, or can it be agentive? Four sentences: two passive, two intentional, varying subject type and presence of a destination argument.
+
+---
+
+**S068 — Vessel contains water** *(T-KO-001)*
+
+*Target: "The vessel contains water."*
+
+```
+Gloss:    la-ko-mu  ko  lo-ma-di
+Literal:  agent:containment-artifact  containment-state  patient:liquid-matter
+Natural:  The vessel holds water.
+```
+
+- `ko-mu` = containment-artifact = vessel / tank / container. Head-final: `mu` (artifact) is head; `ko` (containment) specifies its defining function. First use.
+- `ko` in predicate slot = passive containment state. Pattern `la-[container]  ko  lo-[contents]` (established S037).
+- `ma-di` = directed-matter = water / liquid (S039).
+- No action operator. The vessel is *in the state of* containing — not performing an act of placing.
+
+**Verdict S068: clean.** `ko` as passive state predicate holds for a purpose-built container. The `la-[container]  ko  lo-[contents]` pattern is consistent with S037.
+
+---
+
+**S069 — She stored the document** *(T-KO-002)*
+
+*Target: "She stored the document."*
+
+```
+Gloss:    la-ze  lo-si-mu  ka-ko
+Literal:  agent:she  patient:encoded-artifact  action:intentional-containment
+Natural:  She stored / deliberately placed the document into containment.
+```
+
+- `ze` = she (3rd person pronoun).
+- `si-mu` = encoded-artifact = a document / individual record. Head-final: `mu` (artifact) is head; `si` (encoded/signal) specifies content type. Distinct from `si-su` (encoded-structure = archive / collection, S056); `si-mu` is a single stored item.
+- `ka-ko` = action-containment = intentional storing. Head-final: `ko` (containment) is head; `ka` (deliberate action) specifies intentionality. Contrast with S068: no agent is required for passive containment state; `ka-ko` always requires an agent.
+
+**Verdict S069: clean.** `ka-ko` is unambiguously agentive. Contrast with S068 is sharp: `lo-si-mu  ko` would describe a state (the document is held somewhere); `la-ze  lo-si-mu  ka-ko` describes an action (she performed the storing).
+
+---
+
+**S070 — The archive holds records** *(T-KO-003)*
+
+*Target: "The archive holds records."*
+
+```
+Gloss:    la-si-su  ko  lo-si-mu
+Literal:  agent:encoded-structure  containment-state  patient:encoded-artifact
+Natural:  The archive holds documents / records.
+```
+
+- `si-su` = encoded-structure = archive / collection (S056).
+- `si-mu` = encoded-artifact = individual document (S069).
+- `ko` = passive containment — same pattern as S037, S068. Confirms that `ko` state-predication scales to **institutional and abstract** containing relationships. An archive does not perform the act of holding; it is the structural entity in which records reside.
+
+**Verdict S070: clean.** `ko` predication at institutional scale is grammatically identical to `ko` predication for physical vessels. The `la`-slot requires only the containing entity, not an intentional agent.
+
+---
+
+**S071 — He placed the tool into the container** *(T-KO-004)*
+
+*Target: "He put the tool inside the container."*
+
+```
+Gloss:    la-ze  lo-ka-mu  ne-ko-mu  ka-ko
+Literal:  agent:he  patient:tool  toward:container  action:intentional-containment
+Natural:  He placed the tool into the container.
+```
+
+- `ka-mu` = action-artifact = tool.
+- `ko-mu` = containment-artifact = the container (S068).
+- `ne-ko-mu` = recipient/toward marker + container = the destination. `ne` (relation/recipient particle) marks `ko-mu` as the target of the transfer. This extends `ne` from its established use marking recipients of gift-transfers (S056: `ne-li-pu-su`) to marking physical destinations of placement actions. Both uses are semantically coherent: `ne` = relation-toward.
+- `ka-ko` + `ne-[destination]` = full intentional-storage form: agent + item + destination + action.
+
+**Verdict S071: clean.** The `ne` particle extends cleanly to spatial destinations. Full form `la-[agent]  lo-[item]  ne-[container]  ka-ko` = "agent stores item into container" is confirmed.
+
+---
+
+### Containment Predicate Batch Summary
+
+| Sentence | Form used | Agent | Pattern | Verdict |
+|----------|-----------|-------|---------|---------|
+| S068 | `ko` | vessel (non-intentional) | passive state | clean |
+| S069 | `ka-ko` | person (intentional) | agentive storing | clean |
+| S070 | `ko` | institutional archive | passive state at scale | clean |
+| S071 | `ka-ko` | person + destination | agentive + explicit target | clean |
+
+**`ko` / `ka-ko` distinction confirmed.** `ko` in the predicate slot is always a passive relational state; `ka-ko` always asserts intentional placement. The distinction is load-bearing: institutional archives, material containers, and physical vessels are grammatically identical under `ko`-predication — the intentionality of the containing entity is irrelevant to the form. Intentional placing requires `ka-ko` with an explicit agent. Rule written into spec/grammar.md § Containment Predicates.
