@@ -3790,3 +3790,327 @@ kin-bond). This is a previously undocumented use of `la`. Related to P-PR-001
 (`ze` back-reference); both arise from the same underlying question: how does Tonesu
 mark a participant whose role is epistemic/relational reference rather than action
 initiation?
+
+---
+
+## NM-001 Probe: Head-Final Clause Modification (S101–S107)
+
+---
+
+**Scene: Knowledge-keeper's review session — post-mission documentation**
+
+*Three days after the C006/C007 field anomaly, the knowledge-keeper (`to-fe-ki-li`)
+is working through post-mission records with the navigator (`di-ki-li`). These are
+administrative declarative sentences produced in a formal documentation register.*
+
+*Design: test the head-final modification hypothesis across seven distinct cases.*
+
+*Candidate rule under test: a noun phrase can be preceded by a modifying clause
+from which the head noun is absent (the "gap"). The head noun appears after the
+modifying clause, marked by the particle appropriate to its role in the MAIN CLAUSE.
+Notation: `[modifier clause]  role-particle + head`. No relativizer particle is
+introduced — the construction extends the existing head-final modification principle
+from morpheme scale to clause scale.*
+
+*Seven cases, in order of structural complexity: (S101) agent gap; (S102) patient
+gap, head as predication subject; (S103) head as recipient in matrix; (S104) stative
+kinship relative; (S105) nested two-level kinship; (S106) the original S019 B
+target; (S107) stative inner clause + first `la-mi  se  [prop]`.*
+
+---
+
+**S101 — Agent gap: head as patient of matrix**
+
+```
+Gloss:    [lo-ne-ra  ka-se]  lo-mu  ne-mi  ka-be
+Literal:  [patient:resonance  perceived]  patient:machine  recipient:me  action:produce
+Natural:  Build me the machine that perceived the resonance.
+```
+
+**Notes:**
+- **First corpus use of head-final clause modification.** The structure:
+  `[lo-ne-ra  ka-se]` = a clause meaning "perceived the resonance" — with no `la-[agent]`
+  present. The gap is in the `la` position. The head noun `lo-mu` (the machine) follows
+  directly, filling that gap semantically: the machine IS the thing that perceived the
+  resonance. In the main clause, `lo-mu` functions as patient of `ka-be` (build it
+  for me). The `lo` marking on the head is its MAIN-CLAUSE role, not its inner-clause
+  role (where it was the agent).
+- **This directly satisfies S019 Version B** — the target that was deferred at S019
+  because no relativizer existed. "A machine that already perceived the resonance" is
+  incidental predication (not "a sensing-device by class"). The relative clause form
+  handles it; the compound form `se-mu` (W from corpus) handles the CLASS meaning. The
+  distinction is now expressible.
+- **Key parsing fact:** `lo-ne-ra  ka-se` without a `la` agent is incomplete as a
+  standalone sentence — an agent is expected but absent. This incompleteness is what
+  signals to the parser that a gap exists and that the following `lo-mu` fills it.
+  Standalone sentences in Tonesu require an agent or a licensed drop (imperative or
+  established speaker-drop). Here neither license applies, so the gap is obligatorily
+  filled by the following head.
+
+---
+
+**S102 — Patient gap: head as subject of stative predication in matrix**
+
+```
+Gloss:    [la-di-ki-li  ka-se]  lo-ne-ra  no-to-fe
+Literal:  [agent:navigator  perceived]  patient:resonance  not-certified
+Natural:  The resonance that the navigator perceived is uncertified.
+```
+
+**Notes:**
+- **Patient gap.** The inner clause `la-di-ki-li  ka-se` has an agent (navigator) but
+  no patient. The gap is in the `lo` position. Head `lo-ne-ra` fills the patient gap
+  semantically: the navigator perceived the resonance. In the matrix, `lo-ne-ra` is
+  the subject of the stative predication `no-to-fe` (uncertified). Particle `lo` is
+  consistent: the resonance is the patient/subject of both the inner clause (gap) and
+  the matrix predication.
+- **Contrast with agent gap (S101):** in S101, the gap is `la-[head]` (agent) and the
+  head exits with `lo` (patient in matrix). In S102, the gap is `lo-[head]` (patient)
+  and the head exits with `lo` (also the role for a stative subject in the matrix). The
+  critical difference: in S101 the head's inner role ≠ outer role (agent → patient); in
+  S102 the head's inner role = outer role (patient → `lo`-subject). The `lo` marking
+  is purely the matrix role; the inner role is whatever it needs to be to fill the gap.
+- **Matrix is stative (no `ka`).** `lo-ne-ra  no-to-fe` = "the resonance [is]
+  uncertified" — a predication with no action particle. This confirms the matrix
+  predicate does not need to be an action clause; any predication form that can take
+  a `lo-head` argument is a valid matrix for a head-final relative NP.
+
+---
+
+**S103 — Agent gap: head as recipient of matrix (particle changes from `lo` to `ne`)**
+
+```
+Gloss:    la-mi  lo-si-ki  [lo-ne-ra  ka-se]  ne-mu  ka-be
+Literal:  agent:I  patient:code  [patient:resonance  perceived]  recipient:machine  action:give
+Natural:  I gave the code to the machine that perceived the resonance.
+```
+
+**Notes:**
+- **Same inner clause as S101** (`[lo-ne-ra  ka-se]`, gap = agent) but the head exits
+  with `ne-mu` (recipient) instead of `lo-mu` (patient). The head's MATRIX role is
+  recipient, not patient. This demonstrates the key principle: **the particle on the
+  head encodes the head's role in the MAIN CLAUSE, independently of its role in the
+  inner clause.** The head-final position carries role information for the outer structure;
+  the inner structure's role is inferred from the gap.
+- **Disambiguation:** a naive reading of `ne-mu` alone would be "to the machine"
+  (recipient). In context, `[lo-ne-ra  ka-se]  ne-mu` is unambiguous: the bracket
+  precedes and modifies `ne-mu`, so `ne-mu` is the head of that NP. The inner clause
+  provides the relative description; `ne-mu` provides the matrix slot.
+- **Confirmed: the role-particle on the head is the external role anchor.** The same
+  head `mu` (machine) can exit as `lo-mu` (S101, patient), `ne-mu` (S103, recipient),
+  or — by analogy not yet tested — `la-mu` (agent of matrix) or `pa-mu` (location).
+
+---
+
+**S104 — Stative kinship relative: `la-mi` as perspective anchor inside inner clause, head as recipient of matrix**
+
+```
+Gloss:    la-mi  lo-si-ki  [zo-ne-go  la-mi]  ne-li  ka-be
+Literal:  agent:I  patient:code  [kin-origin  anchor:I]  recipient:person  action:give
+Natural:  I gave the code to the person who is my parent.
+```
+
+**Notes:**
+- **Stative inner clause — no `ka`.** `zo-ne-go  la-mi` is a kinship predication without
+  an action particle: "kin-origin [from] my perspective." The gap is in the `lo`
+  position — the entity BEING described as "my parent" is absent from the clause and
+  filled by the head `ne-li`.
+- **`la-mi` appears twice in this sentence:** once as the action agent of the matrix
+  (`la-mi ... ka-be` = "I give") and once as the relational anchor inside the kinship
+  clause (`zo-ne-go  la-mi` = "my kin-origin"). These are structurally distinct: the
+  outer `la-mi` anchors the matrix action; the inner `la-mi` anchors the relational
+  definition from which the kin-type is determined. The brackets disambiguate which
+  level each `la-mi` belongs to.
+- **`la` as perspective anchor confirmed in embedded context.** In the inner clause,
+  `la-mi` is NOT the agent of any action — it is the reference entity from whose
+  standpoint the kin-relationship is defined. This is the clearest corpus case yet that
+  `la` marks "the participant from whose perspective the clause is evaluated," rather
+  than "the intentional agent of an action." The construction is grammatically well-
+  formed by applying the head-final modification rule to a stative kinship predication.
+
+---
+
+**S105 — Nested two-level modification: "my parent's sibling" as embedded argument**
+
+```
+Gloss:    la-mi  lo-si-ki  [zo-ne-ru  [zo-ne-go  la-mi]  lo-li]  ne-li  ka-be
+Literal:  agent:I  patient:code  [kin-unity  [kin-origin  anchor:I]  patient:person]
+          recipient:person  action:give
+Natural:  I gave the code to my parent's sibling.
+```
+
+**Notes:**
+- **This sentence directly resolves the S096 NM-001 trigger.** S096 first exposed that
+  "my parent's sibling" could not be embedded as a single argument. This sentence embeds
+  it as a recipient argument of a matrix clause.
+- **Two-level nesting:**
+  - Inner NP: `[zo-ne-go  la-mi]  lo-li` = "the person who is my parent." Gap = `lo-li`
+    (patient slot — the entity being described as my parent). Head exits as `lo-li`
+    because inside the outer relative clause it serves as the reference entity for the
+    sibling relationship (the thing you are sibling TO, which takes `lo` marking per the
+    existing kinship predicate structure: `lo-X  zo-ne-ru  lo-Y`). So this is a case where
+    the inner head's inner-clause role IS `lo` — not a role change.
+  - Outer NP: `[zo-ne-ru  [inner NP]  lo-li]  ne-li` = "the person who is sibling to
+    [the person who is my parent]." The outer gap = `lo-[outer-head]` (the entity being
+    described as the sibling). Head exits as `ne-li` (recipient in the matrix).
+- **Readability check:** the sentence is longer than any prior single-sentence kinship
+  expression, but each bracket level is structurally well-formed and the nesting is two
+  levels, not three. Two levels of head-final embedding appear to be routinely parseable.
+  Three or more levels would approach the limit of working memory; Tonesu Concordians
+  likely use the multi-sentence path strategy for anything above two levels.
+
+---
+
+**S106 — S019 Version B: finally satisfied**
+
+```
+Gloss:    [lo-si-de  ka-to-ko]  lo-mu  ne-mi  ka-be
+Literal:  [patient:past-signal  remembers]  patient:machine  recipient:me  action:build
+Natural:  Build me a machine that remembers past signals.
+```
+
+**Notes:**
+- **Direct satisfaction of S019 Version B** — the target that opened the relativizer
+  gap in S019. The full original target was "Build me a system that remembers past
+  queries." `lo-si-de` = signal-decay = prior/past signal data. `ka-to-ko` = action of
+  containing knowledge = remembering/retaining. The machine is the agent of `ka-to-ko`
+  (gap = `la-mu` position). Head exits as `lo-mu` (patient of `ka-be` = build).
+- **Comparison with `to-ko-mu` (memory-device compound):** S019 Version A used
+  `lo-to-ko-mu  ne-mi  ka-be` = "build me a memory device." That expressed a CLASS
+  property — the device is BY DESIGN a memory-keeping device. S106 expresses an
+  INCIDENTAL property — build me the specific machine that currently has the record of
+  past signals. Both are valid; both are now expressible; they mean different things.
+  - `to-ko-mu`: "a memory device" = class membership
+  - `[lo-si-de  ka-to-ko]  lo-mu`: "the machine that remembers X" = incidental predication about a specific entity
+  This is the distinction the relativizer was always needed for. It is now in the language.
+- **`si-de`** (signal + decay = past signal) is its first appearance as a compound.
+  Signal = `si`; decay = `de`; signal-that-has-undergone-decay = prior/historical signal
+  record. Compositionally clean; not registered as it is an ad hoc compound in this
+  context and may have narrower or broader application depending on future uses.
+
+---
+
+**S107 — Stative inner clause (no `ka`); first `la-mi  se  [prop]`**
+
+```
+Gloss:    la-mi  se  [lo-mu  ne-ra  no-to-fe]
+Literal:  agent:I  perceive  [patient:machine  resonance  uncertified]
+Natural:  I have a signal-level reading: the machine's resonance is uncertified.
+```
+
+**Notes:**
+- **First corpus use of positive perceptual floor `la-mi  se  [prop]`.** C007 B4
+  established `la-mi  no-se  [prop]` (perceptual floor negated). This is the positive
+  form: "I hold at perceptual / signal level: [prop]." Consistent with the modal scale
+  formalized in spec/grammar.md § Epistemic Modality. The positive scale is now fully
+  attested: `la-mi  se` (S107), `la-mi  si` (C001 A3, C006 A4), `la-mi  to` (C007 B1).
+- **The embedded proposition `[lo-mu  ne-ra  no-to-fe]` is a stative predication** —
+  no `ka`. "The machine has uncertified resonance." The machine holds the `lo` patient
+  position; `ne-ra` is a compound predicate; `no-to-fe` is the state modifier. The
+  entire prop is a stative-predication clause, not an action clause. This confirms that
+  the epistemic modal frame takes propositions of any predicate type (action and
+  stative alike) — consistent with prior cases but here the first example where the
+  prop is purely stative.
+- **Stative relative test (companion):** the same inner clause `lo-mu  ne-ra  no-to-fe`
+  can be tested as a relative modifier. By the head-final rule: `[ne-ra  no-to-fe]  lo-mu`
+  = "the machine with uncertified resonance" — a stative-predicate relative clause with
+  no `ka`, gap = `lo-mu` (patient of predication). The head exits as `lo-mu`. This works
+  by the same rule as action-predicate relatives (S101–S103): the gap-and-head structure
+  is unchanged; only the predicate type differs. Stative modifying clauses are confirmed
+  possible. (This secondary form is noted here rather than given its own sentence because
+  S107 already tests the stative prop type through the epistemic frame, and the relative
+  form is compositionally derived with no additional findings.)
+
+---
+
+**S101–S107 Summary: NM-001 resolved**
+
+**The head-final modification hypothesis holds across all seven test cases.**
+
+### The rule
+
+A noun phrase may be modified by a preceding clause from which the head noun
+is absent (the gap). The head noun appears after the modifying clause, marked by the
+particle appropriate to its role in the **main clause**. The absence of a participant
+from the inner clause identifies the gap; the head fills that position in the inner
+clause's semantic structure.
+
+```
+[  modifying clause  (gap)  ]   role-marker + head
+```
+
+The gap may be in any participant position:
+
+| Gap position | Inner clause structure | Example |
+|---|---|---|
+| Agent (`la`) | `[lo-X  predicate]  lo-head` | S101, S103, S106 |
+| Patient (`lo`) | `[la-X  predicate]  lo-head` | S102 |
+| Predication subject (`lo`) | `[stative-predicate]  lo-head` | S107 companion |
+
+### The role-particle principle
+
+**The particle on the head encodes the head's role in the MAIN clause**, not in the inner
+clause. A head-noun can exit with a different particle than the role it fills inside the
+inner clause:
+
+- S101: head is `la` (agent) inside → exits as `lo-mu` (patient) in matrix
+- S103: head is `la` (agent) inside → exits as `ne-mu` (recipient) in matrix
+
+The two-particle reality of the head (inner role inferred from gap; outer role explicit
+on the head itself) requires no special machinery — gap inference was already available
+from the imperative and speaker-drop constructions.
+
+### No new particles required
+
+The construction uses only existing notation and the existing head-final modification
+principle, scaled from morpheme level to clause level. This is exactly the pattern
+the language has consistently favored: generalize an existing principle rather than
+innovate a new one.
+
+### Disambiguation from subordinate clauses
+
+Subordinate clauses have an explicit clause introducer before the bracket:
+`go [...]`, `wi [...]`, `ta [...]`.
+
+Relative modifier clauses have NO such introducer — the bracket
+immediately precedes `role-marker + head`. This structural difference makes the two
+constructions orthogonally distinguishable in both written gloss and speech.
+
+### Nesting
+
+Two levels of nesting are attested (S105) and parse cleanly. Three or more levels
+accumulate complexity consistent with cross-linguistic limits on embedded center-
+embedding; no formal restriction is imposed, but Concordians naturally
+prefer the multi-sentence path strategy for paths deeper than two levels.
+
+### `la` as perspective anchor: consolidated
+
+S104 provides the clearest corpus evidence for the `la`-as-perspective-anchor
+analysis. `la-mi` appears twice:
+
+1. Outer `la-mi`: action agent of `ka-be` — the standard "agent does action" reading.
+2. Inner `la-mi`: relational anchor of `zo-ne-go` — no action; the kinship predicate is
+   evaluated from the perspective of the entity marked `la-mi`.
+
+Both uses share the property that `la` marks **the participant from whose perspective
+the clause is evaluated**. For action clauses, that perspective-holder is also the
+initiator. For stative predicates (kinship, epistemic modals), the perspective-holder
+is not an initiator but a reference anchor or stance-holder.
+
+Consolidating: **`la` = perspective-privileged participant / evaluation anchor.** The
+"agent" gloss is a useful shorthand for action clauses but is too narrow as a general
+description. The spec should reflect this.
+
+**P-QM-001, P-AF-001, P-NM-001 are all resolved.** The consistent pattern: grammar
+gaps close through structural generalization of existing principles.
+
+### Open items from this batch
+
+| Item | Status |
+|------|--------|
+| `la-mi  se  [prop]` — first positive perceptual floor | **Attested** (S107). Positive scale complete. |
+| NM-001 — relative clause / noun modification | **Resolved** (S101–S107). Rule formalized below. |
+| `la` as perspective anchor | **Evidence consolidated** (S104). Spec gloss update needed. |
+| Stative relative clauses (no `ka` in inner clause) | **Confirmed** (S107 companion). Same rule, no restriction on predicate type. |
+| Three-level nesting | Not yet tested. Predicted: works but pragmatically avoided. |
+| `si-de` (past-signal compound) | Ad hoc use (S106). Watch for second attestation before registering. |

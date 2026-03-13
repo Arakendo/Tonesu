@@ -33,7 +33,7 @@ Short, phonetically distinct syllables. Never merge with roots ambiguously.
 
 | Particle | Role | Usage |
 |----------|------|-------|
-| `la` | agent marker | marks the doer |
+| `la` | perspective anchor | marks the perspective-privileged participant: initiator in action clauses, stance-holder in epistemic clauses, relational anchor in stative predicates; commonly glossed "agent" in action contexts |
 | `lo` | patient marker | marks the affected object |
 | `ro` | instrument marker | marks the tool or cause |
 | `pa` | location marker | where the action occurs |
@@ -409,6 +409,99 @@ The canonical form is always the formal register. Casual reduction is derived fr
 ### Nested Subordination
 
 Embedding a subordinate clause inside another subordinate clause (e.g., a purpose clause inside a causal clause) is **not yet specified**. The boundary rule above handles single-level embedding only. Nested structures should appear in the corpus before a general rule is written. Treat nested subordination as **provisional** until corpus evidence demands a solution.
+
+---
+
+## Relative Clauses
+
+A noun phrase may be modified by a preceding clause using **head-final clause
+modification** — the same left-branching principle that governs word-level modification,
+extended to clause scale. No relativizer particle is needed.
+
+### Structure
+
+```
+[  modifying clause  ]   role-marker + head
+```
+
+The modifying clause precedes the head noun. One participant is absent from the
+modifying clause (the **gap**). The head noun, appearing immediately after the
+bracket, fills the gap semantically. The role-marker on the head (`la`, `lo`, `ne`,
+etc.) encodes the head's role in the **main clause**, not in the modifying clause.
+
+Example:
+
+```
+[lo-ne-ra  ka-se]  lo-mu  ne-mi  ka-be
+```
+*Build me the machine that perceived the resonance.* (S101)
+
+The inner clause `[lo-ne-ra  ka-se]` is missing an agent — the gap is in the `la`
+position. The head `lo-mu` (machine) fills that gap: the machine is what perceived
+the resonance. In the main clause, `lo-mu` is the patient of `ka-be` (build it for me).
+
+### Gap positions
+
+| Gap | Inner clause structure | Head exits as |
+|-----|------------------------|---------------|
+| Agent absent | `[ lo-patient  predicate ]  role-head` | any role in main clause |
+| Patient absent | `[ la-agent  predicate ]  role-head` | any role in main clause |
+| Predication subject absent | `[ stative-predicate ]  lo-head` | `lo` in main clause |
+
+The gap is uniquely identifiable when all other expected participants are present.
+Action clauses (`ka`-predicate): absent agent = agent gap; absent patient = patient gap.
+Stative predicates (no `ka`): absent `lo`-subject = subject gap.
+
+### Role-particle principle
+
+The role-particle on the head encodes its main-clause role **independently** of its
+inner-clause role. The same head noun can exit with different particles depending on
+how it is used in the main clause:
+
+```
+[lo-ne-ra  ka-se]  lo-mu  ne-mi  ka-be     → lo-mu: machine is patient of main-clause predicate
+[lo-ne-ra  ka-se]  ne-mu  ka-[give]        → ne-mu: machine is recipient of main-clause predicate
+```
+
+### Stative inner clauses
+
+The inner clause does not need to contain an action particle. Stative predicates —
+kinship, epistemic state, property predication — are equally valid inner clauses:
+
+```
+[zo-ne-go  la-mi]  ne-li  ka-be
+```
+*Give [it] to the person who is my parent.* (S104)
+
+The inner clause `[zo-ne-go  la-mi]` is a stative kinship predication. The gap is the
+`lo` subject: the entity being described as "my parent" is absent from the inner clause
+and filled by `ne-li`. `la-mi` in the inner clause is a relational anchor
+(perspective marker), not an action agent.
+
+### Nesting
+
+Relative clauses may be nested — the head of an inner relative clause may itself serve
+as the reference entity of an outer relative clause:
+
+```
+[zo-ne-ru  [zo-ne-go  la-mi]  lo-li]  ne-li  ka-be
+```
+*Give [it] to my parent's sibling.* (S105)
+
+The inner NP `[zo-ne-go  la-mi]  lo-li` = "the person who is my parent" appears as
+the reference entity inside the outer clause `[zo-ne-ru  inner-NP  ...]`.
+
+Two levels of nesting are attested and parse cleanly (S105). Deeper nesting is
+compositionally permitted. Complex paths are typically expressed as multiple declarative
+sentences when depth exceeds two levels.
+
+### Distinguishing relative clauses from subordinate clauses
+
+Subordinate clauses have an explicit clause introducer before the bracket:
+`go [...]`, `wi [...]`, `ta [...]`.
+
+Relative modifier clauses have **no introducer** — the bracket immediately precedes
+the role-marked head. This structural difference disambiguates the two constructions.
 
 ---
 
