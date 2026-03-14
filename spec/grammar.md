@@ -712,6 +712,50 @@ to-go [lo-to-re-su  to-fe-su-ki  ti-de]  lo-ne-fe  de  ti-de
 
 ---
 
+## Concessive Frame (`no-go`)
+
+The compound `no-go` (negation-of-cause) extends the causal frame to express **causal
+independence**: Y holds regardless of X — not because of it, and not despite a
+hypothetical (as in `to-go`), but as a real-world independence claim.
+
+```
+no-go [CONCURRENT-EVENT]  INDEPENDENT-RESULT
+```
+*Despite [X], Y holds. / Y is not derived from X.*
+
+`no-go [X]  Y` asserts two things simultaneously:
+1. X is a real event or state (unlike `to-go`, not hypothetical).
+2. Y's truth does not originate in X. X and Y coexist, but causally independently.
+
+**Three-member causal frame family:**
+
+| Frame | Form | Relationship |
+|-------|------|-------------|
+| Factual causal | `go [X]  Y` | X causes / grounds Y |
+| Counterfactual | `to-go [X]  Y` | non-actual X would cause Y |
+| Concessive | `no-go [X]  Y` | Y holds independent of / despite X |
+
+All three mark the same clause boundary structure: the bracketed clause is the dependent
+clause; the matrix clause follows. The head is `go`; the prefix specifies the
+causal-ontological relation.
+
+**Contrast with `go`:** `go [la-mu  de-be]  lo-mu  ru` would mean the repair *caused*
+the unity — the repair made the device one. `no-go [la-mu  de-be]  lo-mu  ru` means the
+unity holds independent of the repair: the device was already and still is one.
+
+Examples:
+```
+no-go [la-mu  de-be]  lo-mu  ru
+```
+*Despite the device being repaired, the device remains one.* (S180)
+
+```
+no-go [la-mu  pe  ki]  lo-mu  ru
+```
+*Despite the device's parts changing, the device remains one.* (S181, Ship of Theseus)
+
+---
+
 ## Model-Domain Frame (`to  lo-[model]  be`)
 
 A **discourse-scope frame** that opens and closes a stretch of sentences as operating in

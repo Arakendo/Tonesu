@@ -6625,3 +6625,189 @@ Natural:  The knowledge-keeper certifies: I have no perceptual basis for the sig
 | `no-si` | C007 B3 | S173 | **confirmed** |
 | `no-se` | C007 B4 | S174 | **confirmed** |
 | Nested epistemic embedding | C007 A5 | S175 | **confirmed** |
+
+---
+
+## Observer Paradox & Identity Persistence Stress Test (S176–S181)
+
+Formal stress test for self-reference, recursive modeling, and identity persistence through
+change. Six sentences in two sub-batches:
+
+**OPX (Observer Paradox, S176–S179):** Tests whether the ontology can describe a system
+observing itself without collapsing. Progression: self-perception → self-model →
+recursive self-model → self-observing feedback loop.
+
+**IPX (Identity Persistence, S180–S181):** Tests whether identity through change can be
+expressed without a new primitive. Byproduct: discovery of the `no-go` concessive frame.
+
+---
+
+**S176 — Self-perception** *(OPX-001-A)*
+
+*Target: "I observe myself."*
+
+```
+Gloss:    la-mi  se  lo-mi
+Literal:  agent:I  perceive  patient:I
+Natural:  I observe myself. / I am self-aware at the perceptual level.
+```
+
+**Notes:**
+- First self-referential patient: `mi` appears in both the agent slot (`la-mi`) and the
+  patient slot (`lo-mi`). The ontology handles this without structural strain: `la-` and
+  `lo-` are distinct role-markers with no prohibition on shared referents.
+- Baseline for the stress test. If this collapses, the observer paradox is fatal. It
+  doesn't: `la-X  se  lo-X` is a valid general pattern for reflexive perception.
+- Direct parallel to Step 3 of the observer paradox framework: observer = observed.
+
+---
+
+**S177 — Self-model** *(OPX-001-B)*
+
+*Target: "I know my own structure." / "I model what I am made of."*
+
+```
+Gloss:    la-mi  to  [lo-mi  su]
+Literal:  agent:I  know/model  [patient:I  structure]
+Natural:  I model my own constitution. / I know what I am made of.
+```
+
+**Notes:**
+- Embedded inner clause `[lo-mi  su]`: state predication with self as patient,
+  predicate `su` (structure/constitution). Reads: "my structure [is a fact]" / "I have
+  structure." Outer: "I hold this as a model."
+- `la-X  to  [lo-X  su]` = agent knows their own constitution. The self as both the
+  knower and the known structure: Step 4 of the observer paradox.
+- `to` + self-patient nesting is stable: the model-layer (`to`) cleanly separates
+  the knowing act from the known state without collapse.
+
+---
+
+**S178 — Recursive self-model** *(OPX-001-C)*
+
+*Target: "I know that I know my own structure." / Recursive self-modeling.*
+
+```
+Gloss:    la-mi  to  [la-mi  to  [lo-mi  su]]
+Literal:  agent:I  know  [agent:I  know  [patient:I  structure]]
+Natural:  I know that I model my own constitution.
+```
+
+**Notes:**
+- **Three-level nesting** — deepest in the corpus. Previous deepest: S175 (two levels,
+  different agents). S178 is two levels with the same agent at both outer levels, self as
+  patient at the innermost.
+- Each `la-mi` cleanly re-anchors a new clause level. Boundary rule holds: the inner
+  `la-mi` (matrix-level marker) terminates the middle embedding; the inner-inner `lo-mi`
+  anchors the innermost state predication. No ambiguity: `la-` always opens, `lo-` anchors
+  the referent in the patient position.
+- This is the structural "observer paradox" maximally activated: the knowing agent, the
+  known-agent, and the known-structure all refer to the same entity at three different
+  clause levels. The separation of `to` (model layer) from `se` (perception layer) from
+  `su` (structure) is what prevents the levels from collapsing into each other.
+- **Step 5 verdict:** Tonesu handles recursive self-modeling stably. The predication
+  strategy (role-markers provide structural slots independent of referent identity) means
+  self-reference is always explicitly framed rather than implicitly looped.
+
+---
+
+**S179 — Self-observing feedback loop** *(OPX-001-D)*
+
+*Target: "Because the system perceives itself, it regulates."*
+
+```
+Gloss:    go [la-su  se  lo-su]  la-su  wi-re
+Literal:  because [agent:system  perceive  patient:system]  agent:system  feedback-loop
+Natural:  Because the system perceives itself, the system regulates.
+```
+
+**Notes:**
+- **`wi-re` first corpus attestation** (W099). Used here as a predicate directly:
+  `la-su  wi-re` = the system [instantiates/performs] feedback regulation. W099 status
+  upgrades from proposed → active with this use.
+- `la-su  se  lo-su`: the same pattern as S176 (`la-mi  se  lo-mi`) applied to a system
+  entity. `su` as both agent and patient — the system perceives itself. The `go`-clause
+  makes this the *cause*; the matrix makes regulation the *result*.
+- **Step 6 complete:** perception (`se`) → model (implicit in `to`-chain, not restated)
+  → feedback regulation (`wi-re`). The `go`-clause encodes the dependency: self-perception
+  drives self-regulation. The loop is described as a causal chain, not as a primitive new
+  concept.
+- **OPX verdict:** No new primitives required. Self-reference, recursive nesting, and
+  causal self-observation all compose from existing structures. The key insurance is the
+  three-layer separation: `se` (perception), `to` (model), `wi` (goal) — each is
+  orthogonal to the others, which is exactly why they don't collapse under self-reference.
+
+---
+
+**S180 — Identity through repair: concessive frame** *(IPX-001-A)*
+
+*Target: "Despite being repaired, the device [remains] one unit."*
+
+```
+Gloss:    no-go [la-mu  de-be]  lo-mu  ru
+Literal:  not-cause [agent:device  repair]  patient:device  unity
+Natural:  Despite the device being repaired, the device remains one.
+```
+
+**Notes:**
+- **`no-go` concessive frame — first attestation.** The `no-go` compound extends the
+  causal frame family via negation: `no` (absence) + `go` (cause/origin) = "the following
+  event is NOT the causal origin of the matrix clause." Operational meaning: Y holds
+  independently of X. This produces a concessive: *despite X, Y.*
+- Causal frame family now has three members:
+
+  | Frame | Form | Meaning |
+  |-------|------|---------|
+  | Factual causal | `go [X]  Y` | X causes / grounds Y |
+  | Counterfactual | `to-go [X]  Y` | non-actual X would cause Y |
+  | Concessive | `no-go [X]  Y` | Y holds independent of / despite X |
+
+- `lo-mu  ru`: patientive `lo-` on the device; `ru` = unity/singularity = the device is
+  still one (numerically identical, not replaced). This is the identity claim: same unit,
+  post-repair.
+- **IPX target:** identity through change. The identity is expressed by `ru` (it's still
+  one), not by a dedicated "same" primitive. The change is expressed by `de-be` (repair,
+  W035). The concessive `no-go` is the frame that decouples them: the unity is not derived
+  from the repair; it persists through it.
+
+---
+
+**S181 — Identity through parts-replacement: Ship of Theseus** *(IPX-001-B)*
+
+*Target: "Despite its parts changing, the device [remains] one."*
+
+```
+Gloss:    no-go [la-mu  pe  ki]  lo-mu  ru
+Literal:  not-cause [agent:device  parts  change]  patient:device  unity
+Natural:  Despite the device's parts changing, the device remains one.
+```
+
+**Notes:**
+- **`no-go` second attestation.** Same concessive frame; escalated condition: not merely
+  repaired (partial change) but having its parts themselves changed (`pe  ki` = parts +
+  change/motion = constituent exchange). Ship of Theseus case.
+- `la-mu  pe  ki`: the device (agent) has its parts (`pe`) undergoing change (`ki`). `pe`
+  first use in this grammatical role: parts as the implicit argument of the predicate `ki`
+  within an `la-X` clause. Reads: the device [such that its] parts change.
+- **IPX verdict:** Identity persistence requires no new primitive. `ru` (unity/singularity)
+  is sufficient for the numerical-identity claim; `no-go` handles the independence-from-change
+  framing. The Ship of Theseus translates cleanly: an object's oneness is not derived from
+  the stability of its parts.
+- **Deeper implication:** in Tonesu's ontology, `ru` is primitive — which means unity is an
+  irreducible conceptual atom. You can't decompose "being one thing" further. This is why
+  identity persistence works without a "same" primitive: `ru` already IS the primitive for
+  numerical identity. The stress test didn't break the primitive set; it revealed that `ru`
+  was doing this work all along.
+
+---
+
+### OPX/IPX Verdict
+
+| Test | Sentence | Result |
+|------|----------|--------|
+| Self-perception | S176 | Stable — `la-X se lo-X` clean |
+| Self-model | S177 | Stable — `to`+self-patient nesting clean |
+| Recursive self-model | S178 | Stable — 3-level same-agent nesting clean |
+| Self-observing feedback | S179 | Stable — `wi-re` first use; `go`+self-perception chain clean |
+| Identity through repair | S180 | **`no-go` concessive frame discovered** |
+| Ship of Theseus | S181 | Stable — `no-go` confirmed; `ru` as numerical-identity primitive |

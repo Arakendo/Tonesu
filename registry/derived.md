@@ -1989,9 +1989,9 @@ Composition:  wi (will/intention) + re (repetition/cycle) — will that loops: a
               is goal-directed, not merely rhythmic.
 Register:     standard / technical
 Domain:       systems / cognition / operations
-Status:       proposed
-First use:    not yet attested in corpus; registered on basis of primitive validation test
-              for "control" (March 2026).
+Status:       active
+First use:    S179 (`go [la-su  se  lo-su]  la-su  wi-re` = "Because the system perceives
+              itself, the system regulates." — OPX-001-D, Observer Paradox stress test)
 Notes:        Registered after formal application of the three primitive validation rules
               showed "control" does not qualify as a primitive: concept fully decomposes
               into wi (goal) + se (sense deviation) + re (iterate) + be/de (correct).
