@@ -7107,7 +7107,44 @@ Natural:  Because living-system A is in relation with living-system B, A grows a
 
 ---
 
-## Ko Clausal Complement Test (S191)
+## Bilateral Interaction Gap — Social Domain (S194)
+
+*Batch purpose: provide third corpus attestation of the P-PR-002 primitive-pressure gap, in the social domain. S189 demonstrated the gap in physics (force-system coupling); S193 demonstrated it in biology (mutualistic symbiosis). S194 tests the same structural failure in negotiation — whether the language can express simultaneous coupled revision of intentional stance without forcing a sequential causal reading. This is the three-attestation threshold.*
+
+*Test procedure applied: full primitive-pressure test per revised protocol — three decompositions attempted, repair test applied, wrong-reading classification explicit.*
+
+---
+
+**S194 — Trade negotiation: both delegates revise their terms at the exchange moment**
+
+*Target: "Each delegate revised their terms in response to the other."*
+
+*Concordian framing: a formal trade negotiation exchange moment. Both parties enter with an established intentional-stance (`wi-to`) — their current position on terms. The exchange event couples them: both stances shift simultaneously at the moment of engagement. Neither party's revision precedes the other's; neither is the unilateral cause of the other's change. The coupled encounter is the event; both revised stances are its simultaneous results.*
+
+```
+Gloss:    go [la-li  ne  la-li]  du [la-li  wi-to-ki]  du [la-li  wi-to-ki]
+Literal:  cause [agent:person  relation  agent:person]
+          result [agent:person  stance-shifts]  result [agent:person  stance-shifts]
+Natural:  Because delegate A is in relation with delegate B, A shifts position and B shifts position.
+```
+
+**Notes:**
+- **Third corpus attestation for P-PR-002.** S189: physics/force-systems. S193: biology/mutualistic symbiosis. S194: social/negotiation. Three-wrong-reading threshold is reached.
+- **`wi-to-ki`:** `wi` (intention) + `to` (conceptual pattern) + `ki` (inchoative) = entering a new intentional-conceptual configuration = revising one's stance. Head-final: the change-event (`ki`) in the domain of intentional-pattern (`wi-to`). Compositionally transparent; no registration needed for the test.
+- **Wrong reading (primary decomposition):** Double `du` forces sequencing — delegate A revises first, then delegate B revises. But negotiation revision is a coupled simultaneous exchange: both parties update their positions *at the exchange moment*, which is a single event, not two sequential ones. The language has no way to mark the two outcomes as concurrent.
+- **Alternative decompositions tested:**
+  - *Two causal chains* (`go [la-li wi-to] du [la-li wi-to-ki]. go [la-li wi-to] du [la-li wi-to-ki].`): Loses the coupling entirely. Two independent internal revisions; the mutual-response is gone. Wrong reading: one event becomes two separate events.
+  - *Relational + causal hybrid* (`la-li  ne  la-li  go  wi-to-ki`): Which party changes? Both changing is lost. Wrong reading: mutual change becomes undifferentiated one-way causation from the relation.
+  - *`ne` between shift-events* (`du [la-li  wi-to-ki  ne  la-li  wi-to-ki]`): `ne` between two events reads as a static relation between two change-states, not as the assertion of their simultaneity. Wrong reading: interaction becomes static relation at the event-result level.
+- **Repair test:** `ne-ki` (relation-change) = the relation itself shifts — not both parties. `wi-to-ne` = a static shared-stance state, not the dynamic revision event. No compound of existing primitives asserts "these two events are simultaneous and mutually constitutive" without that compound being exactly the new concept needed. Repair fails.
+- **The social domain removes the natural-law objection.** Physics and biology involve simultaneous coupling as a matter of natural law (field interactions, metabolic mutualism). Negotiation is chosen, deliberate, one of the paradigm cases of intentional mutual transformation. If the gap persists here, it is not an edge case of physics formalisms — it is a structural gap in the language's treatment of coupled events generally.
+- Same `go...ne...du...du` canonical structure as S189 and S193; results are directly comparable. The wrong reading is the same in all three domains.
+
+**Verdict S194: gap confirmed (3/3). Three-attestation threshold reached.** The P-PR-002 simultaneous-mutual-transformation gap is persistent across physics, biology, and social domains. All alternative decompositions fail. Repair by compounding fails. A primitive slot evaluation is now triggered. See open-questions.md for the updated entry.
+
+---
+
+## Bilateral Interaction Gap — Biology Domain (S193)
 
 *Batch purpose: provide second corpus attestation of `ko` with a clausal complement (first: C005 A2), using a different container type (archive vs. doctrine), in order to confirm the extension is systematic and enable formalization of the rule in spec/grammar.md § Containment Predicates.*
 
