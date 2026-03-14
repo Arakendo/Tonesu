@@ -160,6 +160,23 @@ Color gradient via `ki` (motion/change):
 ker ki pom        → transitioning red-to-blue    (spectral gradient)
 ```
 
+### Atomic and molecular compounds
+
+Subatomic and chemical-structure concepts compose from existing primitives — no CVC forms needed.
+
+| Concept    | Compound    | Reading |
+|------------|-------------|-------------------------------------------------------------------|
+| particle   | `pe-ma`     | component of matter |
+| atom       | `ru-pe-ma`  | singular / irreducible component of matter |
+| molecule   | `su-ma`     | structured matter |
+| element    | `fe-ma`     | bounded / categorically distinct matter |
+| ion        | `ma-ra`     | matter in an energy / force state |
+| compound   | `su-fe-ma`  | structured, categorically distinct matter |
+
+These use the standard compound slot before `nu` where counting is needed: `bun nu ru-pe-ma` = two atoms.
+
+**Conventional anchor exception:** The mole (6.022×10²³ particles) is a defined-by-convention counting unit, not derivable from primitives. It requires a CVC anchor form — see FLAG-CVC-007.
+
 ### Probability with digits
 
 From the probability stress test (notes/open-questions.md):
@@ -383,6 +400,19 @@ All 8 forms from `spec/phonology.md §CVC Root Reserve` shortlist are assigned t
 ### FLAG-CVC-003 — Large number expression
 
 Digit chaining (`wes nil nil nu mu` = 600) is unambiguous but verbose for large numbers in ordinary speech. Options: (a) accept positional chaining only; (b) add explicit power-of-ten words (`ten`, `hundred`, `thousand` equivalents as additional CVC forms); (c) route large exact values through the scale prefix system (`pir nu mu` ≈ thousand objects). Defer until corpus shows a real pressure; log under NUM-001 in open-questions.md.
+
+### FLAG-CVC-007 — Mole and ampere: conventional anchors pending assignment
+
+The **mole** (6.022×10²³ — Avogadro's number of particles) and the **ampere** (defined by elementary charge flow) are SI base units whose values are fixed by measurement convention, not derivable from primitives. Like the AU and light-year, they require CVC anchor forms. Neither is assigned yet.
+
+Problem: the CVC stratum has exactly **two free stems remaining** (`wa` and `wo`). Assigning both mole and ampere would exhaust the tier entirely with no reserve left.
+
+**Deferred until a corpus sentence requires one.** Options when that pressure arrives:
+- `wal` or `wam` = mole; `wol` or `won` = ampere (exhausts `wa`/`wo`)
+- Accept verbose form in specialist register: `baf bun bun nu pe-ma` (Avogadro-digit chain + matter-component unit) until a shortform is demanded
+- Open a secondary CVC pool using stop codas (`-k`, `-p`, `-t`) or `v`-initial stems, which are now legal since `v` was added to the inventory (FLAG-CVC-001 resolved). This would extend the tier rather than exhaust it.
+
+Track alongside NUM-001 in `notes/open-questions.md`.
 
 ### FLAG-CVC-006 — CVC stratum near-depletion
 
