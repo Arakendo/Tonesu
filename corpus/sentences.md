@@ -7044,3 +7044,32 @@ Natural:  Because force-system A is in relation with force-system B, A moves and
 | Measurement | S187 | Stable — `nu-se` (W102) first attested; `ka nu-se lo-X` clean |
 | Symmetry | S188 | Stable — `no-go [lo-su ki] lo-su ru`; same form as conservation |
 | Bilateral interaction | S189 | **Gap demonstrated** — P-PR-002 corroborated; double `du` forces sequential reading |
+
+---
+
+## No Contrast Coordinator Test (S190)
+
+*Batch purpose: provide second corpus attestation of `no` as an intra-clause contrast coordinator (first: S090) using a different predicate and domain, enabling formalization of the pattern in spec/grammar.md § Negation.*
+
+---
+
+**S190 — Machine perception ceiling: signal detected, not pattern**
+
+*Target: "The machine detected the signal, not the conceptual pattern."*
+
+*Concordian framing: machines have perceptual capacity (`se`) but their output is signal-level (`si`), not pattern-level (`to`). This sentence makes that epistemic ceiling explicit compositionally.*
+
+```
+Gloss:    la-mu  lo-si  se  no  lo-to
+Literal:  agent:machine  patient:signal  perceived  contrast-not  patient:conceptual-pattern
+Natural:  The machine detected the signal, not the pattern.
+```
+
+**Notes:**
+- **Second corpus attestation of `no` as intra-clause contrast coordinator.** First use: S090 (`lo-to-re-su  be  no  lo-wi-to` = "followed the doctrine, not the plan"). Here: `lo-si  se  no  lo-to` = "perceived the signal, not the pattern." Different predicate (`se` vs `be`), different domain (machine perception vs. mission instruction), parallel structure (patient contrast in both).
+- `no` in the contrast coordinator position negates only the following constituent (`lo-to`), not the predicate. The machine did perceive; what it perceived was `lo-si`, not `lo-to`. The predicate `se` is unaffected.
+- **Patient contrast:** `lo-si` (raw signal / signal data) vs. `lo-to` (conceptual pattern). In the Concordian epistemic hierarchy, machines register signal-level data (`si`); only persons or sufficiently organized systems extract conceptual patterns (`to`). This sentence embodies that ceiling not as a doctrinal statement but as a bare perceptual report.
+- **Bare `se` (no epistemic frame):** The machine's perception is reported without an outer `la-mu  se  [prop]` frame. That frame would attribute a personal epistemic stance to the machine, which doesn't apply. Inanimate agents simply perceive; they don't hold epistemic positions. Verb as bare predicate; machine as grammatical agent.
+- With two attestations (S090, S190), the `no` contrast coordinator is ready to formalize. Structure confirmed: `[established constituent]  no  [rejected alternative]`, with both constituents grammatically parallel (`lo-` patients in both cases so far).
+
+**Verdict S190: clean.** `no` as contrast coordinator between parallel `lo-` patients is stable with `se` predicate. Generalizes beyond `be`. Ready to add as Level 4 in § Negation.

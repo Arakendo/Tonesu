@@ -254,6 +254,19 @@ no-ka-ki  lo-mu    →  Don't move the machine.
 Attested: S036 (`no [ka-se]` = "cannot be consumed"), S172 (`lo-si-de  no [ka-be]`
 = "the signal record cannot be altered").
 
+### Level 4 — Intra-clause contrast coordinator
+
+`no` appears between two grammatically parallel constituents in the same clause — both patients, both agents, or both predicate forms — to mark the first as the actual case and the second as the rejected alternative. The predicate is unaffected; only the second constituent is negated.
+
+```
+lo-to-re-su  be  no  lo-wi-to    →  followed the doctrine, not the plan  (S090)
+la-mu  lo-si  se  no  lo-to      →  machine perceived the signal, not the pattern  (S190)
+```
+
+Structure: `[established constituent]  no  [rejected alternative]`. Both constituents must be of the same grammatical type. The `no` is not prefixed to the following constituent — it floats between the two, readable as the `no`-root in its absence/negation meaning: "the second item is absent from this event."
+
+**Sentence-initial `no`** as a minimal negative response to a polar question (`no` / `no — [elaboration]`, C006 B3) is a related discourse-level use with the same root semantics. Documented in § Questions.
+
 ### Summary
 
 | Level | Form | Status |
@@ -262,6 +275,8 @@ Attested: S036 (`no [ka-se]` = "cannot be consumed"), S172 (`lo-si-de  no [ka-be
 | Compound prefix | `no-[compound]` | confirmed (S063) |
 | Action negation | `no-ka-X` | confirmed |
 | Clause negation | `no [ka-clause]` | confirmed (S036, S172) |
+| Contrast coordinator | `A  no  B` | confirmed (S090, S190) |
+| Sentence-initial minimal negative | `no` / `no — [prop]` | confirmed (C006 B3); see § Questions |
 
 ---
 
