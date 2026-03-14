@@ -1955,6 +1955,29 @@ Related:      to-fe-su (W072), ki (becoming/motion), to-su (organized knowledge)
 
 ---
 
+**W098**
+```
+Form:         si-de
+Type:         compound
+Class:        entity / concept
+Definition:   past signal; signal-of-record; historical signal data; prior observation data
+Composition:  si (signal/encoded-representation) + de (decay/past) — a signal that has
+              passed into the record; the signal from an earlier time, now a fixed datum.
+              Distinct from bare si (active signal) and si-su (archive as institution).
+Register:     standard
+Domain:       knowledge / communications / archival
+Status:       active
+First use:    S106 (relative-clause test: `[lo-si-de  ka-to-ko]  lo-mu  ne-mi  ka-be`
+              = "Build me the machine that remembers past signals.")
+Notes:        Three-attestation corpus basis: S106, S172, S174.
+              si-de = the specific past signal datum (one record);
+              si-su (W028 type) = the archive as a whole system;
+              bare si = active or current signal still in transit or not yet processed.
+Related:      si (signal), de (decay/past), to-ko (W044, memory), si-su (archive)
+```
+
+---
+
 - [x] ~~Resolve whether compound forms use hyphens in writing or run together~~ → Resolved: solid spelling is canonical; hyphens are analytic notation only. See spec/word-formation.md § Written Form.
 - [ ] Review W002 (su-mu-li) — does it conflict with the derivational marker stack order?
 - [ ] Develop domain-specific sub-lists once domains are finalized (see ontology/domains.md)

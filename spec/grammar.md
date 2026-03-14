@@ -248,9 +248,11 @@ no-ne-fe     →  non-dependency (does not require)
 no-ka-ki  lo-mu    →  Don't move the machine.
 ```
 
-### Level 3 — Clause negation (provisional)
+### Level 3 — Clause negation
 
-`no [ka-clause]` fronts an entire action clause, negating the action frame as a whole. Attested once (S036: `no [ka-se]` = "cannot consume"). Rule confirmed once a second corpus case appears.
+`no [ka-clause]` fronts an entire action clause, negating the action frame as a whole.
+Attested: S036 (`no [ka-se]` = "cannot be consumed"), S172 (`lo-si-de  no [ka-be]`
+= "the signal record cannot be altered").
 
 ### Summary
 
@@ -259,7 +261,7 @@ no-ka-ki  lo-mu    →  Don't move the machine.
 | Root prefix | `no-X` | confirmed |
 | Compound prefix | `no-[compound]` | confirmed (S063) |
 | Action negation | `no-ka-X` | confirmed |
-| Clause negation | `no [ka-clause]` | provisional (S036) |
+| Clause negation | `no [ka-clause]` | confirmed (S036, S172) |
 
 ---
 
