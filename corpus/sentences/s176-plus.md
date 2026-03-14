@@ -1158,3 +1158,209 @@ Natural:  I am resting.
 7. **Pain is the most analytical construction here** (`fa-be no-vo`). Three speakers may find this cold — the language describes the structure of pain rather than naming it. This is a *feature* (Principle 9 compliance) not a bug: pain is a compound experience with identifiable affective components.
 
 **No new primitives warranted by this test.** Candidates suggested in open-questions.md (need/deficit root, embodied-state specificity, social relation primitive) — all three are handled adequately by `ne-fe`, `fa`, and `ne`/`zi` respectively without corpus pressure for new roots.
+
+---
+
+## Geometric Constructs — Assemblage-First Audit (S228–S237)
+
+*Batch purpose (GEO-001): determine whether point, line, angle, triangle, square, rectangle, circle, sphere, and polygon require CVC or CVCC forms, or whether all are expressible compositionally from existing primitives. Core candidates: `su` (structure/order), `fe` (boundary/limit), `pa` (place/space), `di` (direction), `re` (repetition/cycle), `nu` (quantity), `ru` (unity/singularity), `ki` (motion). The Assemblage-First Rule criterion 1 asks: does the concept have NO compositional expression at all? If any compositional expression exists — however verbose — no shortform is warranted on that criterion alone.*
+
+*Pre-analysis: geometric shapes are defined by their structural-boundary properties (`su`+`fe`) and may be fully specified by combining direction, closure (cycle/repetition), and count. This is testable. Running shapes through corpus sentences forces resolution of each compound's parse.*
+
+---
+
+### Point, Line, Angle (S228–S230)
+
+**S228 — Point** *(GEO-001-A)*
+
+*What is a point? A unique location — a place of unity/singularity with no extension.*
+
+```
+Gloss:    pa-ru
+Literal:  place-unity
+Natural:  point / singular location
+```
+
+`pa` (place/space) + `ru` (unity/singularity) = a location that is one and undivided = a point. No extension, no direction, no repetition — just a singular site. **Not distorted.** The compound characterizes what a point is with precision: the most basic spatial object, a unity of location.
+
+*In use: `la-mi  to  lo-pa-ru` = I think about / model a point. `la-pa-ru  ne  pa-ru` = one point is in relation with another point.*
+
+---
+
+**S229 — Line** *(GEO-001-B)*
+
+*What is a line? Extension in a single direction — a boundary that has direction but no width.*
+
+```
+Gloss:    fe-di
+Literal:  boundary-direction
+Natural:  line / directed edge
+```
+
+`fe` (boundary/limit) + `di` (direction) = a boundary oriented in a direction = a line. A line is the simplest directional boundary: it extends somewhere, with no enclosure. **Not distorted.** This is what a line *is* at the structural level — a directed limit.
+
+*Ray vs. segment: a full line has direction without bound (`fe-di`); a segment bounded at both ends adds `fe` at each end: `fe-di-fe` (bounded directed boundary). In corpus use, `fe-di` covers the general case; bounded forms use the double-`fe` structure.*
+
+---
+
+**S230 — Angle** *(GEO-001-C)*
+
+*What is an angle? The relation between two directed boundaries meeting at a point.*
+
+```
+Gloss:    fe-di-ne
+Literal:  boundary-direction-relation
+Natural:  angle / two lines meeting in relation
+```
+
+`fe-di` (line) + `ne` (relation/connection) = the relational state between two directed boundaries = an angle. Angles are not stand-alone objects — they exist as the *relation* between lines. Head-final: `ne` is the head (the relational state). The two lines meeting are the compound's implicit participants.
+
+*Measured angle: `fe-di-ne  nu-X` = angle of quantity X = X degrees/radians. Right angle: `fe-di-ne  ru-pu` (one-of-four = a quarter-turn relation) or, with the radian CVCC candidate rejected earlier: it composes without a shortform.*
+
+*Note: `varn` (π) and `worn` (τ) are available in the CVCC tier for full-turn and half-turn angle magnitudes. Angle-as-structure is `fe-di-ne`; angle-as-quantity is `fe-di-ne nu-X` where X draws on the number/constant vocabulary.*
+
+---
+
+### Closed Shapes — Triangle, Square, Rectangle (S231–S233)
+
+**S231 — Triangle** *(GEO-001-D)*
+
+*What is a triangle? A closed boundary structure with three corners — three angles, three directed segments returning to origin.*
+
+```
+Gloss:    su-fe-re  nu-bol
+Literal:  structural-boundary-cycle  quantity:three
+Natural:  triangle / three-angled closed form
+```
+
+`su` (structure/order) + `fe` (boundary) + `re` (repetition/cycle/closing) = a structured boundary that closes on itself = a polygon in general. `nu-bol` = quantity: three (digit `bol` = 3) = three repetitions of the boundary-direction-angle unit = three sides, three corners.
+
+**Parse notes:**
+- `su-fe-re` = the basic closed-polygon template: structure (`su`) + boundary (`fe`) + cycle/closure (`re`). The closure (`re`) is what distinguishes a polygon from an open line path.
+- `nu-bol` as the count modifier specifies the specific polygon. `su-fe-re nu-bun` = square/rhombus (4 sides); `su-fe-re nu-bun-bol` = heptagon (7), etc.
+- **Head-final:** `re` (cycle/closure) is the semantic head — the key distinguishing feature of a closed shape is its closure/return. `su-fe` is the structural-boundary domain.
+
+*In use: `la-mi  to  lo-su-fe-re  nu-bol` = I am modeling a triangle. `la-su-fe-re  nu-bol  su-su` = a triangle is well-formed / is structurally stable (triangles are maximally rigid — their internal structure is self-determining).*
+
+---
+
+**S232 — Square / Rhombus** *(GEO-001-E)*
+
+*What is a square? A closed boundary structure with four equal sides.*
+
+```
+Gloss:    su-fe-re  nu-bun  su-ne-ru
+Literal:  structural-boundary-cycle  quantity:four  structure-relation-unity
+Natural:  square / four equal sides, all sides in unitary relation
+```
+
+`su-fe-re nu-bun` = four-sided closed polygon (the rhombus/square template). `su-ne-ru` = structural + relation + unity = all sides standing in unitary relation to each other = equal sides. The qualifier `su-ne-ru` distinguishes a square from a general quadrilateral.
+
+**Shortform in context:** In practice, `su-fe-re nu-bun` alone is usually sufficient — context specifies whether edges are equal. Full specification `su-fe-re nu-bun su-ne-ru` is the formal technical form.
+
+*Rectangle (unequal sides): `su-fe-re nu-bun fe-di-ne ru-pu` = four-sided closed shape where all angles are quarter-turn (right angles). The pair qualifier specifies perpendicularity of meeting, not equal lengths.*
+
+---
+
+**S233 — Rectangle (explicit form)** *(GEO-001-F)*
+
+```
+Gloss:    su-fe-re  nu-bun  fe-di-ne  ru-pu
+Literal:  structural-boundary-cycle  quantity:four  angle  one-of-four
+Natural:  rectangle / four-sided closed shape with right angles
+```
+
+`fe-di-ne ru-pu` = angle + one-fourth = right angle (a quarter-turn relation, `ru` = unity/one, `pu` = plurality/group — together used as fraction notation `ru-pu` = one unit within the plural = 1/4 of the turn). Head-final: `pu` is the head (plurality/portion); `ru` specifies the unit count (one). This fraction reads: one of [the four equal portions of a full turn].
+
+*Note: `ru-pu` (one-of-many = "one-nth") is being established here for the first time in this batch as a fraction constructor. This is usable beyond geometry: `ru-pu nu-bun` = one-of-four = 1/4; `ru-pu nu-bol` = one-of-three = 1/3. The pattern is productive — no new root needed.*
+
+---
+
+### Circle and Sphere (S234–S235)
+
+**S234 — Circle** *(GEO-001-G)*
+
+*What is a circle? A boundary that closes on itself with constant distance from a center — it is the path of a point moving at constant distance from a fixed point.*
+
+```
+Gloss:    fe-re-ru
+Literal:  boundary-cycle-unity
+Natural:  circle / closed boundary of constant return
+```
+
+`fe` (boundary) + `re` (cycle/repetition) + `ru` (unity/singularity) = a boundary that closes in a unified, single recurring loop = a circle. The `ru` (unity) specifies that the cycle closes as *one* — it is a single unbroken closure, unlike a spiral (`fe-re-be`, a boundary that cycles with growth) or a figure-eight (`fe-re-re`, double closure).
+
+**Why `ru` and not `su`?** `su` (structure/organization) would give `fe-re-su` = a structured cyclical boundary = general polygon / any organized closed form. `ru` (unity/singular) adds the key property: a circle is a *single undifferentiated closure* — it has no corners, no variation in its curvature, no structural articulation. The unity of the boundary is what defines it.
+
+**Parsical confirmation:** `fe-re` (boundary + cycle) is already sufficient for "closed loop." `ru` is the differentiator from polygon. `fe-re-su nu-bol` = triangle; `fe-re-ru` = circle. The count is replaced by unity — no corners, no discrete return points.
+
+*`varn` (π) connects: the ratio of a `fe-re-ru`'s boundary length to its widest crossing is `varn`. The CVCC form `varn` and the compound form `fe-re-ru` are complementary; neither replaces the other.*
+
+---
+
+**S235 — Sphere** *(GEO-001-H)*
+
+```
+Gloss:    su-fe-re-ru
+Literal:  structural-boundary-cycle-unity
+Natural:  sphere / unified three-dimensional closed boundary
+```
+
+`su` (structure/order) + `fe-re-ru` (circle = unified closed boundary) = organized three-dimensional closure. The `su` prefix extends the 2D circle into 3D: the structural arrangement of circular cross-sections in all orientations, producing a sphere. Head-final: `ru` (unity) remains the head — a sphere is still fundamentally a unified closure, now in volumetric space.
+
+*In use: `la-su-fe-re-ru  su-ne-vo` = a sphere is structurally regular / symmetrical. `la-su-fe-re-ru  ne  pa-ru` = a sphere relates to a center point — it encloses a `pa-ru`.*
+
+---
+
+### Full Sentence Tests (S236–S237)
+
+**S236 — Geometry as tool: "The architect drew a circle."** *(GEO-001-I)*
+
+```
+Gloss:    la-[mu-ka-li  na Derek]  ka  lo-fe-re-ru
+Literal:  agent:[tool-act-person  name:Derek]  intentional-act  patient:circle
+Natural:  The architect Derek drew a circle.
+```
+
+`mu-ka-li` = artifact-action-agent = a person who intentionally acts through tools = architect/designer/maker. `ka lo-fe-re-ru` = performs action on a circle = draws/makes a circle. Tests the circle compound in a concrete act sentence. Not distorted.
+
+---
+
+**S237 — Mathematical predication: "A triangle contains a point."** *(GEO-001-J)*
+
+```
+Gloss:    la-su-fe-re  nu-bol  ko  lo-pa-ru
+Literal:  agent:three-closed-shape  contains  patient:point
+Natural:  A triangle contains a point.
+```
+
+`ko` = containment/interior = the geometric interior relation. `la-su-fe-re nu-bol` = the three-sided closed shape as subject-agent of its containment. `lo-pa-ru` = patient: a point. Not distorted — containment (`ko`) is structurally correct for interior inclusion.
+
+---
+
+**Verdict GEO-001: All geometric constructs are fully compositional. No CVC or CVCC forms warranted.**
+
+| Shape | Compound | Root analysis |
+|-------|---------|---------------|
+| Point | `pa-ru` | place + unity |
+| Line | `fe-di` | boundary + direction |
+| Angle | `fe-di-ne` | line + relation |
+| Right angle | `fe-di-ne ru-pu` | angle + one-fourth |
+| Triangle | `su-fe-re nu-bol` | closed-structure + 3 |
+| Square | `su-fe-re nu-bun` | closed-structure + 4 |
+| Rectangle | `su-fe-re nu-bun fe-di-ne ru-pu` | 4-sided + right-angles |
+| Circle | `fe-re-ru` | boundary + cycle + unity |
+| Sphere | `su-fe-re-ru` | structure + circle |
+| n-gon | `su-fe-re nu-X` | closed-structure + n |
+
+**Assemblage-First audit results:**
+
+- **Criterion 1 — No compositional expression exists:** FAILS for all geometric shapes. Every shape has a direct compositional expression using `su`, `fe`, `re`, `ru`, `di`, `pa`, `nu`. Polygons generalize via count (`nu-X`); circle and sphere are distinguished by `ru` (unity) vs. `su` (structured variation).
+- **Conclusion:** No CVCCs warranted. Not even worth considering. Geometry is the *ideal use case* for compositional vocabulary — shapes are defined by their structural-boundary properties, which `su`, `fe`, and `re` cover exactly.
+
+**Structural bonus — `ru-pu` fraction constructor established:**
+`ru` (unity/one) + `pu` (plurality/many) = "one of many" = fractional quantity. `ru-pu nu-bun` = one-of-four = 1/4; `ru-pu nu-bol` = one-of-three = 1/3. Productive compound, not previously attested. First use: right angle = `fe-di-ne ru-pu` (one-of-four of a full turn).
+
+**Polygon generativity note:** `su-fe-re` is the polygon template. Any n-gon is `su-fe-re nu-N`. The digit system (`bol`=3, `bun`=4, `wes`=5, `fon`=6, `hin`=7, `mol`=8…) provides all required counts immediately. A hundred-sided polygon = `su-fe-re nu-wes-nil` (quantity: five-zero = fifty? — need to confirm large number expression). Large polygon counts are verbose but not distorted.
+
+**`fe-re-ru` circle vs. `varn` (π):** These are complementary, not competing. `fe-re-ru` is the *shape* (the object); `varn` is the *constant* (the ratio of circumference to diameter of that object). Asking whether a circle needs a CVCC is a category error — π needed a CVCC because it is an irrational number with no compositional expression; a circle is a spatial structure, perfectly expressible as `fe-re-ru`.
