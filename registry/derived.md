@@ -665,6 +665,7 @@ Notes:        ti-de is used in the `ta` (temporal) particle frame: ta-ti-de = "a
               ti-re (W103: recurring future) | ti-fe (W037: deadline).
 Related:      ti (primitive: time), de (primitive: decay/end), ti-be (W040: proximate future),
               ti-re (W103: recurring future), ti-fe (W037: deadline), ta (particle: temporal frame)
+---
 
 ---
 
