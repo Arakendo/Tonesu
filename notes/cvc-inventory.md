@@ -359,30 +359,77 @@ These are the rarest entries in the lexicon. The CVCC tier is not for general vo
 
 ### Assigned forms
 
-| Constant | Value | Form  | CV core | CC coda | Notes |
-|----------|-------|-------|---------|---------|-------|
-| π (pi)   | 3.14159… | `varn` | `va`    | `-rn`   | transcendental, irrational; canonical ratio of circle circumference to diameter |
-| mole     | 6.022×10²³ | `wels` | `we`    | `-ls`   | Avogadro's number as counting unit; conventional SI anchor |
+#### Mathematical constants
 
-### Usage
+| Constant | Value | Form   | CV core | CC coda | Notes |
+|----------|-------|--------|---------|---------|-------|
+| π (pi)          | 3.14159…       | `varn` | `va` | `-rn` | transcendental; circle circumference/diameter ratio |
+| τ (tau)         | 6.28318…       | `worn` | `wo` | `-rn` | 2π; full-turn circle constant |
+| e (Euler)       | 2.71828…       | `werm` | `we` | `-rm` | natural logarithm base; transcendental |
+| φ (golden ratio)| 1.61803…       | `vins` | `vi` | `-ns` | (1+√5)/2; self-similar proportion |
+| √2              | 1.41421…       | `valm` | `va` | `-lm` | Pythagorean constant; diagonal of unit square |
+| i (imaginary)   | √(−1)          | `walf` | `wa` | `-lf` | complex unit; 90° rotation in complex plane |
 
-CVCC constants slot in wherever a number or unit would appear:
+#### Physical constants
+
+| Constant | Value | Form   | CV core | CC coda | Notes |
+|----------|-------|--------|---------|---------|-------|
+| c (speed of light)    | 299,792,458 m/s      | `vern` | `ve` | `-rn` | exact by SI definition since 2019 |
+| ħ (reduced Planck)    | 1.055×10⁻³⁴ J·s   | `birm` | `bi` | `-rm` | h/2π; quantum of action; preferred form over full h |
+| G (gravitational)     | 6.674×10⁻¹¹ N·m²/kg² | `velf` | `ve` | `-lf` | Newton/Einstein gravitational constant |
+| k₂ (Boltzmann)        | 1.381×10⁻²³ J/K     | `holm` | `ho` | `-lm` | thermal energy per kelvin |
+| e (elementary charge) | 1.602×10⁻¹⁹ C      | `vils` | `vi` | `-ls` | proton/electron charge magnitude |
+| α (fine structure)    | ≈1/137.036          | `yolm` | `yo` | `-lm` | dimensionless; electromagnetic coupling strength |
+| mole (N₂)            | 6.022×10²³        | `wels` | `we` | `-ls` | Avogadro's number as counting unit; conventional SI anchor |
+
+**Spoken sequence (mathematical):** varn · worn · werm · vins · valm · walf  
+**Spoken sequence (physical):** vern · birm · velf · holm · vils · yolm · wels
+
+### Near-neighbor check (CVCC set)
+
+| Pair | Constants | First 3 phonemes | Coda | Verdict |
+|------|-----------|-----------------|------|---------|
+| `varn` / `vern` | π / c | var vs ver | both -n (part of cluster) | distinct vowel ✓ |
+| `varn` / `valm` | π / √2 | var vs val | -rn vs -lm | distinct coda ✓ |
+| `vern` / `velf` | c / G | ver vs vel | -rn vs -lf | distinct coda ✓ |
+| `vins` / `vils` | φ / charge e | vin vs vil | -ns vs -ls | distinct coda-initial ✓ |
+| `werm` / `wels` | e / mole | wer vs wel | -rm vs -ls | distinct coda ✓ |
+| `worn` / `walf` | τ / i | wor vs wal | -rn vs -lf | distinct vowel + coda ✓ |
+| `holm` / `yolm` | k₂ / α | hol vs yol | both -m | distinct onset (h vs y) ✓ |
+| `valm` / `velf` | √2 / G | val vs vel | both -lm/-lf | different vowel + coda ✓ |
+| `birm` / `bim`  | ħ / pico (CVC) | bir vs bi\_ | CVCC vs CVC | different length + tier ✓ |
+| `vern` / `vern` | — | — | — | unique ✓ |
+
+All 13 CVCC forms are distinct from each other and from all 38 CVC forms. ✓
+
+### Usage examples
 
 ```
-varn nu pa-re           → π units of spatial-cycle      (circumference calculation)
+varn nu pa-re           → π quantities of spatial-cycle     (circumference)
+bun varn nu pa-re       → 2π = τ (but use worn directly)
+worn nu pa              → τ radians                         (full circle)
+werm be                 → e growing                         (natural exponential growth)
+holm nu ha              → Boltzmann-quantity of heat         (thermal energy)
 bun wels nu ru-pe-ma    → 2 moles of atoms
+vern nu pa-ti           → speed-of-light quantity of distance/time
+valm nu pa              → √2 unit of space                   (diagonal of unit square)
 ```
 
-For approximation, digits still work: `gal bol mol nu …` (3.14…) is the verbose form; `varn` is the exact/canonical atom.
+Approximate form (when digits suffice; exact form when precision required):
+
+```
+gal bol mol … nu pa-re      → 3.14… (approximation, verbose)
+varn nu pa-re                → π exactly (canonical)
+```
 
 ### Deferred constants (assign when corpus pressure arrives)
 
-| Constant | Description | Notes |
-|----------|-------------|-------|
-| e (Euler) | 2.71828… | natural logarithm base; transcendental |
-| ħ (Planck) | 1.055×10⁻³⁴ J·s | reduced Planck constant; quantum mechanics anchor |
-| c (speed of light) | 299,792,458 m/s | could use `bun zan zan … nu pa-ti` compositionally, or assign CVCC |
-| ampere | elementary charge flow | conventional SI base unit; see FLAG-CVC-007 |
+| Constant | Description | Candidate form |
+|----------|-------------|----------------|
+| h (full Planck)    | 6.626×10⁻³⁴ J·s; ħ = h/2π | `birn` (bi+-rn) if distinction needed |
+| ampere             | conventional SI current unit | see FLAG-CVC-007 |
+| γ (Euler-Mascheroni) | 0.5772…; limit constant | `galf` or `garm` |
+| ∞ (infinity)       | not a number; limit concept | may express as `no-fe nu` (unbounded quantity) rather than CVCC |
 
 ---
 
@@ -390,13 +437,14 @@ For approximation, digits still work: `gal bol mol nu …` (3.14…) is the verb
 
 ### Uniqueness
 
-All 38 proposed forms are distinct:
+All 51 proposed forms are distinct:
 
 > nil bol bun gal mol hin wes yom fon zan  
 > yel yim ker gim pom sam tem dol kus  
 > zum mes rim pir baf wul bim les  
 > gul fin fus hem  
-> hon hun yam
+> hon hun yam  
+> varn worn werm vins valm walf vern birm velf holm vils yolm wels
 
 No two are identical. ✓
 
