@@ -1064,6 +1064,10 @@ Notes:        Key compound for the Concordia mecha resonance concept. Structural
               WATCH: if ne-ra appears in five or more sentences across diverse contexts, evaluate
               whether the relational-energy concept has become load-bearing enough to consider a
               shortform or formal lexicalization status.
+              CROSS-REFERENCE: `zi` admitted as primitive 34 (March 2026). `ne-ra` describes
+              the *state* of energetic coupling; `zi-ra` (W104) describes the *event* of mutual
+              energy transformation. These are complementary: a system in ne-ra state undergoes
+              zi-ra events. `ne-ra` is NOT superseded by `zi-ra`.
 Related:      ne (relation), ra (energy), pa-ra (W053), ne-ra-ki (W059), wi (will/intention)
 ```
 
@@ -2148,6 +2152,69 @@ Notes:        Contrasts with `ti-be` (W040, proximate future) on the linear-vs-c
 Related:      ti (primitive: time), re (primitive: recurrence/cycle), ti-be (W040: generic
               proximate future), ti-de (W041: past time), ti-fe (W037: deadline),
               ta (particle: temporal frame)
+```
+
+---
+
+**W104**
+```
+Form:         zi-ra
+Type:         compound
+Class:        event / process
+Definition:   physical interaction; mutual energy transformation; a coupled event in which
+              two force-bearing systems each modify the other simultaneously through their
+              field relation. The event in which a ne-ra resonance state produces bilateral
+              change.
+Composition:  zi (mutual/coupling event) + ra (energy/force) — energetic mutual transformation.
+              Head-final: ra (energy) is head; zi specifies that the energy domain event
+              involves simultaneous bilateral transformation rather than a one-way transfer.
+Register:     technical / physics
+Domain:       physics / force / field interaction
+Status:       proposed
+First use:    pending corpus attestation
+Notes:        Distinct from ne-ra (W058): ne-ra describes the *state* of energetic coupling
+              between two systems (the resonance condition, ongoing). zi-ra describes the
+              *event* of mutual energy transformation — the interaction occurring. A system
+              in ne-ra state undergoes zi-ra events. Analogous to the English distinction
+              between "being in contact" (state) and "colliding" (event).
+              Primary domain: gravitational interaction, electromagnetic coupling, force-pair
+              interactions. The z-initial root zi carries none of the organicism of zo;
+              zi-ra is clean for purely physical contexts.
+              Extension forms:
+                la-X  zi-ra  lo-Y     = X and Y undergo mutual energy transformation
+                (note: standard patient frame; both participants may be marked lo- when
+                 the coupling is symmetric and neither is agent)
+Related:      zi (primitive: mutual/coupling event), ra (primitive: energy/force),
+              ne-ra (W058: energetic resonance state), ne-ra-ki (W059: entering resonance),
+              pa-ra (W053: spatial field)
+```
+
+**W105**
+```
+Form:         zi-ka
+Type:         compound
+Class:        event / process
+Definition:   transaction; intentional exchange event; a deliberate coupled event in which
+              two agents mutually act on each other, with each party's action simultaneously
+              responsive to and shaping the other's. The zi event in the domain of
+              intentional action.
+Composition:  zi (mutual/coupling event) + ka (intentional action) — intentional mutual
+              transformation. Head-final: ka (intentional action) is head; zi specifies
+              that the action involves simultaneous bilateral transformation rather than
+              one agent acting on a patient.
+Register:     standard / social / formal
+Domain:       social / exchange / commerce
+Status:       proposed
+First use:    pending corpus attestation
+Notes:        The social-domain zi compound. Covers negotiation, trade, ritual exchange,
+              any deliberate coupled social event where both parties revise position
+              simultaneously. Distinguishes the exchange-event from mere interaction
+              (ne-ka = action-relation, i.e. a pattern of acting on each other) and
+              from one-way action (la-X  ka  lo-Y).
+              Extends naturally: zi-ka-su = institution of exchange (market, treaty body);
+              zi-ka-li = exchange partner / counterpart.
+Related:      zi (primitive: mutual/coupling event), ka (primitive: intentional action),
+              wi-to-ki (intentional stance revision, S194), ne (relation)
 ```
 
 ---

@@ -5,7 +5,7 @@
 This is the closed (or near-closed) set of foundational semantic roots. These are the conceptual atoms from which all other vocabulary is built. Changes here are breaking changes to the whole language.
 
 **Target size: 30–100 roots.**
-**Current count: 33 (31 starter set + `ha` added after corpus stress test, March 2026 + `fa` added as affective substrate primitive, March 2026)**
+**Current count: 34 (31 starter set + `ha` added after corpus stress test, March 2026 + `fa` added as affective substrate primitive, March 2026 + `zi` added as mutual-transformation primitive, three-domain threshold reached March 2026)**
 
 ---
 
@@ -118,12 +118,24 @@ A robot that acts with intention is `mu + li`. An animal is `zo`. A human is `zo
 
 ### Relations
 
+**`zi` vs `ne` and `go`/`du` distinction (explicit):**
+
+`ne` is a static bond — it describes a persisting connection between two entities but implies nothing about either entity changing. `go`/`du` encode a directional causal chain: argument structure flows from cause to result, one event producing another. `zi` fills the orthogonal gap: a *coupled event* in which both participants transform simultaneously by virtue of their mutual engagement, with neither transformation prior to the other and neither participant the unilateral cause.
+
+Canonical contrast:
+- `ne` → the organisms are in metabolic relation. (static state)
+- `go [A ne B]  du [A ki]  du [B ki]` → A's motion results, then B's. (sequential distortion)
+- `zi` → both are transformed at once by the coupling event itself. (correct ontology)
+
+`ne-ra` (W058) is retained as distinct: `ne-ra` = *state* of energetic coupling (the resonance condition); `zi-ra` = *event* of mutual energy transformation (the interaction occurring). State and event are complementary, not competing. `ne-ra-ki` (W059, entering resonance) is likewise unaffected.
+
 | Root | Gloss | Includes | Excludes |
 |------|-------|----------|----------|
 | `ne` | relation / connection | link, bond, membership, network | the entities themselves |
 | `pe` | part / component | piece, element, member of a whole | the whole, the relation |
 | `go` | cause / origin | reason, source, trigger | result, the caused event |
 | `du` | result / effect | outcome, product, consequence | cause, process |
+| `zi` | mutual / coupling event | bilateral transformation events; any event where two participants are simultaneously modified by their mutual engagement; reciprocal exchange | static relation (use `ne`); directed causation (use `go`/`du`); single-participant change (use `be`/`de`/`ki`); energetic resonance *state* (use `ne-ra`) |
 
 ---
 
@@ -294,14 +306,4 @@ These concepts must be expressible using only existing primitives. If a construc
 - [x] ~~Update all references from `plu` → `pu` across spec and corpus files.~~ **Complete.** All content files use `pu`. The note in the Quantity table is retained as a historical record.
 - [x] ~~**Need / functional dependency — resolved by compound `ne-fe` (S058).**~~ **Closed.** `lo-zo-li  ne-fe  ma` = "the person is in a dependency-condition toward substance." State predication confirmed; no new primitive required. `ne-fe` registered as a stable compound for dependency/requirement conditions.
 - [ ] **Static state / copula — slow-pressure watch.** No primitive for "X is in condition Y" without invoking change (`be`/`de`) or evaluation (`vo`). Currently handled by juxtaposition predicates (`lo-X  state`) and P-GP-001 copula patterns. Likely becomes explicit pressure after ~100–200 corpus sentences. Do not add root prematurely — monitor whether grammar formalizes the copula pattern first. Candidate compound: `su-ti` (W101).
-- [ ] **Bidirectional coupling / interaction — ACTIVE PRIMITIVE CANDIDATE.** Formal three-rule validation completed March 2026. All three rules pass.
-
-  **Rule 1 (atomic):** Every transformation root in Tonesu (`be`, `de`, `ki`, `ka`, `go`) is structurally unidirectional — argument structure always flows agent → patient. Simultaneous mutual transformation `(A,B) → (A',B')` cannot be expressed without distortion: two `go-du` chains enforce sequentiality, which is ontologically wrong for physics interactions, chemical reactions, and biological symbiosis. Orthogonality test (same standard as `ha`/`ra`): a situation with high `ne` + complete `go-du` coverage in both directions still fails to express simultaneity. **Passes.**
-
-  **Rule 2 (combines cleanly):** Productive extension family proposed: `X-ra` (energy coupling / physical field), `X-zo` (biological coupling / symbiosis), `X-ka` (interaction event), `X-su` (coupled system), `X-mu` (coupling mechanism), `X-li` (social exchange). All natural and domain-spanning. If admitted, `X-ra` would subsume the existing `ne-ra` watch compound. **Passes.**
-
-  **Rule 3 (no hidden metaphors):** Literal core = physics interaction, chemical transformation, biological symbiosis. Metaphorical extension = negotiation, conversation, market dynamics (same pattern as `ne`). Scope controlled. **Passes.**
-
-  **Corpus threshold: 1 of 3.** S189 (physics force systems) is the first gap demonstration. Two more domain-varied sentences required — chemistry and biology are the next targets. The root should be admitted only when simultaneous bilateral transformation produces the wrong reading in at least three distinct domains. **Do not add until threshold met. Root form TBD (phonological gate check deferred to admission).**
-
-  *Cross-reference: open-questions.md P-PR-002; registry/derived.md `ne-ra` watch (Mystic domain).*
+- [x] ~~**Bidirectional coupling / interaction — ACTIVE PRIMITIVE CANDIDATE.**~~ **Resolved. `zi` admitted as primitive 34, March 2026.** Formal three-rule validation complete; three-domain corpus threshold met (S189 physics, S193 biology, S194 social). All three validation rules pass. Phonological gate: `zi` (/z/+/i/), CV form, robust vowel contrast with `zo` (/z/+/o/), no particle/suffix collisions. Full primitive-pressure test applied to S194 per revised protocol: three decompositions attempted, repair by compounding fails, wrong-reading classification across all three domains confirmed persistent. First compound registrations: `zi-ra` (W104, proposed, mutual energy interaction) and `zi-ka` (W105, proposed, intentional exchange event). `ne-ra` (W058) retained as distinct — `ne-ra` = energetic resonance *state*; `zi-ra` = mutual energy-transformation *event*. See distinction note in Relations table above. *Cross-reference: open-questions.md P-PR-002 (closed).*
