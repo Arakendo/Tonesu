@@ -549,6 +549,29 @@ This sequence is more psychologically accurate than any single-word emotion labe
 
 ---
 
+### Domain 8: Mutual and Bilateral Events
+
+English collapses: interact / exchange / collide / mate / negotiate / react — all can be expressed as one-way action (`A does X to B`) or passive constructions (`X happened to both`). Tonesu makes a structural cut most languages lack.
+
+| Form | Meaning | Contrast |
+|------|---------|----------|
+| `go [X]  du [Y]` | X causes Y (directed, one priority) | asymmetric causation |
+| `la-A  ka  lo-B` | A acts on B (directed agency) | asymmetric action |
+| `zi` | coupling event — both participants enter and exit modified, caused by the coupling itself | symmetric mutual causation |
+| `zi-ra` (W104) | mutual energy transformation event (physics) | ≠ `ne-ra` (state of coupling) |
+| `zi-ka` (W105) | intentional exchange event — negotiation, trade, treaty (social) | ≠ `la-A  ka  lo-B` (one agent acting on patient) |
+| `zi-zo` (W106) | biological coupling event — mating, mutualistic symbiosis | ≠ `go`/`du` predation (directed) |
+
+**The distinction `zi` makes:** Standard causal frames in Tonesu (`go`/`du`) require directionality — a source and a result. `zi` is the case where there is no priority of causation: both participants are simultaneously cause and effect of each other's transformation. The coupling event produces the change in both; neither is doing it *to* the other.
+
+**Key distinction from `ne` (relation):** `ne` is a static relational state — A and B are connected. `zi` is an event — the coupling produces change. A system can be in `ne-ra` state (resonance, ongoing) while undergoing `zi-ra` events (mutual energy transformation). The state/event distinction is ontologically prior to the bilateral/unilateral distinction.
+
+**Key distinction from `go`/`du` loops:** `go [A causes B]  du [B causes A]` describes two *separate* causal chains, each directional. `zi` describes a *single* event with no internal causal direction. This is not merely grammatical shorthand — it is a genuine ontological distinction between sequential reciprocal causation and simultaneous bilateral coupling.
+
+**Cultural claim:** Tonesu treats bilateral symmetric events as a first-class ontological category. A civilization with `zi` as primitive will naturally frame negotiation as an exchange event (not as two parties making concessions), symbiosis as a coupling (not as two organisms benefiting from each other), and force interactions as mutual (not as one object acting on another). The directionality assumption built into most agent-patient grammar is architecturally optional in Tonesu.
+
+---
+
 ## Discourse-Level Emergence
 
 Following C001–C004, the language has crossed from sentence-grammar into discourse grammar. The distinction matters: sentence grammar rules describe how words combine within an utterance; discourse grammar rules describe how utterances combine across turns.

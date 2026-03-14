@@ -47,6 +47,8 @@ For contracted everyday forms, see lexicon/colloquial.md.
 | R030 | `ra` | energy / force | force | general |
 | R031 | `ko` | containment / interior | space | general |
 | R032 | `ha` | heat / thermal state | force | general |
+| R033 | `fa` | affective substrate | mind | general |
+| R034 | `zi` | mutual / coupling event | relation | general |
 
 ---
 
