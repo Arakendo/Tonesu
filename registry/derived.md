@@ -1976,6 +1976,44 @@ Notes:        Three-attestation corpus basis: S106, S172, S174.
 Related:      si (signal), de (decay/past), to-ko (W044, memory), si-su (archive)
 ```
 
+**W099**
+```
+Form:         wi-re
+Type:         compound
+Class:        process / structure
+Definition:   feedback loop; goal-cycle; iterative regulation toward a target state;
+              the recurring structure of pursuing a goal, sensing deviation, and correcting
+Composition:  wi (will/intention) + re (repetition/cycle) — will that loops: a purpose
+              that drives iterative cycles of action and correction rather than being
+              fulfilled in a single act. Head: re (the cycling); wi specifies the cycling
+              is goal-directed, not merely rhythmic.
+Register:     standard / technical
+Domain:       systems / cognition / operations
+Status:       proposed
+First use:    not yet attested in corpus; registered on basis of primitive validation test
+              for "control" (March 2026).
+Notes:        Registered after formal application of the three primitive validation rules
+              showed "control" does not qualify as a primitive: concept fully decomposes
+              into wi (goal) + se (sense deviation) + re (iterate) + be/de (correct).
+              wi-re names the structural mechanism — the goal-driven loop itself.
+              Canonical extension forms:
+                wi-re-mu  = governor / regulator device
+                wi-re-li  = controller / operator (agent instantiating the loop)
+                wi-re-ka  = act of regulating / governing
+              Collision note: wi-re-su is already committed as W074 (protocol / standing
+              procedure), where it names an institutional recurring structure across
+              instances. W074 sense differs: protocol recurs across contexts (each fire
+              drill is one instance of the protocol); feedback loop cycles within a
+              single running process (the thermostat never "completes" one cycle and
+              starts a new one — it is continuously looping). Both are legitimate
+              wi-re compounds; W074 takes precedence for the institutional-procedure
+              reading. The regulated-system sense (if needed) should use wi-re-go-su
+              or be handled contextually rather than reopening W074.
+Related:      wi (will), re (repetition/cycle), wi-re-su (W074, protocol),
+              se (perception — sensing the deviation), be/de (correction direction),
+              wi-to (W045, plan — single-instance, compare with wi-re's iterative nature)
+```
+
 ---
 
 - [x] ~~Resolve whether compound forms use hyphens in writing or run together~~ → Resolved: solid spelling is canonical; hyphens are analytic notation only. See spec/word-formation.md § Written Form.
