@@ -2014,6 +2014,66 @@ Related:      wi (will), re (repetition/cycle), wi-re-su (W074, protocol),
               wi-to (W045, plan — single-instance, compare with wi-re's iterative nature)
 ```
 
+**W100**
+```
+Form:         wi-fe
+Type:         compound
+Class:        entity / constraint
+Definition:   rule; prohibition; policy-imposed limit; a boundary created by intention
+              or authority rather than by physics
+Composition:  wi (will/intention) + fe (boundary/limit) — a limit that exists because
+              someone or some system wills or declares it. Distinguishes normative limits
+              from physical limits: a wall is `fe`; a no-entry rule is `wi-fe`. Head-final:
+              `fe` (boundary) is head; `wi` specifies the boundary is normative, not
+              physical or categorical.
+Register:     standard / legal / institutional
+Domain:       law / governance / systems
+Status:       proposed
+First use:    not yet attested in corpus; registered as compound candidate after primitive
+              validation test for "constraint/permission" (March 2026).
+Notes:        Productive extension family:
+                wi-fe-ka  = forbidden / prohibited (a willed boundary on a specific action)
+                wi-fe-su  = rule / law / policy (willed boundary as institutional structure)
+                wi-fe-li  = authority / enforcer (agent maintaining the willed boundary)
+                no-wi-fe-ka = permitted / allowed (no willed boundary on this action)
+              Cross-reference: open-questions.md capability/modality item (permission axis
+              flagged as untested axis in T-AX-001–003 follow-up).
+Related:      wi (will/intention), fe (boundary/limit), fe-su (W003, bounded system),
+              ka-fe (action-boundary = constraint as process), wi (W-prefix family)
+```
+
+**W101**
+```
+Form:         su-ti
+Type:         compound
+Class:        entity / state
+Definition:   current state; instantaneous configuration; the structural condition of a
+              system at a specific moment in time
+Composition:  su (structure/order) + ti (time/sequence) — the structure as time-indexed;
+              a snapshot of arrangement at a given moment rather than an abstract or
+              ongoing arrangement. Head-final: `su` (structure) is head; `ti` specifies
+              the structure is temporally located (a configuration, not a type).
+Register:     standard / technical
+Domain:       systems / engineering / physics / cognition
+Status:       proposed
+First use:    not yet attested in corpus; registered as compound candidate after primitive
+              validation test for "state/configuration" (March 2026).
+Notes:        Resolves open-questions.md note: "The language currently expresses 'X is in
+              state Y' via juxtaposition... no primitive for stable condition without
+              invoking change or evaluation."
+              Usage: `lo-X  su-ti  Y` = X is currently in configuration Y (state snapshot,
+              no change implied). Compare `lo-X  be` = X is increasing (change reading);
+              `lo-X  su-ti  be-vo` = X is currently in a high-energy configuration (state
+              predication without claiming change is occurring).
+              Natural extensions:
+                su-ti-de  = past configuration / archived state (what the system was)
+                su-ti-be  = expected future configuration / target state
+              Relationship to wi-re (W099): a feedback loop is precisely the mechanism for
+              moving `su-ti` from current state toward a target `su-ti`.
+Related:      su (structure/order), ti (time/sequence), wi-re (W099, feedback loop),
+              su-ti-de (past state), to-ko (W044, memory — stored past su-ti)
+```
+
 ---
 
 - [x] ~~Resolve whether compound forms use hyphens in writing or run together~~ → Resolved: solid spelling is canonical; hyphens are analytic notation only. See spec/word-formation.md § Written Form.
