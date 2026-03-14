@@ -717,3 +717,141 @@ Natural:  Derek built the machine.
 - Candidate finer kind-terms: `zo-se-so-li` (dog class) vs. `zo-se-so-fe` (cat class) — open, not resolved
 - `spec/naming.md`: named variety rule `[kind  na  variety-id]` confirmed by S197–S198; ready to write into the spec
 - `notes/open-questions.md`: log KNM-001 genus-level design as a resolved question with over-generation trade-off documented
+
+---
+
+## Finer Kind-Terms and Apostrophe Scoping (S202–S207)
+
+*Batch purpose: now that the one-apostrophe limit is lifted, stress-test three things jointly: (1) whether `zo-se-so-li` and `zo-se-so-fe` function as dog-class and cat-class finer kind-terms; (2) whether `'` correctly scopes color over a 3- or 4-root kind-term compound; (3) whether the deepest NP form in this system — `la-[color'finer-kind-term  na  Name]` — parses without interference between role-marker, apostrophe, and `na` particle. S202 and S203 test the finer kind-terms standalone; S204 and S205 test apostrophe scoping on genus and species kind-terms respectively; S206 tests apostrophe in patient position; S207 assembles the full structure.*
+
+---
+
+**S202 — Dog-class greeting: social-pack organism exchanges with a person** *(KNM-002-A)*
+
+*Target: "The dog greeted the person." / A social-bonded acoustic organism enters mutual exchange with a human.*
+
+```
+Gloss:    la-zo-se-so-li  zi-ka  lo-li
+Literal:  agent:social-pack-sound-organism  mutual-exchange  patient:person
+Natural:  The dog greeted the person.
+```
+
+**Notes:**
+- `zo-se-so-li` = `zo` (organism) + `se` (perceive) + `so` (sound) + `li` (social agent) = the social-bonded kind of sound-perceiving organism. Head-final: `li` (social agency) is the head; `zo-se-so` is the modifier class. This is the proposed dog-class kind-term from S200's follow-on.
+- **`li` as head:** `li` (social agent) as the final element means the compound's semantic core is social-bonding orientation. The `zo-se-so` prefix narrows the class from all social agents to the acoustic-organism sub-class. Potential ambiguity: strictly speaking, `zo-se-so-li` could apply to any socially bonded acoustic organism including humans. In practice, humans are expressed as `li` or `zo-li` — never with the `zo-se-so` prefix, which is superfluous for humans and signals non-human animal. Disambiguation is pragmatic: the compound is only used within the acoustic-animal class, where `li` differentiates "social-pack kind" from "territorial kind" (`zo-se-so-fe`).
+- `zi-ka` = mutual coupling event (`zi`) + action domain (`ka`) = bilateral exchange action = greeting/interaction. `zi-ka` is the correct form for greeting because greeting is a simultaneous mutual modification: both parties shift state. Directed causation (`go`/`du`) would distort the symmetry.
+- **Structural finding:** `zo-se-so-li` works as a kind-term. The head `li` supplies the differentiating behavioural axis without claiming full human moral agency — it reads as "social-orientation type" within the animal class. `zi-ka  lo-li` = mutual-exchange with a person = greeting cleanly expressed.
+
+---
+
+**S203 — Cat-class territory: territorial-boundary organism marks a space** *(KNM-002-B)*
+
+*Target: "The cat claimed the territory." / A boundary-orienting acoustic organism enters a territory-marking state over a space.*
+
+```
+Gloss:    la-zo-se-so-fe  fe-ki  lo-pa
+Literal:  agent:territorial-sound-organism  boundary-enters  patient:space
+Natural:  The cat claimed the territory.
+```
+
+**Notes:**
+- `zo-se-so-fe` = `zo` + `se` + `so` + `fe` (boundary/limit/category-distinction) = the boundary-oriented kind of sound-perceiving organism. Head-final: `fe` is the head; characterizes the species by its territorial, solitary, range-defining mode of existence. Contrasted directly with `zo-se-so-li` (social-pack kind) from S202.
+- `fe-ki` = boundary + inchoative = enter a boundary-state = to mark / claim / stake territory. Head-final: `ki` (motion/change-of-state) is the head; `fe` specifies the domain of the state change. First corpus attestation of `fe-ki`.
+- `lo-pa` = patient:space/location = the territory being claimed. `pa` (place/space) as the patient of a boundary-claiming act is the natural object: the cat is doing something *to* a space, not to an object.
+- **Dog vs. cat distinction confirmed:** S202 and S203 put the differentiation into corpus form. `zo-se-so-li` (social orientation → chooses proximity, greets, packs) vs. `zo-se-so-fe` (boundary orientation → marks range, stakes territory, maintains edges). The two kind-terms are minimally contrasting: identical except for the final root, which is the semantic differentiator.
+- **`fe` head note:** `fe` as a differentiating head carries less anthropomorphic charge than `li` in S202. A cat's territorial behavior is expressed as a property of the organism's structural/categorical orientation, not as social agency. The compound doesn't imply the cat is a moral agent — it characterises a behavioral disposition.
+
+---
+
+**S204 — Apostrophe scope over genus kind-term: the red dog barked** *(KNM-002-C)*
+
+*Target: "The red dog barked." / A color-modified genus-level kind-term as agent.*
+
+*This is the direct apostrophe scoping test unblocked by lifting the limit. Without `'`, `ker-zo-se-so` would right-branch as ker→[zo→[se→so]], placing color on the soundward end of the chain. With `'`, ker scopes over the entire kind-term unit.*
+
+```
+Gloss:    la-ker'zo-se-so  so-ka
+Literal:  agent:red'[sound-perceiving-organism]  sound-acts
+Natural:  The red dog barked.
+```
+
+**Notes:**
+- `ker-zo-se-so` without apostrophe: right-branching parse = ker modifies [zo-se-[so]] = "organism perceiving red sound" or at best "red-hued thing that perceives sound, head on `so`." Neither is correct. Color is a property of the organism as a whole, not of the terminal primitive.
+- `ker'zo-se-so` with apostrophe: `ker` + `'` (subcompound boundary) + `[zo-se-so]` = color modifies the pre-bound kind-term unit as a whole = "a [zo-se-so]-class organism that is red." This is the correct parse.
+- **`'` as scope marker, not just depth signal:** the apostrophe here is not just managing parse depth — it is actively *re-scoping* a modifier. Without it, the default right-branching rule produces a wrong reading. This is the key case for which the apostrophe exists.
+- `la-ker'zo-se-so`: role-marker `la-` attaches to the outer NP; the apostrophe is NP-internal. The role-marker does not interact with the apostrophe structure: `la-` + `ker'zo-se-so` = agent [red dog-class]. No collision.
+- **Structural finding:** apostrophe correctly scopes a CVC color descriptor over a 3-root primitives compound. The parse is unambiguous.
+
+---
+
+**S205 — Apostrophe scope over finer kind-term: the red dog-class vocalized** *(KNM-002-D)*
+
+*Target: "The red dog barked." using the species-level kind-term — does `'` scope correctly over 4 roots?*
+
+```
+Gloss:    la-ker'zo-se-so-li  so-ka
+Literal:  agent:red'[social-pack-sound-organism]  sound-acts
+Natural:  The red dog barked. (species-level form)
+```
+
+**Notes:**
+- `ker'zo-se-so-li`: `ker` + `'` + `[zo-se-so-li]` = color modifies the 4-root finer kind-term as a unit. The apostrophe scopes over four primitives instead of three. The structural mechanism is the same as S204; only the depth changes.
+- **Depth comparison:** S204's `ker'zo-se-so` has apostrophe spanning 3 roots; S205's `ker'zo-se-so-li` spans 4. The `'` marker does not care about the length of the subcompound it introduces — it binds everything to its right until the NP boundary or the next `'`. The parse cost goes up (four roots to hold before interpreting the modifier relation) but the grammar is intact.
+- **Neither `ker'zo-se-so` nor `ker'zo-se-so-li` requires more than one `'`.** The apostrophe comes before the kind-term, scoping the color over the whole unit. There is no internal ambiguity in `zo-se-so-li` itself — it right-branches cleanly without a `'`. The second `'` that would have been prohibited under the old rule is not needed here.
+- **When would a second `'` actually be needed?** Only if the color itself were a compound: e.g. `ker'zi'pom'zo-se-so` = "the dog-class organism whose color is red-blue-blended." At that depth, the two apostrophes mark: (1) `ker zi pom` as a bound color-compound, (2) that color-compound modifying `zo-se-so`. Legal under the revised rule; unwieldy in speech; the phrasal form `zo-se-so  [ker zi pom]-su` is preferable in practice.
+- **Structural finding:** `'` scopes over 4-root finer kind-terms identically to 3-root genus kind-terms. Register pressure (not grammar) limits depth.
+
+---
+
+**S206 — Apostrophe in patient slot: Derek noticed the red dog** *(KNM-002-E)*
+
+*Target: "Derek noticed the red dog." / Tests the apostrophe-modified kind-term in object/patient position, not agent.*
+
+```
+Gloss:    la-[li  na Derek]  se  lo-ker'zo-se-so
+Literal:  agent:[social-agent  name:Derek]  perceived  patient:red'[sound-perceiving-organism]
+Natural:  Derek noticed the red dog.
+```
+
+**Notes:**
+- `lo-ker'zo-se-so`: patient role-marker `lo-` + `ker'zo-se-so` (color-scoped kind-term). The `lo-` attaches to the outer NP boundary; the apostrophe is NP-internal. Structurally identical to the agent case in S204: the role-marker prefix does not participate in the `'` grouping.
+- **Symmetry finding:** `la-ker'zo-se-so` (agent) and `lo-ker'zo-se-so` (patient) follow the same rule. The apostrophe interacts with NP structure, not with the role position. Role-markers `la-`, `lo-` are outside-NP prefixes; `'` is inside-NP grouping. The two levels are orthogonal.
+- `la-[li  na Derek]` = standard named-person NP from S201. Brackets used in the gloss for NP boundary clarity; the `na` particle handles the internal partition.
+- **Structural finding:** apostrophe-modified kind-term works symmetrically in agent and patient positions. No special rule needed for patient-position color-scoping.
+
+---
+
+**S207 — Full assembly: color + finer kind-term + name** *(KNM-002-F)*
+
+*Target: "Red Rex (dog-class) ran." / The deepest NP in this system — role-marker, bracket, apostrophe, 4-root compound, `na`-identifier — all in one.*
+
+```
+Gloss:    la-[ker'zo-se-so-li  na Rex]  ki
+Literal:  agent:[red'[social-pack-sound-organism]  name:Rex]  moved
+Natural:  Red Rex ran. / Rex the red dog ran.
+```
+
+**Notes:**
+- `la-[ker'zo-se-so-li  na Rex]`: four structural devices in one NP:
+  1. `la-` — role-marker prefix (outside-NP, establishes agent slot)
+  2. `[...]` — NP bracket (notation boundary; `na` partitions the contents)
+  3. `ker'zo-se-so-li` — color-scoped finer kind-term (`'` groups `zo-se-so-li` as unit for `ker` to modify)
+  4. `na Rex` — identifier particle + proper name (NP-internal; anchors the individual)
+- **Parse order:** role-marker → NP-open → apostrophe-scoped kind-compound → `na`-partition → identifier → NP-close. Each device operates at a separate structural level; none compete with the others.
+- **Cognitive load:** this is the maximum practical NP depth — a native speaker would likely say `la-[zo-se-so-li  na Rex]` (kind + name, color omitted as visually obvious in context) or simply `la-na Rex` (name alone once Rex is established as referent). The full form exists and is grammatical; register pressure keeps it rare in spontaneous speech.
+- **The old one-apostrophe limit would have blocked this.** `ker'zo-se-so-li` uses one apostrophe, and there is no second apostrophe here. The revised rule allows this without extension.
+- **Structural finding:** all four devices coexist without interference. The NP system is composable to this depth. The limit on depth is cognitive, not grammatical.
+
+---
+
+**Verdict KNM-002: apostrophe scoping and finer kind-terms both confirmed. Five findings:**
+
+1. **`zo-se-so-li` (dog-class) and `zo-se-so-fe` (cat-class) function as finer kind-terms.** S202/S203 confirm both in characteristic sentences. The minimal contrast (same base, different final root) cleanly differentiates social-pack orientation from boundary/territorial orientation. `li`-as-head ambiguity with humans exists but is pragmatically self-resolving.
+2. **`'` correctly scopes a CVC color over a 3-root genus kind-term** (`ker'zo-se-so`, S204). Without `'`, the right-branching parse produces a wrong reading. `'` is not merely a depth signal here — it is an active re-scoping device.
+3. **`'` scopes identically over 4-root finer kind-terms** (`ker'zo-se-so-li`, S205). Depth does not affect the mechanism; only cognitive parse load increases.
+4. **Apostrophe operates symmetrically in agent and patient positions** (S204 vs S206). Role-markers (`la-`, `lo-`) are outside-NP prefixes; `'` is NP-internal. The two levels are orthogonal.
+5. **The deepest practical NP — `la-[ker'zo-se-so-li  na Rex]` — parses cleanly** (S207). Four structural devices coexist: role-marker, bracket, apostrophe, `na`-particle. The limit on depth is cognitive and register-driven, not grammatical.
+
+**Resolved follow-ons from KNM-001:**
+- `zo-se-so-li` / `zo-se-so-fe` dog/cat distinction: **confirmed** — ready to register as kind-term candidates
+- Apostrophe + kind-term interaction: **documented** — ready to add scoping rule to spec/word-formation.md § Compound Grouping Marker
