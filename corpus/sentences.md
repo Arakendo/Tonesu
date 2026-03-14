@@ -7047,6 +7047,35 @@ Natural:  Because force-system A is in relation with force-system B, A moves and
 
 ---
 
+## Temporal Event-Anchor Test (S192)
+
+*Batch purpose: confirm the `ta  ti-[dir]  lo-[event]` event-anchored temporal construction generalizes in both directions. S092 established `ta-ti-de  lo-[event]` = "before [event]." S192 tests the mirror: `ta-ti-be  lo-[event]` = "after [event]," using a different domain (maintenance debrief vs. mission preparation) to confirm the pattern is not context-specific.*
+
+---
+
+**S192 — Maintenance debrief held after field inspection**
+
+*Target: "The team debriefed after the inspection."*
+
+*Concordian framing: standard post-event knowledge consolidation. The inspection is the reference event; the debrief happens in the temporal interval following it.*
+
+```
+Gloss:    la-yu  lo-to-su  be  ta-ti-be  lo-se-ka
+Literal:  agent:group  patient:organized-knowledge  grew/consolidated  time:after  patient:examination
+Natural:  The team consolidated their knowledge after the inspection.
+```
+
+**Notes:**
+- **Mirror of S092's event-anchor construction.** S092: `ta-ti-de  lo-ka-wi-de` = "before the mission departure" (`ti-de` = past/prior → before). S192: `ta-ti-be  lo-se-ka` = "after the inspection" (`ti-be` = future/following → after). Both use `ta  ti-[dir]  lo-[event]` with a `lo-`-marked event as the temporal anchor. Different domain (mission preparation vs. maintenance/inspection cycle), different directional compound (`ti-de` vs `ti-be`).
+- **`ta-ti-de  lo-X` = before X; `ta-ti-be  lo-X` = after X.** The directional component of the time compound (`de` = decay/prior, `be` = growth/following) sets the relative position; the `lo-[event]` bracket provides the anchor event. The structure is compositionally transparent: "at the [prior/following] time [of] [event]."
+- **`be` as matrix predicate:** `lo-to-su  be` = "knowledge grows" = they consolidated their knowledge. The group's organized understanding expanded as a result of the inspection. Same `be` as all growth predicates.
+- **`se-ka`** (W034, perceptual-agent/examination process) used as the anchor event. The inspection is the event they are temporalizing against. `lo-se-ka` = patient:inspection — the examination in its nominal role as a temporal anchor.
+- The two examples together confirm the pair: `ta-ti-de  lo-X` / `ta-ti-be  lo-X` = before-X / after-X. The construction is general: any `lo-[event]` noun phrase can serve as the anchor.
+
+**Verdict S192: clean.** `ta-ti-be  lo-[event]` = "after [event]" works identically to S092's `ta-ti-de  lo-[event]` = "before [event]." Event-anchor temporal construction confirmed as a general pattern. Ready to add rule to grammar.md.
+
+---
+
 ## Ko Clausal Complement Test (S191)
 
 *Batch purpose: provide second corpus attestation of `ko` with a clausal complement (first: C005 A2), using a different container type (archive vs. doctrine), in order to confirm the extension is systematic and enable formalization of the rule in spec/grammar.md § Containment Predicates.*

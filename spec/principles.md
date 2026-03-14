@@ -84,3 +84,23 @@ Consequences:
 - **The register gap is productive, not a bug.** When a Concordian says `la-mi  se  fe-de  lo-ne-mi` and a non-Concordian hears "I'm afraid of losing this relationship," that translation gap is a characterization of Concordian culture, not a failure of the language.
 
 *Corollary: do not add sensory or embodied-experience primitives preemptively. Run the 20 ordinary-life sentence test (see notes/open-questions.md) first. If a concept fails to express without genuine distortion — not just verbosity — evaluate it as a primitive candidate. `fa` was justified on this criterion: `se` (outward-facing detection) produces a structurally wrong reading for inward affective substrate states, not merely a verbose one. 20-sentence confirmation batch pending.*
+
+## 10. Religion Is a Subset of Organized Knowledge
+
+Tonesu has no dedicated word for "heresy." This is not an oversight — it is a structural consequence of the language's epistemic architecture.
+
+The theological debate batch (C005) established this result: a doctrinal dispute in Tonesu is epistemically indistinguishable from a scientific or engineering knowledge dispute. The machinery is identical:
+
+- **Inflation** (`to-fe-ka`): claiming a proposition has reached `to-su` status when it has not
+- **Deflation** (`to-fe-ka`): suppressing a proposition that has legitimately reached `to-su` status
+- **Adjudication** (`to-fe-li`): the qualified arbiter who examines the `to-fe` threshold crossing
+- **Institutional authority** (`to-fe-su`): the standards body that formalizes rulings into `to-su`
+
+A charge of heresy, in any other culture, is a claim that someone has mislabeled the epistemic status of a proposition within an organized knowledge domain. In Tonesu, that is simply a `to-fe-ka`/`to-fe-ki` charge. The accuser must establish that the threshold was crossed (or suppressed) deliberately or negligently; the arbiter adjudicates; the institution publishes the result.
+
+**Consequences:**
+
+- **No heresy primitive and no heresy compound.** The concept is already fully expressible through `to-fe-ka` (deliberate boundary violation) with a doctrinal proposition as the content. Adding a separate compound for theological violations would imply religion operates under different epistemic rules — which is precisely the Concordian cultural rejection.
+- **Religion does not require a separate domain.** The `to-re-su` (canonical recurring doctrine) / `to-fe-su` (epistemic standards body) / `to-fe-li` (arbiter) machinery serves science, engineering, law, and religion with the same tools. No domain split is needed; the content of the proposition is all that differs.
+- **The "no heresy" result generalizes.** Any domain in which humans have developed specialized vocabulary for "epistemic violation within that domain" — academic fraud, perjury, false prophecy — will compress in Tonesu to a `to-fe-ka` charge with contextually specified content. Tonesu makes the epistemic structure visible by refusing to lexicalize the domain distinctions.
+- **Guard (normative):** Do not add domain-specific epistemic-violation compounds (`zo-fe-ka` for "biological fraud," `wi-fe-ka` for "doctrinal heresy," etc.). All such concepts route through the unified `to-fe` system. The unification is the point.

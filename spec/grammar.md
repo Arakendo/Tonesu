@@ -1001,6 +1001,23 @@ The `ti` (time) root combines with directional primitives to produce a family of
 
 **Corpus contrastive pair (C006):** A4 uses `ta-ti-be  ne-ra-ki  be` ("the link will develop soon" — open-timeline prediction); B4 replies `ta-ti-re  ki` ("yes, it's coming up in the cycle" — scheduled resonance training). Same event, different temporal frames: A is predicting on the linear timeline; B is announcing the next scheduled occurrence.
 
+### Event-Anchor Construction
+
+A `lo-`-marked event nominal may follow a time compound to set the temporal reference point relative to that event — the **event-anchor** construction:
+
+```
+ta  ti-[dir]  lo-[event]   MATRIX-CLAUSE
+```
+
+The direction compound (`ti-de` or `ti-be`) specifies the relative position; the `lo-[event]` phrase names the anchor event.
+
+| Form | Meaning | Corpus |
+|------|---------|--------|
+| `ta-ti-de  lo-[event]` | before [event] | S092 (`ta-ti-de  lo-ka-wi-de` — before the mission departure) |
+| `ta-ti-be  lo-[event]` | after [event] | S192 (`ta-ti-be  lo-se-ka` — after the inspection) |
+
+The construction is compositionally transparent: `ti-de` = time-that-has-decayed = prior time; `ti-be` = time-that-is-growing = following time. The `lo-` particle marks the anchor event in its standard patient role. Any event nominal can serve as the anchor.
+
 ---
 
 ## Purpose Frame
