@@ -7076,6 +7076,37 @@ Natural:  The team consolidated their knowledge after the inspection.
 
 ---
 
+## Bilateral Interaction Gap — Biology Domain (S193)
+
+*Batch purpose: provide second corpus attestation of the P-PR-002 primitive-pressure gap, in the biological domain. S189 demonstrated the gap in physics (gravitational/force coupling between `lo-ra-su` force-systems). S193 tests the same structural failure in biological mutualism — whether the language can express simultaneous coupled growth without forcing a sequential causal reading.*
+
+---
+
+**S193 — Mutualistic symbiosis: coupled organisms each cause the other to grow**
+
+*Target: "The two organisms each nourish the other."*
+
+*Concordian framing: a lichen-type mutualism — the photosynthesizing organism and the structural organism each supply what the other cannot produce alone. The exchange is simultaneous and ongoing; neither party is the "cause" whose effect is the other's growth. The coupling is the event.*
+
+```
+Gloss:    go [lo-zo-su  ne  lo-zo-su]  du [lo-zo-su  be]  du [lo-zo-su  be]
+Literal:  cause [patient:living-system  relation  patient:living-system]
+          result [patient:living-system  grow]  result [patient:living-system  grow]
+Natural:  Because living-system A is in relation with living-system B, A grows and B grows.
+```
+
+**Notes:**
+- **Second corpus attestation for P-PR-002.** S189 demonstrated the gap in physics (`lo-ra-su  ne  lo-ra-su`, force-systems). S193 repeats the same construction in biology (`lo-zo-su  ne  lo-zo-su`, living-systems in mutualistic coupling). Two domain-distinct sentences, same structural failure.
+- **`zo-su`** = living-system / organized organism. Compositional parallel to `ra-su` (force-system, used in S189): `zo` (living thing) + `su` (organized structure) = organism understood as an organized biological system. Not separately registered; compositionally transparent.
+- **The gap is identical to S189:** (1) Double `du` forces sequential reading — living-system A grows first, then living-system B — but mutualistic symbiosis is a continuous coupled exchange with no sequencing between the two growth events. (2) `ne` describes the static relation enabling the coupling; it does not encode the mutual-transformation event itself. The language approximates the outcome (both grow because they are in relation) but cannot say the coupling *is* the event in which both transform simultaneously.
+- **Why `go...ne...du...du` is the best available:** A single `du` frame cannot take two agent-predicate pairs without coordinate structure. Using `ne` as inner coordinator (`du [lo-zo-su  be  ne  lo-zo-su  be]`) would read `ne` as a static copula between two growth-states, not as simultaneous mutual growth. The double-`du` chain is the least-distorting approximation available.
+- **Biology removes the physics-abstraction objection.** One might argue that physical simultaneity is a limiting edge case that natural language need not cover. Mutualistic symbiosis is a macroscopic, everyday-scale fact about organisms. If the language cannot express it without sequentiality distortion, the gap is not domain-specific.
+- The `go...ne...du...du` chain is grammatically well-formed. The insufficiency is ontological, not grammatical — the same conclusion as S189.
+
+**Verdict S193: gap confirmed (2/3).** The P-PR-002 simultaneous-mutual-transformation gap is present in both physics (S189) and biology (S193). One further domain-varied wrong-reading is needed to reach the three-attestation threshold. Social domain (negotiation / mutual exchange) is the remaining candidate.
+
+---
+
 ## Ko Clausal Complement Test (S191)
 
 *Batch purpose: provide second corpus attestation of `ko` with a clausal complement (first: C005 A2), using a different container type (archive vs. doctrine), in order to confirm the extension is systematic and enable formalization of the rule in spec/grammar.md § Containment Predicates.*
