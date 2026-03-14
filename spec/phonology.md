@@ -114,6 +114,83 @@ Without `'`, the default parse is right-branching: each new element modifies the
 
 ---
 
+## Punctuation and Notation Marks
+
+Four sentence- and phrase-level marks supplement `'`. Unlike `'`, these operate **outside** compound boundaries — at clause, sentence, or phrase level. They have no phoneme equivalents; speech realizes them through pitch, stress, and prosodic phrasing.
+
+| Mark | Name | Function |
+|------|------|----------|
+| `,` | clause separator | prosodic pause between a frame clause and its matrix, or between list items |
+| `!` | exclamation mark | end-of-utterance: heightened affective or emphatic force |
+| `?` | question mark | end-of-utterance: interrogative; orthographic counterpart to grammatical `to-si` |
+| `~` | approximation mark | pre-positional hedge: "approximately / roughly / on the order of / something like" |
+
+---
+
+### `,` — Clause Separator
+
+A **prosodic pause** between clausal units. Recommended when a frame clause (`go`, `wi`, `ta`) precedes the matrix and the boundary benefits from an explicit mark. Also separates items in a coordinated list.
+
+```
+ta ti-de, la-mi lo-mu ka-be         →  In the past, I grew the object.
+go [la-lu ki], la-mi fa-be          →  Because the light moved, my affect rose.
+la-mi lo-mu, lo-ma, lo-ra ka-ko    →  I stored the object, the material, and the energy.
+```
+
+Omit when the boundary is unambiguous without it.
+
+---
+
+### `!` — Exclamation Mark
+
+End-of-utterance marker signaling **heightened affective or emphatic force**. The sentence is grammatically complete without `!`; the mark signals what speech realizes as elevated pitch, stress, or intensity.
+
+```
+la-mi fa-be!                        →  My affect is rising! (elation, alarm)
+la-tu ka!                           →  Act! (imperative with force)
+```
+
+Compatible with any sentence type including questions: `to-si  la-tu  ki!` = Where did you go?! (emphatic).
+
+---
+
+### `?` — Question Mark
+
+End-of-utterance marker signaling **interrogative mode**. The grammatical question mechanism (`to-si`) takes priority — `?` is its orthographic counterpart.
+
+- **Formal/careful writing:** `to-si` is required in the clause; `?` appears at the end for clarity.
+- **Casual and notes register:** `?` may substitute for the fronted polar `to-si —`, making it a genuine shorthand.
+
+```
+to-si  la-tu  lo-to  ka-ko?         →  Who stored the knowledge?
+la-tu  lo-mu  ka-be?                →  Did you grow it? (casual: ? replaces fronted to-si)
+```
+
+---
+
+### `~` — Approximation Mark
+
+Pre-positional hedge meaning **"approximately / roughly / on the order of / something like."** Attaches before a numeral, NP, compound, or time reference. Not compound-internal — always at the left edge of the unit it qualifies. In a full measurement expression, `~` pre-poses the entire `[digit] [scale] nu [domain]` block.
+
+**With numerals and measurement:**
+```
+~gal nu li                          →  about 3 people
+~hin pir nu pa                      →  roughly 5 km
+~bol nil nil nil nu hulm            →  on the order of 1,000 years
+~varn                               →  approximately π (loose derivation or estimate)
+```
+
+**With compounds and concepts (linguistic and notes register):**
+```
+~zo-li                              →  something like a person / roughly person-class
+~ta ti-be                           →  somewhere around the future / roughly "later"
+~to-si                              →  something like a question / quasi-interrogative framing
+```
+
+Multiple `~` marks in a sentence are permitted, each scoping its own following unit independently.
+
+---
+
 ## Sound Symbolism (Advisory, Not Binding)
 
 These are tendencies, not rules. They inform root design intuitively but do not override compositional meaning.

@@ -393,6 +393,27 @@ to   →  I model it (cognitive commitment)
 
 ---
 
+## Punctuation and Notation Marks
+
+Four sentence- and phrase-level marks. None are compound-internal — `'` remains the only mark inside a compound.
+
+| Mark | Name | Function |
+|------|------|----------|
+| `,` | clause separator | pause between a frame clause and its matrix, or between list items |
+| `!` | exclamation | end-of-utterance: heightened affect or emphasis |
+| `?` | question mark | end-of-utterance: interrogative; orthographic counterpart to `to-si` |
+| `~` | approximation | pre-positional hedge: "approximately / roughly / something like" |
+
+**`,` with frames:** `ta ti-de, la-mi lo-mu ka-be` = In the past, I grew the object.
+
+**`?` usage:** `to-si` is the grammatical question mechanism; `?` is its written-form counterpart. In casual register, `?` alone marks a polar question without requiring the fronted `to-si`.
+
+**`~` with numerals:** `~gal nu li` = about 3 people · `~hin pir nu pa` = roughly 5 km · `~bol nil nil nil nu hulm` = on the order of 1,000 years
+
+**`~` with concepts:** `~zo-li` = something like a person · `~ta ti-be` = roughly "sometime later"
+
+---
+
 ## Repository Structure
 
 ```

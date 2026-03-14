@@ -144,7 +144,7 @@ ra-ge        (analytical notation)  →  rage      (written form)
 
 Hyphens may be used in analytic or pedagogical contexts to display compound structure. They do not carry grammatical meaning and may be omitted in normal writing. Their role in this spec and corpus is notation only — the way IPA represents pronunciation without being the word itself.
 
-**The only normative non-alphabetic character in a written compound is `'`** (the prosodic juncture marker, § Compound Grouping Marker). `'` is structural: it encodes prosodic grouping that bare letter sequences cannot. Hyphens encode nothing; they are readability aids that a writer may add or omit at will.
+**The only normative non-alphabetic character in a written *compound* is `'`** (the prosodic juncture marker, § Compound Grouping Marker). `'` is structural: it encodes prosodic grouping that bare letter sequences cannot. Hyphens encode nothing; they are readability aids that a writer may add or omit at will.
 
 This gives Tonesu three layers with distinct functions:
 
@@ -154,7 +154,9 @@ This gives Tonesu three layers with distinct functions:
 | Structural grouping | `'` | prosodic boundary, left edge of subcompound |
 | Analytic clarity | `-` | optional notation in specs, teaching, glosses |
 
-Because hyphens carry no grammatical meaning, written forms strip cleanly: `to'semaka` and `to'se-ma-ka` are the same word. The apostrophe is the only mark that matters.
+Because hyphens carry no grammatical meaning, written forms strip cleanly: `to'semaka` and `to'se-ma-ka` are the same word. Within a compound, the apostrophe is the only mark that matters.
+
+**At sentence and discourse level,** four additional marks operate outside compound boundaries: `,` (clause separator), `!` (exclamation), `?` (question), `~` (approximation). These are not compound-internal and do not affect compound parsing. See spec/phonology.md § Punctuation and Notation Marks.
 
 ---
 
