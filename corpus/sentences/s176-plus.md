@@ -1364,3 +1364,228 @@ Natural:  A triangle contains a point.
 **Polygon generativity note:** `su-fe-re` is the polygon template. Any n-gon is `su-fe-re nu-N`. The digit system (`bol`=3, `bun`=4, `wes`=5, `fon`=6, `hin`=7, `mol`=8…) provides all required counts immediately. A hundred-sided polygon = `su-fe-re nu-wes-nil` (quantity: five-zero = fifty? — need to confirm large number expression). Large polygon counts are verbose but not distorted.
 
 **`fe-re-ru` circle vs. `varn` (π):** These are complementary, not competing. `fe-re-ru` is the *shape* (the object); `varn` is the *constant* (the ratio of circumference to diameter of that object). Asking whether a circle needs a CVCC is a category error — π needed a CVCC because it is an irrational number with no compositional expression; a circle is a spatial structure, perfectly expressible as `fe-re-ru`.
+
+---
+
+## Cardinal Numeral System — NUM-001 Resolution (S238–S251)
+
+*Batch purpose (NUM-001): the digit inventory (nil–zan, 0–9) exists in `notes/cvc-inventory.md`; the structural rules (positional chaining, ordinals, measurement stacking) are documented there. What has not been tested in corpus is whether the system actually works across the pressure domains logged in open-questions.md: counting objects, generation distance (the S097 trigger), measurement with units, ordinals, fractions, time/date expressions, and arithmetic predication. This batch resolves NUM-001 by attesting every major use pattern in sentences.*
+
+*Core system recap: digits `nil`(0) `bol`(1) `bun`(2) `gal`(3) `mol`(4) `hin`(5) `wes`(6) `yom`(7) `fon`(8) `zan`(9), chained before `nu` most-significant first. Ordinals: digit + `ti`. Fractions: `ru-pu nu-[digit]`. Measurement: [digit] [scale] `nu` [domain].*
+
+---
+
+### Object Counting (S238–S239)
+
+**S238 — Simple count of objects** *(NUM-001-A)*
+
+```
+Gloss:    la-mi  ko  lo-gal nu mu
+Literal:  agent:me  contains  patient:three quantity object
+Natural:  I have three objects.
+```
+
+`gal nu mu` = 3 quantity-of object = three objects. `ko` as possession/containment state (confirmed § Containment Predicates). Not distorted.
+
+---
+
+**S239 — Large count: 23 organisms** *(NUM-001-B)*
+
+```
+Gloss:    la-bun gal nu zo  ki  lo-pa-di
+Literal:  agent:twenty-three organisms  moved  patient:outward-place
+Natural:  Twenty-three organisms moved outside.
+```
+
+`bun gal nu zo` = positional chain: 2(tens) + 3(units) + quantity + organism = 23 organisms. Chain is most-significant-first (`bun` before `gal`). Place `lo-pa-di` = outside-space as destination. Not distorted.
+
+*Parsing convention confirmed:* In a digit chain, all digit tokens before `nu` are read as a positional numeral. `bun gal nu zo` is unambiguous because `bun` and `gal` are both CVC descriptor-tier words and `nu` is the quantity primitive — no compositional parse can confuse them with compound adjectives.
+
+---
+
+### Generation Distance — The S097 Trigger (S240–S241)
+
+**S240 — Grandparent (two generations back)** *(NUM-001-C)*
+
+*The original NUM-001 trigger: ``zo-ne-go-re` = ancestor (generic iteration), not "exactly two steps back." S097 exposed the gap. Now resolved.*
+
+```
+Gloss:    la-[zo-ne  go  bun ti]  ki  lo-mi
+Literal:  agent:[ancestor  origin  second-in-sequence]  moved  patient:me
+Natural:  My grandparent came to me.
+```
+
+`bun ti` = 2 + `ti` = second in sequence = ordinal two = second-generation. `go` (cause/origin) specifies the directional relation in the ancestor chain. `[zo-ne go bun ti]` = the ancestor-relation at the second origin-step = grandparent. `la-[zo-ne go bun ti]` = the grandparent as agent.
+
+*Ordinal function:* `[digit] ti` = `[n]`th in sequence. The `ti` (time/sequence root) in suffix position on a digit gives ordinal position. This is already specified in `notes/cvc-inventory.md`; here it is first attested in a sentence requiring it.
+
+---
+
+**S241 — Great-grandparent (three steps back)** *(NUM-001-D)*
+
+```
+Gloss:    la-[zo-ne  go  gal ti]  ka  lo-to-ko
+Literal:  agent:[ancestor  origin  third-in-sequence]  acted  patient:memory
+Natural:  My great-grandparent left a memory. / The third-generation ancestor made records.
+```
+
+`gal ti` = 3 + ordinal = third-generation ancestor. Generalizes from S240 cleanly. The digit changes (`bun`→`gal`); the grammatical structure is identical. Not distorted.
+
+---
+
+### Measurement with Units (S242–S244)
+
+**S242 — Simple measurement: 3 meters** *(NUM-001-E)*
+
+```
+Gloss:    la-su-fe-re nu-bol  su  lo-gal nu pa
+Literal:  agent:triangle  structured  patient:three quantity space
+Natural:  The triangle measures three meters. / The triangle is three meters [on a side].
+```
+
+`gal nu pa` = 3 quantity-of space = three [units of] space = three meters. `su` as the predicate = structurally is / measures (the triangle has this spatial extent). Not distorted — measurement is a structural property of the thing being measured.
+
+---
+
+**S243 — Scale-prefixed measurement: 5 kilometers** *(NUM-001-F)*
+
+```
+Gloss:    la-ki-pa  su  lo-hin pir nu pa
+Literal:  agent:path  structured  patient:five kilo quantity space
+Natural:  The path is five kilometers.
+```
+
+`hin pir nu pa` = 5 + `pir` (kilo-scale) + quantity-of space = 5 kilometers. Digit + scale + `nu` + domain = the full measurement stack from `notes/cvc-inventory.md` § Scale-prefixed measurement. First corpus attestation of the complete stack.
+
+---
+
+**S244 — Time measurement: 23 seconds** *(NUM-001-G)*
+
+```
+Gloss:    la-ka-su  ti  lo-bun gal nu ti
+Literal:  agent:work  lasted  patient:twenty-three quantity time
+Natural:  The task lasted 23 seconds.
+```
+
+`bun gal nu ti` = 23 + quantity-of time = 23 [units of] time = 23 seconds. Note `ti` appears twice: once as the duration domain inside `nu` measurement, and once as the predicate `ti` in a durational sense. No collision — the `nu ti` is inside the patient NP; the predicate `ti` is the main predicate in standalone position. Parse is unambiguous.
+
+---
+
+### Ordinals in Context (S245–S246)
+
+**S245 — Ordinal position in a sequence** *(NUM-001-H)*
+
+```
+Gloss:    la-mi  ka-ki  lo-bol ti pa
+Literal:  agent:me  action-move  patient:first-in-sequence place
+Natural:  I moved to the first position.
+```
+
+`bol ti` = 1 + sequence = first (ordinal). `bol ti pa` = first-position-place. Ordinal modifies a location, confirming `[digit] ti` is a free modifier applicable to spatial positions, not only lineage.
+
+---
+
+**S246 — "This is my second attempt"** *(NUM-001-I)*
+
+```
+Gloss:    la-mi  ka  bun ti
+Literal:  agent:me  acted  [it-is] second-in-sequence
+Natural:  This is my second attempt. / I am acting for the second time.
+```
+
+`bun ti` as a bare predicate complement: the ordinal gives the iteration count of the action. No distortion — `ti` (time/sequence) in the digit compound naturally tracks recurrence.
+
+---
+
+### Fractions (S247–S248)
+
+**S247 — Simple fraction: one-third** *(NUM-001-J)*
+
+*Extends the `ru-pu` construction confirmed in GEO-001 (S233).*
+
+```
+Gloss:    la-mi  ko  lo-ru-pu gal nu zo-ma
+Literal:  agent:me  contains  patient:one-of-three quantity food
+Natural:  I have one-third of the food.
+```
+
+`ru-pu gal` = one-of-three = 1/3. `ru-pu gal nu zo-ma` = one-third quantity of food-substance. **`ru-pu` construction generalized:** `ru-pu` (one-of-many) + `[digit]` (the divisor) = the fraction 1/n. 1/2 = `ru-pu bun`, 1/4 = `ru-pu mol`, 1/10 = `ru-pu wes-nil`.
+
+---
+
+**S248 — Multi-unit fraction: two-thirds** *(NUM-001-K)*
+
+```
+Gloss:    bun ru-pu gal nu zo-ma  ko lo-mi
+Literal:  two one-of-three quantity food  held-by me
+Natural:  Two-thirds of the food is mine.
+```
+
+`bun ru-pu gal` = two × (one-third) = 2/3. General pattern: `[numerator] ru-pu [denominator]` = n/d. `bun ru-pu gal` = 2/3; `gal ru-pu mol` = 3/4; `hin ru-pu wes` = 5/6. This is the complete Tonesu fraction constructor, now fully established.
+
+---
+
+### Date and Time (S249–S250)
+
+**S249 — Time of day: "It is the third hour"** *(NUM-001-L)*
+
+```
+Gloss:    ta-ti  gal nu re-ti
+Literal:  temporal-frame  three quantity cycle-time
+Natural:  It is three o'clock. / The third cycle of time [is current].
+```
+
+`re-ti` = repetition + time = recurring time unit = cycle/hour (the conventional sub-day recurring time unit). `gal nu re-ti` = 3 quantity-of-hour = three o'clock. `ta-ti gal nu re-ti` = temporal-frame: three-hours = at three o'clock. Time-of-day is a temporal frame, not a predication: `ta-ti` introduces the time reference.
+
+*Note: `re-ti` is being established here as the basic recurring-time-unit = the conventional hour register. For smaller cycles: `re-ti-de` (diminished recurring time = minute register); for larger: `re-ti-be` (extended recurring time = day-scale register). These are productive, unregistered compounds.*
+
+---
+
+**S250 — Duration with ordinal: "On the first day"** *(NUM-001-M)*
+
+```
+Gloss:    ta-ti  bol ti re-ti-be
+Literal:  temporal-frame  first-in-sequence day-cycle
+Natural:  On the first day.
+```
+
+`bol ti` = first (ordinal). `re-ti-be` = extended recurring time = day. `bol ti re-ti-be` = the first day. Temporal frame + ordinal + day-scale cycle = "on the first day." Clean and combinatorial.
+
+---
+
+### Arithmetic Predication (S251)
+
+**S251 — Simple numeric assertion: "There are five people"** *(NUM-001-N)*
+
+```
+Gloss:    la-hin nu li  ne  lo-pa
+Literal:  agent:five-quantity-person  relation  patient:space
+Natural:  Five people are in the space. / Five people are here.
+```
+
+`hin nu li` = 5 quantity-of person = five people. `ne lo-pa` = in relation with space = located in the space. Numeric NP in agent slot, spatial location as relational patient. The quantified NP is the grammatical subject of its own locational predicate.
+
+---
+
+**Verdict NUM-001: System is complete. All use patterns confirmed across six domain pressures.**
+
+| Pattern | Form | Example | Status |
+|---------|------|---------|--------|
+| Cardinal count | `[digit] nu [noun]` | `gal nu mu` = 3 objects | ✓ |
+| Positional chain | `[d₁ d₂] nu [noun]` | `bun gal nu zo` = 23 organisms | ✓ |
+| Ordinal | `[digit] ti` | `bun ti` = second | ✓ |
+| Ordinal in lineage | `[zo-ne go [digit] ti]` | grandparent = `zo-ne go bun ti` | ✓ |
+| Measurement | `[digit] nu [domain]` | `gal nu pa` = 3 meters | ✓ |
+| Scale measurement | `[digit] [scale] nu [domain]` | `hin pir nu pa` = 5 km | ✓ |
+| Simple fraction | `ru-pu [digit]` | `ru-pu gal` = 1/3 | ✓ |
+| Compound fraction | `[n] ru-pu [d]` | `bun ru-pu gal` = 2/3 | ✓ |
+| Time of day | `ta-ti [digit] nu re-ti` | `gal nu re-ti` = 3 o'clock | ✓ |
+| Ordinal time | `[digit] ti [time-unit]` | `bol ti re-ti-be` = first day | ✓ |
+
+**Five structural findings:**
+
+1. **Digit chaining is unambiguous.** CVC digit forms are tier-marked; the parser cannot confuse `bun gal` (twenty-three) with a two-root compound, because compound elements come from the CV-primitive tier, not the CVC-descriptor tier. There is no structural collision.
+2. **Ordinals resolve the S097 generation-distance gap.** `[zo-ne go bun ti]` = grandparent is direct, correct, and generalizes to any generation depth without new vocabulary.
+3. **The full measurement stack works.** `[digit] [scale] nu [domain]` = any physical quantity. Scale and digit are independent modifiers before `nu`; domain follows. First full-stack attestation: S243.
+4. **`ru-pu` fraction constructor is fully productive.** `ru-pu [digit]` = 1/n; `[n] ru-pu [d]` = n/d. No new vocabulary needed for any rational fraction.
+5. **`re-ti` (hour/cycle), `re-ti-de` (minute), `re-ti-be` (day) form a productive time-unit family.** These are unregistered compounds; `re-ti` gets its first corpus attestation here (S249).

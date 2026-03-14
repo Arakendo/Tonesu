@@ -1153,6 +1153,138 @@ lo-si  ra-vo  nu-be  lo-si-fe             (S067) →  The signal is stronger tha
 
 ---
 
+## Numerals
+
+Cardinels, ordinals, fractions, and measurement all build from the **digit inventory** (CVC-tier) and the **quantity primitive** `nu`. No new roots are required.
+
+### Digit inventory
+
+| Digit | Form  | Digit | Form  |
+|-------|-------|-------|-------|
+| 0 | `nil` | 5 | `hin` |
+| 1 | `bol` | 6 | `wes` |
+| 2 | `bun` | 7 | `yom` |
+| 3 | `gal` | 8 | `fon` |
+| 4 | `mol` | 9 | `zan` |
+
+Digits occupy the **CVC descriptor tier** — they cannot be confused with CV-primitive roots or compound elements by a structural parser. This is the key property ensuring positional chaining is unambiguous.
+
+### Cardinals
+
+```
+[digit]  nu  [noun]
+```
+
+Single digit:
+```
+gal nu mu          → 3 objects
+hin nu li          → 5 people
+```
+
+Positional chain — most-significant digit first:
+```
+bun gal  nu  zo    → 23 organisms
+bol nil  nu  ti    → 10 [time-units]
+```
+
+All CVC digits before `nu` are read as a single positional numeral. There is no structural ambiguity: CVC forms are tier-marked and cannot parse as CV roots or compound-initial elements.
+
+### Ordinals
+
+```
+[digit]  ti
+```
+
+`ti` (time/sequence primitive) in compound-suffix position on a digit gives ordinal position.
+
+```
+bol ti             → first
+bun ti             → second
+gal ti             → third
+```
+
+Ordinals modify nouns directly or occur as bare predicate complements:
+```
+la-mi  ka  bun ti                 → I acted for the second time. (S246)
+la-[zo-ne  go  bun ti]  ki  lo-mi → My grandparent came to me. (S240)
+```
+
+Generation distance uses `[zo-ne go [digit] ti]` — the ancestor-relation at the nth origin-step. This resolves the S097 gap directly (grandparent = `zo-ne go bun ti`).
+
+### Measurement
+
+```
+[digit]  [scale]  nu  [domain]
+```
+
+Base (no scale):
+```
+gal  nu  pa        → 3 [units of] space  (≈ 3 meters)
+bun gal  nu  ti    → 23 [units of] time  (≈ 23 seconds)
+```
+
+With scale prefix:
+```
+hin  pir  nu  pa   → 5 kilo-space  (= 5 kilometers)  (S243)
+gal  pir  nu  ma   → 3 kilo-matter (≈ 3 kilograms)
+```
+
+Domain (`nu [root]`) is the base unit. Scale prefix multiplies. Digit precedes. The three modifiers are independent and freely combinable; order is fixed: **digit → scale → nu → domain**.
+
+Base SI domains: `nu pa` (space/meter), `nu ti` (time/second), `nu ma` (matter/kilogram), `nu ha` (heat/kelvin), `nu ra` (force), `nu lu` (light), `nu so` (sound), `nu si` (signal/bit). See `notes/cvc-inventory.md §Base units as compounds`.
+
+### Fractions
+
+```
+ru-pu  [digit]            → 1/n   (one-of-n)
+[digit]  ru-pu  [digit]   → m/n   (m-of-n)
+```
+
+`ru` (unity/one) + `pu` (plurality/many) = "one of many" = the fractional unit constructor. The divisor follows `ru-pu`; an optional numerator precedes.
+
+```
+ru-pu bun          → 1/2
+ru-pu gal          → 1/3  (S247)
+ru-pu mol          → 1/4  (= right-angle fraction; also S233)
+bun ru-pu gal      → 2/3  (S248)
+gal ru-pu mol      → 3/4
+```
+
+Right angle = `fe-di-ne ru-pu mol` (one-quarter of a full turn) or `fe-di-ne ru-pu` (context-default quarter). First attested S233 (GEO-001).
+
+Fractions in a counting context: `ru-pu gal nu zo-ma` = one-third quantity-of food (S247).
+
+### Time expressions
+
+Time units are compounds on `re` (repetition/cycle) and `ti` (time):
+
+| Unit | Compound | Construction |
+|------|----------|--------------|
+| hour | `re-ti` | recurring time unit (first attested S249) |
+| minute | `re-ti-de` | diminished recurring time |
+| day | `re-ti-be` | extended recurring time |
+| year | `hulm` | CVCC anchor (conventional) |
+
+Time of day: `ta-ti  [digit] nu re-ti` = at [n] o'clock (S249) 
+Ordinal day: `[digit] ti  re-ti-be` = [n]th day (S250)
+
+`ta-ti` introduces the temporal frame (see § Temporal Frame).
+
+### Arithmetic predicates
+
+Quantified NPs function as ordinary grammatical agents or patients. All standard predication strategies apply:
+
+```
+la-hin nu li  ne  lo-pa   → Five people are in the space. (S251)
+la-gal nu mu  ki           → Three objects moved.
+```
+
+Numerically quantified NPs have no special syntax. The digit-chain is pre-nominal; the NP head follows `nu`.
+
+**Corpus basis:** S238–S251 (NUM-001, March 2026). Pressure domains confirmed: object counting, positional chaining, ordinals, generation distance (S240–S241), measurement stack (S242–S244), fractions (S247–S248), time expressions (S249–S250), numeric predicates (S251).
+
+---
+
 ## Containment Predicates
 
 The root `ko` (containment/interior) functions as either a **state predicate** or a component of an **intentional action compound** (`ka-ko`). The distinction is grammatically and semantically significant.
