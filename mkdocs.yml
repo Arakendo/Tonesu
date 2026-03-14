@@ -1,0 +1,48 @@
+site_name: Tonesu
+site_description: Reference documentation for the Tonesu constructed language
+docs_dir: .
+
+# Navigation tree for the MkDocs build project.
+# This file lives in the source repo (f:/LocalSource/Tonesu).
+# The build project should reference this repo as its docs source.
+
+nav:
+  - Home: README.md
+  - Specification:
+    - Overview: spec/index.md
+    - Principles: spec/principles.md
+    - Phonology: spec/phonology.md
+    - Morphology: spec/morphology.md
+    - Word Formation: spec/word-formation.md
+    - Grammar: spec/grammar.md
+    - Domain Creation: spec/domain-creation.md
+    - Naming: spec/naming.md
+  - Registry:
+    - Overview: registry/index.md
+    - Primitives: registry/primitives.md
+    - Roots: registry/roots.md
+    - Domains: registry/domains.md
+    - Derived Compounds:
+      - Overview: registry/derived/index.md
+      - W001–W050: registry/derived/w001-w050.md
+      - W051–W100: registry/derived/w051-w100.md
+      - W101+: registry/derived/w101-plus.md
+  - Corpus:
+    - Overview: corpus/index.md
+    - Translations: corpus/translations.md
+    - Sentences:
+      - Batch Index: corpus/sentences/index.md
+      - S001–S039 Foundational: corpus/sentences/s001-s039.md
+      - S040–S071 Compound Tests: corpus/sentences/s040-s071.md
+      - S072–S100 Domain Probes: corpus/sentences/s072-s100.md
+      - S101–S175 Grammar Validation: corpus/sentences/s101-s175.md
+      - S176+ Advanced: corpus/sentences/s176-plus.md
+    - Conversations:
+      - Index: corpus/conversations/index.md
+      - C001–C004: corpus/conversations/c001-c004.md
+      - C005–C007: corpus/conversations/c005-c007.md
+  - Notes:
+    - Semantic Map: notes/semantic-map.md
+    - Open Questions: notes/open-questions.md
+    - Prior Art: notes/prior-art.md
+    - Design History: notes/design-history.md
