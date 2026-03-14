@@ -62,7 +62,7 @@ Definition:   one who organizes people into structures; leader, coordinator, adm
 Composition:  li (person) + su (structure) + -li (agent)
 Register:     standard
 Domain:       social
-Status:       proposed
+Status:       active
 Examples:     "the li-su-li directed the group project"
 Related:      li-be-li (creator/founder), li-to-li (teacher/knower)
 ```
@@ -76,7 +76,7 @@ Definition:   one who builds or maintains structured systems; engineer, architec
 Composition:  su (structure) + mu (object/device) + -li (agent)
 Register:     standard
 Domain:       general / technical
-Status:       proposed
+Status:       active
 Examples:     "the su-mu-li designed the bridge"
 Related:      su-li (anyone organized), mu-ka-li (operator; one who uses tools — see W022)
 ```
@@ -90,7 +90,7 @@ Definition:   knower; one whose primary role is knowledge; scholar, expert, scie
 Composition:  to (knowledge) + li (person)
 Register:     standard
 Domain:       knowledge
-Status:       proposed
+Status:       active
 Examples:     "the to-li studied the pattern"
 Related:      to-su-li (one who organizes knowledge; librarian, archivist)
 ```
@@ -106,7 +106,7 @@ Composition:  li (social agent/person) + be (growth/increase) — a person chara
               standing or capability
 Register:     standard
 Domain:       social / general
-Status:       proposed
+Status:       active
 Examples:     "la-li-be  lo-ma  ka-ko" — the child drinks water (S020)
 Notes:        Head-final: li (person) is the head; be specifies the life phase. Contrast
               li-de (a person in decay/late-life phase; not registered) and li-su-li (W001,
@@ -127,7 +127,7 @@ Composition:  to-fe (W028, epistemic boundary) + -li (social agent) — a person
               recognized social role is maintaining and adjudicating epistemic category integrity
 Register:     formal
 Domain:       knowledge / institutions / ethics
-Status:       proposed
+Status:       active
 Examples:     "the to-fe-li reviewed the claim and confirmed it as to, not se"
               "la-to-fe-li  ka-to-fe-ki-past  lo-to-su" — the arbiter ruled the error unintentional
 Notes:        Critically distinct from to-li (W003, knower/scientist): to-li produces knowledge;
@@ -162,7 +162,7 @@ Definition:   knowledge-organization device; filing system, database, library
 Composition:  to (knowledge) + su (structure) + -mu (device)
 Register:     formal
 Domain:       knowledge / computation
-Status:       proposed
+Status:       active
 Examples:     "the to-su-mu held all research logs"
 Related:      to-ki-mu (computation device / computer)
 ```
@@ -178,6 +178,9 @@ Register:     formal
 Domain:       computation
 Status:       proposed
 Examples:     "the to-ki-mu solved the equation"
+Notes:        TRIAGE NOTE (March 2026): 1 standalone corpus attestation. Form is structurally
+              sound and derivationally available but has not yet appeared in a corpus sentence
+              with a sentence reference. Promote when second attested use is added.
 Related:      to-su-mu (storage device), to-ki-li (programmer)
 ```
 
@@ -190,7 +193,7 @@ Definition:   energy-conversion device; engine, motor, generator
 Composition:  ra (energy) + ki (change) + -mu (device)
 Register:     standard
 Domain:       energy / mechanics
-Status:       proposed
+Status:       active
 Examples:     "the ra-ki-mu powered the vessel"
 Related:      ra-su-mu (energy storage / battery)
 ```
@@ -208,7 +211,7 @@ Definition:   the act of processing or transforming knowledge; computation, reas
 Composition:  to (knowledge) + ki (change)
 Register:     standard
 Domain:       knowledge / computation
-Status:       proposed
+Status:       active
 Examples:     "rapid to-ki solved the problem"
 Related:      to-ki-mu (device), to-ki-li (agent)
 ```
@@ -222,7 +225,7 @@ Definition:   signal-transmission process; communication, broadcasting, networki
 Composition:  si (signal) + ne (relation) + ki (change/process)
 Register:     formal
 Domain:       communication
-Status:       proposed
+Status:       cold
 Examples:     "si-ne-ki failed during the storm"
 Related:      si-ne-mu (communication device), si-ne-su (communication structure / network)
 ```
@@ -237,7 +240,7 @@ Composition:  mu (artifact/object) + ka (action) — head-final: an action chara
               relationship to an artifact; the act of putting an artifact to work
 Register:     standard
 Domain:       general
-Status:       proposed
+Status:       active
 Examples:     "la-tu  ka-mu-ka  lo-mu" — you operate the machine
               "la-mi  ka-be-past  lo-mu  wi [la-tu  ka-mu-ka]" — I built the machine for you to use (S016)
 Notes:        Registered to resolve placeholder gloss `ka-use` in S016. Candidate form was
@@ -256,7 +259,7 @@ Definition:   transmit; send a signal or message; directed point-to-point signal
 Composition:  si (signal/representation) + ki (motion) — the motion of a signal toward a recipient
 Register:     standard
 Domain:       communication
-Status:       proposed
+Status:       active
 Examples:     "la-ze  lo-si  ka-si-ki" — she sent the message (S017)
 Notes:        Distinct from W021 si-ne-ki (communication/networking): si-ki is directed one-way
               transmission (signal + motion); si-ne-ki is relational communication
@@ -275,7 +278,7 @@ Composition:  fe (boundary/limit) + si (signal) — head-final: a signal charact
               boundary-marking; a signal that a limit is approaching, present, or has been crossed
 Register:     standard
 Domain:       general
-Status:       proposed
+Status:       active
 Examples:     "ka-fe-si  ne-yu" — warn them / issue a warning to them
               "la-ze  lo-si  ka-si-ki-past  wi [ka-fe-si  ne-yu]" — she sent the message to warn them (S017)
 Notes:        fe (boundary) characterizes warnings precisely: a warning signals that a limit exists,
@@ -295,7 +298,7 @@ Composition:  to-su (W030, organized knowledge) + inchoative -ki (enter state of
               the moment of grasping structure; arriving at organized understanding
 Register:     standard
 Domain:       knowledge
-Status:       proposed
+Status:       active
 Examples:     "la-yu  ka-to-ki  wi [ka-to-su-ki]" — they study in order to comprehend (S018)
 Notes:        Distinct from to-ki (W020, computation/reasoning process): to-ki is the ongoing
               act of processing; to-su-ki is the threshold moment of grasping organized structure.
@@ -315,7 +318,7 @@ Composition:  se (perception/sense) + ka (action) — head-final: an action char
               assess something
 Register:     standard
 Domain:       general
-Status:       proposed
+Status:       active
 Examples:     verbal form: "la-su-mu-li  lo-mu  ka-se-past" — the engineer inspected the machine (S025)
 Notes:        When used verbally in a gloss, the form is "ka-se" (action particle + perception root).
               se-ka is the nominalized form: "the examination," "an inspection."
@@ -336,7 +339,7 @@ Composition:  de (decay/decrease) + be (growth/increase) — head-final: growth 
               the specific form of increase that counteracts a prior decrease
 Register:     standard
 Domain:       general / technical
-Status:       proposed
+Status:       active
 Examples:     "la-ze  lo-ze  ka-de-be-past" — she repaired it (S027)
               "ka-de-be" = the act of repairing
 Notes:        The de-be compound is semantically precise: not all growth is repair (ka-be
@@ -359,7 +362,7 @@ Composition:  to (knowledge/pattern) + fe (boundary/limit/category) — knowledg
               the edge between one epistemic status and the next
 Register:     formal
 Domain:       knowledge / ethics
-Status:       proposed
+Status:       active
 Examples:     "the to-fe between observation and knowledge is fundamental to Concordian discourse"
 Notes:        Does not denote a boundary in physical space but a boundary in epistemic category.
               The root fe already covers all category-edges (physical, temporal, abstract);
@@ -384,7 +387,7 @@ Composition:  to-fe (W028, epistemic boundary) + ka (deliberate intentional acti
               ka's intentionality is what makes this fraud rather than error
 Register:     formal
 Domain:       ethics / knowledge
-Status:       proposed
+Status:       active
 Examples:     "calling se (perception) to (knowledge) is to-fe-ka"  
               "la-ze  ka-to-fe-ka  lo-to-si" — she misrepresented the query as established knowledge
 Notes:        Cultural weight: in Concordian formal discourse, to-fe-ka occupies the same severity
@@ -427,7 +430,7 @@ Definition:   organized knowledge; system, model, framework, theory
 Composition:  to (knowledge/pattern) + su (structure)
 Register:     standard
 Domain:       general
-Status:       proposed
+Status:       active
 Examples:     "the to-su explained the phenomenon"
 Related:      to-su-mu (device), to-su-li (expert)
 ```
@@ -441,7 +444,7 @@ Definition:   structured set of relations; network, society, web, organization
 Composition:  ne (relation) + su (structure)
 Register:     standard
 Domain:       social / technical
-Status:       proposed
+Status:       active
 Examples:     "the ne-su of traders spanned three regions"
 Related:      li-ne-su (social network), si-ne-su (communication network)
 ```
@@ -456,7 +459,7 @@ Composition:  to (knowledge/pattern) + si (signal/representation) — head-final
               whose content is a knowledge request; inquiry encoded as a signal
 Register:     formal
 Domain:       knowledge / communication
-Status:       proposed
+Status:       active
 Examples:     S019 compound: ti-past-to-si-ko-mu — device that retains past queries
 Notes:        Direction is inward (signal reaching for knowledge), distinct from si-ki (W023,
               transmit/send; signal moving outward). to-si is a content type; si-ki is a
@@ -477,7 +480,7 @@ Composition:  to (knowledge/pattern) + ko (containment) — knowledge held withi
               that persists rather than flows or processes
 Register:     standard
 Domain:       knowledge
-Status:       proposed
+Status:       active
 Examples:     "to-ko-ka" — the act of remembering (to-ko + action marker ka)
               S019 fragment: to-si-ko-mu — device that contains queries
 Notes:        Colloquial compression pattern: ordinary speakers shorten the engineering compound
@@ -504,7 +507,7 @@ Composition:  ti (time/sequence) + fe (boundary/limit) — a boundary in the dim
               the point past which a process has exceeded its safe or intended temporal envelope
 Register:     standard
 Domain:       general / technical
-Status:       proposed
+Status:       active
 Examples:     "ti-fe  ki-now" — [it is] approaching the time-limit now (C001)
 Notes:        Extends the fe consolidation principle (Domain 4: Limits and Thresholds) into the
               temporal dimension. Concordia does not treat deadlines as social conventions
@@ -557,6 +560,9 @@ Notes:        Non-volitional by construction. A ra-ki cannot be the `la` agent o
               Do not confuse with ra-be (energy-generation, unregistered but legal), which would
               describe a source that produces energy, vs ra-ki which describes energy already
               in motion.
+              TRIAGE NOTE (March 2026): 1 standalone corpus attestation (S028). Heavily used
+              as a component of ra-ki-mu, ra-ki-li, etc., but rarely stands alone. Promote
+              when a second independent attestation of the bare event form is added.
 Related:      ra (primitive: energy/force), ki (primitive: motion), ra-ki-mu (W012: engine),
               go (primitive: causation), de (primitive: decay/deterioration)
 ```
@@ -576,7 +582,7 @@ Composition:  si (signal/information) + mu (artifact) — the artifact whose def
               functional type of device.
 Register:     standard
 Domain:       communication / infrastructure
-Status:       proposed
+Status:       active
 Examples:     "lo-si-mu  no-ru" — the relay is unstable (C002 A1)
               "lo-si-mu  ru  ta-now" — the relay is stable now (C002 A3)
 Notes:        si-mu is the minimal form (relay/transceiver). Extend with additional root:
@@ -586,6 +592,10 @@ Notes:        si-mu is the minimal form (relay/transceiver). Extend with additio
               Contrast to-ki-mu (W011: transmission device that processes knowledge/queries)
               vs si-mu (relay device that transmits raw signal without semantic processing).
               The distinction matters: a si-mu relays; a to-ki-mu reasons over the signal.
+              FORM COLLISION: W067 was independently registered as si-mu for a completely
+              different concept (individual document / single encoded record). W039 takes
+              precedence (first registration; relay-device sense). W067 requires a new
+              form before promotion.
 Related:      si (primitive: signal), mu (primitive: artifact), to-ki-mu (W011),
               si-ki (W023: a transmitted signal in motion), si-ne-ki (W021: a broadcast/propagation)
 ```
@@ -674,7 +684,7 @@ Composition:  li (social agent/person) + pu (plurality/collective) + pa (place/s
               social organization
 Register:     standard
 Domain:       social / geography
-Status:       proposed
+Status:       active
 Examples:     "pa-li-pu" — at the city / to the city (particle + colloquial short form)
               "wi [ka-ra-be  pa-li-pu]" — intention: restore energy to the city (S027)
 Notes:        When preceded by the location particle pa, the full form pa-li-pu-pa would be
@@ -736,7 +746,7 @@ Composition:  zo (living thing) + no (negation) + ki (motion) — living non-mot
               ki (motion) is the head; no-ki = non-motion; zo specifies biological domain.
 Register:     standard
 Domain:       biological / general
-Status:       proposed
+Status:       active
 Examples:     "lo-li-be  ne-fe  zo-no-ki" — the child needs sleep (S059)
 Notes:        Distinct from mu-no-ki (device at rest / powered-off). zo prefix makes this
               specifically a living body's rest state, not mere mechanical stillness.
@@ -753,7 +763,7 @@ Composition:  ha (thermal state) + de (decay/decrease) — thermal decrease. Hea
               (decrease) is the head; ha specifies thermal domain (vs ra-de = power loss).
 Register:     standard
 Domain:       physical / technical
-Status:       proposed
+Status:       active
 Examples:     "lo-mu  ne-fe  ha-de" — the machine needs cooling (S060)
 Notes:        Systematic pair with ha-be (heating). ra-de ≠ ha-de: ra-de = energy decrease
               (power failure/deceleration); ha-de = heat reduction. Orthogonal properties.
@@ -772,7 +782,7 @@ Composition:  wi (will/intention) + to (conceptual pattern) — a conceptual pat
               specifies the pattern is purposive rather than descriptive.
 Register:     standard
 Domain:       cognitive / social / operational
-Status:       proposed
+Status:       active
 Examples:     "lo-li-pu  ne-fe  wi-to" — the team needs a plan (S062)
               "la-to-li  lo-wi-to  be-past" — the engineer revised the plan (S086)
               "la-li-su-li  lo-yu  lo-wi-to  ka-si-past" — the coordinator briefed the team
@@ -807,7 +817,7 @@ Composition:  ma (matter/substance) + no (negation) + de (decay/dissolution) —
               that negates decay. Head-final: de is head of no-de; ma specifies material class.
 Register:     standard
 Domain:       biological / medical
-Status:       proposed
+Status:       active
 Examples:     "lo-zo-li  ta-ti-now  no-ne-fe  ma-no-de" — the patient no longer needs
               medicine (S063)
 Notes:        Works for any substance preventing or reversing deterioration in a living
@@ -829,7 +839,7 @@ Composition:  ka (deliberate action) + mu (artifact) — artifact whose identity
               it performs. Head-final: mu (artifact) is head; ka specifies functional class.
 Register:     standard
 Domain:       material / technical
-Status:       proposed
+Status:       active
 Examples:     "la-ze  lo-ka-mu  ne-ko-mu  ka-ko" — he placed the tool into the container (S071)
 Notes:        Distinct from ra-ki-mu (engine/power-machine, W012) where the artifact is defined
               by energy and motion. ka-mu is the generic functional tool: the artifact is defined
@@ -849,7 +859,7 @@ Composition:  ko (containment/interior) + pa (place/space) — a place defined b
               Head-final: pa (place) is head; ko specifies the bounding character.
 Register:     standard
 Domain:       spatial
-Status:       proposed
+Status:       active
 Examples:     "lo-ko-pa  ha-vo  nu-be  lo-ki-pa" — the room is warmer than the corridor (S064)
 Notes:        Paired with ki-pa (W049, corridor). ko-pa = bounded; ki-pa = transitive. The
               contrast follows from the primitives: containment (ko) vs motion (ki) as the
@@ -868,7 +878,7 @@ Composition:  ki (motion) + pa (place) — a place whose defining character is d
               Head-final: pa (place) is head; ki specifies the motion character.
 Register:     standard
 Domain:       spatial
-Status:       proposed
+Status:       active
 Examples:     "lo-ko-pa  ha-vo  nu-be  lo-ki-pa" — the room is warmer than the corridor (S064)
 Notes:        Paired with ko-pa (W048, room). The distinction: a room exists to contain; a
               corridor exists to pass through. Extends to any transitive passage space: hallway,
@@ -886,7 +896,7 @@ Composition:  pa (space/place) + nu (quantity/number) — the quantity of space 
               Head-final: nu (quantity) is head; pa specifies the dimension.
 Register:     standard
 Domain:       spatial / measurement
-Status:       proposed
+Status:       active
 Examples:     "lo-mu  pa-nu  nu-be  lo-mu-ne" — the machine is larger than the other one (S065)
 Notes:        Follows the [domain]-nu/vo quality pattern: ha-vo (thermal quality), ra-vo (energy
               quality, W067), pa-nu (spatial quantity). The nu head rather than vo head reflects
@@ -905,7 +915,7 @@ Composition:  zo (living organism) + de (decay/decrease) — biological decay fr
               Head-final: de (decay) is head; zo specifies the domain as living/biological.
 Register:     standard
 Domain:       biological
-Status:       proposed
+Status:       active
 Examples:     "lo-li-be  ta-ti-now  zo-de  nu-no  ta-ti-de" — the child is less tired than
               yesterday (S066)
 Notes:        Third member of the de-domain contrast set: ra-de (power/energy loss = power
@@ -927,7 +937,7 @@ Composition:  ko (containment) + mu (artifact) — an artifact defined by its ho
               Head-final: mu (artifact) is head; ko specifies functional class.
 Register:     standard
 Domain:       material / technical
-Status:       proposed
+Status:       active
 Examples:     "la-ko-mu  ko  lo-ma-di" — the vessel holds water (S068)
               "la-ze  lo-ka-mu  ne-ko-mu  ka-ko" — he placed the tool into the container (S071)
 Notes:        Distinct from ko-pa (W048, enclosed space): ko-mu is a portable artifact that
@@ -949,7 +959,7 @@ Composition:  pa (space/place) + ra (energy/force) — energy organized over spa
               spatially rather than concentrated at a point.
 Register:     standard
 Domain:       physical / mystic
-Status:       proposed
+Status:       active
 Examples:     "la-ra-ki-li  se  lo-pa-ra" — the pilot sensed the field (S072)
 Notes:        Distinct from ha-ra (thermal energy as a stored quantity, S037): ha-ra is thermal
               energy as a material property; pa-ra is energy as a spatial phenomenon. Analogous
@@ -971,7 +981,7 @@ Composition:  wi (will/intention) + ka (deliberate action) + su (order/structure
               modifies to specify type.
 Register:     formal / ritual
 Domain:       social / mystic / religious
-Status:       proposed
+Status:       active
 Examples:     "la-wi-ka-su  lo-fe-su  be-past" — the ritual strengthened the ward (S073)
 Notes:        Distinct from wi-to (W045, plan): wi-to is a purposive design object (what you
               write down); wi-ka-su is an organized *practice* (what you repeatedly perform).
@@ -992,7 +1002,7 @@ Composition:  fe (boundary/limit) + su (structure/organization) — a boundary t
               the boundary function.
 Register:     standard / formal
 Domain:       physical / protective / mystic
-Status:       proposed
+Status:       active
 Examples:     "la-wi-ka-su  lo-fe-su  be-past" — the ritual strengthened the protective barrier (S073)
 Notes:        Distinct from fe-no-ka (W056, forbidden boundary): fe-su is a constructed barrier
               that holds; fe-no-ka is a prohibition that defines a boundary. A ward is built;
@@ -1012,7 +1022,7 @@ Composition:  fe (boundary) + no (negation) + ka (deliberate action) — bound w
               modifies it to specify the character of the boundary.
 Register:     standard / formal
 Domain:       social / mystic / legal
-Status:       proposed
+Status:       active
 Examples:     "la-yu  fe-ki  lo-fe-no-ka" — they crossed the forbidden boundary (S077)
 Notes:        The prohibition is structural, not agentive: fe-no-ka encodes the boundary's
               property (it is a no-action boundary) rather than asserting who declared the
@@ -1032,7 +1042,7 @@ Composition:  ti (time) + mu (artifact) — an artifact defined by its relations
               Head-final: mu (artifact) is head; ti specifies temporal character.
 Register:     standard / historical
 Domain:       material / historical / mystic
-Status:       proposed
+Status:       active
 Examples:     "la-ti-mu  si-ki  no-to-ge" — the relic emits an anomalous signal (S076)
 Notes:        A ti-mu is characterized by temporal depth — it is from/of a past time. Does
               not imply mystical properties; the mystical connotation comes from context
@@ -1054,7 +1064,7 @@ Composition:  ne (relation/connection) + ra (energy/force) — a relational conn
               is organized as a relation between systems rather than as a point quantity.
 Register:     standard / technical / mystic
 Domain:       physical / mecha resonance
-Status:       proposed
+Status:       active
 Examples:     "la-ra-ki-li  ne-ra-ki  lo-mu" — the pilot entered resonance with the machine (S083)
 Notes:        Key compound for the Concordia mecha resonance concept. Structurally distinct
               from pa-ra (W053, spatial field = energy over space) and ha-ra (thermal energy
@@ -1084,7 +1094,7 @@ Composition:  ne-ra (resonance, W058) + ki (motion/inchoative) — entering the 
               zo-se-ki (W060, enter trance).
 Register:     standard / technical / mystic
 Domain:       mecha / mystic / physics
-Status:       proposed
+Status:       active
 Examples:     "la-ra-ki-li  ne-ra-ki  lo-mu" — the pilot attuned to the machine (S083)
 Notes:        The patient (lo-mu) is the entity being coupled with, not acted upon. This is
               the grammatically significant feature: ne-ra-ki uses a patient-as-coupling-target,
@@ -1107,7 +1117,7 @@ Composition:  zo (living organism) + se (perception) + ki (inchoative) — enter
               "organism-perception state"; ki shifts it to the entering event.
 Register:     standard
 Domain:       biological / cognitive / mystic
-Status:       proposed
+Status:       active
 Examples:     "la-ze  zo-se-ki" — she entered the trance state (S074)
 Notes:        The Concordian framing of trance is not supernatural. It is a cognitive mode
               transition: from to-dominated processing (reasoning, pattern-matching) to
@@ -1130,7 +1140,7 @@ Composition:  di (direction/orientation) + ki (motion) + li (social agent) — a
               di-ki (directed motion) specifies the domain of expertise.
 Register:     standard
 Domain:       social / technical
-Status:       proposed
+Status:       active
 Examples:     "la-di-ki-li  se  lo-se-to" — the navigator received a vision (S078)
 Notes:        di-ki = directed motion = navigation as activity type. The navigator is the
               person who performs di-ki as their social role. Distinct from ra-ki-li (pilot,
@@ -1153,7 +1163,7 @@ Composition:  se (raw perception) + to (conceptual pattern) — a concept ground
               epistemic origin as perceptual.
 Register:     standard
 Domain:       cognitive / mystic
-Status:       proposed
+Status:       active
 Examples:     "la-di-ki-li  se  lo-se-to" — the navigator received a vision (S078)
 Notes:        Distinct from si-to (information-concept = signal-derived knowledge) and to alone
               (pattern/concept, origin unspecified). se-to is a concept that arrives through
@@ -1177,7 +1187,7 @@ Composition:  wi (will/intention) + si (signal) — an intentional signal consti
               will itself.
 Register:     standard / ritual
 Domain:       religious / communicative
-Status:       proposed
+Status:       active
 Examples:     "la-ze  ka-wi-si" — she prayed (S079)
 Notes:        Distinct from ka-si (W024, transmit: directed signal with information content)
               and si alone (signal). wi-si is the specific case where the will is both the
@@ -1200,7 +1210,7 @@ Composition:  to (conceptual pattern/knowledge) + re (recurrence/cycle) + su (st
               is head; to-re (recurring doctrine) modifies it.
 Register:     formal / institutional
 Domain:       religious / institutional / knowledge
-Status:       proposed
+Status:       active
 Examples:     "la-si-su  ko  lo-to-re-su" — the archive holds the canonical doctrine (S080)
 Notes:        Distinct from to-su (organized knowledge generally): the re component specifies
               that this body of knowledge is actively reproduced and preserved over time.
@@ -1222,7 +1232,7 @@ Composition:  fe (boundary/limit) + vo (value/quality) — value defined by a bo
               the character of the value as boundary-protected.
 Register:     standard / formal
 Domain:       religious / social / ethical
-Status:       proposed
+Status:       active
 Examples:     "lo-ti-mu  fe-vo" — the relic is sacred (S081)
 Notes:        The Concordian framing of "sacred" is structural: fe-vo is not a supernatural
               designation but a description of a quality that prohibits casual crossing. An
@@ -1246,7 +1256,7 @@ Composition:  pa (place) + wi (will/intention) + ka (deliberate action) + su (st
               organization; pa marks it as a place.
 Register:     standard / formal
 Domain:       religious / social / spatial
-Status:       proposed
+Status:       active
 Examples:     "la-zo-si  lo-pa-wi-ka-su  no-de" — the spirits preserve the shrine (S085)
 Notes:        Four-morpheme compound; close to the word-formation spec's recommended limit
               before restructuring as a phrase. However, the compound is compositionally
@@ -1272,12 +1282,19 @@ Register:     standard
 Domain:       information / material
 Status:       proposed
 Examples:     "la-li-ze  lo-si-mu  ne-si-su  ka-ko" — she placed the document into the archive (S069)
-Notes:        Distinct from si-su (W028, archive/information-structure = the collection) and
-              ka-si (W024, transmission = the act of sending signal). si-mu is the singular
-              physical or encoded record: one document, one file, one data carrier. The
-              distinction si-mu (one record) vs si-su (the archive/collection) mirrors
-              the individual-vs-system contrast that ka-mu/ka-su and mu/su show throughout.
-Related:      si (signal), mu (artifact), si-su (W028, archive), ka-si (W024, transmit)
+Notes:        Distinct from si-su (the archive as collection — unregistered standalone, see
+              corpus usage in S069) and ka-si (W024, transmission = the act of sending
+              signal). The individual-record vs. archive-system contrast mirrors the
+              individual-vs-system pattern that ka-mu/ka-su and mu/su show throughout.
+              FORM COLLISION: si-mu is already committed at W039 (relay device / signal
+              transceiver, first registration). This entry uses the same form for a
+              different concept. BLOCKED from promotion until resolved. Candidate new
+              form: si-ko-mu (signal held in containment artifact = stored information
+              record / document). Compositionally: si (signal) + ko (containment) + mu
+              (artifact) — an artifact that holds a signal, as distinct from one that
+              relays it. The S069 attestation will be reassigned to the new form.
+Related:      si (signal), mu (artifact), si-ko-mu (candidate new form), si-su (archive,
+              corpus), ka-si (W024, transmit), W039 (si-mu relay — resolved precedence)
 ```
 
 **W068**
@@ -1292,7 +1309,7 @@ Composition:  zo (living organism) + to (conceptual pattern) — the conceptual 
               specifies the living-entity domain.
 Register:     standard / philosophical / religious
 Domain:       cognitive / spiritual / biological
-Status:       proposed
+Status:       active
 Examples:     "la-li-pu  to-re-su  si  lo-mu  zo-to" — the group's doctrine claims the
               machine has a soul (S084)
 Notes:        KEEP DISTINCT FROM zo-si (W069). zo-to = the organizing pattern of a living
@@ -1318,7 +1335,7 @@ Composition:  zo (living organism) + si (signal/representation) — a living ent
               signal has the character of a living entity.
 Register:     standard / philosophical / religious
 Domain:       spiritual / mystic / biological
-Status:       proposed
+Status:       active
 Examples:     "la-zo-si  lo-pa-wi-ka-su  no-de" — the spirits preserve the shrine (S085)
 Notes:        KEEP DISTINCT FROM zo-to (W068). zo-si = a living entity that *is* signal
               without body — a ghost, spirit, non-physical agent. Used in agent (la) slot
@@ -1342,7 +1359,7 @@ Composition:  si (signal/encoded information) + fe (boundary/limit) — the boun
               signal. Head-final: fe (boundary) is head; si specifies the domain as signal.
 Register:     standard / technical
 Domain:       information / physical / measurement
-Status:       proposed
+Status:       active
 Examples:     "lo-ra-vo  nu-no  lo-si-fe" — the signal intensity is below threshold (S067)
 Notes:        Parallel to ha-fe (thermal threshold, W033-domain) and fe-no-ka (W056,
               prohibitive boundary). si-fe is the signal-domain threshold: the point at
@@ -1364,7 +1381,7 @@ Composition:  ra (energy/force) + vo (value/quality) — the quality dimension o
               Head-final: vo (quality) is head; ra specifies the domain.
 Register:     standard / technical
 Domain:       physical / information / measurement
-Status:       proposed
+Status:       active
 Examples:     "lo-ra-vo  nu-no  lo-si-fe" — the signal intensity is below threshold (S067)
 Notes:        Third member of the [domain]-vo quality pattern: ha-vo (thermal quality,
               W033-domain), pa-nu (spatial quantity uses nu not vo), ra-vo (energy/signal
@@ -1388,7 +1405,7 @@ Composition:  to-fe (W028, epistemic boundary) + su (structure/organization) —
               to-fe specifies the domain of governance as epistemic.
 Register:     formal / institutional
 Domain:       knowledge / institutions / ethics
-Status:       proposed
+Status:       active
 Examples:     "la-tu  ka-si  lo-to-fe-su" — submit this to the epistemic standards body (C005 B3)
 Notes:        The foundational institutional entity of the Concordian epistemic system.
               `to-fe-su` is what converts subjective threshold judgments into objective
@@ -1421,7 +1438,7 @@ Composition:  wi-to (plan, W045) + su (structure/organization) — the organized
               domain as purposive-conceptual.
 Register:     formal / technical
 Domain:       engineering / institutional
-Status:       proposed
+Status:       active
 Examples:     "la-yu  lo-wi-to-su  be-past  ta-ti-de  lo-ka-wi-de" — the team updated the
               design specification before the mission departure (S092)
 Notes:        Parallel to the to / to-su upgrade: to (knowledge/concept) → to-su (organized
@@ -1450,7 +1467,7 @@ Composition:  wi (will/intention) + re (recurrence/cycle) + su (structure/organi
               recurring willed structure.
 Register:     formal / operational
 Domain:       institutional / operational
-Status:       proposed
+Status:       active
 Examples:     "lo-wi-re-su  ta-re-ti  be" — the protocol executes each cycle (S088)
 Notes:        Sits in the wi-[X]-su family alongside wi-ka-su (W054, ritual) and wi-to-su
               (W073, design specification). The differentiator is the middle morpheme:
@@ -1483,7 +1500,7 @@ Composition:  no (negation/absence) + ne (relation) + fe (boundary/condition) �
               (boundary/condition) is head; no-ne negates the relational boundary.
 Register:     technical / operational
 Domain:       navigation / institutional
-Status:       proposed
+Status:       active
 Examples:     "lo-pa-ra  no-ne-fe  lo-mu" — the field has no link to the machine (C006 B2, B3)
 Notes:        Extends the ne-fe (W042, dependency condition / established link) base with the
               no- prefix. Follows the established no-[compound] pattern: no-to-fe (C005 B2,
@@ -1510,7 +1527,7 @@ Composition:  zo (living thing) + ne (relation/connection) — a relational conn
               of the biological/living type. Base for the entire kinship compound family.
 Register:     standard
 Domain:       kinship / social
-Status:       proposed
+Status:       active
 Examples:     (base compound; used as head in W077–W081; appears as standalone to name
               the kinship concept abstractly)
 Notes:        zo-ne is the semantic root for all biological kin vocabulary. Five derived
@@ -1540,7 +1557,7 @@ Composition:  zo-ne (kinship bond, W076) + go (cause/origin) — the kin-relatio
               kin-bond type.
 Register:     standard
 Domain:       kinship
-Status:       proposed
+Status:       active
 Examples:     "lo-di-ki-li  zo-ne-go  la-mi" — the navigator is my parent (S093)
 Notes:        Sex-neutral: covers both "mother" and "father." Cannot be specified as
               sex-typed without additional vocabulary not yet in the system.
@@ -1564,7 +1581,7 @@ Composition:  zo-ne (kinship bond, W076) + du (result/effect) — the kin-relati
               kin-bond type.
 Register:     standard
 Domain:       kinship
-Status:       proposed
+Status:       active
 Examples:     "lo-ra-ki-li  zo-ne-du  la-mi" — the pilot is my child (S094)
 Notes:        Sex-neutral. Symmetric to zo-ne-go (W077): if A is B's zo-ne-go, then B is
               A's zo-ne-du.
@@ -1586,7 +1603,7 @@ Composition:  zo-ne (kinship bond, W076) + ru (unity/singularity) — the kin-re
               ru (unity) qualifies the direction of the kin-bond as sameness.
 Register:     standard
 Domain:       kinship
-Status:       proposed
+Status:       active
 Examples:     "lo-ra-ki-li  zo-ne-ru  la-mi" — the pilot is my sibling (S095)
               "lo-ra-ki-li  zo-ne-ru  lo-di-ki-li" — the pilot is the navigator's sibling (S096b)
 Notes:        Sex-neutral: covers both "brother" and "sister."
@@ -1611,7 +1628,7 @@ Composition:  zo-ne-go (parent, W077) + re (recurrence/cycle) — the parent com
               (recurrence) qualifies the parent compound.
 Register:     standard
 Domain:       kinship
-Status:       proposed
+Status:       active
 Examples:     "lo-di-ki-li  zo-ne-go-re  la-mi" — the navigator is my ancestor (S097)
 Notes:        Non-specific about generation distance. zo-ne-go-re covers grandparent,
               great-grandparent, and all more distant ancestors equally. Specifying degree
@@ -1636,7 +1653,7 @@ Composition:  zo-ne-du (child, W078) + re (recurrence/cycle) — the child compo
               (recurrence) qualifies the child compound.
 Register:     standard
 Domain:       kinship
-Status:       proposed
+Status:       active
 Examples:     "lo-ra-ki-li  zo-ne-du-re  la-mi" — the pilot is my descendant (S098)
 Notes:        Symmetric to zo-ne-go-re (W080). Both are non-specific about generation
               distance. The compound family is fully symmetric:
@@ -2068,7 +2085,7 @@ Composition:  su (structure/order) + ti (time/sequence) — the structure as tim
               the structure is temporally located (a configuration, not a type).
 Register:     standard / technical
 Domain:       systems / engineering / physics / cognition
-Status:       proposed
+Status:       cold
 First use:    not yet attested in corpus; registered as compound candidate after primitive
               validation test for "state/configuration" (March 2026).
 Notes:        Resolves open-questions.md note: "The language currently expresses 'X is in
@@ -2172,7 +2189,10 @@ Register:     technical / physics
 Domain:       physics / force / field interaction
 Status:       proposed
 First use:    pending corpus attestation
-Notes:        Distinct from ne-ra (W058): ne-ra describes the *state* of energetic coupling
+Notes:        TRIAGE NOTE (March 2026): 3 corpus matches, all in retroactive cross-reference
+              notes on S189/S193 (added when zi was admitted). No independent sentence
+              yet uses zi-ra in its own right. Promote when an organic attestation exists.
+              Distinct from ne-ra (W058): ne-ra describes the *state* of energetic coupling
               between two systems (the resonance condition, ongoing). zi-ra describes the
               *event* of mutual energy transformation — the interaction occurring. A system
               in ne-ra state undergoes zi-ra events. Analogous to the English distinction
@@ -2206,7 +2226,10 @@ Register:     standard / social / formal
 Domain:       social / exchange / commerce
 Status:       proposed
 First use:    pending corpus attestation
-Notes:        The social-domain zi compound. Covers negotiation, trade, ritual exchange,
+Notes:        TRIAGE NOTE (March 2026): 2 corpus matches, both in retroactive cross-reference
+              note on S194 (added when zi was admitted). No independent sentence yet uses
+              zi-ka in its own right. Promote when an organic attestation exists.
+              The social-domain zi compound. Covers negotiation, trade, ritual exchange,
               any deliberate coupled social event where both parties revise position
               simultaneously. Distinguishes the exchange-event from mere interaction
               (ne-ka = action-relation, i.e. a pattern of acting on each other) and
@@ -2237,7 +2260,11 @@ Domain:       biology / reproduction / ecology
 Status:       proposed
 First use:    pending corpus attestation (S193 retroactive gap record; W106 assigned
               March 2026 following zi primitive admission)
-Notes:        Two biological interaction types map to zi-zo:
+Notes:        TRIAGE NOTE (March 2026): 2 corpus matches, both in retroactive cross-reference
+              notes on S193 (added when zi was admitted). S193 is the gap-demonstration
+              sentence, not an organic attestation. Promote when a sentence uses zi-zo
+              in its own right.
+              Two biological interaction types map to zi-zo:
               (1) Mating: two organisms enter a coupled biological interaction; both
                   change state (gamete transfer, hormonal shifts, etc.). Neither organism
                   is the unilateral cause of the other's change. The transformation
