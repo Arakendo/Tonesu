@@ -539,9 +539,9 @@ The CVC stratum is **constrained but meaningfully relieved** by the audit. Ten f
 
 `spec/phonology.md` previously excluded `v` despite `vo` (R024, value/quality) already using it. **Resolution (March 2026): option A adopted — `v` added to the consonant inventory as the 17th consonant.** `spec/phonology.md §Consonant Inventory` updated; total count corrected from 16 to 17; exclusion note updated.
 
-### FLAG-CVC-002 — Spec CVC shortlist fully consumed by digits
+### FLAG-CVC-002 — Spec CVC shortlist fully consumed by digits ✓ RESOLVED
 
-All 8 forms from `spec/phonology.md §CVC Root Reserve` shortlist are assigned to digits 1–8. The spec comment ("No form on this list is assigned yet, March 2026") must be updated once these assignments are committed.
+All 8 forms from `spec/phonology.md §CVC Root Reserve` shortlist were assigned to digits 1–8. **Resolution (March 2026):** `spec/phonology.md §Clean CVC shortlist` updated — now reads "All 8 forms assigned to digits 1–8 (March 2026); see `notes/cvc-inventory.md`." The placeholder text is removed.
 
 ### FLAG-CVC-003 — Large number expression
 
