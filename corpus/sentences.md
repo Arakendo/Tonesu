@@ -7005,6 +7005,14 @@ S186 was energy; S188 is abstract structure). The form has stabilised as the can
 
 ---
 
+## Bilateral Interaction Gap — Physics Domain (S189)
+
+*Batch purpose: first corpus attestation of the P-PR-002 primitive-pressure gap, in the physics domain (gravitational/electromagnetic force coupling). S189 introduced the `go...ne...du...du` canonical gap structure.*
+
+*March 2026 audit — `zi` admitted as primitive 34: see retroactive notes at S189, S193, S194 below. The three gap demonstrations are retained as historical records. All other corpus sentences examined during the audit are clean: S056 (directional giving via `ne`+`de`, unidirectional — `zi` does not apply); S083 (entering resonance STATE via `ne-ra-ki`, not a mutual transformation event — `ne-ra` / `ne-ra-ki` retained as correct); S075 (directed will-to-machine, unidirectional — `zi` does not apply); C005 (sequential epistemic turns — simultaneous mutual transformation not required). No revision needed to any sentence outside the three gap demonstrations.*
+
+---
+
 **S189 — Bilateral interaction gap** *(PMS-001-D)*
 
 *Target: "Force-structure A and force-structure B act on each other."*
@@ -7033,6 +7041,10 @@ Natural:  Because force-system A is in relation with force-system B, A moves and
   the three-wrong-reading threshold remains open.
 - The `go...ne...du...du` chain is grammatically well-formed and communicates the
   intended idea in context. The insufficiency is ontological, not grammatical.
+- **Retroactive note (March 2026 — `zi` admitted as primitive 34):** The intended concept
+  is now expressible as `lo-ra-su  zi-ra  lo-ra-su` — "force-system A and force-system B
+  undergo mutual energy transformation." `zi-ra` (W104, proposed) is the compressed correct
+  form. S189 is retained as the gap record showing why `zi` was needed.
 
 ---
 
@@ -7043,7 +7055,7 @@ Natural:  Because force-system A is in relation with force-system B, A moves and
 | Conservation | S186 | Stable — `no-go [lo-ra ki] lo-ra ru`; invariance pattern generalizes |
 | Measurement | S187 | Stable — `nu-se` (W102) first attested; `ka nu-se lo-X` clean |
 | Symmetry | S188 | Stable — `no-go [lo-su ki] lo-su ru`; same form as conservation |
-| Bilateral interaction | S189 | **Gap demonstrated** — P-PR-002 corroborated; double `du` forces sequential reading |
+| Bilateral interaction | S189 | **Gap demonstrated** — P-PR-002 corroborated; double `du` forces sequential reading. Resolved: `zi-ra` (W104) once attested. |
 
 ---
 
@@ -7102,6 +7114,7 @@ Natural:  Because living-system A is in relation with living-system B, A grows a
 - **Why `go...ne...du...du` is the best available:** A single `du` frame cannot take two agent-predicate pairs without coordinate structure. Using `ne` as inner coordinator (`du [lo-zo-su  be  ne  lo-zo-su  be]`) would read `ne` as a static copula between two growth-states, not as simultaneous mutual growth. The double-`du` chain is the least-distorting approximation available.
 - **Biology removes the physics-abstraction objection.** One might argue that physical simultaneity is a limiting edge case that natural language need not cover. Mutualistic symbiosis is a macroscopic, everyday-scale fact about organisms. If the language cannot express it without sequentiality distortion, the gap is not domain-specific.
 - The `go...ne...du...du` chain is grammatically well-formed. The insufficiency is ontological, not grammatical — the same conclusion as S189.
+- **Retroactive note (March 2026 — `zi` admitted as primitive 34):** The intended concept is now expressible as `lo-zo-su  zi-zo  lo-zo-su` — "living-system A and living-system B undergo mutual biological transformation." `zi-zo` (proposed, pending registration) is the compressed correct form. S193 is retained as the gap record.
 
 **Verdict S193: gap confirmed (2/3).** The P-PR-002 simultaneous-mutual-transformation gap is present in both physics (S189) and biology (S193). One further domain-varied wrong-reading is needed to reach the three-attestation threshold. Social domain (negotiation / mutual exchange) is the remaining candidate.
 
@@ -7139,6 +7152,7 @@ Natural:  Because delegate A is in relation with delegate B, A shifts position a
 - **Repair test:** `ne-ki` (relation-change) = the relation itself shifts — not both parties. `wi-to-ne` = a static shared-stance state, not the dynamic revision event. No compound of existing primitives asserts "these two events are simultaneous and mutually constitutive" without that compound being exactly the new concept needed. Repair fails.
 - **The social domain removes the natural-law objection.** Physics and biology involve simultaneous coupling as a matter of natural law (field interactions, metabolic mutualism). Negotiation is chosen, deliberate, one of the paradigm cases of intentional mutual transformation. If the gap persists here, it is not an edge case of physics formalisms — it is a structural gap in the language's treatment of coupled events generally.
 - Same `go...ne...du...du` canonical structure as S189 and S193; results are directly comparable. The wrong reading is the same in all three domains.
+- **Retroactive note (March 2026 — `zi` admitted as primitive 34):** The intended concept is now expressible as `la-li  zi-ka  lo-li` — "the delegates engage in mutual exchange / transaction." `zi-ka` (W105, proposed) is the compressed correct form. S194 is retained as the gap record showing why `zi` was needed.
 
 **Verdict S194: gap confirmed (3/3). Three-attestation threshold reached.** The P-PR-002 simultaneous-mutual-transformation gap is persistent across physics, biology, and social domains. All alternative decompositions fail. Repair by compounding fails. A primitive slot evaluation is now triggered. See open-questions.md for the updated entry.
 
