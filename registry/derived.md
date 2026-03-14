@@ -2028,9 +2028,9 @@ Composition:  wi (will/intention) + fe (boundary/limit) — a limit that exists 
               physical or categorical.
 Register:     standard / legal / institutional
 Domain:       law / governance / systems
-Status:       proposed
-First use:    not yet attested in corpus; registered as compound candidate after primitive
-              validation test for "constraint/permission" (March 2026).
+Status:       active
+First use:    S183 (`la-li  de  lo-wi-fe-su` = "The person undermines the rule."
+              MMP-001-B, Moral/Metaphysical sample batch)
 Notes:        Productive extension family:
                 wi-fe-ka  = forbidden / prohibited (a willed boundary on a specific action)
                 wi-fe-su  = rule / law / policy (willed boundary as institutional structure)

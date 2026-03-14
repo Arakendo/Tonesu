@@ -6811,3 +6811,112 @@ Natural:  Despite the device's parts changing, the device remains one.
 | Self-observing feedback | S179 | Stable — `wi-re` first use; `go`+self-perception chain clean |
 | Identity through repair | S180 | **`no-go` concessive frame discovered** |
 | Ship of Theseus | S181 | Stable — `no-go` confirmed; `ru` as numerical-identity primitive |
+
+---
+
+## Moral and Metaphysical Sample Batch (S182–S185)
+
+No new primitives or grammar findings. These sentences arc through spiritual/philosophical
+domain vocabulary to confirm that mystical language decomposes into compound claims rather
+than requiring primitive expansion. Byproduct: first corpus attestation of W100 `wi-fe`.
+
+---
+
+**S182 — Intentional harm** *(MMP-001-A)*
+
+*Target: "An agent intentionally destroys value toward a person." / "An agent does harm."*
+
+```
+Gloss:    la-li  ka  vo-de  lo-li
+Literal:  agent:person  act  value-decay  patient:person
+Natural:  A person acts to destroy another person's value.
+```
+
+**Notes:**
+- `vo-de` (value-decay) as a directed action predicate: the action's character is
+  value-diminishment toward the patient. Intentionality is supplied by `ka` (deliberate
+  action root). Without `ka`, the same construction would be a stative description; with
+  `ka` it becomes a deliberate act.
+- This is what Concordian discourse produces where English produces "evil" or "harm" as
+  moral primitives. No primitive gap: the concept is fully compositional.
+- `ka vo-de lo-li` = "enact value-decay toward a person" — the Concordian rendering of
+  "harm," "malice," or "evil action." Direction of harm is encoded in the patient slot, not
+  in a dedicated harm primitive.
+
+---
+
+**S183 — Rule violation** *(MMP-001-B)*
+
+*Target: "The person undermines the rule." / "The agent violates the law."*
+
+```
+Gloss:    la-li  de  lo-wi-fe-su
+Literal:  agent:person  decay/undermine  patient:willed-boundary-structure
+Natural:  The person undermines the rule. / The agent violates the law.
+```
+
+**Notes:**
+- **`wi-fe-su` (W100 extension) first corpus attestation.** `wi-fe` = willed boundary
+  (W100); `wi-fe-su` = willed-boundary-structure = rule / law as institution. `de`
+  as predicate: the agent causes the rule to decay/lose force — violation without a
+  dedicated "break" or "transgress" primitive.
+- Distinct from physical boundary crossing (`la-li  ki  lo-fe` = the agent moves through
+  a physical limit): this is specifically the normative/institutional structure.
+- Concordian "sin" is `de  lo-wi-fe-su`. No sacred primitive required.
+
+---
+
+**S184 — Afterlife belief** *(MMP-001-C)*
+
+*Target: "The person holds: despite the body dying, the person remains one."*
+
+```
+Gloss:    la-li  to  [no-go [lo-zo  de]  lo-li  ru]
+Literal:  agent:person  know/model  [not-cause [patient:organism  decay]  patient:person  unity]
+Natural:  The person believes: despite the body dying, the person persists.
+```
+
+**Notes:**
+- **`no-go` in an epistemic frame over a metaphysical claim.** The concessive `no-go`
+  (S180–S181) is here embedded inside a `to`-attribution: the language does not assert
+  the afterlife claim; it asserts that someone *holds it as a model*. Tonesu makes no
+  metaphysical commitment about whether `lo-li  ru` is true after `lo-zo  de`. The
+  epistemic wrapper is the mechanism of ontological neutrality (see magic-primitive-trap
+  principle, open-questions.md § Mystic).
+- `lo-zo  de` inside the `no-go`-clause = organism-patient decays = biological death.
+  `lo-li  ru` in the concessive matrix = the agent-patient [remains] unity.
+- Structurally a direct exercise of S180's pattern in a new domain: identity persists
+  despite change, now applied to biological death instead of mechanical repair.
+
+---
+
+**S185 — Omniscience claim** *(MMP-001-D)*
+
+*Target: "The agent has all knowledge." / Omniscience.*
+
+```
+Gloss:    la-li  to  pu
+Literal:  agent:person  know/model  totality/all
+Natural:  The person has all knowledge. / The agent knows everything.
+```
+
+**Notes:**
+- `pu` (plurality/collective = all, the complete set) in the proposition slot of a
+  `to`-attribution: the agent's model covers the totality. First use of `pu` as the
+  direct proposition of an epistemic predication.
+- `pu` is primitive with no hidden metaphor — it means the complete collective, wherever
+  the contextually relevant set is defined. Omniscience is a quantity claim about
+  epistemic coverage: `to  pu` = knowledge [of] totality.
+- Contrast: `la-to-su  pu` = organized knowledge [covers] totality — a claim about
+  a knowledge-structure, not about an agent's epistemic access.
+
+---
+
+### MMP Verdict
+
+| Test | Sentence | Result |
+|------|----------|--------|
+| Intentional harm / evil | S182 | Stable — `ka vo-de lo-li` composes; no primitive needed |
+| Rule violation / sin | S183 | Stable — `de lo-wi-fe-su`; W100 `wi-fe-su` first attested |
+| Afterlife belief | S184 | Stable — `no-go` in epistemic frame; language stays neutral |
+| Omniscience | S185 | Stable — `to pu` composes; `pu` first as epistemic proposition |
