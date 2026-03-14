@@ -134,13 +134,14 @@ Same rule applies whether modifying a noun or a verb. No separate adjective/adve
 
 ## Concept Nesting
 
-Grouping particles mark compound noun phrases as a single unit when needed.
+No dedicated grouping particle is needed. NP scope and structure are handled by four existing tools:
 
-```
-[knowledge-transfer system]-design
-```
+1. **Role-marker scoping** — role-markers (`la-`, `lo-`, `ro-`, `ne-`) scope over the complete following NP as a unit.
+2. **Apostrophe `'`** — marks the left boundary of a subcompound within a compound word. See spec/word-formation.md § Compound Grouping Marker.
+3. **`na` particle** — partitions kind-term from identifier in named NPs: `[kind  na  identifier]`. See spec/naming.md.
+4. **Clause-frame markers** (`go`, `wi`, `ta`, `no-go`, `to-go`) — establish clause-level boundaries; the outer predicate closes the frame.
 
-Open question: use paired particles (e.g. `be...be`) or rely on stress/pause?
+Bracket notation `[...]` in corpus glosses is analytic notation only; it has no spoken or written equivalent.
 
 ---
 
@@ -1337,10 +1338,10 @@ la-si-su     ko  [la-ra-ki-li  se  lo-pa-ra]  (S191) →  The archive holds: the
 
 ## Open Questions
 
-- [ ] Finalize grouping/nesting particle syntax
+- [x] ~~Finalize grouping/nesting particle syntax~~ — resolved; see § Concept Nesting. Role-marker scoping + `'` + `na` + frame markers cover all NP grouping cases; no dedicated grouping particle needed.
 - [x] **Subordinate clause delimiter:** Stack rule — no new particles. Clause introducers push a new clause level; each `ka-X` predicate pops the innermost open level. Formal register relies purely on explicit matrix markers. Nested-subordination linearization constraint: a `wi` clause embedded inside `go`/`no-go`/`ta` must precede the outer clause's predicate. Same-agent reduction generalizes to all clause types. See § Subordinate Clauses.
 - [ ] Decide whether domain marker `da` is pre-posed before the domain root or wraps a phrase
 - [ ] Specify behavior when agent and patient are both omitted (topic-drop)
-- [ ] Confirm particle set doesn't collide with planned root phonology
+- [x] ~~Confirm particle set doesn't collide with planned root phonology~~ — resolved; `ra`→`ro` (instrument particle), `se`→`ze` (3rd-person pronoun), `wi`→`yu` (group pronoun) removed all collisions; Particle–Root Overlap Policy formalized in § Particle–Root Overlap Policy.
 - [ ] Define passive / agentless clause structure (no agent present)
-- [ ] Causal framing (go/du pair) needs a grammar rule for how it integrates with SOV order
+- [x] ~~Causal framing (go/du pair) needs a grammar rule~~ — resolved; see § Causal Frame. `go [cause-clause]  matrix-clause` is pre-clausal; SOV governs the matrix. Extended by `du`, `to-go`, `no-go` in the same frame family.

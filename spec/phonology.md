@@ -216,4 +216,4 @@ The full tier system in order of word-shape complexity:
 
 - [ ] Adopt vowel length as a morphological tool, or avoid complexity?
 - [x] ~~Allow CVC codas freely, or restrict to a subset of consonants?~~ **Resolved.** CVC codas are restricted: preferred `n l r m s`, marked `z f h`, stops discouraged. Full rule in §CVC Root Reserve and `notes/cvc-inventory.md §Design Constraints`. CVCC tier is the relaxed alternative — no CV stem restriction; CC coda from sonorant/fricative set.
-- [ ] Define phonotactics at compound boundaries explicitly?
+- [x] ~~Define phonotactics at compound boundaries explicitly?~~ **Resolved.** CV-primitive design makes all internal compound boundaries V.C by construction — no clusters arise. CVC/CVCC forms are particle-surrounded in grammar and never directly chained. See open-questions.md § Phonology.
