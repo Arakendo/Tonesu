@@ -121,11 +121,12 @@ The elements from `'` to the end of the compound (or the next `'` if present) fo
 - Omit for compounds of 2–3 roots where the parse is unambiguous.
 - Optional at depth-4 where structure is still clear from primitive meanings alone.
 - Expected when X-X repetition appears inside a longer compound (X-X creates genuine parse ambiguity at depth ≥ 4 because the repeated roots can be read as either a meta-level unit or the start of a plain chain).
-- **One `'` per compound maximum.** If a second apostrophe would be needed to express the structure, the compound is too deep — restructure as a phrase using connective particles (e.g. `ne`) or split into two sentences.
+- Multiple `'` markers are permitted. Each additional apostrophe increases cognitive parse load; casual and spoken registers will naturally avoid deep nesting. Technical, alchemical, and formal registers may use as many as the compound structure requires.
+- Phrase restructuring using connective particles (e.g. `ne`) remains available and is preferred in speech when depth makes the compound unwieldy.
 
 **Phonological status:** prosodic juncture — a slight phrasal pause at the marked boundary. Not a segmental phoneme; not in the consonant inventory. See spec/phonology.md § Prosodic Juncture Marker.
 
-**Corpus basis:** S045 (T-APO-001) — one apostrophe earns its weight; S046 (T-APO-002) — two apostrophes confirmed legal but practically inadvisable; phrase restructuring recommended instead.
+**Corpus basis:** S045 (T-APO-001) — one apostrophe earns its weight; S046 (T-APO-002) — two apostrophes in one compound (legal; heavier; phrase restructuring preferred in ordinary speech).
 
 ---
 

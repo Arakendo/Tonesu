@@ -108,7 +108,7 @@ Without `'`, the default parse is right-branching: each new element modifies the
 - Omit for compounds of 2–3 roots where the reading is unambiguous.
 - Optional for depth-4 chains where structure is still clear from primitive meanings.
 - Expected when X-X repetition appears inside a longer compound, since X-X creates genuine parse ambiguity at depth ≥ 4.
-- One `'` per compound is the norm; more than one level of explicit grouping should be restructured as a phrase.
+- Multiple `'` markers are permitted; each adds cognitive parse load. Casual and spoken registers naturally avoid nesting depth; technical and formal registers may use as many as structure requires.
 
 **First corpus attestation:** S045 (T-APO-001).
 
