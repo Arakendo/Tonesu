@@ -193,7 +193,22 @@ CVC syllables (`sun`, `kel`, `mar`) are legal per the syllable structure rule. W
 | `yom` | `yo` | m | very clean |
 | `fon` | `fo` | n | very clean |
 
-These are prioritised candidates when CVC roots are needed. No form on this list is assigned yet (March 2026).
+These are prioritised candidates when CVC roots are needed. All 8 forms assigned to digits 1–8 (March 2026); see `notes/cvc-inventory.md`.
+
+---
+
+## Phonological Tier Stratification
+
+The full tier system in order of word-shape complexity:
+
+| Pattern | Tier | Contents | Admission rule |
+|---------|------|----------|----------------|
+| CV | Primitives | Closed ontological root set | Passes all three primitive validation rules (`registry/primitives.md`) |
+| CV-CV+ | Compounds | Open compositional vocabulary | Expressible from existing roots; no new primitive needed |
+| CVC | Lexical descriptors | Digits, colors, scale prefixes, observational distance anchors | Closed-class categories needing fast phonological recognition |
+| CVCC | Exceptional anchors | Mathematical/physical constants; convention-defined units with no compositional expression | Assemblage-First Rule: see `notes/cvc-inventory.md §The Assemblage-First Rule` |
+
+**Assemblage-First Rule (summary):** The default for any concept — however complex — is compositional assemblage. A long or unwieldy compound is not grounds for a new lexical atom at any tier. CVCC is the pressure valve for the specific case where assemblage is genuinely impossible (irrational/transcendental values, convention-defined constants) AND a stable atomic form is functionally necessary. A new CV primitive is never the answer to an awkward compound.
 
 ---
 

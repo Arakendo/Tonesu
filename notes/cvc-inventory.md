@@ -343,19 +343,32 @@ AU (`hon`) has no clean compositional equivalent — it is the Earth-Sun distanc
 
 ## CVCC Exceptional Anchor Inventory
 
-CVCC forms (four phonemes, coda cluster) are reserved for constants and units that:
-- are **irrational, transcendental, or infinitely non-repeating** (cannot be expressed as a digit chain)
-- are **defined by physical measurement convention** with no compositional expression in existing primitives
-- require a **single stable lexical atom** in mathematical or scientific discourse
+### The Assemblage-First Rule
+
+**Default resolution for any concept, however complex, is always compositional assemblage.** A long compound is not a problem. An ungodly concatenation is not a problem. Stress landing on an unexpected primitive in a deep chain is not a problem. None of these are grounds for minting a new lexical atom.
+
+**CVCC is the pressure valve, not the shortcut.** It exists precisely so that when assemblage genuinely fails — not because it is inconvenient, but because the referent has no compositional expression at all — there is a clean place for a phonological atom that does not pollute the primitive set.
+
+**Admission criteria — all three must be satisfied:**
+
+1. **No compositional expression exists.** The concept cannot be expressed by any combination of existing primitives, no matter how verbose. Irrational constants, transcendental numbers, and measurement-convention anchors fail compositional expression by definition.
+2. **A single stable atom is functionally necessary.** The form appears frequently enough in technical discourse that spelling it out each time creates genuine communicative friction — not stylistic inconvenience, genuine friction.
+3. **A new CV primitive is explicitly refused.** If the pressure is strong enough that someone might argue for a new primitive, CVCC is the answer instead. CV primitives are ontological commitments; CVCC forms are convenience tokens with no ontological weight.
+
+**What does NOT qualify:**
+- A compound that is merely long
+- A concept that is merely common
+- A domain term that speakers will use frequently (use a registered compound or domain-register shortform instead)
+- Anything expressible with existing roots in any form
 
 These are the rarest entries in the lexicon. The CVCC tier is not for general vocabulary.
 
-### Design constraints for CVCC
+### Phonological constraints for CVCC
 
-1. **No CV stem restriction** — the coda cluster is the tier signal. A speaker hearing a CC coda knows they are not hearing a primitive, compound, or CVC descriptor.
+1. **No CV stem restriction** — the coda cluster is the tier signal. A speaker hearing a CC coda knows it is not a primitive, compound, or CVC descriptor.
 2. **CC coda from the preferred set** — sonorant+sonorant or sonorant+fricative clusters are most cross-linguistically pronounceable: `-lm`, `-ls`, `-ln`, `-rm`, `-rs`, `-rn`, `-lf`, `-rf`, `-ns`, `-ms`.
-3. **Cross-tier distinctiveness** — must not be near-homophone of any existing CVC form (one-phoneme difference in the first three phonemes).
-4. **Pool size** — ~400–600 usable forms (17 consonants × 5 vowels × ~10 CC pairs, filtering awkward clusters). Effectively inexhaustible for the purpose of exceptional constants.
+3. **Cross-tier distinctiveness** — must not be a near-homophone of any existing CVC form (one-phoneme difference in the first three phonemes).
+4. **Pool size** — ~400–600 usable forms (17 consonants × 5 vowels × ~10 CC pairs, filtering awkward clusters). Effectively inexhaustible for this purpose.
 
 ### Assigned forms
 
