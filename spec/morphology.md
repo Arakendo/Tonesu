@@ -15,44 +15,44 @@ Morphology covers how words are internally structured: affixes, derivation, and 
 
 ---
 
-## Tense and Aspect
+## Tense, Aspect, and Modality
 
-Optional suffix markers that stack after the verb root. If omitted, tense and aspect are inferred from context or from explicit time-reference particles (see grammar.md).
+Tonesu does **not** use morphological verb suffixes for tense, aspect, or modality. The English-gloss system (`-past`, `-now`, `-fut`, `-done`, `-ing`, `-rep`, `-might`, `-must`, `-plan`) was an early draft; the corpus implementation went a different direction entirely.
 
-### Tense
+### Tense — Temporal Frame Particles
 
-| Marker | Meaning |
-|--------|---------|
-| `-past` | situates the event before reference time |
-| `-now` | situates the event at reference time |
-| `-fut` | situates the event after reference time |
+Tense is expressed by the temporal particle `ta` and the time-reference compound family. These appear as pre-posed frame markers or post-predicate sentence markers.
 
-### Aspect
+| Form | Meaning | Corpus |
+|------|---------|--------|
+| `ta-now` | at the present moment | throughout |
+| `ti-de` | past time; previously | S035, S066, S168 |
+| `ti-be` | proximate future; next | C003, C006 A4 |
+| `ti-re` | next scheduled occurrence | C006 B4 |
+| `ti-fe` | deadline; the limiting moment | throughout |
 
-| Marker | Meaning |
-|--------|---------|
-| `-done` | completed; the event reached its end state |
-| `-ing` | ongoing; the event is in progress |
-| `-rep` | repeated or habitual |
+Full documentation in spec/grammar.md § Temporal Frame.
 
-### Modality
+### Aspect — Prefix and Compound
 
-| Marker | Meaning |
-|--------|---------|
-| `-might` | possibility |
-| `-must` | requirement or necessity |
-| `-plan` | intentional / planned |
+Two mechanisms:
 
-### Stacking Order
+1. **`re-` prefix** — habitual/dispositional aspect: `re-[verb]` = the agent characteristically performs [verb]. Documents a disposition, not a schedule. See spec/grammar.md § Aspect.
+2. **Inchoative `-ki` compound** — state entry: `[state-root]-ki` = enter the state. See Inchoative Derivation below.
 
-Markers stack in this order: `root + tense + aspect + modality`
+All other aspect readings (perfective, ongoing) are inferred from context or made explicit by temporal frame markers.
 
-```
-build-fut-ing-plan
-```
-*will be building (as planned)*
+### Modality — Clause-Level Constructions
 
-Only the markers needed should appear. Unneeded dimensions are omitted.
+Modality lives entirely in clause-level semantic constructions, not on verbs:
+
+| Modality | Construction | Where defined |
+|----------|-------------|---------------|
+| Capability | `lo-X  be-vo` | spec/grammar.md § Predication |
+| Intention / plan | `la-X  wi [clause]` | spec/grammar.md § Purpose Frame |
+| Non-actual / hypothetical | `to-go [X]  Y` | spec/grammar.md § Causal Frame |
+| Epistemic possibility | `la-X  si  [prop]` | spec/grammar.md § Epistemic Modality |
+| Epistemic impossibility | `la-X  no-to  [prop]` | spec/grammar.md § Epistemic Modality |
 
 ---
 
@@ -72,7 +72,9 @@ Convert roots from one lexical role to another. Attach directly to the root. Ful
 
 > **Design note:** the quality/property suffix was formerly `-se`, sharing form with root `se` (perception). The semantic domains overlap — "a quality is what is perceivable about a thing" — producing genuine ambiguity in nominal position (attested S049C). Renamed to `-ge` (no root collision). Rule formalized: **a suffix must not share form with a root whose semantic domain overlaps with the suffix's derivational role.** `-li`, `-mu`, `-pa`, `-su`, `-to`, `-ki` all satisfy this rule because their root forms and suffix functions are semantically distinct despite formal identity.
 
-Multiple derivational suffixes can stack if semantically required, but prefer compounds over long suffix chains.
+**Stacking limit: maximum 1 derivational suffix per lexical unit.** Any concept requiring two derivational transformations should be restructured as a compound. The preference for compounds over suffix chains is the design default; this rule formalizes the limit.
+
+Note: the inchoative `-ki` compound (see § Inchoative Derivation below) is a compounding operation on a state root, not a stacking derivational suffix. It does not count toward this limit.
 
 ---
 

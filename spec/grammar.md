@@ -1340,7 +1340,7 @@ la-si-su     ko  [la-ra-ki-li  se  lo-pa-ra]  (S191) →  The archive holds: the
 
 - [x] ~~Finalize grouping/nesting particle syntax~~ — resolved; see § Concept Nesting. Role-marker scoping + `'` + `na` + frame markers cover all NP grouping cases; no dedicated grouping particle needed.
 - [x] **Subordinate clause delimiter:** Stack rule — no new particles. Clause introducers push a new clause level; each `ka-X` predicate pops the innermost open level. Formal register relies purely on explicit matrix markers. Nested-subordination linearization constraint: a `wi` clause embedded inside `go`/`no-go`/`ta` must precede the outer clause's predicate. Same-agent reduction generalizes to all clause types. See § Subordinate Clauses.
-- [ ] Decide whether domain marker `da` is pre-posed before the domain root or wraps a phrase
+- [x] ~~Decide whether domain marker `da` is pre-posed before the domain root or wraps a phrase~~ — resolved; `da-` is a bound prefix that always fuses with the root compound (`da-to-ki`, `da-ra`, etc.). Never a free particle. See spec/domain-creation.md and open-questions.md.
 - [ ] Specify behavior when agent and patient are both omitted (topic-drop)
 - [x] ~~Confirm particle set doesn't collide with planned root phonology~~ — resolved; `ra`→`ro` (instrument particle), `se`→`ze` (3rd-person pronoun), `wi`→`yu` (group pronoun) removed all collisions; Particle–Root Overlap Policy formalized in § Particle–Root Overlap Policy.
 - [ ] Define passive / agentless clause structure (no agent present)
