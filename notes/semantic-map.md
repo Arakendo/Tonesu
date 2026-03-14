@@ -25,7 +25,7 @@ EXISTENCE
 │   └── zo  (living thing — organic)
 │
 ├── Event / Process
-│   ├── ki  (motion/change)
+│   ├── ki  (motion)
 │   ├── ka  (intentional action)
 │   ├── be  (growth/creation)
 │   └── de  (decay/dissolution)
@@ -39,7 +39,8 @@ EXISTENCE
 │   ├── ne  (connection/relation)
 │   ├── pe  (part/component)
 │   ├── go  (cause/origin)
-│   └── du  (result/effect)
+│   ├── du  (result/effect)
+│   └── zi  (mutual coupling event)
 │
 ├── Space
 │   ├── pa  (place/space)
