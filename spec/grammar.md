@@ -1167,10 +1167,22 @@ la-ze  lo-ka-mu  ne-ko-mu  ka-ko    (S071) →  He placed the tool into the cont
 
 | Form | Claim | Agent required |
 |------|-------|----------------|
-| `la-X  ko  lo-Y` | X is in the state of containing Y | no — any container entity |
+| `la-X  ko  lo-Y` | X is in the state of containing Y (nominal) | no — any container entity |
+| `la-X  ko  [clause]` | X holds / records the proposition that [clause] | no — any epistemic container |
 | `la-X  [lo-Y]  ka-ko` | X intentionally stores Y | yes — agentive |
 
 `ko` alone is never agentive. Intentional placement always uses `ka-ko`.
+
+### Clausal complement
+
+`ko` accepts an embedded clause as its patient when the container is an epistemic structure — an archive, a doctrine, a treaty, a memory system. The container type determines the semantic register; the grammar is unchanged:
+
+```
+la-to-re-su  ko  [lo-mu  zo-to]     (C005 A2) →  The doctrine holds: the machine has soul-pattern.
+la-si-su     ko  [la-ra-ki-li  se  lo-pa-ra]  (S191) →  The archive holds: the pilot perceived the field.
+```
+
+**Decision rule:** When the container is a physical vessel, `lo-Y` names a physical patient. When the container is an institutional or epistemic structure, `lo-Y` may be replaced by an embedded clause naming the propositional content. The same `la-X  ko  Y` structure handles both — no new parser rule is required.
 
 ---
 

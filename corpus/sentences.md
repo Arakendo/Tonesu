@@ -7047,6 +7047,39 @@ Natural:  Because force-system A is in relation with force-system B, A moves and
 
 ---
 
+## Ko Clausal Complement Test (S191)
+
+*Batch purpose: provide second corpus attestation of `ko` with a clausal complement (first: C005 A2), using a different container type (archive vs. doctrine), in order to confirm the extension is systematic and enable formalization of the rule in spec/grammar.md § Containment Predicates.*
+
+---
+
+**S191 — Archive record: observation logged as propositional entry**
+
+*Target: "The archive holds that the pilot perceived the field."*
+
+*Concordian framing: log entries in a `si-su` (signal-archive) are propositions, not physical objects. The archive contains the report of an event, not the event itself. This is the institutional record-keeping sentence: the pilot's observation has been entered into the archive as a propositional fact.*
+
+```
+Gloss:    la-si-su  ko  [la-ra-ki-li  se  lo-pa-ra]
+Literal:  agent:archive  contains  [agent:pilot  perceived  patient:field]
+Natural:  The archive holds: the pilot perceived the field.
+```
+
+**Notes:**
+- **Second corpus attestation of `ko` with a clausal complement.** First: C005 A2 (`la-to-re-su  ko  [lo-mu  zo-to]` — doctrine contains propositional belief). Here: `la-si-su  ko  [la-ra-ki-li  se  lo-pa-ra]` — archive contains propositional observation record. Different container type (`si-su` archive vs. `to-re-su` doctrine), different propositional content (perceptual report vs. doctrinal claim), parallel grammatical structure.
+- The bracketed clause `[la-ra-ki-li  se  lo-pa-ra]` is a full propositional complement: agent (`la-ra-ki-li`), predicate (`se`), patient (`lo-pa-ra`). The archive contains this proposition as an entry — not the pilot, not the field, but the propositional record of the perception event.
+- **Container semantics confirm the extension principle:** `ko` asserts a containment relation between a container and its contents. The container type determines what register of contents makes sense:
+  - Physical container (`ko-mu`) → physical objects
+  - Archive (`si-su`) → records and logged propositions
+  - Doctrine (`to-re-su`) → doctrinal claims
+  In all three cases, `ko` is the same structural predicate. No special form is needed for propositional complements.
+- `la-si-su  ko  lo-si-mu` (S070) was the nominal-patient form for the same archive. That sentence says "the archive holds records" (a type of nominal contents). This sentence says "the archive holds that X happened" (a specific propositional entry). The nominal form describes the archive's character; the propositional form reports a specific log entry. Both are valid.
+- With two domain-varied attestations (C005 A2, S191), the `ko`-clausal complement pattern is ready to formalize.
+
+**Verdict S191: clean.** `la-si-su  ko  [embedded-prop]` follows the same `la-X  ko  Y` pattern with full clause as Y. No strain. Generalizes from doctrine to archive. Rule may now be written.
+
+---
+
 ## No Contrast Coordinator Test (S190)
 
 *Batch purpose: provide second corpus attestation of `no` as an intra-clause contrast coordinator (first: S090) using a different predicate and domain, enabling formalization of the pattern in spec/grammar.md § Negation.*
