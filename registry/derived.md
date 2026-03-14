@@ -1665,6 +1665,7 @@ Related:      zo-ne-du (W078), re (recurrence), zo-ne-go-re (W080)
 ---
 
 **W082**
+```
 Form:         ra-ma
 Composition:  ra (energy) + ma (matter/substance) — energy-bearing raw material
 Gloss:        fuel / energy-material
@@ -1677,10 +1678,11 @@ Notes:        Distinct from `ra` alone (energy as a phenomenon) and `ra-ki` (ene
               motion). `ra-ma` is specifically the material that *stores* energy before
               conversion. `ra-ma  be` = fuel is added / fuel increases.
 Related:      ra (energy), ma (matter), ra-ki (W009), ra-ki-mu (W012)
-
+```
 ---
 
 **W083**
+```
 Form:         to-ru
 Composition:  to (conceptual pattern) + ru (unity/singularity) — unified pattern
 Gloss:        same model / same type / identical design
@@ -1694,10 +1696,12 @@ Notes:        Contrast with `ne-to` (W084, similarity — relational pattern, we
               `to-ru` is a unification claim; `ne-to` is a correspondence claim.
 Related:      to (conceptual pattern), ru (unity), ne-to (W084), ru-to (unified concept =
               definition, W040)
+```
 
 ---
 
 **W084**
+```
 Form:         ne-to
 Composition:  ne (relation/connection) + to (conceptual pattern) — relational pattern
 Gloss:        similarity / analogy / resemblance
@@ -1711,10 +1715,12 @@ Notes:        The head is `to` (the pattern); `ne` specifies the pattern is rela
               Contrast: `to-ru` = one unified pattern (identity); `ne-to` = relational
               pattern between distinct entities (similarity).
 Related:      ne (relation), to (pattern), to-ru (W083), ne-fe (W042)
+```
 
 ---
 
 **W085**
+```
 Form:         su-ru
 Composition:  su (structure/organization) + ru (unity/singularity) — unified structure
 Gloss:        unified system / single system / one system
@@ -1727,10 +1733,12 @@ First use:    S119 (T-AX-006): "The engines are parts of the same system."
 Notes:        `pe` as stative predicate (`lo-X  pe  lo-su-ru`) = first corpus use of `pe`
               in the predicate slot (established as first-attested construction).
 Related:      su (structure), ru (unity), pe (component/part), su-mu (structured artifact)
+```
 
 ---
 
 **W086**
+```
 Form:         ki-pa-mu
 Composition:  ki (motion) + pa (place/space) + mu (artifact) — moving-place-artifact
 Gloss:        vehicle / spacecraft / any transport vessel
@@ -1746,10 +1754,12 @@ Notes:        Builds on `ki-pa` (W049, motion-place = corridor/passage): `ki-pa-
               is defined by motion, not static containment. Both can co-apply to a spacecraft
               that is both a containing artifact and a moving one.
 Related:      ki (motion), pa (place), mu (artifact), ki-pa (W049), ko-mu (W052)
+```
 
 ---
 
 **W087**
+```
 Form:         pa-ki
 Composition:  pa (place/space) + ki (motion) — motion-through-space
 Gloss:        spatial drift / uncontrolled movement / adrift
@@ -1763,10 +1773,12 @@ Notes:        Distinct from `ki` alone (inchoative motion, often directed) and `
               (W049, motion-place = corridor = a structured path). `pa-ki` is the stative
               compound for existing adrift in space — unstructured, ongoing, spatial motion.
 Related:      pa (place), ki (motion), ki-pa (W049), ki-mu (motion artifact)
+```
 
 ---
 
 **W088**
+```
 Form:         pa-wi
 Composition:  pa (place/space) + wi (will/intention) — intentional place
 Gloss:        destination / target location / intended place
@@ -1780,10 +1792,12 @@ Notes:        Head-final: `wi` (intent/will) is head; `pa` specifies the subject
               intention as spatial — an intended place. Contrast with `wi-pa` (which would
               be "intentional space" = the domain of will, not a specific target location).
 Related:      pa (place), wi (intention), ki (motion), pa-ki (W087)
+```
 
 ---
 
 **W089**
+```
 Form:         to-go
 Composition:  to (conceptual pattern) + go (cause/origin) — conceptual causal frame
 Gloss:        hypothetical-causal frame / counterfactual conditional marker
@@ -1804,10 +1818,12 @@ Notes:        Two-axis design: `to-go` marks non-actuality; `ti-de` markers insi
               counterfactual as their own epistemic model (used in on-record assertions).
 Related:      go (causal frame, W-grammar), du (result frame), to (conceptual pattern),
               go [X] Y construction (spec/grammar.md § Causal Frame)
+```
 
 ---
 
 **W090**
+```
 Form:         se-no-to
 Composition:  se (perception) + no (negation/absence) + to (conceptual pattern)
 Gloss:        unresolved affect / signal without model
@@ -1831,12 +1847,12 @@ Notes:        Related construction: `la-mi  to  [la-zo-mi  se  lo-X]` — observ
               the fa-based form of unresolved affect alongside this se-based form.
 Related:      se (perception), fa (affective substrate), no (negation), to (conceptual pattern), zo (organism),
               la-zo-mi se lo-X (somatic/reactive construction, Domain 7)
-
----
+```
 
 ---
 
 **W091**
+```
 Form:         ne-de
 Composition:  ne (relation/connection) + de (decay/decrease)
 Gloss:        relational dissolution / relation ends
@@ -1852,10 +1868,12 @@ Notes:        Head-final: `de` (decay) is head process; `ne` specifies what is d
               the relational bond. `ne-mi  de` = "my-relation decays" where `-mi` attaches
               to `ne` to form the referring NP.
 Related:      ne (relation), de (decay), ka-ne-de (W092), se-no-to (W090)
+```
 
 ---
 
 **W092**
+```
 Form:         ka-ne-de
 Composition:  ka (intentional action) + ne (relation) + de (decay)
 Gloss:        intentional relational dissolution / volitional ending of a bond
@@ -1873,10 +1891,12 @@ Notes:        Compositional parse: `ka` (intentional-action modifier) + `ne-de`
               into the agentive register. Standard agentive frame: `la-[agent]  ka-ne-de
               lo-ne-[patient]`.
 Related:      ka (intentional action), ne (relation), de (decay), ne-de (W091)
+```
 
 ---
 
 **W093**
+```
 Form:         fa-ki
 Composition:  fa (affective substrate) + ki (motion/becoming/change)
 Gloss:        affect-shift / qualitative substrate change
@@ -1891,10 +1911,12 @@ Notes:        The diagnostic sentence pattern "not `fa-be`; not `fa-de`" isolate
               `fa-ki` as the correct construction when affect changed without escalating
               or diminishing.
 Related:      fa (affective substrate), ki (motion/change), fa-be (W-pending), fa-de (W094)
+```
 
 ---
 
 **W094**
+```
 Form:         fa-de
 Composition:  fa (affective substrate) + de (decay/decrease)
 Gloss:        affect-fading / substrate diminishing
@@ -1909,10 +1931,12 @@ Notes:        Complement to `fa-be` (substrate rising). Together with `fa-ki`, t
               (qualitative shift). Not interchangeable with `la-zo-mi  de` — the latter
               is bodily physical depletion; `fa-de` is affective tone diminishing.
 Related:      fa (affective substrate), de (decay), fa-be, fa-ki (W093), fa-no (W095)
+```
 
 ---
 
 **W095**
+```
 Form:         fa-no
 Composition:  fa (affective substrate) + no (negation/absence)
 Gloss:        affective numbness / substrate absent
@@ -1927,10 +1951,12 @@ Notes:        The diagnostic pair `se  [active]  +  fa-no` is the canonical Tone
               for "I know this should affect me, but it doesn't." Perception and cognition
               functioning; affect substrate absent.
 Related:      fa (affective substrate), no (negation/absence), fa-de (W094), se-no (signal-absence)
+```
 
 ---
 
 **W096**
+```
 Form:         fa-re
 Composition:  fa (affective substrate) + re (repetition/cycle)
 Gloss:        recurring affect / cyclical substrate pattern
@@ -1950,10 +1976,12 @@ Notes:        Concordian `re` as a primitive (repetition is ontologically basic)
               what cycles; `fa-re` = the whole substrate pattern is cycling regardless
               of its specific content.
 Related:      fa (affective substrate), re (repetition/cycle), to-ko (W027)
+```
 
 ---
 
 **W097**
+```
 Form:         to-fe-su-ki
 Composition:  to-fe-su (W072, epistemic standards body/code) + ki (motion/becoming)
 Gloss:        publication event / standards-rule entering to-su status
@@ -1981,6 +2009,7 @@ Notes:        Flagged as a candidate at W072 registration. Corpus demand satisfi
               and S131 both use the form before it was registered — retroactive first-use
               assignment.
 Related:      to-fe-su (W072), ki (becoming/motion), to-su (organized knowledge), to-fe-li (W032)
+```
 
 ---
 
@@ -2004,6 +2033,8 @@ Notes:        Three-attestation corpus basis: S106, S172, S174.
               bare si = active or current signal still in transit or not yet processed.
 Related:      si (signal), de (decay/past), to-ko (W044, memory), si-su (archive)
 ```
+
+---
 
 **W099**
 ```
@@ -2043,6 +2074,8 @@ Related:      wi (will), re (repetition/cycle), wi-re-su (W074, protocol),
               wi-to (W045, plan — single-instance, compare with wi-re's iterative nature)
 ```
 
+---
+
 **W100**
 ```
 Form:         wi-fe
@@ -2070,6 +2103,8 @@ Notes:        Productive extension family:
 Related:      wi (will/intention), fe (boundary/limit), fe-su (W003, bounded system),
               ka-fe (action-boundary = constraint as process), wi (W-prefix family)
 ```
+
+---
 
 **W101**
 ```
@@ -2102,6 +2137,8 @@ Notes:        Resolves open-questions.md note: "The language currently expresses
 Related:      su (structure/order), ti (time/sequence), wi-re (W099, feedback loop),
               su-ti-de (past state), to-ko (W044, memory — stored past su-ti)
 ```
+
+---
 
 **W102**
 ```
@@ -2207,6 +2244,8 @@ Related:      zi (primitive: mutual/coupling event), ra (primitive: energy/force
               ne-ra (W058: energetic resonance state), ne-ra-ki (W059: entering resonance),
               pa-ra (W053: spatial field)
 ```
+
+---
 
 **W105**
 ```
