@@ -478,20 +478,31 @@ Tonesu has a class of **clause-introducing words** that open a dependent clause 
 
 ### Boundary Rule
 
-A subordinate clause begins immediately after its clause introducer and extends over the following clause material until parsing returns to the matrix clause, normally signaled by the next matrix-level argument or predicate marker (`la`, `lo`, `ka`, etc.).
+A subordinate clause begins immediately after its clause introducer and extends until its predicate marker (`ka-X`) is consumed. This is the **stack rule**: clause introducers push a new clause level onto a parsing stack; each predicate marker (`ka-X`) pops the innermost open level. The stack is empty during the matrix clause.
 
-In gloss notation, subordinate clauses are shown in brackets `[...]`. These brackets are a **notation convention only** — they are not a defined syntactic device in the language. The mechanism for marking clause boundaries in speech and writing is an open question (see Open Questions).
+In gloss notation, subordinate clauses are shown in brackets `[...]`. In formal register, these boundaries are fully recoverable from explicit argument and predicate markers alone — no additional bracket particles are needed.
 
 ### Formal and Casual Register
 
 - **Formal register:** all matrix-level argument and predicate markers are present, making clause boundaries unambiguous without additional devices.
 - **Casual register:** reduction is permitted when the boundary is recoverable without explicit marking — typically in same-agent contexts or when clause shape makes the boundary obvious from context.
 
-The canonical form is always the formal register. Casual reduction is derived from it and must be traceable back to a fully explicit form.
+The canonical form is always the formal register. Casual reduction is derived from it and must be traceable back to a fully explicit form. The same-agent reduction rule (documented for `wi` in § Purpose Frame) generalizes to all subordinate clause types: a clause's agent may be omitted when it is identically recoverable from the immediately enclosing clause or from the matrix clause.
 
 ### Nested Subordination
 
-Embedding a subordinate clause inside another subordinate clause (e.g., a purpose clause inside a causal clause) is **not yet specified**. The boundary rule above handles single-level embedding only. Nested structures should appear in the corpus before a general rule is written. Treat nested subordination as **provisional** until corpus evidence demands a solution.
+Nesting is handled by the stack rule above. The one structural requirement is **linearization**: when a post-posed modifier (`wi`) is embedded inside a pre-posed subordinate clause (`go`, `no-go`, or `ta`), the `wi` clause must precede the outer clause's predicate. This preserves head-final modifier placement at every embedding level and keeps the stack rule unambiguous.
+
+**Example:**
+
+```
+go [la-ze  wi [ka-understand]  ka-study]  la-mi  ka-end
+```
+*Because ze studied (in order to understand), I ended it.*
+
+Stack trace: `go` pushes → `wi` pushes → `ka-understand` pops `wi` → `ka-study` pops `go` → `la-mi  ka-end` is matrix.
+
+Arbitrarily deep nesting is permitted. Same-agent reduction applies at any nesting depth.
 
 ---
 
@@ -1100,7 +1111,7 @@ la-ze  lo-ka-mu  ne-ko-mu  ka-ko    (S071) →  He placed the tool into the cont
 ## Open Questions
 
 - [ ] Finalize grouping/nesting particle syntax
-- [ ] **Subordinate clause delimiter:** The boundary rule is defined (see Subordinate Clauses): a subordinate clause extends until the next matrix-level argument or predicate marker. What remains open is the **formal-register mechanism**: does Tonesu rely purely on explicit matrix markers (no new device needed), or add optional explicit bracket particles for complex cases? The casual-register reduction rule follows once the formal answer is settled.
+- [x] **Subordinate clause delimiter:** Stack rule — no new particles. Clause introducers push a new clause level; each `ka-X` predicate pops the innermost open level. Formal register relies purely on explicit matrix markers. Nested-subordination linearization constraint: a `wi` clause embedded inside `go`/`no-go`/`ta` must precede the outer clause's predicate. Same-agent reduction generalizes to all clause types. See § Subordinate Clauses.
 - [ ] Decide whether domain marker `da` is pre-posed before the domain root or wraps a phrase
 - [ ] Specify behavior when agent and patient are both omitted (topic-drop)
 - [ ] Confirm particle set doesn't collide with planned root phonology
