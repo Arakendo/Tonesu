@@ -414,6 +414,109 @@ Four sentence- and phrase-level marks. None are compound-internal — `'` remain
 
 ---
 
+## Examples
+
+### Compound Words
+
+Compounds are written solid — no separators. The apostrophe `'` is the only non-letter character that may appear inside a compound.
+
+**Simple compounds**
+
+| Word | Construction | Reading |
+|------|-------------|---------|
+| `toli` | to · li | knower, scholar |
+| `libe` | li · be | child — person in growth phase |
+| `rasu` | ra · su | star — structured energy body |
+| `zoma` | zo · ma | organic matter, wood |
+| `toki` | to · ki | computation, learning, reasoning |
+| `rage` | ra · -ge | energetic (quality suffix) |
+| `beki` | be · -ki | beginning to grow (inchoative suffix) |
+
+**Longer compounds**
+
+| Word | Construction | Reading |
+|------|-------------|---------|
+| `tonesu` | to · ne · su | Tonesu — the language |
+| `sumuli` | su · mu · -li | engineer — one who structures artifacts |
+| `tosumu` | to · su · mu | database, library |
+| `rakimu` | ra · ki · mu | engine, motor, generator |
+| `tofeli` | to · fe · li | epistemic guardian |
+| `sikomu` | si · ko · mu | information-storage device |
+| `tokomu` | to · ko · mu | memory device |
+
+### Apostrophe in Action
+
+Default parse is right-branching. `'` pre-binds the subunit to its right before the left-side modifier attaches.
+
+Re-scoping — the same roots, two different meanings:
+
+```
+kerzoseso       ker → [zo → [se → so]]   modifier reaches only the deepest root  (wrong)
+ker'zoseso      ker → [zoseso]           modifier covers the whole kind-term      (correct)
+```
+
+*(ker = future color form, pending COL-001)*
+
+Depth management — naming two subunits explicitly:
+
+```
+rasuluvo        ra → [su → [lu → vo]]    one right-branching chain
+rasu'luvo       [rasu] → [luvo]          stellar quality-of-light
+```
+
+Multiple apostrophes — each binds the subunit to its right in turn:
+
+```
+toki'tofe'sumuli   →   [toki] modifies [[tofe] modifies [sumuli]]
+                   =   computational-epistemic engineer
+```
+
+### Sentences
+
+**Basic sentences**
+
+| Sentence | Meaning |
+|----------|---------|
+| `lalibe loma kako` | The child drinks water. |
+| `larasu lolu be` | The star emits light. (`be` without `ka` = non-intentional process) |
+| `lazoli losikumu kabe` | People create information-storage devices. |
+| `lami losi kanoko` | I did not store the data. (`kanoko` = action:not-contain) |
+| `latu katoki!` | You're computing! |
+
+**Multi-clause sentences**
+
+| Sentence | Meaning |
+|----------|---------|
+| `go lasi kaneki, lato kabe` | Because information connects, knowledge grows. |
+| `ta layu katoki, lato kabe` | When they study, knowledge grows. |
+| `lami kabe lomu wi latu kamuka` | I built the machine for you to use. |
+| `laze losi kasiki wi kafesi neyu` | She sent the signal to warn them. |
+| `togo larasu noki, lato kabe` | Even if the star doesn't move, knowledge grows. |
+| `nogo larasu ki, lato kabe` | Although the star moves, knowledge grows. |
+
+**CVC digits and CVCC anchors**
+
+| Expression | Meaning |
+|-----------|---------|
+| `gal nu li` | 3 people |
+| `bun ti` | 2nd (ordinal) |
+| `hin pir nu pa` | 5 km (CVC digit + CVC scale prefix + nu + domain) |
+| `bun rupu gal` | 2/3 |
+| `ta bun ti retibe, larasu lolu be` | On the second day, the star emitted light. |
+| `lami katoki lovarn` | I computed π. (`varn` = CVCC anchor) |
+| `lazoli ki bun nu holf` | The people traveled 2 AU. (`holf` = CVCC anchor) |
+
+**Questions and approximation**
+
+| Sentence | Meaning |
+|----------|---------|
+| `latu lotosi katoki?` | What did you compute? (`tosi` in object slot = content question) |
+| `tosi latu katoki lovarn?` | Did you compute π? (`tosi` fronted = polar question) |
+| `lami katoki lo ~varn` | I computed approximately π. |
+| `~gal nu li ki` | About 3 people moved. |
+
+---
+
 ## Repository Structure
 
 ```
