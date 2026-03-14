@@ -2332,10 +2332,82 @@ Notes:        TRIAGE NOTE (March 2026): 2 corpus matches, both in retroactive cr
                 zi-zo-su    = reproductive pair / mutualistic coupled-organism system
                 zi-zo-ki    = mating/coupling begins (inchoative)
                 zi-zo-de    = coupling bond dissolves
+                zi-zo-go    = the go-role participant (W107)
+                zi-zo-du    = the du-role participant (W108)
 Related:      zi (primitive: mutual/coupling event), zo (primitive: living thing),
               ne-ra (W058: resonance state, distinct from zi-zo coupling event),
               zi-ra (W104: physical interaction), zi-ka (W105: intentional exchange),
-              zo-ne-go (W079: parent), zo-ne-ru (W082: sibling)
+              zo-ne-go (W077: parent), zo-ne-ru (W079: sibling),
+              zi-zo-go (W107), zi-zo-du (W108)
+```
+
+---
+
+**W107**
+```
+Form:         zi-zo-go
+Type:         compound
+Class:        role / biological attribute
+Definition:   the go-role participant in a biological coupling event; the party whose
+              gametic contribution is the mobile, outward-traveling, origin-of-motion
+              type; male in the biological gamete-asymmetry sense.
+Composition:  zi-zo (biological coupling event, W106) + go (cause/origin) — the
+              participant occupying the origin/mobile-contribution role within the
+              coupling. Head-final: go specifies which of the two symmetric roles this
+              participant occupies.
+Register:     technical / biological
+Domain:       biology / reproduction
+Status:       proposed
+First use:    pending corpus attestation
+Notes:        This is a biological role description, not a social category. It says
+              nothing about anatomy beyond gametic contribution type. The definition
+              anchors to anisogamy (gamete-size asymmetry), which is the most
+              taxonomically consistent definition of biological sex across sexually
+              reproducing organisms.
+              Sex-neutral social identity: kinship vocabulary (W076–W081) is
+              deliberately sex-neutral. zi-zo-go is a biological/scientific register
+              term, not a social one. A Concordian speaker reporting biological
+              observations uses this; a speaker describing kin relationships does not
+              need it.
+              Complementary pair: zi-zo-du (W108) is the du-role participant.
+              The two forms are mutually exclusive within a given zi-zo event, and
+              together they exhaust the participant roles.
+              Isomorphism note: the go/du distinction here mirrors the go/du distinction
+              in zo-ne-go (parent) and zo-ne-du (child): in both cases go = source/origin,
+              du = result/destination. The parallelism is not accidental — both compress
+              the same causal-role logic into the kin/biology domain.
+Related:      zi-zo (W106), zi-zo-du (W108), go (primitive: cause/origin)
+```
+
+---
+
+**W108**
+```
+Form:         zi-zo-du
+Type:         compound
+Class:        role / biological attribute
+Definition:   the du-role participant in a biological coupling event; the party whose
+              gametic contribution is the large, nutrient-rich, substrate-receiving type;
+              female in the biological gamete-asymmetry sense.
+Composition:  zi-zo (biological coupling event, W106) + du (result/effect) — the
+              participant occupying the substrate/receiving-contribution role within
+              the coupling. Head-final: du specifies which of the two symmetric roles
+              this participant occupies.
+Register:     technical / biological
+Domain:       biology / reproduction
+Status:       proposed
+First use:    pending corpus attestation
+Notes:        This is a biological role description, not a social category. Anchors to
+              anisogamy: the egg contributor supplies the cell that hosts gamete fusion
+              and initiates development; this is the du (result/destination) role
+              because the event's developmental continuation originates in that gamete.
+              Sex-neutral social identity: see W107 notes. zi-zo-du is biological
+              register only.
+              Complementary pair: zi-zo-go (W107) is the go-role participant.
+              Species with simultaneous hermaphroditism occupy both roles sequentially
+              or simultaneously — this is a role description, not an exclusive biological
+              partition in all organisms.
+Related:      zi-zo (W106), zi-zo-go (W107), du (primitive: result/effect)
 ```
 
 ---
