@@ -202,7 +202,82 @@ SI-style magnitude scale words. Structure: `[scale] nu [domain]`. Base unit (×1
 | pico  | 10⁻¹²    | `bim` | `bi`    | m    | |
 | tera  | 10¹²     | `les` | `le`    | s    | |
 
-**Note:** peta (10¹⁵), exa (10¹⁸) and sub-nano scales are unassigned; extend when corpus pressure arises. Free CV stems available for future scale words include: `fi`, `fo`, `fu`, `ga`, `gu`, `he`, `hi`, `ho`, `hu`, `ya`, `wa`, `wo`, `wu`... (consult spec audit minus any assignments made here).
+### Extended-Extended (astronomical and precision physics)
+
+| Scale  | Exponent | Form  | CV stem | Coda | Notes |
+|--------|----------|-------|---------|------|---------|
+| peta   | 10¹⁵     | `gul` | `gu`    | l    | light-year territory in SI |
+| exa    | 10¹⁸     | `fin` | `fi`    | n    | |
+| zetta  | 10²¹     | `fus` | `fu`    | s    | |
+| yotta  | 10²⁴     | `hem` | `he`    | m    | observable-universe radius in SI |
+
+**Note:** Sub-pico (femto, atto, etc.) are unassigned. After all current assignments, the only two free CV stems remaining in the CVC stratum are `wa` and `wo` — see FLAG-CVC-006.
+
+---
+
+## Astronomical Distance Anchors
+
+Named reference distances for astronomical-scale discourse. These are **distance unit anchors**, not scale prefixes — they behave like domain words (`ma`, `ti`, `pa`, `ra`) but carry a pre-calibrated scale. They slot into the standard measurement structure:
+
+```
+[digit/scale] nu [anchor]
+```
+
+| Unit       | Approx SI     | Form  | CV stem | Coda | Notes |
+|------------|---------------|-------|---------|------|---------|
+| AU         | 1.5 × 10¹¹ m  | `hon` | `ho`    | n    | solar-system scale; Earth-Sun distance |
+| light-year | 9.46 × 10¹⁵ m | `hun` | `hu`    | n    | stellar scale; compositional gloss: `lu-ki-re pa` (light-motion-cycle space) |
+| megaparsec | 3.09 × 10²² m | `yam` | `ya`    | m    | cosmological scale; large-structure astronomy |
+
+**Phonetic note:** `hon` and `hun` share the h_n pattern and differ only in vowel (o vs u). In practice they refer to scales five orders of magnitude apart, so context eliminates ambiguity completely. Careful speech makes the vowel distinction clear.
+
+### Structural rules for astronomical expressions
+
+Basic distance:
+
+```
+[digit] nu [anchor]
+```
+
+```
+gal bun nu hun        → 3.2 light-years
+bol hin nu hon        → 150 AU            (inner edge of Oort cloud)
+bun nu yam            → 2 megaparsecs
+```
+
+Scale-prefixed anchor (for very large or very small astronomical distances):
+
+```
+[scale] nu [anchor]
+```
+
+```
+wul nu hun            → giga-light-years  (≈ cosmological survey depth)
+```
+
+Digit + scale combined:
+
+```
+[digit] [scale] nu [anchor]
+```
+
+```
+bun wul nu hun        → 2 × 10⁹ light-years    (2 giga-light-years)
+```
+
+Mixed: SI precision for physical quantities alongside anchored distances:
+
+```
+pir nu ma la ki ne bol hun    → kilo-mass [agent] moves toward one light-year [distance]
+```
+
+### Compositional background
+
+`hun` (light-year) has a natural compositional gloss: `lu-ki-re nu pa` (light-motion-cycle quantity of space = distance light travels in one time-cycle). The CVC form is the concise registry name; the compound is the semantically transparent long form. Both are valid; CVC is preferred in measurement expressions.
+
+AU (`hon`) has no clean compositional equivalent — it is the Earth-Sun distance, which is observational rather than derived from primitives. It is therefore a pure named anchor with no compound alternative.
+
+`yam` (megaparsec) is similarly definitional (parsec = parallax second, a measurement-geometry concept). Named anchor only.
 
 ---
 
@@ -210,11 +285,13 @@ SI-style magnitude scale words. Structure: `[scale] nu [domain]`. Base unit (×1
 
 ### Uniqueness
 
-All 27 proposed forms are distinct:
+All 38 proposed forms are distinct:
 
 > nil bol bun gal mol hin wes yom fon zan  
 > yel yim ker gim pom sam tem dol kus  
-> zum mes rim pir baf wul bim les
+> zum mes rim pir baf wul bim les  
+> gul fin fus hem  
+> hon hun yam
 
 No two are identical. ✓
 
@@ -231,8 +308,25 @@ No two are identical. ✓
 | `bim` / `rim` | pico / milli | bi vs ri | both m | distinct onset + vowel ✓ |
 | `mes` / `les` | micro / tera | me vs le | both s | distinct onset + vowel ✓ |
 | `yel` / `yim` | black / white | ye vs yi | l vs m | distinct vowel + coda ✓ |
+| `hon` / `hun` | AU / light-year | ho vs hu | both n | distinct vowel ✓ — 5 orders of magnitude apart; context always disambiguates |
+| `gul` / `wul` | peta / giga | gu vs wu | both l | distinct onset + vowel ✓ |
+| `fin` / `hin` | exa / digit 5 | fi vs hi | both n | distinct onset ✓ |
+| `fus` / `fon` | zetta / digit 8 | fu vs fo | both f onset | distinct vowel + coda ✓ |
+| `hem` / `hin` | yotta / digit 5 | he vs hi | m vs n | distinct vowel + coda ✓ |
 
 No dangerous near-homophones across categories. ✓
+
+### CVC stratum capacity
+
+After all assignments in this document, the free CV-stem count is:
+
+| Stage | Free stems remaining |
+|-------|---------------------|
+| Before CVC work (minus `zi`) | 36 |
+| After digits + colors + scales | 9: `gu fi fu he ho hu ya wa wo` |
+| After astronomical additions | **2: `wa` `wo`** |
+
+The CVC stratum is **effectively full**. Any future CVC assignments must be treated as exceptional and require displacing something or accepting a longer phonological form. See FLAG-CVC-006.
 
 ---
 
@@ -249,6 +343,10 @@ All 8 forms from `spec/phonology.md §CVC Root Reserve` shortlist are assigned t
 ### FLAG-CVC-003 — Large number expression
 
 Digit chaining (`wes nil nil nu mu` = 600) is unambiguous but verbose for large numbers in ordinary speech. Options: (a) accept positional chaining only; (b) add explicit power-of-ten words (`ten`, `hundred`, `thousand` equivalents as additional CVC forms); (c) route large exact values through the scale prefix system (`pir nu mu` ≈ thousand objects). Defer until corpus shows a real pressure; log under NUM-001 in open-questions.md.
+
+### FLAG-CVC-006 — CVC stratum near-depletion
+
+After committing all forms in this document, only **`wa` and `wo`** remain as free CVC-stem slots. Any new CVC vocabulary requirement must either: (a) use one of these two final stems; (b) accept a mild CV-stem collision with an existing root and rely on coda + context to disambiguate (lower quality); (c) move to a different phonological tier (CVCC, CV-CVC, or long-vowel forms). This depletion is a direct consequence of the three-domain commitment (digits, colors, scales). Practical implication: **the CVC tier should be considered closed for new general vocabulary from this point**. Future descriptors (temperature scales, angle units, etc.) should be assessed for whether they can be expressed compositionally before claiming a remaining slot.
 
 ### FLAG-CVC-005 — Names and loanwords may collide with CVC layer
 
