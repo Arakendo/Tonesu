@@ -227,13 +227,20 @@ Core set covers the six typologically primary/neutral points. Extended set cover
 | blue   | `pom` | `po`    | m    | |
 | yellow | `sam` | `sa`    | m    | |
 
-### Extended (can be deferred)
+### Extended (retained)
 
 | Color  | Form  | CV stem | Coda | Notes |
 |--------|-------|---------|------|-------|
-| orange | `tem` | `te`    | m    | compositional alt: `ker zi sam` |
-| purple | `dol` | `do`    | l    | compositional alt: `ker zi pom` |
-| brown  | `kus` | `ku`    | s    | |
+| brown  | `kus` | `ku`    | s    | no clean compositional form |
+
+### Extended (retired — Assemblage-First audit, March 2026)
+
+Orange and purple have valid compositional expressions (`ker zi sam` and `ker zi pom`) and therefore do not satisfy criterion 1 of the Assemblage-First Rule. A color that can be expressed by blending two core hue primitives is not a lexical gap — it is a compound. CVC slots `te` and `do` are freed.
+
+| Color  | Retired CVC | CV stem freed | Canonical form |
+|--------|-------------|---------------|----------------|
+| orange | `tem`       | `te`          | `ker zi sam` (red + yellow blend) |
+| purple | `dol`       | `do`          | `ker zi pom` (red + blue blend) |
 
 **Note on prior colloquial anchors:** `lu-ra` (≈red), `lu-zo` (≈green), `lu-pa` (≈blue) were logged as informal hue expressions (COL-001, open-questions.md). If this CVC set is adopted, those compounds become poetic/informal register only; the CVC forms above are canonical.
 
@@ -271,73 +278,53 @@ SI-style magnitude scale words. Structure: `[scale] nu [domain]`. Base unit (×1
 | zetta  | 10²¹     | `fus` | `fu`    | s    | |
 | yotta  | 10²⁴     | `hem` | `he`    | m    | observable-universe radius in SI |
 
-**Note:** Sub-pico (femto, atto, etc.) are unassigned. After all current assignments, the free CV stems remaining in the CVC stratum are `wa`, `wo`, `va`, `ve`, `vi` — see FLAG-CVC-006. (`va`/`ve`/`vi` became available when `v` was added to the consonant inventory in March 2026; `vo` was already taken as R024.)
+**Note:** Sub-pico (femto, atto, etc.) are unassigned. After the Assemblage-First audit (March 2026), the free CV stems in the CVC stratum are `wa`, `wo`, `va`, `ve`, `vi`, `te`, `do`, `ho`, `hu`, `ya` — see FLAG-CVC-006 and FLAG-CVC-008. (`va`/`ve`/`vi` became available when `v` was added to the consonant inventory; `te`/`do`/`ho`/`hu`/`ya` were freed by retiring/promoting five forms.)
 
 ---
 
 ## Astronomical Distance Anchors
 
-Named reference distances for astronomical-scale discourse. These are **distance unit anchors**, not scale prefixes — they behave like domain words (`ma`, `ti`, `pa`, `ra`) but carry a pre-calibrated scale. They slot into the standard measurement structure:
+**Assemblage-First audit (March 2026):** All three original CVC astronomical anchors have been reviewed against the Assemblage-First Rule. Two are conventionally/observationally defined with no compositional expression and belong in the CVCC tier. One has a valid compositional expression and receives no special form. CVC slots `ho`, `hu`, and `ya` are freed. See the CVCC section for `holf` and `yarm`.
+
+| Unit | Approx SI | Previous CVC | Outcome | Rationale |
+|------|-----------|-------------|---------|----------|
+| AU | 1.496×10¹¹ m | `hon` → freed | **→ CVCC `holf`** | IAU-defined constant; no compositional expression; same ontological type as mole (`wels`) |
+| light-year | 9.461×10¹⁵ m | `hun` → freed | **RETIRED** | Has compositional expression: `lu-ki ti-re nu pa` (light-motion one-time-cycle quantity of space) |
+| parsec | 3.086×10¹⁶ m | `yam` (was megaparsec) → freed | **→ CVCC `yarm`** | Parallax-arcsecond unit; convention-defined; no compositional expression; megaparsec = `baf nu yarm` |
+
+### Compositional form for light-year
 
 ```
-[digit/scale] nu [anchor]
+lu-ki ti-re nu pa     → quantity of space equal to the distance light travels in one time-cycle
 ```
 
-| Unit       | Approx SI     | Form  | CV stem | Coda | Notes |
-|------------|---------------|-------|---------|------|---------|
-| AU         | 1.5 × 10¹¹ m  | `hon` | `ho`    | n    | solar-system scale; Earth-Sun distance |
-| light-year | 9.46 × 10¹⁵ m | `hun` | `hu`    | n    | stellar scale; compositional gloss: `lu-ki-re pa` (light-motion-cycle space) |
-| megaparsec | 3.09 × 10²² m | `yam` | `ya`    | m    | cosmological scale; large-structure astronomy |
+In stellar-astronomy discourse, the implied time-cycle is a year. When the cycle must be explicit: `lu-ki bol ti-re nu pa` (light-motion one-time-cycle quantity of space). This is the canonical Tonesu expression; no lexical shortform is warranted under the Assemblage-First Rule.
 
-**Phonetic note:** `hon` and `hun` share the h_n pattern and differ only in vowel (o vs u). In practice they refer to scales five orders of magnitude apart, so context eliminates ambiguity completely. Careful speech makes the vowel distinction clear.
+### Structural rules for astronomical expressions (post-audit)
 
-### Structural rules for astronomical expressions
-
-Basic distance:
+Basic distance with CVCC anchor:
 
 ```
-[digit] nu [anchor]
-```
-
-```
-gal bun nu hun        → 3.2 light-years
-bol hin nu hon        → 150 AU            (inner edge of Oort cloud)
-bun nu yam            → 2 megaparsecs
-```
-
-Scale-prefixed anchor (for very large or very small astronomical distances):
-
-```
-[scale] nu [anchor]
+[digit] nu [anchor-CVCC]
 ```
 
 ```
-wul nu hun            → giga-light-years  (≈ cosmological survey depth)
+bol hin nu holf               → 150 AU                 (inner edge of Oort cloud)
+bun nu yarm                   → 2 parsecs              (stellar neighborhood)
+baf nu yarm                   → 1 megaparsec           (galaxy-cluster scale)
+gal bun nu lu-ki ti-re nu pa  → 3.2 light-years        (compositional form)
 ```
 
-Digit + scale combined:
+Scale-prefixed CVCC anchor:
 
 ```
-[digit] [scale] nu [anchor]
+[scale] nu [anchor-CVCC]
 ```
 
 ```
-bun wul nu hun        → 2 × 10⁹ light-years    (2 giga-light-years)
+pir nu yarm               → 1 kiloparsec           (Milky Way structure)
+wul nu yarm               → 1 gigaparsec           (cosmological survey depth)
 ```
-
-Mixed: SI precision for physical quantities alongside anchored distances:
-
-```
-pir nu ma la ki ne bol hun    → kilo-mass [agent] moves toward one light-year [distance]
-```
-
-### Compositional background
-
-`hun` (light-year) has a natural compositional gloss: `lu-ki-re nu pa` (light-motion-cycle quantity of space = distance light travels in one time-cycle). The CVC form is the concise registry name; the compound is the semantically transparent long form. Both are valid; CVC is preferred in measurement expressions.
-
-AU (`hon`) has no clean compositional equivalent — it is the Earth-Sun distance, which is observational rather than derived from primitives. It is therefore a pure named anchor with no compound alternative.
-
-`yam` (megaparsec) is similarly definitional (parsec = parallax second, a measurement-geometry concept). Named anchor only.
 
 ---
 
@@ -395,8 +382,16 @@ These are the rarest entries in the lexicon. The CVCC tier is not for general vo
 | α (fine structure)    | ≈1/137.036          | `yolm` | `yo` | `-lm` | dimensionless; electromagnetic coupling strength |
 | mole (N₂)            | 6.022×10²³        | `wels` | `we` | `-ls` | Avogadro's number as counting unit; conventional SI anchor |
 
+#### Astronomical and observational constants
+
+| Constant | Value | Form   | CV core | CC coda | Notes |
+|----------|-------|--------|---------|---------|-------|
+| AU (astronomical unit) | 1.496×10¹¹ m | `holf` | `ho` | `-lf` | IAU-defined Earth-Sun distance; observational anchor; formerly CVC `hon` (freed March 2026) |
+| parsec | 3.086×10¹⁶ m | `yarm` | `ya` | `-rm` | Parallax-arcsecond unit; convention-defined; no compositional expression; formerly CVC `yam` (freed March 2026). Megaparsec = `baf nu yarm`. |
+
 **Spoken sequence (mathematical):** varn · worn · werm · vins · valm · walf  
-**Spoken sequence (physical):** vern · birm · velf · holm · vils · yolm · wels
+**Spoken sequence (physical):** vern · birm · velf · holm · vils · yolm · wels  
+**Spoken sequence (observational):** holf · yarm
 
 ### Near-neighbor check (CVCC set)
 
@@ -412,8 +407,12 @@ These are the rarest entries in the lexicon. The CVCC tier is not for general vo
 | `valm` / `velf` | √2 / G | val vs vel | both -lm/-lf | different vowel + coda ✓ |
 | `birm` / `bim`  | ħ / pico (CVC) | bir vs bi\_ | CVCC vs CVC | different length + tier ✓ |
 | `vern` / `vern` | — | — | — | unique ✓ |
+| `holf` / `holm` | AU / Boltzmann | hol vs hol | -f vs -m | distinct coda-final ✓ |
+| `holf` / `velf` | AU / G | hol vs vel | -f vs -f | distinct vowel + onset ✓ |
+| `yarm` / `varn` | parsec / π | yar vs var | -m vs -n | distinct onset + coda ✓ |
+| `yarm` / `yolm` | parsec / α | yar vs yol | -m vs -m | distinct vowel ✓ |
 
-All 13 CVCC forms are distinct from each other and from all 38 CVC forms. ✓
+All 15 CVCC forms are distinct from each other and from all 33 CVC forms. ✓
 
 ### Usage examples
 
@@ -433,6 +432,9 @@ Approximate form (when digits suffice; exact form when precision required):
 ```
 gal bol mol … nu pa-re      → 3.14… (approximation, verbose)
 varn nu pa-re                → π exactly (canonical)
+holf nu pa                   → one AU of distance
+baf nu yarm                  → one megaparsec
+pir nu yarm                  → one kiloparsec
 ```
 
 ### Deferred constants (assign when corpus pressure arrives)
@@ -453,13 +455,14 @@ varn nu pa-re                → π exactly (canonical)
 All 51 proposed forms are distinct:
 
 > nil bol bun gal mol hin wes yom fon zan  
-> yel yim ker gim pom sam tem dol kus  
+> yel yim ker gim pom sam kus  
 > zum mes rim pir baf wul bim les  
 > gul fin fus hem  
-> hon hun yam  
-> varn worn werm vins valm walf vern birm velf holm vils yolm wels
+> varn worn werm vins valm walf vern birm velf holm vils yolm wels holf yarm
 
 No two are identical. ✓
+
+*Retired from CVC (March 2026 Assemblage-First audit): `tem` (orange → `ker zi sam`), `dol` (purple → `ker zi pom`), `hun` (light-year → `lu-ki ti-re nu pa`). Moved to CVCC: `hon` → `holf`, `yam` → `yarm`.*
 
 ### Near-neighbor analysis (differ by one phoneme within same CV stem)
 
@@ -474,7 +477,7 @@ No two are identical. ✓
 | `bim` / `rim` | pico / milli | bi vs ri | both m | distinct onset + vowel ✓ |
 | `mes` / `les` | micro / tera | me vs le | both s | distinct onset + vowel ✓ |
 | `yel` / `yim` | black / white | ye vs yi | l vs m | distinct vowel + coda ✓ |
-| `hon` / `hun` | AU / light-year | ho vs hu | both n | distinct vowel ✓ — 5 orders of magnitude apart; context always disambiguates |
+| ~~`hon` / `hun`~~ | AU / light-year | — | — | *both retired from CVC (March 2026 audit); `hon` → CVCC `holf`; `hun` → dropped* |
 | `gul` / `wul` | peta / giga | gu vs wu | both l | distinct onset + vowel ✓ |
 | `fin` / `hin` | exa / digit 5 | fi vs hi | both n | distinct onset ✓ |
 | `fus` / `fon` | zetta / digit 8 | fu vs fo | both f onset | distinct vowel + coda ✓ |
@@ -490,9 +493,12 @@ After all assignments in this document, the free CV-stem count is:
 |-------|---------------------|
 | Before CVC work (minus `zi`) | 36 |
 | After digits + colors + scales | 9: `gu fi fu he ho hu ya wa wo` |
-| After astronomical additions | **5: `wa` `wo` `va` `ve` `vi`** (va/ve/vi opened when v was added to inventory) |
+| After astronomical additions (original) | 5: `wa` `wo` `va` `ve` `vi` (va/ve/vi opened when v was added) |
+| **After Assemblage-First audit (March 2026)** | **10: `wa` `wo` `va` `ve` `vi` `te` `do` `ho` `hu` `ya`** |
 
-The CVC stratum is **effectively full**. Any future CVC assignments must be treated as exceptional and require displacing something or accepting a longer phonological form. See FLAG-CVC-006.
+Broken down: 5 slots freed by audit — `te` (orange retired), `do` (purple retired), `hu` (light-year retired), `ho` (AU → CVCC), `ya` (megaparsec → CVCC parsec).
+
+The CVC stratum is **constrained but meaningfully relieved** by the audit. Ten free CV stems remain, supporting ~50 additional strict-CVC forms before genuine depletion. Future CVC candidates should still be held to the same high bar. See FLAG-CVC-006.
 
 ---
 
@@ -525,6 +531,22 @@ After committing all forms in this document, **five free CVC-stem slots remain: 
 ### FLAG-CVC-005 — Names and loanwords may collide with CVC layer
 
 Proper names and borrowed vocabulary — personal names, place names, AI system names, titles — have no assigned phonological tier. If ad-hoc CVC forms are used for names, they will be indistinguishable from digit/color/scale descriptors at first glance. **Options:** (a) use the CVCC tier (now established) for names/loanwords; (b) rely on the `na` proper-name particle (G008) to signal context without a separate phonological tier. Option (b) is probably sufficient and lower-complexity; option (a) is available if names need a distinct phonological signature. Defer until a corpus sentence requires a proper name; track under `spec/naming.md`.
+
+---
+
+### FLAG-CVC-008 — Assemblage-First audit completed (March 2026)
+
+Five CVC forms were reviewed and found to violate the Assemblage-First Rule:
+
+| Form | Concept | Violation | Resolution |
+|------|---------|-----------|------------|
+| `tem` | orange | Compositional form exists: `ker zi sam` | RETIRED — use `ker zi sam` |
+| `dol` | purple | Compositional form exists: `ker zi pom` | RETIRED — use `ker zi pom` |
+| `hun` | light-year | Compositional form exists: `lu-ki ti-re nu pa` | RETIRED — use compositional form |
+| `hon` | AU | No compositional form; same type as `wels` (mole) | MOVED to CVCC as `holf` |
+| `yam` | megaparsec | Parsec has no compositional form; `mega` is already a scale prefix | MOVED to CVCC as `yarm` (parsec); megaparsec = `baf nu yarm` |
+
+Net effect: 33 CVC forms (was 38), 15 CVCC forms (was 13), 10 free CVC stems (was 5). Full form lists updated in collision check and capacity table.
 
 ---
 
