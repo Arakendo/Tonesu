@@ -6920,3 +6920,127 @@ Natural:  The person has all knowledge. / The agent knows everything.
 | Rule violation / sin | S183 | Stable — `de lo-wi-fe-su`; W100 `wi-fe-su` first attested |
 | Afterlife belief | S184 | Stable — `no-go` in epistemic frame; language stays neutral |
 | Omniscience | S185 | Stable — `to pu` composes; `pu` first as epistemic proposition |
+
+---
+
+## Physics and Mathematics Sample Batch (S186–S189)
+
+No new primitives. Tests map cleanly to existing roots and compounds across conservation,
+measurement, symmetry, and interaction. `nu-se` (quantitative detection / measurement)
+registered as W102. S189 is included as a **gap demonstration sentence**: it shows the
+limit of current tools for expressing simultaneous bilateral interaction and directly
+corroborates P-PR-002.
+
+---
+
+**S186 — Conservation** *(PMS-001-A)*
+
+*Target: "Despite the energy moving, the energy remains unified." / Energy conservation.*
+
+```
+Gloss:    no-go [lo-ra  ki]  lo-ra  ru
+Literal:  not-cause [patient:energy  motion]  patient:energy  unity
+Natural:  Despite energy moving/changing form, energy remains one.
+```
+
+**Notes:**
+- `no-go` applied to a physics conservation law. Same concessive pattern as S180
+  (identity through repair) and S181 (Ship of Theseus), now in the energy domain:
+  energy's unity is not derived from its remaining motionless; it persists through
+  motion and form-change.
+- `lo-ra  ki` inside the `no-go`-clause: energy-patient undergoing motion/change —
+  energy changing form, position, or transmission mode.
+- `lo-ra  ru` in the matrix: energy-patient [has/maintains] unity — the total quantity
+  is preserved. Conservation as the persistence of `ru` (singularity of the total)
+  through transformation.
+- Extends the pattern observed in IPX: `ru` does not require stasis. A value can be `ru`
+  (one, conserved, unified) while the specific configuration undergoes `ki` (change). This
+  is the Concordian conceptual structure for all conservation laws, not just energy.
+
+---
+
+**S187 — Measurement** *(PMS-001-B)*
+
+*Target: "The agent measures the energy." / Quantitative detection.*
+
+```
+Gloss:    la-li  ka  nu-se  lo-ra
+Literal:  agent:person  act  quantity-perceive  patient:energy
+Natural:  The person measures the energy.
+```
+
+**Notes:**
+- **`nu-se` (W102) first corpus attestation.** `nu` (quantity/number) + `se`
+  (perception/detection) = quantitative detection = measurement. Head-final: `se`
+  (perception) is the head; `nu` specifies perception that returns a quantity rather than
+  a mere qualitative signal. Registered as W102.
+- `ka  nu-se` = perform the act of measuring. Without `ka`, `la-li  nu-se  lo-ra` would
+  be a dispositional claim (the agent has the capacity to measure); with `ka`, it is the
+  deliberate act.
+- Clean compound path for all of scientific measurement: `nu-se-mu` = measuring
+  instrument, `nu-se-su` = measurement system, `nu-se-ka` = the measure/result.
+
+---
+
+**S188 — Symmetry / invariance** *(PMS-001-C)*
+
+*Target: "Despite the structure transforming, the structure remains one." / Symmetry.*
+
+```
+Gloss:    no-go [lo-su  ki]  lo-su  ru
+Literal:  not-cause [patient:structure  change]  patient:structure  unity
+Natural:  Despite the structure transforming, the structure remains one.
+```
+
+**Notes:**
+- Third domain for the `no-go [lo-X  ki]  lo-X  ru` pattern (S181 was mechanical parts;
+S186 was energy; S188 is abstract structure). The form has stabilised as the canonical
+  expression of **invariance under transformation** — the formal concept underlying
+  symmetry in physics and algebra.
+- In group-theory terms: a structure is symmetric if it remains `ru` (unified, the same
+  object) under a family of transformations `ki`. S188 expresses this directly.
+- `lo-su  ki` = structure undergoes change. `lo-su  ru` = structure remains one. The
+  concessive frame is exactly what symmetry requires: invariance despite change, not
+  because change is absent.
+
+---
+
+**S189 — Bilateral interaction gap** *(PMS-001-D)*
+
+*Target: "Force-structure A and force-structure B act on each other."*
+*Intended: simultaneous mutual transformation. Best available expression:*
+
+```
+Gloss:    go [lo-ra-su  ne  lo-ra-su]  du [lo-ra-su  ki]  du [lo-ra-su  ki]
+Literal:  cause [patient:force-system  relation  patient:force-system]
+          result [patient:force-system  move]  result [patient:force-system  move]
+Natural:  Because force-system A is in relation with force-system B, A moves and B moves.
+```
+
+**Notes:**
+- **Gap demonstration for P-PR-002.** This sentence represents the physics domain's best
+  available expression of mutual interaction using current tools. It has two problems:
+  (1) **Double `du` requires sequential reading**: `du [A ki]  du [B ki]` reads as A moves
+  first, then B moves — but gravitational (or electromagnetic) interaction changes both
+  systems simultaneously. The language has no way to mark the two outcomes as concurrent.
+  (2) **`ne` captures the relation but not the transformation**: `ne` describes a static
+  connection; what physics means by interaction is that A and B enter a coupled event
+  that modifies both, and the `ne` relation is what enables this event — but `ne` alone
+  doesn't encode the mutual transformation.
+- This is the canonical corpus evidence for P-PR-002 (open-questions.md): a sentence that
+  physics requires, that the language can approximate but cannot express without
+  directionality distortion. Whether the frequency and variety of such sentences reaches
+  the three-wrong-reading threshold remains open.
+- The `go...ne...du...du` chain is grammatically well-formed and communicates the
+  intended idea in context. The insufficiency is ontological, not grammatical.
+
+---
+
+### PMS Verdict
+
+| Test | Sentence | Result |
+|------|----------|--------|
+| Conservation | S186 | Stable — `no-go [lo-ra ki] lo-ra ru`; invariance pattern generalizes |
+| Measurement | S187 | Stable — `nu-se` (W102) first attested; `ka nu-se lo-X` clean |
+| Symmetry | S188 | Stable — `no-go [lo-su ki] lo-su ru`; same form as conservation |
+| Bilateral interaction | S189 | **Gap demonstrated** — P-PR-002 corroborated; double `du` forces sequential reading |

@@ -2074,6 +2074,34 @@ Related:      su (structure/order), ti (time/sequence), wi-re (W099, feedback lo
               su-ti-de (past state), to-ko (W044, memory — stored past su-ti)
 ```
 
+**W102**
+```
+Form:         nu-se
+Type:         compound
+Class:        process / action
+Definition:   quantitative detection; measurement; to perceive a quantity;
+              to obtain a number or magnitude from observation
+Composition:  nu (quantity/number) + se (perception/detection) — perception that returns
+              a quantity rather than a mere qualitative signal. Head-final: se (perception)
+              is head; nu specifies the kind of perception — one that yields a number
+              or measurable value as its output.
+Register:     standard / technical / scientific
+Domain:       science / engineering / mathematics
+Status:       active
+First use:    S187 (`la-li  ka  nu-se  lo-ra` = "The person measures the energy."
+              — PMS-001-B, Physics/Mathematics sample batch)
+Notes:        The canonical compound for scientific measurement. `ka  nu-se` = perform the
+              act of measuring. Extension forms:
+                nu-se-mu  = measuring instrument (quantity-detection device)
+                nu-se-su  = measurement system / metrology framework
+                nu-se-ka  = the measured result / reading (the outcome of nu-se)
+              Distinction from bare `se` (qualitative detection): `se` = I perceive
+              something is there / has this quality; `nu-se` = I perceive its magnitude.
+              Both can take the same patient; `nu-se` asserts the output is a number.
+Related:      nu (quantity), se (perception), nu-to (quantitative concept/parameter),
+              nu-se-mu (measuring instrument), se-ka (W058 type, perceptual-agent)
+```
+
 ---
 
 - [x] ~~Resolve whether compound forms use hyphens in writing or run together~~ → Resolved: solid spelling is canonical; hyphens are analytic notation only. See spec/word-formation.md § Written Form.
