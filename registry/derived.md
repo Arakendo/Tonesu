@@ -2218,5 +2218,61 @@ Related:      zi (primitive: mutual/coupling event), ka (primitive: intentional 
 ```
 
 ---
+
+**W106**
+```
+Form:         zi-zo
+Type:         compound
+Class:        event / process
+Definition:   biological coupling event; any coupled biological interaction in which two
+              organisms both enter and exit modified by the coupling itself, with neither
+              the unilateral cause of the other's change. Covers mating and mutualistic
+              symbiosis as the same ontological structure.
+Composition:  zi (mutual/coupling event) + zo (living thing/organism) — the coupling event
+              in the biological domain. Head-final: zo (organism) is head; zi specifies
+              that the event involves simultaneous bilateral transformation rather than
+              predation or parasitism (which are directional: go/du).
+Register:     standard / technical / biological
+Domain:       biology / reproduction / ecology
+Status:       proposed
+First use:    pending corpus attestation (S193 retroactive gap record; W106 assigned
+              March 2026 following zi primitive admission)
+Notes:        Two biological interaction types map to zi-zo:
+              (1) Mating: two organisms enter a coupled biological interaction; both
+                  change state (gamete transfer, hormonal shifts, etc.). Neither organism
+                  is the unilateral cause of the other's change. The transformation
+                  emerges from the coupling event itself.
+              (2) Mutualistic symbiosis: two organisms each supply resources the other
+                  cannot produce alone; both grow or sustain function through the coupling.
+                  S193 demonstrated the gap; zi-zo is the correct form.
+              These are ontologically identical: both are zi events in the zo domain.
+              The compound does not differentiate them — context determines which is
+              intended. If distinction becomes necessary, zi-zo-ki (begin coupling) vs
+              zi-zo-su (the coupled system) handles temporal vs structural readings.
+
+              Fertilization is NOT zi-zo. Gamete fusion is structurally asymmetric:
+              one gamete is absorbed into another, creating a new entity. The direction
+              of causation is not mutual — the event creates a single modified entity,
+              not two modified entities exiting as individuals. Use: ki (inchoative of
+              new-entity formation) or go/be for the development process. Biological
+              lifecycle distinction:
+                zi-zo          mating event (mutual, symmetric)
+                ki / go-be     fertilization (asymmetric genotype fusion)
+                be             development / growth (single-participant)
+
+              Predation and parasitism are NOT zi-zo. They are directional:
+              go [predator]  du [prey  de]. Use go/du.
+
+              Extension family:
+                zi-zo-su    = reproductive pair / mutualistic coupled-organism system
+                zi-zo-ki    = mating/coupling begins (inchoative)
+                zi-zo-de    = coupling bond dissolves
+Related:      zi (primitive: mutual/coupling event), zo (primitive: living thing),
+              ne-ra (W058: resonance state, distinct from zi-zo coupling event),
+              zi-ra (W104: physical interaction), zi-ka (W105: intentional exchange),
+              zo-ne-go (W079: parent), zo-ne-ru (W082: sibling)
+```
+
+---
 - [ ] Review W002 (su-mu-li) — does it conflict with the derivational marker stack order?
 - [ ] Develop domain-specific sub-lists once domains are finalized (see ontology/domains.md)

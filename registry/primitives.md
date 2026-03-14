@@ -129,6 +129,18 @@ Canonical contrast:
 
 `ne-ra` (W058) is retained as distinct: `ne-ra` = *state* of energetic coupling (the resonance condition); `zi-ra` = *event* of mutual energy transformation (the interaction occurring). State and event are complementary, not competing. `ne-ra-ki` (W059, entering resonance) is likewise unaffected.
 
+**Biological lifecycle clarity (from March 2026 admission analysis):** `zi` is precision-scoped in biology because it requires symmetry of modification. Three biological event types that look related are structurally distinct:
+
+| Stage | Structure | Why |
+|-------|-----------|-----|
+| Mating | `zi-zo` | Two organisms enter coupled biological interaction; both change state; no unilateral cause |
+| Symbiosis | `zi-zo` | Same ontological structure: mutual modification by coupling |
+| Fertilization | `ki` / `go-be` | Asymmetric: one gamete absorbed into another; creates new entity; directional process |
+| Development | `be` | Single-participant growth; no coupling partner |
+| Predation | `go...du` | Directed: predator causes prey's transformation |
+
+`zi` holds the boundary correctly: mating and symbiosis are mutual (both parties transformed by coupling); fertilization, development, and predation are not.
+
 | Root | Gloss | Includes | Excludes |
 |------|-------|----------|----------|
 | `ne` | relation / connection | link, bond, membership, network | the entities themselves |
