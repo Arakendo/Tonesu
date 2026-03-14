@@ -2012,16 +2012,17 @@ Natural:  The vessel holds water.
 *Target: "She stored the document."*
 
 ```
-Gloss:    la-ze  lo-si-mu  ka-ko
-Literal:  agent:she  patient:encoded-artifact  action:intentional-containment
+Gloss:    la-ze  lo-si-ko-mu  ka-ko
+Literal:  agent:she  patient:stored-signal-artifact  action:intentional-containment
 Natural:  She stored / deliberately placed the document into containment.
 ```
 
 - `ze` = she (3rd person pronoun).
-- `si-mu` = encoded-artifact = a document / individual record. Head-final: `mu` (artifact) is head; `si` (encoded/signal) specifies content type. Distinct from `si-su` (encoded-structure = archive / collection, S056); `si-mu` is a single stored item.
+- `si-ko-mu` = stored-signal-artifact = a document / individual record. Composition: si (signal) + ko (containment) + mu (artifact) — an artifact that holds encoded information within it. Head-final: mu (artifact) is head; ko specifies containment rather than relay; si specifies content type. Distinct from si-mu (W039, relay device: signal passes *through*); distinct from si-su (encoded-structure = archive / collection, S056). Registered as W067.
 - `ka-ko` = action-containment = intentional storing. Head-final: `ko` (containment) is head; `ka` (deliberate action) specifies intentionality. Contrast with S068: no agent is required for passive containment state; `ka-ko` always requires an agent.
 
-**Verdict S069: clean.** `ka-ko` is unambiguously agentive. Contrast with S068 is sharp: `lo-si-mu  ko` would describe a state (the document is held somewhere); `la-ze  lo-si-mu  ka-ko` describes an action (she performed the storing).
+**Verdict S069: clean.** `ka-ko` is unambiguously agentive. Contrast with S068 is sharp: `lo-si-ko-mu  ko` would describe a state (the document is held somewhere); `la-ze  lo-si-ko-mu  ka-ko` describes an action (she performed the storing).
+*Note: form updated from si-mu to si-ko-mu (March 2026) to resolve W039 collision.*
 
 ---
 
@@ -2030,13 +2031,13 @@ Natural:  She stored / deliberately placed the document into containment.
 *Target: "The archive holds records."*
 
 ```
-Gloss:    la-si-su  ko  lo-si-mu
-Literal:  agent:encoded-structure  containment-state  patient:encoded-artifact
+Gloss:    la-si-su  ko  lo-si-ko-mu
+Literal:  agent:encoded-structure  containment-state  patient:stored-signal-artifact
 Natural:  The archive holds documents / records.
 ```
 
 - `si-su` = encoded-structure = archive / collection (S056).
-- `si-mu` = encoded-artifact = individual document (S069).
+- `si-ko-mu` = stored-signal-artifact = individual document / record (W067). Updated from si-mu (March 2026) to resolve W039 relay-device collision.
 - `ko` = passive containment — same pattern as S037, S068. Confirms that `ko` state-predication scales to **institutional and abstract** containing relationships. An archive does not perform the act of holding; it is the structural entity in which records reside.
 
 **Verdict S070: clean.** `ko` predication at institutional scale is grammatically identical to `ko` predication for physical vessels. The `la`-slot requires only the containing entity, not an intentional agent.
@@ -2476,7 +2477,8 @@ Natural:  The canonical doctrine holds: the machine has a soul.
 **Notes:**
 - **Doctrine as containment agent.** `la-to-re-su  ko` extends the containment predicate
   (spec/grammar.md § Containment Predicates) from physical vessels and institutional
-  archives to knowledge structures. In S070: `la-si-su  ko  lo-si-mu` (the archive holds
+  archives to knowledge structures. In S070: `la-si-su  ko  lo-si-ko-mu` (the archive holds
+  records).
   records). Here: the canonical doctrine holds a propositional claim. Same `la-X  ko  Y`
   structure; Y is now an embedded clause `[lo-mu  zo-to]` instead of a nominal patient.
 - **First use of `ko` with a clausal object.** In S068–S071 `ko` took nominal patients

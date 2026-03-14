@@ -592,12 +592,11 @@ Notes:        si-mu is the minimal form (relay/transceiver). Extend with additio
               Contrast to-ki-mu (W011: transmission device that processes knowledge/queries)
               vs si-mu (relay device that transmits raw signal without semantic processing).
               The distinction matters: a si-mu relays; a to-ki-mu reasons over the signal.
-              FORM COLLISION: W067 was independently registered as si-mu for a completely
-              different concept (individual document / single encoded record). W039 takes
-              precedence (first registration; relay-device sense). W067 requires a new
-              form before promotion.
+              Contrast also si-ko-mu (W067: document / stored-information artifact): a relay
+              passes signal through; a document holds signal within.
 Related:      si (primitive: signal), mu (primitive: artifact), to-ki-mu (W011),
-              si-ki (W023: a transmitted signal in motion), si-ne-ki (W021: a broadcast/propagation)
+              si-ko-mu (W067: document / stored record), si-ki (W023: a transmitted signal in motion),
+              si-ne-ki (W021: a broadcast/propagation)
 ```
 
 ---
@@ -1270,31 +1269,30 @@ Related:      pa (place), wi (will), ka (action), su (structure), wi-ka-su (W054
 
 **W067**
 ```
-Form:         si-mu
+Form:         si-ko-mu
 Type:         compound
 Class:        entity / object
-Definition:   individual document; a single encoded record; a discrete artifact that carries
-              encoded information.
-Composition:  si (signal/encoded representation) + mu (artifact) — an artifact defined by
-              its encoded information content. Head-final: mu (artifact) is head; si
-              specifies the artifact as an information carrier.
+Definition:   individual document; a single encoded record; a discrete artifact that holds
+              encoded information in containment.
+Composition:  si (signal/encoded representation) + ko (containment) + mu (artifact) —
+              an artifact that holds a signal within it. Head-final: mu (artifact) is head;
+              ko specifies the artifact holds rather than relays; si specifies the content
+              type as encoded information. Contrast W039 si-mu (relay device: signal passes
+              through) vs si-ko-mu (document: signal is held within).
 Register:     standard
 Domain:       information / material
-Status:       proposed
-Examples:     "la-li-ze  lo-si-mu  ne-si-su  ka-ko" — she placed the document into the archive (S069)
-Notes:        Distinct from si-su (the archive as collection — unregistered standalone, see
-              corpus usage in S069) and ka-si (W024, transmission = the act of sending
-              signal). The individual-record vs. archive-system contrast mirrors the
-              individual-vs-system pattern that ka-mu/ka-su and mu/su show throughout.
-              FORM COLLISION: si-mu is already committed at W039 (relay device / signal
-              transceiver, first registration). This entry uses the same form for a
-              different concept. BLOCKED from promotion until resolved. Candidate new
-              form: si-ko-mu (signal held in containment artifact = stored information
-              record / document). Compositionally: si (signal) + ko (containment) + mu
-              (artifact) — an artifact that holds a signal, as distinct from one that
-              relays it. The S069 attestation will be reassigned to the new form.
-Related:      si (signal), mu (artifact), si-ko-mu (candidate new form), si-su (archive,
-              corpus), ka-si (W024, transmit), W039 (si-mu relay — resolved precedence)
+Status:       active
+First use:    S069 (`la-ze  lo-si-ko-mu  ka-ko` — she stored the document)
+Examples:     "la-ze  lo-si-ko-mu  ka-ko" — she stored the document (S069)
+Notes:        Renamed from candidate si-mu (March 2026) to resolve form collision with
+              W039 si-mu (relay device, first registration). The ko insertion is
+              compositionally precise: a relay (si-mu) is an artifact through which a
+              signal passes; a document (si-ko-mu) is an artifact in which a signal is
+              held. The ko root (containment) distinguishes the two cleanly.
+              Distinct from si-su (archive as collective structure) and ka-si (W024,
+              transmission). S069 attestation reassigned from si-mu to si-ko-mu.
+Related:      si (signal), ko (containment), mu (artifact), si-mu (W039, relay — distinct),
+              si-su (archive/collection), ka-si (W024, transmit), ka-ko (store/contain)
 ```
 
 **W068**
