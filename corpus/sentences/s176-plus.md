@@ -552,3 +552,168 @@ Natural:  The machine detected the signal, not the pattern.
 - With two attestations (S090, S190), the `no` contrast coordinator is ready to formalize. Structure confirmed: `[established constituent]  no  [rejected alternative]`, with both constituents grammatically parallel (`lo-` patients in both cases so far).
 
 **Verdict S190: clean.** `no` as contrast coordinator between parallel `lo-` patients is stable with `se` predicate. Generalizes beyond `be`. Ready to add as Level 4 in § Negation.
+
+---
+
+## Kind-Term and Naming Stress Test (S195–S201)
+
+*Batch purpose: validate whether kind-term assemblage compounds and the `na` particle naming framework handle organism-naming without structural strain. Seven sentences across four sub-questions: (1) bare kind-term as agent NP, (2) kind-term + `na` individual identifier, (3) named variety scoping, (4) scientific binomial, (5) plant kind-term, (6) kind-term over-generation ambiguity, (7) named human in agent slot. Byproduct: determine whether `zo-se-so` is a species-level or genus-level term, and establish whether `la-[kind  na  Name]` is the canonical NP structure without grammar extension.*
+
+---
+
+**S195 — Bare kind-term as agent: the dog vocalizes** *(KNM-001-A)*
+
+*Target: "The dog barked." / A domesticated sound-sensitive animal makes a deliberate vocalization.*
+
+```
+Gloss:    la-zo-se-so  so-ka
+Literal:  agent:sound-perceiving-organism  sound-acts
+Natural:  The dog barked. / The sound-sensitive animal vocalized.
+```
+
+**Notes:**
+- `zo-se-so` = `zo` (organism) + `se` (perceive) + `so` (sound) = organism characterized by acoustic perception. Head-final: `so` is the perceptual domain; `se` specifies the act of perception; `zo` is the base class. Three-primitive kind-term.
+- `so-ka` = sound + intentional-act = deliberate vocalization in a social context. Head-final: `ka` (intentional act) is the head; `so` specifies the domain of the action. First corpus attestation of this compound.
+- **Structural finding:** `la-zo-se-so` parses cleanly. The role-marker `la-` attaches directly to the compound head, treating the whole three-primitive compound as a single NP. No strain.
+- **Over-generation flag (see S200):** `zo-se-so` names any animal with significant acoustic perceptual faculties — dogs, cats, dolphins, owls — not dogs specifically. This is not an error; it is an expected feature of the genus-level design. See S200 for the disambiguation stress test.
+
+---
+
+**S196 — Kind-term + individual name: Rex ran** *(KNM-001-B)*
+
+*Target: "Rex the dog ran." / An individually named sound-sensitive animal moved under its own power.*
+
+```
+Gloss:    la-[zo-se-so  na Rex]  ki
+Literal:  agent:[sound-perceiving-organism  name:Rex]  moved
+Natural:  Rex the dog ran.
+```
+
+**Notes:**
+- `[zo-se-so  na Rex]` = kind-compound + `na`-particle + identifier = NP with type label and proper name. The `na` particle sits inside the NP after the kind-term. This is the key claim: `na` has NP-internal scope, not sentential scope.
+- `la-` scopes over the entire bracketed NP. The brackets mark the extent of the complex NP; `la-` is the external role-marker. Formal: `la- + [zo-se-so  na  Rex]`, not `la-zo-se-so + na Rex`.
+- **`na` as NP-internal particle:** `na` partitions the NP into [kind-description | proper-name]. Neither overwrites the other: the kind-term supplies type information; the identifier anchors the individual.
+- **Structural finding:** clean. `la-[kind  na  Name]` reads without ambiguity in the agent slot. `ki` as bare predicate: physical motion, no patient required.
+
+---
+
+**S197 — Named variety: the breed-type dog detected food** *(KNM-001-C)*
+
+*Target: "The Golden Retriever found the food." / A named variety of dog detected organic matter.*
+
+*Concordian framing: a named variety — a selectively maintained sub-kind such as a breed — is intermediate between a kind-term and an individual. The test: does variety-naming fit the same `[kind  na  variety-id]` framework as individual naming, or does it need its own mechanism?*
+
+```
+Gloss:    la-[zo-se-so  na Retriever]  se  lo-zo-ma
+Literal:  agent:[sound-perceiving-organism  name:Retriever]  perceived  patient:organic-matter
+Natural:  The Retriever found the food. / The Retriever-variety dog detected organic matter.
+```
+
+**Notes:**
+- `na Retriever` — the variety name is phonologically adapted and treated as a proper identifier. The breed name is not decomposed into Tonesu primitives: "Retriever" originated as a function-description in English, but in Tonesu it operates as an identifier, not a compositional description. If a Tonesu speaker wanted the functional reading, they would use `zo-se-so-ka-se` (the deliberate-detection dog class) rather than borrowing the English name.
+- **Variety vs. individual:** the same `[kind  na  id]` structure works for both. A variety (`na Retriever`) and an individual (S196's `na Rex`) are structurally parallel — both are `na`-identified sub-cases of the kind-term. The distinction is pragmatic (variety = maintained sub-kind; individual = one specimen), not grammatical.
+- `lo-zo-ma` = patient: organism-matter = biological/organic matter = food in the ecological register. Used here as "what an organism consumes" rather than "a culturally desired object."
+- **Structural finding:** `[kind  na  variety-id]` is identical in form to `[kind  na  individual-id]`. Grammar does not distinguish variety-names from individual names at the NP level; context does.
+
+---
+
+**S198 — Scientific binomial as `na`-identifier** *(KNM-001-D)*
+
+*Target: "Canis lupus howled." / The species identified by its Linnaean binomial produces sustained iterative vocalization.*
+
+*Concordian framing: scientific taxonomy uses binomials as convention-defined identifiers — phonological strings assigned to each recognized species. The Assemblage-First Rule explicitly exempts such assigned names from needing Tonesu compositional forms. The test: does `zo  na [binomial]` function as a species-level NP?*
+
+```
+Gloss:    la-[zo  na Kanis-lupus]  so-be-re
+Literal:  agent:[organism  name:Canis-lupus]  sound-grows-repeats
+Natural:  Canis lupus howled. / The organism named Canis lupus produced sustained repeated vocalization.
+```
+
+**Notes:**
+- `zo  na Kanis-lupus` — bare `zo` (organism) as the minimal kind-label; `na Kanis-lupus` as the phonologically adapted binomial. Phonological adaptation: `c → k` (Tonesu excludes `c` from its consonant inventory; `k` is the closest voiceless velar stop). Hyphen marks the two-element binomial as a single identifier unit.
+- **Why `zo` rather than `zo-se-so`:** two registers are available. The scientific register uses the minimal kind-label and lets the binomial carry all specificity: `zo  na Kanis-lupus`. The folk register combines the folk kind-term with the binomial: `zo-se-so  na Kanis-lupus`. Both are valid; choice depends on audience and context.
+- `so-be-re` = sound + grow + repeat = vocalization that builds and repeats = howl. Head-final: `re` (repetition/cycle) is the outer head; `be` (growth/increase) describes the character of each iteration; `so` is the domain. First corpus attestation: the `be-re` sustained-iterative compound.
+- **Structural finding:** `la-[zo  na [hyphenated-binomial]]` is clean. The `na`-particle takes a two-part hyphenated form as a single phonological token. Taxonomic naming works within the existing `na`-framework without grammar extension.
+- **Design confirmation:** `na` is sufficient for the full identifier range — individual, variety, species binomial, and higher taxa when needed — because whether the identifier is one word or a hyphenated compound is a phonological matter, not a grammatical one.
+
+---
+
+**S199 — Plant kind-term: the tree grew** *(KNM-001-E)*
+
+*Target: "The tree grew." / A sessile, architecturally characterized living thing increased in size.*
+
+```
+Gloss:    la-zo-su  be
+Literal:  agent:structured-organism  grew
+Natural:  The tree grew.
+```
+
+**Notes:**
+- `zo-su` = `zo` (organism) + `su` (structure/organized form) = living thing characterized by its structural/architectural form. Proposed kind-term for the plant/tree category. Head-final: `su` (structure) is the characterizing domain; `zo` is the base class.
+- **Contrast with `zo-se-so`:** `zo-se-so` characterizes by perceptual behavior (what the organism does sensorily); `zo-su` characterizes by structural identity (what the organism *is* architecturally). This is a principled distinction: plants do not relocate, do not hunt, do not have a social-agency dimension — they are paradigmatically *structures that live*, whereas animals are paradigmatically *active organisms that perceive and move*.
+- `la-zo-su  be` = structured-organism grew. The predicate `be` (growth/increase) applied to a plant has natural resonance: a structured organism increasing is its canonical mode of existence.
+- **Over-generation audit:** `zo-su` covers trees, shrubs, vines, grass, kelp, and arguably fungi. This is genus-level, not species-level. "Oak tree" would need additional specification: `zo-su  na [identifier]` or a finer kind-compound. Expected behavior — consistent with the genus-level design confirmed in S200.
+- **Structural finding:** the cleanest sentence in this batch. Single compound agent, single primitive predicate, no NP complexity. Plant vocabulary via `zo-su` is structurally sound.
+
+---
+
+**S200 — Kind-term over-generation: dog vs. cat** *(KNM-001-F)*
+
+*Target: (A) "The dog heard the sound." (B) "The cat heard the sound." — The stress test: do both produce identical Tonesu forms, and if so, what follows?*
+
+*Concordian framing: if both the folk-category "dog" and the folk-category "cat" are `zo-se-so`, the kind-term is genus-level, not species-level. The question: is this a design flaw or a design feature?*
+
+**Sentence A — dog:**
+```
+Gloss:    la-zo-se-so  se  lo-so
+Literal:  agent:sound-perceiving-organism  perceived  patient:sound
+Natural:  The dog heard the sound.
+```
+
+**Sentence B — cat:**
+```
+Gloss:    la-zo-se-so  se  lo-so
+Literal:  agent:sound-perceiving-organism  perceived  patient:sound
+Natural:  The cat heard the sound.
+```
+
+**Notes:**
+- **Sentences A and B are identical.** This is the over-generation finding: `zo-se-so` does not distinguish dogs from cats. Both are sound-perceiving organisms; the kind-term applies equally.
+- **Is this a bug or a feature?** Feature. Tonesu kind-terms are assemblage compounds that characterize by composition of primitives. "Dog" and "cat" differ in folk category but share the same primitive characterization at the `zo-se-so` grain — both are animals that move, perceive sound, and engage in social contexts. A tighter kind-term is possible:
+  - Dog → `zo-se-so-li` (sound-perceiving organism with social-agency orientation): dogs have pack social structure and domestication bond; the `li`-class behavioral dimension (social intentionality directed at others) is characteristic.
+  - Cat → `zo-se-so-fe` (sound-perceiving organism with boundary/territorial orientation): cats are solitary, range-maintaining, territorial — the `fe`-class dimension (boundary, edge, limit) is characteristic.
+  These are candidates, not conclusions. Neither is resolved here; flagged for open-questions.md.
+- **Design consequence:** Tonesu communicators do not need species-precision for most discourse. When the distinction between "dog" and "cat" is contextually salient, three mechanisms are available: (1) finer kind-compounds (`zo-se-so-li` / `zo-se-so-fe`), (2) `na`-identifier resolvable even when kind-terms overlap (`zo-se-so na Rex` vs. `zo-se-so na Miso`), (3) the minimal scientific register (`zo  na Kanis-familiaris`, S198 pattern). When species distinction is irrelevant, the genus-term `zo-se-so` is correct and efficient.
+
+---
+
+**S201 — Named human in agent slot: Derek built the machine** *(KNM-001-G)*
+
+*Target: "Derek built the machine." / A socially named person deliberately created an artifact.*
+
+```
+Gloss:    la-[li  na Derek]  ka-be  lo-mu
+Literal:  agent:[social-agent  name:Derek]  deliberate-creation  patient:artifact
+Natural:  Derek built the machine.
+```
+
+**Notes:**
+- `la-[li  na Derek]` = role-marker + [social-agent + `na` + identifier]. `li` is the minimal kind-label for a human person — the same `[kind  na  Name]` NP structure as S196 (`la-[zo-se-so  na Rex]`), with `li` replacing the animal kind-term. The `la-` role-marker attaches externally, leaving the NP intact — consistent with the Name Integrity Rules in spec/naming.md.
+- **`la-` before `na`: no collision.** The role-marker scopes over the NP; `na` is NP-internal. The parsing is `la- + [li  na  Derek]`, not `la-li + na-Derek`. There is no morphological ambiguity because `la-` is a role-prefix that attaches to the start of the NP constituent, not a free-standing particle that could compete with `na`.
+- `ka-be` = intentional-act + growth = deliberate growth-act = construction. Head-final: `be` (growth/emergence) is the semantic head; `ka` (intentional act) specifies that the emergence is deliberate. `ka-be  lo-mu` = perform a creation act with the artifact as patient = to build the device.
+- **Pragmatic reduction note:** in ordinary discourse, a named human would typically appear as `la-na Derek` (kind-label `li` omitted when human referent is established by context). `la-[li  na Derek]` is the fully explicit form; both are valid.
+- **Structure confirmed uniform:** human naming (`la-[li  na  Name]`) and animal naming (`la-[kind  na  Name]`) are structurally identical. The grammar is not sensitive to whether the referent is human, animal, or — per spec/naming.md — an AI system (`la-[mu-li  na Atlas]`). `na` is the universal identifier particle throughout.
+
+---
+
+**Verdict KNM-001: kind-term + naming system is structurally sound. Four findings:**
+
+1. **Bare kind-term NPs function cleanly as agents.** `la-zo-se-so`, `la-zo-su`, `la-[li  na Derek]`, `la-[zo-se-so  na Rex]` — all parse without strain. Role-markers attach to complex NPs without collision.
+2. **`na` is a universal NP-internal identifier particle.** `[kind  na  id]` is the canonical structure for named entities across individual names, variety names, scientific binomials, and human names. Grammar does not need to distinguish these cases.
+3. **`la-` before `na` is unambiguous.** The role-marker scopes over the NP; `na` is NP-internal. Formal: `la- + [kind  na  Name]`, not `la-kind + na-Name`.
+4. **Tonesu kind-terms are genus-level, not species-level.** `zo-se-so` covers dogs, cats, dolphins — all sound-sensitive animals. `zo-su` covers trees, shrubs, kelp — all architecturally characterized sessile organisms. This is a design feature: Tonesu communicates at ecological-class precision by default; species precision is supplied by the `na`-identifier system or by extending the kind-compound when needed.
+
+**Follow-on items:**
+- Candidate finer kind-terms: `zo-se-so-li` (dog class) vs. `zo-se-so-fe` (cat class) — open, not resolved
+- `spec/naming.md`: named variety rule `[kind  na  variety-id]` confirmed by S197–S198; ready to write into the spec
+- `notes/open-questions.md`: log KNM-001 genus-level design as a resolved question with over-generation trade-off documented
