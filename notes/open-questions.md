@@ -7,7 +7,7 @@ Consolidated list of unresolved design decisions from across all spec and regist
 ## Phonology
 
 - [ ] Adopt vowel length as a morphological tool, or avoid complexity? (spec/phonology.md)
-- [ ] Allow CVC codas freely, or restrict to a subset of consonants?
+- [x] ~~**Allow CVC codas freely, or restrict to a subset of consonants?**~~ **Resolved.** CVC codas are restricted to a safe subset: preferred `n l r m s`, marked but allowed `z f h`, stops (`k p t b d g`) legal per syllable rules but discouraged for cross-linguistic ease. CV stem must not form a taken primitive/particle/pronoun. This rule is specified in `notes/cvc-inventory.md §Design Constraints` and `spec/phonology.md §CVC Root Reserve`. All 10 assigned CVC digits follow the safe-set rule. CVCC provides the *more relaxed* alternative: no CV stem restriction (the CC coda cluster is itself the tier signal), with CC codas from a preferred sonorant/fricative set (`-lm -rm -rn -lf -rf -ns -ls` etc.). See `notes/cvc-inventory.md §CVCC Exceptional Anchor Inventory`.
 - [ ] Define phonotactics at compound boundaries explicitly.
 - [x] ~~Replace `plu` (three-letter root) with a CVC-compliant form.~~ → replaced with `pu`.
 - [x] ~~**Phonological status of apostrophe grouping marker `'` — prerequisite for spec adoption.**~~ → **Resolved: option (b) prosodic juncture.** `'` is a suprasegmental boundary feature, not a segmental phoneme. Principle 1 (one symbol/one sound) scoped to segmental phonology; `'` is governed as a prosodic marker in a separate phonology.md section. No consonant inventory change. First corpus attestation S045 (T-APO-001). Full definition in spec/phonology.md § Prosodic Juncture Marker.
