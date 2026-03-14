@@ -464,6 +464,34 @@ No additional rule is required — nested embedding is a compositional applicati
 the standard subordination mechanism. One corpus attestation (C007 A5); treat as
 confirmed structure pending a second case.
 
+### Process Epistemic Frame
+
+A non-personal source — an examination process, an institutional doctrine, a measurement system — may occupy the `la`-slot and generate a propositional finding as its output. This is the **process epistemic frame**, structurally parallel to the personal epistemic modal but with an output-production verb rather than an epistemic-stance root:
+
+```
+la-[non-personal-source]  [output-verb]  [embedded proposition]
+```
+
+Two output verbs are attested:
+
+| Output verb | Meaning | Example | Corpus |
+|-------------|---------|---------|--------|
+| `be` | produces / generates [prop] as finding | examination generates the finding that X | C004 A2 |
+| `si` | signals / asserts [prop] as claim | doctrine emits the claim that X | S084 |
+
+`be` frames the proposition as the *output* of a productive process — the result it generates. `si` frames the proposition as the *assertion* the source emits. Both take a full embedded clause as their complement.
+
+**This is the same `be` as the productive-process root** ("grow, produce, generate output"). When its complement is a proposition rather than a physical patient, the reading shifts naturally to "generates the finding that." No new meaning is required.
+
+**Distinction from the personal epistemic modal:**
+
+| Frame | Structure | Agent type | Verb type |
+|-------|-----------|------------|-----------|
+| Personal epistemic modal | `la-[person]  [epistemic-root]  [prop]` | person / speaker | epistemic stance root (`se`, `si`, `to`) |
+| Process epistemic frame | `la-[source]  [output-verb]  [prop]` | process / institution / doctrine | production verb (`be`, `si`) |
+
+In the personal frame, the root encodes the *speaker's relationship to* the proposition. In the process frame, the verb encodes *how* the source produces or emits the proposition. The two frames may appear in the same discourse with contrasting epistemic weight: personal modal = I hold at some confidence level; process frame = the process produces this as output regardless of my personal confidence. This contrast is exploited in C004 A1–A2, where A first makes a personal bare assertion, then escalates to process-grounded evidence.
+
 ---
 
 ## Subordinate Clauses
