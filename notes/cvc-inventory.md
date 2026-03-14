@@ -1,4 +1,4 @@
-# CVC Descriptor Inventory: Digits, Colors, Scale Prefixes
+# CVC / CVCC Descriptor Inventory: Digits, Colors, Scale Prefixes, Exceptional Anchors
 
 ## Status: Proposed — March 2026
 
@@ -8,13 +8,16 @@ Working document. Forms here are candidates. None are formally registered until 
 
 ## Purpose
 
-Three closed-class descriptor categories — numerals (digits 0–9), basic colors, and SI-style magnitude scale prefixes — are assigned to the **CVC phonological stratum**. This follows the design rationale in `notes/numbers-colors-others.md`:
+Four closed-class descriptor categories are assigned to two phonological strata. This follows the design rationale in `notes/numbers-colors-others.md`:
 
-- CV = primitives (closed set)
-- CV-CV+ = compounds (open, compositional)
-- CVC = lexical descriptors (closed-class, fast-recognition)
+| Pattern | Stratum | Contents |
+|---------|---------|----------|
+| CV | primitives | closed ontological root set |
+| CV-CV+ | compounds | open, compositional |
+| CVC | lexical descriptors | digits, colors, scale prefixes, observational anchors |
+| CVCC | exceptional anchors | mathematical/physical constants that are irrational, transcendental, or defined by convention with no compositional expression |
 
-CVC forms are phonologically stratified from primitives and compounds, giving instant category recognition and avoiding collision with the existing root inventory.
+CVC and CVCC forms are phonologically stratified from primitives and compounds, giving instant category recognition. The coda cluster in CVCC is itself the tier signal — no CV stem restriction applies.
 
 ---
 
@@ -338,6 +341,51 @@ AU (`hon`) has no clean compositional equivalent — it is the Earth-Sun distanc
 
 ---
 
+## CVCC Exceptional Anchor Inventory
+
+CVCC forms (four phonemes, coda cluster) are reserved for constants and units that:
+- are **irrational, transcendental, or infinitely non-repeating** (cannot be expressed as a digit chain)
+- are **defined by physical measurement convention** with no compositional expression in existing primitives
+- require a **single stable lexical atom** in mathematical or scientific discourse
+
+These are the rarest entries in the lexicon. The CVCC tier is not for general vocabulary.
+
+### Design constraints for CVCC
+
+1. **No CV stem restriction** — the coda cluster is the tier signal. A speaker hearing a CC coda knows they are not hearing a primitive, compound, or CVC descriptor.
+2. **CC coda from the preferred set** — sonorant+sonorant or sonorant+fricative clusters are most cross-linguistically pronounceable: `-lm`, `-ls`, `-ln`, `-rm`, `-rs`, `-rn`, `-lf`, `-rf`, `-ns`, `-ms`.
+3. **Cross-tier distinctiveness** — must not be near-homophone of any existing CVC form (one-phoneme difference in the first three phonemes).
+4. **Pool size** — ~400–600 usable forms (17 consonants × 5 vowels × ~10 CC pairs, filtering awkward clusters). Effectively inexhaustible for the purpose of exceptional constants.
+
+### Assigned forms
+
+| Constant | Value | Form  | CV core | CC coda | Notes |
+|----------|-------|-------|---------|---------|-------|
+| π (pi)   | 3.14159… | `varn` | `va`    | `-rn`   | transcendental, irrational; canonical ratio of circle circumference to diameter |
+| mole     | 6.022×10²³ | `wels` | `we`    | `-ls`   | Avogadro's number as counting unit; conventional SI anchor |
+
+### Usage
+
+CVCC constants slot in wherever a number or unit would appear:
+
+```
+varn nu pa-re           → π units of spatial-cycle      (circumference calculation)
+bun wels nu ru-pe-ma    → 2 moles of atoms
+```
+
+For approximation, digits still work: `gal bol mol nu …` (3.14…) is the verbose form; `varn` is the exact/canonical atom.
+
+### Deferred constants (assign when corpus pressure arrives)
+
+| Constant | Description | Notes |
+|----------|-------------|-------|
+| e (Euler) | 2.71828… | natural logarithm base; transcendental |
+| ħ (Planck) | 1.055×10⁻³⁴ J·s | reduced Planck constant; quantum mechanics anchor |
+| c (speed of light) | 299,792,458 m/s | could use `bun zan zan … nu pa-ti` compositionally, or assign CVCC |
+| ampere | elementary charge flow | conventional SI base unit; see FLAG-CVC-007 |
+
+---
+
 ## Cross-inventory Collision Check
 
 ### Uniqueness
@@ -401,18 +449,13 @@ All 8 forms from `spec/phonology.md §CVC Root Reserve` shortlist are assigned t
 
 Digit chaining (`wes nil nil nu mu` = 600) is unambiguous but verbose for large numbers in ordinary speech. Options: (a) accept positional chaining only; (b) add explicit power-of-ten words (`ten`, `hundred`, `thousand` equivalents as additional CVC forms); (c) route large exact values through the scale prefix system (`pir nu mu` ≈ thousand objects). Defer until corpus shows a real pressure; log under NUM-001 in open-questions.md.
 
-### FLAG-CVC-007 — Mole and ampere: conventional anchors pending assignment
+### FLAG-CVC-007 — Mole and ampere: conventional anchors ✓ PARTIAL
 
-The **mole** (6.022×10²³ — Avogadro's number of particles) and the **ampere** (defined by elementary charge flow) are SI base units whose values are fixed by measurement convention, not derivable from primitives. Like the AU and light-year, they require CVC anchor forms. Neither is assigned yet.
+The **mole** (6.022×10²³ — Avogadro's number of particles) and the **ampere** (defined by elementary charge flow) are SI base units whose values are fixed by measurement convention, not derivable from primitives.
 
-Problem: the CVC stratum has **five free stems remaining** (`wa`, `wo`, `va`, `ve`, `vi` — the v-initial stems opened when `v` was added to the inventory, March 2026). Assigning mole and ampere would consume two of them, leaving three in reserve.
+**Mole resolved:** assigned `wels` in the CVCC tier (March 2026). CVCC was preferred over spending a CVC slot — the coda cluster distinguishes it as an exceptional anchor, and the CVCC pool is large enough to absorb all future constants of this type without depleting the CVC reserve.
 
-**Deferred until a corpus sentence requires one.** Options when that pressure arrives:
-- `wal` or `vam` = mole; `wol` or `van` = ampere (leaves 3 stems in reserve)
-- Accept verbose form in specialist register: `baf bun bun nu pe-ma` (Avogadro-digit chain + matter-component unit) until a shortform is demanded
-- Open a secondary CVC pool using stop codas (`-k`, `-p`, `-t`) or `v`-initial stems, which are now legal since `v` was added to the inventory (FLAG-CVC-001 resolved). This would extend the tier rather than exhaust it.
-
-Track alongside NUM-001 in `notes/open-questions.md`.
+**Ampere deferred:** no corpus pressure yet. When needed, assign from CVCC tier. Track alongside NUM-001 in `notes/open-questions.md`.
 
 ### FLAG-CVC-006 — CVC stratum near-depletion
 
@@ -420,7 +463,7 @@ After committing all forms in this document, **five free CVC-stem slots remain: 
 
 ### FLAG-CVC-005 — Names and loanwords may collide with CVC layer
 
-Proper names and borrowed vocabulary — personal names, place names, AI system names, titles — have no assigned phonological tier. If ad-hoc CVC forms are used for names, they will be indistinguishable from digit/color/scale descriptors at first glance. **Options:** (a) reserve **CVCC** (CVC + extra coda) or **CV-CVC** (hyphenated compound) as the name/loanword tier; (b) rely on the `na` proper-name particle (G008) to signal context without a separate phonological tier. Option (b) is probably sufficient and lower-complexity. Defer until a corpus sentence requires a proper name; track under `spec/naming.md`.
+Proper names and borrowed vocabulary — personal names, place names, AI system names, titles — have no assigned phonological tier. If ad-hoc CVC forms are used for names, they will be indistinguishable from digit/color/scale descriptors at first glance. **Options:** (a) use the CVCC tier (now established) for names/loanwords; (b) rely on the `na` proper-name particle (G008) to signal context without a separate phonological tier. Option (b) is probably sufficient and lower-complexity; option (a) is available if names need a distinct phonological signature. Defer until a corpus sentence requires a proper name; track under `spec/naming.md`.
 
 ---
 
