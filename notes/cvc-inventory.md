@@ -382,16 +382,31 @@ These are the rarest entries in the lexicon. The CVCC tier is not for general vo
 | α (fine structure)    | ≈1/137.036          | `yolm` | `yo` | `-lm` | dimensionless; electromagnetic coupling strength |
 | mole (N₂)            | 6.022×10²³        | `wels` | `we` | `-ls` | Avogadro's number as counting unit; conventional SI anchor |
 
-#### Astronomical and observational constants
+#### Conventional SI anchors (non-derivable)
+
+| Constant | Value | Form   | CV core | CC coda | Notes |
+|----------|-------|--------|---------|---------|-------|
+| ampere (A) | 1/(1.602×10⁻¹⁹) e/s | `telf` | `te` | `-lf` | SI base unit for current; defined by elementary charge count per second; no compositional expression beyond `vils`-count-rate |
+
+#### Astronomical and physical anchors (observationally defined)
 
 | Constant | Value | Form   | CV core | CC coda | Notes |
 |----------|-------|--------|---------|---------|-------|
 | AU (astronomical unit) | 1.496×10¹¹ m | `holf` | `ho` | `-lf` | IAU-defined Earth-Sun distance; observational anchor; formerly CVC `hon` (freed March 2026) |
 | parsec | 3.086×10¹⁶ m | `yarm` | `ya` | `-rm` | Parallax-arcsecond unit; convention-defined; no compositional expression; formerly CVC `yam` (freed March 2026). Megaparsec = `baf nu yarm`. |
+| year (Julian) | 31,557,600 s | `hulm` | `hu` | `-lm` | One Earth orbital period; temporal analog to `holf` (AU). `ti-re` = a cycle-of-time (compositional); `hulm` = this specific calibrated cycle. Anchors biology (generation times), astronomy (stellar ages), deep history. |
+
+#### Atomic mass anchors
+
+| Constant | Value | Form   | CV core | CC coda | Notes |
+|----------|-------|--------|---------|---------|-------|
+| electron mass m_e | 9.109×10⁻³¹ kg | `dolm` | `do` | `-lm` | CODATA-defined; no derivation from other constants; atomic physics workhorse |
+| proton mass m_p | 1.672×10⁻²⁷ kg | `dolf` | `do` | `-lf` | CODATA-defined; distinct from m_e by factor ≈1836; nuclear physics anchor |
 
 **Spoken sequence (mathematical):** varn · worn · werm · vins · valm · walf  
 **Spoken sequence (physical):** vern · birm · velf · holm · vils · yolm · wels  
-**Spoken sequence (observational):** holf · yarm
+**Spoken sequence (conventional/observational):** telf · holf · yarm · hulm  
+**Spoken sequence (atomic):** dolm · dolf
 
 ### Near-neighbor check (CVCC set)
 
@@ -411,8 +426,18 @@ These are the rarest entries in the lexicon. The CVCC tier is not for general vo
 | `holf` / `velf` | AU / G | hol vs vel | -f vs -f | distinct vowel + onset ✓ |
 | `yarm` / `varn` | parsec / π | yar vs var | -m vs -n | distinct onset + coda ✓ |
 | `yarm` / `yolm` | parsec / α | yar vs yol | -m vs -m | distinct vowel ✓ |
+| `telf` / `velf` | ampere / G | tel vs vel | -lf vs -lf | distinct onset (t vs v) ✓ |
+| `telf` / `holf` | ampere / AU | tel vs hol | -lf vs -lf | distinct onset + vowel ✓ |
+| `hulm` / `holm` | year / k_B | hul vs hol | -m vs -m | distinct vowel ✓ |
+| `hulm` / `yolm` | year / α | hul vs yol | -m vs -m | distinct onset + vowel ✓ |
+| `hulm` / `valm` | year / √2 | hul vs val | -m vs -m | distinct onset + vowel ✓ |
+| `dolm` / `dolf` | m_e / m_p | dol vs dol | -m vs -f | distinct coda-final ✓ |
+| `dolm` / `hulm` | m_e / year | dol vs hul | -m vs -m | distinct onset + vowel ✓ |
+| `dolm` / `holm` | m_e / k_B | dol vs hol | -m vs -m | distinct onset ✓ |
+| `dolf` / `holf` | m_p / AU | dol vs hol | -f vs -f | distinct onset ✓ |
+| `dolf` / `velf` | m_p / G | dol vs vel | -f vs -f | distinct onset + vowel ✓ |
 
-All 15 CVCC forms are distinct from each other and from all 33 CVC forms. ✓
+All 19 CVCC forms are distinct from each other and from all 33 CVC forms. ✓
 
 ### Usage examples
 
@@ -435,16 +460,21 @@ varn nu pa-re                → π exactly (canonical)
 holf nu pa                   → one AU of distance
 baf nu yarm                  → one megaparsec
 pir nu yarm                  → one kiloparsec
+bun hulm nu ti               → two years of time
+telf nu ra-ti                → one ampere  (charge-force per time unit)
+dolm nu ma                   → one electron mass
+baf baf gal … dolm nu ma     → atomic mass unit (≈ 1836 × m_e, approximation)
 ```
 
 ### Deferred constants (assign when corpus pressure arrives)
 
 | Constant | Description | Candidate form |
 |----------|-------------|----------------|
-| h (full Planck)    | 6.626×10⁻³⁴ J·s; ħ = h/2π | `birn` (bi+-rn) if distinction needed |
-| ampere             | conventional SI current unit | see FLAG-CVC-007 |
-| γ (Euler-Mascheroni) | 0.5772…; limit constant | `galf` or `garm` |
-| ∞ (infinity)       | not a number; limit concept | may express as `no-fe nu` (unbounded quantity) rather than CVCC |
+| h (full Planck)    | 6.626×10⁻³⁴ J·s; ħ = h/2π | `birn` (bi+-rn) — but h = `birm worn` so may not qualify |
+| γ (Euler-Mascheroni) | 0.5772…; limit constant | `garm` (ga+-rm) |
+| Solar mass M☉ | 1.989×10³⁰ kg; IAU gravitational parameter | `telm` (te+-lm) — same class as `holf` |
+| μ₀ (vacuum permeability) | now measured post-2019 SI redefinition | `dorn` (do+-rn) — Tier B; wait for corpus |
+| ∞ (infinity)       | not a number; limit concept | `no-fe nu` (unbounded quantity) preferred; defer CVCC unless corpus insists |
 
 ---
 
@@ -458,11 +488,12 @@ All 51 proposed forms are distinct:
 > yel yim ker gim pom sam kus  
 > zum mes rim pir baf wul bim les  
 > gul fin fus hem  
-> varn worn werm vins valm walf vern birm velf holm vils yolm wels holf yarm
+> varn worn werm vins valm walf vern birm velf holm vils yolm wels  
+> telf holf yarm hulm dolm dolf
 
 No two are identical. ✓
 
-*Retired from CVC (March 2026 Assemblage-First audit): `tem` (orange → `ker zi sam`), `dol` (purple → `ker zi pom`), `hun` (light-year → `lu-ki ti-re nu pa`). Moved to CVCC: `hon` → `holf`, `yam` → `yarm`.*
+*Retired from CVC (March 2026 Assemblage-First audit): `tem` (orange → `ker zi sam`), `dol` (purple → `ker zi pom`), `hun` (light-year → `lu-ki ti-re nu pa`). Moved to CVCC: `hon` → `holf`, `yam` → `yarm`. Added to CVCC: `telf` (ampere), `hulm` (year), `dolm` (m_e), `dolf` (m_p).*
 
 ### Near-neighbor analysis (differ by one phoneme within same CV stem)
 
@@ -516,13 +547,12 @@ All 8 forms from `spec/phonology.md §CVC Root Reserve` shortlist are assigned t
 
 Digit chaining (`wes nil nil nu mu` = 600) is unambiguous but verbose for large numbers in ordinary speech. Options: (a) accept positional chaining only; (b) add explicit power-of-ten words (`ten`, `hundred`, `thousand` equivalents as additional CVC forms); (c) route large exact values through the scale prefix system (`pir nu mu` ≈ thousand objects). Defer until corpus shows a real pressure; log under NUM-001 in open-questions.md.
 
-### FLAG-CVC-007 — Mole and ampere: conventional anchors ✓ PARTIAL
+### FLAG-CVC-007 — Mole and ampere: conventional anchors ✓ RESOLVED
 
-The **mole** (6.022×10²³ — Avogadro's number of particles) and the **ampere** (defined by elementary charge flow) are SI base units whose values are fixed by measurement convention, not derivable from primitives.
+The **mole** (6.022×10²³) and the **ampere** (SI current unit, defined by elementary charge count per second) are SI base units whose values are fixed by measurement convention.
 
-**Mole resolved:** assigned `wels` in the CVCC tier (March 2026). CVCC was preferred over spending a CVC slot — the coda cluster distinguishes it as an exceptional anchor, and the CVCC pool is large enough to absorb all future constants of this type without depleting the CVC reserve.
-
-**Ampere deferred:** no corpus pressure yet. When needed, assign from CVCC tier. Track alongside NUM-001 in `notes/open-questions.md`.
+**Mole resolved:** `wels` (CVCC, March 2026).
+**Ampere resolved:** `telf` (CVCC, March 2026). Assigned alongside the other Tier A observational additions (year `hulm`, electron mass `dolm`, proton mass `dolf`).
 
 ### FLAG-CVC-006 — CVC stratum near-depletion
 
