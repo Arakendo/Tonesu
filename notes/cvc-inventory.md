@@ -67,6 +67,46 @@ wes nil nil nu mu  → six hundred objects
 
 *No explicit hundred/thousand words yet — positional chaining handles it. See FLAG-CVC-003.*
 
+### Base units as compounds
+
+Base SI units do not need CVC forms. The domain primitive **is** the unit label — `nu [domain]` means "a quantity of [domain]", which is exactly what a base unit expresses. No new vocabulary is required.
+
+| Tonesu compound | Reading | SI equivalent |
+|-----------------|---------|---------------|
+| `nu pa`  | quantity of space    | meter (distance) |
+| `nu ti`  | quantity of time     | second (duration) |
+| `nu ma`  | quantity of matter   | kilogram (mass) |
+| `nu ha`  | quantity of heat     | kelvin (temperature) |
+| `nu lu`  | quantity of light    | candela (luminous intensity) |
+| `nu ra`  | quantity of force    | newton / joule family |
+| `nu so`  | quantity of sound    | decibel register |
+| `nu si`  | quantity of signal   | bit / information unit |
+
+The full measurement expression stacks cleanly:
+
+```
+[digit] [scale] nu [domain]
+```
+
+```
+bol nu pa              → 1 meter
+pir nu pa              → 1 kilometer
+bun gal nu ti          → 23 seconds
+gal nu ma              → 3 kilograms      (gal pir nu ma for 3 kg precisely)
+mes nu pa              → 1 micrometer
+```
+
+**Derived units** (those defined as combinations of base units — newton, joule, pascal, watt) are expressed as multi-domain compounds. They do not receive separate names unless corpus pressure demands a shortform. Examples:
+
+```
+ra ne ma-ki            → force in relation to matter-in-motion    (≈ newton)
+ra ne pa               → force in relation to space               (≈ joule)
+```
+
+**The only units that require CVC forms** are observational/conventional anchors — distances or quantities defined by physical measurement rather than derived from conceptual primitives (AU, light-year, mole, ampere-equivalent). Those use the CVC anchor forms in the Astronomical Distance Anchors section below.
+
+---
+
 ### Scale-prefixed measurement
 
 ```
