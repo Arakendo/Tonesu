@@ -151,6 +151,9 @@ Consolidated list of unresolved design decisions from across all spec and regist
 
 ## Naming
 
+- [x] ~~**KNM-001: Kind-term and naming stress test — does `[kind  na  Name]` work?**~~ **Resolved. S195–S201 (March 2026).** `[kind  na  id]` is the canonical NP structure for all named entities. Four findings: (1) bare kind-term NPs (`la-zo-se-so`, `la-zo-su`) function cleanly as agents; (2) `na` is a universal NP-internal identifier particle across individual names, variety names, scientific binomials, and human persons; (3) `la-` before `na` is unambiguous — role-marker scopes over the full NP; (4) Tonesu kind-terms are genus-level by design (`zo-se-so` covers dogs, cats, dolphins; `zo-su` covers trees, shrubs, kelp). Species precision is supplied by the `na`-identifier system or by extending the kind-compound when contextually needed.
+- [ ] **KNM-001 follow-on: dog vs. cat at species level.** `zo-se-so` (sound-perceiving organism) over-generates to cover both dogs and cats. Candidate finer kind-terms: `zo-se-so-li` (social-orientation — dog class) vs. `zo-se-so-fe` (boundary/territorial-orientation — cat class). Not resolved. Collect two corpus sentences requiring the distinction before registering.
+- [ ] **KNM-001 follow-on: named variety rule in spec.** `[kind  na  variety-id]` confirmed by S197 (breed) and S198 (binomial). Write the named-variety rule and the minimal-kind-label-in-scientific-register rule into spec/naming.md.
 - [ ] Define phonological adaptation rules for borrowing foreign names precisely.
 - [ ] Should `na` always be required or only when ambiguity could occur?
 - [ ] Rules for compound place names that are partly descriptive and partly endonymic.
