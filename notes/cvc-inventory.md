@@ -268,7 +268,7 @@ SI-style magnitude scale words. Structure: `[scale] nu [domain]`. Base unit (×1
 | zetta  | 10²¹     | `fus` | `fu`    | s    | |
 | yotta  | 10²⁴     | `hem` | `he`    | m    | observable-universe radius in SI |
 
-**Note:** Sub-pico (femto, atto, etc.) are unassigned. After all current assignments, the only two free CV stems remaining in the CVC stratum are `wa` and `wo` — see FLAG-CVC-006.
+**Note:** Sub-pico (femto, atto, etc.) are unassigned. After all current assignments, the free CV stems remaining in the CVC stratum are `wa`, `wo`, `va`, `ve`, `vi` — see FLAG-CVC-006. (`va`/`ve`/`vi` became available when `v` was added to the consonant inventory in March 2026; `vo` was already taken as R024.)
 
 ---
 
@@ -381,7 +381,7 @@ After all assignments in this document, the free CV-stem count is:
 |-------|---------------------|
 | Before CVC work (minus `zi`) | 36 |
 | After digits + colors + scales | 9: `gu fi fu he ho hu ya wa wo` |
-| After astronomical additions | **2: `wa` `wo`** |
+| After astronomical additions | **5: `wa` `wo` `va` `ve` `vi`** (va/ve/vi opened when v was added to inventory) |
 
 The CVC stratum is **effectively full**. Any future CVC assignments must be treated as exceptional and require displacing something or accepting a longer phonological form. See FLAG-CVC-006.
 
@@ -405,10 +405,10 @@ Digit chaining (`wes nil nil nu mu` = 600) is unambiguous but verbose for large 
 
 The **mole** (6.022×10²³ — Avogadro's number of particles) and the **ampere** (defined by elementary charge flow) are SI base units whose values are fixed by measurement convention, not derivable from primitives. Like the AU and light-year, they require CVC anchor forms. Neither is assigned yet.
 
-Problem: the CVC stratum has exactly **two free stems remaining** (`wa` and `wo`). Assigning both mole and ampere would exhaust the tier entirely with no reserve left.
+Problem: the CVC stratum has **five free stems remaining** (`wa`, `wo`, `va`, `ve`, `vi` — the v-initial stems opened when `v` was added to the inventory, March 2026). Assigning mole and ampere would consume two of them, leaving three in reserve.
 
 **Deferred until a corpus sentence requires one.** Options when that pressure arrives:
-- `wal` or `wam` = mole; `wol` or `won` = ampere (exhausts `wa`/`wo`)
+- `wal` or `vam` = mole; `wol` or `van` = ampere (leaves 3 stems in reserve)
 - Accept verbose form in specialist register: `baf bun bun nu pe-ma` (Avogadro-digit chain + matter-component unit) until a shortform is demanded
 - Open a secondary CVC pool using stop codas (`-k`, `-p`, `-t`) or `v`-initial stems, which are now legal since `v` was added to the inventory (FLAG-CVC-001 resolved). This would extend the tier rather than exhaust it.
 
@@ -416,7 +416,7 @@ Track alongside NUM-001 in `notes/open-questions.md`.
 
 ### FLAG-CVC-006 — CVC stratum near-depletion
 
-After committing all forms in this document, only **`wa` and `wo`** remain as free CVC-stem slots. Any new CVC vocabulary requirement must either: (a) use one of these two final stems; (b) accept a mild CV-stem collision with an existing root and rely on coda + context to disambiguate (lower quality); (c) move to a different phonological tier (CVCC, CV-CVC, or long-vowel forms). This depletion is a direct consequence of the three-domain commitment (digits, colors, scales). Practical implication: **the CVC tier should be considered closed for new general vocabulary from this point**. Future descriptors (temperature scales, angle units, etc.) should be assessed for whether they can be expressed compositionally before claiming a remaining slot.
+After committing all forms in this document, **five free CVC-stem slots remain: `wa` `wo` `va` `ve` `vi`** (`va`/`ve`/`vi` became available when `v` was added to the consonant inventory in March 2026; `vo` was already taken as R024). Each stem supports ~5 safe codas, giving roughly **~25 additional strict-CVC forms** before the tier is genuinely exhausted. Practical implication: the CVC tier is **constrained but not closed**. It can absorb a small number of further exceptional assignments (conventional anchors, one-off scientific constants) before a decision about CVCC or another extension tier becomes necessary.
 
 ### FLAG-CVC-005 — Names and loanwords may collide with CVC layer
 
