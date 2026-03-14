@@ -2357,7 +2357,7 @@ Composition:  zi-zo (biological coupling event, W106) + go (cause/origin) — th
               participant occupies.
 Register:     technical / biological
 Domain:       biology / reproduction
-Status:       proposed
+Status:       active
 First use:    pending corpus attestation
 Notes:        This is a biological role description, not a social category. It says
               nothing about anatomy beyond gametic contribution type. The definition
@@ -2395,7 +2395,7 @@ Composition:  zi-zo (biological coupling event, W106) + du (result/effect) — t
               this participant occupies.
 Register:     technical / biological
 Domain:       biology / reproduction
-Status:       proposed
+Status:       active
 First use:    pending corpus attestation
 Notes:        This is a biological role description, not a social category. Anchors to
               anisogamy: the egg contributor supplies the cell that hosts gamete fusion
