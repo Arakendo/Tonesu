@@ -605,19 +605,23 @@ Composition:  ti (time) + be (grow/come) — time that is coming; the growing/ap
               that has passed — past interval; not yet registered but derivationally available).
 Register:     standard / casual
 Domain:       temporal reference
-Status:       proposed
+Status:       active
+First use:    C003 A1 (`to-si — la-tu  ki  pa-li-pu  ta-ti-be` — first future time reference
+              without an English placeholder gloss)
 Examples:     "ta-ti-be" — at/in the next-time = tomorrow / soon (C003 A1, B1)
+              "ta-ti-be  ne-ra-ki  be" — at upcoming time, the attuning develops (C006 A4)
 Notes:        ti-be is used in the `ta` (temporal) particle frame: ta-ti-be = "at the
               upcoming time." The unit implied (day, season, cycle) is context-dependent.
               In casual usage, ta-ti-be typically means "tomorrow"; in planning contexts,
               it may mean "in the upcoming cycle/period."
-              Related temporal compounds available but not yet registered:
-                ti-re  = recurring time / habitual time (= re-ti, W029 precursor, see S029)
-                ti-fe  = time-limit / deadline (W037 — already registered)
-              The full time reference system: ti-de (W041) | ta-now (present) | ti-be (near future).
-              Long-range future: wi-ti (intended-time = scheduled/planned time); unregistered.
-Related:      ti (primitive: time), be (primitive: growth/coming), ti-fe (W037: deadline),
-              ta (particle: temporal frame)
+              Contrast with ti-re (W103, recurring-cycle next occurrence): ti-be is the
+              next time on the open linear timeline; ti-re is the next instance in a
+              recurring sequence. C006 A4/B4 is the canonical contrastive pair.
+              Full time-reference compound family: ti-de (W041) | ta-now | ti-be (here) |
+              ti-re (W103) | ti-fe (W037: deadline). Long-range intentional future:
+              wi-ti (intended/scheduled time) — unregistered pending attestation.
+Related:      ti (primitive: time), be (primitive: growth/coming), ti-re (W103: recurring
+              future), ti-fe (W037: deadline), ti-de (W041: past), ta (particle: temporal frame)
 ```
 
 ---
@@ -635,18 +639,23 @@ Composition:  ti (time) + de (decay/decrease/end) — time that has ended; the d
               ti-be = time approaching; ti-de = time receded.
 Register:     standard / casual
 Domain:       temporal reference
-Status:       proposed
+Status:       active
+First use:    S035 (`lo-ha  de-past  ta-ti-de` — the thermal state decreased in the past
+              interval / last night)
 Examples:     "lo-ha  de-past  ta-ti-de" — the thermal state decreased last night (S035)
+              "lo-li-be  ta-ti-now  zo-de  nu-no  ta-ti-de" — the child is less tired
+              than yesterday (S066)
 Notes:        ti-de is used in the `ta` (temporal) particle frame: ta-ti-de = "at/in the
               past time." The unit implied (night, day, season, cycle) is context-dependent.
               In casual usage, ta-ti-de typically means "last night / yesterday"; in analytical
               contexts, it may mean "in the previous cycle/period."
-              The full time reference system: ti-de (past) | ta-now (present) | ti-be (W040, future).
               Systematic pair: ti-be (approaching time) / ti-de (elapsed time). The pair uses
               be/de (growth/decay) to encode temporal direction — the same roots that handle
               all other directed change in the language. Consistent with the process ontology.
+              Full time-reference compound family: ti-de (here) | ta-now | ti-be (W040) |
+              ti-re (W103: recurring future) | ti-fe (W037: deadline).
 Related:      ti (primitive: time), de (primitive: decay/end), ti-be (W040: proximate future),
-              ti-fe (W037: deadline), ta (particle: temporal frame)
+              ti-re (W103: recurring future), ti-fe (W037: deadline), ta (particle: temporal frame)
 
 ---
 
@@ -2105,5 +2114,42 @@ Related:      nu (quantity), se (perception), nu-to (quantitative concept/parame
 ---
 
 - [x] ~~Resolve whether compound forms use hyphens in writing or run together~~ → Resolved: solid spelling is canonical; hyphens are analytic notation only. See spec/word-formation.md § Written Form.
+
+**W103**
+```
+Form:         ti-re
+Type:         compound
+Class:        time reference
+Definition:   recurring time; the next scheduled occurrence in a repeating sequence;
+              the next cycle. The upcoming instance of an event that recurs on an
+              established pattern.
+Composition:  ti (time) + re (recurrence/cycle) — time defined by recurrence; the forward
+              point in time picked out by a cycle's structure. Head-final: ti (time) is the
+              head; re specifies that the temporal position is the next position in a
+              cycle rather than a generic future interval.
+Register:     standard / technical
+Domain:       temporal reference / scheduling
+Status:       active
+First use:    C006 B4 (`ta-ti-re  ki` = "it's coming up in the cycle" — the recurrence
+              pilot resonance training event. B uses `ti-re` where A used `ti-be` (A4),
+              marking that the upcoming event is a scheduled cycle instance, not merely
+              an approaching time on the open timeline.)
+Notes:        Contrasts with `ti-be` (W040, proximate future) on the linear-vs-cyclic dimension:
+                ti-be = the next time interval on the open forward timeline (generic "soon,"
+                        "tomorrow") — no cyclical structure implied
+                ti-re = the next occurrence within an established recurring sequence —
+                        cyclical structure required
+              Decision rule: use `ti-be` when the only claim is that time will pass; use
+              `ti-re` when the event belongs to a recurrent pattern and the next instance is
+              being referenced.
+              Extension forms:
+                ta-ti-re         = at the time of the next cycle occurrence (canonical use)
+                ta-ti-re-fe      = by the next scheduled occurrence / before the cycle turns again
+Related:      ti (primitive: time), re (primitive: recurrence/cycle), ti-be (W040: generic
+              proximate future), ti-de (W041: past time), ti-fe (W037: deadline),
+              ta (particle: temporal frame)
+```
+
+---
 - [ ] Review W002 (su-mu-li) — does it conflict with the derivational marker stack order?
 - [ ] Develop domain-specific sub-lists once domains are finalized (see ontology/domains.md)

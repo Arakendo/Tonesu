@@ -963,6 +963,29 @@ ta [TIME-CLAUSE]  MATRIX-CLAUSE
 
 `ta` expresses temporal coincidence or sequence. It carries no causal implication. For events where the temporal relationship also implies causation, prefer `go` framing.
 
+### Time Reference Compounds
+
+The `ti` (time) root combines with directional primitives to produce a family of temporal reference compounds. All are used in the `ta` frame (`ta-ti-X`):
+
+| Compound | Roots | Meaning | Corpus | Registry |
+|----------|-------|---------|--------|----------|
+| `ti-de` | time + decay | past time; previous interval; yesterday | S035, S066 | W041 |
+| `ta-now` | `ta` + deictic | present moment | throughout | — |
+| `ti-be` | time + growth | proximate future; next time; tomorrow | C003, C006 A4 | W040 |
+| `ti-re` | time + recurrence | next scheduled occurrence; next cycle | C006 B4 | W103 |
+| `ti-fe` | time + boundary | deadline; time-limit; the moment of | throughout | W037 |
+
+**Linear vs. cyclic distinction (`ti-be` / `ti-re`):**
+
+`ti-be` and `ti-re` both reference a future time point, but differ in temporal structure:
+
+- **`ti-be`** = the next interval on the **open linear timeline** — generic "soon," "tomorrow," "in the near future." No recurring structure is implied or required.
+- **`ti-re`** = the next occurrence in an **established recurring sequence** — "when it comes around again," "at the next session," "next cycle." A cycle must be contextually established.
+
+**Decision rule:** use `ti-be` when the claim is only that time will pass; use `ti-re` when the event belongs to a known recurrent pattern and the next instance is being referenced.
+
+**Corpus contrastive pair (C006):** A4 uses `ta-ti-be  ne-ra-ki  be` ("the link will develop soon" — open-timeline prediction); B4 replies `ta-ti-re  ki` ("yes, it's coming up in the cycle" — scheduled resonance training). Same event, different temporal frames: A is predicting on the linear timeline; B is announcing the next scheduled occurrence.
+
 ---
 
 ## Purpose Frame
