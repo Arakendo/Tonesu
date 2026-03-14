@@ -24,10 +24,11 @@
 | h | h (hat) | |
 | y | y (yes) | |
 | w | w (win) | |
+| v | v (vine) | labiodental fricative; added March 2026 — already in use in `vo` (R024); see FLAG-CVC-001 |
 
-**Total: 16 consonants**
+**Total: 17 consonants**
 
-Excluded by design: th, v, x, q, c (redundant with k/s), uvulars, retroflexes, ejectives, clicks.
+Excluded by design: th, x, q, c (redundant with k/s), uvulars, retroflexes, ejectives, clicks.
 Goal: globally pronounceable for speakers of major world language families.
 
 ---
