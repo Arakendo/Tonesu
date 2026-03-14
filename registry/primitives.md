@@ -303,8 +303,12 @@ These concepts must be expressible using only existing primitives. If a construc
 | give / transfer (loss) | `la-[giver]  ne-[recipient]  lo-[object]  de` | recipient particle + release; giver loses possession. Corpus: S056. |
 | copy / transfer (no loss) | `de-ki-be` or `ka-ne` (candidates) | Agentive transfer without possession-loss. S056 downgraded this from gap to candidate: `de-ki-be` (release-motion-generate) or `ka-ne` (intentional-toward-recipient). Neither fully attested. Monitor corpus for a copy/share sentence to force the decision. |
 | need / dependency | `ne-fe` | Resolved S058: `lo-zo-li  ne-fe  ma` = "the person is in a dependency-condition toward substance." State predication confirmed. `ne-fe` registered as derived compound. |
+| physical power / capacity | `ra` (primitive) | `ra` already covers energy-as-force-or-capacity. `ra-be` = power increasing; `ra-de` = power depleting; `ra-nu` = power level/magnitude. No gap. |
+| social / institutional authority | `wi-go` (candidate compound) | Two distinct aspects: (1) the *directive* — `wi` (will/intention); (2) the *causal reach* — `go` (originates action in others). Compound: `wi-go` = directive-origination; `wi-go-li` = authority-holder / leader. Legitimacy (recognized vs unrecognized) is contextual: `wi-go-li  ne  to-li-pu` = authority-holder per the social model. Illegitimate force = `ra-go-li`. No new primitive needed. Register `wi-go` when corpus produces a sentence that requires it. |
+| magnitude (physics / quantitative) | `ra-nu`, `du-nu`, `[domain]-nu` | In the physics register, magnitude = scalar size of a quantity: `ra-nu` (force magnitude), `du-nu` (effect magnitude). Pure `nu` in all quantitative contexts. |
+| magnitude (scale / intensity) | `vo` / `nu-vo` | In colloquial or evaluative register, "great magnitude" = scalar intensity = `vo` or `nu-vo` (quantity-quality). No gap; the two registers split cleanly across existing roots. |
 
-*`tree` is the weakest — `zo+su` is structurally valid but loses the plant/non-animal distinction. `zo` subtypes decision is now settled (compound strategy: `zo-ki` / `zo-no-ki`), so this row is closed. `need/dependency` resolved by `ne-fe` (S058). `copy/transfer` still pending corpus pressure.*
+*`tree` is the weakest — `zo+su` is structurally valid but loses the plant/non-animal distinction. `zo` subtypes decision is now settled (compound strategy: `zo-ki` / `zo-no-ki`), so this row is closed. `need/dependency` resolved by `ne-fe` (S058). `copy/transfer` still pending corpus pressure. `power/authority` and `magnitude` logged March 2026 — not primitive gaps, compounds sufficient.*
 
 ---
 
