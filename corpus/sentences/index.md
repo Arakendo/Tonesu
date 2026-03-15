@@ -17,79 +17,23 @@ See [../index.md](../index.md) for entry format.
 
 ## Kind-Term Taxonomy
 
-Living-thing and inorganic-matter kind-term classes, indexed by Tonesu base term. Each node shows the batch code and sentence range where that class was established or stress-tested.
+Canonical kind-term vocabulary lives in **[`registry/kinds.md`](../../registry/kinds.md)**.
+That file is authoritative for the `zo` and `ma` trees, the discrimination rule,
+and the colloquial stubs (`zol`, `zof`, `zod`, etc.).
 
-### Living Things (`zo`)
+Corpus evidence by batch (for cross-reference):
 
-```
-zo  (living thing)
-│
-├── zo-se-[x]  Perceptual organism — axis: defining sensory mode
-│   │
-│   ├── zo-se-so  Acoustic organism (genus term)
-│   │            KNM-001 · S195–S201 · s176-s227.md
-│   │   │
-│   │   ├── zo-se-so-fe  territorial / cat class (Felidae)
-│   │   │                KNM-002 · S202+ · s176-s227.md
-│   │   │                KNM-003 · S252–S260 · s252-s278.md
-│   │   │
-│   │   ├── zo-se-so-li  pack-social / dog class (Canidae)
-│   │   │                KNM-002 · S202+ · s176-s227.md
-│   │   │                KNM-004 · S261–S278 · s252-s278.md
-│   │   │
-│   │   ├── zo-se-so-di  directional / bird class (Aves)
-│   │   │                KNM-005 · S279–S285 · s279-plus.md
-│   │   │
-│   │   └── zo-se-so-pa  place-acoustic / whale (Cetacea)
-│   │                    KNM-006 · S307–S313 · s279-plus.md
-│   │
-│   ├── zo-se-ma  matter-perceptual / fish & aquatic vertebrates
-│   │            KNM-006 · S307–S313 · s279-plus.md
-│   │
-│   └── zo-se-ne  social-relational / herd ungulates
-│                KNM-007 · S314–S320 · s279-plus.md
-│
-├── zo-su  structural organism / plants
-│         PLT-001 · S286–S292 · s279-plus.md
-│
-├── zo-pe  component organism / arthropods & invertebrates
-│         KNM-008 · S321–S327 · s279-plus.md
-│
-└── zo-ne  networked organism / fungi
-          FNG-001 · S328–S334 · s279-plus.md
-```
-
-*`zo-li` (human-class organism) is not a corpus test target — humans appear as `la-mi`, `la-tu`, `la-ze` throughout the corpus.*
-
-**Extending the tree: the `'` rule applies at any level.** Each node in the tree is a valid base for further discrimination. A discriminator subcompound prepends with `'` and scopes over the entire base:
-
-```
-[discriminator]'[base-class]
-```
-
-This means the tree is not two levels deep — it is unbounded. Any node can be the base for a finer distinction:
-
-```
-zo-se-so                          acoustic organism (genus)
-  [behav]'zo-se-so                a behavioral subgroup of that genus
-    [feature]'[behav]'zo-se-so    a further-specified member of that subgroup
-      [variant]'[feature]'[behav]'zo-se-so   individual variant (coat, region, etc.)
-```
-
-Corpus maximum depth so far: four apostrophes — `no-lu'lu-pe'ma-ki'zo-se-so-fe` (melanistic jaguar, S259 KNM-003). The rule places no upper limit; depth is bounded only by communicative need.
-
-**Discriminating off intermediate nodes.** Organisms that do not cleanly fit a terminal-class fourth root (`-li`, `-fe`, `-di`, `-pa`) can discriminate directly off the three-root acoustic genus `zo-se-so`, or off the two-root base `zo-se` — whichever level captures the relevant distinction. A fox, for instance, is neither pack-social (`-li`) nor territorial-feline (`-fe`) in the same sense as canids and felids; the fox discriminator would attach to `zo-se-so` directly (`[fox-discrim]'zo-se-so`), and fox subspecies (red fox, arctic fox, kit fox) would be further discriminators on top of that.
-
-The corpus nodes above are what has been formally established. Everything else is compositional-possible by rule.
-
-### Inorganic Matter (`ma`)
-
-```
-ma  (matter/substance)
-├── ma-su  structured matter / rock & mineral
-│         MAT-001 · S293–S299 · s279-plus.md
-├── ma-pa  place-matter / soil & sediment
-│         MAT-001 · S293–S299 · s279-plus.md
-└── ma-ki  flowing matter / water
-          MAT-002 · S300–S306 · s279-plus.md
-```
+| Batch | Class established | Sentence range | File |
+|-------|------------------|----------------|------|
+| KNM-001 | `zo-se-so` acoustic organism genus | S195–S201 | s176-s227.md |
+| KNM-002 | `zo-se-so-fe` felid · `zo-se-so-li` canid (first pass) | S202+ | s176-s227.md |
+| KNM-003 | Cat-family (Felidae) depth stress test | S252–S260 | s252-s278.md |
+| KNM-004 | Canid-family depth stress test | S261–S278 | s252-s278.md |
+| KNM-005 | `zo-se-so-di` bird class (Aves) | S279–S285 | s279-plus.md |
+| PLT-001 | `zo-su` plant class | S286–S292 | s279-plus.md |
+| MAT-001 | `ma-su` rock · `ma-pa` soil | S293–S299 | s279-plus.md |
+| MAT-002 | `ma-ki` water | S300–S306 | s279-plus.md |
+| KNM-006 | `zo-se-ma` fish · `zo-se-so-pa` whale | S307–S313 | s279-plus.md |
+| KNM-007 | `zo-se-ne` herd ungulates | S314–S320 | s279-plus.md |
+| KNM-008 | `zo-pe` arthropods & invertebrates | S321–S327 | s279-plus.md |
+| FNG-001 | `zo-ne` fungi | S328–S334 | s279-plus.md |
