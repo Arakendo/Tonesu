@@ -143,6 +143,13 @@ Natural:  I note (perceptually): ze suppressed a record. — Submit this to the 
 ```
 
 **Notes:**
+- **First positive attestation of `la-mi  se  [embedded clause]`.** The epistemic modal
+  frame `la-[speaker]  se  [proposition]` had its corpus column in spec/grammar.md marked
+  "positive awaited" — the negated form `no-se` was attested at C007 B4 but the positive
+  `la-mi  se  [prop]` had not appeared in the record until now. C008 B3 closes that gap.
+  The positive form means: "I have perceptual / signal-level grounds for noting [prop]."
+  Applied to testimony: the arbiter received A's claim as a perceptual input (they heard
+  it) and records it at exactly that level — no higher.
 - **Arbiter uses `se` (perceptual/floor level) for the ruling-note.** B does not certify
   A's charge at `to` or `si` level — B acknowledges A's testimony as perceptually received
   (`se`) and routes it to `to-fe-su` for adjudication. Correct Concordian arbitration

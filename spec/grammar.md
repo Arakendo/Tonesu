@@ -505,7 +505,7 @@ Three personal epistemic levels, perceptual floor to established ceiling:
 
 | Level | Root | Meaning | Corpus |
 |-------|------|---------|--------|
-| Perceptual | `se` | I have signal data / I perceive | (negated form attested C007 B4; positive awaited) |
+| Perceptual | `se` | I have signal data / I perceive | C008 B3 (positive first); C007 B4 (negated first) |
 | Hypothesis | `si` | I hold at assessment level / I hypothesize | C001 A3, C006 A4 |
 | Established | `to` | I hold as a conceptual pattern / I know | C005, C007 B1 |
 
