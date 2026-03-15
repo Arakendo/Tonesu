@@ -12,3 +12,63 @@
 | [s279-plus.md](s279-plus.md) | S279+ | *(ongoing)* |
 
 See [../index.md](../index.md) for entry format.
+
+---
+
+## Kind-Term Taxonomy
+
+Living-thing and inorganic-matter kind-term classes, indexed by Tonesu base term. Each node shows the batch code and sentence range where that class was established or stress-tested.
+
+### Living Things (`zo`)
+
+```
+zo  (living thing)
+│
+├── zo-se-[x]  Perceptual organism — axis: defining sensory mode
+│   │
+│   ├── zo-se-so  Acoustic organism (genus term)
+│   │            KNM-001 · S195–S201 · s176-s227.md
+│   │   │
+│   │   ├── zo-se-so-fe  territorial / cat class (Felidae)
+│   │   │                KNM-002 · S202+ · s176-s227.md
+│   │   │                KNM-003 · S252–S260 · s252-s278.md
+│   │   │
+│   │   ├── zo-se-so-li  pack-social / dog class (Canidae)
+│   │   │                KNM-002 · S202+ · s176-s227.md
+│   │   │                KNM-004 · S261–S278 · s252-s278.md
+│   │   │
+│   │   ├── zo-se-so-di  directional / bird class (Aves)
+│   │   │                KNM-005 · S279–S285 · s279-plus.md
+│   │   │
+│   │   └── zo-se-so-pa  place-acoustic / whale (Cetacea)
+│   │                    KNM-006 · S307–S313 · s279-plus.md
+│   │
+│   ├── zo-se-ma  matter-perceptual / fish & aquatic vertebrates
+│   │            KNM-006 · S307–S313 · s279-plus.md
+│   │
+│   └── zo-se-ne  social-relational / herd ungulates
+│                KNM-007 · S314–S320 · s279-plus.md
+│
+├── zo-su  structural organism / plants
+│         PLT-001 · S286–S292 · s279-plus.md
+│
+├── zo-pe  component organism / arthropods & invertebrates
+│         KNM-008 · S321–S327 · s279-plus.md
+│
+└── zo-ne  networked organism / fungi
+          FNG-001 · S328–S334 · s279-plus.md
+```
+
+*`zo-li` (human-class organism) is not a corpus test target — humans appear as `la-mi`, `la-tu`, `la-ze` throughout the corpus.*
+
+### Inorganic Matter (`ma`)
+
+```
+ma  (matter/substance)
+├── ma-su  structured matter / rock & mineral
+│         MAT-001 · S293–S299 · s279-plus.md
+├── ma-pa  place-matter / soil & sediment
+│         MAT-001 · S293–S299 · s279-plus.md
+└── ma-ki  flowing matter / water
+          MAT-002 · S300–S306 · s279-plus.md
+```
