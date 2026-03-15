@@ -409,6 +409,8 @@ Chemical element anchors (Tier A) are the founding members of this track. The fo
 
 ### Phonological constraints for CVCC
 
+**The tier signal is phonological, not semantic.** The CC coda tells a listener "stable atomic anchor" — it says nothing about whether a compositional path also exists. Do not reason backwards from "CVCC → must be inexpressible." Both admission tracks produce CVCC forms; the tier signal is identical for both.
+
 1. **No CV stem restriction** — the coda cluster is the tier signal. A speaker hearing a CC coda knows it is not a primitive, compound, or CVC descriptor.
 2. **CC coda from the preferred set** — sonorant+sonorant or sonorant+fricative clusters are most cross-linguistically pronounceable: `-lm`, `-ls`, `-ln`, `-rm`, `-rs`, `-rn`, `-lf`, `-rf`, `-ns`, `-ms`.
 3. **Cross-tier distinctiveness** — must not be a near-homophone of any existing CVC form (one-phoneme difference in the first three phonemes).
