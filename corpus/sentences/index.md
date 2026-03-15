@@ -9,5 +9,6 @@
 | [s176-s227.md](s176-s227.md) | S176–S227 | Observer Paradox & Identity Persistence · Moral & Metaphysical · Physics & Mathematics · Bilateral Interaction Gaps · Temporal Event-Anchor · No Contrast Coordinator · Kind-Term Naming · Apostrophe Scoping · Daily Life |
 | [s228-s251.md](s228-s251.md) | S228–S251 | Geometric Constructs (GEO-001) · Cardinal Numerals (NUM-001) |
 | [s252-s278.md](s252-s278.md) | S252–S278 | Cat-Family Taxonomy (KNM-003) · Canid-Family Taxonomy (KNM-004) · Legal Theory Epistemics (LGL-001) |
+| [s279-plus.md](s279-plus.md) | S279+ | *(ongoing)* |
 
 See [../index.md](../index.md) for entry format.
