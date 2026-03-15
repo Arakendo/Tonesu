@@ -24,7 +24,7 @@ For Tonesu this is a Tier 4 edge test. Most content terms compose cleanly from p
 
 | Concept | Status | Notes |
 |---------|--------|-------|
-| God | ❌ No compositional expression | Tonesu has no supernatural ontological primitive; see GOD-001 |
+| God | ✅ Compositional path verified | `be-go-li` (creator-agent) + `[X]-no-fe` attribute compounds; see GOD-001 |
 | "In the beginning" | ⚠️ Partial | `ta-go-nu` (at the time of origin) — workable but absolute temporal origin claims are unusual |
 | "heavens" | ⚠️ Partial | `pa-be` (emerging/upper space) or bare `pa`; no heaven/earth distinction at primitive level |
 | "formless" | ✅ `no-su` | absence of structure |
@@ -50,20 +50,52 @@ This is the central challenge. The text presupposes an agent (`la`-position enti
 2. **Creative agency** — `be` (generation) fits the action
 3. **Speech acts** — saying, calling, naming
 4. **Evaluative capacity** — perceiving and judging (`vo`)
-5. **No compositional expression in Tonesu**
 
-Tonesu treats religious constructs as organized social and epistemic structures, not supernatural ontological primitives (see `registry/domains.md`). The concept of an ontologically prior creator agent is not in scope for the primitive set.
+Tonesu treats religious constructs as organized social and epistemic structures, not supernatural ontological primitives (see `registry/domains.md`). However, the classical divine *attributes* (omniscience, omnipotence, omnipresence, omnibenevolence, necessary being) are all expressible compositionally via the `[X]-no-fe` suffix pattern. The gap is not a primitive gap — it is a naming gap.
 
-**Options evaluated:**
+### Attribute Compound Analysis (THO-001)
 
-| Option | Form | Problem |
-|--------|------|---------|
-| Uncaused-causer compound | `go-no-go-li` | Structurally precise but very long; also only captures causal-priority, not divinity |
-| Generation-source | `be-go-li` | Covers creative agency; misses omnipotence range |
-| Proper noun via `na` | `la-[Elohim na]` | Honest — borrows the name; grammar handles the agency |
-| Bare `go-li` | source/origin-agent | Short but too general |
+The `[X]-no-fe` pattern = X + `no` (negation/absence) + `fe` (boundary/limit) = X without limit. All five classical omni-attributes form cleanly:
 
-**Decision for this draft:** Use `la-Elohim` as the agent throughout. The proper-noun strategy is the most honest: Tonesu does not claim to express the theological identity of God compositionally. The name is borrowed via the `na` particle (G008); the grammar handles the rest. This is consistent with how Tonesu treats all proper names.
+| Attribute | Compound | Reading |
+|-----------|----------|---------|
+| Omniscience | `to-no-fe` | knowledge without boundary |
+| Omnipotence | `ra-no-fe` | force without boundary |
+| Omnibenevolence | `vo-no-fe` | value/goodness without boundary |
+| Omnipresence | `pa-no-fe` | space without boundary |
+| Necessary being | `go-no-fe` | causal primacy without boundary |
+| Creator | `be-go-li` | agent of generative origin |
+| Eternal (in time) | `ti-no-fe` | time without boundary |
+| Atemporal | `no-ti` | outside time entirely |
+
+**Collision resolved:** The natural form for "uncaused cause" would use `go-no-go` (cause without origin). But `go-no-go` is the concessive grammar particle (G009). `go-no-fe` = cause-without-boundary = **necessary being** avoids the collision and captures the same philosophical content: a cause whose causal primacy has no limiting prior condition.
+
+**Full attribute stacking:**
+```
+la-be-go-li  go-no-fe  to-no-fe  ra-no-fe  vo-no-fe  pa-no-fe
+```
+*The creator-agent: necessary-being, omniscient, omnipotent, omnibenevolent, omnipresent.*
+
+Multi-predicate stacking is grammatically valid in Tonesu; each compound is a successive predicate of the same agent. The full chain is available for formal/philosophical register. Too long for everyday use — colloquial compression candidate `bel` (for `be-go-li`) proposed; distinctiveness check pending.
+
+**Image of God (Genesis 1:26):**
+```
+la-be-go-li  lo-zo-li  ka-be-past  lo-be-go-li-si
+```
+`be-go-li-si` = `be-go-li` (creator) + `si` (signal/representation/encoding) = creator-representation = *tselem* (image/likeness). `lo-be-go-li-si` as result-patient: persons were generated *as* a creator-representation. Minor gap: "in the image of" is technically a template/manner frame, not a standard result-patient — the result-patient reading is the closest available construction.
+
+**Property-vs-essence copula gap:** "God is love" is an essence claim, not a property claim. `la-be-go-li  fa-vo-no-fe` (the creator-agent: affect-value-without-limit) is the property reading. The essence reading ("love is what God *is*, not merely what God *has*") requires a dedicated identity copula that Tonesu does not have. `la-X  Q` = property attribution; `lo-X  ne  lo-Y` = relational connection; neither cleanly encodes constitutional identity. Logged as a new open question.
+
+### Translation Strategy for This Draft
+
+**Two paths now exist:**
+
+| Path | Form | Tradeoff |
+|------|------|---------|
+| Proper noun | `la-Elohim` | Borrows the tradition's name; honest about theological identity; grammar handles agency |
+| Compositional | `la-be-go-li` | Makes philosophical structure explicit; loses the specific theistic identity of the Hebrew text |
+
+**Decision for this draft:** Use `la-Elohim` as the agent throughout. The proper-noun strategy remains for translation fidelity — the Hebrew text is about *Elohim*, not a generic creator-agent. Tonesu's compositional path for creator-agent semantics is now verified and available for systematic theological writing; the translation draft adopts the name.
 
 ---
 
