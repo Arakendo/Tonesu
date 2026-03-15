@@ -1080,5 +1080,608 @@ Related:      su (primitive: structure/order), fa (primitive: affective substrat
 
 ---
 
+---
+
+## Matthew 5–7 Supplemental Intake (W134–W137)
+
+**W134**
+```
+Form:         re-ka-ne-li
+Type:         compound
+Class:        person / role
+Definition:   peacemaker; one who habitually creates or restores bonds between
+              parties; a person characterized by the recurring deliberate act of
+              building and healing relational connections. Greek eirēnopoios
+              (peace-maker). The person whose characteristic intentional activity
+              is ne-creation: bringing separated or opposing parties into mutual
+              relation.
+Composition:  re (recurrence/cycle) + ka (deliberate action) + ne (relation/bond)
+              + li (person) = person-of-recurring-deliberate-bond-creation. Default
+              right-branching: re modifies [ka-ne-li]; ka-ne-li = deliberate-bond-
+              person = one whose intentional action is bond-building. re specifies
+              that this is their characteristic recurring activity, not a one-off act.
+Register:     standard / ethical / theological
+Domain:       ethics / social / theology
+Status:       active
+First use:    Matthew 5:9 (Beatitude: "blessed are the peacemakers" =
+              `lo-zo-li  re-ka-ne-li  vo`).
+Notes:        The active, repeated nature of the peacemaker's work is encoded in
+              the compound: re-ka specifies that bond-creation is the person's
+              recurrent pattern, not an isolated gesture.
+              "Making peace" in Tonesu is constitutively relational: peace = the
+              state of bonds existing. The peacemaker is the agent who creates
+              those bonds. Contrast ka-ne (a single bond-creating act) with
+              re-ka-ne-li (the person for whom this is habitual).
+              Extended form: re-ka-ne-su = the institution or practice of peacemaking.
+Related:      re (primitive: recurrence), ka (primitive: deliberate action),
+              ne (primitive: relation/bond), li (primitive: person),
+              ne-li (bonded person / neighbor), ka-ne-de (W092: bond dissolution),
+              wi-de-li (W124: adversary/enemy — the opposite pole)
+```
+
+---
+
+**W135**
+```
+Form:         pa-zo-li
+Type:         compound
+Class:        entity / domain
+Definition:   the world; the inhabited realm; the place of human persons; the
+              domain of human social life and presence. The territorially-bounded
+              region characterized by the presence of human living-persons. Roughly
+              Greek kosmos in its spatial/social sense. Complements pa-be (upper
+              space / heaven) in the theological-cosmological pair.
+Composition:  pa (place/territory) + zo (living thing) + li (person) = territory
+              of living-persons. Default right-branching: pa modifies [zo-li];
+              zo-li (W148) = human-class organism = living person. pa-[zo-li] =
+              the place of human-organisms = the human inhabited world.
+Register:     standard / theological
+Domain:       geography / social / theology
+Status:       active
+First use:    Matthew 5:14 ("you are the light of the world" — the world as the
+              human realm that can be illuminated; metaphor anchored in pa-zo-li
+              as the inhabited human domain).
+Notes:        pa-zo-li is the social/inhabited world, not merely the physical earth.
+              Contrast:
+                pa-ma    = material-ground / earth-substance (the physical planet)
+                pa-zo-li = the world as inhabited human territory
+              In Matthew 5:13 the "earth" in "salt of the earth" uses `go-pa-ma`
+              (of the material ground). pa-zo-li is the social-register "world"
+              in 5:14 (light of the world) and 6:10 (thy kingdom come — the world
+              that needs the coming).
+              Cosmological pair: pa-be (upper space, heavenly realm) ::
+              pa-zo-li (lower space, human realm). These form the Matthew 5–7
+              theological axis.
+Related:      pa (primitive: place/territory), zo-li (W148: human person),
+              pa-be (upper-space compound), pa-ma (material earth, distinct),
+              pa-be'ka-li-su (W125: kingdom of heaven)
+```
+
+---
+
+**W136**
+```
+Form:         fa-wi-zi
+Type:         compound
+Class:        affect state / desire
+Definition:   lust; the affective desire for coupling; the affect state in which
+              will is oriented toward a mutual-coupling event with another person
+              as its direct object. A specific sub-type of fa-wi (affect-will =
+              desire) directed toward zi (mutual coupling). Contrasted with
+              fa-wi-de (W127: temptation = affect-will toward harm in general).
+              Greek epithumia (desire/lust) as used in Matthew 5:28.
+Composition:  fa (affective substrate) + wi (will/intention) + zi (mutual/coupling
+              event) = affect-will-toward-coupling = desire directed at a coupling
+              event. Default right-branching: fa modifies [wi-zi]; wi-zi =
+              will-toward-coupling = desire-for-coupling. fa-[wi-zi] = the
+              affective substrate underlying coupling-desire = lust.
+Register:     standard / ethical
+Domain:       ethics / biology / affect
+Status:       proposed
+First use:    Matthew 5:28 (5th antithesis: "anyone who looks at a woman
+              lustfully has already committed adultery in his heart").
+Notes:        Status: proposed — one primary corpus site. Monitor until a second
+              independent attestation arises.
+              fa-wi-zi is a narrower form within the fa-wi family:
+                fa-wi      = desire / the will-affect state (unspecified object)
+                fa-wi-de   (W127) = temptation = affect-will toward harm (general)
+                fa-wi-zi   = lust = affect-will toward coupling (specific)
+              In Matthew 5:28 the interior act is morally equivalent to the
+              external act. This is consistent with Tonesu's perception pipeline:
+              se → fa → to. fa-wi-zi lives in the fa stage, before any overt act
+              reaches the to (concept/judgment) stage.
+Related:      fa (primitive: affective substrate), wi (primitive: will/intention),
+              zi (primitive: mutual/coupling event), fa-wi-de (W127: temptation),
+              ne-zi-re (W131: spouse), zi-zo (W106: biological coupling event)
+```
+
+---
+
+**W137**
+```
+Form:         vo-mu
+Type:         compound
+Class:        entity / artifact
+Definition:   garment; clothing; a value-bearing artifact worn on the body;
+              any fabric or material item worn to confer warmth, covering, or
+              social-aesthetic value. The paradigmatic artifact whose purpose is
+              value-expression through covering. Greek himation (outer garment /
+              cloak) and the general clothing class in Matthew 6:28–30.
+Composition:  vo (value/quality) + mu (artifact/physical object) = value-artifact
+              = a physical object defined by its value-bearing function. Clothing
+              is the canonical example: it exists to confer warmth, covering, or
+              social value upon its wearer. Head-final: mu (artifact) is head;
+              vo specifies that this artifact belongs to the value-domain.
+Register:     standard / social
+Domain:       material / social
+Status:       proposed
+First use:    Matthew 6:28–30 ("consider the lilies... yet I tell you that not
+              even Solomon in all his splendor was dressed like one of these" —
+              vo-mu as clothing compared against the lily's natural display).
+Notes:        Status: proposed — one primary corpus context. Monitor.
+              The Matthew 6:28–30 comparison is structurally clean: both Solomon's
+              vo-mu (crafted value-artifact) and the lily's display express `vo`
+              (value/quality); the lily's is natural (not-mu), Solomon's is crafted.
+              vo-mu covers: robes, cloaks, everyday clothing — any worn artifact
+              serving value-expression functions.
+Related:      vo (primitive: value/quality), mu (primitive: artifact/object),
+              ka-mu (W047: tool / action-instrument — another mu-family member)
+```
+
+---
+
+## Genesis 1 Intake (W138–W149)
+
+### Cosmology and Physical World
+
+**W138**
+```
+Form:         pa-fe
+Type:         compound
+Class:        entity / spatial
+Definition:   vault; firmament; sky-dome; the bounded spatial region above the
+              earth; the perceptible sky as a defined horizontal boundary. Hebrew
+              raqia (the stretched-out dome of the sky). The upper layer of the
+              visible world, conceived as the bounding edge between terrestrial
+              and celestial domains.
+Composition:  pa (place/territory) + fe (boundary/limit/edge) = bounded-space =
+              a spatial region defined by its boundary. Head-final: fe (boundary)
+              is head; pa specifies the spatial domain — a place defined by its
+              bounding edge. In Genesis usage: the specific sky-dome that bounds
+              the upper visible region.
+Register:     standard / cosmological / theological
+Domain:       geography / cosmology / theology
+Status:       active
+First use:    Genesis 1:6–8 (the vault God made to separate waters above from
+              waters below; God named it 'sky').
+Notes:        pa-fe is the dome-as-bounded-space — the vault conceived as a
+              spatial region with a defining edge. This is distinct from a generic
+              spatial region: the fe is the element that makes it a vault rather
+              than open space.
+              Celestial light-bodies are placed "at the vault" (`pa-pa-fe` = at/in
+              the sky-vault — the particle-pa and root-pa overlap is documented as
+              intentional; see Grammar §Particle–Root Overlap Policy).
+              Extension forms:
+                be-pa-fe   = upper-vault = region above the sky
+                de-pa-fe   = sub-vault = region below the sky
+                lu-mu pa-pa-fe = light-bodies in/at the vault (Gen 1:17)
+Related:      pa (primitive: place/territory), fe (primitive: boundary/limit),
+              lu-mu (W139: light-body, placed in pa-fe),
+              ma-ki (matter-in-motion / water, separated by pa-fe)
+```
+
+---
+
+**W139**
+```
+Form:         lu-mu
+Type:         compound
+Class:        entity / celestial
+Definition:   light-body; luminous celestial object; any natural light-emitting
+              body in the sky. General class covering sun, moon, and stars as
+              instances. Key derived forms: nu-be-lu-mu (great light-body = sun),
+              nu-de-lu-mu (lesser light-body = moon), pu-lu-mu (collective light-
+              bodies = stars).
+Composition:  lu (light) + mu (artifact/physical object) = light-object = a
+              physical body that emits or embodies light. Head-final: mu (physical
+              object) is head; lu specifies the defining quality — objects defined
+              by their light-emitting nature.
+Register:     standard / astronomical / theological
+Domain:       astronomy / cosmology / theology
+Status:       active
+First use:    Genesis 1:14–19 (the two great light-bodies and the collective stars;
+              placed in the vault to govern lu-ti / no-lu-ti and serve as signs).
+Notes:        lu-mu covers all light-emitting celestial bodies as a class. In
+              Genesis 1:16 two primary lu-mu specimens receive governing functions:
+              the nu-be-lu-mu over lu-ti (W140: daytime) and the nu-de-lu-mu over
+              no-lu-ti (W141: nighttime).
+              mu is the artifact/physical-object root. In the Genesis context,
+              celestial bodies are things God made; mu is appropriate. In a
+              purely astronomical register mu still works as "physical object."
+              Derived family:
+                nu-be-lu-mu   = large-scale light-body = the sun
+                nu-de-lu-mu   = decreasing/lesser light-body = the moon
+                pu-lu-mu      = plural/collective light-bodies = stars
+Related:      lu (primitive: light), mu (primitive: artifact/object),
+              pa-fe (W138: vault where light-bodies placed),
+              lu-ti (W140: daytime governed by nu-be-lu-mu),
+              no-lu-ti (W141: nighttime governed by nu-de-lu-mu),
+              se-lu (W130: eye, the light-perception organ)
+```
+
+---
+
+**W140**
+```
+Form:         lu-ti
+Type:         compound
+Class:        temporal entity
+Definition:   daytime; the light-period; the temporal interval characterized by
+              the presence of light; daylight hours. The named temporal phase
+              defined by lu (light). Pair: no-lu-ti (W141: nighttime).
+Composition:  lu (light) + ti (time/temporal sequence) = light-time = the time-
+              period defined by light. Head-final: ti (time) is head; lu specifies
+              the defining quality of the temporal period — the kind of time
+              characterized by light.
+Register:     standard
+Domain:       general / temporal
+Status:       active
+First use:    Genesis 1:14–18 ("lights in the vault to separate the lu-ti from
+              the no-lu-ti"; the greater light-body governs lu-ti).
+Notes:        lu-ti / no-lu-ti (W141) form a minimal pair covering the two
+              alternating temporal phases of the daily cycle. Together they
+              partition the day into light-period and dark-period.
+              Promoted from Monitor: originally marked compositional and low-
+              priority, but high corpus frequency in Genesis temporal framing
+              and frequent recurrence in temporal-frame contexts justifies active
+              registration.
+              Related temporal forms: ti-mi (W109: now), ti-de (W041: past),
+              ti-be (W040: future), ti-re (W103: next cycle/day).
+Related:      lu (primitive: light), ti (primitive: time/sequence),
+              no-lu-ti (W141: nighttime), lu-mu (W139: light-bodies that govern
+              lu-ti)
+```
+
+---
+
+**W141**
+```
+Form:         no-lu-ti
+Type:         compound
+Class:        temporal entity
+Definition:   nighttime; the dark-period; the temporal interval characterized by
+              the absence of light; night hours. The negation-of-light temporal
+              phase. Hebrew layil (night). Pair: lu-ti (W140: daytime).
+Composition:  no (negation/absence) + lu (light) + ti (time/temporal sequence)
+              = not-light-time = the time-period defined by the absence of light.
+              Head-final: ti (time) is head; no-lu specifies the temporal character
+              by the absence of the defining quality (light).
+Register:     standard
+Domain:       general / temporal
+Status:       active
+First use:    Genesis 1:14–19 ("lights to govern the day and the night"; the
+              lesser light-body governs no-lu-ti = the dark-period).
+Notes:        no-lu-ti applies the productive no-X pattern (no-lu = dark;
+              no-ki = still; no-su = structureless; etc.) to the temporal domain:
+              no-lu-ti = the time that is no-lu (without-light) = night.
+              "There was evening, and there was morning" in Genesis uses fe-ki
+              (boundary-onset) for each phase; no-lu-ti and lu-ti (W140) are the
+              named periods that those boundaries delimit.
+Related:      no (primitive: negation/absence), lu (primitive: light),
+              ti (primitive: time/sequence), lu-ti (W140: daytime),
+              lu-mu (W139: light-bodies that govern this period)
+```
+
+---
+
+### Botany and Food
+
+**W142**
+```
+Form:         du-zo-su
+Type:         compound
+Class:        entity / biological
+Definition:   fruit; plant-result; the structured product generated by a plant
+              organism; the biological output structure of a plant — the mature
+              product of plant growth. Hebrew peri (fruit) in its botanical sense.
+Composition:  du (result/product) + zo (living thing) + su (structured product)
+              = result-of-plant. Default right-branching: du modifies [zo-su];
+              zo-su = plant (structured/organized living thing). du-[zo-su] =
+              the result-product of a plant = fruit (the visible, produced output
+              of plant growth).
+Register:     standard / biological / culinary
+Domain:       biology / botany / food
+Status:       active
+First use:    Genesis 1:11–13 ("let the land produce vegetation: seed-bearing
+              plants and trees on the land that bear fruit with seed in it").
+Notes:        du-zo-su is the product of the plant (as a du / result). Contrast:
+                zo-su        = the plant itself (structured living thing)
+                zo-su-be     (W143) = seed (the growth-initiating product of a
+                                       plant)
+                du-zo-su     = fruit (the mature structural product of a plant)
+              The pair zo-su-be / du-zo-su covers the two key botanical products:
+              the reproductive structure and the mature fruit structure. In Genesis
+              1, trees produce du-zo-su (`be-zo-su lo du-zo-su`) containing
+              zo-su-be (`lo-zo-su-be`).
+Related:      du (primitive: result/effect), zo (primitive: living thing),
+              su (primitive: structure), zo-su-be (W143: seed),
+              zo-ra-ma (W144: food — general class)
+```
+
+---
+
+**W143**
+```
+Form:         zo-su-be
+Type:         compound
+Class:        entity / biological
+Definition:   seed; plant-growth-product; the biological propagule of a plant;
+              the structure produced by a plant that initiates new growth of its
+              kind. Hebrew zera (seed). Narrower than zo-be (general organism-
+              growth-product, which covers eggs and all reproductive structures);
+              zo-su-be is specifically the plant-class reproductive structure.
+Composition:  zo (living thing) + su (structure/organized form) + be (growth/
+              development) = plant-[structured-growth-unit]. Default right-
+              branching: zo modifies [su-be]; su-be = structured-growth-form =
+              the organized structure that generates growth. zo-[su-be] = the
+              organism's structured-growth-unit = a plant's growth-producing
+              structure = seed.
+Register:     standard / biological / agricultural
+Domain:       biology / botany / agriculture
+Status:       active
+First use:    Genesis 1:11–12 ("seed-bearing plants"; "trees that bear fruit
+              with seed in it").
+Notes:        zo-su-be is plant-specific. The more general organic growth-product
+              is zo-be (organism-growth = any product of organismal growth,
+              including eggs). zo-su-be narrows this to the plant class: the
+              specific growth-initiating structure that carries the plant's
+              reproductive capacity.
+              In Genesis 1, the pair du-zo-su (W142: fruit) + zo-su-be (seed)
+              fills the "fruit with seed in it" formula: du-zo-su containing
+              zo-su-be = the reproductive completeness of a fruit-bearing plant.
+Related:      zo (primitive: living thing), su (primitive: structure),
+              be (primitive: growth), zo-be (general organism-growth-product),
+              du-zo-su (W142: fruit)
+```
+
+---
+
+**W144**
+```
+Form:         zo-ra-ma
+Type:         compound
+Class:        entity / material
+Definition:   food; organism-energy-substrate; the material that provides energy
+              and sustenance to living organisms; nutritive matter consumed to
+              sustain biological energy. Covers all food types as a general class.
+              Hebrew okhel (food) in its biological-provision sense (Genesis
+              1:29–30).
+Composition:  zo (living thing) + ra (force/energy) + ma (matter/substance)
+              = organism-energy-matter. Default right-branching: zo modifies
+              [ra-ma]; ra-ma = energy-matter = matter characterized by its energy
+              content. zo-[ra-ma] = the organism's energy-matter = the matter
+              that is the energy-source for organisms = food.
+Register:     standard / biological / culinary
+Domain:       biology / food / ecology
+Status:       active
+First use:    Genesis 1:29–30 (God assigns all seed-bearing plants and trees as
+              zo-ra-ma for humans; every green plant as zo-ra-ma for animals).
+Notes:        zo-ra-ma builds on zo-ra (W117: life-energy of organisms) by adding
+              ma (the material substrate that carries or provides that energy).
+              zo-ra is the vitality within an organism; zo-ra-ma is the external
+              material that supplies zo-ra.
+              zo-ra-ma covers all food types without distinguishing: animal,
+              plant, seed-based. The Genesis assignment (1:29–30) uses it for
+              both human and animal provisioning.
+              Extension form:
+                zo-ra-ma-su   = food system / organized food supply
+Related:      zo-ra (W117: life-energy / animating vitality),
+              zo (primitive: living thing), ra (primitive: energy/force),
+              ma (primitive: matter/substance), du-zo-su (W142: fruit — a class
+              of zo-ra-ma for humans)
+```
+
+---
+
+### Zoological Taxonomy
+
+**W145**
+```
+Form:         wi-zo
+Type:         compound
+Class:        entity / biological
+Definition:   wild animal; autonomous organism; a living thing characterized by
+              self-directed will rather than human direction; an organism that
+              acts according to its own instinct and purpose without domestication.
+              Hebrew hayah (living creature / wild animal) as contrasted with
+              livestock in Genesis 1:24–25.
+Composition:  wi (will/intention) + zo (living thing/organism) = will-governed-
+              organism = organism defined by self-directed behavior. Head-final:
+              zo (living thing) is head; wi specifies the defining quality —
+              this is the kind of organism characterized by autonomous will-
+              direction.
+Register:     standard / biological
+Domain:       biology / ecology
+Status:       active
+First use:    Genesis 1:24–25 ("let the land produce living creatures: the
+              livestock, the creatures that move along the ground, and the wild
+              animals" — wi-zo = wild animals, contrasted with zo-se-ne = herd/
+              social animals).
+Notes:        wi-zo marks the Genesis 1:24–25 three-way land-animal taxonomy:
+                wi-zo      = wild (self-willed) organisms
+                zo-se-ne   = social-relational herd animals = livestock (KNM-007)
+                ma-zo-ki   (W146) = ground-crawling organisms
+              The structural contrast is clear: wi-zo are defined by will (wi);
+              zo-se-ne are defined by social-relational bonds (ne). Domestication
+              is the process of transitioning a wi-zo toward zo-se-ne status —
+              replacing autonomous will-direction with human-directed behavior.
+Related:      wi (primitive: will/intention), zo (primitive: living thing),
+              zo-se-ne (herd animals / livestock, KNM-007),
+              ma-zo-ki (W146: crawlers), wi-de-li (W124: adversary — different
+              domain but same wi-root)
+```
+
+---
+
+**W146**
+```
+Form:         ma-zo-ki
+Type:         compound
+Class:        entity / biological
+Definition:   crawler; ground-moving creature; any organism that moves along the
+              material ground; creatures characterized by movement at or near the
+              surface of the earth. Hebrew remes (creeping/crawling things) in
+              Genesis 1:24–26. The class of small or low-moving organisms.
+Composition:  ma (matter/material ground) + zo (living thing) + ki (motion/change)
+              = ground-level-living-movement. Default right-branching: ma modifies
+              [zo-ki]; zo-ki = living-movement = a living thing in characteristic
+              motion. ma-[zo-ki] = ground-level living-mover = organisms that move
+              at the level of the material ground = crawlers.
+Register:     standard / biological
+Domain:       biology / ecology
+Status:       active
+First use:    Genesis 1:24–26 ("the creatures that move along the ground"
+              alongside zo-se-ne = livestock and wi-zo = wild animals).
+Notes:        ma-zo-ki completes the three-way land-animal taxonomy alongside
+              zo-se-ne and wi-zo (W145). In Genesis 1:26 all three classes are
+              objects of humanity's ka-li-su (W147: governance mandate):
+              `lo-zo  ka-li-su` = exercise governance over organisms.
+              The class covers: insects, worms, reptiles, and any creature whose
+              characteristic motion is at ground level. Contrast: zo-se-so-di
+              (birds, KNM-005) for airborne organisms.
+Related:      ma (primitive: matter/ground), zo (primitive: living thing),
+              ki (primitive: motion/change), wi-zo (W145: wild animals),
+              zo-se-ne (herd animals, KNM-007)
+```
+
+---
+
+### Governance, Persons, and Theology
+
+**W147**
+```
+Form:         ka-li-su
+Type:         compound
+Class:        action / process
+Definition:   governance; dominion; coordinated stewardship; the structured
+              exercise of deliberate coordinated authority over persons or
+              organisms within a domain. The practice of organizing and directing
+              participants through intentional action. Hebrew radah (have dominion)
+              in Genesis 1:26, 28. Also the base compound in pa-be'ka-li-su
+              (W125: kingdom of heaven = the governance domain of the upper space).
+Composition:  ka (deliberate action) + li (person/participant) + su (structure/
+              organized form) = deliberate-person-organization. Default right-
+              branching: ka modifies [li-su]; li-su = organized-participants /
+              coordinated-person-structure. ka-[li-su] = deliberate [organized-
+              participant-coordination] = the exercise of structured governance.
+Register:     standard / political / theological
+Domain:       governance / social / theology
+Status:       active
+First use:    Genesis 1:26 ("let them have dominion over the fish of the sea and
+              the birds in the sky and over all the living creatures" =
+              `lo-zo  ka-li-su`).
+Notes:        ka-li-su is the active predicate of governance:
+                la-X  lo-Y  ka-li-su  = X governs Y
+              Also: lo-ka-li-su as nominal = the governance / the dominion (as a
+              thing held or enacted).
+              The same compound forms the base of pa-be'ka-li-su (W125) — the
+              "Kingdom of Heaven" = the governance domain of the upper space. This
+              confirms ka-li-su as the canonical governance compound before W125
+              was registered.
+              Derived compound family:
+                ka-li-su-li        = governor / one who exercises dominion
+                pa-be'ka-li-su     = W125 (the governance domain of the heavens)
+Related:      ka (primitive: deliberate action), li (primitive: person),
+              su (primitive: structure), pa-be'ka-li-su (W125: kingdom of heaven),
+              li-su-li (W001: leader / coordinator), zo-li (W148: human person,
+              the governance subject in Genesis 1:26)
+```
+
+---
+
+**W148**
+```
+Form:         zo-li
+Type:         compound
+Class:        entity / person class
+Definition:   human person; a living-being-person; a member of the human kind-
+              class; any person understood as a living social organism. The general
+              class term for human beings — sex-neutral, role-neutral, and social-
+              position-neutral. Used wherever a general person subject or patient
+              is needed.
+Composition:  zo (living thing/organism) + li (person) = living-person = an
+              organism that is a person. Head-final: li (person) is head; zo
+              specifies that this person is understood in terms of their organismal
+              nature — a person who is a living thing.
+Register:     standard
+Domain:       general / social / biology
+Status:       active
+First use:    Widely used across corpus; the standard subject-of-predication in
+              Matthew 5–7 Beatitudes (`lo-zo-li  wi-no-ra`, `lo-zo-li  su-fa`,
+              etc.) and Genesis 1:26–28 ("let us make mankind" = `lo-zo-li  ka-be`).
+Notes:        zo-li is the unmarked general person-class term. Specific terms build
+              on zo-li via modifier or compound:
+                go-zo-li   = generative-role-person (biological male, Gen 1:27)
+                du-zo-li   = result-role-person (biological female, Gen 1:27)
+                ka-li-su-li = governor (ka-li-su, W147, + li)
+              Plural/collective: `pu-zo-li` = all persons / humanity collectively.
+              zo-li has been used pervasively across corpus without a formal
+              registry entry. This admission retroactively registers the form and
+              confirms its active status.
+Related:      zo (primitive: living thing), li (primitive: person),
+              zi-zo-go (W107: go-role in coupling),
+              zi-zo-du (W108: du-role in coupling),
+              pa-zo-li (W135: the world / place of human persons),
+              be-go-li-si (W149: creator-representation / image)
+```
+
+---
+
+**W149**
+```
+Form:         be-go-li-si
+Type:         compound
+Class:        entity / representation
+Definition:   creator-representation; image; the emergent structural likeness of
+              the one who brought something into being; the form in which a created
+              thing bears the mark of its creator's nature. Hebrew tselem
+              (image/likeness) in Genesis 1:26–27: "in our image." Any
+              representation that is structurally produced by and corresponds to
+              a personal creative origin.
+Composition:  be (growth/emergence/generation) + go (cause/origin) + li (person)
+              + si (signal/representation) = signal/image that emerges from a
+              person-cause. Default right-branching: be modifies [go-li-si];
+              go-li-si = person-origin-signal = a representation/signal that
+              originates from a person. be-[go-li-si] = the emergent/generated
+              form of a person-origin-signal = the image produced from/by its
+              originating person.
+Register:     theological / philosophical
+Domain:       theology / philosophy / representation
+Status:       active
+First use:    Genesis 1:26–27 ("let us make mankind in our image" and "God
+              created mankind in his own image" — in both verses the origin-frame
+              marker precedes the compound: `go-be-go-li-si` = from/after the
+              creator-representation).
+Notes:        In the corpus construction: `go-be-go-li-si` = from/after the
+              creator-representation = "in the image of the creator." The `go`
+              particle here marks origin-frame: humanity's form originates after
+              / corresponds to the creator-representation.
+              be-go-li-si is not a generic si (signal/representation) — it
+              specifically encodes the causal relationship: be-go = generated-
+              from-origin; li = person; si = representation. A representation
+              produced by a creative person-origin. The Hebrew tselem covers
+              images, statues, likenesses; all are structural instances of
+              be-go-li-si.
+              Note on "established THO-001": this compound was developed during
+              the THO theological-attribute batch work (pre-Matthew), but first
+              received a W-number in this intake.
+Related:      be (primitive: growth/generation), go (primitive: cause/origin),
+              li (primitive: person), si (primitive: signal/representation),
+              zo-li (W148: human person, the entity created in this image),
+              ka (primitive: deliberate action)
+```
+
+---
+
 - [ ] Review W002 (su-mu-li) — does it conflict with the derivational marker stack order?
 - [ ] Develop domain-specific sub-lists once domains are finalized (see ontology/domains.md)

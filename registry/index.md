@@ -13,7 +13,7 @@ The registry is the authoritative vocabulary ledger. Every word in the language 
 | [primitives.md](primitives.md) | 34 | Closed or near-closed set. Changes are breaking. |
 | [roots.md](roots.md) | 34 | One root per primitive; some roots have no registered compound family yet. |
 | [domains.md](domains.md) | 8 | Conceptual domain declarations. |
-| [derived/](derived/index.md) | 96 W-entries | Active compounds, proposed candidates, and cold entries. |
+| [derived/](derived/index.md) | 136 W-entries | Active compounds, proposed candidates, and cold entries. |
 
 ---
 
