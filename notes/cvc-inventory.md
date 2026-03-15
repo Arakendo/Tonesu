@@ -580,6 +580,49 @@ Net effect: 33 CVC forms (was 38), 15 CVCC forms (was 13), 10 free CVC stems (wa
 
 ---
 
+### FLAG-CVC-009 — Taxon-class anchors: a new CVCC admission class? (speculation, March 2026)
+
+**Problem statement:** Common biological taxa — cat, dog, bird, fish, tree, grass — are high-frequency concepts in everyday and worldbuilding discourse. Current kind-term construction follows the compound rule: `zo` (living-thing) + discriminating modifiers → kind-term. This works, and the dog/cat distinction has been resolved (`zo-se-so-li` / `zo-se-so-fe`, KNM-002). But the kind-term forms are already 4 morphemes before any individual or variety modifier is added. "My cat Tony" is `[zo-se-so-fe na Tony]` — the kind-term alone is 8 phonemes solid-written `zosesof`.
+
+The question is whether CVCC could serve as **taxon-class anchors**: stable atomic forms for genus/family-level biological (and possibly other natural-kind) categories, to which CV/CVC/CVCC modifiers are then applied.
+
+**Why this is structurally different from current CVCC admissions:**
+
+The existing CVCC criteria require that *no compositional expression exists* (irrational constants, convention-defined units). Biological taxa DO have compositional expressions — `zo-se-so-fe` composes cleanly from primitives and is semantically transparent. Strict criterion 1 is not satisfied. A taxon-CVCC admission class would require a **new, separate criterion**: not "inexpressible" but "high-frequency natural-kind class requiring a stable root for productive modification."
+
+**Architectural options:**
+
+1. **Strict Assemblage-First (status quo)** — no change. `zosesof` is the cat kind-term; `zosesof na Tony` is the cat named Tony. Compound kind-terms are the correct form. The 8-phoneme kind-term is not a problem — it is composable, transparent, and learnable. Accept the length.
+
+2. **Taxon-CVCC anchor tier** — define a new admission sub-class within CVCC for biological (and potentially geological, meteorological, etc.) natural-kind roots. A CVCC form like `felm` = "feline class" anchors the category; `felm zo-fe` = "territorial feline" = cat; `felm zo-li` = "social feline." The CVCC form is the head; modifiers discriminate. Requires defining where on the taxonomic tree the CVCC anchors live — genus? family? order? — and capping the set.
+
+3. **Domain-register shortforms** — no new tier. Register high-frequency kind-terms as domain-accepted compound shortforms within a biology domain (`da-zo`). The formal compound stays canonical; a contracted colloquial form is the practical solution. This is how `tonesu` contracts from `to-ne-su`. The cat kind-term formally is `zosesof`; colloquially it contracts. No new phonological tier needed.
+
+4. **Hybrid: CVCC at class level, compounds at genus level** — CVCC for the broadest natural-kind categories (mammal-class, bird-class, fish-class, insect-class, plant-class, fungus-class), then discriminating compounds from there. The class-level CVCC is coarser than genus — more like the biological *class* or *order* node. Individual `na`-naming handles the rest.
+
+**The Tony problem as a test case:**
+
+| Approach | "My cat Tony" |
+|----------|---------------|
+| Status quo | `zosesof na Tony` (kind + identifier) |
+| Option 2 (genus CVCC) | `felm na Tony` (cat-class anchor + identifier) |
+| Option 3 (contraction) | `zosesof` → colloquial `zof` + `na Tony` |
+| Option 4 (class CVCC) | `maml zo-fe na Tony` (mammal-class + territorial-living + identifier) |
+
+Option 3 may be the most consistent with the dual-register design already in the spec: formal compounds contract in colloquial register. This requires no new phonological tier, no new admission criteria, and leverages existing infrastructure.
+
+**Questions before committing to any option:**
+
+- Is the 8-phoneme kind-term actually a problem in practice, or does it feel unwieldy only in analytical notation?
+- If CVCC taxon anchors are admitted, where does the taxonomy cut? (genus? family? class? order?) Cutting at a wrong level means either too many anchors or anchors that are too broad to be useful.
+- Does option 3 (colloquial contraction) already solve this inside the dual-register design without any spec change?
+- What's the right comparison: English "cat" (3 chars) vs Tonesu `zosesof` (8 chars written) vs colloquial `zof` (3 chars)? The contraction path already gets there.
+- Are there non-biological natural-kind categories (rock types, cloud types, terrain features, chemical element classes) with the same pressure? If yes, a general taxon-CVCC tier is more motivated. If no, the biology domain may be the only pressure point.
+
+**Status:** Speculation only. Do not design until COL-001 (color system) is resolved and at least one corpus sentence creates concrete pressure for a shorter kind-term. Log under open-questions.md.
+
+---
+
 ### FLAG-CVC-004 — `nu-to` dual assignment
 
 `nu-to` appears in `registry/primitives.md` stress-test table as both "axis of measurement / dimension" and "probability / confidence level." These are two contextually determined readings of the same compound. **This is intentional and unproblematic** — English does the same thing with *weight* (physical / importance / statistical). Measurement context vs. epistemic context disambiguates reliably. No new primitive, no respelling needed. Document the disambiguation principle in the `nu-to` entry comment for future readers, and cross-reference from NUM-001.
