@@ -309,5 +309,239 @@ Related:      zi-zo (W106), zi-zo-go (W107), du (primitive: result/effect)
 ```
 
 ---
+
+## Temporal Deixis and Tense
+
+**W109**
+```
+Form:         ti-mi
+Type:         compound
+Class:        temporal entity / deictic anchor
+Definition:   now; the present moment; the speaker's time; temporal deictic for
+              the interval coinciding with the speech act.
+Composition:  ti (time/sequence) + mi (self/speaker) = time-of-me = the time
+              indexed to the speaker. Parallel to pa-mi (W110: here = place-of-me).
+              Both are deictic anchors formed by the same domain + self-anchoring
+              pattern.
+Register:     standard
+Domain:       general / temporal
+Status:       active
+First use:    pending corpus attestation
+Notes:        Deictic anchor: ti-mi is indexical — it refers to whatever time is
+              current when the sentence is uttered. In written or reported speech,
+              the anchor shifts to the time of the reported speaker.
+              The tense family (W109–W112) is fully compositional; no CVC or CVCC
+              form is warranted.
+Related:      pa-mi (W110: here), de-ti (W111: past), be-ti (W112: future),
+              ti (primitive: time/sequence), mi (primitive: self/speaker),
+              hulm (CVCC: Julian year — calibrated temporal anchor)
+```
+
+---
+
+**W110**
+```
+Form:         pa-mi
+Type:         compound
+Class:        spatial entity / deictic anchor
+Definition:   here; this place; the speaker's location; spatial deictic for the
+              place coinciding with the speaker at utterance time.
+Composition:  pa (place/territory) + mi (self/speaker) = place-of-me = here.
+              Structural mirror of ti-mi (W109: now = time-of-me). The deictic
+              pair is formed by the same pattern across spatial and temporal domains.
+Register:     standard
+Domain:       general / spatial
+Status:       active
+First use:    pending corpus attestation
+Notes:        Both deictic anchors (W109, W110) fell out of the primitive set
+              without any design effort — the self-anchoring pattern was latent.
+              The symmetry of ti-mi / pa-mi was discovered in a CVCC candidacy
+              evaluation (March 2026) when "now" was tested against the
+              Assemblage-First Rule.
+Related:      ti-mi (W109: now), pa (primitive: place), mi (primitive: self)
+```
+
+---
+
+**W111**
+```
+Form:         de-ti
+Type:         compound
+Class:        temporal quality / tense marker
+Definition:   past; elapsed time; time that has been consumed/completed; the
+              tense domain for events prior to the speech act.
+Composition:  de (consume/decay/decrease) + ti (time/sequence) = consumed time =
+              time that has run out / been used up. The past is time that has
+              already been spent.
+Register:     standard
+Domain:       general / temporal
+Status:       active
+First use:    pending corpus attestation
+Notes:        de-ti does not express a precise distance from the present — it is
+              a tense domain (past) not a measured duration. For measured past
+              intervals, pair with a digit and scale: bun hulm de-ti = two years
+              ago (two year-units of consumed time).
+              The tense system: de-ti (past) / ti-mi (present, W109) / be-ti
+              (future, W112) is parallel to the ecological cycle roots already
+              attested: de (decay/prior), ki (motion/present), be (produce/coming).
+Related:      be-ti (W112: future), ti-mi (W109: present), de (primitive),
+              ti (primitive), hulm (CVCC: Julian year)
+```
+
+---
+
+**W112**
+```
+Form:         be-ti
+Type:         compound
+Class:        temporal quality / tense marker
+Definition:   future; time yet to arrive; time to be produced/grown into; the
+              tense domain for events after the speech act.
+Composition:  be (produce/grow/generate) + ti (time/sequence) = time yet to
+              be produced = time that has not yet come into being. The future is
+              time that is still being generated.
+Register:     standard
+Domain:       general / temporal
+Status:       active
+First use:    pending corpus attestation
+Notes:        Tense triple: de-ti (past: consumed time) / ti-mi (present: speaker's
+              time) / be-ti (future: time to be produced). The three tense anchors
+              use three different primitives (de, mi, be) on the same base ti —
+              consuming, self-indexing, generating. The middle term (present)
+              uses a different root class than the flanking terms: it is deictic
+              (self-anchored) while past and future are process-anchored (decay /
+              growth). This asymmetry is semantically correct: the present is
+              not a direction of time, it is the speaker's position in time.
+Related:      de-ti (W111: past), ti-mi (W109: present), be (primitive),
+              ti (primitive)
+```
+
+---
+
+## States of Matter
+
+**W113**
+```
+Form:         su'ma
+Type:         compound
+Class:        material quality / state
+Definition:   solid; matter in its organized, fixed-structure state; the physical
+              state of matter with both fixed shape and fixed volume.
+Composition:  su (structure/organized form) + ma (matter) = structured matter.
+              The apostrophe marks su as a discriminator on the base ma: the
+              kind of matter defined by having organized structure.
+Register:     standard
+Domain:       physical / chemistry
+Status:       active
+First use:    pending corpus attestation
+Notes:        su as "organized solid form of a substance" is consistent across all
+              its corpus uses: ma-su (rock = structured mineral matter, S293),
+              su'ma-ki (ice = structured flowing matter, S300), su'ma-pa (clay =
+              structured soil, S293), su'zo-pe (spider = structure-building
+              arthropod, S323), su'zo-ne (cap fungus = structure-producing fungus,
+              S330). su'ma names the general solid state of any matter, as distinct
+              from those specific-substance compounds where su also discriminates
+              a particular material kind.
+              su'ma is the bulk-state term. su'ma-[X] (structured matter of a
+              specific kind) captures specific solid-state substances as before.
+Related:      ki'ma (W114: liquid), no-su'ma (W115: gas), ma-ra (W116: plasma),
+              ma-su (rock), su'ma-ki (ice), su'ma-pa (clay), su (primitive),
+              ma (primitive)
+```
+
+---
+
+**W114**
+```
+Form:         ki'ma
+Type:         compound
+Class:        material quality / state
+Definition:   liquid; matter in its flowing, mobile state; the physical state of
+              matter with fixed volume but no fixed shape, that flows under gravity.
+Composition:  ki (motion/flow/change) + ma (matter) = moving/flowing matter.
+              The apostrophe marks ki as a discriminator on the base ma: the kind
+              of matter defined by flowing.
+Register:     standard
+Domain:       physical / chemistry
+Status:       active
+First use:    pending corpus attestation
+Notes:        Contrast with ma-ki (water/flowing matter, MAT-002): ma-ki is the
+              specific substance water — the domain-primitive compound for the
+              hydrogen-oxygen fluid. ki'ma is the general state — any matter in
+              the liquid phase, regardless of substance. Mercury, molten iron,
+              and water at room temperature are all ki'ma; only the last is ma-ki.
+              The apostrophe placement distinguishes direction of composition:
+              ki'ma (ki discriminates ma = flowing-kind-of-matter) vs ma-ki
+              (ma modified by ki = the matter whose nature is flow = water).
+Related:      su'ma (W113: solid), no-su'ma (W115: gas), ma-ki (water, distinct),
+              ki (primitive), ma (primitive)
+```
+
+---
+
+**W115**
+```
+Form:         no-su'ma
+Type:         compound
+Class:        material quality / state
+Definition:   gas; matter in its unstructured, expansive state; the physical state
+              of matter with neither fixed shape nor fixed volume, expanding to fill
+              any container.
+Composition:  no (negation/absence) + su (structure) + ma (matter) = unstructured
+              matter. The negation of organized form applied to matter: matter
+              without fixed structural arrangement.
+Register:     standard
+Domain:       physical / chemistry
+Status:       active
+First use:    pending corpus attestation
+Notes:        no-su = absence of structure, the negation of su. The no-* productive
+              pattern (no-lu = dark, no-ki = still, no-be = erosion, no-ko =
+              uncontained, S293–S303) extends here to no-su = structureless.
+              no-su'ma is the general gaseous state; specific gas substances
+              follow the same discriminator pattern: no-su'ma-ki = steam/water
+              vapor (structureless water-matter) would be the water-gas form,
+              parallel to su'ma-ki (ice = structured water-matter).
+              Contrast with no-ko'ma-ki (rain = uncontained water, S303): that
+              compound's no-ko discriminates containment, not structure. For bulk
+              gaseous state, the defining absence is structural organization, not
+              just containment — no-su'ma is the correct form.
+Related:      su'ma (W113: solid), ki'ma (W114: liquid), ma-ra (W116: plasma),
+              no (primitive: negation), su (primitive), ma (primitive),
+              no-ko'ma-ki (rain, structurally distinct)
+```
+
+---
+
+**W116**
+```
+Form:         ma-ra
+Type:         compound
+Class:        material quality / state
+Definition:   plasma / ionized matter; matter in an energy-excited or charge-
+              separated state; at atomic scale: an ion (atom with net charge);
+              at bulk scale: plasma (the fourth state of matter, in which electrons
+              are separated from atomic nuclei throughout the material).
+Composition:  ma (matter) + ra (force/energy) = matter in a force/energy state.
+Register:     standard
+Domain:       physical / chemistry
+Status:       active
+First use:    pending corpus attestation
+Notes:        ma-ra is scale-agnostic: the same compound applies whether describing
+              a single ion (one ma-ra particle) or a bulk plasma (a volume of ma-ra).
+              This is semantically clean — plasma is bulk ionized matter; an ion is
+              an individual instance of the same condition. The compound captures
+              the defining property (matter in an energy/force state) at both scales.
+              Already noted in notes/cvc-inventory.md §Atomic and molecular compounds
+              table as a compositional chemistry term, not requiring CVC form.
+              The four-state sequence: su'ma (solid) / ki'ma (liquid) / no-su'ma
+              (gas) / ma-ra (plasma) maps onto increasing energy input: adding
+              energy to su'ma produces ki'ma, then no-su'ma, then ma-ra. The
+              compounds encode this: structure → flow → no-structure → force-state.
+Related:      su'ma (W113), ki'ma (W114), no-su'ma (W115), ra (primitive: force/
+              energy), ma (primitive: matter)
+```
+
+---
+
 - [ ] Review W002 (su-mu-li) — does it conflict with the derivational marker stack order?
 - [ ] Develop domain-specific sub-lists once domains are finalized (see ontology/domains.md)
