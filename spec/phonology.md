@@ -284,7 +284,7 @@ lu-mu :: lu + mu                  →  canonical decomposition of lu-mu
 [X]-no-fe :: X + no + fe          →  structural description of the extremal suffix pattern
 ```
 
-**Spoken form: `helm helm`** (said twice). The doubling of the spoken form mirrors the visual doubling of the written mark. No separate lexical entry is assigned; `::` is `helm` repeated. This convention makes the single/double distinction audible in dictation or spoken register without requiring a new CVCC form.
+**Spoken form: `helms`** — registered as G012 in `registry/roots.md`. The **notation-doubling rule**: when a CVCC spoken marker is paired with a doubled written form, it takes a final `s` coda to produce the spoken doublet (CVCCS). `helms` is the CVCCS spoken form of `::`. The minimal pair `helm` / `helms` makes the single/double distinction immediately audible in dictation and spoken register without requiring an independent unrelated form.
 
 #### `:` — Explanatory Definition (metalanguage) and Topic Frame (sentences)
 
@@ -415,6 +415,7 @@ The full tier system in order of word-shape complexity:
 | CV-CV+ | Compounds | Open compositional vocabulary | Expressible from existing roots; no new primitive needed |
 | CVC | Lexical descriptors | Digits, colors (closed class); scale prefixes (ergonomic shortforms) | Two sub-categories — see below |
 | CVCC | Exceptional anchors | Mathematical/physical constants; convention-defined units with no compositional expression | Assemblage-First Rule: see `notes/anchor-inventory.md §The Assemblage-First Rule` |
+| CVCCS | Notation doublets | Spoken forms of doubled written notation marks (`::`, and any future doubled mark) | One rule only: a CVCC notation-marker spoken form may take `+s` to produce the doublet of its doubled written equivalent. Not a free-standing tier; each CVCCS form is bound to its CVCC pair. |
 
 **CVC sub-categories:**
 
