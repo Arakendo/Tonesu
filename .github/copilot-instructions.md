@@ -113,10 +113,13 @@ Key instances: `to-no-fe` omniscience · `ra-no-fe` omnipotence ·
 
 | Character | Status | Meaning |
 |-----------|--------|---------|
-| `'` | **normative — written** | Prosodic juncture marker. Marks the left boundary of a subcompound inside a longer chain. Right-binding: `A'BC` = A modifies [BC]. Minor phrase break in speech; the only non-alphabetic character written in Tonesu. Spec: `spec/phonology.md §Prosodic Juncture Marker`. |
+| `'` | **normative — written** | Prosodic juncture marker. Marks the left boundary of a subcompound inside a longer chain. Right-binding: `A'BC` = A modifies [BC]. Minor phrase break in speech. Spec: `spec/phonology.md §Prosodic Juncture Marker`. |
 | `~` | **normative — written** | Approximation mark. Pre-positional hedge: "approximately / roughly / on the order of." Always at the left edge of the unit it qualifies. May appear immediately after `'` to hedge only the subcompound. Spoken form: `ven` (G010). Spec: `spec/phonology.md §~ Approximation Mark`. |
 | `-` | **analytic only — not written** | Hyphen. Marks morpheme/root boundaries in examples for readability. Never appears in written Tonesu. `to-fe-su-ki` is the analytic form; `tofesuki` is the written form. |
 | `[]` | **analytic only — not written** | Square brackets. Mark slot labels, placeholders, or structural groupings in grammar examples (e.g. `la-[agent]`, `[verb-compound]`). Never appear in written Tonesu. |
+| `()` | **normative — written** | Evidential frame. Wraps a declarative clause to mark its content as reported, inferred, or unattributed — not directly asserted. Stackable with `~`: `~(clause)` = approximately/reportedly. No spoken phoneme; realized prosodically. Spec: `spec/phonology.md §() — Evidential Frame`; `spec/grammar.md §Evidential Frame`. |
+| `:` | **normative — written (sentence); metalanguage (definition)** | Sentence-initial topic frame: `[topic-NP] : [comment-clause]` = "as for [topic], ...". Also used as explanatory definition mark in metalanguage (`term : reading`). One per clause; sentence-initial only. Spec: `spec/phonology.md §: and :: — Definition and Topic Marks`; `spec/grammar.md §Topic Frame`. |
+| `::` | **metalanguage only — not in Tonesu sentences** | Canonical/structural definition mark. Right-hand side gives formal decomposition (`term :: roots`). Used in registry entries and spec notation only. Spec: `spec/phonology.md §: and :: — Definition and Topic Marks`. |
 
 ### Stable identifiers
 

@@ -610,6 +610,76 @@ In the personal frame, the root encodes the *speaker's relationship to* the prop
 
 ---
 
+## Evidential Frame (`()`)
+
+The **evidential frame** wraps a clause in round brackets to mark its content as **reported, inferred, or unattributed** — carried without direct assertion by the speaker. Where the personal epistemic modal (`la-mi  se/si/to`) encodes the speaker's calibrated commitment, the evidential frame suspends attribution: the claim is presented as something received, in circulation, or epistemically reservation-worthy, with no specific assertor named.
+
+```
+(clause)               →  reportedly / allegedly / it is said that [clause]
+```
+
+**Relation to epistemic modality:**
+
+| Form | Assertor | Use |
+|------|----------|-----|
+| `la-mi  se/si/to  [prop]` | speaker (first person) | speaker's personal epistemic level |
+| `la-source  be/si  [prop]` | named non-personal source | process or doctrine output |
+| `(prop)` | none (anonymous) | reported, alleged, or epistemically reserved content |
+
+The evidential frame does not encode *how certain* the speaker is about the content — only that they are not directly asserting it from their own epistemic resources. Use the personal modal for calibration; use `()` for anonymous attribution, contested claims, or formal epistemic reservation.
+
+**Stacking with `~`:**
+```
+~ (clause)      →  approximately / reportedly: [clause]    (hedge wraps the whole frame)
+(~ clause)      →  reportedly approximately [clause]       (hedge scoped inside frame)
+```
+
+`~` outside the brackets hedges the entire act of reporting. `~` inside hedges the content of the report. The two positions are semantically distinct:
+- `~ (la-Elohim  ra-no-fe)` = "it is reportedly (and I'm uncertain about the report itself) that God is all-powerful"
+- `(~la-Elohim  ra-no-fe)` = "It is reported: God is approximately all-powerful"
+
+**Fallacy-resistance rationale:** the evidential frame attacks *smuggled certainty* — the rhetorical move of presenting weakly-grounded evidence as direct assertion. By visibly bracketing unattributed claims, `()` makes epistemic laundering structurally apparent.
+
+**Grammar:** the inner clause follows all standard grammar rules. The evidential frame is a clause-level meta-operator — it does not alter the agent/patient/predicate structure of the wrapped content. Imperatives and questions may not be wrapped; `()` is a declarative epistemic frame only.
+
+**Spoken form:** prosodic bracketing — a slight boundary pause and consistent framing intonation before and after the framed content. No phoneme sequence is assigned to `(` and `)` themselves.
+
+**Notation reference:** see spec/phonology.md § `()` — Evidential Frame for the full notation specification including `~` interaction.
+
+**Corpus batch:** FAL-001 (fallacy-resistance corpus). First attestation pending.
+
+---
+
+## Topic Frame (`:`)
+
+The `:` mark may appear at the **sentence-initial boundary** of a clause to separate a leading topic NP from the comment clause. It is the written form of a prosodic topic-comment break and reads "as for [topic], the following holds."
+
+```
+[topic-NP] : [comment-clause]       →  As for [topic], [comment clause]
+```
+
+**Constraints:**
+1. **Sentence-initial only.** `:` cannot appear mid-sentence or at the end.
+2. **One topic frame per clause.** A clause may not carry more than one `:` boundary.
+3. **Topic retains its role-marker.** The topic NP is not stripped of its grammatical particle; `lo-mu :`, `la-ze :`, `ne-li :` are all well-formed.
+
+**Examples:**
+```
+lo-mu : la-ze  ka-ko  lo-mu         →  As for the machine — she stored it.
+la-Yeshua : lo-li-pu  vo            →  As for Yeshua — the people are valued.
+lo-ne-ra : la-mi  no-se  lo-ze      →  As for the resonance — I have no perceptual basis for it.
+```
+
+**Spoken form:** a slight pause at the `:` boundary; the topic NP may carry slightly higher prominence. In rapid speech, the boundary may reduce to a rhythm break.
+
+**Fallacy-resistance rationale:** the topic frame explicitly marks *what is being talked about*, reducing equivocation across topic shifts and making category changes structurally visible.
+
+**Metalanguage uses of `:` and `::`:** in registry entries and spec notation, `:` introduces an explanatory gloss (`to-si : knowledge-seeking signal`) and `::` introduces a structural decomposition (`to-si :: to + si`). See spec/phonology.md § `:` and `::` — Definition and Topic Marks.
+
+**Corpus batch:** FAL-001 (fallacy-resistance corpus). First attestation pending.
+
+---
+
 ## Subordinate Clauses
 
 Tonesu has a class of **clause-introducing words** that open a dependent clause modifying or specifying the matrix (main) clause. The three current clause introducers are:

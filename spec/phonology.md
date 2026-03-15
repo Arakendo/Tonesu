@@ -142,7 +142,7 @@ Without `'`, the default parse is right-branching: each new element modifies the
 
 ## Punctuation and Notation Marks
 
-Four sentence- and phrase-level marks supplement `'`. Unlike `'`, these operate **outside** compound boundaries — at clause, sentence, or phrase level. They have no phoneme equivalents; speech realizes them through pitch, stress, and prosodic phrasing.
+Seven marks supplement `'`. Unlike `'`, these operate **outside** compound boundaries — at clause, sentence, or metalanguage level. Sentence and phrase marks have no phoneme equivalents; speech realizes them through pitch, stress, and prosodic phrasing. The last two marks (`:`, `::`) serve primarily as metalanguage notation and appear in Tonesu sentences only in the role specified for each.
 
 | Mark | Name | Function |
 |------|------|----------|
@@ -150,6 +150,9 @@ Four sentence- and phrase-level marks supplement `'`. Unlike `'`, these operate 
 | `!` | exclamation mark | end-of-utterance: heightened affective or emphatic force |
 | `?` | question mark | end-of-utterance: interrogative; orthographic counterpart to grammatical `to-si` |
 | `~` | approximation mark | pre-positional hedge: "approximately / roughly / on the order of / something like" |
+| `()` | evidential frame | clause-level epistemic bracket: content is reported, inferred, or unattributed — not directly asserted |
+| `:` | topic frame / definition mark | sentence-initial: "as for [topic], ..." (topic frame); metalanguage: explanatory gloss (`term : reading`) |
+| `::` | canonical definition mark | metalanguage only: structural decomposition (`term :: roots`); not used in Tonesu sentences proper |
 
 ---
 
@@ -231,6 +234,89 @@ These are distinct propositions. `~wipu'zosesoli` = approximately [wolf-kind] (u
 ```
 
 Multiple `~` marks in a sentence are permitted, each scoping its own following unit independently.
+
+---
+
+### `()` — Evidential Frame
+
+Round brackets wrap a **clause or sub-clause** to mark its epistemic status as **reported, inferred, or unattributed** — not directly asserted by the speaker. The speaker presents the bracketed content as something they have received, derived, or are advancing with explicit epistemic reservation.
+
+**Structure:**
+```
+(clause)                  →  reportedly / allegedly / it is said that [clause]
+~ (clause)                →  approximately / reportedly: [clause]   (stacked hedge + report)
+(~ clause)                →  reportedly approximately [clause]      (hedge scoped inside frame)
+```
+
+**Spoken form:** prosodic bracketing — a slight boundary pause and consistent framing intonation before and after the framed content. No phoneme sequence is assigned to `(` and `)` themselves; the frame is marked prosodically, not segmentally.
+
+**Three-way distinction with epistemic modality:**
+
+| Form | Assertor | What is encoded |
+|------|----------|-----------------|
+| `la-mi  se/si/to  [prop]` | first-person speaker | speaker's calibrated epistemic level |
+| `la-source  be/si  [prop]` | named non-personal source | process or doctrine outputs the claim |
+| `(prop)` | none (anonymous) | content is reported or epistemically reserved |
+
+`()` differs from the personal modal in two ways: no assertor is named; and the frame does not encode *how certain* the speaker is — only that they are **not directly asserting the content from their own epistemic resources**. For calibrated commitment, use the personal modal or process frame; for anonymous attribution, contested claims, or formal epistemic reservation, use `()`.
+
+**With `~`:** stacking exposes both approximation and evidential weakness simultaneously:
+```
+~ (la-ze  si  lo-to-fe-su  de)    →  approximately / reportedly: she claims the institution is failing
+```
+
+**Internal grammar is unchanged.** The wrapped clause follows all standard grammar rules. The evidential frame is a clause-level meta-operator; it does not alter the agent/patient/predicate structure of the wrapped content. Imperatives and questions may not be wrapped; `()` is a declarative epistemic frame only.
+
+**Cross-reference:** grammar rules for the evidential frame in sentence context: see spec/grammar.md § Evidential Frame.
+
+---
+
+### `:` and `::` — Definition and Topic Marks
+
+Two marks that operate at the **interface between the metalanguage and Tonesu sentences**.
+
+#### `::` — Canonical Definition Mark
+
+`::` introduces a **structural or canonical definition**: the right-hand side gives the formal account — a phonological decomposition, a compositional breakdown, an operational formula. Used in registry entries, spec notation, and grammar examples. **Not used in Tonesu sentences proper.**
+
+```
+lu-mu :: lu + mu                  →  canonical decomposition of lu-mu
+[X]-no-fe :: X + no + fe          →  structural description of the extremal suffix pattern
+```
+
+#### `:` — Explanatory Definition (metalanguage) and Topic Frame (sentences)
+
+`:` has two roles, distinguished by context.
+
+**Role 1 — Explanatory definition (metalanguage):**
+
+`term : explanation` introduces a natural-language gloss or functional description of what the term means — as opposed to its formal structure.
+
+```
+to-si : knowledge-seeking signal         →  plain reading of to-si
+[X]-no-fe : X without limiting boundary  →  functional gloss of the extremal pattern
+```
+
+Contrast: `to-si :: to + si` (structural decomposition, `::`) vs. `to-si : knowledge-seeking signal` (functional gloss, `:`).
+
+**Role 2 — Topic frame (Tonesu sentences):**
+
+At sentence level, `:` appears **sentence-initially** to separate a leading topic NP from the comment clause: "as for [topic], the following holds."
+
+```
+lo-mu : la-ze  ka-ko  lo-mu           →  As for the machine — she stored it.
+la-Yeshua : lo-li-pu  vo              →  As for Yeshua — the people are valued.
+lo-ne-ra : la-mi  no-se  lo-ze        →  As for the resonance — I have no perceptual basis for it.
+```
+
+**Topic frame constraints:**
+1. Sentence-initial position only — `:` cannot appear mid-sentence.
+2. One topic frame per clause — nested topic frames are not permitted.
+3. The topic NP retains its role-marker (`la-`, `lo-`, `ne-`, etc.) where it carries one.
+
+**Spoken form:** a slight prosodic pause at the `:` boundary; the topic NP may carry slightly higher prominence than the comment clause.
+
+**Cross-reference:** grammar rules for the topic frame in sentence context: see spec/grammar.md § Topic Frame.
 
 ---
 
