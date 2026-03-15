@@ -59,9 +59,32 @@ Long vowels (aa, ee, ii, oo, uu) may function as a morphological modifier.
 
 **Primary rule: (C)V(C)**
 
+### Parse Invariants
+
+These three invariants are the structural foundation of the phonological system. Violating any one of them degrades or destroys the parser's ability to segment compounds without lookahead:
+
+1. **Internal syllables begin with a consonant** — every syllable inside a compound must have a C onset. Bare-vowel and VC syllables are legal only at word start, never mid-compound.
+2. **Compound boundaries are phonologically visible** — because every internal syllable starts with a consonant, the parser can walk a compound left-to-right, finding boundaries at each consonant onset without ambiguity or backtracking.
+3. **Root tiers are structurally distinct** — CV (primitives), CVC (lexical atoms), CVCC (exceptional anchors), and V/VC (particles, if used) occupy separate structural slots. A form's phonological shape identifies its tier.
+
+Breaking invariant 1 forces lookahead. Breaking invariant 2 produces parse ambiguity. Breaking invariant 3 collapses the tier signal.
+
+---
+
 - CV: most common (ka, li, mu, se)
-- V: **word-initial position only** — a bare vowel syllable may open a word or compound. It must not appear mid-compound: Tonesu's clean parse invariant requires every syllable to have a consonant onset except at word start. Only 5 V forms exist (a e i o u); none are currently assigned. Reserved as a future closed class (discourse particles, affective interjections, or similar). No form from this space may be assigned without an explicit registry decision.
-- VC: **deferred — word-initial only if ever admitted** — a vowel-initial syllable with a closing consonant (e.g. `an`, `el`, `im`). Shares the same word-initial constraint as bare V. Up to ~40 clean forms available. No current assignment; no current pressure (37 CV slots remain free). Condition for opening this tier: CV near-exhaustion, or need for a phonologically distinct particle/pronoun class. See § Open Questions.
+- V: **word-initial position only** — a bare vowel syllable may open a word or compound. It must not appear mid-compound: invariant 1 above requires every internal syllable to have a consonant onset. Only 5 V forms exist (a e i o u); none are currently assigned. Reserved as a future closed class (discourse particles, affective interjections, or similar). No form from this space may be assigned without an explicit registry decision.
+
+  Anticipated usage hints (unassigned; for orientation only):
+
+  | Form | Typical discourse particle role |
+  |------|--------------------------------|
+  | `a`  | affirmation |
+  | `e`  | surprise / attention shift |
+  | `i`  | hesitation / filler |
+  | `o`  | address / calling attention |
+  | `u`  | disapproval / mild negation |
+
+- VC: **deferred — word-initial only if ever admitted** — a vowel-initial syllable with a closing consonant (e.g. `an`, `el`, `im`). Shares the same word-initial constraint as bare V; mid-compound VC violates invariant 1 and creates lookahead (is `beanto` parsed `be|an|to` or `bea|nto`?). Word-initial VC parses cleanly because the word boundary precedes it: `an-be`, `im-ra`, `us-lo` are all unambiguous. Up to ~40 clean forms available. No current assignment; no current pressure (37 CV slots remain free). Condition for opening this tier: CV near-exhaustion, or need for a phonologically distinct particle/pronoun class. See § Open Questions.
 - CVC: allowed (kel, sun, mar)
 - No clusters (CC) in core roots
 - Clusters may appear at compound boundaries but should be avoidable via vowel-final roots
