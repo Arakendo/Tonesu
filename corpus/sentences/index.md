@@ -50,3 +50,4 @@ Corpus evidence by batch (for cross-reference):
 | GOD-RES | *ruach*/spirit (`zo-si` vs `ra-ki`) · divine evaluation (`se`) · *nefesh* (`zo-ra`) · Beatitude formula | S357–S363 | s279-plus.md |
 | FAL-001 | Fallacy-resistance · `()` evidential frame · `:` topic frame · `ta` vs `go` | S364–S373 | s279-plus.md |
 | FAL-002 | Rhetorical fallacies · motte-and-bailey · moving goalposts · slippery slope · appeal to emotion · loaded question | S374–S378 | s279-plus.md |
+| FAL-003 | Nested argumentation · triple presupposition · double topic-substitution · mixed-reliability cascade · hearsay chains · multi-agent epistemic inflation | S379–S383 | s279-plus.md |

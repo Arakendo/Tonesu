@@ -2529,5 +2529,218 @@ Well-formed interrogation (presupposition extracted and marked):
 **Cross-batch observation (FAL-001 + FAL-002):** Rhetorical fallacies engage the same four mechanisms as logical ones. The motte-and-bailey is a `:` topic-predicate substitution. The loaded question is a `()` extraction failure. The slippery slope is undisclosed `(du  …)` stacking. The appeal to emotion is an incomplete `go`-chain. No new grammatical machinery was needed for FAL-002 — the existing system covered all five cases.
 
 **Open grammar questions (FAL-follow):**
-- [ ] **FAL-F-003:** `wi-fe  be` (rule-comes-into-existence) is used in S375 as the goalpost marker. Should this compound be registered formally (W-series) or is the `wi-fe` + `be` inchoative composition self-evident from existing spec? Registration would give it a canonical spoken-form citation.
-- [ ] **FAL-F-004:** S378 establishes presupposition extraction as the correct strategy for loaded questions. Is there a canonical corpus test needed for *nested* presuppositions (a `to-si` frame that carries two or more hidden premises), or is the S378 single-presupposition case sufficient to establish the principle?
+- [x] **FAL-F-003:** ~~`wi-fe  be` registration question.~~ **Resolved.** Do not register yet. The inchoative composition `wi-fe` + `be` is fully self-evident from the existing spec (as are all `[root]  be` / `[compound]  be` inchoatives). Register only if it recurs frequently enough to warrant a canonical gloss — e.g. in formal debate-register or legal-rhetoric corpus entries. Single-attestation compositional forms do not meet the registration threshold.
+- [x] **FAL-F-004:** ~~Is a nested presupposition corpus test needed?~~ **Resolved: yes.** The single-presupposition case (S378) is necessary but not sufficient to establish the principle at scale. The truly difficult human case stacks multiple hidden premises under one surface clause ("have you stopped lying to protect your corrupt friends?" bundles: *you lied*, *your friends are corrupt*, *your lying protected them*). Whether `()` extraction scales cleanly when there are two or three hidden commitments is a distinct question. Programmed as FAL-003.
+
+---
+
+## Nested Argumentation Corpus (S379–S383) — Batch: FAL-003
+
+**Purpose:** FAL-001 and FAL-002 established Tonesu's defenses against single-layer fallacies. FAL-003 tests *depth*: stacked, nested, or layered argumentative moves where ordinary languages become "soup." Five cases: nested loaded question (multiple simultaneous presuppositions), double topic-substitution (motte-and-bailey with an intermediate step), compound slippery slope (cascade structure where some links are established and others aren't), nested evidential attribution (reported-within-reported), and nested modal inflation (epistemic ladder climb across multiple agents and frames). The governing question throughout: as argument depth increases, does the `()` / `:` / `go`-chain machinery scale, or does it become unreadable?
+
+---
+
+**S379 — Nested loaded question: three bundled presuppositions.** *(FAL-003)*
+
+```
+Triple-loaded (all three presuppositions hidden):
+to-si  [la-zu  lo-wi-fe  de-fe-past]
+
+Full extraction (three () premises, then clean question):
+(la-zu  lo-ne-ki  de-past)
+(la-zu  go  lo-mu-su  lo-zo-li  ka-past)
+(la-zu  lo-ka-li-su  lo-mu-su  be-past)
+to-si  [la-zu  lo-wi-fe  de-fe-past]
+```
+
+**Literal:**
+- Triple-loaded: "Is-it-asked: your governance-rule reached-its-end [in the past]?"
+- Extraction:
+  1. "(Reportedly: your social bonds decayed.)"
+  2. "(Reportedly: you performed harm-action toward persons.)"
+  3. "(Reportedly: you had authority over those persons.)"
+  4. "Is-it-asked: did your governing-rule terminate?"
+
+**Natural:**
+- Loaded: "Have you finally stopped abusing your position?"
+- Extracted: "(Reportedly: your relationships deteriorated.) (Reportedly: you acted harmfully toward persons in your care.) (Reportedly: you held authority over those persons.) — Did that authority-exercise end?"
+
+**Notes:**
+- Each `()` block is an independent presupposition — independently contestable. The listener can accept any subset and reject the rest before engaging with the question about termination.
+- Critically, extraction does not require a particular ordering, but argumentative hygiene prefers sequencing from most foundational to most specific: first the authority-holding, then the actions, then the relational decay.
+- **Scaling result:** `()` extraction scales to three simultaneous presuppositions without grammatical strain. Each `()` block is its own clause with standard grammar. The question `to-si [...]` following three `()` blocks is unambiguous: the question is about whether the practice described in aggregate ended.
+- `mu-su` = harm-structure = structured harm / harmful pattern (compositional `mu` + `su`; W050 `mu-be` attested — harm-inchoative; `mu-su` new ⚠️ proposed).
+
+---
+
+**S380 — Double topic-substitution: motte-and-bailey with intermediate step.** *(FAL-003)*
+
+```
+Claim (A — strong):
+la-ka-li-su  :  lo-zo-li  to-no-fe  ka
+
+Challenged. Retreat to B (intermediate):
+la-ka-li-su  :  lo-zo-li  vo-wi-fe  ne-past
+
+Challenged again. Retreat to C (undeniable):
+la-ka-li-su  :  lo-zo-li  ne  ne
+
+Correction (blocking A from both retreats):
+go  [la-ka-li-su  lo-zo-li  ne  ne]  ,  no  la-ze  du  lo-vo-wi-fe  ne
+go  [la-ka-li-su  lo-zo-li  vo-wi-fe  ne]  ,  no  la-ze  du  lo-to-no-fe  ka
+```
+
+**Literal:**
+- A: "As for governance: over persons, knowledge-without-limit action holds."
+- B: "As for governance: toward persons, valued-rule held [in the past]."
+- C: "As for governance: toward persons, a relation holds."
+- Block-1: "Because governance holds a relation to persons, it does not yield normative-rule-holding."
+- Block-2: "Because governance holds normative-rule over persons, it does not yield unlimited-authority."
+
+**Natural:**
+- A (bailey): "The state has the right to total, unlimited authority over persons."
+- B (intermediate): "The state has a duty of care / normative obligation toward persons."
+- C (motte): "The state and persons are related in some way."
+- Block-1: "That governance and persons are related does not establish that governance holds normative rule over them."
+- Block-2: "That governance holds normative obligations does not establish that it holds unlimited authority."
+
+**Notes:**
+- The double-retreat is the harder case. It is common in practice because a speaker forced off bailey-A does not concede to C directly — they retreat to an intermediate B that sounds like a reasonable position while still being much closer to A than to C.
+- `:` forces explicit predicate commitment at every step: A, B, and C are structurally distinct. The correction needs two separate blocking statements — one per retreat. This is more expensive rhetorically but unavoidable: each step is a distinct claim and earns a distinct block.
+- **Scaling result:** `:` scales to multi-step substitution sequences. Each step requires either defense of that predicate on its merits or an explicit block. The grammar does not allow the speaker to preserve the inferential benefit of A while standing on C — each `:` frame commits to exactly one predicate.
+- `vo-wi-fe` = value-will-rule = normative obligation / duty (compositional `vo` value + `wi` will + `fe` limit/rule; new compound ⚠️ proposed).
+
+---
+
+**S381 — Compound slippery slope: mixed established and unestablished links.** *(FAL-003)*
+
+```
+Fallacious (three bare links + one bracketed, legitimacy gradient hidden):
+go  [lo-wi-fe  de]  ,
+lo-ne-su  de  ,
+lo-ka-li-su  de  ,
+(du  lo-ka-no-fe  de)  ,
+lo-ne-su  be-no-fe
+
+Corrected (each link labeled by speaker's actual commitment):
+go  [lo-wi-fe  de]  ,      la-mi  se  lo-ne-su  de
+go  [lo-ne-su  de]  ,      la-mi  no-se  lo-ka-li-su  de
+go  [lo-ka-li-su  de]  ,   (du  lo-ka-no-fe  de)
+(du  lo-ka-no-fe  de)  ,   (du  lo-ne-su  be-no-fe)
+```
+
+**Literal:**
+- Fallacious: "Because rules weaken: social-fabric decays, governance decays, [allegedly:] authority-without-limit decays, social-fabric enters-boundaryless-state."
+- Corrected: "Because rules weaken: I perceive (with some basis) social-fabric decay. Because social-fabric decays: I have no basis that governance decays. Because governance decays: [allegedly] authority-without-limit decays. [Allegedly from that:] social-fabric becomes boundaryless."
+
+**Natural:**
+- Fallacious: "Loosen one regulation, and social trust will erode, then governance will fail, then unchecked power will collapse, and then total societal dissolution."
+- Corrected: "Regulations weakening → I have some basis for social trust eroding. Social trust eroding → I have no basis for governance failure from that alone. Governance failure → allegedly unchecked power emerges (not established). Unchecked power → allegedly total dissolution (not established from that either)."
+
+**Notes:**
+- The fallacious form has an invisible legitimacy gradient: the first link may have some empirical grounding while the last two are fantasy. In English (and most natural languages) these are strung together with "and then" at equal syntactic weight, hiding the gradient.
+- The corrected form uses per-link epistemic marking: `la-mi  se` (I have some basis), `la-mi  no-se` (I have no perceptual basis), then `(du  …)` for the two ungrounded final links. A listener can evaluate each link independently.
+- **Scaling result:** `go`-chaining + per-link epistemic predicates handle mixed-reliability cascades. The grammar forces the speaker to either commit to each link or visibly hedge it. There is no syntactic mechanism for distributing weight across a chain uniformly when the weight is uneven.
+- `ka-no-fe` = action-without-limit = unchecked power / authority-without-boundary (compositional `ka` + `no` + `fe`; new compound ⚠️ proposed).
+
+---
+
+**S382 — Nested evidential attribution: reported-within-reported.** *(FAL-003)*
+
+```
+Standard evidential (one layer):
+(la-to-li  lo-to-su  ne)
+
+Nested evidential (two layers — attributed report of a report):
+(la-ka-li-su  (la-to-li  lo-to-su  ne)  re-ka)
+
+Speaker endorsement breaking the chain:
+la-mi  no-se  lo-to-su  ne  ,
+go  (la-ka-li-su  (la-to-li  lo-to-su  ne)  re-ka)
+```
+
+**Literal:**
+- One-layer: "(A scholar holds the proposition as known.)"
+- Two-layer: "(An authority: [a scholar holds the proposition as known] — [re-ka = repeatedly-stated / announced].)"
+- Speaker denial: "I have no perceptual basis that the proposition is known, because [only this holds:] an authority announced that a scholar reported it."
+
+**Natural:**
+- One-layer: "(A scholar reportedly claims to know X.)"
+- Two-layer: "(The institution announced that a scholar reportedly claims to know X.)"
+- Speaker: "I have no basis for X being established — all that exists is an institutional announcement that someone reported it."
+
+**Notes:**
+- `()` nesting: an outer `()` makes the entire inner clause evidential; the inner `()` separately marks the scholar's attribution. The result is a committed two-step provenance chain, completely readable without special notation. The outer `()` means: this reported-report is itself the content of the evidential frame.
+- **Scaling result:** `()` stacks cleanly. `(A  (B)  ka)` = "A did some action regarding [the reported content B]." The inner `()` marks B as uncertified from the outer speaker's perspective; the outer `()` marks the whole reported-action as uncertified from the ultimate speaker's perspective.
+- `re-ka` = recurring-action = announced/repeatedly stated (compositional `re` repetition + `ka` action; new compound ⚠️ proposed).
+- **Significance:** this pattern handles hearsay chains (X said Y said Z claims W) without new machinery. Each link is an outer `()` wrapping an inner `()`. The speaker can break the chain by asserting the bottom link directly if they have direct knowledge, but cannot claim direct knowledge without removing the brackets.
+
+---
+
+**S383 — Nested modal inflation: epistemic ladder across multiple agents.** *(FAL-003)*
+
+```
+Agent A's report (attributed hypothesis):
+(la-na-Ren  lo-to-si-ze  si)
+
+Agent B's elevation (transforms A's hypothesis to B's inference):
+go  [(la-na-Ren  lo-to-si-ze  si)]  ,  la-na-Kael  lo-to-si-ze  se
+
+Institutional elevation (transforms B's inference to institutional certainty):
+go  [la-na-Kael  lo-to-si-ze  se]  ,  la-to-fe-su  lo-to-si-ze  to-su
+
+Speaker's diagnosis:
+la-mi  no-to  lo-to-si-ze  to-su  ,
+go  [la-to-fe-su  lo-to-si-ze  to-su]  ,
+go  [la-na-Kael  lo-to-si-ze  se  ,  go  (la-na-Ren  lo-to-si-ze  si)]
+```
+
+**Literal:**
+- A: "(Ren holds the proposal as hypothesis.)"
+- B: "Because [(Ren holds the proposal as hypothesis)], Kael holds the proposal as inference."
+- Institution: "Because [Kael holds the proposal as inference], the standards-body holds it as established-knowledge."
+- Speaker: "I do not have certainty that the proposal is established-knowledge, because: the standards-body holds it as such, because: Kael held it as inference, because: (reportedly) Ren held it as hypothesis."
+
+**Natural:**
+- A: "(Ren proposed the idea as a hypothesis.)"
+- B: "Kael takes Ren's hypothesis as sufficient basis for his own inference."
+- Institution: "The council treats Kael's inference as established fact."
+- Speaker: "I do not grant that the proposal is established knowledge — the whole provenance chain is: council ← Kael ← Ren's hypothesis."
+
+**Notes:**
+- Each elevation step uses `go [previous-epistemic-stance]` to ground the next. This forces the chain to be fully linearized: there is no way to achieve multi-agent epistemic inflation without writing out the complete sequence of `go`-links.
+- The speaker's diagnosis sentences exactly retrace the chain in reverse, demonstrating that the chain from `si` to `to-su` across three agents has no independent grounding — each link only borrows from the link below it.
+- **Scaling result:** the `go`-chain + epistemic predicate system (`si`/`se`/`to`) scales to multi-agent epistemic inflation. The grammar does not prevent the inflation — but it requires each agent to explicitly commit to their elevation step, making the full chain auditable and the borrowed grounding visible.
+- `to-fe-su` = knowledge-boundary-structure = institutional standards body / council (W-series: previously attested in Principle 10 discussion; not yet formally registered — ⚠️ registration candidate).
+- `to-su` = knowledge-structure = established-knowledge / institutional fact (compositional `to` + `su`).
+
+---
+
+## FAL-003 Batch Summary
+
+**Confirmed results:**
+
+1. **`()` scales to three simultaneous presuppositions.** ✅ S379 demonstrates that triple-nested presupposition extraction is grammatically clean. Each `()` block is an independently contestable clause. The following `to-si` question is unambiguous. The only constraint is practical sequencing: foundational presuppositions before derivative ones. No new mechanism needed.
+
+2. **`:` scales to multi-step topic/predicate substitution.** ✅ S380 shows that each retreat in a double motte-and-bailey requires a separate blocking statement. The grammar cannot be made to give the speaker the inferential benefit of A while standing on C — that benefit is not inherited transitively through `:` frames. Every step earns only itself.
+
+3. **Per-link epistemic marking handles mixed-reliability cascades.** ✅ S381 demonstrates that a compound slippery slope with uneven link quality is fully expressible and fully readable. The speaker commits per link: bare assertion, `la-mi se` (some basis), `la-mi no-se` (no basis), `(du ...)` (alleged). The argument's actual structure — one grounded link launching four unjustified ones — is immediately visible.
+
+4. **`()` stacks for hearsay chains.** ✅ S382 confirms that `(A  (B)  ka)` is a clean notation for reported-report. The grammar handles chains of attributed attributions without new operators. Each layer of `()` marks one step of provenance uncertainty. The speaker breaks the chain by asserting directly only when they have direct epistemic access.
+
+5. **Multi-agent epistemic inflation requires full chain write-out.** ✅ S383 demonstrates that inflating a hypothesis to institutional knowledge across three agents forces explicit `go [stance] → elevation` at every step. The chain is entirely auditable. The speaker's retrospective diagnosis completely exposes the borrowed-grounding structure.
+
+**Cross-batch observation (FAL-001 + FAL-002 + FAL-003):** Depth does not break Tonesu's defenses — it makes them more expensive to write, which is the correct behavior. A speaker attempting multi-layer manipulation must pay, in explicit grammatical units, for every step. The language does not become soup: it becomes long and hard to dispute without tracking all the links.
+
+**Scaling summary:**
+
+| mechanism | single-layer | depth-3+ |
+|-----------|-------------|---------|
+| `()` extraction | ✅ S378 | ✅ S379 (×3), S382 (stacked) |
+| `:` predicate commit | ✅ S374 | ✅ S380 (double retreat) |
+| `go`-chain grounding | ✅ S370 | ✅ S381 (mixed), S383 (multi-agent) |
+| epistemic predicates | ✅ S373 | ✅ S383 (three agents, three levels) |
+
+**Open grammar questions (FAL-follow):**
+- [ ] **FAL-F-005:** S382 attests `(A  (B)  re-ka)` as the hearsay-chain pattern. Is there a depth limit before this becomes practically unreadable, or does the grammar remain well-formed at four+ layers? A corpus attestation of a three-layer hearsay chain would settle this.
+- [ ] **FAL-F-006:** S383 uses `to-fe-su` (institutional standards body) as an agent. This form appears in Principle 10 discussion but has not been formally registered. Registration candidate — but only after additional corpus attestations confirm it is not always paraphraseable as `la-[domain]-to-fe-li` (the adjudicator form).
