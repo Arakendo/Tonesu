@@ -86,9 +86,50 @@ Related:      zo-se-so-fe (formal source), zol (symmetric pair), zo-se-so (W013)
 
 ---
 
+## CLQ-002 — Kind-term stub: `zod`
+
+*First-attested: S284 (KNM-005-F, March 2026).*
+
+---
+
+**CLQ-002a**
+```
+Form:         zod
+Formal source: zo-se-so-di
+Type:         contraction / colloquial stub
+Class:        entity (organism kind)
+Definition:   informal stub for "directional acoustic organism" — the bird class in
+              casual discourse. Covers any organism whose formal kind-term uses
+              zo-se-so-di as its base. In everyday speech, identifies birds of all
+              kinds: eagle, parrot, penguin, chicken, sparrow, and all zo-se-so-di
+              kind-terms.
+Compression:  zo (organism anchor) + [se-so dropped — acoustic-organism qualifiers
+              contextually recoverable] + di (direction root) → zod.
+              The se-so middle is the acoustic-organism narrowing; it is recoverable
+              in any discourse context where birds or flying things are the topic.
+              The terminal root di (directional orientation) is the class-distinguishing
+              element and is retained.
+Register:     colloquial / casual spoken
+Domain:       general
+Status:       active
+First use:    S284 — la-mi  se  lo-zod  (I saw a bird; casual)
+Notes:        zod is a base-class stub, not a standalone species label. Plain zod in
+              casual speech refers to the bird class as a whole; species reference
+              requires a retained discriminator (li-ne'zod = chicken, wi-di'zod = eagle,
+              si-so'zod = parrot, ma-ki'zod = penguin) or contextual resolution.
+              Discriminator prefixes are NOT dropped in contraction — only the base
+              stub-form. The three-class stub system is now: zol (canid), zof (felid/
+              fox), zod (bird). All three use the same compression rule; all three
+              retain the class-distinguishing terminal root.
+Related:      zo-se-so-di (formal source), zol (canid class), zof (felid/fox class)
+```
+
+---
+
 ## Registration log
 
 | ID | Form | Formal source | First attested | Adopted |
 |----|------|---------------|---------------|---------|
 | CLQ-001a | `zol` | `zo-se-so-li` | S269 (KNM-004) | March 2026 |
 | CLQ-001b | `zof` | `zo-se-so-fe` | S269 note (KNM-004) | March 2026 |
+| CLQ-002a | `zod` | `zo-se-so-di` | S284 (KNM-005) | March 2026 |
