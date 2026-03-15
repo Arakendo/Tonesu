@@ -1365,6 +1365,8 @@ Natural:  A triangle contains a point.
 
 **`fe-re-ru` circle vs. `varn` (π):** These are complementary, not competing. `fe-re-ru` is the *shape* (the object); `varn` is the *constant* (the ratio of circumference to diameter of that object). Asking whether a circle needs a CVCC is a category error — π needed a CVCC because it is an irrational number with no compositional expression; a circle is a spatial structure, perfectly expressible as `fe-re-ru`.
 
+*Note on `~varn`:* Because π is irrational, any computed or written value of it is an approximation. Tonesu represents this distinction cleanly: `varn` = π (the exact constant, as a named quantity); `~varn` = approximately π (the value a speaker is actually using — 3.14, 22/7, or whatever precision the context demands). In most engineering and conversational use, `~varn` is the honest form. `varn` appears unhedged only when the mathematical object itself is the referent ("the ratio *is* `varn`"), not a computed result.
+
 ---
 
 ## Cardinal Numeral System — NUM-001 Resolution (S238–S251)
@@ -1456,6 +1458,8 @@ Natural:  The path is five kilometers.
 ```
 
 `hin pir nu pa` = 5 + `pir` (kilo-scale) + quantity-of space = 5 kilometers. Digit + scale + `nu` + domain = the full measurement stack from `notes/cvc-inventory.md` § Scale-prefixed measurement. First corpus attestation of the complete stack.
+
+*Approximate form:* `la-ki-pa su lo-~hin pir nu pa` = "The path is roughly five kilometers." `~` pre-positions on the measurement NP. Practical usage: quoted distances are almost always estimates; the `~` form is the pragmatically unmarked version in conversation. The exact form asserts surveyors' precision.
 
 ---
 
