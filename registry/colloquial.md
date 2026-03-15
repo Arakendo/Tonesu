@@ -6,15 +6,19 @@ Registered contractions and stub-forms used in the casual/spoken register. All e
 
 **Compression mechanism for kind-term stubs:** When a kind-term base compound shares a productively distinguishable terminal root that uniquely identifies the class across all expected discourse contexts, the middle qualifier morphemes may be stripped. The terminal root is retained as the stub coda; the organism anchor `zo` is retained as the stub head. Pattern: `zo` + `[middle morphemes dropped]` + `[class root]` → `zo[class root]`.
 
+**Ambiguity policy:** Colloquial stubs are CVC at maximum (the phonological ceiling is (C)V(C) — no clusters). The CVC namespace is large enough that inter-stub collisions are rare, but are not prevented by design. When two stubs collide, context disambiguates; the formal compound is always the unambiguous fallback. The registry does not police the CVC namespace — it documents what stubs exist and traces them to formal sources. A general-class stub (e.g. a future bird-class `zob`) coexists with species-level stubs in the same class; the formal compound is the species-precision fallback.
+
+**ID prefix:** colloquial entries use the `CLQ-` prefix (not `COL-`, which is reserved for the closed color-system question, COL-001 in notes/open-questions.md).
+
 ---
 
-## COL-001 — Kind-term stubs: `zol` and `zof`
+## CLQ-001 — Kind-term stubs: `zol` and `zof`
 
 *First-attested: S269 (KNM-004-I, March 2026). Adopted under TAX-001 Option 2 resolution.*
 
 ---
 
-**COL-001a**
+**CLQ-001a**
 ```
 Form:         zol
 Formal source: zo-se-so-li
@@ -44,7 +48,7 @@ Related:      zo-se-so-li (formal source), zof (symmetric pair), zo-se-so (W013)
 
 ---
 
-**COL-001b**
+**CLQ-001b**
 ```
 Form:         zof
 Formal source: zo-se-so-fe
@@ -75,5 +79,5 @@ Related:      zo-se-so-fe (formal source), zol (symmetric pair), zo-se-so (W013)
 
 | ID | Form | Formal source | First attested | Adopted |
 |----|------|---------------|---------------|---------|
-| COL-001a | `zol` | `zo-se-so-li` | S269 (KNM-004) | March 2026 |
-| COL-001b | `zof` | `zo-se-so-fe` | S269 note (KNM-004) | March 2026 |
+| CLQ-001a | `zol` | `zo-se-so-li` | S269 (KNM-004) | March 2026 |
+| CLQ-001b | `zof` | `zo-se-so-fe` | S269 note (KNM-004) | March 2026 |
