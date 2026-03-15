@@ -3024,9 +3024,122 @@ Maximum-density composition does not break the audit. Six failures in nine claus
 
 **FAL-Follow resolutions:**
 
-- [x] **FAL-F-005:** ~~Three-layer hearsay depth limit.~~ **Partially resolved.** Depth-2 confirmed in composite context (S389 clause 5). Grammar well-formed. Depth-3 deferred to standalone test — not because it is expected to fail, but because a standalone test will be cleaner to read than one embedded inside a propaganda paragraph.
+- [x] **FAL-F-005:** ~~Hearsay depth limit standalone test.~~ **Depth-2 confirmed in composite context** (S389 clause 5); depth-3 deferred to standalone test. Not because grammar is expected to fail — but because embedding a depth-3 chain inside a propaganda paragraph would make both harder to read. Standalone is cleaner for establishing the readability threshold. Programmed as FAL-006.
 - [x] **FAL-F-006:** ~~`to-fe-su` registration.~~ **Threshold met.** Third independent domain attestation: `la-to-fe-su-ki` in S389. **Registration candidate confirmed.** Queued for next W-series intake: `to-fe-su` :: `to` (knowledge) + `fe` (boundary) + `su` (structure) = institutional body that governs epistemic thresholds; standards council.
 
 **Open grammar questions (FAL-follow):**
 - [ ] **FAL-F-008:** Depth-3 hearsay chain standalone test — deferred to FAL-006 or standalone spot-check.
-- [ ] **FAL-F-009:** `la-na-Kur  lo-ra-ma-de  de  to` (bare third-party epistemic claim) is a new pattern in clause 6 of S389. Should there be an explicit spec note that all bare epistemic claims about third parties require `()` wrapping by default? The same rule governs first-person and third-party cases; the only difference is the agent slot. Confirm as corollary in spec/grammar.md § Evidential Frame.
+- [x] **FAL-F-009:** ~~Third-party bare epistemic claim spec note.~~ **Resolved.** Corollary added to `spec/grammar.md` § Evidential Frame: bare epistemic predicates about third parties are speaker-certified claims and require `()` wrapping by the same rule as first-person laundering. The symmetry is exact: `la-na-Kur  lo-X  to` (bare) = speaker asserts Kur is certain of X; `(la-na-Kur  lo-X  to)` = speaker reports that Kur is said to be certain of X. The distinction matters identically to the first-person case.
+
+---
+
+## Depth-3 Hearsay Chain (S391–S392) — Batch: FAL-006
+
+**Purpose:** FAL-F-005 and FAL-F-008 deferred a standalone depth-3 hearsay test. FAL-006 provides it. The question is narrow and specific: does `()` stacking remain grammatically well-formed and humanly readable at three layers? S391 is the bare depth-3 chain. S392 tests the same chain under adversarial conditions — embedded inside a short speech where the hearsay chain is used to launder a policy conclusion. The batch also establishes the practical readability threshold for `()` nesting.
+
+---
+
+**S391 — Depth-3 hearsay chain (standalone).** *(FAL-006)*
+
+```
+Depth-1 (direct attribution):
+(la-na-Sura  lo-ka-li-su  de  se)
+
+Depth-2 (report-of-report):
+(la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)
+
+Depth-3 (report-of-report-of-report):
+(la-to-fe-su  (la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)  re-ka)
+
+Speaker's diagnosis:
+la-mi  no-se  lo-ka-li-su  de  ,
+go  [la-to-fe-su  (la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)  re-ka]
+```
+
+**Literal:**
+- Depth-1: "(Sura holds governance-decay as [some-basis] perception.)"
+- Depth-2: "(Kael: [(Sura holds governance-decay as perception)] — announced.)"
+- Depth-3: "(The standards body: [(Kael: [(Sura holds governance-decay as perception)] — announced)] — announced.)"
+- Diagnosis: "I have no perceptual basis for governance decay — because [all that holds is] the institution announced that Kael announced that Sura saw signs of it."
+
+**Natural:**
+- D-1: "(Sura reportedly perceives signs of governance failure.)"
+- D-2: "(Kael reportedly announced that Sura reportedly perceives signs of governance failure.)"
+- D-3: "(The council reportedly announced that Kael reportedly announced that Sura reportedly perceives signs of governance failure.)"
+- Diagnosis: "I have no basis for governance decay — the entire chain is: council → Kael → Sura's perception."
+
+**Notes:**
+- **Grammatical result:** well-formed at depth-3. The innermost content is a standard epistemic clause (`la-na-Sura  lo-ka-li-su  de  se`); each wrapper adds an outer agent, the inner clause as patient-in-frame, and `re-ka` as the action predicate. The parse is unambiguous at every depth.
+- **Readability result:** depth-3 is legible but cognitively expensive. The reader must hold three attribution agents simultaneously before reaching the content proposition. A reader encountering this at speed in spoken form would likely lose one layer. In written form with spacing it remains readable — but uncomfortable. This approximately marks the practical ceiling for casual use; depth-4 is formally valid but almost certainly beyond usable readability for most speakers.
+- **Provenance chain structure:** the speaker's diagnosis is the key expressive payoff. The `go [chain]` formulation linearizes the three-agent provenance into a readable sequence and makes it clear that the original claim (`lo-ka-li-su  de`) has zero independent grounding from the speaker's perspective despite three institutional endorsements.
+- `re-ka` = recurring-action = formally announced / publicly stated (compositional `re` repetition + `ka` action; first attested FAL-003 S382; second attestation here confirms productive use).
+
+---
+
+**S392 — Depth-3 hearsay laundered into policy conclusion.** *(FAL-006)*
+
+```
+Hearsay chain (depth-3, identical to S391):
+(la-to-fe-su  (la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)  re-ka)  ,
+
+Laundering step:
+la-mi  to  lo-ka-li-su  de  ,
+
+Policy conclusion (normative leap):
+go  [lo-ka-li-su  de]  ,  la-mi  lo-zo-li  ka-li-su  wi
+```
+
+**Literal:**
+"(The institution: [(Kael: [(Sura: governance-decay perception)] — announced)] — announced.) I am certain: governance is in decay. Because governance is in decay: I will governance over persons."
+
+**Natural:**
+> "The council announced that Kael announced that Sura saw signs of governance failure. I am therefore certain governance is failing. And so I intend to govern."
+
+**Audit:**
+
+| clause | failure | mechanism |
+|--------|---------|-----------|
+| D-3 chain → `la-mi  to  lo-ka-li-su  de` | ❌ epistemic laundering (depth-3) | three-layer hearsay chain stripped to bare personal certainty |
+| `go [lo-ka-li-su  de]  ,  la-mi  wi  [ka-li-su]` | ❌ normative leap | governance-decay declared certain → will-claim without harm-link or value-anchor |
+
+**Diagnosis:**
+```
+la-mi  to  [la-to-fe-su  (la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)  re-ka]  ,
+no  la-mi  to  lo-ka-li-su  de
+```
+"I am certain [only] that the institution made this three-layer announcement — not certain that governance is in decay."
+
+**Notes:**
+- The laundering step at depth-3 is structurally identical to the depth-1 case (FAL-S384). The number of hearsay layers does not change the fix: restore `()` on the conclusion, and assert only the outermost institutional announcement as personal certainty. Extra layers increase the epistemic distance between the original claim and the speaker's certification, making the laundering more egregious — not different in kind.
+- **Adversarial result:** depth-3 hearsay used as warrant for a policy conclusion is auditable in two independent steps. The laundering audit and the normative-leap audit are orthogonal as in all previous batches.
+- This confirms the general principle: **the number of hearsay layers does not affect the audit structure; it only changes how distant the grounding is from the final claim.**
+
+---
+
+## FAL-006 Batch Summary
+
+**Confirmed results:**
+
+1. **Grammar is well-formed at depth-3.** ✅ S391 is unambiguous. Each layer adds one outer agent, one inner-frame patient clause, and one `re-ka` predicate. The parse is clean.
+
+2. **Readability threshold identified.** ✅ Depth-3 is uncomfortable but legible in written form. Depth-4 is expected to be formally valid but practically unusable for casual speakers. The practical ceiling for hearsay chains in ordinary Tonesu use is **depth-2**. Depth-3 is reserved for formal institutional audits and deliberate provenance documentation.
+
+3. **Laundering at depth-3 is structurally identical to laundering at depth-1.** ✅ S392 confirms: the fix is the same regardless of chain depth. More layers increase epistemic distance and argumentative dishonesty, not mechanism novelty.
+
+4. **Orthogonality holds in depth-3 adversarial context.** ✅ S392 audit produces two independent ❌ — laundering and normative leap — with no entanglement.
+
+**FAL-F-008 resolved:** ✅ Depth-3 hearsay chain standalone confirmed grammatically well-formed. Practical readability ceiling identified at depth-3 written / depth-2 spoken. Depth-4 not attested; no reason to expect grammatical failure, only human readability collapse.
+
+**Cross-batch summary (FAL-001–006 · 29 sentences):**
+
+| batch | scope | key result |
+|-------|-------|-----------|
+| FAL-001 | 10 logical fallacies | four mechanisms introduced |
+| FAL-002 | 5 rhetorical fallacies | same mechanisms apply |
+| FAL-003 | 5 depth / nesting | mechanisms scale |
+| FAL-004 | 5 composite political speech | mechanisms remain separable |
+| FAL-005 | 2 propaganda paragraph | density does not collapse orthogonality |
+| FAL-006 | 2 depth-3 hearsay | depth-3 well-formed; ceiling identified |
+
+**Open grammar questions (FAL-follow):**
+- [ ] **FAL-F-010:** All FAL corpus sentences to date have been adversarial — testing manipulative or defective reasoning. A complementary batch of *well-formed* versions of the same subject matter would confirm that the four mechanisms are not friction-adding constraints but genuinely neutral tools. A "good-faith political speech" batch (FAL-007) would provide that baseline.

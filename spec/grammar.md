@@ -640,6 +640,8 @@ The evidential frame does not encode *how certain* the speaker is about the cont
 
 **Fallacy-resistance rationale:** the evidential frame attacks *smuggled certainty* — the rhetorical move of presenting weakly-grounded evidence as direct assertion. By visibly bracketing unattributed claims, `()` makes epistemic laundering structurally apparent.
 
+**Third-party epistemic claims (corollary, FAL-009):** bare epistemic predicates about third parties are speaker-certified claims by the same rule as first-person assertions. `la-na-X  lo-Y  to` (bare) = *the speaker* certifies that X holds Y as certain. `(la-na-X  lo-Y  to)` = the speaker reports that X is said to hold Y as certain. The asymmetry is identical to first-person laundering. Consequence: any sentence asserting another agent's epistemic stance without `()` is a direct speaker-certification of that stance, not a report about it.
+
 **Grammar:** the inner clause follows all standard grammar rules. The evidential frame is a clause-level meta-operator — it does not alter the agent/patient/predicate structure of the wrapped content. Imperatives and questions may not be wrapped; `()` is a declarative epistemic frame only.
 
 **Spoken form:** prosodic bracketing — a slight boundary pause and consistent framing intonation before and after the framed content. No phoneme sequence is assigned to `(` and `)` themselves.
