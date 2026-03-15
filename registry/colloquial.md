@@ -278,6 +278,46 @@ Related:      zo-se-so-pa (formal source), zom (architectural counterpart: fish 
 
 ---
 
+## CLQ-006 — Kind-term stub: `zon`
+
+*First-attested: S320 (KNM-007-G, March 2026).*
+
+---
+
+**CLQ-006a**
+```
+Form:         zon
+Formal source: zo-se-ne
+Type:         contraction / colloquial stub
+Class:        entity (organism kind)
+Definition:   informal stub for "social-relational perceptual organism" — the herd
+              ungulate class in casual discourse. Covers any organism whose formal
+              kind-term uses zo-se-ne as its base. In everyday speech, identifies
+              deer, horse, cattle, bison, and all zo-se-ne kind-terms.
+Compression:  zo (organism anchor) + [se dropped — perceptual qualifier contextually
+              recoverable in herd-animal discourse] + ne (social-relational root)
+              → zo + n (initial consonant of ne) = zon. One middle root dropped,
+              same compression depth as zom (fish). Terminal root ne: initial
+              consonant n retained as stub coda. No CVC collision with existing stubs.
+Register:     colloquial / casual spoken
+Domain:       general
+Status:       active
+First use:    S320 — la-mi  se  lo-zon  ku?  (Have you seen a deer?; casual)
+Notes:        zon is a base-class stub, not a species label. Plain zon in casual
+              speech refers to the herd-ungulate class as a whole; species reference
+              requires a retained discriminator (di'zon = horse casual, pu'zon = cattle
+              casual, re'zon = deer casual). Discriminator prefixes are NOT dropped.
+              Collision note: the p-initial CVC slot (zop) is occupied by whale
+              (zo-se-so-pa). Any zo-se-[x] organism whose terminal begins with p
+              would produce a colliding stub; the architecture currently avoids this
+              by assigning ne (not pa or pu) as the herd-animal terminal. zon (n-coda)
+              is unambiguous.
+Related:      zo-se-ne (formal source), zom (fish: same one-root compression depth),
+              zop (whale: architectural counterpart in the zo-se tier)
+```
+
+---
+
 ## Registration log
 
 | ID | Form | Formal source | First attested | Adopted |
@@ -289,3 +329,4 @@ Related:      zo-se-so-pa (formal source), zom (architectural counterpart: fish 
 | CLQ-004a | `mas` | `ma-su`       | S299 (MAT-001) | March 2026 |
 | CLQ-005a | `zom` | `zo-se-ma`    | S313 (KNM-006) | March 2026 |
 | CLQ-005b | `zop` | `zo-se-so-pa` | S311 (KNM-006) | March 2026 |
+| CLQ-006a | `zon` | `zo-se-ne`    | S320 (KNM-007) | March 2026 |

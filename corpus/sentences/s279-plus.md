@@ -631,11 +631,176 @@ Natural:  I caught a fish. (casual register)
 
 ---
 
-## Large Land Animals — Horse, Cattle, Deer (S???+) *(KNM-007 — pending)*
+## Large Land Animals — Horse, Cattle, Deer (S314–S320) *(KNM-007)*
 
-*Scope: herd animals. Likely slots into `zo-se-so-[x]` with a collective/grazing terminal root. Horse and cattle are domesticated → `li-ne` operator again. High colloquial pressure for "horse" and "cow." Key question: is the terminal root `pu` (collective/herd), `pa` (terrain/grazing space), or something else?*
+*Batch purpose (KNM-007): establish `zo-se-ne` as the herd-ungulate base kind-term, resolving the scaffold's open question about terminal root. Three discriminators: horse (`di'zo-se-ne`), cattle/bison (`pu'zo-se-ne`), deer (`re'zo-se-ne`). Key architectural decision: herd animals branch at `zo-se-ne` (social-relational perceptual organism) — a third branch off the `zo-se-[x]` intermediate, alongside `zo-se-so-[x]` (acoustic) and `zo-se-ma` (matter-perceptual/fish). `de` and `re` first attested as sentence-level predicates. Stub: `zon` (CLQ-006a).*
 
-*Pending corpus batch. Starts after KNM-005 and PLT-001 are stable.*
+*Pre-processing decisions:*
+- *Scaffold proposed `zo-se-so-pu` (collective acoustic organism) or `zo-se-so-pa` (place acoustic organism) for herd animals. Both are wrong. `zo-se-so-pa` is already whale (KNM-006). And herd animals are not primarily acoustic — their sound is secondary to their defining behavioral signature.*
+- *Herd animals' defining property: the herd is a perceptual-relational network. Each animal perceives its herd-mates as primary sensory input — head position, body orientation, alarm posture. This is `se` (perception) + `ne` (relation) = perception of social relation = herd vigilance. `zo-se-ne` = social-relational perceptual organism.*
+- *Stub collision note: `zop` (whale = `zo-se-so-pa`) cannot be collided with by `zo-se-ne` → `zon`. `zon` = `zo` + `n` (initial of `ne`) = clean, no collision. Prior `p`-initial terminals (`pa`, `pu`) would both produce `zop`, confirming that the `p`-initial CVC slot is whale's territory.*
+- *Three discriminators by defining behavioral signature: horse = `di'zo-se-ne` (directed speed = the herd animal that flees by outrunning); cattle = `pu'zo-se-ne` (collective-density = the herd animal that survives by massing); deer = `re'zo-se-ne` (cyclic = the herd animal defined by seasonal cycles and place-return).*
+- *`de` as eating/consuming predicate: `de lo-zo-su` = decreased/consumed plant material = grazed. First sentence-level use of `de`. `de` (decay/decrease) applied transitively to a patient = to consume/reduce = eat. Compositionally honest: eating IS causing the plant to diminish.*
+- *`re` as returning predicate: `re lo-pa` = cycled back to the place = returned. First sentence-level use of `re`. `re` (repetition/cycle) applied transitively = iterated-toward = returned-to.*
+
+---
+
+**S314 — Herd animal base kind-term: "The deer grazed."** *(KNM-007-A)*
+
+*Target: establish `zo-se-ne` as the herd-ungulate class base kind-term.*
+
+```
+Gloss:    la-zo-se-ne  de  lo-zo-su
+Literal:  agent:social-perceptual-organism  consumed  patient:structural-organism
+Natural:  The deer grazed. / The herd animal ate.
+```
+
+**Notes:**
+- `zo-se-ne` = `zo` (living thing) + `se` (perception) + `ne` (relation) = social-relational perceptual organism = **herd ungulate**. The organism defined by its perceptual integration into a social network: the herd as collective sensory array. Each member monitors the posture, orientation, and alarm-state of its herd-mates as primary perceptual input. Written: `zosene`.
+- **Third branch off `zo-se-[x]`:**
+  - `zo-se-so-[x]` = acoustic-perceptual: organisms whose primary perceptual channel is sound encoding/production
+  - `zo-se-ma` = matter-perceptual: fish whose primary perceptual channel is the material medium (lateral line)
+  - `zo-se-ne` = social-perceptual: herd animals whose primary perceptual channel is the social/relational network of the herd
+- `de lo-zo-su` = consumed/reduced the structural organism = grazed. **First corpus use of `de` as a sentence-level predicate.** `de` (decay/decrease) applied transitively: agent causes patient to diminish = eating. `lo-zo-su` = the plant material. Grazing is caused plant-diminishment; the predicate `de` names the direction of change.
+- **`de` vs `be`:** `be lo-zo-su` would mean "caused the plant to grow" (planted). `de lo-zo-su` = caused the plant to decrease = ate/grazed. The predicate polarity encodes cultivation vs. consumption.
+- **Stub:** `zon` = `zo` + `[se dropped]` + `ne` → `zo` + `n` (initial consonant of `ne`) = `zon`. One middle root dropped (as in fish `zom`). Registered CLQ-006a.
+
+---
+
+**S315 — Horse kind-term: "The horse ran to the river."** *(KNM-007-B)*
+
+*Target: horse — the herd animal defined by directed high-speed movement as its primary escape and ranging strategy.*
+
+```
+Gloss:    la-di'zo-se-ne  ki  lo-di'ma-ki
+Literal:  agent:directed-social-organism  moved  patient:river
+Natural:  The horse ran to the river.
+```
+
+**Notes:**
+- `di'zo-se-ne` = `di` (direction) + `'` + `zo-se-ne` (herd animal) = directed social-perceptual organism = **horse**. Head: `zo-se-ne` (herd animal), discriminated by `di` (direction) = the herd animal whose defining survival strategy is directed high-speed movement. The horse survives by outrunning; it flees at maximum directed speed. Written: `di'zosene`.
+- **`di` discriminator recurrence:** four organisms now use `di` in their kind-term compound:
+  - `zo-se-so-di` = bird (terminal root: all birds are directional organisms)
+  - `wi-di'zo-se-so-di` = eagle (discriminator: directional-intentional bird)
+  - `di-pa'zo-se-ma` = salmon (discriminator: destination-directed fish)
+  - `di'zo-se-ne` = horse (discriminator: directed herd animal)
+  Four distinct uses of `di` in kind-terms: as terminal class root (birds), as intentional-modifier discriminator (eagle), as destination-compound discriminator (salmon), and as bare direction discriminator (horse). All compositionally transparent; no collision.
+- `ki lo-di'ma-ki` = moved to the river. Links directly to MAT-002. The horse at the river is the paradigmatic watering-hole scene; `di'zo-se-ne` (horse) moves toward `di'ma-ki` (river): two `di`-compounds in one sentence, one naming the horse's behavioral character, the other naming the destination.
+
+---
+
+**S316 — Cattle kind-term: "The cattle covered the plain."** *(KNM-007-C)*
+
+*Target: cattle/bison — the herd animal defined by maximum collective density and landscape-scale ranging.*
+
+```
+Gloss:    la-pu nu pu'zo-se-ne  ko  lo-pa
+Literal:  agent:plurality collective-social-organism  covered  patient:place
+Natural:  The cattle covered the plain. / The herd spread across the land.
+```
+
+**Notes:**
+- `pu'zo-se-ne` = `pu` (collective/plurality) + `'` + `zo-se-ne` (herd animal) = collective social-perceptual organism = **cattle / bison / mass-herd ungulate**. Head: `zo-se-ne` (herd animal), discriminated by `pu` (collective) = the herd animal defined by collective density as its defining characteristic. Cattle and bison survive through mass — the herd is so dense that predators cannot isolate individuals. Written: `pu'zosene`.
+- **Double-`pu` structure: `pu nu pu'zo-se-ne`:** `pu nu` is the NP-level quantity operator (plurality-of), as established in S285 (flock) and S310 (school). `pu'zo-se-ne` is a compound discriminator (the cattle kind-term, defined by collective nature). The two `pu` operate at different syntactic tiers: NP quantity prefix vs compound discriminator-head. Unambiguous: NP-tier `pu` is always followed by `nu`; compound-tier `pu` is always followed by the apostrophe + base kind-term. No parsing conflict.
+- `ko lo-pa` = covered/enclosed the place = covered the plain. Same predicate as S289 (grass covering ground), S295 (gravel covering path), S301 (sea covering land). The pattern `ko lo-pa` now spans four agents: plant, inorganic aggregate, water body, and herd animal. The same covering-of-terrain predicate applies across all four with full compositional regularity.
+- **`pu'zo-se-ne` vs `wi-pu'zo-se-so-li` (wolf pack):** both use `pu` — wolf's collective is *predatory intentional* (`wi-pu` = intentional collective), cattle's collective is *survivalist mass* (bare `pu` = collective without intentionality). The wolf pack has will; the cattle herd has density.
+
+---
+
+**S317 — Deer kind-term: "The deer returned."** *(KNM-007-D)*
+
+*Target: deer — the herd animal defined by cyclic place-return (seasonal territory, breeding ground, wintering range).*
+
+```
+Gloss:    la-re'zo-se-ne  re  lo-pa
+Literal:  agent:cyclic-social-organism  returned  patient:place
+Natural:  The deer returned to the place. / The deer came back.
+```
+
+**Notes:**
+- `re'zo-se-ne` = `re` (repetition/cycle) + `'` + `zo-se-ne` (herd animal) = cyclic social-perceptual organism = **deer**. Head: `zo-se-ne` (herd animal), discriminated by `re` (cycle) = the herd animal defined by cyclic returns to specific places — breeding grounds, seasonal territories, ancestral wintering ranges. Deer are not defined by speed (horse) or collective mass (cattle): they are defined by place-memory and seasonal return. Written: `re'zosene`.
+- `re lo-pa` = cycled back to the place = returned. **First corpus use of `re` as a sentence-level predicate.** `re` (repetition/cycle) transitive: agent restores a prior position in relation to a patient = returned/came back to. The deer's return to its home range is the paradigmatic `re` event. The compound kind-term (`re'zo-se-ne`) and the predicate (`re`) share the same root — the deer IS the cyclic animal; the act it performs IS the return.
+- **`re` as predicate scope:** `re lo-[place]` = returned to the place. `re lo-[time]` = recurred at the time. `re lo-[zo]` = repeated the interaction with the organism. The predicate is broadly productive wherever cyclic recurrence involves a patient.
+- **Self-reinforcing compound-predicate pair:** this sentence is the most structurally tight in the corpus so far. `la-re'zo-se-ne  re  lo-pa` = (the cyclic organism) (performed the cycle) (to the place). Subject kind-term and predicate share the same root; the sentence is tautologically true by the organism's definition. Compare: `la-zo-se-so-pa  so  lo-pa'ma-ki` (S311: the place-acoustic organism sounded across the sea) — same pattern.
+
+---
+
+**S318 — Domestic horse: "I rode the horse."** *(KNM-007-E)*
+
+*Target: `li-ne` domestication operator applied to horse. Fourth domesticated animal in the corpus.*
+
+```
+Gloss:    la-mi  ki  na-[li-ne'di'zo-se-ne]
+Literal:  agent:me  moved  associated:domestic-directed-social-organism
+Natural:  I rode the horse.
+```
+
+**Notes:**
+- `li-ne'di'zo-se-ne` = `li-ne` (domestication operator) + `di'zo-se-ne` (horse) = domesticated directed herd animal = **horse (domestic)**. Two-level discriminator: `li-ne` (relationship-marker: person-bonded) + `di` (species-marker: directed-speed). Written: `lidi'zosene` (apostrophe dropped when discriminators stack? — to clarify: written form: `lidi'zosene` — the apostrophe separates the compound discriminator `li` from the base `di'zosene`; the discriminator-chain `li-ne'di'` is a stacked discriminator block). Registry note: stacked discriminator orthography needs a grammar note.
+- `ki na-[...]` = moved associated-with = moved in coordination with = **rode**. `na` as association/context particle confirmed in S312 (fish at river) as location marker. Here `na` marks the riding partner/vehicle. Moving `na [horse]` = moving in association with the horse = riding. The `na` particle spans: name identification (`na Max`, S269), location (`na di'ma-ki`, S312), and movement-vehicle/partner (S318). Three-slot particle.
+- **Fourth `li-ne` attestation:** house cat (S252), dog (S262), chicken (S283), domestic horse (S318). Now confirmed across all three `zo-se-so-[x]` organism classes plus the new `zo-se-ne` class. `li-ne` is fully class-agnostic.
+
+---
+
+**S319 — Domestic cattle: "The cattle grazed the field."** *(KNM-007-F)*
+
+*Target: `li-ne` on cattle. Pastoral scene combining domestication operator, eating predicate, and field as compound NP.*
+
+```
+Gloss:    la-li-ne'pu'zo-se-ne  de  lo-zo-su  na-ma-pa
+Literal:  agent:domestic-collective-social-organism  consumed  patient:plant  at:soil
+Natural:  The cattle grazed the field.
+```
+
+**Notes:**
+- `li-ne'pu'zo-se-ne` = domesticated collective herd animal = **cattle/cow (domestic)**. Double discriminator: `li-ne` (domesticated) + `pu` (collective-kind). Written: `line'pu'zosene`. Corresponds to cattle specifically — the domestic variant of the `pu'zo-se-ne` (collective herd animal) class.
+- `de lo-zo-su  na-ma-pa` = consumed plant material at soil = grazed the growing field. `na-ma-pa` = associated with soil/earth = at the soil = in the field. The field is not a new kind-term but a locative description: plant material (`zo-su`) growing at soil (`ma-pa`). The sentence encodes: domestic cattle consumed the plant material located at the ground = grazed the pasture. No new kind-term needed; `na-ma-pa` as a locative phrase is fully compositional.
+- **Pastoral compound:** `la-li-ne'pu'zo-se-ne  de  lo-zo-su  na-ma-pa` is the most complex sentence in the corpus by NP count — four arguments (agent, predicate, patient, location). All elements are previously established; the sentence is a composition test. It passes.
+- **`de lo-zo-su` confirmed as universal grazing predicate.** S314 (deer), S319 (cattle), both `de lo-zo-su`. Class-agnostic grazing predicate established.
+
+---
+
+**S320 — Colloquial attestation: "Have you seen a deer?"** *(KNM-007-G)*
+
+*Target: first corpus use of `zon`, the colloquial stub for `zo-se-ne`. Interrogative form.*
+
+```
+Gloss:    la-mi  se  lo-zon    [ku?]
+Literal:  agent:me  perceived  patient:herd-animal(casual)  [query?]
+Natural:  Have you seen a deer? (casual register, speaker asking)
+          / Did you perceive a herd animal?
+```
+
+**Notes:**
+- `zon` = `zo` + `[se dropped]` + `ne` → `zo` + `n` (initial consonant of `ne`) = `zon`. One middle root dropped; terminal root initial retained. Herd-animal class stub. Written: `zon`. Registers as CLQ-006a.
+- **`ku` as a query particle:** this is the first sentence with an interrogative in the corpus. `ku` = question marker; placed at the end of the clause. The sentence is otherwise structurally identical to the declarative `la-mi  se  lo-zon` (I perceived a herd animal). The `ku` suffix converts any declarative into a yes/no question. First-attested; grammar note deferred to `spec/grammar.md`.
+  - Note: `ku` was not in the primitives set — it is a grammatical particle like `la-`, `lo-`, `na`. Grammatical particles are not entered in the primitives registry (they are not semantic roots). `ku` should be registered in `spec/grammar.md`.
+- **First interrogative in the corpus.** The sentence is marked as a question directed at a second person: `la-mi  se  lo-zon  ku?` could be read as either "Did I perceive a deer?" (self-directed) or "Have you seen a deer?" (other-directed). Person marking in questions needs grammar attention; left as an open note.
+- **Eight-stub inventory:** `zol` (canid), `zof` (felid/fox), `zod` (bird), `zos` (plant), `mas` (rock), `zom` (fish), `zop` (whale), `zon` (herd animal).
+
+---
+
+**Verdict KNM-007: Herd-ungulate class established. Seven findings:**
+
+1. **`zo-se-ne` is the herd-ungulate base kind-term.** Third branch off the `zo-se-[x]` intermediate tier: acoustic (`zo-se-so-[x]`), matter-perceptual (`zo-se-ma`), social-relational perceptual (`zo-se-ne`). The herd is a collective sensory array; the organism's primary perceptual channel is its social network.
+
+2. **Three species discriminators established:** `di'zo-se-ne` (horse: directed speed), `pu'zo-se-ne` (cattle/bison: collective density), `re'zo-se-ne` (deer: cyclic return).
+
+3. **`de` first attested as sentence-level predicate (S314).** `de lo-[plant]` = consumed/grazed. `de` (decrease/decay) transitive = to cause something to diminish = to eat/consume. Productive grazing predicate across all herbivores.
+
+4. **`re` first attested as sentence-level predicate (S317).** `re lo-[place]` = returned/cycled-back-to. The deer sentence is a compound-predicate tautology: the cyclic organism (`re'zo-se-ne`) performs the cycle (`re`) toward the place. Most structurally self-reinforcing sentence in the corpus.
+
+5. **`li-ne` confirmed across four organism classes (S318, S319).** House cat (`zo-se-so-fe`), dog (`zo-se-so-li`), chicken (`zo-se-so-di`), horse and cattle (`zo-se-ne`). The domestication operator is fully class-agnostic.
+
+6. **`na` particle confirmed in three distinct roles (S318).** Name identification (S269: `na Max`), location (S312: `na-di'ma-ki`), movement-partner/vehicle (S318: `ki na-[horse]`). Three-slot association particle.
+
+7. **`ku` first attested as interrogative particle (S320).** Placed clause-finally for yes/no questions. Grammar treatment deferred; first-person vs second-person resolution in interrogatives is an open question.
+
+**Follow-on actions:**
+- Register `zon` as CLQ-006a in `registry/colloquial.md`. ✓
+- Register `ku` as a grammatical particle in `spec/grammar.md` (deferred).
+- Register `zo-se-ne`, `de'zo-su` (grazing predicate), `re lo-pa` (return) in `registry/derived.md`.
+- KNM-008 (insects) is now next.
 
 ---
 
