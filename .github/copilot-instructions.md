@@ -94,8 +94,22 @@ Key instances: `to-no-fe` omniscience · `ra-no-fe` omnipotence ·
 
 ## Working conventions
 
-- Hyphens in Tonesu examples are **analytic notation only** — written Tonesu is solid (`tofesuki`, not `to-fe-su-ki`). The apostrophe `'` is the only normative internal character.
-- Sentence numbers (`S001`, `S349`, …) are stable identifiers — never renumber.
-- W-numbers (`W000`, `W116`, …) are stable identifiers — never renumber. Retired entries keep their numbers.
-- Corpus tests are tracked under THO- (theological), GRAM- (grammar), etc. labels. New batch labels go in `corpus/sentences/s279-plus.md`.
+### Notation characters
+
+| Character | Status | Meaning |
+|-----------|--------|---------|
+| `'` | **normative — written** | Prosodic juncture marker. Marks the left boundary of a subcompound inside a longer chain. Right-binding: `A'BC` = A modifies [BC]. Minor phrase break in speech; the only non-alphabetic character written in Tonesu. Spec: `spec/phonology.md §Prosodic Juncture Marker`. |
+| `~` | **normative — written** | Approximation mark. Pre-positional hedge: "approximately / roughly / on the order of." Always at the left edge of the unit it qualifies. May appear immediately after `'` to hedge only the subcompound. Spoken form: `ven` (G010). Spec: `spec/phonology.md §~ Approximation Mark`. |
+| `-` | **analytic only — not written** | Hyphen. Marks morpheme/root boundaries in examples for readability. Never appears in written Tonesu. `to-fe-su-ki` is the analytic form; `tofesuki` is the written form. |
+| `[]` | **analytic only — not written** | Square brackets. Mark slot labels, placeholders, or structural groupings in grammar examples (e.g. `la-[agent]`, `[verb-compound]`). Never appear in written Tonesu. |
+
+### Stable identifiers
+
+- Sentence numbers (`S001`, `S349`, …) — never renumber.
+- W-numbers (`W000`, `W116`, …) — never renumber. Retired entries keep their numbers.
+
+### Process conventions
+
+- Corpus tests are tracked under batch labels: THO- (theological), GRAM- (grammar), etc. New batches go in `corpus/sentences/s279-plus.md`.
 - Open questions are logged in `notes/open-questions.md`. Mark resolved with `[x]` and a brief resolution note; do not delete old entries.
+- New derived entries always go into `registry/derived/w101-plus.md` first, then update `registry/derived/index.md` (sections A, B, and C).
