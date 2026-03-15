@@ -164,6 +164,47 @@ Related:      zo-su (formal source), zol/zof/zod (animal class stubs)
 
 ---
 
+## CLQ-004 — Kind-term stub: `mas`
+
+*First-attested: S299 (MAT-001-G, March 2026).*
+
+---
+
+**CLQ-004a**
+```
+Form:         mas
+Formal source: ma-su
+Type:         contraction / colloquial stub
+Class:        entity (matter kind)
+Definition:   informal stub for "structured matter" — the rock/stone class in casual
+              discourse. Covers any solid mineral matter whose formal kind-term uses
+              ma-su as its base. In everyday speech, identifies rock, stone, and
+              related forms of organized solid matter.
+Compression:  ma (matter anchor) + su (structure root) → mas. CV of first root +
+              terminal consonant of second root. Identical mechanism to zos (zo + su
+              → zos): same second root, same compression. Two-root base; no middle
+              layer to drop. Anchor root differs from zo-based organism stubs
+              (zol/zof/zod/zos): matter anchor ma, not organism anchor zo. The
+              compression rule (short form unambiguous in discourse domain; formal
+              compound is canonical fallback) applies regardless of anchor root.
+Register:     colloquial / casual spoken
+Domain:       general
+Status:       active
+First use:    S299 — la-mi  di  lo-mas  (I threw a rock; casual)
+Notes:        mas is a base-class stub, not a fine-grained material label. Plain mas
+              in casual speech refers to the rock/stone class as a whole;
+              discriminated forms retain the discriminator prefix (pu'mas = aggregate
+              rock / gravel / sand in casual form). mas is the first colloquial stub
+              anchored on ma (matter) rather than zo (organism). The matter stub
+              system parallels the organism stub system: ma + terminal-class-root
+              → stub, just as zo + [dropped middle] + terminal-class-root →
+              organism stub. No collision with existing CVC inventory.
+Related:      ma-su (formal source), zos (symmetric compression, same second root),
+              mas is the matter-anchor counterpart to the zo-anchor organism stubs
+```
+
+---
+
 ## Registration log
 
 | ID | Form | Formal source | First attested | Adopted |
@@ -171,4 +212,5 @@ Related:      zo-su (formal source), zol/zof/zod (animal class stubs)
 | CLQ-001a | `zol` | `zo-se-so-li` | S269 (KNM-004) | March 2026 |
 | CLQ-001b | `zof` | `zo-se-so-fe` | S269 note (KNM-004) | March 2026 |
 | CLQ-002a | `zod` | `zo-se-so-di` | S284 (KNM-005) | March 2026 |
-| CLQ-003a | `zos` | `zo-su` | S292 (PLT-001) | March 2026 |
+| CLQ-003a | `zos` | `zo-su`       | S292 (PLT-001) | March 2026 |
+| CLQ-004a | `mas` | `ma-su`       | S299 (MAT-001) | March 2026 |

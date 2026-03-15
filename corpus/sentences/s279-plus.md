@@ -310,11 +310,158 @@ Natural:  I planted a tree. (casual register)
 
 ---
 
-## Rock, Mineral, Soil — First Pass (S???+) *(MAT-001 — pending)*
+## Rock, Mineral, Soil — First Pass (S293–S299) *(MAT-001)*
 
-*Scope: `ma`-based compounds for inorganic matter. No `zo` involvement. Key items: rock/stone, soil/earth, sand, mineral vein. Colloquial pressure for "rock" and "stone" is high — every-day words with no existing Tonesu form. Base: `ma-su` (structured matter = solid/stable), `ma-de` (decaying matter = loose/granular). Stub candidates: `mas`, `maf` etc.*
+*Batch purpose (MAT-001): establish `ma`-based compounds for inorganic matter. No `zo` involvement. Key architecture: `ma-su` (structured matter = rock), `ma-pa` (place-matter = soil), with discriminated subclasses `pu'ma-su` (aggregate rock = gravel/sand) and `su'ma-pa` (structured soil = clay). Confirms `ma-ki` (water) in erosion and falling contexts. Stub: `mas` (CLQ-004a).*
 
-*Pending corpus batch.*
+*Pre-processing decisions:*
+- *`ma` = matter/substance (established). `ma-ki` (flowing matter/water) already attested S282 (penguin discriminator); confirmed standalone NP in S296, S298 here.*
+- *Rock = `ma-su` (matter + structure = stable organized matter). Soil = `ma-pa` (matter + place = material constituting a place's surface). Both are `ma`-base compounds; the second root names the defining property.*
+- *Sand/gravel = `pu'ma-su` (collective rock = aggregate mineral particles). `pu` as compound discriminator-head, not NP-level quantity operator (cf. `pu nu zo-se-so-di`, S285).*
+- *Clay = `su'ma-pa` (structured soil = earth with cohesive internal organization). Discriminator `su` marks the structural cohesion distinguishing clay from plain soil.*
+- *Stub: `mas` = `ma` + `su` → `mas`. Same compression rule as `zos` = `zo` + `su` → `zos`.*
+
+---
+
+**S293 — Matter base kind-term: "The rock lay still."** *(MAT-001-A)*
+
+*Target: establish `ma-su` as the rock/stone base kind-term.*
+
+```
+Gloss:    la-ma-su  no-ki
+Literal:  agent:structured-matter  not-moved
+Natural:  The rock lay still. / The stone was at rest.
+```
+
+**Notes:**
+- `ma-su` = `ma` (matter/substance) + `su` (structure/order) = structured/organized matter = **rock/stone**. Rock is matter defined by stable internal structure: crystalline, granular, or amorphous solid mineral aggregate. Written: `masu`.
+- `no-ki` = `no` (negation/absence) + `ki` (motion) = absence of motion = **stillness/rest**. First corpus use of `no-ki`. Extends the `no-*` productive pattern (`no-lu` dark-coat S241, `no-be` erosion S297 below). Completes the motion polarity: `ki` (moved) / `no-ki` (did not move).
+- **`ma-su` vs `zo-su`:** both use `su` (structure) as the defining second root. The first root marks the ontological domain: `zo-su` = structural *living thing* (plant), `ma-su` = structural *matter* (rock). The parallel is intentional — structure is the defining property in both kingdoms; the `zo`/`ma` boundary is the living/nonliving divide.
+- **Stub:** `mas` = `ma` + `su` → `mas`. Compression matches `zos` (plant stub). Registered CLQ-004a.
+
+---
+
+**S294 — Soil kind-term: "The soil held the seeds."** *(MAT-001-B)*
+
+*Target: soil/earth — the diffuse material that constitutes the surface layer of a place.*
+
+```
+Gloss:    la-ma-pa  ko  lo-zo-be
+Literal:  agent:place-matter  contained  patient:biological-product
+Natural:  The soil held the seeds.
+```
+
+**Notes:**
+- `ma-pa` = `ma` (matter) + `pa` (place/space) = place-matter = **soil/earth**. Soil is matter characterized by its place-constituting function: it *is* the ground, the surface layer that makes a place what it is. The compound is `ma-pa` (matter primary, place-role secondary) — earth is first and foremost *matter* that happens to constitute *place*. Written: `mapa`.
+- `ko lo-zo-be` = contained the biological-product = held the seeds. `zo-be` (biological reproductive product, S283 and S291) links the inorganic matter domain directly to the life cycle: soil holds seeds (`zo-be`), seeds become plants (`zo-su`). The sentence closes the loop between MAT-001 and PLT-001.
+- **`ma-pa` vs `di-pa` (destination, S285):** both use `pa` (place) but the primary root determines the reading. `di-pa` = direction-toward-a-place = destination; `ma-pa` = matter-of-a-place = earth/soil. `pa` consistently reads as location; the compound meaning is shaped by what precedes it.
+- **Order matters:** `pa-ma` (reversed) would mean a place defined by its material (a stone floor, a metal surface). `ma-pa` means material-that-constitutes-place. The `ma`-first ordering marks it as primarily a matter compound.
+
+---
+
+**S295 — Sand/gravel kind-term: "The gravel covered the path."** *(MAT-001-C)*
+
+*Target: aggregate/granular rock — particulate solid matter composed of many small rock units.*
+
+```
+Gloss:    la-pu'ma-su  ko  lo-pa
+Literal:  agent:collective-rock  covered  patient:place
+Natural:  The gravel covered the path. / The sand covered the ground.
+```
+
+**Notes:**
+- `pu'ma-su` = `pu` (collective/plurality) + `'` + `ma-su` (rock) = collective structured matter = **aggregate/granular rock** = gravel, sand, scree, rubble. The apostrophe marks `pu` as a compound discriminator on the rock base, not an NP-level quantity marker. `pu'ma-su` is a kind-term naming the rock class defined by its fragmented, collective nature — many-unit matter rather than single-unit matter. Written: `pu'masu`.
+- **`pu` as discriminator vs NP quantity operator:** in `pu nu zo-se-so-di` (S285, a flock) `pu nu` is a noun-phrase quantity prefix meaning "a plurality of." Here `pu'ma-su` is a compound kind-term: the rock class *characterized* by collectivity. Same root, different syntactic tier: NP operator vs. discriminator-head.
+- `ko lo-pa` = covered the place. Structural parallel to S289 (grass covering ground): in S289 a plant (`pa-be'zo-su`) covered ground as biological behavior; here aggregate rock covers ground as static deposit. Same predicate, different agent ontology.
+- **Scope:** `pu'ma-su` covers all aggregate mineral material — coarse gravel, fine sand, river pebbles, volcanic grit. Context or discriminator elaboration narrows further where needed.
+
+---
+
+**S296 — Clay kind-term: "The clay held water."** *(MAT-001-D)*
+
+*Target: clay — structured, cohesive earth that retains water and holds shape under pressure.*
+
+```
+Gloss:    la-su'ma-pa  ko  lo-ma-ki
+Literal:  agent:structured-earth  contained  patient:flowing-matter
+Natural:  The clay held water.
+```
+
+**Notes:**
+- `su'ma-pa` = `su` (structure/order) + `'` + `ma-pa` (soil/earth) = structured earth = **clay**. Clay is the soil class defined by internal structural organization: unlike ordinary `ma-pa` (loose, diffuse), clay has aligned mineral layers giving it cohesion, plasticity, and water-retention. Discriminator `su` marks the structural property that distinguishes clay from plain soil — the same root that defines rock (`ma-su`) as organized matter. Written: `su'mapa`.
+- `ko lo-ma-ki` = contained the flowing-matter = held water. **`ma-ki` as standalone sentence patient for the first time.** Prior appearances: compound discriminator head S282 (penguin), implicit in S285. Here `ma-ki` is a bare NP object in a matrix clause — confirms it is fully grammaticalized as an ordinary NP, not only a compound element.
+- **Three-term continuum:** `ma-pa` (loose soil) → `su'ma-pa` (cohesive clay) → `ma-su` (solid rock). All three are built from the same two primitive roots (`ma`, `su`, `pa`) in different compound configurations. The full range from loose earth to hard stone is encoded by composition alone.
+
+---
+
+**S297 — Water erodes rock: "The water wore down the stone."** *(MAT-001-E)*
+
+*Target: water-rock interaction — both `ma-ki` and `ma-su` in the same clause. Introduces `no-be` (erosion/diminishment).*
+
+```
+Gloss:    la-ma-ki  no-be  lo-ma-su
+Literal:  agent:flowing-matter  un-grew  patient:structured-matter
+Natural:  The water wore down the stone. / The river eroded the rock.
+```
+
+**Notes:**
+- `no-be` = `no` (negation/absence) + `be` (growth/creation) = reversal/absence of growth = **erosion, diminishment, wearing-away**. First corpus use of `no-be`. Mirrors `be` (intransitive: grew, S286) and `be` (transitive causative: planted, S292). `no-be` is the inverse causative: caused-to-un-grow = wore down = eroded. The `no-*` pattern (`no-lu` S241, `no-ki` S293) confirmed productive across inorganic domain.
+- `la-ma-ki  no-be  lo-ma-su` = flowing matter wore down the structured matter = water eroded the rock. First clause with both `ma-ki` (water) and `ma-su` (rock) as sentence-level arguments. Their interaction is compositionally clean: flowing agent acts on structured patient; predicate names the direction of change (negated growth = reduction).
+- **`no-be` scope:** gradual mineral subtraction over time — erosion, abrasion, dissolution. Not breaking (`ki`), not falling (this sentence), but sustained wearing. River channels, sea stacks, rain-worn limestone — all `no-be lo-ma-su`.
+
+---
+
+**S298 — Rock falls into water: "The stone fell into the river."** *(MAT-001-F)*
+
+*Target: `ma-su` in dynamic context. Confirms inorganic matter undergoes `ki` (motion) without living or intentional agency.*
+
+```
+Gloss:    la-ma-su  ki  lo-ma-ki
+Literal:  agent:structured-matter  moved  patient:flowing-matter
+Natural:  The stone fell into the river.
+```
+
+**Notes:**
+- `la-ma-su  ki  lo-ma-ki` = the structured matter moved into the flowing matter = the rock fell into the river. First sentence where a non-living, non-water `ma`-class noun is the moving grammatical agent. Rock moves by gravity; no intention is required or implied.
+- **`la-` marks grammatical agency, not volition.** Prior `la-` agents: living organisms, first-person `mi`. `la-ma-su` (rock falling) confirms that `la-` is the grammatical subject prefix for any mover or actor, not only an intentional agent marker. Intentional action is encoded in predicates and discriminators (`ka`, `wi-`), not in the agent-marking prefix itself.
+- `lo-ma-ki` as patient = into/through the flowing matter = into the river. Third sentence-level appearance of `ma-ki` as a clause NP (S296: `ko lo-ma-ki`; S297: `la-ma-ki`; S298: `lo-ma-ki`). `ma-ki` has now appeared in all three grammatical positions — agent, free NP, patient.
+
+---
+
+**S299 — Colloquial attestation: "I threw a rock."** *(MAT-001-G)*
+
+*Target: first corpus use of `mas`, the colloquial stub for `ma-su`. Parallel to S284 (`zod`), S269 (`zol`).*
+
+```
+Gloss:    la-mi  di  lo-mas
+Literal:  agent:me  directed  patient:rock(casual)
+Natural:  I threw a rock. (casual register)
+```
+
+**Notes:**
+- `mas` = `ma` + `su` → `mas`. Rock-class stub. Compression: CV of first root + terminal consonant of second root = `ma` + `s` (from `su`) = `mas`. Matches `zos` = `zo` + `su` → `zos` exactly — same second root, same mechanism. Written: `mas`. Registers as CLQ-004a.
+- `di lo-mas` = directed the rock = threw/hurled/launched. `di` (direction) as predicate with a projectile patient = intentional directed projection = throwing. Echoes `di-pa` (directed destination, S285): throwing a rock is directing a `mas` toward an implicit `di-pa`.
+- **`mas` as the first non-`zo`-anchored stub.** All prior stubs (`zol`, `zof`, `zod`, `zos`) were organism kind-terms anchored on `zo`. `mas` anchors on `ma` (matter). The compression rule (short form unambiguous in discourse domain; formal compound canonical fallback) applies regardless of anchor root. Discriminated forms carry the discriminator: `pu'mas` = gravel/sand (casual).
+
+---
+
+**Verdict MAT-001: Inorganic matter class established. Six findings:**
+
+1. **`ma-su` is the rock/stone base kind-term.** Structured matter — matter defined by internal organization. Parallel to `zo-su` (structural organism/plant): both use `su` (structure); the `zo`/`ma` boundary is the living/nonliving divide.
+
+2. **`ma-pa` is the soil/earth kind-term.** Place-matter — matter characterized by its role in constituting a place's surface. `ma-pa` (matter primary) vs `pa-ma` (place primary) encodes earth-as-substance vs. place-defined-by-material.
+
+3. **Two discriminated matter subclasses established:** `pu'ma-su` (aggregate rock = gravel/sand) and `su'ma-pa` (structured soil = clay). Both use the same discriminator-prefix compound pattern as organism subclasses.
+
+4. **`no-be` = erosion/diminishment (S297), first-attested.** Inverse of growth/causative `be`. `no-be lo-[matter]` = eroded/wore down. Productive `no-*` pattern confirmed in the inorganic domain.
+
+5. **`no-ki` = stillness/rest (S293), first-attested.** Completes the motion polarity: `ki` (moved) / `no-ki` (did not move). Both available as clause-level predicates.
+
+6. **`mas` registered as CLQ-004a (S299).** First non-`zo`-anchored colloquial stub. Same `ma-su` → `mas` compression as `zo-su` → `zos`. Five-stub inventory: `zol` / `zof` / `zod` / `zos` / `mas`.
+
+**Follow-on actions:**
+- Register `mas` as CLQ-004a in `registry/colloquial.md`. ✓
+- Register `ma-su`, `ma-pa`, `pu'ma-su`, `su'ma-pa`, `no-be`, `no-ki` in `registry/derived.md`.
 
 ---
 
