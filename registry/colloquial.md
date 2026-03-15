@@ -38,9 +38,13 @@ Register:     colloquial / casual spoken
 Domain:       general
 Status:       active
 First use:    S269 — la-mi  ko  lo-[li-ne'zol  na Max] (I have Max the dog; casual)
-Notes:        Discriminator prefixes are NOT dropped in contraction — only the base
-              stub-forms. So "domestic dog" casual = li-ne'zol, not *zol. Wolf casual =
-              wi-pu'zol. Coyote casual = be-fe'zol.
+Notes:        zol is a base-class stub, not a standalone species label. Plain zol in
+              casual speech refers to the canid class as a whole; species reference
+              requires a retained discriminator (li-ne'zol = dog, wi-pu'zol = wolf)
+              or contextual resolution. Drift of plain zol into meaning "dog"
+              specifically is a documented risk; this registry resists that drift.
+              Discriminator prefixes are NOT dropped in contraction — only the base
+              stub-forms. Coyote casual = be-fe'zol. Wolf casual = wi-pu'zol.
               The class distinction is preserved: zol (canid class) vs zof (felid/fox
               class) — the terminal root li vs fe is retained and unambiguous.
 Related:      zo-se-so-li (formal source), zof (symmetric pair), zo-se-so (W013)
@@ -64,10 +68,17 @@ Compression:  zo (organism anchor) + [se-so dropped — acoustic-organism qualif
 Register:     colloquial / casual spoken
 Domain:       general
 Status:       active
-First use:    S269 note (symmetric attestation with zol; first attested possessive use
-              projected as li-ne'zof for "my cat" in casual speech)
-Notes:        Discriminator prefixes are NOT dropped — "house cat" casual = li-ne'zof,
-              not *zof. Lion casual = pu-zo'zof. Fox casual = ko-pa'zof.
+First use:    Registered by symmetric attestation with zol (S269, KNM-004-I, March 2026).
+              Adopted on analogical grounds: same compression rule, same corpus event,
+              symmetric class pair. First direct corpus use pending.
+Notes:        zof is a base-class stub, not a standalone species label. Plain zof in
+              casual speech refers to the territorial-acoustic organism class as a whole;
+              species reference requires a retained discriminator (li-ne'zof = house cat,
+              pu-zo'zof = lion, ko-pa'zof = fox) or contextual resolution. Drift of plain
+              zof into meaning "cat" specifically is a documented risk; this registry
+              resists that drift.
+              Discriminator prefixes are NOT dropped — lion casual = pu-zo'zof. Fox
+              casual = ko-pa'zof.
               zof was pre-anticipated in TAX-001 notes before formal attestation; now
               registered simultaneously with zol as the symmetric class pair.
 Related:      zo-se-so-fe (formal source), zol (symmetric pair), zo-se-so (W013)
