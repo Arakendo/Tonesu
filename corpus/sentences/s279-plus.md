@@ -481,11 +481,159 @@ Natural:  I threw a rock. (casual register)
 
 ---
 
-## Water and Natural Features (S???+) *(MAT-002 — pending)*
+## Water and Natural Features (S300–S306) *(MAT-002)*
 
-*Scope: river, sea, lake, rain, ice, cloud. `ma-ki` (flowing matter/water) already attested in jaguar and penguin kind-terms. Need corpus sentences that use `ma-ki` as a standalone NP, plus `ma-su` (solid/still water = ice), `ma-di` (directed water = river vs. lake). High everyday frequency.*
+*Batch purpose (MAT-002): establish `ma-ki`-based kind-terms for natural water features. Seven kind-terms: water (general), river, sea, lake, rain, cloud, ice. Key architectural decision: all water features are discriminated forms of `ma-ki` (flowing matter). Enclosure (`ko`) is the organizing contrast: lake = enclosed water, cloud = sky-enclosed water, rain = uncontained water. Ice = `su'ma-ki` (structured flowing-matter), not `ma-su` (rock). No CLQ entries this batch.*
 
-*Pending corpus batch. Short; can run in parallel with MAT-001.*
+*Pre-processing decisions:*
+- *`ma-ki` standalone NP was already fully confirmed in MAT-001 (S296 patient, S297 agent, S298 patient). The scope note for MAT-002 was written before MAT-001 ran. No additional `ma-ki` NP attestation needed; this batch focuses on the discriminated feature kind-terms.*
+- *`ma-su` cannot be ice — that compound was settled as rock in MAT-001. Ice is `su'ma-ki` (structured flowing-matter = water organized into solid crystalline form). The `su` root marks structural order in both: `ma-su` (organized mineral matter = rock) and `su'ma-ki` (organized water = ice). Same principle; different base.*
+- *Scaffold proposed `ma-di` for river. Revised: `di'ma-ki` is the correct structure — `di` as discriminator-head on base `ma-ki`. This parallels `ko'ma-ki` (lake), `pa'ma-ki` (sea), etc. All water features discriminate the same `ma-ki` base.*
+- *Enclosure family for water: `ko'ma-ki` (enclosed water = lake), `lu-ko'ma-ki` (sky-enclosed water = cloud), `no-ko'ma-ki` (uncontained water = rain). Cloud → rain = `lu-ko'ma-ki` produces `no-ko'ma-ki`. The `ko` → `no-ko` transition encodes release of containment.*
+- *`no-ko` extends the productive `no-*` pattern: `no-lu` (dark), `no-ki` (still), `no-be` (erodes), `no-ko` (uncontained/free-falling).*
+
+---
+
+**S300 — River kind-term: "The river flowed."** *(MAT-002-A)*
+
+*Target: establish `di'ma-ki` as the river base kind-term.*
+
+```
+Gloss:    la-di'ma-ki  ki
+Literal:  agent:directed-flowing-matter  moved
+Natural:  The river flowed.
+```
+
+**Notes:**
+- `di'ma-ki` = `di` (direction) + `'` + `ma-ki` (flowing matter) = directed flowing matter = **river**. Head: `ma-ki` (flowing matter), modified by `di` (direction) = flowing matter characterized by having a defined path/direction = river. Written: `di'maki`.
+- `ki` (motion) without patient = intransitive movement = flow. Simplest possible river sentence, parallel to S293 (`la-ma-su  no-ki` = rock lay still) — the contrasting pair: rock is still (`no-ki`), river moves (`ki`).
+- **Back-reference:** `ma-ki` first appeared as compound discriminator in S282 (penguin: `ma-ki'zo-se-so-di`) and was fully confirmed as clause-level NP in MAT-001 (S296–S298). `di'ma-ki` (river) extends this: `ma-ki` now functions as both a clause-level NP (bare water) and as a compound base for discriminated water features.
+- **Structure note:** `di'ma-ki` has `di` as discriminator-head on base `ma-ki`. Different structure from `di-pa` (established compound, hyphen = two-root compound): `di-pa` is `di` + `pa` at the same level; `di'ma-ki` uses the apostrophe to mark `di` as a discriminator prefixing the base `ma-ki`. No collision.
+
+---
+
+**S301 — Sea kind-term: "The sea covered the land."** *(MAT-002-B)*
+
+*Target: sea/ocean — water at the scale of a place.*
+
+```
+Gloss:    la-pa'ma-ki  ko  lo-pa
+Literal:  agent:place-flowing-matter  covered  patient:place
+Natural:  The sea covered the land.
+```
+
+**Notes:**
+- `pa'ma-ki` = `pa` (place/space) + `'` + `ma-ki` (flowing matter) = place-scale flowing matter = **sea/ocean**. Head: `ma-ki` (flowing matter), modified by `pa` (place) = water at the scale of a place = the water body that *constitutes* an entire region. Written: `pa'maki`.
+- `ko lo-pa` = covered/enclosed the place = covered the land. Structurally identical to S289 (`la-pa-be'zo-su  ko  lo-pa` = grass covered the ground): in both cases, a `pa`-bearing agent covers a `pa` patient. S289 = a growth-characterized-by-place covers a place; S301 = water-characterized-by-place covers a place. The sea and the grass are both entities defined by their relationship to ground-scale expanse.
+- **`pa` repeat:** `pa'ma-ki` (sea) contains `pa`, and its patient is also `lo-pa` (place). Unambiguous — apostrophe marks the discriminator boundary; `lo-` marks the patient. Precedent: S289 confirmed this structure is well-formed.
+- **Scope:** sea, ocean. Large lakes may approach `pa'ma-ki` territory colloquially; the formal distinction is scale (ocean = place-constituting; lake = land-enclosed).
+
+---
+
+**S302 — Lake kind-term: "The lake lay still."** *(MAT-002-C)*
+
+*Target: lake — water enclosed/contained by surrounding land.*
+
+```
+Gloss:    la-ko'ma-ki  no-ki
+Literal:  agent:enclosed-flowing-matter  not-moved
+Natural:  The lake lay still.
+```
+
+**Notes:**
+- `ko'ma-ki` = `ko` (enclose/contain) + `'` + `ma-ki` (flowing matter) = enclosed flowing matter = **lake**. Head: `ma-ki` (flowing matter), modified by `ko` (enclosure) = water defined by being enclosed by land on all sides = lake, pond, reservoir. Written: `ko'maki`.
+- `no-ki` = absence of motion = stillness. Reused from S293 (`la-ma-su  no-ki` = the rock lay still). Two things are defined by stillness: solid organized matter (rock) and enclosed water (lake). The lake is still precisely because it is enclosed — the enclosure absorbs wave energy and removes directional flow.
+- **Enclosure contrast:** `ko'ma-ki` (lake: water IS enclosed) vs `di'ma-ki` (river: water HAS a direction/outlet) vs `pa'ma-ki` (sea: water constitutes a place). Three water kinds, three organizing concepts: containment, direction, scale.
+
+---
+
+**S303 — Cloud and rain kind-terms: "The cloud released rain."** *(MAT-002-D)*
+
+*Target: establish cloud (`lu-ko'ma-ki`) and rain (`no-ko'ma-ki`) in a single sentence. The compound structure encodes cloud → rain as a release of containment.*
+
+```
+Gloss:    la-lu-ko'ma-ki  be  lo-no-ko'ma-ki
+Literal:  agent:sky-enclosed-flowing-matter  produced  patient:uncontained-flowing-matter
+Natural:  The cloud released rain. / The cloud produced rain.
+```
+
+**Notes:**
+- `lu-ko'ma-ki` = `lu` (light/sky) + `ko` (enclose) + `'` + `ma-ki` (flowing matter) = sky-enclosed flowing matter = **cloud**. Head: `ma-ki` (flowing matter), discriminator head: `ko` (enclosure), modified by `lu` (sky/light domain) = water enclosed in the luminous upper zone = cloud. Written: `luko'maki`.
+- `no-ko'ma-ki` = `no` (absence) + `ko` (enclosure) + `'` + `ma-ki` (flowing matter) = uncontained/free-falling flowing matter = **rain**. Head: `ma-ki` (flowing matter), discriminator: absence of enclosure = water in a state of free descent (not channeled, not pooled, not sky-held). Written: `noko'maki`.
+- **Cloud → rain semantics visible in compound structure:** `lu-ko'ma-ki` (cloud = sky-enclosed water) produces `no-ko'ma-ki` (rain = sky-no-longer-enclosed water). The `ko` → `no-ko` transition directly encodes the physical event: the cloud releases its containment, and rain is what remains — water that is now defined by the *absence* of the enclosure that made it a cloud. The predicate `be` (produce/release/cause-to-emerge) connects the two.
+- **`be` as productive causative:** established intransitive (S286: plant grew), transitive (S292: planted a tree, S283: chicken laid egg). Here: cloud produced rain = cloud caused rain to exist. `be lo-[new-matter-form]` = caused to produce a new form of the same substance.
+- **`no-ko` extends the `no-*` pattern.** `no-lu` (dark/no-light), `no-ki` (still/no-motion), `no-be` (erodes/no-growth), `no-ko` (uncontained/no-enclosure). Four `no-*` negations across four established roots; all compositionally transparent.
+
+---
+
+**S304 — Rain falls on soil: "The rain fell on the soil."** *(MAT-002-E)*
+
+*Target: rain as agent in a clause. Cross-domain connection: water cycle links MAT-002 (rain) to MAT-001 (soil).*
+
+```
+Gloss:    la-no-ko'ma-ki  ki  lo-ma-pa
+Literal:  agent:uncontained-flowing-matter  moved  patient:place-matter
+Natural:  The rain fell on the soil. / The rain came down to ground.
+```
+
+**Notes:**
+- `ki lo-ma-pa` = moved to/onto the place-matter = fell upon the soil. `ma-pa` (soil/earth) established S294. Rain (`no-ko'ma-ki`) finds its ending in soil (`ma-pa`) — the first step of the water cycle's terrestrial phase. Rain hits soil; soil holds seeds (`zo-be`, S294); seeds become plants (`zo-su`, S286).
+- **Water cycle span in the corpus:** rain falls on soil (S304) → soil holds seeds (S294) → tree grows (S287) → tree bears fruit (S291) → water erodes rock (S297) → river flows (S300) → river reaches sea (S306 below). The corpus now spans the complete terrestrial cycle without any special vocabulary: only `ma`, `zo`, `ki`, `be`, `su`, `pa`, `di`, `ko` and their compounds.
+
+---
+
+**S305 — Ice kind-term: "The ice covered the river."** *(MAT-002-F)*
+
+*Target: establish `su'ma-ki` as the ice kind-term.*
+
+```
+Gloss:    la-su'ma-ki  ko  lo-di'ma-ki
+Literal:  agent:structured-flowing-matter  covered  patient:directed-flowing-matter
+Natural:  The ice covered the river.
+```
+
+**Notes:**
+- `su'ma-ki` = `su` (structure/order) + `'` + `ma-ki` (flowing matter) = structured flowing matter = **ice**. Head: `ma-ki` (flowing matter), discriminator: `su` (structure) = water organized into a solid crystalline lattice. Written: `su'maki`.
+- **`su` as structural organizer across matter kinds:** `ma-su` (rock = organized mineral matter), `su'ma-pa` (clay = organizationally-cohesive soil), `su'ma-ki` (ice = crystalline-organized water). The `su` root marks internal ordered structure regardless of the base matter; the result is always the solid/cohesive form of that matter. Rock, clay, and ice are the three `su`-extreme forms of mineral matter, earth, and water respectively.
+- **Why `su'ma-ki` and not `ma-su`:** the scaffold proposed `ma-su` for ice. This was overridden by MAT-001, which settled `ma-su` as rock. Ice cannot share the rock compound — they are different substances. `su'ma-ki` correctly keeps ice in the water (`ma-ki`) family while marking its structured state. The design is consistent: ice is to water as rock is to mineral matter; both are the `su`-organized forms of their substance.
+- `ko lo-di'ma-ki` = covered/sealed the river. A river covered by ice (`su'ma-ki`) is still a river (`di'ma-ki`); the ice is a layer over it, not a replacement.
+
+---
+
+**S306 — I crossed the river: "I crossed the river."** *(MAT-002-G)*
+
+*Target: water-feature kind-term in first-person naturalistic use. Confirms `di'ma-ki` in everyday human discourse.*
+
+```
+Gloss:    la-mi  ki  lo-di'ma-ki
+Literal:  agent:me  moved  patient:directed-flowing-matter
+Natural:  I crossed the river.
+```
+
+**Notes:**
+- `ki lo-di'ma-ki` = moved through/across the directed-flowing-matter = crossed the river. `di'ma-ki` appears in all three grammatical positions across S300–S306: agent (S300: river flowed), patient-covering (S305: ice covered river), patient-crossed (S306: I crossed river). Three sentence roles; one kind-term. Fully grammaticalized.
+- **No CLQ entry:** `ma-ki` is two morphemes (below the 3-morpheme contraction threshold). Discriminated forms (`di'ma-ki`, `pa'ma-ki`, etc.) have three morphemes but no obvious CVC target that improves on the spoken form. The shortest possible stub for a water feature (`dik`, `pak`, `kok`) saves one or two syllables at the cost of opacity. Registered as a design note: water-feature stubs are deferred until corpus pressure forces a contraction.
+- **Cycle closed:** S306 = human crosses the river. S300 = river flows. S301 = sea receives. Three water-related clauses across MAT-002 now show the water cycle's natural syntax: source (rain), transit (river), destination (sea), human presence at the crossing.
+
+---
+
+**Verdict MAT-002: Water feature class established. Six findings:**
+
+1. **Seven water kind-terms established.** `ma-ki` (water/general), `di'ma-ki` (river), `pa'ma-ki` (sea/ocean), `ko'ma-ki` (lake), `lu-ko'ma-ki` (cloud), `no-ko'ma-ki` (rain), `su'ma-ki` (ice). All discriminate the single base `ma-ki`; discriminators name the defining property (direction, scale, enclosure type, structural state).
+
+2. **Enclosure family is the structural core of the water taxonomy.** `ko'ma-ki` (lake, enclosed), `lu-ko'ma-ki` (cloud, sky-enclosed), `no-ko'ma-ki` (rain, un-enclosed). The `ko` / `no-ko` polarity directly encodes cloud-to-rain. The `ko-no-ko` transition IS the rain event — no additional vocabulary needed.
+
+3. **`no-ko` confirmed as fourth `no-*` negation.** Joins `no-lu` (dark), `no-ki` (still), `no-be` (erodes). The `no-*` productive pattern covers negation of light, motion, growth, and containment.
+
+4. **`su'ma-ki` (ice) overrides scaffold's `ma-su`.** The scaffold proposed `ma-su` for solid water; that compound was claimed for rock in MAT-001. `su'ma-ki` (structured flowing-matter) keeps ice in the water family and parallels `ma-su` (structured mineral matter = rock) and `su'ma-pa` (structured soil = clay): `su` consistently names the organized/solid form of a given matter.
+
+5. **The terrestrial water cycle is fully expressible.** Rain (`no-ko'ma-ki`) → soil (`ma-pa`) → plant (`zo-su`) → tree (`be-di'zo-su`) → fruit (`zo-be`); water erodes rock (`no-be lo-ma-su`); river (`di'ma-ki`) reaches sea (`pa'ma-ki`). No cycle step requires vocabulary outside current primitives and compounds.
+
+6. **No CLQ entries.** `ma-ki` is below the 3-morpheme threshold; water-feature stubs deferred as corpus pressure pending. `la-` confirmed earlier as grammatical agency prefix; S306 (`la-mi ki lo-di'ma-ki`) confirms a human agent crossing matter is structurally identical to matter moving through matter (S298).
+
+**Follow-on actions:**
+- Register `di'ma-ki`, `pa'ma-ki`, `ko'ma-ki`, `no-ko'ma-ki`, `lu-ko'ma-ki`, `su'ma-ki` in `registry/derived.md`.
+- No CLQ entry this batch.
 
 ---
 
