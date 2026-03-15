@@ -44,6 +44,7 @@ Never renumber existing W-numbers or S-numbers when splitting.
 | Root registry (named roots, non-primitive anchors) | `registry/roots.md` |
 | Colloquial contracted forms | `registry/colloquial.md` |
 | Sentence corpus quick-reference index | `corpus/sentences/index.md` |
+| Kind-term taxonomy tree (living things + matter) | `corpus/sentences/index.md §Kind-Term Taxonomy` |
 | Active sentence intake (new sentences here first) | `corpus/sentences/s279-plus.md` |
 | Corpus index | `corpus/index.md` |
 | Bible translation stress tests | `corpus/translations/Bible/` |
