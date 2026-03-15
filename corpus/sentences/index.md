@@ -49,3 +49,4 @@ Corpus evidence by batch (for cross-reference):
 | THO-001 | Divine attributes (`[X]-no-fe`) · `be-go-li` · image of God · identity copula gap | S349–S356 | s279-plus.md |
 | GOD-RES | *ruach*/spirit (`zo-si` vs `ra-ki`) · divine evaluation (`se`) · *nefesh* (`zo-ra`) · Beatitude formula | S357–S363 | s279-plus.md |
 | FAL-001 | Fallacy-resistance · `()` evidential frame · `:` topic frame · `ta` vs `go` | S364–S373 | s279-plus.md |
+| FAL-002 | Rhetorical fallacies · motte-and-bailey · moving goalposts · slippery slope · appeal to emotion · loaded question | S374–S378 | s279-plus.md |

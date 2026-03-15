@@ -2349,5 +2349,185 @@ Natural:   (Therefore, allegedly: I know there will be a resource decline.)
 6. **`(du …)` pattern.** ✅ First attestation of `(du …)` = "reportedly-therefore" — the `()` frame wrapping a `du`-introduced derived claim. Marks the inference as unestablished. Pattern: `(premise)  ,  (du  [conclusion])` = the speaker neither confirms the premise nor endorses the conclusion, presenting both as in circulation.
 
 **Open grammar questions (FAL-follow):**
-- [ ] **FAL-F-001:** Is there a well-formed Tonesu expression for "either/or" (inclusive/exclusive disjunction)? S366 sidestepped it by negating the `go`-bridge rather than forming the disjunction directly. A dedicated `go-no-go`-disjunction frame may be needed.
-- [ ] **FAL-F-002:** `go  (reported-premise)  →  la-mi  to  [conclusion]` — does Tonesu need an explicit rule blocking first-person certainty from `()` premises, or is the structural contrast sufficient?
+- [x] **FAL-F-001:** ~~Is there a well-formed Tonesu expression for "either/or" (inclusive/exclusive disjunction)?~~ **Resolved.** No disjunction particle needed. False dichotomies are better exposed by `no-go` + excluded-middle vocabulary than by a logical OR operator. A formal disjunction particle would serve symbolic logic but would reduce fallacy visibility in natural reasoned discourse — it would let a speaker assert a disjunction without committing to why the alternatives are exhaustive. The current `no-go`-based approach forces the causal denial to be explicit. **Policy:** do not introduce a disjunction particle.
+- [x] **FAL-F-002:** ~~Does Tonesu need an explicit rule blocking `go  (reported-premise)  →  la-mi  to  [conclusion]`?~~ **Resolved.** Do not block grammatically. (1) Sometimes legitimate: `(scientists report X)` can warrant `la-mi  to  X` when the listener endorses the source. (2) Structural visibility is sufficient: the move is explicit — a `go`-chain from a `()` premise to a bare `la-mi  to` conclusion is legible and challengeable. An interlocutor can ask: *why does reported evidence yield personal certainty?* Blocking syntactically would remove a valid inference mode. **Policy:** the move is legal, it is marked, and the reader holds the burden of challenge.
+
+---
+
+## Rhetorical Fallacy Corpus (S374–S378) — Batch: FAL-002
+
+**Purpose:** FAL-001 demonstrated Tonesu's structural resistance to *logical* fallacies (equivocation, false dichotomy, post hoc, circular reasoning, modal inflation). FAL-002 tests *rhetorical* fallacies — moves that exploit pragmatic rather than purely inferential gaps, and which interact more directly with the `:` topic frame and `()` evidential frame. Five cases: motte-and-bailey (topic-switch under challenge), moving the goalposts (retroactive condition change), slippery slope (unjustified causal cascade), appeal to emotion (affective-to-normative leap), loaded question (embedded presupposition). The first three stress-test `:` and `wi-fe`; the last two stress-test `()` and the `go`-chain requirement.
+
+---
+
+**S374 — Motte-and-bailey: strong claim retreating to weak claim.** *(FAL-002)*
+
+```
+Bailey (strong claim, bare assertion):
+la-ka-li-su  :  lo-zo-li  to-no-fe  ka
+
+Motte (retreat when challenged):
+la-ka-li-su  :  lo-zo-li  wi-ne  ne
+
+Correction:
+go  [la-ka-li-su  lo-zo-li  wi-ne  ne]  ,  no  la-ze  du  lo-to-no-fe  ka
+```
+
+**Literal:**
+- Bailey: "As for governance [as agent]: over persons, knowledge-without-limit action holds."
+- Motte: "As for governance [as agent]: toward persons, will-relation holds."
+- Correction: "Because governance holds will-relation to persons, it does not produce knowledge-without-limit action."
+
+**Natural:**
+- Bailey: "The state should exercise total, unlimited authority over persons."
+- Motte: "[All I said was:] governance has a meaningful, intentional relationship with persons."
+- Correction: "That governance engages with persons does not establish that it holds unlimited authority over them."
+
+**Notes:**
+- `:` forces explicit predicate commitment at every defensive move. Bailey predicate = `to-no-fe  ka` (unlimited-knowledge-action = total authority); Motte predicate = `wi-ne  ne` (will-relation holds = has intentional engagement). These are structurally distinct predicates.
+- A listener can demand at any point: *which predicate are you defending?* The `:` framing makes this a grammatically answerable question, not a rhetorical dispute.
+- `no  la-ze  du  lo-to-no-fe  ka` = "it does not produce unlimited-authority-action" — establishing `wi-ne  ne` yields only `wi-ne  ne`, no more.
+- `wi-ne` = will-relation = intentional/purposive engagement (compositional `wi` will + `ne` relation; new compound, ⚠️ proposed).
+
+---
+
+**S375 — Moving the goalposts: retroactive condition change.** *(FAL-002)*
+
+```
+(1) Original condition (attributed, past):
+(go  [la-mi  lo-ra  se]  ,  la-mi  lo-to-si-ze  to-ki)
+
+(2) Condition met:
+la-mi  lo-ra  se-past
+
+(3) New goalpost (bare, present):
+la-mi  wi-fe  be  :  lo-ra-ne  se-to
+```
+
+**Literal:**
+1. "(Reportedly: if I perceive-the-evidence-signal, I will move toward certainty about your proposal.)"
+2. "I perceived the evidence-signal."
+3. "A rule has come into existence for me: corroborating-relational-signal must be certainly perceived."
+
+**Natural:**
+1. "(You reportedly said: if I see the evidence, I will accept your position.)"
+2. "The evidence was produced."
+3. "I now add a condition: I need peer-corroboration as well."
+
+**Notes:**
+- `wi-fe  be` = W100 `wi-fe` + `be` inchoative = rule-comes-into-existence. This is the structural tell: the standard has been replaced. The old condition was inside `()` (attributed, reported); the new condition is bare-asserted in the present. No grounds are given for the change.
+- The asymmetry is legible: `()` premise → met condition → ungrounded bare `wi-fe  be`. An interlocutor can ask: *what warrants the new condition entry?*
+- `to-ki` = knowledge-movement = epistemic approach to certainty (compositional `to` + `ki`; new compound, ⚠️ proposed).
+- `ra-ne` = signal-relation = corroborating/relational evidence (compositional `ra` + `ne`; new compound, ⚠️ proposed).
+- `se-to` = perception-knowledge = perception that has risen to certainty (compositional `se` + `to`).
+
+---
+
+**S376 — Slippery slope: unjustified causal cascade.** *(FAL-002)*
+
+```
+Fallacious chain:
+go  [lo-wi-fe  de]  ,
+(du  lo-ne-ki  de)  ,
+(du  lo-ka-li-su  de)  ,
+(du  lo-ne-su  de)
+
+Correction:
+go  [lo-wi-fe  de]  ,  la-mi  no-se  lo-ne-ki  de
+```
+
+**Literal:**
+- Fallacious: "Because rules weaken: [allegedly bonding decays], [allegedly governance decays], [allegedly the relational-structure collapses]."
+- Correction: "Because rules weaken: I have no perceptual basis that bonding decays [from this alone]."
+
+**Natural:**
+- Fallacious: "If we relax regulations, social bonds will erode, then governance will collapse, then society will break down."
+- Correction: "Regulations weakening gives me no perceptual basis that social bonding itself decays from that single cause."
+
+**Notes:**
+- The fallacious chain has one bare `go [X]` (speaker certifies the initial causal premise), then wraps every subsequent step in `(du  …)` — each marking a further alleged-therefore. In English, "then Y follows, then Z, then catastrophe" sounds like a continuous causal chain. In Tonesu, the speaker must use `go [X] , Y` for each certified step. Here the speaker wrote `go [X]` once and stacked four `(du...)` consequences — the uncertainty structure is directly visible.
+- The correction uses `no-se` (W086: no perceptual basis) to mark the first inferential gap: even granting the initial premise, the next step has no grounding.
+- For a legitimate causal chain, each step would need its own independent `go`-grounding before being asserted bare.
+- `ne-ki` = relation-inchoative = bond-forming / social connection. First corpus attestation S013 as `ne-ki` verb; here `lo-ne-ki  de` = bond-forming decays = social bonds weaken.
+- `ne-su` = relation-structure = social/relational fabric (compositional `ne` + `su`; new compound, ⚠️ proposed).
+
+---
+
+**S377 — Appeal to emotion: affective fact to normative conclusion.** *(FAL-002)*
+
+```
+Illegitimate (emotional fact → specific policy without warrant chain):
+la-zo-ne-du  lo-fa  de-past  ,
+(du  la-mi  lo-zo-ne-du  pa-ki)
+
+Legitimate (full warrant chain stated):
+go  [la-zo-ne-du  lo-fa  de-past]  ,
+go  [la-mi  lo-zo-ne-du  vo-wi]  ,
+la-mi  lo-zo-ne-du  pa-ki
+```
+
+**Literal:**
+- Illegitimate: "The offspring: [their] affect was in decay. [Allegedly therefore: I make the offspring's place move.]"
+- Legitimate: "Because the offspring's affect was in decay, and because I will toward the offspring's value: I make the offspring's place move."
+
+**Natural:**
+- Illegitimate: "The child is suffering — so we must relocate them."
+- Legitimate: "Because the child is suffering, and because I hold their wellbeing as a value I act from: I relocate the child."
+
+**Notes:**
+- The illegitimate form presents an affective fact (`lo-fa  de`) and wraps the specific responsive action in `(du  …)`, marking the causal leap as alleged. The emotional state alone does not specify *which* response is warranted — multiple responses are possible, none generated automatically by `fa  de`.
+- The legitimate form surfaces the minimum chain: (a) the affective state as fact, and (b) the agent's declared value commitment (`vo-wi`). Only with both in play does the action receive warrant. A fully explicit form would add a third `go`-link: the empirical claim that this specific action reduces `fa-de`.
+- **Design insight:** the `go`-chain requirement forces a speaker to distinguish *the state that triggers feeling* from *the warrant for a specific response*. Emotional facts belong in the chain; they do not bypass it.
+- `zo-ne-du` = organism-lineage-result = offspring/child (compositional `zo-ne` lineage + `du` result; new compound, ⚠️ proposed).
+- `pa-ki` = space-movement = relocation (compositional `pa` space + `ki` movement; see also `ki-pa` corridor, attested NUM-001).
+- `vo-wi` = value-will = will directed at value / cherish (compositional `vo` + `wi`).
+- `fa-de` = affect-decay = affective distress (compositional `fa` + `de`).
+
+---
+
+**S378 — Loaded question: smuggled presupposition.** *(FAL-002)*
+
+```
+Loaded (presupposition hidden inside question frame):
+to-si  [la-zu  lo-to-de  de-fe-past]
+
+Well-formed interrogation (presupposition extracted and marked):
+(la-zu  lo-to-de  ka-past)  ,  to-si  [la-ze  de-fe-past]
+```
+
+**Literal:**
+- Loaded: "Is-it-asked: your knowledge-distortion reached its end [in the past]?"
+- Well-formed: "(Reportedly: you performed deliberate knowledge-distortion in the past.) Is-it-asked: did it end?"
+
+**Natural:**
+- Loaded: "Have you finally stopped spreading falsehoods?"
+- Well-formed: "(Reportedly: you were deliberately spreading falsehoods.) — Did that stop?"
+
+**Notes:**
+- The loaded form embeds `la-zu  lo-to-de  ka-past` (you were deliberately distorting knowledge) directly inside the `to-si` question frame as if it were established. The listener is invited to answer the question, which implicitly accepts the presupposition.
+- The well-formed form extracts the presupposition, wraps it in `()` (contested/reported, not established), then asks only about the terminus of that alleged practice. A listener can now step back and challenge the `()` premise before engaging with the question.
+- This confirms the general principle: any `to-si` question that contains a contestable premise requires that premise to be made explicit as `()` before the question is well-formed. The mechanism is identical to the one that governs bare assertion hygiene.
+- `to-de` = knowledge-decay = falsehood/distortion (compositional `to` + `de`; new compound, ⚠️ proposed).
+- `de-fe` = decay-limit = terminus / the point at which a decay process ends (compositional `de` + `fe`).
+
+---
+
+## FAL-002 Batch Summary
+
+**Confirmed results:**
+
+1. **`:` in motte-and-bailey.** ✅ S374 confirms that `:` holds the speaker to explicit predicate commitment at each defensive move. Bailey (`to-no-fe  ka`) and Motte (`wi-ne  ne`) are structurally distinct — the `:` frame makes the substitution a visible grammatical event, not an unmarked rhetorical slide. Establishing the Motte yields only the Motte predicate; `no  la-ze  du  lo-to-no-fe  ka` is the explicit refusal of the bailey.
+
+2. **`wi-fe  be` as goalpost marker.** ✅ S375 establishes `wi-fe  be` (rule-comes-into-existence) as the structural signal of retreating standards. The old condition lives in `()` (attributed, past); the new condition is bare-asserted present. The asymmetry is directly readable; no meta-commentary is needed.
+
+3. **`(du  …)` cascade for slippery slope.** ✅ S376 demonstrates that a slippery-slope argument naturally produces a tower of `(du  …)` wraps, each certifying one uncertain link. The speaker's commitment level is rendered transparent per step: one bare `go` launching four `(du...)` alleged-therefores is immediately parseable as "only the first step is asserted."
+
+4. **`go`-chain explicitness for appeal to emotion.** ✅ S377 confirms that affective states are valid inputs to causal chains but cannot short-circuit them. At minimum a value-commitment (`vo-wi`) must be stated alongside the emotional fact to warrant any specific action. The `(du  …)` on the policy conclusion in the illegitimate form marks the inferential gap correctly.
+
+5. **`to-si` presupposition extraction.** ✅ S378 confirms that well-formed interrogation requires embedded contestable premises to be extracted and wrapped as `()` before the question is posed. This is not a new rule — it is the `()` principle applied to the question-formation domain.
+
+**Cross-batch observation (FAL-001 + FAL-002):** Rhetorical fallacies engage the same four mechanisms as logical ones. The motte-and-bailey is a `:` topic-predicate substitution. The loaded question is a `()` extraction failure. The slippery slope is undisclosed `(du  …)` stacking. The appeal to emotion is an incomplete `go`-chain. No new grammatical machinery was needed for FAL-002 — the existing system covered all five cases.
+
+**Open grammar questions (FAL-follow):**
+- [ ] **FAL-F-003:** `wi-fe  be` (rule-comes-into-existence) is used in S375 as the goalpost marker. Should this compound be registered formally (W-series) or is the `wi-fe` + `be` inchoative composition self-evident from existing spec? Registration would give it a canonical spoken-form citation.
+- [ ] **FAL-F-004:** S378 establishes presupposition extraction as the correct strategy for loaded questions. Is there a canonical corpus test needed for *nested* presuppositions (a `to-si` frame that carries two or more hidden premises), or is the S378 single-presupposition case sufficient to establish the principle?

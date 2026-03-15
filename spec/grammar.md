@@ -646,7 +646,7 @@ The evidential frame does not encode *how certain* the speaker is about the cont
 
 **Notation reference:** see spec/phonology.md § `()` — Evidential Frame for the full notation specification including `~` interaction.
 
-**Corpus batch:** FAL-001 (fallacy-resistance corpus). First attestation pending.
+**Corpus batch:** FAL-001 (fallacy-resistance corpus). First attestations: S365 (straw man), S369 (appeal to authority), S373 (modal fallacy). `(du …)` pattern (reportedly-therefore): first attested S365.
 
 ---
 
@@ -676,7 +676,7 @@ lo-ne-ra : la-mi  no-se  lo-ze      →  As for the resonance — I have no perc
 
 **Metalanguage uses of `:` and `::`:** in registry entries and spec notation, `:` introduces an explanatory gloss (`to-si : knowledge-seeking signal`) and `::` introduces a structural decomposition (`to-si :: to + si`). See spec/phonology.md § `:` and `::` — Definition and Topic Marks.
 
-**Corpus batch:** FAL-001 (fallacy-resistance corpus). First attestation pending.
+**Corpus batch:** FAL-001 (fallacy-resistance corpus). First attestations: S368 (ad hominem), S371 (composition/division).
 
 ---
 

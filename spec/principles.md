@@ -104,3 +104,26 @@ A charge of heresy, in any other culture, is a claim that someone has mislabeled
 - **Religion does not require a separate domain.** The `to-re-su` (canonical recurring doctrine) / `to-fe-su` (epistemic standards body) / `to-fe-li` (arbiter) machinery serves science, engineering, law, and religion with the same tools. No domain split is needed; the content of the proposition is all that differs.
 - **The "no heresy" result generalizes.** Any domain in which humans have developed specialized vocabulary for "epistemic violation within that domain" — academic fraud, perjury, false prophecy — will compress in Tonesu to a `to-fe-ka` charge with contextually specified content. Tonesu makes the epistemic structure visible by refusing to lexicalize the domain distinctions.
 - **Guard (normative):** Do not add domain-specific epistemic-violation compounds (`zo-fe-ka` for "biological fraud," `wi-fe-ka` for "doctrinal heresy," etc.). All such concepts route through the unified `to-fe` system. The unification is the point.
+
+---
+
+## 11. Reasoning Transparency
+
+The language name is itself a design statement: `tonesu :: to + ne + su` — pattern, relation, structure. Well-formed reasoning requires all three simultaneously: accurately identified patterns (`to`), correctly declared relations (`ne`), and complete structural coverage (`su`). Every common logical fallacy attacks exactly one of these three elements.
+
+| element | what is attacked | canonical fallacies |
+|---------|-----------------|--------------------|
+| `to` — pattern | same form, different referents | equivocation, false analogy |
+| `ne` — relation | wrong relation type declared | post hoc, false cause, non sequitur |
+| `su` — structure | structurally incomplete claim | false dichotomy, composition/division |
+
+Tonesu's four grammatical mechanisms expose fallacies by forcing each element into explicit commitment:
+
+- **Lexical precision** — two different compounds cannot be silently conflated (`to-fe` ≠ `wi-fe`). Pattern commitment is forced at the point of word selection.
+- **Relation typing** (`go`/`ta`/`wi`) — the speaker must declare the class of relation. `ta` (temporal co-occurrence) and `go` (causation) are structurally separate; drifting from one to the other requires a new sentence with a new clause introducer.
+- **Topic framing** (`:`) — the structural subject is held explicit. Shifting from arguing about a proposition to arguing about a person is a topic change; `:` makes that shift a grammatical commitment the listener can challenge.
+- **Evidential framing** (`()`) — epistemic laundering is exposed. Presenting a reported claim as personal knowledge requires removing the `()` bracket — an act the speaker must perform consciously.
+
+FAL-001 (S364–S373) provides empirical demonstration across ten fallacy types. FAL-002 (S374–S378) extends the demonstration to rhetorical fallacies.
+
+*Corollary: Tonesu does not prevent fallacies — it prevents them from being invisible. A speaker can still reason badly, but they cannot do so without structural commitments that a careful listener can identify and challenge. Visibility, not prohibition, is the design goal.*
