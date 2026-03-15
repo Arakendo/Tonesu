@@ -1480,3 +1480,187 @@ Turn B2:  ki  lo-pa-mi
 - Update spec/grammar.md § Temporal Frame table: replace `ta-now` placeholder with `ti-mi (W109)`. ✓ (done in prior edit)
 - Formalize agent-drop recovery conditions in spec/grammar.md § Ellipsis (new subsection).
 - Close open question: "Agent drop / speaker drop in conversation" (open-questions.md) — this batch provides the three-pattern taxonomy needed.
+
+---
+
+## Interrogative Register, Tense Semantics, Symmetric Predicates, Counterfactuals (S342–S348) *(GRM-002)*
+
+*Batch purpose (GRM-002): seven targeted grammar exercises extending underexplored constructions. `ku` particle formalized (first introduced S320, grammar deferred). `ta-ti-mi` temporal blocking constraint established: intrinsic `la-X Q` attributions are atemporal and block temporal framing; contingent `lo-X Q` states license it. `wi` purpose frame confirmed for non-human ecological agents. `ne` relational predicate extended to all-human arguments. `to-go` counterfactual applied to natural-world causal chains. `to-si` content question with biological subjects. Each sentence targets one deferred grammar note or untested extension.*
+
+*Pre-processing decisions:*
+- *S320's person-marking ambiguity (`la-mi se lo-zon ku?`) resolved here: `la-mi` is self-directed. The corpus annotation "Have you seen a deer?" was a loose natural translation. The literal form is a speaker self-check. Other-directed casual questions require `la-tu`, as shown in S343.*
+- *`ta-ti-mi` blocking: the constraint `*la-X Q ta-ti-mi` follows from first principles — intrinsic `la-X` attributions are definitionally atemporal. This is not a new exception but a consequence of the `la-/lo-` distinction already established at S162–S163 and confirmed at S339–S340.*
+- *`wi` with non-human agents: the `wi` root encodes outcome-oriented process, not necessarily conscious deliberation. Machine agents (S016) already established this; organism agents are a continuous extension. No anthropomorphism is introduced.*
+- *`to-go` ecological counterfactual: pairs naturally with S335 (the asserted past event) and S347 (the counterfactual negation of that event), demonstrating that `to-go` operates on any agent class.*
+
+---
+
+**S342 — Casual polar question: "Did I see a herd animal?"** *(GRM-002-A)*
+
+*Target: Resolve S320 person-marking ambiguity. Establish `ku` as clause-final casual polar question particle. Self-directed form.*
+
+```
+Gloss:    la-mi  se  lo-zon  ku?
+Literal:  agent:me  perceived  patient:herd-animal(casual)  [query?]
+Natural:  Did I see a herd animal? / Was that a deer I spotted?
+```
+
+**Notes:**
+- **Resolves S320 person-marking.** S320 first attested `ku` but the corpus note annotated it "Have you seen a deer?" — ambiguous with the `la-mi` agent. Resolution here: `la-mi  se  lo-zon  ku?` is a *self-directed check question*. The speaker uses `la-mi` because they are checking their own prior perception: "wait, did *I* actually see a herd animal just then?" The natural English loose render "Have you seen a deer?" was an annotation error attributing second-person intent to a first-person form. In Tonesu, `la-mi` in a question always means the *speaker* is asking about themselves. To ask the listener, use `la-tu` (see S343).
+- **`ku` = clause-final polar question particle (casual register).** Placed at the end of an otherwise structural declarative, converting it into a yes/no question. No structural gap is created in the proposition (unlike content-question `to-si?`, which fills a syntactic slot).
+- **Register position:** `ku` is colloquial/familiar. Use in face-to-face conversation, self-directed checking, rapid informal exchange. The formal register equivalent is always `to-si — [proposition]` (fronted inquiry frame). Both encode the same polar question; register choice signals social proximity and formality.
+- `zon` = CLQ-006a colloquial stub for `zo-se-ne` (herd ungulate). First re-use since S320.
+
+---
+
+**S343 — Casual polar question: "Did you see a deer?" + register contrast** *(GRM-002-B)*
+
+*Target: Other-directed `ku` question with `la-tu`. Full register pair showing identical proposition in casual and formal form.*
+
+```
+Casual:    la-tu  se  lo-re'zo-se-ne  ku?
+           agent:you  perceived  patient:deer  [query?]
+
+Formal:    to-si — la-tu  se  lo-re'zo-se-ne
+           [inquiry-frame] — agent:you  perceived  patient:deer
+
+Natural:   Did you see a deer?  (both forms; casual vs formal register)
+
+Typical response:  ru — se  lo-re'zo-se-ne  ta-ti-de
+                   yes — [I] perceived  patient:deer  at-past-time
+                   (Yes — I saw one earlier.)
+```
+
+**Notes:**
+- **Other-directed `ku`:** `la-tu` marks the addressee as the perceiving agent. The casual particle `ku` is agent-slot-agnostic — it does not care who the agent is. The slot follows normal Tonesu case-marking: `la-mi` = speaker, `la-tu` = listener, `la-ze` = third party.
+- **Register alternation confirmed.** `la-tu se lo-re'zo-se-ne ku?` (casual) and `to-si — la-tu se lo-re'zo-se-ne` (formal) ask the identical polar question. The only difference is register: `ku` signals familiarity; `to-si —` signals neutrality or formality. This is a systematic two-register polar question alternation with no semantic content difference.
+- **Response:** Speaker-drop (`la-mi` omitted) in the response `ru — se lo-re'zo-se-ne ta-ti-de` follows Pattern 2 ellipsis (GRM-001, S341). The perception predicate is speaker-attributable only; `la-mi` is recoverable and omitted. `ta-ti-de` = at past time = "earlier."
+- `re'zo-se-ne` = deer (discriminator `re` = cyclic return, on `zo-se-ne` herd ungulate). First re-use since S317 (KNM-007).
+- **`ku` grammar fully formalized.** Deferred note from KNM-007 verdict item 7 is now closed. Full specification in `spec/grammar.md § Casual Register (ku)` under § Questions.
+
+---
+
+**S344 — Temporal blocking: `*la-X Q ta-ti-mi` vs `lo-X Q ta-ti-mi`** *(GRM-002-C)*
+
+*Target: Establish the temporal-frame compatibility constraint. Intrinsic `la-X Q` attributions are atemporal; temporal frames are blocked. Contingent `lo-X Q` states are temporally variable; temporal frames are licensed.*
+
+```
+Blocked:      * la-zo-su  be-vo  ta-ti-mi
+Grammatical:    lo-zo-su  be-vo  ta-ti-mi
+
+Literal (grammatical):  patient:plant  generative-quality  at-present-time
+Natural:  This plant is actively growing right now.  (emphatic present; contingent state)
+```
+
+**Notes:**
+- **`ta-ti-mi` is blocked from intrinsic attributions.** `la-X Q` (Type 2, spec/grammar.md § Predication Strategies) encodes Q as a constitutive property of X — atemporal by definition. Adding `ta-ti-mi` creates a type mismatch: intrinsic properties cannot be restricted to a time interval ("plants have generative capacity *right now*" implies they might not at other times — but that would contradict the intrinsic claim). `*la-zo-su be-vo ta-ti-mi` is therefore semantically anomalous regardless of tense direction: `*ta-ti-de`, `*ta-ti-be`, and `*ta-ti-mi` are all blocked from Type 2 attribution frames.
+- **`ta-ti-mi` is licensed on contingent states.** `lo-X Q` (Type 1) encodes Q as a current, variable state of X. `lo-zo-su be-vo ta-ti-mi` = "this plant is in an active growing state specifically at this moment." The `ta-ti-mi` adds contrastive emphasis: it's growing *now* (as opposed to, say, spring vs winter dormancy). This is semantically coherent; the plant can exit the state, so time-indexing it is well-formed.
+- **Decision rule:** apply `ta-[time]` only when the predicate describes a state that can enter, exit, or vary across time. If `ta-[time]` seems needed but the entity is in a `la-X` frame, reconsider: either the claim is genuinely contingent (switch to `lo-X`) or the temporal frame is misapplied (drop it).
+- **Contrast with S339/S340:** S339 (`la-zo-su be-vo`) = bare intrinsic attribution, no time frame possible. S340 (`lo-zo-su be-vo`) = bare contingent state, default present. S344 (`lo-zo-su be-vo ta-ti-mi`) = emphatic present for contingent state, contrastively foregrounding the current moment. The three form a minimal paradigm.
+
+---
+
+**S345 — `wi` purpose frame: non-human ecological agent** *(GRM-002-D)*
+
+*Target: First corpus attestation of `wi` with an organism-class agent. Tests whether outcome-oriented process semantics of `wi` extend beyond human and machine agents.*
+
+```
+Gloss:    la-zo-ne  ki  lo-ma-pa  wi [de  lo-zo-su]
+Literal:  agent:fungal-network  moved  patient:soil  intention [decays patient:plant]
+Natural:  The mycelial network spreads through the soil in order to decompose plant matter.
+```
+
+**Notes:**
+- `wi [de lo-zo-su]` = purpose clause: "to decay/break down plant material." Same-agent reduction: `la-zo-ne` is omitted from the purpose clause because it is identical to the matrix clause agent. Canonical full form: `la-zo-ne  ki  lo-ma-pa  wi [la-zo-ne  de  lo-zo-su]`.
+- **Non-human extension of `wi`.** Prior `wi` attestations (S016–S017) used human agents with expressed intentions. `la-zo-ne` is a fungal mycelial network — a distributed biological system without a centralized cognitive apparatus. Tonesu's design decision: `wi` encodes *outcome-oriented process*, not necessarily *conscious deliberation*. Hyphal growth is directionally shaped by the chemical gradient of organic material in the soil; the network's spread is oriented toward decomposition in the same functional sense as a machine's operation is oriented toward its design purpose (S016). `wi` spans this range because outcome-orientedness is the root semantics, not mentalistic intention.
+- This is a continuous extension of the precedent set at S016 (machine agent, designed purpose). The functional purposiveness of hyphal growth — seeking substrate — licenses `wi` precisely because `wi` captures the structure `[agent acts] → [outcome targeted]` without requiring the agent to represent the outcome propositionally.
+- **First corpus attestation of `wi` with an organism-class agent.**
+- The `de lo-zo-su` purpose clause is the ecological function that defines the `zo-ne` role in the carbon cycle (established S334: closing the ecological loop `de lo-ma-pa → zo-ne → ma-pa`). S345 encodes that cycle as a purposive structure.
+
+---
+
+**S346 — `ne` predicate: person-to-person relation with co-participant** *(GRM-002-E)*
+
+*Target: Three-place `ne` relational predicate with all-human arguments. Extends S333 (organism-organism) to person-person, and extends the `na-` co-participant slot to the pronoun `ze`.*
+
+```
+Gloss:    la-mi  ne  lo-tu  na-ze
+Literal:  agent:me  relates  patient:you  with:them
+Natural:  I connected you with them. / I introduced you to them.
+```
+
+**Notes:**
+- `la-mi ne lo-tu na-ze` = three-place `ne` predication: connector (`la-mi`) relates primary relatum (`lo-tu`) to co-participant (`na-ze`). Structure exactly parallels S333: `zo-ne  ne  zo-su  na-zo-su` (network relates plant with-plant). In S346 all three argument slots are filled by personal pronouns.
+- **Three-place `ne` pattern:** `[connector] ne [primary-relatum-lo] na-[co-participant]`. The connector holds the `la-` agent slot and is the entity doing the relating; the `lo-` patient is the primary relatum; `na-` marks the second relatum as co-participant. The relation is symmetric between `lo-` and `na-` (you-they and they-you describe the same connection), but the agent-slot connector is directional (it is `la-mi` who initiated the connection).
+- **`na-ze` as human co-participant pronoun.** Prior `na` uses: name marker (`na Max`, S269), location (`na-di'ma-ki`, S312), vehicle/movement-partner (`na-[horse]`, S318), organism second-relatum (`na-zo-su`, S333). S346 adds: personal pronoun co-participant (`na-ze`). `na` is fully argument-class-agnostic.
+- **Two-place `ne` variant:** when the initiating connector is not the focus, the two-place form `la-mi  ne  lo-tu` ("I am in relation to you / we are connected") is available. The co-participant `na-ze` adds the second relatum required when the relation is explicitly triangulated.
+- **Class completeness of `ne` as predicate:** technical/machine (earlier relay battery notes), organism-organism (S333), person-person (S346). `ne` is confirmed class-agnostic as a relational predicate.
+
+---
+
+**S347 — `to-go` counterfactual: ecological causal chain (past)** *(GRM-002-F)*
+
+*Target: First natural-world `to-go` counterfactual. Past counterfactual about ecological contingency. Ties back to the tense-triple narrative S335–S337.*
+
+```
+Gloss:    to-go [lo-be-di'zo-su  no-ki  lo-ma-pa  ta-ti-de]  la-zo-ne  no-ki  lo-ma-pa  ta-ti-de
+Premise:  patient:tall-tree  negated-moved  patient:soil  at-past-time
+Result:   agent:fungal-network  negated-moved  patient:soil  at-past-time
+Natural:  If the tall tree had not fallen, the mycelial network would not have spread.
+```
+
+**Notes:**
+- **Structure:** `to-go [PREMISE] RESULT` per spec/grammar.md § Counterfactual Frame. Both premise and result carry `ta-ti-de` temporal markers locating the hypothetical in past time. The premise subject uses `lo-` (consistent with established pattern: S130 `lo-ra-ki-mu  de  ti-de`, S131 `lo-to-re-su  to-fe-su-ki  ti-de`).
+- `no-ki` = non-motion / did not move. Level 1 negation (`no-` prefix on action root `ki`). Applicable both to quality roots (standard) and action roots in predicate position. `no-ki` = the motion did not occur = the tree did not fall.
+- **Tying back to S335:** S335 asserted `la-be-di'zo-su  ki  lo-ma-pa  ta-ti-de` (the tall tree fell, past, actually). S347 takes that same event, negates it (`no-ki`), shifts to `lo-` slot (premise-object), and places the whole in `to-go` counterfactual space. The ecological chain from the tense triple is now tested for causal necessity: without step 1 (tree falls), the downstream `zo-ne` spread (step 3) would not have occurred.
+- **Ecological counterfactual reasoning:** the dead fallen tree is the substrate for both `su'zo-ne` fruiting (S336) and `zo-ne` mycelial establishment (S337). S347 asserts this as a causal dependency: the tree's fall was a necessary condition for the fungal life-cycle events that followed. `to-go` encodes precisely this class of necessary-condition reasoning.
+- **First `to-go` with natural-world subjects.** Prior S130/S131 used technical/institutional agents. S347 confirms `to-go` is agent-class-independent.
+- `la-zo-ne` (result clause) uses `la-` rather than `lo-` because the result is the active non-spreading of the network — the network as agent of its own expansion. In the result clause the agent is the entity whose action (or non-action) is the consequence; in the premise clause the tree is cast as `lo-` patient of the counterfactual state.
+
+---
+
+**S348 — Content question: "What does a plant produce?"** *(GRM-002-G)*
+
+*Target: `to-si` in patient argument slot with biological organism subject. First content question with a natural-world agent. Tests `to-si` content-question mode (argument-position) vs polar-question mode (fronted).*
+
+```
+Question:  la-zo-su  be  lo-to-si?
+           agent:plant  produces  patient:knowledge-seeking
+           What does a plant produce?
+
+Answer:    la-zo-su  be  lo-zo-be
+           agent:plant  produces  patient:biological-product
+           A plant produces reproductive bodies. / Plants produce seeds.
+```
+
+**Notes:**
+- `lo-to-si?` = `to-si` (W026) in the patient argument slot = content question. The proposition is otherwise structurally complete; `to-si` marks the unknown argument. Terminal `?` marks prosodic rise. Structure is `to-si?` argument-position = content question seeking the patient (what is produced?). Contrast with fronted `to-si — la-zo-su be` = polar question (does the plant produce? yes/no).
+- `be` as production predicate: `la-X  be  lo-Y` = X produces/grows Y. Both agent and patient slots filled for the productive reading of `be`. The quality-state reading (`lo-X be-vo`) is distinct; here `be` is a transitive production event with an explicit patient slot.
+- **Answer structure:** `la-zo-su  be  lo-zo-be` replaces the `to-si` placeholder with the answer content. `zo-be` (biological reproductive body: seed, spore, fruiting body) fills the patient slot. The answer is structurally identical to the question; the unknown is resolved by substitution.
+- **Production as intrinsic claim:** the answer uses `la-zo-su` (agent slot), making it a Type 2 structural claim: plants intrinsically produce reproductive bodies. This is a categorical generalization, not a contingent event description. If the question asked about a specific plant currently in reproductive mode, the student would respond with `lo-zo-su  be  lo-zo-be  ta-ti-mi` (Type 1, contingent, emphatic present).
+- **`to-si` cross-domain.** Prior content-question `to-si` attestations: `de vo to-si?` (C001 B1: what quality of damage?) and `lo-pa-ra ne-ra vo to-si?` (C006 A2: what quality of resonance?). Both used `to-si` in a quality-qualifier slot. S348 places `to-si` in a patient-entity slot for the first time: the unknown is not a quality but a produced *thing*. The positional rule (argument-slot = content question) applies identically regardless of which argument slot is filled.
+
+---
+
+**Verdict GRM-002: Seven grammar constructions extended. Eight findings:**
+
+1. **`ku` particle fully formalized (S342–S343).** Casual clause-final polar question particle. Person-marking follows normal rules: `la-mi` = self-directed; `la-tu` = other-directed. S320 person-marking ambiguity resolved: `la-mi  se  lo-zon  ku?` is a self-check ("did I see one?"), not other-directed. Register pair confirmed: `ku` (casual) / `to-si —` (formal) are alternates for the same polar question. Full spec in grammar.md § Casual Register (ku).
+
+2. **`ta-ti-mi` temporal blocking established (S344).** Intrinsic `la-X Q` attributions are atemporal; all temporal frames (`ta-ti-de`, `ta-ti-mi`, `ta-ti-be`) are blocked from them. Contingent `lo-X Q` states license temporal frames. Decision rule: apply `ta-[time]` only when the predicate describes a temporally variable state. Rule added to grammar.md § Temporal Frame.
+
+3. **`wi` confirmed for non-human agents (S345).** The `wi` purpose frame encodes outcome-oriented process; it does not require conscious deliberation. Organism-class agents (fungal network) are licensed under the same precedent as machine agents (S016). `wi` is now confirmed class-agnostic: human (S016–S017), machine (implicit), organism (S345).
+
+4. **`ne` three-place predicate extended to human relata (S346).** All three argument slots (`la-mi`, `lo-tu`, `na-ze`) are personal pronouns. The connector-relatum-co-participant structure is class-agnostic: organism-organism (S333), person-person (S346). `na-` pronoun co-participant confirmed (`na-ze` first attestation).
+
+5. **`to-go` confirmed for natural-world agents (S347).** First ecological counterfactual. `no-ki` (negated motion root) as premise predicate. `lo-` premise subject consistent with S130/S131. Both premise and result carry `ta-ti-de` for past counterfactual location. `to-go` is confirmed agent-class-independent.
+
+6. **`to-si` in entity patient slot (S348).** Prior content-question `to-si` attestations used quality-qualifier slots. S348 places `to-si` in an entity-patient slot (`lo-to-si?`). The positional rule (argument-position = content question) applies regardless of argument type (quality vs entity). Answer by substitution confirmed (`be  lo-zo-be`).
+
+7. **`be` transitive production predicate confirmed.** `la-X  be  lo-Y` = X produces Y. Distinct from quality-state `be-vo` and from bare `be` (growth/increase). Three semantic readings of `be` now attested: (a) change of state/growth (`la-X be` = X expands/grows); (b) quality compound (`be-vo` = generative quality); (c) transitive production (`la-X be lo-Y` = X produces Y).
+
+8. **`na-ze` pronoun in co-participant slot (S346).** `na` has now appeared in five roles: name marker, location, vehicle/movement-partner, organism relatum, personal pronoun relatum. The co-participant slot accepts full noun phrases and pronouns indifferently.
+
+**Follow-on actions:**
+- Add `§ Casual Register (ku)` to spec/grammar.md § Questions. ✓ (done in this commit)
+- Add `ta-ti-mi` temporal blocking rule to spec/grammar.md § Temporal Frame. ✓ (done in this commit)
+- Update `ti-mi` corpus attestation in the Time Reference Compounds table (was `—`; now S336). ✓ (done in this commit)

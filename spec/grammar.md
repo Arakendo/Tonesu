@@ -383,6 +383,45 @@ Polar questions receive minimal or full responses:
 negation/absence used sentence-initially as affirmative and negative discourse responses.
 Their use here is semantically transparent and does not require special lexical status.
 
+### Casual Register (`ku`)
+
+In casual face-to-face speech, `ku` may replace fronted `to-si —` as the polar question
+marker. `ku` is a clause-final particle: it follows the complete proposition rather than
+preceding it.
+
+```
+[complete proposition]  ku?
+```
+*Is [proposition] true?*  (casual register)
+
+Compared against the formal polar form:
+
+```
+to-si — [complete proposition]
+```
+
+Both ask identical polar questions. Register choice signals social proximity (`ku`) or
+neutrality and formality (`to-si —`).
+
+**Person-marking in `ku` questions follows normal rules.** The agent slot is filled by the
+expected pronoun for the person the question is about:
+
+| Form | Natural reading |
+|------|-----------------|
+| `la-mi  [predicate]  ku?` | Did I [predicate]? — self-directed check |
+| `la-tu  [predicate]  ku?` | Did you [predicate]? — addressee-directed |
+| `la-ze  [predicate]  ku?` | Did they [predicate]? — third-party directed |
+
+**S320 resolution.** S320 first attested `la-mi  se  lo-zon  ku?` and the corpus note
+loosely translated it as "Have you seen a deer?" This was an annotation error. The form
+is self-directed: the speaker is checking their own prior perception ("wait, did *I* see a
+herd animal just then?"). An other-directed form would require `la-tu  se  lo-zon  ku?`
+(Did you see a herd animal?). Formalized at S342–S343 (GRM-002).
+
+**`ku` is not registered as a semantic primitive.** Like `la`, `lo`, `na`, and `ta`,
+it is a grammatical particle derived from discourse function, not from the root inventory.
+It does not appear in the primitives or derived registries.
+
 ---
 
 ## Epistemic Modality
@@ -988,7 +1027,7 @@ The `ti` (time) root combines with directional primitives to produce a family of
 | Compound | Roots | Meaning | Corpus | Registry |
 |----------|-------|---------|--------|----------|
 | `ti-de` | time + decay | past time; previous interval; yesterday | S035, S066 | W041 |
-| `ti-mi` | time + self/speaker | present moment; now (deictic anchor) | — | W109 |
+| `ti-mi` | time + self/speaker | present moment; now (deictic anchor) | S336 | W109 |
 | `ti-be` | time + growth | proximate future; next time; tomorrow | C003, C006 A4 | W040 |
 | `ti-re` | time + recurrence | next scheduled occurrence; next cycle | C006 B4 | W103 |
 | `ti-fe` | time + boundary | deadline; time-limit; the moment of | throughout | W037 |
@@ -1003,6 +1042,39 @@ The `ti` (time) root combines with directional primitives to produce a family of
 **Decision rule:** use `ti-be` when the claim is only that time will pass; use `ti-re` when the event belongs to a known recurrent pattern and the next instance is being referenced.
 
 **Corpus contrastive pair (C006):** A4 uses `ta-ti-be  ne-ra-ki  be` ("the link will develop soon" — open-timeline prediction); B4 replies `ta-ti-re  ki` ("yes, it's coming up in the cycle" — scheduled resonance training). Same event, different temporal frames: A is predicting on the linear timeline; B is announcing the next scheduled occurrence.
+
+### Temporal Blocking Constraint
+
+`ta-[time]` temporal frames are compatible only with predicates that describe temporally
+variable states or events. The type of predication slot determines whether a temporal
+frame is licit:
+
+| Predication type | Form | Temporal frame | Verdict |
+|-----------------|------|---------------|--------|
+| Intrinsic attribution | `la-X  Q` | `ta-[time]` | **Blocked** — Q is atemporal by definition |
+| Patientive state | `lo-X  Q` | `ta-[time]` | **Licensed** — Q is a variable state |
+| Telic event | `la-X  [verb]  lo-Y` | `ta-[time]` | **Licensed** — events are time-located |
+
+`la-X  Q` (Type 2 attributive) encodes Q as a constitutive property of X. Constitutive
+properties are definitionally atemporal — they cannot vary across time without changing
+what X *is*. Attaching `ta-ti-mi` (or any temporal frame) to a Type 2 attribution
+creates a semantic type mismatch: the frame implies variability that the claim denies.
+
+```
+* la-zo-su  be-vo  ta-ti-mi     → anomalous: plants' growth capacity is not time-indexed
+  lo-zo-su  be-vo  ta-ti-mi     → well-formed: this plant is actively growing right now
+```
+
+**Decision rule:** Apply `ta-[time]` only when the predicate describes a state that can
+enter, exit, or vary across time. If a temporal frame seems needed but the entity is in
+a `la-X Q` frame, reconsider whether `lo-X Q` (contingent state) is the correct slot, or
+drop the temporal frame if the claim is genuinely atemporal.
+
+**Corpus:** S339 (`la-zo-su  be-vo` = intrinsic, no frame); S340 (`lo-zo-su  be-vo` =
+contingent bare); S344 (`lo-zo-su  be-vo  ta-ti-mi` = contingent emphatic present). The
+blocked form `*la-zo-su  be-vo  ta-ti-mi` is attested as anomalous at S344 (GRM-002).
+
+---
 
 ### Event-Anchor Construction
 
