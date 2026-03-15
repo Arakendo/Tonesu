@@ -41,11 +41,18 @@ Conversation entries (C-series) use a multi-turn format with `A:` / `B:` turn ma
 | [conversations/c001-c004.md](conversations/c001-c004.md) | C001–C004: early multi-turn dialogues (engineering, epistemic, resonance) |
 | [conversations/c005-c007.md](conversations/c005-c007.md) | C005: Theological Debate · C006: Question Battery · C007: Epistemic Testimony |
 
+### Bible Translations
+
+| File | Scope | Status |
+|------|-------|--------|
+| [translations/Bible/genesis-1.md](translations/Bible/genesis-1.md) | Genesis 1:1–31 | Draft first pass; ~90% expressible; GOD-002/003/006/007 resolved |
+| [translations/Bible/matthew-5-7.md](translations/Bible/matthew-5-7.md) | Matthew 5–7 (Sermon on the Mount) | Draft first pass; ~90% expressible; SOM-001–005 open |
+
 ### Other
 
 | File | Contents |
 |------|----------|
-| [translations.md](translations.md) | Known-text translations for external validation |
+| [translations.md](translations.md) | Legacy translations index (pre-Bible subfolder) |
 
 ---
 

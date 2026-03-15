@@ -523,5 +523,562 @@ Related:      su'ma (W113), ki'ma (W114), no-su'ma (W115), ra (primitive: force/
 
 ---
 
+---
+
+## Ethical / Theological Domain (Matthew 5–7 intake)
+
+**W117**
+```
+Form:         zo-ra
+Type:         compound
+Class:        entity / vital quality
+Definition:   life-energy; animating vitality; the dynamic force that makes an
+              organism alive and active; the felt sense of being enlivened. Equivalent
+              to Hebrew nefesh in its primary biological sense: the enlivened breath-
+              capacity of a living creature (Genesis 2:7: "living being"). Covers
+              but is not limited to: vitality, vigor, the animating principle of life.
+Composition:  zo (living thing/organism) + ra (force/energy) = the force/energy of a
+              living thing = animating vitality. Head-final: ra (force) is head; zo
+              specifies the domain — the force native to living things.
+Register:     standard / theological / poetic
+Domain:       biology / theology / phenomenology
+Status:       active
+First use:    S359 (GOD-RES batch; `zo-ra` = "life-energy" in three-way zo-ra / zo-to /
+              zo-si contrast; resolves open-question GOD-007).
+Notes:        Three-way distinction resolved in GOD-RES:
+                zo-ra  = animating vitality (nefesh hayah — living being's energy)
+                zo-to  = soul / organism identity-pattern (W068)
+                zo-si  = spirit / disembodied living agent (W069)
+              zo-ra can cease at death; whether zo-to persists is a theological open
+              question Tonesu leaves open. zo-si refers to an agent that has no
+              physical organism and does not cease the way zo-ra does.
+              zo-ra-ma = food (energy-matter of living things; GOD-007/S359).
+              zo-ra-fe = life's completion/fullness (Matthew 7 usage for "life" as
+              the endpoint the narrow gate leads to).
+Related:      zo (primitive), ra (primitive), zo-to (W068), zo-si (W069),
+              zo-ra-ma (food compound), zo-ra-fe (life to fullness)
+```
+
+---
+
+**W118**
+```
+Form:         vo-ne
+Type:         compound
+Class:        quality / relational state
+Definition:   righteousness; right relational standing; being in a state of value
+              within one's bonds and social connections. The quality of acting
+              rightly within all one's relationships — not merely internal virtue
+              but correct alignment with one's relational obligations. Corresponds
+              to Hebrew tsedakah and Greek dikaiosynē (righteousness / justice).
+Composition:  vo (value/quality) + ne (relation/bond) = value-in-relation = the
+              quality of having correct value in one's relational network. Head-final:
+              ne (relation) is head; vo specifies that the relational quality being
+              described is one of positive value = being right in one's bonds.
+Register:     standard / ethical / theological
+Domain:       ethics / theology / social
+Status:       active
+First use:    Matthew 5–7 translation (SOM draft). Recurs throughout: Beatitudes
+              (5:6, 5:10), antitheses (fulfilling the law), Lord's Prayer context, etc.
+Notes:        Deliberately relational: not "being good internally" (which would be
+              su-fa, W133) but "being correctly aligned in one's bonds." tsedakah
+              always involves both dimensions; Tonesu captures the relational
+              dimension through ne.
+              vo-ne as predicate: `la-X vo-ne` = X has right-relational-quality.
+              As patient: `lo-vo-ne` = the quality of righteousness as a thing to
+              seek or have. "Hunger for righteousness" = `fa-wi lo-vo-ne` (Matthew 5:6).
+Related:      vo (primitive: value/quality), ne (primitive: relation/bond),
+              su-fa (W133: purity of inner affect), wi-no-ra (W132: meekness),
+              fa-vo (compassion compound)
+```
+
+---
+
+**W119**
+```
+Form:         de-su
+Type:         compound
+Class:        entity / moral quality
+Definition:   fault; wrong; a moral or relational failure; the product of decrease
+              applied to structure. The concrete result-thing of a moral failing.
+              Covers: trespass, sin, wrong done, fault that requires addressing.
+              Greek hamartia (sin/missing the mark) and opheilēma (debt/obligation).
+Composition:  de (decrease/decay) + su (structure/product) = decay-product = the
+              structured thing that results from moral decrease. Head-final: su
+              (structure/organized form) is head; de specifies that the structure
+              is one produced by a deficiency or decrease — a fault-shape.
+Register:     standard / ethical / theological
+Domain:       ethics / law / theology
+Status:       active
+First use:    Matthew 5–7 translation (Lord's Prayer: "forgive us our de-su").
+Notes:        The compound's logic: su forms the nominal of any process. de-su =
+              "the structured result of decrease" = a fault-token that now exists
+              and can be addressed. This is why forgiveness is ka-no-de-su: the
+              deliberate removal of the fault-product. The fault exists as an entity
+              (it was produced); forgiveness removes that entity.
+              Contrasts:
+                de         = the process of decreasing/decaying (action/state)
+                de-su      = the product of that process = the fault-record
+                de-vo      = the quality of being evil (W121)
+                ka-no-de-su = the act of removing the fault-record = forgiveness (W120)
+Related:      de (primitive), su (primitive), ka-no-de-su (W120), de-vo (W121)
+```
+
+---
+
+**W120**
+```
+Form:         ka-no-de-su
+Type:         compound
+Class:        action / process
+Definition:   forgiveness; the deliberate act of removing a fault-record; to dissolve
+              the moral debt or trespass that exists as a de-su. The volitional
+              removal of a standing wrong. Greek aphiēmi (release/forgive).
+Composition:  ka (deliberate action) + no (negation/removal) + de-su (fault/wrong,
+              W119) = deliberately-remove-fault-structure. The agent `ka`-performs
+              the `no`-removal of the `de-su` (fault-record). Four-syllable compound
+              permitted as a semantically complex derived form.
+Register:     standard / ethical / theological
+Domain:       ethics / theology / social
+Status:       active
+First use:    Matthew 5–7 translation (Lord's Prayer: "remove our faults"; 6:14–15).
+Notes:        The structure of the action: ka = agent does it deliberately; no = the
+              act is a removal/negation; de-su = the entity removed is the fault-record.
+              This is transitive: `la-X  lo-de-su  ka-no` = X removes [the specific
+              fault], or (with patient as beneficiary) `la-X  lo-de-su-Y  ka-no` =
+              X removes Y's fault-record. In the Lord's Prayer the beneficiary prefix
+              appears: `la-tu  lo-de-su-yu  ka-no` = you: remove our fault-records.
+              Lord's Prayer bilateral: `lo-de-su-yu  ka-no  go-[la-yu  lo-de-su-li-ne  ka-no]`
+              = remove our faults as we remove the faults of those-in-relation-to-us.
+Related:      ka (primitive: deliberate action), no (primitive: negation),
+              de-su (W119: fault/wrong), de-vo (W121: evil quality)
+```
+
+---
+
+**W121**
+```
+Form:         de-vo
+Type:         compound
+Class:        quality / moral state
+Definition:   evil; the quality of moral decay; value-corrosion; the state of being
+              organized around decrease in value. Not a thing but a quality: the
+              property of choices, agents, or states characterized by the corruption
+              of goodness. Greek ponēros (evil, wicked, harmful).
+Composition:  de (decrease/decay) + vo (value/quality) = decay-of-value. Head-final:
+              vo (value) is head; de specifies that the value in question is undergoing
+              or has undergone decrease/corruption.
+Register:     standard / ethical / theological
+Domain:       ethics / theology
+Status:       active
+First use:    Matthew 5–7 translation (Lord's Prayer: "deliver us from de-vo"; 7:11
+              "evil gifts"; Matthew 5:45 "evil person" = de-vo-li).
+Notes:        Key derivatives:
+                de-vo-li   = a person characterized by evil = an evil person
+                de-vo-ki   = entering evil state = becoming corrupt (inchoative)
+                pa-de-no-fe = place of boundless decay = Gehenna/hell (proposed;
+                              SOM-002, pending corpus test)
+              Contrast with:
+                de-su  (W119) — a fault-product (countable, addressable wrong)
+                de-vo  — the quality itself (uncountable, characterizes agents/states)
+              "Evil" in the Lord's Prayer "deliver us from evil": `go-de-vo  fe` =
+              bound us from the domain of evil-value = from the sphere of de-vo.
+Related:      de (primitive), vo (primitive), de-su (W119), ka-no-de-su (W120),
+              de-vo-li (evil person derivation)
+```
+
+---
+
+**W122**
+```
+Form:         ka-to-fe
+Type:         compound
+Class:        action / process
+Definition:   to judge; the deliberate act of making an epistemic determination about
+              a person or situation — rendering a verdict or assessment that places the
+              subject definitively on one side of an epistemic boundary. The volitional
+              act of adjudication. Greek krinō (judge, evaluate, condemn).
+Composition:  ka (deliberate action) + to-fe (epistemic boundary, W028) = deliberate
+              epistemic bounding = the act of performing to-fe on a person or case.
+              The agent intentionally draws the epistemic line that classifies the
+              subject. Head-final: to-fe (W028) is the semantic core; ka specifies
+              that this is a deliberate act, not an emergent classification.
+Register:     standard / ethical / legal / theological
+Domain:       ethics / law / theology
+Status:       active
+First use:    Matthew 7:1 ("Do not judge" = `no-ka-to-fe`).
+Notes:        Extends the to-fe family:
+                to-fe         (W028) the epistemic boundary itself (noun: the line)
+                to-fe-li      (W032) a professional adjudicator (role)
+                to-fe-su      (W072) a standards body
+                to-fe-su-ki   (W097) an epistemic ruling crossing to public enforcement
+                ka-to-fe      (W122) the deliberate act of judging (verb)
+              Matthew 7 usage: `no-ka-to-fe` = don't-judge. The point is the
+              deliberateness: casual assessment is `to` (form a concept/model);
+              final adjudication of a person as guilty/just is `ka-to-fe` (deliberate
+              boundary-drawing).
+              `to-fe  be-ki` = enters the judged-state = subject to judgment (passive
+              construction — being placed on the wrong side of the boundary).
+Related:      to-fe (W028), to-fe-li (W032), to-fe-su (W072), ka (primitive)
+```
+
+---
+
+**W123**
+```
+Form:         fa-ra-be
+Type:         compound
+Class:        affect quality / process
+Definition:   anger; hostile arousal; affect characterized by force increasing toward
+              a target. The affective substrate state in which force-energy rises in
+              a directed and hostile manner. Not just heightened arousal but organized
+              toward opposing or harming. Greek orgē (anger, wrath).
+Composition:  fa (affective substrate) + ra (force/energy) + be (increasing/upward) =
+              affect-force-increasing. The affect-substrate is activated in the
+              direction of increasing force, and this force is directed hostilely.
+Register:     standard / ethical / theological
+Domain:       affect / ethics
+Status:       active
+First use:    Matthew 5:22 ("anyone who is angry" = `fa-ra-be  lo-ne-zo-ne`).
+Notes:        Extends the fa-[X] compound family:
+                fa-ki  (W093) affect shifting/changing register
+                fa-de  (W094) affect fading
+                fa-no  (W095) affect inactive
+                fa-re  (W096) affect cycling
+                fa-ra-be     anger (new: affect-force-increasing)
+                fa-de-ki     mourning (inchoative of W094: entering fading-affect)
+              Anger is specifically fa-ra-be (versus mere fa-be = affect-rising, which
+              could be positive excitement or awe). The ra component specifies that
+              what is rising is force-energy, and the target is another person.
+              fa-ra-be does not require external expression: it is the interior state.
+              The acted form would be `ka-fa-ra-be-ki` = deliberately enter/induce
+              the hostile-affect-rising state (deliberately provoke anger), but the
+              simple predication `lo-X  fa-ra-be` = X has rising hostile affect.
+Related:      fa (primitive: affective substrate), ra (primitive: force/energy),
+              be (primitive: growing/increasing), fa-ki (W093), fa-de (W094)
+```
+
+---
+
+**W124**
+```
+Form:         wi-de-li
+Type:         compound
+Class:        person / role
+Definition:   adversary; enemy; an opposing-willed person; one whose will is directed
+              toward the decrease or harm of another. Not merely a stranger or
+              non-ally but one who actively opposes. Greek echthros (enemy, hostile one).
+Composition:  wi (intention/will) + de (decrease/harm) + li (person) = person-of-
+              harm-directed-will = a person whose intention is organized around
+              causing decrease. Head-final: li (person) is head; wi-de specifies the
+              kind of person — one whose will tends toward harm.
+Register:     standard / ethical / military / relational
+Domain:       ethics / social
+Status:       active
+First use:    Matthew 5:44 ("love your enemies" = `fa-vo-no-fe  lo-wi-de-li-tu`).
+Notes:        Complements the ne (bond) family by specifying the opposite of a bonded
+              partner. ne-li = a bonded relational person (neighbor/ally); wi-de-li =
+              a person whose will is against you (enemy). The Sermon on the Mount
+              explicitly requires loving wi-de-li — the compound needs to be negative
+              enough that the command is genuinely demanding.
+              Contrasts:
+                ne-li      = person in bond-relation = neighbor
+                wi-de-li   = person of harm-directed-will = enemy
+                no-ne-li   = person without bond = stranger (weaker than enemy)
+              "Love your enemies" in Matthew 5:44 uses fa-vo-no-fe (W series THO-001)
+              = affect-value-without-limit = unconditional love directed at wi-de-li.
+Related:      wi (primitive: will/intention), de (primitive: decrease), li (primitive),
+              ne-li (bonded-person, from ne + li), fa-vo-no-fe (unconditional love)
+```
+
+---
+
+**W125**
+```
+Form:         pa-be'ka-li-su
+Type:         compound (apostrophe-marked)
+Class:        entity / domain
+Definition:   kingdom of heaven; the governance domain of the upper space; the
+              reign associated with the celestial/divine realm. Greek basileia tōn
+              ouranōn (kingdom of the heavens). The compound is the governance
+              domain (ka-li-su) qualified by its origin-realm (pa-be = upper space).
+Composition:  pa-be (upper space, ascending domain) + ka-li-su (governance/dominion,
+              cf. Genesis 1:26) = [upper-space] governance. The apostrophe after pa-be
+              marks pa-be as the pre-bound left unit: [pa-be] modifies [ka-li-su].
+              Without apostrophe, default right-branching would parse: pa modifies
+              [be-ka-li-su], which is not intended.
+Register:     theological / liturgical
+Domain:       theology / eschatology
+Status:       active
+First use:    Matthew 5–7 translation (Beatitudes 5:3, 5:10; prayer 6:10; 7:21).
+Notes:        This is Tonesu's canonical rendering of "the Kingdom of Heaven" as
+              used in Matthew's Gospel (Matthew uses "heaven" where Mark/Luke use
+              "God" — i.e., "Kingdom of God" = "Kingdom of Heaven" theologically).
+              Short form in prayer: `lo-pa-be'ka-li-su-tu  be-ki` = "may your
+              upper-space-governance come into being" = "thy kingdom come."
+              The compound uses apostrophe notation (first appearance in the compound
+              registry for this notation type) — normal in writing, analytic here.
+Related:      pa-be (upper space; used in Genesis 1 for "sky/heaven"),
+              ka-li-su (governance/dominion, Genesis 1:26), pa (primitive), be (primitive)
+```
+
+---
+
+**W126**
+```
+Form:         si-no-vo-li
+Type:         compound
+Class:        person / role
+Definition:   hypocrite; a person of valueless signal; one whose outward communication
+              does not match their inner state or intentions — one who signals goodness
+              without possessing it. Greek hupokritēs (actor, one who plays a role).
+Composition:  si (signal/representation) + no (negation) + vo (value/quality) + li
+              (person) = person-of-valueless-signal = a person whose signals lack the
+              value they claim. Head-final: li (person) is head; si-no-vo = the kind
+              of signal-person: one whose signals are value-depleted.
+Register:     standard / ethical
+Domain:       ethics / social
+Status:       active
+First use:    Matthew 6 (6:2, 6:5, 6:16 — thrice in a single chapter).
+Notes:        si-no-vo-li is the full noun. The adjective compound is si-no-vo —
+              "hypocritical" or "of false-signal character." The personification `-li`
+              builds on the standard person-formation pattern.
+              Matthew 6 uses the word six times total (6:2, 6:5, 6:16, 23:13+); it is
+              a high-frequency term for this theological corpus.
+              Related construct: `si-no-zo-to` = signal-without-matching-soul-pattern
+              could express the specific sense of an actor who plays a role different
+              from their identity. This is a stronger/more specific reading if needed;
+              si-no-vo-li is the general "false-signaler" form.
+Related:      si (primitive: signal), no (primitive: negation), vo (primitive: value),
+              li (primitive: person), si-de (W098: past signal)
+```
+
+---
+
+**W127**
+```
+Form:         fa-wi-de
+Type:         compound
+Class:        affect state / process
+Definition:   temptation; the affective state in which desire (will) is directed
+              toward something harmful (decrease). The pull of the affective substrate
+              in the direction of harm; the interior experience of being drawn toward
+              wrong action. Greek peirasmos (trial, temptation, testing).
+Composition:  fa (affective substrate) + wi (will/intention) + de (decrease/harm) =
+              affect-will-toward-decrease = the felt directedness of desire toward
+              harm. Head-final: de (decrease) is head, specifying what the affect-will
+              is oriented toward.
+Register:     standard / ethical / theological
+Domain:       ethics / theology / affect
+Status:       active
+First use:    Matthew 6:13 (Lord's Prayer: "lead us not into temptation" =
+              `lo-yu  fa-wi-de  no-wi`).
+Notes:        fa-wi-de-ki = entering temptation state (inchoative); the most common
+              form in use: "don't lead us into fa-wi-de-ki" = into the state of
+              being tempted. The "-ki" form signals the onset of the temptation
+              experience, not just temptation as a concept.
+              Compare: fa-wi-zi (W128 area; desire-to-couple = lust) — that is a
+              specific sub-type of fa-wi toward a specific target (coupling). fa-wi-de
+              is the general form covering any affect-desire directed at harm.
+Related:      fa (primitive: affect), wi (primitive: will), de (primitive: decrease),
+              fa-wi-zi (desire-to-couple / lust, SOM translation — see Notes)
+```
+
+---
+
+**W128**
+```
+Form:         ka-de-zo
+Type:         compound
+Class:        action / process
+Definition:   to kill; the deliberate act of decreasing a living thing to the point of
+              cessation. The intentional ending of the zo-ra (life-energy) of an
+              organism. Greek apokteinō (to kill, slay); Hebrew ratsach (murder).
+Composition:  ka (deliberate action) + de (decrease) + zo (living thing) = deliberate
+              decrease of living = intentional killing. Head-final: zo (living thing)
+              is the patient/head; de specifies the direction (decrease to zero); ka
+              specifies the action is intentional.
+Register:     standard / ethical / legal
+Domain:       ethics / law / biology
+Status:       active
+First use:    Matthew 5:21 ("do not murder" = `no-ka-de-zo  lo-li-zo-ne`).
+Notes:        ka-de-zo is murder/killing as a deliberate act (ka). Accidental or
+              non-deliberate death would be `de-zo` (without ka) = organism-decrease
+              = dying/death. The ka modifier makes it morally significant: intentional
+              vs accidental.
+              Note: "Do not kill" is `no-ka-de-zo`, but the antithesis extends to
+              `fa-ra-be` (W123, anger) — the interior state that motivates ka-de-zo.
+              The ethical point of the antithesis is that the interior state is as
+              morally relevant as the external act.
+Related:      ka (primitive), de (primitive), zo (primitive), fa-ra-be (W123: anger),
+              zo-ra (W117: life-energy)
+```
+
+---
+
+**W129**
+```
+Form:         no-de-ma
+Type:         compound
+Class:        entity / material quality
+Definition:   salt; preservative matter; substance that resists or prevents decay.
+              The material form notable for its decay-resisting function. Greek halas
+              (salt) in its metaphorical Sermon usage: "you are the salt of the earth."
+Composition:  no (negation/resistance) + de (decrease/decay) + ma (matter) = non-
+              decay matter = matter that resists the decay process. Head-final: ma
+              (matter) is head; no-de specifies the kind of matter — that which
+              prevents decrease.
+Register:     standard / culinary / metaphorical
+Domain:       material / ethics (metaphorical)
+Status:       active
+First use:    Matthew 5:13 ("you are the salt of the earth" = `la-yu  no-de-ma  go-pa-ma`).
+Notes:        The metaphorical use (Matthew 5:13) is the primary Tonesu attestation.
+              The compound is structurally transparent in both directions: physical salt
+              (a material that prevents rot) = no-de-ma; also the figurative sense (a
+              community that prevents moral decay in the world) = `la-yu  no-de-ma
+              go-pa-ma`. The compound carries both readings simultaneously.
+              "If salt loses its saltiness" = "if the no-de-ma loses its no-de
+              quality" = `lo-no-de-ma  no-de-vo  de` = the preservative's decay-
+              resistance value decays away.
+Related:      no (primitive), de (primitive), ma (primitive), ma-no-de (W046: medicine —
+              note: different root order; W046 = matter that decreases-not = preventive
+              substance; W129 = non-decrease-matter = preservative. Related but distinct.)
+```
+
+---
+
+**W130**
+```
+Form:         se-lu
+Type:         compound
+Class:        entity / anatomical
+Definition:   eye; the visual perception organ; the organ of light-perception. The
+              biological structure that performs se (perception) in the domain of lu
+              (light) = the light-perceiving organ.
+Composition:  se (perception/detection) + lu (light) = perception-of-light = the
+              organ that detects light. Head-final: lu (light) is head; se specifies
+              the relationship — this is a perception-entity in the light domain.
+Register:     standard / biological / poetic
+Domain:       anatomy / sensory / theology
+Status:       active
+First use:    Matthew 5:29–30; 6:22–23; 7:3–5 (Matthew uses "eye" extensively).
+Notes:        High-frequency body term. Matthew 5:29 ("if your eye causes you to
+              stumble"); 6:22 ("the eye is the lamp of the body"); 7:3–5 (speck/plank
+              in the eye). The compound is needed across all three chapters.
+              In 6:22: `lo-se-lu  lu-mu  go-ko-zo` = the eye is the light-body of
+              the body-interior = the lamp (lu-mu) of the body (ko-zo).
+              se-lu is the visual organ; for a broader sensory organ the pattern
+              would be se-[domain] for each sensory modality (se-so for the sound-
+              perception organ = ear, hypothetically).
+Related:      se (primitive: perception), lu (primitive: light), lu-mu (light-body:
+              lamp, artifact); ko-zo (body-interior compound)
+```
+
+---
+
+**W131**
+```
+Form:         ne-zi-re
+Type:         compound
+Class:        entity / role / kinship
+Definition:   spouse; bonded coupling partner; the person with whom one is in a
+              recurring mutual coupling bond. The relational role of one's partner
+              in an established and recognized coupling bond. Greek gunē (woman/wife)
+              and anēr (man/husband) in their spousal senses.
+Composition:  ne (relation/bond) + zi (mutual/coupling event) + re (recurrence) =
+              bond-of-recurring-coupling = the relational bond defined by a recurring
+              mutual coupling event. A `ne` (bond) characterized by `zi-re` (recurring
+              coupling): a spouse is the person to whom one is bonded through this
+              type of recurring mutual joining.
+Register:     standard / social / legal
+Domain:       kinship / social / legal
+Status:       active
+First use:    Matthew 5:31–32 (divorce/remarriage antithesis).
+Notes:        Tonesu is sex-neutral throughout the kinship vocabulary; ne-zi-re is
+              the role without biological sex specification. The biological sex of
+              either party, if relevant, is expressed via zi-zo-go (W107) and
+              zi-zo-du (W108) as needed.
+              `ne-zi-re-ze` = their spouse (genitive suffix on the relational role).
+              Key derivatives:
+                ne-zi-re-de  = bond-of-recurring-coupling + dissolution = divorcing
+                si-fe-ne-de  = bounded-signal-of-bond-dissolution = divorce certificate
+              Opening of Matthew 5:31–32: "anyone who divorces his wife" =
+              `lo-zo-li  lo-ne-zi-re-ze  no-ne  ka` = person who deliberately-removes
+              the bond with their spouse.
+Related:      ne (primitive), zi (primitive), re (primitive: recurrence), zi-zo (W106),
+              ne-de (W091: bond dissolution), ka-ne-de (W092: deliberate dissolution)
+```
+
+---
+
+**W132**
+```
+Form:         wi-no-ra
+Type:         compound
+Class:        quality / disposition
+Definition:   meekness; gentleness; the quality of purposeful will without aggressive
+              force. Being intentional and directed without dominating or overwhelming.
+              Not absence of will but presence of will without force applied against
+              others. Greek praus (gentle, meek, tame — of a trained horse).
+Composition:  wi (will/intention) + no (negation/absence) + ra (force/energy) =
+              will-without-force = the purposive quality of having intention without
+              directing force against others. Head-final: ra (force) is head; wi-no
+              specifies the kind of force-absence — it is the force of will that is
+              absent, not all force.
+Register:     standard / ethical
+Domain:       ethics / affect
+Status:       active
+First use:    Matthew 5:5 (Beatitude: "the meek" = `lo-zo-li  wi-no-ra`).
+Notes:        The Greek praus was used of a horse that had been trained to submit
+              its strength to the rider — not a weak horse but a disciplined one.
+              wi-no-ra captures this: not lack of will or capacity, but will that
+              does not assert itself with force against others. Compare:
+                wi        = will/intention alone (force may be implied)
+                wi-no-ra  = will without aggressive force = meekness
+                no-ra     = without force (could be mere weakness)
+              The compound wi-no-ra is richer than either component: it specifies
+              that the will exists but chooses not to force.
+Related:      wi (primitive: will/intention), no (primitive: negation), ra (force),
+              su-fa (W133: pure in heart — inner organization rather than force-type)
+```
+
+---
+
+**W133**
+```
+Form:         su-fa
+Type:         compound
+Class:        quality / inner state
+Definition:   purity of heart; structured affect; the state of one whose affective
+              substrate is organized, ordered, and free from inner conflict or
+              corruption. Not merely an absence of evil but a positive orderliness of
+              the inner life. Greek katharos (pure, clean, unmixed). In the Beatitude:
+              "pure in heart" = those whose inner affective life is well-structured.
+Composition:  su (structure/order) + fa (affective substrate) = ordered-affect =
+              the quality of having an organized and non-conflicted affective substrate.
+              Head-final: fa (affective substrate) is head; su specifies that the
+              affective substrate in question is characterized by order rather than
+              disorder.
+Register:     standard / ethical / theological / contemplative
+Domain:       ethics / affect / theology
+Status:       active
+First use:    Matthew 5:8 (Beatitude: "the pure in heart" = `lo-zo-li  su-fa`).
+Notes:        Three-stage pipeline recall: se → fa → to. The fa stage is the
+              pre-evaluative felt-tone substrate. su-fa = fa that is ordered/clear:
+              the felt substrate is not muddied by conflicting desires, self-deception,
+              or disordered impulse — it is structured. This allows se (perception) to
+              reach to (concept-formation) without distortion.
+              In the Beatitude, su-fa is the condition that allows "seeing God" (lo-ze
+              lo-be-go-li  se): only when fa is ordered (su-fa) does the perception
+              (se) of the divine reach the to stage without distortion.
+              Compare:
+                fa-no   (W095) = affect inactive (possibly numb, not ordered)
+                su-fa          = affect actively ordered, structured = purity
+Related:      su (primitive: structure/order), fa (primitive: affective substrate),
+              fa-ki (W093), fa-de (W094), vo-ne (W118), wi-no-ra (W132)
+```
+
+---
+
 - [ ] Review W002 (su-mu-li) — does it conflict with the derivational marker stack order?
 - [ ] Develop domain-specific sub-lists once domains are finalized (see ontology/domains.md)
