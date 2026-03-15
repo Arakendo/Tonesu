@@ -172,7 +172,7 @@ la-tu  lo-mu  ka-be?                →  Did you grow it? (casual: ? replaces fr
 
 Pre-positional hedge meaning **"approximately / roughly / on the order of / something like."** Attaches before a numeral, NP, compound, or time reference. Not compound-internal — always at the left edge of the unit it qualifies. In a full measurement expression, `~` pre-poses the entire `[digit] [scale] nu [domain]` block.
 
-**Spoken form: `ven`** — registered as G010 in `registry/roots.md`. In speech and phonetic transcription, `~` is realized as `ven`. The written form `~` is canonical; `ven` is the phonetic realization only. `ven` does not appear in formal written Tonesu; it appears in spoken-register transcriptions and IPA-adjacent phonetic renderings.
+**Spoken form: `ven`** — registered as G010 in `registry/roots.md`. In speech, `~` is realized as `ven`. The written form `~` is canonical in formal and technical Tonesu. `ven` may appear in written text where a phonetic or poetic rendering is intended (verse, informal writing, transcribed speech); in all such cases it is understood as a graphical variant of `~`, not a distinct word.
 
 **With numerals and measurement:**
 ```
