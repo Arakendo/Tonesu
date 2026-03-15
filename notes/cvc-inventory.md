@@ -679,6 +679,8 @@ Scale prefixes (`pir` kilo, `baf` mega, `wul` giga, etc.) were previously listed
 
 **Practical effect:** No forms change. The Purpose table and Scale Prefix section header are updated to reflect this. Future scale-prefix candidates (femto, atto, etc.) are admitted as ergonomic shortforms, not by closed-class criteria.
 
+**Spec reference:** The ergonomic shortform sub-class is formally defined in `spec/word-formation.md §Ergonomic Shortforms`, with admission criteria and the distinction from closed-class CVC atoms and CVCC exceptional anchors. The phonological tier table in `spec/phonology.md §Phonological Tier Stratification` is updated to reflect the two CVC sub-categories.
+
 ### FLAG-CVC-004 — `nu-to` dual assignment
 
 `nu-to` appears in `registry/primitives.md` stress-test table as both "axis of measurement / dimension" and "probability / confidence level." These are two contextually determined readings of the same compound. **This is intentional and unproblematic** — English does the same thing with *weight* (physical / importance / statistical). Measurement context vs. epistemic context disambiguates reliably. No new primitive, no respelling needed. Document the disambiguation principle in the `nu-to` entry comment for future readers, and cross-reference from NUM-001.

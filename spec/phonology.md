@@ -301,8 +301,13 @@ The full tier system in order of word-shape complexity:
 |---------|------|----------|----------------|
 | CV | Primitives | Closed ontological root set | Passes all three primitive validation rules (`registry/primitives.md`) |
 | CV-CV+ | Compounds | Open compositional vocabulary | Expressible from existing roots; no new primitive needed |
-| CVC | Lexical descriptors | Digits, colors, scale prefixes, observational distance anchors | Closed-class categories needing fast phonological recognition |
+| CVC | Lexical descriptors | Digits, colors (closed class); scale prefixes (ergonomic shortforms) | Two sub-categories — see below |
 | CVCC | Exceptional anchors | Mathematical/physical constants; convention-defined units with no compositional expression | Assemblage-First Rule: see `notes/cvc-inventory.md §The Assemblage-First Rule` |
+
+**CVC sub-categories:**
+
+- *Closed-class CVC atoms* — digits and colors. No compositional expression exists; the form defines an irreducible scale anchor or perceptual hue point. The complete set is fixed unless a new irreducible category is identified.
+- *Ergonomic shortforms* — scale prefixes and future candidates. A compositional expression exists and remains canonical; CVC phonology is assigned on frequency and measurement-ergonomics grounds. Criteria and full admission rules: `spec/word-formation.md §Ergonomic Shortforms`. Inventory and flags: `notes/cvc-inventory.md §Scale Prefix Inventory` and FLAG-CVC-010.
 
 **Assemblage-First Rule (summary):** The default for any concept — however complex — is compositional assemblage. A long or unwieldy compound is not grounds for a new lexical atom at any tier. CVCC is the pressure valve for the specific case where assemblage is genuinely impossible (irrational/transcendental values, convention-defined constants) AND a stable atomic form is functionally necessary. A new CV primitive is never the answer to an awkward compound.
 

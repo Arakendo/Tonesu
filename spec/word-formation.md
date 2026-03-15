@@ -201,6 +201,42 @@ lu-fe'pa-fe'zo-se-so-fe  →  solid-coated mountain-territory cat
 
 ---
 
+## Ergonomic Shortforms
+
+Some CVC-tier forms have valid compositional expressions but are registered as shortforms on ergonomic grounds. These are a **distinct sub-class** within the CVC stratum — not closed-class descriptor atoms, and not CVCC exceptional anchors.
+
+**Admission criteria — all four must be satisfied:**
+
+1. **A compositional expression exists and is canonical.** The concept is expressible by assemblage from existing primitives. That expression remains the formal form — the shortform does not replace it.
+2. **CVC phonology is assigned on pragmatic grounds.** The short form is admitted because it appears frequently in technical prose and spelling out the full expression creates genuine communicative friction, not stylistic inconvenience.
+3. **The short form does not compete with or displace a closed-class CVC atom.** It must occupy a free CV stem not already blocked by digits, colors, or observational anchors.
+4. **A new CV primitive is explicitly refused.** The concept is domain-specific vocabulary, not an ontological commitment warranting a primitive slot.
+
+**Distinction from closed-class CVC atoms (digits, colors):**
+Digits and colors are admitted because they define irreducible scale or perceptual anchor points — no compositional expression exists or is possible. Ergonomic shortforms do the opposite: they shorten an expression that already composes cleanly. The shortform is convenient; the compositional form is canonical.
+
+**Distinction from CVCC exceptional anchors:**
+CVCC requires that *no compositional expression exists*. Ergonomic shortforms have a canonical compositional expression and fail CVCC criterion 1. Assigning them CVCC would make them longer and send a false phonological signal that assemblage is impossible.
+
+### Founding members: SI scale prefixes
+
+All twelve SI scale prefix forms satisfy the four criteria above. Their compositional expressions are positional digit chains; the shortforms are registered because measurement expressions appear thousands of times per domain and the full chains are acoustically unwieldy.
+
+| Form | Scale | Compositional expression | Tier note |
+|------|-------|--------------------------|-----------|
+| `zum` | nano (10⁻⁹)  | `nil nil nil nil nil nil nil nil nil bol nu [domain]` (positional chain) | ergonomic shortform |
+| `mes` | micro (10⁻⁶) | positional digit chain × 10⁻⁶ | ergonomic shortform |
+| `rim` | milli (10⁻³) | positional digit chain × 10⁻³ | ergonomic shortform |
+| `pir` | kilo (10³)   | `bol nil nil nil nu [domain]` | ergonomic shortform |
+| `baf` | mega (10⁶)   | positional digit chain × 10⁶ | ergonomic shortform |
+| `wul` | giga (10⁹)   | positional digit chain × 10⁹ | ergonomic shortform |
+
+Extended forms (`bim` pico, `les` tera) and Extended-Extended (`gul` peta through `hem` yotta) follow the same rule but are optional for most domains. Full inventory and free-stem accounting in `notes/cvc-inventory.md §Scale Prefix Inventory`.
+
+**Future candidates** (femto, atto, sub-pico) and high-frequency time-cycle names may be admitted as ergonomic shortforms when corpus pressure justifies it. Each candidate must demonstrate all four criteria; admission is tracked under FLAG-CVC-010 in `notes/cvc-inventory.md`.
+
+---
+
 ## Lexical Status Tiers
 
 | Tier | Meaning |
