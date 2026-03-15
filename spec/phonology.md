@@ -187,6 +187,12 @@ Pre-positional hedge meaning **"approximately / roughly / on the order of / some
 ~zo-li                              →  something like a person / roughly person-class
 ~ta ti-be                           →  somewhere around the future / roughly "later"
 ~to-si                              →  something like a question / quasi-interrogative framing
+~to-su                              →  working/tentative theory (a provisional knowledge
+                                       framework; contrast to-su = established framework)
+~tonesu                             →  approximately truth / theory / conjecture
+                                       (poetic/philosophical register: tonesu = to-ne-su
+                                       = complete structured knowledge; ~tonesu = something
+                                       like complete truth = a theory)
 ```
 
 Multiple `~` marks in a sentence are permitted, each scoping its own following unit independently.
