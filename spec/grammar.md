@@ -110,6 +110,65 @@ Non-transparent collisions are **not permitted**: if the function word's meaning
 
 The full pronoun set is collision-free. Former forms `se` (3rd person) and `wi` (group) were renamed: `se` collided non-transparently with root `se` (perception); `wi` collided non-transparently with root `wi` (will/intention) and also blocked adoption of `wi` as a purpose-frame particle.
 
+### `ze` Anaphora
+
+`ze` is a **unified anaphora**: it refers to the most salient discourse entity of any
+type — persons, machines, propositions, or prior claims. It does not split into separate
+person-class and proposition-class forms.
+
+Resolution applies in priority order:
+
+#### Mechanism 1 — Predicate-type incompatibility (deterministic)
+
+When the predicate is semantically compatible with only one referent type, `ze` is
+forced:
+
+| Predicate type | Compatible referent | Examples |
+|----------------|--------------------|-|
+| Motion / location | Entity (person, machine, organism) | `lo-ze  ki  lo-pa-mi` = ze moved here |
+| Epistemic quality (`se`, `si`, `to`, `no-se` etc.) | Proposition / claim | `lo-ze  se` = that claim is raw perception |
+| Temporal event (`de`, `be`, `ki` with telic object) | Entity or proposition (context-dependent) | — |
+
+Corpus: C005 B1, C008 A2 — both `lo-ze  se` → propositional, forced.
+
+#### Mechanism 2 — Most-recent-salient (default, defeasible)
+
+When the predicate is compatible with both types, `ze` refers to whichever discourse
+entity was most recently introduced or most actively modified in the conversational
+record.
+
+This mechanism is **insufficient** when:
+- A person and a proposition were introduced within the same turn distance, and
+- The predicate applies symmetrically to both (e.g. `to-fe-ka` — deliberate epistemic
+  violation — applies to persons as agents and to claims as acts).
+
+In that case, genuine ambiguity is produced (C008 B2).
+
+#### Mechanism 3 — Restatement (repair)
+
+When Mechanisms 1 and 2 both fail, the following turn restates with an explicit NP.
+The ambiguity is not resolved within the turn that produces it; it is repaired one turn
+later by substituting a full noun phrase for `ze`.
+
+The `no` contrast coordinator is productive for disambiguation:
+```
+la-ze  [predicate]  no  la-mi    →  ze did [predicate], not me   (C008 A3)
+```
+
+**Concordian formal practice:** after genuine `ze` ambiguity is produced in a proceeding,
+subsequent turns in the formal record prefer explicit NPs over `ze` back-reference until
+the referent is re-established (C008 B3).
+
+**Corpus attestations:**
+
+| Use | Form | Type | Resolution |
+|-----|------|------|------------|
+| C005 B1 | `la-mi  to  [lo-ze  se]` | Propositional | Mechanism 1: `se` incompatible with persons |
+| C005 A3 | `la-mi  to  [lo-ze  to-fe-ka]` | Propositional | Mechanism 2: person not yet established in C005 discourse |
+| C008 A2 | `la-mi  to  [lo-ze  se]` | Propositional (forced) | Mechanism 1: `se` incompatible with persons, despite active person-referent |
+| C008 B2 | `la-mi  to  [lo-ze  to-fe-ka]` | **Ambiguous** | Both mechanisms fail; Mechanism 3 applied in A3 |
+| C008 A3 | `la-ze  to-fe-ka  no  la-mi` | Person (explicit) | Restatement + `no` contrast — resolves B2 |
+
 ---
 
 Example:

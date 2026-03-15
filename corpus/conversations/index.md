@@ -8,6 +8,7 @@ Multi-turn dialogues in Tonesu. Each conversation is a complete exchange, annota
 |------|--------------|---------|
 | [c001-c004.md](c001-c004.md) | C001–C004 | Engineering briefing · Resonance-field dialogue · Epistemic chain · Nested attribution |
 | [c005-c007.md](c005-c007.md) | C005–C007 | C005: Theological debate (to-fe-ka / to-fe-ki charges) · C006: Full question battery (yes-no, wh-, rhetorical) · C007: Epistemic testimony and nested modality |
+| [c008-plus.md](c008-plus.md) | C008– | C008: `ze` anaphora stress test — person vs proposition collision (P-PR-001 resolved) |
 
 ---
 
