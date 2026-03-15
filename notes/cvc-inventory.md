@@ -535,11 +535,11 @@ Each element's atomic number is IUPAC-assigned — a convention-defined identity
 | carbon     | C  |  6 | `sulm` | `su` | `-lm` | |
 | nitrogen   | N  |  7 | `girn` | `gi` | `-rn` | `gi` shares stem with `gim` (CVC green); tier distinguishes |
 | oxygen     | O  |  8 | `lorm` | `lo` | `-rm` | `lo-` is patient prefix but only bound; bare `lorm` unambiguous in measurement context |
-| sodium     | Na | 11 | —    | —       | —       | batch 2 |
-| silicon    | Si | 14 | —    | —       | —       | batch 2 |
-| phosphorus | P  | 15 | —    | —       | —       | batch 2 |
-| chlorine   | Cl | 17 | —    | —       | —       | batch 2 |
-| calcium    | Ca | 20 | —    | —       | —       | batch 2 |
+| sodium     | Na | 11 | `fals` | `fa` | `-ls` | |
+| silicon    | Si | 14 | `riln` | `ri` | `-ln` | `ri` shares stem with `rim` (CVC milli); tier distinguishes |
+| phosphorus | P  | 15 | `bels` | `be` | `-ls` | |
+| chlorine   | Cl | 17 | `duns` | `du` | `-ns` | `du` is result-frame particle, but CVCC tier disambiguates |
+| calcium    | Ca | 20 | `lans` | `la` | `-ns` | `la` is agent particle, but CVCC tier disambiguates |
 | iron       | Fe | 26 | —    | —       | —       | batch 3 |
 | copper     | Cu | 29 | —    | —       | —       | batch 3 |
 | zinc       | Zn | 30 | —    | —       | —       | batch 3 |
