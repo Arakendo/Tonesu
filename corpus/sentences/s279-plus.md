@@ -2858,6 +2858,7 @@ la-mi  lo-zo-li  ka-li-su  wi
 - The corrected form still reaches only `la-mi  wi  [governance]` — not `la-mi  to  [governance is required]`. The normative demand remains the speaker's will-claim; that it is the correct or obligatory response for persons to accept requires further argument.
 - `lo-zo-li  vo  wi` = "toward persons, value, will" = I will in the direction of valuing persons = I hold persons' value as my action-anchor. (Compositional: W148 `zo-li`, `vo`, `wi`.)
 - This is S377 (appeal to emotion) with an economic rather than affective input. The warrant-gap structure is identical: the factual state (food-decay, `fa-de`) alone does not specify which normative response is demanded.
+- **Ethical reasoning template.** The corrected four-link chain — `fact → harm-link → value-commitment → action` — is a domain-general template for well-formed normative argument in Tonesu. It separates: (1) the empirical state (`la-mi  se  lo-X`); (2) the harm claim (`go [X]  lo-Y  mu-be`); (3) the value anchor (`lo-Y  vo  wi`); (4) the action (`la-mi  wi  [action]`). Missing any one of these produces a diagnosable gap.
 
 ---
 
@@ -2890,6 +2891,7 @@ Structural audit:
 - Four of five audit items are ❌. The fifth is ⚠️ — a softening that is suspicious but not necessarily fallacious; recalibrating certainty downward when challenged is sometimes honest. The grammar records it; the listener evaluates whether it is honest recalibration or slippage.
 - All five audit items are **independently diagnosable**. None entangle with each other: fixing the laundering does not fix the cascade; fixing the cascade does not fix the topic substitution; fixing the topic substitution does not fix the normative leap. Each failure lives in its own grammatical frame.
 - The compact five-clause speech contains every major FAL-001/002 mechanism in 35 words of Tonesu. The structural audit produces a table with the same density as the original — which is the point. A speech designed to be slippery in natural language becomes a stack trace in Tonesu.
+- **Orthogonality property.** Each failure exists in a separate grammatical structure. Fixing one failure does not fix the others: removing the laundering does not repair the cascade; repairing the cascade does not repair the topic substitution; repairing the topic substitution does not repair the normative leap. This is the structural reason the stack-trace metaphor is accurate — the language decomposes the speech into independent, separately contestable commitments.
 
 ---
 
@@ -2918,7 +2920,113 @@ Structural audit:
 
 No new grammatical machinery was required after FAL-001. All four mechanisms scale from single-layer through composite political speech without degradation. The language does not prevent fallacies; it requires the speaker to make every manipulative step an explicit grammatical commitment — one that a careful listener can identify and challenge in isolation.
 
+**Four orthogonal dimensions.** Across all four batches, Tonesu consistently separates four types of statements that most languages conflate: (1) *source* (`()` — where does this claim come from?); (2) *topic* (`:` — what is this claim about?); (3) *grounding* (`go` / `ta` — what relation type holds?); (4) *epistemic level* (`si`/`se`/`to` — how certain is the claim?). Fallacies become visible because they require illegitimate movement across exactly one of these four dimensions while the other three remain fixed. The mechanisms are orthogonal: correcting a dimension-1 failure (laundering) has no effect on a dimension-2 failure (topic substitution).
+
+**Test-sequence framing:** FAL-001–4 form a methodologically complete sequence: unit tests (isolated fallacies, FAL-001/002) → stress tests (depth, FAL-003) → system test (composite speech, FAL-004). The system test passing confirms the design is compositional at the level of multi-move argumentation.
+
 **Open grammar questions (FAL-follow):**
 - [ ] **FAL-F-005:** Three-layer hearsay chain — deferred to FAL-005.
 - [x] **FAL-F-006:** `to-fe-su` — second attestation here (S384); deferred per review until third independent domain use.
-- [ ] **FAL-F-007:** The composite political speech in S388 is auditable but produces a dense five-row table. Is there a canonical Tonesu form for *naming the overall pattern* — a speaker who deploys multiple epistemic manipulations in sequence? `to-de-ka` (deliberate knowledge-distortion action) covers isolated falsehood; a compound for structured multi-move rhetorical manipulation has not been designed. Not urgent — the table is the expression.
+- [x] **FAL-F-007:** ~~Name compound for multi-move rhetorical manipulation?~~ **Resolved: do not create.** The table *is* the representation. Creating a single label for structured composite manipulation would collapse the orthogonal structure the language exposes. `to-de-ka` covers deliberate single-move falsehood; composite manipulation is already expressible as an enumeration of failure types in the audit structure. If the pattern appears *outside the fallacy corpus* — e.g. in a formal debate-record or institutional review — that would be the time to evaluate naming. Until then, the decomposition is the point.
+
+---
+
+## Propaganda Paragraph Corpus (S389–S390) — Batch: FAL-005
+
+**Purpose:** FAL-005 is the maximum-density test. A single paragraph-scale composite text combines all mechanisms simultaneously: three evidential layers, two topic shifts, one causal cascade, one normative leap, and one modal inflation. S389 is the propaganda text itself. S390 is the structural audit. The governing question: when seven distinct argumentative manipulations run in parallel across one block of text, does the audit remain legible and the failures remain independently addressable?
+
+Note on structure: FAL-001–004 used one sentence per fallacy type. FAL-005 uses two entries for the full paragraph: one for the source text and one for the complete audit table. This is a format shift — the paragraph exceeds useful single-entry length, and the audit is a first-class result in its own right.
+
+---
+
+**S389 — The propaganda paragraph.** *(FAL-005)*
+
+```
+(la-to-fe-su  lo-ra-ma-de  se)  ,
+
+la-mi  to  lo-ra-ma-de  de  ,
+
+go  [lo-ra-ma-de  de]  ,
+(du  lo-ne-su  mu-be)  ,
+(du  lo-ka-li-su  de-fe)  ,
+
+lo-ka-li-su-mi  :  la-mi  lo-zo-li  vo  wi  ,
+
+na-Kur  :
+(la-na-Kur  la-to-fe-su-ki  (la-to-li  lo-ra-ma-de  de  si)  re-ka)  ,
+la-na-Kur  lo-ra-ma-de  de  to  ,
+
+go  [(la-mi  se  lo-ra-ma-de  de)]  ,
+(du  la-mi  lo-ka-li-su  wi)  ,
+
+(du  la-mi  lo-ka-li-su  to)
+```
+
+**Literal (clause by clause):**
+1. `(la-to-fe-su  lo-ra-ma-de  se)` — "(The standards body: [some signal] of food-decay.)"
+2. `la-mi  to  lo-ra-ma-de  de` — "I am certain: food is in decay."
+3. `go  [lo-ra-ma-de  de]  , (du  lo-ne-su  mu-be)  , (du  lo-ka-li-su  de-fe)` — "Because food decays: [allegedly] social fabric enters harm; [allegedly] governance collapses."
+4. `lo-ka-li-su-mi  :  la-mi  lo-zo-li  vo  wi` — "As for my governance: I will value-toward persons."
+5. `na-Kur  :  (la-na-Kur  la-to-fe-su-ki  (la-to-li  lo-ra-ma-de  de  si)  re-ka)` — "As for Kur: [(reportedly: Kur-the-standards-body-agent announced that [(reportedly: a scholar holds food-decay as hypothesis)].)]"
+6. `la-na-Kur  lo-ra-ma-de  de  to` — "Kur is certain: food is in decay."
+7. `go  [(la-mi  se  lo-ra-ma-de  de)]  , (du  la-mi  lo-ka-li-su  wi)` — "Because [(I have some basis for food-decay)]: [allegedly] I will governance."
+8. `(du  la-mi  lo-ka-li-su  to)` — "[Allegedly therefore:] I am certain of governance."
+
+**Natural:**
+> "The authorities have reported signs of food insecurity. I am certain food is failing. This will cause social trust to erode and governance to collapse. As for my governance — I'm committed to the people's wellbeing. As for my opponent Kur — there are reports that he announced that a scholar reportedly thinks the food supply might be declining. Kur is certain food is decaying. [Given my weak basis for concern:] therefore I will govern. Therefore I am certain I should govern."
+
+**Notes:**
+- The paragraph deploys seven distinct failures in nine clauses. It is written to sound like a coherent campaign statement; no individual sentence is syntactically malformed. The structural damage is entirely in the epistemic and relational commitments.
+- `la-to-fe-su-ki` = standards-body-agent = someone acting as agent of the standards body (W-form `to-fe-su` + agent suffix `ki`; ⚠️ proposed; this is the third domain attestation of `to-fe-su` — registration threshold now met, see FAL-F-006 resolution below).
+
+---
+
+**S390 — Structural audit of S389.** *(FAL-005)*
+
+| # | clause | failure | mechanism | fix |
+|---|--------|---------|-----------|-----|
+| 1→2 | `(institution: food-decay signal)  ,  la-mi  to  lo-ra-ma-de  de` | ❌ epistemic laundering | `()` stripped; institutional signal becomes personal certainty | Retain `()` on conclusion; assert only `la-mi  to  [institution announced it]` |
+| 3a | `go [food-de]  , (du  lo-ne-su  mu-be)` | ❌ ungrounded cascade (link 1) | verified cause launches unverified consequence | Require independent grounding for `lo-ne-su  mu-be` |
+| 3b | `(du  lo-ne-su  mu-be)  , (du  lo-ka-li-su  de-fe)` | ❌ ungrounded cascade (link 2) | unverified premise used as input to second unverified consequence | Same |
+| 4 | `lo-ka-li-su-mi  :  la-mi  lo-zo-li  vo  wi` | ⚠️ incomplete warrant chain | value-anchor stated without harm-link or action commitment | Not fallacious alone; fallacious when used to warrant governance-will below |
+| 5 | `na-Kur  :  (la-na-Kur  la-to-fe-su-ki  (la-to-li  ...)  re-ka)` | ❌ topic substitution + hearsay inflation | `:` abandons policy-frame to attack opponent; two-layer `(())` buried inside bare opposition narrative | Both the `:` shift and the inner hearsay chain are diagnosable independently |
+| 6 | `la-na-Kur  lo-ra-ma-de  de  to` | ❌ bare accusation: epistemic inflation of opponent | opponent's certainty asserted bare (not inside `()`); the speaker presents Kur's `to` as established fact | Wrap: `(la-na-Kur  lo-ra-ma-de  de  to)` |
+| 7 | `go  [(la-mi  se  ...)]  , (du  la-mi  lo-ka-li-su  wi)` | ❌ normative leap | `se` (weak basis) + missing harm-link + missing value-anchor → governance `wi`-claim inside `(du)` | State full chain: evidence → harm → value-anchor → will |
+| 8 | `(du  la-mi  lo-ka-li-su  to)` | ❌ modal inflation | `()` conclusion elevates `wi` (will) to `to` (certainty) without intermediate `se`/`si` grounding | Remove or replace with grounded epistemic claim |
+
+**Audit reading:**
+> Six independent ❌, one ⚠️. The paragraph contains: one laundering move, two cascade links, one topic substitution, one hearsay-chain inflation, one epistemic inflation of an opponent, one normative leap, and one modal elevation \u2014 across nine clauses. Each failure is structurally separate; none is entangled with any other. Correcting all six requires six independent repairs.
+
+**Notes:**
+- This is the maximum-density test. FAL-001–004 produced one to three failures per entry; S389 produces six ❌ in nine clauses. The audit table remains legible and all cells are independently actionable.
+- **FAL-F-005 resolved here.** Clause 5 contains a two-layer hearsay chain: `(A  (B)  re-ka)` where A is a named individual and B is an anonymous scholar attribution. The inner `()` marks the scholar's claim as hypothesis; the outer `()` marks Kur's announcement as reported. Both layers are readable and independently contestable. Grammar is well-formed at depth-2 in a composite text. Depth-3 would require one more nesting: `(C  (A  (B)  re-ka)  re-ka)` — grammatically valid, practically a stress test for any reader. Deferred to standalone attestation.
+- **FAL-F-006 resolved here.** `la-to-fe-su-ki` in S389 is the third independent domain attestation of `to-fe-su` (institutional standards body). S383 (epistemic ladder), S384 (campaign opening), S389 (propaganda paragraph — both as agent and as agent-holder). Registration threshold met; see FAL-F-006 resolution note below.
+- The `⚠️` on clause 4 is intentional: `lo-zo-li  vo  wi` is not by itself fallacious. It only becomes problematic when borrowed as warrant for the governance-will claim in clause 7 without bridging. The grammar correctly marks the direct expression; the failure lives in the inference-chain between 4 and 7.
+
+**Cross-batch observation (FAL-001–005 · 27 sentences):**
+Maximum-density composition does not break the audit. Six failures in nine clauses remain independently addressable. The four-dimensional orthogonality (source / topic / grounding / epistemic level) holds even at propaganda-paragraph scale. The structural audit is the stable representation — it degrades in length but not in kind.
+
+---
+
+## FAL-005 Batch Summary
+
+**Confirmed results:**
+
+1. **Seven-mechanism composite is fully auditable.** ✅ S390 produces a six-row ❌ audit table, each row independently addressable. No entanglement between failure types.
+
+2. **Laundering detectable in multi-mechanism context.** ✅ S384 mechanism holds at paragraph scale: `()` removal at clause 2 is diagnosable even surrounded by cascade, topic-substitution, and modal inflation.
+
+3. **Two-layer hearsay confirmed in composite context.** ✅ Clause 5 of S389 embeds `(A  (B)  re-ka)` inside a larger propaganda text. Readable. This resolves FAL-F-005 for depth-2; depth-3 awaits standalone test.
+
+4. **Opponent-epistemic-inflation as a distinct move.** ✅ Clause 6 introduces a novel pattern not explicitly in FAL-001–004: asserting an *opponent's* epistemic certainty bare (`la-na-Kur  lo-ra-ma-de  de  to`). The fix is identical to the speaker-laundering fix — wrap in `()`. The mechanism generalizes to third-party epistemic claims.
+
+5. **Orthogonality confirmed at maximum density.** ✅ Six repairs required, none cross-contaminating. The stack-trace property of Tonesu extends to paragraph-level composition.
+
+**FAL-Follow resolutions:**
+
+- [x] **FAL-F-005:** ~~Three-layer hearsay depth limit.~~ **Partially resolved.** Depth-2 confirmed in composite context (S389 clause 5). Grammar well-formed. Depth-3 deferred to standalone test — not because it is expected to fail, but because a standalone test will be cleaner to read than one embedded inside a propaganda paragraph.
+- [x] **FAL-F-006:** ~~`to-fe-su` registration.~~ **Threshold met.** Third independent domain attestation: `la-to-fe-su-ki` in S389. **Registration candidate confirmed.** Queued for next W-series intake: `to-fe-su` :: `to` (knowledge) + `fe` (boundary) + `su` (structure) = institutional body that governs epistemic thresholds; standards council.
+
+**Open grammar questions (FAL-follow):**
+- [ ] **FAL-F-008:** Depth-3 hearsay chain standalone test — deferred to FAL-006 or standalone spot-check.
+- [ ] **FAL-F-009:** `la-na-Kur  lo-ra-ma-de  de  to` (bare third-party epistemic claim) is a new pattern in clause 6 of S389. Should there be an explicit spec note that all bare epistemic claims about third parties require `()` wrapping by default? The same rule governs first-person and third-party cases; the only difference is the agent slot. Confirm as corollary in spec/grammar.md § Evidential Frame.
