@@ -156,11 +156,157 @@ Natural:  The birds flew to their destination. / The flock migrated.
 
 ---
 
-## Plant Taxonomy — First Pass (S286+) *(PLT-001 — pending)*
+## Plant Taxonomy — First Pass (S286–S292) *(PLT-001)*
 
-*Scope: establish `zo`-based plant kind-terms. Key open question: plants are `zo` (living things) but have no `se-so` acoustic layer. The base diverges from `zo-se-so-[x]` at the second root. Candidates: `zo-su-[x]` (structural living thing), `zo-be-[x]` (growth-oriented living thing). The forcing cases are tree, flower, grass — three structurally distinct plant forms with high everyday frequency. Colloquial pressure for "tree" is extreme; stub will follow. `zo-be` is now occupied as egg/seed (S283 above) — this may force the plant base to use a different second root.*
+*Batch purpose (PLT-001): establish the plant base kind-term and test it against four canonical plant forms (tree, flower, grass, vine). Key architectural decision: plants branch off `zo` at the second root as `zo-su` (structural organism) — the first `zo-[x]` base without the perceptual chain (`se-so`). `zo-be` (biological reproductive product, S283) confirmed cross-domain for plant fruit/seed. Stub: `zos` (CLQ-003a).*
 
-*Pending corpus batch.*
+*Pre-processing decisions:*
+- *Plants are `zo` (living things) but have no acoustic or directional defining behavior. The distinguishing property is structural form: a plant IS its structure. Base: `zo-su` = structural organism.*
+- *`zo-be` is already occupied as biological reproductive product (attested S283). Plant base is `zo-su`, not `zo-be-[x]`.*
+- *Discriminators name the mode of growth: tree = `be-di` (directed/upward growth), flower = `lu-be` (visible-bloom growth), grass = `pa-be` (place-spreading growth), vine = `ne-ki` (relational climbing).*
+- *Stub: `zos` = `zo` + `su` → `zos`. Two-root base; no middle layer to drop.*
+
+---
+
+**S286 — Plant base kind-term: "The plant grew."** *(PLT-001-A)*
+
+*Target: establish `zo-su` as the plant class base kind-term.*
+
+```
+Gloss:    la-zo-su  be
+Literal:  agent:structural-organism  grew
+Natural:  The plant grew.
+```
+
+**Notes:**
+- `zo-su` = `zo` (living thing) + `su` (structure/order) = structural organism. Plants are the living things defined by their structural form rather than acoustic or directional behavior. Where animals are characterized by what they *do* (`se-so-li`, `se-so-fe`, etc.), plants are characterized by what they *are* — organized biological structure.
+- `be` without a patient = intransitive growth = the organism grows. Simplest possible plant sentence.
+- **`zo-su` vs `zo-se-so-[x]`:** the acoustic-organism layer (`se-so`) is absent entirely. Plants branch off `zo` at the second root: `zo-su` (structural) rather than `zo-se-so` (acoustic). First `zo-[x]` kind-term base without the full perceptual chain.
+- **Stub:** `zos` = `zo` + `su` → `zos`. Two-root base; no middle to drop. Registered CLQ-003a.
+
+---
+
+**S287 — Tree kind-term: "The tree grew upward."** *(PLT-001-B)*
+
+*Target: tree — the plant defined by sustained directional upward growth.*
+
+```
+Gloss:    la-be-di'zo-su  be  lo-be-di
+Literal:  agent:directed-growth'[structural-organism]  grew  patient:directed-growth
+Natural:  The tree grew upward.
+```
+
+**Notes:**
+- `be-di'zo-su` = `be` (growth) + `di` (direction) + `'` + `zo-su` (plant class) = directed-growth structural organism = tree. Head of subcompound: `di` (direction), modified by `be` (growth) = growth-toward-a-direction = **upward/directed growth**. The tree is the plant defined by sustained directed growth — the only plant class that grows indefinitely in one direction.
+- `be lo-be-di` = grew in a direction = grew upward. The object mirrors the discriminator. Written: `bedi'zosu`.
+- **`be-di` scope:** covers all upright woody perennials — trees, large shrubs, tall cacti — any plant whose defining property is persistent directed vertical growth.
+
+---
+
+**S288 — Flower kind-term: "The flower bloomed."** *(PLT-001-C)*
+
+*Target: flower — the plant defined by producing conspicuous visible bloom.*
+
+```
+Gloss:    la-lu-be'zo-su  be  lo-lu
+Literal:  agent:light-growth'[structural-organism]  produced  patient:light
+Natural:  The flower bloomed.
+```
+
+**Notes:**
+- `lu-be'zo-su` = `lu` (light/visibility) + `be` (growth) + `'` + `zo-su` (plant class) = visible-growth structural organism = flower. Head of subcompound: `be` (growth), modified by `lu` (light/visibility) = growth characterized by light-production = **bloom**. The flower is the plant whose biological function is to produce conspicuous visible signal to attract pollinators.
+- `be lo-lu` = produced light = produced visibility = bloomed/opened. Written: `lube'zosu`.
+- **`lu-be` vs `no-lu` (dark coat, KNM-003):** `no-lu` = absence of light. `lu-be` = growth of light. Compound polarity confirmed clean from the same primitive `lu`.
+
+---
+
+**S289 — Grass kind-term: "The grass covered the ground."** *(PLT-001-D)*
+
+*Target: grass/ground cover — the plant defined by lateral spreading growth over a surface.*
+
+```
+Gloss:    la-pa-be'zo-su  ko  lo-pa
+Literal:  agent:place-growth'[structural-organism]  covered  patient:place
+Natural:  The grass covered the ground.
+```
+
+**Notes:**
+- `pa-be'zo-su` = `pa` (place/space) + `be` (growth) + `'` + `zo-su` (plant class) = place-growth structural organism = grass/ground cover. Head of subcompound: `be` (growth), modified by `pa` (place) = growth over place = lateral expansion = **ground-covering spread**. Grass is the plant defined by low, extensive horizontal spread over a surface. Written: `pabe'zosu`.
+- `ko lo-pa` = covered/enclosed the place. `ko` as predicate = to cover, spread over.
+- **Plant discriminator pattern:** `be-di` (tree: directed upward growth), `lu-be` (flower: visible-bloom growth), `pa-be` (grass: place-spreading growth). All three use `be` (growth) — plants are the organisms where growth is the defining act; the discriminator specifies the mode.
+
+---
+
+**S290 — Vine kind-term: "The vine climbed the wall."** *(PLT-001-E)*
+
+*Target: vine/climber — the plant defined by growth through relational attachment to surfaces.*
+
+```
+Gloss:    la-ne-ki'zo-su  ki  lo-su
+Literal:  agent:relation-motion'[structural-organism]  moved  patient:structure
+Natural:  The vine climbed the wall.
+```
+
+**Notes:**
+- `ne-ki'zo-su` = `ne` (relation) + `ki` (motion) + `'` + `zo-su` (plant class) = relational-motion structural organism = vine/climber. Head of subcompound: `ki` (motion), modified by `ne` (relation) = motion defined by relation = movement by attachment = **climbing**. The vine is the plant that grows by attaching to and following other structures.
+- `ki lo-su` = moved along the structure = climbed the wall. `su` (structure) as patient = any surface: wall, trellis, tree trunk. Written: `neki'zosu`.
+- **Vine as exception:** tree, flower, and grass all use `be` in their discriminators. Vine uses `ne-ki` (relational motion) — because vine growth is defined by the relational movement constituting its growth, not a direction or bloom. The exception is structurally motivated.
+
+---
+
+**S291 — Tree produces fruit: "The tree bore fruit."** *(PLT-001-F)*
+
+*Target: plant reproductive cycle — cross-domain confirmation of `zo-be`.*
+
+```
+Gloss:    la-be-di'zo-su  be  lo-zo-be
+Literal:  agent:directed-growth'[structural-organism]  produced  patient:organism-growth-product
+Natural:  The tree bore fruit.
+```
+
+**Notes:**
+- `be lo-zo-be` = produced a biological-growth-product = bore fruit. `zo-be` (first attested S283, chicken egg) applies identically to plant reproductive products. Fruit, seed, nut, cone — all are `zo-be`.
+- **Cross-domain confirmation:** S283 (chicken) and S291 (tree) share the identical predicate structure `be lo-zo-be`. The language does not distinguish "laying an egg" from "bearing fruit" at the structural level. The subject kind-term carries the distinction; the predicate is the same.
+- **`zo-be` scope confirmed:** biological reproductive product across all kingdoms. English (egg / fruit / seed / spore) = domain-contextual narrowings of one Tonesu compound.
+
+---
+
+**S292 — Colloquial attestation: "I planted a tree."** *(PLT-001-G)*
+
+*Target: first corpus use of `zos`. Also first use of `be` as a transitive causative (to plant/grow).*
+
+```
+Gloss:    la-mi  be  lo-[be-di'zos]
+Literal:  agent:me  made-grow  patient:[tree(casual)]
+Natural:  I planted a tree. (casual register)
+```
+
+**Notes:**
+- `zos` = `zo` + `su` → `zos`. Plant-class stub. Two-root base; no middle layer to drop. Discriminator retained: `be-di'zos` = tree (casual). Written: `bedi'zos`. Registers as CLQ-003a.
+- `be lo-[...]` = made grow = planted. `be` as transitive predicate with a living-thing patient = causative growth = first corpus use of `be` as a planting verb.
+- **Four-stub inventory now complete for everyday organism classes:** `zol` (canid), `zof` (felid/fox), `zod` (bird), `zos` (plant). No collisions.
+
+---
+
+**Verdict PLT-001: Plant class established. Seven findings:**
+
+1. **`zo-su` is the plant base kind-term.** Plants branch off `zo` at the second root without the perceptual chain. First `zo-[x]` base without acoustic-organism qualification.
+
+2. **Four plant kind-terms established:** tree (`be-di'zo-su`), flower (`lu-be'zo-su`), grass (`pa-be'zo-su`), vine (`ne-ki'zo-su`). Three use `be` (growth) in the discriminator; vine (`ne-ki`) is a motivated exception.
+
+3. **`zo-be` confirmed cross-domain.** Fruit (S291) = `zo-be` exactly as egg (S283) = `zo-be`. One compound, domain-narrowed by context and parent kind-term.
+
+4. **`zos` registered as CLQ-003a.** Casual forms: `be-di'zos` (tree), `lu-be'zos` (flower), `pa-be'zos` (grass), `ne-ki'zos` (vine). Four-stub inventory: `zol` / `zof` / `zod` / `zos`.
+
+5. **`be` as transitive causative first-attested (S292).** `be lo-[plant]` = planted / caused to grow. Extends the established intransitive use.
+
+6. **Animal discriminators name behaviors; plant discriminators name modes of growth.** No special rule needed — discriminators pick the defining property and for plants that is always a growth compound.
+
+7. **Fungi and algae are NOT `zo-su`.** FNG-001 remains scheduled separately.
+
+**Follow-on actions:**
+- Register `zos` as CLQ-003a in `registry/colloquial.md`. ✓
+- Register `zo-su`, `zo-be`, `be-di`, `lu-be`, `pa-be`, `ne-ki`, `di-pa` in `registry/derived.md`.
 
 ---
 

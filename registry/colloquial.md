@@ -126,6 +126,44 @@ Related:      zo-se-so-di (formal source), zol (canid class), zof (felid/fox cla
 
 ---
 
+## CLQ-003 — Kind-term stub: `zos`
+
+*First-attested: S292 (PLT-001-G, March 2026).*
+
+---
+
+**CLQ-003a**
+```
+Form:         zos
+Formal source: zo-su
+Type:         contraction / colloquial stub
+Class:        entity (organism kind)
+Definition:   informal stub for "structural organism" — the plant class in casual
+              discourse. Covers any organism whose formal kind-term uses zo-su as its
+              base. In everyday speech, identifies plants of all kinds: trees, flowers,
+              grass, vines, and all zo-su kind-terms.
+Compression:  zo (organism anchor) + su (structure root) → zos. Two-root base; no
+              middle acoustic-organism layer to drop. The stub is the solid written
+              form of the two-root base. Different compression relationship from
+              zol/zof/zod (which drop a se-so middle layer) but satisfies the same
+              contraction rule: short form is unambiguous within plant discourse;
+              formal compound remains canonical.
+Register:     colloquial / casual spoken
+Domain:       general
+Status:       active
+First use:    S292 — la-mi  be  lo-[be-di'zos]  (I planted a tree; casual)
+Notes:        zos is a base-class stub, not a standalone species label. Plain zos in
+              casual speech refers to the plant class as a whole; species reference
+              requires a retained discriminator (be-di'zos = tree, lu-be'zos = flower,
+              pa-be'zos = grass, ne-ki'zos = vine) or contextual resolution.
+              Discriminator prefixes are NOT dropped. No collision with existing stubs:
+              zol (canid), zof (felid/fox), zod (bird), zos (plant) — four-class
+              stub inventory for everyday organism kinds.
+Related:      zo-su (formal source), zol/zof/zod (animal class stubs)
+```
+
+---
+
 ## Registration log
 
 | ID | Form | Formal source | First attested | Adopted |
@@ -133,3 +171,4 @@ Related:      zo-se-so-di (formal source), zol (canid class), zof (felid/fox cla
 | CLQ-001a | `zol` | `zo-se-so-li` | S269 (KNM-004) | March 2026 |
 | CLQ-001b | `zof` | `zo-se-so-fe` | S269 note (KNM-004) | March 2026 |
 | CLQ-002a | `zod` | `zo-se-so-di` | S284 (KNM-005) | March 2026 |
+| CLQ-003a | `zos` | `zo-su` | S292 (PLT-001) | March 2026 |
