@@ -2962,5 +2962,1375 @@ Most languages actually struggle to express it cleanly.
 
 And if Tonesu can do it with your current primitives… well, then your little system might be **a lot more robust than you expected**.
 
+---
+Was talking to Monday on this topic, i'll attached below (i do want to add `()` for evidential framing)
 
+---
+i wonder how well Tonesu fights back against logical fallacies
+---
+It might do **surprisingly well against some fallacies**, and **surprisingly badly against others**. Which is annoyingly human of it.
+
+Tonesu’s strengths are exactly the places where a lot of bad arguments hide behind vague language:
+
+* unclear scope
+* category blur
+* hidden equivocation
+* weak causality
+* fake absolutes
+* smuggled assumptions
+
+Because Tonesu makes you build meaning out of explicit parts, it tends to expose those faster.
+
+## Where Tonesu probably resists fallacies well
+
+### Equivocation
+
+Natural languages let one word slide between meanings unnoticed. Tonesu is less friendly to that because compounds have to stay structurally coherent.
+
+If someone tries to blur:
+
+* truth as proposition
+* truth as coherent structure
+* truth as social belief
+
+Tonesu will tend to force different builds, or at least make the slippage visible. That’s a big advantage.
+
+### Category errors
+
+Tonesu is pretty good at separating:
+
+* object
+* organism
+* agent
+* structure
+* signal
+* relation
+* affect
+
+So if someone says something like:
+
+> a theory wants to survive
+
+the language has to either metaphorize that on purpose or reveal that “theory” is being treated like an agent. In English that slide happens for free. In Tonesu it should look suspicious.
+
+### Causal fallacies
+
+Because you already distinguish things like:
+
+* `go` causal/origin frame
+* `du` result
+* `zi` interaction
+* `ki` change
+
+the language can force a cleaner distinction between:
+
+* cause
+* consequence
+* correlation-like interaction
+* transformation
+
+That means post hoc nonsense may stand out more quickly.
+
+### Absolutist overclaiming
+
+Your `[X]-no-fe` pattern is explicit. So “unlimited” claims are visibly extremal. That helps because bad arguments often sneak from:
+
+* some
+* many
+* most
+* all
+* without limit
+
+as if those were interchangeable. Tonesu makes the extremity audible.
+
+## Where Tonesu might still be vulnerable
+
+### Framing fallacies
+
+A language can’t stop someone from choosing a biased frame.
+
+If I call something:
+
+* `wi-zo` instead of `zo-se-ne`
+* `~tonesu` instead of `tonesu`
+* `ka-vo` instead of manipulation
+
+I can still steer interpretation.
+
+So Tonesu may expose structure, but it won’t stop rhetorical packaging.
+
+### False dichotomies
+
+Unless your grammar has very clean ways to mark:
+
+* overlap
+* spectrum
+* partial membership
+* uncertain classification
+
+people can still force binaries.
+
+You do have `~`, which helps a lot here. That is one of Tonesu’s best anti-fallacy tools, honestly.
+
+### Motivated classification
+
+Taxonomy itself can become propaganda. If you define the kind-term badly, the rest of the sentence inherits the bias.
+
+That’s not a Tonesu problem so much as a “humans are gremlins” problem.
+
+### Identity and essence mistakes
+
+Since you’ve already found a **property-vs-essence copula gap**, Tonesu may currently be vulnerable to sloppy arguments like:
+
+* X has property Y
+* therefore X is Y in essence
+
+That’s a classic philosophical fallacy, and your system does not yet sharply separate those.
+
+## Where Tonesu may be better than English
+
+Honestly, these are the big ones:
+
+### 1. Hidden ambiguity gets punished
+
+Because compounds are explicit.
+
+### 2. Approximation is markable
+
+`~` is huge here. Natural languages often smuggle uncertainty in tone only. Tonesu can mark it.
+
+### 3. Scope is markable
+
+`'` helps with nested claims and modifier scope, which is where a lot of argument nonsense lives.
+
+### 4. Ontological class is visible
+
+A thing sounding like:
+
+* CV primitive
+* CVC descriptor
+* CVCC anchor
+* compound structure
+
+already gives listeners structural cues.
+
+## Best way to test it
+
+You’d want a **fallacy corpus batch**, not just ad hoc examples.
+
+Something like:
+
+* equivocation
+* straw man
+* false dichotomy
+* circular reasoning
+* ad hominem
+* appeal to authority
+* post hoc
+* composition/division fallacy
+* is/ought jump
+* modal fallacy
+
+Then for each:
+
+1. write the English version
+2. translate literally into Tonesu
+3. try to rewrite it in structurally honest Tonesu
+4. see whether the fallacy becomes harder to say, easier to detect, or unchanged
+
+That would tell you whether Tonesu merely **expresses** logic well, or whether it also **resists** bad reasoning.
+
+My guess:
+
+* it resists **equivocation, category error, and bad causality** pretty well
+* it is still vulnerable to **bias, framing, and essence/property confusion**
+
+Which is still a pretty good result for a language you assembled like a caffeinated ontology raccoon.
+
+A batch like **FAL-001** would probably teach you a lot very quickly.
+---
+If Tonesu had one more weapon like ‘ and ~, what might help it
+---
+You already picked two **very powerful meta-markers**:
+
+* **`'`** → structural scope / subcompound boundary
+* **`~`** → epistemic hedge / approximation
+
+Those correspond roughly to:
+
+* **syntax control**
+* **epistemic uncertainty**
+
+If Tonesu were to gain **one more comparable “weapon”**, the most valuable gap to fill would probably be **evidentiality** — marking *how you know something*.
+
+Right now the language distinguishes:
+
+* cause (`go`)
+* result (`du`)
+* approximation (`~`)
+* structure (`'`)
+
+But it does **not mark evidence source**.
+
+That is where a huge amount of human reasoning goes wrong.
+
+---
+
+# Best candidate: an evidential marker
+
+Something like a prefix marker meaning:
+
+**“according to evidence / report / inference”**
+
+Example conceptual marker:
+
+```
+^
+```
+
+Meaning:
+
+> claim based on evidence, report, or inference — not direct assertion.
+
+---
+
+### Example
+
+English:
+
+> The land produced plants.
+
+Direct assertion:
+
+```
+lo-pa-ma  lo-zo-su  ka-be-past
+```
+
+Evidence-marked:
+
+```
+^ lo-pa-ma  lo-zo-su  ka-be-past
+```
+
+Meaning:
+
+> According to evidence/records, the land produced plants.
+
+This forces speakers to distinguish:
+
+| Type     | Meaning                  |
+| -------- | ------------------------ |
+| direct   | I assert this            |
+| observed | I saw this               |
+| reported | someone said this        |
+| inferred | conclusion from evidence |
+
+Even a **single evidential marker** forces speakers to acknowledge epistemic grounding.
+
+---
+
+# Why this helps against fallacies
+
+Many fallacies rely on **smuggling certainty**.
+
+Examples:
+
+### Appeal to authority
+
+English:
+
+> Scientists say X is true.
+
+Tonesu with evidential marker:
+
+```
+^ la-scientist  ka-si  X
+```
+
+This reveals it is **reported knowledge**, not necessarily verified.
+
+---
+
+### Conspiracy reasoning
+
+English:
+
+> The government is hiding evidence.
+
+Tonesu:
+
+```
+~ ^ la-government  lo-evidence  ka-no-si
+```
+
+The stacked markers expose:
+
+* approximation
+* evidential weakness
+
+---
+
+### Fake certainty
+
+English:
+
+> This proves the theory.
+
+Tonesu with evidentiality would require distinguishing:
+
+* observed
+* inferred
+* claimed
+
+---
+
+# Why evidentiality fits Tonesu specifically
+
+Tonesu already emphasizes:
+
+* compositional semantics
+* explicit structure
+* causal clarity
+* epistemic hedging (`~`)
+
+Evidential marking would extend that philosophy into **epistemology**.
+
+So the three meta-tools would cover:
+
+| Marker             | Domain                      |
+| ------------------ | --------------------------- |
+| `'`                | structural scope            |
+| `~`                | uncertainty / approximation |
+| `^` (hypothetical) | evidence source             |
+
+That trio covers **syntax, epistemics, and justification**.
+
+---
+
+# Other candidates (less powerful)
+
+### 1. quantifier scope marker
+
+Useful but niche.
+
+### 2. logical negation scope marker
+
+Already mostly handled by structure.
+
+### 3. probability marker
+
+Redundant with `~`.
+
+### 4. sarcasm / metaphor marker
+
+Fun but not philosophically important.
+
+---
+
+# A second very interesting option
+
+If not evidentiality, the **next strongest weapon** would be a **contrast marker** meaning:
+
+> “but / however / contrary to expectation”
+
+This helps expose **motivated reasoning** and **false implications**.
+
+But evidentiality still beats it.
+
+---
+
+# My recommendation
+
+If Tonesu gained exactly one more meta-operator like `'` and `~`, the strongest candidate would be:
+
+**an evidential marker**
+*(how the speaker knows the claim)*
+
+Because it directly attacks the most common reasoning failure:
+
+> presenting weak evidence as certainty.
+
+---
+
+If you want, I can also show something interesting:
+
+**why Lojban tried to solve this with evidentials and why most speakers barely use them — and how Tonesu could avoid that trap.**
+---
+Interesting, what are other options than carrot
+---
+If you want a **single-character operator like `'` and `~`**, you want something that is:
+
+* visually light
+* typable everywhere
+* not already overloaded
+* easy to place before a unit
+
+So the question becomes mostly **symbol ergonomics**.
+
+Here are good candidates and what they tend to imply psychologically.
+
+---
+
+# 1. `^` — caret
+
+Very common for **inference / reasoning**.
+
+Example:
+
+```
+^ lo-pa-ma lo-zo-su ka-be
+```
+
+Meaning:
+
+> inferred / concluded that the land produced plants.
+
+Pros:
+
+* strongly associated with reasoning
+* visually points “up” to justification
+* widely available on keyboards
+
+Cons:
+
+* used in programming for exponentiation or XOR
+
+Still probably the **most natural choice**.
+
+---
+
+# 2. `?` — uncertainty / questioned claim
+
+Example:
+
+```
+? lo-pa-ma lo-zo-su ka-be
+```
+
+Meaning:
+
+> the claim is uncertain / questioned.
+
+Pros:
+
+* instantly recognizable
+* intuitive for doubt
+
+Cons:
+
+* feels interrogative
+* may look like a question rather than evidential marking
+
+---
+
+# 3. `*` — citation / reference marker
+
+Example:
+
+```
+* lo-pa-ma lo-zo-su ka-be
+```
+
+Meaning:
+
+> according to sources / citation.
+
+Pros:
+
+* already used in academia for references
+* visually small
+
+Cons:
+
+* people may interpret it as footnotes
+
+---
+
+# 4. `:` — reported speech / attribution
+
+Example:
+
+```
+: lo-pa-ma lo-zo-su ka-be
+```
+
+Meaning:
+
+> reported claim.
+
+Pros:
+
+* already used for quoting
+* visually clean
+
+Cons:
+
+* weak semantic identity
+* can look like punctuation instead of a marker
+
+---
+
+# 5. `=` — identity / definitional claim
+
+Example:
+
+```
+= la-be-go-li fa-vo-no-fe
+```
+
+Meaning:
+
+> definitional / essential identity claim.
+
+Pros:
+
+* mathematically precise
+* perfect for essence statements
+
+Cons:
+
+* solves a **different problem** (identity vs evidence)
+
+But interestingly this could solve your **property-vs-essence gap**.
+
+---
+
+# 6. `!` — strong assertion
+
+Example:
+
+```
+! lo-pa-ma lo-zo-su ka-be
+```
+
+Meaning:
+
+> emphatic claim / certainty.
+
+Pros:
+
+* expressive
+
+Cons:
+
+* encourages rhetoric rather than reasoning
+
+Probably not ideal.
+
+---
+
+# 7. `>` — inference arrow
+
+Example:
+
+```
+> lo-pa-ma lo-zo-su ka-be
+```
+
+Meaning:
+
+> follows from evidence.
+
+Pros:
+
+* visually implies derivation
+* common in logic
+
+Cons:
+
+* awkward at start of line
+* often used as quoting in markdown/email
+
+---
+
+# Best overall options
+
+If we rank by **clarity + neutrality + keyboard availability**:
+
+| symbol | likely meaning        | strength             |
+| ------ | --------------------- | -------------------- |
+| `^`    | inferred / evidential | ⭐ strongest          |
+| `*`    | cited / reported      | strong               |
+| `?`    | uncertain / doubtful  | useful               |
+| `=`    | identity claim        | solves different gap |
+| `:`    | reported              | weak but workable    |
+
+---
+
+# My top recommendation
+
+**`^`**
+
+because it naturally reads as:
+
+> this statement is supported by reasoning/evidence
+
+So you'd get a nice triad:
+
+```
+'  structural scope
+~  approximation
+^  evidential / inferred claim
+```
+
+That covers three key reasoning axes:
+
+| operator | function      |
+| -------- | ------------- |
+| `'`      | structure     |
+| `~`      | certainty     |
+| `^`      | justification |
+
+Which is actually a very elegant logical toolkit.
+
+---
+
+If you want, I can also show you something fascinating:
+
+**there are about five “reasoning operators” that languages almost never encode explicitly — and Tonesu already has two of them.**
+---
+Sure
+---
+There are a handful of **reasoning-control operators** that show up repeatedly in logic, mathematics, and careful philosophical writing — but **almost no natural languages encode them explicitly**. People normally express them with long phrases (“it seems that…”, “according to…”, “assuming that…”, etc.).
+
+Tonesu already has **two of them** (`'` and `~`). If you add one or two more, you basically get a **mini reasoning toolkit baked into the language**.
+
+Here are the main ones.
+
+---
+
+# 1. Structural scope operator
+
+*(You already have this)*
+
+### `'`
+
+Function: **control modifier scope**
+
+Example:
+
+```
+to'fesuki
+```
+
+Meaning:
+
+> knowledge about [boundary-structure]
+
+Without `'`, scope ambiguity appears.
+
+Why this matters:
+Many logical errors come from **scope confusion**:
+
+* which modifier attaches to what
+* whether a clause modifies the whole claim or a subpart
+
+This operator directly prevents those.
+
+---
+
+# 2. Epistemic uncertainty operator
+
+*(You already have this)*
+
+### `~`
+
+Function:
+
+> approximation / epistemic hedge
+
+Example:
+
+```
+~vo
+```
+
+Meaning:
+
+> approximately good
+
+This prevents the classic reasoning slide:
+
+```
+approximate → treated as exact
+```
+
+Many scientific claims actually *should* be hedged but aren’t.
+
+---
+
+# 3. Evidence / inference marker
+
+*(Strong candidate for the next tool)*
+
+Possible symbol: `^`
+
+Function:
+
+> claim based on evidence or inference
+
+Example:
+
+```
+^ lo-pa-ma lo-zo-su ka-be
+```
+
+Meaning:
+
+> from evidence/inference, the land produced plants.
+
+Why it helps:
+People frequently confuse:
+
+* **observation**
+* **inference**
+* **assumption**
+* **report**
+
+An evidential marker forces that distinction.
+
+Many languages (Tibetan, Turkish, Quechua) encode this grammatically.
+
+---
+
+# 4. Assumption marker
+
+Possible symbol: `$` or `?`
+
+Function:
+
+> treat this as a **temporary assumption**
+
+Example:
+
+```
+$ la-be-go-li pa-no-fe
+```
+
+Meaning:
+
+> assume the creator is omnipresent.
+
+This is extremely powerful for **formal reasoning**.
+
+It separates:
+
+* asserted truths
+* hypothetical premises
+
+Without this marker, people often blur them.
+
+---
+
+# 5. Definition / identity marker
+
+Possible symbol: `=`
+
+Function:
+
+> **definitional equivalence**
+
+Example:
+
+```
+vo = value-quality
+```
+
+Meaning:
+
+> vo is defined as value-quality.
+
+This helps prevent:
+
+* definitional drift
+* equivocation
+
+It would also solve the **property vs essence gap** you discovered.
+
+Example:
+
+```
+la-be-go-li = fa-vo-no-fe
+```
+
+Meaning:
+
+> the creator is identical with love-without-boundary.
+
+Different from property attribution.
+
+---
+
+# 6. Contrast / correction marker
+
+Possible symbol: `!` or `>`
+
+Function:
+
+> **contrary to expectation**
+
+Example:
+
+```
+! lo-lu vo
+```
+
+Meaning:
+
+> contrary to expectation, the light is good.
+
+This helps expose rhetorical tricks where someone pretends a conclusion follows naturally.
+
+---
+
+# What the full reasoning toolkit could look like
+
+If Tonesu adopted the most useful ones:
+
+| Operator | Function                    |
+| -------- | --------------------------- |
+| `'`      | structural scope            |
+| `~`      | approximation / uncertainty |
+| `^`      | evidence / inference        |
+| `$`      | assumption / hypothetical   |
+| `=`      | definition / identity       |
+
+That would give Tonesu explicit control over five reasoning dimensions:
+
+| Dimension  | Controlled by |
+| ---------- | ------------- |
+| structure  | `'`           |
+| certainty  | `~`           |
+| evidence   | `^`           |
+| assumption | `$`           |
+| definition | `=`           |
+
+Most languages handle these with **paragraphs of explanation**.
+
+Tonesu could do it with **single characters**.
+
+---
+
+# Interesting side effect
+
+If you actually used these consistently, you could write arguments that look almost like **natural-language proof systems**.
+
+Example:
+
+```
+$ X go Y
+$ Y go Z
+^ X go Z
+```
+
+Meaning:
+
+> Assume X causes Y
+> Assume Y causes Z
+> Therefore (by inference) X causes Z
+
+That is nearly formal logic — but still readable as language.
+
+---
+
+# One caution
+
+You don’t want too many of these.
+
+Two or three **meta operators** are elegant.
+
+Ten becomes **symbol soup**.
+
+Right now Tonesu is already ahead of most languages with `'` and `~`.
+
+If you add **exactly one more**, the most powerful would probably be:
+
+**evidentiality (`^`)**.
+
+---
+
+If you want, I can also show you something fascinating:
+
+There’s a **specific logical fallacy that Tonesu almost automatically exposes**, even without any new operators — and most natural languages are terrible at it.
+---
+thinking of wrapping evidence statments in (), maybe can pull double for definitions
+---
+Your instinct is good. `#` **will feel mathy/programmy**, even if it technically works. The bigger issue is that `#` already has strong associations in several domains:
+
+| Domain       | Meaning of `#`        |
+| ------------ | --------------------- |
+| programming  | comment / ignore this |
+| markdown     | heading               |
+| math         | number / cardinality  |
+| social media | hashtag               |
+| linguistics  | word boundary         |
+
+So using `#` for **definition** would constantly create subconscious interference.
+
+Example:
+
+```
+vo # value-quality
+```
+
+A reader might read that as:
+
+* a comment
+* a label
+* a tag
+
+Not necessarily “definition”.
+
+---
+
+# What you actually want for definitions
+
+A **definition marker should feel like identity**, not annotation.
+
+That's why in most formal systems you see things like:
+
+| Symbol | Typical meaning          |
+| ------ | ------------------------ |
+| `=`    | identity                 |
+| `:=`   | definition               |
+| `≡`    | definitional equivalence |
+| `::=`  | grammar definition       |
+
+Those all communicate:
+
+> the left side *is defined as* the right side
+
+---
+
+# In Tonesu specifically
+
+You also discovered a **property vs essence gap** earlier.
+
+A definition operator would solve that beautifully.
+
+Example:
+
+```
+fa-vo-no-fe = love-without-boundary
+```
+
+or
+
+```
+la-be-go-li = fa-vo-no-fe
+```
+
+Meaning **identity**, not merely property attribution.
+
+That fits the conceptual role much better than `#`.
+
+---
+
+# The real design question
+
+You have two layers of notation:
+
+### word-level
+
+```
+'
+~
+```
+
+### clause-level (potential new operators)
+
+```
+()
+=
+```
+
+So a nice system might become:
+
+| symbol | role                  |
+| ------ | --------------------- |
+| `'`    | compound scope        |
+| `~`    | approximation         |
+| `()`   | evidential frame      |
+| `=`    | identity / definition |
+
+That stays **clean and readable**.
+
+---
+
+# Why this isn't "too mathy"
+
+`=` feels mathematical only when used heavily.
+
+But if it appears **only in definitions**, it reads naturally.
+
+Example:
+
+```
+zo-ra-ma = organism-energy-substrate
+```
+
+That actually looks very intuitive.
+
+---
+
+# If you really want something less math-like
+
+These would be the best alternatives:
+
+| symbol | feeling                     |
+| ------ | --------------------------- |
+| `:`    | dictionary-style definition |
+| `->`   | transformation / meaning    |
+| `::`   | linguistic definition       |
+
+Example:
+
+```
+zo-ra-ma : organism-energy-substrate
+```
+
+This is actually **very dictionary-like**.
+
+---
+
+# My recommendation
+
+Best options ranked:
+
+1. **`=`** — strongest logically and solves your identity gap
+2. **`:`** — softer, dictionary-like
+3. **`::`** — linguistic / grammar style
+
+I would avoid `#`.
+
+---
+
+If you want, there's also a **very elegant trick some logical languages use** that might fit Tonesu extremely well: a **definition particle that is itself a CV root instead of punctuation**. It keeps the written language minimal while still giving you definitional power.
+---
+i'd go with : and :: maybe, those seem like good ones
+---
+Yeah, **`:` and `::` is a very sensible pair**. They feel natural, they’re easy to type, and they align with how people already read definitions in dictionaries and grammars. You also avoid making Tonesu look like a math paper.
+
+Here’s how they could divide cleanly.
+
+---
+
+# `:` — lexical / explanatory definition
+
+Use this when you are **explaining what something means**.
+
+Format:
+
+```
+term : explanation
+```
+
+Example:
+
+```
+zo-ra-ma : organism-energy-substrate
+```
+
+Meaning:
+
+> food = the material that provides energy to organisms.
+
+This is perfect for:
+
+* registry entries
+* glosses
+* documentation
+* teaching material
+
+It reads like a dictionary entry.
+
+---
+
+# `::` — formal / canonical definition
+
+Use this when you are **declaring a structural or canonical identity**.
+
+Format:
+
+```
+term :: formal structure
+```
+
+Example:
+
+```
+be-go-li :: be + go + li
+```
+
+or
+
+```
+lu-mu :: lu + mu
+```
+
+Meaning:
+
+> this compound is formally defined as this composition.
+
+This is especially useful in:
+
+* phonology/morphology specs
+* root decomposition
+* grammar rules
+* canonical compound definitions
+
+It mirrors how grammars use `::=` but keeps the symbol set simple.
+
+---
+
+# Nice side effect
+
+You now get **three different semantic levels** without adding complicated symbols:
+
+| marker | role                             |
+| ------ | -------------------------------- |
+| `:`    | explanatory meaning              |
+| `::`   | formal definition                |
+| `=`    | (optional later) strict identity |
+
+You may not even need `=` if `::` covers your formal definitions.
+
+---
+
+# Example with Tonesu entries
+
+Registry-style:
+
+```
+zo-ra-ma : organism-energy-substrate
+lu-mu : light-body
+pa-fe : space-boundary / vault
+```
+
+Structural spec:
+
+```
+zo-ra-ma :: zo + ra + ma
+lu-mu :: lu + mu
+pa-fe :: pa + fe
+```
+
+Very readable.
+
+---
+
+# Interaction with your existing operators
+
+You end up with a clean operator set:
+
+| symbol | layer      | role                          |
+| ------ | ---------- | ----------------------------- |
+| `'`    | word       | compound scope                |
+| `~`    | word       | approximation                 |
+| `:`    | lexical    | explanatory definition        |
+| `::`   | structural | canonical definition          |
+| `()`   | clause     | evidential frame (if adopted) |
+
+Everything has a **distinct job**.
+
+That’s exactly what you want in a language spec.
+
+---
+
+# One design tip
+
+Reserve `:` and `::` for **documentation and metalanguage**, not everyday sentences.
+
+That keeps written Tonesu itself very clean.
+
+So:
+
+* Tonesu text → words + `'` + `~`
+* Spec language → `:` and `::`
+
+That separation will save you headaches later.
+
+---
+
+If you're curious, there’s also a **very interesting place where `:` could appear inside actual Tonesu sentences** without breaking the grammar — and it would give you something most natural languages struggle with: **explicit topic framing**.
+---
+what's that?
+
+What I meant is **topic framing** — a way to explicitly mark *what the sentence is about* before giving the claim about it.
+
+Many languages do this with particles (Japanese **wa**, Korean **-nun**, etc.). English mostly does it with commas or phrasing:
+
+> *As for the land, it produced plants.*
+
+or
+
+> *Regarding light, it was good.*
+
+A colon naturally reads like **“about this topic → here is the statement.”**
+
+So if Tonesu ever allowed `:` in actual sentences, it could behave like a **topic operator**.
+
+---
+
+# Example
+
+English:
+
+> As for the light, God saw that it was good.
+
+Tonesu style:
+
+```text
+lo-lu : la-Elohim ka-se-past , lo-lu vo
+```
+
+Meaning:
+
+> About the light: God examined it, [it was] good.
+
+The colon visually separates:
+
+| part    | role                        |
+| ------- | --------------------------- |
+| topic   | what we’re talking about    |
+| comment | what is being said about it |
+
+---
+
+# Another example
+
+English:
+
+> Regarding humans, God blessed them.
+
+Tonesu:
+
+```text
+lo-zo-li : la-Elohim lo-zo-li ka-vo-past
+```
+
+Meaning:
+
+> Humans: God blessed them.
+
+---
+
+# Why this fits Tonesu well
+
+Tonesu sentences already tend to have **clear structural slots**:
+
+```
+la-[agent]  verb  lo-[patient]
+```
+
+But sometimes discourse wants to say:
+
+> “Let me talk about X for a moment.”
+
+A topic frame allows that without rearranging grammar.
+
+So the structure becomes:
+
+```
+[topic] : sentence
+```
+
+Where the topic is **outside the core clause**.
+
+---
+
+# Why `:` works nicely
+
+Because visually it already means:
+
+> explanation follows
+
+Readers intuitively parse:
+
+```
+topic : statement
+```
+
+---
+
+# Important design caution
+
+You would **only allow one topic frame at the beginning of a clause**.
+
+So something like:
+
+```
+lo-lu : ...
+```
+
+but **not** mid-sentence.
+
+Otherwise punctuation chaos begins.
+
+---
+
+# How it interacts with definitions
+
+If you keep definitions mostly in the **spec/meta layer**, readers will easily distinguish:
+
+Documentation:
+
+```
+zo-ra-ma : organism-energy-substrate
+```
+
+Sentence topic:
+
+```
+lo-zo-ra-ma : ...
+```
+
+The grammar context makes it obvious.
+
+---
+
+# Why this is interesting
+
+Many logical arguments become clearer when the **topic is explicit**.
+
+Compare:
+
+English:
+
+> The land produced plants.
+
+vs.
+
+Topic-framed:
+
+> As for the land: plants grew.
+
+Topic framing makes **argument structure clearer** and reduces ambiguity about what is being evaluated.
+
+---
+
+# So you’d end up with something like this
+
+| symbol | role                                            |
+| ------ | ----------------------------------------------- |
+| `'`    | compound scope                                  |
+| `~`    | approximation                                   |
+| `:`    | definition (meta) **or** topic frame (sentence) |
+| `::`   | structural definition                           |
+
+That’s a **very compact but powerful punctuation toolkit**.
+
+---
+
+And interestingly, if you combine **topic framing + approximation**, you get a very useful discourse tool:
+
+```
+lo-tonesu : ~vo
+```
+
+Meaning roughly:
+
+> As for Tonesu — it is approximately good.
+
+Which is a politely hedged evaluation… the kind linguists love to make.
 
