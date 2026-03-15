@@ -160,6 +160,41 @@ Because hyphens carry no grammatical meaning, written forms strip cleanly: `to's
 
 ---
 
+## CVC Descriptor Modifiers
+
+CVC-tier forms — colors, digits, and scale prefixes — function as **pre-nominal modifiers** in the compound system. The same head-final rule applies: the descriptor precedes the noun or compound it modifies.
+
+```
+[color]  [noun]          →  ker mu      (red object)
+[scale]  nu  [domain]    →  pir nu pa   (kilometer)
+[digit]  nu  [noun]      →  gal nu zo   (three organisms)
+```
+
+CVC forms are phonologically stratified from CV primitives: the coda signals tier membership instantly. A CVC color or digit is never misread as a primitive root in isolation.
+
+**Modifier scope and `'`:** when a CVC color or visual-pattern modifier precedes a multi-root compound, `'` is required to prevent the default right-branching parse from attaching the modifier to only the terminal root rather than to the compound as a whole:
+
+```
+ker-zo-se-so   →  wrong: ker modifies only [so]
+ker'zo-se-so   →  correct: ker scopes over [zo-se-so] as a unit
+```
+
+This is a specific instance of the `'` re-scoping function (§ Compound Grouping Marker). The rule is: **a CVC-tier modifier preceding a compound of two or more roots requires `'` between the modifier and the compound.**
+
+**Visual-pattern compounds** (`lu-di` = stripe, `lu-pe` = spot, `lu-fe` = solid/uniform coat) are compositional compounds built from the `lu` (light/visibility) primitive, not CVC atoms. They function as pre-nominal modifiers under the same rule; `'` applies under the same conditions:
+
+```
+lu-di mu               →  striped object
+lu-pe'zo-se-so-fe      →  spotted cat-class organism
+lu-fe'pa-fe'zo-se-so-fe  →  solid-coated mountain-territory cat
+```
+
+**`no-lu` (dark/absence of light) as modifier:** the compositional compound `no-lu` expresses the property of being dark or light-absent. It is not the same as the CVC atom `yel` (black hue). `no-lu` is used when darkness is a feature or coat property of a thing; `yel` is used to name the specific perceptual hue point. Both are pre-nominal modifiers; `'` applies when either precedes a multi-root compound.
+
+**Corpus basis:** S204–S207 (KNM-002) — `ker'zo-se-so`, `ker'zo-se-so-li`, color scoping confirmed in agent and patient positions. S255–S259 (KNM-003) — `lu-di`, `lu-pe`, and `no-lu` as pre-nominal modifiers on multi-discriminator Felidae kind-terms; three-apostrophe compound `nolu'lupe'maki'zosesof` (melanistic jaguar) is the maximum-depth attested example.
+
+---
+
 ## Lexical Status Tiers
 
 | Tier | Meaning |

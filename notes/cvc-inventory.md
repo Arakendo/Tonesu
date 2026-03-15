@@ -1,6 +1,6 @@
 # CVC / CVCC Descriptor Inventory: Digits, Colors, Scale Prefixes, Exceptional Anchors
 
-## Status: Proposed — March 2026
+## Status: Normative — March 2026
 
 Working document. Forms here are candidates. None are formally registered until registry entries are created.
 
@@ -242,7 +242,49 @@ Orange and purple have valid compositional expressions (`ker zi sam` and `ker zi
 | orange | `tem`       | `te`          | `ker zi sam` (red + yellow blend) |
 | purple | `dol`       | `do`          | `ker zi pom` (red + blue blend) |
 
-**Note on prior colloquial anchors:** `lu-ra` (≈red), `lu-zo` (≈green), `lu-pa` (≈blue) were logged as informal hue expressions (COL-001, open-questions.md). If this CVC set is adopted, those compounds become poetic/informal register only; the CVC forms above are canonical.
+**Note on prior colloquial anchors:** `lu-ra` (≈red), `lu-zo` (≈green), `lu-pa` (≈blue) were logged as informal hue expressions (COL-001, open-questions.md). With this CVC set now normative, those compounds are poetic/informal register only; the CVC forms above are canonical.
+
+---
+
+## Visual-Pattern Compounds
+
+*These are compositional compounds from existing primitives — not CVC atoms. They form a distinct vocabulary sub-class: named patterns of light distribution on surfaces. They function as pre-nominal modifiers by the same head-final rule as CVC color forms, and require `'` when scoping over multi-root kind-terms. Status: corpus-attested (KNM-003, March 2026) except where noted.*
+
+### Core light-pattern modifiers
+
+| Compound | Composition | Pattern type | Notes |
+|----------|-------------|--------------|-------|
+| `lu-di`  | `lu` (light) + `di` (direction) | stripe / linear | directional light = linear markings; first attested S255 (tiger, KNM-003) |
+| `lu-pe`  | `lu` (light) + `pe` (part/component) | spot / dappled | partial light = distributed patches; first attested S256 (leopard), S257 (jaguar) |
+| `lu-fe`  | `lu` (light) + `fe` (boundary/limit) | solid / uniform coat | bounded light = single enclosed color area; default when no pattern is present; not yet corpus-attested |
+
+**Written forms:** `ludi`, `lupe`, `lufe`.
+
+### `no-lu` vs `yel` — dark and black
+
+Two expressions exist for darkness. They are related but non-identical:
+
+| Form | Type | Reading | Use |
+|------|------|---------|-----|
+| `yel` | CVC atom | black (named hue point) | Color description, hue register: `yel mu` = a black object |
+| `no-lu` | Compositional compound | dark / absence of light | Property modifier: coat or surface darkness; `no-lu'zo-se-so-fe` = dark-coated cat |
+
+`yel` names the specific perceptual hue point at zero reflectance — it is a color the way `ker` (red) is a color. `no-lu` = `no` (negation/absence) + `lu` (light/visibility) = absence of light-reflection = darkness as a property. When describing coat color or surface appearance as a feature of a thing, `no-lu` is correct (as in S259, melanistic jaguar). When attributing the named hue black to an object, `yel` is correct. In casual speech they overlap; in formal register the distinction holds.
+
+**Corpus basis:** `no-lu` first attested S259 (KNM-003, melanistic jaguar / "panther"). `yel` not yet corpus-attested; registered here as the canonical black hue atom.
+
+### Scope rule
+
+Same as hue CVC forms: light-pattern compounds pre-pose the noun and require `'` when modifying a multi-root compound:
+
+```
+lu-di mu                           →  striped object
+lu-pe'zo-se-so-fe                  →  spotted cat-class organism
+lu-fe'pa-fe'zo-se-so-fe            →  solid-coated mountain-territory cat
+no-lu'lu-pe'ma-ki'zo-se-so-fe      →  dark-coated spotted water-terrain cat (melanistic jaguar)
+```
+
+The `'` rules from spec/word-formation.md § CVC Descriptor Modifiers and § Compound Grouping Marker apply without modification.
 
 ---
 
