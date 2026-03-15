@@ -540,11 +540,11 @@ Each element's atomic number is IUPAC-assigned — a convention-defined identity
 | phosphorus | P  | 15 | `bels` | `be` | `-ls` | |
 | chlorine   | Cl | 17 | `duns` | `du` | `-ns` | `du` is result-frame particle, but CVCC tier disambiguates |
 | calcium    | Ca | 20 | `lans` | `la` | `-ns` | `la` is agent particle, but CVCC tier disambiguates |
-| iron       | Fe | 26 | —    | —       | —       | batch 3 |
-| copper     | Cu | 29 | —    | —       | —       | batch 3 |
-| zinc       | Zn | 30 | —    | —       | —       | batch 3 |
-| gold       | Au | 79 | —    | —       | —       | batch 3 |
-| lead       | Pb | 82 | —    | —       | —       | batch 3 |
+| iron       | Fe | 26 | `murn` | `mu` | `-rn` | |
+| copper     | Cu | 29 | `tams` | `ta` | `-ms` | |
+| zinc       | Zn | 30 | `gons` | `go` | `-ns` | `go` is causal particle; CVCC tier disambiguates |
+| gold       | Au | 79 | `rens` | `re` | `-ns` | |
+| lead       | Pb | 82 | `koms` | `ko` | `-ms` | `ko` is containment primitive; CVCC tier disambiguates |
 
 ---
 
