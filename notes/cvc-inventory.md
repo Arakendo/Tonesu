@@ -750,6 +750,27 @@ For each batch: assign forms, run near-neighbor check against all existing CVCC,
 
 ---
 
+### FLAG-CVC-012 — Common molecule CVCC anchors (watch item)
+
+High-frequency molecules are candidates for the practical anchor track (same rationale as Tier A elements): IUPAC-defined identity, compositional form exists via element anchors, extreme domain frequency.
+
+| Molecule | Compositional form | Domain | Notes |
+|----------|--------------------|--------|-------|
+| H₂O (water) | `su-ma bun polm bol lorm` | universal | most frequent molecule in any biology/chemistry context |
+| CO₂ (carbon dioxide) | `su-ma bol sulm bun lorm` | atmosphere, biology | photosynthesis, respiration, climate |
+| O₂ (oxygen gas) | `su-ma bun lorm` | biology, chemistry | respiration anchor |
+| N₂ (nitrogen gas) | `su-ma bun girn` | atmosphere, chemistry | 78% of atmosphere |
+| NH₃ (ammonia) | `su-ma bol girn gal polm` | biochemistry, industry | nitrogen cycle |
+| CH₄ (methane) | `su-ma bol sulm mol polm` | energy, atmosphere | greenhouse gas |
+
+Compositional forms are verbose but unambiguous. The question is whether discourse frequency justifies anchors — H₂O almost certainly does; the others depend on corpus direction (biology-heavy vs. physics-heavy).
+
+**Do not assign forms until at least one corpus sentence creates concrete pressure.** The element anchor track (FLAG-CVC-011) is the prerequisite: molecule anchors reference element forms and those forms must be stable first (✓ complete as of March 2026).
+
+**Status:** Watch item. No forms assigned.
+
+---
+
 ### FLAG-CVC-004 — `nu-to` dual assignment
 
 `nu-to` appears in `registry/primitives.md` stress-test table as both "axis of measurement / dimension" and "probability / confidence level." These are two contextually determined readings of the same compound. **This is intentional and unproblematic** — English does the same thing with *weight* (physical / importance / statistical). Measurement context vs. epistemic context disambiguates reliably. No new primitive, no respelling needed. Document the disambiguation principle in the `nu-to` entry comment for future readers, and cross-reference from NUM-001.
