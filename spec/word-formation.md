@@ -231,9 +231,9 @@ All twelve SI scale prefix forms satisfy the four criteria above. Their composit
 | `baf` | mega (10⁶)   | positional digit chain × 10⁶ | ergonomic shortform |
 | `wul` | giga (10⁹)   | positional digit chain × 10⁹ | ergonomic shortform |
 
-Extended forms (`bim` pico, `les` tera) and Extended-Extended (`gul` peta through `hem` yotta) follow the same rule but are optional for most domains. Full inventory and free-stem accounting in `notes/cvc-inventory.md §Scale Prefix Inventory`.
+Extended forms (`bim` pico, `les` tera) and Extended-Extended (`gul` peta through `hem` yotta) follow the same rule but are optional for most domains. Full inventory and free-stem accounting in `notes/anchor-inventory.md §Scale Prefix Inventory`.
 
-**Future candidates** (femto, atto, sub-pico) and high-frequency time-cycle names may be admitted as ergonomic shortforms when corpus pressure justifies it. Each candidate must demonstrate all four criteria; admission is tracked under FLAG-CVC-010 in `notes/cvc-inventory.md`.
+**Future candidates** (femto, atto, sub-pico) and high-frequency time-cycle names may be admitted as ergonomic shortforms when corpus pressure justifies it. Each candidate must demonstrate all four criteria; admission is tracked under FLAG-CVC-010 in `notes/anchor-inventory.md`.
 
 ---
 

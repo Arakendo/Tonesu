@@ -1,8 +1,10 @@
-# CVC / CVCC Descriptor Inventory: Digits, Colors, Scale Prefixes, Exceptional Anchors
+# Anchor Inventory: Digits, Colors, Scale Prefixes, CVC/CVCC Exceptional Anchors
 
 ## Status: Normative — March 2026
 
 Working document. Forms here are candidates. None are formally registered until registry entries are created.
+
+**Scope note:** This document covers all phonologically stratified anchor forms — CVC (digits, colors, scale prefixes) and CVCC (mathematical/physical constants, element anchors). It does not cover colloquial contractions of compositional compounds (e.g. common molecules, taxon kind-terms), which are resolved via the colloquial registry when corpus pressure arrives. The CVCC tier and the colloquial registry are complementary, not competing: CVCC is for externally-assigned fixed identities and practical high-frequency anchors; colloquial contractions are for structurally regular compounds that just need a short form.
 
 ---
 
@@ -643,7 +645,7 @@ The CVC stratum is **constrained but meaningfully relieved** by the audit. Ten f
 
 ### FLAG-CVC-002 — Spec CVC shortlist fully consumed by digits ✓ RESOLVED
 
-All 8 forms from `spec/phonology.md §CVC Root Reserve` shortlist were assigned to digits 1–8. **Resolution (March 2026):** `spec/phonology.md §Clean CVC shortlist` updated — now reads "All 8 forms assigned to digits 1–8 (March 2026); see `notes/cvc-inventory.md`." The placeholder text is removed.
+All 8 forms from `spec/phonology.md §CVC Root Reserve` shortlist were assigned to digits 1–8. **Resolution (March 2026):** `spec/phonology.md §Clean CVC shortlist` updated — now reads "All 8 forms assigned to digits 1–8 (March 2026); see `notes/anchor-inventory.md`." The placeholder text is removed.
 
 ### FLAG-CVC-003 — Large number expression
 

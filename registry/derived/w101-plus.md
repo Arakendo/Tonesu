@@ -511,7 +511,7 @@ Notes:        ma-ra is scale-agnostic: the same compound applies whether describ
               This is semantically clean — plasma is bulk ionized matter; an ion is
               an individual instance of the same condition. The compound captures
               the defining property (matter in an energy/force state) at both scales.
-              Already noted in notes/cvc-inventory.md §Atomic and molecular compounds
+              Already noted in notes/anchor-inventory.md §Atomic and molecular compounds
               table as a compositional chemistry term, not requiring CVC form.
               The four-state sequence: su'ma (solid) / ki'ma (liquid) / no-su'ma
               (gas) / ma-ra (plasma) maps onto increasing energy input: adding

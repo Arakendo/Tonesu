@@ -630,7 +630,7 @@ registry/           Vocabulary registry
   domains.md        Registered domain namespaces
 corpus/             Test sentences and conversations
 notes/              Design rationale, semantic map, open questions, history
-  cvc-inventory.md  Digit, scale prefix, and CVCC anchor tables
+  anchor-inventory.md  Digit, color, scale prefix, and CVCC anchor tables
   semantic-map.md   Conceptual domain organization
   open-questions.md Live design question tracker
   prior-art.md      Relationship to Esperanto, Lojban, Toki Pona, etc.
@@ -646,7 +646,7 @@ notes/              Design rationale, semantic map, open questions, history
 | Derivational suffixes, aspect, number | [spec/morphology.md](spec/morphology.md) |
 | Compounding rules and apostrophe detail | [spec/word-formation.md](spec/word-formation.md) |
 | All 34 primitives with full annotations | [registry/primitives.md](registry/primitives.md) |
-| Digit, scale prefix, and CVCC tables | [notes/cvc-inventory.md](notes/cvc-inventory.md) |
+| Digit, color, scale prefix, and CVCC anchor tables | [notes/anchor-inventory.md](notes/anchor-inventory.md) |
 | Domain namespaces | [registry/domains.md](registry/domains.md) |
 | Open design questions | [notes/open-questions.md](notes/open-questions.md) |
 | Conceptual domain map | [notes/semantic-map.md](notes/semantic-map.md) |

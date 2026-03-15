@@ -1424,7 +1424,7 @@ gal  pir  nu  ma   → 3 kilo-matter (≈ 3 kilograms)
 
 Domain (`nu [root]`) is the base unit. Scale prefix multiplies. Digit precedes. The three modifiers are independent and freely combinable; order is fixed: **digit → scale → nu → domain**.
 
-Base SI domains: `nu pa` (space/meter), `nu ti` (time/second), `nu ma` (matter/kilogram), `nu ha` (heat/kelvin), `nu ra` (force), `nu lu` (light), `nu so` (sound), `nu si` (signal/bit). See `notes/cvc-inventory.md §Base units as compounds`.
+Base SI domains: `nu pa` (space/meter), `nu ti` (time/second), `nu ma` (matter/kilogram), `nu ha` (heat/kelvin), `nu ra` (force), `nu lu` (light), `nu so` (sound), `nu si` (signal/bit). See `notes/anchor-inventory.md §Base units as compounds`.
 
 ### Fractions
 
