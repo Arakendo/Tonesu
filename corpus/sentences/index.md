@@ -37,3 +37,14 @@ Corpus evidence by batch (for cross-reference):
 | KNM-007 | `zo-se-ne` herd ungulates | S314–S320 | s279-plus.md |
 | KNM-008 | `zo-pe` arthropods & invertebrates | S321–S327 | s279-plus.md |
 | FNG-001 | `zo-ne` fungi | S328–S334 | s279-plus.md |
+
+---
+
+## Grammar & Theological Tests
+
+| Batch | Topic | Sentence range | File |
+|-------|-------|----------------|------|
+| GRM-001 | Tense · spatial deixis · predication contrast · agent-drop ellipsis | S335–S341 | s279-plus.md |
+| GRM-002 | Polar questions · temporal blocking · purpose frame · `to-go` counterfactual | S342–S348 | s279-plus.md |
+| THO-001 | Divine attributes (`[X]-no-fe`) · `be-go-li` · image of God · identity copula gap | S349–S356 | s279-plus.md |
+| GOD-RES | *ruach*/spirit (`zo-si` vs `ra-ki`) · divine evaluation (`se`) · *nefesh* (`zo-ra`) · Beatitude formula | S357–S363 | s279-plus.md |

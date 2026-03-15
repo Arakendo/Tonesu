@@ -150,7 +150,7 @@ lo-ra-ki-Elohim   lo-ma-ki   ki-re
 - `ma-ki` — matter-in-motion (fluid / water)
 - `ki-re` — sustained/recurring motion (hovering)
 
-⚠️ **Critical note:** `ra-ki` covers the physical wind/breath reading of Hebrew *ruach*. The theological "Spirit" reading is untranslatable directly — Tonesu has no concept of divine pneuma. This draft takes the physical reading. The theological ambiguity that is productive in the Hebrew is lost. See GOD-002.
+⚠️ **Note:** `ra-ki` covers the physical wind/breath reading of Hebrew *ruach*. The theological "Spirit" reading is expressible via `zo-si` (W069, disembodied living agent): `la-zo-si-Elohim  lo-ma-ki  ki-re` = *the Spirit of God hovered over the waters* (S357). Tonesu cannot preserve the Hebrew polyvalence — pick one reading per context. This draft uses the physical reading. See GOD-002 (S357–S358).
 
 **Difficulty:** HIGH. Verse 2 is the hardest clause in the chapter.
 
@@ -227,12 +227,12 @@ bol ti   ti-re
 | Evaluative clauses ("and it was good") | ✅ `lo-X vo` is natural and compact |
 | Creative agency (generates, separates, names) | ✅ Grammar handles; agent-identity deferred |
 | Causal and result frames | ✅ `go` / `du` map well to this narrative style |
-| God as agent | ❌ No compositional expression; proper-noun strategy adopted |
-| Spirit / *ruach* (theological) | ❌ Physical wind covered; pneumatic/theological reading untranslatable |
+| God as agent | ⚠️ No native concept; two working paths: `la-Elohim` (proper-noun, used in this draft) and `la-be-go-li` (compositional) |
+| Spirit / *ruach* (theological) | ⚠️ Physical reading: `ra-ki`; theological reading: `zo-si` (W069). Both translate; Hebrew polyvalence unpreservable |
 | Cosmic void / formlessness | ✅ `no-su no-ko` is precise |
 | Spatial layering ("over the surface of") | ⚠️ Partial — positional `pa` compounds approximate; no dedicated spatial-preposition system |
 
-**Overall:** Genesis 1 is ~80% compositionally expressible in Tonesu. The 20% gap is concentrated in the theological/supernatural layer, which Tonesu explicitly does not claim to encode. The physical, temporal, and evaluative structure of the creation narrative composes cleanly and in some cases (light = `lu`, good = `vo`) is more direct than English.
+**Overall:** Genesis 1 is ~85% compositionally expressible in Tonesu. The remaining gap is in fine spatial prepositions and the unpreservable ambiguity of Hebrew *ruach*. The physical, temporal, and evaluative structure of the creation narrative composes cleanly and in some cases (light = `lu`, good = `vo`) is more direct than English.
 
 ---
 
@@ -240,11 +240,11 @@ bol ti   ti-re
 
 **GOD-001:** What is the proper Tonesu compositional candidate for a being with causal priority and no prior cause? `go-no-go-li` is structurally honest but long. Is the proper-noun borrowing strategy (`la-Elohim`) the permanent design decision for theonyms, or is there a compositional treatment that doesn't commit a theological interpretation?
 
-**GOD-002:** `ruach Elohim` (Spirit of God / wind of God / breath of God) — the Hebrew is deliberately ambiguous across physical and theological readings. Translation policy question: when source-language ambiguity is theologically productive, should Tonesu (a) pick one reading, (b) use `~` to hedge, or (c) note untranslatability and move on?
+**GOD-002:** ✅ **Resolved (partial).** Confirmed via S357–S358. `zo-si` (W069 = disembodied living agent) covers the theological *ruach* reading; `ra-ki` covers the physical wind/breath reading. Tonesu cannot preserve Hebrew productive ambiguity — choose by register. Use `~` if the ambiguity is the point of the passage. Updated verse 1:2 note above.
 
-**GOD-003:** The evaluative formula "God saw that it was good" requires `ka-se` (deliberate perception / examination). This anthropomorphizes divine evaluation — treating divine perception as the same category as organism perception. Is this the right verb, or does it accidentally over-constrain the theology?
+**GOD-003:** ⚠️ **Refined.** Confirmed via S361. Bare `se` (non-deliberate perceptual awareness) is less anthropomorphic than `ka-se` (deliberate examination) for divine evaluation. An omniscient being perceives without the effort of deliberate scrutiny. Recommended: replace `ka-se` with `se` throughout the eight evaluation clauses in a second-pass revision.
 
-**GOD-004:** "Evening and morning came into being" — are these temporal phases being *created* (warranting `be`) or *bounded/distinguished* (warranting `fe-ki`)? The Hebrew suggests the bounded-day structure is being established, not new entities generated. `fe-ki` may be more precise for verses 5, 8, 13, 19, 23, 31.
+**GOD-004:** ✅ **Resolved.** "Evening and morning" use `fe-ki` (boundary-motion = boundary established) from verse 8 onward. The temporal phases are not created — they are bounded/distinguished. `be` (generation) reserved for entities coming into existence.
 
 ---
 
@@ -595,13 +595,13 @@ wes ti  ti-re
 | Vegetation, sea life, birds, land animals | ✅ `zo-su`, `zo-se-ma`, `zo-se-so-di`, `zo-se-ne`, `wi-zo` all compose |
 | Celestial lights (sun, moon, stars) | ✅ `lu-mu` compounds; one `pa-pa-fe` collision flagged |
 | Humanity and image of God | ✅ `zo-li`, `be-go-li-si`, `go-be-go-li-si` frame; male/female from coupling-role W-entries |
-| God as agent | ❌ No compositional expression; proper-noun strategy adopted |
-| Spirit / *ruach* (theological) | ❌ Physical wind covered; pneumatic/theological reading untranslatable |
+| God as agent | ⚠️ No native concept; two working paths: `la-Elohim` (proper-noun, used in this draft) and `la-be-go-li` (compositional) |
+| Spirit / *ruach* (theological) | ⚠️ Physical reading: `ra-ki`; theological reading: `zo-si` (W069). Both translate; Hebrew polyvalence unpreservable |
 | Cosmic void / formlessness | ✅ `no-su  no-ko` is precise |
 | Spatial layering ("over the surface of") | ⚠️ Partial — `pa-fe` and positional context approximate; no dedicated spatial-preposition system |
 | Food / biological fuel | ✅ `zo-ra-ma` proposed; composes cleanly |
 
-**Overall:** Genesis 1 is ~85% compositionally expressible in Tonesu. The remaining gap is concentrated in the theological/supernatural layer and in fine spatial prepositions. The physical, temporal, evaluative, and biological structure of the creation narrative composes cleanly.
+**Overall:** Genesis 1 is ~90% compositionally expressible in Tonesu. The remaining gap is concentrated in the untranslatable theological layer (*ruach* as divine pneuma) and fine spatial prepositions. The physical, temporal, evaluative, and biological structure of the creation narrative composes cleanly.
 
 ---
 
@@ -609,17 +609,17 @@ wes ti  ti-re
 
 **GOD-001:** What is the proper Tonesu compositional candidate for a being with causal priority and no prior cause? `go-no-go-li` is structurally honest but long. Is the proper-noun borrowing strategy (`la-Elohim`) the permanent design decision for theonyms, or is there a compositional treatment that doesn't commit a theological interpretation?
 
-**GOD-002:** `ruach Elohim` (Spirit of God / wind of God / breath of God) — the Hebrew is deliberately ambiguous across physical and theological readings. Translation policy question: when source-language ambiguity is theologically productive, should Tonesu (a) pick one reading, (b) use `~` to hedge, or (c) note untranslatability and move on?
+**GOD-002:** ✅ **Resolved (partial).** Confirmed via S357–S358. `zo-si` (W069) covers the theological *ruach* reading; `ra-ki` covers the physical wind/breath reading. Both translate cleanly; Hebrew polyvalence is unpreservable. Translation policy: choose by register; `~` if the ambiguity is the point.
 
-**GOD-003:** "God saw that it was good" uses `ka-se` (deliberate examination). This anthropomorphizes divine evaluation. Is this the right verb, or does it over-constrain the theology?
+**GOD-003:** ⚠️ **Refined.** Confirmed via S361. Bare `se` (non-deliberate perceptual awareness) is less anthropomorphic than `ka-se` (deliberate examination) for divine evaluation. Recommended: replace `ka-se` with `se` throughout the evaluation formula in a second-pass revision.
 
 **GOD-004:** ✅ **Resolved.** "Evening and morning" use `fe-ki` (boundary-motion = boundary established) from verse 8 onward. The temporal phases are not created — they are bounded/distinguished. `be` (generation) reserved for entities coming into existence.
 
 **GOD-005:** "Let us make" (Genesis 1:26) — `la-yu` is used, drawing on the existing group-pronoun `yu` = "we / they (group / plural)." However, `yu` is currently non-deictic: it does not distinguish first-person-inclusive ("we the speakers") from third-person-collective ("they"). Whether the divine plural requires a strict first-person reading is unresolved. For now `la-yu` is the best available form.
 
-**GOD-006:** `pa-pa-fe` (at-the-vault) chains three `pa` tokens (particle + compound root + compound second element). Technically transparent per the particle–root overlap policy, but unusual in speech. Possible mitigation: use `lo-pa-fe` (patient-marker on the vault) to mark location by implication in context, avoiding the triple-pa.
+**GOD-006:** ✅ **Resolved.** Confirmed via S362. Use `lu-pa-fe` (destination-marked vault, `lu-` beneficiary/destination prefix) to avoid the `pa-pa-fe` triple-pa collision. Alternative: topic-front the vault (`lo-pa-fe  la-Elohim  lo-lu-mu  ka-past`). Both clean; `lu-pa-fe` recommended.
 
-**GOD-007 (new):** "The breath of life" (*nefesh hayah*) in verse 30 is currently absorbed into `zo` (living thing). No separate term for "the animating principle within an organism" exists beyond `zo-to` (soul, W068) and `zo-si` (spirit/disembodied agent, W069). Whether those terms cover the *nefesh* concept or a new compound is needed is unresolved.
+**GOD-007:** ✅ **Resolved (candidate).** Confirmed via S359–S360. `zo-ra` = organism-force = life-energy = the animating vitality present in a living organism (*nefesh hayah*). Three-way vocabulary: `zo-ra` (animating force) · `zo-to` (soul/identity-pattern, W068) · `zo-si` (spirit/disembodied-agent, W069). Register `zo-ra`; flag for w101-plus.md.
 
 ---
 
