@@ -3142,4 +3142,183 @@ no  la-mi  to  lo-ka-li-su  de
 | FAL-006 | 2 depth-3 hearsay | depth-3 well-formed; ceiling identified |
 
 **Open grammar questions (FAL-follow):**
-- [ ] **FAL-F-010:** All FAL corpus sentences to date have been adversarial — testing manipulative or defective reasoning. A complementary batch of *well-formed* versions of the same subject matter would confirm that the four mechanisms are not friction-adding constraints but genuinely neutral tools. A "good-faith political speech" batch (FAL-007) would provide that baseline.
+- [x] **FAL-F-010:** ~~Complement adversarial corpus with good-faith baseline.~~ **Resolved: programmed as FAL-007.** Up to FAL-006, the entire FAL corpus is adversarial — manipulative or defective reasoning. The missing proof is that `()`, `:`, `go`-chains, and epistemic predicates are *neutral* tools that add no friction to honest argument. FAL-007 provides that baseline using the same political subject-matter as FAL-004/005 but written by a speaker who is not manipulating anything.
+
+---
+
+## Good-Faith Political Speech (S393–S397) — Batch: FAL-007
+
+**Purpose:** FAL-001–006 demonstrated that Tonesu surfaces manipulation. FAL-007 demonstrates the complementary result: the same four mechanisms impose no friction on honest argument. The subject matter is identical to FAL-004/005 (food security, governance, opponent engagement, policy grounding), but each mechanism is used correctly. S393–S396 each isolate one mechanism; S397 is the composite good-faith speech and provides the "clean audit table" — the inverse of S388 and S390. The governing question: does a speaker using evidence honestly, maintaining topic consistency, grounding every causal claim, and calibrating epistemic level conservatively produce fluent, readable Tonesu?
+
+---
+
+**S393 — Honest evidential attribution.** *(FAL-007)*
+
+```
+(la-to-fe-su  lo-ra-ma-de  de  se)  ,
+la-mi  to  [la-to-fe-su  lo-ze  re-ka]  ,
+la-mi  se  lo-ra-ma-de  de
+```
+
+**Literal:**
+"(The standards body: food-supply in decay — [some] perceptual basis.) I am certain: the institution announced this. I have some perceptual basis: food-supply is in decay."
+
+**Natural:**
+"(The council reports signs of food supply decline.) I am certain the council made that report. I have some basis — not certainty — that the food supply is declining."
+
+**Notes:**
+- Three distinct claims at three different epistemic levels: the council's report inside `()` (not endorsed, just cited); the fact of the announcement as `la-mi  to` (certifiable); the underlying proposition as `la-mi  se` (some basis, honestly weaker).
+- Compare S384: the dishonest version strips `()` and elevates directly to `la-mi  to  lo-ra-ma-de  de`. S393 keeps each level where it belongs.
+- This is not verbose — it is precise. A careful speaker in formal register naturally states what they are certain of separately from what they have partial basis for. In colloquial register, `(la-to-fe-su  lo-ra-ma-de  de  se)  ,  la-mi  se  lo-ze` achieves the same result in two clauses.
+
+---
+
+**S394 — Consistent topic maintenance.** *(FAL-007)*
+
+```
+Challenged:
+la-zu  lo-ka-li-su-mi  to-si  ne
+
+Response:
+lo-ka-li-su-mi  :
+la-mi  se  lo-ra-ma-de  de  ,
+go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be]  ,
+la-mi  lo-zo-li  vo  wi  ,
+du  la-mi  lo-ra-ma  ka-li-su  wi
+```
+
+**Literal:**
+"As for my governance: I have some basis for food-decay; because food-decay causes harm to persons; I value persons; therefore I will policy-over-food."
+
+**Natural:**
+"As for my governance — I see signs of food insecurity. Because food insecurity harms people, and because I hold people's wellbeing as my value, I intend a food-governance policy."
+
+**Notes:**
+- Compare S385: the dishonest version opens with a thin affirmation then shifts `:` to an opponent attack. S394 opens the same `lo-ka-li-su-mi  :` frame and stays on it through the full response.
+- The `du` conclusion (`la-mi  lo-ra-ma  ka-li-su  wi`) correctly follows from the stated chain. The response does not assert more than the chain warrants.
+- `lo-ra-ma  ka-li-su` = food-governance = policy-over-the-food-domain (compositional W144 `ra-ma` + W147 `ka-li-su`; ⚠️ proposed).
+
+---
+
+**S395 — Grounded causal chain.** *(FAL-007)*
+
+```
+go  [la-mi  se  lo-ra-ma-de  de]  ,
+go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be  ,
+     go  [la-na-Sura  lo-ra-su  ka  ti-de]  lo-ze  se]  ,
+la-mi  se  lo-ne-su  mu-be
+```
+
+**Literal:**
+"Because I have some basis for food-decay, and because food-decay causes person-harm — grounded by [Sura's past-time food-system action with some basis] — I have some basis for social-fabric harm."
+
+**Natural:**
+"I have some basis for food supply decline. Food supply decline causes harm to people — supported by Sura's earlier work on food system vulnerability. On that basis, I have some basis that social trust is also at risk."
+
+**Notes:**
+- Compare S386: the dishonest version uses one bare `go [premise]` to launch three `(du...)` consequences. S395 provides independent grounding (`la-na-Sura  lo-ra-su  ka  ti-de`) for the harm-link, and the conclusion stays at `la-mi  se` rather than inflating to certainty.
+- The conclusion is exactly one step from the warranted evidence. The speaker does not assert social-fabric collapse or governance failure — only social-fabric harm, and only with `se`.
+- `ra-su` = signal-structure = food-system / supply infrastructure (compositional `ra` signal/force + `su` structure; ⚠️ proposed).
+
+---
+
+**S396 — Conservative epistemic calibration.** *(FAL-007)*
+
+```
+go  [la-mi  se  lo-ra-ma-de  de]  ,
+go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be]  ,
+go  [la-mi  lo-zo-li  vo  wi]  ,
+la-mi  lo-ra-ma  ka-li-su  wi  ,
+la-mi  se  lo-ze  be-vo
+```
+
+**Literal:**
+"Because I have some basis for food-decay, because food-decay causes person-harm, because I value persons: I will food-governance. I have some basis that I have productive capacity for it."
+
+**Natural:**
+"Given signs of food insecurity, given that it causes harm to people, and given that I hold their wellbeing as a value — I intend a food governance policy. And I have some basis that I am capable of executing it."
+
+**Notes:**
+- The full S387 ethical-reasoning template: `fact → harm-link → value-anchor → action`. Each link is warranted; no link is skipped.
+- The speaker does not claim `la-mi  to  lo-ka-li-su  wi` (certain-I-should-govern) or `la-mi  to  lo-ze  be-vo` (certain-I-am-capable). Both conclusions remain at `la-mi  wi` (will) and `la-mi  se  lo-ze  be-vo` (some capability basis) — the honest epistemic levels.
+- `lo-ze  be-vo` = this-entity has productive capacity = I am capable. (The speaker uses `lo-ze` rather than `la-mi` here because capability is a property being attributed, not an intention being expressed.)
+
+---
+
+**S397 — The composite good-faith speech.** *(FAL-007)*
+
+```
+(la-to-fe-su  lo-ra-ma-de  de  se)  ,
+la-mi  to  [la-to-fe-su  lo-ze  re-ka]  ,
+la-mi  se  lo-ra-ma-de  de  ,
+
+go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be  ,
+     go  [la-na-Sura  lo-ra-su  ka  ti-de]  lo-ze  se]  ,
+la-mi  se  lo-ne-su  mu-be  ,
+
+lo-ka-li-su-mi  :
+go  [la-mi  se  lo-ra-ma-de  de]  ,
+go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be]  ,
+go  [la-mi  lo-zo-li  vo  wi]  ,
+la-mi  lo-ra-ma  ka-li-su  wi  ,
+
+la-mi  se  lo-ze  be-vo  ,
+la-mi  to-si  [la-zu  lo-ze  se-to  to-si]
+```
+
+**Literal:**
+"(The institution: food-decay — some basis.) I am certain the institution announced it. I have some basis: food-decay. Because [food-decay causes person-harm, grounded by Sura's past work], I have some basis: social-fabric harm. As for my governance: because some-basis-food-decay → harm-to-persons → I-value-persons: I will food-policy. I have some basis I am capable. I ask: what is your grounded basis?"
+
+**Natural:**
+> "The council reports some sign of food supply decline. I am certain the council reported this; I have some basis — not certainty — that the decline is real. Based on Sura's earlier food-system work, I also have some basis that social trust is at risk. As for my policy: I see the signs, they cause harm to people, and I care about people — so I intend a food-governance response. I believe I can execute it. What is your grounded basis?"
+
+**Audit:**
+
+| clause | status | note |
+|--------|--------|------|
+| `(institution: food-decay)  ,  la-mi  to  [institution announced it]  ,  la-mi  se  food-decay` | ✅ | three distinct claims at three honest levels |
+| `go [harm-link with Sura grounding]  ,  la-mi  se  lo-ne-su  mu-be` | ✅ | one step concluded; grounding cited; conclusion at `se` |
+| `lo-ka-li-su-mi  :  [full chain]  ,  la-mi  wi  [food-policy]` | ✅ | topic held; ethical-reasoning template complete |
+| `la-mi  se  lo-ze  be-vo` | ✅ | capability stated at honest level |
+| `la-mi  to-si  [la-zu  lo-ze  se-to  to-si]` | ✅ | genuine open question — invites grounded response |
+
+**Audit reading:**
+> Five clauses. Five ✅. No laundering, no topic shift, no ungrounded cascade, no normative leap, no modal inflation. The final clause is a genuine question about the interlocutor's grounding — structurally the inverse of a loaded question.
+
+**Notes:**
+- The composite speech is the same length as S388 (propaganda) and covers the same subject matter. The honest version is not longer and not more complex. The mechanisms add no overhead when used correctly — they are invisible infrastructure that only becomes visible when someone misuses them.
+- The final question `la-mi  to-si  [la-zu  lo-ze  se-to  to-si]` = "I ask: what is your certain-perception basis?" This is the honest inversion of S378's loaded question. Instead of smuggling accusations inside the interrogative, the speaker declares their own epistemic level (`se`) and genuinely invites the interlocutor's grounding.
+- **The good-faith speaker sounds like a functioning adult.** The propaganda speaker (S388/S389) required a six-row audit table. The honest speaker (S397) requires a five-row ✅ table. The grammar itself makes no judgment — it just keeps the books.
+
+---
+
+## FAL-007 Batch Summary
+
+**Confirmed results:**
+
+1. **Four mechanisms impose no friction on honest argument.** ✅ S393–S397 use `()`, `:`, `go`-chain, and `si`/`se`/`to` exactly as designed. None creates overhead; all produce clean, readable, convincing argument.
+
+2. **Same subject matter, same mechanisms, opposite audit.** ✅ S397 covers identical ground to S388 (composite propaganda). The good-faith version produces five ✅ instead of six ❌. The grammar makes no judgment; the difference is entirely in the speaker's epistemic commitments.
+
+3. **Ethical reasoning template is fluent.** ✅ S396 demonstrates the `fact → harm → value → action` chain in natural speech register. It is not bureaucratic or labored — it is simply explicit about what it warrants.
+
+4. **Honest questions are the inversion of loaded questions.** ✅ S397's closing question exposes its own epistemic level before asking; S378's loaded question buried hidden accusations inside the interrogative. The grammar handles both cleanly; they are structurally distinct.
+
+5. **Conservative epistemic calibration is productive, not weak.** ✅ A speaker who says `la-mi  se` where they have partial basis, and `la-mi  to` only where they have strong grounds, is more credible — not less — because their certainty claims are auditable and consistent throughout.
+
+**Cross-batch summary (FAL-001–007 · 34 sentences):**
+
+| batch | scope | key result |
+|-------|-------|-----------|
+| FAL-001 | 10 logical fallacies | four mechanisms introduced |
+| FAL-002 | 5 rhetorical fallacies | same mechanisms apply |
+| FAL-003 | 5 depth / nesting | mechanisms scale |
+| FAL-004 | 5 composite political speech | mechanisms remain separable |
+| FAL-005 | 2 propaganda paragraph | density does not collapse orthogonality |
+| FAL-006 | 2 depth-3 hearsay | depth-3 well-formed; ceiling identified |
+| FAL-007 | 5 good-faith speech | mechanisms are neutral tools, not anti-manipulation shackles |
+
+**FAL-F-010 resolved.** The FAL corpus is now complete as an empirical demonstration: adversarial test (FAL-001–006) plus honest baseline (FAL-007). Together they prove that Tonesu's four discourse mechanisms are neutral infrastructure that make argumentative structure visible — to the benefit of honest speakers and the detriment of dishonest ones.
+
+**Open grammar questions (FAL-follow):**
+- [ ] **FAL-F-011:** The `to-fe-su` registration (FAL-F-006, threshold met at S389) is still queued. Next W-series intake session should register `to-fe-su` formally and check whether `to-fe-su-ki` (agent-of-standards-body) follows from existing morphology or also needs an entry.

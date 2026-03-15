@@ -54,3 +54,4 @@ Corpus evidence by batch (for cross-reference):
 | FAL-004 | Composite political rhetoric · evidential laundering · topic substitution · catastrophe cascade · normative demand · structural audit | S384–S388 | s279-plus.md |
 | FAL-005 | Propaganda paragraph · max-density composite · three evidential layers · two topic shifts · cascade · normative leap · modal inflation | S389–S390 | s279-plus.md |
 | FAL-006 | Depth-3 hearsay chain · readability ceiling · laundering-at-depth · adversarial provenance | S391–S392 | s279-plus.md |
+| FAL-007 | Good-faith political speech · honest attribution · topic consistency · warranted causal chain · conservative epistemic calibration | S393–S397 | s279-plus.md |
