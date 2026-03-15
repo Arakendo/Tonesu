@@ -1589,3 +1589,215 @@ Natural:  Five people are in the space. / Five people are here.
 3. **The full measurement stack works.** `[digit] [scale] nu [domain]` = any physical quantity. Scale and digit are independent modifiers before `nu`; domain follows. First full-stack attestation: S243.
 4. **`ru-pu` fraction constructor is fully productive.** `ru-pu [digit]` = 1/n; `[n] ru-pu [d]` = n/d. No new vocabulary needed for any rational fraction.
 5. **`re-ti` (hour/cycle), `re-ti-de` (minute), `re-ti-be` (day) form a productive time-unit family.** These are unregistered compounds; `re-ti` gets its first corpus attestation here (S249).
+
+---
+
+## Cat-Family Taxonomy Stress Test (S252–S260)
+
+*Batch purpose (KNM-003): determine whether `zo-se-so-fe` (cat class, KNM-002) and the head-final compound system generate unique, unambiguous kind-terms across all major Felidae, and identify any structural gaps. Seven species-or-species-groups under test: house cat (*Felis catus*), lion (*Panthera leo*), tiger (*Panthera tigris*), leopard (*Panthera pardus*), jaguar (*Panthera onca*), puma/cougar/mountain lion (*Puma concolor*, collapsed — three English names, one species), and "panther" (not a species — melanistic color-variant of jaguar or leopard, handled as color-modifier). The motivating case for this batch is TAX-001: the "my cat Tony" sentence, which requires a species-level cat kind-term preceding a `na`-identifier.*
+
+*Biological pre-processing decisions (made before sentence construction):*
+- *Puma = Cougar = Mountain lion* — *all Puma concolor* — → *ONE kind-term entry (`pa-fe'zo-se-so-fe`)*
+- *"Panther"* — *NOT a species; melanistic coat variant of jaguar or leopard* — → *color modifier, not a new kind-term (`no-lu'[species-kind-term]`)*
+
+---
+
+**S252 — House cat kind-term: person-bonded cat perceives its human** *(KNM-003-A)*
+
+*Target: "The household cat noticed the person."*
+
+```
+Gloss:    la-li-ne'zo-se-so-fe  se  lo-li
+Literal:  agent:person-bonded'[boundary-sound-organism]  perceived  patient:person
+Natural:  The household cat noticed the person. / The domestic cat perceived its human.
+```
+
+**Notes:**
+- `li-ne'zo-se-so-fe` = `li` (person/social agent) + `ne` (relation/connection) + `'` + `zo-se-so-fe` (cat class) = "person-bonded cat." Head of the subcompound: `ne` (relation), modified by `li` (person) = the relational property defined by persons = domesticity/human-bond. The `zo-se-so-fe` base is the bracketed unit being modified.
+- Written form: `line'zosesof`. The apostrophe is retained in written form as a structural marker; hyphens between CVC roots drop.
+- **Semantic loop:** `li` appears in both the kind-term (`li-ne` = person-bonded) and the patient slot (`lo-li` = the person). The domestic cat is defined by its person-relation, and this sentence shows it perceiving that person. The compound earns its discriminator in the same sentence.
+- **Why `li-ne` and not just `zo-li`?** `zo-li` (organism-person) = "organism that is a person" = humanoid — incorrect. `li-ne` (person-relation) = "the relational bond toward persons." Not claiming the cat IS a social agent; characterising its defining orientation toward persons. Head-final: the relational property (`ne`) is the head; person (`li`) specifies whose relation.
+
+---
+
+**S253 — Named individual: Tony the house cat ran** *(KNM-003-B)*
+
+*Target: "Tony the house cat ran." / The TAX-001 motivating case: species-level cat kind-term + individual `na`-identifier.*
+
+```
+Gloss:    la-[li-ne'zo-se-so-fe  na Tony]  ki
+Literal:  agent:[person-bonded-cat  name:Tony]  moved
+Natural:  Tony the house cat ran.
+```
+
+**Notes:**
+- `la-[li-ne'zo-se-so-fe  na Tony]`: role-marker `la-` + bracket + apostrophe-scoped compound kind-term + `na` + proper name + bracket-close. Four structural devices coexist: role-marker, bracket, apostrophe, `na`-partition. Same assembly depth confirmed by S207 (KNM-002-F).
+- `ki` = moved. Minimal predicate — the sentence tests the NP structure, not the predicate.
+- **TAX-001 resolution (formal grammar level):** `[li-ne'zo-se-so-fe  na Tony]` is grammatically complete and unambiguous. No CVCC taxon anchor or architectural change is needed to express "Tony the house cat." The compound is longer than an English word — that is a property of the language, not a structural failure.
+- **TAX-001 Option 2 (register path)** remains alive: in casual speech, `li-ne'zo-se-so-fe` might contract toward `line'zof` (discriminator retained, `zo-se-so-fe` collapsed to `zof`). This is a social-register compression, not a grammar rule. The full form is the specification form; contraction is legitimate once established by usage.
+
+---
+
+**S254 — Lion kind-term: collective-living cat** *(KNM-003-C)*
+
+*Target: "The lion moved with the group." / Lion (*Panthera leo*) is the only major Felid in a stable social group (pride).*
+
+```
+Gloss:    la-pu-zo'zo-se-so-fe  ki  ne-pu
+Literal:  agent:collective-organism'[boundary-sound-organism]  moved  relation:collective
+Natural:  The lion moved with the group. / The pride-cat traveled with others.
+```
+
+**Notes:**
+- `pu-zo'zo-se-so-fe` = `pu` (collective/plurality) + `zo` (organism) + `'` + `zo-se-so-fe` (cat class) = "collective-organism cat." Head of subcompound: `zo` (organism), modified by `pu` (collective) = the collective kind of organism = group-forming animal. This discriminator encodes the lion's defining biological characteristic: it is the only major cat that lives in stable social prides.
+- `ne-pu`: relational particle `ne` + `pu` (collective) = "in relation to the collective" = with others/the group. The lion (collective-cat) moved with the collective — compound and sentence behavior reinforce each other.
+- **`zo` appears twice:** once in `pu-zo` (discriminator) and once in `zo-se-so-fe` (base kind-term). The apostrophe at `pu-zo'zo-se-so-fe` unambiguously separates them: `[pu-zo]'[zo-se-so-fe]`.
+- **Why `pu-zo` and not `zo-pu`?** Head-final: `pu` (collective) as modifier, `zo` (organism) as head = "the collective kind of organism." The compound characterizes the organism BY its collectivity, which is the discriminating property.
+
+---
+
+**S255 — Tiger kind-term: stripe-bearing cat is solitary** *(KNM-003-D)*
+
+*Target: "The tiger is solitary." / Introduces `lu-di` (stripe/linear light pattern) as discriminator. Pre-COL-001 — visual-pattern vocabulary is not yet formally registered.*
+
+```
+Gloss:    la-lu-di'zo-se-so-fe  no-pu
+Literal:  agent:directional-light'[boundary-sound-organism]  not-collective
+Natural:  The tiger is solitary. / The striped cat does not live in a group.
+```
+
+**Notes:**
+- `lu-di'zo-se-so-fe` = `lu` (light/visibility) + `di` (direction) + `'` + `zo-se-so-fe` = "directional-light cat." Head of subcompound: `di` (direction), modified by `lu` (light) = light with direction = linear light pattern = **stripe**. Tiger is defined by bold parallel stripe markings among Felidae.
+- `no-pu` = `no` (negation) + `pu` (collective) = not-group = solitary. Stative predicate: agent + `no-pu` = "is solitary/not-collective." Follows the `la-mi  no-se` pattern (S211 — "I am asleep/not-perceiving").
+- **COL-001 dependency flagged:** `lu-di` = compositional approximation for "stripe." Formally pre-registered pending COL-001. The path is clear: stripe = linearly directed light pattern. When COL-001 establishes visual-pattern vocabulary, `lu-di` is the natural candidate for canonical registration. See `notes/open-questions.md § COL-001`.
+- **`no-pu` is not the discriminator:** solitary behavior is shared by tiger, leopard, and jaguar. `no-pu` correctly characterises tiger behavior but does NOT distinguish tiger from the other spotted cats. The discriminating root is `lu-di` (stripe pattern). Both facts belong in the sentence; neither is the full picture alone.
+- **Tiger vs. leopard contrast preview:** `lu-di'zo-se-so-fe` (stripe = directional light) vs. `lu-pe'be-pa'zo-se-so-fe` (spot = partial light, arboreal — S256). The `lu-di` / `lu-pe` contrast is the first corpus minimal pair of kind-terms distinguishable only by visual-pattern vocabulary — exactly the anticipated COL-001 forcing case.
+
+---
+
+**S256 — Leopard kind-term: spotted arboreal cat** *(KNM-003-E)*
+
+*Target: "The leopard climbed the tree." / Two-discriminator compound: spots (`lu-pe`) + arboreal habitat (`be-pa`). Pre-COL-001 for the spot discriminator.*
+
+```
+Gloss:    la-lu-pe'be-pa'zo-se-so-fe  ki  lo-be-pa
+Literal:  agent:spot-light'growth-place'[boundary-sound-organism]  moved  patient:growth-place
+Natural:  The leopard climbed the tree. / The spotted arboreal cat moved to the treetops.
+```
+
+**Notes:**
+- `lu-pe'be-pa'zo-se-so-fe` = two nested subcompounds + base kind-term:
+  - `lu-pe` = `lu` (light) + `pe` (part/component) = "partial light" = light distributed in parts = dappled/discontinuous = **spot pattern**. Head: `pe` (part), modifier: `lu` (light) = light on parts = spots.
+  - `be-pa` = `be` (growth/emergence) + `pa` (place/space) = "growth-place" = place defined by growth = arboreal habitat/forest/canopy. Head: `pa` (place), modifier: `be` (growth) = the place where growth dominates = trees/canopy.
+  - Full kind-term: `[lu-pe]'[be-pa]'[zo-se-so-fe]` = spotted, arboreal-territory cat.
+- `ki  lo-be-pa` = moved to the growth-place = climbed to the treetops. The kind-term's second discriminator (`be-pa`) appears in the object slot — the leopard moves toward the very habitat that defines its kind.
+- **Two apostrophes:** `lu-pe'be-pa'zo-se-so-fe` uses two `'`. Legal under the revised rule (KNM-002, March 2026). Each `'` marks the left boundary of one subcompound: `lu-pe` = visual-pattern modifier, `be-pa` = habitat modifier. Both modify `zo-se-so-fe` as a unit, yielding "the spotted arboreal cat."
+- **Why two discriminators?** A spot-only compound (`lu-pe'zo-se-so-fe`) would not distinguish leopard from jaguar — both are spotted. The second discriminator (`be-pa` — arboreal) is what separates leopard (tree-dwelling, Old World) from jaguar (water-terrain, Americas — S257). The system is not working around a deficiency; it correctly requires two axes where one is insufficient to individuate the kind.
+- **COL-001 dependency (partial):** `lu-pe` has the same pre-formal status as `lu-di` (S255). The `be-pa` discriminator is COL-001-independent and is fully stable now.
+
+---
+
+**S257 — Jaguar kind-term: spotted water-terrain cat** *(KNM-003-F)*
+
+*Target: "The jaguar crossed the river." / Minimal pair with S256: same spot discriminator (`lu-pe`), different habitat (`ma-ki` flowing matter/water vs. `be-pa` arboreal).*
+
+```
+Gloss:    la-lu-pe'ma-ki'zo-se-so-fe  ki  lo-ma-ki
+Literal:  agent:spot-light'flowing-matter'[boundary-sound-organism]  moved  patient:flowing-matter
+Natural:  The jaguar crossed the river. / The spotted water-terrain cat moved through the flowing matter.
+```
+
+**Notes:**
+- `lu-pe'ma-ki'zo-se-so-fe` = spotted, water-terrain cat:
+  - `lu-pe` = spot pattern (same as S256 leopard — the shared modifier establishing the minimal pair)
+  - `ma-ki` = `ma` (matter/substance) + `ki` (motion) = "matter in motion" = flowing substance = **water/river/stream**. Head: `ki` (motion), modifier: `ma` (matter) = matter that moves = flowing material. Jaguar (*Panthera onca*) is the large spotted cat of the humid Americas — characteristically associated with rivers and wetlands.
+  - Full kind-term: `[lu-pe]'[ma-ki]'[zo-se-so-fe]` = spotted, water-terrain cat.
+- `ki  lo-ma-ki` = moved across/through the flowing matter = crossed the water. The object is the same compound as the kind-term's second discriminator.
+- **Leopard vs. jaguar minimal pair — the hardest case in the batch:** both are `lu-pe'[x]'zo-se-so-fe`. The only difference is `[x]`: `be-pa` (arboreal) for leopard vs. `ma-ki` (water-terrain) for jaguar. Same pattern, same size class, same solitary behavior — the second discriminator subcompound is doing all the distinguishing work.
+- **Apostrophe is essential here:** without `'` to bind `lu-pe` and `ma-ki` as distinct subcompounds modifying the base kind-term, the flat right-branching chain `lu-pe-ma-ki-zo-se-so-fe` produces "light → part → matter → motion → organism → perceive → sound → boundary" — undifferentiated and uninterpretable as a species kind-term. The `'` structure is not optional at this depth; it is the mechanism that makes the compound grammatically distinct from noise.
+- **System finding:** two-discriminator apostrophe-scoped compounds correctly handle the leopard/jaguar minimal pair. The language's hardest Felidae case does not break the grammar.
+
+---
+
+**S258 — Puma / Cougar / Mountain lion: one species, one entry** *(KNM-003-G)*
+
+*Target: "The puma crossed the ridge." / Three English regional names map to one species (*Puma concolor*) and one kind-term.*
+
+```
+Gloss:    la-pa-fe'zo-se-so-fe  ki  lo-pa-fe
+Literal:  agent:terrain-boundary'[boundary-sound-organism]  moved  patient:terrain-boundary
+Natural:  The puma crossed the ridge. / The mountain-terrain cat moved along the terrain edge.
+```
+
+**Notes:**
+- `pa-fe'zo-se-so-fe` = `pa` (place/space) + `fe` (boundary/limit) + `'` + `zo-se-so-fe` (cat class) = "terrain-boundary cat." Head of subcompound: `fe` (boundary), modifier: `pa` (place) = "the boundary of place" = terrain edge = ridge/highland/mountain limit. *Puma concolor*'s defining habitat is open mountain terrain with wide-ranging elevation use — a cat defined by terrain edges.
+- `ki  lo-pa-fe` = moved across the terrain-boundary = crossed the ridge. Kind-term discriminator and object are the same compound.
+- **Biological collapse:** "puma," "cougar," and "mountain lion" are three English regional names for the same species (*Puma concolor*). They produce a single Tonesu kind-term. Tonesu kind-terms track biological reality; cross-linguistic folk-name proliferation is not inherited.
+- **`pa-fe` double-`fe` note:** written form `pafe'zosesof`. The `fe` in `pa-fe` (terrain boundary) and the final `fe` in `zo-se-so-fe` (cat-class head) are both present. The apostrophe provides an unambiguous boundary: `[pa-fe]'[zo-se-so-fe]`. The internal `fe` of `pa-fe` is inside the first subcompound; the terminal `fe` is the head of the base kind-term. No collision.
+
+---
+
+**S259 — "Panther" as color-variant, not a kind-term** *(KNM-003-H)*
+
+*Target: "The panther (dark jaguar) hunted." / "Panther" is a melanistic coat-variant of jaguar or leopard — not a separate species. Expressed as color modifier + species kind-term.*
+
+```
+Gloss:    la-no-lu'lu-pe'ma-ki'zo-se-so-fe  ka
+Literal:  agent:no-light'spot-light'flowing-matter'[boundary-sound-organism]  acted
+Natural:  The panther (dark jaguar) hunted. / The melanistic jaguar acted.
+```
+
+**Notes:**
+- `no-lu'lu-pe'ma-ki'zo-se-so-fe` = `no-lu` (dark/black coat) + `'` + `lu-pe'ma-ki'zo-se-so-fe` (jaguar kind-term from S257). `no-lu` = `no` (negation) + `lu` (light/visibility) = absence of light-reflection = dark coat = melanistic/black. Written: `nolu'lupe'maki'zosesof`.
+- **"Panther" is not a kind in Tonesu.** In English, "panther" refers to melanistic coat variants of two species: black jaguar (*Panthera onca*, Americas) and black leopard (*Panthera pardus*, Africa/Asia). The underlying organism is always one of those species with a genetic mutation causing dark coat pigmentation. In Tonesu: dark jaguar = `no-lu'lu-pe'ma-ki'zo-se-so-fe`; dark leopard = `no-lu'lu-pe'be-pa'zo-se-so-fe`. Neither receives a new kind-term entry.
+- **`no-lu` as "dark/black" pre-COL-001:** `no-lu` = absence-of-light = dark. This is path (c) compositional derivation from the COL-001 open question: color by root + `no-` negation. When COL-001 formally registers "black," `no-lu` is the natural compositional candidate. Already consistent with how `no-ha` = cold (absence of thermal state), `no-se` = asleep (absence of perception).
+- **Three apostrophes:** `no-lu'lu-pe'ma-ki'zo-se-so-fe` is the deepest NP compound in the corpus to date. Each `'` marks one subcompound boundary:
+  1. `no-lu` = color modifier (dark coat)
+  2. `lu-pe` = visual-pattern subcompound (spots)
+  3. `ma-ki` = habitat subcompound (water-terrain)
+  All three modify the base `zo-se-so-fe`. Grammatically legal; cognitively dense in speech — in practice, discourse context resolves which melanistic cat is meant, and the full three-apostrophe NP is reserved for explicit species identification or written/technical register.
+- **Architecture validation:** the color-as-modifier system correctly refuses "panther" a kind-term slot. A folk category that is color × species, not a biological kind, produces a color-modified kind-term — exactly what the system is designed to do.
+
+---
+
+**S260 — "I have Tony the house cat": possessive resolution of TAX-001** *(KNM-003-I)*
+
+*Target: "I have Tony the house cat." / The TAX-001 motivating case: `ko` possessive predicate with a named compound kind-term NP.*
+
+```
+Gloss:    la-mi  ko  lo-[li-ne'zo-se-so-fe  na Tony]
+Literal:  agent:me  has/contains  patient:[person-bonded-cat  name:Tony]
+Natural:  I have Tony the house cat. / Tony the domestic cat is mine.
+```
+
+**Notes:**
+- `la-mi  ko  lo-[...]`: possession via `ko` (containment/having, confirmed from S238 onward). `la-mi` = agent: me. `ko` = predicative have/contain. `lo-[...]` = bracketed patient NP.
+- `lo-[li-ne'zo-se-so-fe  na Tony]`: role-marker `lo-` + bracket + apostrophe-scoped compound kind-term + `na Tony`. The possessive scopes over the full bracketed NP.
+- **TAX-001 direct answer:** "my cat Tony" in formal register = `la-mi ko lo-[li-ne'zo-se-so-fe na Tony]`. The compound `li-ne'zo-se-so-fe` is four compound elements before the name. This is the structural cost of species-level specificity in a compositional language. No architectural extension is needed — the grammar is sufficient as-is.
+- **Contraction path (TAX-001 Option 2):** in casual register, `li-ne'zo-se-so-fe` may contract toward `line'zof` — keeping the discriminator `li-ne`, collapsing `zo-se-so-fe` to the proposed `zof` shortform. This is register compression, not grammatical necessity. The full form is specification; the contraction is a social path awaiting attestation.
+- `na Tony`: proper name protected by Name Integrity Rule (spec/naming.md). Follows the kind-term, anchoring the individual. Identical structure to `na Rex` in S207.
+
+---
+
+**Verdict KNM-003: cat-family taxonomy stress test complete. System does not break. Eight findings:**
+
+1. **`zo-se-so-fe` scales to species-level discrimination across all major Felidae.** House cat, lion, tiger, leopard, jaguar, and puma each receive unique, unambiguous kind-terms via head-final compounding with apostrophe-scoped subcompounds. No two kind-terms collide.
+
+2. **COL-001 is the single genuine prerequisite.** Visual-pattern vocabulary (`lu-di` for stripe, `lu-pe` for spot) is compositionally correct but pre-formally registered. The compound mechanism works regardless of COL-001's resolution; the registered status of `lu-di` and `lu-pe` is the only open item. This is a vocabulary-registration gap, not a structural failure.
+
+3. **Tiger and leopard establish the COL-001 forcing case.** `lu-di'zo-se-so-fe` (stripe-bearing cat) vs. `lu-pe'be-pa'zo-se-so-fe` (spotted arboreal cat) are the first kind-terms in the corpus distinguishable only by visual-pattern vocabulary. COL-001 should treat this minimal pair as its primary forcing sentence.
+
+4. **Leopard and jaguar are the hardest minimal pair — and the apostrophe structure handles it.** Both are spotted, solitary, similar in size. They are correctly disambiguated by two-discriminator compounds: `lu-pe'be-pa` (spotted arboreal) vs. `lu-pe'ma-ki` (spotted water-terrain). The `'` scoping mechanism is essential — without it, the flat chain cannot encode this distinction.
+
+5. **Cross-linguistic folk-name proliferation is absorbed without trace.** Puma / cougar / mountain lion → `pa-fe'zo-se-so-fe`, one entry. Tonesu kind-terms track biological reality; the English naming variation is irrelevant to the Tonesu lexicon.
+
+6. **"Panther" correctly resolves as a color-variant, not a kind.** `no-lu'[species-kind-term]` handles melanistic coats. "Panther" = dark jaguar (`no-lu'lu-pe'ma-ki'zo-se-so-fe`) or dark leopard (`no-lu'lu-pe'be-pa'zo-se-so-fe`) — color-modified kind-terms, no new kind-term registered. Pattern-vocabulary architecture (color modifier + `'` + kind-term) handles this correctly.
+
+7. **TAX-001 possessive case is grammatically resolved (S260).** `la-mi ko lo-[li-ne'zo-se-so-fe na Tony]` = "I have Tony the house cat" — the motivating sentence is writable in full without architectural extension. Do not act on TAX-001 until COL-001 resolves; the colloquial contraction path (`line'zof`) remains a live register option, but the grammar creates no obstacle at the formal level.
+
+8. **First corpus use of eight new pre-registered compounds:** `li-ne` (person-bond), `pu-zo` (collective organism), `lu-di` (stripe), `lu-pe` (spot), `be-pa` (arboreal space), `ma-ki` (flowing matter/water), `pa-fe` (terrain boundary), `no-lu` (dark coat/absence of light). All derive compositionally from registered primitives. Visual-pattern compounds (`lu-di`, `lu-pe`) are pending COL-001 formalization; all others are stable.
+
+**Follow-on actions:**
+- Update `notes/open-questions.md` TAX-001: corpus pressure documented; grammar level resolved; do not close (awaits COL-001 for contraction-path attestation).
+- Flag `lu-di` and `lu-pe` as COL-001 forcing cases in `notes/open-questions.md § COL-001`.
+- Register `li-ne'zo-se-so-fe` (house cat), `pu-zo'zo-se-so-fe` (lion), `pa-fe'zo-se-so-fe` (puma/cougar/mountain lion) as kind-term candidates in `registry/derived.md`; visual-pattern kinds (`lu-di`, `lu-pe` compounds) await COL-001.
