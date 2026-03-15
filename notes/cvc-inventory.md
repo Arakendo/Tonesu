@@ -398,6 +398,15 @@ wul nu yarm               → 1 gigaparsec           (cosmological survey depth)
 
 These are the rarest entries in the lexicon. The CVCC tier is not for general vocabulary.
 
+**Practical anchor track (second admission class, March 2026):** Some CVCC forms are admitted not because composition fails, but because the referent is a stable, fixed entity with a high-enough frequency in technical registers to justify a short anchor alongside its compositional form. Admission criteria for this track differ from the standard three:
+
+1. **A compositional expression exists and remains canonical** — the CVCC form is a shorthand, not a replacement.
+2. **The referent has a stable, externally-assigned identity** (IUPAC atomic number, IAU designation, etc.) making the anchor semantically precise and bounded.
+3. **Frequency in technical scientific discourse creates genuine communicative friction** — not stylistic inconvenience.
+4. **A new CV primitive is explicitly refused** (same as standard criterion 3).
+
+Chemical element anchors (Tier A) are the founding members of this track. The formal expression `[Z] ti fe-ma` remains canonical; the CVCC anchor names the same referent in fast speech.
+
 ### Phonological constraints for CVCC
 
 1. **No CV stem restriction** — the coda cluster is the tier signal. A speaker hearing a CC coda knows it is not a primitive, compound, or CVC descriptor.
@@ -544,7 +553,7 @@ baf baf gal … dolm nu ma     → atomic mass unit (≈ 1836 × m_e, approximat
 
 #### Chemical element anchors (Tier A)
 
-Each element's atomic number is IUPAC-assigned — a convention-defined identity with no compositional Tonesu expression. Same ontological class as `wels` (mole) and `holf` (AU). CVCC forms consume zero CVC capacity. Forms assigned in three batches; see FLAG-CVC-011.
+Chemical elements are compositionally identifiable in Tonesu through atomic-number structure: `[Z] ti fe-ma` gives the ordinal element reference — e.g., `wes ti fe-ma` = "the 6th element" = carbon. This compositional form remains canonical. Tier A CVCC forms are admitted as **practical high-frequency anchors for scientific discourse** — not on grounds that no expression exists, but because these elements appear constantly in chemistry, physics, and biology contexts and warrant short spoken forms alongside their compositional reference. The architecture mirrors the dual-register pattern used elsewhere in Tonesu: CVCC anchor for fast reference; compositional structure for formal meaning. CVCC forms consume zero CVC capacity. Forms assigned in three batches; see FLAG-CVC-011.
 
 | Element    | Symbol | Z  | Form | CV core | CC coda | Notes |
 |------------|--------|----|------|---------|---------|-------|
@@ -726,7 +735,7 @@ Scale prefixes (`pir` kilo, `baf` mega, `wul` giga, etc.) were previously listed
 
 ### FLAG-CVC-011 — Chemical element CVCC anchors (Tier A, scaffolded March 2026)
 
-Tier A chemical elements require CVCC forms. Each element's atomic number is IUPAC-assigned with no compositional Tonesu expression — same ontological status as `wels` (mole). CVCC is the correct tier; cost to CVC stratum: zero.
+Tier A chemical elements are compositionally identifiable via `[Z] ti fe-ma` (e.g., `wes ti fe-ma` = carbon, Z=6). CVCC forms are admitted on the **practical anchor track** (see second admission class note in the Assemblage-First Rule section) — not on grounds of inexpressibility, but as high-frequency short forms for scientific discourse alongside the canonical compositional reference. Cost to CVC stratum: zero.
 
 **Planned batches:**
 - Batch 1: H, He, C, N, O — universal chemistry anchors
