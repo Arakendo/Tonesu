@@ -81,7 +81,10 @@ la-[agent]  [verb-compound]  lo-[patient]
 
 - `la-` agent prefix · `lo-` patient prefix · `lu-` result/beneficiary
 - `ne` copula (property attribution) · `go` causal/origin particle
-- Modifier precedes head · right-branching compound parse by default
+- Modifier precedes head
+- **Default compound parse is right-branching:** `A-B-C` = A modifies [B-C]. The `'` juncture marker overrides this: `A'B-C` = [A] modifies [B-C] as a pre-bound unit.
+
+> **Identity-copula gap:** Tonesu currently has no dedicated identity copula (X ≡ Y). `ne` attributes a property — it does not assert constitutional identity. For identity-like claims use property attribution (`la-X  Q`) or relational construction (`lo-X  ne  lo-Y`) as appropriate. Do not invent an equality particle.
 
 ### Derived registry — status codes
 
