@@ -530,11 +530,11 @@ Each element's atomic number is IUPAC-assigned — a convention-defined identity
 
 | Element    | Symbol | Z  | Form | CV core | CC coda | Notes |
 |------------|--------|----|------|---------|---------|-------|
-| hydrogen   | H  |  1 | —    | —       | —       | batch 1 |
-| helium     | He |  2 | —    | —       | —       | batch 1 |
-| carbon     | C  |  6 | —    | —       | —       | batch 1 |
-| nitrogen   | N  |  7 | —    | —       | —       | batch 1 |
-| oxygen     | O  |  8 | —    | —       | —       | batch 1 |
+| hydrogen   | H  |  1 | `polm` | `po` | `-lm` | `po` shares stem with `pom` (CVC blue); tier distinguishes — same precedent as `birm`/`bim` |
+| helium     | He |  2 | `narm` | `na` | `-rm` | |
+| carbon     | C  |  6 | `sulm` | `su` | `-lm` | |
+| nitrogen   | N  |  7 | `girn` | `gi` | `-rn` | `gi` shares stem with `gim` (CVC green); tier distinguishes |
+| oxygen     | O  |  8 | `lorm` | `lo` | `-rm` | `lo-` is patient prefix but only bound; bare `lorm` unambiguous in measurement context |
 | sodium     | Na | 11 | —    | —       | —       | batch 2 |
 | silicon    | Si | 14 | —    | —       | —       | batch 2 |
 | phosphorus | P  | 15 | —    | —       | —       | batch 2 |
