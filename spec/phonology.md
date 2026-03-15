@@ -2,6 +2,8 @@
 
 ## Status: Draft
 
+> **Notation convention:** Hyphens in all examples throughout this document are **analytic notation** — they mark morpheme boundaries for analysis and teaching, and are not written in Tonesu. Written Tonesu is solid: `tofesuki`, not `to-fe-su-ki`. The apostrophe `'` is the only normative non-alphabetic character within a compound. See spec/word-formation.md § Written Form.
+
 ---
 
 ## Consonant Inventory
@@ -191,7 +193,7 @@ These are distinct propositions. `~wipu'zosesoli` = approximately [wolf-kind] (u
 ~varn                               →  approximately π (loose derivation or estimate)
 ```
 
-**With compounds and concepts (linguistic and notes register):**
+**With compounds and concepts (analytic notation; linguistic and notes register):**
 ```
 ~zo-li                              →  something like a person / roughly person-class
 ~ta ti-be                           →  somewhere around the future / roughly "later"

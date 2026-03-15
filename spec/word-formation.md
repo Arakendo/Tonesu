@@ -2,6 +2,8 @@
 
 ## Status: Draft
 
+> **Notation convention:** Hyphens in all examples throughout this document are **analytic notation** — they mark morpheme boundaries for analysis and teaching, and are not written in Tonesu. Written Tonesu is solid: `tofesuki`, not `to-fe-su-ki`. The apostrophe `'` is the only normative non-alphabetic character within a compound. See § Written Form below.
+
 ---
 
 ## Core Principle
@@ -99,7 +101,7 @@ The preferred canonical form is registered in lexicon/roots.md. Alternates may b
 
 **Default parse: right-branching.**
 
-In a plain hyphenated chain, each element modifies the accumulating chain from left to right. The last element is always the semantic head.
+In a plain compound chain, each element modifies the accumulating chain from left to right (analytic form: `A-B-C-D`). The last element is always the semantic head.
 
 ```
 A-B-C-D   →   A modifies [B modifies [C modifies D]]
