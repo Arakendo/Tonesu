@@ -1800,4 +1800,206 @@ Natural:  I have Tony the house cat. / Tony the domestic cat is mine.
 **Follow-on actions:**
 - Update `notes/open-questions.md` TAX-001: corpus pressure documented; grammar level resolved; do not close (awaits COL-001 for contraction-path attestation).
 - Flag `lu-di` and `lu-pe` as COL-001 forcing cases in `notes/open-questions.md § COL-001`.
-- Register `li-ne'zo-se-so-fe` (house cat), `pu-zo'zo-se-so-fe` (lion), `pa-fe'zo-se-so-fe` (puma/cougar/mountain lion) as kind-term candidates in `registry/derived.md`; visual-pattern kinds (`lu-di`, `lu-pe` compounds) await COL-001.
+- Register `li-ne'zo-se-so-fe` (house cat), `pu-zo'zo-se-so-fe` (lion), `pa-fe'zo-se-so-fe` (puma/cougar/mountain lion) as kind-term candidates in `registry/derived.md`; visual-pattern kinds (`lu-di`, `lu-pe` compounds) now normative (COL-001 resolved March 2026).
+
+---
+
+## Canid-Family Taxonomy Stress Test (S261–S269)
+
+*Batch purpose (KNM-004): stress-test `zo-se-so-li` (pack-social acoustic organism, KNM-002) against the full domestic/wild canid range, and determine whether the `li`/`fe` class boundary established by KNM-002 sits at the correct biological grain. Five species under test: wolf (*Canis lupus*), dog (*Canis lupus familiaris*), coyote (*Canis latrans*), jackal (*Canis aureus* and allies), fox (*Vulpes vulpes* and allies). Secondary objective: determine whether two full family tests (KNM-003 Felidae + KNM-004 Canidae) constitute sufficient corpus pressure to formally adopt the colloquial contraction path for `zo-se-so-li` → `zol` and `zo-se-so-fe` → `zof` (TAX-001 Option 2).*
+
+*Biological pre-processing decisions:*
+- *Dog (*Canis lupus familiaris*) is a subspecies of wolf (*Canis lupus*).* → *Not collapsed. Dog and wolf differ substantially in behavior, morphology, and human relationship. Two kind-terms warranted; biological relationship noted.*
+- *"Jackal" covers several species (*Canis aureus*, *Lupulella mesomelas*, etc.).* → *"Jackal class" is treated at the genus/behavioral level — all are small pair-bonded African/Asian opportunist canids. One kind-term for the class.*
+
+---
+
+**S261 — Wolf kind-term: pack-intent canid hunted prey together** *(KNM-004-A)*
+
+*Target: "The wolf pack hunted prey together." / Wolf (*Canis lupus*): apex pack predator; the defining social unit is the pack as a collective intentional agent.*
+
+```
+Gloss:    la-wi-pu'zo-se-so-li  ka  lo-zo  ne-pu
+Literal:  agent:collective-will'[social-pack-sound-organism]  acted  patient:organism  relation:collective
+Natural:  The wolf pack hunted prey together. / The pack-intent canid performed collective intentional action on prey.
+```
+
+**Notes:**
+- `wi-pu'zo-se-so-li` = `wi` (will/intention) + `pu` (collective/plurality) + `'` + `zo-se-so-li` (pack-social acoustic organism) = "collective-will pack canid." Head of subcompound: `pu` (collective), modified by `wi` (will) = the collectivity that operates through unified intent = pack intelligence/hierarchy. Wolf's defining characteristic is not just that it lives in groups (coyotes and jackals do that too) but that the pack functions as a *unified intentional agent* — hunt coordination, territory governance, hierarchy. `wi-pu` captures this.
+- `ka  lo-zo`: intentional action (`ka`) on an organism (`zo`) = predation/hunting. `zo` as patient = prey organism. The predicate is deliberately minimal — the wolf's characteristic act is acting ON organisms.
+- `ne-pu`: in relation to the collective = together/as a group. The pack-intent organism (`wi-pu` base) hunts together (`ne-pu` relational) — the kind-term's own discriminator surfaces in the predicate context.
+- **Why `wi-pu` and not `ka-pu`?** `ka` (intentional action) is already a derivative process; `wi` (will/intention) is the more foundational claim — the pack owns a collective *will*, not just collective activity. Coyotes also perform collective action sometimes; what characterizes wolf uniquely is that the pack is a true collective-will unit with stable hierarchy and coordinated intention. `wi-pu` is the stronger and more precise discriminator.
+
+---
+
+**S262 — Dog kind-term: person-bonded canid perceives its human** *(KNM-004-B)*
+
+*Target: "The dog noticed the person." / Dog (*Canis lupus familiaris*): person-bonded pack animal. `li-ne` domestication marker applied to `zo-se-so-li` base — parallel construction to S252 (house cat).*
+
+```
+Gloss:    la-li-ne'zo-se-so-li  se  lo-li
+Literal:  agent:person-bonded'[social-pack-sound-organism]  perceived  patient:person
+Natural:  The dog noticed the person. / The person-bonded pack canid perceived its human.
+```
+
+**Notes:**
+- `li-ne'zo-se-so-li` = person-relation social-pack acoustic organism. Head of subcompound: `ne` (relation), modifier: `li` (person) = the relational property defined by persons = domesticity/human-bond. Identical construction to `li-ne'zo-se-so-fe` (house cat, S252) — the discriminator is the same; only the base kind-term class changes.
+- **`li-ne` confirmed as universal domestication marker.** S252 (house cat) used `li-ne'zo-se-so-fe`; S262 (dog) uses `li-ne'zo-se-so-li`. The same subcompound `li-ne` tags domestic species in both the territorial-acoustic and pack-acoustic organism classes. Predictive: any domesticated species whose wild ancestor holds a `zo-se-so-[x]` kind-term will have a domestic counterpart as `li-ne`+`[wild kind-term]`. The domestication operator is a structural constant.
+- **Sentence parallel to S252 (cat) is intentional.** `la-li-ne'zo-se-so-fe  se  lo-li` (house cat perceived person) and `la-li-ne'zo-se-so-li  se  lo-li` (dog perceived person) are structurally identical — same predicate, same patient, same discriminator, different base class. The compounds differ only in the class suffix (`fe` vs `li`). This is the clearest possible demonstration that `li-ne` is a modifier on a class, not on a species.
+
+---
+
+**S263 — Wolf/dog minimal pair: the `wi-pu`/`li-ne` contrast** *(KNM-004-C)*
+
+*Target: "The wolf hunted prey; the dog greeted the person." / Same base class (`zo-se-so-li`), different discriminators reveal the domestication axis.*
+
+```
+Gloss:    la-wi-pu'zo-se-so-li  ka  lo-zo  ,  la-li-ne'zo-se-so-li  zi-ka  lo-li
+Literal:  agent:pack-intent-canid  acts  patient:organism  CLAUSE  agent:person-bonded-canid  exchanges  patient:person
+Natural:  The wolf hunted prey; the dog greeted the person.
+```
+
+**Notes:**
+- Two clauses, comma-separated. Same base kind-term class (`zo-se-so-li`) throughout; only the discriminator subcompound changes.
+- Wolf clause: `ka  lo-zo` = intentional predatory action on an organism = hunting. Wolf is defined by its collective-will hunting.
+- Dog clause: `zi-ka  lo-li` = mutual exchange with a person = greeting (established S202, KNM-002-A). Dog is defined by its person-exchange relationship.
+- **The wild→domestic axis in two clauses:** `wi-pu` (collective will / pack intent = autonomy, wild organization) vs `li-ne` (person bond = domesticity, human attachment). The same evolutionary lineage splits at this axis. Both sit on `zo-se-so-li`; the discriminator is the entire semantic distance between wolf and dog.
+- **Dog/wolf biological note:** Dog (*Canis lupus familiaris*) is a subspecies of wolf (*Canis lupus*). Unlike puma/cougar/mountain lion (collapsed in KNM-003 because they are regional names for a single population), dog and wolf have sufficiently distinct behavioral profiles to warrant separate kind-terms. The biological relationship is real; the separate kind-terms are justified by behavioral divergence, not arbitrary folk naming.
+
+---
+
+**S264 — Coyote kind-term: edge-adaptive canid** *(KNM-004-D)*
+
+*Target: "The coyote moved into the new territory." / Coyote (*Canis latrans*): highly adaptable, range-expanding, thrives at the margins between wild and settled space.*
+
+```
+Gloss:    la-be-fe'zo-se-so-li  fe-ki  lo-pa-be
+Literal:  agent:boundary-growing'[social-pack-sound-organism]  boundary-enters  patient:growth-place
+Natural:  The coyote moved into the new territory. / The edge-expanding canid entered the growth-zone.
+```
+
+**Notes:**
+- `be-fe'zo-se-so-li` = `be` (growth/increase/emergence) + `fe` (boundary/limit) + `'` + `zo-se-so-li` = "growing-edge pack canid." Head of subcompound: `fe` (boundary), modifier: `be` (growth) = a boundary characterized by growth/expansion = an expanding edge = **ecological margin**. Coyote's defining property is that it is the canid of expanding margins: it colonizes new territory as wolf ranges contract, adapts to every biome, thrives at the interface between wild and human-settled space.
+- `fe-ki` = boundary + inchoative = entering a boundary state = expanding into / claiming new territory. The same compound as S203 (cat claiming territory), here used by the edge-adaptive canid claiming a new edge.
+- `pa-be` = place + growth = growth-place = expanding space / new territory. The patient mirrors the discriminator: `be-fe` (growing-boundary organism) enters `pa-be` (the growing-place). Compound and object are structurally self-reinforcing.
+- **`be-fe` vs `pa-fe` (puma, S258):** `pa-fe` = terrain-boundary = a fixed high-altitude edge (mountain ridge). `be-fe` = growth-boundary = an expanding/dynamic edge (colonization margin). Puma is defined by stable terrain edges; coyote is defined by edges that grow.
+
+---
+
+**S265 — Jackal kind-term: pair-bonded canid** *(KNM-004-E)*
+
+*Target: "Two jackals hunted prey." / Jackal (various *Canis* spp.): small opportunist canid defined by the pair bond — the monogamous mated pair is the core social unit, not the large pack.*
+
+```
+Gloss:    la-bun nu zi-ne'zo-se-so-li  ka  lo-zo
+Literal:  agent:two quantity [mutual-bond'social-pack-sound-organism]  acted  patient:organism
+Natural:  Two jackals hunted prey. / The bonded pair of canids performed intentional action on prey.
+```
+
+**Notes:**
+- `zi-ne'zo-se-so-li` = `zi` (mutual/coupling) + `ne` (relation/connection) + `'` + `zo-se-so-li` = "mutual-bond pack canid." Head of subcompound: `ne` (relation), modified by `zi` (mutual coupling) = a relation that is mutually coupled = **pair bond**. Jackal's defining social structure is the monogamous mated pair — not the multi-individual pack coordination of wolf, not the person-orientation of dog. `zi-ne` (mutual-relation) = the relational bond defined by bilateral coupling = pair bond.
+- `bun nu zi-ne'zo-se-so-li` = two-quantity pair-bonded canids = the jackal pair. Numeric NP from NUM-001: `bun` (digit 2) + `nu` (quantity particle) + kind-term. The numeric NP places both members of the mated pair as joint agents, reinforcing the pair-bond compound with literal pair count.
+- `zi-ne` vs `zi-ka` (greet, W105) vs `zi-zo` (biological coupling, W106): `zi-ka` = mutual exchange of intentional action = greeting. `zi-zo` = mutual biological coupling event = mating/symbiosis. `zi-ne` = mutually coupled *relation* = the ongoing bond state resulting from that coupling. State vs event distinction: `zi-zo` is the event; `zi-ne` is the persisting relational state. The jackal kind-term uses the state form, correctly — the pair bond is not the mating event itself but the ongoing social unit.
+- **`zi-ne` double-`ne` note:** `zi-ne` contains `ne`, and `zo-se-so-li` is the base. The apostrophe cleanly separates `[zi-ne]'[zo-se-so-li]`; no structural collision.
+
+---
+
+**S266 — Fox over-generation: fox does not fit `zo-se-so-li`** *(KNM-004-F)*
+
+*Target: "The fox claimed the territory." / Test: does writing fox as `zo-se-so-li` produce distortion? Yes — and the distortion reveals that fox belongs on the `zo-se-so-fe` side.*
+
+```
+Gloss:    la-zo-se-so-li  fe-ki  lo-pa
+Literal:  agent:social-pack-acoustic-organism  boundary-enters  patient:space
+Natural:  The [pack-social organism] claimed the territory.
+```
+
+**Notes:**
+- **This sentence is structurally WRONG if the subject is a fox.** `zo-se-so-li` asserts the subject is a *social-pack-oriented* acoustic organism. But the predicate — `fe-ki lo-pa` (entering boundary state over space = territorial claiming, S203) — is characteristic of `zo-se-so-fe` organisms (territorial/solitary). A `zo-se-so-li` subject performing a `zo-se-so-fe` behavior produces an incoherent compound: "the pack-social animal behaved like a territorial-solitary animal." The mismatch is the distortion signal.
+- **Fox (*Vulpes* spp.) is solitary and territorial.** Foxes do not form packs; they occupy and defend territories as individuals or mated pairs. The `li` (social-pack agency) head at the terminal position of `zo-se-so-li` incorrectly characterizes the fox. The `fe` (boundary/territorial orientation) head of `zo-se-so-fe` correctly characterizes it.
+- **Finding: `zo-se-so-fe` ≠ "cat class exclusively."** `zo-se-so-fe` characterizes any *territorial-boundary acoustic organism* — a behavioral category, not a biological family. It correctly covers both cats (Felidae) and foxes (*Vulpes*). The "cat class" label from KNM-002 was provisional shorthand; the compound was always compositionally precise. The over-generation is in the label, not the compound.
+- **This is the same type of finding as S200 (KNM-001-F).** S200 found `zo-se-so` over-generates to cover both dogs and cats; adding `li` vs `fe` resolved it. S266 finds the resulting `zo-se-so-li` class is correctly partitioned — fox confirms the `li`/`fe` cut is at the right biological grain. No further subdivision of the base is needed; fox simply belongs to `zo-se-so-fe`.
+- **`zo-se-so-fe` now confirmed to include:** house cat, lion, tiger, leopard, jaguar, puma (KNM-003) + fox (KNM-004). The class is *territorial acoustic organisms*, biologically: all Felidae + Vulpinae (fox subfamily) + any future organisms fitting the behavioral profile.
+
+---
+
+**S267 — Fox kind-term: den-dwelling territorial acoustic organism** *(KNM-004-G)*
+
+*Target: "The fox entered the den." / Fox (*Vulpes vulpes* etc.): solitary, territorial acoustic organism — sits under `zo-se-so-fe` — distinguished from cats by den/burrow habitat.*
+
+```
+Gloss:    la-ko-pa'zo-se-so-fe  ki  lo-ko-pa
+Literal:  agent:contained-space'[territorial-sound-organism]  moved  patient:contained-space
+Natural:  The fox entered the den. / The den-dwelling territorial acoustic organism moved into the contained space.
+```
+
+**Notes:**
+- `ko-pa'zo-se-so-fe` = `ko` (containment/interior) + `pa` (place/space) + `'` + `zo-se-so-fe` = "contained-space territorial acoustic organism." Head of subcompound: `pa` (place), modified by `ko` (containment) = a place defined by containment = den/burrow. **Fox's defining ecological feature among `zo-se-so-fe` organisms** is the underground den: foxes excavate and inhabit burrows as primary home structures. Cats do not do this — cats use open space, trees (`be-pa`, leopard), terrain edges (`pa-fe`, puma), water margins (`ma-ki`, jaguar). The fox discriminator is the contained/interior space.
+- `ki  lo-ko-pa` = moved into the contained-space = entered the den. As in previous kind-term sentences, the object mirrors the kind-term's own discriminator.
+- **Fox vs cat minimal pair under `zo-se-so-fe`:** all cat kind-terms use open/exterior habitat discriminators (`be-pa` = arboreal, `ma-ki` = water, `pa-fe` = terrain edge). Fox uses `ko-pa` = the contained interior space. The interior/exterior boundary (`ko` vs `pa`) cleanly separates fox from all cats in one step.
+- **`ko-pa` as a first corpus compound:** `ko` (containment/interior) + `pa` (place) = contained-place = den, cave, burrow, enclosed habitat. Compositionally sound; not previously attested. First use here.
+
+---
+
+**S268 — "I have Max the dog": TAX-001 dual-register pressure, second family** *(KNM-004-H)*
+
+*Target: "I have Max the dog." / The formal possessive sentence in full register. Mirrors S260 (Tony the house cat) to show TAX-001 pressure now spans two full families.*
+
+```
+Gloss:    la-mi  ko  lo-[li-ne'zo-se-so-li  na Max]
+Literal:  agent:me  has  patient:[person-bonded-canid  name:Max]
+Natural:  I have Max the dog.
+```
+
+**Notes:**
+- `la-mi  ko  lo-[li-ne'zo-se-so-li  na Max]`: structurally identical to S260 (`la-mi  ko  lo-[li-ne'zo-se-so-fe  na Tony]`). Same possessive predicate (`ko`), same NP structure (`[kind-term  na  Name]`), same `li-ne` discriminator. Only the base class differs: `zo-se-so-li` (dog) vs `zo-se-so-fe` (cat).
+- **TAX-001 two-family audit:** at this point, `zo-se-so-fe` has species-level kind-terms for 7+ organisms (KNM-003 + fox); `zo-se-so-li` for 4+ organisms (wolf, dog, coyote, jackal). Both 4-morpheme bases are productive, well-tested, and used in possessive NPs. The compound kind-terms work at every level — syntax, semantics, possessives, `na`-naming. The grammar has no gaps.
+- **The colloquial pressure is real and now doubled.** "My cat Tony" = `la-mi ko lo-[li-ne'zo-se-so-fe na Tony]` and "My dog Max" = `la-mi ko lo-[li-ne'zo-se-so-li na Max]` together constitute two everyday sentences that any fluent speaker will say hundreds of times. Both have a 4-morpheme, 8-phoneme base before the discriminator. The contraction path (`zof`/`zol`) would reduce both to 3-phoneme stub-forms matching English "cat"/"dog" length. No architecture is needed — only corpus attestation of the contracted forms. See S269.
+
+---
+
+**S269 — First colloquial contraction: `zol` and `zof` attested** *(KNM-004-I)*
+
+*Target: "I have Max the dog." (casual register) / First corpus attestation of `zol` (`zo-se-so-li` → colloquial stub-form) — the event that triggers registry entry for both `zol` and `zof`.*
+
+```
+Gloss:    la-mi  ko  lo-[li-ne'zol  na Max]
+Literal:  agent:me  has  patient:[person-bonded'canid-colloquial  name:Max]
+Natural:  I have Max the dog. (casual register)
+```
+
+**Notes:**
+- `zol` = colloquial contraction of `zo-se-so-li`. Compression pattern: `zo` + `[se-so dropped]` + `li` → `zol`. The middle acoustic-organism qualifiers (`se` = perceive, `so` = sound) are contextually recoverable in any discourse involving familiar animal kinds; they are stripped in the casual register. The stub-form `zol` = "pack-social acoustic organism (informal)" — unambiguous within discourse about canids or pack animals.
+- `zof` = colloquial contraction of `zo-se-so-fe` (proposed entry, attested by symmetry). Pattern: `zo` + `fe` → `zof`. Both contractions follow the same rule: retain `zo` (the organism anchor) + the class-differentiating final root, drop the acoustic-organism middle (`se-so`).
+- **Contraction rule:** both forms satisfy the three criteria from spec/word-formation.md § Contraction and Compression Rules: (1) formal compound is 4 morphemes long ✓; (2) short form is unambiguous within its domain (acoustic-animal discourse) ✓; (3) formal form `zo-se-so-li` remains the canonical registered entry ✓.
+- **Compression mechanism:** the same as `to-ne-su` → `tonesu` (language name) and `ti-past-to-si-ko-mu` → `to-ko` (memory, W027). Middle qualifiers that narrow the class without disambiguating within expected discourse context are the canonical compression target. `se-so` is the acoustic-organism narrowing; it is recoverable in any context where pack animals are the discourse topic.
+- **Both `zol` and `zof` are adopted simultaneously.** They are a symmetric pair — the `li`/`fe` class distinction is preserved in the stub-form coda; only the shared acoustic-organism middle is stripped. The pair should enter the colloquial registry together.
+- **Kind-term discriminators contract independently.** `li-ne'zol` (domestic dog) and `li-ne'zof` (house cat) retain their discriminator prefix intact; only the base is shortened. The discriminator prefix is NOT recoverable from context (it differentiates within the class), so it cannot be stripped. The contraction boundary is always at the class base, never at the discriminator.
+- **Predictive:** all future compound kind-terms built on the `zo-se-so-fe`/`-li` bases may now use the `zof`/`zol` stub-forms in casual register. `wi-pu'zol` = wolf (casual), `ko-pa'zof` = fox (casual), `pu-zo'zof` = lion (casual), `be-fe'zol` = coyote (casual).
+
+---
+
+**Verdict KNM-004: canid-family taxonomy stress test complete. Nine findings:**
+
+1. **`zo-se-so-li` survives four canid stress-tests.** Wolf (`wi-pu'zo-se-so-li`), dog (`li-ne'zo-se-so-li`), coyote (`be-fe'zo-se-so-li`), jackal (`zi-ne'zo-se-so-li`) — all receive unique, unambiguous kind-terms. No structural collisions.
+
+2. **Fox fails `zo-se-so-li` and correctly maps to `zo-se-so-fe` (S266).** Fox (*Vulpes*) is territorial and solitary — behaviorally a `zo-se-so-fe` organism. Attempting to write fox as `zo-se-so-li` produces compound-behavior distortion. The `li`/`fe` class cut is validated: it correctly separates pack-social organisms (canids: wolf, dog, coyote, jackal) from territorial-solitary organisms (felids + foxes). The class boundary is behavioral, not taxonomic, and maps accurately onto both families.
+
+3. **`zo-se-so-fe` is confirmed as "territorial acoustic organism" — not "cat class exclusively."** The label "cat class" from KNM-002 was provisional shorthand. The compound was always compositionally precise. `zo-se-so-fe` now includes all Felidae + *Vulpes* + any future territorial-solitary acoustic organism. The over-generation finding (S266) confirms the class, not a flaw.
+
+4. **`li-ne` is a universal domestication marker.** `li-ne'zo-se-so-fe` (house cat, S252) and `li-ne'zo-se-so-li` (dog, S262) use identical discriminator subcompounds. The `li-ne` modifier is class-agnostic — it functions on any `zo-se-so-[x]` base. Predictive across all future domesticated species in both classes.
+
+5. **The `wi-pu`/`li-ne` contrast (wolf vs dog, S263) mirrors the wild/domestic axis formally.** `wi-pu` = collective will = pack intelligence = wild, autonomous, organizational. `li-ne` = person bond = domestic, human-oriented, dependent. Same base class; discriminator carries the full biological and social distance between wolf and dog.
+
+6. **Two full family tests (11+ species, two base classes) constitute sufficient TAX-001 corpus pressure.** KNM-003 (7 Felidae) + KNM-004 (4 Canidae + fox) = 12 species kind-terms built on `zo-se-so-fe` and `zo-se-so-li`. Both 4-morpheme bases are productive, well-tested, and in possessive NP use. The grammar is complete. The only remaining gap was the colloquial register.
+
+7. **Colloquial contractions `zol` and `zof` formally attested (S269).** TAX-001 Option 2 is no longer speculation — it is now corpus-attested, terminology registered, first sentence on record. `la-mi ko lo-[li-ne'zol na Max]` is the first casual-register kind-term sentence. Both forms enter `registry/colloquial.md`.
+
+8. **Dog and wolf are not collapsed despite biological subspecies relationship.** *Canis lupus familiaris* is a subspecies of *Canis lupus*, not merely a regional name. Behavioral divergence (pack-hunt vs person-bond) is large enough to warrant separate kind-terms. The biological note is preserved; the lexical decision tracks behavior, not just taxonomy.
+
+9. **New compounds first-attested: `wi-pu` (collective will), `be-fe` (growing edge), `zi-ne` (mutual bond/pair bond), `ko-pa` (contained space/den).** All compositionally derived. `zi-ne` extends the `zi-` family (W104–W108) with the mutual-relation *state* form. `ko-pa` = contained-place = first habitat compound using `ko` as the modifier root.
+
+**Follow-on actions:**
+- Register `zol` and `zof` in `registry/colloquial.md` (first entries — file creation required). Trace both to formal sources.
+- Update `notes/open-questions.md` TAX-001: close Option 2 as resolved; corpus basis S269.
+- Register `li-ne'zo-se-so-li` (dog), `wi-pu'zo-se-so-li` (wolf), `ko-pa'zo-se-so-fe` (fox) as kind-term candidates alongside KNM-003 candidates.

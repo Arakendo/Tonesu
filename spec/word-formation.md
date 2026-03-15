@@ -221,7 +221,7 @@ Standard:   knowstore-device
 Colloquial: nosta
 ```
 
-Colloquial forms are recorded in lexicon/colloquial.md and must trace back to their formal source.
+Colloquial forms are recorded in registry/colloquial.md and must trace back to their formal source.
 
 ---
 
