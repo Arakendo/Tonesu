@@ -988,7 +988,7 @@ The `ti` (time) root combines with directional primitives to produce a family of
 | Compound | Roots | Meaning | Corpus | Registry |
 |----------|-------|---------|--------|----------|
 | `ti-de` | time + decay | past time; previous interval; yesterday | S035, S066 | W041 |
-| `ta-now` | `ta` + deictic | present moment | throughout | — |
+| `ti-mi` | time + self/speaker | present moment; now (deictic anchor) | — | W109 |
 | `ti-be` | time + growth | proximate future; next time; tomorrow | C003, C006 A4 | W040 |
 | `ti-re` | time + recurrence | next scheduled occurrence; next cycle | C006 B4 | W103 |
 | `ti-fe` | time + boundary | deadline; time-limit; the moment of | throughout | W037 |
@@ -1119,7 +1119,66 @@ no-ka-ki  lo-mu
 
 ---
 
+## Ellipsis (Agent Drop)
+
+Three distinct ellipsis patterns are recognized. They differ in which argument is dropped, the conditions under which the drop is licit, and whether recovery depends on person (discourse role) or context (predicate type).
+
+### Pattern 1 — Imperative agent drop (`la-tu` omitted)
+
+The second-person agent is omitted in addressed commands. See **§ Imperative** above. The dropped argument is always the addressee; interpreted structurally, not contextually.
+
+### Pattern 2 — Speaker drop (`la-mi` omitted in conversation)
+
+In face-to-face exchange, the current speaker may omit `la-mi` when:
+
+1. The predicate denotes an action that can only be attributed to the speaker (perception, self-initiated motion, self-evaluation).
+2. There is no third-party referent whose agency could create ambiguity.
+
+```
+ru — se  lo-zo-ne          (S341 B1)
+[la-mi dropped]  perceived  patient:fungal-network
+→  [I] see it.
+
+ki  lo-pa-mi               (S341 B2)
+[la-mi dropped]  moved  patient:here
+→  [I'll] come take a look.
+```
+
+Speaker drop is disallowed when the predicate could be attributed to a third party without contradiction. In that case, `la-mi` is retained.
+
+**Prior attestation:** C001 Turn B3 (`ka-ki-now` = "[I'm] going now") — same pattern. First formalized here as Pattern 2.
+
+### Pattern 3 — Argument drop by context
+
+Any argument may be omitted when its identity is fully recoverable from the discourse context — not just from the speaker's person identity, but from topic, scene, or prior sentence. Applies to agent, patient, and occasionally instrument slots.
+
+```
+ki  lo-pa-mi               (S341 B2)
+```
+
+Here both the agent (`la-mi`, speaker) AND the patient relationship (`pa-mi`, deictic here) are context-bound. The sentence is interpretable only in the physical scene of the utterance. This is a stronger drop condition than Pattern 2: Pattern 2 licenses agent drop by speaker-identity alone; Pattern 3 licenses broader omission when the full argument structure is scene-recoverable.
+
+### Recovery conditions summary
+
+| Pattern | Dropped | Recovery mechanism | Restriction |
+|---------|---------|-------------------|-------------|
+| 1 — Imperative | `la-tu` | Structural: addressed-speech context | Imperatives only |
+| 2 — Speaker drop | `la-mi` | Discourse role: current speaker | Predicate must be speaker-attributable only |
+| 3 — Context drop | any argument | Scene / discourse: fully recoverable | Full argument must be reconstructible |
+
+**Corpus attestations:** Pattern 1 (C001 B3, S341); Pattern 2 (C001 B3, S341 B1–B2); Pattern 3 (C001 A2, S341 B2).
+
+---
+
 ## Comparison
+
+Comparison between two entities on a shared quality dimension uses `nu-no` (less-than) or `nu-be` (more-than).
+
+**Composition:**
+- `nu-no` = quantity (`nu`) + negation (`no`) = less / fewer / to a lesser degree
+- `nu-be` = quantity (`nu`) + growth (`be`) = more / greater / to a higher degree
+
+Both are compositionally transparent: `nu` carries the measurable dimension; `no`/`be` give the direction.
 
 Comparison between two entities on a shared quality dimension uses `nu-no` (less-than) or `nu-be` (more-than).
 
@@ -1268,7 +1327,7 @@ Time units are compounds on `re` (repetition/cycle) and `ti` (time):
 | day | `re-ti-be` | extended recurring time |
 | year | `hulm` | CVCC anchor (conventional) |
 
-Time of day: `ta-ti  [digit] nu re-ti` = at [n] o'clock (S249) 
+Time of day: `ta-ti  [digit] nu re-ti` = at [n] o'clock (S249)
 Ordinal day: `[digit] ti  re-ti-be` = [n]th day (S250)
 
 `ta-ti` introduces the temporal frame (see § Temporal Frame).

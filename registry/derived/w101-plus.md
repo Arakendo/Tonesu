@@ -330,9 +330,16 @@ First use:    pending corpus attestation
 Notes:        Deictic anchor: ti-mi is indexical — it refers to whatever time is
               current when the sentence is uttered. In written or reported speech,
               the anchor shifts to the time of the reported speaker.
-              The tense family (W109–W112) is fully compositional; no CVC or CVCC
-              form is warranted.
-Related:      pa-mi (W110: here), de-ti (W111: past), be-ti (W112: future),
+              ti-mi completes the ti-[X] temporal reference family as the deictic
+              member: ti-de (W041: past) / ti-mi (present) / ti-be (W040: future) /
+              ti-re (W103: next cycle) / ti-fe (W037: deadline). All use ti as head.
+              Replaces the placeholder 'ta-now' in spec/grammar.md § Temporal Frame.
+              No CVC or CVCC form is warranted — fully compositional.
+              Note: W111 and W112 (de-ti, be-ti) were registered in error with
+              reversed root order and have been retired. Past = ti-de (W041);
+              future = ti-be (W040).
+Related:      pa-mi (W110: here), ti-de (W041: past), ti-be (W040: future),
+              ti-re (W103: next cycle), ti-fe (W037: deadline),
               ti (primitive: time/sequence), mi (primitive: self/speaker),
               hulm (CVCC: Julian year — calibrated temporal anchor)
 ```
@@ -363,57 +370,30 @@ Related:      ti-mi (W109: now), pa (primitive: place), mi (primitive: self)
 
 ---
 
-**W111**
+**W111** *(retired — root-order error)*
 ```
-Form:         de-ti
-Type:         compound
-Class:        temporal quality / tense marker
-Definition:   past; elapsed time; time that has been consumed/completed; the
-              tense domain for events prior to the speech act.
-Composition:  de (consume/decay/decrease) + ti (time/sequence) = consumed time =
-              time that has run out / been used up. The past is time that has
-              already been spent.
-Register:     standard
-Domain:       general / temporal
-Status:       active
-First use:    pending corpus attestation
-Notes:        de-ti does not express a precise distance from the present — it is
-              a tense domain (past) not a measured duration. For measured past
-              intervals, pair with a digit and scale: bun hulm de-ti = two years
-              ago (two year-units of consumed time).
-              The tense system: de-ti (past) / ti-mi (present, W109) / be-ti
-              (future, W112) is parallel to the ecological cycle roots already
-              attested: de (decay/prior), ki (motion/present), be (produce/coming).
-Related:      be-ti (W112: future), ti-mi (W109: present), de (primitive),
-              ti (primitive), hulm (CVCC: Julian year)
+Form:         de-ti  ← INCORRECT ROOT ORDER; this entry is retired
+Status:       retired (March 2026)
+Notes:        Registered in error with root order reversed. The correct compound
+              for past time is ti-de (W041): ti (time, head) + de (decay, directional
+              qualifier). de-ti would place de as the head, which is not the
+              established pattern for the ti-[X] temporal reference family.
+              Use ti-de (W041) for all references to past time.
+Superseded by: W041 (ti-de)
 ```
 
 ---
 
-**W112**
+**W112** *(retired — root-order error)*
 ```
-Form:         be-ti
-Type:         compound
-Class:        temporal quality / tense marker
-Definition:   future; time yet to arrive; time to be produced/grown into; the
-              tense domain for events after the speech act.
-Composition:  be (produce/grow/generate) + ti (time/sequence) = time yet to
-              be produced = time that has not yet come into being. The future is
-              time that is still being generated.
-Register:     standard
-Domain:       general / temporal
-Status:       active
-First use:    pending corpus attestation
-Notes:        Tense triple: de-ti (past: consumed time) / ti-mi (present: speaker's
-              time) / be-ti (future: time to be produced). The three tense anchors
-              use three different primitives (de, mi, be) on the same base ti —
-              consuming, self-indexing, generating. The middle term (present)
-              uses a different root class than the flanking terms: it is deictic
-              (self-anchored) while past and future are process-anchored (decay /
-              growth). This asymmetry is semantically correct: the present is
-              not a direction of time, it is the speaker's position in time.
-Related:      de-ti (W111: past), ti-mi (W109: present), be (primitive),
-              ti (primitive)
+Form:         be-ti  ← INCORRECT ROOT ORDER; this entry is retired
+Status:       retired (March 2026)
+Notes:        Registered in error with root order reversed. The correct compound
+              for future time is ti-be (W040): ti (time, head) + be (growth/coming,
+              directional qualifier). be-ti would place be as the head, inconsistent
+              with the established ti-[X] temporal reference family.
+              Use ti-be (W040) for all references to proximate future time.
+Superseded by: W040 (ti-be)
 ```
 
 ---

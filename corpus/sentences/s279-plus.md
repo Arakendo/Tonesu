@@ -1299,3 +1299,184 @@ Natural:  The decomposer fungi broke matter down to the soil. / The decay fungus
 - Add second CVC collision note to `registry/colloquial.md` (`zo-ne` → `zon` collision with CLQ-006a). ✓
 - Register `zo-ne`, `pa'zo-ne`, `su'zo-ne`, `de'zo-ne`, `zi'zo-ne` in `registry/derived.md`.
 - Natural world expansion complete: all eight attack-plan batches committed (A Birds, B Fish, C Land animals, D Arthropods, E Plants, F Fungi, G Rocks/soil, H Water features).
+
+---
+
+## Grammar Exercise Batch (S335–S341) *(GRM-001)*
+
+*Batch purpose (GRM-001): targeted grammar stress tests against four underexplored constructions: (1) tense triple in narrative context — first corpus attestation of `ti-mi` (W109); (2) spatial deictic `pa-mi` — first corpus attestation (W110); (3) predication contrast `la-X Q` vs `lo-X Q` with natural-world subjects; (4) agent-drop ellipsis in conversation — formal taxonomy of the three identified ellipsis patterns.*
+
+*Structural choices:*
+- *Tense test uses a single ecological narrative (tree falls → fungi colonize → mycelium spreads) so tense markers are directly comparable across parallel structures.*
+- *`ti-mi` is the default unmarked present in most corpus sentences; this batch tests it as an **explicit emphatic marker** contrasting with adjacent past and future claims.*
+- *Predication contrast reuses `zo-su` (plant) and `be-vo` (generative quality) from established vocabulary — the same distinction confirmed at S162–S163 for human agents now applied to biological entities.*
+- *Agent-drop batch is a two-turn exchange; all three identified ellipsis patterns are placed in adjacent sentences to make the taxonomy concrete.*
+
+---
+
+**S335 — Tense: past. "The tall tree fell to the ground last season."** *(GRM-001-A)*
+
+*Target: `ta-ti-de` in natural-world narrative context. Establishes the retrospective frame for S336–S337.*
+
+```
+Gloss:    la-be-di'zo-su  ki  lo-ma-pa  ta-ti-de
+Literal:  agent:growing-directional-plant  moved  patient:soil  at-past-time
+Natural:  The tall tree fell to the ground last season.
+```
+
+**Notes:**
+- `be-di'zo-su` = `be` (growth/production) + `di` (direction/height) + `'` + `zo-su` (plant) = growth-directional-plant = **tall tree**. Established S288. `la-be-di'zo-su` = the tall tree as agent/perspective anchor.
+- `ki lo-ma-pa` = moved to soil. `lo-ma-pa` = patient: soil/ground. `ki` (motion) + `lo-ma-pa` = fell / moved to the ground. The tall tree's fall is encoded as motion arriving at the soil.
+- `ta-ti-de` = at past time = **last season / formerly / in the past interval**. Temporal frame particle `ta` + `ti-de` (W041: elapsed time). Post-predicate position: frame follows the predicate.
+- **Tense frame position:** `ta-[time]` is post-predicate here. The grammar spec allows `ta` both pre-sententially and post-predicately; post-predicate is more natural when the action is the focus and the time is backgrounded.
+
+---
+
+**S336 — Tense: present (emphatic). "The cap fungus is growing on it now."** *(GRM-001-B)*
+
+*Target: `ta-ti-mi` — first corpus attestation of `ti-mi` (W109) as an explicit present-tense marker. Emphatic present in contrast with S335 (past) and S337 (future).*
+
+```
+Gloss:    la-su'zo-ne  be  lo-zo-be  ta-ti-mi
+Literal:  agent:cap-fungus  produced  patient:biological-product  at-present-time
+Natural:  The cap fungus is growing fruiting bodies on it right now.
+```
+
+**Notes:**
+- `ta-ti-mi` = at the present time = **right now / at this moment**. `ta` (temporal frame particle) + `ti-mi` (W109: time-of-me = the speaker's present moment). **First corpus attestation of `ti-mi`.**
+- **`ti-mi` as emphatic present.** In Tonesu, the present tense is structurally unmarked — an unframed sentence is read as taking place at the time of utterance by default. `ta-ti-mi` marks the present *explicitly*, used when the speaker is contrasting this moment with adjacent past or future claims. Here it contrasts directly with `ta-ti-de` (S335) and `ta-ti-be` (S337) in the same narrative.
+- `la-su'zo-ne  be  lo-zo-be` = the cap fungus produces a fruiting body. The dead tree of S335 is the implicit substrate; `zo-be` here refers to the mushroom (fruiting body = `zo-be` of `su'zo-ne`, established S330).
+- **The three-tense ecological narrative (S335–S337):** *last season the tall tree fell → right now the cap fungus is fruiting → soon the mycelium will spread through the soil.* Three parallel `ta-ti-[X]` frames on three parallel agent-produces/moves sentences. The narrative demonstrates that `ti-de` / `ti-mi` / `ti-be` are a coherent contrastive family, not just independent time expressions.
+
+---
+
+**S337 — Tense: future. "The mycelium will spread through the soil."** *(GRM-001-C)*
+
+*Target: `ta-ti-be` in narrative, completing the tense triple. Reuses `zo-ne ki lo-ma-pa` from S328.*
+
+```
+Gloss:    la-zo-ne  ki  lo-ma-pa  ta-ti-be
+Literal:  agent:fungal-network  moved  patient:soil  at-future-time
+Natural:  The mycelial network will spread through the soil.
+```
+
+**Notes:**
+- `ta-ti-be` = at the upcoming time = **soon / in the future**. `ti-be` (W040: time-that-is-approaching). Mirrors `ta-ti-de` (S335) exactly: same frame particle, same post-predicate position, different direction.
+- `la-zo-ne  ki  lo-ma-pa` = the fungal network moves through soil = the mycelium spreads. Identical predicate structure to S328 (FNG-001-A: establishing sentence), now in a tensed narrative context. S328 was atemporal (kind-term establishing); S337 is future-tensed (narrative prediction).
+- **Tense triple complete.** The three sentences S335–S337 form the minimal tense paradigm in a coherent context. All three use `ta-ti-[X]` post-predicately; all three have the same SOV structure; the only varying element is the temporal frame compound. This makes `ti-de` / `ti-mi` / `ti-be` directly comparable.
+- **Observation:** the present marker `ta-ti-mi` (S336) is structurally parallel to `ta-ti-de` and `ta-ti-be` but semantically distinct — it is deictic (indexed to the speaker), not directional (oriented along the timeline). The asymmetry flagged in W109 registration is confirmed: past and future are process-anchored (decay / growth); present is self-indexed.
+
+---
+
+**S338 — Spatial deictic: "The mold has reached here."** *(GRM-001-D)*
+
+*Target: first corpus attestation of `pa-mi` (W110: here = place-of-me).*
+
+```
+Gloss:    la-pa'zo-ne  ki  lo-pa-mi
+Literal:  agent:surface-fungus  moved  patient:here
+Natural:  The mold has spread here. / The mold has reached this surface.
+```
+
+**Notes:**
+- `lo-pa-mi` = patient: here = **this place / the speaker's location**. `pa-mi` (W110: place-of-me) in the patient role. The mold's motion arrives at the speaker's position. **First corpus attestation of `pa-mi`.**
+- **`pa-mi` in patient slot:** `pa-mi` (deictic anchor) functions as a location noun in the patient position of a motion verb. This is the standard usage — `lo-pa-mi` = the place where motion terminates = here. Compare `lo-pa-mi` (destination: here) against `pa-mi` bare (descriptive: this place).
+- **Practical context:** a speaker pointing to a surface and observing that `pa'zo-ne` (mold) has now reached their location. The sentence is both a description and a spatial claim about the speaker's embedding in the scene — exactly the core use case for a deictic.
+- **Deictic pair confirmed in corpus:** `ti-mi` (W109, S336) and `pa-mi` (W110, S338) are now both corpus-attested in the same batch. The structural parallel (`ti` + `mi` = time/me; `pa` + `mi` = place/me) is confirmed functional in the same register.
+
+---
+
+**S339 — Predication contrast A: intrinsic property. "A plant has generative capacity."** *(GRM-001-E)*
+
+*Target: `la-X Q` (Type 2 attributive property) with a natural-world subject. Intrinsic claim.*
+
+```
+Gloss:    la-zo-su  be-vo
+Literal:  agent:plant  generative-quality
+Natural:  A plant has productive capacity. / Growth is intrinsic to a plant.
+```
+
+**Notes:**
+- `la-zo-su  be-vo` = the plant-class holds the property `be-vo` (generative quality). **Type 2 attributive predication:** `la-[entity]  [quality]` = X has quality Q as part of its constitution (spec/grammar.md § Predication Strategies, Type 2). The claim is structural/intrinsic.
+- `be-vo` = `be` (produce/grow) + `vo` (value/quality) = generative quality = productive capacity = the ability to grow and produce. First attested as S114 (`lo-ra-ki-mu  be-vo`). Here applied to a biological organism class.
+- **What the claim says:** every member of the `zo-su` class has growth capacity as an intrinsic property of being a plant. This is a universal categorical claim, not a temporary state. It cannot be negated without changing what `zo-su` means. Contrast S340.
+- **Extension of prior art:** S162 (`la-li  vo` = persons have inherent worth) established `la-X Q` as the intrinsic-property frame for social agents. S339 confirms it generalizes to biological organism classes with the same semantics.
+
+---
+
+**S340 — Predication contrast B: contingent state. "This plant is in a growing state."** *(GRM-001-F)*
+
+*Target: `lo-X Q` (Type 1 patientive state) with the same subject and quality as S339. Marks contingency.*
+
+```
+Gloss:    lo-zo-su  be-vo
+Literal:  patient:plant  generative-quality
+Natural:  This plant is actively growing. / The plant is in a productive state right now.
+```
+
+**Notes:**
+- `lo-zo-su  be-vo` = this plant is in the state `be-vo` (generative quality). **Type 1 patientive predication:** `lo-[entity]  [quality]` = X is in state Q (contingent, spec/grammar.md § Predication Strategies, Type 1). The claim is about current condition, not constitution.
+- **What the claim says:** this particular plant is currently in an active generative phase. It might not be at other times — it might be dormant, stressed, or seasonal. The state is contingent and can change. This is a situation report, not a definition.
+- **Minimal contrast with S339:**
+
+  | Form | Reading |
+  |------|---------|
+  | `la-zo-su  be-vo` (S339) | Plants have growth capacity (intrinsic; categorical) |
+  | `lo-zo-su  be-vo` (S340) | This plant is growing right now (contingent; situational) |
+
+  Same compound `zo-su`, same quality `be-vo`, different particle → completely different claim. Neither can substitute for the other. The distinction applies across the full biological taxonomy: `la-di'zo-se-ma  wi-ki` (a shark has predatory intent — intrinsic) vs `lo-di'zo-se-ma  wi-ki` (this shark is in a predatory intent state — situational).
+
+---
+
+**S341 — Agent-drop ellipsis: "Have you seen it?" / "[I] see it."** *(GRM-001-G)*
+
+*Target: formal taxonomy of all three identified agent-drop patterns in adjacent sentences. First formal treatment of GRM-007 (agent drop in conversation).*
+
+```
+Turn A:   to-si — la-tu  se  lo-zo-ne?
+          polar-question — agent:you  perceived  patient:fungal-network?
+          Have you seen the mycelium?
+
+Turn B1:  ru — se  lo-zo-ne
+          affirmative — [la-mi dropped]  perceived  patient:fungal-network
+          Yes — [I] see it. / I can see it.
+
+Turn B2:  ki  lo-pa-mi
+          [la-mi dropped]  moved  patient:here
+          [I'll] come here. / [I'm] going to take a look.
+```
+
+**Notes:**
+- **Three distinct ellipsis patterns in six words:**
+  1. **Imperative drop (not present here — contrast):** `la-tu` omitted when issuing a direct command. Turn A retains `la-tu` in the question — `to-si — la-tu se lo-zo-ne?` — because interrogative sentences mark the addressee explicitly. Drop is canonical for imperatives, not questions.
+  2. **Speaker drop (Turn B1):** `la-mi` omitted when the current speaker is the obvious agent. B1 `se lo-zo-ne` = "[I] perceive the fungal network" — `la-mi` absent because in face-to-face exchange the identity of the speaker/perceiver is unambiguous. The same pattern as C001 Turn B3 (`ka-ki-now`), now with a different predicate.
+  3. **Argument-drop by context (Turn B2):** `la-mi` omitted AND `lo-` patient of the motion is non-referential (no new entity introduced). `ki lo-pa-mi` = "[I] move to here" — motion predicate with deictic destination. Both the agent identity and the patient's relation to discourse context are recoverable: the agent is the speaker; `pa-mi` grounds the destination deictically.
+- **Recovery conditions for speaker drop:**
+  - The dropped argument must be the current speaker (first person).
+  - The predicate must denote an action that can only belong to the speaker in the exchange context (perception, motion-toward, self-evaluation).
+  - If the predicate could be attributed to a third party, drop is disallowed; explicit `la-mi` is required.
+- **`ru — [elaboration]` pattern confirmed** (P-AF-001): B1 uses `ru` (minimal affirmative) followed immediately by the content that expands on the affirmation. The pause marker `—` in gloss notation separates the response particle from the full-sentence elaboration.
+- **`pa-mi` second attestation:** B2 `ki lo-pa-mi` reuses `pa-mi` from S338 in a motion context with an agent-dropped speaker. The deictic anchor functions identically regardless of whether the agent is explicit or dropped.
+
+---
+
+**Verdict GRM-001: Four grammar constructions exercised. Seven findings:**
+
+1. **Tense triple confirmed in natural narrative (S335–S337).** `ta-ti-de` / `ta-ti-mi` / `ta-ti-be` are a coherent contrastive family. All three apply identically in post-predicate `ta` frame position. The ecological narrative (tree falls → fungi fruit → mycelium spreads) makes the temporal contrast semantically grounded, not abstract.
+
+2. **`ti-mi` first corpus attested (S336).** Present tense is structurally unmarked as default; `ta-ti-mi` marks the present explicitly for contrastive emphasis. The deictic/process asymmetry in the tense family is confirmed: past/future are directional (decay/growth); present is self-indexed.
+
+3. **`pa-mi` first corpus attested (S338).** Deictic "here" functions as a location nominal in the `lo-` patient slot of a motion predicate. The spatial/temporal deictic pair (`pa-mi` / `ti-mi`) is now both corpus-attested.
+
+4. **Predication contrast confirmed with biological subjects (S339–S340).** `la-zo-su be-vo` (intrinsic growth capacity) and `lo-zo-su be-vo` (active growing state) are semantically non-equivalent despite identical compounds. The `la-/lo-` slot distinction generalizes from social/institutional subjects (S162–S163) to organism-class subjects without modification.
+
+5. **Agent-drop taxonomy formalized (S341).** Three distinct ellipsis patterns in one exchange: (a) imperative drop of `la-tu` (not applicable to questions — contrast); (b) speaker drop of `la-mi` in perception/motion predicates; (c) argument-drop-by-context when both agent and patient are contextually recoverable. Recovery condition: dropped agent must be the speaker; predicate must be speaker-attributable only.
+
+6. **`pa-mi` in two roles in one batch (S338, S341 B2).** Motion-destination patient (`ki lo-pa-mi`) is confirmed as productive. The deictic anchor is not restricted to descriptive-predicate contexts.
+
+7. **`ru — [elaboration]` pattern (P-AF-001) confirmed in agent-drop context.** The affirmative particle functions as expected alongside the dropped-agent elaboration sentence.
+
+**Follow-on actions:**
+- Update spec/grammar.md § Temporal Frame table: replace `ta-now` placeholder with `ti-mi (W109)`. ✓ (done in prior edit)
+- Formalize agent-drop recovery conditions in spec/grammar.md § Ellipsis (new subsection).
+- Close open question: "Agent drop / speaker drop in conversation" (open-questions.md) — this batch provides the three-pattern taxonomy needed.
