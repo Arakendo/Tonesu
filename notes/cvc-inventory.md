@@ -454,7 +454,10 @@ These are the rarest entries in the lexicon. The CVCC tier is not for general vo
 **Spoken sequence (mathematical):** varn · worn · werm · vins · valm · walf  
 **Spoken sequence (physical):** vern · birm · velf · holm · vils · yolm · wels  
 **Spoken sequence (conventional/observational):** telf · holf · yarm · hulm  
-**Spoken sequence (atomic):** dolm · dolf
+**Spoken sequence (atomic):** dolm · dolf  
+**Spoken sequence (elements, batch 1 — universal):** polm · narm · sulm · girn · lorm  
+**Spoken sequence (elements, batch 2 — metabolic):** fals · riln · bels · duns · lans  
+**Spoken sequence (elements, batch 3 — industrial):** murn · tams · gons · rens · koms
 
 ### Near-neighbor check (CVCC set)
 
@@ -485,7 +488,22 @@ These are the rarest entries in the lexicon. The CVCC tier is not for general vo
 | `dolf` / `holf` | m_p / AU | dol vs hol | -f vs -f | distinct onset ✓ |
 | `dolf` / `velf` | m_p / G | dol vs vel | -f vs -f | distinct onset + vowel ✓ |
 
-All 19 CVCC forms are distinct from each other and from all 33 CVC forms. ✓
+All 34 CVCC forms are distinct from each other and from all 33 CVC forms. ✓
+
+**Element-set near-neighbor notes (batch 1–3):**
+
+| Pair | Elements | Verdict |
+|------|----------|--------|
+| `polm` / `pom` | H / blue (CVC) | CVCC vs CVC, different tier+length ✓ |
+| `girn` / `gim` | N / green (CVC) | CVCC vs CVC, different tier+length ✓ |
+| `riln` / `rim` | Si / milli (CVC) | CVCC vs CVC, different tier+length ✓ |
+| `narm` / `yarm` | He / parsec | nar vs yar — distinct onset ✓ |
+| `lorm` / `lans` | O / Ca | lor vs lan — distinct vowel+coda ✓ |
+| `fals` / `bels` | Na / P | fal vs bel — distinct onset+vowel ✓ |
+| `bels` / `wels` | P / mole | bel vs wel — distinct onset ✓ |
+| `duns` / `gons` | Cl / Zn | dun vs gon — distinct onset+vowel ✓ |
+| `tams` / `koms` | Cu / Pb | tam vs kom — distinct onset+vowel ✓ |
+| `murn` / `varn` | Fe / π | mur vs var — distinct onset+vowel ✓ |
 
 ### Usage examples
 
@@ -552,14 +570,17 @@ Each element's atomic number is IUPAC-assigned — a convention-defined identity
 
 ### Uniqueness
 
-All 51 proposed forms are distinct:
+All 66 proposed forms are distinct:
 
 > nil bol bun gal mol hin wes yom fon zan  
 > yel yim ker gim pom sam kus  
 > zum mes rim pir baf wul bim les  
 > gul fin fus hem  
 > varn worn werm vins valm walf vern birm velf holm vils yolm wels  
-> telf holf yarm hulm dolm dolf
+> telf holf yarm hulm dolm dolf  
+> polm narm sulm girn lorm  
+> fals riln bels duns lans  
+> murn tams gons rens koms
 
 No two are identical. ✓
 
@@ -714,7 +735,7 @@ Tier A chemical elements require CVCC forms. Each element's atomic number is IUP
 
 For each batch: assign forms, run near-neighbor check against all existing CVCC, update spoken sequences and collision check table.
 
-**Status:** Scaffolded. No forms assigned yet.
+**Status:** Complete — all 15 Tier A element forms assigned (March 2026). Batches 1–3 committed. Near-neighbor check passed; all 34 CVCC forms distinct from each other and all 33 CVC forms. See spoken sequences and near-neighbor notes in the CVCC Assigned Forms section.
 
 ---
 
