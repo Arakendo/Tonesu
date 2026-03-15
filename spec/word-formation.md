@@ -127,7 +127,7 @@ The elements from `'` to the end of the compound (or the next `'` if present) fo
 
 **Role-marker interaction:** role-prefix particles (`la-`, `lo-`, etc.) attach to the outer NP boundary and do not participate in the `'` grouping mechanism. The role-marker is outside-NP; `'` is NP-internal. The two levels are orthogonal: `la-ker'zo-se-so` = agent:[red-[kind-term]], with no conflict.
 
-**`~` interaction:** the approximation mark `~` may appear immediately after `'`, scoping over only the introduced subcompound: `A'~B-C` = A modifies [approximately B-C]. This is distinct from `~A'B-C` = approximately [A's-B-C]. Mid-hyphen `~` (`A-~-B`) remains forbidden. See spec/phonology.md § Approximation Mark for the full scope semantics and example pair.
+**`~` interaction:** the approximation mark `~` may appear immediately after `'`, scoping over only the introduced subcompound. In written form: `A'~BC` = A modifies [approximately BC]; distinct from `~A'BC` = approximately [A-BC as a whole]. `~` cannot interrupt a solid compound (no `'` boundary present). See spec/phonology.md § Approximation Mark for the full scope semantics and example pair.
 
 **Phonological status:** prosodic juncture — a slight phrasal pause at the marked boundary. Not a segmental phoneme; not in the consonant inventory. See spec/phonology.md § Prosodic Juncture Marker.
 
@@ -158,7 +158,7 @@ This gives Tonesu three layers with distinct functions:
 
 Because hyphens carry no grammatical meaning, written forms strip cleanly: `to'semaka` and `to'se-ma-ka` are the same word. Within a compound, the apostrophe is the only mark that matters.
 
-**At sentence and discourse level,** four additional marks operate outside compound boundaries: `,` (clause separator), `!` (exclamation), `?` (question), `~` (approximation). These are not compound-internal and do not affect compound parsing. See spec/phonology.md § Punctuation and Notation Marks.
+**At sentence and discourse level,** four additional marks operate at or between word boundaries: `,` (clause separator), `!` (exclamation), `?` (question), `~` (approximation). `,`, `!`, and `?` are strictly external to compounds. `~` is external to compounds but may attach immediately after `'` — the only written character that creates an internal left edge — giving `A'~BC` (approximately the subcompound). See spec/phonology.md § Punctuation and Notation Marks and § Approximation Mark.
 
 ---
 
