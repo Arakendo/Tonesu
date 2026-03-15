@@ -284,6 +284,8 @@ lu-mu :: lu + mu                  →  canonical decomposition of lu-mu
 [X]-no-fe :: X + no + fe          →  structural description of the extremal suffix pattern
 ```
 
+**Spoken form: `helm helm`** (said twice). The doubling of the spoken form mirrors the visual doubling of the written mark. No separate lexical entry is assigned; `::` is `helm` repeated. This convention makes the single/double distinction audible in dictation or spoken register without requiring a new CVCC form.
+
 #### `:` — Explanatory Definition (metalanguage) and Topic Frame (sentences)
 
 `:` has two roles, distinguished by context.
@@ -314,7 +316,7 @@ lo-ne-ra : la-mi  no-se  lo-ze        →  As for the resonance — I have no pe
 2. One topic frame per clause — nested topic frames are not permitted.
 3. The topic NP retains its role-marker (`la-`, `lo-`, `ne-`, etc.) where it carries one.
 
-**Spoken form:** a slight prosodic pause at the `:` boundary; the topic NP may carry slightly higher prominence than the comment clause.
+**Spoken form:** a slight prosodic pause at the `:` boundary; the topic NP may carry slightly higher prominence than the comment clause. **Lexical spoken form: `helm`** — registered as G011 in `registry/roots.md`. In speech, `:` is realized as `helm`. The written form `:` is canonical in formal and technical Tonesu; `helm` appears in speech, phonetic transcription, and wherever the written symbol is not available.
 
 **Cross-reference:** grammar rules for the topic frame in sentence context: see spec/grammar.md § Topic Frame.
 

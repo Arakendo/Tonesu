@@ -66,6 +66,7 @@ For contracted everyday forms, see lexicon/colloquial.md.
 | G008 | `na` | proper name marker | precedes identifiers |
 | G009 | `da` | domain marker | precedes domain label |
 | G010 | `ven` | approximation marker (spoken) | spoken realization of `~`; canonical written form is `~`; `ven` is used in speech and phonetic transcription only; pre-positional hedge: "approximately / roughly / something like" |
+| G011 | `helm` | topic/definition marker (spoken) | spoken realization of `:` (topic frame / explanatory definition mark); canonical written form is `:`; `helm` is used in speech and phonetic transcription only. `::` is spoken as `helm helm` (doubled); no separate entry assigned to `::`. |
 
 *Note: `la` (perspective anchor particle) is phonetically distinct from `li` (person/agent root) — resolved. `ro` (instrument particle) has no root assignment — resolved by rename from `ra`. Remaining particles that overlap with roots (`pa`, `ka`, `ne`) are lower priority and still under review.*
 
