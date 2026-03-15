@@ -127,6 +127,8 @@ The elements from `'` to the end of the compound (or the next `'` if present) fo
 
 **Role-marker interaction:** role-prefix particles (`la-`, `lo-`, etc.) attach to the outer NP boundary and do not participate in the `'` grouping mechanism. The role-marker is outside-NP; `'` is NP-internal. The two levels are orthogonal: `la-ker'zo-se-so` = agent:[red-[kind-term]], with no conflict.
 
+**`~` interaction:** the approximation mark `~` may appear immediately after `'`, scoping over only the introduced subcompound: `A'~B-C` = A modifies [approximately B-C]. This is distinct from `~A'B-C` = approximately [A's-B-C]. Mid-hyphen `~` (`A-~-B`) remains forbidden. See spec/phonology.md § Approximation Mark for the full scope semantics and example pair.
+
 **Phonological status:** prosodic juncture — a slight phrasal pause at the marked boundary. Not a segmental phoneme; not in the consonant inventory. See spec/phonology.md § Prosodic Juncture Marker.
 
 **Corpus basis:** S045 (T-APO-001) — one apostrophe earns its weight; S046 (T-APO-002) — two apostrophes in one compound (legal; heavier; phrase restructuring preferred in ordinary speech). S204–S207 (KNM-002) — `'` as active re-scoping marker over kind-term compounds; symmetry in agent and patient positions confirmed; maximum NP depth with three coexisting structural devices confirmed.

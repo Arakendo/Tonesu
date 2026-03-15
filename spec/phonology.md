@@ -170,7 +170,16 @@ la-tu  lo-mu  ka-be?                →  Did you grow it? (casual: ? replaces fr
 
 ### `~` — Approximation Mark
 
-Pre-positional hedge meaning **"approximately / roughly / on the order of / something like."** Attaches before a numeral, NP, compound, or time reference. Not compound-internal — always at the left edge of the unit it qualifies. In a full measurement expression, `~` pre-poses the entire `[digit] [scale] nu [domain]` block.
+Pre-positional hedge meaning **"approximately / roughly / on the order of / something like."** Attaches before a numeral, NP, compound, or time reference. Always at the **left edge of the unit it qualifies** — including the left edge of an apostrophe-introduced subcompound. Mid-hyphen placement (`A-~-B`) is not permitted. In a full measurement expression, `~` pre-poses the entire `[digit] [scale] nu [domain]` block.
+
+**`'` interaction:** because `'` marks the left boundary of a subcompound, `~` may appear immediately after `'`. `~` then hedges only the subcompound, not the full compound:
+
+```
+~A'B-C      →  approximately [A modifying B-C]; the whole compound is hedged
+A'~B-C      →  A modifies [approximately B-C]; only the subcompound is hedged
+```
+
+These are distinct propositions. `~wi-pu'zo-se-so-li` = approximately [wolf-kind] (uncertain about the whole categorization: "something wolf-like"). `wi-pu'~zo-se-so-li` = [wolf-discriminator] over [approximately the canid-pack class] (certain about the outer frame; hedging the base kind-term — used for ancestral, mythological, or proto-taxon references). The same distinction is available at any `'` boundary.
 
 **Spoken form: `ven`** — registered as G010 in `registry/roots.md`. In speech, `~` is realized as `ven`. The written form `~` is canonical in formal and technical Tonesu. `ven` may appear in written text where a phonetic or poetic rendering is intended (verse, informal writing, transcribed speech); in all such cases it is understood as a graphical variant of `~`, not a distinct word.
 
