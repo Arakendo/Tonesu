@@ -960,11 +960,169 @@ Natural:  I crossed the river.
 
 ---
 
-## Insects and Invertebrates (S???+) *(KNM-008 — pending)*
+## Insects, Arachnids, and Invertebrates (S321–S327) *(KNM-008)*
 
-*Scope: the deepest ontological question in the natural-world batches. Do insects get `zo-se-so-[x]`? Most insects produce sound incidentally; some (crickets, cicadas) are strongly acoustic. Social insects (bees, ants) have collective-will behavior resembling `wi-pu` (wolf). Solitary insects are `zo` with no obvious `se-so` layer. May need `zo-pe-[x]` (part-organism = segmented) as the base, or simply `zo-[x]` with the middle layer dropped.*
+*Batch purpose (KNM-008): resolve the architectural question for arthropods across the full diversity of the group — ants, spiders, crickets, bees, flies. The scaffold proposed `zo-pe-[x]` or `zo-[x]`; the outcome is `zo-pe` (component organism) as the arthropod base, branching off `zo` at the second root like `zo-su` (plants), NOT through the `zo-se-[x]` perceptual tier. Key developments: `zi` first attested as sentence predicate; `ko-ne` (colony/hive) introduced; CVC namespace saturation: `zop` is occupied by whale, no CVC stub for this class.*
 
-*Pending. Scheduled last — most complex; benefits from all prior organism batches being stable.*
+*Pre-processing decisions:*
+- *The `zo-se-[x]` tier organizes organisms by primary perceptual mode. Arthropods do not have a single primary perceptual mode — ants use pheromones, crickets use sound, bees use vision. The perceptual tier would scatter insects across the whole `zo-se-[x]` map. This is correct for acoustic insects (crickets: `so'zo-pe`), but does not define the CLASS.*
+- *The arthropod class is defined by its body plan: segmented, articulated, modular structure. `zo-pe` = `zo` (living) + `pe` (part/component) = component organism. The organism defined by being a biological assembly of modular jointed parts. This is a structural definition, parallel to `zo-su` (plants, structurally-defined). Two structural branches off `zo`: `zo-su` (internal order = plant) and `zo-pe` (modular parts = arthropod/invertebrate).*
+- *Discriminators go directly onto `zo-pe` (flat pattern, like plants on `zo-su`). No `zo-pe-[x]` intermediate tier needed. The discriminators name the organism's primary behavioral or ecological function: `ne` (colonial), `su` (web-building), `so` (acoustic), `zi` (pollinating/coupling), `de` (decomposing).*
+- *Spiders are NOT insects (they are Arachnida, not Insecta). In Tonesu, this does not matter: `zo-pe` covers all arthropods and modular segmented invertebrates. Spider = `su'zo-pe` (structure-arthropod = web-builder). The Linnaean class boundary is not relevant to Tonesu compound semantics.*
+- *CVC namespace note: `zo-pe` compressed would produce `zop`. `zop` is registered for whale (CLQ-005b, `zo-se-so-pa`). Arthropod base has no CVC stub; first CVC collision in the `zo-` prefix space.*
+
+---
+
+**S321 — Arthropod base kind-term: "The arthropod molted."** *(KNM-008-A)*
+
+*Target: establish `zo-pe` via the arthropod's defining biological act — ecdysis (molting).*
+
+```
+Gloss:    la-zo-pe  be  lo-pe
+Literal:  agent:component-organism  produced  patient:part
+Natural:  The arthropod molted. / The insect shed its shell.
+```
+
+**Notes:**
+- `zo-pe` = `zo` (living thing) + `pe` (part/component) = component organism = **arthropod / modular invertebrate**. The organism defined by its articulated, segmented body plan. Where `zo-su` (plant) is the organism whose body IS its internal structural organization, `zo-pe` is the organism whose body IS its modular segmented parts. Both are structural branches off `zo`; the distinguishing root (`su` vs `pe`) names the kind of structural organization. Written: `zope`.
+- `be lo-pe` = produced parts = grew new parts = **molted** (ecdysis). The arthropod grows by generating a new exoskeleton (`pe` = a new set of body-parts) and shedding the old one. The establishing sentence is a molting sentence because molting is the uniquely arthropod growth act — it is what `be` (produce/grow) means in the `zo-pe` domain. Compare `be lo-zo-be` (laid an egg/bore fruit): in both cases the agent produces a biological object from itself.
+- **`zo-pe` architectural placement:** branches off `zo` at the second root. NOT through the `zo-se-[x]` perception tier. The `zo-se-[x]` axis organizes organisms by their primary perceptual mode; arthropods do not have a single perceptual signature across the class. The body-plan axis (`zo-su` plants, `zo-pe` arthropods) is orthogonal to the perceptual axis.
+- **CVC namespace note:** `zo-pe` → CVC compression = `zop`. `zop` is already CLQ-005b (whale: `zo-se-so-pa`). The arthropod base class cannot hold a CVC stub without collision. First CVC collision in the `zo-` prefix space. Casual form remains disyllabic `zo-pe`. See S327.
+
+---
+
+**S322 — Ant kind-term: "The ant brought food to the colony."** *(KNM-008-B)*
+
+*Target: `ne'zo-pe` = colonial/relational arthropod = ant. Introduces `ko-ne` (colony/hive).*
+
+```
+Gloss:    la-ne'zo-pe  ki  lo-ko-ne  na-zo-be
+Literal:  agent:relational-arthropod  moved  patient:enclosed-relation  associated-with:biological-product
+Natural:  The ant brought food to the colony. / The worker carried food home.
+```
+
+**Notes:**
+- `ne'zo-pe` = `ne` (relation) + `'` + `zo-pe` (arthropod) = relational arthropod = **ant / colonial insect**. The arthropod defined by the fact that all its biology is organized around maintaining and serving a relational network. An individual ant has no meaning outside the colony relation; the colony-as-relation IS the organism's defining context. Written: `ne'zope`.
+- `ko-ne` = `ko` (enclosure) + `ne` (relation) = enclosed relation = **colony / hive / nest / any bounded social structure**. First corpus use. A colony is not merely a collection (`pu`) — it is an *enclosed* relational network: the colony boundary determines membership, allocates roles, and organizes behavior. `ko-ne` applies to ant colonies, bee hives, termite mounds, and any organism group with a closed social boundary. Written: `kone`.
+- `ki lo-ko-ne` = moved toward the enclosed-relation = moved to the colony. `na-zo-be` = associated-with biological-product = carrying food. **`na` as cargo/accompaniment: fourth documented role.** Prior roles: name identifer (`na Max`, S269), location (`na-di'ma-ki`, S312), movement-partner (`ki na-[horse]`, S318), now cargo/accompaniment.
+- **`ne'zo-pe` vs `zo-se-ne` (herd animals):** both use `ne` (relation). Herd animals are `zo-se-ne` — they are *vertebrates* (on the `zo-se` tier) whose primary perceptual mode is social-network awareness; the herd is a loose perceptual array. Ants are `ne'zo-pe` — *arthropods* with relation as their discriminator; the colony is a tightly enclosed social architecture (`ko-ne`). Different branches, same relation root, different structural consequence.
+
+---
+
+**S323 — Spider kind-term: "The spider built a web."** *(KNM-008-C)*
+
+*Target: `su'zo-pe` = structure-composing arthropod = spider. Note: spiders are arachnids, not insects — Tonesu treats all arthropods in `zo-pe`.*
+
+```
+Gloss:    la-su'zo-pe  be  lo-su
+Literal:  agent:structure-arthropod  produced  patient:structure
+Natural:  The spider built a web.
+```
+
+**Notes:**
+- `su'zo-pe` = `su` (structure) + `'` + `zo-pe` (arthropod) = structure-composing arthropod = **spider**. The arthropod defined by producing an external structural artifact as its primary behavioral act. The spider's web is both toolmaking and predation: it builds a geometrically precise trap before it can hunt. No other arthropod species-group is so completely defined by its built structure. Written: `su'zope`.
+- **Spider is an arachnid (8 legs, Arachnida), not an insect (6 legs, Insecta).** Tonesu makes no such distinction at the `zo-pe` tier: `zo-pe` covers all arthropods and modular segmented invertebrates. The Linnaean class boundary is not a semantic primitive in this language. Spider is `su'zo-pe` (structure-arthropod) by behavioral discrimination, not by taxonomic family.
+- `be lo-su` = produced structure = **built a web**. Third compound-predicate tautology of the batch: the structure-arthropod (`su'zo-pe`) produces structure (`be lo-su`). Join S325 (`zi'zo-pe  zi`) and S324 (`so'zo-pe  so`) below.
+- **`su` as structural discriminator recurrence:** `su` marks organized structure in `ma-su` (rock = organized mineral matter), `su'ma-ki` (ice = organized water), `su'ma-pa` (clay = organized soil), `zo-su` (plant = structural organism), and now `su'zo-pe` (spider = structure-producing arthropod). The root `su` consistently names the "organized form" property regardless of what it modifies.
+- **Predation without `wi-[x]`:** wolf, eagle, and shark all use `wi-[x]` (intentional pursuit) as their predatory discriminator. The spider does not pursue — it builds and waits. The predation is encoded in the behavior (`be lo-su` = builds the trap) rather than in an intent-modifying discriminator. Two valid predatory architectures: `wi-[mode]'[class]` (active pursuit) and `su'[class]` (structural trap-building).
+
+---
+
+**S324 — Cricket kind-term: "The cricket chirped."** *(KNM-008-D)*
+
+*Target: `so'zo-pe` = sound-arthropod = cricket/cicada. Second compound-predicate tautology of the batch.*
+
+```
+Gloss:    la-so'zo-pe  so
+Literal:  agent:sound-arthropod  sounded
+Natural:  The cricket chirped. / The cicada called.
+```
+
+**Notes:**
+- `so'zo-pe` = `so` (sound) + `'` + `zo-pe` (arthropod) = sound-arthropod = **acoustic insect**: cricket, cicada, katydid. The arthropod whose primary behavioral signature is sound production — acoustic output as the defining act. Written: `so'zope`.
+- `so` intransitive = produced sound = chirped/called. Reused from S311 (whale: `zo-se-so-pa  so`). `so` as a predicate is now confirmed across the widest possible scale range: the largest acoustic organism (blue whale, ocean-spanning sound) and one of the smallest acoustic arthropods (field cricket, sub-meter territory calls). The predicate is scale-agnostic.
+- **Compound-predicate tautology:** `la-so'zo-pe  so` = the sound-arthropod sounded. Same structural pattern as: `la-re'zo-se-ne  re  lo-pa` (deer returned, S317); `la-zo-se-so-pa  so  lo-pa'ma-ki` (whale sang, S311). The `so` root appears in both the kind-term discriminator and the predicate.
+- **Acoustic insect vs acoustic vertebrate:** acoustic insects are `so'zo-pe` (sound-discriminated arthropods), not `zo-se-so-[x]` (acoustic organisms on the vertebrate perception tier). The discriminator approach (`so` on `zo-pe`) is flat; the acoustic-organism tier (`zo-se-so`) is deep. Both encode sound-primacy correctly but at different structural depths: insects don't have a perceptual apparatus that mediates their sound — they ARE sound-producing arthropods by morphology.
+
+---
+
+**S325 — Bee kind-term: "The bee coupled with the flower."** *(KNM-008-E)*
+
+*Target: `zi'zo-pe` = mutual-coupling arthropod = bee. First corpus use of `zi` as a sentence-level predicate.*
+
+```
+Gloss:    la-zi'zo-pe  zi  lo-lu-be'zos
+Literal:  agent:mutual-arthropod  coupled  patient:flower-plant(casual)
+Natural:  The bee pollinated the flower. / The bee coupled with the flower.
+```
+
+**Notes:**
+- `zi'zo-pe` = `zi` (mutual/coupling) + `'` + `zo-pe` (arthropod) = mutual-coupling arthropod = **bee / pollinator**. The arthropod defined by mutual coupling events with plants. The bee-flower interaction is the canonical natural `zi` event: both parties transform simultaneously — the bee receives nectar (energy substrate from the plant), the flower receives pollen transfer (reproductive dispersal by the bee). Neither transformation precedes the other; both are caused by the coupling itself. Written: `zi'zope`.
+- `zi lo-lu-be'zos` = mutually coupled with the flower-plant = pollinated. **First corpus use of `zi` as a sentence-level predicate.** `zi` (mutual/coupling event) takes a patient: the coupling partner. `zi lo-[partner]` = entered mutual coupling with → pollinated / mated with / underwent symbiosis with.
+- **`zi` predicate semantic scope:** the bee-flower coupling is a paradigm case but `zi lo-[zo]` generalizes to: any two organisms that enter a coupled state where both are transformed — mating, symbiosis, mutualism, coevolved interaction. The bee example is chosen because it is unambiguously `zi` (not `ka` = one-sided predation, not `ne` = static bond, not `go-du` = cause-effect chain — the flower doesn't "cause" the bee to get nectar in a unidirectional chain; both transformations are simultaneous and mutual).
+- **`zi'zo-pe` connects KNM-008 to PLT-001:** the coupling partner is a `lu-be'zos` (flower-plant, established S288, S292). The bee cannot be defined without the flower; the flower's `lu-be` discriminator (visible-bloom growth = conspicuous signal to attract pollinators) is precisely the plant-side architecture of this `zi` coupling. Bee and flower are mutual definitions in the corpus.
+- **Compound-predicate pattern:** `la-zi'zo-pe  zi  lo-...` = the coupling arthropod coupled. Fourth such pair in this batch.
+
+---
+
+**S326 — Fly kind-term: "The fly fed on the carcass."** *(KNM-008-F)*
+
+*Target: `de'zo-pe` = decay-arthropod = fly/decomposer. Closes the ecological decomposition cycle.*
+
+```
+Gloss:    la-de'zo-pe  de  lo-ma
+Literal:  agent:decay-arthropod  consumed  patient:matter
+Natural:  The fly fed on the carcass. / The maggot decomposed the matter.
+```
+
+**Notes:**
+- `de'zo-pe` = `de` (decay/decrease) + `'` + `zo-pe` (arthropod) = decay-arthropod = **fly / decomposer insect**: blowfly, carrion fly, maggot, dung beetle, burying beetle. The arthropod defined by its ecological role in decomposition — the organism that consumes and accelerates the breakdown of dead organic matter. Written: `de'zope`.
+- `de lo-ma` = caused matter to decrease = decomposed material = fed on the carcass. `lo-ma` (bare matter) as the patient: dead organic matter at the level of raw material, no longer `zo` (living) but returned to `ma` (matter). **Third predicate use of `de`.** S314 (`de lo-zo-su` = consumed plant), S319 (same, cattle), S326 (`de lo-ma` = consumed dead matter). Patient encodes the state: living plant (`zo-su`) vs. dead matter (`ma`). Grazing and decomposition are the same predicate; the patient distinguishes the ecological context.
+- **Compound-predicate tautology (fifth of the batch):** `la-de'zo-pe  de  lo-ma` = the decay-arthropod caused decay. Subject, predicate, patient all three encode decay/consumption.
+- **Ecological cycle closed.** The full material cycle is now expressible with established vocabulary: rain falls on soil → soil holds seeds → tree grows → tree bears fruit → herd animal eats plant → herd animal dies → matter returns to soil... and the fly feeds on the matter (`de lo-ma`), accelerating its return. The complete carbon cycle from rain to decay has no step requiring vocabulary outside current primitives and compounds.
+
+---
+
+**S327 — CVC collision and casual form: "I saw a bug."** *(KNM-008-G)*
+
+*Target: first human-context use of `zo-pe`. Documents the CVC namespace collision and confirms the disyllabic casual form.*
+
+```
+Gloss:    la-mi  se  lo-zo-pe
+Literal:  agent:me  perceived  patient:component-organism
+Natural:  I saw a bug. (casual register; no CVC stub available)
+```
+
+**Notes:**
+- **No CLQ entry for this attestation.** `zo-pe` → CVC compression = `zop`. `zop` is registered as CLQ-005b (whale: `zo-se-so-pa`). The arthropod class cannot produce a CVC stub without CVC-space collision with the whale class. The disyllabic form `zo-pe` is itself the casual form.
+- **First CVC namespace collision in the `zo-` prefix space.** Occupied coda consonants in the `zo-` stub set: `l` (zol), `f` (zof), `d` (zod), `s` (zos), `m` (zom), `p` (zop), `n` (zon). All seven stubs use a different final consonant; `pe` → `p` is occupied. No remaining single-consonant coda that is both phonologically legal and compositionally transparent is unoccupied for a common arthropod-class stub.
+- **The cassual form `zo-pe` is two syllables.** The stub system admits this. The CVC ceiling in the contraction rule is a *maximum*, not a requirement. `zo-pe` spoken at normal pace is approximately as short as `zop` plus a schwa — the difference is minor. Context reliably disambiguates `zo-pe` (arthropod) from any `zo-[full-compound]` because `pe` is not a common initial element in discriminator chains.
+- **Discriminated casual forms remain unaffected.** `ne'zo-pe` (ant), `su'zo-pe` (spider), `so'zo-pe` (cricket), `zi'zo-pe` (bee), `de'zo-pe` (fly) — all five have unique discriminator prefixes and cannot collide with any existing stub. The collision is only at the zero-discriminator base-class level.
+
+---
+
+**Verdict KNM-008: Arthropod/invertebrate class established. Eight findings:**
+
+1. **`zo-pe` is the arthropod/invertebrate base kind-term.** Branches off `zo` at the second root alongside `zo-su` (plants): both are structural definitions. Arthropods are organisms defined by segmented, modular body architecture. Not on the `zo-se-[x]` perceptual tier.
+
+2. **Five discriminators established:** `ne'zo-pe` (ant: colonial/relational), `su'zo-pe` (spider: structure-building), `so'zo-pe` (cricket: acoustic), `zi'zo-pe` (bee: mutual-coupling/pollinator), `de'zo-pe` (fly: decomposer). Each names the organism's primary behavioral or ecological role.
+
+3. **`zi` first attested as a sentence-level predicate (S325).** `zi lo-[partner]` = mutually coupled with = pollinated / mated / underwent symbiosis. The bee-flower instance is the canonical natural `zi` event; both parties transform simultaneously.
+
+4. **`ko-ne` = colony/hive introduced (S322).** `ko` (enclosure) + `ne` (relation) = bounded social structure. Applicable to any colonial organism with a closed membership boundary: ant colony, bee hive, termite mound.
+
+5. **`de lo-ma` = decomposition (S326).** Distinguishes ecological decay (`de lo-ma` = consuming dead matter) from grazing (`de lo-zo-su` = consuming living plant) by patient. The ecological cycle is now complete.
+
+6. **Five consecutive compound-predicate tautologies.** Every arthropod species sentence except the ant has the same root in its kind-term discriminator and its predicate: spider builds structure (`su'zo-pe  be  lo-su`), cricket sounds (`so'zo-pe  so`), bee couples (`zi'zo-pe  zi`), fly decays (`de'zo-pe  de`). This is a strong signal that discriminators are selecting the right defining properties.
+
+7. **CVC namespace saturation (S327): no stub for arthropod base.** `zop` is occupied by whale. The arthropod class uses the disyllabic form `zo-pe` in casual speech. First base class in the natural world expansion without a CVC stub.
+
+8. **`na` particle confirmed in four roles.** Name (S269), location (S312), movement-partner (S318), cargo/accompaniment (S322). Particle is a general association marker; formal grammar treatment deferred.
+
+**Follow-on actions:**
+- Add CVC collision note to `registry/colloquial.md` (no new CLQ entry; document namespace pressure). ✓
+- Register `zi lo-[partner]`, `ko-ne`, `zo-pe`, discriminated forms in `registry/derived.md`.
+- FNG-001 (fungi) is the final batch.
 
 ---
 

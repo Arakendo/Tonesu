@@ -330,3 +330,17 @@ Related:      zo-se-ne (formal source), zom (fish: same one-root compression dep
 | CLQ-005a | `zom` | `zo-se-ma`    | S313 (KNM-006) | March 2026 |
 | CLQ-005b | `zop` | `zo-se-so-pa` | S311 (KNM-006) | March 2026 |
 | CLQ-006a | `zon` | `zo-se-ne`    | S320 (KNM-007) | March 2026 |
+
+---
+
+## KNM-008 namespace note — no CLQ entry for `zo-pe` (arthropod base)
+
+*Documented: S327 (KNM-008-G, March 2026).*
+
+`zo-pe` (arthropod/invertebrate base kind-term) cannot produce a CVC stub without collision. `zo-pe` → `zop` is already registered as CLQ-005b (whale: `zo-se-so-pa`). This is the first CVC namespace collision in the `zo-` prefix space.
+
+**Occupied `zo-` coda consonants as of KNM-008:** `l` (zol), `f` (zof), `d` (zod), `s` (zos), `m` (zom), `p` (zop), `n` (zon). Seven stubs; `p`-coda is whale's slot.
+
+**Resolution:** the arthropod base class uses the disyllabic casual form `zo-pe`. No CLQ entry registered. Discriminated species-level forms (`ne'zo-pe`, `su'zo-pe`, `so'zo-pe`, `zi'zo-pe`, `de'zo-pe`) are unaffected — they carry their discriminator prefixes and do not produce colliding stubs.
+
+**Design note:** the CVC ceiling in the contraction rule is a maximum, not a requirement. Disyllabic casual forms are accepted. This is not a failure of the stub system — it is the namespace documentation working as intended. Future classes with `zo-`-anchored bases whose terminal root begins with `p` will face the same constraint.
