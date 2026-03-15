@@ -2007,3 +2007,191 @@ Natural:  I have Max the dog. (casual register)
 - Register `zol` and `zof` in `registry/colloquial.md` (first entries — file creation required). Trace both to formal sources.
 - Update `notes/open-questions.md` TAX-001: close Option 2 as resolved; corpus basis S269.
 - Register `li-ne'zo-se-so-li` (dog), `wi-pu'zo-se-so-li` (wolf), `ko-pa'zo-se-so-fe` (fox) as kind-term candidates alongside KNM-003 candidates.
+
+---
+
+## Legal Theory Epistemic Standards Test — LGL-001 (S270–S278)
+
+*Batch purpose (LGL-001): Legal vocabulary in formal systems relies on finely graded epistemic standards — "probable cause" (sufficient belief to justify investigation), "beyond reasonable doubt" (sufficient certainty to convict), "presumption of innocence" (default epistemic state before judgment). These are not cultural conventions grafted onto law; they are threshold claims in the epistemic gradient that Tonesu expresses natively via `se` / `~to` / `to`. The motivating pressure: does `~to` (G010, approximately-knowing) map cleanly onto probable cause? Can `to-fe-li` adjudication, `to-fe-ka` fraud, and the `si → ~to → to` hierarchy handle legal proceedings without new primitives?*
+
+*Pre-processing decisions:*
+- *"Witness" = `li-se` (person + perception): one whose contribution to proceedings is perceptual testimony. Not formally registered; compositionally transparent. Distinct from `to-li` (W003, knower/expert): a witness brings `se`-class perception, not `to`-class established knowledge.*
+- *"Evidence" = `si-go` (signal + cause): encoded representation pointing toward a causal origin. Distinguished from `se-go` (unencoded perception of cause): a witness's live testimony is `se`-class; physical or documentary evidence, once formalized, is `si-go`.*
+- *"Perpetrator / cause-person" = `go-li` (cause + person): the person identified as the causal origin of the harm. The term already presupposes causal origin — using it makes a claim.*
+- *"Criminal act" = `go-ka` (cause + intentional-action): the intentional act that originated the harm. `go-ka` is what a `li-se` (witness) typically testifies about.*
+- *"Probable cause" = `~to-go` (approximately-knowing-the-cause): the `~to` threshold. Justified investigative action without full establishment of knowledge. Distinct from `to-go` (fully established causal knowledge = the "beyond reasonable doubt" standard).*
+
+---
+
+### Testimony and Evidence (S270–S271)
+
+**S270 — Witness testimony: "The witness perceived the causing act."** *(LGL-001-A)*
+
+```
+Gloss:    la-li-se  se  lo-go-ka
+Literal:  agent:witness  perceived  patient:cause-action
+Natural:  The witness perceived the causing act. / The witness saw what was done.
+```
+
+`li-se` = person + perception = observer / witness: the person whose contribution to proceedings is perceptual testimony. `go-ka` = cause + intentional action = the originating deliberate act; the act whose causal origin the proceedings are investigating. `se lo-go-ka` = perceived the causing-act. Not distorted.
+
+*What this establishes:* a witness contributes `se`-class claims — perception, not `to`-class knowledge. The `to-fe-li`'s role is to take `se`-class testimony and `si-go` evidence and determine whether they aggregate to `to`. A `li-se` cannot assert `to`; they can only report `se`.
+
+---
+
+**S271 — Evidence: "The encoded signal connected to the cause-person."** *(LGL-001-B)*
+
+```
+Gloss:    la-si-go  ne  lo-go-li
+Literal:  agent:evidence  connected  patient:cause-person
+Natural:  The evidence connected [to] the cause-person. / The evidence implicated the perpetrator.
+```
+
+`si-go` = signal + cause = evidence: an encoded representation (signal) that points toward a causal origin. `ne lo-go-li` = related/connected to the cause-person. `ne` as predicate: the evidence establishes a *link* — not full knowledge (`to`), not even approximate knowledge (`~to`), but a signal relation. Not distorted.
+
+*`si-go` vs. `se-go`:* Raw eyewitness perception is `se-go` (unencoded: the sensory impression in the witness's body). Once recorded, submitted, or formalized as documentary material, it becomes `si-go` (encoded: detached from the witness and processable). The legal distinction between oral testimony and physical/documentary evidence maps directly onto this pair.
+
+---
+
+### Standards of Proof (S272–S274)
+
+**S272 — Probable cause: "The arbiter searched on the basis of approximately knowing the cause."** *(LGL-001-C)*
+
+```
+Gloss:    la-to-fe-li  ka-se-ka  ro-~to-go
+Literal:  agent:arbiter  action:searched  reason:approximately-knowing-the-cause
+Natural:  The arbiter searched on the basis of approximately knowing the cause.
+          (acted on probable cause)
+```
+
+`ka-se-ka` = intentional-action + directed examination = performed a directed search (W034 pattern). `ro` = instrument/reason particle: marks the epistemic justification for the act. `~to-go` = approximately-knowing-the-cause = probable cause: `~` applied to the compound `to-go` (knowledge-of-cause). The `ro` slot forces the speaker to name the epistemic level of the justification. Not distorted.
+
+*First corpus use of `~` applied to a two-root compound.* Previous uses were on single roots (`~varn`) or a compressed proper-noun (`~tonesu`). `~to-go` applies the approximation to `to-go` as a unit — "approximately [knowledge-of-cause]" — confirming that `~` operates on compound units, not only on single roots.
+
+---
+
+**S273 — Beyond reasonable doubt: "The arbiter judged on the basis of full knowledge of the cause-person."** *(LGL-001-D)*
+
+```
+Gloss:    la-to-fe-li  to-fe  ro-to  lo-go-li
+Literal:  agent:arbiter  judged  by-means-of:full-knowledge  patient:cause-person
+Natural:  The arbiter delivered judgment on the basis of [full] knowledge of the cause-person.
+          (convicted on proof beyond reasonable doubt)
+```
+
+`to-fe` as predicate = performed the epistemic-boundary determination = delivered the verdict. `ro-to lo-go-li` = by means of / justified by full (unhedged) knowledge of the cause-person. Not distorted.
+
+*Direct pair with S272:* both sentences use the `ro` (reason/instrument) slot to name the epistemic level that authorized the act:
+- S272: `ka-se-ka  ro-~to-go` — searched because of approximately-knowing = probable cause
+- S273: `to-fe  ro-to  lo-go-li` — judged because of fully-knowing = beyond reasonable doubt
+
+The particle slot does all the work. The same structural position encodes both standards; only the `~` changes.
+
+---
+
+**S274 — Threshold distinction: "Approximately knowing the cause does not produce a verdict."** *(LGL-001-E)*
+
+```
+Gloss:    la-~to-go  no-go  lo-to-fe
+Literal:  agent:approximately-knowing-the-cause  not-cause  patient:verdict
+Natural:  Approximately knowing the cause does not produce a verdict.
+          (probable cause is insufficient for judgment)
+```
+
+`la-~to-go` = agent: the approximate-causal-knowledge state (nominalized as agent of the causal claim). `no-go` = negation + cause = does not originate / is insufficient to produce. First use of `no-go` as a predicate (parallel to `nu-no` =  less-than and `nu-be` = more-than: operator + root as compound predicate). `lo-to-fe` = patient: the verdict / epistemic boundary determination. Not distorted.
+
+*This sentence and S273 together encode the full probable-cause / beyond-reasonable-doubt distinction.* The `~` is the only structural difference between a legally sufficient and a legally insufficient epistemic ground. The language does not require separate vocabulary for the two standards — the approximation operator carries the distinction.
+
+---
+
+### Fraud and Presumption (S275–S276)
+
+**S275 — Perjury: "The witness committed epistemic fraud on their perception."** *(LGL-001-F)*
+
+```
+Gloss:    la-li-se  ka-to-fe-ka  lo-se
+Literal:  agent:witness  committed-epistemic-fraud  patient:perception
+Natural:  The witness committed epistemic fraud on their perception.
+          (the witness inflated testimony: presented perception as knowledge. Perjury.)
+```
+
+`ka-to-fe-ka` = performed deliberate epistemic boundary violation (W029). `lo-se` = patient: the perception — the content being inflated. The witness had `se`-level belief and presented it as `to`-level knowledge. The direction of inflation is encoded in `to-fe-ka` itself (W029 handles both inflation and deflation); the patient marks which epistemic content was misrepresented. Not distorted.
+
+*W029 covers perjury without extension.* The compound was motivated by epistemic fraud in academic/discourse contexts; here it applies to testimony under adjudication. The courtroom and the laboratory are the same ontological space in Tonesu: presenting lower-tier epistemic content as higher-tier, deliberately, is `to-fe-ka` whether the venue is a journal or a court.
+
+---
+
+**S276 — Presumption of innocence: "A person is not established as the cause before judgment."** *(LGL-001-G)*
+
+```
+Gloss:    la-li  no-to-ne-go  ta-[ti  no-to-fe]
+Literal:  agent:person  not-established-causal-connection  at:[time  no-judgment]
+Natural:  A person is not established as the cause before judgment.
+          (a person is presumed not guilty until judgment is delivered)
+```
+
+`to-ne-go` = knowledge + relation + cause = established causal connection = proven culpability. `no-to-ne-go` = negation of that = not-yet-established-as-causally-connected. `ta-[ti no-to-fe]` = temporal frame: [at the time of no-judgment] = in the pre-verdict state. Brackets mark the temporal NP as a compound. Not distorted.
+
+*Structural observation:* Presumption of innocence is modeled as the *default epistemic state*, not a conferred right. `no-to-ne-go` is what you have until someone removes it by establishing `to-ne-go` (proven causal connection). The language does not require a separate "grant of innocence" — it negates a claim. This is precisely the correct legal structure: innocence is not given, guilt must be established.
+
+---
+
+### Verdict and Doctrine (S277–S278)
+
+**S277 — Verdict as epistemic act: arbiter determines cause-person's status** *(LGL-001-H)*
+
+```
+Gloss:    la-to-fe-li  to-fe  lo-to-ne-go  ne  go-li
+Literal:  agent:arbiter  judged  patient:established-causal-connection  [as] pertaining-to cause-person
+Natural:  The arbiter determined the established causal connection concerning the cause-person.
+          (delivered the verdict: found the perpetrator guilty)
+```
+
+`to-fe` as predicate: the epistemic determination act. `lo-to-ne-go` = patient: the state of established-causal-connection — what the arbiter is determining the existence or non-existence of. `ne go-li` = in relation to the cause-person. The arbiter's verdict is the formal determination that `to-ne-go` either holds or does not hold with respect to the accused. Not distorted.
+
+*The verdict in Tonesu is not a declaration of punishment — it is an epistemic act.* The `to-fe-li` determines the epistemic status of a connection claim. What follows from that determination (consequence, sanction) is a separate act (`ka-du`, consequential action). Law's enforcement arm and its epistemic arm are structurally distinct in Tonesu.
+
+---
+
+**S278 — Legal doctrine as ~tonesu: "The legal framework is organized approximately-truth."** *(LGL-001-I)*
+
+```
+Gloss:    la-to-fe-su  su  lo-~tonesu
+Literal:  agent:epistemic-standards-framework  is-structured  patient:approximately-truth
+Natural:  The legal framework is organized approximately-truth.
+          (Legal doctrine is structured conjecture — approximating justice, not yet justice itself.)
+```
+
+`to-fe-su` = epistemic-boundary + structure = the body of standards, procedures, and doctrine governing how epistemic determinations are made (noted as unregistered but compositionally available in W032 Notes). `su lo-~tonesu` = is organized [as] approximately-truth. Not distorted.
+
+*This is the deepest sentence in the batch.* Law is `~tonesu` — not `tonesu` (established truth / justice fully achieved), not `si` (untested hypothesis), not bare `~to` (a loose approximation). It is a *deliberately organized* approximation of truth. Legal codes are structured conjecture reaching toward justice, subject to revision, appeal, and development. The `~` operator applied to `tonesu` (truth itself) captures the self-understanding of mature legal systems: provisional but rigorously organized. `to-fe-su` is `~tonesu` by design — the framework acknowledges its own approximation status in how it handles revision and appeal.
+
+---
+
+**Verdict LGL-001: Legal epistemics are native Tonesu.**
+
+| Concept | Form | Notes |
+|---------|------|-------|
+| Witness | `li-se` | person + perception; compositional; brings `se`-class claims |
+| Documentary evidence | `si-go` | signal-of-cause; encoded representation pointing to causal origin |
+| Raw perceptual testimony | `se-go` | unencoded; direct sensory experience of originating act |
+| Criminal act | `go-ka` | intentional-originating-act |
+| Perpetrator | `go-li` | cause-person; presupposes established causal origin |
+| Probable cause | `~to-go` | approximately knowing the cause; `~to` threshold; justifies investigation |
+| Beyond reasonable doubt | `to lo-go-li` | full epistemic state: established causal knowledge; required for verdict |
+| Verdict / judgment | `to-fe` as predicate | epistemic-boundary determination; not a punishment but an epistemic act |
+| Perjury | `ka-to-fe-ka lo-se` | W029 directly; inflating perception-testimony to knowledge status |
+| Presumption of innocence | `no-to-ne-go` | default pre-judgment state; negated claim, not a conferred right |
+| Legal doctrine | `~tonesu` | organized approximately-truth; structured conjecture working toward justice |
+
+**Five structural findings:**
+
+1. **`~to` maps onto probable cause.** The approximate-knowledge threshold justifies investigative action (`ro-~to-go`); full knowledge (`ro-to`) is required for verdict (`to-fe`). The `ro` (instrument/reason) particle forces the speaker to name the epistemic level of the authorization. You cannot say you searched because you *knew* when you only approximately knew.
+
+2. **`to-fe-ka` covers perjury without extension.** W029 applies to testimony in adjudication as directly as it applies to fraud in academic discourse. The courtroom and the laboratory are the same ontological space. `li-se  ka-to-fe-ka  lo-se` is the complete legal formula for perjury.
+
+3. **`si-go` vs. `se-go` — the documentary/testimonial evidence distinction.** Unencoded eyewitness experience is `se-go`; formalized/recorded evidence is `si-go`. The signal/perception primitive distinction maps onto the legal distinction between testimonial and documentary evidence.
+
+4. **Presumption of innocence is modeled as a negated claim, not a conferred right.** `no-to-ne-go` = not-established-as-causally-connected. This is the starting condition, removed by establishing `to-ne-go`. The architecture correctly captures that guilt must be established, not that innocence must be granted.
+
+5. **`~` on a two-root compound first attested (S272: `~to-go`).** Previous `~` uses targeted single roots or the compressed `tonesu`. S272 applies `~` to the compound `to-go` (knowledge-of-cause) as a unit, confirming that the approximation operator is productive on multi-root compounds, not only on single roots or proper-noun compressions.
