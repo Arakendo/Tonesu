@@ -2045,3 +2045,309 @@ Natural:  Those who are poor in spirit — they are blessed.
 - Register `zo-ra` (life-energy) in `registry/derived/w101-plus.md`; update index.
 - Update genesis-1.md verse 1:2 note to include `zo-si` option for theological reading.
 - Apply `se` → replaces `ka-se` in Genesis 1 evaluation clauses when revising to second-pass.
+
+---
+
+## Fallacy-Resistance Corpus (S364–S373) — Batch: FAL-001
+
+**Purpose:** First attestation of the `()` evidential frame and `:` topic frame operators, both formalized in `spec/grammar.md` and `spec/phonology.md`. Each sentence demonstrates how Tonesu's grammar either structurally prevents a classic logical fallacy, or — when prevention is not possible — makes the fallacious move structurally visible and therefore contestable. Ten fallacy types tested: equivocation (S364), straw man (S365), false dichotomy (S366), circular reasoning (S367), ad hominem (S368), appeal to authority (S369), post hoc ergo propter hoc (S370), composition/division (S371), is/ought (S372), modal fallacy (S373).
+
+---
+
+**S364 — Equivocation: physical regularity vs normative rule.** *(FAL-001)*
+
+*Argument: "Gravity obeys a law. Laws require lawmakers. Therefore gravity requires a lawmaker."*
+
+```
+Gloss:     P1:  lo-ra  to-fe  ne
+           P2:  lo-wi-fe  lo-la-wi-li  go  ne
+           C:   (lo-ra  lo-la-wi-li  go  ne)
+
+Literal:   P1:  topic:force  epistemic-boundary  holds
+           P2:  topic:normative-rules  willer-origin  holds
+           C:   (reportedly: force has a willer as its origin)
+
+Natural:   P1: Force obeys an epistemic regularity.
+           P2: Normative rules require a willer.
+           C:  (So it is claimed: force requires a willer.)
+```
+
+**Notes:**
+- `to-fe` (W028) = epistemic boundary / natural regularity = "law of physics." `wi-fe` (W100) = will-imposed limit / normative rule = "law as obligation." These are structurally distinct compounds in Tonesu — no single lexical item spans both meanings. The equivocation requires explicitly substituting one compound for the other mid-argument.
+- The `()` frame on C marks the conclusion as an unattributed claim — a reported inference rather than a demonstrated consequence. A speaker presenting C bare (without `()`) would be asserting first-person certainty for what is actually a non-sequitur, making the epistemic overreach visible to any interlocutor.
+- **Structural prevention:** the fallacy exploits a single English word ("law") covering two distinct concepts. Tonesu assigns these to `to-fe` and `wi-fe` — structurally non-identical forms. The equivocating inference `to-fe → wi-fe →` willer-required is impossible without an explicit identity bridge (`to-fe  ne  wi-fe`), which a speaker would have to assert and defend.
+- `la-wi-li` = willer-person = an agent whose nature is will-directed. Compositional: `la-` (agent prefix) + `wi` (will) + `li` (person) — used here as a noun for "a rule-making agent."
+
+---
+
+**S365 — Straw man: reported position vs distorted conclusion.** *(FAL-001 · first `()` attestation)*
+
+*Argument: "She said we should increase regulation. So obviously she wants unlimited governance."*
+
+```
+Gloss:     (la-ze  lo-wi-fe  be-si)  ,  du  la-ze  lo-wi-fe-no-fe  wi
+
+Literal:   (reportedly: she signals let-rules-increase)
+           ,  result  she intends rules-without-boundary
+
+Natural:   (She reportedly said: let rules increase.) — Therefore she intends
+           unlimited-governance [rules-without-boundary].
+```
+
+**Notes:**
+- `(la-ze  lo-wi-fe  be-si)` = the evidential frame wraps the source's actual reported position. `be-si` = growth-signal = signaling in favor of increase. The `()` marks this as reported — the speaker is not personally asserting this as the source's exact words.
+- `wi-fe-no-fe` = rules-without-boundary = `wi-fe` (W100) + `no-fe` (without limit). Default right-branching: `wi` modifies [`fe-no-fe`] = will applied to [boundary-without-limit] = unlimited imposition = totalitarianism. This bare-asserted conclusion is outside `()` — the speaker presents it without reservation.
+- **Grammar doing the work:** the real position is `()`-framed; the distortion is bare-asserted. In Tonesu, anything outside `()` claims first-person certainty. The structural contrast — `(reported premise)  ,  du  [bare confident conclusion]` — makes the gap visible: the `du` (result/therefore) asserts the conclusion follows directly from what was only a reported claim.
+- Corrected form: `(la-ze  lo-wi-fe  be-si)  ,  (du  la-ze  lo-wi-fe-no-fe  wi)` — place both premise and conclusion inside `()`. Both are reported/uncertain. The result is the weaker, epistemically honest version.
+
+---
+
+**S366 — False dichotomy: ally vs adversary, with excluded third.** *(FAL-001)*
+
+*Argument: "You are either with us (bonded ally) or against us (adversary). You are not with us. Therefore you are against us."*
+
+```
+Gloss:     go  lo-zu  ne-li  no  ,  lo-zu  wi-de-li  ne
+
+Literal:   because  topic:you  bonded-person  not  ,  topic:you  adversary  holds
+
+Natural:   Because you are not a bonded ally, you are an adversary.
+```
+
+```
+Gloss:     lo-zu  no-ne-li  ne  ,  no-go  lo-zu  wi-de-li  ne
+
+Literal:   topic:you  non-bonded-person  holds  ,  not-therefore  topic:you  adversary  holds
+
+Natural:   You are a non-bonded person — that does not entail you are an adversary.
+```
+
+**Notes:**
+- Three-way vocabulary: `ne-li` = bonded relational person (neighbor / ally); `no-ne-li` = person without bond (stranger); `wi-de-li` (W124) = person of opposing will (adversary/enemy). The false dichotomy collapses the three into two by treating `no-ne-li` as equivalent to `wi-de-li`. Tonesu's compositional roots make the three categories lexically distinct.
+- `go  lo-zu  ne-li  no  ,  …` = "because [you are not a ne-li]": the fallacious move is the `go` (causal frame) — grounding adversary-status in the absence of bond.
+- `no-go` in the correction = not-therefore = explicit denial of the causal frame. `no-go  lo-zu  wi-de-li  ne` = "it does not follow that you are an adversary." This directly targets the `go`-relation the false dichotomy relied on.
+- **Structural exposure:** the vocabulary gap between `no-ne-li` (merely un-bonded) and `wi-de-li` (actively opposing) is intrinsic to the compounds. The inference from "not `ne-li`" to "therefore `wi-de-li`" skips `no-ne-li`, and a Tonesu interlocutor can insert it: you claimed `ne-li no` → `wi-de-li`, but `ne-li no` = `no-ne-li`, and `no-ne-li` ≠ `wi-de-li`.
+
+---
+
+**S367 — Circular reasoning: the scripture–creator loop.** *(FAL-001)*
+
+*Argument: "Scripture is true because the creator attested it. The creator attested it because scripture says so."*
+
+```
+Gloss:     A:  lo-to-re-su  to  ,  go  la-be-go-li  lo-ze  si-past
+           B:  la-be-go-li  lo-ze  si-past  ,  go  lo-to-re-su  si
+
+Literal:   A:  topic:scripture  confirmed  ,  because  creator  it  signaled(past)
+           B:  creator  it  signaled(past)  ,  because  topic:scripture  signals-it
+
+Natural:   A:  The scripture is confirmed — because the creator attested it.
+           B:  The creator attested it — because the scripture says so.
+```
+
+**Notes:**
+- Each sentence uses `go` (causal/grounding particle) to ground one claim in the other. A-grounds-B (scripture's truth depends on creator's attestation); B-grounds-A (creator's attestation depends on scripture's claim). The loop is fully explicit: two `go`-frames pointing back at each other.
+- **Grammar surfacing the circularity:** in Tonesu, `go [cause]  [effect]` asserts a genuine grounding relation — the `go` claim can be challenged on its own merits. When two `go`-relations mutually ground each other, both can be laid side by side and the absence of any independent `go`-ground becomes visible. An interlocutor asks: is there a third sentence — one that grounds either A or B without using the other?
+- Well-formed alternative: break one link. For example, replace B's `go  lo-to-re-su  si` with an independent grounding: `la-mi  se  lo-be-go-li` = "I perceived [the creator directly]" — a first-person perceptual claim (`se`) outside either circular premise. Whether that claim is defensible is a separate question; it at least breaks the loop.
+- This sentence also demonstrates the `to-re-su` (W064) / `be-go-li` theological vocabulary pair from the derived registry in a critical-reasoning rather than devotional context.
+
+---
+
+**S368 — Ad hominem: claim topic vs person topic.** *(FAL-001 · first `:` attestation)*
+
+*Argument: "She argues that climate change is serious. But she drove here in a large vehicle, so her argument is wrong."*
+
+```
+Gloss:     lo-to-si-ze  :  la-mi  lo-ze  ka-to-fe  ,  no  lo-ze
+
+Literal:   topic:her-proposition  :  I  her  judge  ,  not  topic:her
+
+Natural:   As for her proposition — I judge it, not her.   [correct form]
+```
+
+```
+Gloss:     lo-ze  :  la-ze  lo-ki-pa-mu-be  mu-ka
+
+Literal:   topic:her  :  she  large-vehicle  used
+
+Natural:   [Ad hominem shift:] As for her — she uses a large vehicle.
+```
+
+**Notes:**
+- S368 is the **first corpus attestation of the `:` (topic frame) operator.**
+- The first sentence sets the topic as `lo-to-si-ze` (her proposition / the claim she made). `ka-to-fe` (W122) = deliberate epistemic bounding = to judge/evaluate. The topic frame declares: I am evaluating the *proposition*, not the *person*.
+- The second sentence shifts the topic to `lo-ze` (her, as person). `ki-pa-mu-be` = large vehicle (compositional: `ki-pa-mu` W086 = vehicle + `be` = growing/large). The irrelevant personal fact is now explicitly framed as the topic.
+- **Grammar doing the work:** the `:` line requires a sentence-initial topic NP declaration. A speaker who opens with `lo-to-si-ze :` and later introduces `lo-ze :` has made two structurally distinct topic commitments. The shift is audible/visible. An interlocutor can flag it: "your topic changed — you switched from the proposition to the person. How does the latter bear on the former?"
+- This is structurally stronger than natural-language fallacy detection, which relies on pragmatic inference to notice the shift. In Tonesu, the topic is an explicit grammatical commitment at each sentence.
+
+---
+
+**S369 — Appeal to authority: cited authority vs first-person certainty.** *(FAL-001)*
+
+*Argument: "The expert scholar does not confirm this model. Therefore I know the model is wrong."*
+
+```
+Gloss:     (la-to-li  lo-to-su  no-to)  ,  (du  lo-to-su  no-be)
+
+Literal:   (reportedly: the scholar does-not-confirm the model)
+           ,  (reportedly-therefore: the model does not hold)
+
+Natural:   (The scholar reportedly does not accept the model.)
+           (Therefore, reportedly: the model does not hold.)   [humble/correct form]
+```
+
+```
+Gloss:     la-mi  to  lo-to-su  no-be  ,  go  (la-to-li  lo-ze  no-to)
+
+Literal:   I  confirm  the-model  not-hold  ,  because
+           (reportedly: the scholar does-not-confirm it)
+
+Natural:   [Problematic form:] I confirm the model does not hold —
+           because (reportedly the scholar did not accept it).
+```
+
+**Notes:**
+- `to-li` (W003) = scholar/expert/knower. `to-su` (W030) = theory/model. `no-to` = does not confirm (negation of the epistemic certainty predicate). `no-be` = does not hold / does not exist.
+- The *correct* form (first sentence) keeps both the cited authority's stance and the derived conclusion inside `()`. Both are reported. Neither is the speaker's first-person certainty. An honest speaker using a cited authority wraps both the report and any inference in `()`.
+- The *problematic* form (second sentence) asserts `la-mi  to` (I confirm) as the matrix predicate, then grounds it with a `go`-clause wrapping `()` evidential content. The `go` here bridges a `()` premise to a `la-mi  to` conclusion — moving from reported/uncertain to personally-certain. The grammar does not block this, but the visible structure makes the move explicit: the speaker is claiming certainty from an anonymous report.
+- **Principle:** in Tonesu, `go  (premise)  →  la-mi  to  [conclusion]` is always a suspicious pattern. Valid grounding flows from first-person perception, signal from confirmed sources, or demonstrated reasoning — not from anonymous `()` content.
+
+---
+
+**S370 — Post hoc ergo propter hoc: temporal frame vs causal frame.** *(FAL-001)*
+
+*Argument: "I took medicine, then recovered. Therefore the medicine caused my recovery."*
+
+```
+Gloss:     ta  [la-mi  lo-ma-no-de  mu-ka-past]  ,  la-mi  zo-de-fe-past
+
+Literal:   when  [I  medicine  used(past)]  ,  I  fatigue-endpoint(past)
+
+Natural:   When I used medicine, my illness ended.   [temporal frame: ta]
+```
+
+```
+Gloss:     go  [la-mi  lo-ma-no-de  mu-ka-past]  ,  la-mi  zo-de-fe-past
+
+Literal:   because  [I  medicine  used(past)]  ,  I  fatigue-endpoint(past)
+
+Natural:   Because I used medicine, my illness ended.   [causal frame: go]
+```
+
+**Notes:**
+- `ma-no-de` (W046) = medicine / treatment substance. `mu-ka` (W022) = use/operate an artifact. `zo-de-fe` = organism-fatigue-boundary = the endpoint of organism-fatigue = recovery.
+- `ta` and `go` are structurally distinct clause introducers in Tonesu (§Subordinate Clauses). `ta` introduces a temporal co-occurrence frame without causal implication. `go` introduces a genuine causal or grounding claim.
+- **The fallacy surfaced:** the post hoc argument *substitutes* `go` for `ta`. In English, "when X happened, Y happened, therefore X caused Y" — the causal claim is implicit and smuggled through the temporal conjunction. In Tonesu a speaker must **commit** to one of the two clause introducers. Using `go` is an explicit claim of causation, disputable on its merits. Using `ta` is an honest assertion of temporal co-occurrence without causal weight.
+- A speaker who uses `go` here has incurred an epistemic debt: they must now be able to defend the causal claim (by ruling out spontaneous recovery, other interventions, etc.). `ta` incurs no such debt. The grammar surfaces which kind of claim is being made.
+
+---
+
+**S371 — Composition/division: part property vs whole property.** *(FAL-001)*
+
+*Argument: "Each component of the machine is lightweight. Therefore the whole machine is lightweight."*
+
+```
+Gloss:     lo-ko-mu  :  nu-de  ne
+
+Literal:   topic:each-component  :  small-quantity  holds
+
+Natural:   As for each component: it has small mass.   [part claim]
+```
+
+```
+Gloss:     (du  lo-su-ru-mu  :  nu-de  ne)
+
+Literal:   (reportedly-therefore: topic:integrated-whole  small-quantity  holds)
+
+Natural:   (Therefore, allegedly: as for the integrated whole — it has small mass.)
+           [fallacious whole claim]
+```
+
+**Notes:**
+- `ko-mu` (W052) = container-artifact = the bounded component unit. `su-ru` (W085) + `mu` = `su-ru-mu` = integrated-whole-artifact = the assembled machine as a unified structure. Two lexically distinct topic NPs.
+- `:` (topic frame) forces the speaker to name the referent of each claim. The part claim has topic `lo-ko-mu`; the whole claim has topic `lo-su-ru-mu`. The structural shift between the two `:` declarations makes the composition move explicit: you changed what you're talking about.
+- The `()` frame on the conclusion marks it as an unestablished inference — not a first-person certainty. Composition from parts to whole requires justification beyond the part-property, and `()` signals that the speaker is not personally vouching for the inference.
+- **Division fallacy** (reverse): `lo-su-ru-mu  :  nu-de  ne  ,  (du  lo-ko-mu  :  nu-de  ne)` — the whole is lightweight; therefore (allegedly) each part is lightweight. Same structure in reverse; both are exposed by the `:` topic-shift.
+- `nu-de` = quantity-decrease = small amount/mass. Compositional: `nu` (digit/quantity) + `de` (decrease) = quantitatively small.
+
+---
+
+**S372 — Is/ought (Hume's guillotine): descriptive predicate vs normative predicate.** *(FAL-001)*
+
+*Argument: "Animals kill each other in nature. Therefore it is acceptable for humans to kill each other."*
+
+```
+Gloss:     la-wi-zo  lo-wi-zo  de    [descriptive]
+
+Literal:   agent:wild-animals  patient:wild-animals  decrease
+
+Natural:   Wild animals kill each other.   [de — descriptive fact]
+```
+
+```
+Gloss:     (go  la-wi-zo  lo-wi-zo  de  ,  lo-zo-li  lo-zo-li  no-ka-de-zo  no-ne)
+
+Literal:   (reportedly-because wild-animals decrease wild-animals  ,
+           topic:humans  humans  no-deliberate-kill  does-not-hold)
+
+Natural:   (Because animals kill each other, supposedly, the prohibition on
+           humans killing each other does not apply.)
+```
+
+**Notes:**
+- The descriptive sentence uses `de` (primitive: decrease/decay) as the bare predicate — a natural process, no agent intentionality marker. The normative term is `no-ka-de-zo` (W128 negated) = not-deliberately-kill = the prohibition against murder. `no-ne` = does not hold (negation of the relational predicate).
+- The inferential move is wrapped in `()`: the claim that the descriptive fact grounds the normative conclusion is presented as a reported assertion, not something the speaker is directly vouching for.
+- **Hume's guillotine:** in Tonesu, `de/be/ki` are descriptive predicates (process, growth, motion); `vo`, `wi-fe`, `ka-to-fe`, and `no-ka-de-zo` are normative predicates (value, rule, judgment, prohibition). A `go` clause bridging a descriptive predicate to a normative conclusion is an explicit claim that the fact *grounds* the norm. This bridge itself requires justification — it cannot be taken for granted. Tonesu forces the speaker to state the `go` claim explicitly; natural language often leaves the bridge implicit.
+- The `()` frame signals: "this is a reported/contested inference." A speaker who makes the bridge bare (without `()`) has committed to the claim that natural behavior is normatively binding — a substantive and contestable premise.
+
+---
+
+**S373 — Modal fallacy: hypothesized claim falsely elevated to confirmed claim.** *(FAL-001)*
+
+*Argument: "I hypothesize a future resource crisis. Therefore I know there will be a future resource crisis."*
+
+```
+Gloss:     la-mi  si  lo-ti-be  lo-ma-de
+
+Literal:   I  signal/propose  [future: matter-decreases]
+
+Natural:   I hypothesize: in the future, material resources will decline.   [si — proposed/possible]
+```
+
+```
+Gloss:     (du  la-mi  to  lo-ti-be  lo-ma-de)
+
+Literal:   (reportedly-therefore: I  confirm  [future: matter-decreases])
+
+Natural:   (Therefore, allegedly: I know there will be a resource decline.)
+           [to — certainty; fallacious elevation of si → to]
+```
+
+**Notes:**
+- `la-mi  si  lo-X` = I signal/propose X — the speaker's epistemic predicate is `si` (hypothesis / proposal / possibility). `la-mi  to  lo-X` = I confirm X — the epistemic predicate is `to` (organized knowledge / certainty). These are structurally distinct predicates on `la-mi`.
+- `ti-be` = future time (W040). `ma-de` = matter-decrease = resource depletion. Compositional.
+- The modal fallacy is the bare `du` (therefore) claiming to elevate `si` to `to`. In Tonesu, moving from `la-mi  si` to `la-mi  to` requires genuine new grounding — additional perception (`la-mi  se  lo-X`), a signal from a confirmed source, or a logical derivation from established knowledge. The `du` particle alone does not provide this.
+- The `()` frame wraps the fallacious elevation: the speaker acknowledges this inference is not directly warranted and flags it as a reported/ungrounded claim.
+- **Well-formed epistemic progression:** `la-mi  si  lo-X  ,  go  [new evidence]  ,  la-mi  se  lo-X  ,  du  la-mi  to  lo-X` = I proposed X; because of [new evidence], I perceived X; therefore I now confirm X. Each step incurs and discharges an epistemic commitment.
+
+---
+
+## FAL-001 Batch Summary
+
+**Confirmed results:**
+
+1. **`()` first attestation.** ✅ S365 (straw man), S369 (appeal to authority), and S373 (modal fallacy) provide the first corpus uses of the evidential frame. All three function as designed: reported/cited content in `()`, speaker-certified content bare. The contrast in each pair is immediately parseable.
+
+2. **`:` first attestation.** ✅ S368 (ad hominem) provides the first corpus use of the topic frame. The mechanism works cleanly: two sentences with two different `:` topic NPs make the topic shift structurally explicit. S371 (composition/division) provides a second attestation within the same batch.
+
+3. **`ta` vs `go` as fallacy exposure.** ✅ S370 (post hoc) demonstrates the sharpest structural prevention in the batch: the grammar *forces* a speaker to commit to either temporal co-occurrence (`ta`) or causal grounding (`go`). There is no temporal-to-causal drift in Tonesu.
+
+4. **Structural prevention (non-`()`, non-`:` mechanisms):** S364 (equivocation) — distinct compounds `to-fe` / `wi-fe` prevent same-word ambiguity. S366 (false dichotomy) — three-way vocabulary `ne-li` / `no-ne-li` / `wi-de-li` exposes the excluded middle. Both show that lexical compositional transparency does substantial fallacy-resistance work prior to any meta-operator.
+
+5. **Descriptive/normative gap.** S372 (is/ought) confirms that Tonesu has no structural bridge from `de/be/ki` predicates to `vo/wi-fe/ka-to-fe` predicates. The gap is not enforced syntactically but is visible at the predicate level — a `go`-bridge across this gap incurs an explicit contestable commitment.
+
+6. **`(du …)` pattern.** ✅ First attestation of `(du …)` = "reportedly-therefore" — the `()` frame wrapping a `du`-introduced derived claim. Marks the inference as unestablished. Pattern: `(premise)  ,  (du  [conclusion])` = the speaker neither confirms the premise nor endorses the conclusion, presenting both as in circulation.
+
+**Open grammar questions (FAL-follow):**
+- [ ] **FAL-F-001:** Is there a well-formed Tonesu expression for "either/or" (inclusive/exclusive disjunction)? S366 sidestepped it by negating the `go`-bridge rather than forming the disjunction directly. A dedicated `go-no-go`-disjunction frame may be needed.
+- [ ] **FAL-F-002:** `go  (reported-premise)  →  la-mi  to  [conclusion]` — does Tonesu need an explicit rule blocking first-person certainty from `()` premises, or is the structural contrast sufficient?
