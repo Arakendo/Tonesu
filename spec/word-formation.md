@@ -162,6 +162,8 @@ Because hyphens carry no grammatical meaning, written forms strip cleanly: `to's
 
 **At sentence and discourse level,** four additional marks operate at or between word boundaries: `,` (clause separator), `!` (exclamation), `?` (question), `~` (approximation). `,`, `!`, and `?` are strictly external to compounds. `~` is external to compounds but may attach immediately after `'` — the only written character that creates an internal left edge — giving `A'~BC` (approximately the subcompound). See spec/phonology.md § Punctuation and Notation Marks and § Approximation Mark.
 
+**Mathematical expressions:** Tonesu uses standard international mathematical notation (Arabic digits 0–9, operators `+  −  ×  ÷  =  <  >  ^`, parentheses, etc.) for standalone expressions and inline formulas. CVC digit and CVCC constant forms are the *spoken* and *prose* representations — for counting, measurement, and embedding quantities in sentences. When a formula needs to appear as a formula, you write `3 + varn = 3 + 3.14159…` not `gal pa ne varn nu pa-re`. The two registers do not conflict: prose Tonesu speaks quantities via CVC; displayed math writes them via universal symbology. This applies to all technical and scientific writing where equations appear as distinct display elements rather than as sentence constituents.
+
 ---
 
 ## CVC Descriptor Modifiers
