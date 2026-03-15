@@ -215,6 +215,64 @@ Multiple `'` markers are permitted. Role-marker particles (`la-`, `lo-`, etc.) a
 
 ---
 
+## Organism Kind-Term Taxonomy
+
+Kind terms for living things and inorganic matter are built by compounding `zo` or `ma` with perceptual/structural primitives. The tree below shows the established nodes; the `'` rule makes every node a valid base for further discrimination.
+
+### Living Things (`zo`)
+
+```
+zo  (living thing)
+│
+├── zo-se-[x]  Perceptual organism — axis: defining sensory mode
+│   │
+│   ├── zo-se-so  Acoustic organism (genus term)
+│   │   │
+│   │   ├── zo-se-so-fe  territorial / cat class (Felidae)
+│   │   ├── zo-se-so-li  pack-social / dog class (Canidae)
+│   │   ├── zo-se-so-di  directional / bird class (Aves)
+│   │   └── zo-se-so-pa  place-acoustic / whale (Cetacea)
+│   │
+│   ├── zo-se-ma  matter-perceptual / fish & aquatic vertebrates
+│   └── zo-se-ne  social-relational / herd ungulates
+│
+├── zo-su  structural organism / plants
+├── zo-pe  component organism / arthropods & invertebrates
+└── zo-ne  networked organism / fungi
+```
+
+*`zo-li` (human-class organism) is not a corpus test target — humans appear as the pronouns `mi`, `tu`, `ze`, `yu` and the nominal `li` throughout.*
+
+**Depth is unbounded.** Any node is a valid discrimination base. A discriminator subcompound prepends with `'` and scopes over the whole base:
+
+```
+[discriminator]'[base-class]
+```
+
+Example depth chain:
+
+```
+zo-se-so                               acoustic organism (genus)
+  [behav]'zo-se-so                     a behavioral subgroup of that genus
+    [feature]'[behav]'zo-se-so         a further-specified member
+      [variant]'[feature]'[behav]'zo-se-so   individual variant (coat, region…)
+```
+
+**Discriminating off intermediate nodes.** Organisms that do not cleanly fit a terminal fourth root (`-li`, `-fe`, `-di`, `-pa`) attach directly to the nearest accurate parent. A fox is neither pack-social (`-li`) nor territorial-feline (`-fe`); the fox discriminator attaches to `zo-se-so` directly (`[fox-discrim]'zo-se-so`), and fox subspecies stack further on top of that.
+
+### Inorganic Matter (`ma`)
+
+```
+ma  (matter/substance)
+├── ma-su  structured matter / rock & mineral
+├── ma-pa  place-matter / soil & sediment
+└── ma-ki  flowing matter / water
+```
+
+Full corpus provenance with batch codes and sentence ranges: [corpus/sentences/index.md](corpus/sentences/index.md).
+
+---
+
 ## Numerals
 
 Digits occupy the CVC tier and are phonologically distinct from all CV primitives. The quantity primitive `nu` anchors all counting expressions.
@@ -283,14 +341,45 @@ gal ru-pu mol       →  3/4
 
 ## Colors
 
-**Not yet designed.** `lu` (light/visibility) is the head primitive for color compounds. When corpus pressure demands it:
+Color vocabulary was formally admitted in COL-001 (March 2026). All forms are CVC atoms on the same phonological tier as digits.
 
-- Brightness: `lu-vo` (light-quality)
-- Saturation: `lu-fe` (light-boundary/limit)
-- Hue names: domain-anchor approach preferred — specific wavelength-regime compounds rather than CV primitives for each hue
-- Colloquial candidates: `lu-ra` (red/orange), `lu-zo` (green), `lu-pa` (blue)
+### Core hues
 
-Color vocabulary will be formalized under design ticket COL-001 when corpus pressure requires it.
+| Color  | Form  |
+|--------|-------|
+| black  | `yel` |
+| white  | `yim` |
+| red    | `ker` |
+| green  | `gim` |
+| blue   | `pom` |
+| yellow | `sam` |
+
+### Extended hues
+
+| Color | Form  | Notes |
+|-------|-------|-------|
+| brown | `kus` | no clean compositional form |
+| orange | — | composes as `ker zi sam` (red + yellow blend) |
+| purple | — | composes as `ker zi pom` (red + blue blend) |
+
+### Visual-pattern modifiers
+
+Named patterns of light distribution on surfaces. Compositional compounds, not CVC atoms; follow the same head-final rule and require `'` when scoping over multi-root kind-terms.
+
+| Compound | Pattern     | Basis |
+|----------|-------------|-------|
+| `lu-di`  | stripe / linear | `lu` (light) + `di` (direction) |
+| `lu-pe`  | spot / dappled  | `lu` (light) + `pe` (component) |
+| `lu-fe`  | solid / uniform | `lu` (light) + `fe` (boundary) |
+
+### `no-lu` vs `yel`
+
+| Form    | Reading               | Use |
+|---------|-----------------------|-----|
+| `yel`   | black (named hue)     | Color attribution: `yel mu` = a black object |
+| `no-lu` | dark / absence of light | Coat or surface property: `no-lu'zo-se-so-fe` = dark-coated cat |
+
+In formal register the distinction holds; in casual speech they overlap.
 
 ---
 
@@ -568,7 +657,7 @@ notes/              Design rationale, semantic map, open questions, history
 | Corpus | 251 numbered sentences + 7 multi-turn conversations |
 | Open questions | ~20 tracked items across phonology, grammar, ontology, and domains |
 | CVCC anchors | 19 forms assigned (6 math, 8 physics, 3 astro/time, 2 atomic mass) |
-| Colors | Pending COL-001; design path selected, forms not yet minted |
+| Colors | 7 CVC atoms admitted (COL-001, March 2026); visual-pattern compounds corpus-attested |
 
 ## Prior Art
 
