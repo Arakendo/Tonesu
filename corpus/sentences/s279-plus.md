@@ -465,11 +465,169 @@ Natural:  I threw a rock. (casual register)
 
 ---
 
-## Fish and Aquatic Organisms (S???+) *(KNM-006 — pending)*
+## Fish and Aquatic Organisms (S307–S313) *(KNM-006)*
 
-*Scope: determine whether `zo-se-so` base applies to fish, or whether fish branch at `zo` without the `se-so` acoustic layer. Most fish have a lateral line (pressure/vibration detection) but are not acoustic organisms in the way birds/mammals are. May need `zo-se-[x]` (perceptual, not specifically acoustic) as an intermediate class. Stress case: whale (fully acoustic, highly social — `zol` territory? or new class?)*
+*Batch purpose (KNM-006): resolve the `zo-se-so` vs `zo-se-[x]` architectural question for fish and aquatic organisms. Key decision: fish do NOT use the `zo-se-so` acoustic layer. Fish branch at `zo-se-ma` (matter-perceptual organism). Whale stress test produces an unexpected outcome: whales ARE `zo-se-so` but with a new terminal root `pa` (place), not `di` (direction). Stubs: `zom` (CLQ-005a) and `zop` (CLQ-005b).*
 
-*Pending corpus batch. Depends on CLQ/KNM plant resolution for `zo-be` scope disambiguation.*
+*Pre-processing decisions:*
+- *`zo-se-so` = acoustic organism — an organism for whom sound encoding/production is the PRIMARY behavioral signature. Fish do not meet this criterion. Fish perceive their aquatic medium through the lateral line (mechanoreception), olfaction, and electroreception. This is `se` (perception), not `so` (sound). It is perception OF the matter medium itself.*
+- *Fish base: `zo-se-ma` = `zo` (living) + `se` (perception) + `ma` (matter) = matter-perceptual organism. Organisms defined by sensory integration with their material medium (water). The `ma` terminal marks the medium, not a sound channel. Written: `zosema`.*
+- *Why `zo-se-ma` and not `zo-ma-[x]`: the perceptual apparatus (`se`) is what distinguishes fish from `ma`-class matter. Fish ARE organisms; their defining feature is how they perceive. `zo-se` (perceptual organism) is the correct intermediate; `ma` (matter) is the terminal marking the medium of perception.*
+- *Whale decision: Whale song (`so`) is the defining behavioral signature of cetaceans — as defining as birdsong for `zo-se-so-di`. Whales belong in `zo-se-so-[x]`, NOT `zo-se-ma`. Their aquatic habitat does not override their acoustic character. Terminal root: `pa` (place) — whale song operates at the spatial scale of places (ocean basins). `zo-se-so-pa` = place-acoustic organism. Stub: `zop`.*
+- *Predator template carries: `wi-ki'zo-se-ma` (shark) parallels `wi-di'zo-se-so-di` (eagle) and `wi-pu'zo-se-so-li` (wolf). All three use `wi` + mode-of-intent as discriminator. Shark: `wi-ki` = intentional-motion (aquatic pursuit); eagle: `wi-di` = intentional-direction (aerial stoop); wolf: `wi-pu` = intentional-collective (pack coordination).*
+
+---
+
+**S307 — Fish base kind-term: "The fish swam."** *(KNM-006-A)*
+
+*Target: establish `zo-se-ma` as the fish/aquatic-organism class base kind-term.*
+
+```
+Gloss:    la-zo-se-ma  ki  lo-ma-ki
+Literal:  agent:matter-perceptual-organism  moved  patient:flowing-matter
+Natural:  The fish swam.
+```
+
+**Notes:**
+- `zo-se-ma` = `zo` (living thing) + `se` (perception) + `ma` (matter) = matter-perceptual organism = **fish / aquatic organism**. The organism defined by perceptual integration with its material medium. Where `zo-se-so-[x]` organisms perceive and produce *sound*, `zo-se-ma` organisms perceive *matter in motion* — pressure gradients, chemical gradients, electric fields in water. Written: `zosema`.
+- **Why no `so` layer:** the `zo-se-so` chain establishes organisms for whom sound encoding/production is the primary behavioral signature. Fish do not qualify — the lateral line is mechanoreception of the medium itself, not of encoded acoustic signals. The perceptual layer (`se`) is retained; the acoustic specialization (`so`) is not.
+- `ki lo-ma-ki` = moved through flowing-matter = swam. First time a non-human organism is directly paired with `ma-ki` (water) as its patient medium, rather than via compound discriminator. The fish swims *through* `ma-ki`; the penguin lives AS `ma-ki'zo-se-so-di`.
+- **`zo-se-ma` tier:** a new intermediate tier below `zo` and above the terminal class roots. Previous tiers: `zo-se-so` → `zo-se-so-li/fe/di`. Fish introduce `zo-se` as a productive intermediate: `zo-se-ma` (matter-perceptual); future organisms may branch at `zo-se-[x]` with a different terminal root.
+- **Stub:** `zom` = `zo` + `[se dropped]` + `ma` → `zom`. Single middle root dropped, not two like `zol/zof/zod`. Different compression depth, same rule. Registered CLQ-005a.
+
+---
+
+**S308 — Salmon kind-term: "The salmon reached the river."** *(KNM-006-B)*
+
+*Target: salmon — the fish defined by its destination-directed migration back to its origin river.*
+
+```
+Gloss:    la-di-pa'zo-se-ma  ki  lo-di'ma-ki
+Literal:  agent:destination-directed'[matter-perceptual-organism]  moved  patient:directed-flowing-matter
+Natural:  The salmon reached the river. / The salmon completed its migration.
+```
+
+**Notes:**
+- `di-pa'zo-se-ma` = `di-pa` (directed destination, established S285) + `'` + `zo-se-ma` (fish class) = destination-directed aquatic organism = **salmon**. The apostrophe marks `di-pa` as a two-root compound discriminator on the fish base. Head: `zo-se-ma` (fish), discriminated by `di-pa` (destination-directed). Written: `dipa'zosema`.
+- **`di-pa` reuse:** `di-pa` was first established as the migration-destination compound for birds (S285). The salmon is the forcing case for the same compound in the aquatic domain: migration defined by the compulsion to reach a specific destination. The compound is domain-agnostic; both bird migration and salmon spawning runs are `di-pa` phenomena.
+- `ki lo-di'ma-ki` = moved to the directed-flowing-matter = reached the river. The salmon's destination (`di-pa`) is a river (`di'ma-ki`): two compounds both built on `di` (direction), one for the organism's behavioral target and one for the water feature. Both `di` compounds appear in the same sentence and are unambiguous: `di-pa` (discrimination-head, organism-modifier) vs `di'ma-ki` (standalone NP patient).
+- **Two-step connection:** KNM-006 (fish) ← `di-pa` → KNM-005 (bird migration, S285); KNM-006 (fish) ← `di'ma-ki` → MAT-002 (river, S300). The salmon sentence connects three prior batches.
+
+---
+
+**S309 — Shark kind-term: "The shark hunted prey."** *(KNM-006-C)*
+
+*Target: shark — the apex aquatic predator defined by intentional pursuit.*
+
+```
+Gloss:    la-wi-ki'zo-se-ma  ka  lo-zo
+Literal:  agent:intent-motion'[matter-perceptual-organism]  acted  patient:organism
+Natural:  The shark hunted prey.
+```
+
+**Notes:**
+- `wi-ki'zo-se-ma` = `wi` (will/intention) + `ki` (motion) + `'` + `zo-se-ma` (fish class) = intentional-motion aquatic organism = **shark / apex aquatic predator**. Head: `zo-se-ma` (fish), discriminated by `wi-ki` (intentional motion = directed pursuit through the medium). Written: `wiki'zosema`.
+- **Three-predator `wi` alignment confirmed:**
+  - `wi-pu'zo-se-so-li` = wolf (intentional-collective = pack coordination)
+  - `wi-di'zo-se-so-di` = eagle (intentional-direction = aerial stoop)
+  - `wi-ki'zo-se-ma` = shark (intentional-motion = aquatic pursuit)
+  Three apex predators; three modes of intentional hunting; three `wi-[x]` discriminators.
+- `ka lo-zo` = intentional action on an organism = predation. Identical predicate to wolf (S261) and eagle (S280). The predator template `ka lo-zo` is now attested across three classes: canid, raptor, and elasmobranch. The template is class-agnostic.
+- **Scope:** all apex aquatic predators defined by active pursuit — sharks, barracuda, billfish. Not filter-feeders (different discriminator territory).
+
+---
+
+**S310 — School behavior: "The fish moved together."** *(KNM-006-D)*
+
+*Target: collective aquatic movement. Parallel to flock/migration (S285).*
+
+```
+Gloss:    la-pu nu zo-se-ma  ki  lo-ne
+Literal:  agent:plurality [matter-perceptual-organism]  moved  patient:relation
+Natural:  The fish moved together. / The school moved as one.
+```
+
+**Notes:**
+- `pu nu zo-se-ma` = plurality of matter-perceptual organisms = **a school of fish**. Same NP construction as `pu nu zo-se-so-di` (flock, S285). `pu nu [kind-term]` is confirmed as the general collective-quantity NP pattern for organism groups: flock (S285), school (S310).
+- `ki lo-ne` = moved relationally = moved in coordination with others = **schooled together**. `ne` (relation/connection) as motion patient: the object of collective movement is the relational bond itself — the fish don't move *to* a place but *in relation to each other*. This is the first use of `ki lo-ne` as a compound predicate structure. Schooling is not directed toward a destination (`di-pa`) or a medium (`ma-ki`); it is directed toward mutual coordination.
+- **`ki lo-ne` vs flock migration:** a flock migrates `ki lo-di-pa` (moved toward destination). A school schools `ki lo-ne` (moved in relation). The patient encodes the purpose: destination-directedness vs. relational cohesion. Two distinct collective motions, one predicate root, different objects.
+
+---
+
+**S311 — Whale stress test: "The whale sang across the sea."** *(KNM-006-E)*
+
+*Target: confirm that whale belongs to `zo-se-so-[x]` (acoustic organism), NOT `zo-se-ma` (aquatic perceptual organism). Introduces `zo-se-so-pa` as the whale class.*
+
+```
+Gloss:    la-zo-se-so-pa  so  lo-pa'ma-ki
+Literal:  agent:place-acoustic-organism  sounded  patient:sea
+Natural:  The whale sang across the sea.
+```
+
+**Notes:**
+- `zo-se-so-pa` = `zo` (living) + `se` (perception) + `so` (sound) + `pa` (place) = place-acoustic organism = **whale / cetacean**. Terminal class root `pa` (place) marks that this organism's acoustic behavior operates at the spatial scale of places — whale song propagates across ocean basins, the largest spatial unit in our current inventory (`pa'ma-ki`). Written: `zosesopa`.
+- **The architectural verdict:** whales are NOT `zo-se-ma` despite being aquatic. They are `zo-se-so` (acoustic organisms) because whale song is their primary behavioral signature — a second-order sound signal encoding of identity, location, and relationship, not merely mechanoreception of the medium. The aquatic habitat is secondary; the acoustic character is primary. Identical principle to the penguin: aquatic habitat does not override the class assignment.
+- `so` as predicate = produced sound = **sang/vocalized**. First corpus use of `so` as a sentence-level predicate (previously: compound element only). `so` intransitive = to sound, vocalize, sing. `lo-pa'ma-ki` = across the sea = the sound fills the sea.
+- **`zo-se-so-pa` vs `zo-se-so-di`:** birds (`di`) are directional — their acoustic output is orients them in space (echolocation, territory calls, migration coordination). Whales (`pa`) are place-spanning — their acoustic output operates across an entire medium at maximum scale. The terminal root names the *spatial relationship* of the acoustic behavior: `di` (direction = orientation) vs `pa` (place = scale).
+- **Stub:** `zop` = `zo` + `[se-so dropped]` + `pa` → `zop`. Same compression as `zol/zof/zod`: mid-layer `se-so` dropped; terminal root (`pa`) retained. Registered CLQ-005b.
+
+---
+
+**S312 — Fish lays eggs: "The fish laid eggs in the river."** *(KNM-006-F)*
+
+*Target: `zo-be` confirmed in the aquatic domain. Cross-domain cohesion: chicken (S283), tree (S291), fish (S312) all produce `zo-be`.*
+
+```
+Gloss:    la-zo-se-ma  be  lo-zo-be  na-di'ma-ki
+Literal:  agent:matter-perceptual-organism  produced  patient:biological-product  at:river
+Natural:  The fish laid eggs in the river.
+```
+
+**Notes:**
+- `be lo-zo-be` = produced a biological-growth-product = laid eggs. Third corpus use of this predicate structure: chicken S283 (egg), tree S291 (fruit/seed), fish S312 (egg). Three biological kingdoms; one predicate. `zo-be` (biological reproductive product) is now confirmed across: birds, plants, and fish.
+- `na-di'ma-ki` = identifier/location at the river. `na` as a location marker here: the river is the location of egg-laying. (`na` previously appeared as name-identifier in `na Max`, S269.) First use of `na` as a location/context marker — the `na` particle is flexible: it identifies an associated referent (name, location, context) in an NP position.
+  - Editorial note: `na-di'ma-ki` as a locative is productive if `na` generalizes as "associated with" — `na [place]` = at/in [place], `na [name]` = named [name]. To be confirmed in a future grammar note.
+- **`zo-be` scope now confirmed across four species and two biological kingdoms:** chicken (bird), tree (plant), salmon-class fish here. Plus the general `zo-se-ma` base in this sentence rather than a specific species — the most general fish attestation.
+
+---
+
+**S313 — Colloquial attestation: "I caught a fish."** *(KNM-006-G)*
+
+*Target: first corpus use of `zom`, the colloquial stub for `zo-se-ma`.*
+
+```
+Gloss:    la-mi  ko  lo-zom
+Literal:  agent:me  enclosed  patient:fish(casual)
+Natural:  I caught a fish. (casual register)
+```
+
+**Notes:**
+- `zom` = `zo` + `[se dropped]` + `ma` → `zom`. Fish-class stub. One middle root dropped (`se`), not two as in `zol/zof/zod` — the fish class has a shallower base chain (`zo-se-ma`, three morphemes) vs acoustic organisms (`zo-se-so-[x]`, four). The compression drops the single middle morpheme; terminal root `ma` (matter) retained as class-distinguishing. Written: `zom`. Registers as CLQ-005a.
+- `ko lo-zom` = enclosed the fish = caught the fish. `ko` (enclose/contain) as catching predicate: to catch an animal is to enclose it — in net, in hands, in a vessel. First time `ko` appears with a living-thing patient in human-agent context (`ko lo-zo-be` S294 = soil held seeds was agent:soil not agent:human). Human agent + `ko` + organism = catching.
+- **Six-stub inventory:** `zol` (canid), `zof` (felid/fox), `zod` (bird), `zos` (plant), `mas` (rock), `zom` (fish). First stub whose middle dropped layer is a *single* morpheme. The six stubs cover five major natural-world categories.
+
+---
+
+**Verdict KNM-006: Aquatic organism class established. Seven findings:**
+
+1. **Fish are `zo-se-ma`, not `zo-se-so`.** The lateral line, electroreception, and olfactory-chemical sensing are medium-perception (`se-ma`), not acoustic encoding (`se-so`). The `zo-se` tier is now productive: `zo-se-so-[x]` (acoustic) and `zo-se-ma` (aquatic/medium-perceptual) are parallel branches.
+
+2. **Whales are `zo-se-so-pa`, not `zo-se-ma`.** Whale song is the defining behavioral signature — acoustic primacy overrides aquatic habitat. Terminal root `pa` (place) marks the spatial scale of cetacean acoustic behavior. Stub `zop`.
+
+3. **`so` first attested as a sentence-level predicate (S311).** Previously compound-element only. `so` intransitive = sounded / sang / vocalized. Productively extends to cover any acoustic emission predicate.
+
+4. **Three `wi-[x]` predator discriminators now registered:** `wi-pu` (wolf: pack coordination), `wi-di` (eagle: aerial stoop), `wi-ki` (shark: aquatic pursuit). The predator template `ka lo-zo` is class-agnostic across canid, raptor, and elasmobranch.
+
+5. **`zo-be` confirmed aquatic (S312).** Four attestations across three kingdoms: chicken (bird), tree (plant), fish. Predicate `be lo-zo-be` is now the universally attested reproductive act.
+
+6. **`ki lo-ne` = schooling / relational collective motion (S310).** Distinguishes collective orientation behavior (schooling: toward mutual relation) from collective migration (S285: toward a destination). Two patterns: `ki lo-ne` (school) vs `ki lo-di-pa` (migrate/flock).
+
+7. **`na` generalizes as an association/location particle (S312 note).** `na [place]` = at/located-at; `na [name]` = named. Confirmed only as a note; formal grammar treatment deferred.
+
+**Follow-on actions:**
+- Register `zom` as CLQ-005a and `zop` as CLQ-005b in `registry/colloquial.md`. ✓
+- Whale terminal-root design note: `zop` is the first stub anchored on `pa`; whale kind-term species discriminators deferred (no cetacean species sentences yet).
+- KNM-007 (large land animals) is now next in the attack plan.
 
 ---
 

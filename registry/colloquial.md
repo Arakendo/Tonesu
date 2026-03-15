@@ -205,6 +205,79 @@ Related:      ma-su (formal source), zos (symmetric compression, same second roo
 
 ---
 
+## CLQ-005 — Kind-term stubs: `zom` and `zop`
+
+*First-attested: `zom` S313 (KNM-006-G, March 2026); `zop` S311 (KNM-006-E, March 2026). The pair documents the fish/whale architectural split.*
+
+---
+
+**CLQ-005a**
+```
+Form:         zom
+Formal source: zo-se-ma
+Type:         contraction / colloquial stub
+Class:        entity (organism kind)
+Definition:   informal stub for "matter-perceptual organism" — the fish/aquatic-organism
+              class in casual discourse. Covers any organism whose formal kind-term uses
+              zo-se-ma as its base. In everyday speech, identifies fish of all
+              kinds: salmon, shark, schooling fish, and all zo-se-ma kind-terms.
+Compression:  zo (organism anchor) + [se dropped — perceptual qualifier
+              contextually recoverable in aquatic discourse] + ma (matter-medium root)
+              → zom. ONE middle root dropped, not two. Fish base is three morphemes
+              (zo-se-ma); acoustic-organism bases are four (zo-se-so-[x]). Shallower
+              chain, shallower compression, same rule: short form unambiguous within
+              fish discourse; formal compound remains canonical.
+Register:     colloquial / casual spoken
+Domain:       general
+Status:       active
+First use:    S313 — la-mi  ko  lo-zom  (I caught a fish; casual)
+Notes:        zom is a base-class stub, not a species label. Plain zom in casual
+              speech refers to the fish/aquatic-organism class as a whole; species
+              reference requires a retained discriminator (dipa'zom = salmon casual,
+              wiki'zom = shark casual). zom is the first stub with a single dropped
+              middle morpheme (vs. zol/zof/zod which drop two: se-so). The compression
+              depth tracks the base chain depth. No collision with existing stubs:
+              zol/zof/zod/zos/mas/zom — six-stub inventory.
+Related:      zo-se-ma (formal source), zop (architectural counterpart: whale class),
+              zol/zof/zod/zos (organism stubs)
+```
+
+---
+
+**CLQ-005b**
+```
+Form:         zop
+Formal source: zo-se-so-pa
+Type:         contraction / colloquial stub
+Class:        entity (organism kind)
+Definition:   informal stub for "place-acoustic organism" — the whale/cetacean class
+              in casual discourse. Covers any organism whose formal kind-term uses
+              zo-se-so-pa as its base. In everyday speech, identifies whales and
+              cetaceans whose defining behavioral signature is large-scale acoustic
+              signaling.
+Compression:  zo (organism anchor) + [se-so dropped — acoustic-organism qualifiers
+              contextually recoverable] + pa (place/scale root) → zop. Same two-root
+              middle drop as zol/zof/zod. Terminal root pa (place/scale) retained as
+              class-distinguishing element.
+Register:     colloquial / casual spoken
+Domain:       general
+Status:       active
+First use:    S311 — la-zo-se-so-pa  so  lo-pa'ma-ki  (The whale sang across the sea)
+Notes:        zop is the architectural counterpart to zom: both are aquatic organisms
+              but they belong to different branches of the organism tree. zom (fish)
+              is zo-se-ma — perceptual matter-medium organism (lateral line, olfaction);
+              zop (whale) is zo-se-so-pa — acoustic organism whose signal operates at
+              place scale. The pair documents the central design decision of KNM-006:
+              aquatic habitat does not assign an organism to zo-se-ma; acoustic primacy
+              does. Whale song → zo-se-so branch; fish lateral line → zo-se-ma branch.
+              No whale species discriminators yet; zop registered on the base attestation
+              alone.
+Related:      zo-se-so-pa (formal source), zom (architectural counterpart: fish class),
+              zol/zof/zod (same compression pattern), zo-se-so (acoustic-organism middle)
+```
+
+---
+
 ## Registration log
 
 | ID | Form | Formal source | First attested | Adopted |
@@ -214,3 +287,5 @@ Related:      ma-su (formal source), zos (symmetric compression, same second roo
 | CLQ-002a | `zod` | `zo-se-so-di` | S284 (KNM-005) | March 2026 |
 | CLQ-003a | `zos` | `zo-su`       | S292 (PLT-001) | March 2026 |
 | CLQ-004a | `mas` | `ma-su`       | S299 (MAT-001) | March 2026 |
+| CLQ-005a | `zom` | `zo-se-ma`    | S313 (KNM-006) | March 2026 |
+| CLQ-005b | `zop` | `zo-se-so-pa` | S311 (KNM-006) | March 2026 |
