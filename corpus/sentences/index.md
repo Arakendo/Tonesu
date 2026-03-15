@@ -61,6 +61,27 @@ zo  (living thing)
 
 *`zo-li` (human-class organism) is not a corpus test target — humans appear as `la-mi`, `la-tu`, `la-ze` throughout the corpus.*
 
+**Extending the tree: the `'` rule applies at any level.** Each node in the tree is a valid base for further discrimination. A discriminator subcompound prepends with `'` and scopes over the entire base:
+
+```
+[discriminator]'[base-class]
+```
+
+This means the tree is not two levels deep — it is unbounded. Any node can be the base for a finer distinction:
+
+```
+zo-se-so                          acoustic organism (genus)
+  [behav]'zo-se-so                a behavioral subgroup of that genus
+    [feature]'[behav]'zo-se-so    a further-specified member of that subgroup
+      [variant]'[feature]'[behav]'zo-se-so   individual variant (coat, region, etc.)
+```
+
+Corpus maximum depth so far: four apostrophes — `no-lu'lu-pe'ma-ki'zo-se-so-fe` (melanistic jaguar, S259 KNM-003). The rule places no upper limit; depth is bounded only by communicative need.
+
+**Discriminating off intermediate nodes.** Organisms that do not cleanly fit a terminal-class fourth root (`-li`, `-fe`, `-di`, `-pa`) can discriminate directly off the three-root acoustic genus `zo-se-so`, or off the two-root base `zo-se` — whichever level captures the relevant distinction. A fox, for instance, is neither pack-social (`-li`) nor territorial-feline (`-fe`) in the same sense as canids and felids; the fox discriminator would attach to `zo-se-so` directly (`[fox-discrim]'zo-se-so`), and fox subspecies (red fox, arctic fox, kit fox) would be further discriminators on top of that.
+
+The corpus nodes above are what has been formally established. Everything else is compositional-possible by rule.
+
 ### Inorganic Matter (`ma`)
 
 ```
