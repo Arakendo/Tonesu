@@ -2711,7 +2711,7 @@ go  [la-na-Kael  lo-to-si-ze  se  ,  go  (la-na-Ren  lo-to-si-ze  si)]
 - Each elevation step uses `go [previous-epistemic-stance]` to ground the next. This forces the chain to be fully linearized: there is no way to achieve multi-agent epistemic inflation without writing out the complete sequence of `go`-links.
 - The speaker's diagnosis sentences exactly retrace the chain in reverse, demonstrating that the chain from `si` to `to-su` across three agents has no independent grounding — each link only borrows from the link below it.
 - **Scaling result:** the `go`-chain + epistemic predicate system (`si`/`se`/`to`) scales to multi-agent epistemic inflation. The grammar does not prevent the inflation — but it requires each agent to explicitly commit to their elevation step, making the full chain auditable and the borrowed grounding visible.
-- `to-fe-su` = knowledge-boundary-structure = institutional standards body / council (W-series: previously attested in Principle 10 discussion; not yet formally registered — ⚠️ registration candidate).
+- `to-fe-su` = epistemic standards framework/body (W072 ✅, active). Registered before the FAL series; first corpus use S128 (CF-001-C). FAL-003 S383 is the FAL-corpus first attestation.
 - `to-su` = knowledge-structure = established-knowledge / institutional fact (compositional `to` + `su`).
 
 ---
@@ -2775,7 +2775,7 @@ no  la-mi  to  lo-ka-li-su  de
 **Notes:**
 - The laundering step: `()` → bare `la-mi  to`, identical content. The `()` marks the source as reported; the bare `to` asserts it as personal certainty without new evidence. The diagnosis restores the distinction: `la-mi  to  lo-to-fe-su  lo-ze  re-ka` = "I am certain [only] that the institution announced it."
 - This is FAL-001 S369 (appeal to authority) compressed into a political opening. The mechanism is identical; only the source type differs (standards body rather than a named scholar).
-- `to-fe-su` = knowledge-boundary-structure = institutional standards body (second corpus attestation; FAL-003 S383 was first; deferred registration — see FAL-F-006).
+- `to-fe-su` = epistemic standards framework/body (W072 ✅ — already registered; see FAL-F-006 for deferred-registration history).
 
 ---
 
@@ -2977,7 +2977,7 @@ go  [(la-mi  se  lo-ra-ma-de  de)]  ,
 
 **Notes:**
 - The paragraph deploys seven distinct failures in nine clauses. It is written to sound like a coherent campaign statement; no individual sentence is syntactically malformed. The structural damage is entirely in the epistemic and relational commitments.
-- `la-to-fe-su-ki` = standards-body-agent = someone acting as agent of the standards body (W-form `to-fe-su` + agent suffix `ki`; ⚠️ proposed; this is the third domain attestation of `to-fe-su` — registration threshold now met, see FAL-F-006 resolution below).
+- `la-to-fe-su-ki` = agent performing a standards-body publication event (W097 ✅, active — `to-fe-su-ki` is the inchoative: the moment a ruling enters published `to-su` status; `la-` marks Kur as agent of that event). W072 and W097 both registered before the FAL series.
 
 ---
 
@@ -3321,4 +3321,43 @@ la-mi  to-si  [la-zu  lo-ze  se-to  to-si]
 **FAL-F-010 resolved.** The FAL corpus is now complete as an empirical demonstration: adversarial test (FAL-001–006) plus honest baseline (FAL-007). Together they prove that Tonesu's four discourse mechanisms are neutral infrastructure that make argumentative structure visible — to the benefit of honest speakers and the detriment of dishonest ones.
 
 **Open grammar questions (FAL-follow):**
-- [ ] **FAL-F-011:** The `to-fe-su` registration (FAL-F-006, threshold met at S389) is still queued. Next W-series intake session should register `to-fe-su` formally and check whether `to-fe-su-ki` (agent-of-standards-body) follows from existing morphology or also needs an entry.
+- [x] **FAL-F-011:** ~~`to-fe-su` registration queued.~~ **Resolved: both already registered.** `to-fe-su` = W072 ✅ (epistemic standards framework/body; first use S128; registered before the FAL series). `to-fe-su-ki` = W097 ✅ (inchoative: the moment a ruling enters published `to-su` status; `la-` marks the agent of that event). The FAL corpus footnotes were tagging them as unregistered, but both predate the FAL series by a wide margin. No intake needed; footnotes corrected in place.
+
+---
+
+## FAL-007 Monday Review
+
+**Date:** 2026-03-15 · **Reviewer:** author · **Batch:** FAL-007 (S393–S397)
+
+**Overall verdict:** Yes, this batch works. FAL-007 proves the mechanisms are not just anti-bullshit traps — they are also good-faith speaking tools. That is the test that keeps Tonesu from turning into a punitive debate exoskeleton no one would willingly wear.
+
+**Sentence-level notes:**
+
+**S393** — Excellent. Cleanly separates three layers English constantly smears together: (1) the institution reported something; (2) you are certain the report happened; (3) you have only partial basis for the underlying claim. Annoyingly, it reads fine. That is the right result.
+
+**S394** — The right answer to S385. Same subject, same challenge, no cowardly pivot to Kur. The `:` topic frame stays on policy, the chain is visible, the conclusion stays at the right strength. The biggest practical proof in the batch: `:` is not just a trap for topic shifts, it is also a stabilizer for coherent answers.
+
+**S395 and S396 together** — Probably the strongest general demonstration that `go`-chains are usable by normal adults. The `fact → harm → value → action` sequence is clean, readable, and not bloated. If the honest version were dramatically longer than the manipulative version, the language would be rewarding bad actors. It is not meaningfully more cumbersome. Confirmed.
+
+**S397** — The right inverse of the propaganda paragraph. Same terrain, opposite audit. Strong result. The closing question mostly works, but it is carrying a lot of epistemic machinery at once — a plainer example of the "genuine open question" pattern somewhere in the notes would be useful as a sanity check. Not because S397 is wrong; because the full composite is not the best teaching example for that one specific pattern.
+
+**Best line of the batch:**
+> *The grammar itself makes no judgment — it just keeps the books.*
+
+That is the right framing for the entire FAL corpus. Tonesu is not a morality engine. It is an argument ledger. Honest commitments line up cleanly; dishonest ones become enumerable.
+
+**Registry note (from review):** `ra-su` (food-system / supply infrastructure, S395) is doing a little more semantic lifting than most compounds in the batch. Not a problem at this stage; one to keep an eye on when that area of the registry gets its own intake pass.
+
+**Cross-batch summary confirmed:**
+- bad reasoning becomes structurally visible
+- deep bad reasoning becomes expensive
+- honest reasoning remains fluent
+- honest questioning remains possible
+- same mechanisms work in both adversarial and cooperative discourse
+
+That is not a small claim. That is an actual design achievement.
+
+**Open grammar questions (FAL-follow):**
+- [x] **FAL-F-010:** Resolved — FAL-007 provides the good-faith baseline.
+- [x] **FAL-F-011:** Resolved — W072 and W097 both already registered.
+- [ ] **FAL-F-012:** The closing question pattern in S397 (`la-mi  to-si  [la-zu  lo-ze  se-to  to-si]`) is correct but is the full-composite form. A simpler standalone example of the "genuine open question" pattern — one that isolates the mechanism without the accumulated FAL-007 machinery — would be useful as a teaching example. Not a sentence that needs writing immediately; note it for the next grammar-illustration batch.
