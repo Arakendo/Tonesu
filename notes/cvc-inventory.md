@@ -14,7 +14,7 @@ Four closed-class descriptor categories are assigned to two phonological strata.
 |---------|---------|----------|
 | CV | primitives | closed ontological root set |
 | CV-CV+ | compounds | open, compositional |
-| CVC | lexical descriptors | digits, colors, scale prefixes, observational anchors |
+| CVC | lexical descriptors | digits, colors — closed class; scale prefixes — ergonomic shortforms, CVC phonology by pragmatic choice not admission criteria |
 | CVCC | exceptional anchors | mathematical/physical constants that are irrational, transcendental, or defined by convention with no compositional expression |
 
 CVC and CVCC forms are phonologically stratified from primitives and compounds, giving instant category recognition. The coda cluster in CVCC is itself the tier signal — no CV stem restriction applies.
@@ -295,6 +295,8 @@ The `'` rules from spec/word-formation.md § CVC Descriptor Modifiers and § Com
 ## Scale Prefix Inventory
 
 SI-style magnitude scale words. Structure: `[scale] nu [domain]`. Base unit (×1) requires no prefix — bare `nu` with the domain is the base form.
+
+**Classification note:** Scale prefixes are not closed-class CVC descriptor atoms (see FLAG-CVC-010). They are ergonomic shortforms for positional digit expressions — `pir` = `bol nil nil nil` (10³), `mes` = one-in-a-million scale, etc. Their compositional expressions exist; they were assigned CVC phonology for pragmatic measurement ergonomics, not because they fail the Assemblage-First Rule. They occupy CVC phonological space and block those CV stems, but their admission rationale is separate from digits and colors.
 
 ### Core (nano through giga)
 
@@ -668,6 +670,14 @@ Option 3 may be the most consistent with the dual-register design already in the
 **Status:** Speculation only. Do not design until COL-001 (color system) is resolved and at least one corpus sentence creates concrete pressure for a shorter kind-term. Log under open-questions.md.
 
 ---
+
+### FLAG-CVC-010 — Scale prefixes reclassified as free CVC ergonomic shortforms (March 2026)
+
+Scale prefixes (`pir` kilo, `baf` mega, `wul` giga, etc.) were previously listed alongside digits and colors as closed-class CVC descriptor atoms. This is incorrect under the Assemblage-First Rule: every scale prefix has a valid compositional expression (positional digit chaining — `pir nu pa` = `bol nil nil nil nu pa` = 1 kilometer). They satisfy no admission criterion that digits and colors satisfy.
+
+**Resolution:** Scale prefixes are reclassified as **free CVC ergonomic shortforms** — registered measurement vocabulary that happens to have CVC phonology. Their CVC shape is a pragmatic choice (short, phonologically distinct from compounds, easy to chain before `nu`) not a principled closed-class assignment. They still occupy CVC phonological space and those CV stems remain blocked; capacity accounting is unchanged. But their admission rationale is now distinct from the closed-class digit/color tier.
+
+**Practical effect:** No forms change. The Purpose table and Scale Prefix section header are updated to reflect this. Future scale-prefix candidates (femto, atto, etc.) are admitted as ergonomic shortforms, not by closed-class criteria.
 
 ### FLAG-CVC-004 — `nu-to` dual assignment
 
