@@ -765,7 +765,12 @@ High-frequency molecules are candidates for the practical anchor track (same rat
 
 Compositional forms are verbose but unambiguous. The question is whether discourse frequency justifies anchors — H₂O almost certainly does; the others depend on corpus direction (biology-heavy vs. physics-heavy).
 
-**Do not assign forms until at least one corpus sentence creates concrete pressure.** The element anchor track (FLAG-CVC-011) is the prerequisite: molecule anchors reference element forms and those forms must be stable first (✓ complete as of March 2026).
+**Two candidate resolution paths — do not choose until corpus pressure arrives:**
+
+1. **CVCC practical anchor** — same track as elements; short stable atom for fast reference alongside the canonical compositional form.
+2. **Colloquial contraction** — the compositional form contracts in casual register (same mechanism as `tonesu` ← `to-ne-su`). No new phonological tier needed; the molecule kind-compound just acquires a domain-register short form. This may be the cleaner resolution given that molecule expressions are already structurally regular compounds once element anchors exist.
+
+The element anchor track (FLAG-CVC-011) is the prerequisite for either path: molecule expressions reference element CVCC forms and those must be stable first (✓ complete as of March 2026).
 
 **Status:** Watch item. No forms assigned.
 
