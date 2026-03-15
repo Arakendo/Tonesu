@@ -750,29 +750,22 @@ For each batch: assign forms, run near-neighbor check against all existing CVCC,
 
 ---
 
-### FLAG-CVC-012 — Common molecule CVCC anchors (watch item)
+### FLAG-CVC-012 — Common molecule short forms ✓ RESOLVED
 
-High-frequency molecules are candidates for the practical anchor track (same rationale as Tier A elements): IUPAC-defined identity, compositional form exists via element anchors, extreme domain frequency.
+High-frequency molecules (H₂O, CO₂, O₂, N₂, NH₃, CH₄) have compositional forms via element anchors. They do not belong in the CVCC tier — the practical anchor track is for externally-assigned fixed identities (atomic numbers, IAU constants). Molecule identity is structure-defined and composes cleanly from element anchors; that is exactly what the colloquial registry exists for.
 
-| Molecule | Compositional form | Domain | Notes |
-|----------|--------------------|--------|-------|
-| H₂O (water) | `su-ma bun polm bol lorm` | universal | most frequent molecule in any biology/chemistry context |
-| CO₂ (carbon dioxide) | `su-ma bol sulm bun lorm` | atmosphere, biology | photosynthesis, respiration, climate |
-| O₂ (oxygen gas) | `su-ma bun lorm` | biology, chemistry | respiration anchor |
-| N₂ (nitrogen gas) | `su-ma bun girn` | atmosphere, chemistry | 78% of atmosphere |
-| NH₃ (ammonia) | `su-ma bol girn gal polm` | biochemistry, industry | nitrogen cycle |
-| CH₄ (methane) | `su-ma bol sulm mol polm` | energy, atmosphere | greenhouse gas |
+**Resolution:** Molecule short forms are colloquial contractions of their compositional forms, registered in the colloquial registry when corpus pressure arrives. No CVCC forms assigned; no CVC capacity consumed. The element anchor track (FLAG-CVC-011) is the prerequisite and is now complete.
 
-Compositional forms are verbose but unambiguous. The question is whether discourse frequency justifies anchors — H₂O almost certainly does; the others depend on corpus direction (biology-heavy vs. physics-heavy).
+| Molecule | Compositional form | Colloquial candidate |
+|----------|--------------------|----------------------|
+| H₂O (water) | `su-ma bun polm bol lorm` | `polm-lorm` |
+| CO₂ (carbon dioxide) | `su-ma bol sulm bun lorm` | `sulm-lorm` |
+| O₂ (oxygen gas) | `su-ma bun lorm` | `lorm-lorm` / `bun-lorm` |
+| N₂ (nitrogen gas) | `su-ma bun girn` | `bun-girn` |
+| NH₃ (ammonia) | `su-ma bol girn gal polm` | `girn-polm` |
+| CH₄ (methane) | `su-ma bol sulm mol polm` | `sulm-polm` |
 
-**Two candidate resolution paths — do not choose until corpus pressure arrives:**
-
-1. **CVCC practical anchor** — same track as elements; short stable atom for fast reference alongside the canonical compositional form.
-2. **Colloquial contraction** — the compositional form contracts in casual register (same mechanism as `tonesu` ← `to-ne-su`). No new phonological tier needed; the molecule kind-compound just acquires a domain-register short form. This may be the cleaner resolution given that molecule expressions are already structurally regular compounds once element anchors exist.
-
-The element anchor track (FLAG-CVC-011) is the prerequisite for either path: molecule expressions reference element CVCC forms and those must be stable first (✓ complete as of March 2026).
-
-**Status:** Watch item. No forms assigned.
+Colloquial candidates are illustrative only — actual contractions are corpus-determined, not pre-assigned.
 
 ---
 
