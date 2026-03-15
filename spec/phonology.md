@@ -60,7 +60,8 @@ Long vowels (aa, ee, ii, oo, uu) may function as a morphological modifier.
 **Primary rule: (C)V(C)**
 
 - CV: most common (ka, li, mu, se)
-- V: allowed at word start only (a-, e-)
+- V: **word-initial position only** — a bare vowel syllable may open a word or compound. It must not appear mid-compound: Tonesu's clean parse invariant requires every syllable to have a consonant onset except at word start. Only 5 V forms exist (a e i o u); none are currently assigned. Reserved as a future closed class (discourse particles, affective interjections, or similar). No form from this space may be assigned without an explicit registry decision.
+- VC: **deferred — word-initial only if ever admitted** — a vowel-initial syllable with a closing consonant (e.g. `an`, `el`, `im`). Shares the same word-initial constraint as bare V. Up to ~40 clean forms available. No current assignment; no current pressure (37 CV slots remain free). Condition for opening this tier: CV near-exhaustion, or need for a phonologically distinct particle/pronoun class. See § Open Questions.
 - CVC: allowed (kel, sun, mar)
 - No clusters (CC) in core roots
 - Clusters may appear at compound boundaries but should be avoidable via vowel-final roots
@@ -316,5 +317,6 @@ The full tier system in order of word-shape complexity:
 ## Open Questions
 
 - [ ] Adopt vowel length as a morphological tool, or avoid complexity?
+- [x] ~~**V and VC syllable shapes — status and admission rule.**~~ **Resolved (March 2026).** V (bare vowel, word-initial only): formalized as a 5-slot reserved tier; no forms currently assigned. VC (vowel + coda, word-initial only if ever admitted): logged as a future tier option; ~40 clean forms available; admission condition = CV near-exhaustion OR need for a phonologically distinct class. Both shapes are parseably safe only at word-initial position — mid-compound bare-vowel syllables violate the consonant-onset invariant. No action needed until a forcing case arises. Documented in § Syllable Structure.
 - [x] ~~Allow CVC codas freely, or restrict to a subset of consonants?~~ **Resolved.** CVC codas are restricted: preferred `n l r m s`, marked `z f h`, stops discouraged. Full rule in §CVC Root Reserve and `notes/anchor-inventory.md §Design Constraints`. CVCC tier is the relaxed alternative — no CV stem restriction; CC coda from sonorant/fricative set.
 - [x] ~~Define phonotactics at compound boundaries explicitly?~~ **Resolved.** CV-primitive design makes all internal compound boundaries V.C by construction — no clusters arise. CVC/CVCC forms are particle-surrounded in grammar and never directly chained. See open-questions.md § Phonology.
