@@ -67,10 +67,15 @@ EXISTENCE
 │   ├── ru  (unity/singularity)
 │   └── pu  (plurality/collective)
 │
-└── Force
-    ├── ra  (energy/force)
-    └── ha  (heat/thermal state)
+├── Force
+│   ├── ra  (energy/force)
+│   └── ha  (heat/thermal state)
+│
+└── Organism State
+    └── fa  (affective substrate — inward felt-tone of the organism)
 ```
+
+*Substrate symmetry: `ha` is the thermal-state complement to `ma` (matter); `fa` is the interior-state complement to `zo` (organism). Both are irreducible properties of their substrate class — not reducible to perception (`se`), cognition (`to`), or evaluation (`vo`). Added March 2026.*
 
 ---
 
@@ -89,6 +94,9 @@ These pairs are the most likely sources of ambiguity. Their boundaries must be e
 | `be` (creation) | `ka` (action) | `be` is emergence/growth, which may be non-intentional. `ka` is deliberate act. |
 | `wi` (intention) | `ka` (action) | `wi` is the goal state. `ka` is the actual operation. |
 | `vo` (value) | `to` (knowledge) | `vo` is evaluative/qualitative. `to` is descriptive/structural. |
+| `fa` (affect) | `se` (perception) | `fa` is inward-facing organism state (mood substrate, arousal, valence). `se` is outward-facing detection of the world. A chemically depressed person has active `fa` with no active `se` target. |
+| `fa` (affect) | `vo` (value) | `fa` is pre-evaluative substrate — affect rises before any value judgment occurs. `fa-be` (affect increasing) with no `vo` modifier is valid and common. |
+| `fa` (affect) | `to` (knowledge) | `fa` is the middle stage of the `se → fa → to` pipeline; affect can activate without producing a cognitive model (`fa-no-to` = affect without cognition). |
 | `ne` (relation) | `pe` (part) | `ne` is a link between peers. `pe` is a component inside a whole. |
 | `ra` (energy) | `ha` (heat) | `ra` is energy as force or capacity (electrical charge, kinetic force, structural load). `ha` is the thermal state of matter. A frozen conductor carrying high current has high `ra` and low `ha` simultaneously — they are orthogonal. `ra-de` = power failure; cold = `no-ha`. |
 
