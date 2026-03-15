@@ -214,7 +214,7 @@ All 8 forms from `spec/phonology.md §CVC Root Reserve shortlist` are used here 
 
 ## Color Inventory
 
-Core set covers the six typologically primary/neutral points. Extended set covers secondary colors; all three can be deferred since they compose from core colors via `zi`.
+Core set covers the six typologically primary/neutral points. Secondary colors are documented as canonical compositional blends (`A zi B`) rather than CVC atoms; they satisfy the Assemblage-First Rule by composing cleanly from core hues.
 
 ### Core
 
@@ -227,20 +227,24 @@ Core set covers the six typologically primary/neutral points. Extended set cover
 | blue   | `pom` | `po`    | m    | |
 | yellow | `sam` | `sa`    | m    | |
 
-### Extended (retained)
+### Extended (CVC atom retained)
 
 | Color  | Form  | CV stem | Coda | Notes |
 |--------|-------|---------|------|-------|
 | brown  | `kus` | `ku`    | s    | no clean compositional form |
 
-### Extended (retired — Assemblage-First audit, March 2026)
+### Canonical secondary blends
 
-Orange and purple have valid compositional expressions (`ker zi sam` and `ker zi pom`) and therefore do not satisfy criterion 1 of the Assemblage-First Rule. A color that can be expressed by blending two core hue primitives is not a lexical gap — it is a compound. CVC slots `te` and `do` are freed.
+These colors all compose cleanly from core hues via `zi` (mutual/coupling) and therefore do not satisfy criterion 1 of the Assemblage-First Rule. Canonical forms are listed here so usage is consistent across the corpus.
 
-| Color  | Retired CVC | CV stem freed | Canonical form |
-|--------|-------------|---------------|----------------|
-| orange | `tem`       | `te`          | `ker zi sam` (red + yellow blend) |
-| purple | `dol`       | `do`          | `ker zi pom` (red + blue blend) |
+| Color  | Form          | Composition          |
+|--------|---------------|----------------------|
+| gray   | `yel zi yim`  | black + white        |
+| pink   | `ker zi yim`  | red + white          |
+| cyan   | `gim zi pom`  | green + blue         |
+| lime   | `sam zi gim`  | yellow + green       |
+| orange | `ker zi sam`  | red + yellow         |
+| purple | `ker zi pom`  | red + blue           |
 
 **Note on prior colloquial anchors:** `lu-ra` (≈red), `lu-zo` (≈green), `lu-pa` (≈blue) were logged as informal hue expressions (COL-001, open-questions.md). With this CVC set now normative, those compounds are poetic/informal register only; the CVC forms above are canonical.
 

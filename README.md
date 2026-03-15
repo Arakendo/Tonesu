@@ -341,7 +341,7 @@ gal ru-pu mol       →  3/4
 
 ## Colors
 
-Color vocabulary was formally admitted in COL-001 (March 2026). All forms are CVC atoms on the same phonological tier as digits.
+Color vocabulary was formally admitted in COL-001 (March 2026). CVC atoms occupy the same phonological tier as digits.
 
 ### Core hues
 
@@ -356,11 +356,17 @@ Color vocabulary was formally admitted in COL-001 (March 2026). All forms are CV
 
 ### Extended hues
 
-| Color | Form  | Notes |
-|-------|-------|-------|
-| brown | `kus` | no clean compositional form |
-| orange | — | composes as `ker zi sam` (red + yellow blend) |
-| purple | — | composes as `ker zi pom` (red + blue blend) |
+CVC atoms where no clean compositional form exists; canonical blends for everything else.
+
+| Color  | Form | Canonical form | Notes |
+|--------|------|----------------|-------|
+| brown  | `kus` | —                       | no clean compositional form |
+| gray   | —     | `yel zi yim`            | black + white blend |
+| pink   | —     | `ker zi yim`            | red + white blend |
+| cyan   | —     | `gim zi pom`            | green + blue blend |
+| lime   | —     | `sam zi gim`            | yellow + green blend |
+| orange | —     | `ker zi sam`            | red + yellow blend |
+| purple | —     | `ker zi pom`            | red + blue blend |
 
 ### Visual-pattern modifiers
 
@@ -657,7 +663,7 @@ notes/              Design rationale, semantic map, open questions, history
 | Corpus | 251 numbered sentences + 7 multi-turn conversations |
 | Open questions | ~20 tracked items across phonology, grammar, ontology, and domains |
 | CVCC anchors | 19 forms assigned (6 math, 8 physics, 3 astro/time, 2 atomic mass) |
-| Colors | 7 CVC atoms admitted (COL-001, March 2026); visual-pattern compounds corpus-attested |
+| Colors | 7 CVC atoms (1 core set + brown); 6 canonical secondary blends; visual-pattern compounds corpus-attested |
 
 ## Prior Art
 
