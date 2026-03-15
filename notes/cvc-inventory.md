@@ -524,6 +524,28 @@ baf baf gal … dolm nu ma     → atomic mass unit (≈ 1836 × m_e, approximat
 | μ₀ (vacuum permeability) | now measured post-2019 SI redefinition | `dorn` (do+-rn) — Tier B; wait for corpus |
 | ∞ (infinity)       | not a number; limit concept | `no-fe nu` (unbounded quantity) preferred; defer CVCC unless corpus insists |
 
+#### Chemical element anchors (Tier A)
+
+Each element's atomic number is IUPAC-assigned — a convention-defined identity with no compositional Tonesu expression. Same ontological class as `wels` (mole) and `holf` (AU). CVCC forms consume zero CVC capacity. Forms assigned in three batches; see FLAG-CVC-011.
+
+| Element    | Symbol | Z  | Form | CV core | CC coda | Notes |
+|------------|--------|----|------|---------|---------|-------|
+| hydrogen   | H  |  1 | —    | —       | —       | batch 1 |
+| helium     | He |  2 | —    | —       | —       | batch 1 |
+| carbon     | C  |  6 | —    | —       | —       | batch 1 |
+| nitrogen   | N  |  7 | —    | —       | —       | batch 1 |
+| oxygen     | O  |  8 | —    | —       | —       | batch 1 |
+| sodium     | Na | 11 | —    | —       | —       | batch 2 |
+| silicon    | Si | 14 | —    | —       | —       | batch 2 |
+| phosphorus | P  | 15 | —    | —       | —       | batch 2 |
+| chlorine   | Cl | 17 | —    | —       | —       | batch 2 |
+| calcium    | Ca | 20 | —    | —       | —       | batch 2 |
+| iron       | Fe | 26 | —    | —       | —       | batch 3 |
+| copper     | Cu | 29 | —    | —       | —       | batch 3 |
+| zinc       | Zn | 30 | —    | —       | —       | batch 3 |
+| gold       | Au | 79 | —    | —       | —       | batch 3 |
+| lead       | Pb | 82 | —    | —       | —       | batch 3 |
+
 ---
 
 ## Cross-inventory Collision Check
@@ -680,6 +702,21 @@ Scale prefixes (`pir` kilo, `baf` mega, `wul` giga, etc.) were previously listed
 **Practical effect:** No forms change. The Purpose table and Scale Prefix section header are updated to reflect this. Future scale-prefix candidates (femto, atto, etc.) are admitted as ergonomic shortforms, not by closed-class criteria.
 
 **Spec reference:** The ergonomic shortform sub-class is formally defined in `spec/word-formation.md §Ergonomic Shortforms`, with admission criteria and the distinction from closed-class CVC atoms and CVCC exceptional anchors. The phonological tier table in `spec/phonology.md §Phonological Tier Stratification` is updated to reflect the two CVC sub-categories.
+
+### FLAG-CVC-011 — Chemical element CVCC anchors (Tier A, scaffolded March 2026)
+
+Tier A chemical elements require CVCC forms. Each element's atomic number is IUPAC-assigned with no compositional Tonesu expression — same ontological status as `wels` (mole). CVCC is the correct tier; cost to CVC stratum: zero.
+
+**Planned batches:**
+- Batch 1: H, He, C, N, O — universal chemistry anchors
+- Batch 2: Na, Si, P, Cl, Ca — metabolic/biochemical set
+- Batch 3: Fe, Cu, Zn, Au, Pb — industrial/materials set
+
+For each batch: assign forms, run near-neighbor check against all existing CVCC, update spoken sequences and collision check table.
+
+**Status:** Scaffolded. No forms assigned yet.
+
+---
 
 ### FLAG-CVC-004 — `nu-to` dual assignment
 
