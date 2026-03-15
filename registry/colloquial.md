@@ -344,3 +344,17 @@ Related:      zo-se-ne (formal source), zom (fish: same one-root compression dep
 **Resolution:** the arthropod base class uses the disyllabic casual form `zo-pe`. No CLQ entry registered. Discriminated species-level forms (`ne'zo-pe`, `su'zo-pe`, `so'zo-pe`, `zi'zo-pe`, `de'zo-pe`) are unaffected — they carry their discriminator prefixes and do not produce colliding stubs.
 
 **Design note:** the CVC ceiling in the contraction rule is a maximum, not a requirement. Disyllabic casual forms are accepted. This is not a failure of the stub system — it is the namespace documentation working as intended. Future classes with `zo-`-anchored bases whose terminal root begins with `p` will face the same constraint.
+
+---
+
+## FNG-001 namespace note — no CLQ entry for `zo-ne` (fungal base)
+
+*Documented: S334 (FNG-001-G, March 2026).*
+
+`zo-ne` (fungal/mycelial base kind-term) cannot produce a CVC stub without collision. `zo-ne` → `zon` is already registered as CLQ-006a (herd animal: `zo-se-ne`). This is the second CVC namespace collision in the `zo-` prefix space.
+
+**Occupied `zo-` coda consonants as of FNG-001:** `l` (zol), `f` (zof), `d` (zod), `s` (zos), `m` (zom), `p` (zop), `n` (zon). Same seven stubs as KNM-008; `n`-coda is now doubly contested.
+
+**Resolution:** the fungal base class uses the disyllabic casual form `zo-ne`. No CLQ entry registered. Discriminated forms (`pa'zo-ne`, `su'zo-ne`, `de'zo-ne`, `zi'zo-ne`) are unaffected.
+
+**Structural cause (common to both collisions):** the CVC stub rule drops intermediate morphemes. A depth-2 compound `zo-[Y]` and a depth-3 compound `zo-se-[Y]` share terminal root `Y` and therefore produce colliding stubs whenever they end on the same root. For arthropods: `zo-pe` vs. `zo-se-so-pa` (both `p`-initial terminal). For fungi: `zo-ne` vs. `zo-se-ne` (identical terminal `ne`). The architecture is not defective — the CVC ceiling is a compression maximum, not a guarantee of uniqueness across depth boundaries. The formal compounds `zo-pe` and `zo-ne` are fully distinct from `zo-se-so-pa` and `zo-se-ne` in any non-truncated context.
