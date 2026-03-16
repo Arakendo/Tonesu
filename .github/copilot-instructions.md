@@ -170,3 +170,34 @@ The website (`www/docs/`) is a public-facing showcase of Tonesu. The following r
 ### Written-form quick reference
 
 Strip hyphens: `to-li` → `toli` · `ra-ki-mu` → `rakimu` · `to-no-fe` → `tonofe` · `pawi'kasu` (juncture `'` is normative, stays) · `la-toli` → `latoli` · `lo-tosu` → `lotosu`.
+
+---
+
+## Translation file conventions (`corpus/translations/`)
+
+### `Written:` fields are mechanical hyphen-stripping only
+
+The `Written:` line in a translation file entry shows the orthographic form of the Tonesu sentence — the notation form with hyphens removed and apostrophes preserved. **Nothing else changes.**
+
+Rules:
+- Remove all hyphens. Every other character is copied verbatim.
+- Preserve `'` (prosodic juncture). Preserve spaces between words.
+- Do **not** add, remove, or alter any letters.
+- Do **not** apply diacritics, accents, or any phonological smoothing.
+- Do **not** interpret the token as a natural-language word. It is a formal symbol.
+
+Correct derivation:
+```
+Notation:   ka-zo-ra-ma  lo-ka-du-zo-su
+Written:    kazorama lokaduzosu
+```
+
+Wrong (model hallucination pattern to avoid):
+```
+Written:    kazozarma          ← letters dropped/transposed
+Written:    tokoarème          ← diacritics invented, French-style ending hallucinated
+Written:    kazozorama         ← morpheme accidentally doubled
+Written:    louduzousu         ← vowels inserted mid-token
+```
+
+The analytic/notation form (`ka-zo-ra-ma`) is always the source of truth. If the `Written:` field and the notation form disagree, the notation form wins and the `Written:` field must be corrected.
