@@ -46,7 +46,7 @@ ne-ra      =  ne (relation) + ra (energy)
 
 ## The juncture marker `'`
 
-Long compounds are still right-branching by default. When a left subgroup should be read as a unit before combining with the rest, use `'` to mark its right boundary:
+Long compounds are still right-branching by default. When a left subgroup should be read as a unit before combining with the rest, use `'` to mark its left boundary:
 
 ```
 pa-wi'ka-su   =  [pa-wi] + [ka-su]
@@ -55,6 +55,22 @@ pa-wi'ka-su   =  [pa-wi] + [ka-su]
 ```
 
 Without the `'`, the parse would be `pa + [wi + [ka + su]]` — which reads differently. The apostrophe makes the intended grouping visible.
+
+`'` is not just a readability tool — it can be required for correctness. Consider a color modifier attached to a kind-term compound:
+
+```
+ker-zo-se-so  →  (wrong) ker modifies only the final root so
+ker'zo-se-so  →  (right) ker modifies {zo-se-so} as a whole kind-term
+```
+
+Without `'`, the color binds to the wrong element. With it, the entire organism class is qualified.
+
+`~` (the approximation mark) can follow `'` immediately to hedge just the subcompound:
+
+```
+ker'zo-se-so   →  the red canid-pack kind
+ker'~zo-se-so  →  the red something-like-canid-pack kind  (uncertain about the base class)
+```
 
 ---
 
@@ -100,7 +116,27 @@ Most compounds are 2–4 roots. Longer compounds are valid but should use `'` gr
 ## Three stages of a compound's life
 
 1. **Compositional** — you read it and the meaning falls out directly
-2. **Algebraic default** — the most useful reading becomes the expected one in context
-3. **Registry-stabilised** — the compound has a canonical definition in the word list
 
-Most of the words in [the word list](../reference/words.md) are at stage 3. Some are still compositional and do not need a registry entry.
+```
+se-no-to   =  perception + absence + knowledge
+           →  a signal without an interpretive model
+```
+
+2. **Algebraic default** — a recognized operator pattern makes the reading predictable across a whole class
+
+```
+X-fe  →  boundary / limit of X
+
+to-fe  →  epistemic boundary  (the line between knowledge states)
+wi-fe  →  intentional limit   (ethical constraint, policy bound)
+ti-fe  →  temporal deadline
+```
+
+3. **Registry-stabilised** — corpus use has confirmed a specific narrower reading
+
+```
+ra-su    algebraic reading:  energy structure
+         registered reading: star  (stable in astronomy contexts)
+```
+
+Most of the words in [the word list](../reference/words.md) are at stage 3. Many useful compounds never need registration — their meaning falls directly out of the structure every time.
