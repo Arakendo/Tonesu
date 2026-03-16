@@ -23,5 +23,9 @@ nav:
   - Reference:
     - Primitives: reference/primitives.md
     - Words: reference/words.md
+  - Explore:
+    - Overview: explore/index.md
+    - Building Compounds: explore/compounds.md
+    - Sentences: explore/sentences.md
   - About:
     - Principles: about/principles.md
