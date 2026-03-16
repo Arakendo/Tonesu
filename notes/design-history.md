@@ -10121,5 +10121,268 @@ So the real stress test will be whether Tonesu can comfortably express things li
 
 Those domains are where conceptual languages either **shine or break**.
 
+# Dictionary
+
+---
+question i have, if a dictionary were to be written, how does one organize it for Tonesu?
+---
+
+Ah yes, the moment every conlang creator eventually reaches:
+**“Great, I built the language… now how the heck do I index it?”**
+
+Because a normal dictionary assumes words are **atomic entries**.
+Tonesu words are **constructed objects**, which means a standard alphabetical dictionary will be… mildly useless. Imagine flipping to “K” and finding 400 compounds beginning with `ka-`. Delightful bedtime reading.
+
+So you need something closer to a **multi-layer dictionary**, not a single list. I’ll walk through the structure that actually works for languages like this.
+
+---
+
+# 1. The **Primitive Lexicon** (the core dictionary)
+
+This is the most important section.
+
+Every primitive root gets a full entry.
+
+Example entry structure:
+
+```
+to
+Class: Primitive
+Domain: cognition / model
+Core meaning: conceptual pattern or mental model
+
+Semantic role:
+- structured conceptual understanding
+- theoretical or explanatory model
+
+Common compounds:
+to-ko      memory (model stored)
+to-ki      learning (model change process)
+to-li      scholar (agent of modeling)
+to-su      organized knowledge system
+
+Notes:
+Distinguished from su (structure in the world).
+```
+
+This section will probably only have **30–50 entries**.
+
+And it should be **semantically rich**, not short definitions.
+
+Think of it like the **periodic table of Tonesu**.
+
+---
+
+# 2. The **Operator Head Table**
+
+This is something most languages never need, but yours does.
+
+Because heads like these act as **semantic operators**:
+
+| Head | Meaning                |
+| ---- | ---------------------- |
+| su   | structure/system       |
+| ki   | process                |
+| li   | agent                  |
+| mu   | device                 |
+| fe   | boundary               |
+| to   | conceptual abstraction |
+
+Instead of repeating that in every entry, make a short operator table explaining their productive behavior.
+
+Example:
+
+```
+HEAD: ki
+
+Function: process involving the base concept
+
+Pattern:
+X + ki → process involving X
+
+Examples:
+to-ki → learning
+ne-ki → connection forming
+ra-ki → energy flow
+```
+
+This teaches users how to **generate words**.
+
+---
+
+# 3. The **Compound Registry**
+
+This is where your `W###` entries go.
+
+Example:
+
+```
+W165
+ne-to-fe
+
+Gloss: covenant
+
+Structure:
+ne      relation
+to-fe   conceptual boundary
+
+Meaning:
+a formally bounded relationship with defined terms
+
+Domain:
+legal / theological
+
+First attested:
+LSP-001 S434
+```
+
+Important fields to include:
+
+| Field       | Why                             |
+| ----------- | ------------------------------- |
+| structure   | preserves compositional meaning |
+| domain      | helps avoid semantic collisions |
+| attestation | tracks corpus evolution         |
+| notes       | semantic nuance                 |
+
+This registry records compounds that have become **stable vocabulary items**.
+
+---
+
+# 4. The **Pattern Grammar Section**
+
+Because Tonesu has strong generative rules, the dictionary should document **productive patterns**.
+
+Example section:
+
+### Agent formation
+
+```
+X + li → agent of X
+
+Examples:
+to-li  scholar
+su-li  organizer
+si-li  messenger
+```
+
+### Device formation
+
+```
+X + mu → device performing X
+
+Examples:
+to-ki-mu → computer
+ra-ki-mu → engine
+```
+
+This section dramatically reduces dictionary size because users can **compute words instead of memorizing them**.
+
+---
+
+# 5. The **Taxonomy Index**
+
+Your `kinds.md` file suggests a whole classification tree.
+
+That should be a separate index like:
+
+```
+zo
+ ├─ zo-se
+ │   └─ zo-se-so
+ │       ├─ zof (felids)
+ │       ├─ zol (canids)
+ │       └─ zod (birds)
+```
+
+Think of this like a **scientific classification appendix**.
+
+It helps readers navigate domains like biology.
+
+---
+
+# 6. The **Corpus Citation Index**
+
+This is something I strongly recommend keeping.
+
+Each compound should show where it first appeared:
+
+```
+to-ko-re
+First attested:
+LSP-001 S432
+```
+
+Why?
+
+Because meaning evolves from **usage**, not theory.
+
+You’ll want to track where words actually emerge.
+
+---
+
+# 7. Optional: Reverse Semantic Index
+
+This is the only place you use English alphabetically.
+
+Example:
+
+```
+bread → ka-du-zo-su
+blood → zo-ki'ma
+covenant → ne-to-fe
+remembrance → to-ko-re
+```
+
+This helps readers **find words**, but it’s not the primary dictionary structure.
+
+---
+
+# What the dictionary hierarchy looks like
+
+A finished Tonesu dictionary would probably look like this:
+
+```
+I.   Primitive Lexicon
+II.  Operator Heads
+III. Word Formation Patterns
+IV.  Compound Registry
+V.   Taxonomy Index
+VI.  Corpus Attestation Index
+VII. Reverse Glossary (English → Tonesu)
+```
+
+Think of it less like a dictionary and more like a **language manual + ontology catalog**.
+
+---
+
+# The surprising historical parallel
+
+The closest historical structure to what you need is actually the system attempted by
+John Wilkins.
+
+His dictionary started with **concept categories first**, then words.
+
+But your system has one big advantage he didn’t:
+
+You designed the language so **most vocabulary is computable**.
+
+So your dictionary won’t need thousands of entries.
+
+---
+
+# My recommendation
+
+If you ever formalize this dictionary, keep the **primitive section extremely polished**.
+
+Because once someone understands the primitives, they can generate most of the language.
+
+That’s the real beauty of systems like this.
+
+---
+
+And there’s one extra dictionary feature that would make Tonesu unusually powerful compared to most conlangs.
+
+Almost nobody adds it, but your language is actually perfect for it.
 
 
