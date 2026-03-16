@@ -52,6 +52,15 @@ Short suffix syllables that shift a root into a different lexical role. Regular,
 
 Derivational suffixes attach directly to the root without a separator.
 
+**Stacking order:** when multiple derivational markers apply, the order is **root → semantic modifier → role marker**. The semantic modifier (`-su`, `-ki`, `-to`, `-ge`) transforms the concept first; the role marker (`-li`, `-mu`, `-pa`) then specifies how that transformed concept is instantiated.
+
+```
+to-ki-mu   →   knowledge-change (to-ki) + device (-mu)   =   computing device
+to-ki-li   →   knowledge-change (to-ki) + agent (-li)    =   learner
+```
+
+Stacking more than one role marker on the same base is disallowed; restructure as a compound instead (`ka-li-su` = governance, not `*ka-li-li-su`). Maximum one derivational suffix per lexical unit before compounding is required — rule is in spec/morphology.md § Derivational Suffix Limit.
+
 ---
 
 ## Word Formation Pathways
@@ -204,6 +213,7 @@ The elements from `'` to the end of the compound (or the next `'` if present) fo
 - **Re-scoping function:** `'` is not solely a depth-management device. When a modifier's default right-branching parse would produce a wrong reading, `'` actively re-scopes the modifier over the pre-bound subunit. Example: `ker-zo-se-so` (no apostrophe) right-branches as *ker modifies {zo-{se-{so}}}*, attaching the color to the terminal root rather than to the organism as a whole. `ker'zo-se-so` binds `zo-se-so` first, then attaches `ker` correctly over the whole kind-term. In such cases `'` is required for correctness, not merely for clarity at depth. The mechanism works identically over 3-root and 4-root units.
 - Multiple `'` markers are permitted. Each additional apostrophe increases cognitive parse load; casual and spoken registers will naturally avoid deep nesting. Technical, alchemical, and formal registers may use as many as the compound structure requires.
 - Phrase restructuring using connective particles (e.g. `ne`) remains available and is preferred in speech when depth makes the compound unwieldy.
+- **Depth guideline:** 2–4 roots are the normal range for a single compound. At depth 5+, prefer `'` grouping if the parse is still unambiguous, or restructure as a multi-word phrase. Depth is not a hard limit — technical and formal registers routinely exceed it — but compounds longer than 4 roots without `'` are a signal to pause and check whether the intent is clear.
 
 **Role-marker interaction:** role-prefix particles (`la-`, `lo-`, etc.) attach to the outer NP boundary and do not participate in the `'` grouping mechanism. The role-marker is outside-NP; `'` is NP-internal. The two levels are orthogonal: `la-ker'zo-se-so` = agent:{red-{kind-term}}, with no conflict.
 
@@ -374,4 +384,4 @@ Status:       proposed | accepted | lexicalized | deprecated
 
 - [x] ~~Decide separator convention at compound boundaries (none, hyphen in writing, pause in speech).~~ → **Resolved: solid spelling (no separator).** See § Written Form.
 - [ ] Define maximum compound length before compression is required
-- [ ] Confirm suffix order when multiple derivational markers stack
+- [x] ~~Confirm suffix order when multiple derivational markers stack~~ → **Resolved.** Order is root → semantic modifier → role marker. See § Derivational Markers.
