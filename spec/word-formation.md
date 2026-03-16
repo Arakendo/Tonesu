@@ -97,6 +97,84 @@ The preferred canonical form is registered in lexicon/roots.md. Alternates may b
 
 ---
 
+## Semantic Operator Patterns
+
+Tonesu compounds are not arbitrary pairings. Many primitives, when used as the **head** of a compound (the rightmost element), function as **semantic operators**: they transform the modifier's meaning in a predictable, domain-general way. These patterns are extracted from registry usage and are normative default readings.
+
+**The default algebraic reading applies unless overridden by a registered specialized meaning.** Registered entries may develop stable specialized readings narrower than the algebraic default (e.g. `ra-su` = "star" rather than the bare algebraic "energy structure") — but the specialized reading *inherits from and does not contradict* the default.
+
+### Productive operator heads
+
+| Head | Operator reading | Example | Gloss |
+|------|-----------------|---------|-------|
+| `su` | structured system / framework of X | `to-su` | organized knowledge |
+| `ki` | process / transition / activation involving X | `to-ki` | learning (knowledge-change) |
+| `fe` | boundary / limit / threshold of X | `to-fe` | epistemic threshold |
+| `li` | agent whose domain is X | `to-li` | scholar (knowledge-agent) |
+| `mu` | artifact / instrument of X | `to-ki-mu` | computing device (process-artifact) |
+| `ge` | property characterized by X | `ra-ge` | energetic |
+| `ne` | relational link / coupling involving X | `si-ne` | communication (signal-relation) |
+| `be` / `de` | growth / decay phase of X | `fa-be` · `fa-de` | affect rising · affect fading |
+| `re` | recurring cycle / repeating instance of X | `ti-re` | recurring time, scheduled cycle |
+| `zi` | bilateral coupling event of X | `zi-ka` | intentional exchange |
+| `no-` | absence / negation of X (prefix) | `no-fe` | no boundary (unbounded) |
+
+**`no-` note:** `no-` is a prefix operator, not a head. It negates the immediately following root or compound. Listed here because it participates in compound algebra as a productive modifier slot.
+
+### Productive operator modifiers (left-slot patterns)
+
+Some primitives in the **modifier position** (left slot) also produce predictable readings:
+
+| Left slot | Effect on head | Example | Gloss |
+|-----------|---------------|---------|-------|
+| `to` (as modifier) | hypothetical / model-layer version of HEAD | `to-go` | hypothetical causal frame |
+| `ka` (as modifier) | deliberate / intentional version of HEAD | `ka-de` | deliberate destruction |
+| `no` (as modifier) | negated / absent version of HEAD | `no-ha` | cold (absence of heat) |
+| `re` (as modifier) | habitual / repeating version of HEAD | `re-ki` | habitually moves |
+
+### Three stages of compound meaning
+
+Every registered compound passes through up to three interpretive stages:
+
+**1. Compositional** — meaning read directly from primitives by the head rule and operator patterns above. Any speaker who knows the primitives can derive this reading. No registry entry required.
+
+```
+se-no-to   →   perception + absence + knowledge   =   signal without model
+```
+
+**2. Algebraic default** — meaning follows a recognized operator pattern in the table above. Predictable across the whole class; the pattern itself is what is learned, not each instance.
+
+```
+X + fe   →   boundary / limit of X
+to + fe  →   epistemic threshold
+wi + fe  →   intentional limit / ethical constraint
+ti + fe  →   temporal deadline
+```
+
+**3. Registry-stabilized** — corpus usage has confirmed a specific reading, which may be narrower than the algebraic default. The specialization is registered; the algebraic reading remains valid in non-registered contexts.
+
+```
+ra-su   algebraic: energy structure
+        registry:  star (W015) — stable specialized reading in astronomy domain
+```
+
+### When to apply `'` for algebraic clarity
+
+Because the operator pattern table defines predictable heads, the need for `'` can be stated in algebraic terms:
+
+- **Use `'`** when the intended head is not the terminal root of the compound — i.e., when an operator pattern applies to an internal subunit rather than to the whole remaining chain.
+- **Use `'`** when a modifier would otherwise be read as applying to only the terminal element rather than to a multi-root algebraic unit.
+- **A compound is a candidate for `'` or for restructuring** when its terminal root is a weak head (a primitive without a strong operator reading) and the semantic weight rests on an internal subunit.
+
+```
+ker-zo-se-so     →  ker modifies {so} only (wrong)
+ker'zo-se-so     →  ker modifies {zo-se-so as algebraic unit} (correct)
+```
+
+The full structural rules for `'` are in § Compound Grouping Marker below.
+
+---
+
 ## Compound Grouping Marker
 
 **Default parse: right-branching.**
