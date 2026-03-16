@@ -3361,3 +3361,211 @@ That is not a small claim. That is an actual design achievement.
 - [x] **FAL-F-010:** Resolved — FAL-007 provides the good-faith baseline.
 - [x] **FAL-F-011:** Resolved — W072 and W097 both already registered.
 - [ ] **FAL-F-012:** The closing question pattern in S397 (`la-mi  to-si  [la-zu  lo-ze  se-to  to-si]`) is correct but is the full-composite form. A simpler standalone example of the "genuine open question" pattern — one that isolates the mechanism without the accumulated FAL-007 machinery — would be useful as a teaching example. Not a sentence that needs writing immediately; note it for the next grammar-illustration batch.
+
+---
+
+## Exodus 3:1–15 Translation Stress Test (S398–S417)
+
+*Batch purpose (EXO-001): first translation from the Moses narrative. Stress-tests theophany, divine name, liberation, holy ground, and the identity-copula gap. All new compounds proposed here are filed in `corpus/translations/Bible/exodus-3-1-15.md` which contains the full vocabulary framework, verse-by-verse analysis, and gap documentation.*
+
+*New compounds attested this batch: `zo-su-ka-li` (shepherd), `ra-lu-ki` (fire), `ki-ne` (sandal), `pa-vo-fe` (holy ground), `fa-ra` (fear/awe), `fa-de-ra` (suffering), `pa-ki`/`pa-ki-li` (liberation/liberator), `pa-su` (mountain), `si-ki-li` (messenger/angel), `go-ne` (self-originating relation / "I am who I am"), `ka-pa-ki` (liberation act).*
+
+---
+
+**S398 — Moses shepherded Jethro's flock.** *(EXO-001-A)*
+
+```
+la-na-Moses  lo-zon  ka-zo-su-ka  ne-na-Yitro
+```
+
+**Notes:** First attestation of `zo-su-ka` / `zo-su-ka-li` (shepherd: structured-organism-tending-agent). `zon` (herd ungulates, CLQ-006a) is the natural form for Jethro's flock.
+
+---
+
+**S399 — He led the flock toward the open wilderness.** *(EXO-001-B)*
+
+```
+la-na-Moses  lo-zon  ka-di  pa-no-ko
+```
+
+**Notes:** `pa-no-ko` = place without containment = open/unenclosed wilderness. `no-ko` (W016) already registered; `pa-` locative prefix applies.
+
+---
+
+**S400 — He came to Horeb, the mountain of God.** *(EXO-001-C)*
+
+```
+la-na-Moses  ki  pa-na-Horeb  [pa-su-be-go-li :: mountain of the creator]
+```
+
+**Notes:** First attestation of `pa-su` (structured place = mountain). `pa-su'be-go-li` is the full form (depth 5; `'` recommended); `be-go-li` already a registered unit so the grouping is unambiguous.
+
+---
+
+**S401 — The angel of the LORD appeared to Moses in fire.** *(EXO-001-D)*
+
+```
+la-si-ki-li'be-go-li  lu  lo-na-Moses  ro-ra-lu-ki
+```
+
+**Notes:** First attestation of both `si-ki-li` (signal-motion-agent = messenger/angel) and `ra-lu-ki` (energy-light-process = fire). `si-ki-li'be-go-li` = creator's messenger = divine messenger; `'` binds `be-go-li` as the possessor subcompound. `lu` as intransitive appearance verb (became visible).
+
+---
+
+**S402 — The bush burned but was not consumed.** *(EXO-001-E)*
+
+```
+la-zo-su  ra-lu-ki  no  de
+```
+
+**Notes:** The miracle is structurally encoded: `ra-lu-ki  no  de` = fire-process + but-not + decrease = burning without consuming. `no` contrastive coordinator. The most compact rendering yet of a miracle claim. **CLQ-EXT candidate:** `no-de'ra-lu-ki` (fire-without-decrease) as a potential juncture-compound colloquial unit for repeated reference to this event.
+
+---
+
+**S403 — Moses reasoned: what is the cause that the bush burns but does not decrease?** *(EXO-001-F)*
+
+```
+la-na-Moses  to  [to-si  go  la-zo-su  ra-lu-ki  no  de]
+```
+
+**Notes:** `la-X  to  {clause}` = X cognitively holds the question. `to-si  go` = what-is-the-cause = "why." First use of `to-si  go` as a causal content question.
+
+---
+
+**S404 — God called Moses by name from within the bush.** *(EXO-001-G)*
+
+```
+ta  la-na-Moses  ki,  la-Elohim  ka-si  lo-na-Moses  ko-zo-su
+```
+
+**Notes:** `ko-zo-su` = containment-of-plant = from within the bush. `ko` as spatial origin marker. Temporal frame + main clause: when Moses moved [to look], Elohim called.
+
+---
+
+**S405 — Moses answered: "Here I am."** *(EXO-001-H)*
+
+```
+la-na-Moses  si  lo-pa-mi
+```
+
+**Notes:** `pa-mi` = place-of-me = my location = here. The locative surface of Hebrew *hineni* (here I am). **Gap:** *hineni* as a speech-act of total availability has no Tonesu equivalent; `lo-pa-mi` captures only the locative dimension. See exodus-3-1-15.md Gap 2.
+
+---
+
+**S406 — God commanded: do not approach; your sandals; this place is holy.** *(EXO-001-I)*
+
+```
+la-Elohim  ka-si  /  no-ki-di  /  lo-ki-ne  ka-de-ne  /  pa-mi  pa-vo-fe
+```
+
+**Notes:** Three clauses: (1) `no-ki-di` = do not move toward (negated directional motion imperative); (2) `lo-ki-ne  ka-de-ne` = your sandals (`ki-ne` = motion-bond = footwear), deliberately-unbind them; (3) `pa-mi  pa-vo-fe` = this place [is a] value-bounded place = holy ground. **First attestation:** `ki-ne` (sandal, W152), `pa-vo-fe` (holy ground, W153).
+
+---
+
+**S407 — God named himself by relational lineage.** *(EXO-001-J)*
+
+```
+la-Elohim  ne  go-na-Abraham  go-na-Yitzhak  go-na-Yaakov
+```
+
+**Notes:** `go-na-X` = origin-relation to named-X = God-of-X. Three-name proper-noun chain joined by repeated `go` origin-frames. First three-proper-name relational list in corpus.
+
+---
+
+**S408 — Moses hid his face; he was afraid to look at God.** *(EXO-001-K)*
+
+```
+la-na-Moses  ka-ko  lo-se-lu-ze  /  fa-ra  go  ka-se  lo-Elohim
+```
+
+**Notes:** `ka-ko  lo-se-lu` = deliberately-contain the visual-perception-organ = hide/cover the eyes. `se-lu` (W130). **First attestation:** `fa-ra` = affect-force = fear/awe (W154).
+
+---
+
+**S409 — God: I have perceived my people's suffering in Egypt.** *(EXO-001-L)*
+
+```
+la-Elohim  se  lo-fa-de-ra'zo-li-mi  pa-na-Egypt
+```
+
+**Notes:** **First attestation:** `fa-de-ra` = affect-decrease-force = suffering/misery (W155). `zo-li-mi` = my people (W148 + `mi` possessive). The `'` is semantically load-bearing: without it `fa-de-ra-zo-li-mi` parses nonsensically as a deep-right-branch chain. This sentence is a good teaching case for why `'` is not optional at depth.
+
+---
+
+**S410 — God: I will bring my people out to a good and open land.** *(EXO-001-M)*
+
+```
+la-Elohim  ki  wi  ka-pa-ki  lo-zo-li-mi  pa-na-Egypt  di-pa-vo
+```
+
+**Notes:** **First attestation:** `pa-ki` = place-motion = liberation act; `ka-pa-ki` = deliberate-place-motion-action (W156, W160). `di-pa-vo` = directed toward a value-place = toward the good land.
+
+---
+
+**S411 — God: Go. I am sending you to Pharaoh to liberate my people.** *(EXO-001-N)*
+
+```
+la-Elohim  ka-si  lo-na-Moses  /  ki  /  wi  la-tu  ki  lo-na-Pharaoh  ka-pa-ki  lo-zo-li-mi
+```
+
+**Notes:** Agent-drop imperative `ki` = go! Second attestation of `ka-pa-ki` (liberation act) in the same passage — building toward registry registration.
+
+---
+
+**S412 — Moses: who am I to do this?** *(EXO-001-O)*
+
+```
+la-na-Moses  to-si  la-mi  wi  ka-pa-ki  lo-zo-li-mi?
+```
+
+**Notes:** `to-si  la-mi` = content question in agent slot = who am I / what is my qualification? The *hineni* mirror: identity questioned rather than affirmed.
+
+---
+
+**S413 — God: I will be with you; you will return to this mountain.** *(EXO-001-P)*
+
+```
+la-Elohim  ne  pa-tu  /  du  la-tu  ka-pa-ki  lo-zo-li-mi,  la-tu  ki  lo-pa-su-mi
+```
+
+**Notes:** `ne  pa-tu` = relational bond at your place = divine presence expressed as relational co-location (avoids identity copula). `pa-su-mi` = my structured-place = this mountain. Second attestation of `pa-su` (mountain, W157).
+
+---
+
+**S414 — Moses: what name shall I give them?** *(EXO-001-Q)*
+
+```
+la-na-Moses  to-si  na-Elohim?
+```
+
+**Notes:** Content question in name-slot = what is the divine name? Simple; the weight is all in the answer.
+
+---
+
+**S415 — God: "I am who I am."** *(EXO-001-R)*
+
+```
+la-mi  go-ne  lo-mi
+```
+
+**Notes:** **First attestation and central gap:** `go-ne` = cause-relate = self-originating relation (W159). `la-mi  go-ne  lo-mi` = I stand in a causal-relational bond directed at myself = I am my own origin and referent = *ehyeh asher ehyeh*. This is a relation claim, not an identity claim — the constitutional self-identity meaning of the divine name remains outside Tonesu's current grammar. The gap is documented and not resolved by this rendering. Whether `go-ne  lo-mi` develops a strong conventional identity reading through corpus frequency is an empirical question.
+
+---
+
+**S416 — God: tell them "I am" sent you.** *(EXO-001-S)*
+
+```
+ka-si  lo-zo-li-mi  /  la-go-ne-mi  ka-si  lo-tu
+```
+
+**Notes:** `go-ne-mi` = the self-originating-I = "I am" used as a sender-name in agent position. The reflexive-causal compound nominalized: the name and the claim are the same entity. Second attestation of `go-ne`.
+
+---
+
+**S417 — This name is eternal; call me by it across all generations.** *(EXO-001-T)*
+
+```
+na-mi  ti-no-fe  /  re-ka-si  lo-na-mi  ta-re-zo-ne-go
+```
+
+**Notes:** `ti-no-fe` (eternal, THO-001) used as zero-copula predicate of a name. `ta-re-zo-ne-go` = at-recurring-ancestor-cycle = from generation to generation. Uses `zo-ne-go` (W077, parent/ancestor) + `re` (cycle) + `ta` (temporal frame). Clean carry-forward from prior vocabulary.

@@ -1683,5 +1683,350 @@ Related:      be (primitive: growth/generation), go (primitive: cause/origin),
 
 ---
 
+## Exodus 3:1–15 Intake (W150–W160)
+
+*Batch: EXO-001. First-pass translation of Exodus 3:1–15 (burning bush / divine name). All entries proposed; corpus basis S398–S417. Full analysis in `corpus/translations/Bible/exodus-3-1-15.md`.*
+
+---
+
+**W150**
+```
+Form:         zo-su-ka-li
+Type:         compound
+Class:        agent
+Definition:   shepherd; one who tends and maintains organized living things.
+              The person whose deliberate action sustains a structured group
+              of organisms. Covers any herdsman, flock-tender, or pasture-keeper.
+Composition:  zo (living thing) + su (structure/order) + ka (deliberate action)
+              + -li (agent suffix) = agent of deliberate structured-organism-
+              maintenance. Suffix stacking order: root chain (zo-su-ka) →
+              role marker (-li). zo-su = structured organism base (plant class
+              / pasture); ka = deliberate action on it; -li = the one who does.
+Verbal form:  zo-su-ka (without -li) used as action verb in corpus.
+Register:     general
+Domain:       general / agriculture
+Status:       pending
+First use:    S398 — la-na-Moses  lo-zon  ka-zo-su-ka  ne-na-Yitro
+              (Moses shepherded Jethro's flock)
+Notes:        "Flock" uses zon (CLQ-006a, zo-se-ne herd ungulates) in the
+              natural casual form. zo-su-ka-li is the formal agent noun;
+              zo-su-ka is used verbally.
+Related:      zo (primitive: living thing), su (primitive: structure),
+              ka (primitive: deliberate action), -li (agent suffix),
+              zon / zo-se-ne (herd ungulate class)
+```
+
+---
+
+**W151**
+```
+Form:         ra-lu-ki
+Type:         compound
+Class:        process
+Definition:   fire; the energetic-luminous process; energy emitting light while
+              in motion. Physical fire as a natural process. Distinct from
+              ra (energy alone) or lu (light alone): fire is specifically the
+              coupled process of energy releasing light through motion/change.
+Composition:  ra (energy/force) + lu (light/visibility) + ki (motion/process)
+              = energy-light-in-motion = fire as process.
+Register:     general
+Domain:       general / physics / theology
+Status:       pending
+First use:    S401 — ro-ra-lu-ki (through fire; instrument: the fire medium
+              through which the angel appeared)
+Notes:        Used both as noun compound (the fire) and process predicate
+              (was burning / fire-process happening). S402: la-zo-su  ra-lu-ki
+              no  de = the plant fire-processed but did not decrease = the
+              burning bush miracle.
+              Related compound: no-de'ra-lu-ki (fire-without-decrease) is a
+              CLQ-EXT candidate — the miracle as a lexical chunk. Not registered
+              yet; awaiting CLQ-EXT rule resolution.
+Related:      ra (primitive: energy), lu (primitive: light), ki (primitive: motion),
+              pa-vo-fe (W153: holy ground, the place of this fire event)
+```
+
+---
+
+**W152**
+```
+Form:         ki-ne
+Type:         compound
+Class:        entity (artifact)
+Definition:   sandal; footwear; what is bonded to the foot to enable or mark
+              motion. The motion-connector worn on the body for movement.
+Composition:  ki (motion) + ne (connection/bond) = motion-bond = what binds
+              to the body to facilitate or mark movement.
+Register:     general
+Domain:       general / material culture
+Status:       pending
+First use:    S406 — lo-ki-ne  ka-de-ne (your sandals: deliberately unbind them)
+Notes:        The command to remove sandals ("take off your shoes, for you are
+              standing on holy ground") forces this compound. ki-ne as footwear
+              is a clean compositional reading: sandals are literally the
+              motion-bond between foot and ground.
+              Removal command: ka-de-ne lo-ki-ne = deliberately-unbind the
+              motion-bond = take off the sandals.
+Related:      ki (primitive: motion), ne (primitive: relation/bond),
+              pa-vo-fe (W153: holy ground, the reason for removal)
+```
+
+---
+
+**W153**
+```
+Form:         pa-vo-fe
+Type:         compound
+Class:        place
+Definition:   holy ground; a place whose value-status is explicitly set apart
+              / bounded. A location defined by its elevated value boundary — not
+              merely a good place (pa-vo) but a place whose goodness has a
+              formal boundary that separates it from ordinary space.
+Composition:  pa (place/space) + vo (value/quality) + fe (boundary/limit)
+              = a place whose value has a defined boundary = set-apart place =
+              holy ground. Structural parallel to to-fe-li (epistemic guardian:
+              one who bounds knowledge) and pa-no-fe (omnipresence: place without
+              boundary). pa-vo-fe is the bounded version: a place whose holiness
+              is a specific, locatable boundary — not diffuse goodness but
+              designated sacred space.
+Register:     theological / formal
+Domain:       theology / sacred space
+Status:       pending
+First use:    S406 — pa-mi  pa-vo-fe (this place [is] holy ground)
+Notes:        Zero-copula predication: pa-mi  pa-vo-fe = my-place  value-bounded-place
+              = this place is holy ground. The removal of sandals (W152) is the
+              behavioral correlate of the pa-vo-fe designation.
+              Contrast: pa-vo (value-place = good land, used in S410) is the
+              property form without the explicit boundary marker; pa-vo-fe adds
+              the sanctification boundary. fa-vo-fe would be the inward equivalent
+              (pure in spirit / bounded interior value) — not yet attested.
+Related:      pa (primitive: place), vo (primitive: value/quality),
+              fe (primitive: boundary), ki-ne (W152: sandal, removed at holy ground),
+              to-fe-li (W—: epistemic guardian, structural parallel)
+```
+
+---
+
+**W154**
+```
+Form:         fa-ra
+Type:         compound
+Class:        state / affect
+Definition:   fear; awe; forceful affect. The intense interior state of
+              overwhelming force arising in the affective substrate. Covers
+              both fear (aversive overwhelming force) and awe (overwhelm with
+              a positive or sublime valence) — context provides the valence.
+Composition:  fa (affective substrate) + ra (energy/force) = felt-interior-force
+              = forceful affect = fear / awe. Distinct from fa-de-ra (W155:
+              suffering = affect-decrease-force, i.e. force draining away);
+              fa-ra is the presence of overwhelming force, not its diminishment.
+Register:     general
+Domain:       general / affect / theology
+Status:       pending
+First use:    S408 — fa-ra  go  ka-se  lo-Elohim (fear/awe because deliberately
+              looking at Elohim = Moses was afraid to look at God)
+Notes:        Moses hid his face because of fa-ra: the affect-force of the
+              divine presence was overwhelming. fa-ra covers the full range from
+              primal fear to profound awe — both are the same affective structure
+              (intense inner force); the valence (is this threatening or sublime?)
+              is context-determined, not encoded in the compound.
+Related:      fa (primitive: affective substrate), ra (primitive: energy/force),
+              fa-de-ra (W155: suffering, affect-decrease-force — contrasting form),
+              fa-wi-zi (W136: lust, affect-desire-to-couple)
+```
+
+---
+
+**W155**
+```
+Form:         fa-de-ra
+Type:         compound
+Class:        state / affect
+Definition:   suffering; misery; the felt interior experience of diminishing
+              force. The affective substrate registering the decay of capacity,
+              vitality, or will. Covers physical suffering, social oppression's
+              felt dimension, grief, and exhaustion as experiences — the shared
+              structure is affect registering a decrease in force.
+Composition:  fa (affective substrate) + de (decay/decrease) + ra (energy/force)
+              = affect-decrease-force = felt interior of force draining away =
+              suffering.
+Register:     general
+Domain:       general / affect / social / theology
+Status:       pending
+First use:    S409 — lo-fa-de-ra'zo-li-mi (the suffering of my people)
+Notes:        The apostrophe in S409 is structurally essential: fa-de-ra'zo-li-mi
+              = [fa-de-ra] modifies [zo-li-mi] = "my people's suffering."
+              Without the apostrophe, fa-de-ra-zo-li-mi parses as a nonsense
+              deep-right-branch. This sentence is a teaching case for when '
+              is not optional at depth.
+              Contrast: fa-ra (W154: fear/awe = affect + overwhelming force
+              present). fa-de-ra is force decreasing; fa-ra is force overwhelming.
+              Both belong to the force-affect family.
+Related:      fa (primitive: affective substrate), de (primitive: decay/decrease),
+              ra (primitive: energy/force), fa-ra (W154: fear/awe — contrasting)
+```
+
+---
+
+**W156**
+```
+Form:         pa-ki
+Type:         compound
+Class:        process / concept
+Definition:   liberation; place-motion; departure-from-a-place as an act or
+              concept. The process of producing movement out of a confining
+              location. Used as action verb (ka-pa-ki = to deliberately liberate)
+              and as concept noun (pa-ki = the liberation itself).
+Composition:  pa (place/space) + ki (motion/process) = place-motion = the
+              act of moving from a place = departure, exodus, liberation.
+Agent form:   pa-ki-li = liberator, one who produces departure-from-place.
+Verbal form:  ka-pa-ki = deliberate act of place-motion = to liberate.
+Register:     general / theological
+Domain:       general / social / theology
+Status:       pending
+First use:    S410 — ka-pa-ki  lo-zo-li-mi  pa-na-Egypt (liberate my people
+              from Egypt); second attestation S411.
+Notes:        Liberation encoded as spatial: the Exodus is paradigmatically
+              the production of place-motion. ka-pa-ki is the verbal form:
+              deliberate-place-motion-action. The `ka` prefix adds the
+              deliberateness (it is not accidental departure but an act of will).
+              Two attestations in the same passage (S410, S411) confirm production
+              of the concept under translation pressure rather than synthetic
+              construction.
+Related:      pa (primitive: place), ki (primitive: motion),
+              -li (agent suffix: pa-ki-li = liberator),
+              ka (primitive: deliberate action: ka-pa-ki = liberation act as W160)
+```
+
+---
+
+**W157**
+```
+Form:         pa-su
+Type:         compound
+Class:        place
+Definition:   mountain; hill; structured place. A location defined by its
+              physical organization / elevated structure. Rocky elevated terrain
+              as a place that has order and structure imposed by geological
+              formation.
+Composition:  pa (place/space) + su (structure/order) = structured place =
+              mountain / elevated structured terrain.
+Register:     general
+Domain:       general / geography / theology
+Status:       pending
+First use:    S400 — pa-su-be-go-li (mountain of God / Horeb as the creator's
+              structured-place, aside annotation)
+Notes:        pa-su (mountain) is compositionally clean. Physical mountains
+              are structured places — their geological form is precisely an
+              organized spatial structure. Second attestation S413 (pa-su-mi =
+              my structured-place = "this mountain" / the mountain of God).
+              Depth: pa-su-be-go-li is 5 morphemes; apostrophe grouping
+              pa-su'be-go-li recommended since be-go-li is a registered unit.
+Related:      pa (primitive: place), su (primitive: structure/order),
+              be-go-li (creator-agent, registered), pa-vo-fe (W153: holy ground,
+              location type on a mountain)
+```
+
+---
+
+**W158**
+```
+Form:         si-ki-li
+Type:         compound
+Class:        agent
+Definition:   messenger; envoy; one who carries a signal in motion. Any agent
+              whose role is to transport a communication from one point to
+              another. Hebrew malach (מַלְאָךְ) = messenger/envoy/angel — the
+              same word used for human messengers and divine emissaries.
+Composition:  si (signal/representation) + ki (motion/process) + -li (agent
+              suffix) = signal-motion-agent = one who carries a signal by moving.
+              Suffix stacking: root chain (si-ki) → role marker (-li).
+              si-ki = signal-in-motion = a signal being transmitted.
+              si-ki-li = the agent of that transmission = messenger.
+Qualified form: si-ki-li'be-go-li = messenger of the creator = divine
+              messenger = angel. The apostrophe binds be-go-li as the
+              possessor/origin subcompound.
+Register:     general / theological
+Domain:       general / theology / communication
+Status:       pending
+First use:    S401 — la-si-ki-li'be-go-li  lu  lo-na-Moses  ro-ra-lu-ki
+              (the angel of the LORD appeared to Moses in fire)
+Notes:        si-ki-li is the generic messenger compound; the qualified form
+              si-ki-li'be-go-li = divine messenger = angel follows the same
+              ownership/origin pattern as other be-go-li compounds. The Hebrew
+              malach covers both human envoys and divine ones — si-ki-li
+              correctly covers both by the same compositional reading.
+Related:      si (primitive: signal), ki (primitive: motion), -li (agent suffix),
+              be-go-li (creator-agent: the source in the qualified form),
+              ra-lu-ki (W151: fire, the medium of appearance)
+```
+
+---
+
+**W159**
+```
+Form:         go-ne
+Type:         compound
+Class:        relation / philosophical
+Definition:   self-originating relation; reflexive causal bond. The relation
+              in which an entity's existence is its own origin and referent.
+              The closest available Tonesu rendering of Hebrew 'ehyeh asher
+              ehyeh' (I am who I am / I will be what I will be).
+Composition:  go (cause/origin) + ne (relation/connection) = cause-relation =
+              a bond whose nature is causal = the relation of self-origination.
+              la-mi  go-ne  lo-mi = I stand in a causal-relational bond directed
+              at myself = my existence is its own origin and relation.
+Register:     theological / philosophical
+Domain:       theology / philosophy / identity
+Status:       pending
+First use:    S415 — la-mi  go-ne  lo-mi (I am who I am / I will be what I will be)
+              S416 — la-go-ne-mi (the self-originating-I, used as sender-name)
+Notes:        IDENTITY COPULA GAP: go-ne lo-mi is a RELATION claim, not an
+              IDENTITY claim. The divine tetragrammaton expresses constitutional
+              self-identity — X is constitutionally identical with X — which
+              Tonesu's current grammar cannot encode. go-ne  lo-mi encodes: "I
+              stand in a causal-relational bond directed at myself" = aseity
+              (self-grounded existence) + reflexive structure. This captures the
+              philosophical content of necessary being but misses the grammatical
+              self-identity. Whether go-ne develops a strong conventional identity
+              reading through corpus frequency is an empirical question. See
+              open-questions.md (THO-001 identity copula question).
+              Do not resolve this gap by inventing a new particle.
+Related:      go (primitive: cause/origin), ne (primitive: relation/connection),
+              go-no-fe (necessary being, THO-001), be-go-li (creator-agent)
+```
+
+---
+
+**W160**
+```
+Form:         ka-pa-ki
+Type:         compound
+Class:        action
+Definition:   liberation act; deliberate production of departure from a place.
+              The intentional act of creating movement out of a confining
+              location. The verbal form of pa-ki (W156) — the deliberate,
+              willed version of place-motion.
+Composition:  ka (deliberate action) + pa (place/space) + ki (motion/process)
+              = deliberate-place-motion = to liberate / to bring out / to cause
+              departure. ka prefixes the pa-ki place-motion concept: the movement
+              is not incidental but willed.
+Register:     general / theological
+Domain:       general / social / theology
+Status:       pending
+First use:    S410 — ka-pa-ki  lo-zo-li-mi  pa-na-Egypt (liberate my people
+              from Egypt)
+Notes:        Two attestations in the same passage (S410, S411) under translation
+              pressure rather than synthetic construction — confirms the concept
+              is productively needed. The Exodus is the paradigm case of
+              ka-pa-ki: a specific, willed act of producing departure from a
+              place of containment. ka-pa-ki-li = liberator (agent form, not
+              yet attested but fully predictable).
+Related:      ka (primitive: deliberate action), pa (primitive: place),
+              ki (primitive: motion), pa-ki (W156: liberation/place-motion concept),
+              pa-ki-li (liberator, agent form — predictable, unregistered)
+```
+
+---
+
 - [ ] Review W002 (su-mu-li) — does it conflict with the derivational marker stack order?
 - [ ] Develop domain-specific sub-lists once domains are finalized (see ontology/domains.md)
