@@ -25,7 +25,9 @@ nav:
     - Words: reference/words.md
   - Explore:
     - Overview: explore/index.md
-    - Building Compounds: explore/compounds.md
+    - Patterns: explore/patterns.md
+    - Sandbox: explore/sandbox.md
+    - Worked Examples: explore/compounds.md
     - Sentences: explore/sentences.md
   - About:
     - Principles: about/principles.md
