@@ -682,6 +682,56 @@ lo-ne-ra : la-mi  no-se  lo-ze      →  As for the resonance — I have no perc
 
 ---
 
+## Aside / Commentary Frame (`[]`)
+
+The **aside frame** wraps editorial or analytic commentary that is **not part of the logical or truth-conditional structure** of the surrounding text. It operates in the *analysis layer* — separate from the argument layer (`()`, `:`, `go`, `si`/`se`/`to`). The argument layer encodes what is being claimed and how it is grounded; the analysis layer comments on what is claimed without altering it.
+
+**Defining constraint — removal invariance.** Stripping all `[]` frames from a passage must leave the Tonesu argument semantically and grammatically unchanged. A frame whose removal changes meaning is not an aside — its content belongs in the core grammar.
+
+**Placement:** immediately after the clause or passage the annotation refers to. A `[]` frame does not interrupt surrounding grammar; it is appended after the unit it annotates.
+
+**Examples:**
+
+```
+(la-to-fe-su  lo-ra-ma-de  se)
+la-mi  se  lo-ra-ma-de
+[early agricultural report]
+```
+
+```
+(anonymous-source  lo-X  to)
+la-mi  to  lo-X
+[laundering: report → certainty]
+```
+
+```
+lo-ka-li-su-mi  :
+la-mi  se  lo-ra-ma-de
+[response to opponent question]
+```
+
+**Discourse layer summary:**
+
+| layer | marks | role |
+|---|---|---|
+| source / attribution | `()` | where claims come from |
+| topic scope | `:` | what is being talked about |
+| causal / temporal structure | `go` · `wi` · `ta` | how claims are grounded |
+| epistemic calibration | `si` / `se` / `to` | how certain the speaker is |
+| analysis / commentary | `[]` | what observers say about the above |
+
+**Self-policing rules:**
+
+1. **No evidential upgrade inside `[]`.** An annotation may label or flag a claim's evidential status; it may not reassert it at a higher level. Writing `[established fact]` next to a `(reported claim)` is invalid unless the core text independently supports that elevation.
+2. **Interpretive annotations must be visibly hedged.** If the annotation is the analyst's inference rather than a recovery of explicit structure, use hedged phrasing: `[probable topic: X]`, `[likely sense: X]` — not bare `[topic: X]` or `[definition: X]`.
+3. **Removal invariance is not optional.** Content that would change the meaning of the passage if removed belongs in the core grammar, not in `[]`.
+
+**Reconstruction use (informal repair).** When a speaker has omitted an explicit `:` topic frame or `::` definition, an annotator may use `[]` to propose the likely structure after the fact, subject to rule 2. This provides a graceful path for annotating natural or imperfect speech without rewriting it.
+
+**Spoken form:** none. `[]` frames are written and editorial; they do not participate in oral Tonesu. See spec/phonology.md § `[]` — Aside / Commentary Frame.
+
+---
+
 ## Subordinate Clauses
 
 Tonesu has a class of **clause-introducing words** that open a dependent clause modifying or specifying the matrix (main) clause. The three current clause introducers are:

@@ -142,7 +142,7 @@ Without `'`, the default parse is right-branching: each new element modifies the
 
 ## Punctuation and Notation Marks
 
-Seven marks supplement `'`. Unlike `'`, these operate **outside** compound boundaries — at clause, sentence, or metalanguage level. Sentence and phrase marks have no phoneme equivalents; speech realizes them through pitch, stress, and prosodic phrasing. The last two marks (`:`, `::`) serve primarily as metalanguage notation and appear in Tonesu sentences only in the role specified for each.
+Eight marks supplement `'`. Unlike `'`, these operate **outside** compound boundaries — at clause, sentence, or metalanguage level. Sentence and phrase marks have no phoneme equivalents; speech realizes them through pitch, stress, and prosodic phrasing. The last two marks (`:`, `::`) serve primarily as metalanguage notation and appear in Tonesu sentences only in the role specified for each.
 
 | Mark | Name | Function |
 |------|------|----------|
@@ -151,6 +151,7 @@ Seven marks supplement `'`. Unlike `'`, these operate **outside** compound bound
 | `?` | question mark | end-of-utterance: interrogative; orthographic counterpart to grammatical `to-si` |
 | `~` | approximation mark | pre-positional hedge: "approximately / roughly / on the order of / something like" |
 | `()` | evidential frame | clause-level epistemic bracket: content is reported, inferred, or unattributed — not directly asserted |
+| `[]` | aside / commentary frame | non-semantic editorial or analytic annotation — does not alter truth conditions of surrounding text; removable without semantic change |
 | `:` | topic frame / definition mark | sentence-initial: "as for [topic], ..." (topic frame); metalanguage: explanatory gloss (`term : reading`) |
 | `::` | canonical definition mark | metalanguage only: structural decomposition (`term :: roots`); not used in Tonesu sentences proper |
 
@@ -319,6 +320,39 @@ lo-ne-ra : la-mi  no-se  lo-ze        →  As for the resonance — I have no pe
 **Spoken form:** a slight prosodic pause at the `:` boundary; the topic NP may carry slightly higher prominence than the comment clause. **Lexical spoken form: `helm`** — registered as G011 in `registry/roots.md`. In speech, `:` is realized as `helm`. The written form `:` is canonical in formal and technical Tonesu; `helm` appears in speech, phonetic transcription, and wherever the written symbol is not available.
 
 **Cross-reference:** grammar rules for the topic frame in sentence context: see spec/grammar.md § Topic Frame.
+
+---
+
+### `[]` — Aside / Commentary Frame
+
+`[]` marks **editorial or analytic commentary** — content that annotates a passage without participating in its argument or truth-conditional structure. It operates in the *analysis layer*, separate from the argument layer (`()`, `:`, `go`, epistemic markers).
+
+**Defining constraint — removal invariance.** Removing all `[]` frames from a passage must leave the surrounding Tonesu sentences semantically and grammatically unchanged. Any annotation that alters meaning when removed is not a valid `[]` frame — it belongs in the core grammar instead.
+
+**Typical contents:**
+
+| content type | examples |
+|---|---|
+| analytic notes | `[early agricultural report]` · `[estimate from early data]` |
+| fallacy / audit flags | `[laundering: report → certainty]` · `[unsupported cascade]` · `[topic shift: policy → person]` |
+| missing-structure labels | `[probable topic: food policy]` · `[missing premise: higher cost reduces wellbeing]` |
+| burden-of-proof notes | `[burden: show policy improves food security]` |
+| discourse stage labels | `[response to opponent question]` · `[closing argument]` |
+| citations and references | `[citation needed]` · `[UN food report 2024]` |
+
+**Self-policing rules for annotators:**
+
+1. **No evidential upgrade.** `[]` may label or flag a claim's evidential status; it may not reassert it at a higher level. `(X)  [established fact]` is invalid unless the core text independently supports that elevation.
+2. **Interpretive annotations must be visibly hedged.** When the annotation is the annotator's inference rather than a recovery of explicit structure, use hedged phrasing: `[probable topic: X]`, `[likely sense: X]` — not bare `[topic: X]` or `[definition: X]` unless the structure is explicitly recoverable.
+3. **No silent rewriting.** `[]` annotates the argument as written; it may not substitute, correct, or upgrade the core claim while appearing to merely describe it — the analytic crime of laundering by cleanup crew.
+
+**Reconstruction use.** When a speaker has omitted an explicit `:` or `::`, an annotator may use `[]` to propose the likely structure after the fact, subject to rule 2 above. This provides graceful annotation of natural or imperfect speech without altering the original text.
+
+**Spoken form:** none. `[]` frames are not realized in oral Tonesu — they are written, typographic, and editorial. In oral contexts `[]` content is either omitted or delivered by explicit convention agreed by participants (e.g., "bracket note: …" as a meta-verbal cue). `[]` has no spoken phoneme equivalent and does not participate in prosodic parsing.
+
+**Disambiguation — spec notation vs. written Tonesu.** In spec, grammar examples, and registry entries, `[...]` is also used in *analytic notation* to mark subordinate clause scope (`go [premise]  result`), slot placeholders (`la-[agent]`), and optional structural groupings. This analytic use never appears in running Tonesu text. In a Tonesu passage, `[...]` is always an aside/commentary frame; in a grammar gloss or spec example, `[...]` is analytic notation. Context distinguishes the two without ambiguity.
+
+**Cross-reference:** grammar rules for the aside frame: see spec/grammar.md § Aside / Commentary Frame.
 
 ---
 
