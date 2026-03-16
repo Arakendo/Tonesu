@@ -167,3 +167,17 @@ Consolidated list of unresolved design decisions from across all spec and regist
 - [ ] Translation policy for culturally specific concepts with no structural equivalent.
 - [x] ~~**20 ordinary-life sentence test (Principle 9 corollary).**~~ **Resolved. S208–S227 (ODL-001, March 2026). No structural distortions found across 20 domains.** `fa` handled pain, fear, anger, liking, loneliness — all cleanly. `ha` covered weather in full. `ne-fe` resolved hunger and thirst. Sleep = `no-se-ki` (three morphemes, zero distortion). No new primitive warranted. Key finding: pain (`fa-be no-vo`) is the most analytical construction — structurally correct but requires decomposing rather than naming. This is Principle 9 compliance, not a gap. Candidates from watchlist (`ne-fe`, `fa`, `ne`/`zi`) all handled their domains adequately.
 - [ ] **Property-vs-essence copula gap (THO-001, March 2026).** "God is love" (1 John 4:8) is an *essence* claim: love is what the entity *is constituted by*, not merely a property it *has*. Tonesu has `la-X  Q` (X has property Q) and `lo-X  ne  lo-Y` (relational connection), but no clean `X ≡ Y` identity/constitutive copula. The gap surfaces for all "X *is* [noun]" essence claims (God is love, God is truth, etc.). Property reading is available; essence reading requires awkward `ne` construction or appositive. Decision needed: (a) accept that Tonesu encodes essence as property + context, (b) extend `ne` with a dedicated usage rule for constitution, or (c) introduce a new particle.
+
+---
+
+## Dictionary / Reference
+
+- [ ] **Dictionary structure (deferred; revisit after ~300 compounds).** When the corpus matures, the reference dictionary should be organized as a multi-layer manual rather than a standard alphabetical word list. Suggested hierarchy from design notes:
+  1. **Primitive Lexicon** — one rich entry per CV root (~30–50 entries); the "periodic table" of the language.
+  2. **Operator Head Table** — productive head patterns (`X-li`, `X-mu`, `X-ki`, etc.) so readers can generate compounds rather than memorize them.
+  3. **Word Formation Patterns** — the concept-algebra rules written as a reference section.
+  4. **Compound Registry** — the W### entries in their existing format (structure, domain, first attestation, notes).
+  5. **Taxonomy Index** — the kinds.md tree rendered as a classification appendix.
+  6. **Corpus Attestation Index** — per-compound first-attested citation.
+  7. **Reverse Glossary** — English → Tonesu lookup; the only alphabetically ordered section.
+  Closest historical parallel: John Wilkins's concept-first dictionary (1668), but with the advantage that most Tonesu vocabulary is computable rather than listed. Design-history archive has extended discussion.
