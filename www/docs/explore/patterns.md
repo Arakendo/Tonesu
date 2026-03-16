@@ -4,6 +4,8 @@ Tonesu is built around a small set of productive templates. Learn a pattern and 
 
 Each pattern here applies to any valid root or compound that fits its semantic slot. The examples are just starting points.
 
+> **Notation:** Word spellings show written Tonesu (no hyphens). The **Parse** column shows the morpheme breakdown in analytic notation. Pattern labels (`X-li`, `X-mu`, etc.) are always analytic — they describe the shape of the productive template, not any specific word.
+
 ---
 
 ## The suffix patterns
@@ -18,24 +20,24 @@ A derivational suffix transforms the semantic role of whatever it attaches to. T
 
 > The agent or practitioner whose identity is organized around X.
 
-| Compound | Roots | Reading |
-|----------|-------|---------|
-| `to-li` | thought + person | scholar, thinker |
-| `ka-li` | action + person | actor, doer, operator |
-| `zo-li` | organism + person | biologist, naturalist |
-| `su-li` | structure + person | architect, organizer |
-| `ra-li` | force + person | warrior, athlete, power-user |
-| `si-li` | signal + person | communicator, coder |
-| `wi-li` | intention + person | strategist, planner |
-| `vo-li` | value + person | judge, critic, evaluator |
+| Word | Parse | Reading |
+|------|-------|------|
+| `toli` | `to-li` | scholar, thinker |
+| `kali` | `ka-li` | actor, doer, operator |
+| `zoli` | `zo-li` | biologist, naturalist |
+| `suli` | `su-li` | architect, organizer |
+| `rali` | `ra-li` | warrior, athlete, power-user |
+| `sili` | `si-li` | communicator, coder |
+| `wili` | `wi-li` | strategist, planner |
+| `voli` | `vo-li` | judge, critic, evaluator |
 
 When the base is a compound, `li` attaches to the whole unit:
 
-| Compound | Reading |
-|----------|---------|
-| `to-su-li` | systems thinker (person of structured knowledge) |
-| `ka-se-li` | sensor / field observer (person who acts by perceiving) |
-| `si-to-li` | theorist (person of representational knowledge) |
+| Word | Parse | Reading |
+|------|-------|------|
+| `tosuli` | `to-su-li` | systems thinker (person of structured knowledge) |
+| `kaseli` | `ka-se-li` | sensor / field observer (person who acts by perceiving) |
+| `sitoli` | `si-to-li` | theorist (person of representational knowledge) |
 
 ---
 
@@ -43,24 +45,24 @@ When the base is a compound, `li` attaches to the whole unit:
 
 > The device, tool, or mechanism designed to perform X.
 
-| Compound | Roots | Reading |
-|----------|-------|---------|
-| `ka-mu` | action + device | tool (generic) |
-| `to-mu` | thought + device | cognitive instrument |
-| `si-mu` | signal + device | communication device |
-| `ra-mu` | force + device | engine, motor, power unit |
-| `se-mu` | perception + device | sensor |
-| `lu-mu` | light + device | lamp, display |
-| `so-mu` | sound + device | speaker, instrument |
+| Word | Parse | Reading |
+|------|-------|------|
+| `kamu` | `ka-mu` | tool (generic) |
+| `tomu` | `to-mu` | cognitive instrument |
+| `simu` | `si-mu` | communication device |
+| `ramu` | `ra-mu` | engine, motor, power unit |
+| `semu` | `se-mu` | sensor |
+| `lumu` | `lu-mu` | lamp, display |
+| `somu` | `so-mu` | speaker, instrument |
 
 Compound bases:
 
-| Compound | Reading |
-|----------|---------|
-| `to-ki-mu` | computer (device for entering knowledge-states) |
-| `ra-ki-mu` | engine (device for transforming energy into motion) |
-| `si-su-mu` | filing system, structured data device |
-| `se-to-mu` | diagnostic instrument (device that converts perception into knowledge) |
+| Word | Parse | Reading |
+|------|-------|------|
+| `tokimu` | `to-ki-mu` | computer (device for entering knowledge-states) |
+| `rakimu` | `ra-ki-mu` | engine (device for transforming energy into motion) |
+| `sisumu` | `si-su-mu` | filing system, structured data device |
+| `setomu` | `se-to-mu` | diagnostic instrument (device that converts perception into knowledge) |
 
 ---
 
@@ -68,14 +70,14 @@ Compound bases:
 
 > The observable property or characteristic associated with X.
 
-| Compound | Roots | Reading |
-|----------|-------|---------|
-| `vo-ge` | value + quality | degree of worth, valence |
-| `ra-ge` | force + quality | intensity, power level |
-| `ha-ge` | heat + quality | temperature (heat as property) |
-| `to-ge` | thought + quality | cognitive character |
-| `zo-ge` | organism + quality | biological trait |
-| `su-ge` | structure + quality | structural property |
+| Word | Parse | Reading |
+|------|-------|------|
+| `voge` | `vo-ge` | degree of worth, valence |
+| `rage` | `ra-ge` | intensity, power level |
+| `hage` | `ha-ge` | temperature (heat as property) |
+| `toge` | `to-ge` | cognitive character |
+| `zoge` | `zo-ge` | biological trait |
+| `suge` | `su-ge` | structural property |
 
 ---
 
@@ -85,22 +87,22 @@ Compound bases:
 
 **On action roots** → the ongoing act / process itself:
 
-| Compound | Reading |
-|----------|---------|
-| `be-ki` | the act of creating / building |
-| `ka-ki` | the act of doing / operating |
-| `de-ki` | the act of breaking down / dismantling |
-| `zi-ki` | the act of mutual exchange / coupling |
+| Word | Parse | Reading |
+|------|-------|------|
+| `beki` | `be-ki` | the act of creating / building |
+| `kaki` | `ka-ki` | the act of doing / operating |
+| `deki` | `de-ki` | the act of breaking down / dismantling |
+| `ziki` | `zi-ki` | the act of mutual exchange / coupling |
 
 **On state roots** → the event of *entering* that state (inchoative):
 
-| Compound | Reading |
-|----------|---------|
-| `ne-ki` | to connect / become related |
-| `su-ki` | to become organized / take form |
-| `zo-ki` | to come to life / become animated |
-| `ko-ki` | to enter / move inside |
-| `to-ki` | to come to understand / grasp a concept |
+| Word | Parse | Reading |
+|------|-------|------|
+| `neki` | `ne-ki` | to connect / become related |
+| `suki` | `su-ki` | to become organized / take form |
+| `zoki` | `zo-ki` | to come to life / become animated |
+| `koki` | `ko-ki` | to enter / move inside |
+| `toki` | `to-ki` | to come to understand / grasp a concept |
 
 These two uses are structurally distinguished by the base: action roots → verbal noun; state roots → state transition.
 
@@ -118,25 +120,25 @@ Prefix operators apply at the **left edge** and scope over the entire following 
 
 `no-` scopes over the full following compound, not just the final morpheme.
 
-| Compound | Roots | Reading |
-|----------|-------|---------|
-| `no-ki` | negate motion | stillness, immobility |
-| `no-ha` | negate heat | cold (absence of thermal state) |
-| `no-de` | negate decay | preservation |
-| `no-su` | negate structure | disorder, entropy |
-| `no-ne` | negate relation | isolation, disconnection |
-| `no-wi` | negate intention | passivity, purposelessness |
-| `no-fe` | negate boundary | below threshold, within range |
-| `no-to` | negate knowledge | ignorance, epistemic void |
+| Word | Parse | Reading |
+|------|-------|------|
+| `noki` | `no-ki` | stillness, immobility |
+| `noha` | `no-ha` | cold (absence of thermal state) |
+| `node` | `no-de` | preservation |
+| `nosu` | `no-su` | disorder, entropy |
+| `none` | `no-ne` | isolation, disconnection |
+| `nowi` | `no-wi` | passivity, purposelessness |
+| `nofe` | `no-fe` | below threshold, within range |
+| `noto` | `no-to` | ignorance, epistemic void |
 
 On compound bases:
 
-| Compound | Reading |
-|----------|---------|
-| `no-ne-fe` | non-dependency (not requiring another) |
-| `no-to-fe` | below the knowledge threshold |
-| `no-su-ki` | failure to organize / unable to take form |
-| `no-ka-wi` | unintentional action |
+| Word | Parse | Reading |
+|------|-------|------|
+| `nonefe` | `no-ne-fe` | non-dependency (not requiring another) |
+| `notofe` | `no-to-fe` | below the knowledge threshold |
+| `nosuki` | `no-su-ki` | failure to organize / unable to take form |
+| `nokawi` | `no-ka-wi` | unintentional action |
 
 ---
 
@@ -144,14 +146,14 @@ On compound bases:
 
 > X happening again or iteratively.
 
-| Compound | Reading |
-|----------|---------|
-| `re-ki` | recurring motion, oscillation |
-| `re-ka` | habitual action, practice |
-| `re-be` | iterative growth, compounding |
-| `re-ti` | cycle, period, recurrence in time |
-| `re-zi` | recurring mutual exchange |
-| `re-se` | continued observation, monitoring |
+| Word | Parse | Reading |
+|------|-------|------|
+| `reki` | `re-ki` | recurring motion, oscillation |
+| `reka` | `re-ka` | habitual action, practice |
+| `rebe` | `re-be` | iterative growth, compounding |
+| `reti` | `re-ti` | cycle, period, recurrence in time |
+| `rezi` | `re-zi` | recurring mutual exchange |
+| `rese` | `re-se` | continued observation, monitoring |
 
 ---
 
@@ -167,15 +169,15 @@ These combine as roots inside compounds, but they act as *operators* — they tr
 
 `fe` applied to any property creates the *boundary condition* of that property: the point at which X transitions to not-X.
 
-| Compound | Reading |
-|----------|---------|
-| `to-fe` | limit of knowledge, epistemic boundary |
-| `ra-fe` | force threshold, power limit |
-| `ha-fe` | thermal threshold |
-| `ne-fe` | dependency condition (the relational edge where X requires Y) |
-| `vo-fe` | value cutoff, quality threshold |
-| `ti-fe` | temporal limit, deadline |
-| `pa-fe` | spatial boundary, edge of a region |
+| Word | Parse | Reading |
+|------|-------|------|
+| `tofe` | `to-fe` | limit of knowledge, epistemic boundary |
+| `rafe` | `ra-fe` | force threshold, power limit |
+| `hafe` | `ha-fe` | thermal threshold |
+| `nefe` | `ne-fe` | dependency condition (the relational edge where X requires Y) |
+| `vofe` | `vo-fe` | value cutoff, quality threshold |
+| `tife` | `ti-fe` | temporal limit, deadline |
+| `pafe` | `pa-fe` | spatial boundary, edge of a region |
 
 The `fe` operator is especially productive when combined with `no-`:
 
@@ -183,15 +185,15 @@ The `fe` operator is especially productive when combined with `no-`:
 
 > The extremal or unbounded form of X. Canonical construction for absolute properties.
 
-| Compound | Reading |
-|----------|---------|
-| `to-no-fe` | omniscience (knowledge without boundary) |
-| `ra-no-fe` | omnipotence (force without boundary) |
-| `vo-no-fe` | omnibenevolence (value without boundary) |
-| `pa-no-fe` | omnipresence (place without boundary) |
-| `go-no-fe` | necessary being (causation without limiting origin) |
-| `ti-no-fe` | eternity (time without boundary) |
-| `nu-no-fe` | mathematical infinity (quantity without boundary) |
+| Word | Parse | Reading |
+|------|-------|------|
+| `tonofe` | `to-no-fe` | omniscience (knowledge without boundary) |
+| `ranofe` | `ra-no-fe` | omnipotence (force without boundary) |
+| `vonofe` | `vo-no-fe` | omnibenevolence (value without boundary) |
+| `panofe` | `pa-no-fe` | omnipresence (place without boundary) |
+| `gonofe` | `go-no-fe` | necessary being (causation without limiting origin) |
+| `tinofe` | `ti-no-fe` | eternity (time without boundary) |
+| `nunofe` | `nu-no-fe` | mathematical infinity (quantity without boundary) |
 
 ---
 
@@ -199,14 +201,14 @@ The `fe` operator is especially productive when combined with `no-`:
 
 > X organized into a system, framework, or formal structure.
 
-| Compound | Reading |
-|----------|---------|
-| `to-su` | organized knowledge system / discipline |
-| `si-su` | structured representation, filing system, dataset |
-| `ka-su` | organized action / protocol, procedure |
-| `ne-su` | social structure, relational network |
-| `zo-su` | biological organization (anatomy, ecology) |
-| `ti-su` | temporal structure, schedule, calendar |
+| Word | Parse | Reading |
+|------|-------|------|
+| `tosu` | `to-su` | organized knowledge system / discipline |
+| `sisu` | `si-su` | structured representation, filing system, dataset |
+| `kasu` | `ka-su` | organized action / protocol, procedure |
+| `nesu` | `ne-su` | social structure, relational network |
+| `zosu` | `zo-su` | biological organization (anatomy, ecology) |
+| `tisu` | `ti-su` | temporal structure, schedule, calendar |
 
 ---
 
@@ -214,14 +216,14 @@ The `fe` operator is especially productive when combined with `no-`:
 
 > X as a theory, framework, or formal model in a mind.
 
-| Compound | Reading |
-|----------|---------|
-| `zo-to` | biology (conceptual model of living things) |
-| `ma-to` | physics / materials theory |
-| `ne-to` | relational theory, sociology |
-| `ra-to` | physics of force, dynamics |
-| `ti-to` | theory of time, philosophy of time |
-| `pa-to` | topology, geometry |
+| Word | Parse | Reading |
+|------|-------|------|
+| `zoto` | `zo-to` | biology (conceptual model of living things) |
+| `mato` | `ma-to` | physics / materials theory |
+| `neto` | `ne-to` | relational theory, sociology |
+| `rato` | `ra-to` | physics of force, dynamics |
+| `tito` | `ti-to` | theory of time, philosophy of time |
+| `pato` | `pa-to` | topology, geometry |
 
 ---
 
@@ -229,13 +231,13 @@ The `fe` operator is especially productive when combined with `no-`:
 
 > These pair as cause/result operators in compound predicates.
 
-| Pattern | Reading |
-|---------|---------|
-| `go-be` | growth from an origin — generated increase |
-| `go-de` | caused decay — induced breakdown |
-| `go-ki` | caused motion — triggered movement |
-| `du-li` | a person who results (offspring, beneficiary) |
-| `du-su` | resulting structure — emergent order |
+| Word | Parse | Reading |
+|------|-------|------|
+| `gobe` | `go-be` | growth from an origin — generated increase |
+| `gode` | `go-de` | caused decay — induced breakdown |
+| `goki` | `go-ki` | caused motion — triggered movement |
+| `duli` | `du-li` | a person who results (offspring, beneficiary) |
+| `dusu` | `du-su` | resulting structure — emergent order |
 
 ---
 
@@ -244,23 +246,23 @@ The `fe` operator is especially productive when combined with `no-`:
 Patterns stack. When they do, the right-branching rule determines scope: the rightmost suffix applies last, to the whole preceding structure.
 
 ```
-to-su-li
-  to-su    = organized knowledge system
+tosuli  (to-su-li)
+  to-su      = organized knowledge system
   (to-su)-li = person of [organized knowledge system] = systematic scholar
 
-ra-no-fe-li
+ranofeli  (ra-no-fe-li)
   ra-no-fe     = force without boundary
   (ra-no-fe)-li = person of [unbounded force] = omnipotent agent
 
-ka-re-ki
-  re-ki    = recurring motion
-  ka-(re-ki) = intentional recurring motion = practice, drill
+kareki  (ka-re-ki)
+  re-ki       = recurring motion
+  ka-(re-ki)  = intentional recurring motion = practice, drill
 ```
 
 The `'` juncture marker makes grouping explicit when the parse would otherwise be ambiguous:
 
 ```
-ka'no-wi    = [ka] • [no-wi]  = deliberate purposelessness
-no'ka-wi    = [no] • [ka-wi]  = absence of deliberate purpose
+ka'nowi  (ka'no-wi)  = [ka] • [no-wi]  = deliberate purposelessness
+no'kawi  (no'ka-wi)  = [no] • [ka-wi]  = absence of deliberate purpose
 ```
 These are different compounds with different meanings.

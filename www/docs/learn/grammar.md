@@ -2,6 +2,8 @@
 
 Tonesu sentences are built from **role-marked phrases** rather than strict word order. Each participant in a sentence wears a particle prefix that tells you its role.
 
+> **Notation in this page:** Written Tonesu has no hyphens. `latoli` is the written form; `la-toli` is the analytic breakdown showing particle + word. Analytic forms appear in parse labels to make structure visible.
+
 ---
 
 ## The core sentence frame
@@ -18,9 +20,10 @@ la-{agent}   {verb}   lo-{patient}
 
 **Example:**
 ```
-la-toli  ka-seka  lo-tosu
+latoli  kaseka  lotosu
 ```
 *The scholar examines the theory.*
+*(parse: la-toli  ka-seka  lo-tosu)*
 
 ---
 
@@ -46,9 +49,10 @@ la-toli  ka-seka  lo-tosu
 There is no "is". Instead, Tonesu uses **`ne`** to connect a subject to a property or relation:
 
 ```
-la-libe  ne  zo-de
+lalibe  ne  zode
 ```
 *The child is tired.* (lit. the-child [relation] organism-decay)
+*(parse: la-libe  ne  zo-de)*
 
 ---
 
@@ -57,8 +61,8 @@ la-libe  ne  zo-de
 A modifier always comes **before** the thing it modifies — no exceptions.
 
 ```
-nu-no toli        →  many scholars        (quantity modifier precedes noun)
-ka-seka-past      →  examined             (tense marker precedes verb root)
+nuno toli         →  many scholars        (quantity modifier precedes noun)
+kaseka-past       →  examined             (tense marker precedes verb root)
 ```
 
 ---
@@ -68,7 +72,7 @@ ka-seka-past      →  examined             (tense marker precedes verb root)
 Use `go` and `du` to state causes and results:
 
 ```
-go {la-mi  ka-sikipast}  du {la-yu  to  lo-fesi}
+go {lami  kasikipast}  du {layu  to  lofesi}
 ```
 *Because I sent the signal, they know the warning.*
 
@@ -101,25 +105,25 @@ Tense is optional and marked on the verb with a suffix:
 
 This is one of the most important distinctions in Tonesu. There are two ways to predicate a quality of an entity, and they mean different things.
 
-**`lo-X  Q` — contingent state** (X is currently in state Q; this can change)
+**`loli  Q` — contingent state** (X is currently in state Q; this can change)
 
 ```
-lo-li    vo   →  The person is valued.    (social esteem — contingent)
-lo-pa    ha-vo →  The room is warm.        (current thermal state)
+loli   vo    →  The person is valued.    (social esteem — contingent)
+lopa   havo  →  The room is warm.        (current thermal state)
 ```
 
-**`la-X  Q` — intrinsic property** (X constitutively has quality Q)
+**`lali  Q` — intrinsic property** (X constitutively has quality Q)
 
 ```
-la-li    vo   →  A person has worth.      (inherent; cannot be revoked)
-la-raki-mu  ha-fe  →  The engine is at a thermal limit.  (structural property)
+lali         vo    →  A person has worth.      (inherent; cannot be revoked)
+larakimu     hafe  →  The engine is at a thermal limit.  (structural property)
 ```
 
 The minimal pair: same noun, same quality, different claim.
 
 ```
-la-li  vo   →  a person has worth          (inherent, intrinsic)
-lo-li  vo   →  the person is valued        (contingent social esteem)
+lali  vo   →  a person has worth          (inherent, intrinsic)
+loli  vo   →  the person is valued        (contingent social esteem)
 ```
 
 Decision rule: can X *exit* this state? → use `lo`. Is Q part of X's constitution? → use `la`.
@@ -131,10 +135,10 @@ Decision rule: can X *exit* this state? → use `lo`. Is Q part of X's constitut
 Negation uses the single root `no` (negation/absence) as a prefix:
 
 ```
-no-de       →  non-decay  =  preservation
-no-fe       →  below threshold
-no-ru       →  lacking unity, incoherent
-no-ne-fe    →  no dependency, free-standing
+node      (no-de)     →  non-decay  =  preservation
+nofe      (no-fe)     →  below threshold
+noru      (no-ru)     →  lacking unity, incoherent
+nonefe    (no-ne-fe)  →  no dependency, free-standing
 ```
 
 `no-` scopes over the entire following base, including multi-root compounds.
@@ -146,7 +150,7 @@ no-ne-fe    →  no dependency, free-standing
 Use `wi` to attach a purpose or goal clause:
 
 ```
-la-yu  ka-to-ki  wi [ka-to-su-ki]
+layu  katoki  wi [katosuki]
 ```
 *They study in order to comprehend.*
 
@@ -155,16 +159,18 @@ la-yu  ka-to-ki  wi [ka-to-su-ki]
 ## A fuller example
 
 ```
-la-ze  lo-si  ka-sikipast  wi [ka-fesi  ne-yu]
+laze  losi  kasikipast  wi [kafesi  neyu]
 ```
 *She sent the message to warn them.*
 
 Breaking it down:
 
-- `la-ze` — she (agent)
-- `lo-si` — the message (patient)
-- `ka-sikipast` — sent (action, past)
+- `laze` — she (agent)  *(parse: la-ze)*
+- `losi` — the message (patient)  *(parse: lo-si)*
+- `kasikipast` — sent (action, past)  *(parse: ka-sika-past)*
 - `wi [...]` — with purpose: to warn them
+  - `kafesi` — to warn  *(parse: ka-fesi)*
+  - `neyu` — them (recipient)  *(parse: ne-yu)*
 
 ---
 

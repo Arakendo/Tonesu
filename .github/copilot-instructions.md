@@ -132,3 +132,23 @@ Key instances: `to-no-fe` omniscience · `ra-no-fe` omnipotence ·
 - Corpus tests are tracked under batch labels: THO- (theological), GRAM- (grammar), etc. New batches go in `corpus/sentences/s279-plus.md`.
 - Open questions are logged in `notes/open-questions.md`. Mark resolved with `[x]` and a brief resolution note; do not delete old entries.
 - New derived entries always go into `registry/derived/w101-plus.md` first, then update `registry/derived/index.md` (sections A, B, and C).
+
+---
+
+## Website editorial conventions (`www/`)
+
+The website (`www/docs/`) is a public-facing showcase of Tonesu. The following rules apply to all website content:
+
+### Written form is primary; analytic form is the annotation
+
+- **Written Tonesu** has no hyphens. `tofesuki` is the word; `to-fe-su-ki` is the parse breakdown.
+- In tables, the primary column shows the written form (e.g. `toli`). A **Parse** column shows the analytic breakdown (e.g. `to-li`).
+- In prose, introduce a compound as: `toli (to-li)` — written form first, analytic in parentheses.
+- In code blocks showing sentence examples, lead with the written sentence; show the analytic breakdown below labeled as parse.
+- Pattern template labels (`X-li`, `X-mu`, `no-X`, etc.) are analytic notation describing the productive pattern — they are always analytic and stay hyphenated.
+- Construction-reasoning code blocks (showing step-by-step parse derivation) may use analytic notation throughout; the final named result should show the written form.
+- Particles `la-`, `lo-`, `lu-` are prefixes: in written Tonesu they attach without hyphen (`latoli`, `lotosu`). Standalone particles (`ne`, `go`, `du`, `wi`, `ro`, `pa`, `ta`, `na`) are separate words; no hyphen.
+
+### Written-form quick reference
+
+Strip hyphens: `to-li` → `toli` · `ra-ki-mu` → `rakimu` · `to-no-fe` → `tonofe` · `pawi'kasu` (juncture `'` is normative, stays) · `la-toli` → `latoli` · `lo-tosu` → `lotosu`.
