@@ -1,0 +1,27 @@
+site_name: Tonesu
+site_url: https://tonesu.com
+site_description: A constructed language built for clarity, compositionality, and human expression.
+
+docs_dir: docs
+
+theme:
+  name: material
+  palette:
+    scheme: default
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+
+nav:
+  - Home: index.md
+  - Learn:
+    - Sounds: learn/sounds.md
+    - Grammar: learn/grammar.md
+    - Compounds: learn/compounds.md
+    - Notation: learn/notation.md
+  - Reference:
+    - Primitives: reference/primitives.md
+    - Words: reference/words.md
+  - About:
+    - Principles: about/principles.md
