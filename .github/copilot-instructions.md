@@ -103,7 +103,7 @@ la-[agent]  [verb-compound]  lo-[patient]
 - Modifier precedes head
 - **Default compound parse is right-branching:** `A-B-C` = A modifies [B-C]. The `'` juncture marker overrides this: `A'B-C` = [A] modifies [B-C] as a pre-bound unit.
 
-> **Identity-copula gap:** Tonesu currently has no dedicated identity copula (X ≡ Y). `ne` attributes a property — it does not assert constitutional identity. For identity-like claims use property attribution (`la-X  Q`) or relational construction (`lo-X  ne  lo-Y`) as appropriate. Do not invent an equality particle.
+> **Identity copula:** `ne` attributes a property — it does not assert constitutional identity. For neutral identity-like claims use property attribution (`la-X  Q`) or relational construction (`lo-X  ne  lo-Y`). Do not invent a new equality particle. `helms` (spoken/written form of `::`, G012) is available as an explicit identity predicate (`X helms Y` = X is by definition Y) in poetic and philosophical register, following the `ven` precedent (spec/phonology.md). This is the strongest identity claim available; reserve for contexts where strict definitional equality is intended.
 
 ### Derived registry — status codes
 
