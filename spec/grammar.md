@@ -767,7 +767,7 @@ Put plainly: the formal `[]` spec exists so that anyone who later says "but the 
 
 **Spoken form:** none. `[]` frames are written and editorial; they do not participate in oral Tonesu. See spec/phonology.md § `[]` — Aside / Commentary Frame.
 
-**Analytic notation going forward.** Spec examples, grammar glosses, and registry entries now use `{...}` (curly braces) for slot placeholders, subordinate clause scope markers, and structural groupings — not `[...]`. Earlier sections of this spec use `[...]` for both roles; those are legacy occurrences and do not require correction. In any new text, `[...]` means aside/commentary frame only, and `{...}` means analytic/structural notation only.
+**Analytic notation going forward.** Spec examples, grammar glosses, and registry entries use `{...}` (curly braces) for slot placeholders, subordinate clause scope markers, and structural groupings. `[...]` is reserved exclusively for aside/commentary frames. Earlier sections of this spec use `[...]` for both roles; those are legacy occurrences and do not require correction.
 
 ---
 
