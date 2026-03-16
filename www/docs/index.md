@@ -38,6 +38,8 @@ Tonesu is not just about vocabulary. Its grammar includes tools designed to make
 - A **topic marker** to keep arguments focused
 - An **approximation mark** for hedged or estimated claims
 
+> **Tonesu does not enforce truth. It enforces clarity about the epistemic status of claims.**
+
 The goal is not to replace natural language, but to provide a system where ideas can be expressed with less ambiguity and less rhetorical noise.
 
 ---

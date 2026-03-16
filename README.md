@@ -11,6 +11,10 @@ The language is called **Tonesu** — the casual contraction of the formal compo
 - **Domain-extensible:** new conceptual fields emerge by combining existing primitives; the language doesn't break when knowledge expands
 - **Minimal irregularity:** grammar and morphology are regular by default; exceptions require justification
 
+> **Tonesu does not enforce truth. It enforces clarity about the epistemic status of claims.**
+>
+> The grammar provides tools to say what kind of claim you are making — direct perception, encoded signal, reasoned model, or registered knowledge. Whether the claim is accurate is outside the language's scope. Over time, accuracy becomes visible through discourse patterns.
+
 ---
 
 ## Sounds
