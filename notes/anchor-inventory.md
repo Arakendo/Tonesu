@@ -1,4 +1,4 @@
-# Anchor Inventory: Digits, Colors, Scale Prefixes, CVC/CVCC Exceptional Anchors
+﻿# Anchor Inventory: Digits, Colors, Scale Prefixes, CVC/CVCC Exceptional Anchors
 
 ## Status: Normative — March 2026
 
@@ -41,7 +41,7 @@ These govern how CVC descriptors integrate with existing grammar. No new primiti
 ### Counting
 
 ```
-[digit] nu [noun]
+{digit} nu {noun}
 ```
 
 ```
@@ -53,7 +53,7 @@ bun gal nu li     → twenty-three agents   (positional chain, most-significant 
 ### Ordinals
 
 ```
-[digit] ti        → [nth] in sequence
+{digit} ti        → {nth} in sequence
 ```
 
 ```
@@ -74,7 +74,7 @@ wes nil nil nu mu  → six hundred objects
 
 ### Base units as compounds
 
-Base SI units do not need CVC forms. The domain primitive **is** the unit label — `nu [domain]` means "a quantity of [domain]", which is exactly what a base unit expresses. No new vocabulary is required.
+Base SI units do not need CVC forms. The domain primitive **is** the unit label — `nu {domain}` means "a quantity of {domain}", which is exactly what a base unit expresses. No new vocabulary is required.
 
 | Tonesu compound | Reading | SI equivalent |
 |-----------------|---------|---------------|
@@ -90,7 +90,7 @@ Base SI units do not need CVC forms. The domain primitive **is** the unit label 
 The full measurement expression stacks cleanly:
 
 ```
-[digit] [scale] nu [domain]
+{digit} {scale} nu {domain}
 ```
 
 ```
@@ -115,7 +115,7 @@ ra ne pa               → force in relation to space               (≈ joule)
 ### Scale-prefixed measurement
 
 ```
-[scale] nu [domain]
+{scale} nu {domain}
 ```
 
 ```
@@ -136,7 +136,7 @@ bun nu ra         → two units of force (base scale)
 Head-final rule applies; color word precedes the noun it modifies:
 
 ```
-[color] [noun]
+{color} {noun}
 ```
 
 ```
@@ -296,7 +296,7 @@ The `'` rules from spec/word-formation.md § CVC Descriptor Modifiers and § Com
 
 ## Scale Prefix Inventory
 
-SI-style magnitude scale words. Structure: `[scale] nu [domain]`. Base unit (×1) requires no prefix — bare `nu` with the domain is the base form.
+SI-style magnitude scale words. Structure: `{scale} nu {domain}`. Base unit (×1) requires no prefix — bare `nu` with the domain is the base form.
 
 **Classification note:** Scale prefixes are not closed-class CVC descriptor atoms (see FLAG-CVC-010). They are ergonomic shortforms for positional digit expressions — `pir` = `bol nil nil nil` (10³), `mes` = one-in-a-million scale, etc. Their compositional expressions exist; they were assigned CVC phonology for pragmatic measurement ergonomics, not because they fail the Assemblage-First Rule. They occupy CVC phonological space and block those CV stems, but their admission rationale is separate from digits and colors.
 
@@ -355,7 +355,7 @@ In stellar-astronomy discourse, the implied time-cycle is a year. When the cycle
 Basic distance with CVCC anchor:
 
 ```
-[digit] nu [anchor-CVCC]
+{digit} nu {anchor-CVCC}
 ```
 
 ```
@@ -368,7 +368,7 @@ gal bun nu lu-ki ti-re nu pa  → 3.2 light-years        (compositional form)
 Scale-prefixed CVCC anchor:
 
 ```
-[scale] nu [anchor-CVCC]
+{scale} nu {anchor-CVCC}
 ```
 
 ```
@@ -407,7 +407,7 @@ These are the rarest entries in the lexicon. The CVCC tier is not for general vo
 3. **Frequency in technical scientific discourse creates genuine communicative friction** — not stylistic inconvenience.
 4. **A new CV primitive is explicitly refused** (same as standard criterion 3).
 
-Chemical element anchors (Tier A) are the founding members of this track. The formal expression `[Z] ti fe-ma` remains canonical; the CVCC anchor names the same referent in fast speech.
+Chemical element anchors (Tier A) are the founding members of this track. The formal expression `{Z} ti fe-ma` remains canonical; the CVCC anchor names the same referent in fast speech.
 
 ### Phonological constraints for CVCC
 
@@ -557,7 +557,7 @@ baf baf gal … dolm nu ma     → atomic mass unit (≈ 1836 × m_e, approximat
 
 #### Chemical element anchors (Tier A)
 
-Chemical elements are compositionally identifiable in Tonesu through atomic-number structure: `[Z] ti fe-ma` gives the ordinal element reference — e.g., `wes ti fe-ma` = "the 6th element" = carbon. This compositional form remains canonical. Tier A CVCC forms are admitted as **practical high-frequency anchors for scientific discourse** — not on grounds that no expression exists, but because these elements appear constantly in chemistry, physics, and biology contexts and warrant short spoken forms alongside their compositional reference. The architecture mirrors the dual-register pattern used elsewhere in Tonesu: CVCC anchor for fast reference; compositional structure for formal meaning. CVCC forms consume zero CVC capacity. Forms assigned in three batches; see FLAG-CVC-011.
+Chemical elements are compositionally identifiable in Tonesu through atomic-number structure: `{Z} ti fe-ma` gives the ordinal element reference — e.g., `wes ti fe-ma` = "the 6th element" = carbon. This compositional form remains canonical. Tier A CVCC forms are admitted as **practical high-frequency anchors for scientific discourse** — not on grounds that no expression exists, but because these elements appear constantly in chemistry, physics, and biology contexts and warrant short spoken forms alongside their compositional reference. The architecture mirrors the dual-register pattern used elsewhere in Tonesu: CVCC anchor for fast reference; compositional structure for formal meaning. CVCC forms consume zero CVC capacity. Forms assigned in three batches; see FLAG-CVC-011.
 
 | Element    | Symbol | Z  | Form | CV core | CC coda | Notes |
 |------------|--------|----|------|---------|---------|-------|
@@ -686,7 +686,7 @@ Net effect: 33 CVC forms (was 38), 15 CVCC forms (was 13), 10 free CVC stems (wa
 
 ### FLAG-CVC-009 — Taxon-class anchors: a new CVCC admission class? (speculation, March 2026)
 
-**Problem statement:** Common biological taxa — cat, dog, bird, fish, tree, grass — are high-frequency concepts in everyday and worldbuilding discourse. Current kind-term construction follows the compound rule: `zo` (living-thing) + discriminating modifiers → kind-term. This works, and the dog/cat distinction has been resolved (`zo-se-so-li` / `zo-se-so-fe`, KNM-002). But the kind-term forms are already 4 morphemes before any individual or variety modifier is added. "My cat Tony" is `[zo-se-so-fe na Tony]` — the kind-term alone is 8 phonemes solid-written `zosesof`.
+**Problem statement:** Common biological taxa — cat, dog, bird, fish, tree, grass — are high-frequency concepts in everyday and worldbuilding discourse. Current kind-term construction follows the compound rule: `zo` (living-thing) + discriminating modifiers → kind-term. This works, and the dog/cat distinction has been resolved (`zo-se-so-li` / `zo-se-so-fe`, KNM-002). But the kind-term forms are already 4 morphemes before any individual or variety modifier is added. "My cat Tony" is `{zo-se-so-fe na Tony}` — the kind-term alone is 8 phonemes solid-written `zosesof`.
 
 The question is whether CVCC could serve as **taxon-class anchors**: stable atomic forms for genus/family-level biological (and possibly other natural-kind) categories, to which CV/CVC/CVCC modifiers are then applied.
 
@@ -739,7 +739,7 @@ Scale prefixes (`pir` kilo, `baf` mega, `wul` giga, etc.) were previously listed
 
 ### FLAG-CVC-011 — Chemical element CVCC anchors (Tier A, scaffolded March 2026)
 
-Tier A chemical elements are compositionally identifiable via `[Z] ti fe-ma` (e.g., `wes ti fe-ma` = carbon, Z=6). CVCC forms are admitted on the **practical anchor track** (see second admission class note in the Assemblage-First Rule section) — not on grounds of inexpressibility, but as high-frequency short forms for scientific discourse alongside the canonical compositional reference. Cost to CVC stratum: zero.
+Tier A chemical elements are compositionally identifiable via `{Z} ti fe-ma` (e.g., `wes ti fe-ma` = carbon, Z=6). CVCC forms are admitted on the **practical anchor track** (see second admission class note in the Assemblage-First Rule section) — not on grounds of inexpressibility, but as high-frequency short forms for scientific discourse alongside the canonical compositional reference. Cost to CVC stratum: zero.
 
 **Planned batches:**
 - Batch 1: H, He, C, N, O — universal chemistry anchors

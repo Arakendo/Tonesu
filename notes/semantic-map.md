@@ -1,4 +1,4 @@
-# Semantic Map
+﻿# Semantic Map
 
 ## Status: Draft
 
@@ -333,7 +333,7 @@ These four properties are not obvious from individual roots but emerge from the 
 
 Most languages have a causal *relation* — a particle or construction that links cause to effect. Tonesu went further: `go` (cause/origin) and `du` (result/effect) are *both primitive*. They are separate ontological categories, not a single causal relation.
 
-The consequence: every causal event has two obligatory slots. You can name a cause without naming the result (`go [X]`) — but the grammar is then incomplete in a way that invites completion. Similarly, naming a result invites the question of what `go` produced it.
+The consequence: every causal event has two obligatory slots. You can name a cause without naming the result (`go {X}`) — but the grammar is then incomplete in a way that invites completion. Similarly, naming a result invites the question of what `go` produced it.
 
 This creates what might be called **double-entry causation**: a culture where naming a cause without tracing its result, or naming a state without asking what produced it, feels like an incomplete account. Post-incident reports are not supplementary — they are the natural completion of every sentence that names a cause. Impact analysis is not an extra step — it is what `du` is waiting for.
 
@@ -411,9 +411,9 @@ The pipeline flows one way. You can move from `se` toward `to`; but `to` does no
 
 | Form | Domain | Meaning |
 |------|--------|---------|
-| `go [X]  Y` | world | X causes Y (real-world causal assertion) |
-| `to-go [X]  Y` | model | in the hypothetical model, X entails Y (model causation; non-actual) |
-| `la-X  to  [to-go [X]  Y]` | epistemic | agent X asserts the counterfactual model |
+| `go {X}  Y` | world | X causes Y (real-world causal assertion) |
+| `to-go {X}  Y` | model | in the hypothetical model, X entails Y (model causation; non-actual) |
+| `la-X  to  {to-go {X}  Y}` | epistemic | agent X asserts the counterfactual model |
 
 This is a stratified causal ontology: physical causation, model causation, and attributed causal claim are formally distinct. English uses the same causal vocabulary for all three. Tonesu separates them.
 
@@ -427,20 +427,20 @@ This is a stratified causal ontology: physical causation, model causation, and a
 | `to-ko` (W006) | retained knowledge / memory |
 | `to-si` (W026) | query signal (reaching toward knowledge) |
 | `to-go` (W089) | hypothetical causal frame (model causation) |
-| `to  lo-[model]  be` | model-domain scope open (activates multi-sentence model frame) |
-| `to  lo-[model]  de` | model-domain scope close (symmetric; explicit close) |
-| `la-X  to  lo-[model]  be` | attributed model-domain scope (X opens the frame) |
+| `to  lo-{model}  be` | model-domain scope open (activates multi-sentence model frame) |
+| `to  lo-{model}  de` | model-domain scope close (symmetric; explicit close) |
+| `la-X  to  lo-{model}  be` | attributed model-domain scope (X opens the frame) |
 
 This subsystem coheres as a complete architecture for reasoning about knowledge. The language has grown a philosophy of science vocabulary from two roots (`to` and the available compound space) without deliberate design.
 
 **Why Path A felt wrong for counterfactuals** (the CF-001 diagnostic made this precise):  
-`la-mi  to  [go [...]]` = "I assert the model." That is an epistemic action by a person.  
-`to-go [X]  Y` = "in the model, the causal chain holds." That is a description of a model.  
-The first introduces a *speaker stance* where none is needed. The distinction maps exactly onto the model/epistemic stratification: model-truth (`to-go`) and attributed-model-truth (`la-X  to  [to-go]`) are semantically distinct operations.
+`la-mi  to  {go {...}}` = "I assert the model." That is an epistemic action by a person.  
+`to-go {X}  Y` = "in the model, the causal chain holds." That is a description of a model.  
+The first introduces a *speaker stance* where none is needed. The distinction maps exactly onto the model/epistemic stratification: model-truth (`to-go`) and attributed-model-truth (`la-X  to  {to-go}`) are semantically distinct operations.
 
-**What this means for Concordian intellectual culture:** The layered structure supports scientific reasoning in the technical sense — the ability to reason *about* models as objects, separately from reasoning about the world. A Concordian speaker can say "in the model, X causes Y" (`to-go [X]  Y`) without claiming X causes Y in reality, and can attribute the model to an assertion-holder (`la-X  to  [to-go [X]  Y]`) without claiming the model is correct. All three levels are grammatically distinguishable without any new primitives.
+**What this means for Concordian intellectual culture:** The layered structure supports scientific reasoning in the technical sense — the ability to reason *about* models as objects, separately from reasoning about the world. A Concordian speaker can say "in the model, X causes Y" (`to-go {X}  Y`) without claiming X causes Y in reality, and can attribute the model to an assertion-holder (`la-X  to  {to-go {X}  Y}`) without claiming the model is correct. All three levels are grammatically distinguishable without any new primitives.
 
-**Open pressure:** the model layer currently has no explicit *frame-setter* for discourse about a model. You can assert `to-go [X]  Y` (a single counterfactual), but you cannot yet open a discourse scope with "speaking within the model of the reactor..." or "according to the theory..." as a sustained frame. This appeared naturally in the CF-001 diagnostic but was deferred. See Open Questions.
+**Open pressure:** the model layer currently has no explicit *frame-setter* for discourse about a model. You can assert `to-go {X}  Y` (a single counterfactual), but you cannot yet open a discourse scope with "speaking within the model of the reactor..." or "according to the theory..." as a sustained frame. This appeared naturally in the CF-001 diagnostic but was deferred. See Open Questions.
 
 ---
 
@@ -452,23 +452,23 @@ This means emotional vocabulary in Tonesu is always built, never given. The two 
 
 | Emotional state | `se` form (object-directed) | `fa` form (substrate, no object needed) | Notes |
 |-----------------|-----------------------------|-----------------------------------------|-------|
-| Fear / threat-response | `la-mi  se  fe-de  lo-[X]` | `la-mi  fa  fe-de` | `se` requires object; `fa` = free-floating dread, no target |
-| Joy / positive-valence | `la-mi  se  vo-be  lo-[X]` | `la-mi  fa  vo-be` | `fa` = undirected positive affect, mood lift |
-| Grief / loss | `la-mi  se  vo-de  lo-[X]` | `la-mi  fa  vo-de` | `fa` = pervasive low / depression-like state |
+| Fear / threat-response | `la-mi  se  fe-de  lo-{X}` | `la-mi  fa  fe-de` | `se` requires object; `fa` = free-floating dread, no target |
+| Joy / positive-valence | `la-mi  se  vo-be  lo-{X}` | `la-mi  fa  vo-be` | `fa` = undirected positive affect, mood lift |
+| Grief / loss | `la-mi  se  vo-de  lo-{X}` | `la-mi  fa  vo-de` | `fa` = pervasive low / depression-like state |
 | Grief, persistent | — | `la-mi  fa  vo-de  re` | `re` (repetition) = sustained low without identifiable cause |
-| Anxiety | `la-mi  se  fe-ki  lo-[X]` | `la-mi  fa  fe-ki` | `fa` = free-floating anxiety, no specific threat |
+| Anxiety | `la-mi  se  fe-ki  lo-{X}` | `la-mi  fa  fe-ki` | `fa` = free-floating anxiety, no specific threat |
 | Unresolved affect | — | `fa-no-to` (W090 equiv.) | felt state with no model at all — see W090 |
 | Emotional numbness | — | `fa-no` | substrate absent / flat |
 | Affect rising | — | `fa-be` | mood lifting, arousal increasing |
 | Affect fading | — | `fa-de` | affect diminishing, dissipating |
-| Observer mode | — | `la-mi  to  [la-zo-mi  fa  lo-X]` | I model that my organism's affective state is X — the SSRI/dissociation construction |
+| Observer mode | — | `la-mi  to  {la-zo-mi  fa  lo-X}` | I model that my organism's affective state is X — the SSRI/dissociation construction |
 | Fatigue | `la-zo-mi  de` | — | bodily resource depletion — organism (`zo`), not affect (`fa`) |
 | Hunger | `la-zo-mi  de  lo-ra` | — | energy deficit — bodily, not affective |
 | Too cold | `la-zo-mi  se  no-ha` | — | thermoreceptor detection — `se` correct here, external signal |
 | Too hot | `la-zo-mi  se  ha-fe` | — | thermal threshold — same |
 | Comfort / ease | `la-zo-mi  ru` | — | organism coherence — structural state, not affective tone |
-| Trust | `la-mi  se  vo-ne  lo-[person]` | — | always object-directed; no bare substrate form |
-| Desire / longing | `la-mi  wi  lo-[X]` | — | `wi` (intention) — directed by definition |
+| Trust | `la-mi  se  vo-ne  lo-{person}` | — | always object-directed; no bare substrate form |
+| Desire / longing | `la-mi  wi  lo-{X}` | — | `wi` (intention) — directed by definition |
 
 **Cultural note:** `se` constructions are culturally expected to name *what* is feared, valued, or desired. Bare `la-mi  se  vo-be` without an object is grammatically complete but culturally thin — like saying "signal received" without content. `fa` constructions are the inverse: they are complete *without* an object by design. `la-mi  fa  vo-de` is not an incomplete grief statement; it is a precise substrate statement. Concordian culture accepts both registers without requiring object-specification for the `fa` form.
 
@@ -509,16 +509,16 @@ The result: Tonesu can express something most natural languages handle very poor
 | Depression-like cluster | `zo-mi  se  vo-de  re / no-go / wi-de` | organism repeatedly perceives value-decay / no identifiable cause / will-diminishing |
 | Anxiety-like cluster | `zo-mi  se  fe-ki` | organism perceives approaching-boundary |
 | Emotional numbness / flatness | `se-no` | signal-absence |
-| Observer mode (dissociation) | `la-mi  to  [la-zo-mi  se  lo-X]` | I model analytically that my organism perceives X |
+| Observer mode (dissociation) | `la-mi  to  {la-zo-mi  se  lo-X}` | I model analytically that my organism perceives X |
 
-`se-no-to` is the canonical shortform for unresolved affect. Registered as W090. Compositionally unambiguous via two parse paths that converge: `[se-no]+[to]` and `[se]+[no-to]` both yield signal-without-model.
+`se-no-to` is the canonical shortform for unresolved affect. Registered as W090. Compositionally unambiguous via two parse paths that converge: `{se-no}+{to}` and `{se}+{no-to}` both yield signal-without-model.
 
 **The `zo`/`li` observer split:**
 
 Because `zo` (organism) and `li` (social agent) are distinct, a speaker can locate emotional experience in the body or the agent's perspective:
 
 - `la-mi  se  lo-X` — I (as agent) perceive X. Feeling is integrated into the self.
-- `la-mi  to  [la-zo-mi  se  lo-X]` — I (as agent) model that my organism perceives X. Feeling held at analytical distance.
+- `la-mi  to  {la-zo-mi  se  lo-X}` — I (as agent) model that my organism perceives X. Feeling held at analytical distance.
 
 The second construction is not designed — it falls out of the ontology. It maps precisely onto dissociated emotional experience: the feeling is happening somewhere in the system, but the agent is observing rather than inhabiting it. This corresponds to what many people on SSRIs or in dissociative states report: the emotion is registered and even nameable, but not felt *from the inside*.
 
@@ -539,7 +539,7 @@ Usage guard (normative, Principle 9): `fa` names the substrate, not the state. N
 | `la-mi  fa-no-to  lo-go` | unresolved affect with no identifiable cause — the most precise Tonesu form for "I feel something but I don't know why" |
 | `la-mi  fa  fe-ki` | free-floating anxiety — affect in boundary-approach without a specific threat object |
 | `la-mi  fa  vo-de  re` | persistent low — affect repeatedly registering value-decay; closest Tonesu form to sustained depression |
-| `la-mi  to  [la-zo-mi  fa  lo-X]` | observer mode: I model that my organism's affective substrate is in state X |
+| `la-mi  to  {la-zo-mi  fa  lo-X}` | observer mode: I model that my organism's affective substrate is in state X |
 
 **Three-stage pipeline:** `fa` is the middle layer between external signal and conceptual model:
 
@@ -564,7 +564,7 @@ English collapses: interact / exchange / collide / mate / negotiate / react — 
 
 | Form | Meaning | Contrast |
 |------|---------|----------|
-| `go [X]  du [Y]` | X causes Y (directed, one priority) | asymmetric causation |
+| `go {X}  du {Y}` | X causes Y (directed, one priority) | asymmetric causation |
 | `la-A  ka  lo-B` | A acts on B (directed agency) | asymmetric action |
 | `zi` | coupling event — both participants enter and exit modified, caused by the coupling itself | symmetric mutual causation |
 | `zi-ra` (W104) | mutual energy transformation event (physics) | ≠ `ne-ra` (state of coupling) |
@@ -575,7 +575,7 @@ English collapses: interact / exchange / collide / mate / negotiate / react — 
 
 **Key distinction from `ne` (relation):** `ne` is a static relational state — A and B are connected. `zi` is an event — the coupling produces change. A system can be in `ne-ra` state (resonance, ongoing) while undergoing `zi-ra` events (mutual energy transformation). The state/event distinction is ontologically prior to the bilateral/unilateral distinction.
 
-**Key distinction from `go`/`du` loops:** `go [A causes B]  du [B causes A]` describes two *separate* causal chains, each directional. `zi` describes a *single* event with no internal causal direction. This is not merely grammatical shorthand — it is a genuine ontological distinction between sequential reciprocal causation and simultaneous bilateral coupling.
+**Key distinction from `go`/`du` loops:** `go {A causes B}  du {B causes A}` describes two *separate* causal chains, each directional. `zi` describes a *single* event with no internal causal direction. This is not merely grammatical shorthand — it is a genuine ontological distinction between sequential reciprocal causation and simultaneous bilateral coupling.
 
 **Cultural claim:** Tonesu treats bilateral symmetric events as a first-class ontological category. A civilization with `zi` as primitive will naturally frame negotiation as an exchange event (not as two parties making concessions), symbiosis as a coupling (not as two organisms benefiting from each other), and force interactions as mutual (not as one object acting on another). The directionality assumption built into most agent-patient grammar is architecturally optional in Tonesu.
 
@@ -590,7 +590,7 @@ Following C001–C004, the language has crossed from sentence-grammar into disco
 | System | Corpus evidence | Status |
 |--------|----------------|--------|
 | Argument omission rules | Imperative `la-tu` drop (S019, C001, C002, C004), speaker drop `la-mi` (C001 B3), discourse-context drop (C001 A2b) | Three distinct omission environments confirmed; likely collapse to a general topic-drop rule eventually |
-| Epistemic stance marking | `la-[speaker]  [epistemic-root]  [prop]` attested C001 A3, C004 B1; `la-[process]  be  [prop]` attested C004 A2 | Two epistemic framing strategies: person-based and process-based |
+| Epistemic stance marking | `la-{speaker}  {epistemic-root}  {prop}` attested C001 A3, C004 B1; `la-{process}  be  {prop}` attested C004 A2 | Two epistemic framing strategies: person-based and process-based |
 | Dialogue confirmation strategies | Action-commit (C001 B3), echo-restate (C003 B1), institutional routing (C004 A3) | Three strategies, none using a bare "yes" — language appears action-confirmation oriented |
 | Question construction | Content question via `to-si` (C001 B1), polar question via `to-si` fronting (C003 A1) | `to-si` is load-bearing for all inquiry types; polar/content distinction unresolved |
 
@@ -621,4 +621,4 @@ This reuse is not incidental — it reflects a genuine ontological commitment: *
 - [ ] **`vo` subdivision.** The consolidation `vo` = beauty + worth + ethical value + quality may be too coarse for Concordia's precision culture. Should `vo` remain monolithic or eventually split into `vo-se` (sensory quality/beauty), `vo-li` (agent-relative ethical worth), `vo-su` (systematic/objective value measure)? Do not split until corpus produces a sentence where the ambiguity is load-bearing.
 - [ ] **`re` and aspect.** If repetition is primitive, does it interact with tense/aspect to produce habitual or iterative aspect grammatically? E.g., `re-ka-be` = habitually builds vs. `ka-be` = built (once). Resolve when tense/aspect phonology is finalized.
 - [ ] **False-`re` as an error class.** Is claiming `re` where the pattern is superficial (false analogy) a registered epistemic error category? Candidate: `re-fe-ka` (claiming pattern-identity across a boundary that doesn't actually hold). Do not register until corpus evidence.
-- [ ] **Model-domain frame — sustained model-space discourse.** CF-001 established `to-go [X]  Y` for single counterfactual assertions. But discourse sometimes requires a sustained frame: "speaking within the reactor model..." or "according to the failure analysis..." — a scope that covers multiple sentences, not a single conditional. The language currently has no way to open a model-domain scope without re-asserting `to-go` on every sentence. Candidate: bare `to [model-name  begins]` as a discourse-frame opener, closed by returning to actuality-marked utterances. Do not formalize until a corpus conversation or multi-sentence analysis requires it. Watch.
+- [ ] **Model-domain frame — sustained model-space discourse.** CF-001 established `to-go {X}  Y` for single counterfactual assertions. But discourse sometimes requires a sustained frame: "speaking within the reactor model..." or "according to the failure analysis..." — a scope that covers multiple sentences, not a single conditional. The language currently has no way to open a model-domain scope without re-asserting `to-go` on every sentence. Candidate: bare `to {model-name  begins}` as a discourse-frame opener, closed by returning to actuality-marked utterances. Do not formalize until a corpus conversation or multi-sentence analysis requires it. Watch.
