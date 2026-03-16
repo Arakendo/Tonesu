@@ -563,3 +563,306 @@ Written: `putosu ne ven noduto`
 - `nu-vo` (quantity-value = money-as-countable-resource) — S440
 - `du-to` (result-of-knowledge = correct/accurate) — S445–S446
 - `to-zo` (knowledge-living-being = rational animal) — S443; polarity contrast with `zo-to` W068
+
+---
+
+## John 1:1 — Identity Operator Stress Test (S447–S449) — Batch: JOH-001
+
+**Purpose:** Stress-tests the three Tonesu identity operators against the most compressed philosophical sentence in the New Testament. Greek `ἐν ἀρχῇ ἦν ὁ Λόγος, καὶ ὁ Λόγος ἦν πρὸς τὸν Θεόν, καὶ θεὸς ἦν ὁ Λόγος.` ("In the beginning was the Word, and the Word was with God, and the Word was God.") The single Greek verb `ἦν` (was) carries three structurally distinct senses in three consecutive clauses. Key test: does Tonesu disambiguate them without inventing new grammar?
+
+---
+
+**S447 — John 1:1a — "In the beginning was the Word." (JOH-001-A)**
+
+```
+ta-go-ti  la-to  pa
+```
+
+Written: `tagoti lato pa`
+
+**Notes:** `ta-go-ti` = at-origin-time = the temporal adverbial "in the beginning" (`ta` = location/temporal marker particle + `go` = origin/cause + `ti` = time). `la-to` = the Word as agent (`la-` agent marker + `to` = knowledge/concept/pattern, used for the Logos as the conceptual principle). `pa` = is-present / exists (spatial-stative primitive used predicatively: the Word was-at-place / had presence). `ἦν` here = existential-was: the Word existed at origin-time. No copula needed; `pa` carries the existential claim straightforwardly.
+
+---
+
+**S448 — John 1:1b — "The Word was with God." (JOH-001-B)**
+
+```
+la-to  ne  ro-go-no-fe
+```
+
+Written: `lato ne rogonofe`
+
+**Notes:** `la-to` = the Word. `ne` = relational copula. `ro-go-no-fe` = with-the-necessary-being: accompaniment prefix `ro-` + `go-no-fe` = necessary-being (God, established THO-001). `ne ro-X` = "is in relational co-presence with X." `ἦν` here = relational-was: the Word was alongside God, in intimate co-presence. The Greek `πρὸς τὸν Θεόν` = "toward/with God" = directional intimacy. `ne ro-go-no-fe` captures the relational co-presence (not merely spatial; the copula `ne` carries the relational weight). Note: `ro-` cannot alone convey directed intimacy (GAP-JOH-001: Tonesu lacks a "toward-with" preposition); `ne ro-X` is the closest viable construction.
+
+---
+
+**S449 — John 1:1c — "The Word was God." (JOH-001-C)**
+
+```
+la-to  ne  go-no-fe
+```
+
+Written: `lato ne gonofe`
+
+**Notes:** `la-to` = the Word. `ne` = property/nature copula. `go-no-fe` = the necessary-being / the divine (God). `ne go-no-fe` = bears the divine nature / is characterized by necessary-being-ness. `ἦν` here = qualitative-was: the Word had/shared the divine nature. The Greek uses the anarthrous `θεὸς` (without the definite article) — deliberately distinguishing this from "the Word = the entire Godhead." `ne` (property attribution) is exact: the Word does not `helms` God (strict identity would collapse the Trinity distinction), nor does it merely `helm` God (functional equivalence would be too weak). The Word *bears the nature of* the necessary-being. Tonesu is more precise than English here: the three `ἦν` clauses demand three different constructions (`pa` / `ne ro-X` / `ne X`), each native to Tonesu's grammar.
+
+---
+
+## JOH-001 Batch Summary
+
+| Entry | Form | Test |
+|-------|------|------|
+| S447 (JOH-001-A) | `tagoti lato pa` | existential-was: the Word existed at origin-time |
+| S448 (JOH-001-B) | `lato ne rogonofe` | relational-was: the Word was alongside God |
+| S449 (JOH-001-C) | `lato ne gonofe` | qualitative-was: the Word bore divine nature |
+
+**Key finding:** Same Greek verb `ἦν`; three structurally distinct Tonesu constructions. Tonesu is forced, by its grammar, to make distinctions that Greek compresses and English inherits ambiguously. The three readings (existential / relational / nature-attributive) are not interchangeable in Tonesu; the language surfaced the theological distinction that provoked the Arian controversy.
+
+**Gaps documented:** GAP-JOH-001 (Tonesu lacks a "directed-toward" preposition; `ne ro-X` is the closest); GAP-JOH-002 (Tonesu lacks a grammatical imperfective/continuous-past aspect; `ἦν` as habitual past is lost; all three sentences read as atemporal).
+
+---
+
+## Newton's First Law of Motion (S450–S451) — Batch: NEW-001
+
+**Purpose:** Stress-tests universal quantification (`pu-X :`), scientific law structure, and conditional exception. Newton: "Every body continues in its state of rest or uniform motion in a right line, unless it is compelled to change that state by forces impressed upon it." Tests: universal topic frame, inertial state vocabulary, biconditional split to handle "unless."
+
+---
+
+**S450 — Newton First Law: inertial persistence (NEW-001-A)**
+
+```
+pu-fe-ma : go no la-no-ko-ra ka-ki lo-ze / la-ze re su-ki-pa-ze
+```
+
+Written: `pufema : go no lanokora kaki loze / laze re sukipaze`
+
+**Notes:** `pu-fe-ma` = all bounded-material-bodies = every body (`pu-` universal quantifier + `fe-ma` = bounded-matter; first attested this batch). `:` = topic frame = "As for all bodies..." `go` = causal/conditional frame introducing the premise. `no la-no-ko-ra ka-ki lo-ze` = no external force acts on it (`no` = negation; `la-no-ko-ra` = external-force as agent; `no-ko-ra` = non-interior-force = external force, `no` + `ko` interior + `ra` force; `ka-ki` = action-change = to act upon; `lo-ze` = it, the patient body). `/` = premise/result line break. `la-ze re su-ki-pa-ze` = it continues in its spatial motion-state (`la-ze` = it as agent; `re` = cycle/continues; `su-ki-pa-ze` = structural-change-of-spatial-state-of-it; `su-ki-pa` = spatial motion-state, `su` = structure + `ki` = change + `pa` = space). `re` encodes persistence/continuation as habitual cycling. Handles the "rest or uniform motion" collapse: both states are the same `su-ki-pa` (inertial state); the disjunction dissolves.
+
+---
+
+**S451 — Newton First Law: external force causes state change (NEW-001-B)**
+
+```
+go la-no-ko-ra ka-ki lo-fe-ma / lo-su-ki-pa-ze ki
+```
+
+Written: `go lanokora kaki lofema / losukipaze ki`
+
+**Notes:** The complement clause completing the biconditional. `go` = conditional: if. `la-no-ko-ra ka-ki lo-fe-ma` = an external force acts on the body. `lo-su-ki-pa-ze ki` = the spatial-motion-state undergoes change (`lo-su-ki-pa-ze` = patient: the spatial-state-of-it; `ki` = changes/transforms). S450 + S451 form a biconditional pair that together express Newton's law without needing "unless": S450 = [~force → persists]; S451 = [force → changes]. This resolves GAP-NEW-002 (Tonesu lacks an "unless" particle). GAP-NEW-001 (no OR disjunction particle) is resolved by the physics: rest and uniform motion are the same inertial state in Newtonian mechanics, so `su-ki-pa` covers both without disjunction.
+
+---
+
+## NEW-001 Batch Summary
+
+| Entry | Form | Test |
+|-------|------|------|
+| S450 (NEW-001-A) | `pufema : go no lanokora kaki loze / laze re sukipaze` | inertial persistence; biconditional premise |
+| S451 (NEW-001-B) | `go lanokora kaki lofema / losukipaze ki` | external force produces state change; biconditional complement |
+
+**Key finding:** Newton's "unless" requires a biconditional split into two `go`-conditional frames. The "rest or uniform motion" disjunction collapses compositionally to a single `su-ki-pa` compound — the physics does the linguistic work. Universal quantification via `pu-X :` topic frame is clean.
+
+**New vocabulary introduced:** `fe-ma` (bounded-matter = Newtonian body) · `su-ki-pa` (spatial motion-state = inertial state) · `no-ko-ra` (non-interior-force = external force) · `ka-ki` (action-change = to act upon)
+
+**Gaps documented:** GAP-NEW-001 (no OR disjunction particle; resolved by physics collapse); GAP-NEW-002 (no "unless" particle; resolved by biconditional split); GAP-NEW-003 (no continuous-state aspect; `re` approximates persistence but is cyclic, not truly continuous).
+
+---
+
+## Romans 7:19 — Psychological Contradiction (S452–S453) — Batch: ROM-001
+
+**Purpose:** Stress-tests will/act gap and habitual compulsive aspect. Paul: "For I do not do the good I want to do, but the evil I do not want to do — this I keep on doing." Tests: `wi-vo` for intentional good, `de-vo` for acting-against-value, `re` as habitual aspect for compulsive repetition. The sentence is a four-slot symmetric structure: [want-good | don't-do] / [reject-harm | keep-doing].
+
+---
+
+**S452 — Romans 7:19a — "For I do not do the good I want to do." (ROM-001-A)**
+
+```
+la-mi wi-vo / no la-mi ka-ze
+```
+
+Written: `lami wivo / no lami kaze`
+
+**Notes:** `la-mi` = I (first-person agent, `la-` + `mi`). `wi-vo` = willed-good / intended-value: `wi` (purpose/intent as compound root) + `vo` (value/good). The pre-`/` clause establishes the intention. `no la-mi ka-ze` = I do not do it: `no` (negation) + `la-mi` + `ka-ze` (`ka` = act + `ze` third-person referent = act-on-it; the good is anaphorically recalled by `ze`). The will-act gap is encoded by the syntactic contrast across `/`: intention on the left, negated action on the right. Note: `wi` is here used as a compound root (intent), not as the clause-frame particle `wi {purpose} action`; the dual role is permitted because the internal compound `wi-vo` = intent-toward-good is semantically coherent regardless of framing.
+
+---
+
+**S453 — Romans 7:19b — "But the evil I do not want to do, I keep on doing." (ROM-001-B)**
+
+```
+la-mi no-wi-de-vo / re la-mi ka-ze
+```
+
+Written: `lami nowidevo / re lami kaze`
+
+**Notes:** `la-mi` = I. `no-wi-de-vo` = rejected-harm: `no` (negation/repudiation) + `wi` (intent/will) + `de-vo` (value-decay = moral acting-against-value; `de` = decay/deterioration + `vo` = value). The compound `no-wi-de-vo` = "will-repudiated value-harm" = what I have deliberately not willed. `re la-mi ka-ze` = I keep doing it: `re` (cycle/recurrence) as a clause-level habitual aspect marker + `la-mi ka-ze` = I act-on-it. `re` as habitual is its first unambiguous attestion in this role. The structure is symmetric with S452: S452 has [intention left, negated-act right]; S453 has [repudiated-object left, compulsive-act right]. The symmetry encodes Paul's doubled contradiction: both slots of the will are active (positive will and negative will), and both produce the wrong action.
+
+**Theological note:** `de-vo` (value-decay = moral evil) is chosen over `no-vo` (privation-of-value = absence of good) to represent Paul's conception of evil here. Paul's "evil I do" is active corruption, not mere absence — `de-vo` captures the acting-against-value force. The choice reflects Augustinian corruption (de-vo) over privatio boni (no-vo). Both compounds exist; registering the distinction matters for corpus consistency.
+
+---
+
+## ROM-001 Batch Summary
+
+| Entry | Form | Test |
+|-------|------|------|
+| S452 (ROM-001-A) | `lami wivo / no lami kaze` | will-to-good / act-gap |
+| S453 (ROM-001-B) | `lami nowidevo / re lami kaze` | rejection-of-harm / compulsive repetition |
+
+**Key finding:** The four-slot structure (want-good | don't-do | reject-harm | keep-doing) maps onto two parallel Tonesu sentences with symmetric `/` internal structure. `re` as habitual-compulsive aspect marker (first attested). `de-vo` vs `no-vo` distinction gives the corpus a vocabulary for Augustinian vs privation accounts of evil.
+
+**New vocabulary introduced:** `wi-vo` (willed-good = intentional value pursuit) · `de-vo` (value-decay = moral evil / despair, dual-register) · `no-wi-de-vo` (repudiated harm = what one has rejected willing)
+
+---
+
+## A Tale of Two Cities — Opening (S454–S458) — Batch: DKN-001
+
+**Purpose:** Stress-tests `helm` for rhetorical antithesis and the superlative/extremal `X-fe` pattern. Dickens: "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair." Five antithetical pairs; all five use `helm` (functional/contextual equivalence). Container-noun variation (times/age/epoch/season/spring) collapses to `ti`.
+
+---
+
+**S454 — Dickens: "It was the best of times / the worst of times." (DKN-001-A)**
+
+```
+ti  helm  vo-fe / ti  helm  no-vo'fe
+```
+
+Written: `ti helm vofe / ti helm novo'fe`
+
+**Notes:** `ti` = time (primitive); the five English container nouns collapse to one Tonesu word — Dickens's lexical variation was rhetorical texture, not semantic distinction. `helm` (G011) = is functionally understood as = `is` in the narrative/cultural register. `vo-fe` = value-at-extremum = best (`vo` value + `fe` boundary/limit; the extremal suffix pattern `X-fe` = superlative; candidate for grammar validation, GAP-DKN-001). `no-vo'fe` = not-good-at-extremum = worst: the juncture mark `'` is required to bind `no-vo` before `fe` is applied: `[no-vo]'fe` = the extremum of not-goodness. Without the juncture, `no-vo-fe` = `no-[vo-fe]` = not-best (wrong reading). Tonesu orthography makes the semantic difference visually explicit.
+
+---
+
+**S455 — Dickens: "It was the age of wisdom / the age of foolishness." (DKN-001-B)**
+
+```
+ti  helm  to-vo / ti  helm  no-to-vo
+```
+
+Written: `ti helm tovo / ti helm notovo`
+
+**Notes:** `to-vo` = knowledge-value = wisdom (`to` = knowledge/concept + `vo` = value): the evaluative good of conceptual discernment. `no-to-vo` = not-knowledge-value = foolishness: the absence or failure of evaluative wisdom. `no-` prefix here signals straightforward privation: foolishness is the lack of wisdom, not its active corruption. Compare with `de-vo` (active decay of value) vs `no-vo` (privation of value): the same productive `no-` prefix governs both. `helm` throughout: all five antitheses in Dickens are contextual/interpretive claims about historical time, not strict definitions.
+
+---
+
+**S456 — Dickens: "It was the epoch of belief / the epoch of incredulity." (DKN-001-C)**
+
+```
+ti  helm  vo-si / ti  helm  no-si
+```
+
+Written: `ti helm vosi / ti helm nosi`
+
+**Notes:** `vo-si` = value-confidence = confident belief / faith (`vo` = value + `si` = certainty/stability). This compound reads: the good of certainty = that which is valued by being stable and trusted = confident belief. `no-si` = not-certainty = incredulity / skeptical refusal. Dickens's "belief" and "incredulity" are about the epistemic climate of the age — whether the culture accepts or rejects received truths. `vo-si` encodes the positive valuation of confident trust; `no-si` encodes its negation.
+
+---
+
+**S457 — Dickens: "It was the season of Light / the season of Darkness." (DKN-001-D)**
+
+```
+ti  helm  ha / ti  helm  no-ha
+```
+
+Written: `ti helm ha / ti helm noha`
+
+**Notes:** `ha` = heat/radiance (primitive; covers both heat and light as phenomena of energy). `no-ha` = not-heat/not-light = cold/darkness. Dickens's Light and Darkness are metaphorical — spiritual and cultural illumination/obscurity. The `ha`/`no-ha` pair maps directly: `ha` = the condition of light, warmth, and clarity; `no-ha` = the absence of those properties. The pair is the simplest of the five antitheses: single-root vs negated-root, no compound structure needed.
+
+---
+
+**S458 — Dickens: "It was the spring of hope / it was the winter of despair." (DKN-001-E)**
+
+```
+ti  helm  be-vo / ti  helm  de-vo
+```
+
+Written: `ti helm bevo / ti helm devo`
+
+**Notes:** `be-vo` = growth-value = hope (`be` = growth/increase + `vo` = value): value that is growing, increase of the good = orientation toward future good = hope. `de-vo` = decay-value = despair (`de` = decay/deterioration + `vo` = value): value that is eroding, decrease of the good = orientation toward negated future = despair. Note: `de-vo` is re-attested from ROM-001 (S453) where it carried the moral-evil register. In this Dickens context it carries the psychological-despair register. Both are valid and natural: moral evil and existential despair share the structure of value-erosion; the compound's dual-register coherence is a feature, not ambiguity. Contrast with `no-vo'fe` in S454: that was the extremum of not-having-value; `de-vo` here is the active process of value losing ground.
+
+---
+
+## DKN-001 Batch Summary
+
+| Entry | Form | Test |
+|-------|------|------|
+| S454 (DKN-001-A) | `ti helm vofe / ti helm novo'fe` | best/worst — `X-fe` extremal; juncture required for worst |
+| S455 (DKN-001-B) | `ti helm tovo / ti helm notovo` | wisdom/foolishness — `to-vo` knowledge-value |
+| S456 (DKN-001-C) | `ti helm vosi / ti helm nosi` | belief/incredulity — `vo-si` value-certainty |
+| S457 (DKN-001-D) | `ti helm ha / ti helm noha` | light/darkness — primitive pair |
+| S458 (DKN-001-E) | `ti helm bevo / ti helm devo` | hope/despair — `be-vo` growth-value; `de-vo` decay-value |
+
+**Key finding:** Dickens's five container nouns (times/age/epoch/season/spring) collapse to `ti` — revealing that the entire opening is a single rhetorical structure: one subject (`ti`) × one operator (`helm`) × five antithetical pairs. Tonesu strips the rhetorical texture and exposes the logical skeleton. The `X-fe` extremal suffix is productive but needs grammar validation.
+
+**New vocabulary introduced:** `vo-fe` (value-at-extremum = best; first attested) · `no-vo'fe` (not-good-at-extremum = worst; juncture required) · `to-vo` (knowledge-value = wisdom) · `vo-si` (value-certainty = confident belief/faith) · `be-vo` (growth-value = hope) · `de-vo` in despair register (re-attested from ROM-001)
+
+**Gaps documented:** GAP-DKN-001 (`X-fe` extremal suffix pattern inferred compositionally; needs explicit grammar rule validation).
+
+---
+
+## Matthew 16:25 — Causal Inversion Paradox (S459–S460) — Batch: MTH-001
+
+**Purpose:** Stress-tests the `go` causal frame with paradoxical premise-result pairs. Jesus: "For whoever wants to save their life will lose it, but whoever loses their life for my sake will find it." Tests: `ka-no-de` (deliberate preservation) as cause → decay as result; `ka-de` (deliberate sacrifice) + `wi-mi` (for-my-sake) as cause → growth as result. The paradox requires no special grammar machinery.
+
+---
+
+**S459 — Matthew 16:25a — "Whoever saves their life will lose it." (MTH-001-A)**
+
+```
+go la-ze ka-no-de lo-ze-zo-ra / lo-ze-zo-ra de
+```
+
+Written: `go laze kanode lozezora / lozezora de`
+
+**Notes:** `go` = conditional/causal frame. `la-ze` = whoever (third-person indefinite as agent). `ka-no-de` = deliberate-preservation = to save/preserve/keep (`ka` = action/will + `no` = negation of + `de` = decay = action-against-decay = deliberate preservation). `lo-ze-zo-ra` = their life-energy (patient: `ze` third-person modifier + `zo-ra` W117 life-energy = ψυχή). `lo-ze-zo-ra de` = their life-energy decays/erodes (`de` alone as predicate = undergoes decay). The causal inversion is the content, not the grammar: a `go` frame can connect any premise to any result, including paradoxical ones. The sentence makes the claim; the grammar is neutral.
+
+---
+
+**S460 — Matthew 16:25b — "Whoever loses their life for my sake will find it." (MTH-001-B)**
+
+```
+go la-ze ka-de lo-ze-zo-ra wi-mi / lo-ze-zo-ra be
+```
+
+Written: `go laze kade lozezora wimi / lozezora be`
+
+**Notes:** `ka-de` = deliberate-decay = to sacrifice/give-up/surrender (`ka` = action/will + `de` = decay = willed dissolution). `lo-ze-zo-ra` = their life-energy (patient, same as S459). `wi-mi` = for-my-sake / for-my-purpose: `wi` (purpose as compound root) + `mi` (first-person = the speaker, i.e. Jesus). Post-patient position marks it as a telic-purpose modifier on the action. `lo-ze-zo-ra be` = their life-energy grows/increases (`be` = growth/increase as predicate). The promise: deliberate self-sacrifice motivated by the speaker's purpose produces the opposite result (increase, not decrease). `be` and `de` are the minimal opposition across S459/S460: both are intransitive predicates applied to the same patient.
+
+---
+
+## MTH-001 Batch Summary
+
+| Entry | Form | Test |
+|-------|------|------|
+| S459 (MTH-001-A) | `go laze kanode lozezora / lozezora de` | preserve → lose; causal inversion |
+| S460 (MTH-001-B) | `go laze kade lozezora wimi / lozezora be` | surrender-for-purpose → gain; telic sacrifice |
+
+**Key finding:** Paradox does not require special grammar. The `go {premise} / {result}` frame accommodates any content pair, including causally inverted ones. The grammar is uninvested in whether the results are expected. `ka-no-de`/`ka-de` is a productive antithetical pair (preserve/sacrifice); both require `ka` (willed action) + the positive or negative form of `de`. `wi-mi` cleanly handles "for my sake" as a telic-purpose compound.
+
+**New vocabulary introduced:** `ka-no-de` (deliberate preservation = to save; `ka-de` = deliberate sacrifice/surrender) · `wi-mi` (for-my-sake/purpose; `wi` as compound root + first-person `mi`)
+
+---
+
+## Wittgenstein, Tractatus Logico-Philosophicus §1 (S461) — Batch: WIT-001
+
+**Purpose:** Stress-tests `helms` for strict ontological definition and the Tonesu facts/objects distinction. Wittgenstein: "Die Welt ist alles, was der Fall ist." / "The world is everything that is the case." Tests: `pa-no-fe` in secular philosophical register, `pu-du-to` for the totality of facts as distinct from the totality of objects, `helms` for analytic definitional identity.
+
+---
+
+**S461 — Wittgenstein, Tractatus §1 — "The world is everything that is the case." (WIT-001)**
+
+```
+pa-no-fe  helms  pu-du-to
+```
+
+Written: `panofe helms puduto`
+
+**Notes:** `pa-no-fe` = the world = unbounded spatial totality (`pa` = place/space + `no-fe` = without limit; established THO-001 as divine omnipresence; re-used here in secular-philosophical register for Wittgenstein's `die Welt`). `helms` (G012) = is by strict definition = structural/analytic identity. `pu-du-to` = everything that is the case = the totality of all obtaining facts: `pu-` (universal) + `du` (result/effect = actualized outcome) + `to` (conceptual pattern = proposition/knowledge-structure); `du-to` = actualized-conceptual-result = a proposition that has obtained = a fact. `pu-du-to` = all such obtaining facts = the totality of the factual. This is `du-to` in its ontological register; cf. S445–S446 where the same compound occupies the epistemic register (correct/accurate). The dual-register coherence is productive: epistemic success and ontological obtaining share the same structure. Critical distinction: `pu-du-to` (facts = things-that-are-the-case) ≠ `pu-ma` (things = material objects). Wittgenstein's argument is precisely this — the world is constituted by facts, not by the catalogue of objects. Tonesu has separate roots for these (`du-to` vs `ma`) and therefore can make the ontological move Wittgenstein requires. `helms` is correct: this is Wittgenstein's Proposition 1 as an analytic definition of the world, not a contingent claim about it.
+
+---
+
+## WIT-001 Batch Summary
+
+| Entry | Form | Test |
+|-------|------|------|
+| S461 (WIT-001) | `panofe helms puduto` | `helms` for ontological definition; facts (`pu-du-to`) vs objects (`pu-ma`) |
+
+**Key finding:** Tonesu encodes Wittgenstein's facts/objects distinction compositionally without new vocabulary. The contrast `pu-du-to` (totality of obtaining facts) vs `pu-ma` (totality of material objects) exists in the existing compound system. `helms` delivers the analytic definitional force. `pa-no-fe` is semantically stable across theological and philosophical register. The translation takes one sentence and no neologisms.
+
+**New vocabulary introduced:** `pu-du-to` (totality of obtaining facts; `du-to` in ontological register; first attested S461)

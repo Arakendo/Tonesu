@@ -60,3 +60,9 @@ Corpus evidence by batch (for cross-reference):
 | EXO-001 | Exodus 3:1–15 — burning bush, divine name, liberation, holy ground | S398–S417 | s398-plus.md |
 | LSP-001 | Last Supper / Eucharist — institution formula, body/blood, covenant, remembrance, Passover | S418–S438 | s398-plus.md |
 | FMQ-001 | Famous quotes — `helm` functional equivalence, `helms` strict identity, `ven` approximation, `go` causal contrast | S439–S446 | s398-plus.md |
+| JOH-001 | John 1:1 — three senses of `ἦν`; existential / relational co-presence / nature attribution; GAP-JOH-001/002 | S447–S449 | s398-plus.md |
+| NEW-001 | Newton First Law — `pu-X :` universal quantification; inertial state; biconditional split for "unless"; GAP-NEW-001/002/003 | S450–S451 | s398-plus.md |
+| ROM-001 | Romans 7:19 — will/act gap; `re` habitual-compulsive aspect; `wi-vo`/`de-vo` moral vocabulary | S452–S453 | s398-plus.md |
+| DKN-001 | Dickens opening — `helm` × 5 antithetical pairs; `X-fe` extremal superlative; container-noun collapse to `ti`; GAP-DKN-001 | S454–S458 | s398-plus.md |
+| MTH-001 | Matthew 16:25 — causal inversion; `ka-no-de` / `ka-de` preserve/sacrifice pair; `wi-mi` telic purpose | S459–S460 | s398-plus.md |
+| WIT-001 | Wittgenstein Tractatus §1 — `helms` ontological definition; `pu-du-to` facts vs `pu-ma` objects | S461 | s398-plus.md |
