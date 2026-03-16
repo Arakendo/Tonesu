@@ -8,6 +8,8 @@ Registered contractions and stub-forms used in the casual/spoken register. All e
 
 **Ambiguity policy:** Colloquial stubs are CVC at maximum (the phonological ceiling is (C)V(C) — no clusters). The CVC namespace is large enough that inter-stub collisions are rare, but are not prevented by design. When two stubs collide, context disambiguates; the formal compound is always the unambiguous fallback. The registry does not police the CVC namespace — it documents what stubs exist and traces them to formal sources. A general-class stub (e.g. a future bird-class `zob`) coexists with species-level stubs in the same class; the formal compound is the species-precision fallback.
 
+**Open design question — longer colloquial forms:** The CVC ceiling was defined for root-compression stubs (organism kind-terms, matter class stubs). It may not be the right ceiling for *prosodic shortening* of high-frequency juncture compounds — long `'`-bounded forms that have become pragmatically chunked through repeated use, where collapsing to a single CVC removes too much structural information. Whether a distinct rule for juncture-preserving colloquial shortening is warranted, and what its admission criteria would be, is an open question. See `notes/open-questions.md` (CLQ-EXT). Do not apply this registry's CVC ceiling to that case until the question is resolved.
+
 **ID prefix:** colloquial entries use the `CLQ-` prefix (not `COL-`, which is reserved for the closed color-system question, COL-001 in notes/open-questions.md).
 
 ---
