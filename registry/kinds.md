@@ -100,7 +100,7 @@ a terminal-class fourth root (`-li`, `-fe`, `-di`, `-pa`) can discriminate direc
 off the three-root acoustic genus `zo-se-so`, or off the two-root base `zo-se` —
 whichever level captures the relevant distinction. A fox, for instance, is neither
 pack-social (`-li`) nor territorial-feline (`-fe`); the fox discriminator attaches to
-`zo-se-so` directly (`[fox-discrim]'zo-se-so`), and fox subspecies are further
+`zo-se-so` directly (`{fox-discrim}'zo-se-so`), and fox subspecies are further
 discriminators on top of that.
 
 ---
