@@ -168,7 +168,7 @@ Written: `lanaPeter ronáJohn se loze / layu kasu lokapaki'tire`
 ti  ki  ze  /  la-na-Jesus  ne  ro-pu-si-ki-li-ze  ko-pa'be
 ```
 
-Written: `ti ki ze / laJesus ne ropusikilieze kopa'be`
+Written: `ti ki ze / laJesus ne ropusikilize kopa'be`
 
 **Notes:** `ti  ki  ze` = at-the-time-[when]-it-moved = "when the hour came" — a temporal anticipation clause using `ti` (time marker) + `ki` (motion) + `ze` (anaphoric for the time/occasion). Main clause: `ne  ro-pu-si-ki-li-ze` = was with their-plural-messengers. `pu-` = plural prefix; `si-ki-li-ze` = their-messengers = the apostles (W158). `ko-pa'be` = elevated room = upper room: `ko-pa` (W048, room) + `'be` (above/elevated subunit). Juncture binds `ko-pa` as the pre-formed room-compound, modifying it with `be` (growth = upwardness).
 
@@ -180,7 +180,7 @@ Written: `ti ki ze / laJesus ne ropusikilieze kopa'be`
 [na-Jesus:]  "fa-wi-mi  nu-vo  ka-zo-ra-ma  lo-ka-pa-ki'ti-re  ro-yu  ti-fe  fa-de-ra-mi"
 ```
 
-Written: `[naJesus:] "fawimi nuvo kazozarma lokapaki'tire royu tife faderama"`
+Written: `[naJesus:] "fawimi nuvo kazorama lokapaki'tire royu tife faderama"`
 
 **Notes:** `fa-wi-mi` = my-affect-will = my longing/desire (affect + will + possessive). `nu-vo` = quantity-value = greatly/intensely (degree modifier: how much the desire). `ka-zo-ra-ma` = deliberately consume food = eat (verbal form). `ro-yu` = with you-all. `ti-fe` (W037, temporal boundary) = before the deadline/limit-moment. `fa-de-ra-mi` = my-suffering (W155 + possessive-mi). "Before my suffering" = `ti-fe  fa-de-ra-mi` — the suffering event as the temporal boundary.
 
@@ -192,7 +192,7 @@ Written: `[naJesus:] "fawimi nuvo kazozarma lokapaki'tire royu tife faderama"`
 [na-Jesus:]  "la-mi  si  lo-tu  /  la-mi  no  ka-zo-ra-ma  lo-ze  ti  be-du  pa-be'ka-li-su"
 ```
 
-Written: `[naJesus:] "lami si lotu / lami no kazozarma loze ti bedu pabe'kalisu"`
+Written: `[naJesus:] "lami si lotu / lami no kazorama loze ti bedu pabe'kalisu"`
 
 **Notes:** `la-mi  si  lo-tu` = I signal to you = I tell you (solemn assertion marker). `no  ka-zo-ra-ma` = not-eat. `ti  be-du` = at the time of [it] growing-to-completion = until it is fulfilled. `be-du` = growth-result = completion/fulfillment (be = growth, du = result: the result of growing = what has grown to completion). `pa-be'ka-li-su` (W125, kingdom of heaven/God). The `no` negation spans the eating verb; the temporal clause is the release condition.
 
@@ -208,7 +208,7 @@ Written: `[naJesus:] "lami si lotu / lami no kazozarma loze ti bedu pabe'kalisu"
 la-na-Jesus  ka-ne  lo-ko-mu  /  la-ze  ka-vo-si
 ```
 
-Written: `laJesus kane lokokomu / laze kavosi`
+Written: `laJesus kane lokomu / laze kavosi`
 
 **Notes:** `ka-ne` = deliberate bonding/taking = to take into hand (deliberate establishing of a connection with an object). `ko-mu` (W052, vessel/container) = the cup. Second clause: `la-ze  ka-vo-si` = he gave thanks/blessed (W168). The thanksgiving precedes the distribution command.
 
@@ -232,7 +232,7 @@ Written: `[naJesus:] "kane loze / kazi royu"`
 [na-Jesus:]  "la-mi  no  ka-zo-ra-ma  lo-du-zo-su  ti  ki  pa-be'ka-li-su"
 ```
 
-Written: `[naJesus:] "lami no kazozorama louduzousu ti ki pabe'kalisu"`
+Written: `[naJesus:] "lami no kazorama loduzosu ti ki pabe'kalisu"`
 
 **Notes:** `du-zo-su` (W142, fruit/plant-result) = the vine's fruit = grapes / what the vine produces. Jesus names the wine by its origin (fruit of the vine), not by its processed form (`de-ki'ma`). The distinction is intentional: he refuses the natural product until the kingdom's arrival transforms the eschatological register. `ti  ki  pa-be'ka-li-su` = at-the-time [when] the kingdom moves [into arrival] = until the kingdom comes. `ki` here = inchoative arrival (the kingdom comes into motion = arrives).
 
@@ -248,7 +248,7 @@ Written: `[naJesus:] "lami no kazozorama louduzousu ti ki pabe'kalisu"`
 la-na-Jesus  ka-ne  lo-ka-du-zo-su  /  la-ze  ka-vo-si
 ```
 
-Written: `laJesus kane lokaduzozusu / laze kavosi`
+Written: `laJesus kane lokaduzosu / laze kavosi`
 
 **Notes:** Structural parallel to S426 (cup). `ka-du-zo-su` (W161) = bread. First use of the bread compound in the Eucharistic context. The parallel structure (take → give thanks → break → give) mirrors the cup precisely. `ka-vo-si` (W168) = the thanksgiving blessing.
 
@@ -260,7 +260,7 @@ Written: `laJesus kane lokaduzozusu / laze kavosi`
 la-na-Jesus  ka-de  lo-ze  /  la-ze  ka-ne  lo-ze  lo-pu-si-ki-li-ze
 ```
 
-Written: `laJesus kade loze / laze kane loze lopusikilieze`
+Written: `laJesus kade loze / laze kane loze lopusikilize`
 
 **Notes:** `ka-de` = deliberately decay/dissolve = break apart (deliberate, careful fracture of the bread). `la-ze  ka-ne  lo-ze` = he gave/bonded it [to them]. `lo-pu-si-ki-li-ze` = patient-plural-messengers-theirs = to his apostles. `pu-` = plural. The giving is the distribution action: he physically extends the bond to each recipient.
 
@@ -272,7 +272,7 @@ Written: `laJesus kade loze / laze kane loze lopusikilieze`
 [na-Jesus:]  "zo-ma-mi  ne  ze  go-lu-yu"
 ```
 
-Written: `[naJesus:] "zoamami ne ze goluyu"`
+Written: `[naJesus:] "zomami ne ze goluyu"`
 
 **Notes:** `zo-ma-mi` = my-body (W163 + `-mi` possessive). `ne` = property copula. `ze` = anaphoric-this = the bread just broken. `go-lu-yu` = cause-of-beneficiary-you-all = being the ground of your benefit = given for you. The causal-beneficiary chain encodes the sacrificial direction: the speaker's body is the cause whose beneficiary is the group. No identity copula (the body IS the bread is not what Tonesu encodes here — `ne` attributes the property "my body" to the bread-referent). The gap documented in THO-001 remains; this sentence navigates it by making the claim relational (`go-lu-yu`) rather than identity.
 
@@ -284,7 +284,7 @@ Written: `[naJesus:] "zoamami ne ze goluyu"`
 [na-Jesus:]  "ka  lo-ze  to-ko-re-mi"
 ```
 
-Written: `[naJesus:] "ka loze tokoarème"`
+Written: `[naJesus:] "ka loze tokoremi"`
 
 **Notes:** The founding command of the Eucharist. `ka` = deliberate action (imperative). `lo-ze` = patient-this = the breaking-and-giving action just performed. `to-ko-re-mi` = my-remembrance (W166 + `-mi` possessive) as manner/purpose modifier: the action is to be performed AS remembrance-of-me. The Tonesu form encodes the Eucharist's structure: a deliberate act (`ka`) performed for the purpose of knowledge-returning-to (`to-ko-re`) the speaker. Ritual as epistemic return.
 
@@ -302,7 +302,7 @@ First attestation of W166 (`to-ko-re`).
 la-na-Jesus  ti-de  ka-zo-ra-ma  ka-ne  lo-ko-mu
 ```
 
-Written: `laJesus tide kazozorama kane lokokomu`
+Written: `laJesus tide kazorama kane lokomu`
 
 **Notes:** `ti-de  ka-zo-ra-ma` = after-the-eating (W041 past-time marker + eating-action compound = temporal frame: post-supper). `ka-ne  lo-ko-mu` = (he) took the cup. Parallel to S426 (pre-supper cup), but now post-supper. The narrative parallelism is structurally visible in the Tonesu form.
 
@@ -349,7 +349,7 @@ Written: `dezoki'mami goluyu`
 [na-Jesus:]  "ka-ne  lo-ze  /  ka-zo-ra-ma  lo-ze  /  zo-ma-mi  ne  ze"
 ```
 
-Written: `[naJesus:] "kane loze / kazozorama loze / zoamami ne ze"`
+Written: `[naJesus:] "kane loze / kazorama loze / zomami ne ze"`
 
 **Notes:** Three-clause imperative sequence: take → eat → identity-claim. The Matthew parallel adds the explicit `ka-zo-ra-ma` (eat) command that Luke 22:19 implies. The three-beat structure mirrors the institution formula as an isometric command-sequence. Note that the addition of `ka-zo-ra-ma` (eat) in the bread-institution and `ka-zo-ra-ma  lo-de-ki'ma` (drink the wine) in the cup-institution use identical verb forms: the distinction between eating and drinking is encoded solely by the patient (`lo-ka-du-zo-su` vs `lo-de-ki'ma`), not the verb.
 
@@ -361,7 +361,7 @@ Written: `[naJesus:] "kane loze / kazozorama loze / zoamami ne ze"`
 [na-Jesus:]  "ka-zo-ra-ma  lo-de-ki'ma  pu-yu  /  zo-ki'ma-mi  ne  ze  go-ne-to-fe"
 ```
 
-Written: `[naJesus:] "kazozorama lodeki'ma puyu / zoki'mami ne ze gone-to-fe"`
+Written: `[naJesus:] "kazorama lodeki'ma puyu / zoki'mami ne ze gonetofe"`
 
 **Notes:** `ka-zo-ra-ma  lo-de-ki'ma` = drink the wine (W162, fermented liquid as patient). `pu-yu` = plural-you-all = all of you (plural prefix on group pronoun = addressed to the whole group). `go-ne-to-fe` = the cause-relation-covenant = "of the covenant" in the genitive sense: the blood is the causal origin of the covenant relationship. `go` = cause/origin, `ne` = relation, `to-fe` = formal boundary — together: the founding cause of a formally bounded relationship = the covenant's blood-origin. First attestation of W162 (`de-ki'ma`) and W163 context (`zo-ki'ma-mi` = genitive of blood, second vehicle/sense).
 
