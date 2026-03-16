@@ -728,6 +728,29 @@ la-mi  se  lo-ra-ma-de
 
 **Reconstruction use (informal repair).** When a speaker has omitted an explicit `:` topic frame or `::` definition, an annotator may use `[]` to propose the likely structure after the fact, subject to rule 2. This provides a graceful path for annotating natural or imperfect speech without rewriting it.
 
+**Author's aside vs. third-party annotation.** `[]` covers two related but distinct uses:
+
+| mode | who writes `[]` | self-policing rules |
+|---|---|---|
+| *author's aside* | same person as the core text | not applicable — no laundering risk; writer annotates their own work |
+| *third-party annotation* | a different analyst reviewing the text | rules 1–3 above apply |
+
+The author's-aside mode is the natural home for notes to self, notes to reader, safety callouts, cross-references, and parenthetical commentary in everyday writing — technical manuals, cookbooks, lab notebooks, science papers. In those contexts `[]` is simply a first-class authorial voice that sits outside the truth-conditional argument, the written equivalent of a margin note or footnote without the footnote machinery. The self-policing concern (analyst laundering) applies only when the annotator is not the original author and is interpreting or reviewing someone else's text.
+
+Examples by register:
+
+```
+[caution: hot pan]                          ← cookery / safety
+[note: this proof assumes compactness]      ← mathematics
+[see also: section 4.2]                     ← technical writing
+[personal uncertainty — data from 2019]    ← lab notebook
+[translator's note: term has no exact gloss] ← scholarly translation
+[citation needed]                           ← analytical annotation
+[laundering: report → certainty]            ← fallacy audit
+```
+
+All are legitimate `[]` uses; only the last two involve third-party review and invoke the self-policing rules.
+
 **Spoken form:** none. `[]` frames are written and editorial; they do not participate in oral Tonesu. See spec/phonology.md § `[]` — Aside / Commentary Frame.
 
 ---
