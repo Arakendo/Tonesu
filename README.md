@@ -486,18 +486,69 @@ si   →  I have a signal for it (inferential)
 to   →  I model it (cognitive commitment)
 ```
 
+Attributed: `la-mi  se/si/to  {proposition}` — speaker certifies the proposition at that level.
+
+### Evidential Frame
+
+```
+({clause})               →  reportedly / allegedly / it is said that {clause}
+~({clause})              →  approximately / reportedly {clause}  (hedge outside)
+(~{clause})              →  reportedly approximately {clause}  (hedge inside)
+```
+
+Use `()` when the speaker presents a claim without directly asserting it — received from an unnamed source, in circulation, or epistemically reserved. Contrast: `la-mi  to  {X}` = *I hold X as established*; `({X})` = *X is in circulation; I carry it without asserting it*.
+
+### Topic Frame
+
+```
+{topic-NP} : {comment-clause}    →  As for {topic}, {comment}
+```
+
+Sentence-initial only; one per clause. Explicitly marks what the following clause is about. Reduces equivocation when the topic shifts mid-argument.
+
+### Aside / Commentary Frame
+
+```
+{core text}
+[annotation]             →  non-semantic annotation; does not alter the argument above
+```
+
+Removal-invariant: stripping `[]` leaves the argument unchanged. Two modes: *author's aside* (notes to self or reader in your own text — no special rules) and *third-party annotation* (analyst reviewing someone else's text — interpretive claims must be visibly hedged: `[probable topic: X]`, not `[topic: X]`).
+
 ---
 
-## Punctuation and Notation Marks
+## Written Marks and Notation
 
-Four sentence- and phrase-level marks. None are compound-internal — `'` remains the only mark inside a compound.
+Tonesu marks are organized into three distinct layers. The layer assignment is strict: marks in one layer do not bleed into another.
 
-| Mark | Name | Function |
-|------|------|----------|
-| `,` | clause separator | pause between a frame clause and its matrix, or between list items |
-| `!` | exclamation | end-of-utterance: heightened affect or emphasis |
-| `?` | question mark | end-of-utterance: interrogative; orthographic counterpart to `to-si` |
-| `~` | approximation | pre-positional hedge: "approximately / roughly / something like" |
+### Written Tonesu (normative — appear in text and transcripts)
+
+| Mark | Function |
+|------|----------|
+| `'` | Prosodic juncture / compound grouping — the only character inside a compound. See [§ Apostrophe](#apostrophe-grouping-marker). |
+| `~` | Approximation — pre-positional hedge: "approximately / roughly / something like." Always at the left edge of the unit it qualifies. |
+| `()` | Evidential frame — wraps a clause to mark its content as reported, inferred, or unattributed. Removing `()` changes meaning: the claim shifts from *reported* to *directly asserted*. |
+| `[]` | Aside / commentary frame — wraps annotation that does not alter the argument. Removal-invariant: stripping all `[]` from a passage leaves the argument unchanged. |
+| `:` | Topic frame (sentence-initial only): "as for {topic}, the following holds." Also marks explanatory gloss in metalanguage (`term : reading`). |
+| `,` | Clause separator — pause between a frame clause and its matrix, or between list items. |
+| `!` | Exclamation — end-of-utterance emphasis or heightened affect. |
+| `?` | Question mark — end-of-utterance interrogative; written counterpart to `to-si`. |
+
+### Metalanguage and spec notation only (never in running Tonesu text)
+
+| Mark | Function |
+|------|----------|
+| `::` | Canonical definition — right-hand side gives structural decomposition: `to-si :: to + si`. Registry and spec only. |
+| `{}` | Analytic notation — slot placeholders (`la-{agent}`), subordinate clause scope (`go {premise} matrix`), structural groupings in grammar examples. |
+| `-` | Morpheme boundary — analytic only. `to-fe-su-ki` is the analytic form; `tofesuki` is written Tonesu. |
+
+**The three-layer partition:**
+
+| Context | Marks |
+|---------|-----------|
+| Tonesu argument layer | `()` `:` `::` |
+| Analysis / commentary layer | `[]` |
+| Spec / documentation layer | `{}` `-` |
 
 **`,` with frames:** `ta ti-de, la-mi lo-mu ka-be` = In the past, I grew the object.
 
@@ -506,6 +557,8 @@ Four sentence- and phrase-level marks. None are compound-internal — `'` remain
 **`~` with numerals:** `~gal nu li` = about 3 people · `~hin pir nu pa` = roughly 5 km · `~bol nil nil nil nu hulm` = on the order of 1,000 years
 
 **`~` with concepts:** `~zo-li` = something like a person · `~ta ti-be` = roughly "sometime later"
+
+**Why `[]` is formally defined.** Bracket annotation emerges naturally — writers reach for it in margin notes, lab records, and debate transcripts without prompting. Left undefined, it circulates inside formal documents, gets cited, and the analysis layer bleeds into the argument layer through citation drift: what started as `[probable topic: food policy]` becomes, three citations later, "the record shows food policy was the topic" — not through malice, but through document transmission collapsing the layers. The removal-invariance rule gives the `[]` boundary a stable, auditable definition: if stripping `[]` would change the argument, the content belongs in the grammar, not the annotation. See `spec/grammar.md § Aside / Commentary Frame` for the full rationale and self-policing rules.
 
 ---
 
