@@ -350,7 +350,7 @@ lo-ne-ra : la-mi  no-se  lo-ze        →  As for the resonance — I have no pe
 
 **Spoken form:** none. `[]` frames are not realized in oral Tonesu — they are written, typographic, and editorial. In oral contexts `[]` content is either omitted or delivered by explicit convention agreed by participants (e.g., "bracket note: …" as a meta-verbal cue). `[]` has no spoken phoneme equivalent and does not participate in prosodic parsing.
 
-**Disambiguation — spec notation vs. written Tonesu.** In spec, grammar examples, and registry entries, `[...]` is also used in *analytic notation* to mark subordinate clause scope (`go [premise]  result`), slot placeholders (`la-[agent]`), and optional structural groupings. This analytic use never appears in running Tonesu text. In a Tonesu passage, `[...]` is always an aside/commentary frame; in a grammar gloss or spec example, `[...]` is analytic notation. Context distinguishes the two without ambiguity.
+**Disambiguation — spec notation vs. written Tonesu.** Going forward, spec examples, grammar glosses, and registry entries use `{...}` for *analytic notation*: slot placeholders (`la-{agent}`), subordinate clause scope (`go {premise}  result`), and structural groupings. `{...}` never appears in running Tonesu text. In a Tonesu passage, `[...]` is always an aside/commentary frame. Legacy spec text written before this convention was adopted uses `[...]` for analytic purposes; those occurrences are grandfathered and do not require retroactive correction.
 
 **Cross-reference:** grammar rules for the aside frame: see spec/grammar.md § Aside / Commentary Frame.
 
