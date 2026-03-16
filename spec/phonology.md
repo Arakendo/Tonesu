@@ -153,7 +153,7 @@ Eight marks supplement `'`. Unlike `'`, these operate **outside** compound bound
 | `()` | evidential frame | clause-level epistemic bracket: content is reported, inferred, or unattributed — not directly asserted |
 | `[]` | aside / commentary frame | non-semantic editorial or analytic annotation — does not alter truth conditions of surrounding text; removable without semantic change |
 | `:` | topic frame / definition mark | sentence-initial: "as for {topic}, ..." (topic frame); metalanguage: explanatory gloss (`term : reading`) |
-| `::` | canonical definition mark | metalanguage only: structural decomposition (`term :: roots`); not used in Tonesu sentences proper |
+| `::` | canonical definition mark | structural decomposition (`term :: roots`); appears in written and verbal discourse; spoken form `helms` (G012) |
 
 ---
 
@@ -278,7 +278,7 @@ Two marks that operate at the **interface between the metalanguage and Tonesu se
 
 #### `::` — Canonical Definition Mark
 
-`::` introduces a **structural or canonical definition**: the right-hand side gives the formal account — a phonological decomposition, a compositional breakdown, an operational formula. Used in registry entries, spec notation, and grammar examples. **Not used in Tonesu sentences proper.**
+`::` introduces a **structural or canonical definition**: the right-hand side gives the formal account — a phonological decomposition, a compositional breakdown, an operational formula. Used in registry entries, spec notation, grammar examples, and wherever a speaker or writer needs to give a formal structural account. Appears in written and verbal discourse.
 
 ```
 lu-mu :: lu + mu                  →  canonical decomposition of lu-mu

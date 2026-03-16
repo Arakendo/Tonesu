@@ -138,7 +138,7 @@ Key instances: `to-no-fe` omniscience · `ra-no-fe` omnipotence ·
 | `{}` | **analytic only — not written** | Spec/grammar analytic notation. Marks slot placeholders (`la-{agent}`), subordinate clause scope (`go {premise}  result`), and structural groupings in grammar examples and registry entries. Never appears in running Tonesu text. Going-forward convention; legacy `[]` analytic uses in older spec text are grandfathered. |
 | `()` | **normative — written** | Evidential frame. Wraps a declarative clause to mark its content as reported, inferred, or unattributed — not directly asserted. Stackable with `~`: `~(clause)` = approximately/reportedly. No spoken phoneme; realized prosodically. Spec: `spec/phonology.md §() — Evidential Frame`; `spec/grammar.md §Evidential Frame`. |
 | `:` | **normative — written (sentence); metalanguage (definition)** | Sentence-initial topic frame: `[topic-NP] : [comment-clause]` = "as for [topic], ...". Also used as explanatory definition mark in metalanguage (`term : reading`). One per clause; sentence-initial only. Spec: `spec/phonology.md §: and :: — Definition and Topic Marks`; `spec/grammar.md §Topic Frame`. |
-| `::` | **metalanguage only — not in Tonesu sentences** | Canonical/structural definition mark. Right-hand side gives formal decomposition (`term :: roots`). Used in registry entries and spec notation only. Spec: `spec/phonology.md §: and :: — Definition and Topic Marks`. |
+| `::` | **metalanguage (definition)** | Canonical/structural definition mark. Right-hand side gives formal decomposition (`term :: roots`). Appears in written and verbal discourse; spoken form `helms` (G012, CVCCS tier). Spec: `spec/phonology.md §: and :: — Definition and Topic Marks`. |
 
 ### Stable identifiers
 
