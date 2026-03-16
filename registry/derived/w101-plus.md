@@ -17,7 +17,7 @@ Composition:  su (structure/order) + ti (time/sequence) — the structure as tim
               the structure is temporally located (a configuration, not a type).
 Register:     standard / technical
 Domain:       systems / engineering / physics / cognition
-Status:       cold
+Status:       pending
 First use:    not yet attested in corpus; registered as compound candidate after primitive
               validation test for "state/configuration" (March 2026).
 Notes:        Resolves open-questions.md note: "The language currently expresses 'X is in
@@ -51,7 +51,7 @@ Composition:  nu (quantity/number) + se (perception/detection) — perception th
               or measurable value as its output.
 Register:     standard / technical / scientific
 Domain:       science / engineering / mathematics
-Status:       active
+Status:       pending
 First use:    S187 (`la-li  ka  nu-se  lo-ra` = "The person measures the energy."
               — PMS-001-B, Physics/Mathematics sample batch)
 Notes:        The canonical compound for scientific measurement. `ka  nu-se` = perform the
@@ -84,7 +84,7 @@ Composition:  ti (time) + re (recurrence/cycle) — time defined by recurrence; 
               cycle rather than a generic future interval.
 Register:     standard / technical
 Domain:       temporal reference / scheduling
-Status:       active
+Status:       pending
 First use:    C006 B4 (`ta-ti-re  ki` = "it's coming up in the cycle" — the recurrence
               pilot resonance training event. B uses `ti-re` where A used `ti-be` (A4),
               marking that the upcoming event is a scheduled cycle instance, not merely
@@ -121,7 +121,7 @@ Composition:  zi (mutual/coupling event) + ra (energy/force) — energetic mutua
               involves simultaneous bilateral transformation rather than a one-way transfer.
 Register:     technical / physics
 Domain:       physics / force / field interaction
-Status:       proposed
+Status:       pending
 First use:    pending corpus attestation
 Notes:        TRIAGE NOTE (March 2026): 3 corpus matches, all in retroactive cross-reference
               notes on S189/S193 (added when zi was admitted). No independent sentence
@@ -160,7 +160,7 @@ Composition:  zi (mutual/coupling event) + ka (intentional action) — intention
               one agent acting on a patient.
 Register:     standard / social / formal
 Domain:       social / exchange / commerce
-Status:       proposed
+Status:       pending
 First use:    pending corpus attestation
 Notes:        TRIAGE NOTE (March 2026): 2 corpus matches, both in retroactive cross-reference
               note on S194 (added when zi was admitted). No independent sentence yet uses
@@ -193,7 +193,7 @@ Composition:  zi (mutual/coupling event) + zo (living thing/organism) — the co
               predation or parasitism (which are directional: go/du).
 Register:     standard / technical / biological
 Domain:       biology / reproduction / ecology
-Status:       proposed
+Status:       pending
 First use:    pending corpus attestation (S193 retroactive gap record; W106 assigned
               March 2026 following zi primitive admission)
 Notes:        TRIAGE NOTE (March 2026): 2 corpus matches, both in retroactive cross-reference
@@ -255,7 +255,7 @@ Composition:  zi-zo (biological coupling event, W106) + go (cause/origin) — th
               participant occupies.
 Register:     technical / biological
 Domain:       biology / reproduction
-Status:       active
+Status:       pending
 First use:    pending corpus attestation
 Notes:        This is a biological role description, not a social category. It says
               nothing about anatomy beyond gametic contribution type. The definition
@@ -293,7 +293,7 @@ Composition:  zi-zo (biological coupling event, W106) + du (result/effect) — t
               this participant occupies.
 Register:     technical / biological
 Domain:       biology / reproduction
-Status:       active
+Status:       pending
 First use:    pending corpus attestation
 Notes:        This is a biological role description, not a social category. Anchors to
               anisogamy: the egg contributor supplies the cell that hosts gamete fusion
@@ -325,7 +325,7 @@ Composition:  ti (time/sequence) + mi (self/speaker) = time-of-me = the time
               pattern.
 Register:     standard
 Domain:       general / temporal
-Status:       active
+Status:       pending
 First use:    pending corpus attestation
 Notes:        Deictic anchor: ti-mi is indexical — it refers to whatever time is
               current when the sentence is uttered. In written or reported speech,
@@ -358,7 +358,7 @@ Composition:  pa (place/territory) + mi (self/speaker) = place-of-me = here.
               pair is formed by the same pattern across spatial and temporal domains.
 Register:     standard
 Domain:       general / spatial
-Status:       active
+Status:       pending
 First use:    pending corpus attestation
 Notes:        Both deictic anchors (W109, W110) fell out of the primitive set
               without any design effort — the self-anchoring pattern was latent.
@@ -373,7 +373,7 @@ Related:      ti-mi (W109: now), pa (primitive: place), mi (primitive: self)
 **W111** *(retired — root-order error)*
 ```
 Form:         de-ti  ← INCORRECT ROOT ORDER; this entry is retired
-Status:       retired (March 2026)
+Status:       pending
 Notes:        Registered in error with root order reversed. The correct compound
               for past time is ti-de (W041): ti (time, head) + de (decay, directional
               qualifier). de-ti would place de as the head, which is not the
@@ -387,7 +387,7 @@ Superseded by: W041 (ti-de)
 **W112** *(retired — root-order error)*
 ```
 Form:         be-ti  ← INCORRECT ROOT ORDER; this entry is retired
-Status:       retired (March 2026)
+Status:       pending
 Notes:        Registered in error with root order reversed. The correct compound
               for future time is ti-be (W040): ti (time, head) + be (growth/coming,
               directional qualifier). be-ti would place be as the head, inconsistent
@@ -412,7 +412,7 @@ Composition:  su (structure/organized form) + ma (matter) = structured matter.
               kind of matter defined by having organized structure.
 Register:     standard
 Domain:       physical / chemistry
-Status:       active
+Status:       pending
 First use:    pending corpus attestation
 Notes:        su as "organized solid form of a substance" is consistent across all
               its corpus uses: ma-su (rock = structured mineral matter, S293),
@@ -443,7 +443,7 @@ Composition:  ki (motion/flow/change) + ma (matter) = moving/flowing matter.
               of matter defined by flowing.
 Register:     standard
 Domain:       physical / chemistry
-Status:       active
+Status:       pending
 First use:    pending corpus attestation
 Notes:        Contrast with ma-ki (water/flowing matter, MAT-002): ma-ki is the
               specific substance water — the domain-primitive compound for the
@@ -472,7 +472,7 @@ Composition:  no (negation/absence) + su (structure) + ma (matter) = unstructure
               without fixed structural arrangement.
 Register:     standard
 Domain:       physical / chemistry
-Status:       active
+Status:       pending
 First use:    pending corpus attestation
 Notes:        no-su = absence of structure, the negation of su. The no-* productive
               pattern (no-lu = dark, no-ki = still, no-be = erosion, no-ko =
@@ -504,7 +504,7 @@ Definition:   plasma / ionized matter; matter in an energy-excited or charge-
 Composition:  ma (matter) + ra (force/energy) = matter in a force/energy state.
 Register:     standard
 Domain:       physical / chemistry
-Status:       active
+Status:       pending
 First use:    pending corpus attestation
 Notes:        ma-ra is scale-agnostic: the same compound applies whether describing
               a single ion (one ma-ra particle) or a bulk plasma (a volume of ma-ra).
@@ -542,7 +542,7 @@ Composition:  zo (living thing/organism) + ra (force/energy) = the force/energy 
               specifies the domain — the force native to living things.
 Register:     standard / theological / poetic
 Domain:       biology / theology / phenomenology
-Status:       active
+Status:       pending
 First use:    S359 (GOD-RES batch; `zo-ra` = "life-energy" in three-way zo-ra / zo-to /
               zo-si contrast; resolves open-question GOD-007).
 Notes:        Three-way distinction resolved in GOD-RES:
@@ -577,7 +577,7 @@ Composition:  vo (value/quality) + ne (relation/bond) = value-in-relation = the
               described is one of positive value = being right in one's bonds.
 Register:     standard / ethical / theological
 Domain:       ethics / theology / social
-Status:       active
+Status:       pending
 First use:    Matthew 5–7 translation (SOM draft). Recurs throughout: Beatitudes
               (5:6, 5:10), antitheses (fulfilling the law), Lord's Prayer context, etc.
 Notes:        Deliberately relational: not "being good internally" (which would be
@@ -609,7 +609,7 @@ Composition:  de (decrease/decay) + su (structure/product) = decay-product = the
               is one produced by a deficiency or decrease — a fault-shape.
 Register:     standard / ethical / theological
 Domain:       ethics / law / theology
-Status:       active
+Status:       pending
 First use:    Matthew 5–7 translation (Lord's Prayer: "forgive us our de-su").
 Notes:        The compound's logic: su forms the nominal of any process. de-su =
               "the structured result of decrease" = a fault-token that now exists
@@ -640,7 +640,7 @@ Composition:  ka (deliberate action) + no (negation/removal) + de-su (fault/wron
               permitted as a semantically complex derived form.
 Register:     standard / ethical / theological
 Domain:       ethics / theology / social
-Status:       active
+Status:       pending
 First use:    Matthew 5–7 translation (Lord's Prayer: "remove our faults"; 6:14–15).
 Notes:        The structure of the action: ka = agent does it deliberately; no = the
               act is a removal/negation; de-su = the entity removed is the fault-record.
@@ -670,7 +670,7 @@ Composition:  de (decrease/decay) + vo (value/quality) = decay-of-value. Head-fi
               or has undergone decrease/corruption.
 Register:     standard / ethical / theological
 Domain:       ethics / theology
-Status:       active
+Status:       pending
 First use:    Matthew 5–7 translation (Lord's Prayer: "deliver us from de-vo"; 7:11
               "evil gifts"; Matthew 5:45 "evil person" = de-vo-li).
 Notes:        Key derivatives:
@@ -705,7 +705,7 @@ Composition:  ka (deliberate action) + to-fe (epistemic boundary, W028) = delibe
               that this is a deliberate act, not an emergent classification.
 Register:     standard / ethical / legal / theological
 Domain:       ethics / law / theology
-Status:       active
+Status:       pending
 First use:    Matthew 7:1 ("Do not judge" = `no-ka-to-fe`).
 Notes:        Extends the to-fe family:
                 to-fe         (W028) the epistemic boundary itself (noun: the line)
@@ -738,7 +738,7 @@ Composition:  fa (affective substrate) + ra (force/energy) + be (increasing/upwa
               direction of increasing force, and this force is directed hostilely.
 Register:     standard / ethical / theological
 Domain:       affect / ethics
-Status:       active
+Status:       pending
 First use:    Matthew 5:22 ("anyone who is angry" = `fa-ra-be  lo-ne-zo-ne`).
 Notes:        Extends the fa-[X] compound family:
                 fa-ki  (W093) affect shifting/changing register
@@ -774,7 +774,7 @@ Composition:  wi (intention/will) + de (decrease/harm) + li (person) = person-of
               kind of person — one whose will tends toward harm.
 Register:     standard / ethical / military / relational
 Domain:       ethics / social
-Status:       active
+Status:       pending
 First use:    Matthew 5:44 ("love your enemies" = `fa-vo-no-fe  lo-wi-de-li-tu`).
 Notes:        Complements the ne (bond) family by specifying the opposite of a bonded
               partner. ne-li = a bonded relational person (neighbor/ally); wi-de-li =
@@ -809,7 +809,7 @@ Composition:  pa-be (upper space, ascending domain) + ka-li-su (governance/domin
               [be-ka-li-su], which is not intended.
 Register:     theological / liturgical
 Domain:       theology / eschatology
-Status:       active
+Status:       pending
 First use:    Matthew 5–7 translation (Beatitudes 5:3, 5:10; prayer 6:10; 7:21).
 Notes:        This is Tonesu's canonical rendering of "the Kingdom of Heaven" as
               used in Matthew's Gospel (Matthew uses "heaven" where Mark/Luke use
@@ -838,7 +838,7 @@ Composition:  si (signal/representation) + no (negation) + vo (value/quality) + 
               of signal-person: one whose signals are value-depleted.
 Register:     standard / ethical
 Domain:       ethics / social
-Status:       active
+Status:       pending
 First use:    Matthew 6 (6:2, 6:5, 6:16 — thrice in a single chapter).
 Notes:        si-no-vo-li is the full noun. The adjective compound is si-no-vo —
               "hypocritical" or "of false-signal character." The personification `-li`
@@ -870,7 +870,7 @@ Composition:  fa (affective substrate) + wi (will/intention) + de (decrease/harm
               is oriented toward.
 Register:     standard / ethical / theological
 Domain:       ethics / theology / affect
-Status:       active
+Status:       pending
 First use:    Matthew 6:13 (Lord's Prayer: "lead us not into temptation" =
               `lo-yu  fa-wi-de  no-wi`).
 Notes:        fa-wi-de-ki = entering temptation state (inchoative); the most common
@@ -900,7 +900,7 @@ Composition:  ka (deliberate action) + de (decrease) + zo (living thing) = delib
               specifies the action is intentional.
 Register:     standard / ethical / legal
 Domain:       ethics / law / biology
-Status:       active
+Status:       pending
 First use:    Matthew 5:21 ("do not murder" = `no-ka-de-zo  lo-li-zo-ne`).
 Notes:        ka-de-zo is murder/killing as a deliberate act (ka). Accidental or
               non-deliberate death would be `de-zo` (without ka) = organism-decrease
@@ -930,7 +930,7 @@ Composition:  no (negation/resistance) + de (decrease/decay) + ma (matter) = non
               prevents decrease.
 Register:     standard / culinary / metaphorical
 Domain:       material / ethics (metaphorical)
-Status:       active
+Status:       pending
 First use:    Matthew 5:13 ("you are the salt of the earth" = `la-yu  no-de-ma  go-pa-ma`).
 Notes:        The metaphorical use (Matthew 5:13) is the primary Tonesu attestation.
               The compound is structurally transparent in both directions: physical salt
@@ -960,7 +960,7 @@ Composition:  se (perception/detection) + lu (light) = perception-of-light = the
               the relationship — this is a perception-entity in the light domain.
 Register:     standard / biological / poetic
 Domain:       anatomy / sensory / theology
-Status:       active
+Status:       pending
 First use:    Matthew 5:29–30; 6:22–23; 7:3–5 (Matthew uses "eye" extensively).
 Notes:        High-frequency body term. Matthew 5:29 ("if your eye causes you to
               stumble"); 6:22 ("the eye is the lamp of the body"); 7:3–5 (speck/plank
@@ -992,7 +992,7 @@ Composition:  ne (relation/bond) + zi (mutual/coupling event) + re (recurrence) 
               type of recurring mutual joining.
 Register:     standard / social / legal
 Domain:       kinship / social / legal
-Status:       active
+Status:       pending
 First use:    Matthew 5:31–32 (divorce/remarriage antithesis).
 Notes:        Tonesu is sex-neutral throughout the kinship vocabulary; ne-zi-re is
               the role without biological sex specification. The biological sex of
@@ -1027,7 +1027,7 @@ Composition:  wi (will/intention) + no (negation/absence) + ra (force/energy) =
               absent, not all force.
 Register:     standard / ethical
 Domain:       ethics / affect
-Status:       active
+Status:       pending
 First use:    Matthew 5:5 (Beatitude: "the meek" = `lo-zo-li  wi-no-ra`).
 Notes:        The Greek praus was used of a horse that had been trained to submit
               its strength to the rider — not a weak horse but a disciplined one.
@@ -1061,7 +1061,7 @@ Composition:  su (structure/order) + fa (affective substrate) = ordered-affect =
               disorder.
 Register:     standard / ethical / theological / contemplative
 Domain:       ethics / affect / theology
-Status:       active
+Status:       pending
 First use:    Matthew 5:8 (Beatitude: "the pure in heart" = `lo-zo-li  su-fa`).
 Notes:        Three-stage pipeline recall: se → fa → to. The fa stage is the
               pre-evaluative felt-tone substrate. su-fa = fa that is ordered/clear:
@@ -1102,7 +1102,7 @@ Composition:  re (recurrence/cycle) + ka (deliberate action) + ne (relation/bond
               that this is their characteristic recurring activity, not a one-off act.
 Register:     standard / ethical / theological
 Domain:       ethics / social / theology
-Status:       active
+Status:       pending
 First use:    Matthew 5:9 (Beatitude: "blessed are the peacemakers" =
               `lo-zo-li  re-ka-ne-li  vo`).
 Notes:        The active, repeated nature of the peacemaker's work is encoded in
@@ -1137,7 +1137,7 @@ Composition:  pa (place/territory) + zo (living thing) + li (person) = territory
               the place of human-organisms = the human inhabited world.
 Register:     standard / theological
 Domain:       geography / social / theology
-Status:       active
+Status:       pending
 First use:    Matthew 5:14 ("you are the light of the world" — the world as the
               human realm that can be illuminated; metaphor anchored in pa-zo-li
               as the inhabited human domain).
@@ -1177,7 +1177,7 @@ Composition:  fa (affective substrate) + wi (will/intention) + zi (mutual/coupli
               affective substrate underlying coupling-desire = lust.
 Register:     standard / ethical
 Domain:       ethics / biology / affect
-Status:       proposed
+Status:       pending
 First use:    Matthew 5:28 (5th antithesis: "anyone who looks at a woman
               lustfully has already committed adultery in his heart").
 Notes:        Status: proposed — one primary corpus site. Monitor until a second
@@ -1214,7 +1214,7 @@ Composition:  vo (value/quality) + mu (artifact/physical object) = value-artifac
               vo specifies that this artifact belongs to the value-domain.
 Register:     standard / social
 Domain:       material / social
-Status:       proposed
+Status:       pending
 First use:    Matthew 6:28–30 ("consider the lilies... yet I tell you that not
               even Solomon in all his splendor was dressed like one of these" —
               vo-mu as clothing compared against the lily's natural display).
@@ -1251,7 +1251,7 @@ Composition:  pa (place/territory) + fe (boundary/limit/edge) = bounded-space =
               the upper visible region.
 Register:     standard / cosmological / theological
 Domain:       geography / cosmology / theology
-Status:       active
+Status:       pending
 First use:    Genesis 1:6–8 (the vault God made to separate waters above from
               waters below; God named it 'sky').
 Notes:        pa-fe is the dome-as-bounded-space — the vault conceived as a
@@ -1288,7 +1288,7 @@ Composition:  lu (light) + mu (artifact/physical object) = light-object = a
               by their light-emitting nature.
 Register:     standard / astronomical / theological
 Domain:       astronomy / cosmology / theology
-Status:       active
+Status:       pending
 First use:    Genesis 1:14–19 (the two great light-bodies and the collective stars;
               placed in the vault to govern lu-ti / no-lu-ti and serve as signs).
 Notes:        lu-mu covers all light-emitting celestial bodies as a class. In
@@ -1325,7 +1325,7 @@ Composition:  lu (light) + ti (time/temporal sequence) = light-time = the time-
               characterized by light.
 Register:     standard
 Domain:       general / temporal
-Status:       active
+Status:       pending
 First use:    Genesis 1:14–18 ("lights in the vault to separate the lu-ti from
               the no-lu-ti"; the greater light-body governs lu-ti).
 Notes:        lu-ti / no-lu-ti (W141) form a minimal pair covering the two
@@ -1358,7 +1358,7 @@ Composition:  no (negation/absence) + lu (light) + ti (time/temporal sequence)
               by the absence of the defining quality (light).
 Register:     standard
 Domain:       general / temporal
-Status:       active
+Status:       pending
 First use:    Genesis 1:14–19 ("lights to govern the day and the night"; the
               lesser light-body governs no-lu-ti = the dark-period).
 Notes:        no-lu-ti applies the productive no-X pattern (no-lu = dark;
@@ -1391,7 +1391,7 @@ Composition:  du (result/product) + zo (living thing) + su (structured product)
               of plant growth).
 Register:     standard / biological / culinary
 Domain:       biology / botany / food
-Status:       active
+Status:       pending
 First use:    Genesis 1:11–13 ("let the land produce vegetation: seed-bearing
               plants and trees on the land that bear fruit with seed in it").
 Notes:        du-zo-su is the product of the plant (as a du / result). Contrast:
@@ -1428,7 +1428,7 @@ Composition:  zo (living thing) + su (structure/organized form) + be (growth/
               structure = seed.
 Register:     standard / biological / agricultural
 Domain:       biology / botany / agriculture
-Status:       active
+Status:       pending
 First use:    Genesis 1:11–12 ("seed-bearing plants"; "trees that bear fruit
               with seed in it").
 Notes:        zo-su-be is plant-specific. The more general organic growth-product
@@ -1463,7 +1463,7 @@ Composition:  zo (living thing) + ra (force/energy) + ma (matter/substance)
               that is the energy-source for organisms = food.
 Register:     standard / biological / culinary
 Domain:       biology / food / ecology
-Status:       active
+Status:       pending
 First use:    Genesis 1:29–30 (God assigns all seed-bearing plants and trees as
               zo-ra-ma for humans; every green plant as zo-ra-ma for animals).
 Notes:        zo-ra-ma builds on zo-ra (W117: life-energy of organisms) by adding
@@ -1502,7 +1502,7 @@ Composition:  wi (will/intention) + zo (living thing/organism) = will-governed-
               direction.
 Register:     standard / biological
 Domain:       biology / ecology
-Status:       active
+Status:       pending
 First use:    Genesis 1:24–25 ("let the land produce living creatures: the
               livestock, the creatures that move along the ground, and the wild
               animals" — wi-zo = wild animals, contrasted with zo-se-ne = herd/
@@ -1539,7 +1539,7 @@ Composition:  ma (matter/material ground) + zo (living thing) + ki (motion/chang
               at the level of the material ground = crawlers.
 Register:     standard / biological
 Domain:       biology / ecology
-Status:       active
+Status:       pending
 First use:    Genesis 1:24–26 ("the creatures that move along the ground"
               alongside zo-se-ne = livestock and wi-zo = wild animals).
 Notes:        ma-zo-ki completes the three-way land-animal taxonomy alongside
@@ -1576,7 +1576,7 @@ Composition:  ka (deliberate action) + li (person/participant) + su (structure/
               participant-coordination] = the exercise of structured governance.
 Register:     standard / political / theological
 Domain:       governance / social / theology
-Status:       active
+Status:       pending
 First use:    Genesis 1:26 ("let them have dominion over the fish of the sea and
               the birds in the sky and over all the living creatures" =
               `lo-zo  ka-li-su`).
@@ -1615,7 +1615,7 @@ Composition:  zo (living thing/organism) + li (person) = living-person = an
               nature — a person who is a living thing.
 Register:     standard
 Domain:       general / social / biology
-Status:       active
+Status:       pending
 First use:    Widely used across corpus; the standard subject-of-predication in
               Matthew 5–7 Beatitudes (`lo-zo-li  wi-no-ra`, `lo-zo-li  su-fa`,
               etc.) and Genesis 1:26–28 ("let us make mankind" = `lo-zo-li  ka-be`).
@@ -1657,7 +1657,7 @@ Composition:  be (growth/emergence/generation) + go (cause/origin) + li (person)
               originating person.
 Register:     theological / philosophical
 Domain:       theology / philosophy / representation
-Status:       active
+Status:       pending
 First use:    Genesis 1:26–27 ("let us make mankind in our image" and "God
               created mankind in his own image" — in both verses the origin-frame
               marker precedes the compound: `go-be-go-li-si` = from/after the
