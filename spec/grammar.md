@@ -749,7 +749,21 @@ Examples by register:
 [laundering: report → certainty]            ← fallacy audit
 ```
 
-All are legitimate `[]` uses; only the last two involve third-party review and invoke the self-policing rules.
+All are legitimate `[]` uses; only the last two invoke the self-policing rules.
+
+**Design rationale — why formal scoping was necessary.**
+
+`[]` notation was already in productive use in the corpus before this spec section was written. The bracket-annotation pattern emerges naturally: people reach for it in margin notes, lab records, debate transcripts, and fallacy audits without prompting. That prior-use fact is precisely why formal scoping became necessary — not despite the organic adoption, but because of it.
+
+The failure mode of *not* scoping `[]` is well-understood from documentary practice. An informal, unconstrained bracket annotation circulates inside a formal record — a debate transcript, an investigation report, a published corpus entry. Later, that annotated document is cited. The citation treats the document as a unit. The original distinction between core argument and bracketed aside collapses in transit: the citation absorbs both layers together, presenting the analyst's commentary as part of the evidential record. A second-order citation then treats the analyst's gloss as a finding. By the third link in the chain, `[probable topic: food policy]` has become "the record shows food policy was the topic." The `[]` boundary — which was never formally defined — was never enforced, never flagged, and never visible to the citing party.
+
+This is not necessarily malicious. The mechanism works identically whether the analyst was biased, careless, or simply writing a good-faith note that was later decontextualized. The laundering is structural.
+
+Formal scoping breaks this chain at the first link. Once `[]` has a defined role — non-semantic, removable, not part of the truth-conditional argument — readers, citing parties, and downstream analysts can recognize what it is. A document with `[probable topic: food policy]` in it can be cited *with that annotation in place* and the citation will correctly record it as an analyst's inference, not a speaker's claim. The boundary stays visible even after the document travels.
+
+The alternative — treating `[]` as a natural idiom that "everyone understands" — means its meaning is negotiated locally at each citation step. Local negotiation compresses under time and attention pressure, and under that pressure it compresses in the direction of collapsing the layers rather than preserving them. Formal definition is not a guarantee against collapse, but it provides a stable reference point that makes collapse detectable rather than invisible.
+
+Put plainly: the formal `[]` spec exists so that anyone who later says "but the document says X" can be shown the `[]` boundary and told "no — the document's argument says X; the analyst's annotation proposes Y; those are different layers." Without the formal definition, that response has no ground to stand on.
 
 **Spoken form:** none. `[]` frames are written and editorial; they do not participate in oral Tonesu. See spec/phonology.md § `[]` — Aside / Commentary Frame.
 
