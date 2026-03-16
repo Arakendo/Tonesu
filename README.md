@@ -536,15 +536,15 @@ Tonesu marks are organized into three distinct layers. The layer assignment is s
 | `()` | Evidential frame — wraps a clause to mark its content as reported, inferred, or unattributed. Removing `()` changes meaning: the claim shifts from *reported* to *directly asserted*. |
 | `[]` | Aside / commentary frame — wraps annotation that does not alter the argument. Removal-invariant: stripping all `[]` from a passage leaves the argument unchanged. |
 | `:` | Topic frame (sentence-initial only): "as for {topic}, the following holds." Also marks explanatory gloss in metalanguage (`term : reading`). |
+| `::` | Canonical definition — right-hand side gives structural decomposition: `to-si :: to + si`. Appears in written and verbal discourse; spoken form `helms` (G012). |
 | `,` | Clause separator — pause between a frame clause and its matrix, or between list items. |
 | `!` | Exclamation — end-of-utterance emphasis or heightened affect. |
 | `?` | Question mark — end-of-utterance interrogative; written counterpart to `to-si`. |
 
-### Metalanguage and spec notation only (never in running Tonesu text)
+### Analytic and spec notation only (never in running Tonesu text)
 
 | Mark | Function |
 |------|----------|
-| `::` | Canonical definition — right-hand side gives structural decomposition: `to-si :: to + si`. Registry and spec only. |
 | `{}` | Analytic notation — slot placeholders (`la-{agent}`), subordinate clause scope (`go {premise} matrix`), structural groupings in grammar examples. |
 | `-` | Morpheme boundary — analytic only. `to-fe-su-ki` is the analytic form; `tofesuki` is written Tonesu. |
 
