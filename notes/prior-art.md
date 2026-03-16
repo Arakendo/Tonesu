@@ -113,6 +113,44 @@ This file documents existing languages and systems that inform the design. Under
 
 ---
 
+### Karl Popper — Falsifiability and Conjectural Knowledge
+**Works:** *The Logic of Scientific Discovery* (1934/1959), *The Open Society and Its Enemies* (1945), *Conjectures and Refutations* (1963)
+**Focus:** Epistemology, philosophy of science, critical rationalism
+
+**What's relevant:**
+- **The demarcation criterion:** a claim is scientific only if it is in principle falsifiable. This maps directly to Tonesu's epistemic scale — `se` (perceptual, directly testable), `si` (inferential), `to` (model, testable through implication), `to-su` (registered, held as established). Claims that resist placement on this scale are exhibiting the failure mode Popper named.
+- **Conjectural knowledge / fallibilism:** all knowledge is provisional and subject to revision. The `()` evidential frame and the three-grade epistemic scale assume this by default — registered knowledge (`to-su`) is the most committed stance, but it remains revisable.
+- **Discourse accountability:** Popper's epistemology is inherently social — claims are advanced into a critical discourse and either survive scrutiny or are revised. The `to-fe-ka` discourse-pattern mechanism (repeated misclassification becomes visible over time) is a direct implementation of this without requiring institutional enforcement.
+- **The Open Society:** epistemically open institutions where claims compete on their merits rather than being enforced by authority. Tonesu encodes the tools for tracking epistemic stance; it does not enforce correctness.
+
+**Direct connection to current design:**
+The `to-fe-ka` / `to-fe-ki` distinction maps to a Popperian distinction: bad science is not simply *falsified* science, it is *unfalsifiable* science — claims engineered to avoid the classification that would expose them. `to-fe-ka` is the grammatical marker for presenting a claim at a higher epistemic tier than its evidence supports. Popper would call this pseudoscience; Tonesu calls it epistemic misrepresentation and makes it visible by design.
+
+**Awareness note:** indirect connection currently; may become more direct as the epistemic classification system matures.
+
+---
+
+### Ludwig Wittgenstein — The Limits of Language and Meaning as Use
+**Works:** *Tractatus Logico-Philosophicus* (1921), *Philosophical Investigations* (1953)
+**Focus:** Philosophy of language, logic, meaning
+
+**Early Wittgenstein (*Tractatus*) — the founding aspiration:**
+- The picture theory of meaning: propositions mirror the structure of facts. This is the philosophical ancestor of compositional semantics — a compound's structure should reflect the structure of what it means. Tonesu is built on exactly this intuition.
+- "The limits of my language are the limits of my world" — the founding motivation for building a language that increases expressive precision.
+- "Whereof one cannot speak, thereof one must be silent." — *Tractatus* 7. Tonesu's response: if you cannot speak with certainty, mark the uncertainty explicitly (`~`, `()`). If you're at the edge of knowledge, use `to-fe` to name the boundary. Silence is replaced by graduated epistemic marking.
+
+**Late Wittgenstein (*Philosophical Investigations*) — the correction:**
+- **Language games:** meaning is use within a practice, not a fixed property of a form. Tonesu's three-stage compound lifecycle (compositional → algebraic → registry-stabilized) acknowledges this — words drift from their structural readings through use, and the registry tracks the drift rather than denying it.
+- **Family resemblance:** natural categories don't have sharp essential definitions; they share overlapping features. Tonesu handles this by making the boundary (`fe`) a first-class primitive — the edge of a category is a real concept, not a failure of definition.
+- The later Wittgenstein specifically warns against the ambition of a *perfect* logical language. Tonesu is a post-*Philosophical Investigations* project: it does not claim to be a perfect logical language. It claims only to make the *epistemic status* of claims visible — a much more modest and achievable goal.
+
+**Direct connection to current design:**
+The `to-fe` boundary concept is Wittgenstein's question made grammatical: where does knowledge end? The `()` evidential frame is a direct implementation of "I carry this without asserting it." The three-stage compound lifecycle is Wittgenstein's meaning-as-use observation built into the registry protocol.
+
+**Awareness note:** indirect connection currently via design philosophy; the epistemic classification system (`se → si → to → to-su`) and the `to-fe-ka` discourse mechanism may justify a direct reference once the corpus is more developed.
+
+---
+
 ### John Wilkins — Real Character (1668)
 **Goal:** A universal language where word structure encodes taxonomic position in a knowledge tree
 

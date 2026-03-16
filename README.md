@@ -15,6 +15,8 @@ The language is called **Tonesu** — the casual contraction of the formal compo
 >
 > The grammar provides tools to say what kind of claim you are making — direct perception, encoded signal, reasoned model, or registered knowledge. Whether the claim is accurate is outside the language's scope. Over time, accuracy becomes visible through discourse patterns.
 
+This connects to Popper's demarcation criterion (claims should be classifiable by their testability, not shielded from it) and Wittgenstein's later work on the limits of language and meaning as use. See [notes/prior-art.md](notes/prior-art.md).
+
 ---
 
 ## Sounds
