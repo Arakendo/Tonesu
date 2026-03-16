@@ -30,25 +30,25 @@ zo  (living thing)
 │   │   │                KNM-004 · S261–S278 · s252-s278.md
 │   │   │
 │   │   ├── zo-se-so-di  directional / bird class (Aves)
-│   │   │                KNM-005 · S279–S285 · s279-plus.md
+│   │   │                KNM-005 · S279–S285 · s279-s334.md
 │   │   │
 │   │   └── zo-se-so-pa  place-acoustic / whale (Cetacea)
-│   │                    KNM-006 · S307–S313 · s279-plus.md
+│   │                    KNM-006 · S307–S313 · s279-s334.md
 │   │
 │   ├── zo-se-ma  matter-perceptual / fish & aquatic vertebrates
-│   │            KNM-006 · S307–S313 · s279-plus.md
+│   │            KNM-006 · S307–S313 · s279-s334.md
 │   │
 │   └── zo-se-ne  social-relational / herd ungulates
-│                KNM-007 · S314–S320 · s279-plus.md
+│                KNM-007 · S314–S320 · s279-s334.md
 │
 ├── zo-su  structural organism / plants
-│         PLT-001 · S286–S292 · s279-plus.md
+│         PLT-001 · S286–S292 · s279-s334.md
 │
 ├── zo-pe  component organism / arthropods & invertebrates
-│         KNM-008 · S321–S327 · s279-plus.md
+│         KNM-008 · S321–S327 · s279-s334.md
 │
 └── zo-ne  networked organism / fungi
-          FNG-001 · S328–S334 · s279-plus.md
+          FNG-001 · S328–S334 · s279-s334.md
 ```
 
 *`zo-li` (human-class organism) is not a corpus test target — humans appear as
@@ -62,11 +62,11 @@ valid but reserved rather than formally established as a kind-term class.*
 ```
 ma  (matter/substance)
 ├── ma-su  structured matter / rock & mineral
-│         MAT-001 · S293–S299 · s279-plus.md
+│         MAT-001 · S293–S299 · s279-s334.md
 ├── ma-pa  place-matter / soil & sediment
-│         MAT-001 · S293–S299 · s279-plus.md
+│         MAT-001 · S293–S299 · s279-s334.md
 └── ma-ki  flowing matter / water
-          MAT-002 · S300–S306 · s279-plus.md
+          MAT-002 · S300–S306 · s279-s334.md
 ```
 
 ---

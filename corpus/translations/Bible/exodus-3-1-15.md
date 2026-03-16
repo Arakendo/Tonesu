@@ -564,7 +564,7 @@ na-mi  ti-no-fe  /  re-ka-si  lo-na-mi  ta-re-zo-ne-go
 
 ## Batch Summary
 
-*Batch label: EXO-001. Sentences S398–S417. Filed in `corpus/sentences/s279-plus.md`.*
+*Batch label: EXO-001. Sentences S398–S417. Filed in `corpus/sentences/s398-plus.md`.*
 
 **Grammar stress-tested:**
 - `go` as relational-origin marker in name chains (S407)

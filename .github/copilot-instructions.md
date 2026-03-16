@@ -15,7 +15,7 @@ the ground-truth source of record when answering questions or doing work.
 | `spec/` | All normative language rules — grammar, phonology, morphology, word-formation, naming, domain-creation, principles. Start here for language design questions. |
 | `registry/` | All word inventories — primitives, derived compounds, roots, domains, colloquial forms. The `derived/` subfolder holds the active intake file and full entry files. |
 | `registry/derived/` | Derived compound full entries split by W-number range; `index.md` is the quick-reference. New entries always go into `w101-plus.md` first. |
-| `corpus/sentences/` | Numbered sentence corpus split into ~40-entry files; `index.md` is the quick-reference. New sentences always go into `s279-plus.md` first. |
+| `corpus/sentences/` | Numbered sentence corpus split into ~50-entry files; `index.md` is the quick-reference. New sentences always go into `s398-plus.md` first. |
 | `corpus/translations/` | Translation stress tests by source text. Each source gets its own subfolder (e.g. `Bible/`). |
 | `notes/` | Open questions, design notes, semantic map, basics summary, prior-art. Non-normative but important context. |
 
@@ -45,7 +45,7 @@ Never renumber existing W-numbers or S-numbers when splitting.
 | Colloquial contracted forms | `registry/colloquial.md` |
 | Sentence corpus quick-reference index | `corpus/sentences/index.md` |
 | Kind-term taxonomy tree (living things + matter) | `registry/kinds.md` |
-| Active sentence intake (new sentences here first) | `corpus/sentences/s279-plus.md` |
+| Active sentence intake (new sentences here first) | `corpus/sentences/s398-plus.md` |
 | Corpus index | `corpus/index.md` |
 | Bible translation stress tests | `corpus/translations/Bible/` |
 | Open design questions | `notes/open-questions.md` |
@@ -147,7 +147,7 @@ Key instances: `to-no-fe` omniscience · `ra-no-fe` omnipotence ·
 
 ### Process conventions
 
-- Corpus tests are tracked under batch labels: THO- (theological), GRAM- (grammar), etc. New batches go in `corpus/sentences/s279-plus.md`.
+- Corpus tests are tracked under batch labels: THO- (theological), GRAM- (grammar), etc. New batches go in `corpus/sentences/s398-plus.md`.
 - Open questions are logged in `notes/open-questions.md`. Mark resolved with `[x]` and a brief resolution note; do not delete old entries.
 - New derived entries always go into `registry/derived/w101-plus.md` first, then update `registry/derived/index.md` (sections A, B, and C).
 
