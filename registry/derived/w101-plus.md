@@ -2028,5 +2028,302 @@ Related:      ka (primitive: deliberate action), pa (primitive: place),
 
 ---
 
+## Last Supper / Eucharist Intake (W161–W168)
+
+*Batch: LSP-001. First-pass translation of Luke 22:7–20 + Matthew 26:26–28 (Last Supper, institution of the Eucharist). All entries proposed; corpus basis S418–S438. Full analysis in `corpus/translations/Bible/last-supper.md`.*
+
+---
+
+**W161**
+```
+Form:         ka-du-zo-su
+Type:         compound
+Class:        entity (food)
+Definition:   bread; the deliberately crafted plant-product. Grain food
+              produced through intentional processing (grinding, forming,
+              baking) of plant matter. The `ka-` prefix distinguishes it
+              from du-zo-su (W142, fruit = naturally produced plant-result):
+              bread is the deliberate artifact of plant production.
+Composition:  ka (deliberate action) + du (result/product) + zo-su
+              (structured plant, base from W143 seed context)
+              = the deliberately produced result of structured plant matter
+              = grain-product = bread/grain food.
+              Right-branch parse: ka modifies [du-zo-su] = deliberate [plant-
+              result] = deliberately crafted plant-product.
+Register:     general / liturgical
+Domain:       general / food / theology / liturgy
+Status:       pending
+First use:    S429 — la-na-Jesus  ka-ne  lo-ka-du-zo-su (Jesus took bread)
+Notes:        The Eucharistic bread uses this compound. Leavened vs unleavened
+              distinction not currently encoded (GAP-LSP-004). `ka-du-zo-su`
+              covers all intentionally crafted grain foods; context distinguishes
+              leavened/unleavened when needed.
+              Contrast: du-zo-su (W142, fruit = natural plant-product, no ka-).
+Related:      ka (primitive: deliberate action), du (primitive: result/product),
+              zo-su (structured plant substrate), du-zo-su (W142: fruit/plant-result),
+              zo-ra-ma (W144: food generally)
+```
+
+---
+
+**W162**
+```
+Form:         de-ki'ma
+Type:         compound
+Class:        substance
+Definition:   wine; fermented liquid. Any liquid that has undergone the
+              decay/fermentation process: primarily wine (fermented grape-
+              liquid), but also covers other fermented drinks. Fermentation
+              is compositionally encoded as de (decay/diminishment) applied
+              to ki'ma (liquid, W114): the liquid whose nature includes
+              a decay process = fermented liquid = wine.
+Composition:  de (decay/decrease/diminishment) + ki'ma (liquid, W114)
+              = the liquid that has undergone decrease/transformation through
+              decay = fermented liquid = wine.
+              Note: ki'ma already carries the apostrophe internally; the full
+              compound written form is `deki'ma`.
+Register:     general / liturgical
+Domain:       general / food / theology / liturgy
+Status:       pending
+First use:    S437 — ka-zo-ra-ma  lo-de-ki'ma  pu-yu (drink the wine, all of you)
+Notes:        Eucharistic wine. Contrasts with du-zo-su (W142 = fruit, the raw
+              origin material Jesus names in S428: "fruit of the vine"). The shift
+              from du-zo-su to de-ki'ma is the institution act: what was named by
+              origin is now named by transformation.
+              Where Jesus says "fruit of the vine" (S428), he uses du-zo-su
+              (the natural-produce designation). The cup that IS the covenant
+              (S434–S437) uses zo-ki'ma-mi (my blood), not de-ki'ma — the
+              covenant-sign is named by what it signifies, not by its chemical
+              composition.
+Related:      de (primitive: decay/decrease), ki'ma (W114: liquid),
+              du-zo-su (W142: fruit/plant-result — the origin material),
+              zo-ki'ma (W164: blood — what the Eucharistic cup signifies)
+```
+
+---
+
+**W163**
+```
+Form:         zo-ma
+Type:         compound
+Class:        entity (body)
+Definition:   body; the physical matter constituting a living organism.
+              The corporeal substrate of life — flesh, the material form
+              of a living being. Distinct from zo-ra (W117, life-energy/
+              animating vitality) which is the energetic dimension; zo-ma
+              is the material dimension.
+Composition:  zo (living thing) + ma (matter/substance) = living-matter
+              = the material substrate of an organism = body/flesh.
+              Two-root compound; maximum compositional transparency.
+Register:     general / liturgical / theological
+Domain:       general / biology / theology / liturgy
+Status:       pending
+First use:    S431 — zo-ma-mi  ne  ze (This is my body)
+              Also S436 — zo-ma-mi  ne  ze (Matthew parallel)
+Notes:        The Eucharistic body formula: zo-ma-mi  ne  ze = "my body
+              is this." The ne copula attributes the predicate "my body"
+              to the bread. This is a property-attribution, not constitutional
+              identity (GAP-LSP-001; see also THO-001/S356 identity copula gap).
+              The metaphysical question of whether bread BECOMES body, or IS
+              body, or symbolizes body — these distinctions fall in the gap
+              Tonesu's ne cannot resolve without new grammar.
+              Contrast: zo-ra (W117, animating vitality) = the energy-side
+              of life; zo-ma is the matter-side.
+Related:      zo (primitive: living thing), ma (primitive: matter/substance),
+              zo-ra (W117: life-energy — energetic aspect, not material),
+              zo-ki'ma (W164: blood — the liquid aspect of living matter)
+```
+
+---
+
+**W164**
+```
+Form:         zo-ki'ma
+Type:         compound
+Class:        substance
+Definition:   blood; the living liquid. The fluid that carries life within
+              an organism — the liquid medium of biological vitality. The
+              most direct Tonesu encoding: blood IS the living liquid, the
+              zo (living) qualified ki'ma (liquid).
+Composition:  zo (living thing) + ki'ma (liquid, W114) = living-liquid
+              = the fluid of life = blood. Two roots plus the internally
+              bound ki'ma apostrophe. Written: `zoki'ma`.
+Register:     general / liturgical / theological
+Domain:       general / biology / theology / liturgy
+Status:       pending
+First use:    S434 — ro-zo-ki'ma-mi (through my blood — instrumental)
+Notes:        Eucharistic blood formula: zo-ki'ma-mi  ne  ze  go-ne-to-fe
+              = "my blood is this, [being the] cause-of-the-covenant-
+              relation." The shedding of blood uses de-zo-ki'ma-mi =
+              "the decreasing of my living-liquid" = my blood being poured
+              out (S435, S437).
+              zo-ki'ma is the general biologically-occurring blood; its
+              theological significance as covenant-medium comes from context
+              and from the `go-ne-to-fe` clause (the causal-genitive of
+              the covenant relationship).
+Related:      zo (primitive: living thing), ki'ma (W114: liquid),
+              de-ki'ma (W162: wine/fermented liquid — transformation parallel),
+              zo-ma (W163: body — the material counterpart)
+```
+
+---
+
+**W165**
+```
+Form:         ne-to-fe
+Type:         compound
+Class:        relation / legal
+Definition:   covenant; a formally bounded agreement. A relationship with
+              explicitly stated, permanently sealed terms — more than mutual
+              acknowledgment (ne-to, W084: transient agreement) and more
+              than a bond (ne: static relation). The fe (boundary/limit)
+              seals the terms, making the agreement binding and formally
+              delimited. Covers covenant, treaty, contract, any formally
+              instituted bound-agreement.
+Composition:  ne (relation/bond) + to-fe (epistemic boundary, W028)
+              = relation-at-the-epistemic-boundary = a relationship with
+              formally defined stated conditions.
+              Right-branch parse: ne modifies [to-fe] = relation-of-the-
+              epistemic-limit = a relationship whose terms are explicitly
+              bounded/stated. Extension of ne-to (W084); fe seals it.
+Qualified form: ti-be-ne-to-fe = new/fresh covenant: ti-be (W040)
+              modifies ne-to-fe = the covenant that is freshly entering
+              force = the new covenant. First attested S434.
+Register:     theological / legal / formal
+Domain:       theology / law / social
+Status:       pending
+First use:    S434 — ko-mu-ze  ne  ti-be-ne-to-fe  ro-zo-ki'ma-mi
+              (this cup is the new covenant through my blood)
+Notes:        The new covenant formula: ti-be-ne-to-fe = fresh/renewed
+              formally bounded agreement. GAP-LSP-002: ti-be captures
+              temporal freshness (the covenant entering force) but not
+              qualitative surpassing (kainē vs neos distinction in Greek
+              New Testament). The qualitative "better covenant" reading
+              (Hebrews) may need a separate elaboration.
+Related:      ne (primitive: relation/bond), to-fe (W028: epistemic boundary),
+              ne-to (W084: mutual acknowledgment/agreement — base form),
+              ti-be (W040: upcoming/fresh — qualifier for "new"),
+              zo-ki'ma (W164: blood — the material sealing the covenant)
+```
+
+---
+
+**W166**
+```
+Form:         to-ko-re
+Type:         compound
+Class:        action / concept
+Definition:   remembrance; commemorative memory-return. The deliberate or
+              ritual act of returning to stored knowledge of a person or
+              event. Specifically: the Eucharistic anamnesis (ἀνάμνησις) —
+              not merely recalling, but actively re-presenting the founding
+              event. The `re` (return/cycle) element captures the recurring
+              re-enactment dimension: each performance is a return to the
+              founding event.
+Composition:  to-ko (memory/stored knowledge, W027) + re (return/cycle,
+              primitive) = memory-return = the act of returning to what
+              is stored in memory = remembrance/anamnesis.
+Verbal form:  ka-to-ko-re = to deliberately remember/commemorate (with ka-
+              prefix). Used in the imperative: ka  lo-ze  to-ko-re-mi =
+              "do this [as] my remembrance" (S432).
+Register:     general / liturgical / theological
+Domain:       theology / liturgy / memory
+Status:       pending
+First use:    S432 — ka  lo-ze  to-ko-re-mi (do this [as] my remembrance)
+Notes:        The founding command of the Eucharist runs on one new compound
+              carrying an ancient theological weight. to-ko-re encodes the
+              Eucharistic structure: a deliberate act performed for the
+              purpose of epistemic return (to-ko-re) to the founding speaker.
+              The suffix -mi (my/mine) on to-ko-re gives "my remembrance" =
+              the remembrance directed at/belonging to the speaker. Not
+              "remember generally" but "remember me" = to-ko-re-mi.
+              CLQ-EXT candidate: ka-to-ko-re-mi (deliberate-remember-me) as
+              a compressed liturgical token; gated on 3 independent natural
+              corpus attestations.
+Related:      to-ko (W027: memory/stored knowledge), re (primitive: return/cycle),
+              ka (primitive: deliberate action — ka-to-ko-re = to remember [verb])
+```
+
+---
+
+**W167**
+```
+Form:         ka-pa-ki'ti-re
+Type:         compound
+Class:        event / festival
+Definition:   Passover; the annual liberation festival. The historically
+              recurring deliberate liberation event. `ka-pa-ki` (W160,
+              liberation act = deliberate place-motion) + `'ti-re` (W103,
+              recurring cycle). The juncture mark is required: `ka-pa-ki`
+              is the pre-bound liberation-act unit; `ti-re` adds the annual
+              recurrence. Written: `kapaki'tire`.
+Composition:  ka-pa-ki (W160: liberation act, deliberate place-motion)
+              + ' (juncture mark: left-bind ka-pa-ki as subcompound)
+              + ti-re (W103: recurring temporal cycle)
+              = [liberation-act] recurring annually = the Passover festival.
+              Parse: `ka-pa-ki'ti-re` = [ka-pa-ki] modified by [ti-re]
+              = the recurring liberation event = Passover.
+              Without juncture, ka-pa-ki-ti-re (5 morphemes) would parse
+              right-branching: ka modifies [pa-ki-ti-re], which loses the
+              liberation-act base. Juncture is mandatory here.
+Register:     theological / liturgical / cultural
+Domain:       theology / Jewish tradition / liturgy
+Status:       pending
+First use:    S418 — ti-mi  ne  ka-pa-ki'ti-re (Now is the Passover)
+Notes:        Passover encoded as the recurring liberation act: each year's
+              festival is a re-enactment of ka-pa-ki (the Exodus liberation,
+              W160). This grounds the Last Supper's Passover context: Jesus'
+              last supper IS the Passover meal — ka-pa-ki'ti-re is both the
+              events-of-the-night category and the founding liberation it
+              commemorates.
+              Connection to EXO-001: ka-pa-ki (W160) was the Exodus liberation
+              act. ka-pa-ki'ti-re adds the liturgical recurrence dimension at
+              Sinai.
+Related:      ka-pa-ki (W160: liberation act — the base compound),
+              ti-re (W103: recurring cycle — the festival dimension),
+              ka (primitive: deliberate action), pa (primitive: place),
+              ki (primitive: motion)
+```
+
+---
+
+**W168**
+```
+Form:         ka-vo-si
+Type:         compound
+Class:        action
+Definition:   thanksgiving; deliberate expression of value. Giving thanks;
+              a blessing. The intentional act of signaling the worth/quality
+              of something or someone — specifically as a performative speech
+              act (a blessing said aloud, a prayer of thanks). Greek
+              εὐχαριστία (eucharistia = well-graced thanksgiving) maps
+              precisely: ka (deliberate) + vo (value/worth) + si (signal/
+              expression) = deliberately expressing gratitude for worth.
+Composition:  ka (deliberate action) + vo (value/quality) + si (signal/
+              representation) = deliberate-value-signal = intentional
+              expression of worth = thanksgiving/blessing.
+              Three-root; right-branch: ka modifies [vo-si] = deliberate
+              [value-signal] = deliberate expression of value.
+Register:     general / liturgical / theological
+Domain:       theology / liturgy / prayer / gratitude
+Status:       pending
+First use:    S426 — la-ze  ka-vo-si (he gave thanks / he blessed)
+              Also S429 — la-ze  ka-vo-si (parallel thanksgiving over bread)
+Notes:        ka-vo-si is used twice in the institution sequence: once over
+              the cup (S426) and once over the bread (S429). The compound
+              gives the Eucharist its name in Tonesu: the institution formula
+              is a ka-vo-si event — a deliberate act of value-signaling over
+              the elements before distributing them. The compound is not
+              theology-specific: it covers any deliberate expression of
+              gratitude or worth-acknowledgment.
+Related:      ka (primitive: deliberate action), vo (primitive: value/quality),
+              si (primitive: signal/representation),
+              wi-si (W063: prayer = will-signal — a related but distinct form:
+              prayer is a will-directed signal; thanksgiving is a value-signal)
+```
+
+---
+
 - [ ] Review W002 (su-mu-li) — does it conflict with the derivational marker stack order?
 - [ ] Develop domain-specific sub-lists once domains are finalized (see ontology/domains.md)
+- [ ] Resolve W087/W156 collision: pa-ki appears twice with different glosses (adrift W087 vs liberation W156). Proposed resolution: unify under W087 as generic place-motion; deprecate W156; ka-pa-ki (W160) is the canonical deliberate-liberation form.

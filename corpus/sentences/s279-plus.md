@@ -3569,3 +3569,239 @@ na-mi  ti-no-fe  /  re-ka-si  lo-na-mi  ta-re-zo-ne-go
 ```
 
 **Notes:** `ti-no-fe` (eternal, THO-001) used as zero-copula predicate of a name. `ta-re-zo-ne-go` = at-recurring-ancestor-cycle = from generation to generation. Uses `zo-ne-go` (W077, parent/ancestor) + `re` (cycle) + `ta` (temporal frame). Clean carry-forward from prior vocabulary.
+
+---
+
+## Last Supper / Eucharist Institution (S418–S438) — Batch: LSP-001
+
+**Purpose:** The Last Supper (Luke 22:7–20 + Matthew 26:26–28) tests the institution formula, covenant language, remembrance, thanksgiving, body/blood compounds, and the Passover festival context. New vocabulary: W161–W168. Full vocabulary framework and structural gap analysis in `corpus/translations/Bible/last-supper.md`.
+
+New compounds in this batch: `ka-du-zo-su` (W161 bread) · `de-ki'ma` (W162 wine) · `zo-ma` (W163 body) · `zo-ki'ma` (W164 blood) · `ne-to-fe` (W165 covenant) · `to-ko-re` (W166 remembrance) · `ka-pa-ki'ti-re` (W167 Passover) · `ka-vo-si` (W168 thanksgiving).
+
+---
+
+**S418 — The Passover time has arrived.** *(LSP-001-A)*
+
+```
+ti-mi  ne  ka-pa-ki'ti-re
+```
+
+**Notes:** `ti-mi` (W109, deictic-now) copula `ne` Passover-festival (W167). The liturgical time-frame opener; deictic-now + copula + festival compound. First attestation of W167 (`ka-pa-ki'ti-re`).
+
+---
+
+**S419 — Jesus dispatched Peter and John.** *(LSP-001-B)*
+
+```
+la-na-Jesus  ka-si-ki  lo-na-Peter  ro-na-John
+```
+
+**Notes:** `ka-si-ki` = deliberately dispatch (W023 `si-ki` = transmit + `ka-` deliberate prefix). Peter = primary patient (`lo-`); John = accompanying agent (`ro-`). Jesus sends them as messengers: signal-motion.
+
+---
+
+**S420 — (Jesus:) "Go and prepare the Passover for us all."** *(LSP-001-C)*
+
+```
+[na-Jesus:]  "ki  /  ka-su  lo-ka-pa-ki'ti-re  lu-yu"
+```
+
+**Notes:** Two-clause imperative: `ki` (go/move) then `ka-su` (deliberately structure/arrange = prepare). `lu-yu` = beneficiary-us-all (`yu` = group pronoun). Patient: `lo-ka-pa-ki'ti-re` = the Passover [preparations].
+
+---
+
+**S421 — (Peter and John:) "Where shall we prepare the Passover?"** *(LSP-001-D)*
+
+```
+[na-Peter  ro-na-John:]  "pa-wi  to-si  ka-su  lo-ka-pa-ki'ti-re?"
+```
+
+**Notes:** WH-location query construction: `pa-wi` (W088, destination/location-slot) + `to-si` (W026, query-predicate) = "the location — a question — regarding preparing the Passover." Pattern: `pa-wi  to-si  {action}` encodes "where shall [we] {action}?" The `?` marks interrogative force.
+
+---
+
+**S422 — They found the place and prepared the Passover.** *(LSP-001-E)*
+
+```
+la-na-Peter  ro-na-John  se  lo-ze  /  la-yu  ka-su  lo-ka-pa-ki'ti-re
+```
+
+**Notes:** `se  lo-ze` = perceived/found it. `la-yu  ka-su  lo-ka-pa-ki'ti-re` = they (as group) prepared the Passover. `yu` as group-agent.
+
+---
+
+**S423 — When the hour came, Jesus was with the apostles in the upper room.** *(LSP-001-F)*
+
+```
+ti  ki  ze  /  la-na-Jesus  ne  ro-pu-si-ki-li-ze  ko-pa'be
+```
+
+**Notes:** `ti  ki  ze` = when-the-time-moved = when the hour came. `pu-si-ki-li-ze` = their plural messengers = the apostles (`pu-` plural + W158 + `-ze` possessive). `ko-pa'be` = elevated room = upper room: `[ko-pa]` (W048) + `'be` (upward subunit). Juncture binds the room-compound before adding the elevation modifier.
+
+---
+
+**S424 — "I have eagerly desired to eat this Passover with you before I suffer."** *(LSP-001-G)*
+
+```
+[na-Jesus:]  "fa-wi-mi  nu-vo  ka-zo-ra-ma  lo-ka-pa-ki'ti-re  ro-yu  ti-fe  fa-de-ra-mi"
+```
+
+**Notes:** `fa-wi-mi` = my affect-will = my longing. `nu-vo` = greatly (quantity-value = degree intensifier). `ka-zo-ra-ma` = deliberately eat/consume. `ti-fe` (W037) = before the temporal boundary. `fa-de-ra-mi` = my suffering (W155 + `-mi`). "Before I suffer" = `ti-fe  fa-de-ra-mi` = before-the-boundary of my suffering.
+
+---
+
+**S425 — "I will not eat it again until it finds fulfillment in the kingdom of God."** *(LSP-001-H)*
+
+```
+[na-Jesus:]  "la-mi  si  lo-tu  /  la-mi  no  ka-zo-ra-ma  lo-ze  ti  be-du  pa-be'ka-li-su"
+```
+
+**Notes:** `la-mi  si  lo-tu` = I signal to you = solemn assertion opener. `no  ka-zo-ra-ma` = will-not-eat. `be-du` = growth-to-result = fulfillment/completion (be = grow, du = result = what growing produces). `ti  be-du  pa-be'ka-li-su` = at-the-time-of-completion-in-the-kingdom = until fulfilled in the kingdom.
+
+---
+
+**S426 — He took the cup and gave thanks.** *(LSP-001-I)*
+
+```
+la-na-Jesus  ka-ne  lo-ko-mu  /  la-ze  ka-vo-si
+```
+
+**Notes:** `ka-ne` = deliberately connect/take into hand (deliberate bond-formation with object). `ko-mu` (W052, vessel). `ka-vo-si` (W168, thanksgiving/blessing). First attestation of W168.
+
+---
+
+**S427 — "Take this and share it among yourselves."** *(LSP-001-J)*
+
+```
+[na-Jesus:]  "ka-ne  lo-ze  /  ka-zi  ro-yu"
+```
+
+**Notes:** `ka-zi` = deliberately cause mutual exchange = to share/distribute (W: `zi` mutual-coupling + `ka` deliberate). `ro-yu` = with/among you-all. The cup circulates as a mutual sharing event.
+
+---
+
+**S428 — "I will not drink of the fruit of the vine until the kingdom of God comes."** *(LSP-001-K)*
+
+```
+[na-Jesus:]  "la-mi  no  ka-zo-ra-ma  lo-du-zo-su  ti  ki  pa-be'ka-li-su"
+```
+
+**Notes:** `du-zo-su` (W142) = the vine's fruit = grapes (the origin-produce, not the processed wine). Jesus names by origin material. `ti  ki  pa-be'ka-li-su` = at-the-time-the-kingdom-moves = until the kingdom arrives. `ki` as inchoative arrival.
+
+---
+
+**S429 — He took a loaf of bread and gave thanks.** *(LSP-001-L)*
+
+```
+la-na-Jesus  ka-ne  lo-ka-du-zo-su  /  la-ze  ka-vo-si
+```
+
+**Notes:** First attestation of W161 (`ka-du-zo-su`, bread). Structural parallel to S426 (cup): same take→give-thanks pattern. The bread compound `ka-du-zo-su` = deliberately crafted plant-product distinguishes processed grain (bread) from natural plant-result (`du-zo-su`, W142, fruit).
+
+---
+
+**S430 — He broke it and gave it to the apostles.** *(LSP-001-M)*
+
+```
+la-na-Jesus  ka-de  lo-ze  /  la-ze  ka-ne  lo-ze  lo-pu-si-ki-li-ze
+```
+
+**Notes:** `ka-de` = deliberately decay/dissolve = break the bread. `ka-ne  lo-ze  lo-pu-si-ki-li-ze` = gave it to his plural messengers. The fracturing distributes the one loaf into many portions: structural decrease (`de`) enabling plural reception.
+
+---
+
+**S431 — "This is my body, given for you."** *(LSP-001-N)*
+
+```
+[na-Jesus:]  "zo-ma-mi  ne  ze  go-lu-yu"
+```
+
+**Notes:** First attestation of W163 (`zo-ma`, body). `zo-ma-mi` = my body. `ne` = property copula: the bread bears the predicate "my body." `go-lu-yu` = cause-of-beneficiary-you-all = given/being-for your benefit. The causal-beneficiary structure (`go-lu-yu`) encodes the sacrificial direction: the speaker's body is the cause-ground of the group's benefit. GAP-LSP-001 applies: `ne` attributes a property, not constitutional identity.
+
+---
+
+**S432 — "Do this in remembrance of me."** *(LSP-001-O)*
+
+```
+[na-Jesus:]  "ka  lo-ze  to-ko-re-mi"
+```
+
+**Notes:** The founding command of the Eucharist. First attestation of W166 (`to-ko-re`, remembrance). `ka` = deliberate action (imperative). `lo-ze` = patient-this = the breaking-and-giving just performed. `to-ko-re-mi` = my-remembrance = purpose modifier: the act is to be performed AS knowledge-return-to-me. Tonesu encodes the Eucharist structurally: a deliberate act performed for the purpose of epistemic return to the speaker.
+
+---
+
+**S433 — After supper he took the cup.** *(LSP-001-P)*
+
+```
+la-na-Jesus  ti-de  ka-zo-ra-ma  ka-ne  lo-ko-mu
+```
+
+**Notes:** `ti-de  ka-zo-ra-ma` = after the eating (W041 past-time frame + eating compound = post-supper temporal). Parallel to S426 but now post-meal. The structural parallelism bread→cup is visible in the corpus sequence.
+
+---
+
+**S434 — "This cup is the new covenant in my blood."** *(LSP-001-Q)*
+
+```
+[na-Jesus:]  "ko-mu-ze  ne  ti-be-ne-to-fe  ro-zo-ki'ma-mi"
+```
+
+**Notes:** First attestations of W164 (`zo-ki'ma`, blood) and W165 (`ne-to-fe`, covenant). `ko-mu-ze` = this cup (deictic-ze). `ti-be-ne-to-fe` = new/fresh covenant: right-branch, `ti-be` (W040) modifies `[ne-to-fe]` = the covenant that is freshly entering force. `ro-zo-ki'ma-mi` = through/by-means-of my blood (instrumental `ro-` + W164 + `-mi`). Three theological claims: cup IS covenant · covenant IS new · covenant IS mediated through blood.
+
+---
+
+**S435 — "which is poured out for you."** *(LSP-001-R)*
+
+```
+de-zo-ki'ma-mi  go-lu-yu
+```
+
+**Notes:** Continuation of S434. `de-zo-ki'ma-mi` = the decreasing of my living-liquid = my blood being shed: `de-` (decay prefix on W164 + `-mi`). `go-lu-yu` = for your benefit (causal-beneficiary). The pouring-out = `de-` applied to blood = the act of its release. Two elements: the act + its direction.
+
+---
+
+**S436 — "Take and eat; this is my body." (Matthew parallel)** *(LSP-001-S)*
+
+```
+[na-Jesus:]  "ka-ne  lo-ze  /  ka-zo-ra-ma  lo-ze  /  zo-ma-mi  ne  ze"
+```
+
+**Notes:** Matthew 26:26 parallel. Three-beat imperative sequence: take → eat → identity-claim. The addition of explicit `ka-zo-ra-ma` (eat) makes the bread-institution formula complete. Verb `ka-zo-ra-ma` is used identically for both eating and drinking; what is eaten/drunk is encoded in the patient (`lo-ka-du-zo-su` = bread; `lo-de-ki'ma` = wine).
+
+---
+
+**S437 — "Drink from it, all of you; for this is my blood of the covenant."** *(LSP-001-T)*
+
+```
+[na-Jesus:]  "ka-zo-ra-ma  lo-de-ki'ma  pu-yu  /  zo-ki'ma-mi  ne  ze  go-ne-to-fe"
+```
+
+**Notes:** First attestation of W162 (`de-ki'ma`, wine). `pu-yu` = plural-you-all (explicit group address with plural prefix). `go-ne-to-fe` = cause-relation-covenant = "of the covenant" as causal-genitive: the blood is the founding cause of the covenant relation. `go` = cause, `ne` = relation, `to-fe` = epistemic boundary → the founding cause of a formally bounded relationship = the covenant's blood-origin.
+
+---
+
+**S438 — "The one who will betray me is with me here."** *(LSP-001-U)*
+
+```
+[na-Jesus:]  "la-ze  ka-ne-de  lo-mi  ti-be  /  ne  ro-mi  pa-mi"
+```
+
+**Notes:** No new compound needed: betrayal = `ka-ne-de  lo-mi` (W092, deliberate bond dissolution, patient = me). `la-ze` = anaphoric agent (the unnamed one). `ti-be` (W040) = proximate future = imminent. `ne  ro-mi  pa-mi` = is with me here (W110). The betrayer is at the founding event. `ze` remains unresolved — deliberate: no accusation is made, only a structural fact is stated. Dramatic irony is lexically present in the grammar.
+
+---
+
+## LSP-001 Batch Summary
+
+| Batch | Count | Core test |
+|-------|-------|-----------|
+| LSP-001 | 21 sentences | Institution formula · covenant · body/blood · remembrance · Passover · thanksgiving · betrayal |
+
+**New compounds registered: W161–W168 (8 entries)**
+
+**Structural gaps documented:**
+- GAP-LSP-001: Identity copula in institution formula (`ne` ≠ constitutional identity; see THO-001)
+- GAP-LSP-002: "New" = `ti-be` captures temporal freshness but not qualitative surpassing
+- GAP-LSP-003: "Many" = `pu-zo-li` does not distinguish "many (some)" from "the many (all)"
+- GAP-LSP-004: Leavened vs unleavened bread not yet encoded in W161
+
+**W087/W156 collision flag:** `pa-ki` is registered twice (W087 adrift, W156 liberation). Both are compositionally identical (`pa` + `ki` = place-motion). Resolution: unify under W087 as generic place-motion; use `ka-pa-ki` (W160) for deliberate liberation. W156 should be deprecated in next registry cleanup pass.

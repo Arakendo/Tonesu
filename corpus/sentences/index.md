@@ -56,3 +56,4 @@ Corpus evidence by batch (for cross-reference):
 | FAL-006 | Depth-3 hearsay chain · readability ceiling · laundering-at-depth · adversarial provenance | S391–S392 | s279-plus.md |
 | FAL-007 | Good-faith political speech · honest attribution · topic consistency · warranted causal chain · conservative epistemic calibration | S393–S397 | s279-plus.md |
 | EXO-001 | Exodus 3:1–15 — burning bush, divine name, liberation, holy ground | S398–S417 | s279-plus.md |
+| LSP-001 | Last Supper / Eucharist — institution formula, body/blood, covenant, remembrance, Passover | S418–S438 | s279-plus.md |
