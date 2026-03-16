@@ -274,7 +274,7 @@ Written: `laJesus kade loze / laze kane loze lopusikilize`
 
 Written: `[naJesus:] "zomami ne ze goluyu"`
 
-**Notes:** `zo-ma-mi` = my-body (W163 + `-mi` possessive). `ne` = property copula. `ze` = anaphoric-this = the bread just broken. `go-lu-yu` = cause-of-beneficiary-you-all = being the ground of your benefit = given for you. The causal-beneficiary chain encodes the sacrificial direction: the speaker's body is the cause whose beneficiary is the group. No identity copula (the body IS the bread is not what Tonesu encodes here — `ne` attributes the property "my body" to the bread-referent). The gap documented in THO-001 remains; this sentence navigates it by making the claim relational (`go-lu-yu`) rather than identity.
+**Notes:** `zo-ma-mi` = my-body (W163 + `-mi` possessive). `ne` = property copula. `ze` = anaphoric-this = the bread just broken. `go-lu-yu` = cause-of-beneficiary-you-all = being the ground of your benefit = given for you. The causal-beneficiary chain encodes the sacrificial direction: the speaker's body is the cause whose beneficiary is the group. `ne` gives the property-attribution (memorial) reading. For stronger identity claims use `ze  helm  zo-ma-mi` (functional equivalence) or `ze  helms  zo-ma-mi` (strict definitional identity) — see GAP-LSP-001 resolution.
 
 ---
 
@@ -351,7 +351,7 @@ Written: `dezoki'mami goluyu`
 
 Written: `[naJesus:] "kane loze / kazorama loze / zomami ne ze"`
 
-**Notes:** Three-clause imperative sequence: take → eat → identity-claim. The Matthew parallel adds the explicit `ka-zo-ra-ma` (eat) command that Luke 22:19 implies. The three-beat structure mirrors the institution formula as an isometric command-sequence. Note that the addition of `ka-zo-ra-ma` (eat) in the bread-institution and `ka-zo-ra-ma  lo-de-ki'ma` (drink the wine) in the cup-institution use identical verb forms: the distinction between eating and drinking is encoded solely by the patient (`lo-ka-du-zo-su` vs `lo-de-ki'ma`), not the verb.
+**Notes:** Three-clause imperative sequence: take → eat → identity-claim. The Matthew parallel adds the explicit `ka-zo-ra-ma` (eat) command that Luke 22:19 implies. The three-beat structure mirrors the institution formula as an isometric command-sequence. Note that the addition of `ka-zo-ra-ma` (eat) in the bread-institution and `ka-zo-ra-ma  lo-de-ki'ma` (drink the wine) in the cup-institution use identical verb forms: the distinction between eating and drinking is encoded solely by the patient (`lo-ka-du-zo-su` vs `lo-de-ki'ma`), not the verb. The final `zo-ma-mi  ne  ze` uses the property-attribution reading; `ze  helm  zo-ma-mi` or `ze  helms  zo-ma-mi` are available for stronger identity claims — see GAP-LSP-001 resolution.
 
 ---
 
@@ -398,11 +398,19 @@ All status: pending. Domain: theology/liturgy (LSP-001).
 
 ## Structural Gaps Documented
 
-### GAP-LSP-001: Identity copula in the institution formula
+### GAP-LSP-001: Identity copula in the institution formula — **Resolved**
 
-"This IS my body" (`zo-ma-mi  ne  ze`) uses `ne` (property copula), which attributes a property to the bread-referent. It does not claim: "the bread is constitutionally identical with the bread-substance-being-body." The metaphysical interpretation of the Eucharist (transubstantiation, consubstantiation, memorialism) all turn on different readings of "is." Tonesu's `ne` supports the property-attribution reading cleanly; the constitutional-identity claim remains in the gap documented at THO-001/S356.
+~~"This IS my body" (`zo-ma-mi  ne  ze`) uses `ne` (property copula), which attributes a property to the bread-referent. It does not claim: "the bread is constitutionally identical with the bread-substance-being-body." The metaphysical interpretation of the Eucharist (transubstantiation, consubstantiation, memorialism) all turn on different readings of "is." Tonesu's `ne` supports the property-attribution reading cleanly; the constitutional-identity claim remains in the gap documented at THO-001/S356.~~
 
-**Current rendering:** `zo-ma-mi  ne  ze` = "my body [is the class/property of] this" = the bread bears the property-predicate "my body." This is the most that Tonesu can say without inventing new grammar.
+**Resolution:** `helm` (G011, spoken/written form of `:`) and `helms` (G012, spoken/written form of `::`) are grammar-legal in-sentence predicates in poetic and philosophical register, by the `ven` precedent (spec/phonology.md). This gives Tonesu a three-way scale without inventing new grammar:
+
+| Form | Claim | Theological reading |
+|------|-------|---------------------|
+| `zo-ma-mi  ne  ze` | property attribution | memorial/symbolic — the bread *bears the property* "my body" |
+| `ze  helm  zo-ma-mi` | functional equivalence | consubstantiation / representational — this *is understood as* my body |
+| `ze  helms  zo-ma-mi` | strict definitional identity | transubstantiation — this *is by definition* my body |
+
+Tonesu renders the Eucharistic "is" with precision where natural languages are ambiguous. The choice of predicate encodes the theological position. Gap closed; cross-reference THO-001/S356 still open for the "God is love" class of essence claims separately.
 
 ### GAP-LSP-002: "New" (covenant)
 
