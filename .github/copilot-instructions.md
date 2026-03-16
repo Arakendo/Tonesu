@@ -74,6 +74,24 @@ Never renumber existing W-numbers or S-numbers when splitting.
 2. Compound boundaries are phonologically visible without lookahead.
 3. Root tiers are structurally distinct — a form's shape identifies its tier.
 
+### Quick word construction check
+
+**Pattern: modifier precedes head (head-final, right-branching)**
+
+```
+to + li       →  to-li   →  toli      scholar (knowledge-person)
+to + ki + mu  →  to-ki-mu  →  tokimu  computer (knowledge-change-device)
+no + ha       →  no-ha   →  noha      cold (absence of heat)
+```
+
+**Smell-test rules — if any of these trip, go read `spec/word-formation.md`:**
+
+- Inventing a new CV root? Stop — the primitive set is closed. Justify or compound instead.
+- Using more than one derivational suffix (`-li`, `-mu`, `-pa`, `-ge`, `-ki`) on one base? Restructure as a compound.
+- A compound longer than 4 roots with no `'`? Check whether the parse is still unambiguous.
+- A CVC form that isn't a digit, color, or SI prefix? It needs to satisfy the ergonomic shortform criteria.
+- A CVCC form? Only for universal constants/units (π, c, ℏ …). No vocabulary words.
+
 ### Grammar slots (core sentence frame)
 
 ```
