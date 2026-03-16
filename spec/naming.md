@@ -132,10 +132,10 @@ System ID:     derik-alaren-01
 
 ## Kind-Term + `na` Identifier NP
 
-A kind-term compound and a `na`-identifier can form a single NP using bracket notation:
+A kind-term compound and a `na`-identifier can form a single NP using brace notation:
 
 ```
-[kind-term  na  identifier]
+{kind-term  na  identifier}
 ```
 
 `na` partitions the NP internally: everything to the left of `na` is the kind characterisation; everything to the right is the identifying label. A role-marker (`la-`, `lo-`, etc.) scopes over the complete bracketed NP.
@@ -144,38 +144,38 @@ A kind-term compound and a `na`-identifier can form a single NP using bracket no
 
 **Individual:** a specific member of the kind class named by a proper name
 ```
-la-[zo-se-so  na Rex]  ki
-→ agent:[sound-perceiving-organism  name:Rex]  moved
+la-{zo-se-so  na Rex}  ki
+→ agent:{sound-perceiving-organism  name:Rex}  moved
 → Rex ran.
 ```
 
 **Named variety:** a conventionally recognized variety, breed, or cultivar within the kind class
 ```
-la-[zo-se-so  na Retriever]  se  lo-zo-ma
-→ agent:[sound-perceiving-organism  name:Retriever]  perceived  patient:plant-aggregate
+la-{zo-se-so  na Retriever}  se  lo-zo-ma
+→ agent:{sound-perceiving-organism  name:Retriever}  perceived  patient:plant-aggregate
 → A Retriever was in the field.
 ```
-The variety identifier (`na Retriever`) names the sub-type, not an individual. No grammatical distinction is made between an individual name and a variety name: both use `[kind  na  identifier]`; context and world knowledge resolve the reading.
+The variety identifier (`na Retriever`) names the sub-type, not an individual. No grammatical distinction is made between an individual name and a variety name: both use `{kind  na  identifier}`; context and world knowledge resolve the reading.
 
 **Scientific binomial:** a formal taxonomic identifier
 ```
-la-[zo  na Kanis-lupus]  so-be-re
-→ agent:[organism  name:Canis-lupus]  sound-act-intensive
+la-{zo  na Kanis-lupus}  so-be-re
+→ agent:{organism  name:Canis-lupus}  sound-act-intensive
 → The wolf howled.
 ```
 The binomial is treated as a single opaque identifier following `na`; internal structure of the binomial is not parsed by Tonesu morphology.
 
 **Color-modified finer kind-term + individual:** the `'` re-scoping marker may appear inside the bracketed kind-term portion
 ```
-la-[ker'zo-se-so-li  na Rex]  ki
-→ agent:[red'[social-pack-sound-organism]  name:Rex]  moved
+la-{ker'zo-se-so-li  na Rex}  ki
+→ agent:{red'{social-pack-sound-organism}  name:Rex}  moved
 → Red Rex (dog-class) ran.
 ```
 The bracket, the apostrophe, and the `na` particle each operate at a separate structural level and do not interact.
 
 ### Rule
 
-`[kind  na  identifier]` is the canonical form for any NP where the kind class matters and the referent is individuated. The kind-term may be a single root, a genus-level compound, or a finer kind-term compound with `'` modifiers. The identifier may be a proper name, a variety label, or a binomial.
+`{kind  na  identifier}` is the canonical form for any NP where the kind class matters and the referent is individuated. The kind-term may be a single root, a genus-level compound, or a finer kind-term compound with `'` modifiers. The identifier may be a proper name, a variety label, or a binomial.
 
 **Corpus basis:** S196–S198 (KNM-001), S207 (KNM-002).
 

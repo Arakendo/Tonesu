@@ -124,8 +124,8 @@ The apostrophe marks the **left boundary of a subcompound** in a compound chain.
 **Orthographic rule:** `'` is written at the point where a speaker would group a subcompound. It acts as a right-binding operator on the elements that follow it:
 
 ```
-A'B-C-D   →   A modifies [B-C-D]   (single modifier + pre-bound unit)
-A-B'C-D   →   [A-B] modifies [C-D] (plain chain + pre-bound unit)
+A'B-C-D   →   A modifies {B-C-D}   (single modifier + pre-bound unit)
+A-B'C-D   →   {A-B} modifies {C-D} (plain chain + pre-bound unit)
 ```
 
 Without `'`, the default parse is right-branching: each new element modifies the accumulating chain from left to right.
@@ -152,7 +152,7 @@ Eight marks supplement `'`. Unlike `'`, these operate **outside** compound bound
 | `~` | approximation mark | pre-positional hedge: "approximately / roughly / on the order of / something like" |
 | `()` | evidential frame | clause-level epistemic bracket: content is reported, inferred, or unattributed — not directly asserted |
 | `[]` | aside / commentary frame | non-semantic editorial or analytic annotation — does not alter truth conditions of surrounding text; removable without semantic change |
-| `:` | topic frame / definition mark | sentence-initial: "as for [topic], ..." (topic frame); metalanguage: explanatory gloss (`term : reading`) |
+| `:` | topic frame / definition mark | sentence-initial: "as for {topic}, ..." (topic frame); metalanguage: explanatory gloss (`term : reading`) |
 | `::` | canonical definition mark | metalanguage only: structural decomposition (`term :: roots`); not used in Tonesu sentences proper |
 
 ---
@@ -163,7 +163,7 @@ A **prosodic pause** between clausal units. Recommended when a frame clause (`go
 
 ```
 ta ti-de, la-mi lo-mu ka-be         →  In the past, I grew the object.
-go [la-lu ki], la-mi fa-be          →  Because the light moved, my affect rose.
+go {la-lu ki}, la-mi fa-be          →  Because the light moved, my affect rose.
 la-mi lo-mu, lo-ma, lo-ra ka-ko    →  I stored the object, the material, and the energy.
 ```
 
@@ -200,16 +200,16 @@ la-tu  lo-mu  ka-be?                →  Did you grow it? (casual: ? replaces fr
 
 ### `~` — Approximation Mark
 
-Pre-positional hedge meaning **"approximately / roughly / on the order of / something like."** Always at the **left edge of the unit it qualifies**: the start of a sentence-level NP or word, or immediately following `'`. `~` cannot interrupt a solid compound string. In a full measurement expression, `~` pre-poses the entire `[digit] [scale] nu [domain]` block.
+Pre-positional hedge meaning **"approximately / roughly / on the order of / something like."** Always at the **left edge of the unit it qualifies**: the start of a sentence-level NP or word, or immediately following `'`. `~` cannot interrupt a solid compound string. In a full measurement expression, `~` pre-poses the entire `{digit} {scale} nu {domain}` block.
 
 **`'` interaction:** because `'` marks the left boundary of a subcompound, `~` may appear immediately after `'`. `~` then hedges only the subcompound, not the full compound. In written form (hyphens are analytic notation only):
 
 ```
-~A'BC       →  approximately [A modifying BC]; the whole compound is hedged
-A'~BC       →  A modifies [approximately BC]; only the subcompound is hedged
+~A'BC       →  approximately {A modifying BC}; the whole compound is hedged
+A'~BC       →  A modifies {approximately BC}; only the subcompound is hedged
 ```
 
-These are distinct propositions. `~wipu'zosesoli` = approximately [wolf-kind] (uncertain about the whole categorization: "something wolf-like"). `wipu'~zosesoli` = [wolf-discriminator] over [approximately the canid-pack class] (certain about the outer frame; hedging the base kind-term — used for ancestral, mythological, or proto-taxon references). The same distinction is available at any `'` boundary.
+These are distinct propositions. `~wipu'zosesoli` = approximately {wolf-kind} (uncertain about the whole categorization: "something wolf-like"). `wipu'~zosesoli` = {wolf-discriminator} over {approximately the canid-pack class} (certain about the outer frame; hedging the base kind-term — used for ancestral, mythological, or proto-taxon references). The same distinction is available at any `'` boundary.
 
 **Spoken form: `ven`** — registered as G010 in `registry/roots.md`. In speech, `~` is realized as `ven`. The written form `~` is canonical in formal and technical Tonesu. `ven` may appear in written text where a phonetic or poetic rendering is intended (verse, informal writing, transcribed speech); in all such cases it is understood as a graphical variant of `~`, not a distinct word.
 
@@ -244,9 +244,9 @@ Round brackets wrap a **clause or sub-clause** to mark its epistemic status as *
 
 **Structure:**
 ```
-(clause)                  →  reportedly / allegedly / it is said that [clause]
-~ (clause)                →  approximately / reportedly: [clause]   (stacked hedge + report)
-(~ clause)                →  reportedly approximately [clause]      (hedge scoped inside frame)
+(clause)                  →  reportedly / allegedly / it is said that {clause}
+~ (clause)                →  approximately / reportedly: {clause}   (stacked hedge + report)
+(~ clause)                →  reportedly approximately {clause}      (hedge scoped inside frame)
 ```
 
 **Spoken form:** prosodic bracketing — a slight boundary pause and consistent framing intonation before and after the framed content. No phoneme sequence is assigned to `(` and `)` themselves; the frame is marked prosodically, not segmentally.
@@ -255,8 +255,8 @@ Round brackets wrap a **clause or sub-clause** to mark its epistemic status as *
 
 | Form | Assertor | What is encoded |
 |------|----------|-----------------|
-| `la-mi  se/si/to  [prop]` | first-person speaker | speaker's calibrated epistemic level |
-| `la-source  be/si  [prop]` | named non-personal source | process or doctrine outputs the claim |
+| `la-mi  se/si/to  {prop}` | first-person speaker | speaker's calibrated epistemic level |
+| `la-source  be/si  {prop}` | named non-personal source | process or doctrine outputs the claim |
 | `(prop)` | none (anonymous) | content is reported or epistemically reserved |
 
 `()` differs from the personal modal in two ways: no assertor is named; and the frame does not encode *how certain* the speaker is — only that they are **not directly asserting the content from their own epistemic resources**. For calibrated commitment, use the personal modal or process frame; for anonymous attribution, contested claims, or formal epistemic reservation, use `()`.
@@ -282,7 +282,7 @@ Two marks that operate at the **interface between the metalanguage and Tonesu se
 
 ```
 lu-mu :: lu + mu                  →  canonical decomposition of lu-mu
-[X]-no-fe :: X + no + fe          →  structural description of the extremal suffix pattern
+{X}-no-fe :: X + no + fe          →  structural description of the extremal suffix pattern
 ```
 
 **Spoken form: `helms`** — registered as G012 in `registry/roots.md`. The **notation-doubling rule**: when a CVCC spoken marker is paired with a doubled written form, it takes a final `s` coda to produce the spoken doublet (CVCCS). `helms` is the CVCCS spoken form of `::`. The minimal pair `helm` / `helms` makes the single/double distinction immediately audible in dictation and spoken register without requiring an independent unrelated form.
@@ -297,14 +297,14 @@ lu-mu :: lu + mu                  →  canonical decomposition of lu-mu
 
 ```
 to-si : knowledge-seeking signal         →  plain reading of to-si
-[X]-no-fe : X without limiting boundary  →  functional gloss of the extremal pattern
+{X}-no-fe : X without limiting boundary  →  functional gloss of the extremal pattern
 ```
 
 Contrast: `to-si :: to + si` (structural decomposition, `::`) vs. `to-si : knowledge-seeking signal` (functional gloss, `:`).
 
 **Role 2 — Topic frame (Tonesu sentences):**
 
-At sentence level, `:` appears **sentence-initially** to separate a leading topic NP from the comment clause: "as for [topic], the following holds."
+At sentence level, `:` appears **sentence-initially** to separate a leading topic NP from the comment clause: "as for {topic}, the following holds."
 
 ```
 lo-mu : la-ze  ka-ko  lo-mu           →  As for the machine — she stored it.

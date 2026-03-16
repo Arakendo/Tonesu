@@ -30,7 +30,7 @@ domain = substrate + organizing principle
 Domains are expressed using the domain marker `da`:
 
 ```
-da-[substrate root]-[principle root]
+da-{substrate root}-{principle root}
 ```
 
 Example:
@@ -92,7 +92,7 @@ Once a domain is registered, its label is a productive root. New concepts inside
 
 Pattern:
 ```
-[domain root] + [concept role]
+{domain root} + {concept role}
 ```
 
 Example using `da-to-ki` (computation domain):
@@ -117,6 +117,6 @@ da-to-ki + -li  →  computation agent  (programmer)
 
 ## Open Questions
 
-- [x] ~~Should `da-` be a prefix that fuses with the root phonetically, or always remain a free syntactic particle?~~ **Resolved.** `da-` is a **bound prefix** that always fuses with the following root compound: `da-[substrate]-[principle]`. It never appears as a free syntactic particle before an independently-standing noun. Domain labels are single lexical items in the compounding system (analytic hyphen in glosses; solid canonical form). Every registered domain uses the fused form. See open-questions.md § Grammar and Morphology.
+- [x] ~~Should `da-` be a prefix that fuses with the root phonetically, or always remain a free syntactic particle?~~ **Resolved.** `da-` is a **bound prefix** that always fuses with the following root compound: `da-{substrate}-{principle}`. It never appears as a free syntactic particle before an independently-standing noun. Domain labels are single lexical items in the compounding system (analytic hyphen in glosses; solid canonical form). Every registered domain uses the fused form. See open-questions.md § Grammar and Morphology.
 - [ ] Standard procedure for deprecating a domain whose scope was drawn too narrowly
 - [ ] Whether intersecting domains always create a new registered domain, or can remain ad-hoc compounds

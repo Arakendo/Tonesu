@@ -17,12 +17,12 @@ Words are not looked up — they are built. The system is generative: a speaker 
 **Head-final: modifier precedes core concept.**
 
 ```
-[modifier] + [core concept]
+{modifier} + {core concept}
 ```
 
 For multi-part compounds:
 ```
-[domain/class] + [function] + [head concept]
+{domain/class} + {function} + {head concept}
 ```
 
 Examples:
@@ -104,7 +104,7 @@ The preferred canonical form is registered in lexicon/roots.md. Alternates may b
 In a plain compound chain, each element modifies the accumulating chain from left to right (analytic form: `A-B-C-D`). The last element is always the semantic head.
 
 ```
-A-B-C-D   →   A modifies [B modifies [C modifies D]]
+A-B-C-D   →   A modifies {B modifies {C modifies D}}
 ```
 
 **Grouping marker: `'` (apostrophe)**
@@ -112,8 +112,8 @@ A-B-C-D   →   A modifies [B modifies [C modifies D]]
 When a compound's default right-branching parse is ambiguous or when a subunit must be understood as a whole before being modified, `'` marks the left boundary of that subcompound.
 
 ```
-A'B-C-D   →   A modifies [B-C-D as a pre-bound unit]
-A-B'C-D   →   [A-B as a plain chain] modifies [C-D as a pre-bound unit]
+A'B-C-D   →   A modifies {B-C-D as a pre-bound unit}
+A-B'C-D   →   {A-B as a plain chain} modifies {C-D as a pre-bound unit}
 ```
 
 The elements from `'` to the end of the compound (or the next `'` if present) form the subcompound. Everything to the left then attaches to that subcompound as a modifier.
@@ -123,13 +123,13 @@ The elements from `'` to the end of the compound (or the next `'` if present) fo
 - Omit for compounds of 2–3 roots where the parse is unambiguous.
 - Optional at depth-4 where structure is still clear from primitive meanings alone.
 - Expected when X-X repetition appears inside a longer compound (X-X creates genuine parse ambiguity at depth ≥ 4 because the repeated roots can be read as either a meta-level unit or the start of a plain chain).
-- **Re-scoping function:** `'` is not solely a depth-management device. When a modifier's default right-branching parse would produce a wrong reading, `'` actively re-scopes the modifier over the pre-bound subunit. Example: `ker-zo-se-so` (no apostrophe) right-branches as *ker modifies [zo-[se-[so]]]*, attaching the color to the terminal root rather than to the organism as a whole. `ker'zo-se-so` binds `zo-se-so` first, then attaches `ker` correctly over the whole kind-term. In such cases `'` is required for correctness, not merely for clarity at depth. The mechanism works identically over 3-root and 4-root units.
+- **Re-scoping function:** `'` is not solely a depth-management device. When a modifier's default right-branching parse would produce a wrong reading, `'` actively re-scopes the modifier over the pre-bound subunit. Example: `ker-zo-se-so` (no apostrophe) right-branches as *ker modifies {zo-{se-{so}}}*, attaching the color to the terminal root rather than to the organism as a whole. `ker'zo-se-so` binds `zo-se-so` first, then attaches `ker` correctly over the whole kind-term. In such cases `'` is required for correctness, not merely for clarity at depth. The mechanism works identically over 3-root and 4-root units.
 - Multiple `'` markers are permitted. Each additional apostrophe increases cognitive parse load; casual and spoken registers will naturally avoid deep nesting. Technical, alchemical, and formal registers may use as many as the compound structure requires.
 - Phrase restructuring using connective particles (e.g. `ne`) remains available and is preferred in speech when depth makes the compound unwieldy.
 
-**Role-marker interaction:** role-prefix particles (`la-`, `lo-`, etc.) attach to the outer NP boundary and do not participate in the `'` grouping mechanism. The role-marker is outside-NP; `'` is NP-internal. The two levels are orthogonal: `la-ker'zo-se-so` = agent:[red-[kind-term]], with no conflict.
+**Role-marker interaction:** role-prefix particles (`la-`, `lo-`, etc.) attach to the outer NP boundary and do not participate in the `'` grouping mechanism. The role-marker is outside-NP; `'` is NP-internal. The two levels are orthogonal: `la-ker'zo-se-so` = agent:{red-{kind-term}}, with no conflict.
 
-**`~` interaction:** the approximation mark `~` may appear immediately after `'`, scoping over only the introduced subcompound. In written form: `A'~BC` = A modifies [approximately BC]; distinct from `~A'BC` = approximately [A-BC as a whole]. `~` cannot interrupt a solid compound (no `'` boundary present). See spec/phonology.md § Approximation Mark for the full scope semantics and example pair.
+**`~` interaction:** the approximation mark `~` may appear immediately after `'`, scoping over only the introduced subcompound. In written form: `A'~BC` = A modifies {approximately BC}; distinct from `~A'BC` = approximately {A-BC as a whole}. `~` cannot interrupt a solid compound (no `'` boundary present). See spec/phonology.md § Approximation Mark for the full scope semantics and example pair.
 
 **Phonological status:** prosodic juncture — a slight phrasal pause at the marked boundary. Not a segmental phoneme; not in the consonant inventory. See spec/phonology.md § Prosodic Juncture Marker.
 
@@ -171,9 +171,9 @@ Because hyphens carry no grammatical meaning, written forms strip cleanly: `to's
 CVC-tier forms — colors, digits, and scale prefixes — function as **pre-nominal modifiers** in the compound system. The same head-final rule applies: the descriptor precedes the noun or compound it modifies.
 
 ```
-[color]  [noun]          →  ker mu      (red object)
-[scale]  nu  [domain]    →  pir nu pa   (kilometer)
-[digit]  nu  [noun]      →  gal nu zo   (three organisms)
+{color}  {noun}          →  ker mu      (red object)
+{scale}  nu  {domain}    →  pir nu pa   (kilometer)
+{digit}  nu  {noun}      →  gal nu zo   (three organisms)
 ```
 
 CVC forms are phonologically stratified from CV primitives: the coda signals tier membership instantly. A CVC color or digit is never misread as a primitive root in isolation.
@@ -181,8 +181,8 @@ CVC forms are phonologically stratified from CV primitives: the coda signals tie
 **Modifier scope and `'`:** when a CVC color or visual-pattern modifier precedes a multi-root compound, `'` is required to prevent the default right-branching parse from attaching the modifier to only the terminal root rather than to the compound as a whole:
 
 ```
-ker-zo-se-so   →  wrong: ker modifies only [so]
-ker'zo-se-so   →  correct: ker scopes over [zo-se-so] as a unit
+ker-zo-se-so   →  wrong: ker modifies only {so}
+ker'zo-se-so   →  correct: ker scopes over {zo-se-so} as a unit
 ```
 
 This is a specific instance of the `'` re-scoping function (§ Compound Grouping Marker). The rule is: **a CVC-tier modifier preceding a compound of two or more roots requires `'` between the modifier and the compound.**
@@ -224,10 +224,10 @@ All twelve SI scale prefix forms satisfy the four criteria above. Their composit
 
 | Form | Scale | Compositional expression | Tier note |
 |------|-------|--------------------------|-----------|
-| `zum` | nano (10⁻⁹)  | `nil nil nil nil nil nil nil nil nil bol nu [domain]` (positional chain) | ergonomic shortform |
+| `zum` | nano (10⁻⁹)  | `nil nil nil nil nil nil nil nil nil bol nu {domain}` (positional chain) | ergonomic shortform |
 | `mes` | micro (10⁻⁶) | positional digit chain × 10⁻⁶ | ergonomic shortform |
 | `rim` | milli (10⁻³) | positional digit chain × 10⁻³ | ergonomic shortform |
-| `pir` | kilo (10³)   | `bol nil nil nil nu [domain]` | ergonomic shortform |
+| `pir` | kilo (10³)   | `bol nil nil nil nu {domain}` | ergonomic shortform |
 | `baf` | mega (10⁶)   | positional digit chain × 10⁶ | ergonomic shortform |
 | `wul` | giga (10⁹)   | positional digit chain × 10⁹ | ergonomic shortform |
 
@@ -284,7 +284,7 @@ Semantic bounds:
   excludes:   ...
 Grammar:      what it modifies, where it may appear
 Register:     formal | standard | colloquial | technical
-Domain:       general | [named domain]
+Domain:       general | {named domain}
 Examples:     2–5 sample usages
 Related:      synonyms, narrower, broader, contrasts
 Status:       proposed | accepted | lexicalized | deprecated

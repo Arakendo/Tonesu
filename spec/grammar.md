@@ -152,7 +152,7 @@ later by substituting a full noun phrase for `ze`.
 
 The `no` contrast coordinator is productive for disambiguation:
 ```
-la-ze  [predicate]  no  la-mi    →  ze did [predicate], not me   (C008 A3)
+la-ze  {predicate}  no  la-mi    →  ze did {predicate}, not me   (C008 A3)
 ```
 
 **Concordian formal practice:** after genuine `ze` ambiguity is produced in a proceeding,
@@ -163,10 +163,10 @@ the referent is re-established (C008 B3).
 
 | Use | Form | Type | Resolution |
 |-----|------|------|------------|
-| C005 B1 | `la-mi  to  [lo-ze  se]` | Propositional | Mechanism 1: `se` incompatible with persons |
-| C005 A3 | `la-mi  to  [lo-ze  to-fe-ka]` | Propositional | Mechanism 2: person not yet established in C005 discourse |
-| C008 A2 | `la-mi  to  [lo-ze  se]` | Propositional (forced) | Mechanism 1: `se` incompatible with persons, despite active person-referent |
-| C008 B2 | `la-mi  to  [lo-ze  to-fe-ka]` | **Ambiguous** | Both mechanisms fail; Mechanism 3 applied in A3 |
+| C005 B1 | `la-mi  to  {lo-ze  se}` | Propositional | Mechanism 1: `se` incompatible with persons |
+| C005 A3 | `la-mi  to  {lo-ze  to-fe-ka}` | Propositional | Mechanism 2: person not yet established in C005 discourse |
+| C008 A2 | `la-mi  to  {lo-ze  se}` | Propositional (forced) | Mechanism 1: `se` incompatible with persons, despite active person-referent |
+| C008 B2 | `la-mi  to  {lo-ze  to-fe-ka}` | **Ambiguous** | Both mechanisms fail; Mechanism 3 applied in A3 |
 | C008 A3 | `la-ze  to-fe-ka  no  la-mi` | Person (explicit) | Restatement + `no` contrast — resolves B2 |
 
 ---
@@ -199,10 +199,10 @@ No dedicated grouping particle is needed. NP scope and structure are handled by 
 
 1. **Role-marker scoping** — role-markers (`la-`, `lo-`, `ro-`, `ne-`) scope over the complete following NP as a unit.
 2. **Apostrophe `'`** — marks the left boundary of a subcompound within a compound word. See spec/word-formation.md § Compound Grouping Marker.
-3. **`na` particle** — partitions kind-term from identifier in named NPs: `[kind  na  identifier]`. See spec/naming.md.
+3. **`na` particle** — partitions kind-term from identifier in named NPs: `{kind  na  identifier}`. See spec/naming.md.
 4. **Clause-frame markers** (`go`, `wi`, `ta`, `no-go`, `to-go`) — establish clause-level boundaries; the outer predicate closes the frame.
 
-Bracket notation `[...]` in corpus glosses is analytic notation only; it has no spoken or written equivalent.
+Brace notation `{...}` is the going-forward analytic convention for spec documents. In corpus glosses, `[...]` is grandfathered; neither form has a spoken or written Tonesu equivalent.
 
 ---
 
@@ -213,7 +213,7 @@ distinct and semantically non-equivalent.
 
 ### Type 1 — Patientive state: `lo-X  Q`
 
-`lo-[entity]  [quality]` = "X is in state Q"
+`lo-{entity}  {quality}` = "X is in state Q"
 
 The entity occupies the patient slot (`lo`) and is in the named state as a current
 condition. The claim is contingent — the state can change.
@@ -226,7 +226,7 @@ lo-li     vo        →  The person is socially valued.  (S163)
 
 ### Type 2 — Attributive property: `la-X  Q`
 
-`la-[entity]  [quality]` = "X has quality Q"
+`la-{entity}  {quality}` = "X has quality Q"
 
 The entity occupies the agent slot (`la`) and is the structural bearer of the quality.
 The claim is intrinsic or structural — a property of the entity's constitution.
@@ -239,7 +239,7 @@ la-li        vo     →  A person has worth.                 (S162)
 
 ### Type 3 — Manner adverbial: `ka  Q`
 
-`ka  [quality]` = "the action is performed with Q"
+`ka  {quality}` = "the action is performed with Q"
 
 The quality follows the action marker `ka` and characterizes *how* the action is
 performed. Q modifies the action, not the agent.
@@ -312,8 +312,8 @@ no-ka-ki  lo-mu    →  Don't move the machine.
 
 ### Level 3 — Clause negation
 
-`no [ka-clause]` fronts an entire action clause, negating the action frame as a whole.
-Attested: S036 (`no [ka-se]` = "cannot be consumed"), S172 (`lo-si-de  no [ka-be]`
+`no {ka-clause}` fronts an entire action clause, negating the action frame as a whole.
+Attested: S036 (`no {ka-se}` = "cannot be consumed"), S172 (`lo-si-de  no {ka-be}`
 = "the signal record cannot be altered").
 
 ### Level 4 — Intra-clause contrast coordinator
@@ -325,20 +325,20 @@ lo-to-re-su  be  no  lo-wi-to    →  followed the doctrine, not the plan  (S090
 la-mu  lo-si  se  no  lo-to      →  machine perceived the signal, not the pattern  (S190)
 ```
 
-Structure: `[established constituent]  no  [rejected alternative]`. Both constituents must be of the same grammatical type. The `no` is not prefixed to the following constituent — it floats between the two, readable as the `no`-root in its absence/negation meaning: "the second item is absent from this event."
+Structure: `{established constituent}  no  {rejected alternative}`. Both constituents must be of the same grammatical type. The `no` is not prefixed to the following constituent — it floats between the two, readable as the `no`-root in its absence/negation meaning: "the second item is absent from this event."
 
-**Sentence-initial `no`** as a minimal negative response to a polar question (`no` / `no — [elaboration]`, C006 B3) is a related discourse-level use with the same root semantics. Documented in § Questions.
+**Sentence-initial `no`** as a minimal negative response to a polar question (`no` / `no — {elaboration}`, C006 B3) is a related discourse-level use with the same root semantics. Documented in § Questions.
 
 ### Summary
 
 | Level | Form | Status |
 |-------|------|--------|
 | Root prefix | `no-X` | confirmed |
-| Compound prefix | `no-[compound]` | confirmed (S063) |
+| Compound prefix | `no-{compound}` | confirmed (S063) |
 | Action negation | `no-ka-X` | confirmed |
-| Clause negation | `no [ka-clause]` | confirmed (S036, S172) |
+| Clause negation | `no {ka-clause}` | confirmed (S036, S172) |
 | Contrast coordinator | `A  no  B` | confirmed (S090, S190) |
-| Sentence-initial minimal negative | `no` / `no — [prop]` | confirmed (C006 B3); see § Questions |
+| Sentence-initial minimal negative | `no` / `no — {prop}` | confirmed (C006 B3); see § Questions |
 
 ---
 
@@ -367,7 +367,7 @@ lo-pa-ra  ne-ra  vo  to-si?
 General pattern:
 
 ```
-[entity]  [relation]  [dimension]  to-si?
+{entity}  {relation}  {dimension}  to-si?
 ```
 
 `to-si?` carries a terminal rise marker (`?`) in written gloss, matching its
@@ -392,7 +392,7 @@ to-si — la-tu  ki  pa-li-pu  ta-ti-be
 General pattern:
 
 ```
-to-si — [complete proposition]
+to-si — {complete proposition}
 ```
 
 The dash (`—`) marks the boundary between the inquiry frame and the proposition whose
@@ -431,12 +431,12 @@ Polar questions receive minimal or full responses:
 
 | Answer type | Form | Meaning |
 |-------------|------|---------|
-| Minimal affirmative | `ru` | "[that] coheres" — yes (C006 B1) |
-| Full affirmative | `ru — [proposition]` | yes + elaboration (C006 B1, B4) |
-| Minimal negative | `no` | "[that] does not hold" — no (C006 B3) |
-| Full negative | `no — [proposition]` | no + elaboration (C006 B3) |
+| Minimal affirmative | `ru` | "{that} coheres" — yes (C006 B1) |
+| Full affirmative | `ru — {proposition}` | yes + elaboration (C006 B1, B4) |
+| Minimal negative | `no` | "{that} does not hold" — no (C006 B3) |
+| Full negative | `no — {proposition}` | no + elaboration (C006 B3) |
 | Echo confirmation | restate proposition from speaker's perspective | yes, with expressed agreement (C003 B1) |
-| Action-commit | `ka-[verb]` | I will/am doing it (C001 B3) |
+| Action-commit | `ka-{verb}` | I will/am doing it (C001 B3) |
 
 `ru` and `no` are not new particles — they are the primitives for unity/coherence and
 negation/absence used sentence-initially as affirmative and negative discourse responses.
@@ -449,14 +449,14 @@ marker. `ku` is a clause-final particle: it follows the complete proposition rat
 preceding it.
 
 ```
-[complete proposition]  ku?
+{complete proposition}  ku?
 ```
-*Is [proposition] true?*  (casual register)
+*Is {proposition} true?*  (casual register)
 
 Compared against the formal polar form:
 
 ```
-to-si — [complete proposition]
+to-si — {complete proposition}
 ```
 
 Both ask identical polar questions. Register choice signals social proximity (`ku`) or
@@ -467,9 +467,9 @@ expected pronoun for the person the question is about:
 
 | Form | Natural reading |
 |------|-----------------|
-| `la-mi  [predicate]  ku?` | Did I [predicate]? — self-directed check |
-| `la-tu  [predicate]  ku?` | Did you [predicate]? — addressee-directed |
-| `la-ze  [predicate]  ku?` | Did they [predicate]? — third-party directed |
+| `la-mi  {predicate}  ku?` | Did I {predicate}? — self-directed check |
+| `la-tu  {predicate}  ku?` | Did you {predicate}? — addressee-directed |
+| `la-ze  {predicate}  ku?` | Did they {predicate}? — third-party directed |
 
 **S320 resolution.** S320 first attested `la-mi  se  lo-zon  ku?` and the corpus note
 loosely translated it as "Have you seen a deer?" This was an annotation error. The form
@@ -489,14 +489,14 @@ Tonesu encodes speaker-level epistemic commitment through an **utterance-level m
 frame** placed at the beginning of a clause:
 
 ```
-la-[speaker]  [epistemic-root]  [embedded proposition]
+la-{speaker}  {epistemic-root}  {embedded proposition}
 ```
 
-The epistemic root appears immediately after the speaker-argument (`la-[speaker]`), before
+The epistemic root appears immediately after the speaker-argument (`la-{speaker}`), before
 the embedded proposition. The root modifies the speaker's *relationship to* the
 proposition, not the proposition's internal content.
 
-In gloss notation, the embedded proposition is shown in brackets `[...]` — the same
+In gloss notation, the embedded proposition is shown in braces `{...}` — the same
 convention used for subordinate clauses.
 
 ### Positive Epistemic Scale
@@ -521,7 +521,7 @@ personal modal hierarchy.
 The prefix `no-` applies to any epistemic root in the modal position:
 
 ```
-la-[speaker]  no-[epistemic-root]  [embedded proposition]
+la-{speaker}  no-{epistemic-root}  {embedded proposition}
 ```
 
 | Negated form | Meaning | Corpus |
@@ -548,11 +548,11 @@ signal for it.
 These constructions share the sequence `no-...-to` but are structurally and
 semantically different:
 
-- **`no-to` in epistemic position** (`la-[speaker]  no-to  [prop]`): personal epistemic
+- **`no-to` in epistemic position** (`la-{speaker}  no-to  {prop}`): personal epistemic
   disclaimer. The speaker denies holding the proposition at established level. Two
   morphemes: `no-` prefix on the `to` epistemic root.
 
-- **`no-to-fe` as state predicate** (`lo-[thing]  no-to-fe`): institutional status
+- **`no-to-fe` as state predicate** (`lo-{thing}  no-to-fe`): institutional status
   descriptor. The proposition or entity has not crossed the certification threshold.
   Three morphemes: `no-` prefix on the compound `to-fe` (knowledge-boundary). Attested
   C005 B2.
@@ -563,15 +563,15 @@ certification status. They can co-occur without entailing each other.
 ### Nested Epistemic Embedding
 
 The embedded proposition slot may itself contain an epistemic modal, since
-`la-[speaker]  [modal]  [prop]` is a well-formed proposition that can occupy any
-`[prop]` slot:
+`la-{speaker}  {modal}  {prop}` is a well-formed proposition that can occupy any
+`{prop}` slot:
 
 ```
-la-mi  to  [la-tu  no-se  lo-ne-ra]
+la-mi  to  {la-tu  no-se  lo-ne-ra}
 ```
-*I hold as established: [you have no perceptual basis for the resonance].* (C007 A5)
+*I hold as established: {you have no perceptual basis for the resonance}.* (C007 A5)
 
-The outer `la-mi  to` certifies as established; the inner `la-tu  no-se  [prop]` is a
+The outer `la-mi  to` certifies as established; the inner `la-tu  no-se  {prop}` is a
 well-formed epistemic claim that serves as the embedded proposition. This is the
 institutional form: a knowledge-keeper converts a witness's personal epistemic floor
 into a formally certified matter of record.
@@ -585,15 +585,15 @@ confirmed structure pending a second case.
 A non-personal source — an examination process, an institutional doctrine, a measurement system — may occupy the `la`-slot and generate a propositional finding as its output. This is the **process epistemic frame**, structurally parallel to the personal epistemic modal but with an output-production verb rather than an epistemic-stance root:
 
 ```
-la-[non-personal-source]  [output-verb]  [embedded proposition]
+la-{non-personal-source}  {output-verb}  {embedded proposition}
 ```
 
 Two output verbs are attested:
 
 | Output verb | Meaning | Example | Corpus |
 |-------------|---------|---------|--------|
-| `be` | produces / generates [prop] as finding | examination generates the finding that X | C004 A2 |
-| `si` | signals / asserts [prop] as claim | doctrine emits the claim that X | S084 |
+| `be` | produces / generates {prop} as finding | examination generates the finding that X | C004 A2 |
+| `si` | signals / asserts {prop} as claim | doctrine emits the claim that X | S084 |
 
 `be` frames the proposition as the *output* of a productive process — the result it generates. `si` frames the proposition as the *assertion* the source emits. Both take a full embedded clause as their complement.
 
@@ -603,8 +603,8 @@ Two output verbs are attested:
 
 | Frame | Structure | Agent type | Verb type |
 |-------|-----------|------------|-----------|
-| Personal epistemic modal | `la-[person]  [epistemic-root]  [prop]` | person / speaker | epistemic stance root (`se`, `si`, `to`) |
-| Process epistemic frame | `la-[source]  [output-verb]  [prop]` | process / institution / doctrine | production verb (`be`, `si`) |
+| Personal epistemic modal | `la-{person}  {epistemic-root}  {prop}` | person / speaker | epistemic stance root (`se`, `si`, `to`) |
+| Process epistemic frame | `la-{source}  {output-verb}  {prop}` | process / institution / doctrine | production verb (`be`, `si`) |
 
 In the personal frame, the root encodes the *speaker's relationship to* the proposition. In the process frame, the verb encodes *how* the source produces or emits the proposition. The two frames may appear in the same discourse with contrasting epistemic weight: personal modal = I hold at some confidence level; process frame = the process produces this as output regardless of my personal confidence. This contrast is exploited in C004 A1–A2, where A first makes a personal bare assertion, then escalates to process-grounded evidence.
 
@@ -615,23 +615,23 @@ In the personal frame, the root encodes the *speaker's relationship to* the prop
 The **evidential frame** wraps a clause in round brackets to mark its content as **reported, inferred, or unattributed** — carried without direct assertion by the speaker. Where the personal epistemic modal (`la-mi  se/si/to`) encodes the speaker's calibrated commitment, the evidential frame suspends attribution: the claim is presented as something received, in circulation, or epistemically reservation-worthy, with no specific assertor named.
 
 ```
-(clause)               →  reportedly / allegedly / it is said that [clause]
+(clause)               →  reportedly / allegedly / it is said that {clause}
 ```
 
 **Relation to epistemic modality:**
 
 | Form | Assertor | Use |
 |------|----------|-----|
-| `la-mi  se/si/to  [prop]` | speaker (first person) | speaker's personal epistemic level |
-| `la-source  be/si  [prop]` | named non-personal source | process or doctrine output |
+| `la-mi  se/si/to  {prop}` | speaker (first person) | speaker's personal epistemic level |
+| `la-source  be/si  {prop}` | named non-personal source | process or doctrine output |
 | `(prop)` | none (anonymous) | reported, alleged, or epistemically reserved content |
 
 The evidential frame does not encode *how certain* the speaker is about the content — only that they are not directly asserting it from their own epistemic resources. Use the personal modal for calibration; use `()` for anonymous attribution, contested claims, or formal epistemic reservation.
 
 **Stacking with `~`:**
 ```
-~ (clause)      →  approximately / reportedly: [clause]    (hedge wraps the whole frame)
-(~ clause)      →  reportedly approximately [clause]       (hedge scoped inside frame)
+~ (clause)      →  approximately / reportedly: {clause}    (hedge wraps the whole frame)
+(~ clause)      →  reportedly approximately {clause}       (hedge scoped inside frame)
 ```
 
 `~` outside the brackets hedges the entire act of reporting. `~` inside hedges the content of the report. The two positions are semantically distinct:
@@ -654,10 +654,10 @@ The evidential frame does not encode *how certain* the speaker is about the cont
 
 ## Topic Frame (`:`)
 
-The `:` mark may appear at the **sentence-initial boundary** of a clause to separate a leading topic NP from the comment clause. It is the written form of a prosodic topic-comment break and reads "as for [topic], the following holds."
+The `:` mark may appear at the **sentence-initial boundary** of a clause to separate a leading topic NP from the comment clause. It is the written form of a prosodic topic-comment break and reads "as for {topic}, the following holds."
 
 ```
-[topic-NP] : [comment-clause]       →  As for [topic], [comment clause]
+{topic-NP} : {comment-clause}       →  As for {topic}, {comment clause}
 ```
 
 **Constraints:**
@@ -801,7 +801,7 @@ Nesting is handled by the stack rule above. The one structural requirement is **
 **Example:**
 
 ```
-go [la-ze  wi [ka-understand]  ka-study]  la-mi  ka-end
+go {la-ze  wi {ka-understand}  ka-study}  la-mi  ka-end
 ```
 *Because ze studied (in order to understand), I ended it.*
 
@@ -831,11 +831,11 @@ etc.) encodes the head's role in the **main clause**, not in the modifying claus
 Example:
 
 ```
-[lo-ne-ra  ka-se]  lo-mu  ne-mi  ka-be
+{lo-ne-ra  ka-se}  lo-mu  ne-mi  ka-be
 ```
 *Build me the machine that perceived the resonance.* (S101)
 
-The inner clause `[lo-ne-ra  ka-se]` is missing an agent — the gap is in the `la`
+The inner clause `{lo-ne-ra  ka-se}` is missing an agent — the gap is in the `la`
 position. The head `lo-mu` (machine) fills that gap: the machine is what perceived
 the resonance. In the main clause, `lo-mu` is the patient of `ka-be` (build it for me).
 
@@ -858,8 +858,8 @@ inner-clause role. The same head noun can exit with different particles dependin
 how it is used in the main clause:
 
 ```
-[lo-ne-ra  ka-se]  lo-mu  ne-mi  ka-be     → lo-mu: machine is patient of main-clause predicate
-[lo-ne-ra  ka-se]  ne-mu  ka-[give]        → ne-mu: machine is recipient of main-clause predicate
+{lo-ne-ra  ka-se}  lo-mu  ne-mi  ka-be     → lo-mu: machine is patient of main-clause predicate
+{lo-ne-ra  ka-se}  ne-mu  ka-{give}        → ne-mu: machine is recipient of main-clause predicate
 ```
 
 ### Stative inner clauses
@@ -868,11 +868,11 @@ The inner clause does not need to contain an action particle. Stative predicates
 kinship, epistemic state, property predication — are equally valid inner clauses:
 
 ```
-[zo-ne-go  la-mi]  ne-li  ka-be
+{zo-ne-go  la-mi}  ne-li  ka-be
 ```
-*Give [it] to the person who is my parent.* (S104)
+*Give {it} to the person who is my parent.* (S104)
 
-The inner clause `[zo-ne-go  la-mi]` is a stative kinship predication. The gap is the
+The inner clause `{zo-ne-go  la-mi}` is a stative kinship predication. The gap is the
 `lo` subject: the entity being described as "my parent" is absent from the inner clause
 and filled by `ne-li`. `la-mi` in the inner clause is a relational anchor
 (perspective marker), not an action agent.
@@ -883,12 +883,12 @@ Relative clauses may be nested — the head of an inner relative clause may itse
 as the reference entity of an outer relative clause:
 
 ```
-[zo-ne-ru  [zo-ne-go  la-mi]  lo-li]  ne-li  ka-be
+{zo-ne-ru  {zo-ne-go  la-mi}  lo-li}  ne-li  ka-be
 ```
-*Give [it] to my parent's sibling.* (S105)
+*Give {it} to my parent's sibling.* (S105)
 
-The inner NP `[zo-ne-go  la-mi]  lo-li` = "the person who is my parent" appears as
-the reference entity inside the outer clause `[zo-ne-ru  inner-NP  ...]`.
+The inner NP `{zo-ne-go  la-mi}  lo-li` = "the person who is my parent" appears as
+the reference entity inside the outer clause `{zo-ne-ru  inner-NP  ...}`.
 
 Two levels of nesting are attested and parse cleanly (S105). Deeper nesting is
 compositionally permitted. Complex paths are typically expressed as multiple declarative
@@ -911,23 +911,23 @@ The root `go` (cause/origin) functions as a clause introducer for causal and con
 For clause boundary rules and register, see **Subordinate Clauses** above.
 
 ```
-go [CAUSE-CLAUSE]  MATRIX-CLAUSE
+go {CAUSE-CLAUSE}  MATRIX-CLAUSE
 ```
-*Because / when [cause clause] is true, the matrix clause follows.*
+*Because / when {cause clause} is true, the matrix clause follows.*
 
 ```
-go [CAUSE-CLAUSE]  du [RESULT-CLAUSE]
+go {CAUSE-CLAUSE}  du {RESULT-CLAUSE}
 ```
-*If [cause clause], then [result clause].* (`du` explicit optional; required when the result clause does not follow naturally from word order alone.)
+*If {cause clause}, then {result clause}.* (`du` explicit optional; required when the result clause does not follow naturally from word order alone.)
 
 Examples:
 ```
-go [la-si  ka-ne-ki]  la-to  ka-be
+go {la-si  ka-ne-ki}  la-to  ka-be
 ```
 *When information connects, knowledge grows.* (S013)
 
 ```
-go [ka-be]  du [la-to  ka-zu]
+go {ka-be}  du {la-to  ka-zu}
 ```
 *If something grows, knowledge increases.*
 
@@ -936,11 +936,11 @@ go [ka-be]  du [la-to  ka-zu]
 ### `du` as full clause introducer
 
 `du` (result/effect) operates symmetrically with `go` in the result position. When the
-result clause is complex enough to require full clause structure, `du [RESULT-CLAUSE]`
+result clause is complex enough to require full clause structure, `du {RESULT-CLAUSE}`
 expands the compound form:
 
 ```
-go [CAUSE-CLAUSE]  du [RESULT-CLAUSE]
+go {CAUSE-CLAUSE}  du {RESULT-CLAUSE}
 ```
 
 **Boundary rule for `go...du`:**
@@ -948,24 +948,24 @@ go [CAUSE-CLAUSE]  du [RESULT-CLAUSE]
   and terminates the cause clause immediately.
 - The `du`-clause extends from `du` until sentence boundary (or the next matrix-level
   frame word, if embedded).
-- **No outer matrix clause is required.** `go [X]  du [Y]` is a complete biclausal
+- **No outer matrix clause is required.** `go {X}  du {Y}` is a complete biclausal
   proposition — the causal relationship itself is the full assertion.
 
 **Two registers:**
 
 | Register | Form | Use |
 |----------|------|-----|
-| Formal | `go [full cause clause]  du [full result clause]` | new context, technical or legal prose |
-| Compact | `go-[cause-compound]  du-[result-compound]` | established context, conversational (S011, S028) |
+| Formal | `go {full cause clause}  du {full result clause}` | new context, technical or legal prose |
+| Compact | `go-{cause-compound}  du-{result-compound}` | established context, conversational (S011, S028) |
 
 Examples:
 ```
-go [lo-si  be]  du [la-ka-si-mu  ka-si  ru]          (S169)
+go {lo-si  be}  du {la-ka-si-mu  ka-si  ru}          (S169)
 ```
 *Because the signal grew, the transmitter transmitted successfully.*
 
 ```
-go [lo-to-su-mu  de]  du [lo-to-su  de]              (S170)
+go {lo-to-su-mu  de}  du {lo-to-su  de}              (S170)
 ```
 *If the archive decays, organized knowledge decays.*
 
@@ -978,20 +978,20 @@ Head-final: `go` (cause/conditional frame) is head; `to` (conceptual/pattern) ma
 frame as hypothetical — the premise is non-actual, and so is the result.
 
 ```
-to-go [NON-ACTUAL-PREMISE]  NON-ACTUAL-RESULT
+to-go {NON-ACTUAL-PREMISE}  NON-ACTUAL-RESULT
 ```
-*Counterfactually: if [premise had held], [result would have followed].*
+*Counterfactually: if {premise had held}, {result would have followed}.*
 
-`to-go [X]  Y` is to `go [X]  Y` as a non-actual conditional is to an actuality-neutral
+`to-go {X}  Y` is to `go {X}  Y` as a non-actual conditional is to an actuality-neutral
 conditional. Both mark the same causal relationship; only the ontological status differs:
 
 | Frame | Premise | Result | Use |
 |-------|---------|--------|-----|
-| `go [X]  Y` | asserted or unspecified | follows from X | factual, general, or prospective conditional |
-| `to-go [X]  Y` | explicitly non-actual | would have followed | counterfactual — past or future hypothetical |
+| `go {X}  Y` | asserted or unspecified | follows from X | factual, general, or prospective conditional |
+| `to-go {X}  Y` | explicitly non-actual | would have followed | counterfactual — past or future hypothetical |
 
-**No stance-holder required.** Unlike `la-X  to  [prop]` (personal epistemic claim),
-`to-go [X]  Y` makes a bare non-actual assertion about a causal relationship with no
+**No stance-holder required.** Unlike `la-X  to  {prop}` (personal epistemic claim),
+`to-go {X}  Y` makes a bare non-actual assertion about a causal relationship with no
 attributor. Appropriate for investigation reports, narrative history, legal briefs, and
 all other impersonal counterfactual discourse.
 
@@ -999,30 +999,30 @@ all other impersonal counterfactual discourse.
 time-marking inside premise and result clauses marks when the hypothetical is located:
 
 ```
-to-go [lo-X  de]        result            → future hypothetical ("if X were to fail...")
-to-go [lo-X  de  ti-de] result  ti-de     → past counterfactual ("if X had failed...")
+to-go {lo-X  de}        result            → future hypothetical ("if X were to fail...")
+to-go {lo-X  de  ti-de} result  ti-de     → past counterfactual ("if X had failed...")
 ```
 
 **Attributed counterfactual:** when epistemic attribution matters (an arbiter ruling,
 an on-the-record personal assessment), Path A wraps Path C:
 
 ```
-la-X  to  [to-go [NON-ACTUAL-PREMISE]  NON-ACTUAL-RESULT]
+la-X  to  {to-go {NON-ACTUAL-PREMISE}  NON-ACTUAL-RESULT}
 ```
-*X holds as their conceptual model: counterfactually, if [premise], [result].*
+*X holds as their conceptual model: counterfactually, if {premise}, {result}.*
 
 These two constructions have distinct illocutionary force:
-- `to-go [X]  Y` = bare counterfactual conditional (no thinker asserted)
-- `la-X  to  [to-go [X]  Y]` = attributed counterfactual (X owns the counterfactual claim)
+- `to-go {X}  Y` = bare counterfactual conditional (no thinker asserted)
+- `la-X  to  {to-go {X}  Y}` = attributed counterfactual (X owns the counterfactual claim)
 
 Examples:
 ```
-to-go [lo-ra-ki-mu  de  ti-de]  lo-ki-pa-mu  pa-ki  ti-de
+to-go {lo-ra-ki-mu  de  ti-de}  lo-ki-pa-mu  pa-ki  ti-de
 ```
 *If the engine had failed, the ship would have drifted.* (S130)
 
 ```
-to-go [lo-to-re-su  to-fe-su-ki  ti-de]  lo-ne-fe  de  ti-de
+to-go {lo-to-re-su  to-fe-su-ki  ti-de}  lo-ne-fe  de  ti-de
 ```
 *If the doctrine had been published, the dispute would have been resolved.* (S131)
 
@@ -1035,11 +1035,11 @@ independence**: Y holds regardless of X — not because of it, and not despite a
 hypothetical (as in `to-go`), but as a real-world independence claim.
 
 ```
-no-go [CONCURRENT-EVENT]  INDEPENDENT-RESULT
+no-go {CONCURRENT-EVENT}  INDEPENDENT-RESULT
 ```
-*Despite [X], Y holds. / Y is not derived from X.*
+*Despite {X}, Y holds. / Y is not derived from X.*
 
-`no-go [X]  Y` asserts two things simultaneously:
+`no-go {X}  Y` asserts two things simultaneously:
 1. X is a real event or state (unlike `to-go`, not hypothetical).
 2. Y's truth does not originate in X. X and Y coexist, but causally independently.
 
@@ -1047,56 +1047,56 @@ no-go [CONCURRENT-EVENT]  INDEPENDENT-RESULT
 
 | Frame | Form | Relationship |
 |-------|------|-------------|
-| Factual causal | `go [X]  Y` | X causes / grounds Y |
-| Counterfactual | `to-go [X]  Y` | non-actual X would cause Y |
-| Concessive | `no-go [X]  Y` | Y holds independent of / despite X |
+| Factual causal | `go {X}  Y` | X causes / grounds Y |
+| Counterfactual | `to-go {X}  Y` | non-actual X would cause Y |
+| Concessive | `no-go {X}  Y` | Y holds independent of / despite X |
 
 All three mark the same clause boundary structure: the bracketed clause is the dependent
 clause; the matrix clause follows. The head is `go`; the prefix specifies the
 causal-ontological relation.
 
-**Contrast with `go`:** `go [la-mu  de-be]  lo-mu  ru` would mean the repair *caused*
-the unity — the repair made the device one. `no-go [la-mu  de-be]  lo-mu  ru` means the
+**Contrast with `go`:** `go {la-mu  de-be}  lo-mu  ru` would mean the repair *caused*
+the unity — the repair made the device one. `no-go {la-mu  de-be}  lo-mu  ru` means the
 unity holds independent of the repair: the device was already and still is one.
 
 Examples:
 ```
-no-go [la-mu  de-be]  lo-mu  ru
+no-go {la-mu  de-be}  lo-mu  ru
 ```
 *Despite the device being repaired, the device remains one.* (S180)
 
 ```
-no-go [la-mu  pe  ki]  lo-mu  ru
+no-go {la-mu  pe  ki}  lo-mu  ru
 ```
 *Despite the device's parts changing, the device remains one.* (S181, Ship of Theseus)
 
 ---
 
-## Model-Domain Frame (`to  lo-[model]  be`)
+## Model-Domain Frame (`to  lo-{model}  be`)
 
 A **discourse-scope frame** that opens and closes a stretch of sentences as operating in
 the model layer (non-actual, analytical, hypothetical), removing the need to mark each
-sentence individually with `to-go`. Where `to-go [X]  Y` is a clause-level counterfactual
+sentence individually with `to-go`. Where `to-go {X}  Y` is a clause-level counterfactual
 frame for a single causal assertion, the model-domain frame opens a discourse scope over
 multiple sentences.
 
 **Scope-open:**
 ```
-to  lo-[model-reference]  be
+to  lo-{model-reference}  be
 ```
-*The conceptual model [of X] activates. All following sentences operate in model space
+*The conceptual model {of X} activates. All following sentences operate in model space
 until the scope is closed.*
 
 - `to` = conceptual model root (predicate)
-- `lo-[model-reference]` = patient: the model being activated (e.g., `lo-go-su` = the causal
+- `lo-{model-reference}` = patient: the model being activated (e.g., `lo-go-su` = the causal
   analysis; `lo-to-go-su` = the counterfactual analysis; any model-reference NP)
 - `be` = generation/activation: the model activates
-- No `la-` required — scope opens impersonally, parallel to `to-go [X]  Y`
+- No `la-` required — scope opens impersonally, parallel to `to-go {X}  Y`
 
 **Attributed scope-open:** when the scope belongs to a specific assertor (investigation
 body, doctrine, theory):
 ```
-la-X  to  lo-[model-reference]  be
+la-X  to  lo-{model-reference}  be
 ```
 *X activates the model scope. All following sentences are attributable to X's model.*
 
@@ -1104,23 +1104,23 @@ la-X  to  lo-[model-reference]  be
 model layer. They are stated as in-model facts — not individual counterfactuals. No
 `to-go` prefix required per sentence.
 
-- Causal links inside scope use `go [X]  Y` (model-causal assertion within the frame),
-  not `to-go [X]  Y` (the outer scope already marks non-actuality).
+- Causal links inside scope use `go {X}  Y` (model-causal assertion within the frame),
+  not `to-go {X}  Y` (the outer scope already marks non-actuality).
 - Temporal markers (`ti-de`, etc.) inside scope mark time within the model scenario,
-  exactly as in individual `to-go [X]  Y` sentences.
+  exactly as in individual `to-go {X}  Y` sentences.
 
 **Scope-close:**
 ```
-to  lo-[model-reference]  de           ← explicit close
+to  lo-{model-reference}  de           ← explicit close
 ```
 or any actuality-asserted sentence (world-layer assertion implicitly terminates scope).
 
 - `de` = decay/close: the model deactivates. Symmetric with `be` (open).
-- Attributed close: `la-X  to  lo-[model-reference]  de` — X closes the scope they opened.
+- Attributed close: `la-X  to  lo-{model-reference}  de` — X closes the scope they opened.
 - **Formal register** expects a symmetric explicit close (same attributor opens and closes).
 - **Casual register** may rely on implicit close via actuality-return sentence.
 
-**Actuality-return sentence:** any sentence using `la-[agent]  ka  [action]` (agentive
+**Actuality-return sentence:** any sentence using `la-{agent}  ka  {action}` (agentive
 world-layer assertion) or similar world-layer construction with no model-frame marker
 terminates model scope implicitly and reasserts the world layer.
 
@@ -1128,13 +1128,13 @@ terminates model scope implicitly and reasserts the world layer.
 
 | Form | Layer | Scope |
 |------|-------|-------|
-| `go [X]  Y` | world | single causal assertion |
-| `to-go [X]  Y` | model | single non-actual causal assertion |
-| `to  lo-[model]  be ... de` | model | multi-sentence non-actual scope |
-| `la-X  to  [to-go [X]  Y]` | epistemic | attributed single counterfactual |
-| `la-X  to  lo-[model]  be ... de` | epistemic | attributed multi-sentence scope |
+| `go {X}  Y` | world | single causal assertion |
+| `to-go {X}  Y` | model | single non-actual causal assertion |
+| `to  lo-{model}  be ... de` | model | multi-sentence non-actual scope |
+| `la-X  to  {to-go {X}  Y}` | epistemic | attributed single counterfactual |
+| `la-X  to  lo-{model}  be ... de` | epistemic | attributed multi-sentence scope |
 
-**Relationship to `to-go [X]  Y`:** for single-sentence counterfactuals, `to-go [X]  Y`
+**Relationship to `to-go {X}  Y`:** for single-sentence counterfactuals, `to-go {X}  Y`
 remains canonical — it is more compact and grammatically self-contained. The model-domain
 frame is warranted when three or more sentences belong to a single analytical scope and
 the per-sentence `to-go` prefix creates structural redundancy.
@@ -1150,8 +1150,8 @@ to  lo-go-su  be
 lo-si  no  be  ti-de.  la-li-pu  no  se  lo-si  ti-de.  la-li-pu  no  ka  fe-si  ti-de.
 to  lo-go-su  de.
 ```
-*[Model open] Signal had not arrived. Crew had not received it. Crew had not warned.
-[Model closed.]* (S159)
+*{Model open} Signal had not arrived. Crew had not received it. Crew had not warned.
+{Model closed.}* (S159)
 
 ```
 la-to-fe-su  to  lo-go-su  be
@@ -1165,10 +1165,10 @@ la-to-fe-su  to  lo-go-su  be
 Repetition/habituality in Tonesu is expressed by two distinct strategies that are not
 synonymous. Both are grammatically legal.
 
-### Strategy 1 — Time-adverbial (`ta-re-[cycle]`)
+### Strategy 1 — Time-adverbial (`ta-re-{cycle}`)
 
 ```
-la-[agent]  ta-re-[time-unit]  VERB
+la-{agent}  ta-re-{time-unit}  VERB
 ```
 
 The time slot (`ta`) contains a compound time noun built with `re` (repetition) as a
@@ -1183,7 +1183,7 @@ la-wi-re-su  ta-re-ti  ka-ne        (S166)
 ### Strategy 2 — Morphological aspect prefix (`re-VERB`)
 
 ```
-la-[agent]  re-[verb-compound]
+la-{agent}  re-{verb-compound}
 ```
 
 The prefix `re-` (repetition) attaches to the entire verb compound (before `ka-`). This
@@ -1208,7 +1208,7 @@ la-ze  re-ka-se                     (S167)
 
 ### Aspect with past/future markers
 
-`re-VERB  ta-[time]` — the aspect prefix and the time marker are independent:
+`re-VERB  ta-{time}` — the aspect prefix and the time marker are independent:
 
 ```
 lo-to-su-mu  re-ka-de-be  ti-de     (S168)
@@ -1229,14 +1229,14 @@ For clause boundary rules and register, see **Subordinate Clauses** above.
 ```
 ta-future
 ta-past
-ta [specific time reference]
+ta {specific time reference}
 ```
 
 **As a temporal clause introducer:**
 ```
-ta [TIME-CLAUSE]  MATRIX-CLAUSE
+ta {TIME-CLAUSE}  MATRIX-CLAUSE
 ```
-*At the time that [time clause], the matrix clause holds.*
+*At the time that {time clause}, the matrix clause holds.*
 
 `ta` expresses temporal coincidence or sequence. It carries no causal implication. For events where the temporal relationship also implies causation, prefer `go` framing.
 
@@ -1265,15 +1265,15 @@ The `ti` (time) root combines with directional primitives to produce a family of
 
 ### Temporal Blocking Constraint
 
-`ta-[time]` temporal frames are compatible only with predicates that describe temporally
+`ta-{time}` temporal frames are compatible only with predicates that describe temporally
 variable states or events. The type of predication slot determines whether a temporal
 frame is licit:
 
 | Predication type | Form | Temporal frame | Verdict |
 |-----------------|------|---------------|--------|
-| Intrinsic attribution | `la-X  Q` | `ta-[time]` | **Blocked** — Q is atemporal by definition |
-| Patientive state | `lo-X  Q` | `ta-[time]` | **Licensed** — Q is a variable state |
-| Telic event | `la-X  [verb]  lo-Y` | `ta-[time]` | **Licensed** — events are time-located |
+| Intrinsic attribution | `la-X  Q` | `ta-{time}` | **Blocked** — Q is atemporal by definition |
+| Patientive state | `lo-X  Q` | `ta-{time}` | **Licensed** — Q is a variable state |
+| Telic event | `la-X  {verb}  lo-Y` | `ta-{time}` | **Licensed** — events are time-located |
 
 `la-X  Q` (Type 2 attributive) encodes Q as a constitutive property of X. Constitutive
 properties are definitionally atemporal — they cannot vary across time without changing
@@ -1285,7 +1285,7 @@ creates a semantic type mismatch: the frame implies variability that the claim d
   lo-zo-su  be-vo  ta-ti-mi     → well-formed: this plant is actively growing right now
 ```
 
-**Decision rule:** Apply `ta-[time]` only when the predicate describes a state that can
+**Decision rule:** Apply `ta-{time}` only when the predicate describes a state that can
 enter, exit, or vary across time. If a temporal frame seems needed but the entity is in
 a `la-X Q` frame, reconsider whether `lo-X Q` (contingent state) is the correct slot, or
 drop the temporal frame if the claim is genuinely atemporal.
@@ -1301,15 +1301,15 @@ blocked form `*la-zo-su  be-vo  ta-ti-mi` is attested as anomalous at S344 (GRM-
 A `lo-`-marked event nominal may follow a time compound to set the temporal reference point relative to that event — the **event-anchor** construction:
 
 ```
-ta  ti-[dir]  lo-[event]   MATRIX-CLAUSE
+ta  ti-{dir}  lo-{event}   MATRIX-CLAUSE
 ```
 
-The direction compound (`ti-de` or `ti-be`) specifies the relative position; the `lo-[event]` phrase names the anchor event.
+The direction compound (`ti-de` or `ti-be`) specifies the relative position; the `lo-{event}` phrase names the anchor event.
 
 | Form | Meaning | Corpus |
 |------|---------|--------|
-| `ta-ti-de  lo-[event]` | before [event] | S092 (`ta-ti-de  lo-ka-wi-de` — before the mission departure) |
-| `ta-ti-be  lo-[event]` | after [event] | S192 (`ta-ti-be  lo-se-ka` — after the inspection) |
+| `ta-ti-de  lo-{event}` | before {event} | S092 (`ta-ti-de  lo-ka-wi-de` — before the mission departure) |
+| `ta-ti-be  lo-{event}` | after {event} | S192 (`ta-ti-be  lo-se-ka` — after the inspection) |
 
 The construction is compositionally transparent: `ti-de` = time-that-has-decayed = prior time; `ti-be` = time-that-is-growing = following time. The `lo-` particle marks the anchor event in its standard patient role. Any event nominal can serve as the anchor.
 
@@ -1320,7 +1320,7 @@ The construction is compositionally transparent: `ti-de` = time-that-has-decayed
 The root `wi` (will/intention) doubles as a purpose-frame particle, introducing a subordinate clause whose content is the intended outcome of the main clause event. This is a transparent overlap: the purpose-frame function is semantically derived from the will/intention root.
 
 ```
-MAIN-CLAUSE  wi [PURPOSE-CLAUSE]
+MAIN-CLAUSE  wi {PURPOSE-CLAUSE}
 ```
 
 The event in the main clause is performed with the intention that the purpose clause occur.
@@ -1330,8 +1330,8 @@ The event in the main clause is performed with the intention that the purpose cl
 ### Same-agent purpose (agent omitted in purpose clause)
 
 ```
-la-ze  ka-study  wi [ka-understand]
-agent:they  action:study  intention [action:understand]
+la-ze  ka-study  wi {ka-understand}
+agent:they  action:study  intention {action:understand}
 ```
 *They study in order to understand.*
 
@@ -1340,8 +1340,8 @@ Reduced form: purpose-clause agent is omitted because it is identical to the mai
 ### Different-agent purpose (agent explicit in purpose clause)
 
 ```
-la-mi  ka-be  lo-mu  wi [la-tu  ka-use  lo-mu]
-agent:I  action:create  patient:artifact  intention [agent:you  action:use  patient:artifact]
+la-mi  ka-be  lo-mu  wi {la-tu  ka-use  lo-mu}
+agent:I  action:create  patient:artifact  intention {agent:you  action:use  patient:artifact}
 ```
 *I built the machine for you to use.*
 
@@ -1352,7 +1352,7 @@ Different agents require full clause marking. Same-agent reduction **does not ap
 When a `wi` purpose clause omits its agent marker, the matrix clause agent is inherited. This is the unambiguous default interpretation — agent omission is never ambiguous in a `wi` clause.
 
 > **If the agent is absent, the matrix agent is performing the purpose-clause action.**
-> **Any other agent must be explicitly marked with `la-[agent]`.**
+> **Any other agent must be explicitly marked with `la-{agent}`.**
 
 This rule is confirmed by two corpus examples:
 - S016: matrix agent `mi` (I), purpose clause has no agent → `mi` does the operating
@@ -1360,7 +1360,7 @@ This rule is confirmed by two corpus examples:
 
 The rule likely generalizes to `go` and `ta` subordinate clauses, but is only confirmed for `wi` at this stage.
 
-**Distinction from `go`:** `wi` introduces purpose — an intended outcome that has not yet occurred. `go` introduces cause — an origin that already holds or is posited. `wi [understand]` = "in order to understand"; `go [understood]` = "because (they) understood."
+**Distinction from `go`:** `wi` introduces purpose — an intended outcome that has not yet occurred. `go` introduces cause — an origin that already holds or is posited. `wi {understand}` = "in order to understand"; `go {understood}` = "because (they) understood."
 
 For clause boundary rules, register, and nested subordination policy, see **Subordinate Clauses** above.
 
@@ -1428,17 +1428,17 @@ In face-to-face exchange, the current speaker may omit `la-mi` when:
 
 ```
 ru — se  lo-zo-ne          (S341 B1)
-[la-mi dropped]  perceived  patient:fungal-network
-→  [I] see it.
+{la-mi dropped}  perceived  patient:fungal-network
+→  {I} see it.
 
 ki  lo-pa-mi               (S341 B2)
-[la-mi dropped]  moved  patient:here
-→  [I'll] come take a look.
+{la-mi dropped}  moved  patient:here
+→  {I'll} come take a look.
 ```
 
 Speaker drop is disallowed when the predicate could be attributed to a third party without contradiction. In that case, `la-mi` is retained.
 
-**Prior attestation:** C001 Turn B3 (`ka-ki-now` = "[I'm] going now") — same pattern. First formalized here as Pattern 2.
+**Prior attestation:** C001 Turn B3 (`ka-ki-now` = "{I'm} going now") — same pattern. First formalized here as Pattern 2.
 
 ### Pattern 3 — Argument drop by context
 
@@ -1483,11 +1483,11 @@ Both are compositionally transparent: `nu` carries the measurable dimension; `no
 ### Structure
 
 ```
-lo-A  [quality]  nu-no  [baseline]   →  A has less [quality] than baseline
-lo-A  [quality]  nu-be  [baseline]   →  A has more [quality] than baseline
+lo-A  {quality}  nu-no  {baseline}   →  A has less {quality} than baseline
+lo-A  {quality}  nu-be  {baseline}   →  A has more {quality} than baseline
 ```
 
-The baseline is typically `lo-B` (another entity). For comparison against a past or future state, substitute a temporal reference (`ta-ti-[time]`), giving a self-comparison across time.
+The baseline is typically `lo-B` (another entity). For comparison against a past or future state, substitute a temporal reference (`ta-ti-{time}`), giving a self-comparison across time.
 
 ### Examples
 
@@ -1526,7 +1526,7 @@ Digits occupy the **CVC descriptor tier** — they cannot be confused with CV-pr
 ### Cardinals
 
 ```
-[digit]  nu  [noun]
+{digit}  nu  {noun}
 ```
 
 Single digit:
@@ -1538,7 +1538,7 @@ hin nu li          → 5 people
 Positional chain — most-significant digit first:
 ```
 bun gal  nu  zo    → 23 organisms
-bol nil  nu  ti    → 10 [time-units]
+bol nil  nu  ti    → 10 {time-units}
 ```
 
 All CVC digits before `nu` are read as a single positional numeral. There is no structural ambiguity: CVC forms are tier-marked and cannot parse as CV roots or compound-initial elements.
@@ -1546,7 +1546,7 @@ All CVC digits before `nu` are read as a single positional numeral. There is no 
 ### Ordinals
 
 ```
-[digit]  ti
+{digit}  ti
 ```
 
 `ti` (time/sequence primitive) in compound-suffix position on a digit gives ordinal position.
@@ -1560,21 +1560,21 @@ gal ti             → third
 Ordinals modify nouns directly or occur as bare predicate complements:
 ```
 la-mi  ka  bun ti                 → I acted for the second time. (S246)
-la-[zo-ne  go  bun ti]  ki  lo-mi → My grandparent came to me. (S240)
+la-{zo-ne  go  bun ti}  ki  lo-mi → My grandparent came to me. (S240)
 ```
 
-Generation distance uses `[zo-ne go [digit] ti]` — the ancestor-relation at the nth origin-step. This resolves the S097 gap directly (grandparent = `zo-ne go bun ti`).
+Generation distance uses `{zo-ne go {digit} ti}` — the ancestor-relation at the nth origin-step. This resolves the S097 gap directly (grandparent = `zo-ne go bun ti`).
 
 ### Measurement
 
 ```
-[digit]  [scale]  nu  [domain]
+{digit}  {scale}  nu  {domain}
 ```
 
 Base (no scale):
 ```
-gal  nu  pa        → 3 [units of] space  (≈ 3 meters)
-bun gal  nu  ti    → 23 [units of] time  (≈ 23 seconds)
+gal  nu  pa        → 3 {units of} space  (≈ 3 meters)
+bun gal  nu  ti    → 23 {units of} time  (≈ 23 seconds)
 ```
 
 With scale prefix:
@@ -1583,15 +1583,15 @@ hin  pir  nu  pa   → 5 kilo-space  (= 5 kilometers)  (S243)
 gal  pir  nu  ma   → 3 kilo-matter (≈ 3 kilograms)
 ```
 
-Domain (`nu [root]`) is the base unit. Scale prefix multiplies. Digit precedes. The three modifiers are independent and freely combinable; order is fixed: **digit → scale → nu → domain**.
+Domain (`nu {root}`) is the base unit. Scale prefix multiplies. Digit precedes. The three modifiers are independent and freely combinable; order is fixed: **digit → scale → nu → domain**.
 
 Base SI domains: `nu pa` (space/meter), `nu ti` (time/second), `nu ma` (matter/kilogram), `nu ha` (heat/kelvin), `nu ra` (force), `nu lu` (light), `nu so` (sound), `nu si` (signal/bit). See `notes/anchor-inventory.md §Base units as compounds`.
 
 ### Fractions
 
 ```
-ru-pu  [digit]            → 1/n   (one-of-n)
-[digit]  ru-pu  [digit]   → m/n   (m-of-n)
+ru-pu  {digit}            → 1/n   (one-of-n)
+{digit}  ru-pu  {digit}   → m/n   (m-of-n)
 ```
 
 `ru` (unity/one) + `pu` (plurality/many) = "one of many" = the fractional unit constructor. The divisor follows `ru-pu`; an optional numerator precedes.
@@ -1619,8 +1619,8 @@ Time units are compounds on `re` (repetition/cycle) and `ti` (time):
 | day | `re-ti-be` | extended recurring time |
 | year | `hulm` | CVCC anchor (conventional) |
 
-Time of day: `ta-ti  [digit] nu re-ti` = at [n] o'clock (S249)
-Ordinal day: `[digit] ti  re-ti-be` = [n]th day (S250)
+Time of day: `ta-ti  {digit} nu re-ti` = at {n} o'clock (S249)
+Ordinal day: `{digit} ti  re-ti-be` = {n}th day (S250)
 
 `ta-ti` introduces the temporal frame (see § Temporal Frame).
 
@@ -1645,7 +1645,7 @@ The root `ko` (containment/interior) functions as either a **state predicate** o
 
 ### `ko` as state predicate
 
-`la-[container]  ko  lo-[contents]` = X holds / contains Y (no action; current relational state)
+`la-{container}  ko  lo-{contents}` = X holds / contains Y (no action; current relational state)
 
 The container occupies the `la`-agent slot; the contents occupy the `lo`-patient slot. `ko` alone asserts a holding relationship, not an act of placing. Any entity that structurally contains another — physical vessel, institutional archive, material medium — is grammatically a `la`-agent of a `ko`-predicate.
 
@@ -1657,7 +1657,7 @@ la-si-su     ko  lo-si-mu     (S070) →  The archive holds records.
 
 ### `ka-ko` as intentional action
 
-`la-[agent]  lo-[item]  [ne-destination]  ka-ko` = X intentionally stores / places Y [into Z]
+`la-{agent}  lo-{item}  {ne-destination}  ka-ko` = X intentionally stores / places Y {into Z}
 
 The `ka` action marker combines with `ko` to produce agentive containment. An agent must be present. The destination container is optionally marked with the `ne` recipient particle.
 
@@ -1671,8 +1671,8 @@ la-ze  lo-ka-mu  ne-ko-mu  ka-ko    (S071) →  He placed the tool into the cont
 | Form | Claim | Agent required |
 |------|-------|----------------|
 | `la-X  ko  lo-Y` | X is in the state of containing Y (nominal) | no — any container entity |
-| `la-X  ko  [clause]` | X holds / records the proposition that [clause] | no — any epistemic container |
-| `la-X  [lo-Y]  ka-ko` | X intentionally stores Y | yes — agentive |
+| `la-X  ko  {clause}` | X holds / records the proposition that {clause} | no — any epistemic container |
+| `la-X  {lo-Y}  ka-ko` | X intentionally stores Y | yes — agentive |
 
 `ko` alone is never agentive. Intentional placement always uses `ka-ko`.
 
@@ -1681,8 +1681,8 @@ la-ze  lo-ka-mu  ne-ko-mu  ka-ko    (S071) →  He placed the tool into the cont
 `ko` accepts an embedded clause as its patient when the container is an epistemic structure — an archive, a doctrine, a treaty, a memory system. The container type determines the semantic register; the grammar is unchanged:
 
 ```
-la-to-re-su  ko  [lo-mu  zo-to]     (C005 A2) →  The doctrine holds: the machine has soul-pattern.
-la-si-su     ko  [la-ra-ki-li  se  lo-pa-ra]  (S191) →  The archive holds: the pilot perceived the field.
+la-to-re-su  ko  {lo-mu  zo-to}     (C005 A2) →  The doctrine holds: the machine has soul-pattern.
+la-si-su     ko  {la-ra-ki-li  se  lo-pa-ra}  (S191) →  The archive holds: the pilot perceived the field.
 ```
 
 **Decision rule:** When the container is a physical vessel, `lo-Y` names a physical patient. When the container is an institutional or epistemic structure, `lo-Y` may be replaced by an embedded clause naming the propositional content. The same `la-X  ko  Y` structure handles both — no new parser rule is required.
@@ -1697,4 +1697,4 @@ la-si-su     ko  [la-ra-ki-li  se  lo-pa-ra]  (S191) →  The archive holds: the
 - [ ] Specify behavior when agent and patient are both omitted (topic-drop)
 - [x] ~~Confirm particle set doesn't collide with planned root phonology~~ — resolved; `ra`→`ro` (instrument particle), `se`→`ze` (3rd-person pronoun), `wi`→`yu` (group pronoun) removed all collisions; Particle–Root Overlap Policy formalized in § Particle–Root Overlap Policy.
 - [ ] Define passive / agentless clause structure (no agent present)
-- [x] ~~Causal framing (go/du pair) needs a grammar rule~~ — resolved; see § Causal Frame. `go [cause-clause]  matrix-clause` is pre-clausal; SOV governs the matrix. Extended by `du`, `to-go`, `no-go` in the same frame family.
+- [x] ~~Causal framing (go/du pair) needs a grammar rule~~ — resolved; see § Causal Frame. `go {CAUSE-CLAUSE}  matrix-clause` is pre-clausal; SOV governs the matrix. Extended by `du`, `to-go`, `no-go` in the same frame family.
