@@ -68,6 +68,7 @@ For contracted everyday forms, see lexicon/colloquial.md.
 | G010 | `ven` | approximation marker (spoken) | spoken realization of `~`; canonical written form is `~`; `ven` is used in speech and phonetic transcription only; pre-positional hedge: "approximately / roughly / something like" |
 | G011 | `helm` | topic/definition marker (spoken) | spoken realization of `:` (topic frame / explanatory definition mark); canonical written form is `:`; CVCC; `helm` is used in speech and phonetic transcription only |
 | G012 | `helms` | canonical definition marker (spoken) | spoken realization of `::` (structural/canonical definition mark); canonical written form is `::`; CVCCS — produced by the notation-doubling rule (`helm` + `s`); forms the minimal pair `helm` / `helms` with G011. See spec/phonology.md § Phonological Tier Stratification for the CVCCS admission rule. |
+| G013 | `vel` | parallel partition marker (spoken) | spoken realization of `/` (parallel partition mark); canonical written form is `/`; CVC; marks the structural midpoint of a formally paired bi-clausal construction. `vel` is a valid written substitute for `/` wherever the symbol is unavailable or a word-form is preferred. |
 
 *Note: `la` (perspective anchor particle) is phonetically distinct from `li` (person/agent root) — resolved. `ro` (instrument particle) has no root assignment — resolved by rename from `ra`. Remaining particles that overlap with roots (`pa`, `ka`, `ne`) are lower priority and still under review.*
 

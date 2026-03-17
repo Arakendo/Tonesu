@@ -1072,6 +1072,45 @@ no-go {la-mu  pe  ki}  lo-mu  ru
 
 ---
 
+## Bi-Clausal Parallel Construction (`/`)
+
+The notation mark `/` is the **parallel partition**: it appears at the structural midpoint of a sentence consisting of two formally paired clauses.
+
+```
+{CLAUSE-A}  /  {CLAUSE-B}
+```
+
+*CLAUSE-A and CLAUSE-B are structurally paired — two sides of a contrast, complement, antithesis, or premise/result split.*
+
+The mark signals form, not relationship type. The content of the two clauses determines whether the pairing is antithetical, complementary, causal, or otherwise. `/` asserts that both clauses belong together as a single structural unit and are intended to be read in parallel.
+
+**What it is not:**
+- Not a causal frame (`go`) — no direction of causation is implied
+- Not a concessive frame (`no-go`) — no independence claim is implied
+- Not a `,` boundary — `,` separates frame from matrix; `/` partitions two co-equal clauses
+
+**Core uses:**
+
+| Use | Example | Reading |
+|-----|---------|--------|
+| Antithetical parallel | `ti  helm  vo-fe / ti  helm  no-vo'fe` | the best time / the worst time |
+| Will/act gap | `la-mi  wi-vo / no  la-mi  ka-ze` | I intend the good / I do not do it |
+| Premise/result | `go {no  la-no-ko-ra  ka-ki  lo-ze} / la-ze  re  su-ki-pa-ze` | if no force acts / it continues in state |
+| Hope/despair pair | `ti  helm  be-vo / ti  helm  de-vo` | the time of hope / the time of despair |
+
+**Interaction with `go`:** when `/` appears inside a `go`-frame sentence, it partitions the premise and result clauses. This overlaps functionally with the `du` result-frame introducer. The two strategies are equivalent and interchangeable for compact biclausal structures; `du` is preferred in formal or legal register where the result-marking should be explicit.
+
+**Spoken form `vel` (G013):** in speech, insert `vel` at the `/` position. It takes the same prosodic slot as `,` but with a slightly more marked intonation contour that signals co-equal pairing rather than subordination.
+
+```
+la-mi wi-vo  vel  no la-mi ka-ze
+ti helm vo-fe  vel  ti helm no-vo'fe
+```
+
+**Scope:** any two-clause unit where the clauses are structurally intended as a pair. Multi-clause sentences that group as (A / B) and (C / D) may use two `/` marks with grouping left-to-right by default. For a three-clause parallel (rare), `/` appears twice: `A / B / C`.
+
+---
+
 ## Model-Domain Frame (`to  lo-{model}  be`)
 
 A **discourse-scope frame** that opens and closes a stretch of sentences as operating in
@@ -1698,3 +1737,4 @@ la-si-su     ko  {la-ra-ki-li  se  lo-pa-ra}  (S191) →  The archive holds: the
 - [x] ~~Confirm particle set doesn't collide with planned root phonology~~ — resolved; `ra`→`ro` (instrument particle), `se`→`ze` (3rd-person pronoun), `wi`→`yu` (group pronoun) removed all collisions; Particle–Root Overlap Policy formalized in § Particle–Root Overlap Policy.
 - [ ] Define passive / agentless clause structure (no agent present)
 - [x] ~~Causal framing (go/du pair) needs a grammar rule~~ — resolved; see § Causal Frame. `go {CAUSE-CLAUSE}  matrix-clause` is pre-clausal; SOV governs the matrix. Extended by `du`, `to-go`, `no-go` in the same frame family.
+- [x] ~~Parallel partition mark (`/`) — not in spec.~~ — Resolved; `/` admitted as the 9th notation mark, spoken form `vel` (G013); see § Bi-Clausal Parallel Construction and spec/phonology.md §/.

@@ -154,6 +154,7 @@ Eight marks supplement `'`. Unlike `'`, these operate **outside** compound bound
 | `[]` | aside / commentary frame | non-semantic editorial or analytic annotation — does not alter truth conditions of surrounding text; removable without semantic change |
 | `:` | topic frame / definition mark | sentence-initial: "as for {topic}, ..." (topic frame); metalanguage: explanatory gloss (`term : reading`) |
 | `::` | canonical definition mark | structural decomposition (`term :: roots`); appears in written and verbal discourse; spoken form `helms` (G012) |
+| `/` | parallel partition | structural midpoint of a bi-clausal parallel or antithetical construction; marks two clauses as formally paired; spoken form `vel` (G013) |
 
 ---
 
@@ -353,6 +354,28 @@ lo-ne-ra : la-mi  no-se  lo-ze        →  As for the resonance — I have no pe
 **Disambiguation — spec notation vs. written Tonesu.** Going forward, spec examples, grammar glosses, and registry entries use `{...}` for *analytic notation*: slot placeholders (`la-{agent}`), subordinate clause scope (`go {premise}  result`), and structural groupings. `{...}` never appears in running Tonesu text. In a Tonesu passage, `[...]` is always an aside/commentary frame. Legacy spec text written before this convention was adopted uses `[...]` for analytic purposes; those occurrences are grandfathered and do not require retroactive correction.
 
 **Cross-reference:** grammar rules for the aside frame: see spec/grammar.md § Aside / Commentary Frame.
+
+---
+
+### `/` — Parallel Partition
+
+A **structural midpoint marker** for bi-clausal parallel or antithetical constructions. When a sentence consists of two formally paired clauses — two sides of a contrast, two halves of a complementary structure, or two rhetorically equivalent units — `/` appears between them to make that pairing explicit.
+
+```
+la-mi wi-vo / no la-mi ka-ze         →  I intend the good / I do not do it.
+ti helm vo-fe / ti helm no-vo'fe     →  The best time / the worst time.
+go {X} / Y                           →  Because X / Y (premise / result)
+```
+
+**What `/` signals:** the two clauses are not merely sequential — they are structurally paired. The mark is a claim about form: these clauses belong together as a unit, and the relationship between them (contrast, antithesis, complement, premise/result) is intended to be read in parallel. It does not specify the relationship type; the content supplies that.
+
+**Relation to `,`:** `,` marks a prosodic boundary between a frame clause and its matrix. `/` marks a structural pairing between two co-equal clauses. They are compatible and orthogonal: a `go {premise}` frame may use `,` at the frame boundary and `/` at the premise/result split when a complex clause benefits from both markers. In most cases `/` alone is sufficient for short biclausal structures.
+
+**Register:** normative in written Tonesu. Speech realizes the `/` boundary as a prosodic pause slightly more marked than `,` — the "partner clause" intonation, signalling co-equal pairing rather than frame/matrix subordination. No phoneme equivalent; the spoken form `vel` may be inserted at the `/` position in dictation or oral composition.
+
+**Spoken form: `vel`** — registered as G013 in `registry/roots.md`. In speech, `/` is realized as `vel`. The written form `/` is canonical in formal and technical Tonesu; `vel` appears in speech, phonetic transcription, dictation, and wherever the written symbol is unavailable or a spoken word form is preferred. **`vel` is a valid written substitute for `/`** in all contexts where using the symbol is impractical.
+
+**Corpus pressure:** formalized after S450–S461 (March 2026). Six translation stress tests (JOH-001 through WIT-001) produced formally paired bi-clausal structures that neither `,` nor `du` adequately encoded. S452–S453 (Romans 7:19) and S454–S458 (Dickens) are the clearest cases: the clauses are antithetical, not causal, and the pairing is part of the semantic content. Three distinct clause types requiring the mark — antithetical parallel, will/act gap, and premise/result split — were all attested in the same batch.
 
 ---
 
