@@ -2739,7 +2739,7 @@ lo-ra-su  de  ti-de
 
 **Written:** lorasu de tide
 
-**Notes:** No agent, no `ka`. Patient `lo-ra-su` + bare predicate `de` (change/transformation) + `ti-de` (past). This is a Type 1 patientive state applied as event: the structure was in the state of having-changed. The absence of `ka` is semantically significant — no intentional agent is encoded. The claim is neutral between accident, natural process, and undifferentiated change. Recovers the early agentless pattern (`lo-ze de`) from s001–s039 under current grammar. **ADMISSIBLE: canonical non-intentional agentless form.**
+**Notes:** No agent, no `ka`. Patient `lo-ra-su` + bare predicate `de` (decay/dissolution) + `ti-de` (past). This is a Type 1 patientive state applied as event: the structure entered a state of decay. The absence of `ka` is semantically significant — no intentional agent is encoded, and none is implied. Recovers the early agentless pattern (`lo-ze de`) from s001–s039 under current grammar. **ADMISSIBLE: canonical non-intentional process form.** Note: `de` here is not a catch-all agentless event verb — it specifically encodes decay/dissolution. The non-intentional process pattern is `lo-{patient} [non-ka predicate] ti-de`; the lexical predicate supplies its own semantics (`de` = decay, `ki` = movement, `be` = growth, etc.).
 
 ---
 
@@ -2877,7 +2877,7 @@ For propositional content add containment: `la-to-si  ko  {X}` = "the teaching c
 
 ### PAV-001 Findings
 
-**Finding 1: The passive divide is `ka` presence / absence.** The `ka` particle marks intentional agency. When `la-` is absent but `ka` is present in the predicate, Tonesu encodes the intentional passive: an agent acted, but is unspecified. When `ka` is absent and `lo-X Q ti-de` is a bare patientive state, the reading is non-intentional process. This divide maps cleanly onto English "X collapsed" (no `ka`) vs "X was demolished" (`ka`, no `la-`).
+**Finding 1: The passive divide is `ka` presence / absence.** The `ka` particle marks intentional agency. When `la-` is absent but `ka` is present in the predicate, Tonesu encodes the intentional passive: an agent acted, but is unspecified. When `ka` is absent and `lo-X  Q  ti-de` is a bare patientive state with any non-`ka` predicate, the reading is non-intentional process. This divide maps cleanly onto English "X collapsed" (no `ka`) vs "X was demolished" (`ka`, no `la-`). **Caution on `de`:** the non-intentional process pattern admits any lexically appropriate predicate (`de` = decay, `ki` = movement, `be` = growth, etc.). `de` is not a generic agentless event verb — it specifically encodes decay/dissolution. Do not generalize `de` into all non-volitional intransitive events; use the semantically correct predicate for each event type.
 
 **Finding 2: `ka` does not syntactically require a co-present `la-`.** Confirmed at S561, S562, S568. `ka` is semantically sufficient without an explicit agent. The intentional passive `lo-{patient}  ka-{predicate}  ti-de` is grammatical and unambiguous. This closes the grammar TODO.
 

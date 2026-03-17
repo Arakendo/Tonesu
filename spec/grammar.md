@@ -1780,12 +1780,14 @@ Tonesu expresses passivity through the existing argument-slot system. There is n
 
 **Pattern:** `lo-{entity}  {Q}  ti-de`
 
-The entity is in the patient slot (`lo-`); the predicate `Q` carries no `ka`. No agent is present or implied. The event is a spontaneous change, natural process, or undifferentiated state shift.
+The entity is in the patient slot (`lo-`); the predicate `Q` carries no `ka`. No agent is present or implied. The lexical predicate supplies its own semantics — the pattern does not restrict which predicate appears here.
 
 ```
-lo-ra-su  de  ti-de    →  The structure collapsed / changed.   (S560)
-lo-zo-ne  de  ti-de    →  The fungal network spread.
+lo-ra-su  de  ti-de       →  The structure deteriorated / collapsed.   (S560)
+lo-ra-ki-mu  de  ti-de    →  The engine broke down.
 ```
+
+**Caution on `de`:** `de` (decay/dissolution) is not a generic agentless event verb — it encodes specifically decay, deterioration, or dissolution. The non-intentional process pattern admits any non-`ka` predicate: `de` (decay), `ki` (movement/change-of-position), `be` (growth), etc. Use whichever predicate correctly names the event; do not generalize `de` into all non-volitional intransitive events.
 
 ### Form 2 — Intentional passive
 
@@ -1811,7 +1813,17 @@ The instrument is named with `ro-`; the agent is absent. `ro-` is a satellite ar
 ro-ra-ki-mu  lo-ra-su  ka-be  ti-de    →  The structure was built using the engine.   (S562)
 ```
 
-### Form 4 — Emergence
+### Form 4 — Topic-frame passive
+
+**Pattern:** `{patient-NP} : ka-{Q}  ti-de`
+
+The patient is extracted to topic position via the `:` frame. The `lo-` is not used on the topicalized NP; the `:` frame hosts it outside clause-internal argument structure. The patient slot inside the comment predicate is then dropped under Pattern 3 ellipsis (fully recoverable from topic).
+
+```
+ra-su : ka-be  ti-de    →  As for the structure: [it was] built.   (S563)
+```
+
+### Form 5 — Emergence
 
 **Pattern:** `lo-{entity}  be`
 
@@ -1824,22 +1836,18 @@ lo-si  be    →  A signal arises.
 
 Contrast S566 (emergence: `lo-pa  be`) with the divine active `la-Elohim  ka-be  lo-pa` (S567, intentional creation) — the sole variable is agent presence.
 
-### Four-way typology summary
+### Typology summary
 
 | Form | Pattern | Agent encoded | Intentionality | Example |
 |------|---------|--------------|----------------|---------|
 | Active | `la-A  ka-Q  lo-P` | yes | yes | God creates the world |
 | Intentional passive | `lo-P  ka-Q  ti-de` | no (implied) | yes | the structure was built |
-| Non-intentional process | `lo-P  Q  ti-de` | no | no | the structure collapsed |
+| Non-intentional process | `lo-P  Q  ti-de` | no | no | the structure deteriorated |
+| Instrument-present passive | `ro-T  lo-P  ka-Q  ti-de` | no (tool named) | yes | built using the engine |
+| Topic-frame passive | `P : ka-Q  ti-de` | no (topic) | yes | as for the structure: built |
 | Emergence | `lo-P  be` | no | no | the world comes into being (untensed) |
 
-### Topic-frame passive
-
-The patient may be extracted to topic position using the `:` frame. The `lo-` is not used on the topicalized NP; the `:` frame hosts it outside clause-internal argument structure. The patient slot of the comment predicate is then dropped under Pattern 3 ellipsis (fully recoverable from topic).
-
-```
-ra-su : ka-be  ti-de    →  As for the structure: [it was] built.   (S563)
-```
+(`ti-de` = past-tense marker; emergence form is untensed.)
 
 ### Institutional agent (active preferred)
 
