@@ -67,3 +67,4 @@ Corpus evidence by batch (for cross-reference):
 | MTH-001 | Matthew 16:25 — causal inversion; `ka-no-de` / `ka-de` preserve/sacrifice pair; `wi-mi` telic purpose | S459–S460 | s398-plus.md |
 | WIT-001 | Wittgenstein Tractatus §1 — `helms` ontological definition; `pu-du-to` facts vs `pu-ma` objects | S461 | s398-plus.md |
 | HAM-001 | Shakespeare Hamlet III.i — `pa / no-pa` bare-predicate topicalization; `/` inside topic NP; agent scope gap; GAP-HAM-001/002 | S462–S464 | s398-plus.md |
+| LPR-001 | Liar Paradox — `tonesu` vs `du-to` truth predicates; Block 1 (no sentence-indexical); Block 2 (`vund…vunds` Tarski hierarchy); paradox not formable | S465–S467 | s398-plus.md |
