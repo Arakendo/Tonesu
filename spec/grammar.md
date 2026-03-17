@@ -726,6 +726,109 @@ ya, ru-fe, la-Elohim ne vo               →  attend to this — only God has wo
 
 ---
 
+## Vocative Particle (`he`)
+
+`he` is a **direct-address speech act marker**. It precedes the name or NP being addressed and signals that the following NP is the *target* of an illocutionary call — the speaker is summoning or addressing that entity directly.
+
+```
+he na-Moses!        →  Moses! (a direct call)
+he na-Moses, ki di-pa-su        →  Moses, go up the mountain.
+```
+
+**Three-way structural distinction:**
+
+| Form | Reading | Type |
+|------|---------|------|
+| `na-Moses!` | the name uttered with force | exclamatory NP — not a speech act |
+| `he na-Moses!` | I am calling you directly | vocative speech act — illocutionary |
+| `la-na-Moses ka-si` | Moses spoke | predicate clause — Moses is grammatical agent |
+
+`he` is the only form that produces a standalone direct address as a complete speech act. `na-X!` with `!` adds force but does not change the NP type; `la-na-X` makes X a grammatical agent, not an addressee.
+
+**Syntactic position:** clause-initial, before the addressed NP. If a predicate clause follows, `,` separates the address frame from the clause: `he na-X, {clause}`. The `he` frame adds no arguments to the following clause; the addressee is not a grammatical participant in the following predicate.
+
+**Constraints:**
+- `he` cannot combine with role-markers: `la-he`, `lo-he` are inadmissible.
+- `he` is interpersonal — it is directed *at a person* (or named entity). It does not direct attention toward a proposition. Non-interchangeable with `ya` (G030).
+
+**Registry:** G029. Admitted CVP-001 (March 2026).
+
+**Corpus:** S524 (standalone call), S525 (call + imperative), S526 (EXO-001 burning bush retest), S527 (three-way structural diagnostic).
+
+---
+
+## Attention-Signal Particle (`ya`)
+
+`ya` is a **pre-propositional content-directing marker**. It appears before a clause and signals that the following claim or revelation warrants the interlocutor's focused attention. It makes no assertion about the speaker's emotional state.
+
+```
+ya, go-no-fe helms vo        →  attend: God is by definition love.
+ya, lo-ra-ki-mu de ti-de     →  attend: the engine has broken down.
+```
+
+**Syntax:** clause-initial, followed by `,`. `ya` scopes over the following clause as a pragmatic operator — it does not alter the internal structure of the clause. Removal of `ya,` leaves the grammatical proposition unchanged; the pragmatic direction is removed.
+
+**Critical distinction — `ya` vs `he`:**
+
+| Particle | Directed at | Effect |
+|----------|-------------|--------|
+| `he na-X` | a person (interpersonal) | summons / addresses the named entity |
+| `ya, {clause}` | a proposition (propositional) | directs attention toward the claim |
+
+`ya` does not assert the speaker's affect. `fa-be!` ("my affect rises") is an affective claim; `ya,` is a content-direction signal. Non-interchangeable.
+
+**Stacking:** `ya` is the outermost pragmatic layer in the clause-initial operator stack. It may wrap semantic scope markers:
+
+```
+ya, ru-fe, {clause}     →  attend — only/solely: {clause}       (ya wraps ru-fe)
+ya, ke, {clause}        →  attend — {pivot}: {clause}           (ya wraps ke)
+```
+
+Order rule: outermost operator first. `ya` always precedes the inner operator.
+
+**Registry:** G030. Admitted CVP-001 (March 2026).
+
+**Corpus:** S528 (before major claim), S529 (before observed event), S530 (`ya` vs `he` diagnostic).
+
+---
+
+## Pivot Particle (`ke`)
+
+`ke` is a **discourse pivot marker**. It appears clause-initially to signal that the speaker is moving forward with an affirmative position, implying without re-performing the denial of whatever the prior exchange asserted. The denial is contextually evident; `ke` advances past it.
+
+```
+ke, la-to-su  si  {…}       →  (setting the prior exchange aside) the canonical evidence shows…
+ke, la-ra-ki-mu  no  la-zo  pa  ti-de       →  the engine, not the biological signal, was the cause.
+```
+
+**The information-freshness rule.** `ke` is correct precisely when the denial has already been performed in the exchange and re-performing it would add no new information. This is the governing criterion — not round count, not register, not tone:
+
+| Form | Use case |
+|------|----------|
+| `no — {claim}` | denial is **fresh** — first performance, or new information attached to it; use `no —` |
+| `ke, {claim}` | denial is **stale** — already performed; re-performance adds nothing; use `ke` |
+
+Using `ke` when the denial is still fresh collapses a necessary argumentative step. Using `no —` when the denial is stale wastes discourse time and, in formal registers (clinical, legal, diplomatic), may be coded as bad-faith re-litigation rather than genuine counter-evidence.
+
+**`ke!` — heated form.** The exclamation mark is compatible with `ke`: `ke! {claim}` = pivot with heightened force. Attested in clinical (S576) and philosophical (S547) registers. The pragmatic effect is the same; `!` adds emotional charge, not a different discourse move.
+
+**Syntactic position:** clause-initial, followed by `,`. Same slot as `ya` (G030) and `ru-fe` (G031).
+
+**Stacking with `ya`:** `ya, ke, {clause}` is admitted. Pragmatic outer scope (`ya` = attend to this) wraps discourse pivot (`ke`), which wraps the advancing content.
+
+```
+ya, ke, la-to-su  si  {la-ra-ki-mu  ha-fe}
+```
+*Attend — setting the prior exchange aside — the canonical evidence supports the thermal hypothesis.*
+
+**Diplomatic register note.** In formal session records (treaty negotiations, legal proceedings), `no —` at a late round encodes a *lodged objection* — a fresh denial requiring a response from the record. `ke` at the same position encodes a *submitted counter-position* — a forward-moving stance that acknowledges the prior exchange without re-opening it. The two produce structurally different entries in the formal record, which has documentary consequences beyond mere efficiency.
+
+**Written form:** `ke,` followed by clause. Solid in Tonesu prose.
+
+**Registry:** G032. Admitted DIP-001 (March 2026). Three qualifying registers: heated philosophical debate (S545, DEB-001), formal clinical differential (S575, MED-001), diplomatic treaty negotiation (S585, DIP-001).
+
+---
+
 ## Aside / Commentary Frame (`[]`)
 
 The **aside frame** wraps editorial or analytic commentary that is **not part of the logical or truth-conditional structure** of the surrounding text. It operates in the *analysis layer* — separate from the argument layer (`()`, `:`, `go`, `si`/`se`/`to`). The argument layer encodes what is being claimed and how it is grounded; the analysis layer comments on what is claimed without altering it.
@@ -1879,3 +1982,6 @@ la-si-su  ko  {la-Elohim  ne  go-no-fe}    →  The record contains: God is the 
 - [x] **Define passive / agentless clause structure (no agent present)** — resolved; four-form typology established: (1) non-intentional process `lo-P Q ti-de`, (2) intentional passive `lo-P ka-Q ti-de`, (3) emergence `lo-P be`, (4) instrument-present passive `ro-tool lo-P ka-Q ti-de`. `ka` does not require `la-`. See § Agentless and Passive Clauses; PAV-001 (S559–S568).
 - [x] ~~Causal framing (go/du pair) needs a grammar rule~~ — resolved; see § Causal Frame. `go {CAUSE-CLAUSE}  matrix-clause` is pre-clausal; SOV governs the matrix. Extended by `du`, `to-go`, `no-go` in the same frame family.
 - [x] ~~Parallel partition mark (`/`) — not in spec.~~ — Resolved; `/` admitted as the 9th notation mark, spoken form `vel` (G013); see § Bi-Clausal Parallel Construction and spec/phonology.md §/.
+- [x] **Vocative particle — no dedicated speech-act marker for direct address.** Resolved; `he` (G029) admitted CVP-001 (March 2026). `he na-X` is a vocative illocutionary act (a call); distinct from `na-X!` (exclamatory NP) and `la-na-X` (agent clause). See § Vocative Particle (`he`); registry/roots.md G029.
+- [x] **Attention-signal particle — no dedicated pre-propositional attention marker.** Resolved; `ya` (G030) admitted CVP-001 (March 2026). `ya, {clause}` = attend to this; propositional, not interpersonal; no affect assertion; non-interchangeable with `he`. See § Attention-Signal Particle (`ya`); registry/roots.md G030.
+- [x] **Pivot particle — no marker for stale-denial discourse pivot.** Resolved; `ke` (G032) admitted DIP-001 (March 2026). `ke, {clause}` = implied denial + advancing affirmative claim; correct when denial is stale (information-freshness rule); `ke!` heated form; stacks as `ya, ke, {clause}`. Contrast: `no — {claim}` performs the denial explicitly (use when fresh). Three qualifying registers: DEB-001 S545, MED-001 S575, DIP-001 S585. See § Pivot Particle (`ke`); registry/roots.md G032.
