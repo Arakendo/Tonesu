@@ -116,7 +116,7 @@ Written: `timi ne kapaki'tire`
 la-na-Jesus  ka-si-ki  lo-na-Peter  ro-na-John
 ```
 
-Written: `lanáJesus kasiki lonaPeter ronáJohn`
+Written: `lanaJesus kasiki lonaPeter ronaJohn`
 
 **Notes:** `ka-si-ki` = deliberately transmit/dispatch (W023 `si-ki` = transmit a signal; `ka-` prefix). Peter is the primary patient (`lo-`); John is the accompanying agent (`ro-` = with/instrumental). The dispatch is the signal-motion act: Jesus makes them move as messengers.
 
@@ -140,7 +140,7 @@ Written: `[naJesus:] "ki / kasu lokapaki'tire luyu"`
 [na-Peter  ro-na-John:]  "pa-wi  to-si  ka-su  lo-ka-pa-ki'ti-re?"
 ```
 
-Written: `[naPeter ronáJohn:] "pawi tosi kasu lokapaki'tire?"`
+Written: `[naPeter ronaJohn:] "pawi tosi kasu lokapaki'tire?"`
 
 **Notes:** WH-location query using `to-si` (W026, query/proposition) as embedded question-predicate for the where-slot: "the location — a question — regarding preparing the Passover." The `?` marks interrogative force. This construction (`pa-wi  to-si  {action}`) encodes "where [shall we / should we] {action}?" Pattern: location-deictic + query-predicate + action-to-be-placed.
 
@@ -152,7 +152,7 @@ Written: `[naPeter ronáJohn:] "pawi tosi kasu lokapaki'tire?"`
 la-na-Peter  ro-na-John  se  lo-ze  /  la-yu  ka-su  lo-ka-pa-ki'ti-re
 ```
 
-Written: `lanaPeter ronáJohn se loze / layu kasu lokapaki'tire`
+Written: `lanaPeter ronaJohn se loze / layu kasu lokapaki'tire`
 
 **Notes:** `se  lo-ze` = perceived/found it (W: `se` = perception; `lo-ze` = patient-it). The disciples found the room exactly as foretold. Second clause: `la-yu  ka-su  lo-ka-pa-ki'ti-re` = they-as-group prepared the Passover. `yu` functions as agent of the group action.
 
