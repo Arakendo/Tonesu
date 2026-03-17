@@ -210,6 +210,30 @@ The `no-ne-fe` case is structurally decisive: `ne-fe` is a two-root compound pre
 
 ---
 
+### V-Prefix Scope Modifiers
+
+Admitted March 2026 (VPC-001). Five bare-vowel forms, all admitted. A V-prefix is a **scope-modifier**: it precedes a root or compound at word-initial position and shifts the *register, granularity, or mode* of the following root without adding independent lexical content.
+
+| Prefix | Scope effect |
+|--------|-------------|
+| `a-` | abstract/universal — root at broadest conceptual category |
+| `i-` | particular/precise — root as a discrete, specified instance |
+| `u-` | interior/foundational — the tacit or underlying mode of root |
+| `o-` | collective/distributed — root as property of group-as-unit |
+| `e-` | emergent/transitional — root in an unsettled, forming state |
+
+**Position constraint:** word-initial only. Mid-compound bare vowels violate parse invariant 1 (every internal syllable begins with a consonant). Position is always structurally unambiguous.
+
+**Scope:** the V-prefix scopes over everything to its right in the same compound (right-branching). `a-to-li` = `a-[to-li]` = universal-(knowledge-agent) = sage.
+
+**`a-` hazard:** `la-a-X` collapses to `la-X` in fast speech. Rule: use `a-` in predicate or patient position, not agent position after `la-`. The other four prefixes are unaffected.
+
+**Registry throttle:** V-prefixed forms are not vocabulary entries by default — they are readable from scope semantics alone. Registry admission requires the scope-shifted meaning to be unparaphraseable by an existing compound AND ≥ 3 corpus attestations in distinct contexts.
+
+Full specification, parse rules, and examples: `spec/word-formation.md § V-Prefix Scope Modifiers`.
+
+---
+
 ## Open Questions
 
 - [ ] Finalize phonetic forms of tense/aspect markers (placeholders like `-past` are English glosses, not real roots)
