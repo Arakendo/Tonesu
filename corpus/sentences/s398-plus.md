@@ -1530,3 +1530,391 @@ S493 upgrades the SCL-001 finding. `;` handles adversative sequences (plan-forme
 The distinction is Hume's: constant conjunction (`;`) vs necessary connection (`go`). `;` is always safe where `go` might be wrong; `go` is required where the mechanism claim is the point.
 
 **Admission condition met. OQ-GO-001 resolved. See spec/phonology.md for updated spec.**
+
+---
+
+## V-Particle Productivity Test (S494–S503) — Batch: VPT-001
+
+**Purpose:** The V tier (bare vowel particles: `a e i o u`, word-initial only) has five reserved slots and no current assignments. Test whether genuine corpus pressure exists for any of them. The tier's phonological safety is confirmed (word-initial V is unambiguous; no parse invariant violation). The question is whether the *functional* gap exists — does the current system handle each candidate function cleanly, or is there a real hole?
+
+**Background on existing resources:**
+- `ru` (primitive: coherence/unity) — already serves as minimal affirmative: "yes / that coheres" (grammar.md § Answers to Polar Questions)
+- `no` (primitive: negation/absence) — already serves as minimal negative: "no / that does not hold"
+- `na-X` (name marker particle) — handles identification/naming, including addressed turns in corpus
+- `fa-be!` (affect-rise compound) — handles "surprised" as an affective claim
+- `fa-de` (affect-decay compound) — handles reluctance/distaste as an affective claim
+
+**The real test:** does each V candidate offer something structurally different from the current system, or is it just a shorter form of what already exists?
+
+**Text type A (S494–S497):** Discourse-level acknowledgment and vocative
+**Text type B (S498–S500):** Affective interjection register
+**Text type C (S501–S503):** Diagnostics — direct comparison vs existing particles
+
+---
+
+**S494 — Bare acknowledgment: "Right. / I see. / Got it."** *(VPT-001-A)*
+
+V-particle form:
+```
+a
+```
+
+Current system equivalent:
+```
+ru
+```
+
+**Verdict: `a` ≠ `ru` — different speech-act class, but `ru` is already productive.** `ru` = "that coheres" — a minimal claim about propositional coherence. It is a proposition. `a` would be a pre-propositional tracking signal — pure acknowledgment without asserting anything. In natural dialogue, these differ: `ru` = "yes, correct"; `a` = "right, I'm following you." The distinction is real. However, the corpus (C001–C007) has operated without `a` for all acknowledgment turns, and `ru` has served adequately. **VPT-001 count: note gap, not yet productive. Needs dialogue pressure to force it.**
+
+---
+
+**S495 — Discourse-chain acknowledgment: "Yes, and then—"** *(VPT-001-B)*
+
+V-particle form:
+```
+a, la-ze ki...
+```
+
+Current system equivalent:
+```
+ru, la-ze ki...
+```
+
+**Verdict: `a` marginally preferred in spoken-adjacent register; `ru` fully adequate.** `a, la-ze ki` = "right, [it] moved..." (tracking + continuation). `ru, la-ze ki` = "affirmed — [it] moved..." The difference: `a` carries no propositional weight at all; `ru` carries a minimal coherence claim that may feel slightly heavy as a discourse-glue opener. In philosophical and formal corpus, the distinction disappears. In rapid dialogue it is perceptible. **Not a blocking gap. Gap exists but is narrow.**
+
+---
+
+**S496 — Vocative: calling a person's name directly.** *(VPT-001-C)*
+
+V-particle form:
+```
+o na-Moses
+```
+
+Current system equivalent:
+```
+na-Moses,
+```
+
+**Verdict: `o` fills a real structural gap.** `na-Moses,` identifies Moses by name — the comma suggests address by convention but not by structure. `o na-Moses` = calling-signal + name: the `o` is a **pre-address call particle**, structurally marking the utterance as a direct address before the identifier is given. This distinction matters in corpus: EXO-001 has God calling Moses repeatedly (S404, S411, S413 etc.), and the calling is always embedded inside a full clause (`la-Elohim  ka-si  lo-na-Moses`) rather than as a standalone call. A standalone `o na-Moses!` = "Moses!" (direct address, not a predicate construction) is a sentence type that Tonesu cannot currently form at minimal length. `na-Moses` alone is an NP, not a sentence. **Genuine structural gap. `o` is productive. VPT-001 count: 1.**
+
+---
+
+**S497 — Vocative integrated into a sentence.** *(VPT-001-D)*
+
+V-particle form:
+```
+o na-Moses, la-tu ki di-pa-su
+```
+
+Current system equivalent:
+```
+la-na-Moses, ki di-pa-su
+```
+
+**Verdict: `o` preferred for address-then-command structure.** `la-na-Moses, ki di-pa-su` = "Moses — go toward the mountain" (agent named, imperative follows). `o na-Moses, ki di-pa-su` = "Moses! go toward the mountain" — the `o` marks the first beat as a call before the predicate begins. These read differently: the current form looks like Moses is the agent of the following clause; `o na-Moses` frames the name as the addressee of the call, cleanly separate from the following imperative's dropped-agent slot. **Structural clarity improved. Second attestation in VPT-001. Count: 2.**
+
+---
+
+**S498 — Surprise / attention shift: "Oh!" or "Look—"** *(VPT-001-E)*
+
+V-particle form:
+```
+e!
+```
+
+Current system equivalent:
+```
+fa-be!
+```
+
+**Verdict: `e` fills a different functional slot than `fa-be!`.** `fa-be!` = "my affect rises!" — this is a propositional claim about the speaker's emotional state. `e` would be a **pure attentional signal** — no emotional claim, just "note this / shift your attention here." In written text: `e, la-zo-se-ma ki lo-re-fe-ma-ki` = "[—] a frog jumped into the pond" (the bare `e` as an attention-turner preceding an event). `fa-be!` cannot serve this function without asserting the speaker's affect. **Genuine register gap. `e` is productive as a pre-utterance attention signal. VPT-001 count: 3.**
+
+---
+
+**S499 — Attention-getting opener before a major statement.** *(VPT-001-F)*
+
+V-particle form:
+```
+e, go-no-fe  helms  vo
+```
+
+Current system equivalent:
+```
+go-no-fe  helms  vo        [no opener; the statement stands alone]
+```
+
+**Verdict: `e` is useful as a rhetorical attention marker before a major claim.** 1 John 4:8 as a statement (`go-no-fe helms vo` = God is by definition love) does not need `e` — but in a discourse context where the statement follows a question or challenge, `e, ...` = "look — [the answer is:] God is love" provides a natural spoken-register opener. The current system has no utterance-level pre-statement marker. `e` serves this without adding a proposition. **Productive in discourse register. Fourth attestation. VPT-001 count: 4.**
+
+---
+
+**S500 — Mild disapproval / reluctance.** *(VPT-001-G)*
+
+V-particle form:
+```
+u
+```
+
+Current system equivalent:
+```
+no   [minimal negation]
+fa-de  [affect-decay = distaste/reluctance]
+```
+
+**Verdict: `u` adds an affective register that `no` and `fa-de` do not cleanly cover.** `no` asserts propositional negation ("that does not hold"). `fa-de` asserts an affective state ("my affect decays"). `u` would be a **pre-propositional reluctance signal** — something between "no" and "I don't like this." In dialogue: `u, la-mi no-si la-ze ki` = "[hmm,] I'm not certain that happened." The `u` signals mild resistance before the epistemic hedge. The existing system would need `fa-de, la-mi no-si...` which asserts a felt distaste rather than just a slight reluctance. **Narrow but real register gap. VPT-001 count: 5. Note: lower pressure than `o` and `e`.**
+
+---
+
+**S501 — DIAGNOSTIC: `a` vs `ru` head-to-head in a polar-question response.** *(VPT-001-H)*
+
+Question: `la-tu se lo-si ku?` = "Did you perceive the signal?"
+
+`ru` response:
+```
+ru
+```
+Reading: "Yes / that coheres" — a coherence-claim about the proposition.
+
+`a` response (proposed):
+```
+a
+```
+Reading: bare affirmation — "right" / "yes" (no claim about coherence; pure acknowledgment).
+
+**Verdict: `a` ≠ `ru` but gap is narrow in simple polar-response context.** `ru` = coherence assertion; `a` = pure acknowledgment. In fast dialogue both work. The `a`/`ru` distinction matters most in cases where the speaker acknowledges a statement without asserting whether it coheres (e.g., "a, la-ze ki teld la-ru de" = "right, it moved and then it stopped" — the `a` acknowledges the interlocutor's framing before adding to it; `ru` would be slightly over-assertive there). **Marginal gap for `a` — depends on dialogue corpus development. Not blocking.**
+
+---
+
+**S502 — DIAGNOSTIC: `o` vs `na-X` in a divine-address corpus sentence (EXO-001 context).** *(VPT-001-I)*
+
+EXO-001 retest — God's call to Moses at the burning bush (S404 context):
+
+`na-X` form (current):
+```
+la-Elohim  ka-si  lo-na-Moses
+```
+Reading: "Elohim signaled to Moses" — full predicate clause; Moses is the patient.
+
+`o` form:
+```
+o na-Moses!
+```
+Reading: direct call. **Not expressible in the current system without a full predicate clause.**
+
+Second test — Moses's reply (S405 currently: `la-na-Moses  si  lo-pa-mi`):
+
+With `o`:
+```
+o na-Elohim, la-mi  pa
+```
+= "O God — I am [here]." More natural as a reply-in-address.
+
+**Verdict: confirms VPT-001-C/D finding. `o` is structurally necessary for standalone direct address. `na-X` alone is an NP, not an addressable speech act.** S404 and S405 would benefit from `o` revision; the current forms encode the interaction as predicate-logic propositions, missing the direct-address register entirely.
+
+---
+
+**S503 — DIAGNOSTIC: `i` (hesitation) — written register value.** *(VPT-001-J)*
+
+V-particle form:
+```
+i, la-mi no-si la-ze ki
+```
+Reading: "Um... I'm not certain it moved."
+
+Current system:
+```
+la-mi no-si la-ze ki
+```
+
+**Verdict: `i` has effectively zero written-register value.** Written Tonesu does not need a hesitation-filler. The evidential frame `(...)` and epistemic negation `no-si` handle uncertainty with precision; the `,` separator handles prosodic pause. `i` is a spoken-register placeholder that adds no structural information. **`i` slot stays unassigned. Low pressure.**
+
+---
+
+## VPT-001 Batch Summary
+
+| Entry | Particle | Verdict | Note |
+|-------|----------|---------|------|
+| S494 (VPT-001-A) | `a` | gap exists, narrow | `a` ≠ `ru` (tracking vs coherence-claim), but `ru` adequate so far |
+| S495 (VPT-001-B) | `a` | marginal | `a` lighter than `ru` as discourse-glue opener; not blocking |
+| S496 (VPT-001-C) | `o` | **genuine gap** | standalone direct address; `na-X` alone is an NP, not a speech act |
+| S497 (VPT-001-D) | `o` | **preferred** | address-then-command structure cleaner with `o` pre-separator |
+| S498 (VPT-001-E) | `e` | **genuine gap** | attention signal ≠ `fa-be!`; `e` makes no affective claim |
+| S499 (VPT-001-F) | `e` | productive | rhetorical attention opener before major claim |
+| S500 (VPT-001-G) | `u` | narrow gap | reluctance register distinct from `no` and `fa-de`; lower pressure |
+| S501 (VPT-001-H) | `a` | marginal | `a`/`ru` distinction real but not blocking in corpus so far |
+| S502 (VPT-001-I) | `o` | **confirms gap** | EXO-001 direct-address retest; `o` needed for vocative speech acts |
+| S503 (VPT-001-J) | `i` | not productive | written-register filler; stays unassigned |
+
+---
+
+### VPT-001 Findings
+
+**Finding 1: `o` (vocative/address) is productive.** Three corpus attestations (S496, S497, S502). `na-X` names but does not address — it is an NP, not an illocutionary act. `o na-X` is a speech act: a direct call. No current particle structure produces standalone direct address without a full predicate clause. This is the strongest case for opening the V tier.
+
+**Finding 2: `e` (attention/surprise) is productive.** Two corpus attestations (S498, S499). `fa-be!` asserts an emotional state; `e` is a pre-propositional attention signal. The two forms serve different functions. `e` before a major statement = rhetorical turn-marker; `fa-be!` = emotional response. These are not interchangeable.
+
+**Finding 3: `a` (tracking affirmation) has a real but not yet blocking gap.** `ru` exists and handles polar-response affirmation. `a` would provide a lighter pre-propositional tracking signal (no coherence claim). The gap is perceptible in dialogue but the corpus has managed without `a`. If dialogue corpus develops significantly, `a` will apply pressure. **Deferred pending further dialogue corpus.**
+
+**Finding 4: `u` (reluctance) is marginal.** `no` and `fa-de` together cover most resistance-register needs. `u` adds a very soft pre-propositional note of hesitation that neither covers precisely. Gap is narrow and corpus pressure is low.
+
+**Finding 5: `i` (hesitation) is not productive for written Tonesu.** Slot stays unassigned.
+
+**Recommendation:** Open the V tier for `o` (vocative) and `e` (attention signal) — two forms with confirmed structural gaps. `a`, `u`, `i` deferred pending further corpus pressure. Register V-particle admission separately in `notes/open-questions.md` (OQ-V-001 and OQ-V-002).
+
+**Design note appended (March 2026):** After review, the recommendation above was revised. The 5 V slots should **not** be used for standalone particles (vocative, attention). The word-initial-only constraint on bare-V is a structural feature, not merely a restriction — it makes V forms ideal as **compound-initial modifying prefixes** (e.g. `a-to`, `o-li`) that cannot appear mid-compound, giving them an unambiguous morphological role. Using `o` as a standalone vocative particle squanders this: a short standalone particle does not need to be word-initial-only; any free CV form (of which 37 remain) can serve that function instead. The VPT-001 gaps (vocative, attention) should be filled by CV assignments. The V tier stays reserved for the prefix-class question (OQ-V-003). See VPC-001 (S504–S513) for the prefix-class test.
+
+---
+
+## V-Prefix Class Productivity Test (S504–S513) — Batch: VPC-001
+
+**Purpose (OQ-V-003):** Test whether the 5 bare-V forms (`a e i o u`) are productive as **compound-initial scope-modifier prefixes** — modifying the register or scope of the root they front rather than adding a new root meaning. The word-initial-only constraint is the defining structural property: V-prefix forms cannot appear mid-compound, making their position unambiguous. Design principle: a V-prefix is not a CV root — it contributes no independent lexical content; it adjusts the *scope, granularity, or mode* of the following root.
+
+**Proposed V-prefix semantics under test:**
+
+| Prefix | Sound symbolism | Proposed scope effect |
+|--------|----------------|----------------------|
+| `a-` | broad, open, general | **abstract/universal** — root at its broadest conceptual category |
+| `i-` | small, sharp, precise | **particular/precise** — root applied to a specific instance |
+| `u-` | deep, heavy, closed | **interior/foundational** — the tacit or underlying mode of root |
+| `o-` | outward/collective | **collective/distributed** — root as applying to a group as unit |
+| `e-` | shifting, emergent | **transitional/in-process** — root in an unsettled, forming state |
+
+---
+
+**S504 — "Knowledge in its broadest generality is unbounded."** *(VPC-001-A)*
+
+```
+a-to ne no-fe
+```
+
+**Notes:** `a-to` = knowledge in the universal/abstract register (V-prefix `a-` + root `to`). `ne no-fe` = is without limit. Contrast with `to-no-fe` (omniscience, THO-001) — a compound predicate asserting knowledge-without-end as a divine attribute. `a-to ne no-fe` is an abstract claim about the *nature* of knowing as such: "knowing, at its broadest, has no inherent limit." The V-prefix `a-` elevates `to` from its root sense (knowledge/pattern) to the universal category level — the form is not a named predicate but a scope-shifted concept. Written form: `ato ne nofe`. **First attestation of `a-to`. VPC-001 count: 1.**
+
+---
+
+**S505 — `a-to` vs `to-su` — differentiation test.** *(VPC-001-B)*
+
+```
+a-to helm to-su
+```
+
+**Notes:** `helm` (G011, functional equivalence): `a-to` is *functionally understood as* `to-su`, but not strictly identical (`helms` would assert definitional identity). `to-su` (W030) = organized/structured knowledge system — a specific instantiation. `a-to` = knowing-in-general — the abstract category. The `helm` reading: "abstract knowing functions as organized structure in practice," but the universal category is not reducible to any particular system. This is the key test: if `a-to helms to-su`, the V-prefix is redundant; `a-to helm to-su` confirms it is distinct. **Result: distinct. `a-to` ≠ `to-su`. VPC-001 count: 2.**
+
+---
+
+**S506 — "I know this specific fact."** *(VPC-001-C)*
+
+```
+la-mi to lo-i-to-ze
+```
+
+**Notes:** `i-to` = particular/precise knowledge (V-prefix `i-` = small/precise/near + `to`). `i-to-ze` = this-precise-knowledge-item (`-ze` possessive/deictic). `lo-i-to-ze` = patient: this specific epistemic object. Compare `la-mi to lo-ze` (I know it — generic: the root takes a generic referent). The `i-to` form marks the epistemic object as a *discrete, precise item* — acquaintance with a specific fact, not general cognition of a referent. **Parse check:** `lo-i-to-ze` — `lo-` ends in `o`; next syllable `i` is word-initial onset of the NP. Clean. **First attestation of `i-to`. VPC-001 count: 3.**
+
+---
+
+**S507 — "Laozi had interior knowing of the boundless Way."** *(VPC-001-D)*
+
+```
+la-na-Laozi u-to lo-su-no-fe
+```
+
+**Notes:** `u-to` = deep/interior knowing (V-prefix `u-` = deep/closed + `to`). Not a propositional claim about what Laozi knew but the **mode** of knowing: from within, pre-articulate, foundational — knowing-from-inside rather than knowing-about. This returns directly to the TAO-001 gap (S474–S476): the Tao cannot be named (`su-si`), yet some engagement with it is possible. `u-to` names that engagement — the interior mode of knowing that is not assertable as a proposition. No current Tonesu form expresses this: `to` (knowledge/cognition), `to-su` (organized knowledge system), and `zo-to` (W068, soul = the knowledge-aspect of a living being) are all different. `u-to` fills the mode-of-knowing gap. **First attestation of `u-to`. VPC-001 count: 4.**
+
+---
+
+**S508 — "The community holds structure."** *(VPC-001-E)*
+
+```
+o-li ne su
+```
+
+**Notes:** `o-li` = collective-person / community as a unit (V-prefix `o-` = outward/collective/distributed + `li`). Contrast with `pu-li` (plural-persons = people as a count, quantitative plural). `pu-li` answers *how many* (individuals counted); `o-li` answers *what kind of social entity* (the collective conceived as a single organized body, not a sum of individuals). `ne su` = bears structure = is structurally organized. The claim: "the community, qua community, has structural coherence." Productive in any institutional or social context: a headcount of persons (`pu-li`) can have zero structure; a community (`o-li`) entails `su` by definition of being a community. **First attestation of `o-li`. VPC-001 count: 5.**
+
+---
+
+**S509 — "The arrangement was still taking shape."** *(VPC-001-F)*
+
+```
+la-su e-ki
+```
+
+**Notes:** `e-ki` = emergent/in-process change (V-prefix `e-` = shifting/transitional + `ki`). The `e-` prefix marks that the change has begun but is not resolved — the state is forming. Contrast: `la-su ki` = the structure changed (complete event); `la-su ki be` = the structure developed/grew (directional, complete); `la-su e-ki` = the structure was undergoing emergent change (aspect: in-process, open-ended). The current system has `re-ki` (habitual/recurring change) but no imperfective/progressive for a change event in formation. `e-ki` fills that slot. **First attestation of `e-ki`. VPC-001 count: 6.**
+
+---
+
+**S510 — "Form as such is the causal ground of all structure."** *(VPC-001-G)*
+
+```
+a-su helms go-su
+```
+
+**Notes:** `a-su` = pure/abstract form (V-prefix `a-` + `su`). `helms` = by strict definition. `go-su` = origin-structure = the causal ground of structure (`go` + `su`; attested in prior corpus). The claim: "abstract form *is by definition* the causal ground of all structural instantiation" — a Platonic/Aristotelian ontological claim. Tests whether `a-su` can function as a proto-ontological category distinct from `su` (structure of a specific thing) and `su-no-fe` (boundless structure). `helms` is correct: not `helm` (functional) because this is a definitional identity claim. **First attestation of `a-su`. VPC-001 count: 7.**
+
+---
+
+**S511 — "Laozi was a sage." (compound-extension test)** *(VPC-001-H)*
+
+```
+la-na-Laozi ne a-to-li
+```
+
+**Notes:** `a-to-li` = universal-knowing-person = sage/philosopher — V-prefix `a-` + `to` + `-li` (agent suffix). Default right-branching: `a` scopes over `[to-li]` = universal-(knowledge-agent). Written form: `atoli`. Compare `to-li` (knowledge-person = scholar): the V-prefix elevates the compound from a disciplinary scholar to a person engaged with knowing in its universal register — the distinction between a domain expert and a sage. Tests whether V-prefix heads a multi-root compound naturally. **Parse: all internal syllables (`to`, `li`) have C-onsets. ✓ VPC-001 count: 8.**
+
+---
+
+**S512 — DIAGNOSTIC: `la-[a-X]` vowel-boundary merge hazard.** *(VPC-001-I)*
+
+Attempting agent-position use of `a-to`:
+```
+la-a-to lo-su ki    [attempted: "the universal-knower changed the structure"]
+```
+
+**Verdict: merge hazard confirmed.** `la-` ends in `a`; `a-to` begins with `a`; the sequence `la-a-to` produces an adjacent-vowel boundary (`la | ato`) that collapses to `lato` = `la-to` (agent-marker + primitive `to`) in fast speech. The intended reading and the merged reading are semantically different and not recoverable from context alone.
+
+**Constraint rule:** V-prefix `a-` is phonologically unsafe in agent position after `la-` due to vowel-identity merger. The other four prefixes (`i- u- o- e-`) are safe because their vowels contrast clearly with `la-`'s final `a`. Safe positions for `a-` forms:
+- Predicate position: `a-to ne ...` ✓ (no preceding vowel-final particle)
+- Patient position: `lo-a-to` — `lo-a` = `loa`, distinct enough ✓ (caution advised)
+- Embedded subject after `go {`...`}` ✓
+- Avoid: `la-a-to`, `ta-a-X`, `na-a-X` (all `a`-final particle + `a-` prefix)
+
+---
+
+**S513 — "The seed holds deep structure."** *(VPC-001-J)*
+
+```
+la-du-zo-su ko lo-u-su
+```
+
+**Notes:** `u-su` = interior/foundational structure (V-prefix `u-` + `su`). The seed as a natural object (`du-zo-su`, W142) contains the entire plant blueprint in its foundational, non-visible form — the deep structure is not manifest on the surface. `ko` = containment predicate. This is the most concrete test of `u-su`: a familiar physical object (seed from EXO-001, LSP-001 corpus) holding the claim about interior structure tangible and testable. Contrast `su` (the seed's observable structure, e.g. its coat and geometry) vs `u-su` (the interior structural code that governs its unfolding). **First attestation of `u-su`. All 5 V-prefix forms now attested. VPC-001 count: 9.**
+
+---
+
+## VPC-001 Batch Summary
+
+| Entry | Form | Prefix | Verdict |
+|-------|------|--------|---------|
+| S504 (VPC-001-A) | `a-to ne no-fe` | `a-` | productive; `a-to` ≠ `to-no-fe` ≠ `to-su`; abstract category level |
+| S505 (VPC-001-B) | `a-to helm to-su` | `a-` | differentiated from `to-su` via `helm` (not `helms`) |
+| S506 (VPC-001-C) | `la-mi to lo-i-to-ze` | `i-` | productive; discrete epistemic object; parse clean |
+| S507 (VPC-001-D) | `la-na-Laozi u-to lo-su-no-fe` | `u-` | productive; fills TAO-001 mode-of-knowing gap |
+| S508 (VPC-001-E) | `o-li ne su` | `o-` | productive; collective-as-unit ≠ `pu-li` count |
+| S509 (VPC-001-F) | `la-su e-ki` | `e-` | productive; emergent/progressive aspect; fills aspect gap |
+| S510 (VPC-001-G) | `a-su helms go-su` | `a-` | productive; `a-su` = proto-form / causal ground of structure |
+| S511 (VPC-001-H) | `la-na-Laozi ne a-to-li` | `a-` | compound extension clean; `atoli` = sage |
+| S512 (VPC-001-I) | DIAGNOSTIC | `a-` | **merge hazard after `la-`**; `a-` safe in predicate/patient positions |
+| S513 (VPC-001-J) | `la-du-zo-su ko lo-u-su` | `u-` | productive; `u-su` = interior foundational structure |
+
+**All 5 V-prefix forms attested: `a-` (×5), `i-` (×1), `u-` (×2), `o-` (×1), `e-` (×1).**
+
+---
+
+### VPC-001 Findings
+
+**Finding 1: The V-prefix class is productive.** All 5 prefixes yielded useful compounds with meanings not paraphraseable by existing compounds without loss. The scope-modifier semantics are coherent across roots: `a-` = abstract/universal; `i-` = particular/precise; `u-` = interior/foundational; `o-` = collective/distributed; `e-` = emergent/transitional.
+
+**Finding 2: V-prefixes fill genuine gaps.** `u-to` (tacit/interior knowing) fills the TAO-001 gap — the mode of knowing not accessible through naming. `e-ki` (emergent change) provides a missing imperfective/progressive aspect. `o-li` distinguishes community-as-unit from count-of-persons. These are structurally distinct from existing compounds.
+
+**Finding 3: V-prefixes compound freely.** `a-to-li` (sage) shows V-prefix heading a multi-root compound with standard right-branching. The V-prefix scopes over everything to its right, per the default. Parse of all V-prefixed forms is clean (all internal syllables have C-onsets after the word-initial V).
+
+**Finding 4: `a-` has a specific phonological hazard after `la-`.** `la-a-X` collapses to `la-X` in fast speech (vowel-identity merger). The constraint: use `a-` forms in predicate or patient position, or after non-`a`-final particles. The other four prefixes (`i- u- o- e-`) do not share this hazard.
+
+**Recommendation for OQ-V-003:** V-prefix class is productive and should be admitted. The 5 scope roles are established by VPC-001. The `a-` phonological hazard is a constraint, not a blocking problem. Admit the class; document the `a-` position rule; update spec/phonology.md § V-Prefix Class and notes/open-questions.md.

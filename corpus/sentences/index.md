@@ -73,6 +73,8 @@ Corpus evidence by batch (for cross-reference):
 | TAO-001 | Tao Te Ching ch.1 — `su-no-fe`, naming paradox | S474–S476 | s398-plus.md |
 | SCL-001 | `;` productivity test — `;` vs `go {…},` across text types (OQ-GO-001) | S477–S488 | s398-plus.md |
 | SCL-002 | `;` extended corpus test — proverbial/practical text type; adversative diagnostic; threshold met, OQ-GO-001 closed | S489–S493 | s398-plus.md |
+| VPT-001 | V-particle productivity test — `o` vocative and `e` attention confirmed; `a` / `u` marginal; `i` not needed | S494–S503 | s398-plus.md |
+| VPC-001 | V-prefix class productivity test — all 5 prefixes attested; `a-` = abstract, `i-` = precise, `u-` = interior, `o-` = collective, `e-` = emergent; `u-to` fills TAO-001 gap; `a-` merge hazard after `la-`; OQ-V-003 resolved | S504–S513 | s398-plus.md |
 | LSP-001 | Last Supper / Eucharist — institution formula, body/blood, covenant, remembrance, Passover | S418–S438 | s398-plus.md |
 | FMQ-001 | Famous quotes — `helm` functional equivalence, `helms` strict identity, `ven` approximation, `go` causal contrast | S439–S446 | s398-plus.md |
 | JOH-001 | John 1:1 — three senses of `ἦν`; existential / relational co-presence / nature attribution; GAP-JOH-001/002 | S447–S449 | s398-plus.md |

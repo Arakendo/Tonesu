@@ -72,17 +72,23 @@ Breaking invariant 1 forces lookahead. Breaking invariant 2 produces parse ambig
 ---
 
 - CV: most common (ka, li, mu, se)
-- V: **word-initial position only** — a bare vowel syllable may open a word or compound. It must not appear mid-compound: invariant 1 above requires every internal syllable to have a consonant onset. Only 5 V forms exist (a e i o u); none are currently assigned. Reserved as a future closed class (discourse particles, affective interjections, or similar). No form from this space may be assigned without an explicit registry decision.
+- V: **word-initial position only — admitted as the V-prefix class (VPC-001, March 2026).** A bare vowel syllable may open a word or compound; it must not appear mid-compound (invariant 1). Only 5 V forms exist (`a e i o u`). All 5 are admitted as **compound-initial scope-modifier prefixes**: a V-prefix adjusts the register or scope of the following root without adding independent lexical content. Because no V syllable can appear mid-compound, V-prefixes are always unambiguously word-initial, making their morphological role structurally guaranteed.
 
-  Anticipated usage hints (unassigned; for orientation only):
+  **V-Prefix Scope Semantics (admitted):**
 
-  | Form | Typical discourse particle role |
-  |------|--------------------------------|
-  | `a`  | affirmation |
-  | `e`  | surprise / attention shift |
-  | `i`  | hesitation / filler |
-  | `o`  | address / calling attention |
-  | `u`  | disapproval / mild negation |
+  | Prefix | Sound symbolism | Scope effect |
+  |--------|----------------|-------------|
+  | `a-` | broad, open, general | **abstract/universal** — root at its broadest conceptual category (`a-to` = knowing-in-general; `a-su` = form-as-such) |
+  | `i-` | small, sharp, precise | **particular/precise** — root applied to a specific instance (`i-to-ze` = this particular fact) |
+  | `u-` | deep, heavy, closed | **interior/foundational** — the tacit or underlying mode of root (`u-to` = interior knowing; `u-su` = deep structure) |
+  | `o-` | outward, collective | **collective/distributed** — root as applying to a group as a unit (`o-li` = community-as-unit ≠ `pu-li` count) |
+  | `e-` | shifting, emergent | **transitional/in-process** — root in an unsettled, forming state (`e-ki` = emergent/progressive change) |
+
+  **Parse behavior:** Right-branching default applies — `a-to-li` = `a` scopes over `[to-li]` = universal-(knowledge-agent). Written form: solid, no hyphen in ordinary prose (`ato`, `isu`, `oli`, `eki`, `usu`). Morpheme-boundary notation: `a-to`, `i-to`, etc.
+
+  **V-prefix `a-` phonological constraint:** `la-` ends in `a`; placing `a-X` in agent position produces `la-a-X`, which merges with `la-X` in fast speech. The other four prefixes (`i- u- o- e-`) are safe after `la-`. **Rule: `a-` forms should be used in predicate or patient position, not agent position after `la-`.**
+
+  **Corpus basis:** VPC-001 (S504–S513). All 5 prefixes attested and productive.
 
 - VC: **deferred — word-initial only if ever admitted** — a vowel-initial syllable with a closing consonant (e.g. `an`, `el`, `im`). Shares the same word-initial constraint as bare V; mid-compound VC violates invariant 1 and creates lookahead (is `beanto` parsed `be|an|to` or `bea|nto`?). Word-initial VC parses cleanly because the word boundary precedes it: `an-be`, `im-ra`, `us-lo` are all unambiguous. Up to ~40 clean forms available. No current assignment; no current pressure (37 CV slots remain free). Condition for opening this tier: CV near-exhaustion, or need for a phonologically distinct particle/pronoun class. See § Open Questions.
 - CVC: allowed (kel, sun, mar)
