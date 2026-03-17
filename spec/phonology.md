@@ -150,7 +150,7 @@ Eight marks supplement `'`. Unlike `'`, these operate **outside** compound bound
 | `!` | exclamation mark | end-of-utterance: heightened affective or emphatic force |
 | `?` | question mark | end-of-utterance: interrogative; orthographic counterpart to grammatical `to-si` |
 | `~` | approximation mark | pre-positional hedge: "approximately / roughly / on the order of / something like" |
-| `()` | evidential frame | clause-level epistemic bracket: content is reported, inferred, or unattributed — not directly asserted |
+| `()` | evidential frame | clause-level epistemic bracket: content is reported, inferred, or unattributed — not directly asserted; spoken forms `kelm` (G014, open) / `kelms` (G015, close) |
 | `[]` | aside / commentary frame | non-semantic editorial or analytic annotation — does not alter truth conditions of surrounding text; removable without semantic change |
 | `:` | topic frame / definition mark | sentence-initial: "as for {topic}, ..." (topic frame); metalanguage: explanatory gloss (`term : reading`) |
 | `::` | canonical definition mark | structural decomposition (`term :: roots`); appears in written and verbal discourse; spoken form `helms` (G012) |
@@ -250,7 +250,7 @@ Round brackets wrap a **clause or sub-clause** to mark its epistemic status as *
 (~ clause)                →  reportedly approximately {clause}      (hedge scoped inside frame)
 ```
 
-**Spoken form:** prosodic bracketing — a slight boundary pause and consistent framing intonation before and after the framed content. No phoneme sequence is assigned to `(` and `)` themselves; the frame is marked prosodically, not segmentally.
+**Spoken form:** **`kelm`** (G014) at the `(` position; **`kelms`** (G015) at the `)` position. In speech the evidential frame is announced by `kelm` before the reported clause and closed by `kelms` after it. Prosodic bracketing (slight boundary pause, consistent framing intonation) accompanies the spoken forms — the spoken tokens reinforce prosody rather than replacing it. In casual speech prosody alone is sufficient; `kelm`/`kelms` are required in formal, legal, and dictation register, and whenever nested evidential frames risk misparse. **`kelm` and `kelms` are also valid written substitutes** for `(` and `)` wherever the bracket symbols are unavailable.
 
 **Three-way distinction with epistemic modality:**
 
@@ -472,7 +472,7 @@ The full tier system in order of word-shape complexity:
 | CV-CV+ | Compounds | Open compositional vocabulary | Expressible from existing roots; no new primitive needed |
 | CVC | Lexical descriptors | Digits, colors (closed class); scale prefixes (ergonomic shortforms) | Two sub-categories — see below |
 | CVCC | Exceptional anchors | Mathematical/physical constants; convention-defined units with no compositional expression | Assemblage-First Rule: see `notes/anchor-inventory.md §The Assemblage-First Rule` |
-| CVCCS | Notation doublets | Spoken forms of doubled written notation marks (`::`, and any future doubled mark) | One rule only: a CVCC notation-marker spoken form may take `+s` to produce the doublet of its doubled written equivalent. Not a free-standing tier; each CVCCS form is bound to its CVCC pair. |
+| CVCCS | Notation pair closers | Spoken forms marking the secondary element of a two-part notation structure: (a) the doublet of a doubled written mark (`::` from `::`; future doubled marks); or (b) the closing bracket of a bracket-pair mark (`)` from `(`). | One rule only: a CVCC notation-marker spoken form may take `+s` to mark the second/closing element of its paired notation structure. Not a free-standing tier; each CVCCS form is bound to its CVCC base. Current instances: `helms` (G012, `::`) · `kelms` (G015, `)`). |
 
 **CVC sub-categories:**
 
