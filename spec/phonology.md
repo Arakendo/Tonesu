@@ -570,20 +570,21 @@ These are tendencies, not rules. They inform root design intuitively but do not 
 
 ## CV Space Audit
 
-**Audit date: March 2026. Basis: 32 roots + 6 particles + 4 pronouns + 1 derivational suffix.**
+**Audit date: March 2026. Basis: 32 roots + 6 frame particles + 3 discourse particles + 4 pronouns + 1 derivational suffix.**
 
-Taken forms (43 of 80):
+Taken forms (46 of 80):
 
 | Category | Forms |
 |----------|-------|
 | Roots (33) | `mu ma li zo ki ka be de su to fe ne pe go du pa di ti re se so lu si vo wi no nu ru pu ra ko ha fa` |
-| Particles (6) | `la lo ro ta na da` |
+| Frame particles (6) | `la lo ro ta na da` |
+| Discourse particles (3) | `he ya ke` (G029 vocative · G030 attention-signal · G032 pivot; CVP-001 / DIP-001, March 2026) |
 | Pronouns (4) | `mi tu ze yu` |
 | Derivational (1) | `ge` |
 
 Note: `ka`, `ne`, `pa` are counted under roots; not double-counted as particles.
 
-**Free CVs (37 of 80):**
+**Free CVs (34 of 80):**
 
 |   | a | e | i | o | u |
 |---|---|---|---|---|---|
@@ -591,7 +592,7 @@ Note: `ka`, `ne`, `pa` are counted under roots; not double-counted as particles.
 | **b** | `ba` | — | `bi` | `bo` | `bu` |
 | **t** | — | `te` | — | — | — |
 | **d** | — | — | — | `do` | — |
-| **k** | — | `ke` | — | — | `ku` |
+| **k** | — | — | — | — | `ku` |
 | **g** | `ga` | — | `gi` | — | `gu` |
 | **m** | — | `me` | — | `mo` | — |
 | **n** | — | — | `ni` | — | — |
@@ -600,11 +601,11 @@ Note: `ka`, `ne`, `pa` are counted under roots; not double-counted as particles.
 | **l** | — | `le` | — | — | — |
 | **r** | — | — | `ri` | — | — |
 | **f** | — | — | `fi` | `fo` | `fu` |
-| **h** | — | `he` | `hi` | `ho` | `hu` |
-| **y** | `ya` | `ye` | `yi` | `yo` | — |
+| **h** | — | — | `hi` | `ho` | `hu` |
+| **y** | — | `ye` | `yi` | `yo` | — |
 | **w** | `wa` | `we` | — | `wo` | `wu` |
 
-The `f`-initial cluster (`fa fi fo fu`) and the `h`-initial cluster (`he hi ho hu`) are largely intact and serve as the primary reserve banks. Some free slots carry speech-speed risk near taken neighbours (`ke`/`ki`/`ko`, `za`/`ze`/`zo`, `yi`/`yu`) and should be used with care.
+The `f`-initial cluster (`fa fi fo fu`) and the `h`-initial cluster (`hi ho hu`) remain the primary reserve banks (`he` now taken — G029; 3 of 4 h-slots still free). Speech-speed risk: `ku` (four taken k-neighbours: `ka ki ko ke`); `ye`/`yi`/`yo` between taken `ya` and `yu`; `za`/`zi`/`zu` adjacent to taken `ze`/`zo`.
 
 ---
 
