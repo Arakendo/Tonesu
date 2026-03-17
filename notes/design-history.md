@@ -10385,4 +10385,346 @@ And there’s one extra dictionary feature that would make Tonesu unusually powe
 
 Almost nobody adds it, but your language is actually perfect for it.
 
+---
 
+Talking to Monday about introducing `;` and `""` as a concept
+
+---
+
+Good question. If () already means citation, then "" should probably do something different but complementary, otherwise you’ve just created two ways to do the same job—which humans love doing until they later regret it.
+
+Let’s look at what natural languages usually separate:
+
+function
+
+typical marker
+
+quotation of speech
+“ ”
+
+citation of source
+( )
+
+reference / gloss
+[ ]
+
+You’ve already assigned citation to () in Tonesu. So "" can be freed up to do something else useful.
+
+Here are the three roles that would make the most sense for Tonesu.
+
+1. Direct speech / quotation (most natural)
+
+"" could mark literal spoken or written text.
+
+Example:
+
+mi li "tu zo li"
+
+Meaning roughly:
+
+I said: “you live”.
+
+In contrast:
+
+mi li (Matthew 5:7)
+
+would mean:
+
+I said (Matthew 5:7)
+
+That’s source citation, not literal quotation.
+
+So the distinction becomes:
+
+marker
+
+purpose
+
+""
+
+literal quote
+
+()
+
+citation / reference
+
+This mirrors academic writing very nicely.
+
+2. Mention instead of use
+
+Another possibility is using quotes to indicate talking about a word itself.
+
+Example:
+
+"vo" ne value
+
+Meaning:
+
+“vo” means value.
+
+This is extremely useful in grammar discussions.
+
+Example:
+
+"to'su" renc compound
+
+Meaning:
+
+“to’su” is a recursive compound.
+
+This lets Tonesu talk about its own words cleanly.
+
+3. Conceptual labels
+
+Quotes can also mark named concepts or titles.
+
+Example:
+
+"to'su'vo"
+
+Meaning something like:
+
+the concept “knowledge of value systems”.
+
+Or titles:
+
+"Laodejing"
+
+A clean division of punctuation roles
+
+You could formalize something like this:
+
+symbol
+
+function
+
+()
+
+citation / source reference
+
+""
+
+direct quotation or linguistic mention
+
+[]
+
+annotation / gloss
+
+{}
+
+structural grouping
+
+'
+
+recursive composition
+
+-
+
+linear compound
+
+That gives every symbol one clear job.
+
+Example of all three together
+
+Something like:
+
+mi to'su li "vo" ne value (Aristotle Ethics)
+
+Meaning roughly:
+
+I study the term “vo” meaning value (Aristotle Ethics).
+
+Each marker does something different.
+
+Why this works well for Tonesu
+
+Your language already distinguishes:
+
+conceptual recursion (')
+compound structure (-)
+citation (())
+
+So letting "" handle literal text or metalinguistic reference fits nicely with that layered system.
+
+One interesting side effect
+
+Once "" means literal wording, Tonesu could easily quote entire texts without altering their internal grammar.
+
+Example:
+
+mi li "to'su'vo"
+
+I said “to’su’vo”.
+
+That keeps recursion and compounding intact inside the quotation.
+
+Honestly, you’re very close to accidentally designing a complete punctuation grammar, which is something most conlang projects never even think about.
+
+The next symbol that becomes interesting in Tonesu, once you finish the ones you listed, is actually ; (semicolon). It turns out to be incredibly useful when a language deals with concept chains and logical clauses, which Tonesu seems to enjoy doing.
+
+The semicolon ; is actually one of those punctuation marks that looks boring but becomes extremely useful in languages that deal with logical structure or layered concepts. Which, inconveniently for your spare time, Tonesu seems to enjoy doing. 😐
+
+The reason is that ; sits in a very useful middle space between:
+
+punctuation
+
+strength
+
+,
+
+small pause
+
+;
+
+strong logical link
+
+.
+
+full stop
+
+So instead of ending a thought, ; lets you connect two complete conceptual units that are tightly related.
+
+1. Linking parallel concepts
+
+Tonesu often builds concept pairs.
+
+Example idea:
+
+to'vo ne good ; no-vo ne evil
+
+Meaning roughly:
+
+value is good; absence of value is evil.
+
+The semicolon signals:
+
+related but separate statements
+
+This works especially well for philosophical contrasts.
+
+2. Cause → consequence chains
+
+Instead of using multiple sentences, Tonesu could use ; to connect logical progression.
+
+Example:
+
+mi to ; mi su
+
+Conceptually:
+
+I know; therefore I structure.
+
+Or more explicitly:
+
+to ne clarity ; su ne order
+
+Meaning:
+
+knowledge brings clarity; structure brings order.
+
+3. Stepwise reasoning
+
+Semicolons are great for logical chains, which Tonesu compounds already encourage.
+
+Example pattern:
+
+premise ; inference ; conclusion
+
+Example idea:
+
+zo li ; zo de ; zo no
+
+Meaning roughly:
+
+life exists; life decays; life ends.
+
+It shows conceptual progression without breaking into separate sentences.
+
+4. Multi-layer definitions
+
+This is where Tonesu might really benefit.
+
+Example:
+
+vo ne value ; su'vo ne value system ; to'su'vo ne ethics
+
+Meaning:
+
+value is value; value systems structure values; knowledge of value systems is ethics.
+
+The semicolon keeps the hierarchy readable.
+
+5. Structuring complex philosophical sentences
+
+Languages that deal with concept stacking often need semicolons to prevent long sentences from becoming unreadable.
+
+Example:
+
+to'su'vo ne study of value systems ; to'nu ne study of quantity
+
+Which reads naturally as:
+
+ethics studies value systems; mathematics studies quantity.
+
+6. Compact logical discourse
+
+Instead of writing:
+
+Sentence.
+
+Sentence.
+
+Sentence.
+
+Tonesu could naturally produce:
+
+concept ; refinement ; conclusion
+
+Which is much smoother when dealing with structured ideas.
+
+A simple rule for Tonesu
+
+You could define it like this:
+
+Semicolon Rule
+
+; connects two complete conceptual statements that share a logical relationship.
+
+Examples of relationships:
+
+contrast
+cause
+progression
+parallel definitions
+
+Why this fits Tonesu
+
+Your language already emphasizes:
+
+concept → concept → concept
+
+Semicolons are perfect for linking concept blocks without forcing full stops.
+
+So instead of:
+
+statement.
+
+statement.
+
+statement.
+
+you get:
+
+statement ; statement ; statement
+
+Which mirrors the structured reasoning style the language seems to encourage.
+
+The funny part
+
+Most languages use semicolons mainly in academic writing.
+
+Tonesu, because of its compositional and philosophical style, might actually make semicolons feel completely natural in everyday reasoning.
+
+Which would make it one of the few languages where the semicolon is not just a punctuation mark but almost a logical connective.
+
+And interestingly, the punctuation mark that might end up being even more powerful in Tonesu than ; is actually : (colon)—because colons naturally introduce definitions, expansions, and conceptual hierarchies, which your compound system is already doing all the time.

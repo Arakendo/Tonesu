@@ -1172,3 +1172,361 @@ Written: `nosusi helms goti lopanofe / susi helms gozoli lopuma`
 **New vocabulary introduced:** `go-zo-li` (generative mother/parent-origin; S476); `su-no-fe` (boundless Way, first `[X]-no-fe` at cosmic scale; S474); `su-si-no-fe` (eternal name; S475); `no-su-si` (namelessness as ontological category; S476). Note: `su-si` (name/linguistic designation) attested from registry design, first corpus use here.
 
 **Open questions logged:** GAP-TAO-001 (no possibility modal — conditional `go {…}` substitutes but loses potentiality/actuality distinction); GAP-TAO-002 (道-as-verb pun: `su`-as-verb = "structures," not "speaks"; pun structurally irreproducible in Tonesu); GAP-TAO-003 (naming the unnameable — any Tonesu form assigned to the Tao enacts the violation described in lines 1–2; inscribed as the unavoidable condition of translation).
+
+---
+
+## `;` Productivity Corpus Test (S477–S488) — Batch: SCL-001
+
+**Purpose (OQ-GO-001):** Determine whether `;` is a productive notational shorthand for `go {…},` (equivalence) or carries a distinct semantic weight (different tool). The open question has two parts: (1) Does `;` arise naturally when writing, or do writers default to `go {…},` without friction? (2) Is `;` semantically identical to `go`, or lighter/softer? Admission condition: 10+ sentences across ≥2 text types where `;` is demonstrably preferred over `go`. This batch is the first test run.
+
+**Test design:**
+- **Text type A (S477–S481):** Natural process / narrative chains — contexts where causal sequence is evident without argument structure
+- **Text type B (S482–S486):** Philosophical and logical deduction — contexts where explicit causal force matters
+- **Text type C (S487–S488):** Diagnostic edge cases — tests where the two forms diverge, if they do
+
+Each sentence shows: `;` form · equivalent `go {…},` form · verdict.
+
+---
+
+**S477 — The light faded; darkness arrived.** *(SCL-001-A)*
+
+`;` form:
+```
+la-lu de ; la-no-ha ki
+```
+
+`go {…},` form:
+```
+go {la-lu de}, la-no-ha ki
+```
+
+**Verdict: `;` preferred.** Single-clause premise, simple consequence; `go {la-lu de},` adds structural weight that the sentence does not earn. The `;` form is what a writer would naturally produce. **SCL-001 count: 1.**
+
+---
+
+**S478 — The signal came; the community gathered.** *(SCL-001-B)*
+
+`;` form:
+```
+la-si ki ; la-zo-li-pu ne su
+```
+
+`go {…},` form:
+```
+go {la-si ki}, la-zo-li-pu ne su
+```
+
+**Verdict: `;` preferred.** Narrative event chain; `go` is not wrong but adds argumentative framing to what is a simple chronicle. `la-zo-li-pu ne su` = the plural-people entered relational-structure = gathered. **SCL-001 count: 2.**
+
+---
+
+**S479 — Fire burned; smoke rose; the signal reached far.** *(SCL-001-C)*
+
+`;` form:
+```
+la-ra-lu-ki be ; la-su-lu ki be ; la-si ki pa-no-ko
+```
+
+`go {…},` form:
+```
+go {la-ra-lu-ki be}, la-su-lu ki be  /  go {la-su-lu ki be}, la-si ki pa-no-ko
+```
+
+**Verdict: `;` strongly preferred.** Three-link chain. The `go` longhand requires two separate causal constructions and doubles the sentence length without adding information. `la-su-lu` = organized-light-rise = smoke (structural ascent of luminous matter; compositional; unregistered). `pa-no-ko` (W: open unenclosed space) carried from S399. The length argument alone would justify `;` here. **SCL-001 count: 3.**
+
+---
+
+**S480 — The seed sprouted; the plant grew; the fruit formed.** *(SCL-001-D)*
+
+`;` form:
+```
+la-du-zo-su ki ; la-zo-su be ; la-du ki
+```
+
+`go {…},` form:
+```
+go {la-du-zo-su ki}, la-zo-su be  /  go {la-zo-su be}, la-du ki
+```
+
+**Verdict: `;` strongly preferred.** Natural process chain; three links; `go` constructions feel argumentative in a context that is purely observational. `la-du ki` = the result-product came into being = fruit formed (inchoative). Re-uses `du-zo-su` (W142 fruit/seed) and `zo-su` (plant). **SCL-001 count: 4.**
+
+---
+
+**S481 — Knowledge grew; judgment sharpened; the people flourished.** *(SCL-001-E)*
+
+`;` form:
+```
+la-to be ; la-to-ki be ; la-zo-li-pu vo be
+```
+
+`go {…},` form:
+```
+go {la-to be}, la-to-ki be  /  go {la-to-ki be}, la-zo-li-pu vo be
+```
+
+**Verdict: `;` preferred.** Institutional flourishing narrative: a three-step development that does not need to argue for its causality (it observes it). `la-to-ki be` = knowledge-change grew = judgment developed. `la-zo-li-pu vo be` = the group's value grew = they flourished. The `go` form asserts causal weight; the `;` form describes causal sequence. Here the distinction first surfaces: the writer wants the lighter reading. **SCL-001 count: 5. Semantic note flagged.**
+
+---
+
+**S482 — I thought; therefore I existed.** *(SCL-001-F — contrast with S444)*
+
+`;` form:
+```
+la-mi to ; la-mi pa
+```
+
+`go {…},` form (S444):
+```
+la-mi to  go  la-mi pa
+```
+
+**Verdict: `go` preferred — `;` loses the deductive force.** This is the diagnostic sentence. S444 used `go` for the Cogito precisely because the Cogito is a logical *deduction* (the conclusion follows necessarily from the premise), not a causal sequence. `la-mi to ; la-mi pa` reads as: "I thought; and then I existed" — sequential. `la-mi to  go  la-mi pa` reads as: "From the fact that I thought, existence follows" — inferential necessity. **The two forms are not identical in this context.** `;` carries event-sequence weight; `go` carries deductive/causal weight. **Semantic difference confirmed. SCL-001-F is the differentiation test.**
+
+---
+
+**S483 — The law was structured; justice was maintained.** *(SCL-001-G)*
+
+`;` form:
+```
+la-su-ki su ; la-vo-su pa
+```
+
+`go {…},` form:
+```
+go {la-su-ki su}, la-vo-su pa
+```
+
+**Verdict: both natural; `;` slightly preferred for chronicle register, `go` for argument register.** `la-su-ki su` = the rule-system held structure = the law was structured. `la-vo-su pa` = value-system is present = justice was maintained. In a historical chronicle, `;` fits; in a normative argument ("this is how justice is maintained"), `go` fits. **Register-sensitivity confirmed: the two forms serve different rhetorical modes. SCL-001 count: 6 (`;` viable).**
+
+---
+
+**S484 — The clock moved; we departed.** *(SCL-001-H)*
+
+`;` form:
+```
+la-ti ki ; la-yu ki
+```
+
+`go {…},` form:
+```
+go {la-ti ki}, la-yu ki
+```
+
+**Verdict: `;` preferred — `go` is too strong.** `go` asserts the clock's movement *caused* the departure, which may be over-precise (it was the occasion, not the cause). `;` allows the causal reading without asserting it. This tests the asymmetry of force: `;` = "and then, consequentially"; `go` = "because, necessarily." **SCL-001 count: 7. Causal-strength asymmetry confirmed.**
+
+---
+
+**S485 — The relationship dissolved; the community lost structure.** *(SCL-001-I)*
+
+`;` form:
+```
+la-ne de ; la-zo-li-pu no su
+```
+
+`go {…},` form:
+```
+go {la-ne de}, la-zo-li-pu no su
+```
+
+**Verdict: both natural; writer's choice depends on argumentative intent.** If reporting what happened: `;` preferred. If explaining why the community lost structure: `go` preferred. The semantic gap is real and small — both could appear in the same text for different clause-types. **SCL-001 count: 8 (`;` viable).**
+
+---
+
+**S486 — DIAGNOSTIC: reversed chain — "We departed; the clock had moved."** *(SCL-001-J)*
+
+`;` form:
+```
+la-yu ki ; la-ti ki ti-de
+```
+
+**Verdict: well-formed but semantically inverted relative to S484.** `;` is directional — A ; B reads "A, therefore/then B." Reversing the pair gives a different (and here odd) claim: our departure caused or preceded the clock's movement. If the writer intends "we departed because the clock had moved," this must be `go {la-ti ki ti-de}, la-yu ki` — `go` with explicit `ti-de` (past). `;` cannot encode retrospective-causal sequence cleanly; `go` handles it. **Directionality confirmed: `;` is left-to-right; `go` with `ti-de` handles right-to-left.**
+
+---
+
+**S487 — DIAGNOSTIC: complex premise — CANNOT use `;`** *(SCL-001-K)*
+
+English source: "Because she signaled AND the observer saw, the plan was known."
+
+`go {…},` form:
+```
+go {la-ze ka-si  ro  la-zo-li se}, la-to-ki pa
+```
+
+`;` attempted:
+```
+la-ze ka-si  ro  la-zo-li se ; la-to-ki pa
+```
+
+**Verdict: `;` is grammatically ambiguous here.** The premise spans two participants and an instrument (`ro`); it is not a single clause. `la-ze ka-si ro la-zo-li se` is parseable as a compound action (`she signaled alongside the observer's perception`) but the `;` offers no way to explicitly bracket the joint premise. `go {…},` is unambiguous. **Single-clause constraint confirmed: `;` requires a simple premise.**
+
+---
+
+**S488 — DIAGNOSTIC: causal chain vs mere sequence** *(SCL-001-L)*
+
+Two candidate readings of "the machine changed; the process changed":
+
+Causal: `go {la-mu ki}, la-su ki` = because the device changed, the process changed (asserts mechanism)
+
+Sequential `;`: `la-mu ki ; la-su ki` = the device changed; the process changed (observes coincidence or sequence)
+
+**Verdict: distinguishable and both useful.** A writer reporting an observed sequence uses `;`. A writer arguing for a causal mechanism uses `go`. Both are present in technical and philosophical writing. **SCL-001 count: 9 (`;` viable in observational/sequential register).**
+
+---
+
+## SCL-001 Batch Summary
+
+| Entry | `;` verdict | Note |
+|-------|-------------|------|
+| S477 (SCL-001-A) | preferred | light faded → darkness; single-clause, no argumentative weight needed |
+| S478 (SCL-001-B) | preferred | signal → gathering; narrative register |
+| S479 (SCL-001-C) | strongly preferred | 3-link chain; `go` longhand doubles length without gain |
+| S480 (SCL-001-D) | strongly preferred | natural process chain; `go` feels argumentative |
+| S481 (SCL-001-E) | preferred | institutional flourishing; first register-sensitivity note |
+| S482 (SCL-001-F) | `go` preferred | Cogito: `;` loses deductive necessity; **differentiation test** |
+| S483 (SCL-001-G) | both viable | chronicle → `;`; normative argument → `go` |
+| S484 (SCL-001-H) | preferred | clock/departure: `go` over-asserts; `;` allows causal reading without committing |
+| S485 (SCL-001-I) | both viable | register-dependent; both natural |
+| S486 (SCL-001-J) | N/A — diagnostic | reversed chain: `;` directional; `go + ti-de` for retrospective |
+| S487 (SCL-001-K) | N/A — diagnostic | complex premise: `;` fails; `go {…},` required |
+| S488 (SCL-001-L) | preferred in observational register | causal vs sequential distinction confirmed |
+
+**`;` viable count: 9 of 12 (S477–S481, S483–S485, S488). Admission condition: 10 required.**
+
+---
+
+### SCL-001 Findings
+
+**1. `;` is productive and distinct from `go`.** They are not two notations for one semantic: `;` carries event-sequence / observational-chain weight; `go` carries deductive / argumentative / mechanism-asserted weight. S482 (Cogito) is the clearest proof: the Cogito expressed with `;` reads as temporal sequence; with `go` it reads as logical necessity. The two forms are not interchangeable in that context.
+
+**2. `;` is preferred in four contexts:**
+- Multi-link natural process or narrative chains (S479, S480: 3 links; `go` longhand becomes burdensome)
+- Chronicle/observational register where causality is noted but not argued (S477, S478, S481, S484)
+- Cases where `go` over-asserts the causal mechanism the writer only intends to suggest (S484, S488)
+- Any chain of ≥3 steps (S479, S480, S481: `go` longhand requires duplication)
+
+**3. `;` has two confirmed constraints:**
+- **Single-clause premise only** — confirmed by S487: `;` cannot wrap a complex joint premise
+- **Left-to-right directionality** — confirmed by S486: retrospective-causal order requires `go + ti-de`
+
+**4. The count falls one short of the admission condition.** 9 viable `;` sentences; admission requires 10 across ≥2 text types. Text type A (natural process/narrative: S477–S481, 5 sentences) and text type B (observational/institutional: S483–S485, S488, 4 sentences) are both represented. One more sentence from a third text type — or any additional text-type-A/B sentence — would meet the threshold.
+
+**Recommendation for OQ-GO-001:** Threshold is very close. The semantic distinction is confirmed (`;` ≠ `go`, finding 1). The productive contexts are clear (finding 2). The constraints are clear (finding 3). The admission condition requires one additional attested preference before formalizing. Any future sentence where the writer instinctively reaches for `;` over `go {…},` should be tagged SCL-002 and noted against the OQ-GO-001 counter.
+
+---
+
+## `;` Extended Corpus Test (S489–S493) — Batch: SCL-002
+
+**Purpose (OQ-GO-001):** SCL-001 ended at 9 viable sentences — one short of the admission threshold of 10. SCL-002 tests a third text type (practical/everyday sequence and proverbial wisdom) and one adversative diagnostic. Admission condition: 10 viable sentences total across ≥2 text types.
+
+**Text type C (S489–S492):** Practical sequence and proverbial wisdom
+**S493:** Adversative diagnostic — tests whether `;` handles non-causal sequential structure
+
+---
+
+**S489 — She perceived; she understood; she taught.** *(SCL-002-A)*
+
+`;` form:
+```
+la-ze se ; la-ze to ; la-ze ka-si-to
+```
+
+`go {…},` form:
+```
+go {go {la-ze se}, la-ze to}, la-ze ka-si-to
+```
+
+**Verdict: `;` strongly preferred.** Three-link learning chain. Encoding as nested `go` requires two levels of embedding and asserts two deductive mechanisms (perception caused understanding; understanding caused teaching) that the writer intends only as developmental observation. `ka-si-to` = deliberate-signal-knowledge = to deliberately transmit knowledge = to teach (`ka` + `si` + `to`; compositional; first corpus attested here). **Threshold met: SCL-002 count 1. Running total: 10.**
+
+---
+
+**S490 — The agreement formed; exchange began; both grew.** *(SCL-002-B)*
+
+`;` form:
+```
+la-ne-su ki ; la-zi ki ; la-pu-li be
+```
+
+`go {…},` form:
+```
+go {la-ne-su ki  go {la-zi ki}}, la-pu-li be
+```
+
+**Verdict: `;` preferred.** Social/economic development narrative; three steps. `la-ne-su ki` = the relation-structure came into being = the agreement was formed (`ne-su` = relation-structure = contract/agreement; compositional). `la-zi ki` = mutual exchange came into being = trade began. `la-pu-li be` = the plural-people grew = both parties flourished. The `go` form double-nests and asserts formal mechanism (agreement necessarily produced exchange, exchange necessarily produced flourishing); `;` reports what happened in sequence without over-claiming mechanism. **SCL-002 count: 2. Running total: 11.**
+
+---
+
+**S491 — Seed is placed; time moves; fruit arises.** *(SCL-002-C)*
+
+`;` form:
+```
+la-du-zo-su pa ; la-ti ki ; la-du ki
+```
+
+`go {…},` form:
+```
+go {la-du-zo-su pa  go {la-ti ki}}, la-du ki
+```
+
+**Verdict: `;` strongly preferred.** Classical three-step natural-process proverb. `la-du-zo-su pa` = the seed is present/placed = is planted (existential `pa`). `la-ti ki` = time changes = time passes. `la-du ki` = result comes into being = fruit arises. The proverb names what happens in order — it does not argue for the mechanism. The `go` form asserts deductive necessity: "because the seed was placed (and because time passed), fruit necessarily arose." The proverbial register is observational; `;` is precise. **First attestation of `;` in proverbial/wisdom register. SCL-002 count: 3. Running total: 12.**
+
+---
+
+**S492 — One spoke truly; another heard; trust formed.** *(SCL-002-D)*
+
+`;` form:
+```
+la-li ka-si-to ; la-li se ; la-ne-vo ki
+```
+
+`go {…},` form:
+```
+go {la-li ka-si-to  go {la-li se}}, la-ne-vo ki
+```
+
+**Verdict: `;` preferred.** Interpersonal wisdom register. `la-li ka-si-to` = a person deliberately signaled knowledge = spoke truthfully. `la-li se` = a person perceived = another heard (generic agent `la-li` recurs; context supplies the different-person reading, standard in proverb style). `la-ne-vo ki` = value-relation came into being = trust formed (`ne-vo` = relation-of-value = valued bond/trust; first attested here; compositional, unregistered). The `go` form turns a folk observation into a syllogism — "because truthful speech, because perception, therefore necessarily trust." `;` preserves the observational register: "when this happens, and then this, this is what arises." **First attestation of `ne-vo` (trust/valued-relation). SCL-002 count: 4. Running total: 13.**
+
+---
+
+**S493 — DIAGNOSTIC: "The plan was made; it failed." (adversative sequence)** *(SCL-002-E)*
+
+`;` form:
+```
+la-to-su ki ; la-ze de
+```
+
+`go {…},` form attempted:
+```
+go {la-to-su ki}, la-ze de
+```
+
+**Verdict: `;` correct; `go` is wrong.** `go {la-to-su ki}, la-ze de` asserts that the plan's formation *caused* its failure — which is false in the normal case. Making a plan does not cause it to fail. `;` is correct: the plan came into being, and subsequently it decayed/failed. No causal claim is asserted. **Critical finding and decisive upgrade to SCL-001:** `;` is not "causal-sequential" — it is **sequential**. A ; B = A, and then B. The causal reading is contextual and is *not* asserted by the mark. Where `go` would be factually wrong (the mechanism claim is false), `;` remains valid. The distinction exactly parallels Hume's problem of induction: constant conjunction (observable A-then-B, encoded by `;`) vs necessary connection (A causes B by mechanism, encoded by `go`). **SCL-002 count: 5. Running total: 14.**
+
+---
+
+## SCL-002 Batch Summary
+
+| Entry | `;` verdict | Note |
+|-------|-------------|------|
+| S489 (SCL-002-A) | strongly preferred | 3-link learning chain; double-nested `go` burdensome; **threshold met here** |
+| S490 (SCL-002-B) | preferred | social-economic sequence; `go` over-asserts mechanism |
+| S491 (SCL-002-C) | strongly preferred | proverbial register; first proverbial attestation; `go` wrong register |
+| S492 (SCL-002-D) | preferred | interpersonal wisdom; `ne-vo` (trust) first attested |
+| S493 (SCL-002-E) | preferred; `go` wrong | adversative: plan-formed ; plan-failed; `go` mis-asserts causality |
+
+**Running total: 14 viable sentences (9 SCL-001 + 5 SCL-002). Threshold of 10 passed at S489.**
+
+**Text types confirmed:** A (natural process/narrative, S477–S481), B (observational/institutional, S483–S485, S488), C (practical/proverbial, S489–S492), + adversative diagnostic (S493). Three distinct text types.
+
+---
+
+### SCL-002 Key Finding: `;` is a sequential connector, not a causal-sequential connector
+
+S493 upgrades the SCL-001 finding. `;` handles adversative sequences (plan-formed ; plan-failed) where `go` would misrepresent the causal structure. `;` should be characterized not as "lighter than `go`'s causal force" but as **structurally different from `go`**: the mark does not assert a connection type; it notes that B followed A.
+
+**Revised characterization:**
+- **A ; B** = "A, and then B" — the connection may be causal, incidental, adversative, or merely temporal; no mechanism is asserted
+- **A go B** = "A caused B" — the causal/deductive mechanism is asserted
+
+The distinction is Hume's: constant conjunction (`;`) vs necessary connection (`go`). `;` is always safe where `go` might be wrong; `go` is required where the mechanism claim is the point.
+
+**Admission condition met. OQ-GO-001 resolved. See spec/phonology.md for updated spec.**

@@ -58,6 +58,21 @@ Corpus evidence by batch (for cross-reference):
 | FAL-006 | Depth-3 hearsay chain · readability ceiling · laundering-at-depth · adversarial provenance | S391–S392 | s335-s397.md |
 | FAL-007 | Good-faith political speech · honest attribution · topic consistency · warranted causal chain · conservative epistemic calibration | S393–S397 | s335-s397.md |
 | EXO-001 | Exodus 3:1–15 — burning bush, divine name, liberation, holy ground | S398–S417 | s398-plus.md |
+| LSP-001 | Last Supper / Eucharist institution (Luke 22 / Matthew 26) | S418–S438 | s398-plus.md |
+| FMQ-001 | Famous quotes — `helm` / `helms` / `ven` operator stress test | S439–S446 | s398-plus.md |
+| JOH-001 | John 1:1 — three senses of `ἦν`; identity operator stress test | S447–S449 | s398-plus.md |
+| NEW-001 | Newton's First Law — universal quantification, biconditional | S450–S451 | s398-plus.md |
+| ROM-001 | Romans 7:19 — will/act gap, habitual-compulsive aspect | S452–S453 | s398-plus.md |
+| DKN-001 | Dickens opening — `helm` antithesis, `X-fe` extremal | S454–S458 | s398-plus.md |
+| MTH-001 | Matthew 16:25 — causal inversion paradox, `go` frame | S459–S460 | s398-plus.md |
+| WIT-001 | Wittgenstein Tractatus §1 — `helms`, facts vs objects | S461 | s398-plus.md |
+| HAM-001 | Hamlet III.i — bare-predicate pair, `/` inside topic NP | S462–S464 | s398-plus.md |
+| LPR-001 | Liar Paradox — self-reference blocks, Tarski hierarchy | S465–S467 | s398-plus.md |
+| BSH-001 | Bashō frog haiku — kireji as `/` vs `:` | S468–S470 | s398-plus.md |
+| EMD-001 | Emily Dickinson em-dash — prosodic suspension gap | S471–S473 | s398-plus.md |
+| TAO-001 | Tao Te Ching ch.1 — `su-no-fe`, naming paradox | S474–S476 | s398-plus.md |
+| SCL-001 | `;` productivity test — `;` vs `go {…},` across text types (OQ-GO-001) | S477–S488 | s398-plus.md |
+| SCL-002 | `;` extended corpus test — proverbial/practical text type; adversative diagnostic; threshold met, OQ-GO-001 closed | S489–S493 | s398-plus.md |
 | LSP-001 | Last Supper / Eucharist — institution formula, body/blood, covenant, remembrance, Passover | S418–S438 | s398-plus.md |
 | FMQ-001 | Famous quotes — `helm` functional equivalence, `helms` strict identity, `ven` approximation, `go` causal contrast | S439–S446 | s398-plus.md |
 | JOH-001 | John 1:1 — three senses of `ἦν`; existential / relational co-presence / nature attribution; GAP-JOH-001/002 | S447–S449 | s398-plus.md |

@@ -138,23 +138,29 @@ Without `'`, the default parse is right-branching: each new element modifies the
 
 **First corpus attestation:** S045 (T-APO-001).
 
+**Spoken form: `peld`** (G021) — CVCC; from `pe` (primitive root). In dictation and formal document reading, `peld` is inserted at each `'` position to explicitly signal the subcompound boundary. **`peld` is a valid written substitute for `'`** wherever the apostrophe symbol is unavailable or a word-form is preferred.
+
 ---
 
 ## Punctuation and Notation Marks
 
-Eight marks supplement `'`. Unlike `'`, these operate **outside** compound boundaries — at clause, sentence, or metalanguage level. Sentence and phrase marks have no phoneme equivalents; speech realizes them through pitch, stress, and prosodic phrasing. The last two marks (`:`, `::`) serve primarily as metalanguage notation and appear in Tonesu sentences only in the role specified for each.
+Twelve marks supplement `'`. Unlike `'`, these operate **outside** compound boundaries — at clause, sentence, or metalanguage level. Each mark carries a **use** classification: **spoken + written** marks are live in spontaneous discourse and writing alike; **written** marks are primary to written and formal-analytic contexts, with spoken forms available for dictation and pedagogy. Sentence and phrase marks have no phoneme equivalents; speech realizes them through pitch, stress, and prosodic phrasing. The marks `:` and `::` serve primarily as metalanguage notation and appear in Tonesu sentences only in the role specified for each. The marks `-` and `{}` are normative in metalinguistic, pedagogical, and technical contexts; conventional compound writing remains solid.
 
-| Mark | Name | Function |
-|------|------|----------|
-| `,` | clause separator | prosodic pause between a frame clause and its matrix, or between list items |
-| `!` | exclamation mark | end-of-utterance: heightened affective or emphatic force |
-| `?` | question mark | end-of-utterance: interrogative; orthographic counterpart to grammatical `to-si` |
-| `~` | approximation mark | pre-positional hedge: "approximately / roughly / on the order of / something like"; spoken form `ven` (G010) |
-| `()` | evidential frame | clause-level epistemic bracket: content is reported, inferred, or unattributed — not directly asserted; spoken forms `vund` (G014, open) / `vunds` (G015, close) |
-| `[]` | aside / commentary frame | non-semantic editorial or analytic annotation — does not alter truth conditions of surrounding text; removable without semantic change |
-| `:` | topic frame / definition mark | sentence-initial: "as for {topic}, ..." (topic frame); metalanguage: explanatory gloss (`term : reading`) |
-| `::` | canonical definition mark | structural decomposition (`term :: roots`); appears in written and verbal discourse; spoken form `helms` (G012) |
-| `/` | parallel partition | structural midpoint of a bi-clausal parallel or antithetical construction; marks two clauses as formally paired; spoken form `vel` (G013) |
+| Mark | Name | Use | Function |
+|------|------|-----|----------|
+| `,` | clause separator | spoken + written | prosodic pause between a frame clause and its matrix, or between list items; spoken form `wald` (G024) |
+| `!` | exclamation mark | spoken + written | end-of-utterance: heightened affective or emphatic force; spoken form `bold` (G025) |
+| `?` | question mark | spoken + written | end-of-utterance: interrogative; orthographic counterpart to grammatical `to-si`; spoken form `geld` (G026) |
+| `~` | approximation mark | spoken + written | pre-positional hedge: "approximately / roughly / on the order of / something like"; spoken form `ven` (G010) |
+| `()` | evidential frame | spoken + written | clause-level epistemic bracket: content is reported, inferred, or unattributed — not directly asserted; spoken forms `vund` (G014, open) / `vunds` (G015, close) |
+| `[]` | aside / commentary frame | written | non-semantic editorial or analytic annotation — does not alter truth conditions of surrounding text; removable without semantic change; spoken forms `zeld` (G022, open) / `zelds` (G023, close) serve dictation and pedagogy |
+| `:` | topic frame / definition mark | spoken + written | sentence-initial: "as for {topic}, ..." (topic frame); metalanguage: explanatory gloss (`term : reading`) |
+| `::` | canonical definition mark | spoken + written | structural decomposition (`term :: roots`); appears in written and verbal discourse; spoken form `helms` (G012) |
+| `/` | parallel partition | spoken + written | structural midpoint of a bi-clausal parallel or antithetical construction; marks two clauses as formally paired; spoken form `vel` (G013) |
+| `""` | quotation / mention frame | spoken + written | verbatim quotation of direct speech, linguistic mention (use/mention distinction), and titles/labels; spoken forms `sild` (G016, open) / `silds` (G017, close) |
+| `-` | morpheme boundary mark | written | marks root boundaries in a compound; normative in metalinguistic, pedagogical, and math/science contexts; spoken form `feld` (G018) |
+| `{}` | structural slot / scope bracket | written | marks a structural slot placeholder or formal scope group; normative in metalinguistic, mathematical, and formal-reasoning contexts; spoken forms `suld` (G019, open) / `sulds` (G020, close) |
+| `;` | sequential connector | written | directed A-then-B link: A ; B = A, and then B (connection type not asserted — may be causal, incidental, adversative, or temporal); single-clause premise only; left-to-right only; spoken form `teld` (G027) |
 
 ---
 
@@ -170,6 +176,8 @@ la-mi lo-mu, lo-ma, lo-ra ka-ko    →  I stored the object, the material, and t
 
 Omit when the boundary is unambiguous without it.
 
+**Spoken form: `wald`** (G024) — from `wa` (free CV; `w` = flowing): the pause mark. CVCC. In dictation and formal document reading, `wald` is inserted at each `,` position. **`wald` is a valid written substitute for `,`** wherever the symbol is unavailable or a word-form is preferred.
+
 ---
 
 ### `!` — Exclamation Mark
@@ -182,6 +190,8 @@ la-tu ka!                           →  Act! (imperative with force)
 ```
 
 Compatible with any sentence type including questions: `to-si  la-tu  ki!` = Where did you go?! (emphatic).
+
+**Spoken form: `bold`** (G025) — from `bo` (free CV; `b` = impact/force): the force mark. CVCC. In dictation and formal document reading, `bold` is pronounced at the `!` position. **`bold` is a valid written substitute for `!`** wherever the symbol is unavailable or a word-form is preferred.
 
 ---
 
@@ -196,6 +206,8 @@ End-of-utterance marker signaling **interrogative mode**. The grammatical questi
 to-si  la-tu  lo-to  ka-ko?         →  Who stored the knowledge?
 la-tu  lo-mu  ka-be?                →  Did you grow it? (casual: ? replaces fronted to-si)
 ```
+
+**Spoken form: `geld`** (G026) — from `ge` (property/attribute): the mark that seeks a property. CVCC. In dictation and formal document reading, `geld` is pronounced at the `?` position. **`geld` is a valid written substitute for `?`** wherever the symbol is unavailable or a word-form is preferred.
 
 ---
 
@@ -328,6 +340,8 @@ lo-ne-ra : la-mi  no-se  lo-ze        →  As for the resonance — I have no pe
 
 ### `[]` — Aside / Commentary Frame
 
+**Register: written.** Aside frames arise in written meta-commentary and formal analysis; they do not occur naturally in spontaneous speech. The spoken forms `zeld`/`zelds` exist for dictation and pedagogical settings where bracket positions must be explicitly named. Discourse use is not yet established — if a natural spoken-aside construction emerges in corpus use (e.g., a teaching or rhetorical register), this note should be revisited.
+
 `[]` marks **editorial or analytic commentary** — content that annotates a passage without participating in its argument or truth-conditional structure. It operates in the *analysis layer*, separate from the argument layer (`()`, `:`, `go`, epistemic markers).
 
 **Defining constraint — removal invariance.** Removing all `[]` frames from a passage must leave the surrounding Tonesu sentences semantically and grammatically unchanged. Any annotation that alters meaning when removed is not a valid `[]` frame — it belongs in the core grammar instead.
@@ -351,7 +365,7 @@ lo-ne-ra : la-mi  no-se  lo-ze        →  As for the resonance — I have no pe
 
 **Reconstruction use.** When a speaker has omitted an explicit `:` or `::`, an annotator may use `[]` to propose the likely structure after the fact, subject to rule 2 above. This provides graceful annotation of natural or imperfect speech without altering the original text.
 
-**Spoken form:** none. `[]` frames are not realized in oral Tonesu — they are written, typographic, and editorial. In oral contexts `[]` content is either omitted or delivered by explicit convention agreed by participants (e.g., "bracket note: …" as a meta-verbal cue). `[]` has no spoken phoneme equivalent and does not participate in prosodic parsing.
+**Spoken forms: `zeld`** (G022, open) / **`zelds`** (G023, close) — CVCC/CVCCS; neutral initial `ze`. `zelds` is produced by the bracket-pair convention (`zeld` + `s`). In ordinary speech `[]` frames are not produced; the spoken forms serve dictation, formal document reading, and pedagogical contexts where bracket positions must be explicitly signaled. **`zeld` and `zelds` are valid written substitutes** for `[` and `]` wherever the bracket symbols are unavailable or word-forms are preferred.
 
 **Disambiguation — spec notation vs. written Tonesu.** Going forward, spec examples, grammar glosses, and registry entries use `{...}` for *analytic notation*: slot placeholders (`la-{agent}`), subordinate clause scope (`go {premise}  result`), and structural groupings. `{...}` never appears in running Tonesu text. In a Tonesu passage, `[...]` is always an aside/commentary frame. Legacy spec text written before this convention was adopted uses `[...]` for analytic purposes; those occurrences are grandfathered and do not require retroactive correction.
 
@@ -378,6 +392,123 @@ go {X} / Y                           →  Because X / Y (premise / result)
 **Spoken form: `vel`** — registered as G013 in `registry/roots.md`. In speech, `/` is realized as `vel`. The written form `/` is canonical in formal and technical Tonesu; `vel` appears in speech, phonetic transcription, dictation, and wherever the written symbol is unavailable or a spoken word form is preferred. **`vel` is a valid written substitute for `/`** in all contexts where using the symbol is impractical.
 
 **Corpus pressure:** formalized after S450–S461 (March 2026). Six translation stress tests (JOH-001 through WIT-001) produced formally paired bi-clausal structures that neither `,` nor `du` adequately encoded. S452–S453 (Romans 7:19) and S454–S458 (Dickens) are the clearest cases: the clauses are antithetical, not causal, and the pairing is part of the semantic content. Three distinct clause types requiring the mark — antithetical parallel, will/act gap, and premise/result split — were all attested in the same batch.
+
+---
+
+### `""` — Quotation / Mention Frame
+
+A **verbatim-content marker** with three licensed uses:
+
+**1. Direct speech.** The enclosed string is the literal utterance of the agent.
+
+```
+la-mi li "la-tu zo"          →  I said: "you live."
+```
+
+Compare the evidential bracket: `la-mi li (Matthew 5:7)` = I said [citing Matthew 5:7] — source citation, not literal reproduction.
+
+**2. Mention (use/mention distinction).** The enclosed form is being named or discussed as a token, not used as a root or particle.
+
+```
+"si" helms si-ge             →  "si" is by definition signal-property.
+"tonofe" helms to-no-fe      →  "tonofe" denotes to-no-fe.
+```
+
+This is the canonical form for metalinguistic definitions and registry entries where the written token itself is the subject.
+
+**3. Titles and conceptual labels.** Proper names of texts, concepts, or named domains.
+
+```
+la-mi to lo-"Laozi"          →  I know [the text] "Laozi".
+```
+
+**Framing rule:** Content inside `""` is structurally opaque to the enclosing clause. The parser does not interpret internal compounds or particles as arguments of the outer sentence; the quoted string is an atom from the surrounding clause's perspective.
+
+**Relation to other marks:**
+- `()` — *epistemic hedge*: content is reported or unattributed; speaker does not directly assert it.
+- `""` — *verbatim claim*: content is reproduced exactly as a string; no epistemic qualification.
+- `[]` — *non-semantic annotation*: removed without semantic change.
+
+`""` may appear inside `[]` (metalinguistic annotation) and inside `()` (quoted reported speech). `()` inside `""` is disallowed — evidential wrap may not appear inside a verbatim string.
+
+**Register:** normative in written Tonesu. In speech, `sild` announces the open boundary and `silds` closes it. In casual speech quotation prosody alone (pitch boundary, slight hold) suffices; `sild`/`silds` are required in dictation, formal citation, and wherever nested quotation risks misparse.
+
+**Spoken form: `sild`** (G016, open) / **`silds`** (G017, close) — registered in `registry/roots.md`. `si` root: signal/communication. `sild` is CVCC; `silds` is CVCCS, produced by the bracket-pair convention (`sild` + `s`; the `+s` coda marks the secondary/closing element, per the CVCCS admission rule). Forms the minimal pair `sild`/`silds`. **`sild` and `silds` are valid written substitutes** for `"` and `"` wherever the double-quote symbols are unavailable or word-forms are preferred.
+
+**Probationary status:** admitted March 2026. Principal pressure: the use/mention distinction in metalinguistic registry entries (writing about `"si"` as a token, not using `si` as a root) and direct-speech corpus sentences. `()` does not cover verbatim reproduction. Review after first 20 corpus attestations.
+
+---
+
+### - — Morpheme Boundary Mark
+
+**Register: written.** Appears in metalinguistic, pedagogical, and technical-analytic contexts; not in spontaneous discourse.
+
+**Function:** explicitly marks the boundary between adjacent roots in a compound. Normative in metalinguistic, pedagogical, and formal-analytic contexts; in ordinary written Tonesu, compounds are written solid (e.g., `tofesuki` not `to-fe-su-ki`). The mark appears when the morpheme structure of a compound is itself the subject of discourse, annotation, or instruction.
+
+**Contexts where `-` appears:**
+1. **Metalinguistic analysis** — naming compound structure explicitly: `"toli" : to-li` (lit. `"toli"` is `to` modifying `li`)
+2. **Pedagogical display** — parse breakdown in examples: `tokimu :: to-ki-mu`
+3. **Math and science** — notation that exhibits constituent operators; e.g. the pattern `X-su` where the operator relation itself is the topic
+4. **Registry and spec** — analytic notation throughout this document continues to use `-`
+
+**Convention:** ordinary prose and standard compound writing uses the solid form only. `-` is not a general word separator and does not appear between words in running text.
+
+**Spoken form: `feld`** (G018) — from `fe` (boundary/limit): the mark that renders a root boundary visible. CVCC. **`feld` is a valid written substitute for `-`** wherever the ASCII hyphen symbol is unavailable or a word-form is preferred.
+
+---
+
+### {} — Structural Slot / Scope Bracket
+
+**Register: written.** Appears in metalinguistic, mathematical, and formal-reasoning contexts; not in spontaneous discourse.
+
+**Function:** marks a structural slot placeholder or formal scope group. The open brace `{` introduces the scope; the close brace `}` closes it. Normative in metalinguistic, mathematical, and formal-reasoning contexts.
+
+**Contexts where `{}` appears:**
+1. **Grammar slot notation** — `la-{agent}`, `go {premise}, result`
+2. **Set and group notation** (math and science) — `{X, Y, Z}` denotes the set or group containing X, Y, and Z
+3. **Structural grouping in formal reasoning** — marking scope of an operator or quantifier over a defined region
+4. **Registry and spec** — slot placeholders and structural groupings in grammar examples and entry formats
+
+**Relation to other brackets:**
+- `()` — *epistemic frame*: content is reported or unattributed; speaker does not directly assert it.
+- `[]` — *non-semantic aside*: removed without semantic change to the surrounding argument.
+- `{}` — *structural scope*: marks a formal slot or set boundary. No epistemic qualification; content type is structural, not propositional.
+
+**Spoken forms: `suld`** (G019, open) / **`sulds`** (G020, close) — from `su` (structure): the bracket that marks structural scope. `suld` is CVCC; `sulds` is CVCCS — produced by the bracket-pair convention (`suld` + `s`; the `+s` coda marks the secondary/closing element, per the CVCCS admission rule). Forms the minimal pair `suld`/`sulds`. **`suld` and `sulds` are valid written substitutes** for `{` and `}` wherever the brace symbols are unavailable or word-forms are preferred.
+
+---
+
+## Admitted Marks (March 2026)
+
+### `;` — Sequential Connector (Admitted March 2026)
+
+**Function:** marks a directed sequential link between two clauses: **A ; B** = A, and then B. The connection type (causal, incidental, adversative, temporal) is **not asserted by the mark** — it is supplied by content and context. This distinguishes `;` from `go`: `go` asserts that a mechanism runs from A to B (necessary connection); `;` notes that B followed A (constant conjunction). The distinction is Hume's.
+
+**Where `;` is preferred:**
+- Multi-link natural-process or narrative chains of ≥3 steps (reduces `go {…},` duplication)
+- Chronicle / observational / proverbial register where the sequence is noted but the mechanism is not argued
+- Cases where `go` would over-assert a causal mechanism (S484: the clock moved; we departed)
+- Adversative sequences where `go` would mis-assert causality (S493: the plan was made; it failed)
+
+**Where `go {…},` is required:**
+- Logical deduction / argumentative necessity (Cogito, modus ponens — S482/S444)
+- Complex or multi-clause premises (`;` is single-clause only — S487)
+- Retrospective causal framing with `ti-de` (`;` is left-to-right only — S486)
+
+**Spoken form:** `teld` (G027) — CVCC; from `te` (free CV; `t` = sequence/segmentation, sound symbolism). Functionally necessary: without a distinct spoken form, dictation of `A ; B` would require `go`, which collides with the causal mechanism particle and erases the precise distinction that `;` was admitted to encode. `teld` is a valid written substitute for `;` wherever the symbol is unavailable or a word-form is preferred.
+
+**Chain parse rule:** chains are **left-chaining** — each step sequences the next:
+
+```
+A ; B ; C
+=  A, and then B, and then C
+```
+
+**Single-clause constraint:** `;` is valid only when the premise (left side) is a single clause. A complex or multi-clause premise requires the full `go {…},` form (confirmed S487).
+
+**Relation to `/`:** `/` marks structural pairing between two co-equal clauses (symmetric, no directionality). `;` marks directed sequence (asymmetric, left-to-right). They are not interchangeable.
+
+**Corpus status:** admitted on the basis of 14 viable sentences across 3 text types (SCL-001: S477–S488; SCL-002: S489–S493). Semantic differentiation confirmed at S482 (Cogito: `;` reads as temporal; `go` reads as logical necessity). Sequential-only characterization confirmed at S493 (adversative sequence: `;` correct, `go` wrong). OQ-GO-001 resolved. See `notes/open-questions.md`.
 
 ---
 
@@ -474,7 +605,7 @@ The full tier system in order of word-shape complexity:
 | CV-CV+ | Compounds | Open compositional vocabulary | Expressible from existing roots; no new primitive needed |
 | CVC | Lexical descriptors | Digits, colors (closed class); scale prefixes (ergonomic shortforms) | Two sub-categories — see below |
 | CVCC | Exceptional anchors | Mathematical/physical constants; convention-defined units with no compositional expression | Assemblage-First Rule: see `notes/anchor-inventory.md §The Assemblage-First Rule` |
-| CVCCS | Notation pair closers | Spoken forms marking the secondary element of a two-part notation structure: (a) the doublet of a doubled written mark (`::` from `::`; future doubled marks); or (b) the closing bracket of a bracket-pair mark (`)` from `(`). | One rule only: a CVCC notation-marker spoken form may take `+s` to mark the second/closing element of its paired notation structure. Not a free-standing tier; each CVCCS form is bound to its CVCC base. Current instances: `helms` (G012, `::`, `-lm` coda) · `vunds` (G015, `)`, `-nd` coda). |
+| CVCCS | Notation pair closers | Spoken forms marking the secondary element of a two-part notation structure: (a) the doublet of a doubled written mark (`::` from `::`; future doubled marks); or (b) the closing bracket of a bracket-pair mark (`)` from `(`). | One rule only: a CVCC notation-marker spoken form may take `+s` to mark the second/closing element of its paired notation structure. Not a free-standing tier; each CVCCS form is bound to its CVCC base. Current instances: `helms` (G012, `::`, `-lm` coda) · `vunds` (G015, `)`, `-nd` coda) · `silds` (G017, `"`, `-ld` coda) · `sulds` (G020, `}`, `-ld` coda) · `zelds` (G023, `]`, `-ld` coda). |
 
 **CVC sub-categories:**
 
