@@ -3043,3 +3043,139 @@ ya, ke, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
 **Finding 3: `ya` does not substitute for `ke` in the pivot position (S577).** `ya` is an attention-signal — it scopes the committee's attention over the upcoming content but does not encode the pivot-past-stale-premise function. In high-inference contexts, `ya` may carry the pivot by implicature; in lower-inference contexts (transcripts, second-hand reporting, formal record) it would not. `ke` is the precise form; `ya` is a pragmatically adjacent but semantically weaker option.
 
 **Finding 4: `ya, ke,` stacks cleanly in the order `ya > ke > clause` (S578).** Parallels the established `ya > ru-fe > clause` stack. Both take `ya` as an outer pragmatic wrapper without interference. The two inner operators differ in mechanism: `ru-fe` = semantic scope restriction (truth-domain narrowing); `ke` = discourse positioning (locates the clause relative to prior exchange). Stacking rule: outermost operator is the widest pragmatic scope; inner operators are semantically specific; content is innermost.
+
+---
+
+## Diplomatic Treaty Negotiation (S579–S588) — Batch: DIP-001
+
+**Purpose (OQ-COR-001):** Third and final qualifying attestation for `ke`. Threshold for admission is 3 qualifying corpus sentences in multi-exchange dialogue where `no —` would produce informationally stale re-denial and `ke` is clearly the precise form. DEB-001 (S545) confirmed the rule in heated philosophical debate; MED-001 (S575) confirmed it in formal clinical consultation. DIP-001 tests a third structurally independent register: formal treaty negotiation between two delegations before a mediated session.
+
+**Why diplomatic negotiation is the most demanding test:** In treaty negotiation, re-performing a known position without new content does not merely signal informational waste — it has a **bad-faith interpretation** available to the opposing party. A delegation that responds to Round 3 with the same `no —` it produced at Round 1 can be characterized as obstructing the process rather than engaging it. `ke` is not just more informative here; it is strategically and diplomatically necessary. An observer logging `no —` at Round 3 in the formal minutes writes: "Delegation B reiterated its objection." An observer logging `ke` writes: "Delegation B advanced its counter-position." These are different entries in the record. The stakes for the distinction are maximal.
+
+**Scenario:** Two delegations negotiate the right over a shared resource territory (`ra-pa`) before a mediator. Delegation A holds that it has established treaty-based extraction rights. Delegation B holds that the rights vest in the shared commons entity, not in any single delegation. Both invoke the same treaty text (S581–S582) and then its canonical interpretive tradition (S583).
+
+**Vocabulary (all transparent composites):**
+
+| Form | Composition | Gloss |
+|------|-------------|-------|
+| `li-pu` | person + collective | delegation / political body (attested S564) |
+| `pa-pu` | place + collective | the commons / shared-territory entity |
+| `ra-pa` | energy/force + place | resource territory (the energy-bearing land) |
+| `wi-fe` | will + boundary | right / rule / normative claim (W100; legal/institutional register) |
+| `si-su` | signal + structure | written record / treaty text (attested S565) |
+| `to-su` | knowledge + structure | canonical interpretive record / established doctrine (attested S573) |
+
+---
+
+**S579 — A's Round 1: "The delegation asserts rights over the resource territory."** *(DIP-001-A)*
+
+```
+la-li-pu  ne  wi-fe  lo-ra-pa
+```
+
+**Notes:** A's opening claim. `la-li-pu ne wi-fe lo-ra-pa` = "The delegation holds the willed boundary over the resource territory" = "The delegation has the rule/right over the resource territory." Type 2 attributive predication: `la-li-pu` (agent slot) + `ne` (copula) + `wi-fe` (property: normative claim) + `lo-ra-pa` (patient: resource territory). **`wi-fe` first direct-form attestation in rights/legal register.** Previous attestation (S183, MMP-001) used `wi-fe-su` (rule-as-institution); this sentence uses the bare compound as a claimed property of an agent. Round 1 opening.
+
+---
+
+**S580 — B's Round 1 denial: `no —` is fresh.** *(DIP-001-B)*
+
+```
+no — la-pa-pu  ne  wi-fe  lo-ra-pa
+```
+
+**Notes:** B's counter-claim replaces A's agent with `pa-pu` (the commons entity): "No — the commons holds the right over the resource territory." The denial is fresh: B's counter-position has not been stated yet, the mediator has not heard it, and A has not been confronted with it. `no —` is correct. The prosodic suspension carries A's claim before B's replacement, exactly as in the correction-form paradigm. **`no —` adequate: denial and counter-claim are both new. Round 1.**
+
+---
+
+**S581 — A's Round 2 escalation: appeal to treaty text.** *(DIP-001-C)*
+
+```
+ya, la-si-su  ko  {la-li-pu  ne  wi-fe  lo-ra-pa}  ti-de
+```
+
+**Notes:** A raises the evidential bar from assertion to documentary record. `la-si-su ko {…}` = "the treaty text contains [the proposition that…]." The `ti-de` marks the text as historical/existing. `ya` directs the session's attention to this evidence. New content: A is no longer asserting on authority; A is citing a text. B must now engage with the documentary record, not just with A's claim. **Round 2; `ya` in treaty-session attentional function.**
+
+---
+
+**S582 — B's Round 2 counter: `no —` still adequate.** *(DIP-001-D)*
+
+```
+no — la-si-su  ko  {la-pa-pu  ne  wi-fe  lo-ra-pa}  ti-de
+```
+
+**Notes:** B reads the same treaty differently. Same document (`la-si-su`), same structure, different embedded proposition: the treaty contains commons-right, not delegation-right. B's denial is still adequate at Round 2 because A introduced new evidence in S581 — the counter-interpretation of the treaty is new content that materially responds to A's escalation. `no —` correctly refuses A's documentary reading and substitutes B's. **`no —` adequate: A escalated with documentary evidence; B's counter-reading is informative. Round 2.**
+
+---
+
+**S583 — A's Round 3: appeal to canonical interpretive tradition.** *(DIP-001-E)*
+
+```
+ya, la-to-su  si  {la-li-pu  ne  wi-fe  lo-ra-pa}
+```
+
+**Notes:** A escalates past the treaty text to the canonical interpretive tradition. `la-to-su si {…}` = "established knowledge signals [the proposition that…]." This is not a new document — it is the claim that the correct reading of the treaty is already settled in the interpretive record; A is not arguing the text, A is citing the consensus of prior determinations. For B at this point: the delegation-rights claim has been asserted (Round 1), backed by the treaty text (Round 2), and is now presented as interpretively settled by the canonical tradition (Round 3). B has already denied the claim twice. A third bare `no —` would not engage A's actual Round 3 move — it would simply re-perform B's known position without countering the canonical-tradition appeal. **Round 3 trigger established.**
+
+---
+
+**S584 — B's stale form: what `no —` produces.** *(DIP-001-F)*
+
+```
+no — la-pa-pu  ne  wi-fe  lo-ra-pa
+```
+
+**Notes:** DIAGNOSTIC. This is the form B would produce at Round 3 if following the correction-pattern mechanically. Propositionally identical to S580 and S582. A has just invoked canonical interpretive tradition (`la-to-su si {…}`); B's response re-states the commons-rights claim without engaging the canonical-tradition appeal at all. The mediator receives: "B repeated its position." This has three practical costs: (1) B fails to counter A's actual move (the tradition appeal goes unanswered); (2) B may be characterized as non-cooperative — a stalling tactic rather than genuine engagement; (3) the session record logs an objection, not a counter-argument. The form is grammatically correct but pragmatically wasteful and, in this register, strategically self-defeating. **DIAGNOSTIC (stale form): Round 3 `no —` performs a known denial without addressing A's escalated claim; costs are informational, strategic, and documentary.**
+
+---
+
+**S585 — B's `ke` form: third qualifying attestation.** *(DIP-001-G)*
+
+```
+ke, la-pa-pu  ne  wi-fe  lo-ra-pa ; la-to-su  si  {pa-pu  ne  wi-fe}
+```
+
+**Notes:** `ke` is the correct and precise form. B's denial of the delegation-rights claim is implied and already encoded in the session record — re-performing it adds nothing. `ke` signals: "setting the prior exchange aside, here is my affirmative position." The content then does real work: `la-pa-pu ne wi-fe lo-ra-pa` = B's affirmative counter-claim (the commons holds the right); `;` = sequential connection; `la-to-su si {pa-pu ne wi-fe}` = "the canonical interpretive record signals: commons-right is established" — B directly counters A's Round 3 `la-to-su si {…}` (S583) by citing the same institutional instrument in favor of the commons reading. A invoked canonical tradition; B counter-invokes it. `ke` makes clear B is running the argument forward, not circling back. The session record logs: "Delegation B advanced counter-canonical position." **OQ-COR-001: third qualifying attestation. `ke` threshold met. Corpus pressure: 3/3.**
+
+---
+
+**S586 — The bad-faith dimension: why `no —` vs `ke` matters in treaty record.** *(DIP-001-H)*
+
+**Notes:** In treaty negotiation, the formal session record distinguishes two types of delegational response: (1) a **lodged objection** — "Delegation B reiterated its rejection of Delegation A's position" — which is what `no — [counter-claim]` at Round 3 produces; and (2) a **submitted counter-position** — "Delegation B advanced its canonical counter-argument" — which is what `ke, [counter-claim]` produces. The distinction is not merely stylistic. A lodged objection is a veto move that pauses the process; a submitted counter-position is an argumentative move that advances the process. In negotiations that are designed to reach agreement rather than entrench opposition, the `ke` form is not just more precise — it is the form that signals good faith. The diplomatic function of `ke` is therefore: "I am not obstructing; I am advancing the counter-argument." This is the maximum-load version of the information-freshness rule: what would be informational waste in a philosophical debate becomes a bad-faith signal in a treaty context.
+
+---
+
+**S587 — Written formal register: `ke` in treaty-record notation.** *(DIP-001-I)*
+
+```
+ke, la-pa-pu  ne  wi-fe  lo-ra-pa ; la-to-su  si  {pa-pu  ne  wi-fe}
+```
+
+**Notes:** Same form as S585, considered now as a written submission rather than spoken utterance. In formal treaty record, `ke` would appear at the head of a counter-position filing: the written form is identical to the spoken form, as expected under Tonesu's spoken/written parity. The written record renders the session faithfully. The `ke` form in written submissions also prevents the ambiguity of `no — [claim]` in transcript: in transcript, `no —` followed by a claim can be parsed as either (a) correction of a prior misstatement or (b) institutional objection. `ke` is unambiguous in transcript: it is always a pivot-and-advance, never a simple denial. **Written-register function of `ke` confirmed; no new rule required; spoken and written forms are identical.**
+
+---
+
+## DIP-001 Batch Summary
+
+| Entry | Form | Verdict | Finding |
+|-------|------|---------|---------|
+| S579 (DIP-001-A) | A: `la-li-pu ne wi-fe lo-ra-pa` | baseline | Round 1 opening; `wi-fe` direct-form attestation in rights register |
+| S580 (DIP-001-B) | B: `no — la-pa-pu ne wi-fe lo-ra-pa` | adequate | Round 1; counter-claim fresh; `no —` correct |
+| S581 (DIP-001-C) | A: `ya, la-si-su ko {…} ti-de` | adequate | Round 2 escalation; treaty-text citation; new evidential content |
+| S582 (DIP-001-D) | B: `no — la-si-su ko {…} ti-de` | adequate | Round 2 counter; treaty counter-reading; addresses new content |
+| S583 (DIP-001-E) | A: `ya, la-to-su si {la-li-pu ne wi-fe lo-ra-pa}` | adequate | Round 3 trigger; canonical-tradition appeal; escalation complete |
+| S584 (DIP-001-F) | B: `no — la-pa-pu ne wi-fe lo-ra-pa` (stale) | **stale** | Round 3; re-performs known denial; A's canonical-tradition appeal unanswered |
+| S585 (DIP-001-G) | B: `ke, la-pa-pu ne wi-fe lo-ra-pa ; la-to-su si {pa-pu ne wi-fe}` | **`ke` preferred** | Round 3 pivot; advances affirmative counter-canonical position; **OQ-COR-001: 3/3** |
+| S586 (DIP-001-H) | bad-faith dimension | analytical | `no —` = lodged objection; `ke` = submitted counter-position; distinct documentary function |
+| S587 (DIP-001-I) | written-record form | attested | `ke` in treaty-record notation; written/spoken parity; no transcript ambiguity |
+| S588 (DIP-001-J) | — | — | [see recommendation below] |
+
+---
+
+### DIP-001 Findings
+
+**Finding 1: `ke` earns its third qualifying corpus attestation (S585, 3/3). Admission threshold met.** Three independent registers across three distinct corpus batches: heated philosophical debate (DEB-001, S545), formal clinical consultation (MED-001, S575), diplomatic treaty negotiation (DIP-001, S585). In each case the structural conditions are identical: a prior denial has been performed and is contextually encoded; `no —` at this point would produce a re-denial with no new informational content; `ke` pivots to the affirmative position without re-performing the known denial. The information-freshness rule holds across all three registers.
+
+**Finding 2: The diplomatic register reveals the maximum-load version of the `ke` function.** In treaty negotiation, the `no —` / `ke` distinction maps onto a functionally significant documentary difference: lodged objection vs submitted counter-position. `ke` signals argumentative good faith in a context where repetitive denial can be characterized as obstruction. This is stronger than informational efficiency: `ke` is the form required to advance a negotiation rather than entrench it.
+
+**Finding 3: `wi-fe` (W100) attested directly in a rights-claim predicate (S579, S580, S582, S585).** Four direct uses as the claimed normative property in `la-X ne wi-fe lo-Y` ("X holds the right over Y"). Prior use S183 used `wi-fe-su` (derived institution form). DIP-001 establishes `wi-fe` bare as a predicate in rights/legal register. Recommend updating W100 status from pending to active.
+
+**Recommendation: Admit `ke` (G032) as the canonical pivot particle.** Three qualifying attestations across three structurally independent registers. Form: CV, `ke`. Definition: discourse pivot marker — signals that the current speaker is setting aside a prior exchange and advancing an affirmative position; the denial of whatever was asserted in the prior exchange is implied without re-performance. Syntax: clause-initial, followed by `,`; same positional slot as `ya` and `ru-fe`. Written solid: `ke,` before the advancing clause. Stacks with `ya` as `ya, ke, [clause]` = "attend: {pivot} [affirmative claim]."
