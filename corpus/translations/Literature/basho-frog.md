@@ -167,7 +167,7 @@ The most minimal rendering. Agent (`la-zo-se-ma`) is dropped — the frog disapp
 
 **What it loses:** The frog is actually *in the poem* — `kawazu` is not grammatically absent in Japanese; the agent who performs `tobikomu` is explicitly named. S470 removes that. This is a compression beyond what the source licenses. S468 or S469 are the primary translations; S470 is an exploratory variant.
 
-**Grammatical note:** `ki lo-ma-ki` without `la-{agent}` — is this licensed? Tonesu grammar requires an agent in the `la-` slot for action predicates. The haiku strain here (GAP-BSH-004): can a motion predicate appear without an explicit agent, as a pure-event clause? Currently unresolved; S470 tests the limit.
+**Grammatical note:** `ki lo-ma-ki` without `la-{agent}` — is this licensed? **GAP-BSH-004 — Resolved.** Grammar §Ellipsis Pattern 3 (context drop) licenses omission of any argument when fully recoverable from discourse context. Within the BSH-001 batch, `zo-se-ma` (the frog) is explicitly established as agent in S468 and S469; agent drop in S470 is discourse-licensed. In a standalone reading, the agent is scene-recoverable (pond + motion + sound evoking the frog). S470 remains an exploratory compression beyond what the source licenses (Japanese names the frog explicitly); the grammar is not violated, but the translator's choice to omit it goes further than the original.
 
 ---
 
@@ -201,4 +201,4 @@ The most minimal rendering. Agent (`la-zo-se-ma`) is dropped — the frog disapp
 - **GAP-BSH-001**: no registered frog compound; `zo-se-ma` (aquatic-vertebrate) used by contextual disambiguation; a proper discriminator sub-node should be established in kinds.md when frog-reference recurs
 - **GAP-BSH-002**: Tonesu cannot produce a zero-predicate noun-sentence; `pa` (existential) is the minimum addition; this is a structurally unavoidable translation loss
 - **GAP-BSH-003**: no discourse-anaphora pronoun for recently-established referents; `re-fe-ma-ki` must be spelled out twice; this inflates compound length
-- **GAP-BSH-004**: agent-drop for pure motion-event clauses — is `ki lo-X` without `la-{agent}` grammatical? S470 tests the limit; not yet resolved
+- **GAP-BSH-004**: ~~agent-drop for pure motion-event clauses — is `ki lo-X` without `la-{agent}` grammatical? S470 tests the limit; not yet resolved~~ **Resolved (March 2026):** Grammar §Ellipsis Pattern 3 licenses agent drop when fully context-recoverable. In the batch `zo-se-ma` is established in S468/S469; S470's drop is discourse-licensed. The compression beyond source is a translator's choice, not a grammar violation.

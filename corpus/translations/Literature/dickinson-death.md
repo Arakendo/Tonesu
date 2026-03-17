@@ -63,7 +63,7 @@ Corpus sentences from this batch: **S471–S473**.
 | `de-zo` | **process** | `de-zo-li` | the-dying-one / Death personified |
 | `no-de-zo` | **negated process** | `no-de-zo-li` | the-not-dying-one / Immortality personified |
 
-Process-to-agent personification (`de-zo-li`) is the new territory. It follows the compositional rule — `X-li` = the person/agent who embodies X — but `X` has not previously been a process-compound. The register is mythological/poetic: Death and Immortality as characters who ride in carriages. The form is compositionally valid; whether it belongs in the main registry or is restricted to poetic register is a design decision. **GAP-EMD-002: process personification via `-li`.**
+Process-to-agent personification (`de-zo-li`) is the new territory. It follows the compositional rule — `X-li` = the person/agent who embodies X — but `X` has not previously been a process-compound. **GAP-EMD-002 — Resolved.** Morphology.md defines `-li` as "agent — one who does" with no restriction to entity-base inputs. The rule is: `X-li` = the social agent/person who embodies, performs, or is constituted by X, for any base X. Process compounds are valid inputs: `de-zo-li` = "the dying-person / the one who embodies dying" = Death personified; `no-de-zo-li` = "the not-dying person" = Immortality personified. The register remains mythological/poetic for process bases; this is a property of the source content, not a restriction on the morphological rule.
 
 ### The Dickinson dash — GAP-EMD-001
 
@@ -207,6 +207,6 @@ This uses `helm` for poetic metaphor: the poem does not say "the house was liter
 
 **Open questions logged:**
 - **GAP-EMD-001**: no mark for prosodic suspension / the Dickinson dash — the single largest structural gap between Tonesu and 19th-century English lyric. Possible resolution: first VC-tier admission as a prosodic-suspension mark. See OQ-VC-001 in `notes/open-questions.md`.
-- **GAP-EMD-002**: process personification via `-li` (e.g. `de-zo-li`) — productive rule or register-restricted? Registry decision needed
+- ~~**GAP-EMD-002**~~: **Resolved (March 2026).** `-li` (morphology.md: "agent — one who does") is productive over any base X, including process compounds. `de-zo-li` (Death personified) and `no-de-zo-li` (Immortality personified) are compositionally well-formed. The mythological/poetic register reflects the source content, not a morphological restriction.
 - **GAP-EMD-003**: narration from beyond death — `la-mi` used for a dead speaker; philosophically incoherent but grammatically unavoidable without a posthumous narration frame
 - **GAP-EMD-004**: no exclusive particle ("only / but just / merely") — "the carriage held *just* ourselves" cannot mark exclusivity

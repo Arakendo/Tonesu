@@ -30,18 +30,18 @@ Corpus sentences from this batch: **S462–S464**.
 | `ka-ra` | act with force / take arms | `ka` (act/do) + `ra` (energy/force) = act-forcefully; compositional, no registration required | the action-alternative to passive endurance |
 | `de-no-fe` | unlimited adversity / a sea of troubles | `de` (decay/harm) + `no-fe` (without limit) = harm without limiting bound = unbounded adversity | productive application of `[X]-no-fe` extremal suffix; first attested S464 |
 
-### The comparative gap (GAP-HAM-001)
+### ~~The comparative gap~~ (GAP-HAM-001 — Resolved)
 
-"Whether 'tis nobler in the mind to suffer..." requires a comparative construction: is X *more worthy/noble* than Y? Tonesu has:
-- `X-fe` = X at its extremum = the best/most-X (superlative; established DKN-001)
-- `X-no-fe` = X without limit (extremal; established THO-001)
-- `vo-be` = growing in value (trajectory; established JOH/DKN batches)
+**Resolved.** `nu-be` / `nu-no` are the established comparative particles (grammar.md §Comparison; corpus S039, S064–S067):
 
-But no standalone comparative particle ("more than," "rather than"). The nearest approximation:
-- `vo-be lo-Y` = value-increasing relative-to Y = more valuable than Y (patient marks the reference point)
-- Or: state both options and let the evaluative frame (`ne to-si-vo`, a value-inquiry) pose the comparison implicitly
+```
+lo-A  {quality}  nu-be  lo-B   →  A has more {quality} than B
+lo-A  {quality}  nu-no  lo-B   →  A has less {quality} than B
+```
 
-Neither pattern is formally established. **GAP-HAM-001: degree-comparison construction.** S462–S464 sidestep this by rendering the deliberative as a pure binary parallel (`X / Y : ne to-si`) without the comparative frame — the options are posed, not ranked.
+"Whether 'tis nobler" = `lo-{X}  vo  nu-be  lo-{Y}` = X has more worth than Y. A comparative rendering of S464 would be: `de lo-no-ko-ra vo nu-be ka-ra lo-de-no-fe : ne to-si` (whether endurance has more worth than taking arms is the question). The gap was logged in error; these particles predate this batch.
+
+S462–S464 chose the deliberative-binary reading (`X / Y : ne to-si` = "is {X or Y} the question?") over the comparative-ranking reading — both are valid translations of the soliloquy opening. The deliberative is arguably more faithful: Hamlet is not computing "which is nobler" but asking whether the question of valuing them is even the right frame. The binary translation stands on its own merits.
 
 ### Agent scope across `/` (GAP-HAM-002)
 
@@ -50,7 +50,7 @@ The sentence `la-mi pa / no-pa : ne to-si` is ambiguous: does `la-mi` scope over
 - **If agent scopes**: `la-mi pa / no-pa` = "[for me,] both existence and non-existence" — one agent governing the full parallel; more economical.
 - **If agent does not scope**: `la-mi pa / no-pa` = "me-existing / [generic] non-existence" — the second clause is agentless, shifting to the universal.
 
-S463 resolves this conservatively by repeating `la-mi` on both clauses. The question of whether agent ellipsis is licensed across `/` is unresolved. **GAP-HAM-002: agent ellipsis scope across `/` parallel.**
+S463 resolves this conservatively by repeating `la-mi` on both clauses. **GAP-HAM-002 — Resolved.** Grammar §Ellipsis Pattern 3 (context drop) licenses omission of any argument when it is fully recoverable from discourse context. In a topic-frame construction `{A / B} : {comment}`, the agent is context-recoverable across both branches of `/`; a single `la-mi` on the first clause is grammatically sufficient. The double-agent form in S463 is still the clearer translation; both are valid.
 
 ### `pa` as abstract concept-topic
 
@@ -97,7 +97,7 @@ The first-person reading: Hamlet asks specifically about *his own* existence. `l
 
 Compare S462: the universal reading needs no agent. S463 is more intimate — the soliloquy register, not the philosophical register. Both are valid translations of the same source line; the difference is register and interpretive emphasis.
 
-**Note on `la-mi pa / no-pa` (with agent on first clause only):** this form is possible but ambiguous pending resolution of GAP-HAM-002. It is *not* used here; shown only for reference.
+**Note on `la-mi pa / no-pa` (with agent on first clause only):** this form is grammatical under Grammar §Ellipsis Pattern 3 — `la-mi` is context-recoverable across `/`. It is not used here because the double-agent form is the clearer translation; both are valid.
 
 ### S464 — "Whether 'tis nobler... to suffer the slings and arrows... or to take arms against a sea of troubles" (HAM-001-C)
 
@@ -113,7 +113,7 @@ The second deliberative parallel: the two options Hamlet weighs.
 
 - `ka-ra lo-de-no-fe` = act-forcefully [patient: unlimited adversity] = "to take arms against a sea of troubles." `ka-ra` = act + force = to take vigorous action. `lo-de-no-fe` = patient: harm-without-limit = unbounded adversity = "a sea of troubles." `de-no-fe` follows the productive `[X]-no-fe` pattern: harm without any limiting boundary = the maximum of adversity — "sea of troubles" is not a quantity claim (so not `X-fe` = extremal) but a boundlessness claim (hence `X-no-fe`).
 
-**The "nobler" frame is absent**: the comparative judgment "whether it is nobler to do X than Y" is sidestepped by GAP-HAM-001. What remains is the pure deliberative binary: two options, a parallel partition, and the topic-frame assertion that *this pair* is the inquiry. The evaluative weight that was in "nobler" is now absent — Tonesu states the options without yet ranking them. A future `vo-be lo-{reference}` comparative would close this gap.
+**The "nobler" frame** is expressible: `lo-{X}  vo  nu-be  lo-{Y}` (X has more worth than Y; `nu-be` established grammar §Comparison, S039–S067). S464 chose the deliberative-binary reading over the comparative-ranking reading — both are valid; the binary is arguably more faithful to the soliloquy's rhetorical form, which poses a question rather than a verdict.
 
 ---
 
@@ -131,5 +131,5 @@ The second deliberative parallel: the two options Hamlet weighs.
 - `de-no-fe` (unlimited adversity; `de` = harm + `[X]-no-fe` extremal pattern; first attested S464)
 
 **Open questions logged:**
-- **GAP-HAM-001**: degree-comparison construction ("nobler than") — no productive comparative particle exists; `vo-be lo-{ref}` is the candidate but not yet formalized
-- **GAP-HAM-002**: agent ellipsis scope across `/` — does a single `la-{agent}` scope over both clauses of a parallel partition?
+- ~~**GAP-HAM-001**~~ **Resolved (March 2026):** `nu-be` / `nu-no` are the comparative particles (grammar.md §Comparison; S039, S064–S067). "Nobler than" = `lo-{X} vo nu-be lo-{Y}`. Logged in error; construction predates this batch.
+- ~~**GAP-HAM-002**~~ **Resolved (March 2026):** Grammar §Ellipsis Pattern 3 (context drop) licenses agent omission when fully recoverable from discourse context. In a topic-frame `{A / B} : {comment}`, agent is recoverable across both branches of `/`.
