@@ -2890,3 +2890,156 @@ For propositional content add containment: `la-to-si  ko  {X}` = "the teaching c
 **Finding 6: "It is written that X" is structurally active in Tonesu (containment predicate).** The form `la-{document}  ko  {X}` = "the document contains X" is active, with the text as container-agent occupying `la-`. There is no agentless equivalent for archival-passive constructions; the document is always the `la-` agent of the containment event. Scripture-to-Tonesu translation always uses this form. (S565)
 
 **Recommendation: Formalize the four-form passive typology at spec/grammar.md `§ Agentless and Passive Clauses`.** No new particle is needed — the full typology arises from existing resources (`ka` presence/absence, `ro-`, `lo-X` frame, `be` vs `de`). Close the grammar TODO.
+
+---
+
+## Medical Differential Diagnosis Consultation (S569–S578) — Batch: MED-001
+
+**Purpose (OQ-COR-001):** Second qualifying attestation test for `ke`. The first qualifying attestation was S545 (DEB-001-G) in a sustained philosophical debate, Round 3, when B's denial became informationally stale. The gap: `ke` is claimed to be appropriate whenever re-performing `no —` would pull the conversation backward without adding new information. One qualifying attestation is insufficient for admission (threshold: 3/3). This batch tests a different register — a formal medical differential diagnosis consultation — to confirm that the information-freshness rule generalizes across registers, not just heated philosophical debate.
+
+**Scenario:** Two senior clinicians — A (attending physician, proposes thermal hypothesis) and B (consulting specialist, proposes biological-signal hypothesis) — are reviewing a patient's acute deterioration before a case committee. Both have presented evidence over two rounds. By Round 3, A appeals to the canonical diagnostic record (`to-su`). For B at that point, re-stating `no —` would perform the same denial a third time. The room already knows B rejects the thermal hypothesis. `ke` is the right form.
+
+**Register note:** Medical differential diagnosis is a structurally brutal context for this test because:
+1. Both speakers are technically precise — loose language is professionally costly.
+2. The committee is listening — conversational waste (re-performing a known position) signals poor argumentation.
+3. The causal stakes are high — every word is accountable.
+
+**Vocabulary (all transparent composites; no new registry entries):**
+| Form | Composition | Gloss |
+|------|-------------|-------|
+| `se-ka-li` | perception + action + person | diagnostician / clinician (one who acts through perceptual investigation) |
+| `ha-be` | heat + growth | fever / rising temperature |
+| `si-zo` | signal + living | biological signal |
+| `si-zo-be` | signal + living + growth | escalating biological signal / infection cascade |
+| `ko-su` | containment + structure | organ / internal structure |
+| `zo-li` | living + person | patient (biological person) |
+| `to-su` | knowledge + structure | established knowledge / canonical record / the doctrine |
+
+---
+
+**S569 — A's opening claim: "The fever caused the patient's deterioration."** *(MED-001-A)*
+
+```
+go ha-be  lo-zo-li  de  ti-de
+```
+
+**Notes:** A's diagnostic hypothesis. Causal frame: `go ha-be` = "caused by heat-increase"; `lo-zo-li de ti-de` = "the patient deteriorated." A asserts a thermal causal chain as the primary mechanism. No epistemic hedge — A is putting forward a direct causal reading from observation. **Round 1 opening.**
+
+---
+
+**S570 — B rejects: Round 1, denial is fresh.** *(MED-001-B)*
+
+```
+no — go si-zo  lo-zo-li  de  ti-de
+```
+
+**Notes:** `no —` is correct here. B's denial of the thermal hypothesis is new information in this exchange — A has not heard it before, and the committee has not heard it before. B replaces A's causal chain with a competing one: `go si-zo` = "caused by biological signal" rather than thermal cause. This is the correction move: deny + replace. The `—` (prosodic suspension) carries the weight of A's discarded claim before B's replacement; same structure as S535–S568 range. **`no —` adequate: denial is informationally fresh. MED-001 round count: 1.**
+
+---
+
+**S571 — A escalates with perceptual evidence.** *(MED-001-C)*
+
+```
+ya, la-mi  se  lo-ha-be ; go ha-be  lo-ko-su  de  ti-de
+```
+
+**Notes:** A brings new material: (1) personal observation — `la-mi se lo-ha-be` = "I perceived the fever" — grounding the thermal claim in direct sensory evidence; (2) extends the causal chain from patient-level to organ-level: `go ha-be  lo-ko-su  de  ti-de` = "by the fever, the organ deteriorated." The `ya` marks this as the crux A wants the committee to register. The `;` connects the perceptual grounding to the causal extension: "I saw it, and here is what it caused." **A has raised the evidential bar and extended the scope of the thermal claim. B must respond to new content. Round 2.**
+
+---
+
+**S572 — B counters with perceptual redirect: Round 2, `no —` still adequate.** *(MED-001-D)*
+
+```
+no — la-tu  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
+```
+
+**Notes:** B's Round 2 response. `no —` is still adequate here because A introduced new evidence (S571) — B's counter must respond to it. The form: `la-tu se lo-si-zo-be` = "you [A] are perceiving the biological signal escalation [and misattributing it to thermal cause]" — B redirects A's perceptual report: you saw a signal cascade, not a fever effect; `go si-zo-be  lo-ko-su  de  ti-de` = "the organ deteriorated because of the biological signal escalation." B's denial is new at S572 because it specifically addresses A's perceptual evidence and extends B's own causal chain to the organ level. **`no —` adequate: A escalated with new evidence; B's counter is informative. MED-001 round count: 2.**
+
+---
+
+**S573 — A's Round 3 structural appeal: "The canonical record says thermal cause."** *(MED-001-E)*
+
+```
+ya, la-to-su  si  {go ha-be  lo-ko-su  de}
+```
+
+**Notes:** A's strongest move. Instead of further personal evidence, A appeals to `to-su` (established knowledge / the canonical diagnostic record). `la-to-su si {…}` = "established knowledge signals [the proposition that…]." The embedded clause `{go ha-be  lo-ko-su  de}` = "by thermal cause, the organ deteriorated" — the canonical record is on the thermal side. This is a structural appeal: A is now claiming that the thermal hypothesis does not need new defense — it is already in the record. For B at this point: the thermal hypothesis has been asserted (Round 1), backed by perceptual evidence (Round 2), and is now presented as institutionally established (Round 3). A third denial from B would re-engage a premise that the committee has been through twice. The information to convey is not "I still reject the thermal hypothesis" — the committee knows that. The information is: "here is the alternative evidence, here is the causal chain." **Round 3 trigger condition established.**
+
+---
+
+**S574 — B's stale form: what `no —` would produce.** *(MED-001-F)*
+
+```
+no — go si-zo-be  lo-ko-su  de  ti-de
+```
+
+**Notes:** DIAGNOSTIC. This is the form B would produce if following the Round 1–2 correction pattern mechanically. The content is identical to B's prior challenges (S570, S572). The denial `no —` re-voices a rejection of the thermal hypothesis that is already encoded in the debate context — A knows B rejects it; the committee knows B rejects it; there is no new informational content in re-performing the denial. The sentence is not *wrong* — it is grammatically correct, and `no —` still blocks the thermal claim — but it is a missed opportunity and a waste of the committee's inference budget. It also risks reading as B having run out of new arguments. **DIAGNOSTIC (stale form): `no —` is informationally redundant at Round 3 when the denial has been performed twice with no new evidence from A's side.**
+
+---
+
+**S575 — B's `ke` form: second qualifying attestation.** *(MED-001-G)*
+
+```
+ke, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
+```
+
+**Notes:** `ke` is the correct form here. The denial of the thermal hypothesis is implied — the committee already holds it as B's established position. B does not need to re-perform it. Instead `ke` signals: "setting that aside, here is my affirmative position." The content then delivers: `la-mi se lo-si-zo-be` = "I perceive the biological signal escalation" — a new perceptual claim that directly counters A's `la-to-su si {…}` (S573) at the evidence level; `go si-zo-be  lo-ko-su  de  ti-de` = "the organ deteriorated because of signal escalation" — the affirmative causal chain, advanced without re-litigating the prior denial. The shift from `no —` to `ke` encodes a real semantic difference in the discourse: B is no longer correcting A, B is running the argument forward. **OQ-COR-001: second qualifying attestation. `ke` is the precise form at Round 3 when the denial is informationally stale. Corpus pressure: 2/3.**
+
+---
+
+**S576 — `ke!` in the heated version.** *(MED-001-H)*
+
+```
+ke! la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
+```
+
+**Notes:** Same content as S575, added force marker `!`. In a heated committee room where A has just appealed to the canonical record — "the doctrine is on my side" — B's exasperation at the institutional appeal may push the register. `ke!` = forceful implicit denial + advancement, without the re-performance. The `!` here is professional anger (analogous to COR-001 `ke!`, S547 in DEB-001), not theatrical. **`ke!` in clinical-professional register: attested.**
+
+---
+
+**S577 — Contrast: `ya` alone does not substitute for `ke`.** *(MED-001-I)*
+
+```
+ya, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
+```
+
+**Notes:** Testing whether `ya` (attention-signal) can do the work of `ke` (pivot particle) in this position. `ya, [clause]` = "attend to this claim." It directs the committee's attention to B's evidence but **does not** encode the pivot past A's prior premise. The difference is subtle but real: `ya` says "look here"; `ke` says "setting the prior exchange aside, here is my position." In context, `ya` alone would give B's evidence but would leave the prior denial question open — the committee might hear it as a new supporting argument rather than as a pivot that supersedes the round-3 re-denial. In a high-inference context (medical committee — all technically literate), `ya` alone may carry the pragmatic load through implicature; in a less inferentially rich context (general audience, transcript reading without real-time updating), it would not. `ke` is the precise form; `ya` is pragmatically close but semantically weaker at this function. **`ya` does not substitute for `ke` in the pivot position: distinction confirmed.**
+
+---
+
+**S578 — `ya, ke,` stacking test.** *(MED-001-J)*
+
+```
+ya, ke, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
+```
+
+**Notes:** Tests whether `ya` and `ke` stack as clause-initial scope operators. Compare to the established stack `ya, ru-fe, [clause]` (S558). The parallel: `ya` (pragmatic outer scope: "attend") + `ke` (discourse pivot: "setting prior aside") + content. Does the stack hold? Order test: `ya` must be outermost — "attend to [the pivot + claim]"; `ke` operates inside `ya`'s scope — "the thing to attend to is: a pivot past the prior exchange + B's affirmative position." The reverse stack `ke, ya, [clause]` would be: "pivot + [attend to claim]" — this is structurally backwards; you would pivot before directing the room's attention, which loses the rhetorical value of the pivot. **`ya, ke,` stacks cleanly in the order `ya > ke > clause`,** mirroring `ya > ru-fe > clause`. The two stack differently in mechanism: `ru-fe` is a semantic scope marker (restricts the proposition's truth domain); `ke` is a discourse operator (positions the clause relative to prior exchange). Both take `ya` as their outer pragmatic wrapper without interference. **Stacking confirmed. `ya, ke, [clause]` = "attend: {setting prior aside} [affirmative claim]."**
+
+---
+
+## MED-001 Batch Summary
+
+| Entry | Form | Verdict | Finding |
+|-------|------|---------|---------|
+| S569 (MED-001-A) | A: thermal hypothesis `go ha-be lo-zo-li de ti-de` | baseline | Round 1 opening; causal frame |
+| S570 (MED-001-B) | B: `no — go si-zo lo-zo-li de ti-de` | adequate | Round 1; denial fresh; thermal hypothesis new to B |
+| S571 (MED-001-C) | A: `ya, la-mi se lo-ha-be ; go ha-be lo-ko-su de ti-de` | adequate | A escalates with perceptual evidence + organ-level extension |
+| S572 (MED-001-D) | B: `no — la-tu se lo-si-zo-be ; go si-zo-be lo-ko-su de ti-de` | adequate | Round 2; B's counter addresses new evidence; informative |
+| S573 (MED-001-E) | A: `ya, la-to-su si {go ha-be lo-ko-su de}` | adequate | A appeals to canonical record; Round 3 trigger established |
+| S574 (MED-001-F) | B: `no — go si-zo-be lo-ko-su de ti-de` (stale) | **stale** | Round 3; B re-performs known denial; no new information; denial already performed twice |
+| S575 (MED-001-G) | B: `ke, la-mi se lo-si-zo-be ; go si-zo-be lo-ko-su de ti-de` | **`ke` preferred** | Round 3 pivot; denial implicit; B advances affirmative case; **OQ-COR-001: 2/3** |
+| S576 (MED-001-H) | `ke!` heated version | attested | clinical-professional anger register; institutional-appeal trigger |
+| S577 (MED-001-I) | `ya,` alone (contrast) | adequate but weaker | `ya` misses the pivot dimension; works by inference in rich context; `ke` is precise form |
+| S578 (MED-001-J) | `ya, ke,` stack | attested | `ya > ke > clause` = attend + pivot + claim; parallel to `ya > ru-fe > clause`; discourse vs semantic scope |
+
+---
+
+### MED-001 Findings
+
+**Finding 1: `ke` earns its second qualifying corpus attestation (S575, 2/3).** Medical differential diagnosis is a structurally demanding register — technical precision is professionally mandated, and re-performing a known denial signals poor argumentation. At Round 3 (S575), B has already denied the thermal hypothesis twice (S570, S572), with neither denial adding anything at Round 3. `ke` advances B's affirmative evidence and causal chain without re-opening the denial question. The staleness is exact: S574 (`no —`) and S572 are propositionally identical denial-and-replace sequences; S574 adds nothing by being performed a third time.
+
+**Finding 2: The information-freshness rule holds across registers.** DEB-001 established the rule in heated philosophical debate (informal argumentative register). MED-001 confirms it in formal clinical consultation (high-stakes technical register). The threshold is not emotional intensity or register-formality — it is informational: `no —` is correct when the denial adds new information; `ke` is correct when the denial was already performed and its re-performance contributes nothing.
+
+**Finding 3: `ya` does not substitute for `ke` in the pivot position (S577).** `ya` is an attention-signal — it scopes the committee's attention over the upcoming content but does not encode the pivot-past-stale-premise function. In high-inference contexts, `ya` may carry the pivot by implicature; in lower-inference contexts (transcripts, second-hand reporting, formal record) it would not. `ke` is the precise form; `ya` is a pragmatically adjacent but semantically weaker option.
+
+**Finding 4: `ya, ke,` stacks cleanly in the order `ya > ke > clause` (S578).** Parallels the established `ya > ru-fe > clause` stack. Both take `ya` as an outer pragmatic wrapper without interference. The two inner operators differ in mechanism: `ru-fe` = semantic scope restriction (truth-domain narrowing); `ke` = discourse positioning (locates the clause relative to prior exchange). Stacking rule: outermost operator is the widest pragmatic scope; inner operators are semantically specific; content is innermost.
