@@ -2096,3 +2096,131 @@ Written: `lami losesu to — no lami si loze`
 **Finding 5: One VC admission case with no second case in hand.** OQ-VC-001 noted that a second VC-admission pressure case would strengthen the decision. EMD-002 does not bring a second case; it is a single-function opening. The counterpoint from VPC-001: V-tier was a single-category decision (scope-modifier prefixes) and it proved productive. VC-tier can open for a single well-defined function if the function is genuinely structurally distinctive.
 
 **Recommendation for OQ-VC-001:** Admit `—` as the prosodic-suspension mark. Assign `el` (VC, G028) as its spoken form. Open the VC tier with the notation: "exactly one form currently occupied (`el`); remaining VC slots reserved pending further admission cases." Document the phonological hazard: `el` is word-initial-only; it cannot appear mid-compound; it cannot be combined with role-markers (`la-el` is inadmissible). The mark `—` operates externally to compound structure in the same way all other punctuation marks do — no compound-internal issue arises.
+
+---
+
+## CV Particle Assignment — Vocative and Attention-Signal (S524–S531) — Batch: CVP-001
+
+**Purpose (OQ-V-001 + OQ-V-002):** Assign and corpus-test two CV particles confirmed as genuine structural gaps by VPT-001. The vocative gap (OQ-V-001) has three prior attestations (S496, S497, S502) using bare-V `o` as a placeholder — those attestations are hereby reassigned to the admitted form `he`. The attention-signal gap (OQ-V-002) has two prior attestations (S498, S499) using bare-V `e` — one more qualifying sentence triggers admission.
+
+**Assignments under test:**
+
+| Form | Function | Sound symbolism |
+|------|----------|----------------|
+| `he` | vocative / direct address — interpersonal call directed at a named person | `h` = breath/aspiration onset, the most universal calling consonant; opens toward the addressee. `e` = mid-front, salient. |
+| `ya` | attention-signal — pre-propositional content-directing marker | `y` = smooth/yielding onset, directed at content rather than person. `a` = broad/open, draws the interlocutor's field outward toward the upcoming claim. |
+
+**Key distinction:** `he` is interpersonal (directed *at a person*); `ya` is propositional (directed *at content*). Non-interchangeable by design.
+
+---
+
+**S524 — Standalone vocative: "Moses!"** *(CVP-001-A)*
+
+```
+he na-Moses!
+```
+
+**Notes:** `he` = vocative particle; `na-Moses` = proper name NP. The sentence is a complete speech act: a direct call. Three-way compare: (1) `na-Moses!` — exclamatory NP; still an NP, not an illocutionary act; (2) `he na-Moses!` — vocative speech act: I am calling you specifically; (3) `la-na-Moses ka-si` — "Moses spoke" (predicate clause; Moses is the agent, not the addressee). `he` is the only form that produces a standalone direct address at minimal length. **First attestation of `he` (form newly assigned). CVP-001 count: 1.**
+
+---
+
+**S525 — Vocative + imperative: "Moses! Go toward the mountain."** *(CVP-001-B)*
+
+```
+he na-Moses, ki di-pa-su
+```
+
+**Notes:** `he na-Moses` = direct address frame; `,` separates it from the following imperative clause; `ki di-pa-su` = move toward / in the direction of the mountain (dropped-agent imperative, standard). The `he` makes it unambiguous that `na-Moses` is the *addressee*, not the agent of the following clause — which `la-na-Moses, ki di-pa-su` would confusingly suggest (Moses as agent of the motion). **Second attestation. CVP-001 count: 2.**
+
+---
+
+**S526 — EXO-001 divine call retest: the burning bush calling** *(CVP-001-C)*
+
+```
+he na-Moses!
+la-na-Moses pa
+```
+
+**Notes:** Exodus 3:4 — God calls Moses by name ("Moses! Moses!"); Moses replies "Here I am." `he na-Moses!` = the bare call itself; a standalone speech act unavailable in the current system without a full predicate clause. `la-na-Moses pa` = Moses is present / Moses replies (existential `pa`, established). Compare S404 (`la-Elohim ka-si lo-na-Moses` = "Elohim signaled to Moses" — a propositional clause, not a call). The `he` form recovers the *calling* register that the S404 formulation encodes only as a report. **Third attestation. Admission threshold met (3 corpus sentences, distinct contexts). CVP-001 count: 3.**
+
+---
+
+**S527 — DIAGNOSTIC: `he na-X` vs `na-X!` vs `la-na-X`** *(CVP-001-D)*
+
+Three forms, one referent:
+
+```
+na-Moses!             [exclamatory NP — still an NP; not a speech act]
+he na-Moses!          [vocative speech act — direct call]
+la-na-Moses ka-si     ["Moses spoke" — predicate clause; Moses is agent]
+```
+
+**Verdict: `he` fills a unique illocutionary slot.** `na-Moses!` with `!` = a named-entity uttered with force; the exclamatory mark adds intensity but not illocutionary type — it is still an NP, not an addressed utterance. `he na-Moses!` = I am directly addressing Moses; the `he` signals that the following NP is the target of a speech act. `la-na-Moses ka-si` encodes Moses as grammatical agent. No overlap among the three. **`he` admitted as G029. OQ-V-001 resolved.**
+
+---
+
+**S528 — Standalone attention-signal before a major claim** *(CVP-001-E)*
+
+```
+ya, go-no-fe helms vo
+```
+
+**Notes:** `ya` = attention-signal particle; `,` separates; `go-no-fe helms vo` = "God is by definition love" (1 John 4:8, established from S499 context). `ya` here = "mark this / attend to what follows." No emotional assertion — pure content-direction. The interlocutor's field of attention is drawn outward toward the claim, not toward the speaker's affective state. Compare `fa-be!` ("my affect rises!") — `ya` asserts nothing about the speaker. **First attestation of `ya` (form newly assigned). CVP-001 count: 4.**
+
+---
+
+**S529 — Attention-signal before an event (Bashō register)** *(CVP-001-F)*
+
+```
+ya, la-zo-se-ma ki lo-re-fe-ma-ki
+```
+
+**Notes:** `ya, [event]` = "[look] — a frog jumped into the old pond." `ya` directs attention to the incoming event; the speaker's affective response is not asserted, only the redirection of the listener's attention to what is about to be named. This is the natural opener for any event or revelation that the speaker wants the listener to notice before it is stated. In haiku register: `ya` recovers the *kireji*-like pause-before-content that `e, ...` was originally proposed for in VPT-001 (S498). **Second attestation. CVP-001 count: 5.**
+
+---
+
+**S530 — DIAGNOSTIC: `ya` vs `he` head-to-head** *(CVP-001-G)*
+
+```
+he na-Moses, ki di-pa-su      [you — go toward the mountain]
+ya, ki di-pa-su               [look — go toward the mountain]
+```
+
+**Verdict: non-interchangeable.** `he na-Moses, ki di-pa-su` = the addressee is foregrounded; the instruction is given to a named person. `ya, ki di-pa-su` = the content is foregrounded; the instruction is what the speaker wants attended to, not who is being told. If the context requires singling out Moses specifically, `he` is required; if the speaker wants to emphasize the instruction itself (to an unnamed group or an already-identified interlocutor), `ya` is the correct form. The distinction preserves across registers. **`ya` non-interchangeable with `he` confirmed. Third attestation. Admission threshold met. CVP-001 count: 6.**
+
+---
+
+**S531 — `ya` + `—` prosodic combination** *(CVP-001-H)*
+
+```
+ya — la-mi to lo-ze
+```
+
+**Notes:** `ya` (attention drawn); `—` (suspension, held breath); `la-mi to lo-ze` (I know it — the revelation arrives). Three stages: attention, suspension, arrival. Tests whether `ya` and `—` interact cleanly. They do: `ya` is a CV word in isolation; `—` is a punctuation mark external to compound structure; `la-mi to lo-ze` is the clause that arrives from the held state. No parse ambiguity arises. The combination produces a rhetoric not available from either mark alone: the speaker draws attention, then holds before delivering the claim — the `—` is not a fresh suspension but a continuation of the attentional arc opened by `ya`. **`ya` + `—` combination attested. `ya` admitted as G030.**
+
+---
+
+## CVP-001 Batch Summary
+
+| Entry | Form | Verdict | Note |
+|-------|------|---------|------|
+| S524 (CVP-001-A) | `he` | first attestation | standalone call; `na-X` is NP; `he na-X` is speech act |
+| S525 (CVP-001-B) | `he` | second attestation | vocative + imperative; addressee ≠ agent |
+| S526 (CVP-001-C) | `he` | **threshold met** | EXO-001 burning bush call; OQ-V-001 resolved |
+| S527 (CVP-001-D) | `he` | diagnostic | three-way `na-X!` / `he na-X!` / `la-na-X` compared; `he` unique |
+| S528 (CVP-001-E) | `ya` | first attestation | content-directed attention marker; no affect assert |
+| S529 (CVP-001-F) | `ya` | second attestation | event-attention opener; Bashō register |
+| S530 (CVP-001-G) | `ya` | **threshold met** | `ya` vs `he` non-interchangeable; OQ-V-002 resolved |
+| S531 (CVP-001-H) | `ya` | combination | `ya` + `—` combination clean; `ya` admitted as G030 |
+
+**Running total: S524–S531 (8 sentences).**
+
+---
+
+### CVP-001 Findings
+
+**Finding 1: `he` (vocative) fills a genuine illocutionary gap.** `na-X` is always an NP; `he na-X` is a speech act. The gap is structural, not stylistic. Three admitted positions: standalone call (S524), call + imperative (S525), repeated divine call (S526). Phonology: `h`-onset is the natural aspiration of calling; `e` vowel is mid-front and salient. No collision with any existing root or particle. `he` admitted as G029.
+
+**Finding 2: `ya` (attention-signal) fills a genuine pre-propositional gap.** `fa-be!` asserts emotional state; `ya` asserts nothing — it directs attention. Three admitted positions: before a major philosophical claim (S528), before an observed event (S529), foregrounded content in an imperative context (S530). Phonology: `y`-onset is smooth/yielding, fitting a form directed at content rather than persons; `a` vowel is maximally open, drawing the listener outward. No collision with any existing root or particle. `ya` admitted as G030.
+
+**Finding 3: `he` and `ya` are non-interchangeable by structural design.** `he` targets a *person* (`he na-X`); `ya` targets *content* (the upcoming proposition or event). Attempting to substitute one for the other produces a different speech act or a nonsensical combination — confirmed in S527 and S530. The interpersonal/propositional asymmetry is the key design property that makes both admissions justified simultaneously without redundancy.

@@ -76,6 +76,7 @@ Corpus evidence by batch (for cross-reference):
 | VPT-001 | V-particle productivity test — `o` vocative and `e` attention confirmed; `a` / `u` marginal; `i` not needed | S494–S503 | s398-plus.md |
 | VPC-001 | V-prefix class productivity test — all 5 prefixes attested; `a-` = abstract, `i-` = precise, `u-` = interior, `o-` = collective, `e-` = emergent; `u-to` fills TAO-001 gap; `a-` merge hazard after `la-`; OQ-V-003 resolved | S504–S513 | s398-plus.md |
 | EMD-002 | Dickinson dash — prosodic suspension mark `—` admitted; distinct from `,` `;` `/` `!`; 6 syntactic positions; cross-register; `el` (G028, VC tier) as spoken/written-substitute form; author chooses `—` or `el`; OQ-VC-001 resolved | S514–S523 | s398-plus.md |
+| CVP-001 | CV particle assignment — `he` (G029, vocative) and `ya` (G030, attention-signal) admitted; `he` = interpersonal call (`he na-X!`); `ya` = content-directing attention marker (`ya, [clause]`); non-interchangeable; OQ-V-001 and OQ-V-002 resolved | S524–S531 | s398-plus.md |
 | LSP-001 | Last Supper / Eucharist — institution formula, body/blood, covenant, remembrance, Passover | S418–S438 | s398-plus.md |
 | FMQ-001 | Famous quotes — `helm` functional equivalence, `helms` strict identity, `ven` approximation, `go` causal contrast | S439–S446 | s398-plus.md |
 | JOH-001 | John 1:1 — three senses of `ἦν`; existential / relational co-presence / nature attribution; GAP-JOH-001/002 | S447–S449 | s398-plus.md |
