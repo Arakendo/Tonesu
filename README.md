@@ -709,7 +709,6 @@ notes/              Design rationale, semantic map, open questions, history
 | Domain namespaces | [registry/domains.md](registry/domains.md) |
 | Open design questions | [notes/open-questions.md](notes/open-questions.md) |
 | Conceptual domain map | [notes/semantic-map.md](notes/semantic-map.md) |
-| Design history | [notes/design-history.md](notes/design-history.md) |
 | Prior art | [notes/prior-art.md](notes/prior-art.md) |
 
 ## Current State (March 2026)
