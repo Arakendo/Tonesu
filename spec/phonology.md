@@ -90,7 +90,7 @@ Breaking invariant 1 forces lookahead. Breaking invariant 2 produces parse ambig
 
   **Corpus basis:** VPC-001 (S504–S513). All 5 prefixes attested and productive.
 
-- VC: **deferred — word-initial only if ever admitted** — a vowel-initial syllable with a closing consonant (e.g. `an`, `el`, `im`). Shares the same word-initial constraint as bare V; mid-compound VC violates invariant 1 and creates lookahead (is `beanto` parsed `be|an|to` or `bea|nto`?). Word-initial VC parses cleanly because the word boundary precedes it: `an-be`, `im-ra`, `us-lo` are all unambiguous. Up to ~40 clean forms available. No current assignment; no current pressure (37 CV slots remain free). Condition for opening this tier: CV near-exhaustion, or need for a phonologically distinct particle/pronoun class. See § Open Questions.
+- VC: **admitted — word-initial only** — a vowel-initial syllable with a closing consonant. Shares the word-initial constraint with bare V; mid-compound VC violates invariant 1 and creates lookahead. Word-initial VC parses cleanly because the word boundary precedes it: `el-X`, `an-be`, `im-ra` are unambiguous. **One form currently occupied:** `el` (G028) — the spoken/written form of `—` (prosodic-suspension mark; admitted EMD-002, March 2026). Remaining ~39 VC slots reserved; no second assignment pending. Condition for further expansion: CV near-exhaustion, or need for a phonologically distinct particle/pronoun class. See § Open Questions.
 - CVC: allowed (kel, sun, mar)
 - No clusters (CC) in core roots
 - Clusters may appear at compound boundaries but should be avoidable via vowel-final roots
@@ -150,7 +150,7 @@ Without `'`, the default parse is right-branching: each new element modifies the
 
 ## Punctuation and Notation Marks
 
-Twelve marks supplement `'`. Unlike `'`, these operate **outside** compound boundaries — at clause, sentence, or metalanguage level. Each mark carries a **use** classification: **spoken + written** marks are live in spontaneous discourse and writing alike; **written** marks are primary to written and formal-analytic contexts, with spoken forms available for dictation and pedagogy. Sentence and phrase marks have no phoneme equivalents; speech realizes them through pitch, stress, and prosodic phrasing. The marks `:` and `::` serve primarily as metalanguage notation and appear in Tonesu sentences only in the role specified for each. The marks `-` and `{}` are normative in metalinguistic, pedagogical, and technical contexts; conventional compound writing remains solid.
+Thirteen marks supplement `'`. Unlike `'`, these operate **outside** compound boundaries — at clause, sentence, or metalanguage level. Each mark carries a **use** classification: **spoken + written** marks are live in spontaneous discourse and writing alike; **written** marks are primary to written and formal-analytic contexts, with spoken forms available for dictation and pedagogy. Sentence and phrase marks have no phoneme equivalents; speech realizes them through pitch, stress, and prosodic phrasing. The marks `:` and `::` serve primarily as metalanguage notation and appear in Tonesu sentences only in the role specified for each. The marks `-` and `{}` are normative in metalinguistic, pedagogical, and technical contexts; conventional compound writing remains solid.
 
 | Mark | Name | Use | Function |
 |------|------|-----|----------|
@@ -167,6 +167,7 @@ Twelve marks supplement `'`. Unlike `'`, these operate **outside** compound boun
 | `-` | morpheme boundary mark | written | marks root boundaries in a compound; normative in metalinguistic, pedagogical, and math/science contexts; spoken form `feld` (G018) |
 | `{}` | structural slot / scope bracket | written | marks a structural slot placeholder or formal scope group; normative in metalinguistic, mathematical, and formal-reasoning contexts; spoken forms `suld` (G019, open) / `sulds` (G020, close) |
 | `;` | sequential connector | written | directed A-then-B link: A ; B = A, and then B (connection type not asserted — may be causal, incidental, adversative, or temporal); single-clause premise only; left-to-right only; spoken form `teld` (G027) |
+| `—` | prosodic suspension | spoken + written | holds a phrase, clause, or fragment in incompletion — suspended, not closed; no assertion about what follows; may appear post-clause, mid-NP-list, after fragments, or terminally; spoken/written-substitute form `el` (G028, VC tier) |
 
 ---
 
@@ -518,6 +519,37 @@ A ; B ; C
 
 ---
 
+### `—` — Prosodic Suspension (Admitted March 2026)
+
+**Function:** marks a **held incompletion** — a phrase, clause, or fragment that is suspended rather than closed. The idea before `—` has not been resolved; the breath is held before whatever (if anything) follows. `—` makes no assertion about the content, connection, temporal order, or status of what follows; it signals only that the unit before it is left open.
+
+**Distinction from other marks:**
+
+| Mark | What it asserts | `—` contrast |
+|------|----------------|--------------|
+| `,` | completed boundary; clean handoff to next clause | `—` leaves the preceding unit open; resumption emerges from a held state |
+| `;` | A followed B (directed sequence, constant conjunction) | `—` asserts no sequence, no connection, no directionality |
+| `/` | two clauses formally paired as a dyad (symmetric) | `—` is successive dwelling, not structural pairing |
+| `!` | heightened force at end of utterance | `—` is incompletion, not emphasis |
+
+**Admitted positions (EMD-002):**
+- Post-clause: `la-su ki — la-mi se lo-ze` (structure changed — I perceived it)
+- Mid-patient-list, creating revelation-arrival: `lo-mi lo-de-zo-li — lo-no-de-zo-li` (us, Death — Immortality)
+- Pre-reveal mid-sentence: `de-ki ne-di-ko-pa — ko-pa helm be-ma-pa`
+- After bare NP fragment: `na-Moses —` (name spoken and suspended)
+- Post-agent NP before predicate: `la-de-zo-li — wi-vo de-ki lu-mi`
+- Terminal, after a grammatically complete sentence: sentence closed grammatically, phenomenologically open
+
+**Register:** spoken + written. Cross-register: productive in poetry (Dickinson, EMD-001/EMD-002), investigative prose, and any context where a speaker dwells before resumption or trailing silence.
+
+**Spoken/written-substitute form: `el`** (G028) — **VC tier**; first VC-tier form admitted. `e` = shifting/emergent (consistent with V-class sound symbolism); `l` = liquid coda, trailing — phonosemantically appropriate for a suspension that does not close. `el` is **word-initial only** (parse invariant 1 holds; mid-compound VC violates consonant-onset requirement). It cannot be used inside a compound or combined with role-markers.
+
+**Author choice:** `—` (em-dash, U+2014) and `el` are equally normative and refer to the same mark. The author may choose freely between them in any text. `el` is likely preferred in verse where the suspension is itself a voiced presence, in texts where the em-dash glyph is unavailable, or in deliberate poetic contexts where the word-form is more expressive than the symbol. `—` is likely preferred in prose and running text. Neither form takes precedence over the other.
+
+**Corpus basis:** EMD-002 (S514–S523, March 2026). OQ-VC-001 resolved.
+
+---
+
 ## Sound Symbolism (Advisory, Not Binding)
 
 These are tendencies, not rules. They inform root design intuitively but do not override compositional meaning.
@@ -625,6 +657,6 @@ The full tier system in order of word-shape complexity:
 ## Open Questions
 
 - [ ] Adopt vowel length as a morphological tool, or avoid complexity?
-- [x] ~~**V and VC syllable shapes — status and admission rule.**~~ **Resolved (March 2026).** V (bare vowel, word-initial only): admitted as **V-prefix scope-modifier class** (VPC-001, March 2026) — all 5 forms (`a e i o u`) assigned as compound-initial scope modifiers (`a-`=abstract/universal, `i-`=particular/precise, `u-`=interior/foundational, `o-`=collective/distributed, `e-`=emergent/transitional). Documented in § Syllable Structure and spec/word-formation.md § V-Prefix Scope Modifiers. VC (vowel + coda, word-initial only if ever admitted): still deferred; ~40 clean forms available; admission condition = CV near-exhaustion OR need for a phonologically distinct class.
+- [x] ~~**V and VC syllable shapes — status and admission rule.**~~ **Both resolved (March 2026).** V (bare vowel, word-initial only): admitted as **V-prefix scope-modifier class** (VPC-001) — all 5 forms (`a e i o u`) assigned as compound-initial scope modifiers. Documented in § Syllable Structure and spec/word-formation.md § V-Prefix Scope Modifiers. VC (vowel + coda, word-initial only): **admitted, one form occupied** — `el` (G028) as the spoken/written-substitute form of `—` (prosodic-suspension mark; EMD-002, March 2026). Remaining ~39 VC slots reserved. Documented in § Syllable Structure and `§— — Prosodic Suspension`.
 - [x] ~~Allow CVC codas freely, or restrict to a subset of consonants?~~ **Resolved.** CVC codas are restricted: preferred `n l r m s`, marked `z f h`, stops discouraged. Full rule in §CVC Root Reserve and `notes/anchor-inventory.md §Design Constraints`. CVCC tier is the relaxed alternative — no CV stem restriction; CC coda from sonorant/fricative set.
 - [x] ~~Define phonotactics at compound boundaries explicitly?~~ **Resolved.** CV-primitive design makes all internal compound boundaries V.C by construction — no clusters arise. CVC/CVCC forms are particle-surrounded in grammar and never directly chained. See open-questions.md § Phonology.
