@@ -1772,6 +1772,95 @@ la-si-su     ko  {la-ra-ki-li  se  lo-pa-ra}  (S191) →  The archive holds: the
 
 ---
 
+## Agentless and Passive Clauses
+
+Tonesu expresses passivity through the existing argument-slot system. There is no dedicated passive morpheme. Instead, the distinction between intentional and non-intentional agentless clauses is encoded by the presence or absence of the `ka` intentionality prefix in the predicate. Four canonical forms are established (PAV-001, S559–S568).
+
+### Form 1 — Non-intentional process
+
+**Pattern:** `lo-{entity}  {Q}  ti-de`
+
+The entity is in the patient slot (`lo-`); the predicate `Q` carries no `ka`. No agent is present or implied. The event is a spontaneous change, natural process, or undifferentiated state shift.
+
+```
+lo-ra-su  de  ti-de    →  The structure collapsed / changed.   (S560)
+lo-zo-ne  de  ti-de    →  The fungal network spread.
+```
+
+### Form 2 — Intentional passive
+
+**Pattern:** `lo-{entity}  ka-{Q}  ti-de`
+
+The entity is in the patient slot; the predicate carries `ka`, marking the event as intentional. There is no `la-{agent}` present. `ka` is semantically sufficient without a co-present agent: it encodes that an agent acted without specifying who. This is the Tonesu intentional passive.
+
+```
+lo-ra-su  ka-be  ti-de     →  The structure was built.           (S561)
+lo-to-si  ka-ki  ti-de     →  A teaching was transmitted.        (S568)
+lo-su     ka-be  ti-de     →  The order was enacted.
+```
+
+**`ka` does not syntactically require `la-`.** Confirmed at S561, S562, S568.
+
+### Form 3 — Instrument-present passive
+
+**Pattern:** `ro-{instrument}  lo-{entity}  ka-{Q}  ti-de`
+
+The instrument is named with `ro-`; the agent is absent. `ro-` is a satellite argument independent of `la-`. Tools are never agents in Tonesu — tool-as-agent is inadmissible; use `ro-` for the instrument and leave `la-` absent.
+
+```
+ro-ra-ki-mu  lo-ra-su  ka-be  ti-de    →  The structure was built using the engine.   (S562)
+```
+
+### Form 4 — Emergence
+
+**Pattern:** `lo-{entity}  be`
+
+No agent, no `ka`, no tense marker. The entity grows / comes into being without an implied cause or actor. This is the Genesis / creation-fiat register; it supports jussive, present, and habitual readings through context.
+
+```
+lo-pa  be    →  The world comes into being. / Let the world be.   (S566)
+lo-si  be    →  A signal arises.
+```
+
+Contrast S566 (emergence: `lo-pa  be`) with the divine active `la-Elohim  ka-be  lo-pa` (S567, intentional creation) — the sole variable is agent presence.
+
+### Four-way typology summary
+
+| Form | Pattern | Agent encoded | Intentionality | Example |
+|------|---------|--------------|----------------|---------|
+| Active | `la-A  ka-Q  lo-P` | yes | yes | God creates the world |
+| Intentional passive | `lo-P  ka-Q  ti-de` | no (implied) | yes | the structure was built |
+| Non-intentional process | `lo-P  Q  ti-de` | no | no | the structure collapsed |
+| Emergence | `lo-P  be` | no | no | the world comes into being (untensed) |
+
+### Topic-frame passive
+
+The patient may be extracted to topic position using the `:` frame. The `lo-` is not used on the topicalized NP; the `:` frame hosts it outside clause-internal argument structure. The patient slot of the comment predicate is then dropped under Pattern 3 ellipsis (fully recoverable from topic).
+
+```
+ra-su : ka-be  ti-de    →  As for the structure: [it was] built.   (S563)
+```
+
+### Institutional agent (active preferred)
+
+When the institutional agent is known and relevant — in law, covenant, and formal institutional discourse — Tonesu prefers the active form with a collective agent over the passive:
+
+```
+la-li-pu  ka-be  lo-su  ti-de    →  The council enacted the law.   (S564)
+```
+
+The intentional passive `lo-su  ka-be  ti-de` remains available for contexts where the institutional authorship is unknown or deliberately suppressed.
+
+### Archival passive ("it is written that…")
+
+The Tonesu equivalent of "it is written that X" is **structurally active**: the containment predicate `la-{document}  ko  {X}` = "the document contains X." The text itself is the `la-` container-agent. There is no agentless equivalent for archival-passive constructions; use the containment form.
+
+```
+la-si-su  ko  {la-Elohim  ne  go-no-fe}    →  The record contains: God is the necessary being.   (S565)
+```
+
+---
+
 ## Open Questions
 
 - [x] ~~Finalize grouping/nesting particle syntax~~ — resolved; see § Concept Nesting. Role-marker scoping + `'` + `na` + frame markers cover all NP grouping cases; no dedicated grouping particle needed.
@@ -1779,6 +1868,6 @@ la-si-su     ko  {la-ra-ki-li  se  lo-pa-ra}  (S191) →  The archive holds: the
 - [x] ~~Decide whether domain marker `da` is pre-posed before the domain root or wraps a phrase~~ — resolved; `da-` is a bound prefix that always fuses with the root compound (`da-to-ki`, `da-ra`, etc.). Never a free particle. See spec/domain-creation.md and open-questions.md.
 - [ ] Specify behavior when agent and patient are both omitted (topic-drop)
 - [x] ~~Confirm particle set doesn't collide with planned root phonology~~ — resolved; `ra`→`ro` (instrument particle), `se`→`ze` (3rd-person pronoun), `wi`→`yu` (group pronoun) removed all collisions; Particle–Root Overlap Policy formalized in § Particle–Root Overlap Policy.
-- [ ] Define passive / agentless clause structure (no agent present)
+- [x] **Define passive / agentless clause structure (no agent present)** — resolved; four-form typology established: (1) non-intentional process `lo-P Q ti-de`, (2) intentional passive `lo-P ka-Q ti-de`, (3) emergence `lo-P be`, (4) instrument-present passive `ro-tool lo-P ka-Q ti-de`. `ka` does not require `la-`. See § Agentless and Passive Clauses; PAV-001 (S559–S568).
 - [x] ~~Causal framing (go/du pair) needs a grammar rule~~ — resolved; see § Causal Frame. `go {CAUSE-CLAUSE}  matrix-clause` is pre-clausal; SOV governs the matrix. Extended by `du`, `to-go`, `no-go` in the same frame family.
 - [x] ~~Parallel partition mark (`/`) — not in spec.~~ — Resolved; `/` admitted as the 9th notation mark, spoken form `vel` (G013); see § Bi-Clausal Parallel Construction and spec/phonology.md §/.
