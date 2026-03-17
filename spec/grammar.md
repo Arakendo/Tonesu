@@ -155,7 +155,7 @@ The `no` contrast coordinator is productive for disambiguation:
 la-ze  {predicate}  no  la-mi    →  ze did {predicate}, not me   (C008 A3)
 ```
 
-**Concordian formal practice:** after genuine `ze` ambiguity is produced in a proceeding,
+**Tonesu formal practice:** after genuine `ze` ambiguity is produced in a proceeding,
 subsequent turns in the formal record prefer explicit NPs over `ze` back-reference until
 the referent is re-established (C008 B3).
 

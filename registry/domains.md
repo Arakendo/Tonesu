@@ -77,7 +77,7 @@ These provide meta-structure. All other domains inherit from or compose with the
 
 ## Mystic / Resonance
 
-This domain covers mystic phenomena in the Concordia setting: resonance between will and physical systems, structured intentional practice, anomalous signal phenomena, and perceptual states beyond ordinary cognitive processing. **Proposed, not yet required.** The corpus test S072–S078 confirmed that all core mystic concepts compose from existing primitives. The domain label is reserved for use as a register/qualifier rather than as a semantic reboot.
+This domain covers mystic phenomena in the Tonesu setting: resonance between will and physical systems, structured intentional practice, anomalous signal phenomena, and perceptual states beyond ordinary cognitive processing. **Proposed, not yet required.** The corpus test S072–S078 confirmed that all core mystic concepts compose from existing primitives. The domain label is reserved for use as a register/qualifier rather than as a semantic reboot.
 
 | Label | Name | Substrate | Principle | Parent | Status | Notes |
 |-------|------|-----------|-----------|--------|--------|-------|
@@ -101,7 +101,7 @@ Core compounds already functioning in this domain (all from S072–S078):
 
 ## Religion / Doctrine
 
-Religious constructs in Tonesu are treated as organized social and epistemic structures, not supernatural ontological primitives. The domain uses `to` (conceptual pattern), `re` (recurrence/tradition), `su` (organization), and `fe` (sacred boundary). **The key cultural finding from corpus testing (S079–S085): Concordian "priest" (`to-su-li`) is structurally identical to librarian/archivist.** Religious authority and knowledge authority are the same institution in this grammar.
+Religious constructs in Tonesu are treated as organized social and epistemic structures, not supernatural ontological primitives. The domain uses `to` (conceptual pattern), `re` (recurrence/tradition), `su` (organization), and `fe` (sacred boundary). **The key cultural finding from corpus testing (S079–S085): Tonesu "priest" (`to-su-li`) is structurally identical to librarian/archivist.** Religious authority and knowledge authority are the same institution in this grammar.
 
 | Label | Name | Substrate | Principle | Parent | Status | Notes |
 |-------|------|-----------|-----------|--------|--------|-------|

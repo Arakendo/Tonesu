@@ -71,7 +71,7 @@ harmony-union project
 
 ```
 Formal:     information-process coordination system
-Identifier: na Concordia
+Identifier: na Tonesu
 ```
 
 ### 6. The Language's Own Name

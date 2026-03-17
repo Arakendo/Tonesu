@@ -1,4 +1,4 @@
-﻿# Semantic Map
+# Semantic Map
 
 ## Status: Draft
 
@@ -128,7 +128,7 @@ Some compound concepts naturally span clusters. Document these explicitly to pre
 
 ## Cultural Precision Domains
 
-These are the semantic fields where Tonesu invests in finer distinctions than most natural languages. Each domain represents a cultural claim: Concordia cares enough about these concepts to name them precisely.
+These are the semantic fields where Tonesu invests in finer distinctions than most natural languages. Each domain represents a cultural claim: Tonesu cares enough about these concepts to name them precisely.
 
 ---
 
@@ -147,7 +147,7 @@ Tonesu draws at least seven distinct states:
 | `to-si` | knowledge-seeking signal | query; reaching toward knowledge |
 | `to-su-ki` | entering organized understanding | comprehension; the threshold moment |
 
-**Cultural claim:** The epistemic status of information matters. There is a categorical difference between detecting (`se`), encoding (`si`), understanding (`to`), and systematizing (`to-su`). An unsupported claim is not an encoded fact is not an integrated model. Concordian speakers are expected to track these distinctions — passing off `se` as `to` is epistemically dishonest in a way the language makes explicit.
+**Cultural claim:** The epistemic status of information matters. There is a categorical difference between detecting (`se`), encoding (`si`), understanding (`to`), and systematizing (`to-su`). An unsupported claim is not an encoded fact is not an integrated model. Tonesu speakers are expected to track these distinctions — passing off `se` as `to` is epistemically dishonest in a way the language makes explicit.
 
 **Social consequences of epistemic mislabeling:**
 
@@ -159,7 +159,7 @@ Tonesu draws at least seven distinct states:
 
 The `ki`/`ka` distinction (Domain 2) does the accountability work: the language forces the speaker to commit to whether a boundary-crossing was accidental or deliberate. There is no convenient grammatical ambiguity between honest error and fraud.
 
-**Political register — how Concordian discourse handles epistemic categories strategically:**
+**Political register — how Tonesu discourse handles epistemic categories strategically:**
 
 Direct lies (`to-fe-ka` inflation) are politically dangerous because the mislabeling is visible and assertive. The dominant political maneuver instead becomes *category management*: argumentation about which epistemic level applies, rather than false claims about content.
 
@@ -170,9 +170,9 @@ Direct lies (`to-fe-ka` inflation) are politically dangerous because the mislabe
 | Strategic precision | Use `to` carefully: "we believe" rather than "it is established" | Stays within bounds; pressure toward epistemic transparency |
 | Formal accusation | Challenge opponent's category assignment before a `to-fe-li` panel | "Your claim never crossed the `to-fe` boundary" |
 
-The irony Monday's analysis identified: a language with precise epistemic vocabulary doesn't eliminate political manipulation; it *formalizes* it. Political argument in Concordia looks like academic peer review. The moderator's question — "Is your claim `si`, `to`, or `to-su`?" — is a realistic institutional procedure, not an absurdity.
+The irony Monday's analysis identified: a language with precise epistemic vocabulary doesn't eliminate political manipulation; it *formalizes* it. Political argument in Tonesu looks like academic peer review. The moderator's question — "Is your claim `si`, `to`, or `to-su`?" — is a realistic institutional procedure, not an absurdity.
 
-**Note:** English frames dishonesty as a *moral* failure (lying is wrong). Tonesu frames it as a *structural* failure — violating a category boundary. This uses the same `fe` root as physical danger and warnings. Concordia's ethics and its risk-management framework are the same ontology. Intellectual dishonesty is not a separate moral domain; it is a species of boundary violation.
+**Note:** English frames dishonesty as a *moral* failure (lying is wrong). Tonesu frames it as a *structural* failure — violating a category boundary. This uses the same `fe` root as physical danger and warnings. Tonesu's ethics and its risk-management framework are the same ontology. Intellectual dishonesty is not a separate moral domain; it is a species of boundary violation.
 
 ---
 
@@ -206,7 +206,7 @@ Tonesu's entity roots establish a precision hierarchy:
 | `mu+li` | non-biological intentional agent | intentionality without organic life |
 | `zo` (no `li`) | animal / creature | life without social agency |
 
-**Cultural claim:** Biology and intentional agency are independent dimensions. A Concordian speaker is never confused by "is it alive?" versus "does it have intentions?" — these are separate questions with separate vocabulary. This anticipates AI, institutions, and hybrid entities as first-class concepts rather than edge cases.
+**Cultural claim:** Biology and intentional agency are independent dimensions. A Tonesu speaker is never confused by "is it alive?" versus "does it have intentions?" — these are separate questions with separate vocabulary. This anticipates AI, institutions, and hybrid entities as first-class concepts rather than edge cases.
 
 ---
 
@@ -221,7 +221,7 @@ Tonesu *consolidates* under `fe` (boundary/limit):
 | `fe-si` | warning (a signal that a boundary exists or is being approached) |
 | `fe-ki` | reach a limit; arrive at a boundary |
 
-**Cultural claim:** Danger *is* a limit. A warning *is* a limit-signal. Tonesu does not distinguish "bad things that may happen" from "boundaries being approached" — these are the same phenomenon. Concordia frames risk as boundary-proximity, not harm-potential. This is a philosophical stance baked into the lexicon.
+**Cultural claim:** Danger *is* a limit. A warning *is* a limit-signal. Tonesu does not distinguish "bad things that may happen" from "boundaries being approached" — these are the same phenomenon. Tonesu frames risk as boundary-proximity, not harm-potential. This is a philosophical stance baked into the lexicon.
 
 *Expansion direction (unregistered):* types of limits by domain — physical (`ra-fe`), ethical (`wi-fe`), epistemic (`to-fe`), temporal (`ti-fe`). Register when corpus demands it.
 
@@ -250,14 +250,14 @@ Tonesu splits by mechanism, directionality, and content type:
 
 Tonesu is not uniformly more precise than English — it is selectively precise in ways that reveal cultural priorities.
 
-| Concordia is *more precise* than English about... | Concordia *consolidates* where English fragments... |
+| Tonesu is *more precise* than English about... | Tonesu *consolidates* where English fragments... |
 |--------------------------------------------------|-----------------------------------------------------|
 | Epistemic states (7 gradations of knowing) | All boundary-types are one phenomenon (`fe`) |
 | Deliberateness of change (4 roots + `wi`) | Worth, evaluation, and intensity are one root (`vo`) |
 | Agency ontology (biology ≠ intentionality) | Sensation modalities (any `se` compound, not separate roots per sense) |
 | Signal mechanism and direction | |
 
-The pattern: Concordia invests precision where *accountability, epistemics, and agency* are in play. It consolidates where the distinction is a surface categorization rather than a deep one.
+The pattern: Tonesu invests precision where *accountability, epistemics, and agency* are in play. It consolidates where the distinction is a surface categorization rather than a deep one.
 
 ---
 
@@ -265,7 +265,7 @@ The pattern: Concordia invests precision where *accountability, epistemics, and 
 
 The five domains above describe *vocabulary*. This domain describes the *institutional architecture* that vocabulary implies.
 
-If Concordia distinguishes `to-fe-ki` (honest epistemic error) from `to-fe-ka` (deliberate fraud), then some mechanism must exist for making that determination formally. That mechanism requires a recognized class of agents whose social authority is adjudicating epistemic claims. The vocabulary did not create this institution; it revealed that the institution must already have existed for the vocabulary to carry social weight.
+If Tonesu distinguishes `to-fe-ki` (honest epistemic error) from `to-fe-ka` (deliberate fraud), then some mechanism must exist for making that determination formally. That mechanism requires a recognized class of agents whose social authority is adjudicating epistemic claims. The vocabulary did not create this institution; it revealed that the institution must already have existed for the vocabulary to carry social weight.
 
 | Role | Form | Distinction |
 |------|------|-------------|
@@ -281,7 +281,7 @@ If Concordia distinguishes `to-fe-ki` (honest epistemic error) from `to-fe-ka` (
 
 **Connection to evidentiality (open question):** `to-fe-li` have the strongest functional need for evidential markers. Adjudicating a claim requires specifying *how* the arbiter established the true epistemic status. A `to-fe-li` who determines that a claim was `se` rather than `to` must be able to say: I established this by direct perception (`se-ro`), by received signal (`si-ro`), or by inference (`to-ro`). This is the clearest use case for evidentiality — and the reason the question should be left open until a corpus sentence involving adjudication makes the need concrete.
 
-**The self-legitimation problem (quis custodiet):** If `to-fe-su` certifies epistemic claims, who certifies `to-fe-su`? The Concordian answer is not an external authority (infinite regress) but *self-application*: `to-fe-su`'s own rules are themselves published to `to-su` status — openly systematized, challengeable, revisable through the same `to-fe-li` + `to-fe-su` process they define. The circularity is intentional: the system bootstraps legitimacy through transparent, revisable procedure rather than external sanction, the same way scientific methodology is validated by track record and openness to revision rather than by a higher authority.
+**The self-legitimation problem (quis custodiet):** If `to-fe-su` certifies epistemic claims, who certifies `to-fe-su`? The Tonesu answer is not an external authority (infinite regress) but *self-application*: `to-fe-su`'s own rules are themselves published to `to-su` status — openly systematized, challengeable, revisable through the same `to-fe-li` + `to-fe-su` process they define. The circularity is intentional: the system bootstraps legitimacy through transparent, revisable procedure rather than external sanction, the same way scientific methodology is validated by track record and openness to revision rather than by a higher authority.
 
 The practical consequence: a `to-fe-su` body that made its own rules unchallengeable would be committing `to-fe-ka` on its own standards — suppressing the epistemic status of a meta-level claim. Any `to-fe-li` could adjudicate that. The recursion is stable because the meta-level rules are subject to the object-level procedure.
 
@@ -289,9 +289,9 @@ Vocabulary gap this exposes: there is currently no distinction between a `to-fe-
 
 **The binding principle — unpublished rules cannot bind:** A constitutional principle that falls directly from the ontology without new vocabulary. If legitimacy comes from surviving the epistemic pipeline (from `si` → `to` → `to-su`), then a rule that has not been published to `to-su` status has not achieved the epistemic status required to make binding claims on others. Enforcing an unpublished standard is structurally identical to `to-fe-ka` deflation at the meta-level: the rule-maker is treating an internal adoption (`si`) as if it had the authority of established knowledge (`to-su`), while withholding the publication that would make it challengeable. Any `to-fe-li` could adjudicate this as meta-level inflation.
 
-Concordian constitutional consequence: power does not come from hierarchy or secrecy. It comes from surviving public scrutiny. Unpublished standards are epistemically illegitimate by the same logic that makes ordinary `to-fe-ka` a violation — and for the exact same reason. No new vocabulary required; the existing framework covers it.
+Tonesu constitutional consequence: power does not come from hierarchy or secrecy. It comes from surviving public scrutiny. Unpublished standards are epistemically illegitimate by the same logic that makes ordinary `to-fe-ka` a violation — and for the exact same reason. No new vocabulary required; the existing framework covers it.
 
-**`to-fe-su-ki` as constitutional event:** The transition from internal adoption to published `to-su` status (`to-fe-su-ki`, the inchoative) is the moment when authority becomes legitimate. Before `to-fe-su-ki`: the body has power but not legitimacy. After `to-fe-su-ki`: the standard is published, challengeable, and binding. The political consequence is that Concordia's most contested institutional space is not legislative votes but the timing and execution of publication — the ceremony that converts internal decisions into legitimate authority. Battles over *when* `to-fe-su-ki` occurs are battles over legitimacy itself.
+**`to-fe-su-ki` as constitutional event:** The transition from internal adoption to published `to-su` status (`to-fe-su-ki`, the inchoative) is the moment when authority becomes legitimate. Before `to-fe-su-ki`: the body has power but not legitimacy. After `to-fe-su-ki`: the standard is published, challengeable, and binding. The political consequence is that Tonesu's most contested institutional space is not legislative votes but the timing and execution of publication — the ceremony that converts internal decisions into legitimate authority. Battles over *when* `to-fe-su-ki` occurs are battles over legitimacy itself.
 
 ---
 
@@ -315,11 +315,11 @@ Many of Monday's proposed properties are already partially captured in the Domai
 
 ### New properties (not yet documented)
 
-**Event-based worldview.** Relations are expressed as processes (`ne-ki` = become-connected) rather than static states. The inchoative slot (`ROOT + ki`) converts every quality into a transition event. A Concordian speaker does not say "they are connected" — they say "connection occurred." The implication: stability is a *result* that is maintained, not a default state that persists. Systems are always either consolidating or dissolving. Rest is a special case of motion. This shapes how Concordia thinks about infrastructure, institutions, and relationships: they are all things that must be actively sustained, not things that simply exist.
+**Event-based worldview.** Relations are expressed as processes (`ne-ki` = become-connected) rather than static states. The inchoative slot (`ROOT + ki`) converts every quality into a transition event. A Tonesu speaker does not say "they are connected" — they say "connection occurred." The implication: stability is a *result* that is maintained, not a default state that persists. Systems are always either consolidating or dissolving. Rest is a special case of motion. This shapes how Tonesu thinks about infrastructure, institutions, and relationships: they are all things that must be actively sustained, not things that simply exist.
 
-**Repair mindset.** The primitives emphasize processes (`ki`, `ka`, `be`, `de`), structures (`su`, `fe`, `ne`), and transitions — not terminal states. English asks "who broke this?" Concordian structure pushes toward "where did the process cross the boundary?" (`fe`), and then "how do we reverse the decay?" (`de-be`). Blame-assignment is structurally harder than root-cause analysis. This is not a moral claim; it is a grammatical affordance.
+**Repair mindset.** The primitives emphasize processes (`ki`, `ka`, `be`, `de`), structures (`su`, `fe`, `ne`), and transitions — not terminal states. English asks "who broke this?" Tonesu structure pushes toward "where did the process cross the boundary?" (`fe`), and then "how do we reverse the decay?" (`de-be`). Blame-assignment is structurally harder than root-cause analysis. This is not a moral claim; it is a grammatical affordance.
 
-**Clear but slightly austere register.** The precision investment (epistemic status, agency, causation, thresholds) comes at a cost: the categories that get *consolidated* — sensation modalities (`se` covers all senses), evaluative nuance (one root `vo`), aesthetic registers — are exactly the vocabulary that expressive and poetic registers rely on. Concordian speech will be precise where accountability is in play and relatively sparse where purely emotional or aesthetic expression is needed. This is not a deficiency; it is a reflection of priorities. The language can grow in those directions through compounding — but the primitives do not bias toward them.
+**Clear but slightly austere register.** The precision investment (epistemic status, agency, causation, thresholds) comes at a cost: the categories that get *consolidated* — sensation modalities (`se` covers all senses), evaluative nuance (one root `vo`), aesthetic registers — are exactly the vocabulary that expressive and poetic registers rely on. Tonesu speech will be precise where accountability is in play and relatively sparse where purely emotional or aesthetic expression is needed. This is not a deficiency; it is a reflection of priorities. The language can grow in those directions through compounding — but the primitives do not bias toward them.
 
 ---
 
@@ -345,11 +345,11 @@ The corpus already confirms this: S011, S013, and S027 all use `go`/`du` framing
 
 `re` (repetition/cycle) could have been derived — "the same thing in sequence" = `ti + ru + ki` or similar. It was not derived; it is primitive. This is a commitment: pattern-identity across time is a *fundamental* category, not something you infer from sequences of events.
 
-What this means: when a Concordian observes a pattern — the same failure mode appearing again, the same political maneuver being used, the same cycle in a system — they are not doing secondary reasoning ("I notice X has occurred repeatedly"). They are naming a primitive ontological fact: `re`.
+What this means: when a Tonesu observes a pattern — the same failure mode appearing again, the same political maneuver being used, the same cycle in a system — they are not doing secondary reasoning ("I notice X has occurred repeatedly"). They are naming a primitive ontological fact: `re`.
 
 Cultural consequence: **historical pattern recognition is native**, not a specialized skill. A civilization that treats repetition as primitive will develop strong historiography, institutional memory, and cycle-awareness. Process improvement isn't "we should learn from mistakes" — it's a natural response to naming that the pattern `re` is present. Conversely, false analogies — claiming `re` where the pattern is superficial — become a specific recognizable error (a species of `to-fe-ka` applied to time).
 
-The `re` primitive also sets up a future distinction between `ti` (time as sequence) and `re` (the recurrence of pattern within time) that most natural languages conflate. Concordia can ask "is this the same thing happening again, or merely the next event in a sequence?" as a grammatically natural question.
+The `re` primitive also sets up a future distinction between `ti` (time as sequence) and `re` (the recurrence of pattern within time) that most natural languages conflate. Tonesu can ask "is this the same thing happening again, or merely the next event in a sequence?" as a grammatically natural question.
 
 ---
 
@@ -357,13 +357,13 @@ The `re` primitive also sets up a future distinction between `ti` (time as seque
 
 `vo` (value/quality) cannot be defined in terms of utility (`mu-ki`), scarcity (`nu + de`), survival advantage (`zo-be`), social consensus (`li-ne-to`), or any other compound. It is a primitive. The language treats evaluative facts as a fundamental category.
 
-This is a form of **built-in value realism**: the claim that things genuinely have evaluative properties that are not derived from other facts. A Concordian speaker who says "this has high vo" or "ka-vo-de" (deliberate destruction of value) is making an ontological commitment that cannot be dissolved into pragmatics.
+This is a form of **built-in value realism**: the claim that things genuinely have evaluative properties that are not derived from other facts. A Tonesu speaker who says "this has high vo" or "ka-vo-de" (deliberate destruction of value) is making an ontological commitment that cannot be dissolved into pragmatics.
 
-The consequence: ethical discourse in Concordia cannot be easily dismissed as "just subjective opinion" or "just social preference." You can argue about what `vo` a thing has — but arguing that `vo` doesn't exist as a category is like arguing that `ma` (matter) doesn't exist. The language doesn't support that move.
+The consequence: ethical discourse in Tonesu cannot be easily dismissed as "just subjective opinion" or "just social preference." You can argue about what `vo` a thing has — but arguing that `vo` doesn't exist as a category is like arguing that `ma` (matter) doesn't exist. The language doesn't support that move.
 
 This is especially significant paired with Domain 2 (Deliberateness): `ka-vo-de` (intentionally destroying value) is a grammatically coherent claim that carries the same accountability weight as `ka-de` (intentionally causing decay). The moral and the causal use the same framework.
 
-What `vo` consolidates that English distinguishes: beauty, worth, ethical value, quality, intensity. These are all `vo` in Tonesu. Whether that consolidation was wise — or whether Concordia will eventually need `vo-se` (perceived quality), `vo-li` (ethical value, agent-dependent), and `vo-su` (objective systematic worth) — is an open question.
+What `vo` consolidates that English distinguishes: beauty, worth, ethical value, quality, intensity. These are all `vo` in Tonesu. Whether that consolidation was wise — or whether Tonesu will eventually need `vo-se` (perceived quality), `vo-li` (ethical value, agent-dependent), and `vo-su` (objective systematic worth) — is an open question.
 
 ---
 
@@ -376,7 +376,7 @@ Most languages that have quantity vocabulary treat "one" as just `nu = 1` and "m
 - `ru-su` = a *unified* system (coherent as a whole) ≠ `nu-su = 1` (there is one structure; count of one)
 - `li-pu` = a *collective* of persons (social collectivity) ≠ `nu-li = 12` (twelve people; count)
 
-The individual-collective tension — the fundamental tension of political philosophy — is built into the primitive set at the ontological level, not left to emerge from political vocabulary. **Concordia has a native, philosophically precise vocabulary for cohesion and fragmentation.**
+The individual-collective tension — the fundamental tension of political philosophy — is built into the primitive set at the ontological level, not left to emerge from political vocabulary. **Tonesu has a native, philosophically precise vocabulary for cohesion and fragmentation.**
 
 Practical consequences:
 - "The network is unified" (`ne-su-ru`) is a different claim from "there is one network" — the former asserts coherence, the latter asserts count
@@ -438,7 +438,7 @@ This subsystem coheres as a complete architecture for reasoning about knowledge.
 `to-go {X}  Y` = "in the model, the causal chain holds." That is a description of a model.  
 The first introduces a *speaker stance* where none is needed. The distinction maps exactly onto the model/epistemic stratification: model-truth (`to-go`) and attributed-model-truth (`la-X  to  {to-go}`) are semantically distinct operations.
 
-**What this means for Concordian intellectual culture:** The layered structure supports scientific reasoning in the technical sense — the ability to reason *about* models as objects, separately from reasoning about the world. A Concordian speaker can say "in the model, X causes Y" (`to-go {X}  Y`) without claiming X causes Y in reality, and can attribute the model to an assertion-holder (`la-X  to  {to-go {X}  Y}`) without claiming the model is correct. All three levels are grammatically distinguishable without any new primitives.
+**What this means for Tonesu intellectual culture:** The layered structure supports scientific reasoning in the technical sense — the ability to reason *about* models as objects, separately from reasoning about the world. A Tonesu speaker can say "in the model, X causes Y" (`to-go {X}  Y`) without claiming X causes Y in reality, and can attribute the model to an assertion-holder (`la-X  to  {to-go {X}  Y}`) without claiming the model is correct. All three levels are grammatically distinguishable without any new primitives.
 
 **Open pressure:** the model layer currently has no explicit *frame-setter* for discourse about a model. You can assert `to-go {X}  Y` (a single counterfactual), but you cannot yet open a discourse scope with "speaking within the model of the reactor..." or "according to the theory..." as a sustained frame. This appeared naturally in the CF-001 diagnostic but was deferred. See Open Questions.
 
@@ -446,7 +446,7 @@ The first introduces a *speaker stance* where none is needed. The distinction ma
 
 ### Domain 7: Emotional and Experiential States
 
-**Design decision (locked, March 2026):** Tonesu does not use emotional primitive roots. Concordian culture frames emotional states as reportable system diagnostics — processual descriptions of internal state transitions — rather than as primitive expressive acts. See spec/principles.md § 9.
+**Design decision (locked, March 2026):** Tonesu does not use emotional primitive roots. Tonesu culture frames emotional states as reportable system diagnostics — processual descriptions of internal state transitions — rather than as primitive expressive acts. See spec/principles.md § 9.
 
 This means emotional vocabulary in Tonesu is always built, never given. The two roots involved are `se` (outward-facing detection — perceiving something specific) and `fa` (inward-facing affective substrate — the felt-interior tone of the organism, complete without an object). `se` constructions are culturally expected to specify an object; `fa` constructions are complete without one — the substrate itself is the full statement.
 
@@ -470,11 +470,11 @@ This means emotional vocabulary in Tonesu is always built, never given. The two 
 | Trust | `la-mi  se  vo-ne  lo-{person}` | — | always object-directed; no bare substrate form |
 | Desire / longing | `la-mi  wi  lo-{X}` | — | `wi` (intention) — directed by definition |
 
-**Cultural note:** `se` constructions are culturally expected to name *what* is feared, valued, or desired. Bare `la-mi  se  vo-be` without an object is grammatically complete but culturally thin — like saying "signal received" without content. `fa` constructions are the inverse: they are complete *without* an object by design. `la-mi  fa  vo-de` is not an incomplete grief statement; it is a precise substrate statement. Concordian culture accepts both registers without requiring object-specification for the `fa` form.
+**Cultural note:** `se` constructions are culturally expected to name *what* is feared, valued, or desired. Bare `la-mi  se  vo-be` without an object is grammatically complete but culturally thin — like saying "signal received" without content. `fa` constructions are the inverse: they are complete *without* an object by design. `la-mi  fa  vo-de` is not an incomplete grief statement; it is a precise substrate statement. Tonesu culture accepts both registers without requiring object-specification for the `fa` form.
 
-**The register gap and its narrative use:** When a Concordian speaker says `la-mi  se  fe-de  lo-ne-mi` and a non-Concordian hears it as "I'm afraid," that is the translation gap doing characterization work. The Concordian has specified (a) the type of emotional state, (b) the direction of change, and (c) the object. The non-Concordian compressed all three into a single opaque feeling-word. Neither is wrong; they are speaking different ontologies.
+**The register gap and its narrative use:** When a Tonesu speaker says `la-mi  se  fe-de  lo-ne-mi` and a non-Tonesu hears it as "I'm afraid," that is the translation gap doing characterization work. The Tonesu has specified (a) the type of emotional state, (b) the direction of change, and (c) the object. The non-Tonesu compressed all three into a single opaque feeling-word. Neither is wrong; they are speaking different ontologies.
 
-**What this is not:** Option B does not mean Concordians are emotionally flat, suppressed, or robotic. It means their emotional vocabulary is precise in the same way their epistemic vocabulary is precise. A Concordian who says `la-mi  se  fe-de  lo-ne-mi` is not being clinical — they are being accurate. The feeling is real and fully human. The framing is Concordian.
+**What this is not:** Option B does not mean Tonesus are emotionally flat, suppressed, or robotic. It means their emotional vocabulary is precise in the same way their epistemic vocabulary is precise. A Tonesu who says `la-mi  se  fe-de  lo-ne-mi` is not being clinical — they are being accurate. The feeling is real and fully human. The framing is Tonesu.
 
 **Three distinct flavours of emotional expression and how the system handles each:**
 
@@ -482,15 +482,15 @@ The "awkward" judgment on Tonesu's emotional vocabulary is real but needs to be 
 
 | Flavour | Example | System status |
 |---------|---------|---------------|
-| **Reflective / relational** | "I'm afraid of losing this connection" | Handled well. `la-mi  se  fe-de  lo-ne-mi` is the Concordian form. May compress in casual register over time. |
+| **Reflective / relational** | "I'm afraid of losing this connection" | Handled well. `la-mi  se  fe-de  lo-ne-mi` is the Tonesu form. May compress in casual register over time. |
 | **Somatic / reactive** | "I'm cold", "I'm exhausted", "I'm in pain" | Handled well via `la-zo-mi` cluster. Pointing at the organism (`zo`) rather than the agent (`li`) captures the non-agentive quality of body-states correctly. These will compress earliest. |
 | **Performative / expressive** | "Ugh." "Oh no." Sharp intake of breath. Crying. | **Not handled.** These are not propositional — they do not report an emotional state, they *are* an emotional act. They have no object and make no claim. The current spec has no register for this. |
 
-The performative gap is the genuine source of awkwardness. The current system assumes all emotional expression is a structured report (`la-X  se  Y`). That is coherent for Concordian discourse culture. But even fully analytical humans emit sounds when hurt — the question is whether Tonesu commits Concordians to packaging *every* emotional signal as a diagnostic proposition, or whether a performative/expressive register exists that the spec has not yet addressed.
+The performative gap is the genuine source of awkwardness. The current system assumes all emotional expression is a structured report (`la-X  se  Y`). That is coherent for Tonesu discourse culture. But even fully analytical humans emit sounds when hurt — the question is whether Tonesu commits Tonesus to packaging *every* emotional signal as a diagnostic proposition, or whether a performative/expressive register exists that the spec has not yet addressed.
 
 **The fork:** Two defensible positions:
-- **(a) Performative expression is paralinguistic**, not Tonesu proper. Concordians cry, laugh, and flinch like any humans; these are pre-linguistic responses outside the scope of the grammar. The language handles propositional emotional expression; the body handles the rest. This is probably the more empirically accurate claim about real language.
-- **(b) Concordian culture genuinely suppressed the performative register.** The diagnostic form is the only sanctioned emotional utterance. This makes Concordia emotionally alien in an interesting way — a working medical team more than a family — but may be too strong a cultural claim and is not supported by corpus evidence.
+- **(a) Performative expression is paralinguistic**, not Tonesu proper. Tonesus cry, laugh, and flinch like any humans; these are pre-linguistic responses outside the scope of the grammar. The language handles propositional emotional expression; the body handles the rest. This is probably the more empirically accurate claim about real language.
+- **(b) Tonesu culture genuinely suppressed the performative register.** The diagnostic form is the only sanctioned emotional utterance. This makes Tonesu emotionally alien in an interesting way — a working medical team more than a family — but may be too strong a cultural claim and is not supported by corpus evidence.
 
 Position (a) is the default until corpus evidence forces a choice. The awkwardness is real and is a feature of the reflective register being the only formally-documented one — casual register compression will address it over time for the first two flavours. The performative register question is logged. See open-questions.md.
 
@@ -618,7 +618,7 @@ This reuse is not incidental — it reflects a genuine ontological commitment: *
 - [ ] "Time" (`ti`) and "sequence" — are these one root or two?
 - [ ] Does "space" (`pa`) cover abstract topology (e.g. mathematical space) or only physical location?
 - [x] ~~Review `plu` — three-letter root is inconsistent with CV/CVC constraint~~ → **Resolved:** replaced with `pu`. See registry/primitives.md.
-- [ ] **`vo` subdivision.** The consolidation `vo` = beauty + worth + ethical value + quality may be too coarse for Concordia's precision culture. Should `vo` remain monolithic or eventually split into `vo-se` (sensory quality/beauty), `vo-li` (agent-relative ethical worth), `vo-su` (systematic/objective value measure)? Do not split until corpus produces a sentence where the ambiguity is load-bearing.
+- [ ] **`vo` subdivision.** The consolidation `vo` = beauty + worth + ethical value + quality may be too coarse for Tonesu's precision culture. Should `vo` remain monolithic or eventually split into `vo-se` (sensory quality/beauty), `vo-li` (agent-relative ethical worth), `vo-su` (systematic/objective value measure)? Do not split until corpus produces a sentence where the ambiguity is load-bearing.
 - [ ] **`re` and aspect.** If repetition is primitive, does it interact with tense/aspect to produce habitual or iterative aspect grammatically? E.g., `re-ka-be` = habitually builds vs. `ka-be` = built (once). Resolve when tense/aspect phonology is finalized.
 - [ ] **False-`re` as an error class.** Is claiming `re` where the pattern is superficial (false analogy) a registered epistemic error category? Candidate: `re-fe-ka` (claiming pattern-identity across a boundary that doesn't actually hold). Do not register until corpus evidence.
 - [ ] **Model-domain frame — sustained model-space discourse.** CF-001 established `to-go {X}  Y` for single counterfactual assertions. But discourse sometimes requires a sustained frame: "speaking within the reactor model..." or "according to the failure analysis..." — a scope that covers multiple sentences, not a single conditional. The language currently has no way to open a model-domain scope without re-asserting `to-go` on every sentence. Candidate: bare `to {model-name  begins}` as a discourse-frame opener, closed by returning to actuality-marked utterances. Do not formalize until a corpus conversation or multi-sentence analysis requires it. Watch.

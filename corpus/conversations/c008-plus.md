@@ -47,7 +47,7 @@ Natural:  I hypothesize: ze did not suppress the record.
 
 **Notes:**
 - B challenges A1 at `si` level — not asserting the counterclaim as established, only
-  as hypothesis. Correct Concordian practice: challenge at the lowest confident epistemic
+  as hypothesis. Correct Tonesu practice: challenge at the lowest confident epistemic
   level.
 - **State of discourse after B1:** two referents are now simultaneously salient:
   (1) ze-the-person (from A1, `la-ze` agent of the alleged act); and
@@ -152,12 +152,12 @@ Natural:  I note (perceptually): ze suppressed a record. — Submit this to the 
   it) and records it at exactly that level — no higher.
 - **Arbiter uses `se` (perceptual/floor level) for the ruling-note.** B does not certify
   A's charge at `to` or `si` level — B acknowledges A's testimony as perceptually received
-  (`se`) and routes it to `to-fe-su` for adjudication. Correct Concordian arbitration
+  (`se`) and routes it to `to-fe-su` for adjudication. Correct Tonesu arbitration
   form: the arbiter records the testimony at the level it was received, not at a higher
   asserted level.
 - **Explicit NP `la-ze` replaces `lo-ze` in B3.** The arbiter re-states A1's claim in
   full (`la-ze  de  lo-si-de`) rather than using `ze` back-reference. This is the
-  Concordian formal-register practice: once ambiguity has been produced in a proceeding,
+  Tonesu formal-register practice: once ambiguity has been produced in a proceeding,
   explicit NPs are preferred over pronouns in the official record. The rationale is
   institutional, not grammatical: the record must be unambiguous to `to-fe-su`.
 - `la-tu  ka-si  lo-to-fe-su` = second corpus use of `to-fe-su` routing (first: C005 B3).
@@ -171,7 +171,7 @@ Natural:  I note (perceptually): ze suppressed a record. — Submit this to the 
 |-----|----------|------------|
 | **Genuine `ze` ambiguity** | B2 | First confirmed instance. Neither predicate-type constraint nor recency resolves it. Disambiguation required in following turn. |
 | **`to-fe-ka` predicate directionality** | B2, A3 | B2's ambiguity includes *who* is charged — person ze or A's epistemic move. The predicate itself carries no directionality marker. |
-| **Formal register NP preference** | B3 | Arbiter avoids `ze` in the record after ambiguity occurred. Is this a Concordian convention or a speaker-preference? Unclear from one case. |
+| **Formal register NP preference** | B3 | Arbiter avoids `ze` in the record after ambiguity occurred. Is this a Tonesu convention or a speaker-preference? Unclear from one case. |
 
 ---
 
@@ -198,7 +198,7 @@ Four `lo-ze` / `la-ze` uses across six turns, producing three distinct resolutio
    This mechanism is *insufficient* when both referents are equidistant in recency
    and the predicate is symmetric — see B2.
 
-3. **Restatement (Mechanism 3).** When Mechanisms 1 and 2 both fail, Concordian practice
+3. **Restatement (Mechanism 3).** When Mechanisms 1 and 2 both fail, Tonesu practice
    is to restate with an explicit NP in the following turn. `ze` is not disambiguated
    within the ambiguous turn; the repair happens one turn later. This is not a grammar
    failure — it is expected. The language produces the ambiguity; the discourse resolves it.

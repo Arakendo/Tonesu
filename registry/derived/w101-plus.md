@@ -264,7 +264,7 @@ Notes:        This is a biological role description, not a social category. It s
               reproducing organisms.
               Sex-neutral social identity: kinship vocabulary (W076–W081) is
               deliberately sex-neutral. zi-zo-go is a biological/scientific register
-              term, not a social one. A Concordian speaker reporting biological
+              term, not a social one. A Tonesu speaker reporting biological
               observations uses this; a speaker describing kin relationships does not
               need it.
               Complementary pair: zi-zo-du (W108) is the du-role participant.
