@@ -984,3 +984,191 @@ Written: `lotoze ne noduto`
 **New vocabulary introduced:** none.
 
 **Open questions logged:** none — LPR analysis is complete within existing grammar.
+
+---
+
+## Bashō, Frog Haiku (1686) — Kireji Stress Test (S468–S470) — Batch: BSH-001
+
+**Purpose:** Tests the kireji `や` (ya) — Japanese's structurally untranslatable juxtaposition mark — against Tonesu's `/` and `:`. Exposes the 340-year interpretive debate about the poem as a structural choice between two available marks. Also tests agent-drop (sound-event final clause), zero-predicate noun-sentences, and discourse anaphora limits.
+
+Source:
+```
+古池や / 蛙飛び込む / 水の音
+furuike ya   kawazu tobikomu   mizu no oto
+old-pond [cut]   frog jumps-in   water sound
+```
+
+---
+
+**S468 — Bashō frog haiku — kireji as `/` parallel partition (BSH-001-A)**
+
+```
+re-fe-ma-ki  /  la-zo-se-ma  ki  lo-re-fe-ma-ki,  ma-ki-so  pa
+```
+
+Written: `refemaki / lazosema ki lorefemaki, makiso pa`
+
+**Notes:** `re-fe-ma-ki` = long-established bounded water = old pond (`re` persistence + `fe` boundary + `ma-ki` water, MAT-002). `/` = parallel partition: kireji as co-equal juxtaposition — the pond and the event are formally paired without specifying the relationship between them. `la-zo-se-ma` = the aquatic-vertebrate / frog (agent; `zo-se-ma` = matter-perceptual organism, kinds.md aquatic-vertebrate class; GAP-BSH-001: no specific frog discriminator). `ki` = physical motion/displacement = enters / jumps into. `lo-re-fe-ma-ki` = patient: the old pond. `,` = prosodic boundary. `ma-ki-so pa` = water-sound exists (`ma-ki-so` = `ma-ki` water + `so` sound, head `so`; first attested here; `pa` = existential predicate = minimum required; GAP-BSH-002: source has pure noun-phrase, no predicate; `pa` is the lightest possible addition).
+
+---
+
+**S469 — Bashō frog haiku — kireji as `:` topic frame (BSH-001-B)**
+
+```
+re-fe-ma-ki  :  la-zo-se-ma  ki  lo-re-fe-ma-ki,  ma-ki-so  pa
+```
+
+Written: `refemaki : lazosema ki lorefemaki, makiso pa`
+
+**Notes:** Identical to S468 except `/` replaced by `:` (topic frame). The old pond is the thematic anchor: "as for the old pond — the frog enters it, water-sound occurs." The pond is not co-equal partner but scene-setting. The event is a comment *about* the established place. This encodes the Bashō-as-painter reading: the pond is the canvas; the frog's entry is the mark. Contrast S468 (Bashō-as-Zen: two co-equal presences). The difference between S468 and S469 is exactly the interpretive debate that `ya` has sustained for 340 years. Tonesu forces the choice; Japanese does not.
+
+---
+
+**S470 — Bashō frog haiku — compressed, agent-dropped (BSH-001-C)**
+
+```
+re-fe-ma-ki  :  ki  lo-ma-ki,  ma-ki-so  pa
+```
+
+Written: `refemaki : ki lomaki, makiso pa`
+
+**Notes:** Maximum compression. Agent `la-zo-se-ma` dropped — the frog disappears as a named actor; only the motion event remains. `lo-ma-ki` replaces `lo-re-fe-ma-ki` — patient is simply "the water," shedding the age and boundary modifiers. Tests GAP-BSH-004: is `ki lo-X` without `la-{agent}` grammatical in Tonesu? Currently unresolved. Exploratory variant only; S468 and S469 are the primary translations. What this gains: the purest possible event-without-actor; what it loses: the frog is actually grammatically present in Japanese (`kawazu tobikomu` names the agent explicitly).
+
+---
+
+## BSH-001 Batch Summary
+
+| Entry | Form | Test |
+|-------|------|------|
+| S468 (BSH-001-A) | `refemaki / lazosema ki lorefemaki, makiso pa` | `/` as kireji; co-equal juxtaposition; Bashō-as-Zen reading |
+| S469 (BSH-001-B) | `refemaki : lazosema ki lorefemaki, makiso pa` | `:` as kireji; topic anchor; Bashō-as-painter reading |
+| S470 (BSH-001-C) | `refemaki : ki lomaki, makiso pa` | agent-dropped compression; GAP-BSH-004 |
+
+**Key finding:** Tonesu has two structurally distinct translations of a poem that English cannot render in even one. The critical debate about `ya` is exposed as a structural fork: `/` (pure co-equal juxtaposition) or `:` (thematic anchor). Japanese `ya` refuses to choose; Tonesu cannot avoid it. The gain is clarity of interpretation; the loss is that haiku's power comes precisely from not choosing.
+
+**New vocabulary introduced:** `re-fe-ma-ki` (old pond; first attested S468); `ma-ki-so` (water-sound; first attested S468).
+
+**Open questions logged:** GAP-BSH-001 (frog compound / `zo-se-ma` discriminator); GAP-BSH-002 (zero-predicate noun-sentence impossible; `pa` minimally added); GAP-BSH-003 (no discourse-anaphora pronoun; `re-fe-ma-ki` repeated in full); GAP-BSH-004 (agent-drop for motion-event clause).
+
+---
+
+## Emily Dickinson, "Because I could not stop for Death" (F479/J712, ~1863) — Stanzas 1 & 6 — Batch: EMD-001
+
+**Purpose:** Personification of abstract process as social agent (`de-zo-li`); narration from beyond death (`la-mi` as dead speaker); the Dickinson dash (GAP-EMD-001); `helm` as poetic metaphor operator; Immortality personified separately from Eternity.
+
+Source (stanza 1):
+```
+Because I could not stop for Death —
+He kindly stopped for me —
+The Carriage held but just Ourselves —
+And Immortality.
+```
+Source (stanza 6 / grave scene):
+```
+We paused before a House that seemed
+A Swelling of the Ground —
+```
+
+---
+
+**S471 — Stanza 1, lines 1-2: "Because I could not stop for Death — / He kindly stopped for me —" (EMD-001-A)**
+
+```
+ta go {no la-mi de-ki lo-de-zo-li}, la-de-zo-li wi-vo de-ki lu-mi
+```
+
+Written: `ta go {no lami deki lodezoli}, ladezoli wivo deki lumi`
+
+**Notes:** `ta` = past temporal frame. `go {…}` = causal frame: "because [I was not stopping for Death]". `de-zo` = dying/death (established as non-deliberate organism-decay, in non-murder register). `de-zo-li` = Death personified: `de-zo` + `-li` (social agent suffix) = the death-person; first corpus use of `-li` applied to a process-compound rather than a concrete entity (GAP-EMD-002: process personification via `-li`). `de-ki` = stop / cease motion: `de` (decay/cessation) + `ki` (motion) = motion-cessation; first attested here. `wi-vo` = kindly / intentional-goodness (established ROM-001): Death acts from good will. `lu-mi` = beneficiary: me. The `,` renders Dickinson's em-dash at the line break — closest approximation available; GAP-EMD-001 (no prosodic-suspension mark). `la-mi` is used for the dead speaker without resolution; GAP-EMD-003.
+
+---
+
+**S472 — Stanza 1, lines 3-4: "The Carriage held but just Ourselves — / And Immortality." (EMD-001-B)**
+
+```
+la-ki-pa-mu ko lo-mi lo-de-zo-li lo-no-de-zo-li
+```
+
+Written: `lakipamu ko lomi lodezoli lonodezoli`
+
+**Notes:** `ki-pa-mu` = W086 (vehicle/carriage; established). `ko` = containment predicate. Three patients: `lo-mi` (me), `lo-de-zo-li` (Death-person), `lo-no-de-zo-li` (Immortality-person). `no-de-zo` = not-dying = immortality: `no` + `de-zo`; distinct from `ti-no-fe` (eternity = time-without-limit, THO-001). Immortality is the property of not dying; Eternity is the dimension of time. Dickinson holds both in the same poem; Tonesu can distinguish them. `no-de-zo-li` = Immortality personified; first attested here. The "but just" exclusive has no equivalent (GAP-EMD-004: no exclusive particle). Dickinson's final line "And Immortality." arrives in isolation as typographic revelation; in Tonesu it is the third item in a patient list — the arrival effect is lost.
+
+---
+
+**S473 — Stanza 6 grave scene: "We paused before a House that seemed / A Swelling of the Ground —" (EMD-001-C)**
+
+```
+la-mi la-de-zo-li de-ki ne-di-ko-pa, ko-pa helm be-ma-pa
+```
+
+Written: `lami ladezoli deki nedikopa, kopa helm bemapa`
+
+**Notes:** `la-mi la-de-zo-li de-ki` = I [and] Death-person paused (ceased motion). `ne-di-ko-pa` = relational-direction-toward-house (`ne` + `di` + `ko-pa`) = in front of / positioned before a house; compositional directional spatial relation. `,` = frame boundary. `ko-pa` = enclosed space / house (W048). `helm` (G011) = is functionally understood as / the metaphorical equivalent of. `be-ma-pa` = raised-matter-place = grave mound: `be` (growth/raise) + `ma` (matter) + `pa` (place) = a swelling of the ground; first attested here. **Key structural finding: `helm` as poetic metaphor operator.** The DKN-001 finding (helm = cultural-historical functional equivalence) generalizes here to pure poetic metaphor: `ko-pa helm be-ma-pa` = the house is understood-as a grave mound. The speaker recognizes her own grave. `helm` is the correct operator: not `helms` (strict definitional identity) and not `ne` (property attribution); the grave *functions as* a house. This extends `helm` from cultural register to poetic metaphor register across all domains.
+
+---
+
+## EMD-001 Batch Summary
+
+| Entry | Form | Test |
+|-------|------|------|
+| S471 (EMD-001-A) | `ta go {no lami deki lodezoli}, ladezoli wivo deki lumi` | `de-zo-li` personification; `de-ki` stop; causal frame; dash → `,` |
+| S472 (EMD-001-B) | `lakipamu ko lomi lodezoli lonodezoli` | carriage containment; `no-de-zo-li` Immortality; isolation effect lost; GAP-EMD-004 |
+| S473 (EMD-001-C) | `lami ladezoli deki nedikopa, kopa helm bemapa` | `helm` as poetic metaphor operator; `be-ma-pa` grave mound; grave-as-house construction |
+
+**Key finding:** `helm` generalizes from cultural-historical equivalence (DKN-001) to poetic metaphor across all domains. `de-zo-li` establishes process-personification via `-li`. `no-de-zo` (Immortality) and `ti-no-fe` (Eternity) are confirmed as structurally distinct.
+
+**New vocabulary introduced:** `de-zo-li` (Death personified; S471); `de-ki` (stop/cease-motion; S471); `no-de-zo` / `no-de-zo-li` (Immortality/personified; S472); `be-ma-pa` (grave mound; S473).
+
+**Open questions logged:** GAP-EMD-001 (no prosodic-suspension mark / the Dickinson dash); GAP-EMD-002 (process personification via `-li` — productive or register-restricted?); GAP-EMD-003 (narration from beyond death / `la-mi` as dead speaker); GAP-EMD-004 (no exclusive particle — "only / but just").
+
+---
+
+## Laozi, *Tao Te Ching* (道德經), Chapter 1, Lines 1–4 — Batch: TAO-001
+
+**Purpose:** Untranslatable-concept stress test. No possibility modal (GAP-TAO-001); 道 as noun/verb pun (GAP-TAO-002); the naming-the-unnameable paradox (GAP-TAO-003). `su` as mapping for 道 (the Tao); `[X]-no-fe` at cosmic scale; `helms` for ontological definition; `/` as parallel partition for the nameless/named dyad.
+
+---
+
+**S474 — Line 1: 道可道，非常道 ("The Way that can be spoken is not the eternal Way") (TAO-001-A)**
+
+Notation: `go {su-si lo-su}, ze no-helm su-no-fe`
+
+Written: `go susi losu, ze nohelm sunofe`
+
+**Notes:** `go {su-si lo-su}` = conditional frame: when [a name is applied to the Way] = "when the Way is named." `su-si` = structured signal = name/linguistic designation (compound noun/verb); `lo-su` = the Way as patient. `ze` = it; third-person pronoun; antecedent = `su` from the premise (the Way as named). `no-helm` = does not function as (negated functional-equivalence operator, established DKN-001, generalized EMD-001). `su-no-fe` = structure-without-limit = the boundless Way; first `[X]-no-fe` applied at cosmic scale. GAP-TAO-001: Chinese 可 (kě) = can/possible; Tonesu has no possibility modal — conditional `go {…}` ("when named") substitutes, losing the potentiality/actuality distinction. GAP-TAO-002: Chinese 道可道 puns on 道 as noun AND verb; `su`-as-verb = "structures," not "speaks" — the pun is irreproducible.
+
+---
+
+**S475 — Line 2: 名可名，非常名 ("The name that can be named is not the eternal name") (TAO-001-B)**
+
+Notation: `go {su-si lo-su-si}, ze no-helm su-si-no-fe`
+
+Written: `go susi losusi, ze nohelm susinofe`
+
+**Notes:** Structural parallel to S474. `su-si lo-su-si` = the naming-root applied to itself as patient = "a name is named." `su-si`-as-verb names `su-si`-as-noun: the naming apparatus designates itself. This inadvertently echoes the Chinese 名可名 verbal pun at one level removed — root polyfunctionality creates a partial recovery not available in S474. `su-si-no-fe` = name without limit = the eternal/boundless name. `ze` = it; the named name.
+
+---
+
+**S476 — Lines 3–4: 無名天地之始；有名萬物之母 (TAO-001-C)**
+
+Notation: `no-su-si helms go-ti lo-pa-no-fe / su-si helms go-zo-li lo-pu-ma`
+
+Written: `nosusi helms goti lopanofe / susi helms gozoli lopuma`
+
+**Notes:** `no-su-si` = not-structured-signal = namelessness as ontological category (the pre-linguistic state). `helms` = is by definition (`::`, strict identity operator); chosen over `helm` (functional equivalence) because Laozi's claim is definitional, not approximate. `go-ti lo-pa-no-fe` = origin-in-time [of] the cosmos (established JOH-001); `pa-no-fe` = boundless place = heaven-and-earth (established THO-001). `/` = `vel` = parallel partition; maps Chinese `;` for the coordinated nameless/named dyad of equal structural weight. `su-si` = naming/linguistic designation (bare, no negation). `go-zo-li` = generative living person = mother/parent-origin; `go` (origin) + `zo` (organism) + `li` (social agent suffix); first attested this batch. `lo-pu-ma` = patient: all things (established WIT-001). GAP-TAO-003: assigning `su-no-fe` to the eternal Tao is the prohibited move lines 1–2 describe; translation enacts the violation it renders — the naming paradox is inscribed in this batch.
+
+---
+
+## TAO-001 Batch Summary
+
+| Entry | Form | Test |
+|-------|------|------|
+| S474 (TAO-001-A) | `go susi losu, ze nohelm sunofe` | `go {…}` conditional for modal-gap; `su-no-fe` at cosmic scale; GAP-TAO-001/002 |
+| S475 (TAO-001-B) | `go susi losusi, ze nohelm susinofe` | meta-naming; `su-si` names itself (inadvertent pun recovery); `su-si-no-fe` |
+| S476 (TAO-001-C) | `nosusi helms goti lopanofe / susi helms gozoli lopuma` | `helms` ontological; `/` for nameless/named dyad; `go-zo-li` first attested |
+
+**Key finding:** `su` (bare primitive: structure/organizational arrangement) is the most faithful available mapping for 道. It is pre-compositional, non-specifying, and foundational — not `to` (mind-internal concept), not `ra` (force), not `pa` (place). The `su`-vs-`to` registry distinction directly enacts the Taoist insight: the Tao is not a concept in a mind but the structure of reality prior to thought. The `[X]-no-fe` suffix extends cleanly to cosmic scale. S475 inadvertently recovers a partial echo of the Chinese noun/verb pun via `su-si lo-su-si`: the naming-root naming itself.
+
+**New vocabulary introduced:** `go-zo-li` (generative mother/parent-origin; S476); `su-no-fe` (boundless Way, first `[X]-no-fe` at cosmic scale; S474); `su-si-no-fe` (eternal name; S475); `no-su-si` (namelessness as ontological category; S476). Note: `su-si` (name/linguistic designation) attested from registry design, first corpus use here.
+
+**Open questions logged:** GAP-TAO-001 (no possibility modal — conditional `go {…}` substitutes but loses potentiality/actuality distinction); GAP-TAO-002 (道-as-verb pun: `su`-as-verb = "structures," not "speaks"; pun structurally irreproducible in Tonesu); GAP-TAO-003 (naming the unnameable — any Tonesu form assigned to the Tao enacts the violation described in lines 1–2; inscribed as the unavoidable condition of translation).

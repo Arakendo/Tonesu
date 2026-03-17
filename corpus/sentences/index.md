@@ -68,3 +68,6 @@ Corpus evidence by batch (for cross-reference):
 | WIT-001 | Wittgenstein Tractatus §1 — `helms` ontological definition; `pu-du-to` facts vs `pu-ma` objects | S461 | s398-plus.md |
 | HAM-001 | Shakespeare Hamlet III.i — `pa / no-pa` bare-predicate topicalization; `/` inside topic NP; agent scope gap; GAP-HAM-001/002 | S462–S464 | s398-plus.md |
 | LPR-001 | Liar Paradox — `tonesu` vs `du-to` truth predicates; Block 1 (no sentence-indexical); Block 2 (`vund…vunds` Tarski hierarchy); paradox not formable | S465–S467 | s398-plus.md |
+| BSH-001 | Bashō frog haiku (Japanese) — kireji `ya` as `/` vs `:`; 340-year interpretive fork exposed; `re-fe-ma-ki` old pond; `ma-ki-so` water-sound; GAP-BSH-001–004 | S468–S470 | s398-plus.md |
+| EMD-001 | Dickinson "Because I could not stop for Death" — `de-zo-li` personification; `helm` as poetic metaphor; `no-de-zo` Immortality vs `ti-no-fe` Eternity; GAP-EMD-001–004 | S471–S473 | s398-plus.md |
+| TAO-001 | Laozi *Tao Te Ching* ch. 1 lines 1–4 — `su` as mapping for 道; `su-no-fe` / `su-si-no-fe` cosmic scale; `go-zo-li` generative mother; `helms` ontological; no modal (GAP-TAO-001–003) | S474–S476 | s398-plus.md |
