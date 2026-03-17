@@ -678,6 +678,50 @@ lo-ne-ra : la-mi  no-se  lo-ze      →  As for the resonance — I have no perc
 
 **Metalanguage uses of `:` and `::`:** in registry entries and spec notation, `:` introduces an explanatory gloss (`to-si : knowledge-seeking signal`) and `::` introduces a structural decomposition (`to-si :: to + si`). See spec/phonology.md § `:` and `::` — Definition and Topic Marks.
 
+---
+
+## Exclusive Scope Particle (`ru-fe`)
+
+The compound `ru-fe` is a **clause-initial exclusive scope marker** that restricts a proposition to exactly one holding case. `ru-fe, [clause]` asserts the clause is true at a single bounding point and is false outside it — an exclusive restriction on any argument or frame within the clause.
+
+```
+ru-fe, {clause}        →   only / solely / exclusively: {clause}
+```
+
+**Compositional derivation:** `ru` (unity/singularity) + `fe` (boundary/limit) = *the singular bounding case* — the one limit at which the proposition holds, and nowhere else. Compare `no-fe` (no-boundary = infinite); `ru-fe` is its logical complement: the single limiting case.
+
+**Syntactic position:** clause-initial, followed by `,`. Identical slot to `ya` (G030, attention-signal). `ru-fe` scopes the entire following proposition — agent, causal frame, predicate, any argument structure. It makes no claims about the internal structure of the scoped clause.
+
+**Attested positions (EXC-001, March 2026):**
+
+```
+ru-fe, la-Elohim ne vo                    →  only God has worth (agent-exclusive)
+ru-fe, go to ; ka-vo                      →  only through knowledge does one act rightly (method-exclusive)
+ru-fe, la-mi ne zo                        →  I alone survived (agent-narrative)
+ru-fe, la-Elohim helms go-no-fe           →  God alone is by definition the necessary being (theological canonical)
+```
+
+**Stacking with `ya`:** `ya, ru-fe, [clause]` is admitted. Pragmatic outer scope (`ya` = attend to this) wraps semantic exclusive scope (`ru-fe`), which wraps content. Order rule: outermost operator stated first.
+
+```
+ya, ru-fe, la-Elohim ne vo               →  attend to this — only God has worth
+```
+
+**Critical distinction — `ru-fe` vs `la-X ne ru`:** these are structurally and semantically different:
+
+| Form | Reading | Type |
+|------|---------|------|
+| `la-X ne ru` | X is one / X is unified | cardinality/unity predicate (the Shema form: `la-Elohim ne ru` = "God is one") |
+| `ru-fe, la-X ne Y` | only X has property Y | exclusive scope over the clause |
+
+`la-X ne ru` asserts a property of X (being undivided, singular, whole). `ru-fe` restricts a predicate to X alone.
+
+**Do not use:** `la-X ru {predicate}` — `ru` in post-agent position is syntactically ambiguous. Three competing parses result (NP-compound, predicate-compound, floating adverb); none cleanly yield exclusive semantics. EXC-001 S552 established this as a diagnostic failure.
+
+**Two-clause alternative:** `no la-{class} ne Y — la-X ne Y` conveys exclusivity by implicature (deny the class + suspend + affirm the exception). This is pragmatically available but is not a grammatically marked exclusive — the exclusive reading depends on conversational context. Use `ru-fe` when the exclusive must be encoded unambiguously.
+
+**Registry:** G031. Admitted EXC-001 (March 2026).
+
 **Corpus batch:** FAL-001 (fallacy-resistance corpus). First attestations: S368 (ad hominem), S371 (composition/division).
 
 ---

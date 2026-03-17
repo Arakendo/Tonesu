@@ -101,6 +101,7 @@ la-[agent]  [verb-compound]  lo-[patient]
 - `la-` agent prefix · `lo-` patient prefix · `lu-` result/beneficiary
 - `ne` copula (property attribution) · `go` causal/origin particle
 - `he` vocative particle (`he na-X!` = direct call; `na-X` alone is an NP) · `ya` attention-signal (`ya, [clause]` = attend to this; no affect claim)
+- `ru-fe` exclusive scope particle (`ru-fe, [clause]` = "only / solely: [clause]"; clause-initial + `,`; stacks with `ya`) · distinct from `la-X ne ru` (= "X is one" — Shema cardinality form)
 - Modifier precedes head
 - **Default compound parse is right-branching:** `A-B-C` = A modifies [B-C]. The `'` juncture marker overrides this: `A'B-C` = [A] modifies [B-C] as a pre-bound unit.
 
