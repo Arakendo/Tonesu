@@ -63,6 +63,30 @@ Stacking more than one role marker on the same base is disallowed; restructure a
 
 ---
 
+## V-Prefix Scope Modifiers
+
+Admitted March 2026 (VPC-001). A V-prefix is a **scope-modifier** that precedes a root or compound at word-initial position. It does not add independent lexical content; it shifts the *register, granularity, or mode* of the following root. All 5 bare-vowel forms are admitted.
+
+| Prefix | Scope effect | Example |
+|--------|-------------|--------|
+| `a-` | abstract/universal — root at broadest conceptual category | `a-to` (knowing-in-general), `a-su` (form-as-such), `a-to-li` (sage) |
+| `i-` | particular/precise — root as a discrete, specified instance | `i-to` (this specific fact / particular epistemic object) |
+| `u-` | interior/foundational — the tacit or underlying mode of root | `u-to` (interior/tacit knowing), `u-su` (deep structure) |
+| `o-` | collective/distributed — root as property of group-as-unit | `o-li` (community-as-unit; ≠ `pu-li` count-of-persons) |
+| `e-` | emergent/transitional — root in an unsettled, forming state | `e-ki` (emergent/progressive change; imperfective aspect) |
+
+**Parse rules:**
+- Position: word-initial only (parse invariant 1 — mid-compound bare-V violates consonant-onset requirement). V-prefixes cannot appear inside a compound; their position is always structurally unambiguous.
+- Right-branching: the V-prefix scopes over everything to its right in the same compound. `a-to-li` = `a-[to-li]` = universal-(knowledge-agent) = sage.
+- Written form: solid in ordinary prose — `ato`, `ito`, `uli`, `oki`, `eki`. Morpheme-boundary notation: `a-to`, `i-to`, etc.
+- Role-marker interaction: role particles (`la-`, `lo-`) are outside-word and do not interact with V-prefix structure. `lo-a-to` = patient:universal-knowing. `la-a-to` is hazardous — see constraint below.
+
+**Known problem 1 — `a-` merge hazard:** `la-` ends in `a`; `la-a-X` collapses to `la-X` in fast speech (vowel-identity merger). The merged and intended readings are structurally different and not recoverable from context. **Rule: `a-` forms should be used in predicate or patient position, not agent position after `la-`.** The other four prefixes (`i- u- o- e-`) do not share this hazard.
+
+**Known problem 2 — over-generation:** V-prefixes are combinatorially productive across all roots (~5 × 34 minimal compounds, plus all multi-root extensions). This could swamp the lexicon with redundant or speculative forms. **Throttle rule: V-prefixed forms are not vocabulary entries by default.** Any V-prefixed form is readable from context using the scope semantics above; it does not need to be registered to be used. Registry admission requires: (a) the scope-shifted meaning is not paraphraseable by any existing compound without semantic loss, AND (b) the form has ≥ 3 corpus attestations in distinct contexts. Use freely in corpus; register sparingly.
+
+---
+
 ## Word Formation Pathways
 
 Every lexical item enters the language through one of five pathways:

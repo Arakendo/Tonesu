@@ -102,6 +102,24 @@ For contracted everyday forms, see lexicon/colloquial.md.
 
 ---
 
+## V-Prefix Class
+
+Admitted March 2026 (VPC-001). Five scope-modifier prefixes; word-initial position only. A V-prefix adjusts the register or scope of the following root without adding independent lexical content. Right-branching default: `a-to-li` = `a-[to-li]`. Written solid in prose: `ato`, `ito`, `oki`, `eki`, `usu`.
+
+| Form | Scope effect | Key attested compounds | Corpus basis |
+|------|-------------|----------------------|--------------|
+| `a-` | abstract/universal — root at broadest conceptual category | `a-to` (knowing-in-general), `a-su` (form-as-such), `a-to-li` (sage) | VPC-001 (S504, S505, S510, S511) |
+| `i-` | particular/precise — root as discrete specified instance | `i-to` (this specific fact) | VPC-001 (S506) |
+| `u-` | interior/foundational — tacit or underlying mode of root | `u-to` (interior/tacit knowing), `u-su` (deep structure) | VPC-001 (S507, S513) |
+| `o-` | collective/distributed — root as property of group-as-unit | `o-li` (community-as-unit ≠ `pu-li`) | VPC-001 (S508) |
+| `e-` | emergent/transitional — root in unsettled, forming state | `e-ki` (emergent/progressive change) | VPC-001 (S509) |
+
+**Known problem — `a-` merge hazard:** `la-a-X` collapses to `la-X` in fast speech. Use `a-` in predicate/patient positions only, not after `la-`.
+
+**Known problem — over-generation:** 5 × 34+ potential minimal forms. V-prefixed compounds are **not registered by default** — they are live scope-modifiers readable from context. Registry admission requires: (a) meaning not paraphraseable by an existing compound without loss, AND (b) ≥ 3 corpus attestations in distinct contexts.
+
+---
+
 ## Open Questions
 
 - [x] ~~Resolve particle/root phonetic collision for agent marker~~ → resolved: agent particle renamed `li` → `la`. Remaining overlaps: `ra`, `pa`, `ka`, `ne`.

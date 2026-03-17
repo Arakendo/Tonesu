@@ -65,7 +65,7 @@ Never renumber existing W-numbers or S-numbers when splitting.
 | CV-CV+ | Compound | Compositional; no new primitive needed |
 | CVC | Lexical atom | Digits, colors (closed), or ergonomic shortforms |
 | CVCC | Exceptional anchor | Constants/convention units only; Assemblage-First Rule applies |
-| V | Bare-vowel particle | Word-initial only; 5 slots reserved; none assigned |
+| V | Scope-modifier prefix | Word-initial only; all 5 admitted: `a-`=abstract/universal, `i-`=precise/particular, `u-`=interior/foundational, `o-`=collective, `e-`=emergent; `a-` merge hazard after `la-` |
 | VC | Deferred tier | Word-initial only if admitted; ~40 forms; currently unused |
 
 ### Parse invariants (never violate)
