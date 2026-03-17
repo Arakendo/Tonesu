@@ -733,4 +733,4 @@ This project combines ideas from Esperanto (agglutinative phonetic grammar), Loj
 
 https://github.com/Arakendo/Tonesu
 
-© 2026 Arakendo. All rights reserved pending license selection.
+© 2026 Arakendo. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
