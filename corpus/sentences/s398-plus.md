@@ -1918,3 +1918,181 @@ la-du-zo-su ko lo-u-su
 **Finding 4: `a-` has a specific phonological hazard after `la-`.** `la-a-X` collapses to `la-X` in fast speech (vowel-identity merger). The constraint: use `a-` forms in predicate or patient position, or after non-`a`-final particles. The other four prefixes (`i- u- o- e-`) do not share this hazard.
 
 **Recommendation for OQ-V-003:** V-prefix class is productive and should be admitted. The 5 scope roles are established by VPC-001. The `a-` phonological hazard is a constraint, not a blocking problem. Admit the class; document the `a-` position rule; update spec/phonology.md § V-Prefix Class and notes/open-questions.md.
+
+---
+
+## Dickinson Dash — Prosodic Suspension Test (S514–S523) — Batch: EMD-002
+
+**Purpose (OQ-VC-001 / GAP-EMD-001):** Test whether a prosodic-suspension mark is genuinely needed and structurally distinct from the existing clause-boundary and connective marks. The Dickinson em-dash `—` is the proposed written symbol. The proposed spoken form is a VC-tier form — the first ever assigned if admitted. This batch tests both the functional gap and decides whether a CVC spoken form is adequate or whether the VC tier must open.
+
+**Design questions under test:**
+1. Is `—` (prosodic suspension) functionally distinct from `,` (clause boundary)? From `;` (sequential connector)? From `/` (parallel partition)?
+2. Does `—` appear in any register beyond poetry, or is it poetry-specific?
+3. Is the spoken form phonologically weight-appropriate as VC, or would a CVC notation word serve?
+4. A second VC admission case is not yet in hand — does GAP-EMD-001 alone justify opening the tier, or must we wait?
+
+**Proposed `—` semantics:** Prosodic suspension — an incompletion held in breath. The phrase or clause before `—` is suspended rather than closed: the idea has not been resolved, the sentence has not been sealed, the breath is held before whatever (if anything) follows. Unlike `,` (completed boundary), `;` (sequence asserted), or `/` (paired clauses), `—` makes no assertion about what follows — it signals only that the preceding unit is left open. May appear mid-clause (after a fragment), at a clause end before a resumption, or finally (trailing into silence).
+
+**Proposed VC spoken form: `el` (G028).** `e` = shifting/emergent (consistent with V-class sound symbolism); `l` = liquid coda, softest available, trailing away — phonosemantically the closest available to a suspension that does not close. `el` is VC shape, word-initial only, not assignable to a mid-compound position (parse invariant 1 holds). Phonologically distinct from all existing CVCC notation marks including `vel` (G013: C-initial, `v` onset).
+
+---
+
+**S514 — Dickinson stanza 1, lines 1-2, with `—` restored** *(EMD-002-A)*
+
+Original: *"Because I could not stop for Death — / He kindly stopped for me —"*
+
+```
+ta go {no la-mi de-ki lo-de-zo-li} — la-de-zo-li wi-vo de-ki lu-mi —
+```
+
+Written: `ta go {no lami deki lodezoli} — ladezoli wivo deki lumi —`
+
+**Notes:** Compare S471, which used `,` where both Dickinsonian dashes appear. The first `—` appears after the causal subordinate clause (`go {…}`) and before the matrix clause — a position where `,` is grammatically common and almost natural. The difference: `,` closes the subordinate-clause boundary cleanly and hands off to the matrix; `—` holds the subordinate clause open in suspension, so the matrix clause (`la-de-zo-li wi-vo…`) emerges from a held breath rather than a clean start. The second `—` closes the sentence non-terminally — the sentence is syntactically complete, but `—` signals that the poem is not done with this thought. Terminal `,` is not available (`;` would assert temporal sequence; `/` would demand a partner clause; nothing closes but leaves open). **`—` at both positions is non-redundant with `,`.** EMD-002 count: 1.
+
+---
+
+**S515 — Dickinson stanza 1, lines 3-4, with `—` restored** *(EMD-002-B)*
+
+Original: *"The Carriage held but just Ourselves — / And Immortality."*
+
+```
+la-ki-pa-mu ko lo-mi lo-de-zo-li — lo-no-de-zo-li
+```
+
+Written: `lakipamu ko lomi lodezoli — lonodezoli`
+
+**Notes:** Compare S472 (no `—` available). In S472 the three patients are listed `lo-mi lo-de-zo-li lo-no-de-zo-li` as flat co-ordinates in a patient list. Dickinson's typographic trick is to withhold `lo-no-de-zo-li` (Immortality) until after the suspension — it arrives at the new line as the revelation item. `—` in mid-patient-list position achieves this: `lo-mi lo-de-zo-li — lo-no-de-zo-li` = the carriage held [us, Death —] Immortality. The suspension creates the arrival effect. **Structural question: may `—` appear mid-patient-list?** There is no grammatical reason it cannot — `—` is a prosodic mark external to the argument structure, operating at the phonological phrase level. The patient list is `{lo-mi  lo-de-zo-li}` (first NP group, suspended) followed by `{lo-no-de-zo-li}` (revelation item). `—` here creates genuine pragmatic meaning that `,` (which would produce a flat three-item list) cannot. **First attestation of `—` in mid-NP-list position.** EMD-002 count: 2.
+
+---
+
+**S516 — Dickinson stanza 6 grave scene, with `—` restored** *(EMD-002-C)*
+
+Original: *"We paused before a House that seemed / A Swelling of the Ground —"*
+
+```
+la-mi la-de-zo-li de-ki ne-di-ko-pa — ko-pa helm be-ma-pa —
+```
+
+Written: `lami ladezoli deki nedikopa — kopa helm bemapa —`
+
+**Notes:** Compare S473, which used `,` at the first suspension point. In S473 the `,` closes the locative phrase before the metaphor makes its reveal (`ko-pa helm be-ma-pa`). `—` is stronger: it suspends the scene entirely before the speaker names what she has recognized — her own grave. The second `—` trails the sentence into silence; the speaker does not close the scene with a period because closing would imply completion, which the grave resists. Two positions: mid-sentence locative suspension + final trailing silence. **Both positions confirmed non-redundant.** EMD-002 count: 3.
+
+---
+
+**S517 — DIAGNOSTIC: bare NP fragment + `—`** *(EMD-002-D)*
+
+```
+na-Moses —
+```
+
+Written: `naMoses —`
+
+**Notes:** A name alone with trailing suspension. No predicate. No argument structure. `—` after a bare NP fragment is the most minimal attestation — the name arrives, is held in the breath, and nothing further is added. Grammatically this is not a well-formed Tonesu sentence (no predicate), but it is a well-formed Tonesu **utterance** in an address or invocation register. Compare the vocative gap (OQ-V-001): `na-Moses!` addresses (exclamatory), but `na-Moses —` holds the address in suspension — calling, but waiting, not yet speaking. These are distinct speech acts. `!` = proclaimed forcefully; `—` = spoken and suspended; both differ from a vocative particle `V, na-Moses` (once OQ-V-001 is resolved). **First attestation of `—` after a grammatical fragment (bare NP, no predicate).** Parse is clean: `—` is external to the word; no mid-compound issue arises. EMD-002 count: 4.
+
+---
+
+**S518 — `,` vs `—` contrast: clause boundary vs suspension** *(EMD-002-E)*
+
+```
+(a) la-su ki, la-mi se lo-ze
+(b) la-su ki — la-mi se lo-ze
+```
+
+Written: `(a) lasu ki, lami se loze` / `(b) lasu ki — lami se loze`
+
+**Notes:** In (a), `,` closes the first clause and the second starts fresh: "The structure changed, I perceived it." The two clauses are complete and sequential; the comma is a conventional boundary marker. In (b), `—` holds `la-su ki` open: "The structure changed — I perceived it." The suspension signals that the perceiving is not a new topic but an arrival from within the held state of the first clause. The speaker pauses in the changed structure before announcing the perception. The semantic content is identical; the phenomenological texture is not. **`,` = closed boundary; `—` = open suspension before resumption.** Non-redundant in a context where the speaker's dwell-time in the first clause is meaningful. EMD-002 count: 5.
+
+---
+
+**S519 — `;` vs `—` contrast: sequence vs suspension** *(EMD-002-F)*
+
+```
+(a) la-su ki ; la-mi se lo-ze
+(b) la-su ki — la-mi se lo-ze
+```
+
+Written: `(a) lasu ki ; lami se loze` / `(b) lasu ki — lami se loze`
+
+**Notes:** In (a), `;` asserts A-then-B sequence: "The structure changed and then I perceived it." The Hume distinction: `;` encodes constant conjunction — the speaker is committing that B followed A in the directed sequencing. In (b), `—` asserts nothing about temporal order, causal connection, or sequence — only that there was a point of suspension. The perceiving emerges from the suspension without any assertion that it was next. In ambiguous cases (was the perception simultaneous? delayed? caused?) `—` is the honest mark; `;` would overclaim. **`;` = directed sequence; `—` = suspended incompletion with no sequence claim.** Non-redundant in any narrative that resists sequentialization. EMD-002 count: 6.
+
+---
+
+**S520 — `/` vs `—` contrast: parallel structure vs suspension** *(EMD-002-G)*
+
+```
+(a) la-su be / la-su de
+(b) la-su be — la-su de —
+```
+
+Written: `(a) lasu be / lasu de` / `(b) lasu be — lasu de —`
+
+**Notes:** In (a), `/` formally pairs two clauses as a structural parallel or antithesis: "Structure grows / Structure decays." The two clauses are matched, their formal pairing is the assertion. The reader holds both simultaneously as a dyad. In (b), `—` after each clause makes them independent suspension points: "Structure grows — Structure decays —" — the speaker holds each observation in a breath before offering the next, with no formal claim that they are paired. The difference is between *paired antithesis* (grammatical assertion of symmetry) and *successive meditation* (phenomenological dwelling on each). The content can be identical but the rhetorical acts are different. `/` requires structural symmetry and makes it explicit; `—` does neither. **Non-redundant.** EMD-002 count: 7.
+
+---
+
+**S521 — Post-agent NP suspension (subject announced, predicate held)** *(EMD-002-H)*
+
+```
+la-de-zo-li — wi-vo de-ki lu-mi
+```
+
+Written: `ladezoli — wivo deki lumi`
+
+**Notes:** The agent NP (`la-de-zo-li` = Death) is announced and suspended before the predicate arrives. This is a characteristic Dickinsonian construction: the grammatical subject arrives first, hangs — and then the action follows from within the held breath. Structurally: `la-de-zo-li —` is an agent NP fragment with `—` trailing it before the predicate `wi-vo de-ki lu-mi` completes the clause. The result differs from canonical `la-de-zo-li wi-vo de-ki lu-mi` (no suspension): in the suspended version the agent is foregrounded as a presence before the action is attributed. **First attestation of `—` following an agent NP fragment before the predicate.** EMD-002 count: 8.
+
+---
+
+**S522 — Terminal suspension (complete sentence + `—`, nothing follows)** *(EMD-002-I)*
+
+```
+la-ki-pa-mu ko lo-ti-no-fe —
+```
+
+Written: `lakipamu ko lotinofe —`
+
+**Notes:** A grammatically complete sentence followed by `—` with nothing after. "The carriage held eternity —" The predicate and patient are complete; nothing structurally remains. `—` here signals that the sentence, though closed grammatically, is not closed phenomenologically — the idea trails outward. This is pure Dickinsonian terminal suspension: the period would close the thought; `—` leaves it hanging in the air. Terminal `—` differs from terminal `!` (heightened force, calls attention), terminal `,` (not grammatically valid as terminal), and terminal`;` (sequence requires a following B). `—` is the only mark that can terminate while leaving open. **Admitted terminal position confirmed.** EMD-002 count: 9.
+
+---
+
+**S523 — Non-poetic register test: spoken address, moment of silence** *(EMD-002-J)*
+
+```
+la-mi lo-se-su to — no la-mi si lo-ze
+```
+
+Written: `lami losesu to — no lami si loze`
+
+**Notes:** "I studied the signal pattern — I could not name it." A non-poetic prosodic register: the speaker pauses after announcing the study before acknowledging the failure of naming. `—` is appropriate here in any register where a speaker holds a moment before the admission. This tests whether `—` is poetry-specific or cross-register. The content is technical/investigative; the suspension marks a genuine experiential beat — the moment between engaging a phenomenon and failing to classify it. The TAO-001 theme re-emerges (the unnameable) but in an ordinary investigative register, not a philosophical one. `—` serves naturally here; `,` would close the first clause cleanly and make the failure of naming feel incidental rather than weighted. **`—` productive outside poetry.** EMD-002 count: 10.
+
+---
+
+## EMD-002 Batch Summary
+
+| Entry | Form | Position | Test |
+|-------|------|----------|------|
+| S514 (EMD-002-A) | restored S471 with `—` | two positions: post-subordinate, terminal | `—` ≠ `,` at both positions |
+| S515 (EMD-002-B) | restored S472 with `—` | mid-patient-list | revelation arrival effect; `—` creates patient withholding |
+| S516 (EMD-002-C) | restored S473 with `—` | mid-sentence + terminal | pre-reveal suspension + trailing silence |
+| S517 (EMD-002-D) | `na-Moses —` | after bare NP fragment | `—` completes a fragment; ≠ `!`; ≠ vocative |
+| S518 (EMD-002-E) | `,` vs `—` | post-clause | closed boundary vs open suspension; non-redundant |
+| S519 (EMD-002-F) | `;` vs `—` | post-clause | sequence assertion vs suspension; non-redundant |
+| S520 (EMD-002-G) | `/` vs `—` | between clauses | structural parallel vs successive meditation; non-redundant |
+| S521 (EMD-002-H) | `la-de-zo-li —` | post-agent NP | agent foregrounded before predicate |
+| S522 (EMD-002-I) | `la-ki-pa-mu ko lo-ti-no-fe —` | terminal | grammatically complete + `—` = open trailing |
+| S523 (EMD-002-J) | investigative register | post-clause | `—` cross-register (not poetry-only) |
+
+---
+
+### EMD-002 Findings
+
+**Finding 1: `—` is functionally distinct from all existing marks.** Four explicit contrast pairs tested (S518: `,`; S519: `;`; S520: `/`; and S471/S473 revisions vs. original). All contrasts survive — `—` is non-redundant with every existing punctuation mark.
+
+**Finding 2: `—` appears in at least five syntactic positions.** Post-clause (S514, S518, S519), mid-patient-list (S515), pre-reveal mid-sentence (S516), after bare NP fragment (S517, S521), and terminal after a complete sentence (S522). The mark operates at the prosodic phrase level, not the clause level — it is genuinely sub-grammatical in the same way `,` is.
+
+**Finding 3: `—` is not poetry-specific.** S523 shows it productive in an investigative, non-poetic register. Any discourse context where a speaker dwells before a resumption or trailing silence may use `—`.
+
+**Finding 4: VC-tier admission is appropriate.** The proposed spoken form `el` has two properties that favor VC over CVC: (a) prosodic weight — the suspension is one of the lightest marks in the system; a VC spoken form is lighter than a CVC notation word, matching the functional register; (b) phonosemantic — `el` (`e` = shifting/emergent; `l` = liquid trailing) is phonosemantically appropriate in a way that a CVC construction-word would not be. Counterargument (from OQ-VC-001): 37 CV slots remain free, and a CVC form could serve. Rebuttal: CVC is the lexical-atom/notation-word tier — it carries phonological weight that a prosodic mark should not have. `eld` or `elm` as CVCC would be even heavier. `el` (VC) is structurally the right tier for the function.
+
+**Finding 5: One VC admission case with no second case in hand.** OQ-VC-001 noted that a second VC-admission pressure case would strengthen the decision. EMD-002 does not bring a second case; it is a single-function opening. The counterpoint from VPC-001: V-tier was a single-category decision (scope-modifier prefixes) and it proved productive. VC-tier can open for a single well-defined function if the function is genuinely structurally distinctive.
+
+**Recommendation for OQ-VC-001:** Admit `—` as the prosodic-suspension mark. Assign `el` (VC, G028) as its spoken form. Open the VC tier with the notation: "exactly one form currently occupied (`el`); remaining VC slots reserved pending further admission cases." Document the phonological hazard: `el` is word-initial-only; it cannot appear mid-compound; it cannot be combined with role-markers (`la-el` is inadmissible). The mark `—` operates externally to compound structure in the same way all other punctuation marks do — no compound-internal issue arises.
