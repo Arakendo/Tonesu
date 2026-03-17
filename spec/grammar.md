@@ -644,7 +644,7 @@ The evidential frame does not encode *how certain* the speaker is about the cont
 
 **Grammar:** the inner clause follows all standard grammar rules. The evidential frame is a clause-level meta-operator — it does not alter the agent/patient/predicate structure of the wrapped content. Imperatives and questions may not be wrapped; `()` is a declarative epistemic frame only.
 
-**Spoken form:** **`kelm`** (G014) at the `(` position; **`kelms`** (G015) at the `)` position. Prosodic bracketing accompanies the spoken forms; in casual speech prosody alone is sufficient. In formal, legal, and dictation register `kelm`/`kelms` are required for unambiguous parsing of nested evidential frames.
+**Spoken form:** **`vund`** (G014) at the `(` position; **`vunds`** (G015) at the `)` position. Prosodic bracketing accompanies the spoken forms; in casual speech prosody alone is sufficient. In formal, legal, and dictation register `vund`/`vunds` are required for unambiguous parsing of nested evidential frames.
 
 **Notation reference:** see spec/phonology.md § `()` — Evidential Frame for the full notation specification including `~` interaction.
 
