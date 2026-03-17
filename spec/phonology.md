@@ -149,7 +149,7 @@ Eight marks supplement `'`. Unlike `'`, these operate **outside** compound bound
 | `,` | clause separator | prosodic pause between a frame clause and its matrix, or between list items |
 | `!` | exclamation mark | end-of-utterance: heightened affective or emphatic force |
 | `?` | question mark | end-of-utterance: interrogative; orthographic counterpart to grammatical `to-si` |
-| `~` | approximation mark | pre-positional hedge: "approximately / roughly / on the order of / something like" |
+| `~` | approximation mark | pre-positional hedge: "approximately / roughly / on the order of / something like"; spoken form `ven` (G010) |
 | `()` | evidential frame | clause-level epistemic bracket: content is reported, inferred, or unattributed — not directly asserted; spoken forms `vund` (G014, open) / `vunds` (G015, close) |
 | `[]` | aside / commentary frame | non-semantic editorial or analytic annotation — does not alter truth conditions of surrounding text; removable without semantic change |
 | `:` | topic frame / definition mark | sentence-initial: "as for {topic}, ..." (topic frame); metalanguage: explanatory gloss (`term : reading`) |
