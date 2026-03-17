@@ -726,3 +726,11 @@ notes/              Design rationale, semantic map, open questions, history
 ## Prior Art
 
 This project combines ideas from Esperanto (agglutinative phonetic grammar), Lojban (logical grammatical structure), Toki Pona (semantic primitive composition), and formal ontologies (domain namespaces). See [notes/prior-art.md](notes/prior-art.md).
+
+---
+
+## Repository
+
+https://github.com/Arakendo/Tonesu
+
+© 2026 Arakendo. All rights reserved pending license selection.
