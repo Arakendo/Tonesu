@@ -2224,3 +2224,131 @@ ya — la-mi to lo-ze
 **Finding 2: `ya` (attention-signal) fills a genuine pre-propositional gap.** `fa-be!` asserts emotional state; `ya` asserts nothing — it directs attention. Three admitted positions: before a major philosophical claim (S528), before an observed event (S529), foregrounded content in an imperative context (S530). Phonology: `y`-onset is smooth/yielding, fitting a form directed at content rather than persons; `a` vowel is maximally open, drawing the listener outward. No collision with any existing root or particle. `ya` admitted as G030.
 
 **Finding 3: `he` and `ya` are non-interchangeable by structural design.** `he` targets a *person* (`he na-X`); `ya` targets *content* (the upcoming proposition or event). Attempting to substitute one for the other produces a different speech act or a nonsensical combination — confirmed in S527 and S530. The interpersonal/propositional asymmetry is the key design property that makes both admissions justified simultaneously without redundancy.
+
+---
+
+## Correction Pivot Test (S532–S538) — Batch: COR-001
+
+**Purpose (OQ-COR-001):** Test whether the existing system handles discourse correction cleanly, or whether a correction-pivot particle (candidate `ke`) earns a structural slot. Correction is different from simple negation: `no` denies a claim; a correction-pivot denies AND replaces — "not that, but this." The question is whether `no — Y` (deny + suspend + replace) and `no / Y` (antithetical parallel) cover all correction scenarios, or whether some scenarios strain the existing tools enough to justify a dedicated form.
+
+**Variables under test:**
+
+| Form | Meaning | Correction role |
+|------|---------|-----------------|
+| `no — Y` | that doesn't hold — [replacement arrives] | explicit two-beat correction |
+| `no / Y` | [denied] / [affirmed] (parallel partition) | symmetric formal antithesis |
+| `no ; Y` | negated ; replacement follows | sequential negation + continuation |
+| `ke, Y` (hypothetical) | pivot to Y (implied denial) | one-beat implicit correction |
+
+---
+
+**S532 — Baseline correction: simple polar dialogue** *(COR-001-A)*
+
+Context (prior claim implicit): `la-na-Moses ka-si ku?` = "Did Moses speak?"
+
+```
+no — la-Elohim ka-si
+```
+
+**Notes:** `no` (that doesn't hold) + `—` (suspension) + `la-Elohim ka-si` (Elohim spoke). Two beats: the claim is denied, then held in suspension, then the replacement arrives from within the held state. The `—` is doing real work here: it prevents the correction from landing as a flat negation followed by a new sentence (`no. la-Elohim ka-si` would be two sentences; `no — la-Elohim ka-si` is a single continuous speech act in the same way `ru — Y` is the full affirmative with elaboration pattern, grammar.md §Answers to Polar Questions). **`no — Y` handles immediate two-party correction completely. COR-001 count: 1.**
+
+---
+
+**S533 — Extended correction: deny + replace + continue** *(COR-001-B)*
+
+```
+no — la-Elohim ka-si ; la-na-Moses se
+```
+
+**Notes:** `no — la-Elohim ka-si` (correction, as S532) + `;` (sequential) + `la-na-Moses se` (Moses perceived / Moses heard). Tests whether the `no — Y` pivot chains cleanly with `;` for denial + replacement + continuation. Parse: `[no — la-Elohim ka-si] ; [la-na-Moses se]` — the correction unit is left of `;`; the continuation is right. No ambiguity: `;` connects the two units rather than interrupting the correction. **`no — Y ; Z` is a productive correction-chain. COR-001 count: 2.**
+
+---
+
+**S534 — Self-correction mid-discourse: speaker catches own error** *(COR-001-C)*
+
+```
+la-de ki ; no — la-be ki
+```
+
+**Notes:** `la-de ki` = it decayed (wrong verb produced); `;` = and then (the speaker continues); `no —` = no — [hold]; `la-be ki` = it grew / came into being (the correction). Self-correction in running speech: the speaker produces an error, then pivots. The `;` before `no —` marks this as an intra-utterance sequence rather than a response to an interlocutor — the error was stated and is now in the prior discourse stream, and `no —` corrects it within the same speaker's turn. **`no —` handles self-correction cleanly. The `—` suspension creates the natural beat of recollection between error and repair. COR-001 count: 3.**
+
+---
+
+**S535 — DIAGNOSTIC: `/` as correction attempt — why it fails** *(COR-001-D)*
+
+Attempt:
+```
+la-na-Moses ka-si / la-Elohim ka-si
+```
+
+**Verdict: `/` is wrong for correction.** `/` (parallel partition, grammar.md §Bi-Clausal Parallel Construction) asserts *structural symmetry* — both clauses are co-equal and formally paired. In a correction, the first clause is *false* and the second is *true*; they are not symmetric. Using `/` says "Moses spoke and Elohim spoke are two equally valid paired claims" — antithesis, not replacement. A listener cannot determine which is being endorsed. `no — Y` asserts the first is absent and the second takes its place; `/` makes no such epistemic asymmetry. **`/` ≠ correction pivot. Important negative finding: the boundary of the parallel-partition construction is clarified.** Never use `/` where one clause is the correction of the other.
+
+---
+
+**S536 — DIAGNOSTIC: the "silent pivot" case — where `ke` would earn its slot** *(COR-001-E)*
+
+Scenario: several exchanges ago, an interlocutor established that Moses sent the signal (`la-na-Moses ka-si lo-si`). That claim is now several turns stale. The speaker wants to correct it but does not want to drag the false claim back into the active discourse frame.
+
+`no —` form:
+```
+no — la-Elohim ka-si lo-si
+```
+Reading: `no` actively reaches back to the prior claim, keeping it discourse-active — "that [Moses claim] doesn't hold; Elohim spoke the signal."
+
+Hypothetical `ke` form:
+```
+ke, la-Elohim ka-si lo-si
+```
+Reading: pivot to the truth without surfacing the denial — "actually / rather — Elohim spoke the signal."
+
+**Verdict: `ke` has a genuine but narrow case.** In immediate single-exchange correction, `no —` is fully adequate: the prior claim is still discourse-active and denying it explicitly is natural. In multi-exchange dialogue where the false premise is stale, the explicit `no` re-activates the error — which may be conversationally counterproductive (it foregrounds the mistake and invites the interlocutor to re-engage with it). `ke` would let the speaker make the replacement without flagging a denial. This is the one scenario where `ke` does something `no —` cannot. **Gap noted as genuine but narrow. `ke` deferred pending multi-exchange corpus pressure. Logged as OQ-COR-001.**
+
+---
+
+**S537 — DIAGNOSTIC: `—` alone as implicit correction (no `no`)** *(COR-001-F)*
+
+Attempt:
+```
+— la-Elohim ka-si
+```
+
+**Verdict: `—` alone is underspecified as a correction.** `—` suspends without asserting anything about what follows (EMD-002 finding 1). A listener hearing `— la-Elohim ka-si` has no cue that the prior claim is being rejected: the `—` reads as a topic shift, a hesitation, a held fragment, or a post-clause continuation. Without `no`, the correction is not marked as a correction. **`no` is load-bearing in the correction pattern; `—` provides the juncture between denial and replacement but cannot substitute for the denial itself.**
+
+---
+
+**S538 — DIAGNOSTIC: `no` alone vs `no — Y` — the role of `—` in the correction unit** *(COR-001-G)*
+
+Three forms compared:
+```
+no                         [minimal negative — denies; no replacement]
+no, la-Elohim ka-si        [denial + separate clause — two speech acts]
+no — la-Elohim ka-si       [correction speech act — one unitary act]
+```
+
+**Verdict: `—` is what makes `no — Y` a correction rather than a denial.** (1) `no` alone: rebuts the prior claim but offers nothing in its place — the listener knows the claim is false but has no replacement. (2) `no, la-Elohim ka-si` (with `,`): two closed speech acts — the comma closes the denial before the new clause begins; the two read as a sequence of propositions, not as a unitary replacement. (3) `no — la-Elohim ka-si`: the `—` holds the denial open so the replacement arrives as a continuation from within the held state; the listener experiences the correction as one act with two stages. **The `—` admission retroactively provides the correction mechanism. This finding places COR-001 in direct continuity with EMD-002: `—` was admitted for prosodic suspension and here demonstrates a second productive function — the juncture of correction.**
+
+---
+
+## COR-001 Batch Summary
+
+| Entry | Form tested | Verdict | Finding |
+|-------|-------------|---------|--------|
+| S532 (COR-001-A) | `no — Y` | **adequate** | complete correction speech act; mirror of `ru — Y` |
+| S533 (COR-001-B) | `no — Y ; Z` | **adequate** | correction + continuation chain; `;` joins cleanly |
+| S534 (COR-001-C) | self-correction | **adequate** | `no —` handles intra-utterance error repair |
+| S535 (COR-001-D) | `/` as correction | **fails** | `/` asserts symmetry; correction requires epistemic asymmetry |
+| S536 (COR-001-E) | `ke` pressure point | **marginal gap** | silent pivot in multi-exchange; `no` re-activates stale error; gap real, corpus pressure zero |
+| S537 (COR-001-F) | `—` alone | **fails** | no denial signal; reads as topic shift; `no` is load-bearing |
+| S538 (COR-001-G) | `no` alone vs `no — Y` | **structural** | `—` is the juncture that produces a unitary correction act; not redundant |
+
+---
+
+### COR-001 Findings
+
+**Finding 1: `no — Y` is the productive correction form; no new particle needed now.** The `—` admission (EMD-002) retroactively provides the correction-pivot mechanism. `no — Y` is a single unified speech act: denial + suspension + replacement. It handles all immediate single-exchange corrections cleanly and chains with `;` for multi-beat corrections.
+
+**Finding 2: `/` is not a correction tool — clarifying its boundary.** `/` asserts structural symmetry between two co-equal clauses. Correction is epistemically asymmetric. This is a definitive negative finding that sharpens the boundary of the parallel-partition construction: `/` = both clauses are valid and paired; `no — Y` = first clause is absent, second replaces it.
+
+**Finding 3: `—` is load-bearing in `no — Y`.** The `—` is not stylistic — it is the structural juncture between denial and replacement that makes the correction a single speech act rather than two sequential propositions. `no, Y` (with `,`) is two acts; `no — Y` (with `—`) is one. This confirms `—` is productive outside the Dickinson poetic register and adds discourse correction to its admitted positions.
+
+**Finding 4: `ke` has a real but narrow gap. Deferred to OQ-COR-001.** The silent-pivot scenario (S536) is genuine: when the prior false premise is stale across multiple exchanges, `no` re-activates it unnecessarily. `ke` would silently replace without surfacing the denial. The gap exists structurally but no corpus pressure has appeared yet. Candidate form `ke` is a clean free CV with no registry collision. Admission threshold: 3 corpus sentences where `no —` produces awkward re-engagement of a stale false premise.
