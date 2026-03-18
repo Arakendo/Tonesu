@@ -1370,3 +1370,37 @@ Related:       ka (primitive: deliberate action), vo (primitive: value/quality),
 ```
 
 ---
+
+**W169**
+```
+Form:          to-to-ne-su
+Type:          compound
+Class:         entity / concept
+Definition:    knowledge of Tonesu; the activity of knowing and using the language. to + tonesu = knowledge-of-truth = the language studied from within, through use and attestation rather than theoretical analysis.
+Composition:   to (knowledge/pattern) + to-ne-su (truth / the language) = knowledge-of-Tonesu. Four-root; right-branch: to modifies [to-ne-su].
+Register:      standard
+Domain:        meta / language
+Status:        ✅ active
+First use:     website section heading
+Notes:         Used as the website section title for the language-in-use pages: corpus, worked examples, sandbox. Written form: totonesu.
+Related:       to-ne-su (W000, truth / the language), to'to-ne-su (W170, analytic knowledge of Tonesu)
+```
+
+---
+
+**W170**
+```
+Form:          to'to-ne-su
+Type:          compound
+Class:         entity / concept
+Definition:    knowledge standing apart from Tonesu, looking at it. Theory, design analysis, structural examination of the language. The juncture marks analytic distance: to is pre-bound as a separate subcompound, creating a seam between the observer and the observed.
+Composition:   to'to-ne-su = [to] + [to-ne-su] with prosodic juncture. The ' groups to as a pre-bound unit: knowledge *about* (not knowledge *of*). Right-branch with juncture override: [to] modifies [to-ne-su] as observer modifies observed.
+Register:      standard
+Domain:        meta / language / theory
+Status:        ✅ active
+First use:     website section heading
+Notes:         Used as the website section title for the theory pages: patterns, principles, design notes, domain explorations. Written form: to'tonesu. The juncture is semantically load-bearing: without it, to-to-ne-su (W169) means knowledge-of-Tonesu (participatory); with it, to'to-ne-su means analytic-knowledge-of-Tonesu (observational).
+Related:       to-ne-su (W000, truth / the language), to-to-ne-su (W169, knowledge of Tonesu in use)
+```
+
+---

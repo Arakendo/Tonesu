@@ -246,6 +246,13 @@ See also: [Alphabetical list](index.md) · [English index](english.md) · [By ro
 | `su-fa` | sufa | W133 | purity of heart, structured affect |
 | `su-ru` | suru | W085 | integrated whole, unified structure |
 
+## Meta / Language
+
+| Form | Written | W# | Gloss |
+|------|---------|-----|-------|
+| `to'to-ne-su` | to'tonesu | W170 | analytic knowledge of Tonesu; theory of the language |
+| `to-to-ne-su` | totonesu | W169 | knowledge of Tonesu; the language in use |
+
 ---
 
 *Generated from [`registry/entries.yaml`](https://github.com/Arakendo/Tonesu/blob/main/registry/entries.yaml).*

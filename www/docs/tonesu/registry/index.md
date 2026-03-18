@@ -4,7 +4,7 @@ title: Word Registry
 
 # Word Registry
 
-154 derived compounds, sorted alphabetically.
+156 derived compounds, sorted alphabetically.
 
 See also: [English index](english.md) · [By domain](by-domain.md) · [By root](by-root.md) · [Building words](../words.md)
 
@@ -111,6 +111,7 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `ti-mi` | timi | [W109](words/W109.md) | now, present moment (deictic) | ⏳ | [S418](../corpus.md#S418) |
 | `ti-mu` | timu | [W057](words/W057.md) | relic, ancient artifact | ✅ | [S076](../corpus.md#S076) · [S081](../corpus.md#S081) |
 | `ti-re` | tire | [W103](words/W103.md) | recurring time, scheduled cycle | ✅ | [S418](../corpus.md#S418) · [S420](../corpus.md#S420) · [S421](../corpus.md#S421) · [S422](../corpus.md#S422) · [S424](../corpus.md#S424) |
+| `to'to-ne-su` | to'tonesu | [W170](words/W170.md) | analytic knowledge of Tonesu; theory of the language | ✅ | — |
 | `to-fe` | tofe | [W028](words/W028.md) | epistemic boundary (the-line between knowledge states) | ⏳ | [S273](../corpus.md#S273) · [S274](../corpus.md#S274) · [S277](../corpus.md#S277) · [S364](../corpus.md#S364) |
 | `to-fe-ka` | tofeka | [W029](words/W029.md) | deliberate epistemic mislabeling | ⏳ | [C005-A3](../corpus.md#C005-A3) · [C005-B3](../corpus.md#C005-B3) · [C008-A3](../corpus.md#C008-A3) · [C008-B2](../corpus.md#C008-B2) |
 | `to-fe-li` | tofeli | [W032](words/W032.md) | epistemic guardian/adjudicator | ⏳ | [S045](../corpus.md#S045) · [S175](../corpus.md#S175) · [S272](../corpus.md#S272) · [S273](../corpus.md#S273) · [S277](../corpus.md#S277) |
@@ -129,6 +130,7 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `to-su` | tosu | [W030](words/W030.md) | organized knowledge, theory, model | ⏳ | [S170](../corpus.md#S170) · [S192](../corpus.md#S192) · [S369](../corpus.md#S369) · [S382](../corpus.md#S382) · [S383](../corpus.md#S383) · [S439](../corpus.md#S439) · [S493](../corpus.md#S493) · [S505](../corpus.md#S505) · [S573](../corpus.md#S573) · [S583](../corpus.md#S583) · [S585](../corpus.md#S585) · [S587](../corpus.md#S587) |
 | `to-su-ki` | tosuki | [W025](words/W025.md) | comprehend, enter organized knowledge | ✅ | — |
 | `to-su-mu` | tosumu | [W010](words/W010.md) | database, library, knowledge-store | ⏳ | [S010](../corpus.md#S010) · [S030](../corpus.md#S030) · [S168](../corpus.md#S168) · [S170](../corpus.md#S170) |
+| `to-to-ne-su` | totonesu | [W169](words/W169.md) | knowledge of Tonesu; the language in use | ✅ | — |
 | `vo-mu` | vomu | [W137](words/W137.md) | garment, clothing, value-artifact worn on body | ⚠️ | — |
 | `vo-ne` | vone | [W118](words/W118.md) | righteousness, right relational standing | ✅ | — |
 | `wi-de-li` | wideli | [W124](words/W124.md) | adversary, enemy, opposing-will person | ✅ | [S366](../corpus.md#S366) |

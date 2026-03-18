@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 68 |
+| [w101-plus.md](w101-plus.md) | W101+ | 70 |
 
-**Total: 156 W-series entries** — active: 112 · proposed: 3 · pending: 39 · cold: 0 · retired: 2
+**Total: 158 W-series entries** — active: 114 · proposed: 3 · pending: 39 · cold: 0 · retired: 2
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -131,6 +131,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `ti-mi` | W109 | now, present moment (deictic) | ⏳ | [w101-plus](w101-plus.md) |
 | `ti-mu` | W057 | relic, ancient artifact | ✅ | [w051-w100](w051-w100.md) |
 | `ti-re` | W103 | recurring time, scheduled cycle | ✅ | [w101-plus](w101-plus.md) |
+| `to'to-ne-su` | W170 | analytic knowledge of Tonesu; theory of the language | ✅ | [w101-plus](w101-plus.md) |
 | `to-fe` | W028 | epistemic boundary (the-line between knowledge states) | ⏳ | [w001-w050](w001-w050.md) |
 | `to-fe-ka` | W029 | deliberate epistemic mislabeling | ⏳ | [w001-w050](w001-w050.md) |
 | `to-fe-li` | W032 | epistemic guardian/adjudicator | ⏳ | [w001-w050](w001-w050.md) |
@@ -149,6 +150,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `to-su` | W030 | organized knowledge, theory, model | ⏳ | [w001-w050](w001-w050.md) |
 | `to-su-ki` | W025 | comprehend, enter organized knowledge | ✅ | [w001-w050](w001-w050.md) |
 | `to-su-mu` | W010 | database, library, knowledge-store | ⏳ | [w001-w050](w001-w050.md) |
+| `to-to-ne-su` | W169 | knowledge of Tonesu; the language in use | ✅ | [w101-plus](w101-plus.md) |
 | `vo-mu` | W137 | garment, clothing, value-artifact worn on body | ⚠️ | [w101-plus](w101-plus.md) |
 | `vo-ne` | W118 | righteousness, right relational standing | ✅ | [w101-plus](w101-plus.md) |
 | `wi-de-li` | W124 | adversary, enemy, opposing-will person | ✅ | [w101-plus](w101-plus.md) |
@@ -232,6 +234,9 @@ Concept-first lookup: find the compound you need by domain.
 **Relation / State / Quality**
 `de-be` W035 repair · `ka-ne-de` W092 deliberate bond dissolution · `ne-de` W091 bond dissolution (no assigned cause) · `ne-fe` W042 dependency condition · `no-de-ma` W129 salt · `no-ne-fe` W075 absence of dependency / no link · `pa-ki` W087 adrift · `pa-nu` W050 size · `su-fa` W133 purity of heart · `su-ru` W085 integrated whole
 
+**Meta / Language**
+`to'to-ne-su` W170 analytic knowledge of Tonesu · `to-to-ne-su` W169 knowledge of Tonesu
+
 ---
 
 ## C. Root Families
@@ -265,7 +270,7 @@ Quick lookup by lead primitive root.
 | `si` | si-ne-ki W021, si-ki W023, si-mu W039, si-ko-mu W067, si-fe W070, si-de W098, si-no-vo-li W126, si-ki-li W158 |
 | `su` | su-mu-li W002, su-ru W085, su-ti W101, su'ma W113, su-fa W133 |
 | `ti` | ti-fe W037, ti-be W040, ti-de W041, ti-mu W057, ti-re W103, ti-mi W109 |
-| `to` | to-ne-su W000, to-li W003, to-su-mu W010, to-ki-mu W011, to-ki W020, to-su-ki W025, to-si W026, to-ko W027, to-fe W028, to-fe-ka W029, to-su W030, to-fe-li W032, to-re-su W064, to-fe-su W072, to-ru W083, to-go W089, to-fe-su-ki W097, to-ko-re W166 |
+| `to` | to-ne-su W000, to-li W003, to-su-mu W010, to-ki-mu W011, to-ki W020, to-su-ki W025, to-si W026, to-ko W027, to-fe W028, to-fe-ka W029, to-su W030, to-fe-li W032, to-re-su W064, to-fe-su W072, to-ru W083, to-go W089, to-fe-su-ki W097, to-ko-re W166, to-to-ne-su W169, to'to-ne-su W170 |
 | `vo` | vo-ne W118, vo-mu W137 |
 | `wi` | wi-to W045, wi-ka-su W054, wi-si W063, wi-to-su W073, wi-re-su W074, wi-re W099, wi-fe W100, wi-de-li W124, wi-no-ra W132, wi-zo W145 |
 | `zi` | zi-ra W104, zi-ka W105, zi-zo W106, zi-zo-go W107, zi-zo-du W108 |
