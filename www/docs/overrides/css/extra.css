@@ -363,17 +363,17 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
 }
 .rb-clear-btn { margin-left: auto; }
 
-/* Main 3-panel layout */
+/* Main layout: palette full-width top, chain + lookup 50/50 below */
 .rb-main {
   display: grid;
-  grid-template-columns: 260px 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   gap: 1rem;
-  align-items: start;
 }
-@media (max-width: 900px) {
-  .rb-main { grid-template-columns: 1fr 1fr; }
-  .rb-panel--palette { grid-column: 1 / -1; }
+
+.rb-panel--palette {
+  grid-column: 1 / -1;
 }
+
 @media (max-width: 560px) {
   .rb-main { grid-template-columns: 1fr; }
 }
@@ -428,9 +428,9 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
 
 /* Root button grid */
 .rb-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: .35rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(62px, 1fr));
+  gap: .3rem;
 }
 
 .rb-root-btn {
@@ -442,23 +442,25 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: .1rem;
-  min-width: 3rem;
-  padding: .3rem .45rem;
+  gap: .05rem;
+  padding: .25rem .3rem;
   transition: background .15s, transform .1s;
   font-size: .95rem;
   font-weight: 600;
   line-height: 1;
+  width: 100%;
 }
 .rb-root-btn:hover {
   background: color-mix(in sRGB, var(--root-color, #888) 28%, #191919);
   transform: translateY(-1px);
 }
 .rb-root-btn .rb-root-gloss {
-  font-size: .6rem;
+  font-size: .58rem;
   font-weight: 400;
   color: #bab6c0;
-  white-space: nowrap;
+  white-space: normal;
+  text-align: center;
+  line-height: 1.2;
 }
 
 /* Chain chips */
