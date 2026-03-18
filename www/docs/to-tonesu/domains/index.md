@@ -18,3 +18,7 @@ title: Domains
 | [Physics](physics.md) | Energy, force, matter, space, time, motion, physical law |
 | [Ethics](ethics.md) | Value, obligation, harm, virtue, consent, responsibility, moral judgment |
 | [Philosophy](philosophy.md) | Being, knowledge, identity, causation, necessity, mind, argument structure |
+| [Politics](politics.md) | Power, authority, governance, legitimacy, collective decision-making |
+| [Medicine](medicine.md) | Health, illness, body, clinical intervention, diagnosis |
+| [Mind & Psychology](mind.md) | Consciousness, perception, intention, affect, memory, selfhood |
+| [Tonesu's Ontology](ontology.md) | What the primitive root set presupposes exists — the language's implicit metaphysics |
