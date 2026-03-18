@@ -22,5 +22,8 @@ jobs:
       - name: Install dependencies
         run: pip install mkdocs-material
 
+      - name: Generate registry pages
+        run: python scripts/build_registry.py
+
       - name: Deploy
         run: mkdocs gh-deploy --force

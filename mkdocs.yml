@@ -51,7 +51,11 @@ nav:
     - Building words: tonesu/words.md
     - Notation: tonesu/notation.md
     - Primitives: tonesu/primitives.md
-    - Registry: tonesu/registry.md
+    - Registry:
+      - tonesu/registry/index.md
+      - English index: tonesu/registry/english.md
+      - By domain: tonesu/registry/by-domain.md
+      - By root: tonesu/registry/by-root.md
   - Totonesu:
     - totonesu/index.md
     - Corpus:
