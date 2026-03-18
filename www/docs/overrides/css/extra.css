@@ -1,71 +1,170 @@
-/* Tonesu Custom Theme for MkDocs Material */
+/* ============================================================
+   Tonesu Site Theme — Monokai Pro
+   Dark:  Filter Spectrum  (#222222 base, yellow accent)
+   Light: Filter Sun       (#f8efe7 base, rose accent)
+   ============================================================ */
 
+/* ── Shared ─────────────────────────────────────────────── */
 :root {
-  /* Tonesu Light Theme Colors */
-  --tonesu-primary: #e64a19;      /* deep-orange */
-  --tonesu-accent: #ff6d00;
-  --tonesu-background: #ffffff;
-  --tonesu-surface: #f5f5f5;
-  --tonesu-text: #212121;
-  --tonesu-text-secondary: #616161;
-  --tonesu-border: #e0e0e0;
+  --tonesu-font-mono: "JetBrains Mono", "Fira Code", "Cascadia Code", "Consolas", monospace;
 }
 
+/* ── Filter Spectrum — Dark ─────────────────────────────── */
 [data-md-color-scheme="slate"] {
-  /* Tonesu Dark Theme — VS Code dark gray + orange */
-  --md-primary-fg-color: #e87d3e;
-  --md-accent-fg-color: #ff9944;
 
-  /* Backgrounds (VS Code dark) */
-  --md-default-bg-color: #1e1e1e;       /* editor background */
-  --md-default-fg-color: #d4d4d4;       /* editor foreground */
-  --md-code-bg-color: #2d2d30;          /* panel background */
+  /* Page */
+  --md-default-bg-color:            #222222;   /* editor.background        */
+  --md-default-fg-color:            #f7f1ff;   /* editor.foreground        */
+  --md-default-fg-color--light:     #bab6c0;   /* activityBar.foreground   */
+  --md-default-fg-color--lighter:   #8b888f;   /* sideBar.foreground       */
+  --md-default-fg-color--lightest:  #525053;   /* editorLineNumber.fg      */
 
-  /* Sidebar */
-  --md-primary-bg-color: #252526;       /* activity bar / sidebar */
-  --md-primary-fg-color--light: #d4d4d4;
-  --md-primary-fg-color--dark: #e87d3e;
+  /* Nav / header — very dark strip */
+  --md-primary-bg-color:            #131313;   /* activityBar.background   */
+  --md-primary-bg-color--light:     #191919;   /* sideBar.background       */
+  --md-primary-fg-color:            #bab6c0;   /* activityBar.foreground   */
+  --md-primary-fg-color--light:     #8b888f;
+  --md-primary-fg-color--dark:      #f7f1ff;
 
-  /* Links */
-  --md-typeset-a-color: #ff9944;
-
-  /* Borders */
-  --md-typeset-table-color: #3f3f46;
+  /* Accent — Monokai yellow */
+  --md-accent-fg-color:             #fce566;   /* activityBarBadge.bg      */
+  --md-accent-fg-color--transparent:#fce56633;
+  --md-accent-bg-color:             #131313;
 
   /* Code blocks */
-  --md-code-fg-color: #d4d4d4;
-  --md-code-bg-color: #2d2d30;
+  --md-code-bg-color:               #191919;   /* sideBar.background       */
+  --md-code-fg-color:               #f7f1ff;
+
+  /* Syntax — Monokai Spectrum palette */
+  --md-code-hl-color:               #f7f1ff19;
+  --md-code-hl-number-color:        #948ae3;   /* purple                   */
+  --md-code-hl-special-color:       #7bd88f;   /* green                    */
+  --md-code-hl-function-color:      #5ad4e6;   /* cyan                     */
+  --md-code-hl-constant-color:      #fd9353;   /* orange                   */
+  --md-code-hl-keyword-color:       #fc618d;   /* pink                     */
+  --md-code-hl-string-color:        #fce566;   /* yellow                   */
+  --md-code-hl-name-color:          #f7f1ff;
+  --md-code-hl-operator-color:      #fc618d;
+  --md-code-hl-punctuation-color:   #69676c;
+  --md-code-hl-comment-color:       #69676c;
+  --md-code-hl-generic-color:       #bab6c0;
+  --md-code-hl-variable-color:      #f7f1ff;
+
+  /* Links */
+  --md-typeset-a-color:             #5ad4e6;   /* editorLink.activeFg      */
+
+  /* Tables */
+  --md-typeset-table-color:         #363537;   /* panel.background         */
+  --md-typeset-table-color--light:  #f7f1ff14;
 
   /* Keyboard keys */
-  --md-typeset-kbd-color: #3f3f46;
-  --md-typeset-kbd-accent-color: #e87d3e;
-  --md-typeset-kbd-border-color: #555555;
+  --md-typeset-kbd-color:           #363537;
+  --md-typeset-kbd-accent-color:    #f7f1ff;
+  --md-typeset-kbd-border-color:    #525053;
+
+  /* Admonitions */
+  --md-admonition-fg-color:         #f7f1ff;
+  --md-admonition-bg-color:         #2a2a2a;
+
+  /* Footer */
+  --md-footer-bg-color:             #131313;
+  --md-footer-bg-color--dark:       #0d0d0d;
+  --md-footer-fg-color:             #8b888f;
+  --md-footer-fg-color--light:      #69676c;
+  --md-footer-fg-color--lighter:    #525053;
+
+  /* Shadows */
+  --md-shadow-z1: 0 0.2rem 0.5rem #13131366, 0 0 0.05rem #13131333;
+  --md-shadow-z2: 0 0.2rem 0.8rem #13131388, 0 0 0.05rem #13131344;
+  --md-shadow-z3: 0 0.2rem 1.0rem #131313bb;
 }
 
+/* ── Filter Sun — Light ─────────────────────────────────── */
 [data-md-color-scheme="default"] {
-  --md-primary-fg-color: #e64a19;
-  --md-accent-fg-color: #ff6d00;
+
+  /* Page — warm cream */
+  --md-default-bg-color:            #f8efe7;   /* editor.background        */
+  --md-default-fg-color:            #2c232e;   /* editor.foreground        */
+  --md-default-fg-color--light:     #72696d;   /* sideBar.foreground       */
+  --md-default-fg-color--lighter:   #92898a;   /* statusBar.foreground     */
+  --md-default-fg-color--lightest:  #beb5b3;   /* editorLineNumber.fg      */
+
+  /* Nav / header — warm sand */
+  --md-primary-bg-color:            #ded5d0;   /* activityBar.background   */
+  --md-primary-bg-color--light:     #eee5de;   /* sideBar.background       */
+  --md-primary-fg-color:            #72696d;   /* activityBar.foreground   */
+  --md-primary-fg-color--light:     #92898a;
+  --md-primary-fg-color--dark:      #2c232e;
+
+  /* Accent — rose */
+  --md-accent-fg-color:             #ce4770;   /* activityBarBadge.bg      */
+  --md-accent-fg-color--transparent:#ce477033;
+  --md-accent-bg-color:             #f8efe7;
+
+  /* Code blocks */
+  --md-code-bg-color:               #fdf7f3;   /* editorSuggestWidget.bg   */
+  --md-code-fg-color:               #2c232e;
+
+  /* Syntax — Monokai Filter Sun palette */
+  --md-code-hl-color:               #2c232e19;
+  --md-code-hl-number-color:        #6851a2;   /* purple                   */
+  --md-code-hl-special-color:       #218871;   /* teal                     */
+  --md-code-hl-function-color:      #2473b6;   /* blue                     */
+  --md-code-hl-constant-color:      #d4572b;   /* orange‑red               */
+  --md-code-hl-keyword-color:       #ce4770;   /* rose                     */
+  --md-code-hl-string-color:        #b16803;   /* amber                    */
+  --md-code-hl-name-color:          #2c232e;
+  --md-code-hl-operator-color:      #ce4770;
+  --md-code-hl-punctuation-color:   #a59c9c;
+  --md-code-hl-comment-color:       #a59c9c;
+  --md-code-hl-generic-color:       #72696d;
+  --md-code-hl-variable-color:      #2c232e;
+
+  /* Links */
+  --md-typeset-a-color:             #2473b6;   /* editorLink.activeFg      */
+
+  /* Tables */
+  --md-typeset-table-color:         #d2c9c4;   /* input.border             */
+  --md-typeset-table-color--light:  #2c232e0c;
+
+  /* Keyboard keys */
+  --md-typeset-kbd-color:           #ded5d0;
+  --md-typeset-kbd-accent-color:    #2c232e;
+  --md-typeset-kbd-border-color:    #beb5b3;
+
+  /* Admonitions */
+  --md-admonition-fg-color:         #2c232e;
+  --md-admonition-bg-color:         #f0e7de;
+
+  /* Footer */
+  --md-footer-bg-color:             #ded5d0;
+  --md-footer-bg-color--dark:       #d2c9c4;
+  --md-footer-fg-color:             #72696d;
+  --md-footer-fg-color--light:      #92898a;
+  --md-footer-fg-color--lighter:    #a59c9c;
+
+  /* Shadows */
+  --md-shadow-z1: 0 0.2rem 0.5rem #2c232e1a, 0 0 0.05rem #2c232e0d;
+  --md-shadow-z2: 0 0.2rem 0.8rem #2c232e33, 0 0 0.05rem #2c232e14;
+  --md-shadow-z3: 0 0.2rem 1.0rem #2c232e4d;
 }
 
-/* Code block styling */
+/* ── Typography & structure (both modes) ─────────────────── */
+
 .md-typeset code {
-  border-radius: 4px;
+  font-family: var(--tonesu-font-mono);
+  font-size: 0.85em;
+  border-radius: 3px;
   padding: 0.1em 0.3em;
 }
 
-/* Table styling */
 .md-typeset table:not([class]) {
   border: 1px solid var(--md-typeset-table-color);
   border-radius: 4px;
+  overflow: hidden;
 }
 
 .md-typeset table:not([class]) th {
   background-color: var(--md-code-bg-color);
   font-weight: 600;
-}
-
-/* Tonesu compound notation — monospace in running text */
-.md-typeset code {
-  font-family: "JetBrains Mono", "Fira Code", "Consolas", monospace;
-  font-size: 0.85em;
 }
