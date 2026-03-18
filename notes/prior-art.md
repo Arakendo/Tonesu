@@ -169,6 +169,31 @@ The most direct ancestor of this project. The domain inheritance and stability r
 
 ---
 
+## Pedagogical Influences
+
+---
+
+### Hooked on Phonics
+**Created:** 1987, Gateway Educational Products
+**Type:** Phonics-based reading and literacy programme
+
+**What it does:**
+- Teaches reading by mapping letters directly to sounds — one letter, one sound, no guessing
+- Learning is decoding-first: if you can sound out the letters, you can read the word, even without prior vocabulary
+- The core promise: the system is transparent enough that a new learner can independently reconstruct meaning from form
+
+**Why it matters here:**
+This is the direct motivation for Tonesu's phonological design. The one-letter-one-sound rule and the elimination of silent letters, digraphs, and irregular pronunciations are not just aesthetic choices — they come from the insight Hooked on Phonics made visceral: *a learner should be able to decode any word from first principles, without a teacher standing next to them.*
+
+Tonesu extends this from phonology into semantics. The same logic that says "you should be able to sound out any word" says "you should be able to decompose any compound into its roots and arrive at an approximate meaning" — even for a word you have never seen before.
+
+**Connection to design:**
+- `spec/phonology.md` rule: one letter per sound, 17 consonants + 5 vowels, no exceptions
+- The tier structure (CV → CVC → compounds) ensures word shape itself signals decodability level
+- New learners can always fall back to root decomposition the way phonics gives readers letter-sound decoding
+
+---
+
 ## Computational / Formal Systems
 
 ---
@@ -202,6 +227,7 @@ The most direct ancestor of this project. The domain inheritance and stability r
 | Ithkuil | Yes | Partial | No | No | Very hard |
 | Wilkins | No | Yes | Implicit | No | N/A |
 | OWL/RDF | No | Yes | Yes | Yes | No |
+| Hooked on Phonics | Yes | N/A | N/A | N/A | Yes |
 | **This project** | **Yes** | **Yes** | **Yes** | **Yes (goal)** | **Yes (goal)** |
 
 ---
