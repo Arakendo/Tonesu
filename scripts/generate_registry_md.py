@@ -85,7 +85,7 @@ def _indent_block(text: str, first_col: int, cont_col: int) -> str:
     return "\n".join(out)
 
 
-def _field(key: str, value, key_width: int = 14) -> str:
+def _field(key: str, value, key_width: int = 14) -> str | None:
     """Format a single field line (or None if value is absent)."""
     if value is None:
         return None
