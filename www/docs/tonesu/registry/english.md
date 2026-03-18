@@ -24,7 +24,7 @@ See also: [Alphabetical list](index.md) · [By domain](by-domain.md) · [Buildin
 | affect-desire-to-couple | fawizi | `fa-wi-zi` | lust, affect-desire-to-couple |
 | affect-will-toward-harm | fawide | `fa-wi-de` | temptation, affect-will-toward-harm |
 | agreement | neto | `ne-to` | mutual acknowledgment, agreement |
-| analytic knowledge of tonesu | to'tonesu | `to'to-ne-su` | analytic knowledge of Tonesu; theory of the language |
+| analytic knowledge of tonesu | to'tonesu | `to'to-ne-su` | meta-truth; analytic knowledge of Tonesu; theory of the language |
 | ancestor | zonegore | `zo-ne-go-re` | ancestor |
 | ancient artifact | timu | `ti-mu` | relic, ancient artifact |
 | angel | sikili | `si-ki-li` | messenger/angel, signal-motion-agent |
@@ -148,7 +148,8 @@ See also: [Alphabetical list](index.md) · [By domain](by-domain.md) · [Buildin
 | kinetic-force discharge | raki | `ra-ki` | storm, kinetic-force discharge |
 | kingdom of heaven | pabe'kalisu | `pa-be'ka-li-su` | kingdom of heaven, upper-space governance |
 | knower | toli | `to-li` | scholar, expert, knower |
-| knowledge of tonesu | totonesu | `to-to-ne-su` | knowledge of Tonesu; the language in use |
+| knowledge of tonesu | totonesu | `to-to-ne-su` | knowledge of truth; knowledge of Tonesu; the language in use |
+| knowledge of truth | totonesu | `to-to-ne-su` | knowledge of truth; knowledge of Tonesu; the language in use |
 | knowledge-store | tosumu | `to-su-mu` | database, library, knowledge-store |
 | leader | lisuli | `li-su-li` | leader, coordinator, administrator |
 | liberation | paki | `pa-ki` | liberation / liberator, place-motion (⚠️ form-shares W087 — pending resolution) |
@@ -169,6 +170,7 @@ See also: [Alphabetical list](index.md) · [By domain](by-domain.md) · [Buildin
 | memory | toko | `to-ko` | memory, stored knowledge |
 | memory-return | tokore | `to-ko-re` | remembrance, memory-return |
 | messenger | sikili | `si-ki-li` | messenger/angel, signal-motion-agent |
+| meta-truth | to'tonesu | `to'to-ne-su` | meta-truth; analytic knowledge of Tonesu; theory of the language |
 | model | tosu | `to-su` | organized knowledge, theory, model |
 | moral failing | desu | `de-su` | fault, wrong, moral failing |
 | morning | tibe | `ti-be` | morning; proximate future |
@@ -278,11 +280,11 @@ See also: [Alphabetical list](index.md) · [By domain](by-domain.md) · [Buildin
 | temporal boundary | tife | `ti-fe` | deadline, temporal boundary |
 | temptation | fawide | `fa-wi-de` | temptation, affect-will-toward-harm |
 | thanksgiving | kavosi | `ka-vo-si` | thanksgiving / blessing, deliberate value-signal |
-| the language in use | totonesu | `to-to-ne-su` | knowledge of Tonesu; the language in use |
+| the language in use | totonesu | `to-to-ne-su` | knowledge of truth; knowledge of Tonesu; the language in use |
 | the language itself | tonesu | `to-ne-su` | truth; the language itself |
 | the world | pazoli | `pa-zo-li` | the world, inhabited realm of human persons |
 | theory | tosu | `to-su` | organized knowledge, theory, model |
-| theory of the language | to'tonesu | `to'to-ne-su` | analytic knowledge of Tonesu; theory of the language |
+| theory of the language | to'tonesu | `to'to-ne-su` | meta-truth; analytic knowledge of Tonesu; theory of the language |
 | thermal decrease | hade | `ha-de` | cooling, thermal decrease |
 | thought-signal | tosi | `to-si` | query; proposition / thought-signal |
 | tool | kamu | `ka-mu` | tool, action instrument |

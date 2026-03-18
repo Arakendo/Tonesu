@@ -1376,10 +1376,10 @@ Related:       ka (primitive: deliberate action), vo (primitive: value/quality),
 Form:          to-to-ne-su
 Type:          compound
 Class:         entity / concept
-Definition:    knowledge of Tonesu; the activity of knowing and using the language. to + tonesu = knowledge-of-truth = the language studied from within, through use and attestation rather than theoretical analysis.
+Definition:    knowledge of truth; knowledge of Tonesu; the activity of knowing and using the language. Inherits the dual reading of to-ne-su (W000): to + tonesu = knowledge-of-[truth / the language]. As knowledge-of-truth it is participatory — truth known from within, through engagement rather than detached analysis. As knowledge-of-the-language it is the language studied through use and attestation.
 Composition:   to (knowledge/pattern) + to-ne-su (truth / the language) = knowledge-of-Tonesu. Four-root; right-branch: to modifies [to-ne-su].
 Register:      standard
-Domain:        meta / language
+Domain:        meta / language / philosophy
 Status:        ✅ active
 First use:     website section heading
 Notes:         Used as the website section title for the language-in-use pages: corpus, worked examples, sandbox. Written form: totonesu.
@@ -1393,10 +1393,10 @@ Related:       to-ne-su (W000, truth / the language), to'to-ne-su (W170, analyti
 Form:          to'to-ne-su
 Type:          compound
 Class:         entity / concept
-Definition:    knowledge standing apart from Tonesu, looking at it. Theory, design analysis, structural examination of the language. The juncture marks analytic distance: to is pre-bound as a separate subcompound, creating a seam between the observer and the observed.
+Definition:    meta-truth; knowledge standing apart from truth, examining it. Also: analytic knowledge of Tonesu — theory, design analysis, structural examination of the language. Inherits the dual reading of to-ne-su (W000): as meta-truth it is knowledge about the nature of truth itself (epistemology, philosophy of knowledge); as analytic-knowledge-of-Tonesu it is the language examined from outside. The juncture marks analytic distance: to is pre-bound as a separate subcompound, creating a seam between the observer and the observed.
 Composition:   to'to-ne-su = [to] + [to-ne-su] with prosodic juncture. The ' groups to as a pre-bound unit: knowledge *about* (not knowledge *of*). Right-branch with juncture override: [to] modifies [to-ne-su] as observer modifies observed.
 Register:      standard
-Domain:        meta / language / theory
+Domain:        meta / language / theory / philosophy
 Status:        ✅ active
 First use:     website section heading
 Notes:         Used as the website section title for the theory pages: patterns, principles, design notes, domain explorations. Written form: to'tonesu. The juncture is semantically load-bearing: without it, to-to-ne-su (W169) means knowledge-of-Tonesu (participatory); with it, to'to-ne-su means analytic-knowledge-of-Tonesu (observational).

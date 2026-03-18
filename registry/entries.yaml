@@ -4636,16 +4636,18 @@ entries:
   - Ritual / Sacred
 - wnum: W169
   form: to-to-ne-su
-  gloss: knowledge of Tonesu; the language in use
+  gloss: knowledge of truth; knowledge of Tonesu; the language in use
   status: active
   lead_root: to
   type: compound
   class: entity / concept
   register: standard
-  domain: meta / language
-  definition: knowledge of Tonesu; the activity of knowing and using the language.
-    to + tonesu = knowledge-of-truth = the language studied from within, through use
-    and attestation rather than theoretical analysis.
+  domain: meta / language / philosophy
+  definition: 'knowledge of truth; knowledge of Tonesu; the activity of knowing and
+    using the language. Inherits the dual reading of to-ne-su (W000): to + tonesu
+    = knowledge-of-[truth / the language]. As knowledge-of-truth it is participatory
+    — truth known from within, through engagement rather than detached analysis. As
+    knowledge-of-the-language it is the language studied through use and attestation.'
   composition: 'to (knowledge/pattern) + to-ne-su (truth / the language) = knowledge-of-Tonesu.
     Four-root; right-branch: to modifies [to-ne-su].'
   notes: 'Used as the website section title for the language-in-use pages: corpus,
@@ -4657,17 +4659,20 @@ entries:
   - Meta / Language
 - wnum: W170
   form: to'to-ne-su
-  gloss: analytic knowledge of Tonesu; theory of the language
+  gloss: meta-truth; analytic knowledge of Tonesu; theory of the language
   status: active
   lead_root: to
   type: compound
   class: entity / concept
   register: standard
-  domain: meta / language / theory
-  definition: 'knowledge standing apart from Tonesu, looking at it. Theory, design
-    analysis, structural examination of the language. The juncture marks analytic
-    distance: to is pre-bound as a separate subcompound, creating a seam between the
-    observer and the observed.'
+  domain: meta / language / theory / philosophy
+  definition: 'meta-truth; knowledge standing apart from truth, examining it. Also:
+    analytic knowledge of Tonesu — theory, design analysis, structural examination
+    of the language. Inherits the dual reading of to-ne-su (W000): as meta-truth it
+    is knowledge about the nature of truth itself (epistemology, philosophy of knowledge);
+    as analytic-knowledge-of-Tonesu it is the language examined from outside. The
+    juncture marks analytic distance: to is pre-bound as a separate subcompound, creating
+    a seam between the observer and the observed.'
   composition: 'to''to-ne-su = [to] + [to-ne-su] with prosodic juncture. The '' groups
     to as a pre-bound unit: knowledge *about* (not knowledge *of*). Right-branch with
     juncture override: [to] modifies [to-ne-su] as observer modifies observed.'

@@ -131,7 +131,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `ti-mi` | W109 | now, present moment (deictic) | ⏳ | [w101-plus](w101-plus.md) |
 | `ti-mu` | W057 | relic, ancient artifact | ✅ | [w051-w100](w051-w100.md) |
 | `ti-re` | W103 | recurring time, scheduled cycle | ✅ | [w101-plus](w101-plus.md) |
-| `to'to-ne-su` | W170 | analytic knowledge of Tonesu; theory of the language | ✅ | [w101-plus](w101-plus.md) |
+| `to'to-ne-su` | W170 | meta-truth; analytic knowledge of Tonesu; theory of the language | ✅ | [w101-plus](w101-plus.md) |
 | `to-fe` | W028 | epistemic boundary (the-line between knowledge states) | ⏳ | [w001-w050](w001-w050.md) |
 | `to-fe-ka` | W029 | deliberate epistemic mislabeling | ⏳ | [w001-w050](w001-w050.md) |
 | `to-fe-li` | W032 | epistemic guardian/adjudicator | ⏳ | [w001-w050](w001-w050.md) |
@@ -150,7 +150,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `to-su` | W030 | organized knowledge, theory, model | ⏳ | [w001-w050](w001-w050.md) |
 | `to-su-ki` | W025 | comprehend, enter organized knowledge | ✅ | [w001-w050](w001-w050.md) |
 | `to-su-mu` | W010 | database, library, knowledge-store | ⏳ | [w001-w050](w001-w050.md) |
-| `to-to-ne-su` | W169 | knowledge of Tonesu; the language in use | ✅ | [w101-plus](w101-plus.md) |
+| `to-to-ne-su` | W169 | knowledge of truth; knowledge of Tonesu; the language in use | ✅ | [w101-plus](w101-plus.md) |
 | `vo-mu` | W137 | garment, clothing, value-artifact worn on body | ⚠️ | [w101-plus](w101-plus.md) |
 | `vo-ne` | W118 | righteousness, right relational standing | ✅ | [w101-plus](w101-plus.md) |
 | `wi-de-li` | W124 | adversary, enemy, opposing-will person | ✅ | [w101-plus](w101-plus.md) |
@@ -235,7 +235,7 @@ Concept-first lookup: find the compound you need by domain.
 `de-be` W035 repair · `ka-ne-de` W092 deliberate bond dissolution · `ne-de` W091 bond dissolution (no assigned cause) · `ne-fe` W042 dependency condition · `no-de-ma` W129 salt · `no-ne-fe` W075 absence of dependency / no link · `pa-ki` W087 adrift · `pa-nu` W050 size · `su-fa` W133 purity of heart · `su-ru` W085 integrated whole
 
 **Meta / Language**
-`to'to-ne-su` W170 analytic knowledge of Tonesu · `to-to-ne-su` W169 knowledge of Tonesu
+`to'to-ne-su` W170 meta-truth · `to-to-ne-su` W169 knowledge of truth
 
 ---
 

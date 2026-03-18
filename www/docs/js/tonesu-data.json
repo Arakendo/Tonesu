@@ -2345,9 +2345,9 @@
       "wnum": "W169",
       "form": "to-to-ne-su",
       "written": "totonesu",
-      "gloss": "knowledge of Tonesu; the language in use",
+      "gloss": "knowledge of truth; knowledge of Tonesu; the language in use",
       "status": "active",
-      "domain": "meta / language",
+      "domain": "meta / language / philosophy",
       "roots": [
         "to",
         "to",
@@ -2359,9 +2359,9 @@
       "wnum": "W170",
       "form": "to'to-ne-su",
       "written": "to'tonesu",
-      "gloss": "analytic knowledge of Tonesu; theory of the language",
+      "gloss": "meta-truth; analytic knowledge of Tonesu; theory of the language",
       "status": "active",
-      "domain": "meta / language / theory",
+      "domain": "meta / language / theory / philosophy",
       "roots": [
         "to",
         "to",

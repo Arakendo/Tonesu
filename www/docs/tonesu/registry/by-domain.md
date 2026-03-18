@@ -250,8 +250,8 @@ See also: [Alphabetical list](index.md) · [English index](english.md) · [By ro
 
 | Form | Written | W# | Gloss |
 |------|---------|-----|-------|
-| `to'to-ne-su` | to'tonesu | W170 | analytic knowledge of Tonesu; theory of the language |
-| `to-to-ne-su` | totonesu | W169 | knowledge of Tonesu; the language in use |
+| `to'to-ne-su` | to'tonesu | W170 | meta-truth; analytic knowledge of Tonesu; theory of the language |
+| `to-to-ne-su` | totonesu | W169 | knowledge of truth; knowledge of Tonesu; the language in use |
 
 ---
 
