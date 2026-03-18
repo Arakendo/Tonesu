@@ -18,9 +18,10 @@ import yaml
 from pathlib import Path
 from collections import defaultdict
 
-REPO    = Path(__file__).resolve().parent.parent
-ENTRIES = REPO / "registry" / "entries.yaml"
-OUT_DIR = REPO / "www" / "docs" / "tonesu" / "registry"
+REPO      = Path(__file__).resolve().parent.parent
+ENTRIES   = REPO / "registry" / "entries.yaml"
+SENTENCES = REPO / "corpus" / "sentences.yaml"
+OUT_DIR   = REPO / "www" / "docs" / "tonesu" / "registry"
 
 NOTE = (
     "*Generated from "
@@ -51,6 +52,28 @@ def load_entries() -> list:
         sys.exit(f"ERROR: {ENTRIES} not found. Run scripts/migrate_to_yaml.py first.")
     data = yaml.safe_load(ENTRIES.read_text(encoding="utf-8"))
     return data.get("entries", [])
+
+
+def load_sentences() -> list:
+    """Load corpus/sentences.yaml; return empty list if not found."""
+    if not SENTENCES.exists():
+        return []
+    data = yaml.safe_load(SENTENCES.read_text(encoding="utf-8"))
+    return data.get("sentences", [])
+
+
+def build_attestation_index(sentences: list) -> dict:
+    """Return {wnum: [snum, ...]} built from words_attested fields.
+
+    Tolerates empty words_attested lists (Phase 1 / Phase 2 state).
+    Returns a non-empty index only once Phase 3 annotation is done.
+    """
+    index: dict = defaultdict(list)
+    for sent in sentences:
+        snum = sent.get("snum", "")
+        for wnum in sent.get("words_attested") or []:
+            index[wnum].append(snum)
+    return {wnum: sorted(set(snums)) for wnum, snums in index.items()}
 
 
 def visible(entry: dict) -> bool:
@@ -141,7 +164,10 @@ def build_english_index(entries: list) -> list:
 # Page generators
 # ---------------------------------------------------------------------------
 
-def generate_index_page(entries: list) -> str:
+def generate_index_page(entries: list, attest_index: dict = None) -> str:
+    if attest_index is None:
+        attest_index = {}
+    has_attestations = bool(attest_index)
     visible_entries = [e for e in entries if visible(e)]
     count = len(visible_entries)
     lines = [
@@ -156,15 +182,31 @@ def generate_index_page(entries: list) -> str:
         "See also: [English index](english.md) · "
         "[By domain](by-domain.md) · [By root](by-root.md)",
         "",
-        "| Form | Written | W# | Gloss | Status |",
-        "|------|---------|-----|-------|--------|",
     ]
+    if has_attestations:
+        lines += [
+            "| Form | Written | W# | Gloss | Status | Corpus |",
+            "|------|---------|-----|-------|--------|--------|",
+        ]
+    else:
+        lines += [
+            "| Form | Written | W# | Gloss | Status |",
+            "|------|---------|-----|-------|--------|",
+        ]
     for e in sorted(visible_entries, key=lambda x: x["form"]):
         emoji = STATUS_EMOJI.get(e.get("status", "pending"), "⏳")
-        lines.append(
-            f'| `{e["form"]}` | {written(e["form"])} | {e["wnum"]} '
-            f'| {e["gloss"]} | {emoji} |'
-        )
+        if has_attestations:
+            snums = attest_index.get(e["wnum"], [])
+            corpus_cell = " · ".join(snums) if snums else "—"
+            lines.append(
+                f'| `{e["form"]}` | {written(e["form"])} | {e["wnum"]} '
+                f'| {e["gloss"]} | {emoji} | {corpus_cell} |'
+            )
+        else:
+            lines.append(
+                f'| `{e["form"]}` | {written(e["form"])} | {e["wnum"]} '
+                f'| {e["gloss"]} | {emoji} |'
+            )
     lines += ["", "---", "", NOTE]
     return "\n".join(lines)
 
@@ -252,20 +294,23 @@ def generate_by_root_page(root_families: list) -> str:
 
 def main():
     entries = load_entries()
+    sentences = load_sentences()
+    attest_index = build_attestation_index(sentences)
     domain_groups = build_domain_groups(entries)
     root_families = build_root_families(entries)
     english_rows  = build_english_index(entries)
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    (OUT_DIR / "index.md").write_text(generate_index_page(entries), encoding="utf-8")
+    (OUT_DIR / "index.md").write_text(generate_index_page(entries, attest_index), encoding="utf-8")
     (OUT_DIR / "english.md").write_text(generate_english_page(english_rows), encoding="utf-8")
     (OUT_DIR / "by-domain.md").write_text(generate_by_domain_page(domain_groups), encoding="utf-8")
     (OUT_DIR / "by-root.md").write_text(generate_by_root_page(root_families), encoding="utf-8")
 
     visible_count = sum(1 for e in entries if visible(e))
+    attested_count = sum(1 for e in entries if e.get("wnum") in attest_index)
     print(f"Generated {visible_count} entries -> {OUT_DIR.relative_to(REPO)}/")
-    print(f"  index.md    : {visible_count} words")
+    print(f"  index.md    : {visible_count} words ({attested_count} with corpus attestations)")
     print(f"  english.md  : {len(english_rows)} English terms")
     print(f"  by-domain.md: {len(domain_groups)} domains")
     print(f"  by-root.md  : {len(root_families)} root families")
