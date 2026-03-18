@@ -346,16 +346,20 @@
     title.textContent = 'Registry lookup';
     node.appendChild(title);
 
-    if (chain.length === 0) {
+    // Build full lookup chain: chain roots + suffix root (suffix -li → li)
+    var lookupChain = chain.slice();
+    if (suffixMod) lookupChain.push(suffixMod.slice(1));
+
+    if (lookupChain.length === 0) {
       var empty = mk('p', 'rb-empty');
       empty.textContent = 'Build a word to search.';
       node.appendChild(empty);
       return;
     }
 
-    var exact  = allData.entries.filter(function (e) { return arrEq(e.roots, chain); });
+    var exact  = allData.entries.filter(function (e) { return arrEq(e.roots, lookupChain); });
     var prefix = allData.entries.filter(function (e) {
-      return !arrEq(e.roots, chain) && arrContains(e.roots, chain);
+      return !arrEq(e.roots, lookupChain) && arrContains(e.roots, lookupChain);
     });
 
     if (exact.length === 0 && prefix.length === 0) {
