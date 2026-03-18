@@ -1,0 +1,52 @@
+site_name: Tonesu
+site_description: A constructed language built on generative roots.
+site_url: https://arakendo.github.io/Tonesu/
+repo_url: https://github.com/Arakendo/Tonesu
+repo_name: Arakendo/Tonesu
+
+docs_dir: www/docs
+site_dir: site
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Learn:
+    - Sounds: learn/sounds.md
+    - Grammar: learn/grammar.md
+    - Building words: learn/compounds.md
+    - Notation: learn/notation.md
+  - Explore:
+    - Overview: explore/index.md
+    - Patterns: explore/patterns.md
+    - Worked examples: explore/compounds.md
+    - Sentences: explore/sentences.md
+    - Sandbox: explore/sandbox.md
+  - Reference:
+    - Primitives: reference/primitives.md
+    - Words: reference/words.md
+  - About:
+    - Principles: about/principles.md
+
+markdown_extensions:
+  - tables
+  - fenced_code
+  - attr_list
+  - def_list
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
