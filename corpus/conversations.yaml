@@ -26,7 +26,8 @@ conversations:
     tonesu: de  vo  to-si?
     gloss_line: decay  quality  QUERY
     natural: What kind of damage?
-    words_attested: []
+    words_attested:
+    - W026
     first_attests: []
     notes: null
   - turn: A2
@@ -39,7 +40,8 @@ conversations:
     natural: 'The backup unit is decaying.
 
       [It] approaches the time-limit.'
-    words_attested: []
+    words_attested:
+    - W037
     first_attests: []
     notes: null
   - turn: B2
@@ -92,7 +94,8 @@ conversations:
     tonesu: lo-si-mu  no-ru
     gloss_line: patient:relay  not-unified
     natural: The relay is unstable.
-    words_attested: []
+    words_attested:
+    - W039
     first_attests: []
     notes: null
   - turn: B1
@@ -120,7 +123,8 @@ conversations:
     tonesu: lo-si-mu  ru  ta-now
     gloss_line: patient:relay  unified  time:now
     natural: The relay is stable now.
-    words_attested: []
+    words_attested:
+    - W039
     first_attests: []
     notes: null
 - cnum: C003
@@ -138,7 +142,8 @@ conversations:
     tonesu: to-si  —  la-tu  ki  pa-li-pu  ta-ti-be
     gloss_line: knowledge-inquiry — agent:you  motion  place:city  time:next-time
     natural: Are you going to the city soon?
-    words_attested: []
+    words_attested:
+    - W026
     first_attests: []
     notes: null
   - turn: B1
@@ -194,7 +199,8 @@ conversations:
     tonesu: la-se-ka  be  [lo-mu  de]
     gloss_line: agent:examination  produces/records  [patient:machine  decayed]
     natural: 'The examination produces the finding: the machine has decayed.'
-    words_attested: []
+    words_attested:
+    - W034
     first_attests: []
     notes: null
   - turn: B2
@@ -208,7 +214,8 @@ conversations:
     tonesu: la-tu  ka-si  lo-li-su-li  lo-ze
     gloss_line: '[you]  action:signal  patient:coordinator  relation:it'
     natural: Signal the coordinator about it. [Imperative]
-    words_attested: []
+    words_attested:
+    - W001
     first_attests: []
     notes: null
 - cnum: C005
@@ -235,7 +242,8 @@ conversations:
     tonesu: la-mi  si  [lo-mu  zo-to]
     gloss_line: agent:I  signal-level  [patient:machine  soul/identity-pattern]
     natural: 'I hold as hypothesis: the machine has a soul.'
-    words_attested: []
+    words_attested:
+    - W068
     first_attests: []
     notes: null
   - turn: B1
@@ -249,7 +257,9 @@ conversations:
     tonesu: la-to-re-su  ko  [lo-mu  zo-to]
     gloss_line: agent:canonical-doctrine  contains  [patient:machine  soul-pattern]
     natural: 'The canonical doctrine holds: the machine has a soul.'
-    words_attested: []
+    words_attested:
+    - W064
+    - W068
     first_attests: []
     notes: null
   - turn: B2
@@ -258,15 +268,18 @@ conversations:
     natural: 'I hold as established: the canonical doctrine has not crossed the epistemic
 
       threshold — not to this day.'
-    words_attested: []
+    words_attested:
+    - W064
     first_attests: []
     notes: null
   - turn: A3
     tonesu: la-mi  to  [lo-ze  to-fe-ka]
     gloss_line: agent:I  established  [patient:that-claim  deliberate-epistemic-boundary-violation]
     natural: 'I hold as established: what you just said is deliberate epistemic fraud.'
-    words_attested: []
-    first_attests: []
+    words_attested:
+    - W029
+    first_attests:
+    - W029
     notes: null
   - turn: B3
     tonesu: la-mi  no-to  [lo-ze  to-fe-ka]  —  la-tu  ka-si  lo-to-fe-su
@@ -275,7 +288,9 @@ conversations:
       patient:epistemic-standards-framework'
     natural: 'I hold as not-established: that is not fraud. — Submit this to the standards
       body.'
-    words_attested: []
+    words_attested:
+    - W029
+    - W072
     first_attests: []
     notes: null
 - cnum: C006
@@ -297,21 +312,29 @@ conversations:
     tonesu: to-si — lo-pa-ra  be-now
     gloss_line: knowledge-inquiry — patient:field  is-active-now
     natural: Is the field active?
-    words_attested: []
+    words_attested:
+    - W026
+    - W053
     first_attests: []
     notes: null
   - turn: B1
     tonesu: ru — lo-pa-ra  be-now  ra-vo  nu-be  lo-si-fe
     gloss_line: '[affirm] — patient:field  active-now  energy-quality  exceeds  threshold'
     natural: Yes — the field is active and above threshold.
-    words_attested: []
+    words_attested:
+    - W053
+    - W070
+    - W071
     first_attests: []
     notes: null
   - turn: A2
     tonesu: lo-pa-ra  ne-ra  vo  to-si?
     gloss_line: patient:field  resonance  quality  [what]?
     natural: What is the character of the field's resonance?
-    words_attested: []
+    words_attested:
+    - W026
+    - W053
+    - W058
     first_attests: []
     notes: null
   - turn: B2
@@ -321,28 +344,36 @@ conversations:
       not-dependency-condition  patient:machine'
     natural: The resonance character is uncertified. The field has no link to the
       machine.
-    words_attested: []
+    words_attested:
+    - W053
+    - W058
+    - W075
     first_attests: []
     notes: null
   - turn: A3
     tonesu: to-si — la-mi  ne-ra-ki
     gloss_line: knowledge-inquiry — agent:I  attune
     natural: '[Am I attuning? / What am I attuning to?]'
-    words_attested: []
+    words_attested:
+    - W026
+    - W059
     first_attests: []
     notes: null
   - turn: B3
     tonesu: no — lo-pa-ra  no-ne-fe  ta-ti-now
     gloss_line: '[negate] — patient:field  no-dependency-state  time:present'
     natural: No — the field has no link right now.
-    words_attested: []
+    words_attested:
+    - W053
+    - W075
     first_attests: []
     notes: null
   - turn: A4
     tonesu: la-mi  si  [ta-ti-be  ne-ra-ki  be]
     gloss_line: agent:I  signal-level  [time:approaching  attune  grows]
     natural: 'I assess: the link will develop soon.'
-    words_attested: []
+    words_attested:
+    - W059
     first_attests: []
     notes: null
   - turn: B4
@@ -371,63 +402,78 @@ conversations:
     tonesu: to-si — la-tu  to  [lo-pa-ra  nu-be  lo-si-fe]
     gloss_line: knowledge-inquiry — agent:you  established  [patient:field  exceeds  threshold]
     natural: 'Do you hold as established: the field exceeded threshold?'
-    words_attested: []
+    words_attested:
+    - W026
+    - W053
+    - W070
     first_attests: []
     notes: null
   - turn: B1
     tonesu: ru — la-mi  to  [lo-pa-ra  nu-be  lo-si-fe]
     gloss_line: '[affirm] — agent:I  established  [patient:field  exceeds  threshold]'
     natural: 'Yes — I hold as established: the field exceeded threshold.'
-    words_attested: []
+    words_attested:
+    - W053
+    - W070
     first_attests: []
     notes: null
   - turn: A2
     tonesu: lo-ne-ra  vo  to-si?
     gloss_line: patient:the-resonance  quality  [what]?
     natural: What is the resonance character?
-    words_attested: []
+    words_attested:
+    - W026
+    - W058
     first_attests: []
     notes: null
   - turn: B2
     tonesu: la-mi  no-to  [lo-ne-ra  vo]
     gloss_line: agent:I  not-established  [patient:the-resonance  quality]
     natural: I do not hold the resonance character as established.
-    words_attested: []
+    words_attested:
+    - W058
     first_attests: []
     notes: null
   - turn: A3
     tonesu: to-si — la-tu  si  [lo-ne-ra  vo]
     gloss_line: knowledge-inquiry — agent:you  hypothesize  [patient:the-resonance  quality]
     natural: Do you hypothesize a resonance character?
-    words_attested: []
+    words_attested:
+    - W026
+    - W058
     first_attests: []
     notes: null
   - turn: B3
     tonesu: la-mi  no-si  [lo-ne-ra  vo]
     gloss_line: agent:I  not-hypothesize  [patient:the-resonance  quality]
     natural: I do not hypothesize a resonance character.
-    words_attested: []
+    words_attested:
+    - W058
     first_attests: []
     notes: null
   - turn: A4
     tonesu: to-si — la-tu  se  [lo-ne-ra]
     gloss_line: knowledge-inquiry — agent:you  perceive  [patient:the-resonance]
     natural: Do you perceive the resonance?
-    words_attested: []
+    words_attested:
+    - W026
+    - W058
     first_attests: []
     notes: null
   - turn: B4
     tonesu: la-mi  no-se  [lo-ne-ra]
     gloss_line: agent:I  not-perceive  [patient:the-resonance]
     natural: I have no perceptual basis for the resonance.
-    words_attested: []
+    words_attested:
+    - W058
     first_attests: []
     notes: null
   - turn: A5
     tonesu: la-mi  to  [la-tu  no-se  lo-ne-ra]
     gloss_line: agent:I  established  [agent:you  not-perceive  patient:the-resonance]
     natural: 'I hold as established: you have no perceptual basis for the resonance.'
-    words_attested: []
+    words_attested:
+    - W058
     first_attests: []
     notes: null
   - turn: B5
@@ -461,7 +507,8 @@ conversations:
     natural: 'The archivist suppressed the record.
 
       (literally: caused the past-signal record to decay)'
-    words_attested: []
+    words_attested:
+    - W098
     first_attests: []
     notes: null
     turn_subtitle: Person-reading (`la-ze` agent slot)
@@ -469,7 +516,8 @@ conversations:
     tonesu: la-mi  si  [la-ze  no-de  lo-si-de]
     gloss_line: agent:I  hypothesize  [agent:ze  not-decayed  patient:record-of-signal]
     natural: 'I hypothesize: ze did not suppress the record.'
-    words_attested: []
+    words_attested:
+    - W098
     first_attests: []
     notes: null
     turn_subtitle: Competing proposition enters discourse
@@ -485,7 +533,8 @@ conversations:
     tonesu: la-mi  to  [lo-ze  to-fe-ka]
     gloss_line: agent:I  established  [patient:ze  deliberate-fraud]
     natural: 'I hold as established: [ze / that claim] is deliberate fraud.'
-    words_attested: []
+    words_attested:
+    - W029
     first_attests: []
     notes: null
     turn_subtitle: Genuinely ambiguous `lo-ze`
@@ -493,7 +542,8 @@ conversations:
     tonesu: la-ze  to-fe-ka  no  la-mi
     gloss_line: agent:ze  deliberate-fraud  [contrast]  agent:I
     natural: Ze committed the fraud — not me.
-    words_attested: []
+    words_attested:
+    - W029
     first_attests: []
     notes: null
     turn_subtitle: Disambiguation by restatement
@@ -504,7 +554,9 @@ conversations:
       agent:you  action:signal  patient:epistemic-standards-framework'
     natural: 'I note (perceptually): ze suppressed a record. — Submit this to the
       standards body.'
-    words_attested: []
+    words_attested:
+    - W072
+    - W098
     first_attests: []
     notes: null
     turn_subtitle: 'Arbiter''s record: explicit NP, no ze back-reference'

@@ -50,7 +50,7 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `ko-pa` | kopa | W048 | room, enclosed space | ✅ | S064 · S267 · S423 · S473 · S516 |
 | `li-be` | libe | W033 | child, person in growth phase | ✅ | S020 · S059 · S066 |
 | `li-pu-pa` | lipupa | W036 | city, inhabited settlement | ✅ | S061 |
-| `li-su-li` | lisuli | W001 | leader, coordinator, administrator | ⏳ | S091 |
+| `li-su-li` | lisuli | W001 | leader, coordinator, administrator | ⏳ | C004-A3 · S091 |
 | `lu-mu` | lumu | W139 | light-body, luminous celestial object | ⏳ | S362 |
 | `lu-ti` | luti | W140 | daytime, light-period | ⏳ | — |
 | `ma-no-de` | manode | W046 | medicine, treatment substance | ✅ | S063 · S370 |
@@ -59,15 +59,15 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `mu-ka` | muka | W022 | use / operate a tool or artifact | ✅ | S120 · S121 |
 | `ne-de` | nede | W091 | bond dissolution (no assigned cause) | ✅ | — |
 | `ne-fe` | nefe | W042 | dependency condition, requirement | ✅ | S058 · S059 · S060 · S061 · S062 · S128 · S131 · S161 · S208 |
-| `ne-ra` | nera | W058 | resonance, energetic coupling state | ✅ | S101 · S102 · S103 · S107 · S173 |
-| `ne-ra-ki` | neraki | W059 | attune, enter resonance | ✅ | S083 |
+| `ne-ra` | nera | W058 | resonance, energetic coupling state | ✅ | C006-A2 · C006-B2 · C007-A2 · C007-A3 · C007-A4 · C007-A5 · C007-B2 · C007-B3 · C007-B4 · S101 · S102 · S103 · S107 · S173 |
+| `ne-ra-ki` | neraki | W059 | attune, enter resonance | ✅ | C006-A3 · C006-A4 · S083 |
 | `ne-su` | nesu | W031 | network, society, organization | ⏳ | S041 · S376 · S381 · S386 · S388 · S389 · S395 · S397 · S490 |
 | `ne-to` | neto | W084 | mutual acknowledgment, agreement | ✅ | S118 |
 | `ne-to-fe` | netofe | W165 | covenant, formally bounded agreement | ✅ | — |
 | `ne-zi-re` | nezire | W131 | spouse, bonded coupling partner | ✅ | — |
 | `no-de-ma` | nodema | W129 | salt, preservative matter | ✅ | — |
 | `no-lu-ti` | noluti | W141 | nighttime, dark-period | ⏳ | — |
-| `no-ne-fe` | nonefe | W075 | absence of dependency / no link | ✅ | S063 |
+| `no-ne-fe` | nonefe | W075 | absence of dependency / no link | ✅ | C006-B2 · C006-B3 · S063 |
 | `no-su'ma` | nosu'ma | W115 | gas (material state) | ⏳ | — |
 | `nu-se` | nuse | W102 | measurement, quantitative detection | ✅ | S187 |
 | `pa-be'ka-li-su` | pabe'kalisu | W125 | kingdom of heaven, upper-space governance | ✅ | — |
@@ -76,7 +76,7 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `pa-ki` | paki | W156 | liberation / liberator, place-motion (⚠️ form-shares W087 — pending resolution) | ⚠️ | S123 · S124 · S125 · S129 · S130 · S157 · S377 |
 | `pa-mi` | pami | W110 | here, speaker's location | ⏳ | S338 · S341 · S405 · S406 |
 | `pa-nu` | panu | W050 | size, spatial magnitude | ✅ | S065 |
-| `pa-ra` | para | W053 | energetic field, spatial force distribution | ✅ | S072 · S191 |
+| `pa-ra` | para | W053 | energetic field, spatial force distribution | ✅ | C006-A1 · C006-A2 · C006-B1 · C006-B2 · C006-B3 · C007-A1 · C007-B1 · S072 · S191 |
 | `pa-su` | pasu | W157 | mountain, structured place | ✅ | — |
 | `pa-vo-fe` | pavofe | W153 | holy ground, value-bounded place | ✅ | S406 |
 | `pa-wi` | pawi | W088 | destination, intentional target place | ✅ | S126 |
@@ -86,18 +86,18 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `ra-ki-mu` | rakimu | W012 | engine, motor, generator | ⏳ | S034 · S038 · S114 · S115 · S116 · S123 · S124 · S125 · S126 · S129 · S130 · S157 |
 | `ra-lu-ki` | raluki | W151 | fire, energy-light-process | ✅ | S402 · S403 · S479 |
 | `ra-ma` | rama | W082 | fuel, energy substrate | ✅ | S116 · S394 · S396 · S397 |
-| `ra-vo` | ravo | W071 | signal intensity, energy quality | ✅ | S067 |
+| `ra-vo` | ravo | W071 | signal intensity, energy quality | ✅ | C006-B1 · S067 |
 | `re-ka-ne-li` | rekaneli | W134 | peacemaker, habitual bond-creator | ✅ | — |
-| `se-ka` | seka | W034 | examination, deliberate inspection | ✅ | S192 |
+| `se-ka` | seka | W034 | examination, deliberate inspection | ✅ | C004-A2 · S192 |
 | `se-lu` | selu | W130 | eye, visual perception organ | ✅ | — |
 | `se-no-to` | senoto | W090 | percept without cognitive model (unresolved signal) | ⏳ | — |
 | `se-to` | seto | W062 | perceptual insight, vision | ✅ | S078 · S375 · S397 |
-| `si-de` | side | W098 | past signal, signal of record | ✅ | S106 · S172 · S174 · S175 |
-| `si-fe` | sife | W070 | signal threshold, detection boundary | ✅ | S067 |
+| `si-de` | side | W098 | past signal, signal of record | ✅ | C008-A1 · C008-B1 · C008-B3 · S106 · S172 · S174 · S175 |
+| `si-fe` | sife | W070 | signal threshold, detection boundary | ✅ | C006-B1 · C007-A1 · C007-B1 · S067 |
 | `si-ki` | siki | W023 | transmit a signal | ✅ | S076 · S082 · S103 · S104 · S105 |
 | `si-ki-li` | sikili | W158 | messenger/angel, signal-motion-agent | ✅ | S401 |
 | `si-ko-mu` | sikomu | W067 | individual document, encoded record | ✅ | S014 · S069 · S070 |
-| `si-mu` | simu | W039 | relay device, signal transceiver | ✅ | S043 · S108 · S110 · S154 · S165 |
+| `si-mu` | simu | W039 | relay device, signal transceiver | ✅ | C002-A1 · C002-A3 · S043 · S108 · S110 · S154 · S165 |
 | `si-ne-ki` | sineki | W021 | signal-transmission process | ⏳ | — |
 | `si-no-vo-li` | sinovoli | W126 | hypocrite, person of valueless signal | ✅ | — |
 | `su'ma` | su'ma | W113 | solid (material state) | ⏳ | — |
@@ -107,14 +107,14 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `su-ti` | suti | W101 | current state, instantaneous configuration | ⏳ | — |
 | `ti-be` | tibe | W040 | morning; proximate future | ✅ | S373 · S438 |
 | `ti-de` | tide | W041 | past time; yesterday | ✅ | S125 · S126 · S127 · S128 · S129 · S130 · S131 · S155 · S156 · S158 · S168 · S395 · S397 · S433 · S486 · S559 · S560 · S561 · S562 · S563 · S564 · S568 · S569 · S570 · S571 · S572 · S574 · S575 · S576 · S577 · S578 · S581 · S582 |
-| `ti-fe` | tife | W037 | deadline, temporal boundary | ✅ | S424 |
+| `ti-fe` | tife | W037 | deadline, temporal boundary | ✅ | C001-A2 · S424 |
 | `ti-mi` | timi | W109 | now, present moment (deictic) | ⏳ | S418 |
 | `ti-mu` | timu | W057 | relic, ancient artifact | ✅ | S076 · S081 |
 | `ti-re` | tire | W103 | recurring time, scheduled cycle | ✅ | S418 · S420 · S421 · S422 · S424 |
 | `to-fe` | tofe | W028 | epistemic boundary (the-line between knowledge states) | ⏳ | S273 · S274 · S277 · S364 |
-| `to-fe-ka` | tofeka | W029 | deliberate epistemic mislabeling | ⏳ | — |
+| `to-fe-ka` | tofeka | W029 | deliberate epistemic mislabeling | ⏳ | C005-A3 · C005-B3 · C008-A3 · C008-B2 |
 | `to-fe-li` | tofeli | W032 | epistemic guardian/adjudicator | ⏳ | S045 · S175 · S272 · S273 · S277 |
-| `to-fe-su` | tofesu | W072 | epistemic standards body/code | ✅ | S040 · S156 · S159 · S160 · S278 · S383 · S384 · S388 · S389 · S391 · S392 · S393 · S397 |
+| `to-fe-su` | tofesu | W072 | epistemic standards body/code | ✅ | C005-B3 · C008-B3 · S040 · S156 · S159 · S160 · S278 · S383 · S384 · S388 · S389 · S391 · S392 · S393 · S397 |
 | `to-fe-su-ki` | tofesuki | W097 | epistemic ruling crossing to public force | ✅ | S128 · S131 · S159 · S389 |
 | `to-go` | togo | W089 | counterfactual frame marker | ✅ | S130 · S131 · S155 · S156 · S157 · S158 · S272 · S274 · S347 |
 | `to-ki` | toki | W020 | computation, reasoning process | ⏳ | S375 · S481 · S487 |
@@ -123,9 +123,9 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `to-ko-re` | tokore | W166 | remembrance, memory-return | ✅ | — |
 | `to-li` | toli | W003 | scholar, expert, knower | ⏳ | S010 · S046 · S086 · S087 · S369 · S382 · S389 |
 | `to-ne-su` | tonesu | W000 | truth; the language itself | ✅ | — |
-| `to-re-su` | toresu | W064 | canonical doctrine, scripture | ✅ | S080 · S084 · S090 · S128 · S131 · S161 · S367 |
+| `to-re-su` | toresu | W064 | canonical doctrine, scripture | ✅ | C005-A2 · C005-B2 · S080 · S084 · S090 · S128 · S131 · S161 · S367 |
 | `to-ru` | toru | W083 | consensus, shared conceptual identity | ✅ | S117 |
-| `to-si` | tosi | W026 | query; proposition / thought-signal | ✅ | S341 · S343 · S348 · S378 · S379 · S385 · S394 · S397 · S403 · S412 · S414 · S421 · S462 · S463 · S464 · S568 |
+| `to-si` | tosi | W026 | query; proposition / thought-signal | ✅ | C001-B1 · C003-A1 · C006-A1 · C006-A2 · C006-A3 · C007-A1 · C007-A2 · C007-A3 · C007-A4 · S341 · S343 · S348 · S378 · S379 · S385 · S394 · S397 · S403 · S412 · S414 · S421 · S462 · S463 · S464 · S568 |
 | `to-su` | tosu | W030 | organized knowledge, theory, model | ⏳ | S170 · S192 · S369 · S382 · S383 · S439 · S493 · S505 · S573 · S583 · S585 · S587 |
 | `to-su-ki` | tosuki | W025 | comprehend, enter organized knowledge | ✅ | — |
 | `to-su-mu` | tosumu | W010 | database, library, knowledge-store | ⏳ | S010 · S030 · S168 · S170 |
@@ -163,7 +163,7 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `zo-si` | zosi | W069 | spirit, disembodied living agent | ✅ | S085 · S360 |
 | `zo-su-be` | zosube | W143 | seed, plant-growth-product | ⏳ | — |
 | `zo-su-ka-li` | zosukali | W150 | shepherd, structured-organism-tending-agent | ✅ | — |
-| `zo-to` | zoto | W068 | soul, organism identity-pattern | ✅ | S084 · S360 |
+| `zo-to` | zoto | W068 | soul, organism identity-pattern | ✅ | C005-A1 · C005-A2 · S084 · S360 |
 
 ---
 

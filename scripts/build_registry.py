@@ -18,10 +18,11 @@ import yaml
 from pathlib import Path
 from collections import defaultdict
 
-REPO      = Path(__file__).resolve().parent.parent
-ENTRIES   = REPO / "registry" / "entries.yaml"
-SENTENCES = REPO / "corpus" / "sentences.yaml"
-OUT_DIR   = REPO / "www" / "docs" / "tonesu" / "registry"
+REPO          = Path(__file__).resolve().parent.parent
+ENTRIES       = REPO / "registry" / "entries.yaml"
+SENTENCES     = REPO / "corpus" / "sentences.yaml"
+CONVERSATIONS = REPO / "corpus" / "conversations.yaml"
+OUT_DIR       = REPO / "www" / "docs" / "tonesu" / "registry"
 
 NOTE = (
     "*Generated from "
@@ -62,18 +63,36 @@ def load_sentences() -> list:
     return data.get("sentences", [])
 
 
-def build_attestation_index(sentences: list) -> dict:
-    """Return {wnum: [snum, ...]} built from words_attested fields.
+def load_conversations() -> list:
+    """Load corpus/conversations.yaml turns as flat list; return [] if not found."""
+    if not CONVERSATIONS.exists():
+        return []
+    data = yaml.safe_load(CONVERSATIONS.read_text(encoding="utf-8"))
+    turns = []
+    for conv in data.get("conversations", []):
+        cnum = conv.get("cnum", "")
+        for turn in conv.get("turns", []):
+            # Synthesise a unique id: C001-A1
+            turns.append({
+                "snum": f"{cnum}-{turn.get('turn','')}",
+                "words_attested": turn.get("words_attested") or [],
+            })
+    return turns
+
+
+def build_attestation_index(sentences: list, conv_turns: list = None) -> dict:
+    """Return {wnum: [id, ...]} built from words_attested fields of
+    both sentences and (optionally) conversation turns.
 
     Tolerates empty words_attested lists (Phase 1 / Phase 2 state).
     Returns a non-empty index only once Phase 3 annotation is done.
     """
     index: dict = defaultdict(list)
-    for sent in sentences:
-        snum = sent.get("snum", "")
-        for wnum in sent.get("words_attested") or []:
+    for item in (sentences or []) + (conv_turns or []):
+        snum = item.get("snum", "")
+        for wnum in item.get("words_attested") or []:
             index[wnum].append(snum)
-    return {wnum: sorted(set(snums)) for wnum, snums in index.items()}
+    return {wnum: sorted(set(ids)) for wnum, ids in index.items()}
 
 
 def visible(entry: dict) -> bool:
@@ -293,9 +312,10 @@ def generate_by_root_page(root_families: list) -> str:
 # ---------------------------------------------------------------------------
 
 def main():
-    entries = load_entries()
-    sentences = load_sentences()
-    attest_index = build_attestation_index(sentences)
+    entries       = load_entries()
+    sentences     = load_sentences()
+    conv_turns    = load_conversations()
+    attest_index  = build_attestation_index(sentences, conv_turns)
     domain_groups = build_domain_groups(entries)
     root_families = build_root_families(entries)
     english_rows  = build_english_index(entries)
@@ -307,13 +327,16 @@ def main():
     (OUT_DIR / "by-domain.md").write_text(generate_by_domain_page(domain_groups), encoding="utf-8")
     (OUT_DIR / "by-root.md").write_text(generate_by_root_page(root_families), encoding="utf-8")
 
-    visible_count = sum(1 for e in entries if visible(e))
-    attested_count = sum(1 for e in entries if e.get("wnum") in attest_index)
+    visible_count   = sum(1 for e in entries if visible(e))
+    attested_count  = sum(1 for e in entries if e.get("wnum") in attest_index)
     print(f"Generated {visible_count} entries -> {OUT_DIR.relative_to(REPO)}/")
     print(f"  index.md    : {visible_count} words ({attested_count} with corpus attestations)")
     print(f"  english.md  : {len(english_rows)} English terms")
     print(f"  by-domain.md: {len(domain_groups)} domains")
     print(f"  by-root.md  : {len(root_families)} root families")
+    if conv_turns:
+        conv_attested = sum(1 for t in conv_turns if t.get("words_attested"))
+        print(f"  (conv turns contributing attestations: {conv_attested}/{len(conv_turns)})")
 
 
 if __name__ == "__main__":

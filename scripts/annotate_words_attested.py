@@ -2,7 +2,8 @@
 """
 annotate_words_attested.py
 
-Phase 3: Auto-populate words_attested in corpus/sentences.yaml.
+Phase 3: Auto-populate words_attested in corpus/sentences.yaml and
+corpus/conversations.yaml (conversation turns).
 
 Strategy:
   For each sentence, tokenize tonesu, strip grammar prefixes (la-/lo-/lu-),
@@ -25,9 +26,10 @@ import yaml
 from pathlib import Path
 from collections import defaultdict
 
-REPO      = Path(__file__).resolve().parent.parent
-SENTENCES = REPO / "corpus" / "sentences.yaml"
-ENTRIES   = REPO / "registry" / "entries.yaml"
+REPO          = Path(__file__).resolve().parent.parent
+SENTENCES     = REPO / "corpus" / "sentences.yaml"
+CONVERSATIONS = REPO / "corpus" / "conversations.yaml"
+ENTRIES       = REPO / "registry" / "entries.yaml"
 
 # ── Grammar particles that are NOT registry compounds ─────────────────────────
 
@@ -190,14 +192,47 @@ def main():
 
     print(f"\nSentences updated: {changes}")
     print(f"Total (sentence, word) annotations: {total_annotations}")
-    print(f"Distinct words attested: {len(coverage)}")
-    print(f"Top 10 most-attested words:")
+    print(f"Distinct words attested in sentences: {len(coverage)}")
+    print(f"Top 10 most-attested words (sentences):")
     for wnum, count in sorted(coverage.items(), key=lambda x: -x[1])[:10]:
         form = next((f for f, w in form_index.items() if w == wnum), "?")
         print(f"  {wnum} ({form}): {count} sentences")
 
+    # ── Conversations ─────────────────────────────────────────────────────────
+    conv_changes = 0
+    conv_total   = 0
+    conv_coverage: dict = defaultdict(int)
+
+    if CONVERSATIONS.exists():
+        conv_data = yaml.safe_load(CONVERSATIONS.read_text(encoding="utf-8"))
+        conversations = conv_data.get("conversations", [])
+        for conv in conversations:
+            for turn in conv.get("turns", []):
+                tonesu = turn.get("tonesu")
+                if not tonesu:
+                    continue
+                existing = turn.get("words_attested") or []
+                matches = find_matches(tonesu, form_index)
+                merged = list(dict.fromkeys(existing + matches))
+                merged.sort(key=lambda w: int(w[1:]))
+                if merged != existing:
+                    if dry_run:
+                        print(f"  {conv['cnum']} {turn['turn']}: {existing} -> {merged}")
+                    turn["words_attested"] = merged
+                    conv_changes += 1
+                for wnum in merged:
+                    conv_coverage[wnum] += 1
+                conv_total += len(merged)
+
+        print(f"\nConversation turns updated: {conv_changes}")
+        print(f"Total (turn, word) annotations: {conv_total}")
+        print(f"Distinct words attested in conversations: {len(conv_coverage)}")
+    else:
+        print("\nconversations.yaml not found; skipping.")
+        conv_data = None
+
     if dry_run:
-        print("\n[dry-run] No file written.")
+        print("\n[dry-run] No files written.")
         return
 
     out_data = {"sentences": sentences}
@@ -210,6 +245,17 @@ def main():
     )
     SENTENCES.write_text(text, encoding="utf-8")
     print(f"\nWrote: {SENTENCES.relative_to(REPO)}")
+
+    if conv_data is not None:
+        conv_text = yaml.dump(
+            conv_data,
+            Dumper=_WideDumper,
+            allow_unicode=True,
+            default_flow_style=False,
+            sort_keys=False,
+        )
+        CONVERSATIONS.write_text(conv_text, encoding="utf-8")
+        print(f"Wrote: {CONVERSATIONS.relative_to(REPO)}")
 
 
 if __name__ == "__main__":
