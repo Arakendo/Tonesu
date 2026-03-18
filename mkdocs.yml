@@ -43,7 +43,10 @@ theme:
     repo: material/github
 
 nav:
-  - Home: index.md
+  - Home:
+    - index.md
+    - Quick start: quick-start.md
+    - Cheat sheet: cheatsheet.md
   - Tonesu:
     - tonesu/index.md
     - Sounds: tonesu/sounds.md
