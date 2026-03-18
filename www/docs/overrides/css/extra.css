@@ -168,3 +168,39 @@
   background-color: var(--md-code-bg-color);
   font-weight: 600;
 }
+
+/* ── DataTables filter input ─────────────────────────────── */
+.dt-layout-row {
+  margin-bottom: 0.8rem;
+}
+
+.dt-search label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.8rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.dt-search .dt-input {
+  background: var(--md-code-bg-color);
+  color: var(--md-default-fg-color);
+  border: 1px solid var(--md-typeset-table-color);
+  border-radius: 4px;
+  padding: 0.3rem 0.6rem;
+  font-size: 0.8rem;
+  font-family: var(--md-text-font);
+  min-width: 220px;
+  outline: none;
+}
+
+.dt-search .dt-input:focus {
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 0 0 2px var(--md-accent-fg-color--transparent);
+}
+
+/* Sort arrow color for DataTables */
+table.dataTable thead th.dt-orderable-asc span.dt-column-order::before,
+table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
+  color: var(--md-accent-fg-color);
+}

@@ -6,7 +6,7 @@ title: Word Registry
 
 154 derived compounds, sorted alphabetically.
 
-See also: [English index](english.md) · [By domain](by-domain.md) · [By root](by-root.md)
+See also: [English index](english.md) · [By domain](by-domain.md) · [By root](by-root.md) · [Building words](../words.md)
 
 | Form | Written | W# | Gloss | Status | Corpus |
 |------|---------|-----|-------|--------|--------|

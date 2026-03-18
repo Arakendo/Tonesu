@@ -233,7 +233,8 @@ def generate_index_page(entries: list, attest_index: dict | None = None) -> str:
         f"{count} derived compounds, sorted alphabetically.",
         "",
         "See also: [English index](english.md) · "
-        "[By domain](by-domain.md) · [By root](by-root.md)",
+        "[By domain](by-domain.md) · [By root](by-root.md) · "
+        "[Building words](../words.md)",
         "",
     ]
     if has_attestations:
@@ -278,7 +279,8 @@ def generate_english_page(rows: list) -> str:
         "share a term, all appear together — the **Gloss** column gives the "
         "precise distinction.",
         "",
-        "See also: [Alphabetical list](index.md) · [By domain](by-domain.md)",
+        "See also: [Alphabetical list](index.md) · [By domain](by-domain.md) · "
+        "[Building words](../words.md)",
         "",
         "| English | Written form | Parse | Gloss |",
         "|---------|-------------|-------|-------|",
@@ -302,7 +304,8 @@ def generate_by_domain_page(domain_groups: list) -> str:
         "Concept-first lookup: find the word you need by semantic category.",
         "",
         "See also: [Alphabetical list](index.md) · "
-        "[English index](english.md) · [By root](by-root.md)",
+        "[English index](english.md) · [By root](by-root.md) · "
+        "[Building words](../words.md)",
         "",
     ]
     for domain_name, entries_list in domain_groups:
@@ -332,7 +335,8 @@ def generate_by_root_page(root_families: list) -> str:
         "Each row groups derived compounds sharing the same lead primitive root.",
         "",
         "See also: [Alphabetical list](index.md) · "
-        "[English index](english.md) · [By domain](by-domain.md)",
+        "[English index](english.md) · [By domain](by-domain.md) · "
+        "[Building words](../words.md)",
         "",
         "| Lead root | Derived compounds |",
         "|-----------|------------------|",
@@ -364,7 +368,7 @@ def generate_word_page(
         "",
         f"**{w}** · {gloss} · {emoji}",
         "",
-        "[← Word Registry](../index.md)",
+        "[← Word Registry](../index.md) · [Building words](../../words.md)",
         "",
     ]
 

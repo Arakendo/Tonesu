@@ -116,5 +116,9 @@ plugins:
 extra_css:
   - overrides/css/extra.css
 
+extra_javascript:
+  - https://cdn.datatables.net/2.2.2/js/dataTables.min.js
+  - js/datatables-init.js
+
 extra:
   generator: false

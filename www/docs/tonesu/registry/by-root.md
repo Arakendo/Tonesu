@@ -6,7 +6,7 @@ title: By Root
 
 Each row groups derived compounds sharing the same lead primitive root.
 
-See also: [Alphabetical list](index.md) · [English index](english.md) · [By domain](by-domain.md)
+See also: [Alphabetical list](index.md) · [English index](english.md) · [By domain](by-domain.md) · [Building words](../words.md)
 
 | Lead root | Derived compounds |
 |-----------|------------------|
