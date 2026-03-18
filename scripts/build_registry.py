@@ -23,6 +23,7 @@ ENTRIES       = REPO / "registry" / "entries.yaml"
 SENTENCES     = REPO / "corpus" / "sentences.yaml"
 CONVERSATIONS = REPO / "corpus" / "conversations.yaml"
 OUT_DIR       = REPO / "www" / "docs" / "tonesu" / "registry"
+CORPUS_PAGE   = REPO / "www" / "docs" / "tonesu" / "corpus.md"
 
 NOTE = (
     "*Generated from "
@@ -80,7 +81,7 @@ def load_conversations() -> list:
     return turns
 
 
-def build_attestation_index(sentences: list, conv_turns: list = None) -> dict:
+def build_attestation_index(sentences: list, conv_turns: list | None = None) -> dict:
     """Return {wnum: [id, ...]} built from words_attested fields of
     both sentences and (optionally) conversation turns.
 
@@ -93,6 +94,18 @@ def build_attestation_index(sentences: list, conv_turns: list = None) -> dict:
         for wnum in item.get("words_attested") or []:
             index[wnum].append(snum)
     return {wnum: sorted(set(ids)) for wnum, ids in index.items()}
+
+
+def load_conv_data() -> dict | None:
+    """Load raw conversations.yaml; return None if not found."""
+    if not CONVERSATIONS.exists():
+        return None
+    return yaml.safe_load(CONVERSATIONS.read_text(encoding="utf-8"))
+
+
+def _corpus_link(id_str: str) -> str:
+    """Wrap a corpus id in a markdown link to corpus.md (relative from registry/)."""
+    return f"[{id_str}](../corpus.md#{id_str})"
 
 
 def visible(entry: dict) -> bool:
@@ -183,7 +196,7 @@ def build_english_index(entries: list) -> list:
 # Page generators
 # ---------------------------------------------------------------------------
 
-def generate_index_page(entries: list, attest_index: dict = None) -> str:
+def generate_index_page(entries: list, attest_index: dict | None = None) -> str:
     if attest_index is None:
         attest_index = {}
     has_attestations = bool(attest_index)
@@ -216,7 +229,7 @@ def generate_index_page(entries: list, attest_index: dict = None) -> str:
         emoji = STATUS_EMOJI.get(e.get("status", "pending"), "⏳")
         if has_attestations:
             snums = attest_index.get(e["wnum"], [])
-            corpus_cell = " · ".join(snums) if snums else "—"
+            corpus_cell = " · ".join(_corpus_link(i) for i in snums) if snums else "—"
             lines.append(
                 f'| `{e["form"]}` | {written(e["form"])} | {e["wnum"]} '
                 f'| {e["gloss"]} | {emoji} | {corpus_cell} |'
@@ -307,6 +320,90 @@ def generate_by_root_page(root_families: list) -> str:
     return "\n".join(lines)
 
 
+def generate_corpus_page(sentences: list, conv_data: dict | None) -> str:
+    convs = (conv_data or {}).get("conversations", [])
+    n_turns = sum(len(c.get("turns", [])) for c in convs)
+    n_sents = len(sentences)
+
+    lines = [
+        "---",
+        "title: Corpus",
+        "---",
+        "",
+        "# Corpus",
+        "",
+        f"{n_sents} sentences · {n_turns} conversation turns.",
+        "",
+        "---",
+        "",
+        "## Sentences",
+        "",
+    ]
+
+    for sent in sentences:
+        snum = sent.get("snum", "")
+        tonesu_lines = (sent.get("tonesu") or "").split("\n")
+        natural = sent.get("natural") or ""
+        batch = sent.get("batch") or ""
+        status = sent.get("status", "")
+
+        lines.append(f'<span id="{snum}"></span>')
+
+        label_parts = [f"**{snum}**"]
+        if batch:
+            label_parts.append(batch)
+        if status == "legacy":
+            label_parts.append("*legacy*")
+        lines.append(" · ".join(label_parts))
+
+        for t in tonesu_lines:
+            t = t.strip()
+            if t:
+                lines.append(f"`{t}`")
+
+        if natural:
+            lines.append(f"*{natural.replace(chr(10), '<br>')}*")
+
+        lines.append("")
+
+    if convs:
+        lines += ["---", "", "## Conversations", ""]
+        for conv in convs:
+            cnum = conv.get("cnum", "")
+            gloss = conv.get("gloss", "")
+            scene = conv.get("scene", "")
+
+            lines += [
+                f'<span id="{cnum}"></span>',
+                f"### {cnum} · {gloss}",
+                "",
+            ]
+            if scene:
+                lines += [f"*{scene}*", ""]
+
+            for turn in conv.get("turns", []):
+                turn_label = turn.get("turn", "")
+                turn_id = f"{cnum}-{turn_label}"
+                turn_tonesu = (turn.get("tonesu") or "").split("\n")
+                turn_natural = turn.get("natural") or ""
+
+                lines.append(f'<span id="{turn_id}"></span>')
+                lines.append(f"**{turn_label}**")
+
+                for t in turn_tonesu:
+                    t = t.strip()
+                    if t:
+                        lines.append(f"`{t}`")
+
+                if turn_natural:
+                    lines.append(f"*{turn_natural.replace(chr(10), '<br>')}*")
+
+                lines.append("")
+
+    lines += ["---", "", NOTE]
+    return "\n".join(lines)
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
@@ -315,6 +412,7 @@ def main():
     entries       = load_entries()
     sentences     = load_sentences()
     conv_turns    = load_conversations()
+    conv_data     = load_conv_data()
     attest_index  = build_attestation_index(sentences, conv_turns)
     domain_groups = build_domain_groups(entries)
     root_families = build_root_families(entries)
@@ -326,14 +424,17 @@ def main():
     (OUT_DIR / "english.md").write_text(generate_english_page(english_rows), encoding="utf-8")
     (OUT_DIR / "by-domain.md").write_text(generate_by_domain_page(domain_groups), encoding="utf-8")
     (OUT_DIR / "by-root.md").write_text(generate_by_root_page(root_families), encoding="utf-8")
+    CORPUS_PAGE.write_text(generate_corpus_page(sentences, conv_data), encoding="utf-8")
 
     visible_count   = sum(1 for e in entries if visible(e))
     attested_count  = sum(1 for e in entries if e.get("wnum") in attest_index)
+    n_conv_turns = sum(len(c.get("turns", [])) for c in (conv_data or {}).get("conversations", []))
     print(f"Generated {visible_count} entries -> {OUT_DIR.relative_to(REPO)}/")
     print(f"  index.md    : {visible_count} words ({attested_count} with corpus attestations)")
     print(f"  english.md  : {len(english_rows)} English terms")
     print(f"  by-domain.md: {len(domain_groups)} domains")
     print(f"  by-root.md  : {len(root_families)} root families")
+    print(f"  corpus.md   : {len(sentences)} sentences · {n_conv_turns} conversation turns")
     if conv_turns:
         conv_attested = sum(1 for t in conv_turns if t.get("words_attested"))
         print(f"  (conv turns contributing attestations: {conv_attested}/{len(conv_turns)})")
