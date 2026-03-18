@@ -2,11 +2,13 @@
 """
 build_registry.py
 
-Reads registry/entries.yaml and generates four MkDocs pages:
+Reads registry/entries.yaml and generates:
   www/docs/tonesu/registry/index.md      -- full alphabetical word list
   www/docs/tonesu/registry/english.md    -- English -> Tonesu lookup
   www/docs/tonesu/registry/by-domain.md  -- semantic groupings
   www/docs/tonesu/registry/by-root.md    -- root families
+  www/docs/tonesu/registry/words/W***.md -- one detail page per entry
+  www/docs/tonesu/corpus.md              -- sentence + conversation corpus
 
 Run:   python scripts/build_registry.py
        (from repo root)
@@ -23,6 +25,7 @@ ENTRIES       = REPO / "registry" / "entries.yaml"
 SENTENCES     = REPO / "corpus" / "sentences.yaml"
 CONVERSATIONS = REPO / "corpus" / "conversations.yaml"
 OUT_DIR       = REPO / "www" / "docs" / "tonesu" / "registry"
+WORD_DIR      = OUT_DIR / "words"
 CORPUS_PAGE   = REPO / "www" / "docs" / "tonesu" / "corpus.md"
 
 NOTE = (
@@ -101,6 +104,24 @@ def load_conv_data() -> dict | None:
     if not CONVERSATIONS.exists():
         return None
     return yaml.safe_load(CONVERSATIONS.read_text(encoding="utf-8"))
+
+
+def build_sentence_lookup(sentences: list) -> dict:
+    """Return {snum: sentence_dict} for fast corpus look-ups."""
+    return {s["snum"]: s for s in sentences}
+
+
+def build_turn_lookup(conv_data: dict | None) -> dict:
+    """Return {turn_id: turn_dict} for fast conversation-turn look-ups."""
+    lookup: dict = {}
+    if not conv_data:
+        return lookup
+    for conv in conv_data.get("conversations", []):
+        cnum = conv.get("cnum", "")
+        for turn in conv.get("turns", []):
+            turn_id = f"{cnum}-{turn.get('turn', '')}"
+            lookup[turn_id] = turn
+    return lookup
 
 
 def _corpus_link(id_str: str) -> str:
@@ -226,17 +247,19 @@ def generate_index_page(entries: list, attest_index: dict | None = None) -> str:
             "|------|---------|-----|-------|--------|",
         ]
     for e in sorted(visible_entries, key=lambda x: x["form"]):
-        emoji = STATUS_EMOJI.get(e.get("status", "pending"), "⏳")
+        emoji  = STATUS_EMOJI.get(e.get("status", "pending"), "⏳")
+        wnum   = e["wnum"]
+        wlink  = f"[{wnum}](words/{wnum}.md)"
         if has_attestations:
-            snums = attest_index.get(e["wnum"], [])
+            snums = attest_index.get(wnum, [])
             corpus_cell = " · ".join(_corpus_link(i) for i in snums) if snums else "—"
             lines.append(
-                f'| `{e["form"]}` | {written(e["form"])} | {e["wnum"]} '
+                f'| `{e["form"]}` | {written(e["form"])} | {wlink} '
                 f'| {e["gloss"]} | {emoji} | {corpus_cell} |'
             )
         else:
             lines.append(
-                f'| `{e["form"]}` | {written(e["form"])} | {e["wnum"]} '
+                f'| `{e["form"]}` | {written(e["form"])} | {wlink} '
                 f'| {e["gloss"]} | {emoji} |'
             )
     lines += ["", "---", "", NOTE]
@@ -317,6 +340,102 @@ def generate_by_root_page(root_families: list) -> str:
     for r in root_families:
         lines.append(f'| `{r["root"]}` | {r["entries_raw"]} |')
     lines += ["", "---", "", NOTE]
+    return "\n".join(lines)
+
+
+def generate_word_page(
+    entry: dict,
+    attest_index: dict,
+    sentence_lookup: dict,
+    turn_lookup: dict,
+) -> str:
+    wnum  = entry["wnum"]
+    form  = entry["form"]
+    w     = written(form)
+    gloss = entry.get("gloss", "")
+    emoji = STATUS_EMOJI.get(entry.get("status", "pending"), "⏳")
+
+    lines = [
+        "---",
+        f"title: {form} ({wnum})",
+        "---",
+        "",
+        f"# `{form}` · {wnum}",
+        "",
+        f"**{w}** · {gloss} · {emoji}",
+        "",
+        "[← Word Registry](../index.md)",
+        "",
+    ]
+
+    # Metadata table
+    meta: list[tuple[str, str]] = []
+    if entry.get("domain"):
+        meta.append(("Domain", entry["domain"]))
+    if entry.get("class"):
+        meta.append(("Class", entry["class"]))
+    if entry.get("type"):
+        meta.append(("Type", entry["type"]))
+    if entry.get("register"):
+        meta.append(("Register", entry["register"]))
+    first_use_raw = entry.get("first_use") or ""
+    if first_use_raw:
+        fu_m = re.match(r"(S\d+|C\d+-\w+)", first_use_raw)
+        if fu_m:
+            fu_id = fu_m.group(1)
+            fu_display = re.sub(
+                r"^(S\d+|C\d+-\w+)",
+                f"[{fu_id}](../../corpus.md#{fu_id})",
+                first_use_raw,
+                count=1,
+            )
+        else:
+            fu_display = first_use_raw
+        meta.append(("First use", fu_display))
+
+    if meta:
+        lines += ["| | |", "|---|---|"]
+        for label, value in meta:
+            lines.append(f"| {label} | {value} |")
+        lines.append("")
+
+    if entry.get("composition"):
+        lines += ["## Composition", "", entry["composition"], ""]
+
+    if entry.get("definition"):
+        lines += ["## Definition", "", entry["definition"], ""]
+
+    if entry.get("notes"):
+        lines += ["## Notes", "", entry["notes"], ""]
+
+    if entry.get("related"):
+        lines += ["## Related", "", entry["related"], ""]
+
+    if entry.get("examples"):
+        lines += ["## Examples", "", entry["examples"], ""]
+
+    # Corpus attestations
+    snums = attest_index.get(wnum, [])
+    if snums:
+        lines += [
+            "## In the corpus",
+            "",
+            "| # | Tonesu | English |",
+            "|---|--------|---------|",
+        ]
+        for snum in snums:
+            item = sentence_lookup.get(snum) or turn_lookup.get(snum)
+            if item:
+                tonesu  = (item.get("tonesu") or "").replace("\n", " / ")
+                natural = (item.get("natural") or "").replace("\n", " / ")
+                lines.append(
+                    f"| [{snum}](../../corpus.md#{snum}) | `{tonesu}` | {natural} |"
+                )
+            else:
+                lines.append(f"| [{snum}](../../corpus.md#{snum}) | | |")
+        lines.append("")
+
+    lines += ["---", "", NOTE]
     return "\n".join(lines)
 
 
@@ -417,14 +536,25 @@ def main():
     domain_groups = build_domain_groups(entries)
     root_families = build_root_families(entries)
     english_rows  = build_english_index(entries)
+    sent_lookup   = build_sentence_lookup(sentences)
+    turn_lookup   = build_turn_lookup(conv_data)
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
+    WORD_DIR.mkdir(parents=True, exist_ok=True)
 
     (OUT_DIR / "index.md").write_text(generate_index_page(entries, attest_index), encoding="utf-8")
     (OUT_DIR / "english.md").write_text(generate_english_page(english_rows), encoding="utf-8")
     (OUT_DIR / "by-domain.md").write_text(generate_by_domain_page(domain_groups), encoding="utf-8")
     (OUT_DIR / "by-root.md").write_text(generate_by_root_page(root_families), encoding="utf-8")
     CORPUS_PAGE.write_text(generate_corpus_page(sentences, conv_data), encoding="utf-8")
+
+    word_pages = 0
+    for entry in entries:
+        if not visible(entry):
+            continue
+        page_text = generate_word_page(entry, attest_index, sent_lookup, turn_lookup)
+        (WORD_DIR / f"{entry['wnum']}.md").write_text(page_text, encoding="utf-8")
+        word_pages += 1
 
     visible_count   = sum(1 for e in entries if visible(e))
     attested_count  = sum(1 for e in entries if e.get("wnum") in attest_index)
@@ -435,6 +565,7 @@ def main():
     print(f"  by-domain.md: {len(domain_groups)} domains")
     print(f"  by-root.md  : {len(root_families)} root families")
     print(f"  corpus.md   : {len(sentences)} sentences · {n_conv_turns} conversation turns")
+    print(f"  words/      : {word_pages} detail pages")
     if conv_turns:
         conv_attested = sum(1 for t in conv_turns if t.get("words_attested"))
         print(f"  (conv turns contributing attestations: {conv_attested}/{len(conv_turns)})")
