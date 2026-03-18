@@ -29,7 +29,7 @@ tosumu  (to-su-mu)  →  [to + [su + mu]]
 
 Because Tonesu compounds are compositional, you can decode them left to right:
 
-1. Identify each root (see [Primitives](../reference/primitives.md))
+1. Identify each root (see [Primitives](primitives.md))
 2. Find the head (rightmost root)
 3. Let the left roots narrow the meaning
 
@@ -141,4 +141,4 @@ rasu  (ra-su)   algebraic reading:  energy structure
                 registered reading: star  (stable in astronomy contexts)
 ```
 
-Most of the words in [the word list](../reference/words.md) are at stage 3. Many useful compounds never need registration — their meaning falls directly out of the structure every time.
+Most of the words in [the word list](registry.md) are at stage 3. Many useful compounds never need registration — their meaning falls directly out of the structure every time.

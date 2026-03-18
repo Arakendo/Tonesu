@@ -10,8 +10,8 @@ This is the exploratory space. Compounds built here are **not necessarily regist
 
 Start with a **concept** or **experience** you want to express. Then:
 
-1. Identify which primitive roots are relevant (see [Primitives](../reference/primitives.md))
-2. Apply the [pattern](patterns.md) that fits the conceptual role
+1. Identify which primitive roots are relevant (see [Primitives](../tonesu/primitives.md))
+2. Apply the [pattern](../to-tonesu/patterns.md) that fits the conceptual role
 3. Check right-branching: the parse is always *rightmost-binding* unless you add `'`
 4. Read back what you get — does the compound say what you meant? Does it say something *different* that's also interesting?
 

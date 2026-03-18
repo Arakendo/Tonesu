@@ -71,7 +71,7 @@ la-pa  ha-vo
 ```
 *The room has warmth as a property.* (structural — built to be warm)
 
-Same words, different claim. See [Grammar](../learn/grammar.md) for the full `la-X` / `lo-X` distinction.
+Same words, different claim. See [Grammar](../../tonesu/grammar.md) for the full `la-X` / `lo-X` distinction.
 
 ---
 

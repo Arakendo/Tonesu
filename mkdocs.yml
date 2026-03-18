@@ -23,22 +23,26 @@ theme:
 
 nav:
   - Home: index.md
-  - Learn:
-    - Sounds: learn/sounds.md
-    - Grammar: learn/grammar.md
-    - Building words: learn/compounds.md
-    - Notation: learn/notation.md
-  - Explore:
-    - Overview: explore/index.md
-    - Patterns: explore/patterns.md
-    - Worked examples: explore/compounds.md
-    - Sentences: explore/sentences.md
-    - Sandbox: explore/sandbox.md
-  - Reference:
-    - Primitives: reference/primitives.md
-    - Words: reference/words.md
-  - About:
-    - Principles: about/principles.md
+  - Tonesu:
+    - tonesu/index.md
+    - Sounds: tonesu/sounds.md
+    - Grammar: tonesu/grammar.md
+    - Building words: tonesu/words.md
+    - Notation: tonesu/notation.md
+    - Primitives: tonesu/primitives.md
+    - Registry: tonesu/registry.md
+  - Totonesu:
+    - totonesu/index.md
+    - Corpus:
+      - totonesu/corpus/index.md
+      - Sentences: totonesu/corpus/sentences.md
+    - Worked examples: totonesu/examples.md
+    - Sandbox: totonesu/sandbox.md
+  - To'tonesu:
+    - to-tonesu/index.md
+    - Patterns: to-tonesu/patterns.md
+    - Principles: to-tonesu/principles.md
+    - Design notes: to-tonesu/design.md
 
 markdown_extensions:
   - tables
