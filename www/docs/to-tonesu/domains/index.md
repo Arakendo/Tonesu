@@ -21,4 +21,6 @@ title: Domains
 | [Politics](politics.md) | Power, authority, governance, legitimacy, collective decision-making |
 | [Medicine](medicine.md) | Health, illness, body, clinical intervention, diagnosis |
 | [Mind & Psychology](mind.md) | Consciousness, perception, intention, affect, memory, selfhood |
+| [Language & Metalanguage](metalanguage.md) | Speech acts, definitions, testimony, naming, notation, argument vs rhetoric |
+| [Casual Conversation](conversation.md) | Greetings, hedging, register, humor, phatic speech, everyday social interaction |
 | [Tonesu's Ontology](ontology.md) | What the primitive root set presupposes exists — the language's implicit metaphysics |

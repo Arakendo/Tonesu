@@ -85,6 +85,8 @@ nav:
       - Politics: to-tonesu/domains/politics.md
       - Medicine: to-tonesu/domains/medicine.md
       - Mind & Psychology: to-tonesu/domains/mind.md
+      - Language & Metalanguage: to-tonesu/domains/metalanguage.md
+      - Casual Conversation: to-tonesu/domains/conversation.md
       - "Tonesu's Ontology": to-tonesu/domains/ontology.md
 
 markdown_extensions:
