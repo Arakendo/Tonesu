@@ -245,24 +245,17 @@ The `fe` operator is especially productive when combined with `no-`:
 
 Patterns stack. When they do, the right-branching rule determines scope: the rightmost suffix applies last, to the whole preceding structure.
 
-<div class="tn-derive" markdown>
-
-`tosuli` (to-su-li): `to-su` = organized knowledge system → `(to-su)-li` = person of [organized knowledge system] → **systematic scholar**
-
-`ranofeli` (ra-no-fe-li): `ra-no-fe` = force without boundary → `(ra-no-fe)-li` = person of [unbounded force] → **omnipotent agent**
-
-`kareki` (ka-re-ki): `re-ki` = recurring motion → `ka-(re-ki)` = intentional recurring motion → **practice, drill**
-
-</div>
+| Word | Parse | Derivation |
+|------|-------|------------|
+| `tosuli` | `to-su-li` | `to-su` = organized knowledge system → `(to-su)-li` = person of it → **systematic scholar** |
+| `ranofeli` | `ra-no-fe-li` | `ra-no-fe` = force without boundary → `(ra-no-fe)-li` = person of it → **omnipotent agent** |
+| `kareki` | `ka-re-ki` | `re-ki` = recurring motion → `ka-(re-ki)` = intentional recurring motion → **practice, drill** |
 
 The `'` juncture marker makes grouping explicit when the parse would otherwise be ambiguous:
 
-<div class="tn-derive" markdown>
-
-`ka'nowi` (ka'no-wi) = `[ka]` + `[no-wi]` → deliberate purposelessness
-
-`no'kawi` (no'ka-wi) = `[no]` + `[ka-wi]` → absence of deliberate purpose
-
-</div>
+| Word | Parse | Reading |
+|------|-------|---------|
+| `ka'nowi` | `ka'no-wi` | `[ka]` + `[no-wi]` → deliberate purposelessness |
+| `no'kawi` | `no'ka-wi` | `[no]` + `[ka-wi]` → absence of deliberate purpose |
 
 These are different compounds with different meanings.
