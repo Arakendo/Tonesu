@@ -1,0 +1,871 @@
+batches:
+- code: P002
+  title: ''
+  theme: Grammar & syntax
+  range: S016
+  count: 1
+- code: P003
+  title: ''
+  theme: Grammar & syntax
+  range: S017
+  count: 1
+- code: P001
+  title: ''
+  theme: Grammar & syntax
+  range: S018
+  count: 1
+- code: P004
+  title: ''
+  theme: Grammar & syntax
+  range: S019
+  count: 1
+- code: T021
+  title: ''
+  theme: Foundations
+  range: S020
+  count: 1
+- code: T022
+  title: ''
+  theme: Foundations
+  range: S021
+  count: 1
+- code: T023
+  title: ''
+  theme: Foundations
+  range: S022
+  count: 1
+- code: T024
+  title: ''
+  theme: Foundations
+  range: S023
+  count: 1
+- code: T025
+  title: ''
+  theme: Foundations
+  range: S024
+  count: 1
+- code: Hidden Property A
+  title: ''
+  theme: Theology & philosophy
+  range: S028
+  count: 1
+- code: Hidden Property B
+  title: ''
+  theme: Theology & philosophy
+  range: S029
+  count: 1
+- code: Hidden Property C
+  title: ''
+  theme: Theology & philosophy
+  range: S030
+  count: 1
+- code: Hidden Property D
+  title: ''
+  theme: Theology & philosophy
+  range: S031
+  count: 1
+- code: T-HA-001
+  title: ''
+  theme: Domains
+  range: S032
+  count: 1
+- code: T-HA-002
+  title: ''
+  theme: Domains
+  range: S033
+  count: 1
+- code: T-HA-003
+  title: ''
+  theme: Domains
+  range: S034
+  count: 1
+- code: T-HA-004
+  title: ''
+  theme: Domains
+  range: S035
+  count: 1
+- code: T-HA-005
+  title: ''
+  theme: Domains
+  range: S036
+  count: 1
+- code: T-HA-006
+  title: ''
+  theme: Domains
+  range: S037
+  count: 1
+- code: T-HA-007
+  title: ''
+  theme: Domains
+  range: S038
+  count: 1
+- code: T-HA-008
+  title: ''
+  theme: Domains
+  range: S039
+  count: 1
+- code: T-XX-001
+  title: ''
+  theme: Domains
+  range: S040
+  count: 1
+- code: T-XX-002
+  title: ''
+  theme: Domains
+  range: S041
+  count: 1
+- code: T-XX-003
+  title: ''
+  theme: Domains
+  range: S042
+  count: 1
+- code: T-XX-004
+  title: ''
+  theme: Domains
+  range: S043
+  count: 1
+- code: T-XX-005
+  title: ''
+  theme: Domains
+  range: S044
+  count: 1
+- code: T-APO-001
+  title: ''
+  theme: Theology & philosophy
+  range: S045
+  count: 1
+- code: T-APO-002
+  title: ''
+  theme: Theology & philosophy
+  range: S046
+  count: 1
+- code: T-PRM-001
+  title: ''
+  theme: Domains
+  range: S056
+  count: 1
+- code: T-PRM-002
+  title: ''
+  theme: Domains
+  range: S057
+  count: 1
+- code: T-PRM-003
+  title: ''
+  theme: Domains
+  range: S058
+  count: 1
+- code: T-PRM-004
+  title: ''
+  theme: Domains
+  range: S059
+  count: 1
+- code: T-PRM-005
+  title: ''
+  theme: Domains
+  range: S060
+  count: 1
+- code: T-PRM-006
+  title: ''
+  theme: Domains
+  range: S061
+  count: 1
+- code: T-PRM-007
+  title: ''
+  theme: Domains
+  range: S062
+  count: 1
+- code: T-PRM-008
+  title: ''
+  theme: Domains
+  range: S063
+  count: 1
+- code: T-CMP-001
+  title: ''
+  theme: Grammar & syntax
+  range: S064
+  count: 1
+- code: T-CMP-002
+  title: ''
+  theme: Grammar & syntax
+  range: S065
+  count: 1
+- code: T-CMP-003
+  title: ''
+  theme: Grammar & syntax
+  range: S066
+  count: 1
+- code: T-CMP-004
+  title: ''
+  theme: Grammar & syntax
+  range: S067
+  count: 1
+- code: T-KO-001
+  title: ''
+  theme: Domains
+  range: S068
+  count: 1
+- code: T-KO-002
+  title: ''
+  theme: Domains
+  range: S069
+  count: 1
+- code: T-KO-003
+  title: ''
+  theme: Domains
+  range: S070
+  count: 1
+- code: T-KO-004
+  title: ''
+  theme: Domains
+  range: S071
+  count: 1
+- code: T-MYS-001
+  title: ''
+  theme: Domains
+  range: S072
+  count: 1
+- code: T-MYS-002
+  title: ''
+  theme: Domains
+  range: S073
+  count: 1
+- code: T-MYS-003
+  title: ''
+  theme: Domains
+  range: S074
+  count: 1
+- code: T-MYS-004
+  title: ''
+  theme: Domains
+  range: S075
+  count: 1
+- code: T-MYS-005
+  title: ''
+  theme: Domains
+  range: S076
+  count: 1
+- code: T-MYS-006
+  title: ''
+  theme: Domains
+  range: S077
+  count: 1
+- code: T-MYS-007
+  title: ''
+  theme: Domains
+  range: S078
+  count: 1
+- code: T-REL-001
+  title: ''
+  theme: Theology & philosophy
+  range: S079
+  count: 1
+- code: T-REL-002
+  title: ''
+  theme: Theology & philosophy
+  range: S080
+  count: 1
+- code: T-REL-003
+  title: ''
+  theme: Theology & philosophy
+  range: S081
+  count: 1
+- code: T-REL-004
+  title: ''
+  theme: Theology & philosophy
+  range: S082
+  count: 1
+- code: T-REL-005
+  title: ''
+  theme: Theology & philosophy
+  range: S083
+  count: 1
+- code: T-REL-006
+  title: ''
+  theme: Theology & philosophy
+  range: S084
+  count: 1
+- code: T-REL-007
+  title: ''
+  theme: Theology & philosophy
+  range: S085
+  count: 1
+- code: T-WIT-001 / baseline
+  title: ''
+  theme: Domains
+  range: S086
+  count: 1
+- code: T-WIT-002 / design
+  title: ''
+  theme: Domains
+  range: S087
+  count: 1
+- code: T-WIT-003 / program
+  title: ''
+  theme: Domains
+  range: S088
+  count: 1
+- code: T-WIT-004 / intention-model
+  title: ''
+  theme: Domains
+  range: S089
+  count: 1
+- code: T-WIT-005 / stress
+  title: ''
+  theme: Domains
+  range: S090
+  count: 1
+- code: T-WIT-006 / transmission
+  title: ''
+  theme: Domains
+  range: S091
+  count: 1
+- code: T-WIT-007 / wi-to-su
+  title: ''
+  theme: Domains
+  range: S092
+  count: 1
+- code: T-PHN-001
+  title: ''
+  theme: Domains
+  range: S108
+  count: 1
+- code: T-PHN-002
+  title: ''
+  theme: Domains
+  range: S109
+  count: 1
+- code: T-PHN-003
+  title: ''
+  theme: Domains
+  range: S110
+  count: 1
+- code: T-PHN-004
+  title: ''
+  theme: Domains
+  range: S111
+  count: 1
+- code: T-PHN-005
+  title: ''
+  theme: Domains
+  range: S112
+  count: 1
+- code: T-PHN-006
+  title: ''
+  theme: Domains
+  range: S113
+  count: 1
+- code: T-AX-001
+  title: ''
+  theme: Grammar & syntax
+  range: S114
+  count: 1
+- code: T-AX-002
+  title: ''
+  theme: Grammar & syntax
+  range: S115
+  count: 1
+- code: T-AX-003
+  title: ''
+  theme: Grammar & syntax
+  range: S116
+  count: 1
+- code: T-AX-004
+  title: ''
+  theme: Grammar & syntax
+  range: S117
+  count: 1
+- code: T-AX-005
+  title: ''
+  theme: Grammar & syntax
+  range: S118
+  count: 1
+- code: T-AX-006
+  title: ''
+  theme: Grammar & syntax
+  range: S119
+  count: 1
+- code: T-AX-007
+  title: ''
+  theme: Grammar & syntax
+  range: S120
+  count: 1
+- code: T-AX-008
+  title: ''
+  theme: Grammar & syntax
+  range: S121
+  count: 1
+- code: T-AX-009
+  title: ''
+  theme: Grammar & syntax
+  range: S122
+  count: 1
+- code: T-AX-010
+  title: ''
+  theme: Grammar & syntax
+  range: S123
+  count: 1
+- code: T-AX-011
+  title: ''
+  theme: Grammar & syntax
+  range: S124
+  count: 1
+- code: T-AX-012
+  title: ''
+  theme: Grammar & syntax
+  range: S125
+  count: 1
+- code: CF-001
+  title: ''
+  theme: Grammar & syntax
+  range: S126–S157
+  count: 9
+- code: fa-VAL
+  title: ''
+  theme: Grammar & syntax
+  range: S132–S134
+  count: 3
+- code: fa-CON-A1
+  title: ''
+  theme: Grammar & syntax
+  range: S135
+  count: 1
+- code: fa-CON-A2
+  title: ''
+  theme: Grammar & syntax
+  range: S136
+  count: 1
+- code: fa-CON-A3
+  title: ''
+  theme: Grammar & syntax
+  range: S137
+  count: 1
+- code: fa-CON-A4
+  title: ''
+  theme: Grammar & syntax
+  range: S138
+  count: 1
+- code: fa-CON-B1
+  title: ''
+  theme: Grammar & syntax
+  range: S139
+  count: 1
+- code: fa-CON-B2
+  title: ''
+  theme: Grammar & syntax
+  range: S140
+  count: 1
+- code: fa-CON-B3
+  title: ''
+  theme: Grammar & syntax
+  range: S141
+  count: 1
+- code: fa-CON-C1
+  title: ''
+  theme: Grammar & syntax
+  range: S142
+  count: 1
+- code: fa-CON-C2
+  title: ''
+  theme: Grammar & syntax
+  range: S143
+  count: 1
+- code: fa-CON-C3
+  title: ''
+  theme: Grammar & syntax
+  range: S144
+  count: 1
+- code: fa-CON-C4
+  title: ''
+  theme: Grammar & syntax
+  range: S145
+  count: 1
+- code: fa-CON-D1
+  title: ''
+  theme: Grammar & syntax
+  range: S146
+  count: 1
+- code: fa-CON-D2
+  title: ''
+  theme: Grammar & syntax
+  range: S147
+  count: 1
+- code: fa-CON-E1
+  title: ''
+  theme: Grammar & syntax
+  range: S148
+  count: 1
+- code: fa-CON-E2
+  title: ''
+  theme: Grammar & syntax
+  range: S149
+  count: 1
+- code: fa-CON-F1
+  title: ''
+  theme: Grammar & syntax
+  range: S150
+  count: 1
+- code: fa-CON-F2
+  title: ''
+  theme: Grammar & syntax
+  range: S151
+  count: 1
+- code: fa-CON-F3
+  title: ''
+  theme: Grammar & syntax
+  range: S152
+  count: 1
+- code: fa-CON-F4
+  title: ''
+  theme: Grammar & syntax
+  range: S153
+  count: 1
+- code: fa-CON-F5
+  title: ''
+  theme: Grammar & syntax
+  range: S154
+  count: 1
+- code: MG-001
+  title: ''
+  theme: Grammar & syntax
+  range: S158–S161
+  count: 4
+- code: P-GP-001
+  title: ''
+  theme: Grammar & syntax
+  range: S162–S165
+  count: 3
+- code: P-GP-002
+  title: ''
+  theme: Grammar & syntax
+  range: S166–S168
+  count: 3
+- code: P-GP-003
+  title: ''
+  theme: Grammar & syntax
+  range: S169–S171
+  count: 3
+- code: SA-001
+  title: ''
+  theme: Grammar & syntax
+  range: S172–S175
+  count: 4
+- code: OPX-001
+  title: ''
+  theme: Grammar & syntax
+  range: S176–S179
+  count: 4
+- code: IPX-001
+  title: ''
+  theme: Grammar & syntax
+  range: S180–S181
+  count: 2
+- code: MMP-001
+  title: ''
+  theme: Theology & philosophy
+  range: S182–S185
+  count: 4
+- code: PMS-001
+  title: ''
+  theme: Grammar & syntax
+  range: S186–S189
+  count: 4
+- code: KNM-001
+  title: ''
+  theme: Domains
+  range: S195–S201
+  count: 7
+- code: KNM-002
+  title: ''
+  theme: Domains
+  range: S202–S207
+  count: 6
+- code: ODL-001
+  title: ''
+  theme: Domains
+  range: S208–S227
+  count: 20
+- code: GEO-001
+  title: ''
+  theme: Domains
+  range: S228–S237
+  count: 10
+- code: NUM-001
+  title: ''
+  theme: Domains
+  range: S238–S251
+  count: 14
+- code: KNM-003
+  title: ''
+  theme: Domains
+  range: S252–S260
+  count: 9
+- code: KNM-004
+  title: ''
+  theme: Domains
+  range: S261–S269
+  count: 9
+- code: LGL-001
+  title: ''
+  theme: Domains
+  range: S270–S278
+  count: 9
+- code: KNM-005
+  title: ''
+  theme: Domains
+  range: S279–S285
+  count: 7
+- code: PLT-001
+  title: Plant Taxonomy — First Pass (S286–S292)
+  theme: Domains
+  range: S286–S292
+  count: 7
+- code: MAT-001
+  title: Rock, Mineral, Soil — First Pass (S293–S299)
+  theme: Translation
+  range: S293–S299
+  count: 7
+- code: MAT-002
+  title: Water and Natural Features (S300–S306)
+  theme: Translation
+  range: S300–S306
+  count: 7
+- code: KNM-006
+  title: Fish and Aquatic Organisms (S307–S313)
+  theme: Domains
+  range: S307–S313
+  count: 7
+- code: KNM-007
+  title: Large Land Animals — Horse, Cattle, Deer (S314–S320)
+  theme: Domains
+  range: S314–S320
+  count: 7
+- code: KNM-008
+  title: Insects, Arachnids, and Invertebrates (S321–S327)
+  theme: Domains
+  range: S321–S327
+  count: 7
+- code: FNG-001
+  title: Fungi (S328–S334)
+  theme: Domains
+  range: S328–S334
+  count: 7
+- code: GRM-001
+  title: Grammar Exercise Batch (S335–S341)
+  theme: Grammar & syntax
+  range: S335–S341
+  count: 7
+- code: GRM-002
+  title: Interrogative Register, Tense Semantics, Symmetric Predicates, Counterfactuals (S342–S348)
+  theme: Grammar & syntax
+  range: S342–S348
+  count: 7
+- code: THO-001
+  title: Divine Attribute Stress Test (S349–S356)
+  theme: Theology & philosophy
+  range: S349–S356
+  count: 8
+- code: GOD-RES-001 / GOD-002 theological reading
+  title: ''
+  theme: Theology & philosophy
+  range: S357
+  count: 1
+- code: GOD-RES-002 / GOD-002 physical contrast
+  title: ''
+  theme: Theology & philosophy
+  range: S358
+  count: 1
+- code: GOD-RES-003 / GOD-007 nefesh candidate
+  title: ''
+  theme: Theology & philosophy
+  range: S359
+  count: 1
+- code: GOD-RES-004 / GOD-007 three-way contrast
+  title: ''
+  theme: Theology & philosophy
+  range: S360
+  count: 1
+- code: GOD-RES-005 / GOD-003 evaluation formula
+  title: ''
+  theme: Theology & philosophy
+  range: S361
+  count: 1
+- code: GOD-RES-006 / GOD-006 pa-pa-fe mitigation
+  title: ''
+  theme: Theology & philosophy
+  range: S362
+  count: 1
+- code: 'GOD-RES-007 / Sermon on the Mount preview: Matthew 5:3'
+  title: ''
+  theme: Theology & philosophy
+  range: S363
+  count: 1
+- code: FAL-001
+  title: Fallacy-Resistance Corpus
+  theme: Grammar & syntax
+  range: S364–S373
+  count: 8
+- code: FAL-001 · first `:` attestation
+  title: ''
+  theme: Grammar & syntax
+  range: S368
+  count: 1
+- code: FAL-002
+  title: Rhetorical Fallacy Corpus
+  theme: Grammar & syntax
+  range: S374–S378
+  count: 5
+- code: FAL-003
+  title: Nested Argumentation Corpus
+  theme: Grammar & syntax
+  range: S379–S383
+  count: 5
+- code: FAL-004
+  title: Political Rhetoric Corpus
+  theme: Grammar & syntax
+  range: S384–S388
+  count: 5
+- code: FAL-005
+  title: Propaganda Paragraph Corpus
+  theme: Grammar & syntax
+  range: S389–S390
+  count: 2
+- code: FAL-006
+  title: Depth-3 Hearsay Chain
+  theme: Grammar & syntax
+  range: S391–S392
+  count: 2
+- code: FAL-007
+  title: Good-Faith Political Speech
+  theme: Grammar & syntax
+  range: S393–S397
+  count: 5
+- code: EXO-001
+  title: ''
+  theme: Translation
+  range: S398–S417
+  count: 20
+- code: LSP-001
+  title: Last Supper / Eucharist Institution
+  theme: Translation
+  range: S418–S438
+  count: 21
+- code: JOH-001
+  title: John 1:1 — Identity Operator Stress Test
+  theme: Translation
+  range: S447–S449
+  count: 3
+- code: NEW-001
+  title: Newton's First Law of Motion
+  theme: Grammar & syntax
+  range: S450–S451
+  count: 2
+- code: ROM-001
+  title: Romans 7:19 — Psychological Contradiction
+  theme: Theology & philosophy
+  range: S452–S453
+  count: 2
+- code: DKN-001
+  title: A Tale of Two Cities — Opening
+  theme: Theology & philosophy
+  range: S454–S458
+  count: 5
+- code: MTH-001
+  title: Matthew 16:25 — Causal Inversion Paradox
+  theme: Grammar & syntax
+  range: S459–S460
+  count: 2
+- code: WIT-001
+  title: Wittgenstein, Tractatus Logico-Philosophicus §1
+  theme: Theology & philosophy
+  range: S461
+  count: 1
+- code: HAM-001
+  title: Shakespeare, Hamlet Act III Scene I — "To be, or not to be"
+  theme: Translation
+  range: S462–S464
+  count: 3
+- code: LPR-001
+  title: The Liar Paradox — Self-Referential Truth Stress Test
+  theme: Grammar & syntax
+  range: S465–S467
+  count: 3
+- code: BSH-001
+  title: Bashō, Frog Haiku (1686) — Kireji Stress Test
+  theme: Grammar & syntax
+  range: S468–S470
+  count: 3
+- code: EMD-001
+  title: ''
+  theme: Grammar & syntax
+  range: S471–S473
+  count: 3
+- code: TAO-001
+  title: ''
+  theme: Theology & philosophy
+  range: S474–S476
+  count: 3
+- code: SCL-001
+  title: '`;` Productivity Corpus Test'
+  theme: Grammar & syntax
+  range: S477–S488
+  count: 11
+- code: SCL-001-F — contrast with S444
+  title: ''
+  theme: Grammar & syntax
+  range: S482
+  count: 1
+- code: SCL-002
+  title: '`;` Extended Corpus Test'
+  theme: Grammar & syntax
+  range: S489–S493
+  count: 5
+- code: VPT-001
+  title: V-Particle Productivity Test
+  theme: Grammar & syntax
+  range: S494–S503
+  count: 10
+- code: VPC-001
+  title: V-Prefix Class Productivity Test
+  theme: Grammar & syntax
+  range: S504–S513
+  count: 10
+- code: EMD-002
+  title: Dickinson Dash — Prosodic Suspension Test
+  theme: Grammar & syntax
+  range: S514–S523
+  count: 10
+- code: CVP-001
+  title: CV Particle Assignment — Vocative and Attention-Signal
+  theme: Grammar & syntax
+  range: S524–S531
+  count: 8
+- code: COR-001
+  title: Correction Pivot Test
+  theme: Grammar & syntax
+  range: S532–S538
+  count: 7
+- code: DEB-001
+  title: Heated Debate Corpus Test
+  theme: Grammar & syntax
+  range: S539–S548
+  count: 10
+- code: EXC-001
+  title: Exclusive Particle Test
+  theme: Grammar & syntax
+  range: S549–S558
+  count: 10
+- code: PAV-001
+  title: Agentless and Passive Clause Test
+  theme: Domains
+  range: S559–S568
+  count: 10
+- code: MED-001
+  title: Medical Differential Diagnosis Consultation
+  theme: Domains
+  range: S569–S578
+  count: 10
+- code: DIP-001
+  title: Diplomatic Treaty Negotiation
+  theme: Grammar & syntax
+  range: S579–S587
+  count: 9

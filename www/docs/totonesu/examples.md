@@ -140,3 +140,78 @@ Left-to-right: `ka` marks the act as intentional; `no` negates/removes; `de-su` 
 **Stability across contexts** — a good compound reads the same way whether it appears alone or embedded in a longer sentence.
 
 When a compound needs restructuring to be clear, the first tool is `'`. If `'` alone is insufficient, the concept probably wants to be a multi-word phrase rather than a single compound.
+
+For the full rules on right-branching, `'` juncture, and derivational suffixes, see [Building words](../tonesu/words.md).
+
+---
+
+## Sentence walkthroughs
+
+The worked examples above show how individual words are built. The walkthroughs below show the grammar working in full sentences — parse breakdowns that reveal how slots, particles, and compounds interact.
+
+For the complete corpus (575+ sentences), see the [Corpus](../tonesu/corpus/).
+
+---
+
+### S001 — Basic agent-action-patient
+
+```
+la-li  ka-be  lo-mu
+```
+*The person builds the object.*
+
+| Element | Parse |
+|---------|-------|
+| `la-li` | agent: person |
+| `ka-be` | action: growth/construction |
+| `lo-mu` | patient: artifact |
+
+---
+
+### S017 — Purpose clause
+
+```
+la-ze  lo-si  ka-sikipast  wi [ka-fesi  ne-yu]
+```
+*She sent the message to warn them.*
+
+| Element | Parse |
+|---------|-------|
+| `la-ze` | agent: she / they (3rd person) |
+| `lo-si` | patient: the signal / message |
+| `ka-sikipast` | action: transmitted (past) — `si-ki` = signal-motion |
+| `wi [...]` | purpose frame: in order to... |
+| `ka-fesi  ne-yu` | warn (`fe-si` = boundary-signal) them |
+
+The `wi` frame introduces a purpose clause. The `[...]` brackets are an aside — they could be omitted and the core sentence would still be grammatical.
+
+---
+
+### S018 — Studying to comprehend
+
+```
+la-yu  ka-to-ki  wi [ka-to-su-ki]
+```
+*They study in order to comprehend.*
+
+- `to-ki` = knowledge-change = the process of reasoning, studying
+- `to-su-ki` = entering a state of organised knowledge = comprehension (the threshold moment)
+- The distinction: `to-ki` is the ongoing activity; `to-su-ki` is the moment it crosses into understanding
+
+---
+
+### S033 — Contingent state
+
+```
+lo-pa  ha-vo
+```
+*The room is warm.*
+
+`lo-` places `pa` (room) in the patient slot — a contingent current state. The room *is warm right now*; it could cool down. Compare with the intrinsic property form:
+
+```
+la-pa  ha-vo
+```
+*The room has warmth as a property.* (structural — built to be warm)
+
+Same words, different claim. See [Grammar](../tonesu/grammar.md) for the full `la-X` / `lo-X` distinction.

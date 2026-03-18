@@ -1,6 +1,6 @@
 # Totonesu
 
-*to-tonesu* — knowledge of Tonesu in use. This section is the language working: sentences, constructions, experiments.
+*to-tonesu* — knowledge of Tonesu in use. This section is the language working: constructions, experiments, walkthroughs.
 
 Everything here is attested — drawn from the corpus or built as a deliberate probe of how the grammar and vocabulary behave under real communicative pressure.
 
@@ -8,6 +8,10 @@ Everything here is attested — drawn from the corpus or built as a deliberate p
 
 ## In this section
 
-- **[Corpus](corpus/index.md)** — numbered sentences with full parse breakdowns; the canonical body of attested Tonesu
-- **[Worked examples](examples.md)** — specific concepts traced from idea to compound, with reasoning
+- **[Worked examples](examples.md)** — specific concepts traced from idea to compound, plus sentence walkthroughs with full parse breakdowns
 - **[Sandbox](sandbox.md)** — exploratory assemblies: unregistered compounds, structural experiments, provisional forms
+
+## Reference
+
+- **[Corpus](../tonesu/corpus/)** — the full sentence corpus (575+ sentences), organized by theme and batch
+- **[Building words](../tonesu/words.md)** — the rules behind compound construction

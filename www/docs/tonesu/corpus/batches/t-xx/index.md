@@ -1,0 +1,50 @@
+---
+title: "T-XX"
+---
+
+# T-XX
+
+5 sentences.
+
+[← Corpus](../../index.md)
+
+---
+
+## T-XX-001 · 
+
+<span id="S040"></span>
+**S040**
+`lo-to-fe-su  to-to-su`
+*The standards framework is a system of meta-concepts.*
+
+## T-XX-002 · 
+
+<span id="S041"></span>
+**S041**
+`lo-ne-su  su-su`
+*A network is a meta-structure / has an architectural form.*
+
+## T-XX-003 · 
+
+<span id="S042"></span>
+**S042**
+`la-ka-ki  wi  ka-ka`
+*Operations require procedure / protocol.*
+
+## T-XX-004 · 
+
+<span id="S043"></span>
+**S043**
+`la-si-mu  ka  se-se`
+*The relay device performs sensor self-monitoring.*
+
+## T-XX-005 · 
+
+<span id="S044"></span>
+**S044**
+`lo-ki-ne  ne-ne`
+*The transit grid has a topological structure.*
+
+---
+
+*Generated from [`registry/entries.yaml`](https://github.com/Arakendo/Tonesu/blob/main/registry/entries.yaml).*

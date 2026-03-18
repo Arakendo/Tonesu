@@ -14,4 +14,4 @@ If you are new here, start with [Sounds](sounds.md) and [Grammar](grammar.md).
 - **[Notation](notation.md)** — the written marks: `~`, `'`, `()`, `::`, `;`, and others
 - **[Primitives](primitives.md)** — the 34 foundational roots: the conceptual atoms of the language
 - **[Registry](registry/index.md)** — registered derived forms: the growing vocabulary built from primitives
-- **[Corpus](corpus.md)** — all attested sentences and conversations, browsable with per-sentence anchors
+- **[Corpus](corpus/)** — all attested sentences and conversations, organized by theme and batch

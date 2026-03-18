@@ -24,12 +24,18 @@ nav:
     - Notation: tonesu/notation.md
     - Primitives: tonesu/primitives.md
     - Registry: tonesu/registry/index.md
-    - Corpus: tonesu/corpus.md
+    - Corpus:
+      - tonesu/corpus/index.md
+      - Foundations: tonesu/corpus/foundations/index.md
+      - Grammar & syntax: tonesu/corpus/grammar/index.md
+      - Domains: tonesu/corpus/domains/index.md
+      - Theology & philosophy: tonesu/corpus/theology/index.md
+      - Translation: tonesu/corpus/translation/index.md
+      - Conversations: tonesu/corpus/conversations/index.md
   - Totonesu:
     - Overview: totonesu/index.md
     - Worked examples: totonesu/examples.md
     - Sandbox: totonesu/sandbox.md
-    - Sentences: totonesu/corpus/sentences.md
   - To'tonesu:
     - Overview: to-tonesu/index.md
     - Patterns: to-tonesu/patterns.md

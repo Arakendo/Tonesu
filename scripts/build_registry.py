@@ -8,7 +8,10 @@ Reads registry/entries.yaml and generates:
   www/docs/tonesu/registry/by-domain.md  -- semantic groupings
   www/docs/tonesu/registry/by-root.md    -- root families
   www/docs/tonesu/registry/words/W***.md -- one detail page per entry
-  www/docs/tonesu/corpus.md              -- sentence + conversation corpus
+  www/docs/tonesu/corpus/index.md        -- corpus master index
+  www/docs/tonesu/corpus/{theme}/        -- theme index pages
+  www/docs/tonesu/corpus/batches/{slug}/ -- batch detail pages
+  www/docs/tonesu/corpus/conversations/  -- conversation corpus
 
 Run:   python scripts/build_registry.py
        (from repo root)
@@ -25,10 +28,12 @@ REPO          = Path(__file__).resolve().parent.parent
 ENTRIES       = REPO / "registry" / "entries.yaml"
 PRIMITIVES    = REPO / "registry" / "primitives.yaml"
 SENTENCES     = REPO / "corpus" / "sentences.yaml"
+BATCHES       = REPO / "corpus" / "batches.yaml"
 CONVERSATIONS = REPO / "corpus" / "conversations.yaml"
 OUT_DIR       = REPO / "www" / "docs" / "tonesu" / "registry"
 WORD_DIR      = OUT_DIR / "words"
-CORPUS_PAGE   = REPO / "www" / "docs" / "tonesu" / "corpus.md"
+CORPUS_DIR    = REPO / "www" / "docs" / "tonesu" / "corpus"
+BATCH_DIR     = CORPUS_DIR / "batches"
 DATA_JSON     = REPO / "www" / "docs" / "js" / "tonesu-data.json"
 
 NOTE = (
@@ -144,9 +149,67 @@ def build_turn_lookup(conv_data: dict | None) -> dict:
     return lookup
 
 
-def _corpus_link(id_str: str) -> str:
-    """Wrap a corpus id in a markdown link to corpus.md (relative from registry/)."""
-    return f"[{id_str}](../corpus.md#{id_str})"
+def load_batches() -> list:
+    """Load corpus/batches.yaml; return empty list if not found."""
+    if not BATCHES.exists():
+        return []
+    data = yaml.safe_load(BATCHES.read_text(encoding="utf-8"))
+    return data.get("batches", [])
+
+
+def batch_page_key(code: str) -> str:
+    """Normalize a batch code to a page-level filename key.
+
+    Multiple related batches (e.g. FAL-001 through FAL-007) share one page
+    keyed by prefix.  Special compound codes get explicit mappings.
+    """
+    if not code:
+        return "_foundations"
+    if code.startswith("GOD-RES"):
+        return "GOD-RES"
+    if code.startswith("SCL-001"):
+        return "SCL"
+    if code.startswith("FAL-001"):
+        return "FAL"
+    if code.startswith("fa-CON"):
+        return "fa-CON"
+    if code.startswith("Hidden"):
+        return "Hidden"
+    if code.startswith("T-WIT"):
+        return "T-WIT"
+    # T-XX-NNN → T-XX
+    m = re.match(r"^(T-[A-Z]+)-\d+", code)
+    if m:
+        return m.group(1)
+    # CODE-NNN → CODE
+    m = re.match(r"^([A-Z]+)-\d+", code)
+    if m:
+        return m.group(1)
+    # P-GP-NNN
+    m = re.match(r"^(P-GP)-\d+", code)
+    if m:
+        return m.group(1)
+    # P001..P004 → P
+    m = re.match(r"^P\d+", code)
+    if m:
+        return "P"
+    # T021..T025 → T
+    m = re.match(r"^T\d+", code)
+    if m:
+        return "T"
+    return code
+
+
+def _batch_page_slug(page_key: str) -> str:
+    """Convert a page key to a URL-safe slug for the batch page filename."""
+    return page_key.lower().replace(" ", "-")
+
+
+def _corpus_link_from_registry(id_str: str, batch_code: str = "") -> str:
+    """Build a corpus link relative from registry/words/ → corpus/batches/."""
+    slug = _batch_page_slug(batch_page_key(batch_code))
+    return f"[{id_str}](../../corpus/batches/{slug}/#{id_str})"
+
 
 
 def visible(entry: dict) -> bool:
@@ -237,7 +300,11 @@ def build_english_index(entries: list) -> list:
 # Page generators
 # ---------------------------------------------------------------------------
 
-def generate_index_page(entries: list, attest_index: dict | None = None) -> str:
+def generate_index_page(
+    entries: list,
+    attest_index: dict | None = None,
+    sentence_batch_map: dict | None = None,
+) -> str:
     if attest_index is None:
         attest_index = {}
     has_attestations = bool(attest_index)
@@ -273,7 +340,11 @@ def generate_index_page(entries: list, attest_index: dict | None = None) -> str:
         wlink  = f"[{wnum}](words/{wnum}.md)"
         if has_attestations:
             snums = attest_index.get(wnum, [])
-            corpus_cell = " · ".join(_corpus_link(i) for i in snums) if snums else "—"
+            def _idx_link(sn: str) -> str:
+                bc = (sentence_batch_map or {}).get(sn, "")
+                slug = _batch_page_slug(batch_page_key(bc))
+                return f"[{sn}](../corpus/batches/{slug}/#{sn})"
+            corpus_cell = " · ".join(_idx_link(i) for i in snums) if snums else "—"
             lines.append(
                 f'| `{e["form"]}` | {written(e["form"])} | {wlink} '
                 f'| {e["gloss"]} | {emoji} | {corpus_cell} |'
@@ -372,6 +443,7 @@ def generate_word_page(
     attest_index: dict,
     sentence_lookup: dict,
     turn_lookup: dict,
+    sentence_batch_map: dict | None = None,
 ) -> str:
     wnum  = entry["wnum"]
     form  = entry["form"]
@@ -407,9 +479,11 @@ def generate_word_page(
         fu_m = re.match(r"(S\d+|C\d+-\w+)", first_use_raw)
         if fu_m:
             fu_id = fu_m.group(1)
+            fu_batch = (sentence_batch_map or {}).get(fu_id, "")
+            fu_link = _corpus_link_from_registry(fu_id, fu_batch)
             fu_display = re.sub(
                 r"^(S\d+|C\d+-\w+)",
-                f"[{fu_id}](../../corpus.md#{fu_id})",
+                fu_link,
                 first_use_raw,
                 count=1,
             )
@@ -449,14 +523,16 @@ def generate_word_page(
         ]
         for snum in snums:
             item = sentence_lookup.get(snum) or turn_lookup.get(snum)
+            s_batch = (sentence_batch_map or {}).get(snum, "")
+            s_link = _corpus_link_from_registry(snum, s_batch)
             if item:
                 tonesu  = (item.get("tonesu") or "").replace("\n", " / ")
                 natural = (item.get("natural") or "").replace("\n", " / ")
                 lines.append(
-                    f"| [{snum}](../../corpus.md#{snum}) | `{tonesu}` | {natural} |"
+                    f"| {s_link} | `{tonesu}` | {natural} |"
                 )
             else:
-                lines.append(f"| [{snum}](../../corpus.md#{snum}) | | |")
+                lines.append(f"| {s_link} | | |")
         lines.append("")
 
     lines += ["---", "", NOTE]
@@ -514,10 +590,37 @@ def batch_to_theme(batch: str | None) -> str:
     return "Foundations"
 
 
-def generate_corpus_page(sentences: list, conv_data: dict | None) -> str:
+def _group_sentences_by_page(sentences: list) -> dict[str, list]:
+    """Group sentences by their batch page key."""
+    groups: dict[str, list] = defaultdict(list)
+    for sent in sentences:
+        key = batch_page_key(sent.get("batch") or "")
+        groups[key].append(sent)
+    return dict(groups)
+
+
+def _group_batches_by_page(batches: list) -> dict[str, list]:
+    """Group batch metadata entries by their page key."""
+    groups: dict[str, list] = defaultdict(list)
+    for b in batches:
+        key = batch_page_key(b.get("code", ""))
+        groups[key].append(b)
+    return dict(groups)
+
+
+def generate_corpus_index(sentences: list, conv_data: dict | None, page_groups: dict) -> str:
+    """Master corpus index page with theme summaries and links."""
     convs = (conv_data or {}).get("conversations", [])
     n_turns = sum(len(c.get("turns", [])) for c in convs)
     n_sents = len(sentences)
+
+    # Build per-theme stats
+    theme_stats: dict[str, dict] = {t: {"sents": 0, "pages": set()} for t in THEME_ORDER}
+    for sent in sentences:
+        theme = batch_to_theme(sent.get("batch"))
+        key = batch_page_key(sent.get("batch") or "")
+        theme_stats[theme]["sents"] += 1
+        theme_stats[theme]["pages"].add(key)
 
     lines = [
         "---",
@@ -526,36 +629,142 @@ def generate_corpus_page(sentences: list, conv_data: dict | None) -> str:
         "",
         "# Corpus",
         "",
-        f"{n_sents} sentences · {n_turns} conversation turns.",
+        f"{n_sents} sentences · {n_turns} conversation turns · "
+        f"{len(page_groups)} batch pages.",
+        "",
+        NOTE,
+        "",
+        "---",
+        "",
+        "## Themes",
+        "",
+        "| Theme | Sentences | Pages |",
+        "|-------|-----------|-------|",
+    ]
+    theme_slugs = {
+        "Foundations": "foundations",
+        "Grammar & syntax": "grammar",
+        "Domains": "domains",
+        "Theology & philosophy": "theology",
+        "Translation": "translation",
+    }
+    for theme in THEME_ORDER:
+        s = theme_stats[theme]
+        slug = theme_slugs[theme]
+        lines.append(f"| [{theme}]({slug}/) | {s['sents']} | {len(s['pages'])} |")
+
+    lines += [
+        "",
+        f"[Conversations](conversations/) — {n_turns} turns",
+        "",
+    ]
+    return "\n".join(lines)
+
+
+def generate_theme_page(
+    theme: str,
+    sentences: list,
+    page_groups: dict,
+    batch_meta: dict[str, list],
+) -> str:
+    """Generate a theme index page listing all batch groups in the theme."""
+    theme_sents = [s for s in sentences if batch_to_theme(s.get("batch")) == theme]
+
+    lines = [
+        "---",
+        f"title: \"{theme}\"",
+        "---",
+        "",
+        f"# {theme}",
+        "",
+        f"{len(theme_sents)} sentences.",
+        "",
+        "[← Corpus](../index.md)",
+        "",
+        "---",
+        "",
+        "| Batch group | Batches | Sentences | Link |",
+        "|-------------|---------|-----------|------|",
+    ]
+
+    # Collect page keys that belong to this theme
+    theme_keys: list[str] = []
+    for sent in theme_sents:
+        key = batch_page_key(sent.get("batch") or "")
+        if key not in theme_keys:
+            theme_keys.append(key)
+
+    for key in theme_keys:
+        slug = _batch_page_slug(key)
+        group_sents = page_groups.get(key, [])
+        group_batches = batch_meta.get(key, [])
+        n_batches = len(group_batches) if group_batches else 1
+        title = key
+        if group_batches and group_batches[0].get("title"):
+            title = group_batches[0]["title"]
+        lines.append(
+            f"| {title} | {n_batches} | {len(group_sents)} | "
+            f"[→ batches/{slug}](../batches/{slug}/) |"
+        )
+
+    lines += ["", "---", "", NOTE]
+    return "\n".join(lines)
+
+
+def generate_batch_page(
+    page_key: str,
+    sents: list,
+    batch_meta_list: list,
+) -> str:
+    """Generate a batch detail page showing all sentences for a page-key group."""
+    slug = _batch_page_slug(page_key)
+    title = page_key
+    if batch_meta_list and batch_meta_list[0].get("title"):
+        title = batch_meta_list[0]["title"]
+
+    lines = [
+        "---",
+        f"title: \"{title}\"",
+        "---",
+        "",
+        f"# {title}",
+        "",
+        f"{len(sents)} sentences.",
+        "",
+        "[← Corpus](../../index.md)",
         "",
         "---",
         "",
     ]
 
-    # Group sentences by theme, preserving S-number order within each group
-    groups: dict[str, list] = {t: [] for t in THEME_ORDER}
-    for sent in sentences:
-        theme = batch_to_theme(sent.get("batch"))
-        groups[theme].append(sent)
+    # Sub-group by individual batch code for ordering
+    batch_groups: dict[str, list] = {}
+    for sent in sents:
+        bc = sent.get("batch") or ""
+        batch_groups.setdefault(bc, []).append(sent)
 
-    for theme in THEME_ORDER:
-        theme_sents = groups[theme]
-        if not theme_sents:
-            continue
-        lines += [f"## {theme}", ""]
+    for bc, bc_sents in batch_groups.items():
+        # Find batch metadata
+        bm = None
+        for b in batch_meta_list:
+            if b.get("code") == bc:
+                bm = b
+                break
+        batch_title = bm.get("title", bc) if bm else bc
+        if bc:
+            lines += [f"## {bc} · {batch_title}", ""]
+        else:
+            lines += ["## Unbatched", ""]
 
-        for sent in theme_sents:
+        for sent in bc_sents:
             snum = sent.get("snum", "")
             tonesu_lines = (sent.get("tonesu") or "").split("\n")
             natural = sent.get("natural") or ""
-            batch = sent.get("batch") or ""
             status = sent.get("status", "")
 
             lines.append(f'<span id="{snum}"></span>')
 
             label_parts = [f"**{snum}**"]
-            if batch:
-                label_parts.append(batch)
             if status == "legacy":
                 label_parts.append("*legacy*")
             lines.append(" · ".join(label_parts))
@@ -570,39 +779,61 @@ def generate_corpus_page(sentences: list, conv_data: dict | None) -> str:
 
             lines.append("")
 
-    if convs:
-        lines += ["---", "", "## Conversations", ""]
-        for conv in convs:
-            cnum = conv.get("cnum", "")
-            gloss = conv.get("gloss", "")
-            scene = conv.get("scene", "")
+    lines += ["---", "", NOTE]
+    return "\n".join(lines)
 
-            lines += [
-                f'<span id="{cnum}"></span>',
-                f"### {cnum} · {gloss}",
-                "",
-            ]
-            if scene:
-                lines += [f"*{scene}*", ""]
 
-            for turn in conv.get("turns", []):
-                turn_label = turn.get("turn", "")
-                turn_id = f"{cnum}-{turn_label}"
-                turn_tonesu = (turn.get("tonesu") or "").split("\n")
-                turn_natural = turn.get("natural") or ""
+def generate_conversations_page(conv_data: dict | None) -> str:
+    """Generate a standalone page for conversation corpus."""
+    convs = (conv_data or {}).get("conversations", [])
+    n_turns = sum(len(c.get("turns", [])) for c in convs)
 
-                lines.append(f'<span id="{turn_id}"></span>')
-                lines.append(f"**{turn_label}**")
+    lines = [
+        "---",
+        "title: Conversations",
+        "---",
+        "",
+        "# Conversations",
+        "",
+        f"{len(convs)} conversations · {n_turns} turns.",
+        "",
+        "[← Corpus](../index.md)",
+        "",
+        "---",
+        "",
+    ]
 
-                for t in turn_tonesu:
-                    t = t.strip()
-                    if t:
-                        lines.append(f"`{t}`")
+    for conv in convs:
+        cnum = conv.get("cnum", "")
+        gloss = conv.get("gloss", "")
+        scene = conv.get("scene", "")
 
-                if turn_natural:
-                    lines.append(f"*{turn_natural.replace(chr(10), '<br>')}*")
+        lines += [
+            f'<span id="{cnum}"></span>',
+            f"## {cnum} · {gloss}",
+            "",
+        ]
+        if scene:
+            lines += [f"*{scene}*", ""]
 
-                lines.append("")
+        for turn in conv.get("turns", []):
+            turn_label = turn.get("turn", "")
+            turn_id = f"{cnum}-{turn_label}"
+            turn_tonesu = (turn.get("tonesu") or "").split("\n")
+            turn_natural = turn.get("natural") or ""
+
+            lines.append(f'<span id="{turn_id}"></span>')
+            lines.append(f"**{turn_label}**")
+
+            for t in turn_tonesu:
+                t = t.strip()
+                if t:
+                    lines.append(f"`{t}`")
+
+            if turn_natural:
+                lines.append(f"*{turn_natural.replace(chr(10), '<br>')}*")
+
+            lines.append("")
 
     lines += ["---", "", NOTE]
     return "\n".join(lines)
@@ -618,6 +849,7 @@ def main():
     sentences     = load_sentences()
     conv_turns    = load_conversations()
     conv_data     = load_conv_data()
+    batches_data  = load_batches()
     attest_index  = build_attestation_index(sentences, conv_turns)
     domain_groups = build_domain_groups(entries)
     root_families = build_root_families(entries)
@@ -625,22 +857,85 @@ def main():
     sent_lookup   = build_sentence_lookup(sentences)
     turn_lookup   = build_turn_lookup(conv_data)
 
+    # Build sentence → batch map for cross-links
+    sentence_batch_map: dict[str, str] = {}
+    for sent in sentences:
+        snum = sent.get("snum", "")
+        if snum:
+            sentence_batch_map[snum] = sent.get("batch") or ""
+    # Include conversation turns
+    for conv in (conv_data or {}).get("conversations", []):
+        cnum = conv.get("cnum", "")
+        for turn in conv.get("turns", []):
+            turn_id = f"{cnum}-{turn.get('turn', '')}"
+            sentence_batch_map[turn_id] = ""
+
+    # Group sentences and batch metadata by page key
+    page_groups = _group_sentences_by_page(sentences)
+    batch_meta  = _group_batches_by_page(batches_data)
+
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     WORD_DIR.mkdir(parents=True, exist_ok=True)
+    CORPUS_DIR.mkdir(parents=True, exist_ok=True)
+    BATCH_DIR.mkdir(parents=True, exist_ok=True)
 
-    (OUT_DIR / "index.md").write_text(generate_index_page(entries, attest_index), encoding="utf-8")
+    # --- Registry pages ---
+    (OUT_DIR / "index.md").write_text(generate_index_page(entries, attest_index, sentence_batch_map), encoding="utf-8")
     (OUT_DIR / "english.md").write_text(generate_english_page(english_rows), encoding="utf-8")
     (OUT_DIR / "by-domain.md").write_text(generate_by_domain_page(domain_groups), encoding="utf-8")
     (OUT_DIR / "by-root.md").write_text(generate_by_root_page(root_families), encoding="utf-8")
-    CORPUS_PAGE.write_text(generate_corpus_page(sentences, conv_data), encoding="utf-8")
+
+    # --- Corpus: master index ---
+    (CORPUS_DIR / "index.md").write_text(
+        generate_corpus_index(sentences, conv_data, page_groups), encoding="utf-8"
+    )
+
+    # --- Corpus: theme pages ---
+    theme_slugs = {
+        "Foundations": "foundations",
+        "Grammar & syntax": "grammar",
+        "Domains": "domains",
+        "Theology & philosophy": "theology",
+        "Translation": "translation",
+    }
+    for theme in THEME_ORDER:
+        slug = theme_slugs[theme]
+        theme_dir = CORPUS_DIR / slug
+        theme_dir.mkdir(parents=True, exist_ok=True)
+        (theme_dir / "index.md").write_text(
+            generate_theme_page(theme, sentences, page_groups, batch_meta),
+            encoding="utf-8",
+        )
+
+    # --- Corpus: batch pages ---
+    batch_page_count = 0
+    for page_key, sents in page_groups.items():
+        slug = _batch_page_slug(page_key)
+        page_dir = BATCH_DIR / slug
+        page_dir.mkdir(parents=True, exist_ok=True)
+        meta_list = batch_meta.get(page_key, [])
+        (page_dir / "index.md").write_text(
+            generate_batch_page(page_key, sents, meta_list), encoding="utf-8"
+        )
+        batch_page_count += 1
+
+    # --- Corpus: conversations ---
+    conv_dir = CORPUS_DIR / "conversations"
+    conv_dir.mkdir(parents=True, exist_ok=True)
+    (conv_dir / "index.md").write_text(
+        generate_conversations_page(conv_data), encoding="utf-8"
+    )
 
     emit_data_json(entries, primitives)
 
+    # --- Word detail pages ---
     word_pages = 0
     for entry in entries:
         if not visible(entry):
             continue
-        page_text = generate_word_page(entry, attest_index, sent_lookup, turn_lookup)
+        page_text = generate_word_page(
+            entry, attest_index, sent_lookup, turn_lookup, sentence_batch_map
+        )
         (WORD_DIR / f"{entry['wnum']}.md").write_text(page_text, encoding="utf-8")
         word_pages += 1
 
@@ -652,7 +947,9 @@ def main():
     print(f"  english.md  : {len(english_rows)} English terms")
     print(f"  by-domain.md: {len(domain_groups)} domains")
     print(f"  by-root.md  : {len(root_families)} root families")
-    print(f"  corpus.md   : {len(sentences)} sentences · {n_conv_turns} conversation turns")
+    print(f"  corpus/     : {len(sentences)} sentences · {n_conv_turns} conversation turns")
+    print(f"    themes    : {len(THEME_ORDER)} theme pages")
+    print(f"    batches   : {batch_page_count} batch pages")
     print(f"  words/      : {word_pages} detail pages")
     if conv_turns:
         conv_attested = sum(1 for t in conv_turns if t.get("words_attested"))

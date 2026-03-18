@@ -10,7 +10,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S001
   notes: null
 - snum: S002
@@ -24,7 +24,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S002
   notes: null
 - snum: S003
@@ -38,7 +38,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S003
   notes: null
 - snum: S004
@@ -52,7 +52,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S004
   notes: null
 - snum: S005
@@ -66,7 +66,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S005
   notes: null
 - snum: S006
@@ -80,7 +80,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S006
   notes: null
 - snum: S010
@@ -98,7 +98,7 @@ sentences:
   - W003
   - W010
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S010
   notes: null
 - snum: S011
@@ -112,7 +112,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S011
   notes: null
 - snum: S012
@@ -126,7 +126,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S012
   notes: null
 - snum: S013
@@ -140,7 +140,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S013
   notes: null
 - snum: S014
@@ -158,7 +158,7 @@ sentences:
   - W067
   - W148
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S014
   notes: null
 - snum: S015
@@ -172,7 +172,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S015
   notes: null
 - snum: S016
@@ -186,7 +186,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S016
   notes: null
 - snum: S017
@@ -200,7 +200,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S017
   notes: null
 - snum: S018
@@ -214,7 +214,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S018
   notes: null
 - snum: S019
@@ -228,7 +228,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S019
   notes: null
 - snum: S020
@@ -244,7 +244,7 @@ sentences:
   first_attests:
   - W033
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S020
   notes: null
 - snum: S021
@@ -260,7 +260,7 @@ sentences:
   first_attests:
   - W163
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S021
   notes: null
 - snum: S022
@@ -274,7 +274,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S022
   notes: null
 - snum: S023
@@ -290,7 +290,7 @@ sentences:
   first_attests:
   - W011
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S023
   notes: null
 - snum: S024
@@ -304,7 +304,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S024
   notes: null
 - snum: S025
@@ -320,7 +320,7 @@ sentences:
   first_attests:
   - W002
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S025
   notes: null
 - snum: S026
@@ -334,7 +334,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S026
   notes: null
 - snum: S027
@@ -348,7 +348,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S027
   notes: null
 - snum: S028
@@ -364,7 +364,7 @@ sentences:
   first_attests:
   - W038
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S028
   notes: null
 - snum: S029
@@ -378,7 +378,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S029
   notes: null
 - snum: S030
@@ -393,7 +393,7 @@ sentences:
   - W010
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S030
   notes: null
 - snum: S031
@@ -407,7 +407,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S031
   notes: null
 - snum: S032
@@ -421,7 +421,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S032
   notes: null
 - snum: S033
@@ -435,7 +435,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S033
   notes: null
 - snum: S034
@@ -451,7 +451,7 @@ sentences:
   first_attests:
   - W012
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S034
   notes: null
 - snum: S035
@@ -465,7 +465,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S035
   notes: null
 - snum: S036
@@ -479,7 +479,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S036
   notes: null
 - snum: S037
@@ -493,7 +493,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S037
   notes: null
 - snum: S038
@@ -509,7 +509,7 @@ sentences:
   - W012
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S038
   notes: null
 - snum: S039
@@ -523,7 +523,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S039
   notes: null
 - snum: S040
@@ -539,7 +539,7 @@ sentences:
   first_attests:
   - W072
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S040
   notes: null
 - snum: S041
@@ -555,7 +555,7 @@ sentences:
   first_attests:
   - W031
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S041
   notes: null
 - snum: S042
@@ -569,7 +569,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S042
   notes: null
 - snum: S043
@@ -585,7 +585,7 @@ sentences:
   first_attests:
   - W039
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S043
   notes: null
 - snum: S044
@@ -601,7 +601,7 @@ sentences:
   first_attests:
   - W152
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S044
   notes: null
 - snum: S045
@@ -617,7 +617,7 @@ sentences:
   first_attests:
   - W032
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S045
   notes: null
 - snum: S046
@@ -634,7 +634,7 @@ sentences:
   - W003
   first_attests: []
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S046
   notes: null
 - snum: S056
@@ -648,7 +648,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S056
   notes: null
 - snum: S057
@@ -663,7 +663,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S057
   notes: null
 - snum: S058
@@ -681,7 +681,7 @@ sentences:
   first_attests:
   - W042
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S058
   notes: null
 - snum: S059
@@ -699,7 +699,7 @@ sentences:
   first_attests:
   - W043
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S059
   notes: null
 - snum: S060
@@ -716,7 +716,7 @@ sentences:
   first_attests:
   - W044
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S060
   notes: null
 - snum: S061
@@ -733,7 +733,7 @@ sentences:
   first_attests:
   - W036
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S061
   notes: null
 - snum: S062
@@ -750,7 +750,7 @@ sentences:
   first_attests:
   - W045
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S062
   notes: null
 - snum: S063
@@ -769,7 +769,7 @@ sentences:
   - W046
   - W075
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S063
   notes: null
 - snum: S064
@@ -787,7 +787,7 @@ sentences:
   - W048
   - W049
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S064
   notes: null
 - snum: S065
@@ -803,7 +803,7 @@ sentences:
   first_attests:
   - W050
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S065
   notes: null
 - snum: S066
@@ -820,7 +820,7 @@ sentences:
   first_attests:
   - W051
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S066
   notes: null
 - snum: S067
@@ -838,7 +838,7 @@ sentences:
   - W070
   - W071
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S067
   notes: null
 - snum: S068
@@ -854,7 +854,7 @@ sentences:
   first_attests:
   - W052
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S068
   notes: null
 - snum: S069
@@ -869,7 +869,7 @@ sentences:
   - W067
   first_attests: []
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S069
   notes: null
 - snum: S070
@@ -884,7 +884,7 @@ sentences:
   - W067
   first_attests: []
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S070
   notes: null
 - snum: S071
@@ -900,7 +900,7 @@ sentences:
   first_attests:
   - W047
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S071
   notes: null
 - snum: S072
@@ -916,7 +916,7 @@ sentences:
   first_attests:
   - W053
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S072
   notes: null
 - snum: S073
@@ -934,7 +934,7 @@ sentences:
   - W054
   - W055
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S073
   notes: null
 - snum: S074
@@ -950,7 +950,7 @@ sentences:
   first_attests:
   - W060
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S074
   notes: null
 - snum: S075
@@ -964,7 +964,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S075
   notes: null
 - snum: S076
@@ -982,7 +982,7 @@ sentences:
   - W023
   - W057
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S076
   notes: null
 - snum: S077
@@ -998,7 +998,7 @@ sentences:
   first_attests:
   - W056
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S077
   notes: null
 - snum: S078
@@ -1016,7 +1016,7 @@ sentences:
   - W061
   - W062
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S078
   notes: null
 - snum: S079
@@ -1030,7 +1030,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S079
   notes: null
 - snum: S080
@@ -1046,7 +1046,7 @@ sentences:
   first_attests:
   - W064
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S080
   notes: null
 - snum: S081
@@ -1063,7 +1063,7 @@ sentences:
   first_attests:
   - W065
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S081
   notes: null
 - snum: S082
@@ -1078,7 +1078,7 @@ sentences:
   - W023
   first_attests: []
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S082
   notes: null
 - snum: S083
@@ -1094,7 +1094,7 @@ sentences:
   first_attests:
   - W059
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S083
   notes: null
 - snum: S084
@@ -1111,7 +1111,7 @@ sentences:
   first_attests:
   - W068
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S084
   notes: null
 - snum: S085
@@ -1129,7 +1129,7 @@ sentences:
   - W066
   - W069
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S085
   notes: null
 - snum: S086
@@ -1145,7 +1145,7 @@ sentences:
   - W045
   first_attests: []
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S086
   notes: null
 - snum: S087
@@ -1161,7 +1161,7 @@ sentences:
   - W045
   first_attests: []
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S087
   notes: null
 - snum: S088
@@ -1177,7 +1177,7 @@ sentences:
   first_attests:
   - W074
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S088
   notes: null
 - snum: S089
@@ -1191,7 +1191,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S089
   notes: null
 - snum: S090
@@ -1207,7 +1207,7 @@ sentences:
   - W064
   first_attests: []
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S090
   notes: null
 - snum: S091
@@ -1224,7 +1224,7 @@ sentences:
   first_attests:
   - W001
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S091
   notes: null
 - snum: S092
@@ -1240,7 +1240,7 @@ sentences:
   first_attests:
   - W073
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S092
   notes: null
 - snum: S093
@@ -1257,7 +1257,7 @@ sentences:
   first_attests:
   - W077
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S093
   notes: null
 - snum: S094
@@ -1273,7 +1273,7 @@ sentences:
   first_attests:
   - W078
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S094
   notes: null
 - snum: S095
@@ -1289,7 +1289,7 @@ sentences:
   first_attests:
   - W079
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S095
   notes: null
 - snum: S096
@@ -1305,7 +1305,7 @@ sentences:
   - W077
   first_attests: []
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S096
   notes: null
 - snum: S097
@@ -1322,7 +1322,7 @@ sentences:
   first_attests:
   - W080
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S097
   notes: null
 - snum: S098
@@ -1338,7 +1338,7 @@ sentences:
   first_attests:
   - W081
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S098
   notes: null
 - snum: S099
@@ -1355,7 +1355,7 @@ sentences:
   - W077
   first_attests: []
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S099
   notes: null
 - snum: S100
@@ -1371,7 +1371,7 @@ sentences:
   - W077
   first_attests: []
   gap_refs: []
-  source_file: sentences/s072-s100.md
+  source_file: sentences/v2-labeled/s072-s100.md
   source_anchor: S100
   notes: null
 - snum: S101
@@ -1387,7 +1387,7 @@ sentences:
   first_attests:
   - W058
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S101
   notes: null
 - snum: S102
@@ -1403,7 +1403,7 @@ sentences:
   - W061
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S102
   notes: null
 - snum: S103
@@ -1419,7 +1419,7 @@ sentences:
   - W058
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S103
   notes: null
 - snum: S104
@@ -1436,7 +1436,7 @@ sentences:
   - W077
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S104
   notes: null
 - snum: S105
@@ -1453,7 +1453,7 @@ sentences:
   - W079
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S105
   notes: null
 - snum: S106
@@ -1469,7 +1469,7 @@ sentences:
   first_attests:
   - W098
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S106
   notes: null
 - snum: S107
@@ -1484,7 +1484,7 @@ sentences:
   - W058
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S107
   notes: null
 - snum: S108
@@ -1499,7 +1499,7 @@ sentences:
   - W039
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S108
   notes: null
 - snum: S109
@@ -1515,7 +1515,7 @@ sentences:
   first_attests:
   - W024
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S109
   notes: null
 - snum: S110
@@ -1530,7 +1530,7 @@ sentences:
   - W039
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S110
   notes: null
 - snum: S111
@@ -1544,7 +1544,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S111
   notes: null
 - snum: S112
@@ -1562,7 +1562,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S112
   notes: null
 - snum: S113
@@ -1578,7 +1578,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S113
   notes: null
 - snum: S114
@@ -1593,7 +1593,7 @@ sentences:
   - W012
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S114
   notes: null
 - snum: S115
@@ -1609,7 +1609,7 @@ sentences:
   - W012
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S115
   notes: null
 - snum: S116
@@ -1626,7 +1626,7 @@ sentences:
   first_attests:
   - W082
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S116
   notes: null
 - snum: S117
@@ -1642,7 +1642,7 @@ sentences:
   first_attests:
   - W083
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S117
   notes: null
 - snum: S118
@@ -1658,7 +1658,7 @@ sentences:
   first_attests:
   - W084
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S118
   notes: null
 - snum: S119
@@ -1674,7 +1674,7 @@ sentences:
   first_attests:
   - W085
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S119
   notes: null
 - snum: S120
@@ -1691,7 +1691,7 @@ sentences:
   first_attests:
   - W022
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S120
   notes: null
 - snum: S121
@@ -1707,7 +1707,7 @@ sentences:
   - W052
   first_attests: []
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S121
   notes: null
 - snum: S122
@@ -1722,7 +1722,7 @@ sentences:
   - W052
   first_attests: []
   gap_refs: []
-  source_file: sentences/s040-s071.md
+  source_file: sentences/v2-labeled/s040-s071.md
   source_anchor: S122
   notes: null
 - snum: S123
@@ -1741,7 +1741,7 @@ sentences:
   - W086
   - W156
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S123
   notes: null
 - snum: S124
@@ -1759,7 +1759,7 @@ sentences:
   - W156
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S124
   notes: null
 - snum: S125
@@ -1778,7 +1778,7 @@ sentences:
   first_attests:
   - W041
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S125
   notes: null
 - snum: S126
@@ -1799,7 +1799,7 @@ sentences:
   first_attests:
   - W088
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S126
   notes: null
 - snum: S127
@@ -1818,7 +1818,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S127
   notes: null
 - snum: S128
@@ -1839,7 +1839,7 @@ sentences:
   first_attests:
   - W097
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S128
   notes: null
 - snum: S129
@@ -1858,7 +1858,7 @@ sentences:
   - W156
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S129
   notes: null
 - snum: S130
@@ -1878,7 +1878,7 @@ sentences:
   first_attests:
   - W089
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S130
   notes: null
 - snum: S131
@@ -1898,7 +1898,7 @@ sentences:
   - W097
   first_attests: []
   gap_refs: []
-  source_file: sentences/s001-s039.md
+  source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S131
   notes: null
 - snum: S132
@@ -1915,7 +1915,7 @@ sentences:
   first_attests:
   - W092
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S132
   notes: null
 - snum: S133
@@ -1929,7 +1929,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S133
   notes: null
 - snum: S134
@@ -1943,7 +1943,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S134
   notes: null
 - snum: S135
@@ -1958,7 +1958,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S135
   notes: null
 - snum: S136
@@ -1973,7 +1973,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S136
   notes: null
 - snum: S137
@@ -1987,7 +1987,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S137
   notes: null
 - snum: S138
@@ -2002,7 +2002,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S138
   notes: null
 - snum: S139
@@ -2017,7 +2017,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S139
   notes: null
 - snum: S140
@@ -2032,7 +2032,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S140
   notes: null
 - snum: S141
@@ -2047,7 +2047,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S141
   notes: null
 - snum: S142
@@ -2062,7 +2062,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S142
   notes: null
 - snum: S143
@@ -2079,7 +2079,7 @@ sentences:
   first_attests:
   - W027
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S143
   notes: null
 - snum: S144
@@ -2094,7 +2094,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S144
   notes: null
 - snum: S145
@@ -2109,7 +2109,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S145
   notes: null
 - snum: S146
@@ -2124,7 +2124,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S146
   notes: null
 - snum: S147
@@ -2140,7 +2140,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S147
   notes: null
 - snum: S148
@@ -2155,7 +2155,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S148
   notes: null
 - snum: S149
@@ -2171,7 +2171,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S149
   notes: null
 - snum: S150
@@ -2185,7 +2185,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S150
   notes: null
 - snum: S151
@@ -2201,7 +2201,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S151
   notes: null
 - snum: S152
@@ -2216,7 +2216,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S152
   notes: null
 - snum: S153
@@ -2243,7 +2243,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S153
   notes: null
 - snum: S154
@@ -2259,7 +2259,7 @@ sentences:
   - W039
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S154
   notes: null
 - snum: S155
@@ -2278,7 +2278,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S155
   notes: null
 - snum: S156
@@ -2298,7 +2298,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S156
   notes: null
 - snum: S157
@@ -2316,7 +2316,7 @@ sentences:
   - W156
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S157
   notes: null
 - snum: S158
@@ -2341,7 +2341,7 @@ sentences:
   - W089
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S158
   notes: null
 - snum: S159
@@ -2364,7 +2364,7 @@ sentences:
   - W097
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S159
   notes: null
 - snum: S160
@@ -2382,7 +2382,7 @@ sentences:
   - W072
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S160
   notes: null
 - snum: S161
@@ -2401,7 +2401,7 @@ sentences:
   - W064
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S161
   notes: null
 - snum: S162
@@ -2415,7 +2415,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S162
   notes: null
 - snum: S163
@@ -2429,7 +2429,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S163
   notes: null
 - snum: S164
@@ -2444,7 +2444,7 @@ sentences:
   - W002
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S164
   notes: null
 - snum: S165
@@ -2459,7 +2459,7 @@ sentences:
   - W039
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S165
   notes: null
 - snum: S166
@@ -2474,7 +2474,7 @@ sentences:
   - W074
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S166
   notes: null
 - snum: S167
@@ -2488,7 +2488,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S167
   notes: null
 - snum: S168
@@ -2504,7 +2504,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S168
   notes: null
 - snum: S169
@@ -2518,7 +2518,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S169
   notes: null
 - snum: S170
@@ -2535,7 +2535,7 @@ sentences:
   first_attests:
   - W030
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S170
   notes: null
 - snum: S171
@@ -2550,7 +2550,7 @@ sentences:
   - W002
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S171
   notes: null
 - snum: S172
@@ -2565,7 +2565,7 @@ sentences:
   - W098
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S172
   notes: null
 - snum: S173
@@ -2580,7 +2580,7 @@ sentences:
   - W058
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S173
   notes: null
 - snum: S174
@@ -2595,7 +2595,7 @@ sentences:
   - W098
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S174
   notes: null
 - snum: S175
@@ -2612,7 +2612,7 @@ sentences:
   - W098
   first_attests: []
   gap_refs: []
-  source_file: sentences/s101-s175.md
+  source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S175
   notes: null
 - snum: S176
@@ -2626,7 +2626,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S176
   notes: null
 - snum: S177
@@ -2640,7 +2640,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S177
   notes: null
 - snum: S178
@@ -2654,7 +2654,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S178
   notes: null
 - snum: S179
@@ -2670,7 +2670,7 @@ sentences:
   first_attests:
   - W099
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S179
   notes: null
 - snum: S180
@@ -2686,7 +2686,7 @@ sentences:
   first_attests:
   - W035
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S180
   notes: null
 - snum: S181
@@ -2700,7 +2700,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S181
   notes: null
 - snum: S182
@@ -2714,7 +2714,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S182
   notes: null
 - snum: S183
@@ -2728,7 +2728,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S183
   notes: null
 - snum: S184
@@ -2742,7 +2742,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S184
   notes: null
 - snum: S185
@@ -2756,7 +2756,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S185
   notes: null
 - snum: S186
@@ -2770,7 +2770,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S186
   notes: null
 - snum: S187
@@ -2786,7 +2786,7 @@ sentences:
   first_attests:
   - W102
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S187
   notes: null
 - snum: S188
@@ -2800,7 +2800,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S188
   notes: null
 - snum: S189
@@ -2816,7 +2816,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S189
   notes: null
 - snum: S190
@@ -2830,7 +2830,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S190
   notes: null
 - snum: S191
@@ -2845,7 +2845,7 @@ sentences:
   - W053
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S191
   notes: null
 - snum: S192
@@ -2862,7 +2862,7 @@ sentences:
   first_attests:
   - W034
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S192
   notes: null
 - snum: S193
@@ -2878,7 +2878,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S193
   notes: null
 - snum: S194
@@ -2894,7 +2894,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S194
   notes: null
 - snum: S195
@@ -2908,7 +2908,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S195
   notes: null
 - snum: S196
@@ -2922,7 +2922,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S196
   notes: null
 - snum: S197
@@ -2938,7 +2938,7 @@ sentences:
   - W163
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S197
   notes: null
 - snum: S198
@@ -2953,7 +2953,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S198
   notes: null
 - snum: S199
@@ -2967,7 +2967,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S199
   notes: null
 - snum: S200
@@ -2981,7 +2981,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S200
   notes: null
 - snum: S201
@@ -2995,7 +2995,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S201
   notes: null
 - snum: S202
@@ -3011,7 +3011,7 @@ sentences:
   first_attests:
   - W105
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S202
   notes: null
 - snum: S203
@@ -3025,7 +3025,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S203
   notes: null
 - snum: S204
@@ -3039,7 +3039,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S204
   notes: null
 - snum: S205
@@ -3053,7 +3053,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S205
   notes: null
 - snum: S206
@@ -3067,7 +3067,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S206
   notes: null
 - snum: S207
@@ -3081,7 +3081,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S207
   notes: null
 - snum: S208
@@ -3097,7 +3097,7 @@ sentences:
   - W163
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S208
   notes: null
 - snum: S209
@@ -3111,7 +3111,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S209
   notes: null
 - snum: S210
@@ -3125,7 +3125,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S210
   notes: null
 - snum: S211
@@ -3139,7 +3139,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S211
   notes: null
 - snum: S212
@@ -3153,7 +3153,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S212
   notes: null
 - snum: S213
@@ -3167,7 +3167,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S213
   notes: null
 - snum: S214
@@ -3181,7 +3181,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S214
   notes: null
 - snum: S215
@@ -3195,7 +3195,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S215
   notes: null
 - snum: S216
@@ -3210,7 +3210,7 @@ sentences:
   - W163
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S216
   notes: null
 - snum: S217
@@ -3224,7 +3224,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S217
   notes: null
 - snum: S218
@@ -3239,7 +3239,7 @@ sentences:
   - W105
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S218
   notes: null
 - snum: S219
@@ -3253,7 +3253,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S219
   notes: null
 - snum: S220
@@ -3267,7 +3267,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S220
   notes: null
 - snum: S221
@@ -3283,7 +3283,7 @@ sentences:
   first_attests:
   - W123
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S221
   notes: null
 - snum: S222
@@ -3297,7 +3297,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S222
   notes: null
 - snum: S223
@@ -3311,7 +3311,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S223
   notes: null
 - snum: S224
@@ -3326,7 +3326,7 @@ sentences:
   - W027
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S224
   notes: null
 - snum: S225
@@ -3340,7 +3340,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S225
   notes: null
 - snum: S226
@@ -3354,7 +3354,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S226
   notes: null
 - snum: S227
@@ -3368,7 +3368,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s176-s227.md
+  source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S227
   notes: null
 - snum: S228
@@ -3382,7 +3382,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S228
   notes: null
 - snum: S229
@@ -3396,7 +3396,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S229
   notes: null
 - snum: S230
@@ -3410,7 +3410,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S230
   notes: null
 - snum: S231
@@ -3424,7 +3424,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S231
   notes: null
 - snum: S232
@@ -3438,7 +3438,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S232
   notes: null
 - snum: S233
@@ -3452,7 +3452,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S233
   notes: null
 - snum: S234
@@ -3466,7 +3466,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S234
   notes: null
 - snum: S235
@@ -3480,7 +3480,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S235
   notes: null
 - snum: S236
@@ -3494,7 +3494,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S236
   notes: null
 - snum: S237
@@ -3508,7 +3508,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S237
   notes: null
 - snum: S238
@@ -3522,7 +3522,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S238
   notes: null
 - snum: S239
@@ -3536,7 +3536,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S239
   notes: null
 - snum: S240
@@ -3552,7 +3552,7 @@ sentences:
   first_attests:
   - W076
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S240
   notes: null
 - snum: S241
@@ -3569,7 +3569,7 @@ sentences:
   - W076
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S241
   notes: null
 - snum: S242
@@ -3584,7 +3584,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S242
   notes: null
 - snum: S243
@@ -3599,7 +3599,7 @@ sentences:
   - W049
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S243
   notes: null
 - snum: S244
@@ -3613,7 +3613,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S244
   notes: null
 - snum: S245
@@ -3627,7 +3627,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S245
   notes: null
 - snum: S246
@@ -3641,7 +3641,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S246
   notes: null
 - snum: S247
@@ -3656,7 +3656,7 @@ sentences:
   - W163
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S247
   notes: null
 - snum: S248
@@ -3671,7 +3671,7 @@ sentences:
   - W163
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S248
   notes: null
 - snum: S249
@@ -3685,7 +3685,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S249
   notes: null
 - snum: S250
@@ -3699,7 +3699,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S250
   notes: null
 - snum: S251
@@ -3713,7 +3713,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s228-s251.md
+  source_file: sentences/v3-transition/s228-s251.md
   source_anchor: S251
   notes: null
 - snum: S252
@@ -3728,7 +3728,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S252
   notes: null
 - snum: S253
@@ -3742,7 +3742,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S253
   notes: null
 - snum: S254
@@ -3756,7 +3756,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S254
   notes: null
 - snum: S255
@@ -3770,7 +3770,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S255
   notes: null
 - snum: S256
@@ -3784,7 +3784,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S256
   notes: null
 - snum: S257
@@ -3799,7 +3799,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S257
   notes: null
 - snum: S258
@@ -3816,7 +3816,7 @@ sentences:
   first_attests:
   - W138
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S258
   notes: null
 - snum: S259
@@ -3830,7 +3830,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S259
   notes: null
 - snum: S260
@@ -3844,7 +3844,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S260
   notes: null
 - snum: S261
@@ -3859,7 +3859,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S261
   notes: null
 - snum: S262
@@ -3874,7 +3874,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S262
   notes: null
 - snum: S263
@@ -3889,7 +3889,7 @@ sentences:
   - W105
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S263
   notes: null
 - snum: S264
@@ -3904,7 +3904,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S264
   notes: null
 - snum: S265
@@ -3919,7 +3919,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S265
   notes: null
 - snum: S266
@@ -3933,7 +3933,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S266
   notes: null
 - snum: S267
@@ -3949,7 +3949,7 @@ sentences:
   - W048
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S267
   notes: null
 - snum: S268
@@ -3963,7 +3963,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S268
   notes: null
 - snum: S269
@@ -3977,7 +3977,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S269
   notes: null
 - snum: S270
@@ -3991,7 +3991,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S270
   notes: null
 - snum: S271
@@ -4006,7 +4006,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S271
   notes: null
 - snum: S272
@@ -4024,7 +4024,7 @@ sentences:
   - W089
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S272
   notes: null
 - snum: S273
@@ -4043,7 +4043,7 @@ sentences:
   first_attests:
   - W028
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S273
   notes: null
 - snum: S274
@@ -4061,7 +4061,7 @@ sentences:
   - W089
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S274
   notes: null
 - snum: S275
@@ -4076,7 +4076,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S275
   notes: null
 - snum: S276
@@ -4092,7 +4092,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S276
   notes: null
 - snum: S277
@@ -4110,7 +4110,7 @@ sentences:
   - W032
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S277
   notes: null
 - snum: S278
@@ -4126,7 +4126,7 @@ sentences:
   - W072
   first_attests: []
   gap_refs: []
-  source_file: sentences/s252-s278.md
+  source_file: sentences/v3-transition/s252-s278.md
   source_anchor: S278
   notes: null
 - snum: S279
@@ -4140,7 +4140,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S279
   notes: null
 - snum: S280
@@ -4154,7 +4154,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S280
   notes: null
 - snum: S281
@@ -4168,7 +4168,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S281
   notes: null
 - snum: S282
@@ -4182,7 +4182,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S282
   notes: null
 - snum: S283
@@ -4196,7 +4196,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S283
   notes: null
 - snum: S284
@@ -4210,7 +4210,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S284
   notes: null
 - snum: S285
@@ -4224,7 +4224,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S285
   notes: null
 - snum: S286
@@ -4238,7 +4238,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S286
   notes: null
 - snum: S287
@@ -4252,7 +4252,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S287
   notes: null
 - snum: S288
@@ -4266,7 +4266,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S288
   notes: null
 - snum: S289
@@ -4280,7 +4280,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S289
   notes: null
 - snum: S290
@@ -4294,7 +4294,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S290
   notes: null
 - snum: S291
@@ -4308,7 +4308,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S291
   notes: null
 - snum: S292
@@ -4322,7 +4322,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S292
   notes: null
 - snum: S293
@@ -4336,7 +4336,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S293
   notes: null
 - snum: S294
@@ -4350,7 +4350,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S294
   notes: null
 - snum: S295
@@ -4364,7 +4364,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S295
   notes: null
 - snum: S296
@@ -4378,7 +4378,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S296
   notes: null
 - snum: S297
@@ -4392,7 +4392,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S297
   notes: null
 - snum: S298
@@ -4406,7 +4406,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S298
   notes: null
 - snum: S299
@@ -4420,7 +4420,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S299
   notes: null
 - snum: S300
@@ -4434,7 +4434,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S300
   notes: null
 - snum: S301
@@ -4448,7 +4448,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S301
   notes: null
 - snum: S302
@@ -4462,7 +4462,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S302
   notes: null
 - snum: S303
@@ -4476,7 +4476,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S303
   notes: null
 - snum: S304
@@ -4490,7 +4490,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S304
   notes: null
 - snum: S305
@@ -4504,7 +4504,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S305
   notes: null
 - snum: S306
@@ -4518,7 +4518,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S306
   notes: null
 - snum: S307
@@ -4532,7 +4532,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S307
   notes: null
 - snum: S308
@@ -4546,7 +4546,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S308
   notes: null
 - snum: S309
@@ -4560,7 +4560,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S309
   notes: null
 - snum: S310
@@ -4574,7 +4574,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S310
   notes: null
 - snum: S311
@@ -4588,7 +4588,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S311
   notes: null
 - snum: S312
@@ -4602,7 +4602,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S312
   notes: null
 - snum: S313
@@ -4616,7 +4616,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S313
   notes: null
 - snum: S314
@@ -4630,7 +4630,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S314
   notes: null
 - snum: S315
@@ -4644,7 +4644,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S315
   notes: null
 - snum: S316
@@ -4658,7 +4658,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S316
   notes: null
 - snum: S317
@@ -4672,7 +4672,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S317
   notes: null
 - snum: S318
@@ -4686,7 +4686,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S318
   notes: null
 - snum: S319
@@ -4700,7 +4700,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S319
   notes: null
 - snum: S320
@@ -4715,7 +4715,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S320
   notes: null
 - snum: S321
@@ -4729,7 +4729,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S321
   notes: null
 - snum: S322
@@ -4743,7 +4743,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S322
   notes: null
 - snum: S323
@@ -4757,7 +4757,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S323
   notes: null
 - snum: S324
@@ -4771,7 +4771,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S324
   notes: null
 - snum: S325
@@ -4785,7 +4785,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S325
   notes: null
 - snum: S326
@@ -4799,7 +4799,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S326
   notes: null
 - snum: S327
@@ -4813,7 +4813,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S327
   notes: null
 - snum: S328
@@ -4829,7 +4829,7 @@ sentences:
   - W076
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S328
   notes: null
 - snum: S329
@@ -4845,7 +4845,7 @@ sentences:
   - W076
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S329
   notes: null
 - snum: S330
@@ -4860,7 +4860,7 @@ sentences:
   - W076
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S330
   notes: null
 - snum: S331
@@ -4876,7 +4876,7 @@ sentences:
   - W076
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S331
   notes: null
 - snum: S332
@@ -4892,7 +4892,7 @@ sentences:
   - W076
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S332
   notes: null
 - snum: S333
@@ -4909,7 +4909,7 @@ sentences:
   - W076
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S333
   notes: null
 - snum: S334
@@ -4925,7 +4925,7 @@ sentences:
   - W076
   first_attests: []
   gap_refs: []
-  source_file: sentences/s279-s334.md
+  source_file: sentences/v3-transition/s279-s334.md
   source_anchor: S334
   notes: null
 - snum: S335
@@ -4939,7 +4939,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S335
   notes: null
 - snum: S336
@@ -4954,7 +4954,7 @@ sentences:
   - W076
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S336
   notes: null
 - snum: S337
@@ -4969,7 +4969,7 @@ sentences:
   - W076
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S337
   notes: null
 - snum: S338
@@ -4986,7 +4986,7 @@ sentences:
   first_attests:
   - W110
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S338
   notes: null
 - snum: S339
@@ -5000,7 +5000,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S339
   notes: null
 - snum: S340
@@ -5015,7 +5015,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S340
   notes: null
 - snum: S341
@@ -5038,7 +5038,7 @@ sentences:
   first_attests:
   - W026
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S341
   notes: null
 - snum: S342
@@ -5052,7 +5052,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S342
   notes: null
 - snum: S343
@@ -5072,7 +5072,7 @@ sentences:
   - W026
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S343
   notes: null
 - snum: S344
@@ -5095,7 +5095,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S344
   notes: null
 - snum: S345
@@ -5111,7 +5111,7 @@ sentences:
   - W076
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S345
   notes: null
 - snum: S346
@@ -5125,7 +5125,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S346
   notes: null
 - snum: S347
@@ -5142,7 +5142,7 @@ sentences:
   - W089
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S347
   notes: null
 - snum: S348
@@ -5160,7 +5160,7 @@ sentences:
   - W026
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S348
   notes: null
 - snum: S349
@@ -5174,7 +5174,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S349
   notes: null
 - snum: S350
@@ -5188,7 +5188,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S350
   notes: null
 - snum: S351
@@ -5202,7 +5202,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S351
   notes: null
 - snum: S352
@@ -5216,7 +5216,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S352
   notes: null
 - snum: S353
@@ -5231,7 +5231,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S353
   notes: null
 - snum: S354
@@ -5248,7 +5248,7 @@ sentences:
   first_attests:
   - W149
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S354
   notes: null
 - snum: S355
@@ -5262,7 +5262,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S355
   notes: null
 - snum: S356
@@ -5276,7 +5276,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S356
   notes: null
 - snum: S357
@@ -5290,7 +5290,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S357
   notes: null
 - snum: S358
@@ -5305,7 +5305,7 @@ sentences:
   - W038
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S358
   notes: null
 - snum: S359
@@ -5321,7 +5321,7 @@ sentences:
   first_attests:
   - W117
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S359
   notes: null
 - snum: S360
@@ -5337,7 +5337,7 @@ sentences:
   - W069
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S360
   notes: null
 - snum: S361
@@ -5351,7 +5351,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S361
   notes: null
 - snum: S362
@@ -5368,7 +5368,7 @@ sentences:
   first_attests:
   - W139
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S362
   notes: null
 - snum: S363
@@ -5383,7 +5383,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S363
   notes: null
 - snum: S364
@@ -5402,7 +5402,7 @@ sentences:
   first_attests:
   - W100
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S364
   notes: null
 - snum: S365
@@ -5419,7 +5419,7 @@ sentences:
   - W100
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S365
   notes: null
 - snum: S366
@@ -5435,7 +5435,7 @@ sentences:
   first_attests:
   - W124
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S366
   notes: null
 - snum: S367
@@ -5451,7 +5451,7 @@ sentences:
   - W064
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S367
   notes: null
 - snum: S368
@@ -5467,7 +5467,7 @@ sentences:
   first_attests:
   - W122
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S368
   notes: null
 - snum: S369
@@ -5485,7 +5485,7 @@ sentences:
   - W030
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S369
   notes: null
 - snum: S370
@@ -5500,7 +5500,7 @@ sentences:
   - W046
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S370
   notes: null
 - snum: S371
@@ -5515,7 +5515,7 @@ sentences:
   - W052
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S371
   notes: null
 - snum: S372
@@ -5531,7 +5531,7 @@ sentences:
   first_attests:
   - W145
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S372
   notes: null
 - snum: S373
@@ -5548,7 +5548,7 @@ sentences:
   first_attests:
   - W040
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S373
   notes: null
 - snum: S374
@@ -5577,7 +5577,7 @@ sentences:
   first_attests:
   - W147
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S374
   notes: null
 - snum: S375
@@ -5607,7 +5607,7 @@ sentences:
   first_attests:
   - W020
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S375
   notes: null
 - snum: S376
@@ -5637,7 +5637,7 @@ sentences:
   - W147
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S376
   notes: null
 - snum: S377
@@ -5666,7 +5666,7 @@ sentences:
   - W156
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S377
   notes: null
 - snum: S378
@@ -5688,7 +5688,7 @@ sentences:
   - W026
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S378
   notes: null
 - snum: S379
@@ -5719,7 +5719,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S379
   notes: null
 - snum: S380
@@ -5754,7 +5754,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S380
   notes: null
 - snum: S381
@@ -5792,7 +5792,7 @@ sentences:
   - W147
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S381
   notes: null
 - snum: S382
@@ -5823,7 +5823,7 @@ sentences:
   - W147
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S382
   notes: null
 - snum: S383
@@ -5860,7 +5860,7 @@ sentences:
   - W072
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S383
   notes: null
 - snum: S384
@@ -5885,7 +5885,7 @@ sentences:
   - W147
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S384
   notes: null
 - snum: S385
@@ -5909,7 +5909,7 @@ sentences:
   - W026
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S385
   notes: null
 - snum: S386
@@ -5931,7 +5931,7 @@ sentences:
   - W147
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S386
   notes: null
 - snum: S387
@@ -5962,7 +5962,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S387
   notes: null
 - snum: S388
@@ -5988,7 +5988,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S388
   notes: null
 - snum: S389
@@ -6036,7 +6036,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S389
   notes: null
 - snum: S390
@@ -6050,7 +6050,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S390
   notes: null
 - snum: S391
@@ -6085,7 +6085,7 @@ sentences:
   - W147
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S391
   notes: null
 - snum: S392
@@ -6114,7 +6114,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S392
   notes: null
 - snum: S393
@@ -6133,7 +6133,7 @@ sentences:
   - W072
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S393
   notes: null
 - snum: S394
@@ -6166,7 +6166,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S394
   notes: null
 - snum: S395
@@ -6185,7 +6185,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S395
   notes: null
 - snum: S396
@@ -6210,7 +6210,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S396
   notes: null
 - snum: S397
@@ -6238,7 +6238,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s335-s397.md
+  source_file: sentences/v3-transition/s335-s397.md
   source_anchor: S397
   notes: null
 - snum: S398
@@ -6252,7 +6252,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S398
   notes: null
 - snum: S399
@@ -6266,7 +6266,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S399
   notes: null
 - snum: S400
@@ -6280,7 +6280,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S400
   notes: null
 - snum: S401
@@ -6296,7 +6296,7 @@ sentences:
   first_attests:
   - W158
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S401
   notes: null
 - snum: S402
@@ -6312,7 +6312,7 @@ sentences:
   first_attests:
   - W151
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S402
   notes: null
 - snum: S403
@@ -6328,7 +6328,7 @@ sentences:
   - W151
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S403
   notes: null
 - snum: S404
@@ -6342,7 +6342,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S404
   notes: null
 - snum: S405
@@ -6357,7 +6357,7 @@ sentences:
   - W110
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S405
   notes: null
 - snum: S406
@@ -6375,7 +6375,7 @@ sentences:
   first_attests:
   - W153
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S406
   notes: null
 - snum: S407
@@ -6389,7 +6389,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S407
   notes: null
 - snum: S408
@@ -6405,7 +6405,7 @@ sentences:
   first_attests:
   - W154
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S408
   notes: null
 - snum: S409
@@ -6421,7 +6421,7 @@ sentences:
   first_attests:
   - W155
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S409
   notes: null
 - snum: S410
@@ -6437,7 +6437,7 @@ sentences:
   first_attests:
   - W160
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S410
   notes: null
 - snum: S411
@@ -6452,7 +6452,7 @@ sentences:
   - W160
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S411
   notes: null
 - snum: S412
@@ -6468,7 +6468,7 @@ sentences:
   - W160
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S412
   notes: null
 - snum: S413
@@ -6483,7 +6483,7 @@ sentences:
   - W160
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S413
   notes: null
 - snum: S414
@@ -6498,7 +6498,7 @@ sentences:
   - W026
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S414
   notes: null
 - snum: S415
@@ -6514,7 +6514,7 @@ sentences:
   first_attests:
   - W159
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S415
   notes: null
 - snum: S416
@@ -6528,7 +6528,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S416
   notes: null
 - snum: S417
@@ -6542,7 +6542,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S417
   notes: null
 - snum: S418
@@ -6563,7 +6563,7 @@ sentences:
   - W109
   - W167
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S418
   notes: null
 - snum: S419
@@ -6577,7 +6577,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S419
   notes: null
 - snum: S420
@@ -6594,7 +6594,7 @@ sentences:
   - W167
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S420
   notes: null
 - snum: S421
@@ -6612,7 +6612,7 @@ sentences:
   - W167
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S421
   notes: null
 - snum: S422
@@ -6629,7 +6629,7 @@ sentences:
   - W167
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S422
   notes: null
 - snum: S423
@@ -6644,7 +6644,7 @@ sentences:
   - W048
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S423
   notes: null
 - snum: S424
@@ -6663,7 +6663,7 @@ sentences:
   first_attests:
   - W037
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S424
   notes: null
 - snum: S425
@@ -6677,7 +6677,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S425
   notes: null
 - snum: S426
@@ -6694,7 +6694,7 @@ sentences:
   first_attests:
   - W168
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S426
   notes: null
 - snum: S427
@@ -6708,7 +6708,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S427
   notes: null
 - snum: S428
@@ -6724,7 +6724,7 @@ sentences:
   first_attests:
   - W142
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S428
   notes: null
 - snum: S429
@@ -6741,7 +6741,7 @@ sentences:
   first_attests:
   - W161
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S429
   notes: null
 - snum: S430
@@ -6755,7 +6755,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S430
   notes: null
 - snum: S431
@@ -6770,7 +6770,7 @@ sentences:
   first_attests: []
   gap_refs:
   - GAP-LSP-001
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S431
   notes: null
 - snum: S432
@@ -6784,7 +6784,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S432
   notes: null
 - snum: S433
@@ -6800,7 +6800,7 @@ sentences:
   - W052
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S433
   notes: null
 - snum: S434
@@ -6814,7 +6814,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S434
   notes: null
 - snum: S435
@@ -6828,7 +6828,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S435
   notes: null
 - snum: S436
@@ -6842,7 +6842,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S436
   notes: null
 - snum: S437
@@ -6858,7 +6858,7 @@ sentences:
   first_attests:
   - W162
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S437
   notes: null
 - snum: S438
@@ -6874,7 +6874,7 @@ sentences:
   - W092
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S438
   notes: null
 - snum: S439
@@ -6889,7 +6889,7 @@ sentences:
   - W030
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S439
   notes: null
 - snum: S440
@@ -6903,7 +6903,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S440
   notes: null
 - snum: S441
@@ -6918,7 +6918,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S441
   notes: null
 - snum: S442
@@ -6933,7 +6933,7 @@ sentences:
   first_attests: []
   gap_refs:
   - GAP-LSP-001
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S442
   notes: null
 - snum: S443
@@ -6948,7 +6948,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S443
   notes: null
 - snum: S444
@@ -6962,7 +6962,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S444
   notes: null
 - snum: S445
@@ -6976,7 +6976,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S445
   notes: null
 - snum: S446
@@ -6990,7 +6990,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S446
   notes: null
 - snum: S447
@@ -7004,7 +7004,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S447
   notes: null
 - snum: S448
@@ -7019,7 +7019,7 @@ sentences:
   first_attests: []
   gap_refs:
   - GAP-JOH-001
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S448
   notes: null
 - snum: S449
@@ -7033,7 +7033,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S449
   notes: null
 - snum: S450
@@ -7047,7 +7047,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S450
   notes: null
 - snum: S451
@@ -7063,7 +7063,7 @@ sentences:
   gap_refs:
   - GAP-NEW-001
   - GAP-NEW-002
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S451
   notes: null
 - snum: S452
@@ -7077,7 +7077,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S452
   notes: null
 - snum: S453
@@ -7091,7 +7091,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S453
   notes: null
 - snum: S454
@@ -7106,7 +7106,7 @@ sentences:
   first_attests: []
   gap_refs:
   - GAP-DKN-001
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S454
   notes: null
 - snum: S455
@@ -7120,7 +7120,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S455
   notes: null
 - snum: S456
@@ -7134,7 +7134,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S456
   notes: null
 - snum: S457
@@ -7148,7 +7148,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S457
   notes: null
 - snum: S458
@@ -7164,7 +7164,7 @@ sentences:
   first_attests:
   - W121
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S458
   notes: null
 - snum: S459
@@ -7178,7 +7178,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S459
   notes: null
 - snum: S460
@@ -7192,7 +7192,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S460
   notes: null
 - snum: S461
@@ -7206,7 +7206,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S461
   notes: null
 - snum: S462
@@ -7221,7 +7221,7 @@ sentences:
   - W026
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S462
   notes: null
 - snum: S463
@@ -7237,7 +7237,7 @@ sentences:
   first_attests: []
   gap_refs:
   - GAP-HAM-002
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S463
   notes: null
 - snum: S464
@@ -7253,7 +7253,7 @@ sentences:
   first_attests: []
   gap_refs:
   - GAP-HAM-001
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S464
   notes: null
 - snum: S465
@@ -7267,7 +7267,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S465
   notes: null
 - snum: S466
@@ -7281,7 +7281,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S466
   notes: null
 - snum: S467
@@ -7295,7 +7295,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S467
   notes: null
 - snum: S468
@@ -7311,7 +7311,7 @@ sentences:
   gap_refs:
   - GAP-BSH-001
   - GAP-BSH-002
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S468
   notes: null
 - snum: S469
@@ -7325,7 +7325,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S469
   notes: null
 - snum: S470
@@ -7340,7 +7340,7 @@ sentences:
   first_attests: []
   gap_refs:
   - GAP-BSH-004
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S470
   notes: null
 - snum: S471
@@ -7359,7 +7359,7 @@ sentences:
   - GAP-EMD-001
   - GAP-EMD-002
   - GAP-EMD-003
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S471
   notes: null
 - snum: S472
@@ -7375,7 +7375,7 @@ sentences:
   first_attests: []
   gap_refs:
   - GAP-EMD-004
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S472
   notes: null
 - snum: S473
@@ -7392,7 +7392,7 @@ sentences:
   - W048
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S473
   notes: null
 - snum: S474
@@ -7408,7 +7408,7 @@ sentences:
   gap_refs:
   - GAP-TAO-001
   - GAP-TAO-002
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S474
   notes: null
 - snum: S475
@@ -7422,7 +7422,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S475
   notes: null
 - snum: S476
@@ -7437,7 +7437,7 @@ sentences:
   first_attests: []
   gap_refs:
   - GAP-TAO-003
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S476
   notes: null
 - snum: S477
@@ -7451,7 +7451,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S477
   notes: null
 - snum: S478
@@ -7465,7 +7465,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S478
   notes: null
 - snum: S479
@@ -7480,7 +7480,7 @@ sentences:
   - W151
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S479
   notes: null
 - snum: S480
@@ -7495,7 +7495,7 @@ sentences:
   - W142
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S480
   notes: null
 - snum: S481
@@ -7510,7 +7510,7 @@ sentences:
   - W020
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S481
   notes: null
 - snum: S482
@@ -7524,7 +7524,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S482
   notes: null
 - snum: S483
@@ -7538,7 +7538,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S483
   notes: null
 - snum: S484
@@ -7552,7 +7552,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S484
   notes: null
 - snum: S485
@@ -7566,7 +7566,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S485
   notes: null
 - snum: S486
@@ -7581,7 +7581,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S486
   notes: null
 - snum: S487
@@ -7597,7 +7597,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S487
   notes: null
 - snum: S488
@@ -7611,7 +7611,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S488
   notes: null
 - snum: S489
@@ -7625,7 +7625,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S489
   notes: null
 - snum: S490
@@ -7640,7 +7640,7 @@ sentences:
   - W031
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S490
   notes: null
 - snum: S491
@@ -7655,7 +7655,7 @@ sentences:
   - W142
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S491
   notes: null
 - snum: S492
@@ -7669,7 +7669,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S492
   notes: null
 - snum: S493
@@ -7684,7 +7684,7 @@ sentences:
   - W030
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S493
   notes: null
 - snum: S494
@@ -7698,7 +7698,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S494
   notes: null
 - snum: S495
@@ -7712,7 +7712,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S495
   notes: null
 - snum: S496
@@ -7726,7 +7726,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S496
   notes: null
 - snum: S497
@@ -7740,7 +7740,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S497
   notes: null
 - snum: S498
@@ -7754,7 +7754,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S498
   notes: null
 - snum: S499
@@ -7768,7 +7768,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S499
   notes: null
 - snum: S500
@@ -7782,7 +7782,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S500
   notes: null
 - snum: S501
@@ -7796,7 +7796,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S501
   notes: null
 - snum: S502
@@ -7811,7 +7811,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S502
   notes: null
 - snum: S503
@@ -7825,7 +7825,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S503
   notes: null
 - snum: S504
@@ -7839,7 +7839,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S504
   notes: null
 - snum: S505
@@ -7854,7 +7854,7 @@ sentences:
   - W030
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S505
   notes: null
 - snum: S506
@@ -7868,7 +7868,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S506
   notes: null
 - snum: S507
@@ -7882,7 +7882,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S507
   notes: null
 - snum: S508
@@ -7896,7 +7896,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S508
   notes: null
 - snum: S509
@@ -7910,7 +7910,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S509
   notes: null
 - snum: S510
@@ -7924,7 +7924,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S510
   notes: null
 - snum: S511
@@ -7938,7 +7938,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S511
   notes: null
 - snum: S512
@@ -7952,7 +7952,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S512
   notes: null
 - snum: S513
@@ -7967,7 +7967,7 @@ sentences:
   - W142
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S513
   notes: null
 - snum: S514
@@ -7981,7 +7981,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S514
   notes: null
 - snum: S515
@@ -7996,7 +7996,7 @@ sentences:
   - W086
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S515
   notes: null
 - snum: S516
@@ -8011,7 +8011,7 @@ sentences:
   - W048
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S516
   notes: null
 - snum: S517
@@ -8026,7 +8026,7 @@ sentences:
   first_attests: []
   gap_refs:
   - OQ-V-001
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S517
   notes: null
 - snum: S518
@@ -8042,7 +8042,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S518
   notes: null
 - snum: S519
@@ -8058,7 +8058,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S519
   notes: null
 - snum: S520
@@ -8074,7 +8074,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S520
   notes: null
 - snum: S521
@@ -8088,7 +8088,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S521
   notes: null
 - snum: S522
@@ -8103,7 +8103,7 @@ sentences:
   - W086
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S522
   notes: null
 - snum: S523
@@ -8117,7 +8117,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S523
   notes: null
 - snum: S524
@@ -8131,7 +8131,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S524
   notes: null
 - snum: S525
@@ -8145,7 +8145,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S525
   notes: null
 - snum: S526
@@ -8161,7 +8161,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S526
   notes: null
 - snum: S527
@@ -8179,7 +8179,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S527
   notes: null
 - snum: S528
@@ -8193,7 +8193,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S528
   notes: null
 - snum: S529
@@ -8207,7 +8207,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S529
   notes: null
 - snum: S530
@@ -8223,7 +8223,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S530
   notes: null
 - snum: S531
@@ -8237,7 +8237,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S531
   notes: null
 - snum: S532
@@ -8251,7 +8251,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S532
   notes: null
 - snum: S533
@@ -8265,7 +8265,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S533
   notes: null
 - snum: S534
@@ -8279,7 +8279,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S534
   notes: null
 - snum: S535
@@ -8293,7 +8293,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S535
   notes: null
 - snum: S536
@@ -8307,7 +8307,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S536
   notes: null
 - snum: S537
@@ -8321,7 +8321,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S537
   notes: null
 - snum: S538
@@ -8340,7 +8340,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S538
   notes: null
 - snum: S539
@@ -8354,7 +8354,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S539
   notes: null
 - snum: S540
@@ -8368,7 +8368,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S540
   notes: null
 - snum: S541
@@ -8382,7 +8382,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S541
   notes: null
 - snum: S542
@@ -8396,7 +8396,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S542
   notes: null
 - snum: S543
@@ -8410,7 +8410,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S543
   notes: null
 - snum: S544
@@ -8425,7 +8425,7 @@ sentences:
   first_attests: []
   gap_refs:
   - OQ-COR-001
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S544
   notes: null
 - snum: S545
@@ -8440,7 +8440,7 @@ sentences:
   first_attests: []
   gap_refs:
   - OQ-COR-001
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S545
   notes: null
 - snum: S546
@@ -8454,7 +8454,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S546
   notes: null
 - snum: S547
@@ -8468,7 +8468,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S547
   notes: null
 - snum: S548
@@ -8482,7 +8482,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S548
   notes: null
 - snum: S549
@@ -8496,7 +8496,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S549
   notes: null
 - snum: S550
@@ -8510,7 +8510,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S550
   notes: null
 - snum: S551
@@ -8524,7 +8524,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S551
   notes: null
 - snum: S552
@@ -8538,7 +8538,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S552
   notes: null
 - snum: S553
@@ -8552,7 +8552,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S553
   notes: null
 - snum: S554
@@ -8566,7 +8566,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S554
   notes: null
 - snum: S555
@@ -8580,7 +8580,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S555
   notes: null
 - snum: S556
@@ -8594,7 +8594,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S556
   notes: null
 - snum: S557
@@ -8608,7 +8608,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S557
   notes: null
 - snum: S558
@@ -8622,7 +8622,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S558
   notes: null
 - snum: S559
@@ -8638,7 +8638,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S559
   notes: null
 - snum: S560
@@ -8653,7 +8653,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S560
   notes: null
 - snum: S561
@@ -8668,7 +8668,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S561
   notes: null
 - snum: S562
@@ -8683,7 +8683,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S562
   notes: null
 - snum: S563
@@ -8698,7 +8698,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S563
   notes: null
 - snum: S564
@@ -8713,7 +8713,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S564
   notes: null
 - snum: S565
@@ -8727,7 +8727,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S565
   notes: null
 - snum: S566
@@ -8741,7 +8741,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S566
   notes: null
 - snum: S567
@@ -8755,7 +8755,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S567
   notes: null
 - snum: S568
@@ -8771,7 +8771,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S568
   notes: null
 - snum: S569
@@ -8787,7 +8787,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S569
   notes: null
 - snum: S570
@@ -8803,7 +8803,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S570
   notes: null
 - snum: S571
@@ -8818,7 +8818,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S571
   notes: null
 - snum: S572
@@ -8833,7 +8833,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S572
   notes: null
 - snum: S573
@@ -8848,7 +8848,7 @@ sentences:
   - W030
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S573
   notes: null
 - snum: S574
@@ -8863,7 +8863,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S574
   notes: null
 - snum: S575
@@ -8879,7 +8879,7 @@ sentences:
   first_attests: []
   gap_refs:
   - OQ-COR-001
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S575
   notes: null
 - snum: S576
@@ -8894,7 +8894,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S576
   notes: null
 - snum: S577
@@ -8909,7 +8909,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S577
   notes: null
 - snum: S578
@@ -8924,7 +8924,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S578
   notes: null
 - snum: S579
@@ -8939,7 +8939,7 @@ sentences:
   - W100
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S579
   notes: null
 - snum: S580
@@ -8954,7 +8954,7 @@ sentences:
   - W100
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S580
   notes: null
 - snum: S581
@@ -8970,7 +8970,7 @@ sentences:
   - W100
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S581
   notes: null
 - snum: S582
@@ -8986,7 +8986,7 @@ sentences:
   - W100
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S582
   notes: null
 - snum: S583
@@ -9002,7 +9002,7 @@ sentences:
   - W100
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S583
   notes: null
 - snum: S584
@@ -9017,7 +9017,7 @@ sentences:
   - W100
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S584
   notes: null
 - snum: S585
@@ -9034,7 +9034,7 @@ sentences:
   first_attests: []
   gap_refs:
   - OQ-COR-001
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S585
   notes: null
 - snum: S586
@@ -9048,7 +9048,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S586
   notes: null
 - snum: S587
@@ -9064,6 +9064,6 @@ sentences:
   - W100
   first_attests: []
   gap_refs: []
-  source_file: sentences/s398-plus.md
+  source_file: sentences/v4-current/s398-plus.md
   source_anchor: S587
   notes: null
