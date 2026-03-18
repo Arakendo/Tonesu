@@ -32,6 +32,7 @@
   ];
 
   var chain      = [];
+  var junctures  = {};   // junctures[i] = true → ' after chain[i]
   var prefixMod  = '';
   var suffixMod  = '';
   var allData    = null;
@@ -45,7 +46,7 @@
     if (!container) return;
 
     // Reset state on each page visit (SPA navigation)
-    chain = []; prefixMod = ''; suffixMod = ''; activeFamily = '';
+    chain = []; junctures = {}; prefixMod = ''; suffixMod = ''; activeFamily = '';
 
     if (allData) {
       render(container);
@@ -168,7 +169,7 @@
     var clearBtn = mk('button', 'rb-clear-btn');
     clearBtn.textContent = 'Clear';
     clearBtn.addEventListener('click', function () {
-      chain = []; prefixMod = ''; suffixMod = '';
+      chain = []; junctures = {}; prefixMod = ''; suffixMod = '';
       refresh();
     });
     display.appendChild(clearBtn);
@@ -302,11 +303,25 @@
       rmBtn.textContent = '\xd7';
       rmBtn.title = 'Remove ' + cv;
       rmBtn.addEventListener('click', (function (idx) {
-        return function () { chain.splice(idx, 1); refresh(); };
+        return function () { removeRoot(idx); refresh(); };
       })(i));
       chip.appendChild(rmBtn);
 
       chipRow.appendChild(chip);
+
+      // Juncture toggle between consecutive roots
+      if (i < chain.length - 1) {
+        var jBtn = mk('button', 'rb-juncture' + (junctures[i] ? ' is-active' : ''));
+        jBtn.textContent = "\u2019";
+        jBtn.title = 'Toggle juncture mark (\u2019) — groups left roots as subcompound';
+        jBtn.addEventListener('click', (function (idx) {
+          return function () {
+            if (junctures[idx]) { delete junctures[idx]; } else { junctures[idx] = true; }
+            refresh();
+          };
+        })(i));
+        chipRow.appendChild(jBtn);
+      }
     });
 
     // Suffix chip
@@ -410,12 +425,32 @@
   // ── Helpers ────────────────────────────────────────────────────────────────
   function buildCompound() {
     if (chain.length === 0 && !prefixMod && !suffixMod) return null;
-    var base    = chain.join('-');
+    // Build base with juncture markers: use ' instead of - at marked positions
+    var base = '';
+    for (var i = 0; i < chain.length; i++) {
+      if (i > 0) base += junctures[i - 1] ? "'" : '-';
+      base += chain[i];
+    }
     var sfxCore = suffixMod ? suffixMod.slice(1) : '';   // strip leading '-'
     var parts   = [base, sfxCore].filter(Boolean);
     var full    = (prefixMod ? prefixMod : '') + parts.join('-');
+    // Written form: strip hyphens, keep apostrophes
     var written = full.replace(/-/g, '');
     return { parse: full, written: written };
+  }
+
+  function removeRoot(idx) {
+    chain.splice(idx, 1);
+    // Rebuild juncture map: shift indices above idx down by 1
+    var updated = {};
+    for (var k in junctures) {
+      if (!junctures.hasOwnProperty(k)) continue;
+      var n = parseInt(k, 10);
+      if (n === idx || n === idx - 1) continue; // drop junctures adjacent to removed root
+      if (n > idx) updated[n - 1] = true;
+      else updated[n] = true;
+    }
+    junctures = updated;
   }
 
   function arrEq(a, b) {

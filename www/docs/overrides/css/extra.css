@@ -512,6 +512,25 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
 }
 .rb-chip-rm:hover { color: #fc618d; }
 
+.rb-juncture {
+  background: transparent;
+  border: 1px dashed #555;
+  border-radius: 3px;
+  color: #555;
+  cursor: pointer;
+  font-size: .85rem;
+  line-height: 1;
+  padding: .15rem .25rem;
+  transition: color .15s, border-color .15s;
+  align-self: center;
+}
+.rb-juncture:hover { color: #fce566; border-color: #fce566; }
+.rb-juncture.is-active {
+  color: #fce566;
+  border-color: #fce566;
+  background: #fce56622;
+}
+
 .rb-gloss-line {
   color: #69676c;
   font-size: .8rem;
