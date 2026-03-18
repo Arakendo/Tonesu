@@ -6,7 +6,7 @@ Specific decisions traced from pressure to resolution. Why did the language arri
 
 ---
 
-## Why `tofeka`
+## Why tofeka
 
 *Coming soon.*
 
