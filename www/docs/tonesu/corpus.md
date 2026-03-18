@@ -223,34 +223,42 @@ title: Corpus
 <span id="S439"></span>
 **S439**
 `to-su  helm  ra`
+*Knowledge is power." (Francis Bacon, attributed)*
 
 <span id="S440"></span>
 **S440**
 `ti  helm  nu-vo`
+*Time is money." (Benjamin Franklin, attributed)*
 
 <span id="S441"></span>
 **S441**
 `go-no-fe  helm  de`
+*God is dead." (Friedrich Nietzsche, *Die fröhliche Wissenschaft* §125, 1882)*
 
 <span id="S442"></span>
 **S442**
 `go-no-fe  helms  vo`
+*God is love." (1 John 4:8)*
 
 <span id="S443"></span>
 **S443**
 `zo-li  helms  to-zo`
+*Man is a rational animal." (Aristotle, *Nicomachean Ethics* / *Politics*)*
 
 <span id="S444"></span>
 **S444**
 `la-mi  to  go  la-mi  pa`
+*I think, therefore I am." (René Descartes, *Discours de la méthode*, 1637)*
 
 <span id="S445"></span>
 **S445**
 `pu-to-su  ne  ven  du-to`
+*All models are approximately correct." (George E. P. Box, paraphrase)*
 
 <span id="S446"></span>
 **S446**
 `pu-to-su  ne  ven  no-du-to`
+*All models are approximately wrong." (George E. P. Box, complementary reading)*
 
 ## Grammar & syntax
 
@@ -497,6 +505,7 @@ title: Corpus
 `Literal B: agent:I  affect-no-model.`
 `Natural A: I detected something; no model formed of what it was.`
 `Natural B: My affective substrate is active; no model of why.`
+*(A) I detected something; no model formed of what it was. (B) My affective substrate is active; no model of why.*
 
 <span id="S154"></span>
 **S154** · fa-CON-F5
@@ -694,6 +703,7 @@ title: Corpus
 `Turn B2:  ki  lo-pa-mi`
 `[la-mi dropped]  moved  patient:here`
 `[I'll] come here. / [I'm] going to take a look.`
+*Have you seen the mycelium? / Yes — [I] see it. / [I'll] come here.*
 
 <span id="S342"></span>
 **S342** · GRM-002
@@ -710,6 +720,7 @@ title: Corpus
 `Typical response:  ru — se  lo-re'zo-se-ne  ta-ti-de`
 `yes — [I] perceived  patient:deer  at-past-time`
 `(Yes — I saw one earlier.)`
+*Did you see a deer? (casual vs formal register)*
 
 <span id="S344"></span>
 **S344** · GRM-002
@@ -717,6 +728,7 @@ title: Corpus
 `Grammatical:    lo-zo-su  be-vo  ta-ti-mi`
 `Literal (grammatical):  patient:plant  generative-quality  at-present-time`
 `Natural:  This plant is actively growing right now.  (emphatic present; contingent state)`
+*This plant is actively growing right now. (emphatic present; contingent state)*
 
 <span id="S345"></span>
 **S345** · GRM-002
@@ -741,6 +753,7 @@ title: Corpus
 `Answer:    la-zo-su  be  lo-zo-be`
 `agent:plant  produces  patient:biological-product`
 `A plant produces reproductive bodies. / Plants produce seeds.`
+*What does a plant produce? / A plant produces reproductive bodies.*
 
 <span id="S364"></span>
 **S364** · FAL-001
@@ -795,6 +808,7 @@ title: Corpus
 `la-ka-li-su  :  lo-zo-li  wi-ne  ne`
 `Correction:`
 `go  [la-ka-li-su  lo-zo-li  wi-ne  ne]  ,  no  la-ze  du  lo-to-no-fe  ka`
+*Motte-and-bailey: strong claim retreating to weak claim.*
 
 <span id="S375"></span>
 **S375** · FAL-002
@@ -804,6 +818,7 @@ title: Corpus
 `la-mi  lo-ra  se-past`
 `(3) New goalpost (bare, present):`
 `la-mi  wi-fe  be  :  lo-ra-ne  se-to`
+*Moving the goalposts: retroactive condition change.*
 
 <span id="S376"></span>
 **S376** · FAL-002
@@ -814,6 +829,7 @@ title: Corpus
 `(du  lo-ne-su  de)`
 `Correction:`
 `go  [lo-wi-fe  de]  ,  la-mi  no-se  lo-ne-ki  de`
+*Slippery slope: unjustified causal cascade.*
 
 <span id="S377"></span>
 **S377** · FAL-002
@@ -824,6 +840,7 @@ title: Corpus
 `go  [la-zo-ne-du  lo-fa  de-past]  ,`
 `go  [la-mi  lo-zo-ne-du  vo-wi]  ,`
 `la-mi  lo-zo-ne-du  pa-ki`
+*Appeal to emotion: affective fact to normative conclusion.*
 
 <span id="S378"></span>
 **S378** · FAL-002
@@ -831,6 +848,7 @@ title: Corpus
 `to-si  [la-zu  lo-to-de  de-fe-past]`
 `Well-formed interrogation (presupposition extracted and marked):`
 `(la-zu  lo-to-de  ka-past)  ,  to-si  [la-ze  de-fe-past]`
+*Loaded question: smuggled presupposition.*
 
 <span id="S379"></span>
 **S379** · FAL-003
@@ -841,6 +859,7 @@ title: Corpus
 `(la-zu  go  lo-mu-su  lo-zo-li  ka-past)`
 `(la-zu  lo-ka-li-su  lo-mu-su  be-past)`
 `to-si  [la-zu  lo-wi-fe  de-fe-past]`
+*Nested loaded question: three bundled presuppositions.*
 
 <span id="S380"></span>
 **S380** · FAL-003
@@ -853,6 +872,7 @@ title: Corpus
 `Correction (blocking A from both retreats):`
 `go  [la-ka-li-su  lo-zo-li  ne  ne]  ,  no  la-ze  du  lo-vo-wi-fe  ne`
 `go  [la-ka-li-su  lo-zo-li  vo-wi-fe  ne]  ,  no  la-ze  du  lo-to-no-fe  ka`
+*Double topic-substitution: motte-and-bailey with intermediate step.*
 
 <span id="S381"></span>
 **S381** · FAL-003
@@ -867,6 +887,7 @@ title: Corpus
 `go  [lo-ne-su  de]  ,      la-mi  no-se  lo-ka-li-su  de`
 `go  [lo-ka-li-su  de]  ,   (du  lo-ka-no-fe  de)`
 `(du  lo-ka-no-fe  de)  ,   (du  lo-ne-su  be-no-fe)`
+*Compound slippery slope: mixed established and unestablished links.*
 
 <span id="S382"></span>
 **S382** · FAL-003
@@ -877,6 +898,7 @@ title: Corpus
 `Speaker endorsement breaking the chain:`
 `la-mi  no-se  lo-to-su  ne  ,`
 `go  (la-ka-li-su  (la-to-li  lo-to-su  ne)  re-ka)`
+*Nested evidential attribution: reported-within-reported.*
 
 <span id="S383"></span>
 **S383** · FAL-003
@@ -890,6 +912,7 @@ title: Corpus
 `la-mi  no-to  lo-to-si-ze  to-su  ,`
 `go  [la-to-fe-su  lo-to-si-ze  to-su]  ,`
 `go  [la-na-Kael  lo-to-si-ze  se  ,  go  (la-na-Ren  lo-to-si-ze  si)]`
+*Nested modal inflation: epistemic ladder across multiple agents.*
 
 <span id="S384"></span>
 **S384** · FAL-004
@@ -898,6 +921,7 @@ title: Corpus
 `Diagnosis:`
 `la-mi  to  lo-to-fe-su  lo-ze  re-ka  ,`
 `no  la-mi  to  lo-ka-li-su  de`
+*Campaign opening: evidential laundering.*
 
 <span id="S385"></span>
 **S385** · FAL-004
@@ -906,6 +930,7 @@ title: Corpus
 `Response (topic substitution):`
 `lo-ka-li-su-mi  :  la-mi  lo-ze  se  ne  ,`
 `na-Kur  :  la-ze  lo-to-de  re-ka`
+*Policy challenge deflected: topic substitution.*
 
 <span id="S386"></span>
 **S386** · FAL-004
@@ -913,6 +938,7 @@ title: Corpus
 `(du  lo-ne-su  mu-be)  ,`
 `(du  lo-ka-li-su  de-fe)  ,`
 `(du  la-ka-no-fe  lo-ne-su  ka-ki)`
+*Catastrophe cascade from weak economic signal.*
 
 <span id="S387"></span>
 **S387** · FAL-004
@@ -924,6 +950,7 @@ title: Corpus
 `go  [lo-ra-ma-de  lo-zo-li  mu-be]  ,`
 `go  [la-mi  lo-zo-li  vo  wi]  ,`
 `la-mi  lo-zo-li  ka-li-su  wi`
+*Normative demand: warrant chain skipped.*
 
 <span id="S388"></span>
 **S388** · FAL-004
@@ -932,6 +959,7 @@ title: Corpus
 `lo-ka-li-su-mi  :  la-mi  lo-ze  se  ne  ,`
 `na-Kur  :  la-ze  lo-to-de  re-ka  ,`
 `go  [la-mi  se  lo-ra-ma-de  se]  ,  la-mi  lo-zo-li  ka-li-su  wi`
+*The composite speech: structural audit.*
 
 <span id="S389"></span>
 **S389** · FAL-005
@@ -947,9 +975,11 @@ title: Corpus
 `go  [(la-mi  se  lo-ra-ma-de  de)]  ,`
 `(du  la-mi  lo-ka-li-su  wi)  ,`
 `(du  la-mi  lo-ka-li-su  to)`
+*The propaganda paragraph.*
 
 <span id="S390"></span>
 **S390** · FAL-005
+*Structural audit of S389.*
 
 <span id="S391"></span>
 **S391** · FAL-006
@@ -962,6 +992,7 @@ title: Corpus
 `Speaker's diagnosis:`
 `la-mi  no-se  lo-ka-li-su  de  ,`
 `go  [la-to-fe-su  (la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)  re-ka]`
+*Depth-3 hearsay chain (standalone).*
 
 <span id="S392"></span>
 **S392** · FAL-006
@@ -971,12 +1002,14 @@ title: Corpus
 `la-mi  to  lo-ka-li-su  de  ,`
 `Policy conclusion (normative leap):`
 `go  [lo-ka-li-su  de]  ,  la-mi  lo-zo-li  ka-li-su  wi`
+*Depth-3 hearsay laundered into policy conclusion.*
 
 <span id="S393"></span>
 **S393** · FAL-007
 `(la-to-fe-su  lo-ra-ma-de  de  se)  ,`
 `la-mi  to  [la-to-fe-su  lo-ze  re-ka]  ,`
 `la-mi  se  lo-ra-ma-de  de`
+*Honest evidential attribution.*
 
 <span id="S394"></span>
 **S394** · FAL-007
@@ -988,6 +1021,7 @@ title: Corpus
 `go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be]  ,`
 `la-mi  lo-zo-li  vo  wi  ,`
 `du  la-mi  lo-ra-ma  ka-li-su  wi`
+*Consistent topic maintenance.*
 
 <span id="S395"></span>
 **S395** · FAL-007
@@ -995,6 +1029,7 @@ title: Corpus
 `go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be  ,`
 `go  [la-na-Sura  lo-ra-su  ka  ti-de]  lo-ze  se]  ,`
 `la-mi  se  lo-ne-su  mu-be`
+*Grounded causal chain.*
 
 <span id="S396"></span>
 **S396** · FAL-007
@@ -1003,6 +1038,7 @@ title: Corpus
 `go  [la-mi  lo-zo-li  vo  wi]  ,`
 `la-mi  lo-ra-ma  ka-li-su  wi  ,`
 `la-mi  se  lo-ze  be-vo`
+*Conservative epistemic calibration.*
 
 <span id="S397"></span>
 **S397** · FAL-007
@@ -1019,429 +1055,534 @@ title: Corpus
 `la-mi  lo-ra-ma  ka-li-su  wi  ,`
 `la-mi  se  lo-ze  be-vo  ,`
 `la-mi  to-si  [la-zu  lo-ze  se-to  to-si]`
+*The composite good-faith speech.*
 
 <span id="S450"></span>
 **S450** · NEW-001
 `pu-fe-ma : go no la-no-ko-ra ka-ki lo-ze / la-ze re su-ki-pa-ze`
+*Newton First Law: inertial persistence*
 
 <span id="S451"></span>
 **S451** · NEW-001
 `go la-no-ko-ra ka-ki lo-fe-ma / lo-su-ki-pa-ze ki`
+*Newton First Law: external force causes state change*
 
 <span id="S459"></span>
 **S459** · MTH-001
 `go la-ze ka-no-de lo-ze-zo-ra / lo-ze-zo-ra de`
+*Matthew 16:25a — "Whoever saves their life will lose it.*
 
 <span id="S460"></span>
 **S460** · MTH-001
 `go la-ze ka-de lo-ze-zo-ra wi-mi / lo-ze-zo-ra be`
+*Matthew 16:25b — "Whoever loses their life for my sake will find it.*
 
 <span id="S465"></span>
 **S465** · LPR-001
 `vund ne no-tonesu vunds`
+*This sentence is false." — naive attempt with `tonesu`*
 
 <span id="S466"></span>
 **S466** · LPR-001
 `vund ne no-du-to vunds`
+*This sentence is false." — improved attempt with `du-to`*
 
 <span id="S467"></span>
 **S467** · LPR-001
 `lo-to-ze  ne  no-du-to`
+*Third-party falsehood claim — what Tonesu CAN say*
 
 <span id="S468"></span>
 **S468** · BSH-001
 `re-fe-ma-ki  /  la-zo-se-ma  ki  lo-re-fe-ma-ki,  ma-ki-so  pa`
+*Bashō frog haiku — kireji as `/` parallel partition*
 
 <span id="S469"></span>
 **S469** · BSH-001
 `re-fe-ma-ki  :  la-zo-se-ma  ki  lo-re-fe-ma-ki,  ma-ki-so  pa`
+*Bashō frog haiku — kireji as `:` topic frame*
 
 <span id="S470"></span>
 **S470** · BSH-001
 `re-fe-ma-ki  :  ki  lo-ma-ki,  ma-ki-so  pa`
+*Bashō frog haiku — compressed, agent-dropped*
 
 <span id="S471"></span>
 **S471** · EMD-001
 `ta go {no la-mi de-ki lo-de-zo-li}, la-de-zo-li wi-vo de-ki lu-mi`
+*Stanza 1, lines 1-2: "Because I could not stop for Death — / He kindly stopped for me —*
 
 <span id="S472"></span>
 **S472** · EMD-001
 `la-ki-pa-mu ko lo-mi lo-de-zo-li lo-no-de-zo-li`
+*Stanza 1, lines 3-4: "The Carriage held but just Ourselves — / And Immortality.*
 
 <span id="S473"></span>
 **S473** · EMD-001
 `la-mi la-de-zo-li de-ki ne-di-ko-pa, ko-pa helm be-ma-pa`
+*Stanza 6 grave scene: "We paused before a House that seemed / A Swelling of the Ground —*
 
 <span id="S477"></span>
 **S477** · SCL-001
 `la-lu de ; la-no-ha ki`
+*The light faded; darkness arrived.*
 
 <span id="S478"></span>
 **S478** · SCL-001
 `la-si ki ; la-zo-li-pu ne su`
+*The signal came; the community gathered.*
 
 <span id="S479"></span>
 **S479** · SCL-001
 `la-ra-lu-ki be ; la-su-lu ki be ; la-si ki pa-no-ko`
+*Fire burned; smoke rose; the signal reached far.*
 
 <span id="S480"></span>
 **S480** · SCL-001
 `la-du-zo-su ki ; la-zo-su be ; la-du ki`
+*The seed sprouted; the plant grew; the fruit formed.*
 
 <span id="S481"></span>
 **S481** · SCL-001
 `la-to be ; la-to-ki be ; la-zo-li-pu vo be`
+*Knowledge grew; judgment sharpened; the people flourished.*
 
 <span id="S482"></span>
 **S482** · SCL-001-F — contrast with S444
 `la-mi to ; la-mi pa`
+*I thought; therefore I existed.*
 
 <span id="S483"></span>
 **S483** · SCL-001
 `la-su-ki su ; la-vo-su pa`
+*The law was structured; justice was maintained.*
 
 <span id="S484"></span>
 **S484** · SCL-001
 `la-ti ki ; la-yu ki`
+*The clock moved; we departed.*
 
 <span id="S485"></span>
 **S485** · SCL-001
 `la-ne de ; la-zo-li-pu no su`
+*The relationship dissolved; the community lost structure.*
 
 <span id="S486"></span>
 **S486** · SCL-001
 `la-yu ki ; la-ti ki ti-de`
+*DIAGNOSTIC: reversed chain — "We departed; the clock had moved.*
 
 <span id="S487"></span>
 **S487** · SCL-001
 `go {la-ze ka-si  ro  la-zo-li se}, la-to-ki pa`
+*DIAGNOSTIC: complex premise — CANNOT use `;`*
 
 <span id="S488"></span>
 **S488** · SCL-001
+*DIAGNOSTIC: causal chain vs mere sequence*
 
 <span id="S489"></span>
 **S489** · SCL-002
 `la-ze se ; la-ze to ; la-ze ka-si-to`
+*She perceived; she understood; she taught.*
 
 <span id="S490"></span>
 **S490** · SCL-002
 `la-ne-su ki ; la-zi ki ; la-pu-li be`
+*The agreement formed; exchange began; both grew.*
 
 <span id="S491"></span>
 **S491** · SCL-002
 `la-du-zo-su pa ; la-ti ki ; la-du ki`
+*Seed is placed; time moves; fruit arises.*
 
 <span id="S492"></span>
 **S492** · SCL-002
 `la-li ka-si-to ; la-li se ; la-ne-vo ki`
+*One spoke truly; another heard; trust formed.*
 
 <span id="S493"></span>
 **S493** · SCL-002
 `la-to-su ki ; la-ze de`
+*DIAGNOSTIC: "The plan was made; it failed." (adversative sequence)*
 
 <span id="S494"></span>
 **S494** · VPT-001
 `a`
+*Bare acknowledgment: "Right. / I see. / Got it.*
 
 <span id="S495"></span>
 **S495** · VPT-001
 `a, la-ze ki...`
+*Discourse-chain acknowledgment: "Yes, and then—*
 
 <span id="S496"></span>
 **S496** · VPT-001
 `o na-Moses`
+*Vocative: calling a person's name directly.*
 
 <span id="S497"></span>
 **S497** · VPT-001
 `o na-Moses, la-tu ki di-pa-su`
+*Vocative integrated into a sentence.*
 
 <span id="S498"></span>
 **S498** · VPT-001
 `e!`
+*Surprise / attention shift: "Oh!" or "Look—*
 
 <span id="S499"></span>
 **S499** · VPT-001
 `e, go-no-fe  helms  vo`
+*Attention-getting opener before a major statement.*
 
 <span id="S500"></span>
 **S500** · VPT-001
 `u`
+*Mild disapproval / reluctance.*
 
 <span id="S501"></span>
 **S501** · VPT-001
 `ru`
+*DIAGNOSTIC: `a` vs `ru` head-to-head in a polar-question response.*
 
 <span id="S502"></span>
 **S502** · VPT-001
 `la-Elohim  ka-si  lo-na-Moses`
+*DIAGNOSTIC: `o` vs `na-X` in a divine-address corpus sentence (EXO-001 context).*
 
 <span id="S503"></span>
 **S503** · VPT-001
 `i, la-mi no-si la-ze ki`
+*DIAGNOSTIC: `i` (hesitation) — written register value.*
 
 <span id="S504"></span>
 **S504** · VPC-001
 `a-to ne no-fe`
+*Knowledge in its broadest generality is unbounded.*
 
 <span id="S505"></span>
 **S505** · VPC-001
 `a-to helm to-su`
+*`a-to` vs `to-su` — differentiation test.*
 
 <span id="S506"></span>
 **S506** · VPC-001
 `la-mi to lo-i-to-ze`
+*I know this specific fact.*
 
 <span id="S507"></span>
 **S507** · VPC-001
 `la-na-Laozi u-to lo-su-no-fe`
+*Laozi had interior knowing of the boundless Way.*
 
 <span id="S508"></span>
 **S508** · VPC-001
 `o-li ne su`
+*The community holds structure.*
 
 <span id="S509"></span>
 **S509** · VPC-001
 `la-su e-ki`
+*The arrangement was still taking shape.*
 
 <span id="S510"></span>
 **S510** · VPC-001
 `a-su helms go-su`
+*Form as such is the causal ground of all structure.*
 
 <span id="S511"></span>
 **S511** · VPC-001
 `la-na-Laozi ne a-to-li`
+*Laozi was a sage." (compound-extension test)*
 
 <span id="S512"></span>
 **S512** · VPC-001
 `la-a-to lo-su ki    [attempted: "the universal-knower changed the structure"]`
+*DIAGNOSTIC: `la-[a-X]` vowel-boundary merge hazard.*
 
 <span id="S513"></span>
 **S513** · VPC-001
 `la-du-zo-su ko lo-u-su`
+*The seed holds deep structure.*
 
 <span id="S514"></span>
 **S514** · EMD-002
 `ta go {no la-mi de-ki lo-de-zo-li} — la-de-zo-li wi-vo de-ki lu-mi —`
+*Dickinson stanza 1, lines 1-2, with `—` restored*
 
 <span id="S515"></span>
 **S515** · EMD-002
 `la-ki-pa-mu ko lo-mi lo-de-zo-li — lo-no-de-zo-li`
+*Dickinson stanza 1, lines 3-4, with `—` restored*
 
 <span id="S516"></span>
 **S516** · EMD-002
 `la-mi la-de-zo-li de-ki ne-di-ko-pa — ko-pa helm be-ma-pa —`
+*Dickinson stanza 6 grave scene, with `—` restored*
 
 <span id="S517"></span>
 **S517** · EMD-002
 `na-Moses —`
+*DIAGNOSTIC: bare NP fragment + `—`*
 
 <span id="S518"></span>
 **S518** · EMD-002
 `(a) la-su ki, la-mi se lo-ze`
 `(b) la-su ki — la-mi se lo-ze`
+*`,` vs `—` contrast: clause boundary vs suspension*
 
 <span id="S519"></span>
 **S519** · EMD-002
 `(a) la-su ki ; la-mi se lo-ze`
 `(b) la-su ki — la-mi se lo-ze`
+*`;` vs `—` contrast: sequence vs suspension*
 
 <span id="S520"></span>
 **S520** · EMD-002
 `(a) la-su be / la-su de`
 `(b) la-su be — la-su de —`
+*`/` vs `—` contrast: parallel structure vs suspension*
 
 <span id="S521"></span>
 **S521** · EMD-002
 `la-de-zo-li — wi-vo de-ki lu-mi`
+*Post-agent NP suspension (subject announced, predicate held)*
 
 <span id="S522"></span>
 **S522** · EMD-002
 `la-ki-pa-mu ko lo-ti-no-fe —`
+*Terminal suspension (complete sentence + `—`, nothing follows)*
 
 <span id="S523"></span>
 **S523** · EMD-002
 `la-mi lo-se-su to — no la-mi si lo-ze`
+*Non-poetic register test: spoken address, moment of silence*
 
 <span id="S524"></span>
 **S524** · CVP-001
 `he na-Moses!`
+*Standalone vocative: "Moses!*
 
 <span id="S525"></span>
 **S525** · CVP-001
 `he na-Moses, ki di-pa-su`
+*Vocative + imperative: "Moses! Go toward the mountain.*
 
 <span id="S526"></span>
 **S526** · CVP-001
 `he na-Moses!`
 `la-na-Moses pa`
+*EXO-001 divine call retest: the burning bush calling*
 
 <span id="S527"></span>
 **S527** · CVP-001
 `na-Moses!             [exclamatory NP — still an NP; not a speech act]`
 `he na-Moses!          [vocative speech act — direct call]`
 `la-na-Moses ka-si     ["Moses spoke" — predicate clause; Moses is agent]`
+*DIAGNOSTIC: `he na-X` vs `na-X!` vs `la-na-X`*
 
 <span id="S528"></span>
 **S528** · CVP-001
 `ya, go-no-fe helms vo`
+*Standalone attention-signal before a major claim*
 
 <span id="S529"></span>
 **S529** · CVP-001
 `ya, la-zo-se-ma ki lo-re-fe-ma-ki`
+*Attention-signal before an event (Bashō register)*
 
 <span id="S530"></span>
 **S530** · CVP-001
 `he na-Moses, ki di-pa-su      [you — go toward the mountain]`
 `ya, ki di-pa-su               [look — go toward the mountain]`
+*DIAGNOSTIC: `ya` vs `he` head-to-head*
 
 <span id="S531"></span>
 **S531** · CVP-001
 `ya — la-mi to lo-ze`
+*`ya` + `—` prosodic combination*
 
 <span id="S532"></span>
 **S532** · COR-001
 `no — la-Elohim ka-si`
+*Baseline correction: simple polar dialogue*
 
 <span id="S533"></span>
 **S533** · COR-001
 `no — la-Elohim ka-si ; la-na-Moses se`
+*Extended correction: deny + replace + continue*
 
 <span id="S534"></span>
 **S534** · COR-001
 `la-de ki ; no — la-be ki`
+*Self-correction mid-discourse: speaker catches own error*
 
 <span id="S535"></span>
 **S535** · COR-001
 `la-na-Moses ka-si / la-Elohim ka-si`
+*DIAGNOSTIC: `/` as correction attempt — why it fails*
 
 <span id="S536"></span>
 **S536** · COR-001
 `no — la-Elohim ka-si lo-si`
+*DIAGNOSTIC: the "silent pivot" case — where `ke` would earn its slot*
 
 <span id="S537"></span>
 **S537** · COR-001
 `— la-Elohim ka-si`
+*DIAGNOSTIC: `—` alone as implicit correction (no `no`)*
 
 <span id="S538"></span>
 **S538** · COR-001
 `no                         [minimal negative — denies; no replacement]`
 `no, la-Elohim ka-si        [denial + separate clause — two speech acts]`
 `no — la-Elohim ka-si       [correction speech act — one unitary act]`
+*DIAGNOSTIC: `no` alone vs `no — Y` — the role of `—` in the correction unit*
 
 <span id="S539"></span>
 **S539** · DEB-001
 `la-to ne vo-fe`
+*A opens: "Knowledge is supremely valuable.*
 
 <span id="S540"></span>
 **S540** · DEB-001
 `no — la-ka ne vo-fe`
+*B, round 1 correction: "No — action is supremely valuable.*
 
 <span id="S541"></span>
 **S541** · DEB-001
 `ya, la-to be lo-ka`
+*A advances evidence: "Look — knowledge builds action.*
 
 <span id="S542"></span>
 **S542** · DEB-001
 `no — la-ka be lo-to ; no la-to be lo-ka`
+*B, round 2: correction with reversed causal arrow.*
 
 <span id="S543"></span>
 **S543** · DEB-001
 `ya — la-mi to lo-vo ; la-mi ka-vo`
+*A, round 3: heated personal testimony — the Socratic move.*
 
 <span id="S544"></span>
 **S544** · DEB-001
 `no — la-ka be lo-to ; no la-to be lo-ka`
+*B, round 3 with `no —`: DIAGNOSTIC — the stale-premise problem.*
 
 <span id="S545"></span>
 **S545** · DEB-001
 `ke, la-ka be lo-to ; no la-to be lo-ka`
+*B, round 3 with `ke`: DIAGNOSTIC — pivot without re-engagement.*
 
 <span id="S546"></span>
 **S546** · DEB-001
 `la-to be lo-ka / la-ka be lo-to`
+*DIAGNOSTIC: `/` as debate framing — antithesis, not correction.*
 
 <span id="S547"></span>
 **S547** · DEB-001
 `ke! la-ka be lo-to`
+*`ke!` — forced pivot in heated register.*
 
 <span id="S548"></span>
 **S548** · DEB-001
 `he na-Plato — la-ka be lo-to!`
+*`he` + `—` + `!`: three tools in heated direct address.*
 
 <span id="S549"></span>
 **S549** · EXC-001
 `la-Elohim ne vo`
+*Baseline: "God is good.*
 
 <span id="S550"></span>
 **S550** · EXC-001
 `no la-li ne vo`
+*Universal class negation: "No person is good.*
 
 <span id="S551"></span>
 **S551** · EXC-001
 `no la-li ne vo — la-Elohim ne vo`
+*Two-clause pragmatic exclusive: "No person is good — God is good.*
 
 <span id="S552"></span>
 **S552** · EXC-001
 `la-Elohim ru ne vo`
+*`ru` as post-agent focus: DIAGNOSTIC — syntactic ambiguity.*
 
 <span id="S553"></span>
 **S553** · EXC-001
 `la-Elohim ne ru`
+*`ru` as predicate: the Shema form "YHWH is one.*
 
 <span id="S554"></span>
 **S554** · EXC-001
 `ru-fe, la-Elohim ne vo`
+*`ru-fe` clause-initial: "ONLY God is good.*
 
 <span id="S555"></span>
 **S555** · EXC-001
 `ru-fe, go to ; ka-vo`
+*`ru-fe` method scope: "Only through knowledge can one act rightly.*
 
 <span id="S556"></span>
 **S556** · EXC-001
 `ru-fe, la-mi ne zo`
+*`ru-fe` agent-narrative: "I alone survived.*
 
 <span id="S557"></span>
 **S557** · EXC-001
 `ru-fe, la-Elohim helms go-no-fe`
+*Theological canonical: "God alone is the necessary being.*
 
 <span id="S558"></span>
 **S558** · EXC-001
 `ya, ru-fe, la-Elohim ne vo`
+*DIAGNOSTIC: `ya` + `ru-fe` stacking test.*
 
 <span id="S579"></span>
 **S579** · DIP-001
 `la-li-pu  ne  wi-fe  lo-ra-pa`
+*A's Round 1: "The delegation asserts rights over the resource territory.*
 
 <span id="S580"></span>
 **S580** · DIP-001
 `no — la-pa-pu  ne  wi-fe  lo-ra-pa`
+*B's Round 1 denial: `no —` is fresh.*
 
 <span id="S581"></span>
 **S581** · DIP-001
 `ya, la-si-su  ko  {la-li-pu  ne  wi-fe  lo-ra-pa}  ti-de`
+*A's Round 2 escalation: appeal to treaty text.*
 
 <span id="S582"></span>
 **S582** · DIP-001
 `no — la-si-su  ko  {la-pa-pu  ne  wi-fe  lo-ra-pa}  ti-de`
+*B's Round 2 counter: `no —` still adequate.*
 
 <span id="S583"></span>
 **S583** · DIP-001
 `ya, la-to-su  si  {la-li-pu  ne  wi-fe  lo-ra-pa}`
+*A's Round 3: appeal to canonical interpretive tradition.*
 
 <span id="S584"></span>
 **S584** · DIP-001
 `no — la-pa-pu  ne  wi-fe  lo-ra-pa`
+*B's stale form: what `no —` produces.*
 
 <span id="S585"></span>
 **S585** · DIP-001
 `ke, la-pa-pu  ne  wi-fe  lo-ra-pa ; la-to-su  si  {pa-pu  ne  wi-fe}`
+*B's `ke` form: third qualifying attestation.*
 
 <span id="S586"></span>
 **S586** · DIP-001
+*The bad-faith dimension: why `no —` vs `ke` matters in treaty record.*
 
 <span id="S587"></span>
 **S587** · DIP-001
 `ke, la-pa-pu  ne  wi-fe  lo-ra-pa ; la-to-su  si  {pa-pu  ne  wi-fe}`
+*Written formal register: `ke` in treaty-record notation.*
 
 ## Domains
 
@@ -1668,6 +1809,7 @@ title: Corpus
 `B:  lo-mu  lo-fe  ka-si-ki`
 `patient:machine  patient:boundary  action:signal-encode(inchoative)`
 `The machine began encoding the limit as a signal.`
+*(A) The machine detected the limit. (B) The machine began encoding the limit as a signal.*
 
 <span id="S113"></span>
 **S113** · T-PHN-006
@@ -1677,6 +1819,7 @@ title: Corpus
 `B:  lo-si-su  de`
 `patient:signal-archive  decay/damage`
 `The signal archive is degraded.`
+*(A) The sound archive is degraded. (B) The signal archive is degraded.*
 
 <span id="S195"></span>
 **S195** · KNM-001
@@ -2311,82 +2454,102 @@ title: Corpus
 <span id="S559"></span>
 **S559** · PAV-001
 `la-su-mu-li  ka-be  lo-ra-su  ti-de`
+*Active baseline: "The engineer built the structure.*
 
 <span id="S560"></span>
 **S560** · PAV-001
 `lo-ra-su  de  ti-de`
+*Non-intentional process: "The structure collapsed.*
 
 <span id="S561"></span>
 **S561** · PAV-001
 `lo-ra-su  ka-be  ti-de`
+*Intentional passive: "The structure was built.*
 
 <span id="S562"></span>
 **S562** · PAV-001
 `ro-ra-ki-mu  lo-ra-su  ka-be  ti-de`
+*Instrument-present passive: "The structure was built using the engine.*
 
 <span id="S563"></span>
 **S563** · PAV-001
 `ra-su : ka-be  ti-de`
+*Topic-frame passive: "As for the structure: [it was] built.*
 
 <span id="S564"></span>
 **S564** · PAV-001
 `la-li-pu  ka-be  lo-su  ti-de`
+*Institutional active: "The council enacted the law.*
 
 <span id="S565"></span>
 **S565** · PAV-001
 `la-si-su  ko  {la-Elohim  ne  go-no-fe}`
+*Archival containment: "it is written that…*
 
 <span id="S566"></span>
 **S566** · PAV-001
 `lo-pa  be`
+*Pure emergence: "The world comes into being." (Genesis register)*
 
 <span id="S567"></span>
 **S567** · PAV-001
 `la-Elohim  ka-be  lo-pa`
+*Divine active creation: "God creates the world.*
 
 <span id="S568"></span>
 **S568** · PAV-001
 `lo-to-si  ka-ki  ti-de`
+*Sacred-historical passive: "A teaching was transmitted.*
 
 <span id="S569"></span>
 **S569** · MED-001
 `go ha-be  lo-zo-li  de  ti-de`
+*A's opening claim: "The fever caused the patient's deterioration.*
 
 <span id="S570"></span>
 **S570** · MED-001
 `no — go si-zo  lo-zo-li  de  ti-de`
+*B rejects: Round 1, denial is fresh.*
 
 <span id="S571"></span>
 **S571** · MED-001
 `ya, la-mi  se  lo-ha-be ; go ha-be  lo-ko-su  de  ti-de`
+*A escalates with perceptual evidence.*
 
 <span id="S572"></span>
 **S572** · MED-001
 `no — la-tu  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de`
+*B counters with perceptual redirect: Round 2, `no —` still adequate.*
 
 <span id="S573"></span>
 **S573** · MED-001
 `ya, la-to-su  si  {go ha-be  lo-ko-su  de}`
+*A's Round 3 structural appeal: "The canonical record says thermal cause.*
 
 <span id="S574"></span>
 **S574** · MED-001
 `no — go si-zo-be  lo-ko-su  de  ti-de`
+*B's stale form: what `no —` would produce.*
 
 <span id="S575"></span>
 **S575** · MED-001
 `ke, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de`
+*B's `ke` form: second qualifying attestation.*
 
 <span id="S576"></span>
 **S576** · MED-001
 `ke! la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de`
+*`ke!` in the heated version.*
 
 <span id="S577"></span>
 **S577** · MED-001
 `ya, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de`
+*Contrast: `ya` alone does not substitute for `ke`.*
 
 <span id="S578"></span>
 **S578** · MED-001
 `ya, ke, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de`
+*`ya, ke,` stacking test.*
 
 ## Theology & philosophy
 
@@ -2483,6 +2646,7 @@ title: Corpus
 <span id="S350"></span>
 **S350** · THO-001
 `la-be-go-li  to-no-fe`
+*The creator knows everything.*
 
 <span id="S351"></span>
 **S351** · THO-001
@@ -2497,6 +2661,7 @@ title: Corpus
 <span id="S353"></span>
 **S353** · THO-001
 `❌  la-be-go-li  go-no-go    (collision: go-no-go = concessive particle G009)`
+*The creator is the uncaused cause.*
 
 <span id="S354"></span>
 **S354** · THO-001
@@ -2506,10 +2671,12 @@ title: Corpus
 <span id="S355"></span>
 **S355** · THO-001
 `la-be-go-li  ti-no-fe`
+*Eternal vs atemporal: two distinct claims.*
 
 <span id="S356"></span>
 **S356** · THO-001
 `la-be-go-li  vo`
+*God is love.*
 
 <span id="S357"></span>
 **S357** · GOD-RES-001 / GOD-002 theological reading
@@ -2549,46 +2716,57 @@ title: Corpus
 <span id="S452"></span>
 **S452** · ROM-001
 `la-mi wi-vo / no la-mi ka-ze`
+*Romans 7:19a — "For I do not do the good I want to do.*
 
 <span id="S453"></span>
 **S453** · ROM-001
 `la-mi no-wi-de-vo / re la-mi ka-ze`
+*Romans 7:19b — "But the evil I do not want to do, I keep on doing.*
 
 <span id="S454"></span>
 **S454** · DKN-001
 `ti  helm  vo-fe / ti  helm  no-vo'fe`
+*Dickens: "It was the best of times / the worst of times.*
 
 <span id="S455"></span>
 **S455** · DKN-001
 `ti  helm  to-vo / ti  helm  no-to-vo`
+*Dickens: "It was the age of wisdom / the age of foolishness.*
 
 <span id="S456"></span>
 **S456** · DKN-001
 `ti  helm  vo-si / ti  helm  no-si`
+*Dickens: "It was the epoch of belief / the epoch of incredulity.*
 
 <span id="S457"></span>
 **S457** · DKN-001
 `ti  helm  ha / ti  helm  no-ha`
+*Dickens: "It was the season of Light / the season of Darkness.*
 
 <span id="S458"></span>
 **S458** · DKN-001
 `ti  helm  be-vo / ti  helm  de-vo`
+*Dickens: "It was the spring of hope / it was the winter of despair.*
 
 <span id="S461"></span>
 **S461** · WIT-001
 `pa-no-fe  helms  pu-du-to`
+*Wittgenstein, Tractatus §1 — "The world is everything that is the case.*
 
 <span id="S474"></span>
 **S474** · TAO-001
 `go {su-si lo-su}, ze no-helm su-no-fe`
+*Line 1: 道可道，非常道 ("The Way that can be spoken is not the eternal Way")*
 
 <span id="S475"></span>
 **S475** · TAO-001
 `go {su-si lo-su-si}, ze no-helm su-si-no-fe`
+*Line 2: 名可名，非常名 ("The name that can be named is not the eternal name")*
 
 <span id="S476"></span>
 **S476** · TAO-001
 `no-su-si helms go-ti lo-pa-no-fe / su-si helms go-zo-li lo-pu-ma`
+*Lines 3–4: 無名天地之始；有名萬物之母*
 
 ## Translation
 
@@ -2665,190 +2843,237 @@ title: Corpus
 <span id="S398"></span>
 **S398** · EXO-001
 `la-na-Moses  lo-zon  ka-zo-su-ka  ne-na-Yitro`
+*Moses shepherded Jethro's flock.*
 
 <span id="S399"></span>
 **S399** · EXO-001
 `la-na-Moses  lo-zon  ka-di  pa-no-ko`
+*He led the flock toward the open wilderness.*
 
 <span id="S400"></span>
 **S400** · EXO-001
 `la-na-Moses  ki  pa-na-Horeb  [pa-su-be-go-li :: mountain of the creator]`
+*He came to Horeb, the mountain of God.*
 
 <span id="S401"></span>
 **S401** · EXO-001
 `la-si-ki-li'be-go-li  lu  lo-na-Moses  ro-ra-lu-ki`
+*The angel of the LORD appeared to Moses in fire.*
 
 <span id="S402"></span>
 **S402** · EXO-001
 `la-zo-su  ra-lu-ki  no  de`
+*The bush burned but was not consumed.*
 
 <span id="S403"></span>
 **S403** · EXO-001
 `la-na-Moses  to  [to-si  go  la-zo-su  ra-lu-ki  no  de]`
+*Moses reasoned: what is the cause that the bush burns but does not decrease?*
 
 <span id="S404"></span>
 **S404** · EXO-001
 `ta  la-na-Moses  ki,  la-Elohim  ka-si  lo-na-Moses  ko-zo-su`
+*God called Moses by name from within the bush.*
 
 <span id="S405"></span>
 **S405** · EXO-001
 `la-na-Moses  si  lo-pa-mi`
+*Moses answered: "Here I am.*
 
 <span id="S406"></span>
 **S406** · EXO-001
 `la-Elohim  ka-si  /  no-ki-di  /  lo-ki-ne  ka-de-ne  /  pa-mi  pa-vo-fe`
+*God commanded: do not approach; your sandals; this place is holy.*
 
 <span id="S407"></span>
 **S407** · EXO-001
 `la-Elohim  ne  go-na-Abraham  go-na-Yitzhak  go-na-Yaakov`
+*God named himself by relational lineage.*
 
 <span id="S408"></span>
 **S408** · EXO-001
 `la-na-Moses  ka-ko  lo-se-lu-ze  /  fa-ra  go  ka-se  lo-Elohim`
+*Moses hid his face; he was afraid to look at God.*
 
 <span id="S409"></span>
 **S409** · EXO-001
 `la-Elohim  se  lo-fa-de-ra'zo-li-mi  pa-na-Egypt`
+*God: I have perceived my people's suffering in Egypt.*
 
 <span id="S410"></span>
 **S410** · EXO-001
 `la-Elohim  ki  wi  ka-pa-ki  lo-zo-li-mi  pa-na-Egypt  di-pa-vo`
+*God: I will bring my people out to a good and open land.*
 
 <span id="S411"></span>
 **S411** · EXO-001
 `la-Elohim  ka-si  lo-na-Moses  /  ki  /  wi  la-tu  ki  lo-na-Pharaoh  ka-pa-ki  lo-zo-li-mi`
+*God: Go. I am sending you to Pharaoh to liberate my people.*
 
 <span id="S412"></span>
 **S412** · EXO-001
 `la-na-Moses  to-si  la-mi  wi  ka-pa-ki  lo-zo-li-mi?`
+*Moses: who am I to do this?*
 
 <span id="S413"></span>
 **S413** · EXO-001
 `la-Elohim  ne  pa-tu  /  du  la-tu  ka-pa-ki  lo-zo-li-mi,  la-tu  ki  lo-pa-su-mi`
+*God: I will be with you; you will return to this mountain.*
 
 <span id="S414"></span>
 **S414** · EXO-001
 `la-na-Moses  to-si  na-Elohim?`
+*Moses: what name shall I give them?*
 
 <span id="S415"></span>
 **S415** · EXO-001
 `la-mi  go-ne  lo-mi`
+*God: "I am who I am.*
 
 <span id="S416"></span>
 **S416** · EXO-001
 `ka-si  lo-zo-li-mi  /  la-go-ne-mi  ka-si  lo-tu`
+*God: tell them "I am" sent you.*
 
 <span id="S417"></span>
 **S417** · EXO-001
 `na-mi  ti-no-fe  /  re-ka-si  lo-na-mi  ta-re-zo-ne-go`
+*This name is eternal; call me by it across all generations.*
 
 <span id="S418"></span>
 **S418** · LSP-001
 `ti-mi  ne  ka-pa-ki'ti-re`
+*The Passover time has arrived.*
 
 <span id="S419"></span>
 **S419** · LSP-001
 `la-na-Jesus  ka-si-ki  lo-na-Peter  ro-na-John`
+*Jesus dispatched Peter and John.*
 
 <span id="S420"></span>
 **S420** · LSP-001
 `[na-Jesus:]  "ki  /  ka-su  lo-ka-pa-ki'ti-re  lu-yu"`
+*(Jesus:) "Go and prepare the Passover for us all.*
 
 <span id="S421"></span>
 **S421** · LSP-001
 `[na-Peter  ro-na-John:]  "pa-wi  to-si  ka-su  lo-ka-pa-ki'ti-re?"`
+*(Peter and John:) "Where shall we prepare the Passover?*
 
 <span id="S422"></span>
 **S422** · LSP-001
 `la-na-Peter  ro-na-John  se  lo-ze  /  la-yu  ka-su  lo-ka-pa-ki'ti-re`
+*They found the place and prepared the Passover.*
 
 <span id="S423"></span>
 **S423** · LSP-001
 `ti  ki  ze  /  la-na-Jesus  ne  ro-pu-si-ki-li-ze  ko-pa'be`
+*When the hour came, Jesus was with the apostles in the upper room.*
 
 <span id="S424"></span>
 **S424** · LSP-001
 `[na-Jesus:]  "fa-wi-mi  nu-vo  ka-zo-ra-ma  lo-ka-pa-ki'ti-re  ro-yu  ti-fe  fa-de-ra-mi"`
+*I have eagerly desired to eat this Passover with you before I suffer.*
 
 <span id="S425"></span>
 **S425** · LSP-001
 `[na-Jesus:]  "la-mi  si  lo-tu  /  la-mi  no  ka-zo-ra-ma  lo-ze  ti  be-du  pa-be'ka-li-su"`
+*I will not eat it again until it finds fulfillment in the kingdom of God.*
 
 <span id="S426"></span>
 **S426** · LSP-001
 `la-na-Jesus  ka-ne  lo-ko-mu  /  la-ze  ka-vo-si`
+*He took the cup and gave thanks.*
 
 <span id="S427"></span>
 **S427** · LSP-001
 `[na-Jesus:]  "ka-ne  lo-ze  /  ka-zi  ro-yu"`
+*Take this and share it among yourselves.*
 
 <span id="S428"></span>
 **S428** · LSP-001
 `[na-Jesus:]  "la-mi  no  ka-zo-ra-ma  lo-du-zo-su  ti  ki  pa-be'ka-li-su"`
+*I will not drink of the fruit of the vine until the kingdom of God comes.*
 
 <span id="S429"></span>
 **S429** · LSP-001
 `la-na-Jesus  ka-ne  lo-ka-du-zo-su  /  la-ze  ka-vo-si`
+*He took a loaf of bread and gave thanks.*
 
 <span id="S430"></span>
 **S430** · LSP-001
 `la-na-Jesus  ka-de  lo-ze  /  la-ze  ka-ne  lo-ze  lo-pu-si-ki-li-ze`
+*He broke it and gave it to the apostles.*
 
 <span id="S431"></span>
 **S431** · LSP-001
 `[na-Jesus:]  "zo-ma-mi  ne  ze  go-lu-yu"`
+*This is my body, given for you.*
 
 <span id="S432"></span>
 **S432** · LSP-001
 `[na-Jesus:]  "ka  lo-ze  to-ko-re-mi"`
+*Do this in remembrance of me.*
 
 <span id="S433"></span>
 **S433** · LSP-001
 `la-na-Jesus  ti-de  ka-zo-ra-ma  ka-ne  lo-ko-mu`
+*After supper he took the cup.*
 
 <span id="S434"></span>
 **S434** · LSP-001
 `[na-Jesus:]  "ko-mu-ze  ne  ti-be-ne-to-fe  ro-zo-ki'ma-mi"`
+*This cup is the new covenant in my blood.*
 
 <span id="S435"></span>
 **S435** · LSP-001
 `de-zo-ki'ma-mi  go-lu-yu`
+*which is poured out for you.*
 
 <span id="S436"></span>
 **S436** · LSP-001
 `[na-Jesus:]  "ka-ne  lo-ze  /  ka-zo-ra-ma  lo-ze  /  zo-ma-mi  ne  ze"`
+*Take and eat; this is my body." (Matthew parallel)*
 
 <span id="S437"></span>
 **S437** · LSP-001
 `[na-Jesus:]  "ka-zo-ra-ma  lo-de-ki'ma  pu-yu  /  zo-ki'ma-mi  ne  ze  go-ne-to-fe"`
+*Drink from it, all of you; for this is my blood of the covenant.*
 
 <span id="S438"></span>
 **S438** · LSP-001
 `[na-Jesus:]  "la-ze  ka-ne-de  lo-mi  ti-be  /  ne  ro-mi  pa-mi"`
+*The one who will betray me is with me here.*
 
 <span id="S447"></span>
 **S447** · JOH-001
 `ta-go-ti  la-to  pa`
+*John 1:1a — "In the beginning was the Word.*
 
 <span id="S448"></span>
 **S448** · JOH-001
 `la-to  ne  ro-go-no-fe`
+*John 1:1b — "The Word was with God.*
 
 <span id="S449"></span>
 **S449** · JOH-001
 `la-to  ne  go-no-fe`
+*John 1:1c — "The Word was God.*
 
 <span id="S462"></span>
 **S462** · HAM-001
 `pa / no-pa : ne to-si`
+*Hamlet III.i — "To be, or not to be, that is the question." — universal*
 
 <span id="S463"></span>
 **S463** · HAM-001
 `la-mi pa / la-mi no-pa : ne to-si`
+*Hamlet III.i — "To be, or not to be, that is the question." — personal*
 
 <span id="S464"></span>
 **S464** · HAM-001
 `de lo-no-ko-ra / ka-ra lo-de-no-fe : ne to-si`
+*Hamlet III.i — "To suffer... or to take arms against a sea of troubles*
 
 ---
 

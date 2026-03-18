@@ -1557,7 +1557,8 @@ sentences:
     \  patient:boundary  action:signal-encode(inchoative)\n    The machine began encoding\
     \ the limit as a signal."
   gloss_line: null
-  natural: null
+  natural: (A) The machine detected the limit. (B) The machine began encoding the
+    limit as a signal.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -1573,7 +1574,7 @@ sentences:
     \ archive is degraded.\n\nB:  lo-si-su  de\n    patient:signal-archive  decay/damage\n\
     \    The signal archive is degraded."
   gloss_line: null
-  natural: null
+  natural: (A) The sound archive is degraded. (B) The signal archive is degraded.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -2237,7 +2238,8 @@ sentences:
 
     Natural B: My affective substrate is active; no model of why.'
   gloss_line: null
-  natural: null
+  natural: (A) I detected something; no model formed of what it was. (B) My affective
+    substrate is active; no model of why.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -5028,7 +5030,7 @@ sentences:
     \ B2:  ki  lo-pa-mi\n          [la-mi dropped]  moved  patient:here\n        \
     \  [I'll] come here. / [I'm] going to take a look."
   gloss_line: null
-  natural: null
+  natural: Have you seen the mycelium? / Yes — [I] see it. / [I'll] come here.
   words_attested:
   - W026
   - W076
@@ -5065,7 +5067,7 @@ sentences:
     \  ru — se  lo-re'zo-se-ne  ta-ti-de\n                   yes — [I] perceived \
     \ patient:deer  at-past-time\n                   (Yes — I saw one earlier.)"
   gloss_line: null
-  natural: null
+  natural: Did you see a deer? (casual vs formal register)
   words_attested:
   - W026
   first_attests: []
@@ -5088,7 +5090,8 @@ sentences:
     Natural:  This plant is actively growing right now.  (emphatic present; contingent
     state)'
   gloss_line: null
-  natural: null
+  natural: This plant is actively growing right now. (emphatic present; contingent
+    state)
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -5152,7 +5155,7 @@ sentences:
     \           agent:plant  produces  patient:biological-product\n           A plant\
     \ produces reproductive bodies. / Plants produce seeds."
   gloss_line: null
-  natural: null
+  natural: What does a plant produce? / A plant produces reproductive bodies.
   words_attested:
   - W026
   first_attests: []
@@ -5181,7 +5184,7 @@ sentences:
   status: normative
   tonesu: la-be-go-li  to-no-fe
   gloss_line: null
-  natural: null
+  natural: The creator knows everything.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -5224,7 +5227,7 @@ sentences:
   tonesu: '❌  la-be-go-li  go-no-go    (collision: go-no-go = concessive particle
     G009)'
   gloss_line: null
-  natural: null
+  natural: The creator is the uncaused cause.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -5255,7 +5258,7 @@ sentences:
   status: normative
   tonesu: la-be-go-li  ti-no-fe
   gloss_line: null
-  natural: null
+  natural: 'Eternal vs atemporal: two distinct claims.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -5269,7 +5272,7 @@ sentences:
   status: normative
   tonesu: la-be-go-li  vo
   gloss_line: null
-  natural: null
+  natural: God is love.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -5567,7 +5570,7 @@ sentences:
 
     go  [la-ka-li-su  lo-zo-li  wi-ne  ne]  ,  no  la-ze  du  lo-to-no-fe  ka'
   gloss_line: null
-  natural: null
+  natural: 'Motte-and-bailey: strong claim retreating to weak claim.'
   words_attested:
   - W147
   - W148
@@ -5596,7 +5599,7 @@ sentences:
 
     la-mi  wi-fe  be  :  lo-ra-ne  se-to'
   gloss_line: null
-  natural: null
+  natural: 'Moving the goalposts: retroactive condition change.'
   words_attested:
   - W020
   - W062
@@ -5627,7 +5630,7 @@ sentences:
 
     go  [lo-wi-fe  de]  ,  la-mi  no-se  lo-ne-ki  de'
   gloss_line: null
-  natural: null
+  natural: 'Slippery slope: unjustified causal cascade.'
   words_attested:
   - W031
   - W100
@@ -5657,7 +5660,7 @@ sentences:
 
     la-mi  lo-zo-ne-du  pa-ki'
   gloss_line: null
-  natural: null
+  natural: 'Appeal to emotion: affective fact to normative conclusion.'
   words_attested:
   - W078
   - W156
@@ -5680,7 +5683,7 @@ sentences:
 
     (la-zu  lo-to-de  ka-past)  ,  to-si  [la-ze  de-fe-past]'
   gloss_line: null
-  natural: null
+  natural: 'Loaded question: smuggled presupposition.'
   words_attested:
   - W026
   first_attests: []
@@ -5708,7 +5711,7 @@ sentences:
 
     to-si  [la-zu  lo-wi-fe  de-fe-past]'
   gloss_line: null
-  natural: null
+  natural: 'Nested loaded question: three bundled presuppositions.'
   words_attested:
   - W026
   - W100
@@ -5745,7 +5748,7 @@ sentences:
 
     go  [la-ka-li-su  lo-zo-li  vo-wi-fe  ne]  ,  no  la-ze  du  lo-to-no-fe  ka'
   gloss_line: null
-  natural: null
+  natural: 'Double topic-substitution: motte-and-bailey with intermediate step.'
   words_attested:
   - W147
   - W148
@@ -5782,7 +5785,7 @@ sentences:
 
     (du  lo-ka-no-fe  de)  ,   (du  lo-ne-su  be-no-fe)'
   gloss_line: null
-  natural: null
+  natural: 'Compound slippery slope: mixed established and unestablished links.'
   words_attested:
   - W031
   - W100
@@ -5813,7 +5816,7 @@ sentences:
 
     go  (la-ka-li-su  (la-to-li  lo-to-su  ne)  re-ka)'
   gloss_line: null
-  natural: null
+  natural: 'Nested evidential attribution: reported-within-reported.'
   words_attested:
   - W003
   - W030
@@ -5851,7 +5854,7 @@ sentences:
 
     go  [la-na-Kael  lo-to-si-ze  se  ,  go  (la-na-Ren  lo-to-si-ze  si)]'
   gloss_line: null
-  natural: null
+  natural: 'Nested modal inflation: epistemic ladder across multiple agents.'
   words_attested:
   - W030
   - W072
@@ -5876,7 +5879,7 @@ sentences:
 
     no  la-mi  to  lo-ka-li-su  de'
   gloss_line: null
-  natural: null
+  natural: 'Campaign opening: evidential laundering.'
   words_attested:
   - W072
   - W147
@@ -5901,7 +5904,7 @@ sentences:
 
     na-Kur  :  la-ze  lo-to-de  re-ka'
   gloss_line: null
-  natural: null
+  natural: 'Policy challenge deflected: topic substitution.'
   words_attested:
   - W026
   first_attests: []
@@ -5922,7 +5925,7 @@ sentences:
 
     (du  la-ka-no-fe  lo-ne-su  ka-ki)'
   gloss_line: null
-  natural: null
+  natural: Catastrophe cascade from weak economic signal.
   words_attested:
   - W031
   - W147
@@ -5953,7 +5956,7 @@ sentences:
 
     la-mi  lo-zo-li  ka-li-su  wi'
   gloss_line: null
-  natural: null
+  natural: 'Normative demand: warrant chain skipped.'
   words_attested:
   - W147
   - W148
@@ -5977,7 +5980,7 @@ sentences:
 
     go  [la-mi  se  lo-ra-ma-de  se]  ,  la-mi  lo-zo-li  ka-li-su  wi'
   gloss_line: null
-  natural: null
+  natural: 'The composite speech: structural audit.'
   words_attested:
   - W031
   - W072
@@ -6023,7 +6026,7 @@ sentences:
 
     (du  la-mi  lo-ka-li-su  to)'
   gloss_line: null
-  natural: null
+  natural: The propaganda paragraph.
   words_attested:
   - W003
   - W031
@@ -6043,7 +6046,7 @@ sentences:
   status: normative
   tonesu: null
   gloss_line: null
-  natural: null
+  natural: Structural audit of S389.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6076,7 +6079,7 @@ sentences:
 
     go  [la-to-fe-su  (la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)  re-ka]'
   gloss_line: null
-  natural: null
+  natural: Depth-3 hearsay chain (standalone).
   words_attested:
   - W072
   - W147
@@ -6104,7 +6107,7 @@ sentences:
 
     go  [lo-ka-li-su  de]  ,  la-mi  lo-zo-li  ka-li-su  wi'
   gloss_line: null
-  natural: null
+  natural: Depth-3 hearsay laundered into policy conclusion.
   words_attested:
   - W072
   - W147
@@ -6125,7 +6128,7 @@ sentences:
 
     la-mi  se  lo-ra-ma-de  de'
   gloss_line: null
-  natural: null
+  natural: Honest evidential attribution.
   words_attested:
   - W072
   first_attests: []
@@ -6155,7 +6158,7 @@ sentences:
 
     du  la-mi  lo-ra-ma  ka-li-su  wi'
   gloss_line: null
-  natural: null
+  natural: Consistent topic maintenance.
   words_attested:
   - W026
   - W082
@@ -6175,7 +6178,7 @@ sentences:
     \  mu-be  ,\n     go  [la-na-Sura  lo-ra-su  ka  ti-de]  lo-ze  se]  ,\nla-mi\
     \  se  lo-ne-su  mu-be"
   gloss_line: null
-  natural: null
+  natural: Grounded causal chain.
   words_attested:
   - W031
   - W041
@@ -6200,7 +6203,7 @@ sentences:
 
     la-mi  se  lo-ze  be-vo'
   gloss_line: null
-  natural: null
+  natural: Conservative epistemic calibration.
   words_attested:
   - W082
   - W147
@@ -6223,7 +6226,7 @@ sentences:
     \ wi]  ,\nla-mi  lo-ra-ma  ka-li-su  wi  ,\n\nla-mi  se  lo-ze  be-vo  ,\nla-mi\
     \  to-si  [la-zu  lo-ze  se-to  to-si]"
   gloss_line: null
-  natural: null
+  natural: The composite good-faith speech.
   words_attested:
   - W026
   - W031
@@ -6245,7 +6248,7 @@ sentences:
   status: normative
   tonesu: la-na-Moses  lo-zon  ka-zo-su-ka  ne-na-Yitro
   gloss_line: null
-  natural: null
+  natural: Moses shepherded Jethro's flock.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6259,7 +6262,7 @@ sentences:
   status: normative
   tonesu: la-na-Moses  lo-zon  ka-di  pa-no-ko
   gloss_line: null
-  natural: null
+  natural: He led the flock toward the open wilderness.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6273,7 +6276,7 @@ sentences:
   status: normative
   tonesu: 'la-na-Moses  ki  pa-na-Horeb  [pa-su-be-go-li :: mountain of the creator]'
   gloss_line: null
-  natural: null
+  natural: He came to Horeb, the mountain of God.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6287,7 +6290,7 @@ sentences:
   status: normative
   tonesu: la-si-ki-li'be-go-li  lu  lo-na-Moses  ro-ra-lu-ki
   gloss_line: null
-  natural: null
+  natural: The angel of the LORD appeared to Moses in fire.
   words_attested:
   - W158
   first_attests:
@@ -6303,7 +6306,7 @@ sentences:
   status: normative
   tonesu: la-zo-su  ra-lu-ki  no  de
   gloss_line: null
-  natural: null
+  natural: The bush burned but was not consumed.
   words_attested:
   - W151
   first_attests:
@@ -6319,7 +6322,7 @@ sentences:
   status: normative
   tonesu: la-na-Moses  to  [to-si  go  la-zo-su  ra-lu-ki  no  de]
   gloss_line: null
-  natural: null
+  natural: 'Moses reasoned: what is the cause that the bush burns but does not decrease?'
   words_attested:
   - W026
   - W151
@@ -6335,7 +6338,7 @@ sentences:
   status: normative
   tonesu: ta  la-na-Moses  ki,  la-Elohim  ka-si  lo-na-Moses  ko-zo-su
   gloss_line: null
-  natural: null
+  natural: God called Moses by name from within the bush.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6349,7 +6352,7 @@ sentences:
   status: normative
   tonesu: la-na-Moses  si  lo-pa-mi
   gloss_line: null
-  natural: null
+  natural: 'Moses answered: "Here I am.'
   words_attested:
   - W110
   first_attests: []
@@ -6364,7 +6367,7 @@ sentences:
   status: normative
   tonesu: la-Elohim  ka-si  /  no-ki-di  /  lo-ki-ne  ka-de-ne  /  pa-mi  pa-vo-fe
   gloss_line: null
-  natural: null
+  natural: 'God commanded: do not approach; your sandals; this place is holy.'
   words_attested:
   - W110
   - W152
@@ -6382,7 +6385,7 @@ sentences:
   status: normative
   tonesu: la-Elohim  ne  go-na-Abraham  go-na-Yitzhak  go-na-Yaakov
   gloss_line: null
-  natural: null
+  natural: God named himself by relational lineage.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6396,7 +6399,7 @@ sentences:
   status: normative
   tonesu: la-na-Moses  ka-ko  lo-se-lu-ze  /  fa-ra  go  ka-se  lo-Elohim
   gloss_line: null
-  natural: null
+  natural: Moses hid his face; he was afraid to look at God.
   words_attested:
   - W154
   first_attests:
@@ -6412,7 +6415,7 @@ sentences:
   status: normative
   tonesu: la-Elohim  se  lo-fa-de-ra'zo-li-mi  pa-na-Egypt
   gloss_line: null
-  natural: null
+  natural: 'God: I have perceived my people''s suffering in Egypt.'
   words_attested:
   - W155
   first_attests:
@@ -6428,7 +6431,7 @@ sentences:
   status: normative
   tonesu: la-Elohim  ki  wi  ka-pa-ki  lo-zo-li-mi  pa-na-Egypt  di-pa-vo
   gloss_line: null
-  natural: null
+  natural: 'God: I will bring my people out to a good and open land.'
   words_attested:
   - W160
   first_attests:
@@ -6444,7 +6447,7 @@ sentences:
   status: normative
   tonesu: la-Elohim  ka-si  lo-na-Moses  /  ki  /  wi  la-tu  ki  lo-na-Pharaoh  ka-pa-ki  lo-zo-li-mi
   gloss_line: null
-  natural: null
+  natural: 'God: Go. I am sending you to Pharaoh to liberate my people.'
   words_attested:
   - W160
   first_attests: []
@@ -6459,7 +6462,7 @@ sentences:
   status: normative
   tonesu: la-na-Moses  to-si  la-mi  wi  ka-pa-ki  lo-zo-li-mi?
   gloss_line: null
-  natural: null
+  natural: 'Moses: who am I to do this?'
   words_attested:
   - W026
   - W160
@@ -6475,7 +6478,7 @@ sentences:
   status: normative
   tonesu: la-Elohim  ne  pa-tu  /  du  la-tu  ka-pa-ki  lo-zo-li-mi,  la-tu  ki  lo-pa-su-mi
   gloss_line: null
-  natural: null
+  natural: 'God: I will be with you; you will return to this mountain.'
   words_attested:
   - W160
   first_attests: []
@@ -6490,7 +6493,7 @@ sentences:
   status: normative
   tonesu: la-na-Moses  to-si  na-Elohim?
   gloss_line: null
-  natural: null
+  natural: 'Moses: what name shall I give them?'
   words_attested:
   - W026
   first_attests: []
@@ -6505,7 +6508,7 @@ sentences:
   status: normative
   tonesu: la-mi  go-ne  lo-mi
   gloss_line: null
-  natural: null
+  natural: 'God: "I am who I am.'
   words_attested:
   - W159
   first_attests:
@@ -6521,7 +6524,7 @@ sentences:
   status: normative
   tonesu: ka-si  lo-zo-li-mi  /  la-go-ne-mi  ka-si  lo-tu
   gloss_line: null
-  natural: null
+  natural: 'God: tell them "I am" sent you.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6535,7 +6538,7 @@ sentences:
   status: normative
   tonesu: na-mi  ti-no-fe  /  re-ka-si  lo-na-mi  ta-re-zo-ne-go
   gloss_line: null
-  natural: null
+  natural: This name is eternal; call me by it across all generations.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6549,7 +6552,7 @@ sentences:
   status: normative
   tonesu: ti-mi  ne  ka-pa-ki'ti-re
   gloss_line: null
-  natural: null
+  natural: The Passover time has arrived.
   words_attested:
   - W103
   - W109
@@ -6570,7 +6573,7 @@ sentences:
   status: normative
   tonesu: la-na-Jesus  ka-si-ki  lo-na-Peter  ro-na-John
   gloss_line: null
-  natural: null
+  natural: Jesus dispatched Peter and John.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6584,7 +6587,7 @@ sentences:
   status: normative
   tonesu: '[na-Jesus:]  "ki  /  ka-su  lo-ka-pa-ki''ti-re  lu-yu"'
   gloss_line: null
-  natural: null
+  natural: (Jesus:) "Go and prepare the Passover for us all.
   words_attested:
   - W103
   - W160
@@ -6601,7 +6604,7 @@ sentences:
   status: normative
   tonesu: '[na-Peter  ro-na-John:]  "pa-wi  to-si  ka-su  lo-ka-pa-ki''ti-re?"'
   gloss_line: null
-  natural: null
+  natural: (Peter and John:) "Where shall we prepare the Passover?
   words_attested:
   - W026
   - W103
@@ -6619,7 +6622,7 @@ sentences:
   status: normative
   tonesu: la-na-Peter  ro-na-John  se  lo-ze  /  la-yu  ka-su  lo-ka-pa-ki'ti-re
   gloss_line: null
-  natural: null
+  natural: They found the place and prepared the Passover.
   words_attested:
   - W103
   - W160
@@ -6636,7 +6639,7 @@ sentences:
   status: normative
   tonesu: ti  ki  ze  /  la-na-Jesus  ne  ro-pu-si-ki-li-ze  ko-pa'be
   gloss_line: null
-  natural: null
+  natural: When the hour came, Jesus was with the apostles in the upper room.
   words_attested:
   - W048
   first_attests: []
@@ -6651,7 +6654,7 @@ sentences:
   status: normative
   tonesu: '[na-Jesus:]  "fa-wi-mi  nu-vo  ka-zo-ra-ma  lo-ka-pa-ki''ti-re  ro-yu  ti-fe  fa-de-ra-mi"'
   gloss_line: null
-  natural: null
+  natural: I have eagerly desired to eat this Passover with you before I suffer.
   words_attested:
   - W037
   - W103
@@ -6670,7 +6673,7 @@ sentences:
   status: normative
   tonesu: '[na-Jesus:]  "la-mi  si  lo-tu  /  la-mi  no  ka-zo-ra-ma  lo-ze  ti  be-du  pa-be''ka-li-su"'
   gloss_line: null
-  natural: null
+  natural: I will not eat it again until it finds fulfillment in the kingdom of God.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6684,7 +6687,7 @@ sentences:
   status: normative
   tonesu: la-na-Jesus  ka-ne  lo-ko-mu  /  la-ze  ka-vo-si
   gloss_line: null
-  natural: null
+  natural: He took the cup and gave thanks.
   words_attested:
   - W052
   - W168
@@ -6701,7 +6704,7 @@ sentences:
   status: normative
   tonesu: '[na-Jesus:]  "ka-ne  lo-ze  /  ka-zi  ro-yu"'
   gloss_line: null
-  natural: null
+  natural: Take this and share it among yourselves.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6715,7 +6718,7 @@ sentences:
   status: normative
   tonesu: '[na-Jesus:]  "la-mi  no  ka-zo-ra-ma  lo-du-zo-su  ti  ki  pa-be''ka-li-su"'
   gloss_line: null
-  natural: null
+  natural: I will not drink of the fruit of the vine until the kingdom of God comes.
   words_attested:
   - W142
   first_attests:
@@ -6731,7 +6734,7 @@ sentences:
   status: normative
   tonesu: la-na-Jesus  ka-ne  lo-ka-du-zo-su  /  la-ze  ka-vo-si
   gloss_line: null
-  natural: null
+  natural: He took a loaf of bread and gave thanks.
   words_attested:
   - W161
   - W168
@@ -6748,7 +6751,7 @@ sentences:
   status: normative
   tonesu: la-na-Jesus  ka-de  lo-ze  /  la-ze  ka-ne  lo-ze  lo-pu-si-ki-li-ze
   gloss_line: null
-  natural: null
+  natural: He broke it and gave it to the apostles.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6762,7 +6765,7 @@ sentences:
   status: normative
   tonesu: '[na-Jesus:]  "zo-ma-mi  ne  ze  go-lu-yu"'
   gloss_line: null
-  natural: null
+  natural: This is my body, given for you.
   words_attested: []
   first_attests: []
   gap_refs:
@@ -6777,7 +6780,7 @@ sentences:
   status: normative
   tonesu: '[na-Jesus:]  "ka  lo-ze  to-ko-re-mi"'
   gloss_line: null
-  natural: null
+  natural: Do this in remembrance of me.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6791,7 +6794,7 @@ sentences:
   status: normative
   tonesu: la-na-Jesus  ti-de  ka-zo-ra-ma  ka-ne  lo-ko-mu
   gloss_line: null
-  natural: null
+  natural: After supper he took the cup.
   words_attested:
   - W041
   - W052
@@ -6807,7 +6810,7 @@ sentences:
   status: normative
   tonesu: '[na-Jesus:]  "ko-mu-ze  ne  ti-be-ne-to-fe  ro-zo-ki''ma-mi"'
   gloss_line: null
-  natural: null
+  natural: This cup is the new covenant in my blood.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6821,7 +6824,7 @@ sentences:
   status: normative
   tonesu: de-zo-ki'ma-mi  go-lu-yu
   gloss_line: null
-  natural: null
+  natural: which is poured out for you.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6835,7 +6838,7 @@ sentences:
   status: normative
   tonesu: '[na-Jesus:]  "ka-ne  lo-ze  /  ka-zo-ra-ma  lo-ze  /  zo-ma-mi  ne  ze"'
   gloss_line: null
-  natural: null
+  natural: Take and eat; this is my body." (Matthew parallel)
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6849,7 +6852,7 @@ sentences:
   status: normative
   tonesu: '[na-Jesus:]  "ka-zo-ra-ma  lo-de-ki''ma  pu-yu  /  zo-ki''ma-mi  ne  ze  go-ne-to-fe"'
   gloss_line: null
-  natural: null
+  natural: Drink from it, all of you; for this is my blood of the covenant.
   words_attested:
   - W162
   first_attests:
@@ -6865,7 +6868,7 @@ sentences:
   status: normative
   tonesu: '[na-Jesus:]  "la-ze  ka-ne-de  lo-mi  ti-be  /  ne  ro-mi  pa-mi"'
   gloss_line: null
-  natural: null
+  natural: The one who will betray me is with me here.
   words_attested:
   - W040
   - W092
@@ -6881,7 +6884,7 @@ sentences:
   status: normative
   tonesu: to-su  helm  ra
   gloss_line: null
-  natural: null
+  natural: Knowledge is power." (Francis Bacon, attributed)
   words_attested:
   - W030
   first_attests: []
@@ -6896,7 +6899,7 @@ sentences:
   status: normative
   tonesu: ti  helm  nu-vo
   gloss_line: null
-  natural: null
+  natural: Time is money." (Benjamin Franklin, attributed)
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6910,7 +6913,8 @@ sentences:
   status: normative
   tonesu: go-no-fe  helm  de
   gloss_line: null
-  natural: null
+  natural: God is dead." (Friedrich Nietzsche, *Die fröhliche Wissenschaft* §125,
+    1882)
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6924,7 +6928,7 @@ sentences:
   status: normative
   tonesu: go-no-fe  helms  vo
   gloss_line: null
-  natural: null
+  natural: God is love." (1 John 4:8)
   words_attested: []
   first_attests: []
   gap_refs:
@@ -6939,7 +6943,7 @@ sentences:
   status: normative
   tonesu: zo-li  helms  to-zo
   gloss_line: null
-  natural: null
+  natural: Man is a rational animal." (Aristotle, *Nicomachean Ethics* / *Politics*)
   words_attested:
   - W148
   first_attests: []
@@ -6954,7 +6958,7 @@ sentences:
   status: normative
   tonesu: la-mi  to  go  la-mi  pa
   gloss_line: null
-  natural: null
+  natural: I think, therefore I am." (René Descartes, *Discours de la méthode*, 1637)
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6968,7 +6972,7 @@ sentences:
   status: normative
   tonesu: pu-to-su  ne  ven  du-to
   gloss_line: null
-  natural: null
+  natural: All models are approximately correct." (George E. P. Box, paraphrase)
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6982,7 +6986,7 @@ sentences:
   status: normative
   tonesu: pu-to-su  ne  ven  no-du-to
   gloss_line: null
-  natural: null
+  natural: All models are approximately wrong." (George E. P. Box, complementary reading)
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -6996,7 +7000,7 @@ sentences:
   status: normative
   tonesu: ta-go-ti  la-to  pa
   gloss_line: null
-  natural: null
+  natural: John 1:1a — "In the beginning was the Word.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7010,7 +7014,7 @@ sentences:
   status: normative
   tonesu: la-to  ne  ro-go-no-fe
   gloss_line: null
-  natural: null
+  natural: John 1:1b — "The Word was with God.
   words_attested: []
   first_attests: []
   gap_refs:
@@ -7025,7 +7029,7 @@ sentences:
   status: normative
   tonesu: la-to  ne  go-no-fe
   gloss_line: null
-  natural: null
+  natural: John 1:1c — "The Word was God.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7039,7 +7043,7 @@ sentences:
   status: normative
   tonesu: 'pu-fe-ma : go no la-no-ko-ra ka-ki lo-ze / la-ze re su-ki-pa-ze'
   gloss_line: null
-  natural: null
+  natural: 'Newton First Law: inertial persistence'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7053,7 +7057,7 @@ sentences:
   status: normative
   tonesu: go la-no-ko-ra ka-ki lo-fe-ma / lo-su-ki-pa-ze ki
   gloss_line: null
-  natural: null
+  natural: 'Newton First Law: external force causes state change'
   words_attested: []
   first_attests: []
   gap_refs:
@@ -7069,7 +7073,7 @@ sentences:
   status: normative
   tonesu: la-mi wi-vo / no la-mi ka-ze
   gloss_line: null
-  natural: null
+  natural: Romans 7:19a — "For I do not do the good I want to do.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7083,7 +7087,7 @@ sentences:
   status: normative
   tonesu: la-mi no-wi-de-vo / re la-mi ka-ze
   gloss_line: null
-  natural: null
+  natural: Romans 7:19b — "But the evil I do not want to do, I keep on doing.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7097,7 +7101,7 @@ sentences:
   status: normative
   tonesu: ti  helm  vo-fe / ti  helm  no-vo'fe
   gloss_line: null
-  natural: null
+  natural: 'Dickens: "It was the best of times / the worst of times.'
   words_attested: []
   first_attests: []
   gap_refs:
@@ -7112,7 +7116,7 @@ sentences:
   status: normative
   tonesu: ti  helm  to-vo / ti  helm  no-to-vo
   gloss_line: null
-  natural: null
+  natural: 'Dickens: "It was the age of wisdom / the age of foolishness.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7126,7 +7130,7 @@ sentences:
   status: normative
   tonesu: ti  helm  vo-si / ti  helm  no-si
   gloss_line: null
-  natural: null
+  natural: 'Dickens: "It was the epoch of belief / the epoch of incredulity.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7140,7 +7144,7 @@ sentences:
   status: normative
   tonesu: ti  helm  ha / ti  helm  no-ha
   gloss_line: null
-  natural: null
+  natural: 'Dickens: "It was the season of Light / the season of Darkness.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7154,7 +7158,7 @@ sentences:
   status: normative
   tonesu: ti  helm  be-vo / ti  helm  de-vo
   gloss_line: null
-  natural: null
+  natural: 'Dickens: "It was the spring of hope / it was the winter of despair.'
   words_attested:
   - W121
   first_attests:
@@ -7170,7 +7174,7 @@ sentences:
   status: normative
   tonesu: go la-ze ka-no-de lo-ze-zo-ra / lo-ze-zo-ra de
   gloss_line: null
-  natural: null
+  natural: Matthew 16:25a — "Whoever saves their life will lose it.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7184,7 +7188,7 @@ sentences:
   status: normative
   tonesu: go la-ze ka-de lo-ze-zo-ra wi-mi / lo-ze-zo-ra be
   gloss_line: null
-  natural: null
+  natural: Matthew 16:25b — "Whoever loses their life for my sake will find it.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7198,7 +7202,7 @@ sentences:
   status: normative
   tonesu: pa-no-fe  helms  pu-du-to
   gloss_line: null
-  natural: null
+  natural: Wittgenstein, Tractatus §1 — "The world is everything that is the case.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7212,7 +7216,7 @@ sentences:
   status: normative
   tonesu: 'pa / no-pa : ne to-si'
   gloss_line: null
-  natural: null
+  natural: Hamlet III.i — "To be, or not to be, that is the question." — universal
   words_attested:
   - W026
   first_attests: []
@@ -7227,7 +7231,7 @@ sentences:
   status: normative
   tonesu: 'la-mi pa / la-mi no-pa : ne to-si'
   gloss_line: null
-  natural: null
+  natural: Hamlet III.i — "To be, or not to be, that is the question." — personal
   words_attested:
   - W026
   first_attests: []
@@ -7243,7 +7247,7 @@ sentences:
   status: normative
   tonesu: 'de lo-no-ko-ra / ka-ra lo-de-no-fe : ne to-si'
   gloss_line: null
-  natural: null
+  natural: Hamlet III.i — "To suffer... or to take arms against a sea of troubles
   words_attested:
   - W026
   first_attests: []
@@ -7259,7 +7263,7 @@ sentences:
   status: normative
   tonesu: vund ne no-tonesu vunds
   gloss_line: null
-  natural: null
+  natural: This sentence is false." — naive attempt with `tonesu`
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7273,7 +7277,7 @@ sentences:
   status: normative
   tonesu: vund ne no-du-to vunds
   gloss_line: null
-  natural: null
+  natural: This sentence is false." — improved attempt with `du-to`
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7287,7 +7291,7 @@ sentences:
   status: normative
   tonesu: lo-to-ze  ne  no-du-to
   gloss_line: null
-  natural: null
+  natural: Third-party falsehood claim — what Tonesu CAN say
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7301,7 +7305,7 @@ sentences:
   status: normative
   tonesu: re-fe-ma-ki  /  la-zo-se-ma  ki  lo-re-fe-ma-ki,  ma-ki-so  pa
   gloss_line: null
-  natural: null
+  natural: Bashō frog haiku — kireji as `/` parallel partition
   words_attested: []
   first_attests: []
   gap_refs:
@@ -7317,7 +7321,7 @@ sentences:
   status: normative
   tonesu: 're-fe-ma-ki  :  la-zo-se-ma  ki  lo-re-fe-ma-ki,  ma-ki-so  pa'
   gloss_line: null
-  natural: null
+  natural: Bashō frog haiku — kireji as `:` topic frame
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7331,7 +7335,7 @@ sentences:
   status: normative
   tonesu: 're-fe-ma-ki  :  ki  lo-ma-ki,  ma-ki-so  pa'
   gloss_line: null
-  natural: null
+  natural: Bashō frog haiku — compressed, agent-dropped
   words_attested: []
   first_attests: []
   gap_refs:
@@ -7347,7 +7351,8 @@ sentences:
   status: normative
   tonesu: ta go {no la-mi de-ki lo-de-zo-li}, la-de-zo-li wi-vo de-ki lu-mi
   gloss_line: null
-  natural: null
+  natural: 'Stanza 1, lines 1-2: "Because I could not stop for Death — / He kindly
+    stopped for me —'
   words_attested: []
   first_attests: []
   gap_refs:
@@ -7364,7 +7369,7 @@ sentences:
   status: normative
   tonesu: la-ki-pa-mu ko lo-mi lo-de-zo-li lo-no-de-zo-li
   gloss_line: null
-  natural: null
+  natural: 'Stanza 1, lines 3-4: "The Carriage held but just Ourselves — / And Immortality.'
   words_attested:
   - W086
   first_attests: []
@@ -7381,7 +7386,8 @@ sentences:
   status: normative
   tonesu: la-mi la-de-zo-li de-ki ne-di-ko-pa, ko-pa helm be-ma-pa
   gloss_line: null
-  natural: null
+  natural: 'Stanza 6 grave scene: "We paused before a House that seemed / A Swelling
+    of the Ground —'
   words_attested:
   - W048
   first_attests: []
@@ -7396,7 +7402,7 @@ sentences:
   status: normative
   tonesu: go {su-si lo-su}, ze no-helm su-no-fe
   gloss_line: null
-  natural: null
+  natural: 'Line 1: 道可道，非常道 ("The Way that can be spoken is not the eternal Way")'
   words_attested: []
   first_attests: []
   gap_refs:
@@ -7412,7 +7418,7 @@ sentences:
   status: normative
   tonesu: go {su-si lo-su-si}, ze no-helm su-si-no-fe
   gloss_line: null
-  natural: null
+  natural: 'Line 2: 名可名，非常名 ("The name that can be named is not the eternal name")'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7426,7 +7432,7 @@ sentences:
   status: normative
   tonesu: no-su-si helms go-ti lo-pa-no-fe / su-si helms go-zo-li lo-pu-ma
   gloss_line: null
-  natural: null
+  natural: 'Lines 3–4: 無名天地之始；有名萬物之母'
   words_attested: []
   first_attests: []
   gap_refs:
@@ -7441,7 +7447,7 @@ sentences:
   status: normative
   tonesu: la-lu de ; la-no-ha ki
   gloss_line: null
-  natural: null
+  natural: The light faded; darkness arrived.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7455,7 +7461,7 @@ sentences:
   status: normative
   tonesu: la-si ki ; la-zo-li-pu ne su
   gloss_line: null
-  natural: null
+  natural: The signal came; the community gathered.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7469,7 +7475,7 @@ sentences:
   status: normative
   tonesu: la-ra-lu-ki be ; la-su-lu ki be ; la-si ki pa-no-ko
   gloss_line: null
-  natural: null
+  natural: Fire burned; smoke rose; the signal reached far.
   words_attested:
   - W151
   first_attests: []
@@ -7484,7 +7490,7 @@ sentences:
   status: normative
   tonesu: la-du-zo-su ki ; la-zo-su be ; la-du ki
   gloss_line: null
-  natural: null
+  natural: The seed sprouted; the plant grew; the fruit formed.
   words_attested:
   - W142
   first_attests: []
@@ -7499,7 +7505,7 @@ sentences:
   status: normative
   tonesu: la-to be ; la-to-ki be ; la-zo-li-pu vo be
   gloss_line: null
-  natural: null
+  natural: Knowledge grew; judgment sharpened; the people flourished.
   words_attested:
   - W020
   first_attests: []
@@ -7514,7 +7520,7 @@ sentences:
   status: normative
   tonesu: la-mi to ; la-mi pa
   gloss_line: null
-  natural: null
+  natural: I thought; therefore I existed.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7528,7 +7534,7 @@ sentences:
   status: normative
   tonesu: la-su-ki su ; la-vo-su pa
   gloss_line: null
-  natural: null
+  natural: The law was structured; justice was maintained.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7542,7 +7548,7 @@ sentences:
   status: normative
   tonesu: la-ti ki ; la-yu ki
   gloss_line: null
-  natural: null
+  natural: The clock moved; we departed.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7556,7 +7562,7 @@ sentences:
   status: normative
   tonesu: la-ne de ; la-zo-li-pu no su
   gloss_line: null
-  natural: null
+  natural: The relationship dissolved; the community lost structure.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7570,7 +7576,7 @@ sentences:
   status: normative
   tonesu: la-yu ki ; la-ti ki ti-de
   gloss_line: null
-  natural: null
+  natural: 'DIAGNOSTIC: reversed chain — "We departed; the clock had moved.'
   words_attested:
   - W041
   first_attests: []
@@ -7585,7 +7591,7 @@ sentences:
   status: normative
   tonesu: go {la-ze ka-si  ro  la-zo-li se}, la-to-ki pa
   gloss_line: null
-  natural: null
+  natural: 'DIAGNOSTIC: complex premise — CANNOT use `;`'
   words_attested:
   - W020
   - W148
@@ -7601,7 +7607,7 @@ sentences:
   status: normative
   tonesu: null
   gloss_line: null
-  natural: null
+  natural: 'DIAGNOSTIC: causal chain vs mere sequence'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7615,7 +7621,7 @@ sentences:
   status: normative
   tonesu: la-ze se ; la-ze to ; la-ze ka-si-to
   gloss_line: null
-  natural: null
+  natural: She perceived; she understood; she taught.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7629,7 +7635,7 @@ sentences:
   status: normative
   tonesu: la-ne-su ki ; la-zi ki ; la-pu-li be
   gloss_line: null
-  natural: null
+  natural: The agreement formed; exchange began; both grew.
   words_attested:
   - W031
   first_attests: []
@@ -7644,7 +7650,7 @@ sentences:
   status: normative
   tonesu: la-du-zo-su pa ; la-ti ki ; la-du ki
   gloss_line: null
-  natural: null
+  natural: Seed is placed; time moves; fruit arises.
   words_attested:
   - W142
   first_attests: []
@@ -7659,7 +7665,7 @@ sentences:
   status: normative
   tonesu: la-li ka-si-to ; la-li se ; la-ne-vo ki
   gloss_line: null
-  natural: null
+  natural: One spoke truly; another heard; trust formed.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7673,7 +7679,7 @@ sentences:
   status: normative
   tonesu: la-to-su ki ; la-ze de
   gloss_line: null
-  natural: null
+  natural: 'DIAGNOSTIC: "The plan was made; it failed." (adversative sequence)'
   words_attested:
   - W030
   first_attests: []
@@ -7688,7 +7694,7 @@ sentences:
   status: normative
   tonesu: a
   gloss_line: null
-  natural: null
+  natural: 'Bare acknowledgment: "Right. / I see. / Got it.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7702,7 +7708,7 @@ sentences:
   status: normative
   tonesu: a, la-ze ki...
   gloss_line: null
-  natural: null
+  natural: 'Discourse-chain acknowledgment: "Yes, and then—'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7716,7 +7722,7 @@ sentences:
   status: normative
   tonesu: o na-Moses
   gloss_line: null
-  natural: null
+  natural: 'Vocative: calling a person''s name directly.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7730,7 +7736,7 @@ sentences:
   status: normative
   tonesu: o na-Moses, la-tu ki di-pa-su
   gloss_line: null
-  natural: null
+  natural: Vocative integrated into a sentence.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7744,7 +7750,7 @@ sentences:
   status: normative
   tonesu: e!
   gloss_line: null
-  natural: null
+  natural: 'Surprise / attention shift: "Oh!" or "Look—'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7758,7 +7764,7 @@ sentences:
   status: normative
   tonesu: e, go-no-fe  helms  vo
   gloss_line: null
-  natural: null
+  natural: Attention-getting opener before a major statement.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7772,7 +7778,7 @@ sentences:
   status: normative
   tonesu: u
   gloss_line: null
-  natural: null
+  natural: Mild disapproval / reluctance.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7786,7 +7792,7 @@ sentences:
   status: normative
   tonesu: ru
   gloss_line: null
-  natural: null
+  natural: 'DIAGNOSTIC: `a` vs `ru` head-to-head in a polar-question response.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7800,7 +7806,8 @@ sentences:
   status: normative
   tonesu: la-Elohim  ka-si  lo-na-Moses
   gloss_line: null
-  natural: null
+  natural: 'DIAGNOSTIC: `o` vs `na-X` in a divine-address corpus sentence (EXO-001
+    context).'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7814,7 +7821,7 @@ sentences:
   status: normative
   tonesu: i, la-mi no-si la-ze ki
   gloss_line: null
-  natural: null
+  natural: 'DIAGNOSTIC: `i` (hesitation) — written register value.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7828,7 +7835,7 @@ sentences:
   status: normative
   tonesu: a-to ne no-fe
   gloss_line: null
-  natural: null
+  natural: Knowledge in its broadest generality is unbounded.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7842,7 +7849,7 @@ sentences:
   status: normative
   tonesu: a-to helm to-su
   gloss_line: null
-  natural: null
+  natural: '`a-to` vs `to-su` — differentiation test.'
   words_attested:
   - W030
   first_attests: []
@@ -7857,7 +7864,7 @@ sentences:
   status: normative
   tonesu: la-mi to lo-i-to-ze
   gloss_line: null
-  natural: null
+  natural: I know this specific fact.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7871,7 +7878,7 @@ sentences:
   status: normative
   tonesu: la-na-Laozi u-to lo-su-no-fe
   gloss_line: null
-  natural: null
+  natural: Laozi had interior knowing of the boundless Way.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7885,7 +7892,7 @@ sentences:
   status: normative
   tonesu: o-li ne su
   gloss_line: null
-  natural: null
+  natural: The community holds structure.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7899,7 +7906,7 @@ sentences:
   status: normative
   tonesu: la-su e-ki
   gloss_line: null
-  natural: null
+  natural: The arrangement was still taking shape.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7913,7 +7920,7 @@ sentences:
   status: normative
   tonesu: a-su helms go-su
   gloss_line: null
-  natural: null
+  natural: Form as such is the causal ground of all structure.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7927,7 +7934,7 @@ sentences:
   status: normative
   tonesu: la-na-Laozi ne a-to-li
   gloss_line: null
-  natural: null
+  natural: Laozi was a sage." (compound-extension test)
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7941,7 +7948,7 @@ sentences:
   status: normative
   tonesu: 'la-a-to lo-su ki    [attempted: "the universal-knower changed the structure"]'
   gloss_line: null
-  natural: null
+  natural: 'DIAGNOSTIC: `la-[a-X]` vowel-boundary merge hazard.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7955,7 +7962,7 @@ sentences:
   status: normative
   tonesu: la-du-zo-su ko lo-u-su
   gloss_line: null
-  natural: null
+  natural: The seed holds deep structure.
   words_attested:
   - W142
   first_attests: []
@@ -7970,7 +7977,7 @@ sentences:
   status: normative
   tonesu: ta go {no la-mi de-ki lo-de-zo-li} — la-de-zo-li wi-vo de-ki lu-mi —
   gloss_line: null
-  natural: null
+  natural: Dickinson stanza 1, lines 1-2, with `—` restored
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -7984,7 +7991,7 @@ sentences:
   status: normative
   tonesu: la-ki-pa-mu ko lo-mi lo-de-zo-li — lo-no-de-zo-li
   gloss_line: null
-  natural: null
+  natural: Dickinson stanza 1, lines 3-4, with `—` restored
   words_attested:
   - W086
   first_attests: []
@@ -7999,7 +8006,7 @@ sentences:
   status: normative
   tonesu: la-mi la-de-zo-li de-ki ne-di-ko-pa — ko-pa helm be-ma-pa —
   gloss_line: null
-  natural: null
+  natural: Dickinson stanza 6 grave scene, with `—` restored
   words_attested:
   - W048
   first_attests: []
@@ -8014,7 +8021,7 @@ sentences:
   status: normative
   tonesu: na-Moses —
   gloss_line: null
-  natural: null
+  natural: 'DIAGNOSTIC: bare NP fragment + `—`'
   words_attested: []
   first_attests: []
   gap_refs:
@@ -8031,7 +8038,7 @@ sentences:
 
     (b) la-su ki — la-mi se lo-ze'
   gloss_line: null
-  natural: null
+  natural: '`,` vs `—` contrast: clause boundary vs suspension'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8047,7 +8054,7 @@ sentences:
 
     (b) la-su ki — la-mi se lo-ze'
   gloss_line: null
-  natural: null
+  natural: '`;` vs `—` contrast: sequence vs suspension'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8063,7 +8070,7 @@ sentences:
 
     (b) la-su be — la-su de —'
   gloss_line: null
-  natural: null
+  natural: '`/` vs `—` contrast: parallel structure vs suspension'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8077,7 +8084,7 @@ sentences:
   status: normative
   tonesu: la-de-zo-li — wi-vo de-ki lu-mi
   gloss_line: null
-  natural: null
+  natural: Post-agent NP suspension (subject announced, predicate held)
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8091,7 +8098,7 @@ sentences:
   status: normative
   tonesu: la-ki-pa-mu ko lo-ti-no-fe —
   gloss_line: null
-  natural: null
+  natural: Terminal suspension (complete sentence + `—`, nothing follows)
   words_attested:
   - W086
   first_attests: []
@@ -8106,7 +8113,7 @@ sentences:
   status: normative
   tonesu: la-mi lo-se-su to — no la-mi si lo-ze
   gloss_line: null
-  natural: null
+  natural: 'Non-poetic register test: spoken address, moment of silence'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8120,7 +8127,7 @@ sentences:
   status: normative
   tonesu: he na-Moses!
   gloss_line: null
-  natural: null
+  natural: 'Standalone vocative: "Moses!'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8134,7 +8141,7 @@ sentences:
   status: normative
   tonesu: he na-Moses, ki di-pa-su
   gloss_line: null
-  natural: null
+  natural: 'Vocative + imperative: "Moses! Go toward the mountain.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8150,7 +8157,7 @@ sentences:
 
     la-na-Moses pa'
   gloss_line: null
-  natural: null
+  natural: 'EXO-001 divine call retest: the burning bush calling'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8168,7 +8175,7 @@ sentences:
 
     la-na-Moses ka-si     ["Moses spoke" — predicate clause; Moses is agent]'
   gloss_line: null
-  natural: null
+  natural: 'DIAGNOSTIC: `he na-X` vs `na-X!` vs `la-na-X`'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8182,7 +8189,7 @@ sentences:
   status: normative
   tonesu: ya, go-no-fe helms vo
   gloss_line: null
-  natural: null
+  natural: Standalone attention-signal before a major claim
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8196,7 +8203,7 @@ sentences:
   status: normative
   tonesu: ya, la-zo-se-ma ki lo-re-fe-ma-ki
   gloss_line: null
-  natural: null
+  natural: Attention-signal before an event (Bashō register)
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8212,7 +8219,7 @@ sentences:
 
     ya, ki di-pa-su               [look — go toward the mountain]'
   gloss_line: null
-  natural: null
+  natural: 'DIAGNOSTIC: `ya` vs `he` head-to-head'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8226,7 +8233,7 @@ sentences:
   status: normative
   tonesu: ya — la-mi to lo-ze
   gloss_line: null
-  natural: null
+  natural: '`ya` + `—` prosodic combination'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8240,7 +8247,7 @@ sentences:
   status: normative
   tonesu: no — la-Elohim ka-si
   gloss_line: null
-  natural: null
+  natural: 'Baseline correction: simple polar dialogue'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8254,7 +8261,7 @@ sentences:
   status: normative
   tonesu: no — la-Elohim ka-si ; la-na-Moses se
   gloss_line: null
-  natural: null
+  natural: 'Extended correction: deny + replace + continue'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8268,7 +8275,7 @@ sentences:
   status: normative
   tonesu: la-de ki ; no — la-be ki
   gloss_line: null
-  natural: null
+  natural: 'Self-correction mid-discourse: speaker catches own error'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8282,7 +8289,7 @@ sentences:
   status: normative
   tonesu: la-na-Moses ka-si / la-Elohim ka-si
   gloss_line: null
-  natural: null
+  natural: 'DIAGNOSTIC: `/` as correction attempt — why it fails'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8296,7 +8303,7 @@ sentences:
   status: normative
   tonesu: no — la-Elohim ka-si lo-si
   gloss_line: null
-  natural: null
+  natural: 'DIAGNOSTIC: the "silent pivot" case — where `ke` would earn its slot'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8310,7 +8317,7 @@ sentences:
   status: normative
   tonesu: — la-Elohim ka-si
   gloss_line: null
-  natural: null
+  natural: 'DIAGNOSTIC: `—` alone as implicit correction (no `no`)'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8328,7 +8335,8 @@ sentences:
 
     no — la-Elohim ka-si       [correction speech act — one unitary act]'
   gloss_line: null
-  natural: null
+  natural: 'DIAGNOSTIC: `no` alone vs `no — Y` — the role of `—` in the correction
+    unit'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8342,7 +8350,7 @@ sentences:
   status: normative
   tonesu: la-to ne vo-fe
   gloss_line: null
-  natural: null
+  natural: 'A opens: "Knowledge is supremely valuable.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8356,7 +8364,7 @@ sentences:
   status: normative
   tonesu: no — la-ka ne vo-fe
   gloss_line: null
-  natural: null
+  natural: 'B, round 1 correction: "No — action is supremely valuable.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8370,7 +8378,7 @@ sentences:
   status: normative
   tonesu: ya, la-to be lo-ka
   gloss_line: null
-  natural: null
+  natural: 'A advances evidence: "Look — knowledge builds action.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8384,7 +8392,7 @@ sentences:
   status: normative
   tonesu: no — la-ka be lo-to ; no la-to be lo-ka
   gloss_line: null
-  natural: null
+  natural: 'B, round 2: correction with reversed causal arrow.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8398,7 +8406,7 @@ sentences:
   status: normative
   tonesu: ya — la-mi to lo-vo ; la-mi ka-vo
   gloss_line: null
-  natural: null
+  natural: 'A, round 3: heated personal testimony — the Socratic move.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8412,7 +8420,7 @@ sentences:
   status: normative
   tonesu: no — la-ka be lo-to ; no la-to be lo-ka
   gloss_line: null
-  natural: null
+  natural: 'B, round 3 with `no —`: DIAGNOSTIC — the stale-premise problem.'
   words_attested: []
   first_attests: []
   gap_refs:
@@ -8427,7 +8435,7 @@ sentences:
   status: normative
   tonesu: ke, la-ka be lo-to ; no la-to be lo-ka
   gloss_line: null
-  natural: null
+  natural: 'B, round 3 with `ke`: DIAGNOSTIC — pivot without re-engagement.'
   words_attested: []
   first_attests: []
   gap_refs:
@@ -8442,7 +8450,7 @@ sentences:
   status: normative
   tonesu: la-to be lo-ka / la-ka be lo-to
   gloss_line: null
-  natural: null
+  natural: 'DIAGNOSTIC: `/` as debate framing — antithesis, not correction.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8456,7 +8464,7 @@ sentences:
   status: normative
   tonesu: ke! la-ka be lo-to
   gloss_line: null
-  natural: null
+  natural: '`ke!` — forced pivot in heated register.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8470,7 +8478,7 @@ sentences:
   status: normative
   tonesu: he na-Plato — la-ka be lo-to!
   gloss_line: null
-  natural: null
+  natural: '`he` + `—` + `!`: three tools in heated direct address.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8484,7 +8492,7 @@ sentences:
   status: normative
   tonesu: la-Elohim ne vo
   gloss_line: null
-  natural: null
+  natural: 'Baseline: "God is good.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8498,7 +8506,7 @@ sentences:
   status: normative
   tonesu: no la-li ne vo
   gloss_line: null
-  natural: null
+  natural: 'Universal class negation: "No person is good.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8512,7 +8520,7 @@ sentences:
   status: normative
   tonesu: no la-li ne vo — la-Elohim ne vo
   gloss_line: null
-  natural: null
+  natural: 'Two-clause pragmatic exclusive: "No person is good — God is good.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8526,7 +8534,7 @@ sentences:
   status: normative
   tonesu: la-Elohim ru ne vo
   gloss_line: null
-  natural: null
+  natural: '`ru` as post-agent focus: DIAGNOSTIC — syntactic ambiguity.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8540,7 +8548,7 @@ sentences:
   status: normative
   tonesu: la-Elohim ne ru
   gloss_line: null
-  natural: null
+  natural: '`ru` as predicate: the Shema form "YHWH is one.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8554,7 +8562,7 @@ sentences:
   status: normative
   tonesu: ru-fe, la-Elohim ne vo
   gloss_line: null
-  natural: null
+  natural: '`ru-fe` clause-initial: "ONLY God is good.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8568,7 +8576,7 @@ sentences:
   status: normative
   tonesu: ru-fe, go to ; ka-vo
   gloss_line: null
-  natural: null
+  natural: '`ru-fe` method scope: "Only through knowledge can one act rightly.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8582,7 +8590,7 @@ sentences:
   status: normative
   tonesu: ru-fe, la-mi ne zo
   gloss_line: null
-  natural: null
+  natural: '`ru-fe` agent-narrative: "I alone survived.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8596,7 +8604,7 @@ sentences:
   status: normative
   tonesu: ru-fe, la-Elohim helms go-no-fe
   gloss_line: null
-  natural: null
+  natural: 'Theological canonical: "God alone is the necessary being.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8610,7 +8618,7 @@ sentences:
   status: normative
   tonesu: ya, ru-fe, la-Elohim ne vo
   gloss_line: null
-  natural: null
+  natural: 'DIAGNOSTIC: `ya` + `ru-fe` stacking test.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8624,7 +8632,7 @@ sentences:
   status: normative
   tonesu: la-su-mu-li  ka-be  lo-ra-su  ti-de
   gloss_line: null
-  natural: null
+  natural: 'Active baseline: "The engineer built the structure.'
   words_attested:
   - W002
   - W041
@@ -8640,7 +8648,7 @@ sentences:
   status: normative
   tonesu: lo-ra-su  de  ti-de
   gloss_line: null
-  natural: null
+  natural: 'Non-intentional process: "The structure collapsed.'
   words_attested:
   - W041
   first_attests: []
@@ -8655,7 +8663,7 @@ sentences:
   status: normative
   tonesu: lo-ra-su  ka-be  ti-de
   gloss_line: null
-  natural: null
+  natural: 'Intentional passive: "The structure was built.'
   words_attested:
   - W041
   first_attests: []
@@ -8670,7 +8678,7 @@ sentences:
   status: normative
   tonesu: ro-ra-ki-mu  lo-ra-su  ka-be  ti-de
   gloss_line: null
-  natural: null
+  natural: 'Instrument-present passive: "The structure was built using the engine.'
   words_attested:
   - W041
   first_attests: []
@@ -8685,7 +8693,7 @@ sentences:
   status: normative
   tonesu: 'ra-su : ka-be  ti-de'
   gloss_line: null
-  natural: null
+  natural: 'Topic-frame passive: "As for the structure: [it was] built.'
   words_attested:
   - W041
   first_attests: []
@@ -8700,7 +8708,7 @@ sentences:
   status: normative
   tonesu: la-li-pu  ka-be  lo-su  ti-de
   gloss_line: null
-  natural: null
+  natural: 'Institutional active: "The council enacted the law.'
   words_attested:
   - W041
   first_attests: []
@@ -8715,7 +8723,7 @@ sentences:
   status: normative
   tonesu: la-si-su  ko  {la-Elohim  ne  go-no-fe}
   gloss_line: null
-  natural: null
+  natural: 'Archival containment: "it is written that…'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8729,7 +8737,7 @@ sentences:
   status: normative
   tonesu: lo-pa  be
   gloss_line: null
-  natural: null
+  natural: 'Pure emergence: "The world comes into being." (Genesis register)'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8743,7 +8751,7 @@ sentences:
   status: normative
   tonesu: la-Elohim  ka-be  lo-pa
   gloss_line: null
-  natural: null
+  natural: 'Divine active creation: "God creates the world.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -8757,7 +8765,7 @@ sentences:
   status: normative
   tonesu: lo-to-si  ka-ki  ti-de
   gloss_line: null
-  natural: null
+  natural: 'Sacred-historical passive: "A teaching was transmitted.'
   words_attested:
   - W026
   - W041
@@ -8773,7 +8781,7 @@ sentences:
   status: normative
   tonesu: go ha-be  lo-zo-li  de  ti-de
   gloss_line: null
-  natural: null
+  natural: 'A''s opening claim: "The fever caused the patient''s deterioration.'
   words_attested:
   - W041
   - W148
@@ -8789,7 +8797,7 @@ sentences:
   status: normative
   tonesu: no — go si-zo  lo-zo-li  de  ti-de
   gloss_line: null
-  natural: null
+  natural: 'B rejects: Round 1, denial is fresh.'
   words_attested:
   - W041
   - W148
@@ -8805,7 +8813,7 @@ sentences:
   status: normative
   tonesu: ya, la-mi  se  lo-ha-be ; go ha-be  lo-ko-su  de  ti-de
   gloss_line: null
-  natural: null
+  natural: A escalates with perceptual evidence.
   words_attested:
   - W041
   first_attests: []
@@ -8820,7 +8828,7 @@ sentences:
   status: normative
   tonesu: no — la-tu  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
   gloss_line: null
-  natural: null
+  natural: 'B counters with perceptual redirect: Round 2, `no —` still adequate.'
   words_attested:
   - W041
   first_attests: []
@@ -8835,7 +8843,7 @@ sentences:
   status: normative
   tonesu: ya, la-to-su  si  {go ha-be  lo-ko-su  de}
   gloss_line: null
-  natural: null
+  natural: 'A''s Round 3 structural appeal: "The canonical record says thermal cause.'
   words_attested:
   - W030
   first_attests: []
@@ -8850,7 +8858,7 @@ sentences:
   status: normative
   tonesu: no — go si-zo-be  lo-ko-su  de  ti-de
   gloss_line: null
-  natural: null
+  natural: 'B''s stale form: what `no —` would produce.'
   words_attested:
   - W041
   first_attests: []
@@ -8865,7 +8873,7 @@ sentences:
   status: normative
   tonesu: ke, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
   gloss_line: null
-  natural: null
+  natural: 'B''s `ke` form: second qualifying attestation.'
   words_attested:
   - W041
   first_attests: []
@@ -8881,7 +8889,7 @@ sentences:
   status: normative
   tonesu: ke! la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
   gloss_line: null
-  natural: null
+  natural: '`ke!` in the heated version.'
   words_attested:
   - W041
   first_attests: []
@@ -8896,7 +8904,7 @@ sentences:
   status: normative
   tonesu: ya, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
   gloss_line: null
-  natural: null
+  natural: 'Contrast: `ya` alone does not substitute for `ke`.'
   words_attested:
   - W041
   first_attests: []
@@ -8911,7 +8919,7 @@ sentences:
   status: normative
   tonesu: ya, ke, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
   gloss_line: null
-  natural: null
+  natural: '`ya, ke,` stacking test.'
   words_attested:
   - W041
   first_attests: []
@@ -8926,7 +8934,7 @@ sentences:
   status: normative
   tonesu: la-li-pu  ne  wi-fe  lo-ra-pa
   gloss_line: null
-  natural: null
+  natural: 'A''s Round 1: "The delegation asserts rights over the resource territory.'
   words_attested:
   - W100
   first_attests: []
@@ -8941,7 +8949,7 @@ sentences:
   status: normative
   tonesu: no — la-pa-pu  ne  wi-fe  lo-ra-pa
   gloss_line: null
-  natural: null
+  natural: 'B''s Round 1 denial: `no —` is fresh.'
   words_attested:
   - W100
   first_attests: []
@@ -8956,7 +8964,7 @@ sentences:
   status: normative
   tonesu: ya, la-si-su  ko  {la-li-pu  ne  wi-fe  lo-ra-pa}  ti-de
   gloss_line: null
-  natural: null
+  natural: 'A''s Round 2 escalation: appeal to treaty text.'
   words_attested:
   - W041
   - W100
@@ -8972,7 +8980,7 @@ sentences:
   status: normative
   tonesu: no — la-si-su  ko  {la-pa-pu  ne  wi-fe  lo-ra-pa}  ti-de
   gloss_line: null
-  natural: null
+  natural: 'B''s Round 2 counter: `no —` still adequate.'
   words_attested:
   - W041
   - W100
@@ -8988,7 +8996,7 @@ sentences:
   status: normative
   tonesu: ya, la-to-su  si  {la-li-pu  ne  wi-fe  lo-ra-pa}
   gloss_line: null
-  natural: null
+  natural: 'A''s Round 3: appeal to canonical interpretive tradition.'
   words_attested:
   - W030
   - W100
@@ -9004,7 +9012,7 @@ sentences:
   status: normative
   tonesu: no — la-pa-pu  ne  wi-fe  lo-ra-pa
   gloss_line: null
-  natural: null
+  natural: 'B''s stale form: what `no —` produces.'
   words_attested:
   - W100
   first_attests: []
@@ -9019,7 +9027,7 @@ sentences:
   status: normative
   tonesu: ke, la-pa-pu  ne  wi-fe  lo-ra-pa ; la-to-su  si  {pa-pu  ne  wi-fe}
   gloss_line: null
-  natural: null
+  natural: 'B''s `ke` form: third qualifying attestation.'
   words_attested:
   - W030
   - W100
@@ -9036,7 +9044,7 @@ sentences:
   status: normative
   tonesu: null
   gloss_line: null
-  natural: null
+  natural: 'The bad-faith dimension: why `no —` vs `ke` matters in treaty record.'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -9050,7 +9058,7 @@ sentences:
   status: normative
   tonesu: ke, la-pa-pu  ne  wi-fe  lo-ra-pa ; la-to-su  si  {pa-pu  ne  wi-fe}
   gloss_line: null
-  natural: null
+  natural: 'Written formal register: `ke` in treaty-record notation.'
   words_attested:
   - W030
   - W100
