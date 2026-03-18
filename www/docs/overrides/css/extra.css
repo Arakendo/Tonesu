@@ -234,6 +234,26 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
   color: var(--md-accent-fg-color);
 }
 
+/* ── Derivation block (sandbox, examples) ───────────────── */
+.tn-derive {
+  background: color-mix(in sRGB, var(--md-code-bg-color) 70%, var(--md-default-bg-color));
+  border-left: 3px solid var(--md-typeset-a-color);
+  border-radius: 0 5px 5px 0;
+  padding: .55rem 1rem .55rem 1rem;
+  margin: .7rem 0 1rem;
+  font-size: .875rem;
+  line-height: 1.85;
+  overflow-wrap: break-word;
+}
+
+.tn-derive > p {
+  margin: 0 !important;
+}
+
+.tn-derive > p + p {
+  margin-top: .45rem !important;
+}
+
 /* ── Root builder ────────────────────────────────────────── */
 .rb-container {
   font-family: inherit;
