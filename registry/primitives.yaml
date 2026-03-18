@@ -308,7 +308,7 @@ roots:
     vowel_register: "particular — the precise directed desire"
     status: active
 
-  - cv: no
+  - cv: "no"
     gloss: "negation / absence"
     family: "n"
     category: "Mind & Value"

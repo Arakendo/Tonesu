@@ -244,7 +244,7 @@
       "status": "active"
     },
     {
-      "cv": false,
+      "cv": "no",
       "gloss": "negation / absence",
       "family": "n",
       "category": "Mind & Value",
