@@ -2,8 +2,8 @@
 
 :root {
   /* Tonesu Light Theme Colors */
-  --tonesu-primary: #5c6bc0;      /* indigo — calm, scholarly */
-  --tonesu-accent: #7986cb;
+  --tonesu-primary: #e64a19;      /* deep-orange */
+  --tonesu-accent: #ff6d00;
   --tonesu-background: #ffffff;
   --tonesu-surface: #f5f5f5;
   --tonesu-text: #212121;
@@ -12,39 +12,39 @@
 }
 
 [data-md-color-scheme="slate"] {
-  /* Tonesu Dark Theme Colors */
-  --md-primary-fg-color: #7986cb;
-  --md-accent-fg-color: #9fa8da;
+  /* Tonesu Dark Theme — VS Code dark gray + orange */
+  --md-primary-fg-color: #e87d3e;
+  --md-accent-fg-color: #ff9944;
 
-  /* Backgrounds */
-  --md-default-bg-color: #1a1a2e;       /* deep indigo-dark */
-  --md-default-fg-color: #c5cae9;       /* indigo-tinted text */
-  --md-code-bg-color: #16213e;          /* deeper code panels */
+  /* Backgrounds (VS Code dark) */
+  --md-default-bg-color: #1e1e1e;       /* editor background */
+  --md-default-fg-color: #d4d4d4;       /* editor foreground */
+  --md-code-bg-color: #2d2d30;          /* panel background */
 
   /* Sidebar */
-  --md-primary-bg-color: #1f2044;
-  --md-primary-fg-color--light: #c5cae9;
-  --md-primary-fg-color--dark: #7986cb;
+  --md-primary-bg-color: #252526;       /* activity bar / sidebar */
+  --md-primary-fg-color--light: #d4d4d4;
+  --md-primary-fg-color--dark: #e87d3e;
 
   /* Links */
-  --md-typeset-a-color: #9fa8da;
+  --md-typeset-a-color: #ff9944;
 
   /* Borders */
-  --md-typeset-table-color: #303060;
+  --md-typeset-table-color: #3f3f46;
 
   /* Code blocks */
-  --md-code-fg-color: #c5cae9;
-  --md-code-bg-color: #16213e;
+  --md-code-fg-color: #d4d4d4;
+  --md-code-bg-color: #2d2d30;
 
   /* Keyboard keys */
-  --md-typeset-kbd-color: #303060;
-  --md-typeset-kbd-accent-color: #5c6bc0;
-  --md-typeset-kbd-border-color: #404080;
+  --md-typeset-kbd-color: #3f3f46;
+  --md-typeset-kbd-accent-color: #e87d3e;
+  --md-typeset-kbd-border-color: #555555;
 }
 
 [data-md-color-scheme="default"] {
-  --md-primary-fg-color: #5c6bc0;
-  --md-accent-fg-color: #7986cb;
+  --md-primary-fg-color: #e64a19;
+  --md-accent-fg-color: #ff6d00;
 }
 
 /* Code block styling */
