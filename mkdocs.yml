@@ -59,6 +59,7 @@ nav:
       - English index: tonesu/registry/english.md
       - By domain: tonesu/registry/by-domain.md
       - By root: tonesu/registry/by-root.md
+    - Corpus: tonesu/corpus.md
   - Totonesu:
     - totonesu/index.md
     - Corpus:

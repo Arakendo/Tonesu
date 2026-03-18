@@ -12,13 +12,15 @@ Runs the full rebuild pipeline in the correct dependency order:
                                         backfill first_use in entries.yaml
   Step 4  build_registry.py          — generate all www/docs/tonesu/registry/ pages,
                                         word detail pages, and corpus.md
+  Step 5  mkdocs build               — build the production site into site/
+                                        (uses root mkdocs.yml)
 
 Run from repo root:
     python scripts/build.py
 
 Flags:
     --dry-run    Pass --dry-run to steps 2 and 3 (no files written)
-    --skip N     Skip step N (e.g. --skip 1 to skip generate_registry_md)
+    --skip N     Skip step N (e.g. --skip 5 to skip the mkdocs build)
 """
 
 import subprocess
@@ -33,13 +35,18 @@ STEPS = [
     (2, "annotate_words_attested.py", "Annotate words_attested on sentences and turns"),
     (3, "derive_first_attests.py",    "Derive first_attests; backfill first_use"),
     (4, "build_registry.py",          "Generate www/docs/tonesu/ pages"),
+    (5, None,                          "Build MkDocs site (site/)"),
 ]
 
 DRY_RUN_STEPS = {2, 3}
 
 
-def run_step(n: int, script: str, description: str, dry_run: bool) -> bool:
-    args = [sys.executable, str(SCRIPTS_DIR / script)]
+def run_step(n: int, script: str | None, description: str, dry_run: bool) -> bool:
+    if script is None:
+        # Step 5: mkdocs build
+        args = [sys.executable, "-m", "mkdocs", "build"]
+    else:
+        args = [sys.executable, str(SCRIPTS_DIR / script)]
     if dry_run and n in DRY_RUN_STEPS:
         args.append("--dry-run")
 
