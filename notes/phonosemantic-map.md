@@ -342,12 +342,13 @@ CVC-occupied stems (digits, colors, scale prefixes from `notes/anchor-inventory.
 - 🔵 = grammar particle
 - 🟡 = pronoun / reserved slot
 - 🔢 = CV stem blocked by CVC anchor (digit, color, or scale prefix)
+- 🔤 = CV stem blocked by notation spoken form (G-number)
 - ⬡ = open (no CV-stem assignment at all)
 
 |   | -a | -e | -i | -o | -u |
 |---|----|----|----|----|-----|
 | **k** | `ka` ✅ | `ke` 🔵 | `ki` ✅ | `ko` ✅ | `ku` 🔢 `kus` (brown) |
-| **t** | `ta` 🔢 `tams` (Cu) | ⬡ | `ti` ✅ | `to` ✅ | ⬡ |
+| **t** | `ta` 🔢 `tams` (Cu) | `te` 🔤 `teld` (`;` G027) | `ti` ✅ | `to` ✅ | ⬡ |
 | **s** | `sa` 🔢 `sam` (yellow) | `se` ✅ | `si` ✅ | `so` ✅ | `su` ✅ |
 | **n** | `na` 🟡 | ⬡ | ⬡ | ⬡ | `nu` ✅ |
 | **p** | `pa` ✅ | `pe` ✅ | `pi` 🔢 `pir` (kilo) | `po` 🔢 `pom` (blue) | `pu` ✅ |
@@ -359,7 +360,7 @@ CVC-occupied stems (digits, colors, scale prefixes from `notes/anchor-inventory.
 | **b** | `ba` 🔢 `baf` (mega) | `be` ✅ | `bi` 🔢 `bim` (pico) | `bo` 🔢 `bol` (1) | `bu` 🔢 `bun` (2) |
 | **h** | `ha` ✅ | `he` 🔵 | `hi` 🔢 `hin` (5) | ⬡ | ⬡ |
 | **w** | ⬡ | `we` 🔢 `wes` (6) | `wi` ✅ | `wo` 🟡 | `wu` 🔢 `wul` (giga) |
-| **v** | ⬡ | ⬡ | ⬡ | `vo` ✅ | `vu` 🟡 |
+| **v** | ⬡ | `ve` 🔤 `ven` (`~` G010) `vel` (`/` G013) | ⬡ | `vo` ✅ | `vu` 🟡 |
 | **y** | `ya` 🔵 | `ye` 🔢 `yel` (black) | `yi` 🔢 `yim` (white) | `yo` 🔢 `yom` (7) | `yu` 🟡 |
 | **z** | `za` 🔢 `zan` (9) | `ze` 🟡 | `zi` ✅ | `zo` ✅ | `zu` 🔢 `zum` (nano) |
 | **g** | `ga` 🔢 `gal` (3) | `ge` 🔵 | `gi` 🔢 `gim` (green) | `go` ✅ | `gu` 🔢 `gul` (peta) |
