@@ -335,32 +335,34 @@ This means every CV root can be read as: **{family-in-register}** — the conson
 
 A map of assigned, reserved, and open slots. Use this to identify both what exists and where new forms could be admitted without phonosemantic collision.
 
+CVC-occupied stems (digits, colors, scale prefixes from `notes/anchor-inventory.md`) are also shown — these block the CV stem even though the assigned form has a coda.
+
 **Key:**
 - ✅ = active primitive
 - 🔵 = grammar particle
 - 🟡 = pronoun / reserved slot
-- ⬡ = open (no assignment)
-- 🚫 = closed / excluded
+- 🔢 = CV stem blocked by CVC anchor (digit, color, or scale prefix)
+- ⬡ = open (no CV-stem assignment at all)
 
 |   | -a | -e | -i | -o | -u |
 |---|----|----|----|----|-----|
-| **k** | `ka` ✅ | `ke` 🔵 | `ki` ✅ | `ko` ✅ | ⬡ |
-| **t** | ⬡ | ⬡ | `ti` ✅ | `to` ✅ | ⬡ |
-| **s** | ⬡ | `se` ✅ | `si` ✅ | `so` ✅ | `su` ✅ |
+| **k** | `ka` ✅ | `ke` 🔵 | `ki` ✅ | `ko` ✅ | `ku` 🔢 `kus` (brown) |
+| **t** | `ta` 🔢 `tams` (Cu) | ⬡ | `ti` ✅ | `to` ✅ | ⬡ |
+| **s** | `sa` 🔢 `sam` (yellow) | `se` ✅ | `si` ✅ | `so` ✅ | `su` ✅ |
 | **n** | `na` 🟡 | ⬡ | ⬡ | ⬡ | `nu` ✅ |
-| **p** | `pa` ✅ | `pe` ✅ | ⬡ | ⬡ | `pu` ✅ |
-| **m** | `ma` ✅ | ⬡ | `mi` 🟡 | ⬡ | `mu` ✅ |
-| **f** | `fa` ✅ | `fe` ✅ | ⬡ | ⬡ | ⬡ |
-| **r** | `ra` ✅ | `re` ✅ | ⬡ | ⬡ | `ru` ✅ |
-| **l** | `la` 🔵 | ⬡ | `li` ✅ | `lo` 🔵 | `lu` ✅ |
+| **p** | `pa` ✅ | `pe` ✅ | `pi` 🔢 `pir` (kilo) | `po` 🔢 `pom` (blue) | `pu` ✅ |
+| **m** | `ma` ✅ | `me` 🔢 `mes` (micro) | `mi` 🟡 | `mo` 🔢 `mol` (4) | `mu` ✅ |
+| **f** | `fa` ✅ | `fe` ✅ | ⬡ | `fo` 🔢 `fon` (8) | `fu` 🔢 `fus` (zetta) |
+| **r** | `ra` ✅ | `re` ✅ | `ri` 🔢 `rim` (milli) | ⬡ | `ru` ✅ |
+| **l** | `la` 🔵 | `le` 🔢 `les` (tera) | `li` ✅ | `lo` 🔵 | `lu` ✅ |
 | **d** | ⬡ | `de` ✅ | `di` ✅ | ⬡ | `du` ✅ |
-| **b** | ⬡ | `be` ✅ | ⬡ | ⬡ | ⬡ |
-| **h** | `ha` ✅ | `he` 🔵 | ⬡ | ⬡ | ⬡ |
-| **w** | ⬡ | ⬡ | `wi` ✅ | `wo` 🟡 | ⬡ |
+| **b** | `ba` 🔢 `baf` (mega) | `be` ✅ | `bi` 🔢 `bim` (pico) | `bo` 🔢 `bol` (1) | `bu` 🔢 `bun` (2) |
+| **h** | `ha` ✅ | `he` 🔵 | `hi` 🔢 `hin` (5) | ⬡ | ⬡ |
+| **w** | ⬡ | `we` 🔢 `wes` (6) | `wi` ✅ | `wo` 🟡 | `wu` 🔢 `wul` (giga) |
 | **v** | ⬡ | ⬡ | ⬡ | `vo` ✅ | `vu` 🟡 |
-| **y** | `ya` 🔵 | ⬡ | ⬡ | ⬡ | `yu` 🟡 |
-| **z** | ⬡ | `ze` 🟡 | `zi` ✅ | `zo` ✅ | ⬡ |
-| **g** | ⬡ | `ge` 🔵 | ⬡ | `go` ✅ | ⬡ |
+| **y** | `ya` 🔵 | `ye` 🔢 `yel` (black) | `yi` 🔢 `yim` (white) | `yo` 🔢 `yom` (7) | `yu` 🟡 |
+| **z** | `za` 🔢 `zan` (9) | `ze` 🟡 | `zi` ✅ | `zo` ✅ | `zu` 🔢 `zum` (nano) |
+| **g** | `ga` 🔢 `gal` (3) | `ge` 🔵 | `gi` 🔢 `gim` (green) | `go` ✅ | `gu` 🔢 `gul` (peta) |
 
 ---
 

@@ -48,10 +48,12 @@ Never renumber existing W-numbers or S-numbers when splitting.
 | Active sentence intake (new sentences here first) | `corpus/sentences/s398-plus.md` |
 | Corpus index | `corpus/index.md` |
 | Bible translation stress tests | `corpus/translations/Bible/` |
+| Digit, color, scale-prefix, and CVC/CVCC exceptional anchor inventory | `notes/anchor-inventory.md` |
 | Open design questions | `notes/open-questions.md` |
 | Language basics summary | `notes/basics.md` |
 | Prior art / inspiration notes | `notes/prior-art.md` |
 | Semantic map | `notes/semantic-map.md` |
+| Phonosemantic CV family map | `notes/phonosemantic-map.md` |
 
 ---
 
