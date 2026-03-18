@@ -103,6 +103,8 @@ But coincidence specifically requires *two* things happening together:
 
 Parse: `zi` modifies `[go-no-ne]` as a whole — the mutual/coupling root applied to an uncaused pair of events. Strong candidate.
 
+</div>
+
 ---
 
 ### Justice
