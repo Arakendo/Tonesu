@@ -31,8 +31,8 @@ jobs:
       - name: Add README to gh-pages branch
         run: |
           git fetch origin gh-pages
-          git checkout gh-pages
-          cat > README.md << 'EOF'
+          git worktree add /tmp/gh-pages gh-pages
+          cat > /tmp/gh-pages/README.md << 'EOF'
           # Tonesu — GitHub Pages deployment
 
           This branch contains the generated static site deployed to **[tonesu.org](https://tonesu.org/)**.
@@ -41,6 +41,7 @@ jobs:
           EOF
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          cd /tmp/gh-pages
           git add README.md
           git diff --cached --quiet || git commit -m "chore: add README to gh-pages branch"
           git push origin gh-pages
