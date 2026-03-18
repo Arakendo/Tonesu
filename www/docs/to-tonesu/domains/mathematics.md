@@ -1,0 +1,15 @@
+---
+title: Mathematics
+---
+
+# Mathematics
+
+*Mathematical vocabulary in Tonesu — number, quantity, set, relation, proof, and the formal structures of abstract reasoning.*
+
+`nunofe` (mathematical infinity) and the NUM-001 corpus batch establish the foundation. The CVCC tier holds universal constants (`π`, `c`, `ℏ`). This section explores how Tonesu renders mathematical discourse: quantifiers, functions, proof structure, and domain-specific notation.
+
+---
+
+## Notes
+
+*Nothing here yet. Add exploration sessions, vocabulary lists, and design notes as they develop.*

@@ -72,6 +72,16 @@ nav:
     - Patterns: to-tonesu/patterns.md
     - Principles: to-tonesu/principles.md
     - Design notes: to-tonesu/design.md
+    - Domains:
+      - to-tonesu/domains/index.md
+      - Biology: to-tonesu/domains/biology.md
+      - Theology & Religion: to-tonesu/domains/theology.md
+      - Law: to-tonesu/domains/law.md
+      - Sociology: to-tonesu/domains/sociology.md
+      - Mathematics: to-tonesu/domains/mathematics.md
+      - Physics: to-tonesu/domains/physics.md
+      - Ethics: to-tonesu/domains/ethics.md
+      - Philosophy: to-tonesu/domains/philosophy.md
 
 markdown_extensions:
   - admonition

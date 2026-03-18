@@ -11,3 +11,4 @@ The juncture `'` in the name marks deliberate analytic distance — the same way
 - **[Patterns](patterns.md)** — productive templates: the recurring structural forms that generate whole families of compounds
 - **[Principles](principles.md)** — the design principles that guide decisions in Tonesu: what the language is trying to do and why
 - **[Design notes](design.md)** — specific decisions traced from pressure to resolution: why `tofeka`, why the `s-` family is the densest, what the consonant families reveal about the ontology
+- **[Domains](domains/index.md)** — exploratory sections where Tonesu vocabulary is stress-tested against real-world subject areas: biology, theology & religion, law, sociology, mathematics, physics, ethics, philosophy
