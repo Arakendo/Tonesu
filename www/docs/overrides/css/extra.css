@@ -51,7 +51,7 @@
   --md-code-hl-variable-color:      #f7f1ff;
 
   /* Links */
-  --md-typeset-a-color:             #5ad4e6;   /* editorLink.activeFg      */
+  --md-typeset-a-color:             #fd9353;   /* orange                   */
 
   /* Tables */
   --md-typeset-table-color:         #363537;   /* panel.background         */
@@ -121,7 +121,7 @@
   --md-code-hl-variable-color:      #2c232e;
 
   /* Links */
-  --md-typeset-a-color:             #2473b6;   /* editorLink.activeFg      */
+  --md-typeset-a-color:             #b16803;   /* amber/yellow             */
 
   /* Tables */
   --md-typeset-table-color:         #d2c9c4;   /* input.border             */
