@@ -14,9 +14,11 @@ The best way to understand Tonesu is to watch a word get built. Each example bel
 
 **Structure:** `to + li` — a person characterised by knowledge
 
-```
-to-li  →  knower, scholar
-```
+<div class="tn-derive" markdown>
+
+`to-li` → knower, scholar
+
+</div>
 
 Head-final rule: `li` (person) is the head; `to` narrows it to the knowledge domain.
 Nothing wasted, nothing ambiguous.
@@ -33,11 +35,14 @@ Nothing wasted, nothing ambiguous.
 - `mu` — device, artifact
 
 **Building up:**
-```
-to-ki       =  knowledge + change  →  the process of transforming knowledge
-to-ki-mu    =  to-ki + device      →  a device that performs to-ki
-            →  computer, calculator
-```
+
+<div class="tn-derive" markdown>
+
+`to-ki` = knowledge + change → the process of transforming knowledge
+
+`to-ki-mu` = `to-ki` + device → a device that performs `to-ki` → **computer, calculator**
+
+</div>
 
 Derivational suffix `-mu` (device) attaches after the semantic core. Stacking order: **root → semantic modifier → role suffix**.
 
@@ -52,10 +57,11 @@ Derivational suffix `-mu` (device) attaches after the semantic core. Stacking or
 - `ki` — motion, change
 - `mu` — device
 
-```
-ra-ki-mu   =  ra (energy) + ki (change) + mu (device)
-           →  energy-change device  =  engine, motor, generator
-```
+<div class="tn-derive" markdown>
+
+`ra-ki-mu` = `ra` (energy) + `ki` (change) + `mu` (device) → energy-change device → **engine, motor, generator**
+
+</div>
 
 The same pattern as `to-ki-mu` — semantic core first, role suffix last. The head tells you what kind of thing it is; the left roots tell you what domain it operates in.
 
@@ -72,19 +78,22 @@ The same pattern as `to-ki-mu` — semantic core first, role suffix last. The he
 - `su` — structure, organized form
 
 **First pass:**
-```
-pa-wi-ka-su   →  right-branching: pa modifies {wi modifies {ka-su}}
-              →  place of will modifying structured-action
-```
+
+<div class="tn-derive" markdown>
+
+`pa-wi-ka-su` → right-branching: `pa` modifies {`wi` modifies {`ka-su`}} → place of will modifying structured-action
+
+</div>
 
 That reads as: *a place-of-will organized-action-structure*. Close, but `pa-wi` (destination place) is a unit — we want `[pa-wi]` (the destination) to be the head that `[ka-su]` (structured practice) describes.
 
 **With `'`:**
-```
-pa-wi'ka-su   =  [pa-wi] + [ka-su]
-              →  destination-place  of  structured-intentional-practice
-              =  shrine, temple
-```
+
+<div class="tn-derive" markdown>
+
+`pa-wi'ka-su` = `[pa-wi]` + `[ka-su]` → destination-place of structured-intentional-practice → **shrine, temple**
+
+</div>
 
 The apostrophe binds `pa-wi` first, then the full compound combines. This is a case where `'` is required for the intended reading, not merely helpful — without it the parse lands in the wrong place.
 
@@ -101,15 +110,20 @@ The apostrophe binds `pa-wi` first, then the full compound combines. This is a c
 - `su` — structure, organized system
 
 **Building the fault first:**
-```
-de-su   =  decay + structure  →  fault, moral failing (a degradation of order)
-```
+
+<div class="tn-derive" markdown>
+
+`de-su` = decay + structure → fault, moral failing (a degradation of order)
+
+</div>
 
 **Then adding deliberate removal:**
-```
-ka-no-de-su   =  ka (deliberate) + no (removal) + de-su (fault)
-              →  deliberate un-faulting  =  forgiveness
-```
+
+<div class="tn-derive" markdown>
+
+`ka-no-de-su` = `ka` (deliberate) + `no` (removal) + `de-su` (fault) → deliberate un-faulting → **forgiveness**
+
+</div>
 
 Left-to-right: `ka` marks the act as intentional; `no` negates/removes; `de-su` is what gets removed. The full compound is compositionally transparent — a reader who knows the roots can arrive at the meaning without a dictionary.
 
