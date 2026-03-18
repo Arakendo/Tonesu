@@ -169,6 +169,35 @@
   font-weight: 600;
 }
 
+/* ── Left navigation — visual hierarchy ─────────────────── */
+
+/*
+ * Section-group labels (e.g. "Domains", "Registry", "Corpus") are <label>
+ * elements that toggle a nested list. Make them clearly read as headings,
+ * not links: uppercase, letter-spaced, slightly smaller, clearly dimmer.
+ */
+.md-nav__list label.md-nav__link {
+  font-size: .67rem;
+  font-weight: 700;
+  letter-spacing: .09em;
+  text-transform: uppercase;
+  opacity: .45;
+  margin-top: .55rem;
+  display: block;
+}
+
+/* The top-of-sidebar section title (back-link) uses .md-nav__title, not
+   a <label>, so the rule above does not affect it. */
+
+/*
+ * Indent links that live inside a nested section (depth ≥ 3).
+ * .md-nav__list .md-nav__list matches lists inside lists — i.e. sub-section
+ * contents (Biology, English index, etc.) relative to sibling direct links.
+ */
+.md-nav__list .md-nav__list a.md-nav__link {
+  padding-left: .9rem;
+}
+
 /* ── DataTables filter input ─────────────────────────────── */
 .dt-layout-row {
   margin-bottom: 0.8rem;
