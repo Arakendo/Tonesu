@@ -456,10 +456,12 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
   transform: translateY(-1px);
 }
 .rb-root-btn .rb-root-gloss {
-  font-size: .62rem;
+  font-size: .55rem;
   font-weight: 400;
   color: #bab6c0;
-  white-space: normal;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
   line-height: 1.25;
 }
 
