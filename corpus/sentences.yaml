@@ -94,7 +94,9 @@ sentences:
   words_attested:
   - W003
   - W010
-  first_attests: []
+  first_attests:
+  - W003
+  - W010
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S010
@@ -152,7 +154,9 @@ sentences:
   words_attested:
   - W067
   - W148
-  first_attests: []
+  first_attests:
+  - W067
+  - W148
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S014
@@ -237,7 +241,8 @@ sentences:
   natural: The child drinks water.
   words_attested:
   - W033
-  first_attests: []
+  first_attests:
+  - W033
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S020
@@ -252,7 +257,8 @@ sentences:
   natural: With a tool, one cuts wood. / A tool cuts wood.
   words_attested:
   - W163
-  first_attests: []
+  first_attests:
+  - W163
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S021
@@ -281,7 +287,8 @@ sentences:
   natural: The machine stores information.
   words_attested:
   - W011
-  first_attests: []
+  first_attests:
+  - W011
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S023
@@ -310,7 +317,8 @@ sentences:
   natural: The engineer inspected the machine.
   words_attested:
   - W002
-  first_attests: []
+  first_attests:
+  - W002
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S025
@@ -353,7 +361,8 @@ sentences:
   natural: 'Because [the storm decayed the structure], result: [collapse].'
   words_attested:
   - W038
-  first_attests: []
+  first_attests:
+  - W038
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S028
@@ -439,7 +448,8 @@ sentences:
   natural: The engine [is at] a thermal limit.
   words_attested:
   - W012
-  first_attests: []
+  first_attests:
+  - W012
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S034
@@ -526,7 +536,8 @@ sentences:
   natural: The standards framework is a system of meta-concepts.
   words_attested:
   - W072
-  first_attests: []
+  first_attests:
+  - W072
   gap_refs: []
   source_file: sentences/s040-s071.md
   source_anchor: S040
@@ -541,7 +552,8 @@ sentences:
   natural: A network is a meta-structure / has an architectural form.
   words_attested:
   - W031
-  first_attests: []
+  first_attests:
+  - W031
   gap_refs: []
   source_file: sentences/s040-s071.md
   source_anchor: S041
@@ -570,7 +582,8 @@ sentences:
   natural: The relay device performs sensor self-monitoring.
   words_attested:
   - W039
-  first_attests: []
+  first_attests:
+  - W039
   gap_refs: []
   source_file: sentences/s040-s071.md
   source_anchor: S043
@@ -585,7 +598,8 @@ sentences:
   natural: The transit grid has a topological structure.
   words_attested:
   - W152
-  first_attests: []
+  first_attests:
+  - W152
   gap_refs: []
   source_file: sentences/s040-s071.md
   source_anchor: S044
@@ -600,7 +614,8 @@ sentences:
   natural: The standards adjudicator operates through [???].
   words_attested:
   - W032
-  first_attests: []
+  first_attests:
+  - W032
   gap_refs: []
   source_file: sentences/s040-s071.md
   source_anchor: S045
@@ -663,7 +678,8 @@ sentences:
   words_attested:
   - W042
   - W148
-  first_attests: []
+  first_attests:
+  - W042
   gap_refs: []
   source_file: sentences/s040-s071.md
   source_anchor: S058
@@ -680,7 +696,8 @@ sentences:
   - W033
   - W042
   - W043
-  first_attests: []
+  first_attests:
+  - W043
   gap_refs: []
   source_file: sentences/s040-s071.md
   source_anchor: S059
@@ -696,7 +713,8 @@ sentences:
   words_attested:
   - W042
   - W044
-  first_attests: []
+  first_attests:
+  - W044
   gap_refs: []
   source_file: sentences/s040-s071.md
   source_anchor: S060
@@ -712,7 +730,8 @@ sentences:
   words_attested:
   - W036
   - W042
-  first_attests: []
+  first_attests:
+  - W036
   gap_refs: []
   source_file: sentences/s040-s071.md
   source_anchor: S061
@@ -728,7 +747,8 @@ sentences:
   words_attested:
   - W042
   - W045
-  first_attests: []
+  first_attests:
+  - W045
   gap_refs: []
   source_file: sentences/s040-s071.md
   source_anchor: S062
@@ -745,7 +765,9 @@ sentences:
   - W046
   - W075
   - W148
-  first_attests: []
+  first_attests:
+  - W046
+  - W075
   gap_refs: []
   source_file: sentences/s040-s071.md
   source_anchor: S063
@@ -761,7 +783,9 @@ sentences:
   words_attested:
   - W048
   - W049
-  first_attests: []
+  first_attests:
+  - W048
+  - W049
   gap_refs: []
   source_file: sentences/s040-s071.md
   source_anchor: S064
@@ -776,7 +800,8 @@ sentences:
   natural: The machine has greater spatial magnitude than the related artifact.
   words_attested:
   - W050
-  first_attests: []
+  first_attests:
+  - W050
   gap_refs: []
   source_file: sentences/s040-s071.md
   source_anchor: S065
@@ -792,7 +817,8 @@ sentences:
   words_attested:
   - W033
   - W051
-  first_attests: []
+  first_attests:
+  - W051
   gap_refs: []
   source_file: sentences/s040-s071.md
   source_anchor: S066
@@ -808,7 +834,9 @@ sentences:
   words_attested:
   - W070
   - W071
-  first_attests: []
+  first_attests:
+  - W070
+  - W071
   gap_refs: []
   source_file: sentences/s040-s071.md
   source_anchor: S067
@@ -823,7 +851,8 @@ sentences:
   natural: The vessel holds water.
   words_attested:
   - W052
-  first_attests: []
+  first_attests:
+  - W052
   gap_refs: []
   source_file: sentences/s040-s071.md
   source_anchor: S068
@@ -868,7 +897,8 @@ sentences:
   natural: He placed the tool into the container.
   words_attested:
   - W047
-  first_attests: []
+  first_attests:
+  - W047
   gap_refs: []
   source_file: sentences/s040-s071.md
   source_anchor: S071
@@ -883,7 +913,8 @@ sentences:
   natural: The pilot detected the spatial energy field.
   words_attested:
   - W053
-  first_attests: []
+  first_attests:
+  - W053
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S072
@@ -899,7 +930,9 @@ sentences:
   words_attested:
   - W054
   - W055
-  first_attests: []
+  first_attests:
+  - W054
+  - W055
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S073
@@ -914,7 +947,8 @@ sentences:
   natural: She entered the state of heightened bodily perception.
   words_attested:
   - W060
-  first_attests: []
+  first_attests:
+  - W060
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S074
@@ -944,7 +978,9 @@ sentences:
   words_attested:
   - W023
   - W057
-  first_attests: []
+  first_attests:
+  - W023
+  - W057
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S076
@@ -959,7 +995,8 @@ sentences:
   natural: They crossed the boundary that action forbids.
   words_attested:
   - W056
-  first_attests: []
+  first_attests:
+  - W056
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S077
@@ -975,7 +1012,9 @@ sentences:
   words_attested:
   - W061
   - W062
-  first_attests: []
+  first_attests:
+  - W061
+  - W062
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S078
@@ -1004,7 +1043,8 @@ sentences:
   natural: The archive holds the canonical doctrine.
   words_attested:
   - W064
-  first_attests: []
+  first_attests:
+  - W064
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S080
@@ -1020,7 +1060,8 @@ sentences:
   words_attested:
   - W057
   - W065
-  first_attests: []
+  first_attests:
+  - W065
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S081
@@ -1050,7 +1091,8 @@ sentences:
   natural: The pilot enters into energetic resonance with the machine.
   words_attested:
   - W059
-  first_attests: []
+  first_attests:
+  - W059
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S083
@@ -1066,7 +1108,8 @@ sentences:
   words_attested:
   - W064
   - W068
-  first_attests: []
+  first_attests:
+  - W068
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S084
@@ -1082,7 +1125,9 @@ sentences:
   words_attested:
   - W066
   - W069
-  first_attests: []
+  first_attests:
+  - W066
+  - W069
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S085
@@ -1129,7 +1174,8 @@ sentences:
   natural: The recurring protocol executes each cycle.
   words_attested:
   - W074
-  first_attests: []
+  first_attests:
+  - W074
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S088
@@ -1175,7 +1221,8 @@ sentences:
   words_attested:
   - W001
   - W045
-  first_attests: []
+  first_attests:
+  - W001
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S091
@@ -1190,7 +1237,8 @@ sentences:
   natural: The team updated the design specification before the mission.
   words_attested:
   - W073
-  first_attests: []
+  first_attests:
+  - W073
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S092
@@ -1206,7 +1254,8 @@ sentences:
   words_attested:
   - W061
   - W077
-  first_attests: []
+  first_attests:
+  - W077
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S093
@@ -1221,7 +1270,8 @@ sentences:
   natural: The pilot is my child.
   words_attested:
   - W078
-  first_attests: []
+  first_attests:
+  - W078
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S094
@@ -1236,7 +1286,8 @@ sentences:
   natural: The pilot is my sibling.
   words_attested:
   - W079
-  first_attests: []
+  first_attests:
+  - W079
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S095
@@ -1268,7 +1319,8 @@ sentences:
   words_attested:
   - W061
   - W080
-  first_attests: []
+  first_attests:
+  - W080
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S097
@@ -1283,7 +1335,8 @@ sentences:
   natural: The pilot is my descendant.
   words_attested:
   - W081
-  first_attests: []
+  first_attests:
+  - W081
   gap_refs: []
   source_file: sentences/s072-s100.md
   source_anchor: S098
@@ -1331,7 +1384,8 @@ sentences:
   natural: Build me the machine that perceived the resonance.
   words_attested:
   - W058
-  first_attests: []
+  first_attests:
+  - W058
   gap_refs: []
   source_file: sentences/s101-s175.md
   source_anchor: S101
@@ -1412,7 +1466,8 @@ sentences:
   natural: Build me a machine that remembers past signals.
   words_attested:
   - W098
-  first_attests: []
+  first_attests:
+  - W098
   gap_refs: []
   source_file: sentences/s101-s175.md
   source_anchor: S106
@@ -1457,7 +1512,8 @@ sentences:
   natural: The warning sound and the warning signal are not the same thing.
   words_attested:
   - W024
-  first_attests: []
+  first_attests:
+  - W024
   gap_refs: []
   source_file: sentences/s101-s175.md
   source_anchor: S109
@@ -1566,7 +1622,8 @@ sentences:
   words_attested:
   - W012
   - W082
-  first_attests: []
+  first_attests:
+  - W082
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S116
@@ -1581,7 +1638,8 @@ sentences:
   natural: The engines share a unified pattern / are the same model/type.
   words_attested:
   - W083
-  first_attests: []
+  first_attests:
+  - W083
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S117
@@ -1596,7 +1654,8 @@ sentences:
   natural: The engines have a relational pattern / are similar to each other.
   words_attested:
   - W084
-  first_attests: []
+  first_attests:
+  - W084
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S118
@@ -1611,7 +1670,8 @@ sentences:
   natural: The engines are components of one unified system.
   words_attested:
   - W085
-  first_attests: []
+  first_attests:
+  - W085
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S119
@@ -1627,7 +1687,8 @@ sentences:
   words_attested:
   - W022
   - W148
-  first_attests: []
+  first_attests:
+  - W022
   gap_refs: []
   source_file: sentences/s040-s071.md
   source_anchor: S120
@@ -1675,7 +1736,9 @@ sentences:
   - W012
   - W086
   - W156
-  first_attests: []
+  first_attests:
+  - W086
+  - W156
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S123
@@ -1711,7 +1774,8 @@ sentences:
   - W041
   - W086
   - W156
-  first_attests: []
+  first_attests:
+  - W041
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S125
@@ -1731,7 +1795,8 @@ sentences:
   - W041
   - W086
   - W088
-  first_attests: []
+  first_attests:
+  - W088
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S126
@@ -1770,7 +1835,8 @@ sentences:
   - W042
   - W064
   - W097
-  first_attests: []
+  first_attests:
+  - W097
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S128
@@ -1808,7 +1874,8 @@ sentences:
   - W086
   - W089
   - W156
-  first_attests: []
+  first_attests:
+  - W089
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S130
@@ -1844,7 +1911,8 @@ sentences:
     perceive value-decay when I look at it.
   words_attested:
   - W092
-  first_attests: []
+  first_attests:
+  - W092
   gap_refs: []
   source_file: sentences/s101-s175.md
   source_anchor: S132
@@ -2007,7 +2075,8 @@ sentences:
     — the structure of this state has been stored.
   words_attested:
   - W027
-  first_attests: []
+  first_attests:
+  - W027
   gap_refs: []
   source_file: sentences/s101-s175.md
   source_anchor: S143
@@ -2461,7 +2530,8 @@ sentences:
   words_attested:
   - W010
   - W030
-  first_attests: []
+  first_attests:
+  - W030
   gap_refs: []
   source_file: sentences/s101-s175.md
   source_anchor: S170
@@ -2595,7 +2665,8 @@ sentences:
   natural: Because the system perceives itself, the system regulates.
   words_attested:
   - W099
-  first_attests: []
+  first_attests:
+  - W099
   gap_refs: []
   source_file: sentences/s176-s227.md
   source_anchor: S179
@@ -2610,7 +2681,8 @@ sentences:
   natural: Despite the device being repaired, the device remains one.
   words_attested:
   - W035
-  first_attests: []
+  first_attests:
+  - W035
   gap_refs: []
   source_file: sentences/s176-s227.md
   source_anchor: S180
@@ -2709,7 +2781,8 @@ sentences:
   natural: The person measures the energy.
   words_attested:
   - W102
-  first_attests: []
+  first_attests:
+  - W102
   gap_refs: []
   source_file: sentences/s176-s227.md
   source_anchor: S187
@@ -2784,7 +2857,8 @@ sentences:
   words_attested:
   - W030
   - W034
-  first_attests: []
+  first_attests:
+  - W034
   gap_refs: []
   source_file: sentences/s176-s227.md
   source_anchor: S192
@@ -2932,7 +3006,8 @@ sentences:
   natural: The dog greeted the person.
   words_attested:
   - W105
-  first_attests: []
+  first_attests:
+  - W105
   gap_refs: []
   source_file: sentences/s176-s227.md
   source_anchor: S202
@@ -3203,7 +3278,8 @@ sentences:
   natural: I am angry at you.
   words_attested:
   - W123
-  first_attests: []
+  first_attests:
+  - W123
   gap_refs: []
   source_file: sentences/s176-s227.md
   source_anchor: S221
@@ -3471,7 +3547,8 @@ sentences:
   natural: My grandparent came to me.
   words_attested:
   - W076
-  first_attests: []
+  first_attests:
+  - W076
   gap_refs: []
   source_file: sentences/s228-s251.md
   source_anchor: S240
@@ -3734,7 +3811,8 @@ sentences:
     terrain edge.
   words_attested:
   - W138
-  first_attests: []
+  first_attests:
+  - W138
   gap_refs: []
   source_file: sentences/s252-s278.md
   source_anchor: S258
@@ -3960,7 +4038,8 @@ sentences:
   words_attested:
   - W028
   - W032
-  first_attests: []
+  first_attests:
+  - W028
   gap_refs: []
   source_file: sentences/s252-s278.md
   source_anchor: S273
@@ -4902,7 +4981,8 @@ sentences:
   words_attested:
   - W076
   - W110
-  first_attests: []
+  first_attests:
+  - W110
   gap_refs: []
   source_file: sentences/s335-s397.md
   source_anchor: S338
@@ -4953,7 +5033,8 @@ sentences:
   - W026
   - W076
   - W110
-  first_attests: []
+  first_attests:
+  - W026
   gap_refs: []
   source_file: sentences/s335-s397.md
   source_anchor: S341
@@ -5161,7 +5242,8 @@ sentences:
   words_attested:
   - W148
   - W149
-  first_attests: []
+  first_attests:
+  - W149
   gap_refs: []
   source_file: sentences/s335-s397.md
   source_anchor: S354
@@ -5233,7 +5315,8 @@ sentences:
   natural: Every organism has life-energy within it.
   words_attested:
   - W117
-  first_attests: []
+  first_attests:
+  - W117
   gap_refs: []
   source_file: sentences/s335-s397.md
   source_anchor: S359
@@ -5279,7 +5362,8 @@ sentences:
   words_attested:
   - W138
   - W139
-  first_attests: []
+  first_attests:
+  - W139
   gap_refs: []
   source_file: sentences/s335-s397.md
   source_anchor: S362
@@ -5312,7 +5396,8 @@ sentences:
   words_attested:
   - W028
   - W100
-  first_attests: []
+  first_attests:
+  - W100
   gap_refs: []
   source_file: sentences/s335-s397.md
   source_anchor: S364
@@ -5344,7 +5429,8 @@ sentences:
   natural: Because you are not a bonded ally, you are an adversary.
   words_attested:
   - W124
-  first_attests: []
+  first_attests:
+  - W124
   gap_refs: []
   source_file: sentences/s335-s397.md
   source_anchor: S366
@@ -5375,7 +5461,8 @@ sentences:
   natural: As for her proposition — I judge it, not her.   [correct form]
   words_attested:
   - W122
-  first_attests: []
+  first_attests:
+  - W122
   gap_refs: []
   source_file: sentences/s335-s397.md
   source_anchor: S368
@@ -5438,7 +5525,8 @@ sentences:
   natural: Wild animals kill each other.   [de — descriptive fact]
   words_attested:
   - W145
-  first_attests: []
+  first_attests:
+  - W145
   gap_refs: []
   source_file: sentences/s335-s397.md
   source_anchor: S372
@@ -5454,7 +5542,8 @@ sentences:
     proposed/possible]'
   words_attested:
   - W040
-  first_attests: []
+  first_attests:
+  - W040
   gap_refs: []
   source_file: sentences/s335-s397.md
   source_anchor: S373
@@ -5482,7 +5571,8 @@ sentences:
   words_attested:
   - W147
   - W148
-  first_attests: []
+  first_attests:
+  - W147
   gap_refs: []
   source_file: sentences/s335-s397.md
   source_anchor: S374
@@ -5511,7 +5601,8 @@ sentences:
   - W020
   - W062
   - W100
-  first_attests: []
+  first_attests:
+  - W020
   gap_refs: []
   source_file: sentences/s335-s397.md
   source_anchor: S375
@@ -6199,7 +6290,8 @@ sentences:
   natural: null
   words_attested:
   - W158
-  first_attests: []
+  first_attests:
+  - W158
   gap_refs: []
   source_file: sentences/s398-plus.md
   source_anchor: S401
@@ -6214,7 +6306,8 @@ sentences:
   natural: null
   words_attested:
   - W151
-  first_attests: []
+  first_attests:
+  - W151
   gap_refs: []
   source_file: sentences/s398-plus.md
   source_anchor: S402
@@ -6276,7 +6369,8 @@ sentences:
   - W110
   - W152
   - W153
-  first_attests: []
+  first_attests:
+  - W153
   gap_refs: []
   source_file: sentences/s398-plus.md
   source_anchor: S406
@@ -6305,7 +6399,8 @@ sentences:
   natural: null
   words_attested:
   - W154
-  first_attests: []
+  first_attests:
+  - W154
   gap_refs: []
   source_file: sentences/s398-plus.md
   source_anchor: S408
@@ -6320,7 +6415,8 @@ sentences:
   natural: null
   words_attested:
   - W155
-  first_attests: []
+  first_attests:
+  - W155
   gap_refs: []
   source_file: sentences/s398-plus.md
   source_anchor: S409
@@ -6335,7 +6431,8 @@ sentences:
   natural: null
   words_attested:
   - W160
-  first_attests: []
+  first_attests:
+  - W160
   gap_refs: []
   source_file: sentences/s398-plus.md
   source_anchor: S410
@@ -6411,7 +6508,8 @@ sentences:
   natural: null
   words_attested:
   - W159
-  first_attests: []
+  first_attests:
+  - W159
   gap_refs: []
   source_file: sentences/s398-plus.md
   source_anchor: S415
@@ -6457,7 +6555,10 @@ sentences:
   - W109
   - W160
   - W167
-  first_attests: []
+  first_attests:
+  - W103
+  - W109
+  - W167
   gap_refs: []
   source_file: sentences/s398-plus.md
   source_anchor: S418
@@ -6556,7 +6657,8 @@ sentences:
   - W103
   - W160
   - W167
-  first_attests: []
+  first_attests:
+  - W037
   gap_refs: []
   source_file: sentences/s398-plus.md
   source_anchor: S424
@@ -6586,7 +6688,8 @@ sentences:
   words_attested:
   - W052
   - W168
-  first_attests: []
+  first_attests:
+  - W168
   gap_refs: []
   source_file: sentences/s398-plus.md
   source_anchor: S426
@@ -6615,7 +6718,8 @@ sentences:
   natural: null
   words_attested:
   - W142
-  first_attests: []
+  first_attests:
+  - W142
   gap_refs: []
   source_file: sentences/s398-plus.md
   source_anchor: S428
@@ -6631,7 +6735,8 @@ sentences:
   words_attested:
   - W161
   - W168
-  first_attests: []
+  first_attests:
+  - W161
   gap_refs: []
   source_file: sentences/s398-plus.md
   source_anchor: S429
@@ -6747,7 +6852,8 @@ sentences:
   natural: null
   words_attested:
   - W162
-  first_attests: []
+  first_attests:
+  - W162
   gap_refs: []
   source_file: sentences/s398-plus.md
   source_anchor: S437
@@ -7051,7 +7157,8 @@ sentences:
   natural: null
   words_attested:
   - W121
-  first_attests: []
+  first_attests:
+  - W121
   gap_refs: []
   source_file: sentences/s398-plus.md
   source_anchor: S458
