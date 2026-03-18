@@ -1,0 +1,71 @@
+/* Tonesu Custom Theme for MkDocs Material */
+
+:root {
+  /* Tonesu Light Theme Colors */
+  --tonesu-primary: #5c6bc0;      /* indigo — calm, scholarly */
+  --tonesu-accent: #7986cb;
+  --tonesu-background: #ffffff;
+  --tonesu-surface: #f5f5f5;
+  --tonesu-text: #212121;
+  --tonesu-text-secondary: #616161;
+  --tonesu-border: #e0e0e0;
+}
+
+[data-md-color-scheme="slate"] {
+  /* Tonesu Dark Theme Colors */
+  --md-primary-fg-color: #7986cb;
+  --md-accent-fg-color: #9fa8da;
+
+  /* Backgrounds */
+  --md-default-bg-color: #1a1a2e;       /* deep indigo-dark */
+  --md-default-fg-color: #c5cae9;       /* indigo-tinted text */
+  --md-code-bg-color: #16213e;          /* deeper code panels */
+
+  /* Sidebar */
+  --md-primary-bg-color: #1f2044;
+  --md-primary-fg-color--light: #c5cae9;
+  --md-primary-fg-color--dark: #7986cb;
+
+  /* Links */
+  --md-typeset-a-color: #9fa8da;
+
+  /* Borders */
+  --md-typeset-table-color: #303060;
+
+  /* Code blocks */
+  --md-code-fg-color: #c5cae9;
+  --md-code-bg-color: #16213e;
+
+  /* Keyboard keys */
+  --md-typeset-kbd-color: #303060;
+  --md-typeset-kbd-accent-color: #5c6bc0;
+  --md-typeset-kbd-border-color: #404080;
+}
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #5c6bc0;
+  --md-accent-fg-color: #7986cb;
+}
+
+/* Code block styling */
+.md-typeset code {
+  border-radius: 4px;
+  padding: 0.1em 0.3em;
+}
+
+/* Table styling */
+.md-typeset table:not([class]) {
+  border: 1px solid var(--md-typeset-table-color);
+  border-radius: 4px;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--md-code-bg-color);
+  font-weight: 600;
+}
+
+/* Tonesu compound notation — monospace in running text */
+.md-typeset code {
+  font-family: "JetBrains Mono", "Fira Code", "Consolas", monospace;
+  font-size: 0.85em;
+}
