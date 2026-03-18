@@ -15,19 +15,24 @@ theme:
 
 nav:
   - Home: index.md
-  - Learn:
-    - Sounds: learn/sounds.md
-    - Grammar: learn/grammar.md
-    - Compounds: learn/compounds.md
-    - Notation: learn/notation.md
-  - Reference:
-    - Primitives: reference/primitives.md
-    - Words: reference/words.md
-  - Explore:
-    - Overview: explore/index.md
-    - Patterns: explore/patterns.md
-    - Sandbox: explore/sandbox.md
-    - Worked Examples: explore/compounds.md
-    - Sentences: explore/sentences.md
-  - About:
-    - Principles: about/principles.md
+  - Quick start: quick-start.md
+  - Tonesu:
+    - Overview: tonesu/index.md
+    - Sounds: tonesu/sounds.md
+    - Grammar: tonesu/grammar.md
+    - Building words: tonesu/words.md
+    - Notation: tonesu/notation.md
+    - Primitives: tonesu/primitives.md
+    - Registry: tonesu/registry/index.md
+    - Corpus: tonesu/corpus.md
+  - Totonesu:
+    - Overview: totonesu/index.md
+    - Worked examples: totonesu/examples.md
+    - Sandbox: totonesu/sandbox.md
+    - Sentences: totonesu/corpus/sentences.md
+  - To'tonesu:
+    - Overview: to-tonesu/index.md
+    - Patterns: to-tonesu/patterns.md
+    - Principles: to-tonesu/principles.md
+    - Design notes: to-tonesu/design.md
+  - Cheatsheet: cheatsheet.md

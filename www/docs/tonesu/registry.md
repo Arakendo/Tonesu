@@ -1,25 +1,12 @@
-# Words
+# Registry
 
-Accepted compound words in Tonesu. Each entry shows the written form, its root decomposition, and its meaning.
+The full word registry is at **[registry/index.md](registry/index.md)** — 154 derived compounds with corpus attestation links, status, and individual detail pages.
 
-This list grows as words pass the acceptance criteria: structural soundness, corpus attestation, and consistency with current formation rules.
+## Views
 
----
+- **[Alphabetical](registry/index.md)** — all words sorted by form, with W-number, gloss, status, and corpus links
+- **[English index](registry/english.md)** — look up Tonesu words by English keyword
+- **[By domain](registry/by-domain.md)** — concept-first lookup by semantic category
+- **[By root](registry/by-root.md)** — all words grouped by their lead primitive root
 
-## W000 — tonesu
-
-| | |
-|---|---|
-| **Form** | `tonesu` |
-| **Roots** | `to` (pattern/thought) + `ne` (relation) + `su` (structure) |
-| **Class** | concept |
-| **Meaning** | truth; the language itself |
-| **Register** | formal → casual |
-
-The name of the language and the word for truth are the same word by design. Speaking Tonesu is an act of reaching toward truth; the language is named after what it aspires to express.
-
-`to-ne-su` = the condition of patterns held together in structure — not a single true proposition, but a state of coherent organised knowledge.
-
----
-
-*More words will appear here as the acceptance process proceeds.*
+Each W-number in the alphabetical list links to a full detail page showing composition, definition, notes, and every sentence in which the word appears.
