@@ -8,7 +8,7 @@ title: Corpus
 
 ---
 
-## Sentences
+## Foundations
 
 <span id="S001"></span>
 **S001** · *legacy*
@@ -70,26 +70,6 @@ title: Corpus
 `ta [la-yu  ka-to-ki]  la-to  ka-be`
 *When they study, knowledge grows.*
 
-<span id="S016"></span>
-**S016** · P002 · *legacy*
-`la-mi  ka-be-past  lo-mu  wi [la-tu  ka-mu-ka  lo-mu]`
-*I built the machine for you to use.*
-
-<span id="S017"></span>
-**S017** · P003 · *legacy*
-`la-ze  lo-si  ka-si-ki-past  wi [ka-fe-si  ne-yu]`
-*She sent the message to warn them.*
-
-<span id="S018"></span>
-**S018** · P001 · *legacy*
-`la-yu  ka-to-ki  wi [ka-to-su-ki]`
-*They study in order to comprehend.*
-
-<span id="S019"></span>
-**S019** · P004 · *legacy*
-`lo-to-ko-mu  ne-mi  ka-be`
-*Build me a memory device. (imperative: la-tu dropped)*
-
 <span id="S020"></span>
 **S020** · T021 · *legacy*
 `la-li-be  lo-ma  ka-ko`
@@ -129,286 +109,6 @@ title: Corpus
 **S027** · *legacy*
 `la-ze  lo-ze  ka-de-be-past  wi [ka-ra-be  pa-li-pu]`
 *She repaired it to restore power to the city.*
-
-<span id="S028"></span>
-**S028** · Hidden Property A · *legacy*
-`go [la-ra-ki  lo-su-mu  de]  du [de-ki]`
-*Because [the storm decayed the structure], result: [collapse].*
-
-<span id="S029"></span>
-**S029** · Hidden Property B · *legacy*
-`la-ma-di  ta-re-ti  fe-ki`
-*The river, at each recurring time, crosses its limit.*
-
-<span id="S030"></span>
-**S030** · Hidden Property C · *legacy*
-`la-to-su-mu  vo`
-*The archive has value.*
-
-<span id="S031"></span>
-**S031** · Hidden Property D · *legacy*
-`la-li-pu  ka  ru`
-*The collective acts with unity.*
-
-<span id="S032"></span>
-**S032** · T-HA-001 · *legacy*
-`la-zo-mi  se  no-ha`
-*My body perceives cold.*
-
-<span id="S033"></span>
-**S033** · T-HA-002 · *legacy*
-`lo-pa  ha-vo`
-*The room [is] warm.*
-
-<span id="S034"></span>
-**S034** · T-HA-003 · *legacy*
-`la-ra-ki-mu  ha-fe`
-*The engine [is at] a thermal limit.*
-
-<span id="S035"></span>
-**S035** · T-HA-004 · *legacy*
-`lo-ha  de-past  ta-ti-de`
-*The thermal state decreased last night.*
-
-<span id="S036"></span>
-**S036** · T-HA-005 · *legacy*
-`lo-ma  ha-fe  —  no [ka-se]`
-*The food is at a thermal limit. [It] cannot be consumed.*
-
-<span id="S037"></span>
-**S037** · T-HA-006 · *legacy*
-`la-mu  ko  lo-ha-ra`
-*The metal contains thermal energy.*
-
-<span id="S038"></span>
-**S038** · T-HA-007 · *legacy*
-`la-ra-ki-mu  wi [lo-ha  no-fe]`
-*The reactor [must have] the intention [that its thermal state not reach the boundary].*
-
-<span id="S039"></span>
-**S039** · T-HA-008 · *legacy*
-`lo-ma-di  ha-vo  nu-no  lo-pa-ma`
-*The water [has] less thermal quality than the air.*
-
-<span id="S040"></span>
-**S040** · T-XX-001
-`lo-to-fe-su  to-to-su`
-*The standards framework is a system of meta-concepts.*
-
-<span id="S041"></span>
-**S041** · T-XX-002
-`lo-ne-su  su-su`
-*A network is a meta-structure / has an architectural form.*
-
-<span id="S042"></span>
-**S042** · T-XX-003
-`la-ka-ki  wi  ka-ka`
-*Operations require procedure / protocol.*
-
-<span id="S043"></span>
-**S043** · T-XX-004
-`la-si-mu  ka  se-se`
-*The relay device performs sensor self-monitoring.*
-
-<span id="S044"></span>
-**S044** · T-XX-005
-`lo-ki-ne  ne-ne`
-*The transit grid has a topological structure.*
-
-<span id="S045"></span>
-**S045** · T-APO-001
-`la-to-fe-li  wi  to-to-se-ma-ka`
-*The standards adjudicator operates through [???].*
-
-<span id="S046"></span>
-**S046** · T-APO-002
-`la-to-li  ka  to-to'ma-li'ne-se-to Parse:    to-to modifies [ma-li modifies [ne-se-to]]`
-*Tonesu scholars engage in the meta-theory of how embodied persons build conceptual relations from perception.*
-
-<span id="S056"></span>
-**S056** · T-PRM-001
-`la-ze  ne-li-pu-su  lo-si-su  de`
-*She released the archive to the council.*
-
-<span id="S057"></span>
-**S057** · T-PRM-002
-`lo-zo-li  no-ma  go  de`
-*For the person, absence of substance causes decay.*
-
-<span id="S058"></span>
-**S058** · T-PRM-003
-`lo-zo-li  ne-fe  ma`
-*The person needs substance / the person is in a dependency-condition toward substance.*
-
-<span id="S059"></span>
-**S059** · T-PRM-004
-`lo-li-be  ne-fe  zo-no-ki`
-*The child needs sleep / rest.*
-
-<span id="S060"></span>
-**S060** · T-PRM-005
-`lo-mu  ne-fe  ha-de`
-*The machine needs cooling.*
-
-<span id="S061"></span>
-**S061** · T-PRM-006
-`lo-li-pu-pa  ne-fe  ma`
-*The city needs water / substance supply.*
-
-<span id="S062"></span>
-**S062** · T-PRM-007
-`lo-li-pu  ne-fe  wi-to`
-*The team needs a plan / purposive structure.*
-
-<span id="S063"></span>
-**S063** · T-PRM-008
-`lo-zo-li  ta-ti-now  no-ne-fe  ma-no-de`
-*The person currently does not need medicine.*
-
-<span id="S064"></span>
-**S064** · T-CMP-001
-`lo-ko-pa  ha-vo  nu-be  lo-ki-pa`
-*The room has more thermal quality than the corridor.*
-
-<span id="S065"></span>
-**S065** · T-CMP-002
-`lo-mu  pa-nu  nu-be  lo-mu-ne`
-*The machine has greater spatial magnitude than the related artifact.*
-
-<span id="S066"></span>
-**S066** · T-CMP-003
-`lo-li-be  ta-ti-now  zo-de  nu-no  ta-ti-de`
-*The child has less fatigue now than at the past time.*
-
-<span id="S067"></span>
-**S067** · T-CMP-004
-`lo-si  ra-vo  nu-be  lo-si-fe`
-*The signal has greater energy intensity than the signal threshold.*
-
-<span id="S068"></span>
-**S068** · T-KO-001
-`la-ko-mu  ko  lo-ma-di`
-*The vessel holds water.*
-
-<span id="S069"></span>
-**S069** · T-KO-002
-`la-ze  lo-si-ko-mu  ka-ko`
-*She stored / deliberately placed the document into containment.*
-
-<span id="S070"></span>
-**S070** · T-KO-003
-`la-si-su  ko  lo-si-ko-mu`
-*The archive holds documents / records.*
-
-<span id="S071"></span>
-**S071** · T-KO-004
-`la-ze  lo-ka-mu  ne-ko-mu  ka-ko`
-*He placed the tool into the container.*
-
-<span id="S072"></span>
-**S072** · T-MYS-001
-`la-ra-ki-li  se  lo-pa-ra`
-*The pilot detected the spatial energy field.*
-
-<span id="S073"></span>
-**S073** · T-MYS-002
-`la-wi-ka-su  lo-fe-su  be-past`
-*The ritual strengthened the ward.*
-
-<span id="S074"></span>
-**S074** · T-MYS-003
-`la-ze  zo-se-ki`
-*She entered the state of heightened bodily perception.*
-
-<span id="S075"></span>
-**S075** · T-MYS-004
-`la-wi-ze  ka  lo-mu`
-*Her will acts upon the machine.*
-
-<span id="S076"></span>
-**S076** · T-MYS-005
-`la-ti-mu  si-ki  no-to-ge`
-*The relic emits an anomalous signal.*
-
-<span id="S077"></span>
-**S077** · T-MYS-006
-`la-yu  fe-ki  lo-fe-no-ka`
-*They crossed the boundary that action forbids.*
-
-<span id="S078"></span>
-**S078** · T-MYS-007
-`la-di-ki-li  se  lo-se-to`
-*The navigator received a perceptual insight / vision.*
-
-<span id="S079"></span>
-**S079** · T-REL-001
-`la-ze  ka-wi-si`
-*She performed intentional-signaling / she prayed.*
-
-<span id="S080"></span>
-**S080** · T-REL-002
-`la-si-su  ko  lo-to-re-su`
-*The archive holds the canonical doctrine.*
-
-<span id="S081"></span>
-**S081** · T-REL-003
-`lo-ti-mu  fe-vo`
-*The relic has the quality of set-apart value.*
-
-<span id="S082"></span>
-**S082** · T-REL-004
-`la-to-su-li  si-ki  ne-li-pu`
-*The doctrine keeper transmitted signal to the collective.*
-
-<span id="S083"></span>
-**S083** · T-REL-005
-`la-ra-ki-li  ne-ra-ki  lo-mu`
-*The pilot enters into energetic resonance with the machine.*
-
-<span id="S084"></span>
-**S084** · T-REL-006
-`la-li-pu  to-re-su  si  lo-mu  zo-to`
-*The group's canonical doctrine signals that the machine has a living-pattern.*
-
-<span id="S085"></span>
-**S085** · T-REL-007
-`la-zo-si  lo-pa-wi-ka-su  no-de`
-*The spirits preserve the ritual place.*
-
-<span id="S086"></span>
-**S086** · T-WIT-001 / baseline
-`la-to-li  lo-wi-to  be-past`
-*The engineer revised the plan.*
-
-<span id="S087"></span>
-**S087** · T-WIT-002 / design
-`la-to-li  lo-mu  wi-to  be-past`
-*The engineer designed the machine.*
-
-<span id="S088"></span>
-**S088** · T-WIT-003 / program
-`lo-wi-re-su  ta-re-ti  be`
-*The recurring protocol executes each cycle.*
-
-<span id="S089"></span>
-**S089** · T-WIT-004 / intention-model
-`la-wi-ze  lo-ka  ki`
-*Her will/intention directed the action.*
-
-<span id="S090"></span>
-**S090** · T-WIT-005 / stress
-`la-ra-ki-li  lo-to-re-su  be  no  lo-wi-to`
-*The pilot followed the standing doctrine, not the mission plan.*
-
-<span id="S091"></span>
-**S091** · T-WIT-006 / transmission
-`la-li-su-li  lo-yu  lo-wi-to  ka-si-past`
-*The coordinator briefed the team on the plan.*
-
-<span id="S092"></span>
-**S092** · T-WIT-007 / wi-to-su
-`la-yu  lo-wi-to-su  be-past  ta-ti-de  lo-ka-wi-de`
-*The team updated the design specification before the mission.*
 
 <span id="S093"></span>
 **S093**
@@ -485,43 +185,114 @@ title: Corpus
 `la-mi  se  [lo-mu  ne-ra  no-to-fe]`
 *I have a signal-level reading: the machine's resonance is uncertified.*
 
-<span id="S108"></span>
-**S108** · T-PHN-001
-`la-ze  lo-si-mu  ka-se`
-*They perceived the encoded signal.*
+<span id="S163"></span>
+**S163**
+`lo-li  vo`
+*The person is [socially] valued.*
 
-<span id="S109"></span>
-**S109** · T-PHN-002
-`lo-fe-so  lo-fe-si  no-ru`
-*The warning sound and the warning signal are not the same thing.*
+<span id="S190"></span>
+**S190**
+`la-mu  lo-si  se  no  lo-to`
+*The machine detected the signal, not the pattern.*
 
-<span id="S110"></span>
-**S110** · T-PHN-003
-`la-mi  lo-so  ka-se  wi  [lo-si-mu  ka-be]`
-*I detected the sound, intending to produce a record of it.*
+<span id="S191"></span>
+**S191**
+`la-si-su  ko  [la-ra-ki-li  se  lo-pa-ra]`
+*The archive holds: the pilot perceived the field.*
 
-<span id="S111"></span>
-**S111** · T-PHN-004
-`lo-se-su  lo-si-su  no-ne`
-*The sensor output and the archived data are not in agreement.*
+<span id="S192"></span>
+**S192**
+`la-yu  lo-to-su  be  ta-ti-be  lo-se-ka`
+*The team consolidated their knowledge after the inspection.*
 
-<span id="S112"></span>
-**S112** · T-PHN-005
-`A:  lo-mu  lo-fe  ka-se`
-`patient:machine  patient:boundary  action:perceive/detect`
-`The machine detected the limit.`
-`B:  lo-mu  lo-fe  ka-si-ki`
-`patient:machine  patient:boundary  action:signal-encode(inchoative)`
-`The machine began encoding the limit as a signal.`
+<span id="S193"></span>
+**S193**
+`go [lo-zo-su  ne  lo-zo-su]  du [lo-zo-su  be]  du [lo-zo-su  be]`
+*Because living-system A is in relation with living-system B, A grows and B grows.*
 
-<span id="S113"></span>
-**S113** · T-PHN-006
-`A:  lo-so-su  de`
-`patient:sound-archive  decay/damage`
-`The sound archive is degraded.`
-`B:  lo-si-su  de`
-`patient:signal-archive  decay/damage`
-`The signal archive is degraded.`
+<span id="S194"></span>
+**S194**
+`go [la-li  ne  la-li]  du [la-li  wi-to-ki]  du [la-li  wi-to-ki]`
+*Because delegate A is in relation with delegate B, A shifts position and B shifts position.*
+
+<span id="S365"></span>
+**S365**
+`(la-ze  lo-wi-fe  be-si)  ,  du  la-ze  lo-wi-fe-no-fe  wi`
+*(She reportedly said: let rules increase.) — Therefore she intends            unlimited-governance [rules-without-boundary].*
+
+<span id="S439"></span>
+**S439**
+`to-su  helm  ra`
+
+<span id="S440"></span>
+**S440**
+`ti  helm  nu-vo`
+
+<span id="S441"></span>
+**S441**
+`go-no-fe  helm  de`
+
+<span id="S442"></span>
+**S442**
+`go-no-fe  helms  vo`
+
+<span id="S443"></span>
+**S443**
+`zo-li  helms  to-zo`
+
+<span id="S444"></span>
+**S444**
+`la-mi  to  go  la-mi  pa`
+
+<span id="S445"></span>
+**S445**
+`pu-to-su  ne  ven  du-to`
+
+<span id="S446"></span>
+**S446**
+`pu-to-su  ne  ven  no-du-to`
+
+## Grammar & syntax
+
+<span id="S016"></span>
+**S016** · P002 · *legacy*
+`la-mi  ka-be-past  lo-mu  wi [la-tu  ka-mu-ka  lo-mu]`
+*I built the machine for you to use.*
+
+<span id="S017"></span>
+**S017** · P003 · *legacy*
+`la-ze  lo-si  ka-si-ki-past  wi [ka-fe-si  ne-yu]`
+*She sent the message to warn them.*
+
+<span id="S018"></span>
+**S018** · P001 · *legacy*
+`la-yu  ka-to-ki  wi [ka-to-su-ki]`
+*They study in order to comprehend.*
+
+<span id="S019"></span>
+**S019** · P004 · *legacy*
+`lo-to-ko-mu  ne-mi  ka-be`
+*Build me a memory device. (imperative: la-tu dropped)*
+
+<span id="S064"></span>
+**S064** · T-CMP-001
+`lo-ko-pa  ha-vo  nu-be  lo-ki-pa`
+*The room has more thermal quality than the corridor.*
+
+<span id="S065"></span>
+**S065** · T-CMP-002
+`lo-mu  pa-nu  nu-be  lo-mu-ne`
+*The machine has greater spatial magnitude than the related artifact.*
+
+<span id="S066"></span>
+**S066** · T-CMP-003
+`lo-li-be  ta-ti-now  zo-de  nu-no  ta-ti-de`
+*The child has less fatigue now than at the past time.*
+
+<span id="S067"></span>
+**S067** · T-CMP-004
+`lo-si  ra-vo  nu-be  lo-si-fe`
+*The signal has greater energy intensity than the signal threshold.*
 
 <span id="S114"></span>
 **S114** · T-AX-001
@@ -772,11 +543,6 @@ title: Corpus
 `la-li  vo`
 *A person has worth.*
 
-<span id="S163"></span>
-**S163**
-`lo-li  vo`
-*The person is [socially] valued.*
-
 <span id="S164"></span>
 **S164** · P-GP-001
 `la-su-mu-li  ka  vo`
@@ -867,26 +633,6 @@ title: Corpus
 `no-go [la-mu  pe  ki]  lo-mu  ru`
 *Despite the device's parts changing, the device remains one.*
 
-<span id="S182"></span>
-**S182** · MMP-001
-`la-li  ka  vo-de  lo-li`
-*A person acts to destroy another person's value.*
-
-<span id="S183"></span>
-**S183** · MMP-001
-`la-li  de  lo-wi-fe-su`
-*The person undermines the rule. / The agent violates the law.*
-
-<span id="S184"></span>
-**S184** · MMP-001
-`la-li  to  [no-go [lo-zo  de]  lo-li  ru]`
-*The person believes: despite the body dying, the person persists.*
-
-<span id="S185"></span>
-**S185** · MMP-001
-`la-li  to  pu`
-*The person has all knowledge. / The agent knows everything.*
-
 <span id="S186"></span>
 **S186** · PMS-001
 `no-go [lo-ra  ki]  lo-ra  ru`
@@ -907,30 +653,1030 @@ title: Corpus
 `go [lo-ra-su  ne  lo-ra-su]  du [lo-ra-su  ki]  du [lo-ra-su  ki]`
 *Because force-system A is in relation with force-system B, A moves and B moves.*
 
-<span id="S190"></span>
-**S190**
-`la-mu  lo-si  se  no  lo-to`
-*The machine detected the signal, not the pattern.*
+<span id="S335"></span>
+**S335** · GRM-001
+`la-be-di'zo-su  ki  lo-ma-pa  ta-ti-de`
+*The tall tree fell to the ground last season.*
 
-<span id="S191"></span>
-**S191**
-`la-si-su  ko  [la-ra-ki-li  se  lo-pa-ra]`
-*The archive holds: the pilot perceived the field.*
+<span id="S336"></span>
+**S336** · GRM-001
+`la-su'zo-ne  be  lo-zo-be  ta-ti-mi`
+*The cap fungus is growing fruiting bodies on it right now.*
 
-<span id="S192"></span>
-**S192**
-`la-yu  lo-to-su  be  ta-ti-be  lo-se-ka`
-*The team consolidated their knowledge after the inspection.*
+<span id="S337"></span>
+**S337** · GRM-001
+`la-zo-ne  ki  lo-ma-pa  ta-ti-be`
+*The mycelial network will spread through the soil.*
 
-<span id="S193"></span>
-**S193**
-`go [lo-zo-su  ne  lo-zo-su]  du [lo-zo-su  be]  du [lo-zo-su  be]`
-*Because living-system A is in relation with living-system B, A grows and B grows.*
+<span id="S338"></span>
+**S338** · GRM-001
+`la-pa'zo-ne  ki  lo-pa-mi`
+*The mold has spread here. / The mold has reached this surface.*
 
-<span id="S194"></span>
-**S194**
-`go [la-li  ne  la-li]  du [la-li  wi-to-ki]  du [la-li  wi-to-ki]`
-*Because delegate A is in relation with delegate B, A shifts position and B shifts position.*
+<span id="S339"></span>
+**S339** · GRM-001
+`la-zo-su  be-vo`
+*A plant has productive capacity. / Growth is intrinsic to a plant.*
+
+<span id="S340"></span>
+**S340** · GRM-001
+`lo-zo-su  be-vo`
+*This plant is actively growing. / The plant is in a productive state right now.*
+
+<span id="S341"></span>
+**S341** · GRM-001
+`Turn A:   to-si — la-tu  se  lo-zo-ne?`
+`polar-question — agent:you  perceived  patient:fungal-network?`
+`Have you seen the mycelium?`
+`Turn B1:  ru — se  lo-zo-ne`
+`affirmative — [la-mi dropped]  perceived  patient:fungal-network`
+`Yes — [I] see it. / I can see it.`
+`Turn B2:  ki  lo-pa-mi`
+`[la-mi dropped]  moved  patient:here`
+`[I'll] come here. / [I'm] going to take a look.`
+
+<span id="S342"></span>
+**S342** · GRM-002
+`la-mi  se  lo-zon  ku?`
+*Did I see a herd animal? / Was that a deer I spotted?*
+
+<span id="S343"></span>
+**S343** · GRM-002
+`Casual:    la-tu  se  lo-re'zo-se-ne  ku?`
+`agent:you  perceived  patient:deer  [query?]`
+`Formal:    to-si — la-tu  se  lo-re'zo-se-ne`
+`[inquiry-frame] — agent:you  perceived  patient:deer`
+`Natural:   Did you see a deer?  (both forms; casual vs formal register)`
+`Typical response:  ru — se  lo-re'zo-se-ne  ta-ti-de`
+`yes — [I] perceived  patient:deer  at-past-time`
+`(Yes — I saw one earlier.)`
+
+<span id="S344"></span>
+**S344** · GRM-002
+`Blocked:      * la-zo-su  be-vo  ta-ti-mi`
+`Grammatical:    lo-zo-su  be-vo  ta-ti-mi`
+`Literal (grammatical):  patient:plant  generative-quality  at-present-time`
+`Natural:  This plant is actively growing right now.  (emphatic present; contingent state)`
+
+<span id="S345"></span>
+**S345** · GRM-002
+`la-zo-ne  ki  lo-ma-pa  wi [de  lo-zo-su]`
+*The mycelial network spreads through the soil in order to decompose plant matter.*
+
+<span id="S346"></span>
+**S346** · GRM-002
+`la-mi  ne  lo-tu  na-ze`
+*I connected you with them. / I introduced you to them.*
+
+<span id="S347"></span>
+**S347** · GRM-002
+`to-go [lo-be-di'zo-su  no-ki  lo-ma-pa  ta-ti-de]  la-zo-ne  no-ki  lo-ma-pa  ta-ti-de Premise:  patient:tall-tree  negated-moved  patient:soil  at-past-time Result:   agent:fungal-network  negated-moved  patient:soil  at-past-time`
+*If the tall tree had not fallen, the mycelial network would not have spread.*
+
+<span id="S348"></span>
+**S348** · GRM-002
+`Question:  la-zo-su  be  lo-to-si?`
+`agent:plant  produces  patient:knowledge-seeking`
+`What does a plant produce?`
+`Answer:    la-zo-su  be  lo-zo-be`
+`agent:plant  produces  patient:biological-product`
+`A plant produces reproductive bodies. / Plants produce seeds.`
+
+<span id="S364"></span>
+**S364** · FAL-001
+`P1:  lo-ra  to-fe  ne            P2:  lo-wi-fe  lo-la-wi-li  go  ne            C:   (lo-ra  lo-la-wi-li  go  ne)`
+*P1: Force obeys an epistemic regularity.            P2: Normative rules require a willer.            C:  (So it is claimed: force requires a willer.)*
+
+<span id="S366"></span>
+**S366** · FAL-001
+`go  lo-zu  ne-li  no  ,  lo-zu  wi-de-li  ne`
+*Because you are not a bonded ally, you are an adversary.*
+
+<span id="S367"></span>
+**S367** · FAL-001
+`A:  lo-to-re-su  to  ,  go  la-be-go-li  lo-ze  si-past            B:  la-be-go-li  lo-ze  si-past  ,  go  lo-to-re-su  si`
+*A:  The scripture is confirmed — because the creator attested it.            B:  The creator attested it — because the scripture says so.*
+
+<span id="S368"></span>
+**S368** · FAL-001 · first `:` attestation
+`lo-to-si-ze  :  la-mi  lo-ze  ka-to-fe  ,  no  lo-ze`
+*As for her proposition — I judge it, not her.   [correct form]*
+
+<span id="S369"></span>
+**S369** · FAL-001
+`(la-to-li  lo-to-su  no-to)  ,  (du  lo-to-su  no-be)`
+*(The scholar reportedly does not accept the model.)            (Therefore, reportedly: the model does not hold.)   [humble/correct form]*
+
+<span id="S370"></span>
+**S370** · FAL-001
+`ta  [la-mi  lo-ma-no-de  mu-ka-past]  ,  la-mi  zo-de-fe-past`
+*When I used medicine, my illness ended.   [temporal frame: ta]*
+
+<span id="S371"></span>
+**S371** · FAL-001
+`lo-ko-mu  :  nu-de  ne`
+*As for each component: it has small mass.   [part claim]*
+
+<span id="S372"></span>
+**S372** · FAL-001
+`la-wi-zo  lo-wi-zo  de    [descriptive]`
+*Wild animals kill each other.   [de — descriptive fact]*
+
+<span id="S373"></span>
+**S373** · FAL-001
+`la-mi  si  lo-ti-be  lo-ma-de`
+*I hypothesize: in the future, material resources will decline.   [si — proposed/possible]*
+
+<span id="S374"></span>
+**S374** · FAL-002
+`Bailey (strong claim, bare assertion):`
+`la-ka-li-su  :  lo-zo-li  to-no-fe  ka`
+`Motte (retreat when challenged):`
+`la-ka-li-su  :  lo-zo-li  wi-ne  ne`
+`Correction:`
+`go  [la-ka-li-su  lo-zo-li  wi-ne  ne]  ,  no  la-ze  du  lo-to-no-fe  ka`
+
+<span id="S375"></span>
+**S375** · FAL-002
+`(1) Original condition (attributed, past):`
+`(go  [la-mi  lo-ra  se]  ,  la-mi  lo-to-si-ze  to-ki)`
+`(2) Condition met:`
+`la-mi  lo-ra  se-past`
+`(3) New goalpost (bare, present):`
+`la-mi  wi-fe  be  :  lo-ra-ne  se-to`
+
+<span id="S376"></span>
+**S376** · FAL-002
+`Fallacious chain:`
+`go  [lo-wi-fe  de]  ,`
+`(du  lo-ne-ki  de)  ,`
+`(du  lo-ka-li-su  de)  ,`
+`(du  lo-ne-su  de)`
+`Correction:`
+`go  [lo-wi-fe  de]  ,  la-mi  no-se  lo-ne-ki  de`
+
+<span id="S377"></span>
+**S377** · FAL-002
+`Illegitimate (emotional fact → specific policy without warrant chain):`
+`la-zo-ne-du  lo-fa  de-past  ,`
+`(du  la-mi  lo-zo-ne-du  pa-ki)`
+`Legitimate (full warrant chain stated):`
+`go  [la-zo-ne-du  lo-fa  de-past]  ,`
+`go  [la-mi  lo-zo-ne-du  vo-wi]  ,`
+`la-mi  lo-zo-ne-du  pa-ki`
+
+<span id="S378"></span>
+**S378** · FAL-002
+`Loaded (presupposition hidden inside question frame):`
+`to-si  [la-zu  lo-to-de  de-fe-past]`
+`Well-formed interrogation (presupposition extracted and marked):`
+`(la-zu  lo-to-de  ka-past)  ,  to-si  [la-ze  de-fe-past]`
+
+<span id="S379"></span>
+**S379** · FAL-003
+`Triple-loaded (all three presuppositions hidden):`
+`to-si  [la-zu  lo-wi-fe  de-fe-past]`
+`Full extraction (three () premises, then clean question):`
+`(la-zu  lo-ne-ki  de-past)`
+`(la-zu  go  lo-mu-su  lo-zo-li  ka-past)`
+`(la-zu  lo-ka-li-su  lo-mu-su  be-past)`
+`to-si  [la-zu  lo-wi-fe  de-fe-past]`
+
+<span id="S380"></span>
+**S380** · FAL-003
+`Claim (A — strong):`
+`la-ka-li-su  :  lo-zo-li  to-no-fe  ka`
+`Challenged. Retreat to B (intermediate):`
+`la-ka-li-su  :  lo-zo-li  vo-wi-fe  ne-past`
+`Challenged again. Retreat to C (undeniable):`
+`la-ka-li-su  :  lo-zo-li  ne  ne`
+`Correction (blocking A from both retreats):`
+`go  [la-ka-li-su  lo-zo-li  ne  ne]  ,  no  la-ze  du  lo-vo-wi-fe  ne`
+`go  [la-ka-li-su  lo-zo-li  vo-wi-fe  ne]  ,  no  la-ze  du  lo-to-no-fe  ka`
+
+<span id="S381"></span>
+**S381** · FAL-003
+`Fallacious (three bare links + one bracketed, legitimacy gradient hidden):`
+`go  [lo-wi-fe  de]  ,`
+`lo-ne-su  de  ,`
+`lo-ka-li-su  de  ,`
+`(du  lo-ka-no-fe  de)  ,`
+`lo-ne-su  be-no-fe`
+`Corrected (each link labeled by speaker's actual commitment):`
+`go  [lo-wi-fe  de]  ,      la-mi  se  lo-ne-su  de`
+`go  [lo-ne-su  de]  ,      la-mi  no-se  lo-ka-li-su  de`
+`go  [lo-ka-li-su  de]  ,   (du  lo-ka-no-fe  de)`
+`(du  lo-ka-no-fe  de)  ,   (du  lo-ne-su  be-no-fe)`
+
+<span id="S382"></span>
+**S382** · FAL-003
+`Standard evidential (one layer):`
+`(la-to-li  lo-to-su  ne)`
+`Nested evidential (two layers — attributed report of a report):`
+`(la-ka-li-su  (la-to-li  lo-to-su  ne)  re-ka)`
+`Speaker endorsement breaking the chain:`
+`la-mi  no-se  lo-to-su  ne  ,`
+`go  (la-ka-li-su  (la-to-li  lo-to-su  ne)  re-ka)`
+
+<span id="S383"></span>
+**S383** · FAL-003
+`Agent A's report (attributed hypothesis):`
+`(la-na-Ren  lo-to-si-ze  si)`
+`Agent B's elevation (transforms A's hypothesis to B's inference):`
+`go  [(la-na-Ren  lo-to-si-ze  si)]  ,  la-na-Kael  lo-to-si-ze  se`
+`Institutional elevation (transforms B's inference to institutional certainty):`
+`go  [la-na-Kael  lo-to-si-ze  se]  ,  la-to-fe-su  lo-to-si-ze  to-su`
+`Speaker's diagnosis:`
+`la-mi  no-to  lo-to-si-ze  to-su  ,`
+`go  [la-to-fe-su  lo-to-si-ze  to-su]  ,`
+`go  [la-na-Kael  lo-to-si-ze  se  ,  go  (la-na-Ren  lo-to-si-ze  si)]`
+
+<span id="S384"></span>
+**S384** · FAL-004
+`Speech:`
+`(la-to-fe-su  lo-ka-li-su  de)  ,  la-mi  to  lo-ka-li-su  de`
+`Diagnosis:`
+`la-mi  to  lo-to-fe-su  lo-ze  re-ka  ,`
+`no  la-mi  to  lo-ka-li-su  de`
+
+<span id="S385"></span>
+**S385** · FAL-004
+`Challenged:`
+`la-zu  lo-ka-li-su-mi  to-si  ne`
+`Response (topic substitution):`
+`lo-ka-li-su-mi  :  la-mi  lo-ze  se  ne  ,`
+`na-Kur  :  la-ze  lo-to-de  re-ka`
+
+<span id="S386"></span>
+**S386** · FAL-004
+`go  [la-mi  se  lo-ra-ma-de  se]  ,`
+`(du  lo-ne-su  mu-be)  ,`
+`(du  lo-ka-li-su  de-fe)  ,`
+`(du  la-ka-no-fe  lo-ne-su  ka-ki)`
+
+<span id="S387"></span>
+**S387** · FAL-004
+`Demand (bare):`
+`go  [la-mi  se  lo-ra-ma-de  se]  ,`
+`la-mi  lo-zo-li  ka-li-su  wi`
+`Corrected (minimum warrant chain):`
+`go  [la-mi  se  lo-ra-ma-de  se]  ,`
+`go  [lo-ra-ma-de  lo-zo-li  mu-be]  ,`
+`go  [la-mi  lo-zo-li  vo  wi]  ,`
+`la-mi  lo-zo-li  ka-li-su  wi`
+
+<span id="S388"></span>
+**S388** · FAL-004
+`(la-to-fe-su  lo-ka-li-su  de)  ,  la-mi  to  lo-ka-li-su  de  ,`
+`go  [lo-ka-li-su  de]  ,  (du  lo-ne-su  mu-be)  ,  (du  lo-ka-li-su  de-fe)  ,`
+`lo-ka-li-su-mi  :  la-mi  lo-ze  se  ne  ,`
+`na-Kur  :  la-ze  lo-to-de  re-ka  ,`
+`go  [la-mi  se  lo-ra-ma-de  se]  ,  la-mi  lo-zo-li  ka-li-su  wi`
+
+<span id="S389"></span>
+**S389** · FAL-005
+`(la-to-fe-su  lo-ra-ma-de  se)  ,`
+`la-mi  to  lo-ra-ma-de  de  ,`
+`go  [lo-ra-ma-de  de]  ,`
+`(du  lo-ne-su  mu-be)  ,`
+`(du  lo-ka-li-su  de-fe)  ,`
+`lo-ka-li-su-mi  :  la-mi  lo-zo-li  vo  wi  ,`
+`na-Kur  :`
+`(la-na-Kur  la-to-fe-su-ki  (la-to-li  lo-ra-ma-de  de  si)  re-ka)  ,`
+`la-na-Kur  lo-ra-ma-de  de  to  ,`
+`go  [(la-mi  se  lo-ra-ma-de  de)]  ,`
+`(du  la-mi  lo-ka-li-su  wi)  ,`
+`(du  la-mi  lo-ka-li-su  to)`
+
+<span id="S390"></span>
+**S390** · FAL-005
+
+<span id="S391"></span>
+**S391** · FAL-006
+`Depth-1 (direct attribution):`
+`(la-na-Sura  lo-ka-li-su  de  se)`
+`Depth-2 (report-of-report):`
+`(la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)`
+`Depth-3 (report-of-report-of-report):`
+`(la-to-fe-su  (la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)  re-ka)`
+`Speaker's diagnosis:`
+`la-mi  no-se  lo-ka-li-su  de  ,`
+`go  [la-to-fe-su  (la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)  re-ka]`
+
+<span id="S392"></span>
+**S392** · FAL-006
+`Hearsay chain (depth-3, identical to S391):`
+`(la-to-fe-su  (la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)  re-ka)  ,`
+`Laundering step:`
+`la-mi  to  lo-ka-li-su  de  ,`
+`Policy conclusion (normative leap):`
+`go  [lo-ka-li-su  de]  ,  la-mi  lo-zo-li  ka-li-su  wi`
+
+<span id="S393"></span>
+**S393** · FAL-007
+`(la-to-fe-su  lo-ra-ma-de  de  se)  ,`
+`la-mi  to  [la-to-fe-su  lo-ze  re-ka]  ,`
+`la-mi  se  lo-ra-ma-de  de`
+
+<span id="S394"></span>
+**S394** · FAL-007
+`Challenged:`
+`la-zu  lo-ka-li-su-mi  to-si  ne`
+`Response:`
+`lo-ka-li-su-mi  :`
+`la-mi  se  lo-ra-ma-de  de  ,`
+`go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be]  ,`
+`la-mi  lo-zo-li  vo  wi  ,`
+`du  la-mi  lo-ra-ma  ka-li-su  wi`
+
+<span id="S395"></span>
+**S395** · FAL-007
+`go  [la-mi  se  lo-ra-ma-de  de]  ,`
+`go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be  ,`
+`go  [la-na-Sura  lo-ra-su  ka  ti-de]  lo-ze  se]  ,`
+`la-mi  se  lo-ne-su  mu-be`
+
+<span id="S396"></span>
+**S396** · FAL-007
+`go  [la-mi  se  lo-ra-ma-de  de]  ,`
+`go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be]  ,`
+`go  [la-mi  lo-zo-li  vo  wi]  ,`
+`la-mi  lo-ra-ma  ka-li-su  wi  ,`
+`la-mi  se  lo-ze  be-vo`
+
+<span id="S397"></span>
+**S397** · FAL-007
+`(la-to-fe-su  lo-ra-ma-de  de  se)  ,`
+`la-mi  to  [la-to-fe-su  lo-ze  re-ka]  ,`
+`la-mi  se  lo-ra-ma-de  de  ,`
+`go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be  ,`
+`go  [la-na-Sura  lo-ra-su  ka  ti-de]  lo-ze  se]  ,`
+`la-mi  se  lo-ne-su  mu-be  ,`
+`lo-ka-li-su-mi  :`
+`go  [la-mi  se  lo-ra-ma-de  de]  ,`
+`go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be]  ,`
+`go  [la-mi  lo-zo-li  vo  wi]  ,`
+`la-mi  lo-ra-ma  ka-li-su  wi  ,`
+`la-mi  se  lo-ze  be-vo  ,`
+`la-mi  to-si  [la-zu  lo-ze  se-to  to-si]`
+
+<span id="S450"></span>
+**S450** · NEW-001
+`pu-fe-ma : go no la-no-ko-ra ka-ki lo-ze / la-ze re su-ki-pa-ze`
+
+<span id="S451"></span>
+**S451** · NEW-001
+`go la-no-ko-ra ka-ki lo-fe-ma / lo-su-ki-pa-ze ki`
+
+<span id="S459"></span>
+**S459** · MTH-001
+`go la-ze ka-no-de lo-ze-zo-ra / lo-ze-zo-ra de`
+
+<span id="S460"></span>
+**S460** · MTH-001
+`go la-ze ka-de lo-ze-zo-ra wi-mi / lo-ze-zo-ra be`
+
+<span id="S465"></span>
+**S465** · LPR-001
+`vund ne no-tonesu vunds`
+
+<span id="S466"></span>
+**S466** · LPR-001
+`vund ne no-du-to vunds`
+
+<span id="S467"></span>
+**S467** · LPR-001
+`lo-to-ze  ne  no-du-to`
+
+<span id="S468"></span>
+**S468** · BSH-001
+`re-fe-ma-ki  /  la-zo-se-ma  ki  lo-re-fe-ma-ki,  ma-ki-so  pa`
+
+<span id="S469"></span>
+**S469** · BSH-001
+`re-fe-ma-ki  :  la-zo-se-ma  ki  lo-re-fe-ma-ki,  ma-ki-so  pa`
+
+<span id="S470"></span>
+**S470** · BSH-001
+`re-fe-ma-ki  :  ki  lo-ma-ki,  ma-ki-so  pa`
+
+<span id="S471"></span>
+**S471** · EMD-001
+`ta go {no la-mi de-ki lo-de-zo-li}, la-de-zo-li wi-vo de-ki lu-mi`
+
+<span id="S472"></span>
+**S472** · EMD-001
+`la-ki-pa-mu ko lo-mi lo-de-zo-li lo-no-de-zo-li`
+
+<span id="S473"></span>
+**S473** · EMD-001
+`la-mi la-de-zo-li de-ki ne-di-ko-pa, ko-pa helm be-ma-pa`
+
+<span id="S477"></span>
+**S477** · SCL-001
+`la-lu de ; la-no-ha ki`
+
+<span id="S478"></span>
+**S478** · SCL-001
+`la-si ki ; la-zo-li-pu ne su`
+
+<span id="S479"></span>
+**S479** · SCL-001
+`la-ra-lu-ki be ; la-su-lu ki be ; la-si ki pa-no-ko`
+
+<span id="S480"></span>
+**S480** · SCL-001
+`la-du-zo-su ki ; la-zo-su be ; la-du ki`
+
+<span id="S481"></span>
+**S481** · SCL-001
+`la-to be ; la-to-ki be ; la-zo-li-pu vo be`
+
+<span id="S482"></span>
+**S482** · SCL-001-F — contrast with S444
+`la-mi to ; la-mi pa`
+
+<span id="S483"></span>
+**S483** · SCL-001
+`la-su-ki su ; la-vo-su pa`
+
+<span id="S484"></span>
+**S484** · SCL-001
+`la-ti ki ; la-yu ki`
+
+<span id="S485"></span>
+**S485** · SCL-001
+`la-ne de ; la-zo-li-pu no su`
+
+<span id="S486"></span>
+**S486** · SCL-001
+`la-yu ki ; la-ti ki ti-de`
+
+<span id="S487"></span>
+**S487** · SCL-001
+`go {la-ze ka-si  ro  la-zo-li se}, la-to-ki pa`
+
+<span id="S488"></span>
+**S488** · SCL-001
+
+<span id="S489"></span>
+**S489** · SCL-002
+`la-ze se ; la-ze to ; la-ze ka-si-to`
+
+<span id="S490"></span>
+**S490** · SCL-002
+`la-ne-su ki ; la-zi ki ; la-pu-li be`
+
+<span id="S491"></span>
+**S491** · SCL-002
+`la-du-zo-su pa ; la-ti ki ; la-du ki`
+
+<span id="S492"></span>
+**S492** · SCL-002
+`la-li ka-si-to ; la-li se ; la-ne-vo ki`
+
+<span id="S493"></span>
+**S493** · SCL-002
+`la-to-su ki ; la-ze de`
+
+<span id="S494"></span>
+**S494** · VPT-001
+`a`
+
+<span id="S495"></span>
+**S495** · VPT-001
+`a, la-ze ki...`
+
+<span id="S496"></span>
+**S496** · VPT-001
+`o na-Moses`
+
+<span id="S497"></span>
+**S497** · VPT-001
+`o na-Moses, la-tu ki di-pa-su`
+
+<span id="S498"></span>
+**S498** · VPT-001
+`e!`
+
+<span id="S499"></span>
+**S499** · VPT-001
+`e, go-no-fe  helms  vo`
+
+<span id="S500"></span>
+**S500** · VPT-001
+`u`
+
+<span id="S501"></span>
+**S501** · VPT-001
+`ru`
+
+<span id="S502"></span>
+**S502** · VPT-001
+`la-Elohim  ka-si  lo-na-Moses`
+
+<span id="S503"></span>
+**S503** · VPT-001
+`i, la-mi no-si la-ze ki`
+
+<span id="S504"></span>
+**S504** · VPC-001
+`a-to ne no-fe`
+
+<span id="S505"></span>
+**S505** · VPC-001
+`a-to helm to-su`
+
+<span id="S506"></span>
+**S506** · VPC-001
+`la-mi to lo-i-to-ze`
+
+<span id="S507"></span>
+**S507** · VPC-001
+`la-na-Laozi u-to lo-su-no-fe`
+
+<span id="S508"></span>
+**S508** · VPC-001
+`o-li ne su`
+
+<span id="S509"></span>
+**S509** · VPC-001
+`la-su e-ki`
+
+<span id="S510"></span>
+**S510** · VPC-001
+`a-su helms go-su`
+
+<span id="S511"></span>
+**S511** · VPC-001
+`la-na-Laozi ne a-to-li`
+
+<span id="S512"></span>
+**S512** · VPC-001
+`la-a-to lo-su ki    [attempted: "the universal-knower changed the structure"]`
+
+<span id="S513"></span>
+**S513** · VPC-001
+`la-du-zo-su ko lo-u-su`
+
+<span id="S514"></span>
+**S514** · EMD-002
+`ta go {no la-mi de-ki lo-de-zo-li} — la-de-zo-li wi-vo de-ki lu-mi —`
+
+<span id="S515"></span>
+**S515** · EMD-002
+`la-ki-pa-mu ko lo-mi lo-de-zo-li — lo-no-de-zo-li`
+
+<span id="S516"></span>
+**S516** · EMD-002
+`la-mi la-de-zo-li de-ki ne-di-ko-pa — ko-pa helm be-ma-pa —`
+
+<span id="S517"></span>
+**S517** · EMD-002
+`na-Moses —`
+
+<span id="S518"></span>
+**S518** · EMD-002
+`(a) la-su ki, la-mi se lo-ze`
+`(b) la-su ki — la-mi se lo-ze`
+
+<span id="S519"></span>
+**S519** · EMD-002
+`(a) la-su ki ; la-mi se lo-ze`
+`(b) la-su ki — la-mi se lo-ze`
+
+<span id="S520"></span>
+**S520** · EMD-002
+`(a) la-su be / la-su de`
+`(b) la-su be — la-su de —`
+
+<span id="S521"></span>
+**S521** · EMD-002
+`la-de-zo-li — wi-vo de-ki lu-mi`
+
+<span id="S522"></span>
+**S522** · EMD-002
+`la-ki-pa-mu ko lo-ti-no-fe —`
+
+<span id="S523"></span>
+**S523** · EMD-002
+`la-mi lo-se-su to — no la-mi si lo-ze`
+
+<span id="S524"></span>
+**S524** · CVP-001
+`he na-Moses!`
+
+<span id="S525"></span>
+**S525** · CVP-001
+`he na-Moses, ki di-pa-su`
+
+<span id="S526"></span>
+**S526** · CVP-001
+`he na-Moses!`
+`la-na-Moses pa`
+
+<span id="S527"></span>
+**S527** · CVP-001
+`na-Moses!             [exclamatory NP — still an NP; not a speech act]`
+`he na-Moses!          [vocative speech act — direct call]`
+`la-na-Moses ka-si     ["Moses spoke" — predicate clause; Moses is agent]`
+
+<span id="S528"></span>
+**S528** · CVP-001
+`ya, go-no-fe helms vo`
+
+<span id="S529"></span>
+**S529** · CVP-001
+`ya, la-zo-se-ma ki lo-re-fe-ma-ki`
+
+<span id="S530"></span>
+**S530** · CVP-001
+`he na-Moses, ki di-pa-su      [you — go toward the mountain]`
+`ya, ki di-pa-su               [look — go toward the mountain]`
+
+<span id="S531"></span>
+**S531** · CVP-001
+`ya — la-mi to lo-ze`
+
+<span id="S532"></span>
+**S532** · COR-001
+`no — la-Elohim ka-si`
+
+<span id="S533"></span>
+**S533** · COR-001
+`no — la-Elohim ka-si ; la-na-Moses se`
+
+<span id="S534"></span>
+**S534** · COR-001
+`la-de ki ; no — la-be ki`
+
+<span id="S535"></span>
+**S535** · COR-001
+`la-na-Moses ka-si / la-Elohim ka-si`
+
+<span id="S536"></span>
+**S536** · COR-001
+`no — la-Elohim ka-si lo-si`
+
+<span id="S537"></span>
+**S537** · COR-001
+`— la-Elohim ka-si`
+
+<span id="S538"></span>
+**S538** · COR-001
+`no                         [minimal negative — denies; no replacement]`
+`no, la-Elohim ka-si        [denial + separate clause — two speech acts]`
+`no — la-Elohim ka-si       [correction speech act — one unitary act]`
+
+<span id="S539"></span>
+**S539** · DEB-001
+`la-to ne vo-fe`
+
+<span id="S540"></span>
+**S540** · DEB-001
+`no — la-ka ne vo-fe`
+
+<span id="S541"></span>
+**S541** · DEB-001
+`ya, la-to be lo-ka`
+
+<span id="S542"></span>
+**S542** · DEB-001
+`no — la-ka be lo-to ; no la-to be lo-ka`
+
+<span id="S543"></span>
+**S543** · DEB-001
+`ya — la-mi to lo-vo ; la-mi ka-vo`
+
+<span id="S544"></span>
+**S544** · DEB-001
+`no — la-ka be lo-to ; no la-to be lo-ka`
+
+<span id="S545"></span>
+**S545** · DEB-001
+`ke, la-ka be lo-to ; no la-to be lo-ka`
+
+<span id="S546"></span>
+**S546** · DEB-001
+`la-to be lo-ka / la-ka be lo-to`
+
+<span id="S547"></span>
+**S547** · DEB-001
+`ke! la-ka be lo-to`
+
+<span id="S548"></span>
+**S548** · DEB-001
+`he na-Plato — la-ka be lo-to!`
+
+<span id="S549"></span>
+**S549** · EXC-001
+`la-Elohim ne vo`
+
+<span id="S550"></span>
+**S550** · EXC-001
+`no la-li ne vo`
+
+<span id="S551"></span>
+**S551** · EXC-001
+`no la-li ne vo — la-Elohim ne vo`
+
+<span id="S552"></span>
+**S552** · EXC-001
+`la-Elohim ru ne vo`
+
+<span id="S553"></span>
+**S553** · EXC-001
+`la-Elohim ne ru`
+
+<span id="S554"></span>
+**S554** · EXC-001
+`ru-fe, la-Elohim ne vo`
+
+<span id="S555"></span>
+**S555** · EXC-001
+`ru-fe, go to ; ka-vo`
+
+<span id="S556"></span>
+**S556** · EXC-001
+`ru-fe, la-mi ne zo`
+
+<span id="S557"></span>
+**S557** · EXC-001
+`ru-fe, la-Elohim helms go-no-fe`
+
+<span id="S558"></span>
+**S558** · EXC-001
+`ya, ru-fe, la-Elohim ne vo`
+
+<span id="S579"></span>
+**S579** · DIP-001
+`la-li-pu  ne  wi-fe  lo-ra-pa`
+
+<span id="S580"></span>
+**S580** · DIP-001
+`no — la-pa-pu  ne  wi-fe  lo-ra-pa`
+
+<span id="S581"></span>
+**S581** · DIP-001
+`ya, la-si-su  ko  {la-li-pu  ne  wi-fe  lo-ra-pa}  ti-de`
+
+<span id="S582"></span>
+**S582** · DIP-001
+`no — la-si-su  ko  {la-pa-pu  ne  wi-fe  lo-ra-pa}  ti-de`
+
+<span id="S583"></span>
+**S583** · DIP-001
+`ya, la-to-su  si  {la-li-pu  ne  wi-fe  lo-ra-pa}`
+
+<span id="S584"></span>
+**S584** · DIP-001
+`no — la-pa-pu  ne  wi-fe  lo-ra-pa`
+
+<span id="S585"></span>
+**S585** · DIP-001
+`ke, la-pa-pu  ne  wi-fe  lo-ra-pa ; la-to-su  si  {pa-pu  ne  wi-fe}`
+
+<span id="S586"></span>
+**S586** · DIP-001
+
+<span id="S587"></span>
+**S587** · DIP-001
+`ke, la-pa-pu  ne  wi-fe  lo-ra-pa ; la-to-su  si  {pa-pu  ne  wi-fe}`
+
+## Domains
+
+<span id="S032"></span>
+**S032** · T-HA-001 · *legacy*
+`la-zo-mi  se  no-ha`
+*My body perceives cold.*
+
+<span id="S033"></span>
+**S033** · T-HA-002 · *legacy*
+`lo-pa  ha-vo`
+*The room [is] warm.*
+
+<span id="S034"></span>
+**S034** · T-HA-003 · *legacy*
+`la-ra-ki-mu  ha-fe`
+*The engine [is at] a thermal limit.*
+
+<span id="S035"></span>
+**S035** · T-HA-004 · *legacy*
+`lo-ha  de-past  ta-ti-de`
+*The thermal state decreased last night.*
+
+<span id="S036"></span>
+**S036** · T-HA-005 · *legacy*
+`lo-ma  ha-fe  —  no [ka-se]`
+*The food is at a thermal limit. [It] cannot be consumed.*
+
+<span id="S037"></span>
+**S037** · T-HA-006 · *legacy*
+`la-mu  ko  lo-ha-ra`
+*The metal contains thermal energy.*
+
+<span id="S038"></span>
+**S038** · T-HA-007 · *legacy*
+`la-ra-ki-mu  wi [lo-ha  no-fe]`
+*The reactor [must have] the intention [that its thermal state not reach the boundary].*
+
+<span id="S039"></span>
+**S039** · T-HA-008 · *legacy*
+`lo-ma-di  ha-vo  nu-no  lo-pa-ma`
+*The water [has] less thermal quality than the air.*
+
+<span id="S040"></span>
+**S040** · T-XX-001
+`lo-to-fe-su  to-to-su`
+*The standards framework is a system of meta-concepts.*
+
+<span id="S041"></span>
+**S041** · T-XX-002
+`lo-ne-su  su-su`
+*A network is a meta-structure / has an architectural form.*
+
+<span id="S042"></span>
+**S042** · T-XX-003
+`la-ka-ki  wi  ka-ka`
+*Operations require procedure / protocol.*
+
+<span id="S043"></span>
+**S043** · T-XX-004
+`la-si-mu  ka  se-se`
+*The relay device performs sensor self-monitoring.*
+
+<span id="S044"></span>
+**S044** · T-XX-005
+`lo-ki-ne  ne-ne`
+*The transit grid has a topological structure.*
+
+<span id="S056"></span>
+**S056** · T-PRM-001
+`la-ze  ne-li-pu-su  lo-si-su  de`
+*She released the archive to the council.*
+
+<span id="S057"></span>
+**S057** · T-PRM-002
+`lo-zo-li  no-ma  go  de`
+*For the person, absence of substance causes decay.*
+
+<span id="S058"></span>
+**S058** · T-PRM-003
+`lo-zo-li  ne-fe  ma`
+*The person needs substance / the person is in a dependency-condition toward substance.*
+
+<span id="S059"></span>
+**S059** · T-PRM-004
+`lo-li-be  ne-fe  zo-no-ki`
+*The child needs sleep / rest.*
+
+<span id="S060"></span>
+**S060** · T-PRM-005
+`lo-mu  ne-fe  ha-de`
+*The machine needs cooling.*
+
+<span id="S061"></span>
+**S061** · T-PRM-006
+`lo-li-pu-pa  ne-fe  ma`
+*The city needs water / substance supply.*
+
+<span id="S062"></span>
+**S062** · T-PRM-007
+`lo-li-pu  ne-fe  wi-to`
+*The team needs a plan / purposive structure.*
+
+<span id="S063"></span>
+**S063** · T-PRM-008
+`lo-zo-li  ta-ti-now  no-ne-fe  ma-no-de`
+*The person currently does not need medicine.*
+
+<span id="S068"></span>
+**S068** · T-KO-001
+`la-ko-mu  ko  lo-ma-di`
+*The vessel holds water.*
+
+<span id="S069"></span>
+**S069** · T-KO-002
+`la-ze  lo-si-ko-mu  ka-ko`
+*She stored / deliberately placed the document into containment.*
+
+<span id="S070"></span>
+**S070** · T-KO-003
+`la-si-su  ko  lo-si-ko-mu`
+*The archive holds documents / records.*
+
+<span id="S071"></span>
+**S071** · T-KO-004
+`la-ze  lo-ka-mu  ne-ko-mu  ka-ko`
+*He placed the tool into the container.*
+
+<span id="S072"></span>
+**S072** · T-MYS-001
+`la-ra-ki-li  se  lo-pa-ra`
+*The pilot detected the spatial energy field.*
+
+<span id="S073"></span>
+**S073** · T-MYS-002
+`la-wi-ka-su  lo-fe-su  be-past`
+*The ritual strengthened the ward.*
+
+<span id="S074"></span>
+**S074** · T-MYS-003
+`la-ze  zo-se-ki`
+*She entered the state of heightened bodily perception.*
+
+<span id="S075"></span>
+**S075** · T-MYS-004
+`la-wi-ze  ka  lo-mu`
+*Her will acts upon the machine.*
+
+<span id="S076"></span>
+**S076** · T-MYS-005
+`la-ti-mu  si-ki  no-to-ge`
+*The relic emits an anomalous signal.*
+
+<span id="S077"></span>
+**S077** · T-MYS-006
+`la-yu  fe-ki  lo-fe-no-ka`
+*They crossed the boundary that action forbids.*
+
+<span id="S078"></span>
+**S078** · T-MYS-007
+`la-di-ki-li  se  lo-se-to`
+*The navigator received a perceptual insight / vision.*
+
+<span id="S086"></span>
+**S086** · T-WIT-001 / baseline
+`la-to-li  lo-wi-to  be-past`
+*The engineer revised the plan.*
+
+<span id="S087"></span>
+**S087** · T-WIT-002 / design
+`la-to-li  lo-mu  wi-to  be-past`
+*The engineer designed the machine.*
+
+<span id="S088"></span>
+**S088** · T-WIT-003 / program
+`lo-wi-re-su  ta-re-ti  be`
+*The recurring protocol executes each cycle.*
+
+<span id="S089"></span>
+**S089** · T-WIT-004 / intention-model
+`la-wi-ze  lo-ka  ki`
+*Her will/intention directed the action.*
+
+<span id="S090"></span>
+**S090** · T-WIT-005 / stress
+`la-ra-ki-li  lo-to-re-su  be  no  lo-wi-to`
+*The pilot followed the standing doctrine, not the mission plan.*
+
+<span id="S091"></span>
+**S091** · T-WIT-006 / transmission
+`la-li-su-li  lo-yu  lo-wi-to  ka-si-past`
+*The coordinator briefed the team on the plan.*
+
+<span id="S092"></span>
+**S092** · T-WIT-007 / wi-to-su
+`la-yu  lo-wi-to-su  be-past  ta-ti-de  lo-ka-wi-de`
+*The team updated the design specification before the mission.*
+
+<span id="S108"></span>
+**S108** · T-PHN-001
+`la-ze  lo-si-mu  ka-se`
+*They perceived the encoded signal.*
+
+<span id="S109"></span>
+**S109** · T-PHN-002
+`lo-fe-so  lo-fe-si  no-ru`
+*The warning sound and the warning signal are not the same thing.*
+
+<span id="S110"></span>
+**S110** · T-PHN-003
+`la-mi  lo-so  ka-se  wi  [lo-si-mu  ka-be]`
+*I detected the sound, intending to produce a record of it.*
+
+<span id="S111"></span>
+**S111** · T-PHN-004
+`lo-se-su  lo-si-su  no-ne`
+*The sensor output and the archived data are not in agreement.*
+
+<span id="S112"></span>
+**S112** · T-PHN-005
+`A:  lo-mu  lo-fe  ka-se`
+`patient:machine  patient:boundary  action:perceive/detect`
+`The machine detected the limit.`
+`B:  lo-mu  lo-fe  ka-si-ki`
+`patient:machine  patient:boundary  action:signal-encode(inchoative)`
+`The machine began encoding the limit as a signal.`
+
+<span id="S113"></span>
+**S113** · T-PHN-006
+`A:  lo-so-su  de`
+`patient:sound-archive  decay/damage`
+`The sound archive is degraded.`
+`B:  lo-si-su  de`
+`patient:signal-archive  decay/damage`
+`The signal archive is degraded.`
 
 <span id="S195"></span>
 **S195** · KNM-001
@@ -1422,76 +2168,6 @@ title: Corpus
 `la-mi  be  lo-[be-di'zos]`
 *I planted a tree. (casual register)*
 
-<span id="S293"></span>
-**S293** · MAT-001
-`la-ma-su  no-ki`
-*The rock lay still. / The stone was at rest.*
-
-<span id="S294"></span>
-**S294** · MAT-001
-`la-ma-pa  ko  lo-zo-be`
-*The soil held the seeds.*
-
-<span id="S295"></span>
-**S295** · MAT-001
-`la-pu'ma-su  ko  lo-pa`
-*The gravel covered the path. / The sand covered the ground.*
-
-<span id="S296"></span>
-**S296** · MAT-001
-`la-su'ma-pa  ko  lo-ma-ki`
-*The clay held water.*
-
-<span id="S297"></span>
-**S297** · MAT-001
-`la-ma-ki  no-be  lo-ma-su`
-*The water wore down the stone. / The river eroded the rock.*
-
-<span id="S298"></span>
-**S298** · MAT-001
-`la-ma-su  ki  lo-ma-ki`
-*The stone fell into the river.*
-
-<span id="S299"></span>
-**S299** · MAT-001
-`la-mi  di  lo-mas`
-*I threw a rock. (casual register)*
-
-<span id="S300"></span>
-**S300** · MAT-002
-`la-di'ma-ki  ki`
-*The river flowed.*
-
-<span id="S301"></span>
-**S301** · MAT-002
-`la-pa'ma-ki  ko  lo-pa`
-*The sea covered the land.*
-
-<span id="S302"></span>
-**S302** · MAT-002
-`la-ko'ma-ki  no-ki`
-*The lake lay still.*
-
-<span id="S303"></span>
-**S303** · MAT-002
-`la-lu-ko'ma-ki  be  lo-no-ko'ma-ki`
-*The cloud released rain. / The cloud produced rain.*
-
-<span id="S304"></span>
-**S304** · MAT-002
-`la-no-ko'ma-ki  ki  lo-ma-pa`
-*The rain fell on the soil. / The rain came down to ground.*
-
-<span id="S305"></span>
-**S305** · MAT-002
-`la-su'ma-ki  ko  lo-di'ma-ki`
-*The ice covered the river.*
-
-<span id="S306"></span>
-**S306** · MAT-002
-`la-mi  ki  lo-di'ma-ki`
-*I crossed the river.*
-
 <span id="S307"></span>
 **S307** · KNM-006
 `la-zo-se-ma  ki  lo-ma-ki`
@@ -1632,94 +2308,172 @@ title: Corpus
 `la-de'zo-ne  de  lo-ma-pa`
 *The decomposer fungi broke matter down to the soil. / The decay fungus returned matter to the earth.*
 
-<span id="S335"></span>
-**S335** · GRM-001
-`la-be-di'zo-su  ki  lo-ma-pa  ta-ti-de`
-*The tall tree fell to the ground last season.*
+<span id="S559"></span>
+**S559** · PAV-001
+`la-su-mu-li  ka-be  lo-ra-su  ti-de`
 
-<span id="S336"></span>
-**S336** · GRM-001
-`la-su'zo-ne  be  lo-zo-be  ta-ti-mi`
-*The cap fungus is growing fruiting bodies on it right now.*
+<span id="S560"></span>
+**S560** · PAV-001
+`lo-ra-su  de  ti-de`
 
-<span id="S337"></span>
-**S337** · GRM-001
-`la-zo-ne  ki  lo-ma-pa  ta-ti-be`
-*The mycelial network will spread through the soil.*
+<span id="S561"></span>
+**S561** · PAV-001
+`lo-ra-su  ka-be  ti-de`
 
-<span id="S338"></span>
-**S338** · GRM-001
-`la-pa'zo-ne  ki  lo-pa-mi`
-*The mold has spread here. / The mold has reached this surface.*
+<span id="S562"></span>
+**S562** · PAV-001
+`ro-ra-ki-mu  lo-ra-su  ka-be  ti-de`
 
-<span id="S339"></span>
-**S339** · GRM-001
-`la-zo-su  be-vo`
-*A plant has productive capacity. / Growth is intrinsic to a plant.*
+<span id="S563"></span>
+**S563** · PAV-001
+`ra-su : ka-be  ti-de`
 
-<span id="S340"></span>
-**S340** · GRM-001
-`lo-zo-su  be-vo`
-*This plant is actively growing. / The plant is in a productive state right now.*
+<span id="S564"></span>
+**S564** · PAV-001
+`la-li-pu  ka-be  lo-su  ti-de`
 
-<span id="S341"></span>
-**S341** · GRM-001
-`Turn A:   to-si — la-tu  se  lo-zo-ne?`
-`polar-question — agent:you  perceived  patient:fungal-network?`
-`Have you seen the mycelium?`
-`Turn B1:  ru — se  lo-zo-ne`
-`affirmative — [la-mi dropped]  perceived  patient:fungal-network`
-`Yes — [I] see it. / I can see it.`
-`Turn B2:  ki  lo-pa-mi`
-`[la-mi dropped]  moved  patient:here`
-`[I'll] come here. / [I'm] going to take a look.`
+<span id="S565"></span>
+**S565** · PAV-001
+`la-si-su  ko  {la-Elohim  ne  go-no-fe}`
 
-<span id="S342"></span>
-**S342** · GRM-002
-`la-mi  se  lo-zon  ku?`
-*Did I see a herd animal? / Was that a deer I spotted?*
+<span id="S566"></span>
+**S566** · PAV-001
+`lo-pa  be`
 
-<span id="S343"></span>
-**S343** · GRM-002
-`Casual:    la-tu  se  lo-re'zo-se-ne  ku?`
-`agent:you  perceived  patient:deer  [query?]`
-`Formal:    to-si — la-tu  se  lo-re'zo-se-ne`
-`[inquiry-frame] — agent:you  perceived  patient:deer`
-`Natural:   Did you see a deer?  (both forms; casual vs formal register)`
-`Typical response:  ru — se  lo-re'zo-se-ne  ta-ti-de`
-`yes — [I] perceived  patient:deer  at-past-time`
-`(Yes — I saw one earlier.)`
+<span id="S567"></span>
+**S567** · PAV-001
+`la-Elohim  ka-be  lo-pa`
 
-<span id="S344"></span>
-**S344** · GRM-002
-`Blocked:      * la-zo-su  be-vo  ta-ti-mi`
-`Grammatical:    lo-zo-su  be-vo  ta-ti-mi`
-`Literal (grammatical):  patient:plant  generative-quality  at-present-time`
-`Natural:  This plant is actively growing right now.  (emphatic present; contingent state)`
+<span id="S568"></span>
+**S568** · PAV-001
+`lo-to-si  ka-ki  ti-de`
 
-<span id="S345"></span>
-**S345** · GRM-002
-`la-zo-ne  ki  lo-ma-pa  wi [de  lo-zo-su]`
-*The mycelial network spreads through the soil in order to decompose plant matter.*
+<span id="S569"></span>
+**S569** · MED-001
+`go ha-be  lo-zo-li  de  ti-de`
 
-<span id="S346"></span>
-**S346** · GRM-002
-`la-mi  ne  lo-tu  na-ze`
-*I connected you with them. / I introduced you to them.*
+<span id="S570"></span>
+**S570** · MED-001
+`no — go si-zo  lo-zo-li  de  ti-de`
 
-<span id="S347"></span>
-**S347** · GRM-002
-`to-go [lo-be-di'zo-su  no-ki  lo-ma-pa  ta-ti-de]  la-zo-ne  no-ki  lo-ma-pa  ta-ti-de Premise:  patient:tall-tree  negated-moved  patient:soil  at-past-time Result:   agent:fungal-network  negated-moved  patient:soil  at-past-time`
-*If the tall tree had not fallen, the mycelial network would not have spread.*
+<span id="S571"></span>
+**S571** · MED-001
+`ya, la-mi  se  lo-ha-be ; go ha-be  lo-ko-su  de  ti-de`
 
-<span id="S348"></span>
-**S348** · GRM-002
-`Question:  la-zo-su  be  lo-to-si?`
-`agent:plant  produces  patient:knowledge-seeking`
-`What does a plant produce?`
-`Answer:    la-zo-su  be  lo-zo-be`
-`agent:plant  produces  patient:biological-product`
-`A plant produces reproductive bodies. / Plants produce seeds.`
+<span id="S572"></span>
+**S572** · MED-001
+`no — la-tu  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de`
+
+<span id="S573"></span>
+**S573** · MED-001
+`ya, la-to-su  si  {go ha-be  lo-ko-su  de}`
+
+<span id="S574"></span>
+**S574** · MED-001
+`no — go si-zo-be  lo-ko-su  de  ti-de`
+
+<span id="S575"></span>
+**S575** · MED-001
+`ke, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de`
+
+<span id="S576"></span>
+**S576** · MED-001
+`ke! la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de`
+
+<span id="S577"></span>
+**S577** · MED-001
+`ya, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de`
+
+<span id="S578"></span>
+**S578** · MED-001
+`ya, ke, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de`
+
+## Theology & philosophy
+
+<span id="S028"></span>
+**S028** · Hidden Property A · *legacy*
+`go [la-ra-ki  lo-su-mu  de]  du [de-ki]`
+*Because [the storm decayed the structure], result: [collapse].*
+
+<span id="S029"></span>
+**S029** · Hidden Property B · *legacy*
+`la-ma-di  ta-re-ti  fe-ki`
+*The river, at each recurring time, crosses its limit.*
+
+<span id="S030"></span>
+**S030** · Hidden Property C · *legacy*
+`la-to-su-mu  vo`
+*The archive has value.*
+
+<span id="S031"></span>
+**S031** · Hidden Property D · *legacy*
+`la-li-pu  ka  ru`
+*The collective acts with unity.*
+
+<span id="S045"></span>
+**S045** · T-APO-001
+`la-to-fe-li  wi  to-to-se-ma-ka`
+*The standards adjudicator operates through [???].*
+
+<span id="S046"></span>
+**S046** · T-APO-002
+`la-to-li  ka  to-to'ma-li'ne-se-to Parse:    to-to modifies [ma-li modifies [ne-se-to]]`
+*Tonesu scholars engage in the meta-theory of how embodied persons build conceptual relations from perception.*
+
+<span id="S079"></span>
+**S079** · T-REL-001
+`la-ze  ka-wi-si`
+*She performed intentional-signaling / she prayed.*
+
+<span id="S080"></span>
+**S080** · T-REL-002
+`la-si-su  ko  lo-to-re-su`
+*The archive holds the canonical doctrine.*
+
+<span id="S081"></span>
+**S081** · T-REL-003
+`lo-ti-mu  fe-vo`
+*The relic has the quality of set-apart value.*
+
+<span id="S082"></span>
+**S082** · T-REL-004
+`la-to-su-li  si-ki  ne-li-pu`
+*The doctrine keeper transmitted signal to the collective.*
+
+<span id="S083"></span>
+**S083** · T-REL-005
+`la-ra-ki-li  ne-ra-ki  lo-mu`
+*The pilot enters into energetic resonance with the machine.*
+
+<span id="S084"></span>
+**S084** · T-REL-006
+`la-li-pu  to-re-su  si  lo-mu  zo-to`
+*The group's canonical doctrine signals that the machine has a living-pattern.*
+
+<span id="S085"></span>
+**S085** · T-REL-007
+`la-zo-si  lo-pa-wi-ka-su  no-de`
+*The spirits preserve the ritual place.*
+
+<span id="S182"></span>
+**S182** · MMP-001
+`la-li  ka  vo-de  lo-li`
+*A person acts to destroy another person's value.*
+
+<span id="S183"></span>
+**S183** · MMP-001
+`la-li  de  lo-wi-fe-su`
+*The person undermines the rule. / The agent violates the law.*
+
+<span id="S184"></span>
+**S184** · MMP-001
+`la-li  to  [no-go [lo-zo  de]  lo-li  ru]`
+*The person believes: despite the body dying, the person persists.*
+
+<span id="S185"></span>
+**S185** · MMP-001
+`la-li  to  pu`
+*The person has all knowledge. / The agent knows everything.*
 
 <span id="S349"></span>
 **S349** · THO-001
@@ -1792,288 +2546,121 @@ title: Corpus
 `lo-zo-li  zo-to-no-ra  ,  vo  ne`
 *Those who are poor in spirit — they are blessed.*
 
-<span id="S364"></span>
-**S364** · FAL-001
-`P1:  lo-ra  to-fe  ne            P2:  lo-wi-fe  lo-la-wi-li  go  ne            C:   (lo-ra  lo-la-wi-li  go  ne)`
-*P1: Force obeys an epistemic regularity.            P2: Normative rules require a willer.            C:  (So it is claimed: force requires a willer.)*
+<span id="S452"></span>
+**S452** · ROM-001
+`la-mi wi-vo / no la-mi ka-ze`
 
-<span id="S365"></span>
-**S365**
-`(la-ze  lo-wi-fe  be-si)  ,  du  la-ze  lo-wi-fe-no-fe  wi`
-*(She reportedly said: let rules increase.) — Therefore she intends            unlimited-governance [rules-without-boundary].*
+<span id="S453"></span>
+**S453** · ROM-001
+`la-mi no-wi-de-vo / re la-mi ka-ze`
 
-<span id="S366"></span>
-**S366** · FAL-001
-`go  lo-zu  ne-li  no  ,  lo-zu  wi-de-li  ne`
-*Because you are not a bonded ally, you are an adversary.*
+<span id="S454"></span>
+**S454** · DKN-001
+`ti  helm  vo-fe / ti  helm  no-vo'fe`
 
-<span id="S367"></span>
-**S367** · FAL-001
-`A:  lo-to-re-su  to  ,  go  la-be-go-li  lo-ze  si-past            B:  la-be-go-li  lo-ze  si-past  ,  go  lo-to-re-su  si`
-*A:  The scripture is confirmed — because the creator attested it.            B:  The creator attested it — because the scripture says so.*
+<span id="S455"></span>
+**S455** · DKN-001
+`ti  helm  to-vo / ti  helm  no-to-vo`
 
-<span id="S368"></span>
-**S368** · FAL-001 · first `:` attestation
-`lo-to-si-ze  :  la-mi  lo-ze  ka-to-fe  ,  no  lo-ze`
-*As for her proposition — I judge it, not her.   [correct form]*
+<span id="S456"></span>
+**S456** · DKN-001
+`ti  helm  vo-si / ti  helm  no-si`
 
-<span id="S369"></span>
-**S369** · FAL-001
-`(la-to-li  lo-to-su  no-to)  ,  (du  lo-to-su  no-be)`
-*(The scholar reportedly does not accept the model.)            (Therefore, reportedly: the model does not hold.)   [humble/correct form]*
+<span id="S457"></span>
+**S457** · DKN-001
+`ti  helm  ha / ti  helm  no-ha`
 
-<span id="S370"></span>
-**S370** · FAL-001
-`ta  [la-mi  lo-ma-no-de  mu-ka-past]  ,  la-mi  zo-de-fe-past`
-*When I used medicine, my illness ended.   [temporal frame: ta]*
+<span id="S458"></span>
+**S458** · DKN-001
+`ti  helm  be-vo / ti  helm  de-vo`
 
-<span id="S371"></span>
-**S371** · FAL-001
-`lo-ko-mu  :  nu-de  ne`
-*As for each component: it has small mass.   [part claim]*
+<span id="S461"></span>
+**S461** · WIT-001
+`pa-no-fe  helms  pu-du-to`
 
-<span id="S372"></span>
-**S372** · FAL-001
-`la-wi-zo  lo-wi-zo  de    [descriptive]`
-*Wild animals kill each other.   [de — descriptive fact]*
+<span id="S474"></span>
+**S474** · TAO-001
+`go {su-si lo-su}, ze no-helm su-no-fe`
 
-<span id="S373"></span>
-**S373** · FAL-001
-`la-mi  si  lo-ti-be  lo-ma-de`
-*I hypothesize: in the future, material resources will decline.   [si — proposed/possible]*
+<span id="S475"></span>
+**S475** · TAO-001
+`go {su-si lo-su-si}, ze no-helm su-si-no-fe`
 
-<span id="S374"></span>
-**S374** · FAL-002
-`Bailey (strong claim, bare assertion):`
-`la-ka-li-su  :  lo-zo-li  to-no-fe  ka`
-`Motte (retreat when challenged):`
-`la-ka-li-su  :  lo-zo-li  wi-ne  ne`
-`Correction:`
-`go  [la-ka-li-su  lo-zo-li  wi-ne  ne]  ,  no  la-ze  du  lo-to-no-fe  ka`
+<span id="S476"></span>
+**S476** · TAO-001
+`no-su-si helms go-ti lo-pa-no-fe / su-si helms go-zo-li lo-pu-ma`
 
-<span id="S375"></span>
-**S375** · FAL-002
-`(1) Original condition (attributed, past):`
-`(go  [la-mi  lo-ra  se]  ,  la-mi  lo-to-si-ze  to-ki)`
-`(2) Condition met:`
-`la-mi  lo-ra  se-past`
-`(3) New goalpost (bare, present):`
-`la-mi  wi-fe  be  :  lo-ra-ne  se-to`
+## Translation
 
-<span id="S376"></span>
-**S376** · FAL-002
-`Fallacious chain:`
-`go  [lo-wi-fe  de]  ,`
-`(du  lo-ne-ki  de)  ,`
-`(du  lo-ka-li-su  de)  ,`
-`(du  lo-ne-su  de)`
-`Correction:`
-`go  [lo-wi-fe  de]  ,  la-mi  no-se  lo-ne-ki  de`
+<span id="S293"></span>
+**S293** · MAT-001
+`la-ma-su  no-ki`
+*The rock lay still. / The stone was at rest.*
 
-<span id="S377"></span>
-**S377** · FAL-002
-`Illegitimate (emotional fact → specific policy without warrant chain):`
-`la-zo-ne-du  lo-fa  de-past  ,`
-`(du  la-mi  lo-zo-ne-du  pa-ki)`
-`Legitimate (full warrant chain stated):`
-`go  [la-zo-ne-du  lo-fa  de-past]  ,`
-`go  [la-mi  lo-zo-ne-du  vo-wi]  ,`
-`la-mi  lo-zo-ne-du  pa-ki`
+<span id="S294"></span>
+**S294** · MAT-001
+`la-ma-pa  ko  lo-zo-be`
+*The soil held the seeds.*
 
-<span id="S378"></span>
-**S378** · FAL-002
-`Loaded (presupposition hidden inside question frame):`
-`to-si  [la-zu  lo-to-de  de-fe-past]`
-`Well-formed interrogation (presupposition extracted and marked):`
-`(la-zu  lo-to-de  ka-past)  ,  to-si  [la-ze  de-fe-past]`
+<span id="S295"></span>
+**S295** · MAT-001
+`la-pu'ma-su  ko  lo-pa`
+*The gravel covered the path. / The sand covered the ground.*
 
-<span id="S379"></span>
-**S379** · FAL-003
-`Triple-loaded (all three presuppositions hidden):`
-`to-si  [la-zu  lo-wi-fe  de-fe-past]`
-`Full extraction (three () premises, then clean question):`
-`(la-zu  lo-ne-ki  de-past)`
-`(la-zu  go  lo-mu-su  lo-zo-li  ka-past)`
-`(la-zu  lo-ka-li-su  lo-mu-su  be-past)`
-`to-si  [la-zu  lo-wi-fe  de-fe-past]`
+<span id="S296"></span>
+**S296** · MAT-001
+`la-su'ma-pa  ko  lo-ma-ki`
+*The clay held water.*
 
-<span id="S380"></span>
-**S380** · FAL-003
-`Claim (A — strong):`
-`la-ka-li-su  :  lo-zo-li  to-no-fe  ka`
-`Challenged. Retreat to B (intermediate):`
-`la-ka-li-su  :  lo-zo-li  vo-wi-fe  ne-past`
-`Challenged again. Retreat to C (undeniable):`
-`la-ka-li-su  :  lo-zo-li  ne  ne`
-`Correction (blocking A from both retreats):`
-`go  [la-ka-li-su  lo-zo-li  ne  ne]  ,  no  la-ze  du  lo-vo-wi-fe  ne`
-`go  [la-ka-li-su  lo-zo-li  vo-wi-fe  ne]  ,  no  la-ze  du  lo-to-no-fe  ka`
+<span id="S297"></span>
+**S297** · MAT-001
+`la-ma-ki  no-be  lo-ma-su`
+*The water wore down the stone. / The river eroded the rock.*
 
-<span id="S381"></span>
-**S381** · FAL-003
-`Fallacious (three bare links + one bracketed, legitimacy gradient hidden):`
-`go  [lo-wi-fe  de]  ,`
-`lo-ne-su  de  ,`
-`lo-ka-li-su  de  ,`
-`(du  lo-ka-no-fe  de)  ,`
-`lo-ne-su  be-no-fe`
-`Corrected (each link labeled by speaker's actual commitment):`
-`go  [lo-wi-fe  de]  ,      la-mi  se  lo-ne-su  de`
-`go  [lo-ne-su  de]  ,      la-mi  no-se  lo-ka-li-su  de`
-`go  [lo-ka-li-su  de]  ,   (du  lo-ka-no-fe  de)`
-`(du  lo-ka-no-fe  de)  ,   (du  lo-ne-su  be-no-fe)`
+<span id="S298"></span>
+**S298** · MAT-001
+`la-ma-su  ki  lo-ma-ki`
+*The stone fell into the river.*
 
-<span id="S382"></span>
-**S382** · FAL-003
-`Standard evidential (one layer):`
-`(la-to-li  lo-to-su  ne)`
-`Nested evidential (two layers — attributed report of a report):`
-`(la-ka-li-su  (la-to-li  lo-to-su  ne)  re-ka)`
-`Speaker endorsement breaking the chain:`
-`la-mi  no-se  lo-to-su  ne  ,`
-`go  (la-ka-li-su  (la-to-li  lo-to-su  ne)  re-ka)`
+<span id="S299"></span>
+**S299** · MAT-001
+`la-mi  di  lo-mas`
+*I threw a rock. (casual register)*
 
-<span id="S383"></span>
-**S383** · FAL-003
-`Agent A's report (attributed hypothesis):`
-`(la-na-Ren  lo-to-si-ze  si)`
-`Agent B's elevation (transforms A's hypothesis to B's inference):`
-`go  [(la-na-Ren  lo-to-si-ze  si)]  ,  la-na-Kael  lo-to-si-ze  se`
-`Institutional elevation (transforms B's inference to institutional certainty):`
-`go  [la-na-Kael  lo-to-si-ze  se]  ,  la-to-fe-su  lo-to-si-ze  to-su`
-`Speaker's diagnosis:`
-`la-mi  no-to  lo-to-si-ze  to-su  ,`
-`go  [la-to-fe-su  lo-to-si-ze  to-su]  ,`
-`go  [la-na-Kael  lo-to-si-ze  se  ,  go  (la-na-Ren  lo-to-si-ze  si)]`
+<span id="S300"></span>
+**S300** · MAT-002
+`la-di'ma-ki  ki`
+*The river flowed.*
 
-<span id="S384"></span>
-**S384** · FAL-004
-`Speech:`
-`(la-to-fe-su  lo-ka-li-su  de)  ,  la-mi  to  lo-ka-li-su  de`
-`Diagnosis:`
-`la-mi  to  lo-to-fe-su  lo-ze  re-ka  ,`
-`no  la-mi  to  lo-ka-li-su  de`
+<span id="S301"></span>
+**S301** · MAT-002
+`la-pa'ma-ki  ko  lo-pa`
+*The sea covered the land.*
 
-<span id="S385"></span>
-**S385** · FAL-004
-`Challenged:`
-`la-zu  lo-ka-li-su-mi  to-si  ne`
-`Response (topic substitution):`
-`lo-ka-li-su-mi  :  la-mi  lo-ze  se  ne  ,`
-`na-Kur  :  la-ze  lo-to-de  re-ka`
+<span id="S302"></span>
+**S302** · MAT-002
+`la-ko'ma-ki  no-ki`
+*The lake lay still.*
 
-<span id="S386"></span>
-**S386** · FAL-004
-`go  [la-mi  se  lo-ra-ma-de  se]  ,`
-`(du  lo-ne-su  mu-be)  ,`
-`(du  lo-ka-li-su  de-fe)  ,`
-`(du  la-ka-no-fe  lo-ne-su  ka-ki)`
+<span id="S303"></span>
+**S303** · MAT-002
+`la-lu-ko'ma-ki  be  lo-no-ko'ma-ki`
+*The cloud released rain. / The cloud produced rain.*
 
-<span id="S387"></span>
-**S387** · FAL-004
-`Demand (bare):`
-`go  [la-mi  se  lo-ra-ma-de  se]  ,`
-`la-mi  lo-zo-li  ka-li-su  wi`
-`Corrected (minimum warrant chain):`
-`go  [la-mi  se  lo-ra-ma-de  se]  ,`
-`go  [lo-ra-ma-de  lo-zo-li  mu-be]  ,`
-`go  [la-mi  lo-zo-li  vo  wi]  ,`
-`la-mi  lo-zo-li  ka-li-su  wi`
+<span id="S304"></span>
+**S304** · MAT-002
+`la-no-ko'ma-ki  ki  lo-ma-pa`
+*The rain fell on the soil. / The rain came down to ground.*
 
-<span id="S388"></span>
-**S388** · FAL-004
-`(la-to-fe-su  lo-ka-li-su  de)  ,  la-mi  to  lo-ka-li-su  de  ,`
-`go  [lo-ka-li-su  de]  ,  (du  lo-ne-su  mu-be)  ,  (du  lo-ka-li-su  de-fe)  ,`
-`lo-ka-li-su-mi  :  la-mi  lo-ze  se  ne  ,`
-`na-Kur  :  la-ze  lo-to-de  re-ka  ,`
-`go  [la-mi  se  lo-ra-ma-de  se]  ,  la-mi  lo-zo-li  ka-li-su  wi`
+<span id="S305"></span>
+**S305** · MAT-002
+`la-su'ma-ki  ko  lo-di'ma-ki`
+*The ice covered the river.*
 
-<span id="S389"></span>
-**S389** · FAL-005
-`(la-to-fe-su  lo-ra-ma-de  se)  ,`
-`la-mi  to  lo-ra-ma-de  de  ,`
-`go  [lo-ra-ma-de  de]  ,`
-`(du  lo-ne-su  mu-be)  ,`
-`(du  lo-ka-li-su  de-fe)  ,`
-`lo-ka-li-su-mi  :  la-mi  lo-zo-li  vo  wi  ,`
-`na-Kur  :`
-`(la-na-Kur  la-to-fe-su-ki  (la-to-li  lo-ra-ma-de  de  si)  re-ka)  ,`
-`la-na-Kur  lo-ra-ma-de  de  to  ,`
-`go  [(la-mi  se  lo-ra-ma-de  de)]  ,`
-`(du  la-mi  lo-ka-li-su  wi)  ,`
-`(du  la-mi  lo-ka-li-su  to)`
-
-<span id="S390"></span>
-**S390** · FAL-005
-
-<span id="S391"></span>
-**S391** · FAL-006
-`Depth-1 (direct attribution):`
-`(la-na-Sura  lo-ka-li-su  de  se)`
-`Depth-2 (report-of-report):`
-`(la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)`
-`Depth-3 (report-of-report-of-report):`
-`(la-to-fe-su  (la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)  re-ka)`
-`Speaker's diagnosis:`
-`la-mi  no-se  lo-ka-li-su  de  ,`
-`go  [la-to-fe-su  (la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)  re-ka]`
-
-<span id="S392"></span>
-**S392** · FAL-006
-`Hearsay chain (depth-3, identical to S391):`
-`(la-to-fe-su  (la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)  re-ka)  ,`
-`Laundering step:`
-`la-mi  to  lo-ka-li-su  de  ,`
-`Policy conclusion (normative leap):`
-`go  [lo-ka-li-su  de]  ,  la-mi  lo-zo-li  ka-li-su  wi`
-
-<span id="S393"></span>
-**S393** · FAL-007
-`(la-to-fe-su  lo-ra-ma-de  de  se)  ,`
-`la-mi  to  [la-to-fe-su  lo-ze  re-ka]  ,`
-`la-mi  se  lo-ra-ma-de  de`
-
-<span id="S394"></span>
-**S394** · FAL-007
-`Challenged:`
-`la-zu  lo-ka-li-su-mi  to-si  ne`
-`Response:`
-`lo-ka-li-su-mi  :`
-`la-mi  se  lo-ra-ma-de  de  ,`
-`go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be]  ,`
-`la-mi  lo-zo-li  vo  wi  ,`
-`du  la-mi  lo-ra-ma  ka-li-su  wi`
-
-<span id="S395"></span>
-**S395** · FAL-007
-`go  [la-mi  se  lo-ra-ma-de  de]  ,`
-`go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be  ,`
-`go  [la-na-Sura  lo-ra-su  ka  ti-de]  lo-ze  se]  ,`
-`la-mi  se  lo-ne-su  mu-be`
-
-<span id="S396"></span>
-**S396** · FAL-007
-`go  [la-mi  se  lo-ra-ma-de  de]  ,`
-`go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be]  ,`
-`go  [la-mi  lo-zo-li  vo  wi]  ,`
-`la-mi  lo-ra-ma  ka-li-su  wi  ,`
-`la-mi  se  lo-ze  be-vo`
-
-<span id="S397"></span>
-**S397** · FAL-007
-`(la-to-fe-su  lo-ra-ma-de  de  se)  ,`
-`la-mi  to  [la-to-fe-su  lo-ze  re-ka]  ,`
-`la-mi  se  lo-ra-ma-de  de  ,`
-`go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be  ,`
-`go  [la-na-Sura  lo-ra-su  ka  ti-de]  lo-ze  se]  ,`
-`la-mi  se  lo-ne-su  mu-be  ,`
-`lo-ka-li-su-mi  :`
-`go  [la-mi  se  lo-ra-ma-de  de]  ,`
-`go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be]  ,`
-`go  [la-mi  lo-zo-li  vo  wi]  ,`
-`la-mi  lo-ra-ma  ka-li-su  wi  ,`
-`la-mi  se  lo-ze  be-vo  ,`
-`la-mi  to-si  [la-zu  lo-ze  se-to  to-si]`
+<span id="S306"></span>
+**S306** · MAT-002
+`la-mi  ki  lo-di'ma-ki`
+*I crossed the river.*
 
 <span id="S398"></span>
 **S398** · EXO-001
@@ -2239,38 +2826,6 @@ title: Corpus
 **S438** · LSP-001
 `[na-Jesus:]  "la-ze  ka-ne-de  lo-mi  ti-be  /  ne  ro-mi  pa-mi"`
 
-<span id="S439"></span>
-**S439**
-`to-su  helm  ra`
-
-<span id="S440"></span>
-**S440**
-`ti  helm  nu-vo`
-
-<span id="S441"></span>
-**S441**
-`go-no-fe  helm  de`
-
-<span id="S442"></span>
-**S442**
-`go-no-fe  helms  vo`
-
-<span id="S443"></span>
-**S443**
-`zo-li  helms  to-zo`
-
-<span id="S444"></span>
-**S444**
-`la-mi  to  go  la-mi  pa`
-
-<span id="S445"></span>
-**S445**
-`pu-to-su  ne  ven  du-to`
-
-<span id="S446"></span>
-**S446**
-`pu-to-su  ne  ven  no-du-to`
-
 <span id="S447"></span>
 **S447** · JOH-001
 `ta-go-ti  la-to  pa`
@@ -2283,54 +2838,6 @@ title: Corpus
 **S449** · JOH-001
 `la-to  ne  go-no-fe`
 
-<span id="S450"></span>
-**S450** · NEW-001
-`pu-fe-ma : go no la-no-ko-ra ka-ki lo-ze / la-ze re su-ki-pa-ze`
-
-<span id="S451"></span>
-**S451** · NEW-001
-`go la-no-ko-ra ka-ki lo-fe-ma / lo-su-ki-pa-ze ki`
-
-<span id="S452"></span>
-**S452** · ROM-001
-`la-mi wi-vo / no la-mi ka-ze`
-
-<span id="S453"></span>
-**S453** · ROM-001
-`la-mi no-wi-de-vo / re la-mi ka-ze`
-
-<span id="S454"></span>
-**S454** · DKN-001
-`ti  helm  vo-fe / ti  helm  no-vo'fe`
-
-<span id="S455"></span>
-**S455** · DKN-001
-`ti  helm  to-vo / ti  helm  no-to-vo`
-
-<span id="S456"></span>
-**S456** · DKN-001
-`ti  helm  vo-si / ti  helm  no-si`
-
-<span id="S457"></span>
-**S457** · DKN-001
-`ti  helm  ha / ti  helm  no-ha`
-
-<span id="S458"></span>
-**S458** · DKN-001
-`ti  helm  be-vo / ti  helm  de-vo`
-
-<span id="S459"></span>
-**S459** · MTH-001
-`go la-ze ka-no-de lo-ze-zo-ra / lo-ze-zo-ra de`
-
-<span id="S460"></span>
-**S460** · MTH-001
-`go la-ze ka-de lo-ze-zo-ra wi-mi / lo-ze-zo-ra be`
-
-<span id="S461"></span>
-**S461** · WIT-001
-`pa-no-fe  helms  pu-du-to`
-
 <span id="S462"></span>
 **S462** · HAM-001
 `pa / no-pa : ne to-si`
@@ -2342,505 +2849,6 @@ title: Corpus
 <span id="S464"></span>
 **S464** · HAM-001
 `de lo-no-ko-ra / ka-ra lo-de-no-fe : ne to-si`
-
-<span id="S465"></span>
-**S465** · LPR-001
-`vund ne no-tonesu vunds`
-
-<span id="S466"></span>
-**S466** · LPR-001
-`vund ne no-du-to vunds`
-
-<span id="S467"></span>
-**S467** · LPR-001
-`lo-to-ze  ne  no-du-to`
-
-<span id="S468"></span>
-**S468** · BSH-001
-`re-fe-ma-ki  /  la-zo-se-ma  ki  lo-re-fe-ma-ki,  ma-ki-so  pa`
-
-<span id="S469"></span>
-**S469** · BSH-001
-`re-fe-ma-ki  :  la-zo-se-ma  ki  lo-re-fe-ma-ki,  ma-ki-so  pa`
-
-<span id="S470"></span>
-**S470** · BSH-001
-`re-fe-ma-ki  :  ki  lo-ma-ki,  ma-ki-so  pa`
-
-<span id="S471"></span>
-**S471** · EMD-001
-`ta go {no la-mi de-ki lo-de-zo-li}, la-de-zo-li wi-vo de-ki lu-mi`
-
-<span id="S472"></span>
-**S472** · EMD-001
-`la-ki-pa-mu ko lo-mi lo-de-zo-li lo-no-de-zo-li`
-
-<span id="S473"></span>
-**S473** · EMD-001
-`la-mi la-de-zo-li de-ki ne-di-ko-pa, ko-pa helm be-ma-pa`
-
-<span id="S474"></span>
-**S474** · TAO-001
-`go {su-si lo-su}, ze no-helm su-no-fe`
-
-<span id="S475"></span>
-**S475** · TAO-001
-`go {su-si lo-su-si}, ze no-helm su-si-no-fe`
-
-<span id="S476"></span>
-**S476** · TAO-001
-`no-su-si helms go-ti lo-pa-no-fe / su-si helms go-zo-li lo-pu-ma`
-
-<span id="S477"></span>
-**S477** · SCL-001
-`la-lu de ; la-no-ha ki`
-
-<span id="S478"></span>
-**S478** · SCL-001
-`la-si ki ; la-zo-li-pu ne su`
-
-<span id="S479"></span>
-**S479** · SCL-001
-`la-ra-lu-ki be ; la-su-lu ki be ; la-si ki pa-no-ko`
-
-<span id="S480"></span>
-**S480** · SCL-001
-`la-du-zo-su ki ; la-zo-su be ; la-du ki`
-
-<span id="S481"></span>
-**S481** · SCL-001
-`la-to be ; la-to-ki be ; la-zo-li-pu vo be`
-
-<span id="S482"></span>
-**S482** · SCL-001-F — contrast with S444
-`la-mi to ; la-mi pa`
-
-<span id="S483"></span>
-**S483** · SCL-001
-`la-su-ki su ; la-vo-su pa`
-
-<span id="S484"></span>
-**S484** · SCL-001
-`la-ti ki ; la-yu ki`
-
-<span id="S485"></span>
-**S485** · SCL-001
-`la-ne de ; la-zo-li-pu no su`
-
-<span id="S486"></span>
-**S486** · SCL-001
-`la-yu ki ; la-ti ki ti-de`
-
-<span id="S487"></span>
-**S487** · SCL-001
-`go {la-ze ka-si  ro  la-zo-li se}, la-to-ki pa`
-
-<span id="S488"></span>
-**S488** · SCL-001
-
-<span id="S489"></span>
-**S489** · SCL-002
-`la-ze se ; la-ze to ; la-ze ka-si-to`
-
-<span id="S490"></span>
-**S490** · SCL-002
-`la-ne-su ki ; la-zi ki ; la-pu-li be`
-
-<span id="S491"></span>
-**S491** · SCL-002
-`la-du-zo-su pa ; la-ti ki ; la-du ki`
-
-<span id="S492"></span>
-**S492** · SCL-002
-`la-li ka-si-to ; la-li se ; la-ne-vo ki`
-
-<span id="S493"></span>
-**S493** · SCL-002
-`la-to-su ki ; la-ze de`
-
-<span id="S494"></span>
-**S494** · VPT-001
-`a`
-
-<span id="S495"></span>
-**S495** · VPT-001
-`a, la-ze ki...`
-
-<span id="S496"></span>
-**S496** · VPT-001
-`o na-Moses`
-
-<span id="S497"></span>
-**S497** · VPT-001
-`o na-Moses, la-tu ki di-pa-su`
-
-<span id="S498"></span>
-**S498** · VPT-001
-`e!`
-
-<span id="S499"></span>
-**S499** · VPT-001
-`e, go-no-fe  helms  vo`
-
-<span id="S500"></span>
-**S500** · VPT-001
-`u`
-
-<span id="S501"></span>
-**S501** · VPT-001
-`ru`
-
-<span id="S502"></span>
-**S502** · VPT-001
-`la-Elohim  ka-si  lo-na-Moses`
-
-<span id="S503"></span>
-**S503** · VPT-001
-`i, la-mi no-si la-ze ki`
-
-<span id="S504"></span>
-**S504** · VPC-001
-`a-to ne no-fe`
-
-<span id="S505"></span>
-**S505** · VPC-001
-`a-to helm to-su`
-
-<span id="S506"></span>
-**S506** · VPC-001
-`la-mi to lo-i-to-ze`
-
-<span id="S507"></span>
-**S507** · VPC-001
-`la-na-Laozi u-to lo-su-no-fe`
-
-<span id="S508"></span>
-**S508** · VPC-001
-`o-li ne su`
-
-<span id="S509"></span>
-**S509** · VPC-001
-`la-su e-ki`
-
-<span id="S510"></span>
-**S510** · VPC-001
-`a-su helms go-su`
-
-<span id="S511"></span>
-**S511** · VPC-001
-`la-na-Laozi ne a-to-li`
-
-<span id="S512"></span>
-**S512** · VPC-001
-`la-a-to lo-su ki    [attempted: "the universal-knower changed the structure"]`
-
-<span id="S513"></span>
-**S513** · VPC-001
-`la-du-zo-su ko lo-u-su`
-
-<span id="S514"></span>
-**S514** · EMD-002
-`ta go {no la-mi de-ki lo-de-zo-li} — la-de-zo-li wi-vo de-ki lu-mi —`
-
-<span id="S515"></span>
-**S515** · EMD-002
-`la-ki-pa-mu ko lo-mi lo-de-zo-li — lo-no-de-zo-li`
-
-<span id="S516"></span>
-**S516** · EMD-002
-`la-mi la-de-zo-li de-ki ne-di-ko-pa — ko-pa helm be-ma-pa —`
-
-<span id="S517"></span>
-**S517** · EMD-002
-`na-Moses —`
-
-<span id="S518"></span>
-**S518** · EMD-002
-`(a) la-su ki, la-mi se lo-ze`
-`(b) la-su ki — la-mi se lo-ze`
-
-<span id="S519"></span>
-**S519** · EMD-002
-`(a) la-su ki ; la-mi se lo-ze`
-`(b) la-su ki — la-mi se lo-ze`
-
-<span id="S520"></span>
-**S520** · EMD-002
-`(a) la-su be / la-su de`
-`(b) la-su be — la-su de —`
-
-<span id="S521"></span>
-**S521** · EMD-002
-`la-de-zo-li — wi-vo de-ki lu-mi`
-
-<span id="S522"></span>
-**S522** · EMD-002
-`la-ki-pa-mu ko lo-ti-no-fe —`
-
-<span id="S523"></span>
-**S523** · EMD-002
-`la-mi lo-se-su to — no la-mi si lo-ze`
-
-<span id="S524"></span>
-**S524** · CVP-001
-`he na-Moses!`
-
-<span id="S525"></span>
-**S525** · CVP-001
-`he na-Moses, ki di-pa-su`
-
-<span id="S526"></span>
-**S526** · CVP-001
-`he na-Moses!`
-`la-na-Moses pa`
-
-<span id="S527"></span>
-**S527** · CVP-001
-`na-Moses!             [exclamatory NP — still an NP; not a speech act]`
-`he na-Moses!          [vocative speech act — direct call]`
-`la-na-Moses ka-si     ["Moses spoke" — predicate clause; Moses is agent]`
-
-<span id="S528"></span>
-**S528** · CVP-001
-`ya, go-no-fe helms vo`
-
-<span id="S529"></span>
-**S529** · CVP-001
-`ya, la-zo-se-ma ki lo-re-fe-ma-ki`
-
-<span id="S530"></span>
-**S530** · CVP-001
-`he na-Moses, ki di-pa-su      [you — go toward the mountain]`
-`ya, ki di-pa-su               [look — go toward the mountain]`
-
-<span id="S531"></span>
-**S531** · CVP-001
-`ya — la-mi to lo-ze`
-
-<span id="S532"></span>
-**S532** · COR-001
-`no — la-Elohim ka-si`
-
-<span id="S533"></span>
-**S533** · COR-001
-`no — la-Elohim ka-si ; la-na-Moses se`
-
-<span id="S534"></span>
-**S534** · COR-001
-`la-de ki ; no — la-be ki`
-
-<span id="S535"></span>
-**S535** · COR-001
-`la-na-Moses ka-si / la-Elohim ka-si`
-
-<span id="S536"></span>
-**S536** · COR-001
-`no — la-Elohim ka-si lo-si`
-
-<span id="S537"></span>
-**S537** · COR-001
-`— la-Elohim ka-si`
-
-<span id="S538"></span>
-**S538** · COR-001
-`no                         [minimal negative — denies; no replacement]`
-`no, la-Elohim ka-si        [denial + separate clause — two speech acts]`
-`no — la-Elohim ka-si       [correction speech act — one unitary act]`
-
-<span id="S539"></span>
-**S539** · DEB-001
-`la-to ne vo-fe`
-
-<span id="S540"></span>
-**S540** · DEB-001
-`no — la-ka ne vo-fe`
-
-<span id="S541"></span>
-**S541** · DEB-001
-`ya, la-to be lo-ka`
-
-<span id="S542"></span>
-**S542** · DEB-001
-`no — la-ka be lo-to ; no la-to be lo-ka`
-
-<span id="S543"></span>
-**S543** · DEB-001
-`ya — la-mi to lo-vo ; la-mi ka-vo`
-
-<span id="S544"></span>
-**S544** · DEB-001
-`no — la-ka be lo-to ; no la-to be lo-ka`
-
-<span id="S545"></span>
-**S545** · DEB-001
-`ke, la-ka be lo-to ; no la-to be lo-ka`
-
-<span id="S546"></span>
-**S546** · DEB-001
-`la-to be lo-ka / la-ka be lo-to`
-
-<span id="S547"></span>
-**S547** · DEB-001
-`ke! la-ka be lo-to`
-
-<span id="S548"></span>
-**S548** · DEB-001
-`he na-Plato — la-ka be lo-to!`
-
-<span id="S549"></span>
-**S549** · EXC-001
-`la-Elohim ne vo`
-
-<span id="S550"></span>
-**S550** · EXC-001
-`no la-li ne vo`
-
-<span id="S551"></span>
-**S551** · EXC-001
-`no la-li ne vo — la-Elohim ne vo`
-
-<span id="S552"></span>
-**S552** · EXC-001
-`la-Elohim ru ne vo`
-
-<span id="S553"></span>
-**S553** · EXC-001
-`la-Elohim ne ru`
-
-<span id="S554"></span>
-**S554** · EXC-001
-`ru-fe, la-Elohim ne vo`
-
-<span id="S555"></span>
-**S555** · EXC-001
-`ru-fe, go to ; ka-vo`
-
-<span id="S556"></span>
-**S556** · EXC-001
-`ru-fe, la-mi ne zo`
-
-<span id="S557"></span>
-**S557** · EXC-001
-`ru-fe, la-Elohim helms go-no-fe`
-
-<span id="S558"></span>
-**S558** · EXC-001
-`ya, ru-fe, la-Elohim ne vo`
-
-<span id="S559"></span>
-**S559** · PAV-001
-`la-su-mu-li  ka-be  lo-ra-su  ti-de`
-
-<span id="S560"></span>
-**S560** · PAV-001
-`lo-ra-su  de  ti-de`
-
-<span id="S561"></span>
-**S561** · PAV-001
-`lo-ra-su  ka-be  ti-de`
-
-<span id="S562"></span>
-**S562** · PAV-001
-`ro-ra-ki-mu  lo-ra-su  ka-be  ti-de`
-
-<span id="S563"></span>
-**S563** · PAV-001
-`ra-su : ka-be  ti-de`
-
-<span id="S564"></span>
-**S564** · PAV-001
-`la-li-pu  ka-be  lo-su  ti-de`
-
-<span id="S565"></span>
-**S565** · PAV-001
-`la-si-su  ko  {la-Elohim  ne  go-no-fe}`
-
-<span id="S566"></span>
-**S566** · PAV-001
-`lo-pa  be`
-
-<span id="S567"></span>
-**S567** · PAV-001
-`la-Elohim  ka-be  lo-pa`
-
-<span id="S568"></span>
-**S568** · PAV-001
-`lo-to-si  ka-ki  ti-de`
-
-<span id="S569"></span>
-**S569** · MED-001
-`go ha-be  lo-zo-li  de  ti-de`
-
-<span id="S570"></span>
-**S570** · MED-001
-`no — go si-zo  lo-zo-li  de  ti-de`
-
-<span id="S571"></span>
-**S571** · MED-001
-`ya, la-mi  se  lo-ha-be ; go ha-be  lo-ko-su  de  ti-de`
-
-<span id="S572"></span>
-**S572** · MED-001
-`no — la-tu  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de`
-
-<span id="S573"></span>
-**S573** · MED-001
-`ya, la-to-su  si  {go ha-be  lo-ko-su  de}`
-
-<span id="S574"></span>
-**S574** · MED-001
-`no — go si-zo-be  lo-ko-su  de  ti-de`
-
-<span id="S575"></span>
-**S575** · MED-001
-`ke, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de`
-
-<span id="S576"></span>
-**S576** · MED-001
-`ke! la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de`
-
-<span id="S577"></span>
-**S577** · MED-001
-`ya, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de`
-
-<span id="S578"></span>
-**S578** · MED-001
-`ya, ke, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de`
-
-<span id="S579"></span>
-**S579** · DIP-001
-`la-li-pu  ne  wi-fe  lo-ra-pa`
-
-<span id="S580"></span>
-**S580** · DIP-001
-`no — la-pa-pu  ne  wi-fe  lo-ra-pa`
-
-<span id="S581"></span>
-**S581** · DIP-001
-`ya, la-si-su  ko  {la-li-pu  ne  wi-fe  lo-ra-pa}  ti-de`
-
-<span id="S582"></span>
-**S582** · DIP-001
-`no — la-si-su  ko  {la-pa-pu  ne  wi-fe  lo-ra-pa}  ti-de`
-
-<span id="S583"></span>
-**S583** · DIP-001
-`ya, la-to-su  si  {la-li-pu  ne  wi-fe  lo-ra-pa}`
-
-<span id="S584"></span>
-**S584** · DIP-001
-`no — la-pa-pu  ne  wi-fe  lo-ra-pa`
-
-<span id="S585"></span>
-**S585** · DIP-001
-`ke, la-pa-pu  ne  wi-fe  lo-ra-pa ; la-to-su  si  {pa-pu  ne  wi-fe}`
-
-<span id="S586"></span>
-**S586** · DIP-001
-
-<span id="S587"></span>
-**S587** · DIP-001
-`ke, la-pa-pu  ne  wi-fe  lo-ra-pa ; la-to-su  si  {pa-pu  ne  wi-fe}`
 
 ---
 

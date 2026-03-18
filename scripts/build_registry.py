@@ -439,6 +439,57 @@ def generate_word_page(
     return "\n".join(lines)
 
 
+# ---------------------------------------------------------------------------
+# Corpus theme grouping
+# ---------------------------------------------------------------------------
+
+THEME_ORDER = [
+    "Foundations",
+    "Grammar & syntax",
+    "Domains",
+    "Theology & philosophy",
+    "Translation",
+]
+
+_GRAMMAR_PREFIXES  = {"GRM","VPC","VPT","CVP","EXC","SCL","EMD","COR","CF","FAL",
+                      "LPR","MG","OPX","IPX","PMS","MTH","NEW","SA","BSH","DEB","DIP"}
+_DOMAIN_PREFIXES   = {"KNM","ODL","GEO","LGL","PLT","MED","FNG","PAV","NUM"}
+_THEOLOGY_PREFIXES = {"THO","GOD","DKN","WIT","TAO","ROM","MMP"}
+_TRANS_PREFIXES    = {"EXO","MAT","JOH","LSP","HAM"}
+_T_GRAMMAR_SUBS    = {"AX", "CMP"}
+_T_THEOLOGY_SUBS   = {"APO", "REL"}
+
+
+def batch_to_theme(batch: str | None) -> str:
+    if not batch:
+        return "Foundations"
+    if re.match(r"^T\d", batch):
+        return "Foundations"
+    if batch.startswith("Hidden"):
+        return "Theology & philosophy"
+    if batch.startswith("T-"):
+        sub = batch[2:].split("-")[0].upper()
+        if sub in _T_THEOLOGY_SUBS:
+            return "Theology & philosophy"
+        if sub in _T_GRAMMAR_SUBS:
+            return "Grammar & syntax"
+        return "Domains"
+    if batch.lower().startswith("fa"):
+        return "Grammar & syntax"
+    if re.match(r"^P[-\d]", batch) or re.match(r"^P\d", batch):
+        return "Grammar & syntax"
+    first = batch.split("-")[0].upper()
+    if first in _GRAMMAR_PREFIXES:
+        return "Grammar & syntax"
+    if first in _DOMAIN_PREFIXES:
+        return "Domains"
+    if first in _THEOLOGY_PREFIXES:
+        return "Theology & philosophy"
+    if first in _TRANS_PREFIXES:
+        return "Translation"
+    return "Foundations"
+
+
 def generate_corpus_page(sentences: list, conv_data: dict | None) -> str:
     convs = (conv_data or {}).get("conversations", [])
     n_turns = sum(len(c.get("turns", [])) for c in convs)
@@ -455,35 +506,45 @@ def generate_corpus_page(sentences: list, conv_data: dict | None) -> str:
         "",
         "---",
         "",
-        "## Sentences",
-        "",
     ]
 
+    # Group sentences by theme, preserving S-number order within each group
+    groups: dict[str, list] = {t: [] for t in THEME_ORDER}
     for sent in sentences:
-        snum = sent.get("snum", "")
-        tonesu_lines = (sent.get("tonesu") or "").split("\n")
-        natural = sent.get("natural") or ""
-        batch = sent.get("batch") or ""
-        status = sent.get("status", "")
+        theme = batch_to_theme(sent.get("batch"))
+        groups[theme].append(sent)
 
-        lines.append(f'<span id="{snum}"></span>')
+    for theme in THEME_ORDER:
+        theme_sents = groups[theme]
+        if not theme_sents:
+            continue
+        lines += [f"## {theme}", ""]
 
-        label_parts = [f"**{snum}**"]
-        if batch:
-            label_parts.append(batch)
-        if status == "legacy":
-            label_parts.append("*legacy*")
-        lines.append(" · ".join(label_parts))
+        for sent in theme_sents:
+            snum = sent.get("snum", "")
+            tonesu_lines = (sent.get("tonesu") or "").split("\n")
+            natural = sent.get("natural") or ""
+            batch = sent.get("batch") or ""
+            status = sent.get("status", "")
 
-        for t in tonesu_lines:
-            t = t.strip()
-            if t:
-                lines.append(f"`{t}`")
+            lines.append(f'<span id="{snum}"></span>')
 
-        if natural:
-            lines.append(f"*{natural.replace(chr(10), '<br>')}*")
+            label_parts = [f"**{snum}**"]
+            if batch:
+                label_parts.append(batch)
+            if status == "legacy":
+                label_parts.append("*legacy*")
+            lines.append(" · ".join(label_parts))
 
-        lines.append("")
+            for t in tonesu_lines:
+                t = t.strip()
+                if t:
+                    lines.append(f"`{t}`")
+
+            if natural:
+                lines.append(f"*{natural.replace(chr(10), '<br>')}*")
+
+            lines.append("")
 
     if convs:
         lines += ["---", "", "## Conversations", ""]
