@@ -16,17 +16,20 @@ Run:   python scripts/build_registry.py
 
 import re
 import sys
+import json
 import yaml
 from pathlib import Path
 from collections import defaultdict
 
 REPO          = Path(__file__).resolve().parent.parent
 ENTRIES       = REPO / "registry" / "entries.yaml"
+PRIMITIVES    = REPO / "registry" / "primitives.yaml"
 SENTENCES     = REPO / "corpus" / "sentences.yaml"
 CONVERSATIONS = REPO / "corpus" / "conversations.yaml"
 OUT_DIR       = REPO / "www" / "docs" / "tonesu" / "registry"
 WORD_DIR      = OUT_DIR / "words"
 CORPUS_PAGE   = REPO / "www" / "docs" / "tonesu" / "corpus.md"
+DATA_JSON     = REPO / "www" / "docs" / "js" / "tonesu-data.json"
 
 NOTE = (
     "*Generated from "
@@ -56,7 +59,24 @@ def load_entries() -> list:
     if not ENTRIES.exists():
         sys.exit(f"ERROR: {ENTRIES} not found. Run scripts/migrate_to_yaml.py first.")
     data = yaml.safe_load(ENTRIES.read_text(encoding="utf-8"))
-    return data.get("entries", [])
+    entries = data.get("entries", [])
+    # Backfill structured roots[] from form field if not set
+    for entry in entries:
+        if not entry.get("roots") and entry.get("form"):
+            parts = re.split(r"[-']", entry["form"])
+            entry["roots"] = [p for p in parts if re.fullmatch(r"[bcdfghklmnprstvwyz][aeiou]", p)]
+    return entries
+
+
+def load_primitives() -> dict:
+    """Load registry/primitives.yaml; returns {by_cv: {cv: root}, families: [...]}."""
+    if not PRIMITIVES.exists():
+        return {"by_cv": {}, "families": []}
+    data = yaml.safe_load(PRIMITIVES.read_text(encoding="utf-8"))
+    return {
+        "by_cv":    {r["cv"]: r for r in data.get("roots", [])},
+        "families": data.get("families", []),
+    }
 
 
 def load_sentences() -> list:
@@ -594,6 +614,7 @@ def generate_corpus_page(sentences: list, conv_data: dict | None) -> str:
 
 def main():
     entries       = load_entries()
+    primitives    = load_primitives()
     sentences     = load_sentences()
     conv_turns    = load_conversations()
     conv_data     = load_conv_data()
@@ -612,6 +633,8 @@ def main():
     (OUT_DIR / "by-domain.md").write_text(generate_by_domain_page(domain_groups), encoding="utf-8")
     (OUT_DIR / "by-root.md").write_text(generate_by_root_page(root_families), encoding="utf-8")
     CORPUS_PAGE.write_text(generate_corpus_page(sentences, conv_data), encoding="utf-8")
+
+    emit_data_json(entries, primitives)
 
     word_pages = 0
     for entry in entries:
@@ -634,6 +657,50 @@ def main():
     if conv_turns:
         conv_attested = sum(1 for t in conv_turns if t.get("words_attested"))
         print(f"  (conv turns contributing attestations: {conv_attested}/{len(conv_turns)})")
+
+
+def emit_data_json(entries: list, primitives: dict) -> None:
+    """Emit www/docs/js/tonesu-data.json for the root browser/builder UI."""
+    by_cv = primitives.get("by_cv", {})
+    prim_list = [
+        {
+            "cv":       r["cv"],
+            "gloss":    r["gloss"],
+            "family":   r["family"],
+            "category": r["category"],
+            "includes": r.get("includes", ""),
+            "excludes": r.get("excludes", ""),
+            "status":   r["status"],
+        }
+        for r in by_cv.values()
+        if r["status"] in ("active", "reserved")
+    ]
+
+    entry_list = [
+        {
+            "wnum":    e["wnum"],
+            "form":    e.get("form", ""),
+            "written": written(e.get("form", "")),
+            "gloss":   e.get("gloss", ""),
+            "status":  e.get("status", ""),
+            "domain":  e.get("domain", ""),
+            "roots":   e.get("roots") or [],
+        }
+        for e in entries
+        if e.get("status") in ("active", "pending", "proposed")
+    ]
+
+    payload = {
+        "primitives": prim_list,
+        "families":   primitives.get("families", []),
+        "entries":    entry_list,
+    }
+    DATA_JSON.parent.mkdir(parents=True, exist_ok=True)
+    DATA_JSON.write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    print(f"  tonesu-data.json: {len(prim_list)} primitives, {len(entry_list)} entries")
 
 
 if __name__ == "__main__":

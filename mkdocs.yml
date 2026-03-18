@@ -59,6 +59,7 @@ nav:
       - English index: tonesu/registry/english.md
       - By domain: tonesu/registry/by-domain.md
       - By root: tonesu/registry/by-root.md
+    - Word Builder: tonesu/builder.md
     - Corpus: tonesu/corpus.md
   - Totonesu:
     - totonesu/index.md
@@ -119,6 +120,7 @@ extra_css:
 extra_javascript:
   - https://cdn.datatables.net/2.2.2/js/dataTables.min.js
   - js/datatables-init.js
+  - js/root-builder.js
 
 extra:
   generator: false

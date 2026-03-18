@@ -1,0 +1,394 @@
+# Tonesu Primitive Roots — structured data
+# Canonical source: registry/primitives.md
+# 34 active primitives (closed set — additions require full validation pass)
+
+meta:
+  count: 34
+  status: closed
+
+families:
+  - consonant: k
+    name: "K — Containment · Boundary · Interior"
+    character: "enclosure and threshold"
+  - consonant: t
+    name: "T — Pattern · Time · Thought"
+    character: "sequence and abstraction"
+  - consonant: s
+    name: "S — Signal · Structure · Sound"
+    character: "form and signal"
+  - consonant: n
+    name: "N — Relation · Negation · Number"
+    character: "connection and its measure"
+  - consonant: p
+    name: "P — Part · Place · Plural"
+    character: "spatial and partitive membership"
+  - consonant: m
+    name: "M — Matter · Measure · Mind"
+    character: "material substrate and the self"
+  - consonant: f
+    name: "F — Force · Boundary · Affect"
+    character: "edge and interior experience"
+  - consonant: r
+    name: "R — Recurrence · Energy · Coherence"
+    character: "dynamic coherence"
+  - consonant: l
+    name: "L — Life · Light · Social Agent"
+    character: "animacy and visibility"
+  - consonant: d
+    name: "D — Direction · Decay · Result"
+    character: "directed outcome"
+  - consonant: b
+    name: "B — Growth · Emergence · Life-stage"
+    character: "upward change"
+  - consonant: h
+    name: "H — Heat · Breath · Voice"
+    character: "warmth and outward flow"
+  - consonant: w
+    name: "W — Will · Boundary-of-intention · Ethics"
+    character: "directed desire"
+  - consonant: v
+    name: "V — Value · Voice · Exchange"
+    character: "expressed worth"
+  - consonant: z
+    name: "Z — Living organism · Perception · Mutual exchange"
+    character: "animate interaction"
+  - consonant: g
+    name: "G — Cause · Growth-origin · Grammar"
+    character: "generative chain"
+
+roots:
+  # Entities and Substances
+  - cv: mu
+    gloss: "object / artifact"
+    family: m
+    category: "Entities & Substances"
+    includes: "physical non-living artifacts, tools, devices"
+    excludes: "living agents, abstract concepts"
+    vowel_register: "interior — matter organized into intentional form"
+    status: active
+
+  - cv: ma
+    gloss: "matter / substance"
+    family: m
+    category: "Entities & Substances"
+    includes: "raw unformed material, physical substrate"
+    excludes: "structured objects, living tissue"
+    vowel_register: "abstract — universal material ground"
+    status: active
+
+  - cv: zo
+    gloss: "living thing"
+    family: z
+    category: "Entities & Substances"
+    includes: "any organism: plant, animal, fungus, microbe"
+    excludes: "non-living matter, abstract agents"
+    vowel_register: "collective — organisms as the distributed living world"
+    status: active
+
+  - cv: li
+    gloss: "social agent / person"
+    family: l
+    category: "Entities & Substances"
+    includes: "conscious intentional actor, social being"
+    excludes: "implies zo unless combined with mu; excludes non-intentional life"
+    vowel_register: "particular — the precise person"
+    status: active
+
+  # Processes and Change
+  - cv: ki
+    gloss: "motion"
+    family: k
+    category: "Processes & Change"
+    includes: "physical movement, displacement, travel"
+    excludes: "transformation, change of state, growth — use be/de compounds"
+    vowel_register: "particular — movement within a bounded trajectory"
+    status: active
+
+  - cv: ka
+    gloss: "intentional action"
+    family: k
+    category: "Processes & Change"
+    includes: "deliberate acts, operations, exertion of will"
+    excludes: "passive or involuntary processes"
+    vowel_register: "abstract — intentional enclosure of causality"
+    status: active
+
+  - cv: be
+    gloss: "growth / increase"
+    family: b
+    category: "Processes & Change"
+    includes: "building up, generation, emergence, gain"
+    excludes: "reduction, destruction, motion without change"
+    vowel_register: "emergent — the forming, building, rising state"
+    status: active
+
+  - cv: de
+    gloss: "decay / decrease"
+    family: d
+    category: "Processes & Change"
+    includes: "breaking down, ending, entropy, loss"
+    excludes: "growth, construction"
+    vowel_register: "emergent — the thing moving toward its end"
+    status: active
+
+  # Structure and Pattern
+  - cv: su
+    gloss: "structure / order"
+    family: s
+    category: "Structure & Pattern"
+    includes: "physical arrangement, organization, system, spatial form"
+    excludes: "processes, raw material, mental models"
+    vowel_register: "interior — universal form / arrangement at broadest scope"
+    status: active
+
+  - cv: to
+    gloss: "conceptual pattern / thought"
+    family: t
+    category: "Structure & Pattern"
+    includes: "idea, plan, model, logic, knowledge, mental representation"
+    excludes: "physical structure, raw sensory data"
+    vowel_register: "collective — pattern at its most abstract"
+    status: active
+
+  - cv: fe
+    gloss: "boundary / limit"
+    family: f
+    category: "Structure & Pattern"
+    includes: "edge, category, distinction, threshold"
+    excludes: "internal content, connection"
+    vowel_register: "emergent — the threshold where one thing ends"
+    status: active
+
+  # Relations
+  - cv: ne
+    gloss: "relation / connection"
+    family: "n"
+    category: "Relations"
+    includes: "link, bond, membership, network"
+    excludes: "the entities themselves"
+    vowel_register: "emergent — bond as universal abstract"
+    status: active
+
+  - cv: pe
+    gloss: "part / component"
+    family: p
+    category: "Relations"
+    includes: "piece, element, member of a whole"
+    excludes: "the whole, the relation"
+    vowel_register: "emergent — a piece in context of a whole"
+    status: active
+
+  - cv: go
+    gloss: "cause / origin"
+    family: g
+    category: "Relations"
+    includes: "reason, source, trigger"
+    excludes: "result, the caused event"
+    vowel_register: "collective — the distributed origin of causal chains"
+    status: active
+
+  - cv: du
+    gloss: "result / effect"
+    family: d
+    category: "Relations"
+    includes: "outcome, product, consequence"
+    excludes: "cause, process"
+    vowel_register: "interior — what emerges from a process"
+    status: active
+
+  - cv: zi
+    gloss: "mutual / coupling event"
+    family: z
+    category: "Relations"
+    includes: "bilateral transformation events; reciprocal exchange; events where two participants are simultaneously modified"
+    excludes: "static relation (use ne); directed causation (use go/du); single-participant change (use be/de/ki); energetic resonance state (use ne-ra)"
+    vowel_register: "particular — the precise bilateral exchange"
+    status: active
+
+  # Space and Location
+  - cv: pa
+    gloss: "place / space"
+    family: p
+    category: "Space & Location"
+    includes: "location, region, physical topology"
+    excludes: "containment/interior (use ko), time, abstract logical space"
+    vowel_register: "abstract — location as the abstract dimension of parthood"
+    status: active
+
+  - cv: di
+    gloss: "direction"
+    family: d
+    category: "Space & Location"
+    includes: "toward, away, path, orientation"
+    excludes: "location itself"
+    vowel_register: "particular — the exact trajectory"
+    status: active
+
+  - cv: ko
+    gloss: "containment / interior"
+    family: k
+    category: "Space & Location"
+    includes: "inside, enclosed space, container, boundary-interior"
+    excludes: "exterior, direction, mere location"
+    vowel_register: "collective — enclosed space; the family center"
+    status: active
+
+  # Time
+  - cv: ti
+    gloss: "time / sequence"
+    family: t
+    category: "Time"
+    includes: "moment, duration, order of events"
+    excludes: "location, abstract cycles"
+    vowel_register: "particular — pattern as temporal instance"
+    status: active
+
+  - cv: re
+    gloss: "repetition / cycle"
+    family: r
+    category: "Time"
+    includes: "recurrence, rhythm, iteration"
+    excludes: "single events"
+    vowel_register: "emergent — the pattern that returns"
+    status: active
+
+  # Perception and Information
+  - cv: se
+    gloss: "perception / sense"
+    family: s
+    category: "Perception & Information"
+    includes: "raw sensory awareness: sight, hearing, touch, detection"
+    excludes: "processed knowledge (use to), encoded signal (use si)"
+    vowel_register: "emergent — raw, forming, unprocessed signal"
+    status: active
+
+  - cv: so
+    gloss: "sound / acoustic signal"
+    family: s
+    category: "Perception & Information"
+    includes: "acoustic signal, spoken signal, audio"
+    excludes: "other senses, encoded/written signal"
+    vowel_register: "collective — the acoustic field"
+    status: active
+
+  - cv: lu
+    gloss: "light / visibility"
+    family: l
+    category: "Perception & Information"
+    includes: "visual signal, illumination, electromagnetic visibility"
+    excludes: "sound, other senses"
+    vowel_register: "interior — illumination as the foundational condition of visual experience"
+    status: active
+
+  - cv: si
+    gloss: "signal / representation"
+    family: s
+    category: "Perception & Information"
+    includes: "any encoded information: symbol, sign, data, language, code"
+    excludes: "raw unencoded perception (use se), interpreted meaning (use to)"
+    vowel_register: "particular — the discrete encoded signal"
+    status: active
+
+  # Mind and Value
+  - cv: vo
+    gloss: "value / quality"
+    family: v
+    category: "Mind & Value"
+    includes: "worth, evaluation, degree, intensity"
+    excludes: "factual properties"
+    vowel_register: "collective — quality as a distributed property"
+    status: active
+
+  - cv: wi
+    gloss: "will / intention"
+    family: w
+    category: "Mind & Value"
+    includes: "goal, desire, purpose"
+    excludes: "knowledge, action itself"
+    vowel_register: "particular — the precise directed desire"
+    status: active
+
+  - cv: no
+    gloss: "negation / absence"
+    family: "n"
+    category: "Mind & Value"
+    includes: "not, lack, removal"
+    excludes: "presence, addition"
+    vowel_register: "collective — the slot where connection is not"
+    status: active
+
+  # Quantity
+  - cv: nu
+    gloss: "quantity / number"
+    family: "n"
+    category: "Quantity"
+    includes: "count, measure, amount"
+    excludes: "type, quality"
+    vowel_register: "interior — the precise counting dimension"
+    status: active
+
+  - cv: ru
+    gloss: "unity / singularity"
+    family: r
+    category: "Quantity"
+    includes: "one, individual, whole"
+    excludes: "plurality"
+    vowel_register: "interior — the whole held together from within"
+    status: active
+
+  - cv: pu
+    gloss: "plurality / collective"
+    family: p
+    category: "Quantity"
+    includes: "many, group, set"
+    excludes: "individual"
+    vowel_register: "interior — interior-distributed parthood"
+    status: active
+
+  # Energy and Force
+  - cv: ra
+    gloss: "energy / force"
+    family: r
+    category: "Energy & Force"
+    includes: "power, charge, capacity to cause change, kinetic force"
+    excludes: "thermal state of matter (use ha), structure, information, motion itself"
+    vowel_register: "abstract — universal capacity to cause change"
+    status: active
+
+  - cv: ha
+    gloss: "heat / thermal state"
+    family: h
+    category: "Energy & Force"
+    includes: "temperature, warmth, coldness as matter-property, thermal intensity"
+    excludes: "energy as force (use ra), light (use lu), sound (use so)"
+    vowel_register: "abstract — the universal warmth property of matter"
+    status: active
+
+  # Affective Substrate
+  - cv: fa
+    gloss: "affective substrate"
+    family: f
+    category: "Affective Substrate"
+    includes: "inward-facing felt tone of organism state: mood substrate, arousal level, valence of internal chemistry, pre-conceptual affect"
+    excludes: "named emotions (use process constructions), external sensory detection (use se), conceptual knowledge (use to)"
+    vowel_register: "abstract — interior felt state; the u-register of force"
+    status: active
+
+  # Pronouns (reserved CV slots, not primitives but needed for builder)
+  - cv: mi
+    gloss: "first-person singular (I / me)"
+    family: m
+    category: "Pronouns"
+    includes: "speaker self-reference"
+    excludes: null
+    vowel_register: "particular — the singular point of interiority"
+    status: reserved
+
+  - cv: ze
+    gloss: "anaphoric (it / that)"
+    family: z
+    category: "Pronouns"
+    includes: "the referent just named"
+    excludes: null
+    vowel_register: "emergent — the thing just named, now carried forward"
+    status: reserved
