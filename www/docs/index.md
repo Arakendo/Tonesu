@@ -1,52 +1,129 @@
+---
+title: Tonesu
+description: A constructed language built on generative roots — every word is audible as its own definition.
+hide:
+  - navigation
+  - toc
+---
+
+<div class="tn-hero" markdown>
+
 # Tonesu
 
-**A compositional language designed to support clearer thinking.**
+**A constructed language built on generative roots.**  
+Every word is audible as its own definition.
 
-Words in Tonesu are built from primitive concepts rather than memorised as arbitrary vocabulary.
-Meaning emerges from structure: by combining a small set of roots according to clear rules, speakers can construct and interpret new ideas without needing a dictionary.
+[Get started](tonesu/index.md){ .md-button .md-button--primary }
+[Word registry](tonesu/registry/index.md){ .md-button }
 
-The name is itself an example. **Tonesu** is the spoken contraction of `to-ne-su` — *pattern · relation · structure* — organised knowledge. The language is named after what it aspires to express.
-
----
-
-> **Tonesu does not enforce truth. It enforces clarity about the epistemic status of claims.**
->
-> The grammar provides tools to mark what kind of claim you are making — direct perception, inference, reported speech, or registered knowledge. Whether the claim is accurate is outside the language's scope.
+</div>
 
 ---
 
-## Design goals
+<div class="tn-tagline" markdown>
 
-- **Phonetically simple** — globally pronounceable; one letter per sound; stress always on the first syllable
-- **Compositionally transparent** — words are built from audible conceptual parts, not memorised atoms
-- **Domain-extensible** — new conceptual fields emerge by combining existing roots; the language doesn't break when knowledge expands
-- **Minimal irregularity** — grammar and morphology are regular by default; exceptions require justification
+> Tonesu does not enforce truth. It enforces **clarity about the epistemic status of claims.**
 
-A small closed set of **34 primitive roots** (`mu`, `ki`, `to`, `go`, `ne`…) serves as the foundation. Everything else is assembled from them.
+</div>
 
 ---
 
-## Three ways in
+## Three ways in { .tn-section-title }
 
-The site is divided into three sections. Each section name is itself a Tonesu word, showing the language working on itself.
+<div class="grid cards tn-cards" markdown>
 
-### [Tonesu](tonesu/index.md) — the language, formalized
+-   :material-book-open-variant:{ .lg } **Tonesu — the language**
 
-`tonesu` :: the word itself — *pattern-relation-structure*, the name of the language.
+    ---
 
-Phonology, grammar, notation, morphology, the primitive root inventory, and the registered word registry. Everything that is fixed and normative. **Start here if you are new.**
+    Phonology, grammar, notation, morphology, the 34 primitive roots, and the registered word registry. Everything that is fixed and normative.
 
-### [Totonesu](totonesu/index.md) — the language in use
+    **Start here if you are new.**
 
-`to-tonesu` :: *knowledge-of-Tonesu* — the language's own conceptual vocabulary applied reflexively.
+    [`tonesu` :: pattern · relation · structure](tonesu/index.md)
 
-The `to-` prefix (pattern / conceptual knowledge) marks this as the *body of knowledge that Tonesu has produced*: the corpus of attested sentences, worked examples, and translation tests.
+-   :material-text-box-multiple:{ .lg } **Totonesu — the language in use**
 
-### [To'tonesu](to-tonesu/index.md) — the theory of the language
+    ---
 
-`to'tonesu` :: *knowledge [standing apart] from Tonesu* — the juncture `'` signals a pre-bound subcompound, so `to` modifies the whole of `tonesu` from outside rather than compounding into it.
+    The corpus of attested sentences, worked examples, and translation stress tests — the language's own conceptual vocabulary applied reflexively.
 
-The `'` juncture marks a structural break: this section steps back from the language to examine it — productive patterns, design principles, and the reasoning behind specific decisions.
+    [`to-tonesu` :: knowledge-of-Tonesu](totonesu/index.md)
+
+-   :material-puzzle-outline:{ .lg } **To'tonesu — the theory**
+
+    ---
+
+    Productive patterns, design principles, and the reasoning behind specific decisions. Steps back from the language to examine it.
+
+    [`to'tonesu` :: knowledge standing apart from Tonesu](to-tonesu/index.md)
+
+</div>
+
+---
+
+## How it works { .tn-section-title }
+
+Words are composed from a **closed set of 34 two-letter roots** following a single rule: modifier precedes head, right-branching.
+
+<div class="grid tn-example-grid" markdown>
+
+<div markdown>
+
+```
+to   pattern / thought
+li   person / agent
+```
+
+**`toli`** — scholar  
+`to` modifies `li`: pattern-person
+
+</div>
+
+<div markdown>
+
+```
+to   pattern / thought
+ki   change / motion
+mu   object / device
+```
+
+**`tokimu`** — computer  
+pattern-change-device
+
+</div>
+
+<div markdown>
+
+```
+no   negation / absence
+ha   heat / warmth
+```
+
+**`noha`** — cold  
+absence-of-heat
+
+</div>
+
+<div markdown>
+
+```
+to-no-fe
+```
+
+**`tonofe`** — omniscience  
+pattern + no-boundary:  
+knowledge without limit
+
+</div>
+
+</div>
+
+The word shape itself encodes what *kind* of thing it is — primitive root, compound, digit, or physical constant — with no additional markers needed.
+
+[Explore the word registry](tonesu/registry/index.md){ .md-button }
+[Try the word builder](tonesu/builder.md){ .md-button }
+
 
 ---
 
