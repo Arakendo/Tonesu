@@ -309,4 +309,4 @@ See also: [Alphabetical list](index.md) · [By domain](by-domain.md)
 
 ---
 
-*Generated from [`registry/derived/index.md`](https://github.com/Arakendo/Tonesu/blob/main/registry/derived/index.md).*
+*Generated from [`registry/entries.yaml`](https://github.com/Arakendo/Tonesu/blob/main/registry/entries.yaml).*
