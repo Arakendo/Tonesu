@@ -1,61 +1,94 @@
 # Sounds
 
-Tonesu uses a small, globally pronounceable sound inventory. The goal is that speakers of major world languages can approximate every sound without special training.
+Tonesu uses a small, globally pronounceable sound inventory. No special training is required — every sound approximates something in a major world language.
+
+**One letter = one sound. No silent letters, no digraphs, no exceptions.**
 
 ---
 
 ## Consonants
 
-| Symbol | Sounds like | Example |
-|--------|-------------|---------|
-| `p` | **p** in *spin* | `pa` |
-| `b` | **b** in *ban* | `be` |
-| `t` | **t** in *stop* | `to` |
-| `d` | **d** in *dog* | `di` |
-| `k` | **k** in *skip* | `ka` |
-| `g` | **g** in *go* | `go` |
-| `m` | **m** in *man* | `mu` |
-| `n` | **n** in *no* | `ne` |
-| `s` | **s** in *sun* | `su` |
-| `z` | **z** in *zoo* | `zo` |
-| `l` | **l** in *let* | `li` |
-| `r` | flap or trill | `re` |
-| `f` | **f** in *fan* | `fe` |
-| `h` | **h** in *hat* | `ha` |
-| `y` | **y** in *yes* | `yu` |
-| `w` | **w** in *win* | `wi` |
-| `v` | **v** in *vine* | `vo` |
+17 consonants. Excluded by design: `th`, `x`, `q`, `c` (redundant with k/s), uvulars, retroflexes, ejectives, clicks.
 
-17 consonants total. No silent letters, no digraphs, no context-dependent shifts.
+| Symbol | Sounds like | Primitive root |
+|--------|-------------|---------------|
+| `p` | **p** in *spin* | `pa` — place |
+| `b` | **b** in *ban* | `be` — growth |
+| `t` | **t** in *stop* | `to` — thought/pattern |
+| `d` | **d** in *dog* | `di` — direction |
+| `k` | **k** in *skip* | `ka` — action |
+| `g` | **g** in *go* | `go` — cause |
+| `m` | **m** in *man* | `mu` — object |
+| `n` | **n** in *no* | `ne` — relation |
+| `s` | **s** in *sun* | `su` — structure |
+| `z` | **z** in *zoo* | `zo` — living thing |
+| `l` | **l** in *let* | `li` — person |
+| `r` | flap or trill, not retroflex | `re` — repetition |
+| `f` | **f** in *fan* | `fe` — boundary |
+| `h` | **h** in *hat* | `ha` — heat |
+| `y` | **y** in *yes* | — |
+| `w` | **w** in *win* | `wi` — will |
+| `v` | **v** in *vine* | `vo` — value |
 
 ---
 
 ## Vowels
 
-| Symbol | Sounds like |
-|--------|-------------|
-| `a` | *father* |
-| `e` | *bed* |
-| `i` | *feet* |
-| `o` | *go* |
-| `u` | *food* |
+5 vowels — pure, consistent, no context-dependent shifts.
+
+| Symbol | Sounds like | Primitive root |
+|--------|-------------|---------------|
+| `a` | *father* | `ma` — matter |
+| `e` | *bed* | `se` — perception |
+| `i` | *feet* | `si` — signal |
+| `o` | *go* | `so` — sound |
+| `u` | *food* | `mu` — object |
 
 ---
 
-## Syllable shape
+## Syllable shapes and tiers
 
-Every syllable in Tonesu follows the pattern **(C)V(C)** — an optional consonant, a vowel, an optional closing consonant.
+Every word's shape tells you what kind of thing it is. There are four structural tiers:
 
-Most roots are **CV** — one consonant, one vowel: `ka`, `li`, `to`, `su`. These are the primitive roots, the building blocks of the language.
+| Shape | Tier | What lives here | Example |
+|-------|------|-----------------|---------|
+| CV | Primitive root | The 34 foundational roots | `to`, `li`, `go` |
+| CV-CV+ | Compound | Open vocabulary assembled from roots | `toli` (scholar), `rakimu` (engine) |
+| CVC | Lexical atom | Digits, colors, scale prefixes — closed classes | `kel`, `sun` |
+| CVCC | Exceptional anchor | Mathematical/physical constants only | `varn` |
 
-**Stress is always on the first syllable.** `KA-ru`, `LI-na-se`, `SU-mu-to`.
+**Every internal syllable in a compound begins with a consonant.** This means you can always segment a compound left-to-right without backtracking. The parser never needs to guess.
+
+---
+
+## Stress
+
+**Stress always falls on the first syllable.** No exceptions, no marking needed.
+
+- `KA-ru` · `LI-na-se` · `SU-mu-to` · `TO-li` · `RA-ki-mu`
 
 ---
 
 ## Writing
 
-Written Tonesu is **solid** — compound words are written without spaces or hyphens between their roots. The word for "scholar" is written `toli`, not `to-li`.
+Written Tonesu is **solid** — compounds are written without spaces or hyphens between roots. The word for *scholar* is `toli`, not `to-li`.
 
-The only exception is the apostrophe `'`, which marks a structural boundary inside a long compound. See [Notation](notation.md) for details.
+The apostrophe `'` is the only normative non-alphabetic character in a word. It marks a structural grouping boundary inside a long compound. See [Notation](notation.md).
+
+Analytic forms like `to-li` (hyphenated) appear in guides and parse breakdowns to show structure — but they are metalinguistic notation, not the written word itself.
+
+---
+
+## Scope-modifier prefixes
+
+A bare vowel at the start of a compound adjusts its register or scope without adding lexical content:
+
+| Prefix | Effect | Example |
+|--------|--------|---------|
+| `a-` | abstract / universal | `ato` — knowing-in-general |
+| `i-` | precise / particular | `itoli` — this specific scholar |
+| `u-` | interior / foundational | `uto` — tacit knowledge |
+| `o-` | collective | `oli` — community as a unit |
+| `e-` | emergent / in-process | `eki` — change in progress |
 
 When roots are shown with hyphens in these pages — like `to-li` — that is an *analytic notation* to help you see the structure. Those hyphens are not part of the word.

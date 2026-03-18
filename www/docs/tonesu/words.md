@@ -142,3 +142,56 @@ rasu  (ra-su)   algebraic reading:  energy structure
 ```
 
 Most of the words in [the word list](registry.md) are at stage 3. Many useful compounds never need registration — their meaning falls directly out of the structure every time.
+
+---
+
+## Productive patterns
+
+These patterns apply across any compatible root, generating whole families of words with the same logic.
+
+### `X-li` — person who does / embodies X
+
+| Written | Parse | Meaning |
+|---------|-------|---------|
+| `toli` | `to-li` | scholar, knower |
+| `soli` | `so-li` | speaker, linguist |
+| `rakili` | `ra-ki-li` | engineer |
+| `voli` | `vo-li` | judge, evaluator |
+
+### `X-mu` — device, tool, or artifact for X
+
+| Written | Parse | Meaning |
+|---------|-------|---------|
+| `rakimu` | `ra-ki-mu` | engine, motor |
+| `tokimu` | `to-ki-mu` | computer |
+| `simu` | `si-mu` | document, storage medium |
+| `semu` | `se-mu` | sensor |
+
+### `no-X` — absence or negation of X
+
+| Written | Parse | Meaning |
+|---------|-------|---------|
+| `noha` | `no-ha` | cold (absence of heat) |
+| `node` | `no-de` | preservation (non-decay) |
+| `noru` | `no-ru` | incoherence (lacking unity) |
+| `nonefe` | `no-ne-fe` | free-standing (no dependency) |
+
+### `X-no-fe` — X without a limiting boundary (extremal)
+
+| Written | Parse | Meaning |
+|---------|-------|---------|
+| `tonofe` | `to-no-fe` | omniscience |
+| `ranofe` | `ra-no-fe` | omnipotence |
+| `panofe` | `pa-no-fe` | omnipresence |
+| `tinofe` | `ti-no-fe` | eternal |
+| `nunofe` | `nu-no-fe` | mathematical infinity |
+
+### `X-be` / `X-de` — something increasing or decreasing along dimension X
+
+| Written | Parse | Meaning |
+|---------|-------|---------|
+| `tibe` | `ti-be` | the future (time-increase) |
+| `tide` | `ti-de` | the past (time-decrease) |
+| `vobe` | `vo-be` | improvement |
+| `hade` | `ha-de` | cooling |
+| `rade` | `ra-de` | power failure, deceleration |
