@@ -481,6 +481,12 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
   padding: .25rem .5rem;
 }
 
+.rb-chip--modifier {
+  background: #fce56614;
+  border-color: #fce56666;
+  --chip-color: #fce566;
+}
+
 .rb-chip-cv {
   color: var(--chip-color, #f7f1ff);
   font-weight: 700;

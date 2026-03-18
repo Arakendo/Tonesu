@@ -253,7 +253,7 @@
     title.textContent = 'Chain';
     node.appendChild(title);
 
-    if (chain.length === 0) {
+    if (chain.length === 0 && !prefixMod && !suffixMod) {
       var empty = mk('p', 'rb-empty');
       empty.textContent = 'No roots selected yet.';
       node.appendChild(empty);
@@ -261,6 +261,26 @@
     }
 
     var chipRow = mk('div', 'rb-chip-row');
+
+    // Prefix chip
+    if (prefixMod) {
+      var pChip = mk('div', 'rb-chip rb-chip--modifier');
+      var pLabel = mk('span', 'rb-chip-cv');
+      pLabel.textContent = prefixMod;
+      pChip.appendChild(pLabel);
+      var pGloss = mk('span', 'rb-chip-gloss');
+      var pMeta = SCOPE_MODS.find(function (m) { return m.prefix === prefixMod; });
+      pGloss.textContent = pMeta ? pMeta.gloss : 'prefix';
+      pChip.appendChild(pGloss);
+      var pRm = mk('button', 'rb-chip-rm');
+      pRm.textContent = '\xd7';
+      pRm.title = 'Remove prefix';
+      pRm.addEventListener('click', function () { prefixMod = ''; refresh(); });
+      pChip.appendChild(pRm);
+      chipRow.appendChild(pChip);
+    }
+
+    // Root chips
     chain.forEach(function (cv, i) {
       var col  = FAMILY_COLORS[cv[0]] || '#888';
       var root = allData.primitives.find(function (r) { return r.cv === cv; });
@@ -288,15 +308,36 @@
 
       chipRow.appendChild(chip);
     });
+
+    // Suffix chip
+    if (suffixMod) {
+      var sChip = mk('div', 'rb-chip rb-chip--modifier');
+      var sLabel = mk('span', 'rb-chip-cv');
+      sLabel.textContent = suffixMod;
+      sChip.appendChild(sLabel);
+      var sGloss = mk('span', 'rb-chip-gloss');
+      var sMeta = SUFFIXES.find(function (s) { return s.sfx === suffixMod; });
+      sGloss.textContent = sMeta ? sMeta.gloss : 'suffix';
+      sChip.appendChild(sGloss);
+      var sRm = mk('button', 'rb-chip-rm');
+      sRm.textContent = '\xd7';
+      sRm.title = 'Remove suffix';
+      sRm.addEventListener('click', function () { suffixMod = ''; refresh(); });
+      sChip.appendChild(sRm);
+      chipRow.appendChild(sChip);
+    }
+
     node.appendChild(chipRow);
 
-    // Gloss summary
-    var glossLine = mk('p', 'rb-gloss-line');
-    glossLine.textContent = chain.map(function (cv) {
-      var r = allData.primitives.find(function (p) { return p.cv === cv; });
-      return r ? r.gloss : cv;
-    }).join(' + ');
-    node.appendChild(glossLine);
+    // Gloss summary (roots only)
+    if (chain.length > 0) {
+      var glossLine = mk('p', 'rb-gloss-line');
+      glossLine.textContent = chain.map(function (cv) {
+        var r = allData.primitives.find(function (p) { return p.cv === cv; });
+        return r ? r.gloss : cv;
+      }).join(' + ');
+      node.appendChild(glossLine);
+    }
   }
 
   // ── Registry lookup panel ─────────────────────────────────────────────────
