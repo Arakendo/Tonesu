@@ -91,7 +91,9 @@ sentences:
   tonesu: la-to-li  lo-[to-su-mu]  ka-design  ta-past
   gloss_line: agent:knower/scholar  patient:[knowledge-structure-device]  action:design  time:past
   natural: The scholar designed the database.
-  words_attested: []
+  words_attested:
+  - W003
+  - W010
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -147,7 +149,9 @@ sentences:
   tonesu: la zo-li  lo si-ko-mu  ka-be
   gloss_line: agent:living-person  patient:signal-contain-artifact  action:generate
   natural: People create information-storage artifacts.
-  words_attested: []
+  words_attested:
+  - W067
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -231,7 +235,8 @@ sentences:
   tonesu: la-li-be  lo-ma  ka-ko
   gloss_line: agent:young-person  patient:matter/water  action:contain/ingest
   natural: The child drinks water.
-  words_attested: []
+  words_attested:
+  - W033
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -245,7 +250,8 @@ sentences:
   tonesu: ro-mu  lo-zo-ma  ka-fe
   gloss_line: instrument:artifact  patient:organic-matter  action:divide/cut
   natural: With a tool, one cuts wood. / A tool cuts wood.
-  words_attested: []
+  words_attested:
+  - W163
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -273,7 +279,8 @@ sentences:
   tonesu: la-to-ki-mu  lo-si  ka-ko
   gloss_line: agent:computation-device  patient:signal/data  action:contain
   natural: The machine stores information.
-  words_attested: []
+  words_attested:
+  - W011
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -301,7 +308,8 @@ sentences:
   tonesu: la-su-mu-li  lo-mu  ka-se-past
   gloss_line: agent:engineer  patient:machine  action:perceive/inspect-PAST
   natural: The engineer inspected the machine.
-  words_attested: []
+  words_attested:
+  - W002
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -343,7 +351,8 @@ sentences:
   tonesu: go [la-ra-ki  lo-su-mu  de]  du [de-ki]
   gloss_line: cause [agent:storm  patient:structure-artifact  decay]  result [enter-decay]
   natural: 'Because [the storm decayed the structure], result: [collapse].'
-  words_attested: []
+  words_attested:
+  - W038
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -371,7 +380,8 @@ sentences:
   tonesu: la-to-su-mu  vo
   gloss_line: agent:archive  quality/value
   natural: The archive has value.
-  words_attested: []
+  words_attested:
+  - W010
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -427,7 +437,8 @@ sentences:
   tonesu: la-ra-ki-mu  ha-fe
   gloss_line: agent:engine  thermal-boundary
   natural: The engine [is at] a thermal limit.
-  words_attested: []
+  words_attested:
+  - W012
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -482,8 +493,10 @@ sentences:
   status: legacy
   tonesu: la-ra-ki-mu  wi [lo-ha  no-fe]
   gloss_line: agent:reactor  intention [patient:thermal-state  not-at-boundary]
-  natural: The reactor [must have] the intention [that its thermal state not reach the boundary].
-  words_attested: []
+  natural: The reactor [must have] the intention [that its thermal state not reach
+    the boundary].
+  words_attested:
+  - W012
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -511,7 +524,8 @@ sentences:
   tonesu: lo-to-fe-su  to-to-su
   gloss_line: patient:concept-boundary-arrangement  concept-of-concepts-arrangement
   natural: The standards framework is a system of meta-concepts.
-  words_attested: []
+  words_attested:
+  - W072
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -525,7 +539,8 @@ sentences:
   tonesu: lo-ne-su  su-su
   gloss_line: patient:connection-arrangement  structure-of-structures
   natural: A network is a meta-structure / has an architectural form.
-  words_attested: []
+  words_attested:
+  - W031
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -553,7 +568,8 @@ sentences:
   tonesu: la-si-mu  ka  se-se
   gloss_line: agent:signal-device  does  perception-of-perception
   natural: The relay device performs sensor self-monitoring.
-  words_attested: []
+  words_attested:
+  - W039
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -567,7 +583,8 @@ sentences:
   tonesu: lo-ki-ne  ne-ne
   gloss_line: patient:motion-connection  relation-of-connections
   natural: The transit grid has a topological structure.
-  words_attested: []
+  words_attested:
+  - W152
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -581,7 +598,8 @@ sentences:
   tonesu: la-to-fe-li  wi  to-to-se-ma-ka
   gloss_line: agent:concept-boundary-person  intends  concept-concept-perception-matter-action
   natural: The standards adjudicator operates through [???].
-  words_attested: []
+  words_attested:
+  - W032
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -592,10 +610,13 @@ sentences:
   batch: T-APO-002
   batch_sub: null
   status: normative
-  tonesu: 'la-to-li  ka  to-to''ma-li''ne-se-to Parse:    to-to modifies [ma-li modifies [ne-se-to]]'
+  tonesu: 'la-to-li  ka  to-to''ma-li''ne-se-to Parse:    to-to modifies [ma-li modifies
+    [ne-se-to]]'
   gloss_line: agent:concept-person  does  meta-concept [embodied-person [perceptual-conceptual-relation]]
-  natural: Tonesu scholars engage in the meta-theory of how embodied persons build conceptual relations from perception.
-  words_attested: []
+  natural: Tonesu scholars engage in the meta-theory of how embodied persons build
+    conceptual relations from perception.
+  words_attested:
+  - W003
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -623,7 +644,8 @@ sentences:
   tonesu: lo-zo-li  no-ma  go  de
   gloss_line: patient:person  absence-substance  cause  decay
   natural: For the person, absence of substance causes decay.
-  words_attested: []
+  words_attested:
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -636,8 +658,11 @@ sentences:
   status: normative
   tonesu: lo-zo-li  ne-fe  ma
   gloss_line: patient:person  dependency-condition  substance
-  natural: The person needs substance / the person is in a dependency-condition toward substance.
-  words_attested: []
+  natural: The person needs substance / the person is in a dependency-condition toward
+    substance.
+  words_attested:
+  - W042
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -651,7 +676,10 @@ sentences:
   tonesu: lo-li-be  ne-fe  zo-no-ki
   gloss_line: patient:child  dependency-condition  living-non-motion
   natural: The child needs sleep / rest.
-  words_attested: []
+  words_attested:
+  - W033
+  - W042
+  - W043
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -665,7 +693,9 @@ sentences:
   tonesu: lo-mu  ne-fe  ha-de
   gloss_line: patient:artifact  dependency-condition  thermal-decrease
   natural: The machine needs cooling.
-  words_attested: []
+  words_attested:
+  - W042
+  - W044
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -679,7 +709,9 @@ sentences:
   tonesu: lo-li-pu-pa  ne-fe  ma
   gloss_line: patient:city  dependency-condition  substance
   natural: The city needs water / substance supply.
-  words_attested: []
+  words_attested:
+  - W036
+  - W042
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -693,7 +725,9 @@ sentences:
   tonesu: lo-li-pu  ne-fe  wi-to
   gloss_line: patient:collective  dependency-condition  intentional-pattern
   natural: The team needs a plan / purposive structure.
-  words_attested: []
+  words_attested:
+  - W042
+  - W045
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -707,7 +741,10 @@ sentences:
   tonesu: lo-zo-li  ta-ti-now  no-ne-fe  ma-no-de
   gloss_line: patient:person  at-present-time  non-dependency-condition  preserving-substance
   natural: The person currently does not need medicine.
-  words_attested: []
+  words_attested:
+  - W046
+  - W075
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -721,7 +758,9 @@ sentences:
   tonesu: lo-ko-pa  ha-vo  nu-be  lo-ki-pa
   gloss_line: patient:contained-place  thermal-quality  more-than  patient:motion-place
   natural: The room has more thermal quality than the corridor.
-  words_attested: []
+  words_attested:
+  - W048
+  - W049
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -735,7 +774,8 @@ sentences:
   tonesu: lo-mu  pa-nu  nu-be  lo-mu-ne
   gloss_line: patient:artifact  space-quantity  more-than  patient:reference-artifact
   natural: The machine has greater spatial magnitude than the related artifact.
-  words_attested: []
+  words_attested:
+  - W050
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -749,7 +789,9 @@ sentences:
   tonesu: lo-li-be  ta-ti-now  zo-de  nu-no  ta-ti-de
   gloss_line: patient:child  at-present-time  organism-decay  less-than  past-time-interval
   natural: The child has less fatigue now than at the past time.
-  words_attested: []
+  words_attested:
+  - W033
+  - W051
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -763,7 +805,9 @@ sentences:
   tonesu: lo-si  ra-vo  nu-be  lo-si-fe
   gloss_line: patient:signal  energy-quality  more-than  patient:signal-boundary
   natural: The signal has greater energy intensity than the signal threshold.
-  words_attested: []
+  words_attested:
+  - W070
+  - W071
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -777,7 +821,8 @@ sentences:
   tonesu: la-ko-mu  ko  lo-ma-di
   gloss_line: agent:containment-artifact  containment-state  patient:liquid-matter
   natural: The vessel holds water.
-  words_attested: []
+  words_attested:
+  - W052
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -791,7 +836,8 @@ sentences:
   tonesu: la-ze  lo-si-ko-mu  ka-ko
   gloss_line: agent:she  patient:stored-signal-artifact  action:intentional-containment
   natural: She stored / deliberately placed the document into containment.
-  words_attested: []
+  words_attested:
+  - W067
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -805,7 +851,8 @@ sentences:
   tonesu: la-si-su  ko  lo-si-ko-mu
   gloss_line: agent:encoded-structure  containment-state  patient:stored-signal-artifact
   natural: The archive holds documents / records.
-  words_attested: []
+  words_attested:
+  - W067
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -819,7 +866,8 @@ sentences:
   tonesu: la-ze  lo-ka-mu  ne-ko-mu  ka-ko
   gloss_line: agent:he  patient:tool  toward:container  action:intentional-containment
   natural: He placed the tool into the container.
-  words_attested: []
+  words_attested:
+  - W047
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -833,7 +881,8 @@ sentences:
   tonesu: la-ra-ki-li  se  lo-pa-ra
   gloss_line: agent:pilot  perceive  patient:space-energy
   natural: The pilot detected the spatial energy field.
-  words_attested: []
+  words_attested:
+  - W053
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -847,7 +896,9 @@ sentences:
   tonesu: la-wi-ka-su  lo-fe-su  be-past
   gloss_line: agent:ritual  patient:boundary-structure  grew
   natural: The ritual strengthened the ward.
-  words_attested: []
+  words_attested:
+  - W054
+  - W055
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -861,7 +912,8 @@ sentences:
   tonesu: la-ze  zo-se-ki
   gloss_line: agent:she  [living-perception]-enter
   natural: She entered the state of heightened bodily perception.
-  words_attested: []
+  words_attested:
+  - W060
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -889,7 +941,9 @@ sentences:
   tonesu: la-ti-mu  si-ki  no-to-ge
   gloss_line: agent:ancient-artifact  signals-outward  patternless-quality
   natural: The relic emits an anomalous signal.
-  words_attested: []
+  words_attested:
+  - W023
+  - W057
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -903,7 +957,8 @@ sentences:
   tonesu: la-yu  fe-ki  lo-fe-no-ka
   gloss_line: agent:they  boundary-cross  patient:prohibition-boundary
   natural: They crossed the boundary that action forbids.
-  words_attested: []
+  words_attested:
+  - W056
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -917,7 +972,9 @@ sentences:
   tonesu: la-di-ki-li  se  lo-se-to
   gloss_line: agent:navigator  perceive  patient:perception-concept
   natural: The navigator received a perceptual insight / vision.
-  words_attested: []
+  words_attested:
+  - W061
+  - W062
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -945,7 +1002,8 @@ sentences:
   tonesu: la-si-su  ko  lo-to-re-su
   gloss_line: agent:encoded-structure  contains  patient:recurring-organized-doctrine
   natural: The archive holds the canonical doctrine.
-  words_attested: []
+  words_attested:
+  - W064
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -959,7 +1017,9 @@ sentences:
   tonesu: lo-ti-mu  fe-vo
   gloss_line: patient:ancient-artifact  boundary-value
   natural: The relic has the quality of set-apart value.
-  words_attested: []
+  words_attested:
+  - W057
+  - W065
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -973,7 +1033,8 @@ sentences:
   tonesu: la-to-su-li  si-ki  ne-li-pu
   gloss_line: agent:knowledge-organizer  signal-outward  toward:collective
   natural: The doctrine keeper transmitted signal to the collective.
-  words_attested: []
+  words_attested:
+  - W023
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -987,7 +1048,8 @@ sentences:
   tonesu: la-ra-ki-li  ne-ra-ki  lo-mu
   gloss_line: agent:pilot  enter-energy-relation  patient:machine
   natural: The pilot enters into energetic resonance with the machine.
-  words_attested: []
+  words_attested:
+  - W059
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -1001,7 +1063,9 @@ sentences:
   tonesu: la-li-pu  to-re-su  si  lo-mu  zo-to
   gloss_line: agent:collective  recurring-doctrine  signals  patient:machine  living-pattern
   natural: The group's canonical doctrine signals that the machine has a living-pattern.
-  words_attested: []
+  words_attested:
+  - W064
+  - W068
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -1015,7 +1079,9 @@ sentences:
   tonesu: la-zo-si  lo-pa-wi-ka-su  no-de
   gloss_line: agent:living-signal  patient:ritual-place  preserve
   natural: The spirits preserve the ritual place.
-  words_attested: []
+  words_attested:
+  - W066
+  - W069
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -1029,7 +1095,9 @@ sentences:
   tonesu: la-to-li  lo-wi-to  be-past
   gloss_line: agent:knower/engineer  patient:plan  grew/changed-past
   natural: The engineer revised the plan.
-  words_attested: []
+  words_attested:
+  - W003
+  - W045
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -1043,7 +1111,9 @@ sentences:
   tonesu: la-to-li  lo-mu  wi-to  be-past
   gloss_line: agent:engineer  patient:machine  plan/design  grew/made-past
   natural: The engineer designed the machine.
-  words_attested: []
+  words_attested:
+  - W003
+  - W045
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -1057,7 +1127,8 @@ sentences:
   tonesu: lo-wi-re-su  ta-re-ti  be
   gloss_line: patient:will-recurring-structure  time:recurring-cycle  runs/executes
   natural: The recurring protocol executes each cycle.
-  words_attested: []
+  words_attested:
+  - W074
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -1085,7 +1156,9 @@ sentences:
   tonesu: la-ra-ki-li  lo-to-re-su  be  no  lo-wi-to
   gloss_line: agent:pilot  patient:canonical-doctrine  grew/followed  negation  patient:plan
   natural: The pilot followed the standing doctrine, not the mission plan.
-  words_attested: []
+  words_attested:
+  - W045
+  - W064
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -1099,7 +1172,9 @@ sentences:
   tonesu: la-li-su-li  lo-yu  lo-wi-to  ka-si-past
   gloss_line: agent:coordinator  patient:group  [relation:]plan  action:transmitted-past
   natural: The coordinator briefed the team on the plan.
-  words_attested: []
+  words_attested:
+  - W001
+  - W045
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -1113,7 +1188,8 @@ sentences:
   tonesu: la-yu  lo-wi-to-su  be-past  ta-ti-de  lo-ka-wi-de
   gloss_line: agent:group  patient:design-specification  grew/updated-past           time:before  patient:mission-departure
   natural: The team updated the design specification before the mission.
-  words_attested: []
+  words_attested:
+  - W073
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -1127,7 +1203,9 @@ sentences:
   tonesu: lo-di-ki-li  zo-ne-go  la-mi
   gloss_line: patient:navigator  living-kin-origin  agent:I
   natural: The navigator is my parent.
-  words_attested: []
+  words_attested:
+  - W061
+  - W077
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -1141,7 +1219,8 @@ sentences:
   tonesu: lo-ra-ki-li  zo-ne-du  la-mi
   gloss_line: patient:pilot  living-kin-result  agent:I
   natural: The pilot is my child.
-  words_attested: []
+  words_attested:
+  - W078
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -1155,7 +1234,8 @@ sentences:
   tonesu: lo-ra-ki-li  zo-ne-ru  la-mi
   gloss_line: patient:pilot  living-kin-unity  agent:I
   natural: The pilot is my sibling.
-  words_attested: []
+  words_attested:
+  - W079
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -1169,7 +1249,9 @@ sentences:
   tonesu: '[S096a]  lo-di-ki-li  zo-ne-go  la-mi'
   gloss_line: patient:pilot  living-kin-unity  patient:navigator
   natural: The pilot is the navigator's sibling.
-  words_attested: []
+  words_attested:
+  - W061
+  - W077
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -1183,7 +1265,9 @@ sentences:
   tonesu: lo-di-ki-li  zo-ne-go-re  la-mi
   gloss_line: patient:navigator  living-kin-origin-recurring  agent:I
   natural: The navigator is my ancestor.
-  words_attested: []
+  words_attested:
+  - W061
+  - W080
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -1197,7 +1281,8 @@ sentences:
   tonesu: lo-ra-ki-li  zo-ne-du-re  la-mi
   gloss_line: patient:pilot  living-kin-result-recurring  agent:I
   natural: The pilot is my descendant.
-  words_attested: []
+  words_attested:
+  - W081
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -1210,8 +1295,11 @@ sentences:
   status: normative
   tonesu: lo-di-ki-li  zo-ne-go  lo-ra-ki-li — lo-to-fe-ki-li  zo-ne-go  lo-di-ki-li
   gloss_line: patient:navigator  kin-origin  patient:pilot — patient:keeper  kin-origin  patient:navigator
-  natural: 'The navigator is the pilot''s parent. The keeper is the navigator''s parent.           [Therefore: the keeper is the pilot''s grandparent — by two-sentence path.]'
-  words_attested: []
+  natural: 'The navigator is the pilot''s parent. The keeper is the navigator''s parent.           [Therefore:
+    the keeper is the pilot''s grandparent — by two-sentence path.]'
+  words_attested:
+  - W061
+  - W077
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -1225,7 +1313,9 @@ sentences:
   tonesu: '[S100a]  lo-di-ki-li  zo-ne-go  la-mi'
   gloss_line: null
   natural: Someone is the pilot's child.
-  words_attested: []
+  words_attested:
+  - W061
+  - W077
   first_attests: []
   gap_refs: []
   source_file: sentences/s072-s100.md
@@ -1239,7 +1329,8 @@ sentences:
   tonesu: '[lo-ne-ra  ka-se]  lo-mu  ne-mi  ka-be'
   gloss_line: '[patient:resonance  perceived]  patient:machine  recipient:me  action:produce'
   natural: Build me the machine that perceived the resonance.
-  words_attested: []
+  words_attested:
+  - W058
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -1253,7 +1344,9 @@ sentences:
   tonesu: '[la-di-ki-li  ka-se]  lo-ne-ra  no-to-fe'
   gloss_line: '[agent:navigator  perceived]  patient:resonance  not-certified'
   natural: The resonance that the navigator perceived is uncertified.
-  words_attested: []
+  words_attested:
+  - W058
+  - W061
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -1267,21 +1360,26 @@ sentences:
   tonesu: la-mi  lo-si-ki  [lo-ne-ra  ka-se]  ne-mu  ka-be
   gloss_line: agent:I  patient:code  [patient:resonance  perceived]  recipient:machine  action:give
   natural: I gave the code to the machine that perceived the resonance.
-  words_attested: []
+  words_attested:
+  - W023
+  - W058
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
   source_anchor: S103
   notes: null
 - snum: S104
-  gloss: 'Stative kinship relative: `la-mi` as perspective anchor inside inner clause, head as recipient of matrix'
+  gloss: 'Stative kinship relative: `la-mi` as perspective anchor inside inner clause,
+    head as recipient of matrix'
   batch: null
   batch_sub: null
   status: normative
   tonesu: la-mi  lo-si-ki  [zo-ne-go  la-mi]  ne-li  ka-be
   gloss_line: agent:I  patient:code  [kin-origin  anchor:I]  recipient:person  action:give
   natural: I gave the code to the person who is my parent.
-  words_attested: []
+  words_attested:
+  - W023
+  - W077
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -1295,7 +1393,10 @@ sentences:
   tonesu: la-mi  lo-si-ki  [zo-ne-ru  [zo-ne-go  la-mi]  lo-li]  ne-li  ka-be
   gloss_line: agent:I  patient:code  [kin-unity  [kin-origin  anchor:I]  patient:person]           recipient:person  action:give
   natural: I gave the code to my parent's sibling.
-  words_attested: []
+  words_attested:
+  - W023
+  - W077
+  - W079
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -1309,7 +1410,8 @@ sentences:
   tonesu: '[lo-si-de  ka-to-ko]  lo-mu  ne-mi  ka-be'
   gloss_line: '[patient:past-signal  remembers]  patient:machine  recipient:me  action:build'
   natural: Build me a machine that remembers past signals.
-  words_attested: []
+  words_attested:
+  - W098
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -1323,7 +1425,8 @@ sentences:
   tonesu: la-mi  se  [lo-mu  ne-ra  no-to-fe]
   gloss_line: agent:I  perceive  [patient:machine  resonance  uncertified]
   natural: 'I have a signal-level reading: the machine''s resonance is uncertified.'
-  words_attested: []
+  words_attested:
+  - W058
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -1337,7 +1440,8 @@ sentences:
   tonesu: la-ze  lo-si-mu  ka-se
   gloss_line: agent:they  patient:signal-artifact  action:perceive
   natural: They perceived the encoded signal.
-  words_attested: []
+  words_attested:
+  - W039
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -1351,7 +1455,8 @@ sentences:
   tonesu: lo-fe-so  lo-fe-si  no-ru
   gloss_line: patient:warning-sound  patient:warning-signal  not-unified/same
   natural: The warning sound and the warning signal are not the same thing.
-  words_attested: []
+  words_attested:
+  - W024
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -1365,7 +1470,8 @@ sentences:
   tonesu: la-mi  lo-so  ka-se  wi  [lo-si-mu  ka-be]
   gloss_line: agent:I  patient:sound  action:perceive  purpose  [patient:signal-artifact  action:generate]
   natural: I detected the sound, intending to produce a record of it.
-  words_attested: []
+  words_attested:
+  - W039
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -1390,14 +1496,10 @@ sentences:
   batch: T-PHN-005
   batch_sub: null
   status: normative
-  tonesu: |-
-    A:  lo-mu  lo-fe  ka-se
-        patient:machine  patient:boundary  action:perceive/detect
-        The machine detected the limit.
-
-    B:  lo-mu  lo-fe  ka-si-ki
-        patient:machine  patient:boundary  action:signal-encode(inchoative)
-        The machine began encoding the limit as a signal.
+  tonesu: "A:  lo-mu  lo-fe  ka-se\n    patient:machine  patient:boundary  action:perceive/detect\n\
+    \    The machine detected the limit.\n\nB:  lo-mu  lo-fe  ka-si-ki\n    patient:machine\
+    \  patient:boundary  action:signal-encode(inchoative)\n    The machine began encoding\
+    \ the limit as a signal."
   gloss_line: null
   natural: null
   words_attested: []
@@ -1411,14 +1513,9 @@ sentences:
   batch: T-PHN-006
   batch_sub: null
   status: normative
-  tonesu: |-
-    A:  lo-so-su  de
-        patient:sound-archive  decay/damage
-        The sound archive is degraded.
-
-    B:  lo-si-su  de
-        patient:signal-archive  decay/damage
-        The signal archive is degraded.
+  tonesu: "A:  lo-so-su  de\n    patient:sound-archive  decay/damage\n    The sound\
+    \ archive is degraded.\n\nB:  lo-si-su  de\n    patient:signal-archive  decay/damage\n\
+    \    The signal archive is degraded."
   gloss_line: null
   natural: null
   words_attested: []
@@ -1435,7 +1532,8 @@ sentences:
   tonesu: lo-ra-ki-mu  be-vo
   gloss_line: patient:engine  generative-quality
   natural: The engine has generative capacity / is capable of producing output.
-  words_attested: []
+  words_attested:
+  - W012
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -1448,8 +1546,10 @@ sentences:
   status: normative
   tonesu: la-ra-ki-mu  wi  [lo-ra  nu-be  ka-be]
   gloss_line: agent:engine  design-purpose  [patient:energy  more-than  action:generate]
-  natural: The engine is [institutionally] designed for generating greater energy output.
-  words_attested: []
+  natural: The engine is [institutionally] designed for generating greater energy
+    output.
+  words_attested:
+  - W012
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -1463,7 +1563,9 @@ sentences:
   tonesu: go [ra-ma  be]  lo-ra-ki-mu  lo-ra  nu-be  ka-be
   gloss_line: cause:[fuel  grows/added]  patient:engine  patient:energy  more-than  action:generates
   natural: Because fuel was added, the engine generates greater energy output.
-  words_attested: []
+  words_attested:
+  - W012
+  - W082
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -1477,7 +1579,8 @@ sentences:
   tonesu: lo-pu-ra-ki-mu  to-ru
   gloss_line: patient:plural-engine  pattern-unity
   natural: The engines share a unified pattern / are the same model/type.
-  words_attested: []
+  words_attested:
+  - W083
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -1491,7 +1594,8 @@ sentences:
   tonesu: lo-pu-ra-ki-mu  ne-to
   gloss_line: patient:plural-engine  relation-pattern
   natural: The engines have a relational pattern / are similar to each other.
-  words_attested: []
+  words_attested:
+  - W084
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -1505,7 +1609,8 @@ sentences:
   tonesu: lo-pu-ra-ki-mu  pe  lo-su-ru
   gloss_line: patient:plural-engine  component  patient:unified-structure
   natural: The engines are components of one unified system.
-  words_attested: []
+  words_attested:
+  - W085
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -1519,7 +1624,9 @@ sentences:
   tonesu: la-zo-li  ne  lo-mu-ka
   gloss_line: agent:person  relation/possess  patient:tool
   natural: The person is in relation to (possesses) a tool.
-  words_attested: []
+  words_attested:
+  - W022
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -1533,7 +1640,9 @@ sentences:
   tonesu: la-ko-mu  ko  lo-mu-ka
   gloss_line: agent:container  containment  patient:tool
   natural: The container holds the tool.
-  words_attested: []
+  words_attested:
+  - W022
+  - W052
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -1547,7 +1656,8 @@ sentences:
   tonesu: la-ko-mu  ko  lo-pu-mu-ka
   gloss_line: agent:container  containment  patient:plural-tools
   natural: The container holds multiple tools.
-  words_attested: []
+  words_attested:
+  - W052
   first_attests: []
   gap_refs: []
   source_file: sentences/s040-s071.md
@@ -1561,21 +1671,28 @@ sentences:
   tonesu: go [lo-ra-ki-mu  de]  lo-ki-pa-mu  pa-ki
   gloss_line: cause:[patient:engine  decay]  patient:vehicle  place:motion
   natural: Given engine failure, the vehicle drifts through space.
-  words_attested: []
+  words_attested:
+  - W012
+  - W086
+  - W156
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S123
   notes: null
 - snum: S124
-  gloss: 'Future conditional with recurrence: "If the engine fails again, the ship will drift.'
+  gloss: 'Future conditional with recurrence: "If the engine fails again, the ship
+    will drift.'
   batch: T-AX-011
   batch_sub: null
   status: normative
   tonesu: go [lo-ra-ki-mu  re-de]  lo-ki-pa-mu  pa-ki
   gloss_line: cause:[patient:engine  cycle-decay]  patient:vehicle  place:motion
   natural: Given a recurrent engine failure, the vehicle will drift.
-  words_attested: []
+  words_attested:
+  - W012
+  - W086
+  - W156
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -1589,49 +1706,70 @@ sentences:
   tonesu: go [lo-ra-ki-mu  ti-de-de]  lo-ki-pa-mu  pa-ki  ti-de
   gloss_line: cause:[patient:engine  past-decay]  patient:vehicle  place:motion  time:past
   natural: When/because the engine had failed, the vehicle drifted.
-  words_attested: []
+  words_attested:
+  - W012
+  - W041
+  - W086
+  - W156
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S125
   notes: null
 - snum: S126
-  gloss: 'Engineering: "If the engine hadn''t failed, the ship would have reached its destination.'
+  gloss: 'Engineering: "If the engine hadn''t failed, the ship would have reached
+    its destination.'
   batch: CF-001
   batch_sub: A
   status: normative
   tonesu: la-mi  to  [go [lo-ra-ki-mu  no-de  ti-de]  la-ki-pa-mu  ki  lo-pa-wi  ti-de]
   gloss_line: agent:I  hold-model  [cause:[patient:engine  no-decay  past-time]                                  agent:vehicle  moves  patient:destination  past-time]
-  natural: 'My conceptual model: given no engine failure, the ship would have reached its           destination.'
-  words_attested: []
+  natural: 'My conceptual model: given no engine failure, the ship would have reached
+    its           destination.'
+  words_attested:
+  - W012
+  - W041
+  - W086
+  - W088
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S126
   notes: null
 - snum: S127
-  gloss: 'Social domain: "If she had received the signal, she would have warned the crew.'
+  gloss: 'Social domain: "If she had received the signal, she would have warned the
+    crew.'
   batch: CF-001
   batch_sub: B
   status: normative
   tonesu: la-mi  to  [go [lo-zo-li  se  lo-si  ti-de]  la-zo-li  ka  fe-si  lo-li-pu  ti-de]
   gloss_line: agent:I  hold-model  [cause:[patient:person  perceives  patient:signal  past]                                  agent:person  performs  warning-signal  to:collective  past]
-  natural: 'My conceptual model: given the person having perceived the signal, she would have           issued a warning to the crew.'
-  words_attested: []
+  natural: 'My conceptual model: given the person having perceived the signal, she
+    would have           issued a warning to the crew.'
+  words_attested:
+  - W024
+  - W041
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
   source_anchor: S127
   notes: null
 - snum: S128
-  gloss: 'Institutional domain: "If the doctrine had been published, the dispute would have been resolved.'
+  gloss: 'Institutional domain: "If the doctrine had been published, the dispute would
+    have been resolved.'
   batch: CF-001
   batch_sub: C
   status: normative
   tonesu: la-mi  to  [go [lo-to-re-su  to-fe-su-ki  ti-de]  lo-ne-fe  de  ti-de]
   gloss_line: agent:I  hold-model  [cause:[patient:doctrine  publication-event  past]                                  patient:relational-tension  dissolves  past]
-  natural: 'My conceptual model: given [the doctrine having been published], the relational           tension would have dissolved.'
-  words_attested: []
+  natural: 'My conceptual model: given [the doctrine having been published], the relational           tension
+    would have dissolved.'
+  words_attested:
+  - W041
+  - W042
+  - W064
+  - W097
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -1644,8 +1782,13 @@ sentences:
   status: normative
   tonesu: to [go [lo-ra-ki-mu  de  ti-de]  lo-ki-pa-mu  pa-ki  ti-de]
   gloss_line: conceptual  [cause:[patient:engine  decays  past]  patient:ship  drifts  past]
-  natural: 'In the conceptual/hypothetical domain: if the engine had failed, the ship would           have drifted.'
-  words_attested: []
+  natural: 'In the conceptual/hypothetical domain: if the engine had failed, the ship
+    would           have drifted.'
+  words_attested:
+  - W012
+  - W041
+  - W086
+  - W156
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -1659,7 +1802,12 @@ sentences:
   tonesu: to-go [lo-ra-ki-mu  de  ti-de]  lo-ki-pa-mu  pa-ki  ti-de
   gloss_line: hypothetical-causal  [engine  decays  past]  ship  drifts  past
   natural: 'Counterfactually: if the engine had failed, the ship would have drifted.'
-  words_attested: []
+  words_attested:
+  - W012
+  - W041
+  - W086
+  - W089
+  - W156
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -1672,8 +1820,14 @@ sentences:
   status: normative
   tonesu: to-go [lo-to-re-su  to-fe-su-ki  ti-de]  lo-ne-fe  de  ti-de
   gloss_line: hypothetical-causal  [patient:doctrine  publication-event  past]                                 patient:relational-tension  dissolves  past
-  natural: Counterfactually, given that the doctrine had been published, the relational           tension would have dissolved.
-  words_attested: []
+  natural: Counterfactually, given that the doctrine had been published, the relational           tension
+    would have dissolved.
+  words_attested:
+  - W041
+  - W042
+  - W064
+  - W089
+  - W097
   first_attests: []
   gap_refs: []
   source_file: sentences/s001-s039.md
@@ -1686,8 +1840,10 @@ sentences:
   status: normative
   tonesu: la-ze  ka-ne-de  lo-ne-mi; la-mi  fa-be  se  vo-de  lo-ne-mi
   gloss_line: agent:they  intentional-relation-decay  patient:my-relation;           agent:I  affect-rises  perceive  value-decay  patient:my-relation
-  natural: They intentionally ended my relationship. Affect is rising in me;           I perceive value-decay when I look at it.
-  words_attested: []
+  natural: They intentionally ended my relationship. Affect is rising in me;           I
+    perceive value-decay when I look at it.
+  words_attested:
+  - W092
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -1728,7 +1884,8 @@ sentences:
   status: normative
   tonesu: la-mi  fa  fe-ki
   gloss_line: agent:I  substrate  risk-becoming
-  natural: My affective substrate is in a state of approaching-threshold. Free-floating           anxiety — no object, no identifiable source.
+  natural: My affective substrate is in a state of approaching-threshold. Free-floating           anxiety
+    — no object, no identifiable source.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -1742,7 +1899,8 @@ sentences:
   status: normative
   tonesu: la-mi  fa  vo-be
   gloss_line: agent:I  substrate  value-increasing
-  natural: My affective substrate registers a positive-quality rise. No particular object           caused it — the substrate is simply in positive activation.
+  natural: My affective substrate registers a positive-quality rise. No particular
+    object           caused it — the substrate is simply in positive activation.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -1770,7 +1928,8 @@ sentences:
   status: normative
   tonesu: la-mi  fa  fe-de
   gloss_line: agent:I  substrate  risk-decay
-  natural: My affective substrate registers boundary-degradation. Free-floating           threat-response — no identifiable threat.
+  natural: My affective substrate registers boundary-degradation. Free-floating           threat-response
+    — no identifiable threat.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -1784,7 +1943,8 @@ sentences:
   status: normative
   tonesu: la-mi  se  so.  la-mi  fa-be.  la-mi  to  lo-go.
   gloss_line: agent:I  perceive  sound.  agent:I  affect-rises.           agent:I  form-model  patient:cause.
-  natural: I detected an acoustic signal. My affective substrate rose. I identified           the source. — All three pipeline stages resolved in sequence.
+  natural: I detected an acoustic signal. My affective substrate rose. I identified           the
+    source. — All three pipeline stages resolved in sequence.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -1798,7 +1958,8 @@ sentences:
   status: normative
   tonesu: la-mi  se  so.  la-mi  fa-be.  la-mi  fa-no-to  lo-go.
   gloss_line: agent:I  perceive  sound.  agent:I  affect-rises.           agent:I  affect-no-model  patient:cause.
-  natural: I detected an acoustic signal. My affect rose. The substrate did not resolve           into a model of the cause.
+  natural: I detected an acoustic signal. My affect rose. The substrate did not resolve           into
+    a model of the cause.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -1812,7 +1973,8 @@ sentences:
   status: normative
   tonesu: la-mi  se  lo-si.  la-mi  to  lo-si.
   gloss_line: agent:I  perceive  patient:encoded-structure.           agent:I  form-model  patient:encoded-structure.
-  natural: I received the data. I hold a model of it. — No affective substrate           activation between perception and cognition.
+  natural: I received the data. I hold a model of it. — No affective substrate           activation
+    between perception and cognition.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -1826,7 +1988,8 @@ sentences:
   status: normative
   tonesu: la-mi  fa-ki.  no  fa-be;  no  fa-de.
   gloss_line: agent:I  affect-shifts.  not  affect-rising;  not  affect-falling.
-  natural: My affective substrate shifted character. The state didn't escalate or           diminish — something in its quality changed register.
+  natural: My affective substrate shifted character. The state didn't escalate or           diminish
+    — something in its quality changed register.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -1840,8 +2003,10 @@ sentences:
   status: normative
   tonesu: la-mi  fa-re.  la-mi  to-ko  lo-su.
   gloss_line: agent:I  affect-recurring.           agent:I  hold-memory  patient:structure.
-  natural: My affective substrate is cycling through a recurring pattern. I recognize           this — the structure of this state has been stored.
-  words_attested: []
+  natural: My affective substrate is cycling through a recurring pattern. I recognize           this
+    — the structure of this state has been stored.
+  words_attested:
+  - W027
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -1854,7 +2019,8 @@ sentences:
   status: normative
   tonesu: la-mi  se  vo-de  lo-ne-mi.  la-mi  fa-no.
   gloss_line: agent:I  perceive  value-decay  patient:my-relation.           agent:I  affect-absent.
-  natural: I detect value-decay when I look at the relationship. And yet the affective           substrate is not active. The flat state.
+  natural: I detect value-decay when I look at the relationship. And yet the affective           substrate
+    is not active. The flat state.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -1868,7 +2034,8 @@ sentences:
   status: normative
   tonesu: la-mi  fa-be  ta-ti-de.  la-mi  fa-de.
   gloss_line: agent:I  affect-rising  at-past-time.  agent:I  affect-fading.
-  natural: My affective substrate was in a rising state [earlier]. It is now diminishing.           The wave is falling.
+  natural: My affective substrate was in a rising state [earlier]. It is now diminishing.           The
+    wave is falling.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -1882,7 +2049,8 @@ sentences:
   status: normative
   tonesu: la-mi  to  [la-zo-mi  fa  fe-ki]
   gloss_line: agent:I  form-model  [agent:my-organism  substrate  risk-becoming]
-  natural: I analytically model that my organism's affective substrate is in a           boundary-approach state. — I am observing my own anxiety, not inhabiting it.
+  natural: I analytically model that my organism's affective substrate is in a           boundary-approach
+    state. — I am observing my own anxiety, not inhabiting it.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -1896,7 +2064,9 @@ sentences:
   status: normative
   tonesu: la-mi  to  [la-zo-ze  fa  vo-de  re]
   gloss_line: agent:I  form-model  [agent:their-organism  substrate  value-decay  recurring]
-  natural: I analytically model that their organism's affective substrate is in a state           of recurring value-decay. — Clinical diagnostic, first-person epistemic frame.
+  natural: I analytically model that their organism's affective substrate is in a
+    state           of recurring value-decay. — Clinical diagnostic, first-person
+    epistemic frame.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -1910,7 +2080,8 @@ sentences:
   status: normative
   tonesu: la-mi  se-no.  la-mi  fa  vo-de.
   gloss_line: agent:I  perception-absent.  agent:I  substrate  value-decay.
-  natural: I am detecting nothing from the world. My affective substrate nonetheless           registers value-decay. — Chemical depression without external cause.
+  natural: I am detecting nothing from the world. My affective substrate nonetheless           registers
+    value-decay. — Chemical depression without external cause.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -1924,7 +2095,9 @@ sentences:
   status: normative
   tonesu: la-mi  se  vo-be  lo-du.  la-mi  fa  vo-be.
   gloss_line: agent:I  perceive  value-increasing  patient:result.           agent:I  substrate  value-increasing.
-  natural: I detect positive quality in the result [external, directed]. And my           affective substrate is in positive-rise [internal, undirected]. Two layers           of the same positive event reported in sequence.
+  natural: I detect positive quality in the result [external, directed]. And my           affective
+    substrate is in positive-rise [internal, undirected]. Two layers           of
+    the same positive event reported in sequence.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -1952,7 +2125,9 @@ sentences:
   status: normative
   tonesu: lo-du  be.  la-mi  fa-be.  la-mi  se  vo-be  lo-du.
   gloss_line: patient:result  generates.  agent:I  affect-rises.           agent:I  perceive  value-increasing  patient:result.
-  natural: The outcome came in. My affect rose. I detect quality-increase when I look           at the result. — This sequence is what Tonesu says instead of "I'm happy           about the outcome."
+  natural: The outcome came in. My affect rose. I detect quality-increase when I look           at
+    the result. — This sequence is what Tonesu says instead of "I'm happy           about
+    the outcome."
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -1966,7 +2141,8 @@ sentences:
   status: normative
   tonesu: la-zo-ze  fa  vo-de  re.  la-ze  fa-no-to  lo-go.
   gloss_line: organism-of-ze  substrate  value-decay  recurring.           agent:ze  affect-no-model  patient:cause.
-  natural: Their organism's affective substrate is in a state of recurring value-decay.           They have no model of the cause. — Clinical-record register.
+  natural: Their organism's affective substrate is in a state of recurring value-decay.           They
+    have no model of the cause. — Clinical-record register.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -1978,15 +2154,19 @@ sentences:
   batch: fa-CON-F4
   batch_sub: null
   status: normative
-  tonesu: |-
-    Gloss A:  la-mi  se-no-to.
+  tonesu: 'Gloss A:  la-mi  se-no-to.
+
     Gloss B:  la-mi  fa-no-to.
 
+
     Literal A: agent:I  perception-no-model.
+
     Literal B: agent:I  affect-no-model.
 
+
     Natural A: I detected something; no model formed of what it was.
-    Natural B: My affective substrate is active; no model of why.
+
+    Natural B: My affective substrate is active; no model of why.'
   gloss_line: null
   natural: null
   words_attested: []
@@ -2002,8 +2182,10 @@ sentences:
   status: normative
   tonesu: lo-si-mu  be.  la-mi  fa-be.  la-mi  fa-no-to  lo-go.
   gloss_line: patient:document  generates.  agent:I  affect-rises.           agent:I  affect-no-model  patient:cause.
-  natural: An official document arrived. My affective substrate rose. The substrate           has not resolved into a model of why this document is affecting me.
-  words_attested: []
+  natural: An official document arrived. My affective substrate rose. The substrate           has
+    not resolved into a model of why this document is affecting me.
+  words_attested:
+  - W039
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -2016,8 +2198,13 @@ sentences:
   status: normative
   tonesu: to-go [la-zo-li  se  lo-si  ti-de]  la-zo-li  ka  fe-si  lo-li-pu  ti-de
   gloss_line: hypothetical-causal  [agent:person  detects  patient:signal  past]                                  agent:person  performs  warning-signal  to:crew  past
-  natural: 'Counterfactually: given that the person had received the signal, she would           have issued the warning to the crew.'
-  words_attested: []
+  natural: 'Counterfactually: given that the person had received the signal, she would           have
+    issued the warning to the crew.'
+  words_attested:
+  - W024
+  - W041
+  - W089
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -2030,8 +2217,14 @@ sentences:
   status: normative
   tonesu: la-to-fe-su  to  [to-go [la-zo-li  se  lo-si  ti-de]                              la-zo-li  ka  fe-si  lo-li-pu  ti-de]
   gloss_line: agent:epistemic-standards-body  holds-model           [hypothetical-causal  [agent:person  detects  signal  past]                                   agent:person  performs  warning  to:crew  past]
-  natural: 'The investigation body asserts as its model: had the person received the           signal, she would have issued the warning to the crew.'
-  words_attested: []
+  natural: 'The investigation body asserts as its model: had the person received the           signal,
+    she would have issued the warning to the crew.'
+  words_attested:
+  - W024
+  - W041
+  - W072
+  - W089
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -2045,7 +2238,11 @@ sentences:
   tonesu: to-go [lo-ra-ki-mu  de]  lo-ki-pa-mu  pa-ki
   gloss_line: hypothetical-causal  [patient:engine  decays]  patient:ship  drifts
   natural: Were the engine to fail, the ship would drift. — Future hypothetical.
-  words_attested: []
+  words_attested:
+  - W012
+  - W086
+  - W089
+  - W156
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -2056,10 +2253,21 @@ sentences:
   batch: MG-001
   batch_sub: A
   status: normative
-  tonesu: to-go [lo-si  no  be  ti-de]  la-li-pu  no  se  lo-si  ti-de.           to-go [la-li-pu  no  se  lo-si  ti-de]  la-li-pu  no  ka  fe-si  ti-de.           to-go [la-li-pu  no  ka  fe-si  ti-de]  lo-li-pu  de  ti-de.
-  gloss_line: counterfactual-causal [patient:signal not-generates past]             agent:crew not-perceives patient:signal past.           counterfactual-causal [agent:crew not-perceives patient:signal past]             agent:crew not-performs warning past.           counterfactual-causal [agent:crew not-performs warning past]             patient:collective decays past.
-  natural: Had the signal not arrived, the crew would not have received it.           Had the crew not received it, they would not have issued a warning.           Had they not issued a warning, the collective would have suffered.
-  words_attested: []
+  tonesu: to-go [lo-si  no  be  ti-de]  la-li-pu  no  se  lo-si  ti-de.           to-go
+    [la-li-pu  no  se  lo-si  ti-de]  la-li-pu  no  ka  fe-si  ti-de.           to-go
+    [la-li-pu  no  ka  fe-si  ti-de]  lo-li-pu  de  ti-de.
+  gloss_line: counterfactual-causal [patient:signal not-generates past]             agent:crew
+    not-perceives patient:signal past.           counterfactual-causal [agent:crew
+    not-perceives patient:signal past]             agent:crew not-performs warning
+    past.           counterfactual-causal [agent:crew not-performs warning past]             patient:collective
+    decays past.
+  natural: Had the signal not arrived, the crew would not have received it.           Had
+    the crew not received it, they would not have issued a warning.           Had
+    they not issued a warning, the collective would have suffered.
+  words_attested:
+  - W024
+  - W041
+  - W089
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -2071,9 +2279,18 @@ sentences:
   batch_sub: B
   status: normative
   tonesu: to  lo-go-su  be.           lo-si  no  be  ti-de.           la-li-pu  no  se  lo-si  ti-de.           la-li-pu  no  ka  fe-si  ti-de.           to  lo-go-su  de.           la-to-fe-su  ka  to-fe-su-ki  lo-go-su  ti-de.
-  gloss_line: model  patient:causal-analysis  activates.   [SCOPE OPENS]           patient:signal  not-generates  past.          [IN MODEL]           agent:crew  not-perceives  patient:signal  past.  [IN MODEL]           agent:crew  not-performs  warning  past.     [IN MODEL]           model  patient:causal-analysis  closes.      [SCOPE CLOSES]           agent:standards-body  performs  publication-event  patient:causal-analysis  past.                                                         [ACTUALITY RETURN]
-  natural: '[The causal analysis model is now active.]           The signal had not arrived.           The crew had not received it.           The crew had not issued the warning.           [Causal analysis model closes.]           The investigation body then published the causal analysis.'
-  words_attested: []
+  gloss_line: model  patient:causal-analysis  activates.   [SCOPE OPENS]           patient:signal  not-generates  past.          [IN
+    MODEL]           agent:crew  not-perceives  patient:signal  past.  [IN MODEL]           agent:crew  not-performs  warning  past.     [IN
+    MODEL]           model  patient:causal-analysis  closes.      [SCOPE CLOSES]           agent:standards-body  performs  publication-event  patient:causal-analysis  past.                                                         [ACTUALITY
+    RETURN]
+  natural: '[The causal analysis model is now active.]           The signal had not
+    arrived.           The crew had not received it.           The crew had not issued
+    the warning.           [Causal analysis model closes.]           The investigation
+    body then published the causal analysis.'
+  words_attested:
+  - W024
+  - W072
+  - W097
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -2086,8 +2303,12 @@ sentences:
   status: normative
   tonesu: la-to-fe-su  to  lo-go-su  be.           lo-si  no  be  ti-de.           la-li-pu  no  ka  fe-si  ti-de.           la-to-fe-su  to  lo-go-su  de.
   gloss_line: agent:standards-body  conceptual-model  patient:causal-analysis  activates.           patient:signal  not-generates  past.           agent:crew  not-performs  warning  past.           agent:standards-body  conceptual-model  patient:causal-analysis  closes.
-  natural: The investigation body opens the causal model.           [In-model:] The signal had not arrived.           [In-model:] The crew did not issue the warning.           The investigation body closes the causal model.
-  words_attested: []
+  natural: The investigation body opens the causal model.           [In-model:] The
+    signal had not arrived.           [In-model:] The crew did not issue the warning.           The
+    investigation body closes the causal model.
+  words_attested:
+  - W024
+  - W072
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -2100,8 +2321,13 @@ sentences:
   status: normative
   tonesu: la-to-re-su  to  lo-go-su  be.           la-to-re-su  to  [la-li-pe  ne-ko  lo-si-su].           la-to-re-su  to  [lo-si-su  de  go  lo-ne-fe  be].           la-to-re-su  to  lo-go-su  de.
   gloss_line: agent:doctrine  conceptual-model  patient:causal-analysis  activates.           agent:doctrine  holds-model  [agent:licensed-party  holds  patient:archive].           agent:doctrine  holds-model  [patient:archive  decays  cause  patient:tension  rises].           agent:doctrine  conceptual-model  patient:causal-analysis  closes.
-  natural: 'According to the standing doctrine, the following causal model applies:           The doctrine holds that: the licensed party retains custody of the archive.           The doctrine holds that: archive decay causes tension to arise.           According to the doctrine, the analysis closes.'
-  words_attested: []
+  natural: 'According to the standing doctrine, the following causal model applies:           The
+    doctrine holds that: the licensed party retains custody of the archive.           The
+    doctrine holds that: archive decay causes tension to arise.           According
+    to the doctrine, the analysis closes.'
+  words_attested:
+  - W042
+  - W064
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -2143,7 +2369,8 @@ sentences:
   tonesu: la-su-mu-li  ka  vo
   gloss_line: agent:engineer  action  quality
   natural: The engineer acts with quality/care.
-  words_attested: []
+  words_attested:
+  - W002
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -2157,7 +2384,8 @@ sentences:
   tonesu: la-si-mu  no-ru
   gloss_line: agent:document  negate-unity
   natural: The document lacks coherence.
-  words_attested: []
+  words_attested:
+  - W039
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -2171,7 +2399,8 @@ sentences:
   tonesu: la-wi-re-su  ta-re-ti  ka-ne
   gloss_line: agent:protocol-body  time:repeat-cycle  action:assemble
   natural: The committee meets at each recurring interval.
-  words_attested: []
+  words_attested:
+  - W074
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -2199,7 +2428,9 @@ sentences:
   tonesu: lo-to-su-mu  re-ka-de-be  ti-de
   gloss_line: patient:archive  repeat-action:repair  time:past
   natural: The archive was habitually maintained [in the past].
-  words_attested: []
+  words_attested:
+  - W010
+  - W041
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -2227,7 +2458,9 @@ sentences:
   tonesu: go [lo-to-su-mu  de]  du [lo-to-su  de]
   gloss_line: cause [patient:archive  decay]  result [patient:organized-knowledge  decay]
   natural: If the archive decays, organized knowledge decays.
-  words_attested: []
+  words_attested:
+  - W010
+  - W030
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -2241,7 +2474,8 @@ sentences:
   tonesu: go [la-su-mu-li  lo-mu  ka-de-be]  du [lo-su  be]
   gloss_line: cause [agent:engineer  patient:device  action:repair]  result [patient:structure  grow]
   natural: Because the engineer repaired the device, the system recovered.
-  words_attested: []
+  words_attested:
+  - W002
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -2255,7 +2489,8 @@ sentences:
   tonesu: lo-si-de  no [ka-be]
   gloss_line: patient:past-signal-data  neg [action:grow/alter]
   natural: The signal record cannot be altered.
-  words_attested: []
+  words_attested:
+  - W098
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -2269,7 +2504,8 @@ sentences:
   tonesu: la-mi  no-si  [lo-ne-ra  be]
   gloss_line: agent:I  neg-hypothesize  [patient:resonance  grow]
   natural: I do not hypothesize that the resonance grew.
-  words_attested: []
+  words_attested:
+  - W058
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -2283,7 +2519,8 @@ sentences:
   tonesu: la-mi  no-se  lo-si-de
   gloss_line: agent:I  neg-perceive  patient:past-signal-data
   natural: I have no perceptual basis for the past signal record.
-  words_attested: []
+  words_attested:
+  - W098
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -2296,8 +2533,11 @@ sentences:
   status: normative
   tonesu: la-to-fe-li  to  [la-mi  no-se  lo-si-de]
   gloss_line: agent:knowledge-keeper  established  [agent:I  neg-perceive  patient:past-signal-data]
-  natural: 'The knowledge-keeper certifies: I have no perceptual basis for the signal record.'
-  words_attested: []
+  natural: 'The knowledge-keeper certifies: I have no perceptual basis for the signal
+    record.'
+  words_attested:
+  - W032
+  - W098
   first_attests: []
   gap_refs: []
   source_file: sentences/s101-s175.md
@@ -2353,7 +2593,8 @@ sentences:
   tonesu: go [la-su  se  lo-su]  la-su  wi-re
   gloss_line: because [agent:system  perceive  patient:system]  agent:system  feedback-loop
   natural: Because the system perceives itself, the system regulates.
-  words_attested: []
+  words_attested:
+  - W099
   first_attests: []
   gap_refs: []
   source_file: sentences/s176-s227.md
@@ -2367,7 +2608,8 @@ sentences:
   tonesu: no-go [la-mu  de-be]  lo-mu  ru
   gloss_line: not-cause [agent:device  repair]  patient:device  unity
   natural: Despite the device being repaired, the device remains one.
-  words_attested: []
+  words_attested:
+  - W035
   first_attests: []
   gap_refs: []
   source_file: sentences/s176-s227.md
@@ -2465,7 +2707,8 @@ sentences:
   tonesu: la-li  ka  nu-se  lo-ra
   gloss_line: agent:person  act  quantity-perceive  patient:energy
   natural: The person measures the energy.
-  words_attested: []
+  words_attested:
+  - W102
   first_attests: []
   gap_refs: []
   source_file: sentences/s176-s227.md
@@ -2491,8 +2734,10 @@ sentences:
   batch_sub: D
   status: normative
   tonesu: go [lo-ra-su  ne  lo-ra-su]  du [lo-ra-su  ki]  du [lo-ra-su  ki]
-  gloss_line: cause [patient:force-system  relation  patient:force-system]           result [patient:force-system  move]  result [patient:force-system  move]
-  natural: Because force-system A is in relation with force-system B, A moves and B moves.
+  gloss_line: cause [patient:force-system  relation  patient:force-system]           result
+    [patient:force-system  move]  result [patient:force-system  move]
+  natural: Because force-system A is in relation with force-system B, A moves and
+    B moves.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -2521,7 +2766,8 @@ sentences:
   tonesu: la-si-su  ko  [la-ra-ki-li  se  lo-pa-ra]
   gloss_line: agent:archive  contains  [agent:pilot  perceived  patient:field]
   natural: 'The archive holds: the pilot perceived the field.'
-  words_attested: []
+  words_attested:
+  - W053
   first_attests: []
   gap_refs: []
   source_file: sentences/s176-s227.md
@@ -2535,7 +2781,9 @@ sentences:
   tonesu: la-yu  lo-to-su  be  ta-ti-be  lo-se-ka
   gloss_line: agent:group  patient:organized-knowledge  grew/consolidated  time:after  patient:examination
   natural: The team consolidated their knowledge after the inspection.
-  words_attested: []
+  words_attested:
+  - W030
+  - W034
   first_attests: []
   gap_refs: []
   source_file: sentences/s176-s227.md
@@ -2547,8 +2795,10 @@ sentences:
   batch_sub: null
   status: normative
   tonesu: go [lo-zo-su  ne  lo-zo-su]  du [lo-zo-su  be]  du [lo-zo-su  be]
-  gloss_line: cause [patient:living-system  relation  patient:living-system]           result [patient:living-system  grow]  result [patient:living-system  grow]
-  natural: Because living-system A is in relation with living-system B, A grows and B grows.
+  gloss_line: cause [patient:living-system  relation  patient:living-system]           result
+    [patient:living-system  grow]  result [patient:living-system  grow]
+  natural: Because living-system A is in relation with living-system B, A grows and
+    B grows.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -2561,8 +2811,10 @@ sentences:
   batch_sub: null
   status: normative
   tonesu: go [la-li  ne  la-li]  du [la-li  wi-to-ki]  du [la-li  wi-to-ki]
-  gloss_line: cause [agent:person  relation  agent:person]           result [agent:person  stance-shifts]  result [agent:person  stance-shifts]
-  natural: Because delegate A is in relation with delegate B, A shifts position and B shifts position.
+  gloss_line: cause [agent:person  relation  agent:person]           result [agent:person  stance-shifts]  result
+    [agent:person  stance-shifts]
+  natural: Because delegate A is in relation with delegate B, A shifts position and
+    B shifts position.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -2604,8 +2856,10 @@ sentences:
   status: normative
   tonesu: la-[zo-se-so  na Retriever]  se  lo-zo-ma
   gloss_line: agent:[sound-perceiving-organism  name:Retriever]  perceived  patient:organic-matter
-  natural: The Retriever found the food. / The Retriever-variety dog detected organic matter.
-  words_attested: []
+  natural: The Retriever found the food. / The Retriever-variety dog detected organic
+    matter.
+  words_attested:
+  - W163
   first_attests: []
   gap_refs: []
   source_file: sentences/s176-s227.md
@@ -2618,7 +2872,8 @@ sentences:
   status: normative
   tonesu: la-[zo  na Kanis-lupus]  so-be-re
   gloss_line: agent:[organism  name:Canis-lupus]  sound-grows-repeats
-  natural: Canis lupus howled. / The organism named Canis lupus produced sustained repeated vocalization.
+  natural: Canis lupus howled. / The organism named Canis lupus produced sustained
+    repeated vocalization.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -2675,7 +2930,8 @@ sentences:
   tonesu: la-zo-se-so-li  zi-ka  lo-li
   gloss_line: agent:social-pack-sound-organism  mutual-exchange  patient:person
   natural: The dog greeted the person.
-  words_attested: []
+  words_attested:
+  - W105
   first_attests: []
   gap_refs: []
   source_file: sentences/s176-s227.md
@@ -2759,7 +3015,9 @@ sentences:
   tonesu: lo-mi  ne-fe  zo-ma
   gloss_line: patient:me  dependency-condition  organism-substance
   natural: I am hungry. / I need food.
-  words_attested: []
+  words_attested:
+  - W042
+  - W163
   first_attests: []
   gap_refs: []
   source_file: sentences/s176-s227.md
@@ -2871,7 +3129,8 @@ sentences:
   tonesu: la-mi  ka  lo-zo-ma
   gloss_line: agent:me  intentional-action  patient:organism-substance
   natural: I eat.
-  words_attested: []
+  words_attested:
+  - W163
   first_attests: []
   gap_refs: []
   source_file: sentences/s176-s227.md
@@ -2899,7 +3158,8 @@ sentences:
   tonesu: la-mi  zi-ka  lo-tu
   gloss_line: agent:me  mutual-exchange-action  patient:you
   natural: I greet you.
-  words_attested: []
+  words_attested:
+  - W105
   first_attests: []
   gap_refs: []
   source_file: sentences/s176-s227.md
@@ -2941,7 +3201,8 @@ sentences:
   tonesu: la-mi  fa-ra-be  lo-tu
   gloss_line: agent:me  affect-energy-rising  patient:you
   natural: I am angry at you.
-  words_attested: []
+  words_attested:
+  - W123
   first_attests: []
   gap_refs: []
   source_file: sentences/s176-s227.md
@@ -2983,7 +3244,8 @@ sentences:
   tonesu: la-mi  to  lo-to-ko
   gloss_line: agent:me  cognite  patient:stored-conceptual-pattern
   natural: I remember. / I access a memory.
-  words_attested: []
+  words_attested:
+  - W027
   first_attests: []
   gap_refs: []
   source_file: sentences/s176-s227.md
@@ -3207,7 +3469,8 @@ sentences:
   tonesu: la-[zo-ne  go  bun ti]  ki  lo-mi
   gloss_line: agent:[ancestor  origin  second-in-sequence]  moved  patient:me
   natural: My grandparent came to me.
-  words_attested: []
+  words_attested:
+  - W076
   first_attests: []
   gap_refs: []
   source_file: sentences/s228-s251.md
@@ -3220,8 +3483,11 @@ sentences:
   status: normative
   tonesu: la-[zo-ne  go  gal ti]  ka  lo-to-ko
   gloss_line: agent:[ancestor  origin  third-in-sequence]  acted  patient:memory
-  natural: My great-grandparent left a memory. / The third-generation ancestor made records.
-  words_attested: []
+  natural: My great-grandparent left a memory. / The third-generation ancestor made
+    records.
+  words_attested:
+  - W027
+  - W076
   first_attests: []
   gap_refs: []
   source_file: sentences/s228-s251.md
@@ -3234,7 +3500,8 @@ sentences:
   status: normative
   tonesu: la-su-fe-re nu-bol  su  lo-gal nu pa
   gloss_line: agent:triangle  structured  patient:three quantity space
-  natural: The triangle measures three meters. / The triangle is three meters [on a side].
+  natural: The triangle measures three meters. / The triangle is three meters [on
+    a side].
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -3249,7 +3516,8 @@ sentences:
   tonesu: la-ki-pa  su  lo-hin pir nu pa
   gloss_line: agent:path  structured  patient:five kilo quantity space
   natural: The path is five kilometers.
-  words_attested: []
+  words_attested:
+  - W049
   first_attests: []
   gap_refs: []
   source_file: sentences/s228-s251.md
@@ -3305,7 +3573,8 @@ sentences:
   tonesu: la-mi  ko  lo-ru-pu gal nu zo-ma
   gloss_line: agent:me  contains  patient:one-of-three quantity food
   natural: I have one-third of the food.
-  words_attested: []
+  words_attested:
+  - W163
   first_attests: []
   gap_refs: []
   source_file: sentences/s228-s251.md
@@ -3319,7 +3588,8 @@ sentences:
   tonesu: bun ru-pu gal nu zo-ma  ko lo-mi
   gloss_line: two one-of-three quantity food  held-by me
   natural: Two-thirds of the food is mine.
-  words_attested: []
+  words_attested:
+  - W163
   first_attests: []
   gap_refs: []
   source_file: sentences/s228-s251.md
@@ -3374,7 +3644,8 @@ sentences:
   status: normative
   tonesu: la-li-ne'zo-se-so-fe  se  lo-li
   gloss_line: agent:person-bonded'[boundary-sound-organism]  perceived  patient:person
-  natural: The household cat noticed the person. / The domestic cat perceived its human.
+  natural: The household cat noticed the person. / The domestic cat perceived its
+    human.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -3444,7 +3715,8 @@ sentences:
   status: normative
   tonesu: la-lu-pe'ma-ki'zo-se-so-fe  ki  lo-ma-ki
   gloss_line: agent:spot-light'flowing-matter'[boundary-sound-organism]  moved  patient:flowing-matter
-  natural: The jaguar crossed the river. / The spotted water-terrain cat moved through the flowing matter.
+  natural: The jaguar crossed the river. / The spotted water-terrain cat moved through
+    the flowing matter.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -3458,8 +3730,10 @@ sentences:
   status: normative
   tonesu: la-pa-fe'zo-se-so-fe  ki  lo-pa-fe
   gloss_line: agent:terrain-boundary'[boundary-sound-organism]  moved  patient:terrain-boundary
-  natural: The puma crossed the ridge. / The mountain-terrain cat moved along the terrain edge.
-  words_attested: []
+  natural: The puma crossed the ridge. / The mountain-terrain cat moved along the
+    terrain edge.
+  words_attested:
+  - W138
   first_attests: []
   gap_refs: []
   source_file: sentences/s252-s278.md
@@ -3500,7 +3774,8 @@ sentences:
   status: normative
   tonesu: la-wi-pu'zo-se-so-li  ka  lo-zo  ne-pu
   gloss_line: agent:collective-will'[social-pack-sound-organism]  acted  patient:organism  relation:collective
-  natural: The wolf pack hunted prey together. / The pack-intent canid performed collective intentional action on prey.
+  natural: The wolf pack hunted prey together. / The pack-intent canid performed collective
+    intentional action on prey.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -3514,7 +3789,8 @@ sentences:
   status: normative
   tonesu: la-li-ne'zo-se-so-li  se  lo-li
   gloss_line: agent:person-bonded'[social-pack-sound-organism]  perceived  patient:person
-  natural: The dog noticed the person. / The person-bonded pack canid perceived its human.
+  natural: The dog noticed the person. / The person-bonded pack canid perceived its
+    human.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -3529,7 +3805,8 @@ sentences:
   tonesu: la-wi-pu'zo-se-so-li  ka  lo-zo  ,  la-li-ne'zo-se-so-li  zi-ka  lo-li
   gloss_line: agent:pack-intent-canid  acts  patient:organism  CLAUSE  agent:person-bonded-canid  exchanges  patient:person
   natural: The wolf hunted prey; the dog greeted the person.
-  words_attested: []
+  words_attested:
+  - W105
   first_attests: []
   gap_refs: []
   source_file: sentences/s252-s278.md
@@ -3542,7 +3819,8 @@ sentences:
   status: normative
   tonesu: la-be-fe'zo-se-so-li  fe-ki  lo-pa-be
   gloss_line: agent:boundary-growing'[social-pack-sound-organism]  boundary-enters  patient:growth-place
-  natural: The coyote moved into the new territory. / The edge-expanding canid entered the growth-zone.
+  natural: The coyote moved into the new territory. / The edge-expanding canid entered
+    the growth-zone.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -3556,7 +3834,8 @@ sentences:
   status: normative
   tonesu: la-bun nu zi-ne'zo-se-so-li  ka  lo-zo
   gloss_line: agent:two quantity [mutual-bond'social-pack-sound-organism]  acted  patient:organism
-  natural: Two jackals hunted prey. / The bonded pair of canids performed intentional action on prey.
+  natural: Two jackals hunted prey. / The bonded pair of canids performed intentional
+    action on prey.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -3584,8 +3863,10 @@ sentences:
   status: normative
   tonesu: la-ko-pa'zo-se-so-fe  ki  lo-ko-pa
   gloss_line: agent:contained-space'[territorial-sound-organism]  moved  patient:contained-space
-  natural: The fox entered the den. / The den-dwelling territorial acoustic organism moved into the contained space.
-  words_attested: []
+  natural: The fox entered the den. / The den-dwelling territorial acoustic organism
+    moved into the contained space.
+  words_attested:
+  - W048
   first_attests: []
   gap_refs: []
   source_file: sentences/s252-s278.md
@@ -3640,7 +3921,8 @@ sentences:
   status: normative
   tonesu: la-si-go  ne  lo-go-li
   gloss_line: agent:evidence  connected  patient:cause-person
-  natural: The evidence connected [to] the cause-person. / The evidence implicated the perpetrator.
+  natural: The evidence connected [to] the cause-person. / The evidence implicated
+    the perpetrator.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -3648,42 +3930,54 @@ sentences:
   source_anchor: S271
   notes: null
 - snum: S272
-  gloss: 'Probable cause: "The arbiter searched on the basis of approximately knowing the cause.'
+  gloss: 'Probable cause: "The arbiter searched on the basis of approximately knowing
+    the cause.'
   batch: LGL-001
   batch_sub: C
   status: normative
   tonesu: la-to-fe-li  ka-se-ka  ro-~to-go
   gloss_line: agent:arbiter  action:searched  reason:approximately-knowing-the-cause
-  natural: The arbiter searched on the basis of approximately knowing the cause.           (acted on probable cause)
-  words_attested: []
+  natural: The arbiter searched on the basis of approximately knowing the cause.           (acted
+    on probable cause)
+  words_attested:
+  - W032
+  - W089
   first_attests: []
   gap_refs: []
   source_file: sentences/s252-s278.md
   source_anchor: S272
   notes: null
 - snum: S273
-  gloss: 'Beyond reasonable doubt: "The arbiter judged on the basis of full knowledge of the cause-person.'
+  gloss: 'Beyond reasonable doubt: "The arbiter judged on the basis of full knowledge
+    of the cause-person.'
   batch: LGL-001
   batch_sub: D
   status: normative
   tonesu: la-to-fe-li  to-fe  ro-to  lo-go-li
   gloss_line: agent:arbiter  judged  by-means-of:full-knowledge  patient:cause-person
-  natural: The arbiter delivered judgment on the basis of [full] knowledge of the cause-person.           (convicted on proof beyond reasonable doubt)
-  words_attested: []
+  natural: The arbiter delivered judgment on the basis of [full] knowledge of the
+    cause-person.           (convicted on proof beyond reasonable doubt)
+  words_attested:
+  - W028
+  - W032
   first_attests: []
   gap_refs: []
   source_file: sentences/s252-s278.md
   source_anchor: S273
   notes: null
 - snum: S274
-  gloss: 'Threshold distinction: "Approximately knowing the cause does not produce a verdict.'
+  gloss: 'Threshold distinction: "Approximately knowing the cause does not produce
+    a verdict.'
   batch: LGL-001
   batch_sub: E
   status: normative
   tonesu: la-~to-go  no-go  lo-to-fe
   gloss_line: agent:approximately-knowing-the-cause  not-cause  patient:verdict
-  natural: Approximately knowing the cause does not produce a verdict.           (probable cause is insufficient for judgment)
-  words_attested: []
+  natural: Approximately knowing the cause does not produce a verdict.           (probable
+    cause is insufficient for judgment)
+  words_attested:
+  - W028
+  - W089
   first_attests: []
   gap_refs: []
   source_file: sentences/s252-s278.md
@@ -3696,7 +3990,8 @@ sentences:
   status: normative
   tonesu: la-li-se  ka-to-fe-ka  lo-se
   gloss_line: agent:witness  committed-epistemic-fraud  patient:perception
-  natural: 'The witness committed epistemic fraud on their perception.           (the witness inflated testimony: presented perception as knowledge. Perjury.)'
+  natural: 'The witness committed epistemic fraud on their perception.           (the
+    witness inflated testimony: presented perception as knowledge. Perjury.)'
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -3704,13 +3999,15 @@ sentences:
   source_anchor: S275
   notes: null
 - snum: S276
-  gloss: 'Presumption of innocence: "A person is not established as the cause before judgment.'
+  gloss: 'Presumption of innocence: "A person is not established as the cause before
+    judgment.'
   batch: LGL-001
   batch_sub: G
   status: normative
   tonesu: la-li  no-to-ne-go  ta-[ti  no-to-fe]
   gloss_line: agent:person  not-established-causal-connection  at:[time  no-judgment]
-  natural: A person is not established as the cause before judgment.           (a person is presumed not guilty until judgment is delivered)
+  natural: A person is not established as the cause before judgment.           (a
+    person is presumed not guilty until judgment is delivered)
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -3723,9 +4020,13 @@ sentences:
   batch_sub: H
   status: normative
   tonesu: la-to-fe-li  to-fe  lo-to-ne-go  ne  go-li
-  gloss_line: agent:arbiter  judged  patient:established-causal-connection  [as] pertaining-to cause-person
-  natural: 'The arbiter determined the established causal connection concerning the cause-person.           (delivered the verdict: found the perpetrator guilty)'
-  words_attested: []
+  gloss_line: agent:arbiter  judged  patient:established-causal-connection  [as] pertaining-to
+    cause-person
+  natural: 'The arbiter determined the established causal connection concerning the
+    cause-person.           (delivered the verdict: found the perpetrator guilty)'
+  words_attested:
+  - W028
+  - W032
   first_attests: []
   gap_refs: []
   source_file: sentences/s252-s278.md
@@ -3738,8 +4039,10 @@ sentences:
   status: normative
   tonesu: la-to-fe-su  su  lo-~tonesu
   gloss_line: agent:epistemic-standards-framework  is-structured  patient:approximately-truth
-  natural: The legal framework is organized approximately-truth.           (Legal doctrine is structured conjecture — approximating justice, not yet justice itself.)
-  words_attested: []
+  natural: The legal framework is organized approximately-truth.           (Legal
+    doctrine is structured conjecture — approximating justice, not yet justice itself.)
+  words_attested:
+  - W072
   first_attests: []
   gap_refs: []
   source_file: sentences/s252-s278.md
@@ -4326,7 +4629,8 @@ sentences:
   status: normative
   tonesu: la-mi  se  lo-zon    [ku?]
   gloss_line: agent:me  perceived  patient:herd-animal(casual)  [query?]
-  natural: Have you seen a deer? (casual register, speaker asking)           / Did you perceive a herd animal?
+  natural: Have you seen a deer? (casual register, speaker asking)           / Did
+    you perceive a herd animal?
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -4438,8 +4742,10 @@ sentences:
   status: normative
   tonesu: la-zo-ne  ki  lo-ma-pa
   gloss_line: agent:network-organism  moved  patient:soil-matter-place
-  natural: The fungal network spread through the soil. / The mycelium grew through the earth.
-  words_attested: []
+  natural: The fungal network spread through the soil. / The mycelium grew through
+    the earth.
+  words_attested:
+  - W076
   first_attests: []
   gap_refs: []
   source_file: sentences/s279-s334.md
@@ -4452,8 +4758,10 @@ sentences:
   status: normative
   tonesu: la-pa'zo-ne  ki  lo-zo-be
   gloss_line: agent:place-network-organism  moved  patient:biological-product
-  natural: Mold spread across the food. / The surface fungus colonized the organic matter.
-  words_attested: []
+  natural: Mold spread across the food. / The surface fungus colonized the organic
+    matter.
+  words_attested:
+  - W076
   first_attests: []
   gap_refs: []
   source_file: sentences/s279-s334.md
@@ -4467,7 +4775,8 @@ sentences:
   tonesu: su'zo-ne  be  zo-be
   gloss_line: structure-network-organism  produced  biological-product
   natural: The cap fungus produced a fruiting body. / The fungal network made a mushroom.
-  words_attested: []
+  words_attested:
+  - W076
   first_attests: []
   gap_refs: []
   source_file: sentences/s279-s334.md
@@ -4480,8 +4789,10 @@ sentences:
   status: normative
   tonesu: la-de'zo-ne  de  lo-zo-su
   gloss_line: agent:decay-network-organism  consumed  patient:plant-matter
-  natural: The yeast fermented the grain. / The decay fungus transformed the plant substrate.
-  words_attested: []
+  natural: The yeast fermented the grain. / The decay fungus transformed the plant
+    substrate.
+  words_attested:
+  - W076
   first_attests: []
   gap_refs: []
   source_file: sentences/s279-s334.md
@@ -4494,22 +4805,27 @@ sentences:
   status: normative
   tonesu: la-zi'zo-ne  zi  lo-zo-su
   gloss_line: agent:mutual-network-organism  coupled  patient:plant-matter
-  natural: The mycorrhizal fungus coupled with the plant. / The root fungus entered symbiosis with the tree.
-  words_attested: []
+  natural: The mycorrhizal fungus coupled with the plant. / The root fungus entered
+    symbiosis with the tree.
+  words_attested:
+  - W076
   first_attests: []
   gap_refs: []
   source_file: sentences/s279-s334.md
   source_anchor: S332
   notes: null
 - snum: S333
-  gloss: 'Mycelial network connects two trees: "The fungal network linked one tree to another.'
+  gloss: 'Mycelial network connects two trees: "The fungal network linked one tree
+    to another.'
   batch: FNG-001
   batch_sub: F
   status: normative
   tonesu: zo-ne  ne  zo-su  na-zo-su
   gloss_line: network-organism  relates  plant  with:plant
-  natural: The fungal network connected one tree to another. / The mycelium linked two plants.
-  words_attested: []
+  natural: The fungal network connected one tree to another. / The mycelium linked
+    two plants.
+  words_attested:
+  - W076
   first_attests: []
   gap_refs: []
   source_file: sentences/s279-s334.md
@@ -4522,8 +4838,10 @@ sentences:
   status: normative
   tonesu: la-de'zo-ne  de  lo-ma-pa
   gloss_line: agent:decay-network-organism  consumed  patient:soil-matter-place
-  natural: The decomposer fungi broke matter down to the soil. / The decay fungus returned matter to the earth.
-  words_attested: []
+  natural: The decomposer fungi broke matter down to the soil. / The decay fungus
+    returned matter to the earth.
+  words_attested:
+  - W076
   first_attests: []
   gap_refs: []
   source_file: sentences/s279-s334.md
@@ -4551,7 +4869,8 @@ sentences:
   tonesu: la-su'zo-ne  be  lo-zo-be  ta-ti-mi
   gloss_line: agent:cap-fungus  produced  patient:biological-product  at-present-time
   natural: The cap fungus is growing fruiting bodies on it right now.
-  words_attested: []
+  words_attested:
+  - W076
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -4565,7 +4884,8 @@ sentences:
   tonesu: la-zo-ne  ki  lo-ma-pa  ta-ti-be
   gloss_line: agent:fungal-network  moved  patient:soil  at-future-time
   natural: The mycelial network will spread through the soil.
-  words_attested: []
+  words_attested:
+  - W076
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -4579,7 +4899,9 @@ sentences:
   tonesu: la-pa'zo-ne  ki  lo-pa-mi
   gloss_line: agent:surface-fungus  moved  patient:here
   natural: The mold has spread here. / The mold has reached this surface.
-  words_attested: []
+  words_attested:
+  - W076
+  - W110
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -4606,7 +4928,8 @@ sentences:
   status: normative
   tonesu: lo-zo-su  be-vo
   gloss_line: patient:plant  generative-quality
-  natural: This plant is actively growing. / The plant is in a productive state right now.
+  natural: This plant is actively growing. / The plant is in a productive state right
+    now.
   words_attested: []
   first_attests: []
   gap_refs: []
@@ -4618,21 +4941,18 @@ sentences:
   batch: GRM-001
   batch_sub: G
   status: normative
-  tonesu: |-
-    Turn A:   to-si — la-tu  se  lo-zo-ne?
-              polar-question — agent:you  perceived  patient:fungal-network?
-              Have you seen the mycelium?
-
-    Turn B1:  ru — se  lo-zo-ne
-              affirmative — [la-mi dropped]  perceived  patient:fungal-network
-              Yes — [I] see it. / I can see it.
-
-    Turn B2:  ki  lo-pa-mi
-              [la-mi dropped]  moved  patient:here
-              [I'll] come here. / [I'm] going to take a look.
+  tonesu: "Turn A:   to-si — la-tu  se  lo-zo-ne?\n          polar-question — agent:you\
+    \  perceived  patient:fungal-network?\n          Have you seen the mycelium?\n\
+    \nTurn B1:  ru — se  lo-zo-ne\n          affirmative — [la-mi dropped]  perceived\
+    \  patient:fungal-network\n          Yes — [I] see it. / I can see it.\n\nTurn\
+    \ B2:  ki  lo-pa-mi\n          [la-mi dropped]  moved  patient:here\n        \
+    \  [I'll] come here. / [I'm] going to take a look."
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W026
+  - W076
+  - W110
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -4657,21 +4977,16 @@ sentences:
   batch: GRM-002
   batch_sub: B
   status: normative
-  tonesu: |-
-    Casual:    la-tu  se  lo-re'zo-se-ne  ku?
-               agent:you  perceived  patient:deer  [query?]
-
-    Formal:    to-si — la-tu  se  lo-re'zo-se-ne
-               [inquiry-frame] — agent:you  perceived  patient:deer
-
-    Natural:   Did you see a deer?  (both forms; casual vs formal register)
-
-    Typical response:  ru — se  lo-re'zo-se-ne  ta-ti-de
-                       yes — [I] perceived  patient:deer  at-past-time
-                       (Yes — I saw one earlier.)
+  tonesu: "Casual:    la-tu  se  lo-re'zo-se-ne  ku?\n           agent:you  perceived\
+    \  patient:deer  [query?]\n\nFormal:    to-si — la-tu  se  lo-re'zo-se-ne\n  \
+    \         [inquiry-frame] — agent:you  perceived  patient:deer\n\nNatural:   Did\
+    \ you see a deer?  (both forms; casual vs formal register)\n\nTypical response:\
+    \  ru — se  lo-re'zo-se-ne  ta-ti-de\n                   yes — [I] perceived \
+    \ patient:deer  at-past-time\n                   (Yes — I saw one earlier.)"
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W026
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -4682,12 +4997,15 @@ sentences:
   batch: GRM-002
   batch_sub: C
   status: normative
-  tonesu: |-
-    Blocked:      * la-zo-su  be-vo  ta-ti-mi
+  tonesu: 'Blocked:      * la-zo-su  be-vo  ta-ti-mi
+
     Grammatical:    lo-zo-su  be-vo  ta-ti-mi
 
+
     Literal (grammatical):  patient:plant  generative-quality  at-present-time
-    Natural:  This plant is actively growing right now.  (emphatic present; contingent state)
+
+    Natural:  This plant is actively growing right now.  (emphatic present; contingent
+    state)'
   gloss_line: null
   natural: null
   words_attested: []
@@ -4703,8 +5021,10 @@ sentences:
   status: normative
   tonesu: la-zo-ne  ki  lo-ma-pa  wi [de  lo-zo-su]
   gloss_line: agent:fungal-network  moved  patient:soil  intention [decays patient:plant]
-  natural: The mycelial network spreads through the soil in order to decompose plant matter.
-  words_attested: []
+  natural: The mycelial network spreads through the soil in order to decompose plant
+    matter.
+  words_attested:
+  - W076
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -4729,10 +5049,13 @@ sentences:
   batch: GRM-002
   batch_sub: F
   status: normative
-  tonesu: 'to-go [lo-be-di''zo-su  no-ki  lo-ma-pa  ta-ti-de]  la-zo-ne  no-ki  lo-ma-pa  ta-ti-de Premise:  patient:tall-tree  negated-moved  patient:soil  at-past-time Result:   agent:fungal-network  negated-moved  patient:soil  at-past-time'
+  tonesu: 'to-go [lo-be-di''zo-su  no-ki  lo-ma-pa  ta-ti-de]  la-zo-ne  no-ki  lo-ma-pa  ta-ti-de
+    Premise:  patient:tall-tree  negated-moved  patient:soil  at-past-time Result:   agent:fungal-network  negated-moved  patient:soil  at-past-time'
   gloss_line: null
   natural: If the tall tree had not fallen, the mycelial network would not have spread.
-  words_attested: []
+  words_attested:
+  - W076
+  - W089
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -4743,17 +5066,14 @@ sentences:
   batch: GRM-002
   batch_sub: G
   status: normative
-  tonesu: |-
-    Question:  la-zo-su  be  lo-to-si?
-               agent:plant  produces  patient:knowledge-seeking
-               What does a plant produce?
-
-    Answer:    la-zo-su  be  lo-zo-be
-               agent:plant  produces  patient:biological-product
-               A plant produces reproductive bodies. / Plants produce seeds.
+  tonesu: "Question:  la-zo-su  be  lo-to-si?\n           agent:plant  produces  patient:knowledge-seeking\n\
+    \           What does a plant produce?\n\nAnswer:    la-zo-su  be  lo-zo-be\n\
+    \           agent:plant  produces  patient:biological-product\n           A plant\
+    \ produces reproductive bodies. / Plants produce seeds."
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W026
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -4820,7 +5140,8 @@ sentences:
   batch: THO-001
   batch_sub: E
   status: normative
-  tonesu: '❌  la-be-go-li  go-no-go    (collision: go-no-go = concessive particle G009)'
+  tonesu: '❌  la-be-go-li  go-no-go    (collision: go-no-go = concessive particle
+    G009)'
   gloss_line: null
   natural: null
   words_attested: []
@@ -4837,7 +5158,9 @@ sentences:
   tonesu: la-be-go-li  lo-zo-li  ka-be-past  lo-be-go-li-si
   gloss_line: agent:creator  patient:person-organism  deliberately-generated  result:creator-representation
   natural: The creator made persons in the creator's image.
-  words_attested: []
+  words_attested:
+  - W148
+  - W149
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -4893,7 +5216,8 @@ sentences:
   tonesu: la-ra-ki  lo-ma-ki  ki-re
   gloss_line: agent:force-in-motion  patient:fluid-matter  sustained-motion
   natural: The wind moved over the waters.
-  words_attested: []
+  words_attested:
+  - W038
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -4907,7 +5231,8 @@ sentences:
   tonesu: lo-zo  lo-zo-ra  be
   gloss_line: topic:organism  topic:life-force  exists
   natural: Every organism has life-energy within it.
-  words_attested: []
+  words_attested:
+  - W117
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -4921,7 +5246,9 @@ sentences:
   tonesu: la-zo-si  de-past  ,  la-zo-to  no-de-past
   gloss_line: agent:spirit  departed  ,  agent:soul-pattern  did-not-depart
   natural: The spirit departed; the soul remained.
-  words_attested: []
+  words_attested:
+  - W068
+  - W069
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -4949,7 +5276,9 @@ sentences:
   tonesu: la-Elohim  lo-lu-mu  ka  lu-pa-fe
   gloss_line: agent:Elohim  patient:light-bodies  deliberate-acts  dest:toward-vault
   natural: God placed the light-bodies at the vault.
-  words_attested: []
+  words_attested:
+  - W138
+  - W139
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -4963,7 +5292,8 @@ sentences:
   tonesu: lo-zo-li  zo-to-no-ra  ,  vo  ne
   gloss_line: topic:persons  soul-without-force  ,  good  copula
   natural: Those who are poor in spirit — they are blessed.
-  words_attested: []
+  words_attested:
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -4975,9 +5305,13 @@ sentences:
   batch_sub: null
   status: normative
   tonesu: 'P1:  lo-ra  to-fe  ne            P2:  lo-wi-fe  lo-la-wi-li  go  ne            C:   (lo-ra  lo-la-wi-li  go  ne)'
-  gloss_line: 'P1:  topic:force  epistemic-boundary  holds            P2:  topic:normative-rules  willer-origin  holds            C:   (reportedly: force has a willer as its origin)'
-  natural: 'P1: Force obeys an epistemic regularity.            P2: Normative rules require a willer.            C:  (So it is claimed: force requires a willer.)'
-  words_attested: []
+  gloss_line: 'P1:  topic:force  epistemic-boundary  holds            P2:  topic:normative-rules  willer-origin  holds            C:   (reportedly:
+    force has a willer as its origin)'
+  natural: 'P1: Force obeys an epistemic regularity.            P2: Normative rules
+    require a willer.            C:  (So it is claimed: force requires a willer.)'
+  words_attested:
+  - W028
+  - W100
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -4989,9 +5323,12 @@ sentences:
   batch_sub: null
   status: normative
   tonesu: (la-ze  lo-wi-fe  be-si)  ,  du  la-ze  lo-wi-fe-no-fe  wi
-  gloss_line: '(reportedly: she signals let-rules-increase)            ,  result  she intends rules-without-boundary'
-  natural: '(She reportedly said: let rules increase.) — Therefore she intends            unlimited-governance [rules-without-boundary].'
-  words_attested: []
+  gloss_line: '(reportedly: she signals let-rules-increase)            ,  result  she
+    intends rules-without-boundary'
+  natural: '(She reportedly said: let rules increase.) — Therefore she intends            unlimited-governance
+    [rules-without-boundary].'
+  words_attested:
+  - W100
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5005,7 +5342,8 @@ sentences:
   tonesu: go  lo-zu  ne-li  no  ,  lo-zu  wi-de-li  ne
   gloss_line: because  topic:you  bonded-person  not  ,  topic:you  adversary  holds
   natural: Because you are not a bonded ally, you are an adversary.
-  words_attested: []
+  words_attested:
+  - W124
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5018,8 +5356,10 @@ sentences:
   status: normative
   tonesu: 'A:  lo-to-re-su  to  ,  go  la-be-go-li  lo-ze  si-past            B:  la-be-go-li  lo-ze  si-past  ,  go  lo-to-re-su  si'
   gloss_line: 'A:  topic:scripture  confirmed  ,  because  creator  it  signaled(past)            B:  creator  it  signaled(past)  ,  because  topic:scripture  signals-it'
-  natural: 'A:  The scripture is confirmed — because the creator attested it.            B:  The creator attested it — because the scripture says so.'
-  words_attested: []
+  natural: 'A:  The scripture is confirmed — because the creator attested it.            B:  The
+    creator attested it — because the scripture says so.'
+  words_attested:
+  - W064
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5033,7 +5373,8 @@ sentences:
   tonesu: 'lo-to-si-ze  :  la-mi  lo-ze  ka-to-fe  ,  no  lo-ze'
   gloss_line: 'topic:her-proposition  :  I  her  judge  ,  not  topic:her'
   natural: As for her proposition — I judge it, not her.   [correct form]
-  words_attested: []
+  words_attested:
+  - W122
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5045,9 +5386,13 @@ sentences:
   batch_sub: null
   status: normative
   tonesu: (la-to-li  lo-to-su  no-to)  ,  (du  lo-to-su  no-be)
-  gloss_line: '(reportedly: the scholar does-not-confirm the model)            ,  (reportedly-therefore: the model does not hold)'
-  natural: '(The scholar reportedly does not accept the model.)            (Therefore, reportedly: the model does not hold.)   [humble/correct form]'
-  words_attested: []
+  gloss_line: '(reportedly: the scholar does-not-confirm the model)            ,  (reportedly-therefore:
+    the model does not hold)'
+  natural: '(The scholar reportedly does not accept the model.)            (Therefore,
+    reportedly: the model does not hold.)   [humble/correct form]'
+  words_attested:
+  - W003
+  - W030
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5061,7 +5406,8 @@ sentences:
   tonesu: ta  [la-mi  lo-ma-no-de  mu-ka-past]  ,  la-mi  zo-de-fe-past
   gloss_line: when  [I  medicine  used(past)]  ,  I  fatigue-endpoint(past)
   natural: 'When I used medicine, my illness ended.   [temporal frame: ta]'
-  words_attested: []
+  words_attested:
+  - W046
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5075,7 +5421,8 @@ sentences:
   tonesu: 'lo-ko-mu  :  nu-de  ne'
   gloss_line: 'topic:each-component  :  small-quantity  holds'
   natural: 'As for each component: it has small mass.   [part claim]'
-  words_attested: []
+  words_attested:
+  - W052
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5089,7 +5436,8 @@ sentences:
   tonesu: la-wi-zo  lo-wi-zo  de    [descriptive]
   gloss_line: agent:wild-animals  patient:wild-animals  decrease
   natural: Wild animals kill each other.   [de — descriptive fact]
-  words_attested: []
+  words_attested:
+  - W145
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5102,8 +5450,10 @@ sentences:
   status: normative
   tonesu: la-mi  si  lo-ti-be  lo-ma-de
   gloss_line: 'I  signal/propose  [future: matter-decreases]'
-  natural: 'I hypothesize: in the future, material resources will decline.   [si — proposed/possible]'
-  words_attested: []
+  natural: 'I hypothesize: in the future, material resources will decline.   [si —
+    proposed/possible]'
+  words_attested:
+  - W040
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5114,18 +5464,24 @@ sentences:
   batch: FAL-002
   batch_sub: null
   status: normative
-  tonesu: |-
-    Bailey (strong claim, bare assertion):
+  tonesu: 'Bailey (strong claim, bare assertion):
+
     la-ka-li-su  :  lo-zo-li  to-no-fe  ka
 
+
     Motte (retreat when challenged):
+
     la-ka-li-su  :  lo-zo-li  wi-ne  ne
 
+
     Correction:
-    go  [la-ka-li-su  lo-zo-li  wi-ne  ne]  ,  no  la-ze  du  lo-to-no-fe  ka
+
+    go  [la-ka-li-su  lo-zo-li  wi-ne  ne]  ,  no  la-ze  du  lo-to-no-fe  ka'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W147
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5136,18 +5492,25 @@ sentences:
   batch: FAL-002
   batch_sub: null
   status: normative
-  tonesu: |-
-    (1) Original condition (attributed, past):
+  tonesu: '(1) Original condition (attributed, past):
+
     (go  [la-mi  lo-ra  se]  ,  la-mi  lo-to-si-ze  to-ki)
 
+
     (2) Condition met:
+
     la-mi  lo-ra  se-past
 
+
     (3) New goalpost (bare, present):
-    la-mi  wi-fe  be  :  lo-ra-ne  se-to
+
+    la-mi  wi-fe  be  :  lo-ra-ne  se-to'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W020
+  - W062
+  - W100
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5158,18 +5521,26 @@ sentences:
   batch: FAL-002
   batch_sub: null
   status: normative
-  tonesu: |-
-    Fallacious chain:
+  tonesu: 'Fallacious chain:
+
     go  [lo-wi-fe  de]  ,
+
     (du  lo-ne-ki  de)  ,
+
     (du  lo-ka-li-su  de)  ,
+
     (du  lo-ne-su  de)
 
+
     Correction:
-    go  [lo-wi-fe  de]  ,  la-mi  no-se  lo-ne-ki  de
+
+    go  [lo-wi-fe  de]  ,  la-mi  no-se  lo-ne-ki  de'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W031
+  - W100
+  - W147
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5180,18 +5551,25 @@ sentences:
   batch: FAL-002
   batch_sub: null
   status: normative
-  tonesu: |-
-    Illegitimate (emotional fact → specific policy without warrant chain):
+  tonesu: 'Illegitimate (emotional fact → specific policy without warrant chain):
+
     la-zo-ne-du  lo-fa  de-past  ,
+
     (du  la-mi  lo-zo-ne-du  pa-ki)
 
+
     Legitimate (full warrant chain stated):
+
     go  [la-zo-ne-du  lo-fa  de-past]  ,
+
     go  [la-mi  lo-zo-ne-du  vo-wi]  ,
-    la-mi  lo-zo-ne-du  pa-ki
+
+    la-mi  lo-zo-ne-du  pa-ki'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W078
+  - W156
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5202,15 +5580,18 @@ sentences:
   batch: FAL-002
   batch_sub: null
   status: normative
-  tonesu: |-
-    Loaded (presupposition hidden inside question frame):
+  tonesu: 'Loaded (presupposition hidden inside question frame):
+
     to-si  [la-zu  lo-to-de  de-fe-past]
 
+
     Well-formed interrogation (presupposition extracted and marked):
-    (la-zu  lo-to-de  ka-past)  ,  to-si  [la-ze  de-fe-past]
+
+    (la-zu  lo-to-de  ka-past)  ,  to-si  [la-ze  de-fe-past]'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W026
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5221,18 +5602,27 @@ sentences:
   batch: FAL-003
   batch_sub: null
   status: normative
-  tonesu: |-
-    Triple-loaded (all three presuppositions hidden):
+  tonesu: 'Triple-loaded (all three presuppositions hidden):
+
     to-si  [la-zu  lo-wi-fe  de-fe-past]
 
+
     Full extraction (three () premises, then clean question):
+
     (la-zu  lo-ne-ki  de-past)
+
     (la-zu  go  lo-mu-su  lo-zo-li  ka-past)
+
     (la-zu  lo-ka-li-su  lo-mu-su  be-past)
-    to-si  [la-zu  lo-wi-fe  de-fe-past]
+
+    to-si  [la-zu  lo-wi-fe  de-fe-past]'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W026
+  - W100
+  - W147
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5243,22 +5633,31 @@ sentences:
   batch: FAL-003
   batch_sub: null
   status: normative
-  tonesu: |-
-    Claim (A — strong):
+  tonesu: 'Claim (A — strong):
+
     la-ka-li-su  :  lo-zo-li  to-no-fe  ka
 
+
     Challenged. Retreat to B (intermediate):
+
     la-ka-li-su  :  lo-zo-li  vo-wi-fe  ne-past
 
+
     Challenged again. Retreat to C (undeniable):
+
     la-ka-li-su  :  lo-zo-li  ne  ne
 
+
     Correction (blocking A from both retreats):
+
     go  [la-ka-li-su  lo-zo-li  ne  ne]  ,  no  la-ze  du  lo-vo-wi-fe  ne
-    go  [la-ka-li-su  lo-zo-li  vo-wi-fe  ne]  ,  no  la-ze  du  lo-to-no-fe  ka
+
+    go  [la-ka-li-su  lo-zo-li  vo-wi-fe  ne]  ,  no  la-ze  du  lo-to-no-fe  ka'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W147
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5269,22 +5668,34 @@ sentences:
   batch: FAL-003
   batch_sub: null
   status: normative
-  tonesu: |-
-    Fallacious (three bare links + one bracketed, legitimacy gradient hidden):
+  tonesu: 'Fallacious (three bare links + one bracketed, legitimacy gradient hidden):
+
     go  [lo-wi-fe  de]  ,
+
     lo-ne-su  de  ,
+
     lo-ka-li-su  de  ,
+
     (du  lo-ka-no-fe  de)  ,
+
     lo-ne-su  be-no-fe
 
-    Corrected (each link labeled by speaker's actual commitment):
+
+    Corrected (each link labeled by speaker''s actual commitment):
+
     go  [lo-wi-fe  de]  ,      la-mi  se  lo-ne-su  de
+
     go  [lo-ne-su  de]  ,      la-mi  no-se  lo-ka-li-su  de
+
     go  [lo-ka-li-su  de]  ,   (du  lo-ka-no-fe  de)
-    (du  lo-ka-no-fe  de)  ,   (du  lo-ne-su  be-no-fe)
+
+    (du  lo-ka-no-fe  de)  ,   (du  lo-ne-su  be-no-fe)'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W031
+  - W100
+  - W147
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5295,19 +5706,27 @@ sentences:
   batch: FAL-003
   batch_sub: null
   status: normative
-  tonesu: |-
-    Standard evidential (one layer):
+  tonesu: 'Standard evidential (one layer):
+
     (la-to-li  lo-to-su  ne)
 
+
     Nested evidential (two layers — attributed report of a report):
+
     (la-ka-li-su  (la-to-li  lo-to-su  ne)  re-ka)
 
+
     Speaker endorsement breaking the chain:
+
     la-mi  no-se  lo-to-su  ne  ,
-    go  (la-ka-li-su  (la-to-li  lo-to-su  ne)  re-ka)
+
+    go  (la-ka-li-su  (la-to-li  lo-to-su  ne)  re-ka)'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W003
+  - W030
+  - W147
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5318,23 +5737,33 @@ sentences:
   batch: FAL-003
   batch_sub: null
   status: normative
-  tonesu: |-
-    Agent A's report (attributed hypothesis):
+  tonesu: 'Agent A''s report (attributed hypothesis):
+
     (la-na-Ren  lo-to-si-ze  si)
 
-    Agent B's elevation (transforms A's hypothesis to B's inference):
+
+    Agent B''s elevation (transforms A''s hypothesis to B''s inference):
+
     go  [(la-na-Ren  lo-to-si-ze  si)]  ,  la-na-Kael  lo-to-si-ze  se
 
-    Institutional elevation (transforms B's inference to institutional certainty):
+
+    Institutional elevation (transforms B''s inference to institutional certainty):
+
     go  [la-na-Kael  lo-to-si-ze  se]  ,  la-to-fe-su  lo-to-si-ze  to-su
 
-    Speaker's diagnosis:
+
+    Speaker''s diagnosis:
+
     la-mi  no-to  lo-to-si-ze  to-su  ,
+
     go  [la-to-fe-su  lo-to-si-ze  to-su]  ,
-    go  [la-na-Kael  lo-to-si-ze  se  ,  go  (la-na-Ren  lo-to-si-ze  si)]
+
+    go  [la-na-Kael  lo-to-si-ze  se  ,  go  (la-na-Ren  lo-to-si-ze  si)]'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W030
+  - W072
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5345,16 +5774,21 @@ sentences:
   batch: FAL-004
   batch_sub: null
   status: normative
-  tonesu: |-
-    Speech:
+  tonesu: 'Speech:
+
     (la-to-fe-su  lo-ka-li-su  de)  ,  la-mi  to  lo-ka-li-su  de
 
+
     Diagnosis:
+
     la-mi  to  lo-to-fe-su  lo-ze  re-ka  ,
-    no  la-mi  to  lo-ka-li-su  de
+
+    no  la-mi  to  lo-ka-li-su  de'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W072
+  - W147
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5365,16 +5799,20 @@ sentences:
   batch: FAL-004
   batch_sub: null
   status: normative
-  tonesu: |-
-    Challenged:
+  tonesu: 'Challenged:
+
     la-zu  lo-ka-li-su-mi  to-si  ne
 
+
     Response (topic substitution):
+
     lo-ka-li-su-mi  :  la-mi  lo-ze  se  ne  ,
-    na-Kur  :  la-ze  lo-to-de  re-ka
+
+    na-Kur  :  la-ze  lo-to-de  re-ka'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W026
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5385,14 +5823,18 @@ sentences:
   batch: FAL-004
   batch_sub: null
   status: normative
-  tonesu: |-
-    go  [la-mi  se  lo-ra-ma-de  se]  ,
+  tonesu: 'go  [la-mi  se  lo-ra-ma-de  se]  ,
+
     (du  lo-ne-su  mu-be)  ,
+
     (du  lo-ka-li-su  de-fe)  ,
-    (du  la-ka-no-fe  lo-ne-su  ka-ki)
+
+    (du  la-ka-no-fe  lo-ne-su  ka-ki)'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W031
+  - W147
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5403,19 +5845,27 @@ sentences:
   batch: FAL-004
   batch_sub: null
   status: normative
-  tonesu: |-
-    Demand (bare):
+  tonesu: 'Demand (bare):
+
     go  [la-mi  se  lo-ra-ma-de  se]  ,
+
     la-mi  lo-zo-li  ka-li-su  wi
 
+
     Corrected (minimum warrant chain):
+
     go  [la-mi  se  lo-ra-ma-de  se]  ,
+
     go  [lo-ra-ma-de  lo-zo-li  mu-be]  ,
+
     go  [la-mi  lo-zo-li  vo  wi]  ,
-    la-mi  lo-zo-li  ka-li-su  wi
+
+    la-mi  lo-zo-li  ka-li-su  wi'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W147
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5426,15 +5876,22 @@ sentences:
   batch: FAL-004
   batch_sub: null
   status: normative
-  tonesu: |-
-    (la-to-fe-su  lo-ka-li-su  de)  ,  la-mi  to  lo-ka-li-su  de  ,
+  tonesu: '(la-to-fe-su  lo-ka-li-su  de)  ,  la-mi  to  lo-ka-li-su  de  ,
+
     go  [lo-ka-li-su  de]  ,  (du  lo-ne-su  mu-be)  ,  (du  lo-ka-li-su  de-fe)  ,
+
     lo-ka-li-su-mi  :  la-mi  lo-ze  se  ne  ,
+
     na-Kur  :  la-ze  lo-to-de  re-ka  ,
-    go  [la-mi  se  lo-ra-ma-de  se]  ,  la-mi  lo-zo-li  ka-li-su  wi
+
+    go  [la-mi  se  lo-ra-ma-de  se]  ,  la-mi  lo-zo-li  ka-li-su  wi'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W031
+  - W072
+  - W147
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5445,28 +5902,44 @@ sentences:
   batch: FAL-005
   batch_sub: null
   status: normative
-  tonesu: |-
-    (la-to-fe-su  lo-ra-ma-de  se)  ,
+  tonesu: '(la-to-fe-su  lo-ra-ma-de  se)  ,
+
 
     la-mi  to  lo-ra-ma-de  de  ,
 
+
     go  [lo-ra-ma-de  de]  ,
+
     (du  lo-ne-su  mu-be)  ,
+
     (du  lo-ka-li-su  de-fe)  ,
+
 
     lo-ka-li-su-mi  :  la-mi  lo-zo-li  vo  wi  ,
 
+
     na-Kur  :
+
     (la-na-Kur  la-to-fe-su-ki  (la-to-li  lo-ra-ma-de  de  si)  re-ka)  ,
+
     la-na-Kur  lo-ra-ma-de  de  to  ,
 
+
     go  [(la-mi  se  lo-ra-ma-de  de)]  ,
+
     (du  la-mi  lo-ka-li-su  wi)  ,
 
-    (du  la-mi  lo-ka-li-su  to)
+
+    (du  la-mi  lo-ka-li-su  to)'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W003
+  - W031
+  - W072
+  - W097
+  - W147
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5491,22 +5964,31 @@ sentences:
   batch: FAL-006
   batch_sub: null
   status: normative
-  tonesu: |-
-    Depth-1 (direct attribution):
+  tonesu: 'Depth-1 (direct attribution):
+
     (la-na-Sura  lo-ka-li-su  de  se)
 
+
     Depth-2 (report-of-report):
+
     (la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)
 
+
     Depth-3 (report-of-report-of-report):
+
     (la-to-fe-su  (la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)  re-ka)
 
-    Speaker's diagnosis:
+
+    Speaker''s diagnosis:
+
     la-mi  no-se  lo-ka-li-su  de  ,
-    go  [la-to-fe-su  (la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)  re-ka]
+
+    go  [la-to-fe-su  (la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)  re-ka]'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W072
+  - W147
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5517,18 +5999,25 @@ sentences:
   batch: FAL-006
   batch_sub: null
   status: normative
-  tonesu: |-
-    Hearsay chain (depth-3, identical to S391):
+  tonesu: 'Hearsay chain (depth-3, identical to S391):
+
     (la-to-fe-su  (la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)  re-ka)  ,
 
+
     Laundering step:
+
     la-mi  to  lo-ka-li-su  de  ,
 
+
     Policy conclusion (normative leap):
-    go  [lo-ka-li-su  de]  ,  la-mi  lo-zo-li  ka-li-su  wi
+
+    go  [lo-ka-li-su  de]  ,  la-mi  lo-zo-li  ka-li-su  wi'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W072
+  - W147
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5539,13 +6028,15 @@ sentences:
   batch: FAL-007
   batch_sub: null
   status: normative
-  tonesu: |-
-    (la-to-fe-su  lo-ra-ma-de  de  se)  ,
+  tonesu: '(la-to-fe-su  lo-ra-ma-de  de  se)  ,
+
     la-mi  to  [la-to-fe-su  lo-ze  re-ka]  ,
-    la-mi  se  lo-ra-ma-de  de
+
+    la-mi  se  lo-ra-ma-de  de'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W072
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5556,19 +6047,29 @@ sentences:
   batch: FAL-007
   batch_sub: null
   status: normative
-  tonesu: |-
-    Challenged:
+  tonesu: 'Challenged:
+
     la-zu  lo-ka-li-su-mi  to-si  ne
 
+
     Response:
+
     lo-ka-li-su-mi  :
+
     la-mi  se  lo-ra-ma-de  de  ,
+
     go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be]  ,
+
     la-mi  lo-zo-li  vo  wi  ,
-    du  la-mi  lo-ra-ma  ka-li-su  wi
+
+    du  la-mi  lo-ra-ma  ka-li-su  wi'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W026
+  - W082
+  - W147
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5579,14 +6080,15 @@ sentences:
   batch: FAL-007
   batch_sub: null
   status: normative
-  tonesu: |-
-    go  [la-mi  se  lo-ra-ma-de  de]  ,
-    go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be  ,
-         go  [la-na-Sura  lo-ra-su  ka  ti-de]  lo-ze  se]  ,
-    la-mi  se  lo-ne-su  mu-be
+  tonesu: "go  [la-mi  se  lo-ra-ma-de  de]  ,\ngo  [lo-ra-ma-de  de  ,  lo-zo-li\
+    \  mu-be  ,\n     go  [la-na-Sura  lo-ra-su  ka  ti-de]  lo-ze  se]  ,\nla-mi\
+    \  se  lo-ne-su  mu-be"
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W031
+  - W041
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5597,15 +6099,21 @@ sentences:
   batch: FAL-007
   batch_sub: null
   status: normative
-  tonesu: |-
-    go  [la-mi  se  lo-ra-ma-de  de]  ,
+  tonesu: 'go  [la-mi  se  lo-ra-ma-de  de]  ,
+
     go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be]  ,
+
     go  [la-mi  lo-zo-li  vo  wi]  ,
+
     la-mi  lo-ra-ma  ka-li-su  wi  ,
-    la-mi  se  lo-ze  be-vo
+
+    la-mi  se  lo-ze  be-vo'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W082
+  - W147
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5616,26 +6124,24 @@ sentences:
   batch: FAL-007
   batch_sub: null
   status: normative
-  tonesu: |-
-    (la-to-fe-su  lo-ra-ma-de  de  se)  ,
-    la-mi  to  [la-to-fe-su  lo-ze  re-ka]  ,
-    la-mi  se  lo-ra-ma-de  de  ,
-
-    go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be  ,
-         go  [la-na-Sura  lo-ra-su  ka  ti-de]  lo-ze  se]  ,
-    la-mi  se  lo-ne-su  mu-be  ,
-
-    lo-ka-li-su-mi  :
-    go  [la-mi  se  lo-ra-ma-de  de]  ,
-    go  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be]  ,
-    go  [la-mi  lo-zo-li  vo  wi]  ,
-    la-mi  lo-ra-ma  ka-li-su  wi  ,
-
-    la-mi  se  lo-ze  be-vo  ,
-    la-mi  to-si  [la-zu  lo-ze  se-to  to-si]
+  tonesu: "(la-to-fe-su  lo-ra-ma-de  de  se)  ,\nla-mi  to  [la-to-fe-su  lo-ze \
+    \ re-ka]  ,\nla-mi  se  lo-ra-ma-de  de  ,\n\ngo  [lo-ra-ma-de  de  ,  lo-zo-li\
+    \  mu-be  ,\n     go  [la-na-Sura  lo-ra-su  ka  ti-de]  lo-ze  se]  ,\nla-mi\
+    \  se  lo-ne-su  mu-be  ,\n\nlo-ka-li-su-mi  :\ngo  [la-mi  se  lo-ra-ma-de  de]\
+    \  ,\ngo  [lo-ra-ma-de  de  ,  lo-zo-li  mu-be]  ,\ngo  [la-mi  lo-zo-li  vo \
+    \ wi]  ,\nla-mi  lo-ra-ma  ka-li-su  wi  ,\n\nla-mi  se  lo-ze  be-vo  ,\nla-mi\
+    \  to-si  [la-zu  lo-ze  se-to  to-si]"
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W026
+  - W031
+  - W041
+  - W062
+  - W072
+  - W082
+  - W147
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s335-s397.md
@@ -5691,7 +6197,8 @@ sentences:
   tonesu: la-si-ki-li'be-go-li  lu  lo-na-Moses  ro-ra-lu-ki
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W158
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -5705,7 +6212,8 @@ sentences:
   tonesu: la-zo-su  ra-lu-ki  no  de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W151
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -5719,7 +6227,9 @@ sentences:
   tonesu: la-na-Moses  to  [to-si  go  la-zo-su  ra-lu-ki  no  de]
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W026
+  - W151
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -5747,7 +6257,8 @@ sentences:
   tonesu: la-na-Moses  si  lo-pa-mi
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W110
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -5761,7 +6272,10 @@ sentences:
   tonesu: la-Elohim  ka-si  /  no-ki-di  /  lo-ki-ne  ka-de-ne  /  pa-mi  pa-vo-fe
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W110
+  - W152
+  - W153
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -5789,7 +6303,8 @@ sentences:
   tonesu: la-na-Moses  ka-ko  lo-se-lu-ze  /  fa-ra  go  ka-se  lo-Elohim
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W154
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -5803,7 +6318,8 @@ sentences:
   tonesu: la-Elohim  se  lo-fa-de-ra'zo-li-mi  pa-na-Egypt
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W155
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -5817,7 +6333,8 @@ sentences:
   tonesu: la-Elohim  ki  wi  ka-pa-ki  lo-zo-li-mi  pa-na-Egypt  di-pa-vo
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W160
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -5831,7 +6348,8 @@ sentences:
   tonesu: la-Elohim  ka-si  lo-na-Moses  /  ki  /  wi  la-tu  ki  lo-na-Pharaoh  ka-pa-ki  lo-zo-li-mi
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W160
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -5845,7 +6363,9 @@ sentences:
   tonesu: la-na-Moses  to-si  la-mi  wi  ka-pa-ki  lo-zo-li-mi?
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W026
+  - W160
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -5859,7 +6379,8 @@ sentences:
   tonesu: la-Elohim  ne  pa-tu  /  du  la-tu  ka-pa-ki  lo-zo-li-mi,  la-tu  ki  lo-pa-su-mi
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W160
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -5873,7 +6394,8 @@ sentences:
   tonesu: la-na-Moses  to-si  na-Elohim?
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W026
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -5887,7 +6409,8 @@ sentences:
   tonesu: la-mi  go-ne  lo-mi
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W159
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -5929,7 +6452,11 @@ sentences:
   tonesu: ti-mi  ne  ka-pa-ki'ti-re
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W103
+  - W109
+  - W160
+  - W167
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -5957,7 +6484,10 @@ sentences:
   tonesu: '[na-Jesus:]  "ki  /  ka-su  lo-ka-pa-ki''ti-re  lu-yu"'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W103
+  - W160
+  - W167
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -5971,7 +6501,11 @@ sentences:
   tonesu: '[na-Peter  ro-na-John:]  "pa-wi  to-si  ka-su  lo-ka-pa-ki''ti-re?"'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W026
+  - W103
+  - W160
+  - W167
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -5985,7 +6519,10 @@ sentences:
   tonesu: la-na-Peter  ro-na-John  se  lo-ze  /  la-yu  ka-su  lo-ka-pa-ki'ti-re
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W103
+  - W160
+  - W167
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -5999,7 +6536,8 @@ sentences:
   tonesu: ti  ki  ze  /  la-na-Jesus  ne  ro-pu-si-ki-li-ze  ko-pa'be
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W048
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6013,7 +6551,11 @@ sentences:
   tonesu: '[na-Jesus:]  "fa-wi-mi  nu-vo  ka-zo-ra-ma  lo-ka-pa-ki''ti-re  ro-yu  ti-fe  fa-de-ra-mi"'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W037
+  - W103
+  - W160
+  - W167
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6041,7 +6583,9 @@ sentences:
   tonesu: la-na-Jesus  ka-ne  lo-ko-mu  /  la-ze  ka-vo-si
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W052
+  - W168
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6069,7 +6613,8 @@ sentences:
   tonesu: '[na-Jesus:]  "la-mi  no  ka-zo-ra-ma  lo-du-zo-su  ti  ki  pa-be''ka-li-su"'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W142
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6083,7 +6628,9 @@ sentences:
   tonesu: la-na-Jesus  ka-ne  lo-ka-du-zo-su  /  la-ze  ka-vo-si
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W161
+  - W168
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6140,7 +6687,9 @@ sentences:
   tonesu: la-na-Jesus  ti-de  ka-zo-ra-ma  ka-ne  lo-ko-mu
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W041
+  - W052
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6196,7 +6745,8 @@ sentences:
   tonesu: '[na-Jesus:]  "ka-zo-ra-ma  lo-de-ki''ma  pu-yu  /  zo-ki''ma-mi  ne  ze  go-ne-to-fe"'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W162
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6210,7 +6760,9 @@ sentences:
   tonesu: '[na-Jesus:]  "la-ze  ka-ne-de  lo-mi  ti-be  /  ne  ro-mi  pa-mi"'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W040
+  - W092
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6224,7 +6776,8 @@ sentences:
   tonesu: to-su  helm  ra
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W030
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6281,7 +6834,8 @@ sentences:
   tonesu: zo-li  helms  to-zo
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6495,7 +7049,8 @@ sentences:
   tonesu: ti  helm  be-vo / ti  helm  de-vo
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W121
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6551,7 +7106,8 @@ sentences:
   tonesu: 'pa / no-pa : ne to-si'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W026
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6565,7 +7121,8 @@ sentences:
   tonesu: 'la-mi pa / la-mi no-pa : ne to-si'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W026
   first_attests: []
   gap_refs:
   - GAP-HAM-002
@@ -6580,7 +7137,8 @@ sentences:
   tonesu: 'de lo-no-ko-ra / ka-ra lo-de-no-fe : ne to-si'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W026
   first_attests: []
   gap_refs:
   - GAP-HAM-001
@@ -6675,7 +7233,8 @@ sentences:
   source_anchor: S470
   notes: null
 - snum: S471
-  gloss: 'Stanza 1, lines 1-2: "Because I could not stop for Death — / He kindly stopped for me —'
+  gloss: 'Stanza 1, lines 1-2: "Because I could not stop for Death — / He kindly stopped
+    for me —'
   batch: EMD-001
   batch_sub: A
   status: normative
@@ -6699,7 +7258,8 @@ sentences:
   tonesu: la-ki-pa-mu ko lo-mi lo-de-zo-li lo-no-de-zo-li
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W086
   first_attests: []
   gap_refs:
   - GAP-EMD-004
@@ -6707,14 +7267,16 @@ sentences:
   source_anchor: S472
   notes: null
 - snum: S473
-  gloss: 'Stanza 6 grave scene: "We paused before a House that seemed / A Swelling of the Ground —'
+  gloss: 'Stanza 6 grave scene: "We paused before a House that seemed / A Swelling
+    of the Ground —'
   batch: EMD-001
   batch_sub: C
   status: normative
   tonesu: la-mi la-de-zo-li de-ki ne-di-ko-pa, ko-pa helm be-ma-pa
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W048
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6801,7 +7363,8 @@ sentences:
   tonesu: la-ra-lu-ki be ; la-su-lu ki be ; la-si ki pa-no-ko
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W151
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6815,7 +7378,8 @@ sentences:
   tonesu: la-du-zo-su ki ; la-zo-su be ; la-du ki
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W142
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6829,7 +7393,8 @@ sentences:
   tonesu: la-to be ; la-to-ki be ; la-zo-li-pu vo be
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W020
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6899,7 +7464,8 @@ sentences:
   tonesu: la-yu ki ; la-ti ki ti-de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W041
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6913,7 +7479,9 @@ sentences:
   tonesu: go {la-ze ka-si  ro  la-zo-li se}, la-to-ki pa
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W020
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6955,7 +7523,8 @@ sentences:
   tonesu: la-ne-su ki ; la-zi ki ; la-pu-li be
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W031
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6969,7 +7538,8 @@ sentences:
   tonesu: la-du-zo-su pa ; la-ti ki ; la-du ki
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W142
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -6997,7 +7567,8 @@ sentences:
   tonesu: la-to-su ki ; la-ze de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W030
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -7165,7 +7736,8 @@ sentences:
   tonesu: a-to helm to-su
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W030
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -7277,7 +7849,8 @@ sentences:
   tonesu: la-du-zo-su ko lo-u-su
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W142
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -7305,7 +7878,8 @@ sentences:
   tonesu: la-ki-pa-mu ko lo-mi lo-de-zo-li — lo-no-de-zo-li
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W086
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -7319,7 +7893,8 @@ sentences:
   tonesu: la-mi la-de-zo-li de-ki ne-di-ko-pa — ko-pa helm be-ma-pa —
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W048
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -7345,9 +7920,9 @@ sentences:
   batch: EMD-002
   batch_sub: E
   status: normative
-  tonesu: |-
-    (a) la-su ki, la-mi se lo-ze
-    (b) la-su ki — la-mi se lo-ze
+  tonesu: '(a) la-su ki, la-mi se lo-ze
+
+    (b) la-su ki — la-mi se lo-ze'
   gloss_line: null
   natural: null
   words_attested: []
@@ -7361,9 +7936,9 @@ sentences:
   batch: EMD-002
   batch_sub: F
   status: normative
-  tonesu: |-
-    (a) la-su ki ; la-mi se lo-ze
-    (b) la-su ki — la-mi se lo-ze
+  tonesu: '(a) la-su ki ; la-mi se lo-ze
+
+    (b) la-su ki — la-mi se lo-ze'
   gloss_line: null
   natural: null
   words_attested: []
@@ -7377,9 +7952,9 @@ sentences:
   batch: EMD-002
   batch_sub: G
   status: normative
-  tonesu: |-
-    (a) la-su be / la-su de
-    (b) la-su be — la-su de —
+  tonesu: '(a) la-su be / la-su de
+
+    (b) la-su be — la-su de —'
   gloss_line: null
   natural: null
   words_attested: []
@@ -7410,7 +7985,8 @@ sentences:
   tonesu: la-ki-pa-mu ko lo-ti-no-fe —
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W086
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -7463,9 +8039,9 @@ sentences:
   batch: CVP-001
   batch_sub: C
   status: normative
-  tonesu: |-
-    he na-Moses!
-    la-na-Moses pa
+  tonesu: 'he na-Moses!
+
+    la-na-Moses pa'
   gloss_line: null
   natural: null
   words_attested: []
@@ -7479,10 +8055,11 @@ sentences:
   batch: CVP-001
   batch_sub: D
   status: normative
-  tonesu: |-
-    na-Moses!             [exclamatory NP — still an NP; not a speech act]
+  tonesu: 'na-Moses!             [exclamatory NP — still an NP; not a speech act]
+
     he na-Moses!          [vocative speech act — direct call]
-    la-na-Moses ka-si     ["Moses spoke" — predicate clause; Moses is agent]
+
+    la-na-Moses ka-si     ["Moses spoke" — predicate clause; Moses is agent]'
   gloss_line: null
   natural: null
   words_attested: []
@@ -7524,9 +8101,9 @@ sentences:
   batch: CVP-001
   batch_sub: G
   status: normative
-  tonesu: |-
-    he na-Moses, ki di-pa-su      [you — go toward the mountain]
-    ya, ki di-pa-su               [look — go toward the mountain]
+  tonesu: 'he na-Moses, ki di-pa-su      [you — go toward the mountain]
+
+    ya, ki di-pa-su               [look — go toward the mountain]'
   gloss_line: null
   natural: null
   words_attested: []
@@ -7638,10 +8215,11 @@ sentences:
   batch: COR-001
   batch_sub: G
   status: normative
-  tonesu: |-
-    no                         [minimal negative — denies; no replacement]
+  tonesu: 'no                         [minimal negative — denies; no replacement]
+
     no, la-Elohim ka-si        [denial + separate clause — two speech acts]
-    no — la-Elohim ka-si       [correction speech act — one unitary act]
+
+    no — la-Elohim ka-si       [correction speech act — one unitary act]'
   gloss_line: null
   natural: null
   words_attested: []
@@ -7940,7 +8518,9 @@ sentences:
   tonesu: la-su-mu-li  ka-be  lo-ra-su  ti-de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W002
+  - W041
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -7954,7 +8534,8 @@ sentences:
   tonesu: lo-ra-su  de  ti-de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W041
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -7968,7 +8549,8 @@ sentences:
   tonesu: lo-ra-su  ka-be  ti-de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W041
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -7982,7 +8564,8 @@ sentences:
   tonesu: ro-ra-ki-mu  lo-ra-su  ka-be  ti-de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W041
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -7996,7 +8579,8 @@ sentences:
   tonesu: 'ra-su : ka-be  ti-de'
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W041
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -8010,7 +8594,8 @@ sentences:
   tonesu: la-li-pu  ka-be  lo-su  ti-de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W041
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -8066,7 +8651,9 @@ sentences:
   tonesu: lo-to-si  ka-ki  ti-de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W026
+  - W041
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -8080,7 +8667,9 @@ sentences:
   tonesu: go ha-be  lo-zo-li  de  ti-de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W041
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -8094,7 +8683,9 @@ sentences:
   tonesu: no — go si-zo  lo-zo-li  de  ti-de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W041
+  - W148
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -8108,7 +8699,8 @@ sentences:
   tonesu: ya, la-mi  se  lo-ha-be ; go ha-be  lo-ko-su  de  ti-de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W041
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -8122,7 +8714,8 @@ sentences:
   tonesu: no — la-tu  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W041
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -8136,7 +8729,8 @@ sentences:
   tonesu: ya, la-to-su  si  {go ha-be  lo-ko-su  de}
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W030
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -8150,7 +8744,8 @@ sentences:
   tonesu: no — go si-zo-be  lo-ko-su  de  ti-de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W041
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -8164,7 +8759,8 @@ sentences:
   tonesu: ke, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W041
   first_attests: []
   gap_refs:
   - OQ-COR-001
@@ -8179,7 +8775,8 @@ sentences:
   tonesu: ke! la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W041
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -8193,7 +8790,8 @@ sentences:
   tonesu: ya, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W041
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -8207,7 +8805,8 @@ sentences:
   tonesu: ya, ke, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W041
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -8221,7 +8820,8 @@ sentences:
   tonesu: la-li-pu  ne  wi-fe  lo-ra-pa
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W100
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -8235,7 +8835,8 @@ sentences:
   tonesu: no — la-pa-pu  ne  wi-fe  lo-ra-pa
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W100
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -8249,7 +8850,9 @@ sentences:
   tonesu: ya, la-si-su  ko  {la-li-pu  ne  wi-fe  lo-ra-pa}  ti-de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W041
+  - W100
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -8263,7 +8866,9 @@ sentences:
   tonesu: no — la-si-su  ko  {la-pa-pu  ne  wi-fe  lo-ra-pa}  ti-de
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W041
+  - W100
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -8277,7 +8882,9 @@ sentences:
   tonesu: ya, la-to-su  si  {la-li-pu  ne  wi-fe  lo-ra-pa}
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W030
+  - W100
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -8291,7 +8898,8 @@ sentences:
   tonesu: no — la-pa-pu  ne  wi-fe  lo-ra-pa
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W100
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
@@ -8305,7 +8913,9 @@ sentences:
   tonesu: ke, la-pa-pu  ne  wi-fe  lo-ra-pa ; la-to-su  si  {pa-pu  ne  wi-fe}
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W030
+  - W100
   first_attests: []
   gap_refs:
   - OQ-COR-001
@@ -8334,7 +8944,9 @@ sentences:
   tonesu: ke, la-pa-pu  ne  wi-fe  lo-ra-pa ; la-to-su  si  {pa-pu  ne  wi-fe}
   gloss_line: null
   natural: null
-  words_attested: []
+  words_attested:
+  - W030
+  - W100
   first_attests: []
   gap_refs: []
   source_file: sentences/s398-plus.md
