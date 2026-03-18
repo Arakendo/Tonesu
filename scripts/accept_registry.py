@@ -2,14 +2,17 @@
 """
 accept_registry.py
 
-Formal acceptance pass — updates Status fields in registry source files
-and the index.md quick-reference.
+Formal acceptance pass — updates Status fields in:
+  1. registry/derived/w*.md source files  (markdown, human-readable)
+  2. registry/derived/index.md            (quick-reference)
+  3. registry/entries.yaml                (build source — kept in sync)
 
 Run from repo root:
     python scripts/accept_registry.py
 """
 
 import re
+import yaml
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -55,7 +58,8 @@ SOURCE_FILES = [
     REPO / "registry" / "derived" / "w101-plus.md",
 ]
 
-INDEX_MD = REPO / "registry" / "derived" / "index.md"
+INDEX_MD    = REPO / "registry" / "derived" / "index.md"
+ENTRIES_YAML = REPO / "registry" / "entries.yaml"
 
 # W000 and W100 were already ✅ active before this pass.
 ALREADY_ACTIVE = {0, 100}
@@ -156,12 +160,16 @@ def update_index(path: Path) -> int:
 
 
 def update_header_counts(path: Path) -> None:
-    """Update the accepted/pending/proposed/retired counts in index.md header."""
-    total_entries = 155  # W000–W168 inclusive, minus gaps = 155 total entries
-    accepted  = len(ACCEPT) + len(ALREADY_ACTIVE)   # 110 + 2 = 112
-    proposed  = len(PROPOSE)                         # 2
-    retired   = 2                                    # W111, W112
-    pending   = total_entries - accepted - proposed - retired  # 39
+    """Update the accepted/pending/proposed/retired counts in index.md header
+    by deriving them live from entries.yaml rather than hardcoded values."""
+    data = yaml.safe_load(ENTRIES_YAML.read_text(encoding="utf-8"))
+    entries = [e for e in data["entries"] if e.get("wnum") not in ("W000",)]
+    from collections import Counter
+    counts = Counter(e["status"] for e in data["entries"])
+    accepted = counts.get("active", 0)
+    proposed = counts.get("proposed", 0)
+    pending  = counts.get("pending", 0)
+    retired  = counts.get("retired", 0)
 
     text = path.read_text(encoding="utf-8")
     # Replace the summary line: "accepted: N · pending: N"
@@ -175,6 +183,66 @@ def update_header_counts(path: Path) -> None:
         f"index.md header: accepted={accepted}, proposed={proposed}, "
         f"pending={pending}, retired={retired}"
     )
+
+
+# ---------------------------------------------------------------------------
+# entries.yaml sync
+# ---------------------------------------------------------------------------
+
+class _WideDumper(yaml.Dumper):
+    """Dumper that never wraps lines."""
+    def __init__(self, stream, **kwargs):
+        super().__init__(stream, **kwargs)
+        self.best_width = 2 ** 30
+
+
+STATUS_MAP = {
+    "active":   "active",
+    "pending":  "pending",
+    "proposed": "proposed",
+    "cold":     "cold",
+    "retired":  "retired",
+}
+
+
+def sync_entries_yaml() -> int:
+    """Apply ACCEPT / PROPOSE status changes directly to entries.yaml.
+    Returns the number of entries changed."""
+    if not ENTRIES_YAML.exists():
+        print("  WARNING: entries.yaml not found — skipping YAML sync")
+        return 0
+
+    data = yaml.safe_load(ENTRIES_YAML.read_text(encoding="utf-8"))
+    entries = data["entries"]
+    changes = 0
+
+    for entry in entries:
+        wnum_str = entry.get("wnum", "")
+        # Parse numeric part: W041 → 41
+        m = re.match(r"W(\d+)", wnum_str)
+        if not m:
+            continue
+        n = int(m.group(1))
+        current_status = entry.get("status", "pending")
+
+        if n in ACCEPT and current_status == "pending":
+            entry["status"] = "active"
+            changes += 1
+        elif n in PROPOSE and current_status == "pending":
+            entry["status"] = "proposed"
+            changes += 1
+
+    if changes:
+        text = yaml.dump(
+            data,
+            Dumper=_WideDumper,
+            allow_unicode=True,
+            default_flow_style=False,
+            sort_keys=False,
+        )
+        ENTRIES_YAML.write_text(text, encoding="utf-8")
+
+    return changes
 
 
 # ---------------------------------------------------------------------------
@@ -197,5 +265,9 @@ if __name__ == "__main__":
 
     print()
     update_header_counts(INDEX_MD)
+
+    print()
+    n_yaml = sync_entries_yaml()
+    print(f"  entries.yaml: {n_yaml} status fields updated")
 
     print(f"\nDone. Total source-file changes: {total_source_changes}")
