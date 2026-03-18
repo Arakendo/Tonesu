@@ -192,17 +192,14 @@
 
     var strip = mk('div', 'rb-family-strip');
 
-    var allBtn = mk('button', 'rb-fam-btn' + (activeFamily === '' ? ' is-active' : ''));
-    allBtn.textContent = 'all';
-    allBtn.addEventListener('click', function () { setFamily('', strip); });
-    strip.appendChild(allBtn);
-
     families.forEach(function (f) {
       var btn = mk('button', 'rb-fam-btn' + (activeFamily === f ? ' is-active' : ''));
       btn.textContent = f + '\u2013';
       btn.title = familyName(f);
       btn.style.setProperty('--fam-color', FAMILY_COLORS[f] || '#888');
-      btn.addEventListener('click', function () { setFamily(f, strip); });
+      btn.addEventListener('click', function () {
+        setFamily(activeFamily === f ? '' : f, strip);
+      });
       strip.appendChild(btn);
     });
     node.appendChild(strip);
@@ -216,9 +213,7 @@
   function setFamily(fam, strip) {
     activeFamily = fam;
     strip.querySelectorAll('.rb-fam-btn').forEach(function (b) {
-      b.classList.toggle('is-active',
-        (fam === '' && b.textContent === 'all') ||
-        b.textContent === fam + '\u2013');
+      b.classList.toggle('is-active', b.textContent === fam + '\u2013');
     });
     var grid = strip.parentElement.querySelector('.rb-grid');
     if (grid) fillGrid(grid);
