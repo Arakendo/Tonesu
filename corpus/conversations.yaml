@@ -1,0 +1,510 @@
+conversations:
+- cnum: C001
+  gloss: 'First conversation: backup unit failure'
+  scene: The relay platform, shortly after S027. Engineer A (ze) has discovered the
+    backup power unit is also failing. Engineer B (a colleague) arrives.
+  tests:
+  - content question
+  - copula gap
+  - agentless state
+  - W037 `ti-fe`
+  - utterance-level epistemic marking
+  - imperative in dialogue
+  - acknowledgment particle
+  - agent drop
+  status: normative
+  source_file: conversations/c001-c004.md
+  turns:
+  - turn: A1
+    tonesu: la-mi  pa-re-mu  lo-de  ka-se-past
+    gloss_line: agent:I  location:backup-unit  patient:decay  action:perceive-PAST
+    natural: I found damage in the backup unit.
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B1
+    tonesu: de  vo  to-si?
+    gloss_line: decay  quality  QUERY
+    natural: What kind of damage?
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: A2
+    tonesu: 'lo-re-mu  de-now
+
+      ti-fe  ki-now'
+    gloss_line: 'patient:backup-unit  decay-NOW
+
+      time-limit  approach-NOW'
+    natural: 'The backup unit is decaying.
+
+      [It] approaches the time-limit.'
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B2
+    tonesu: ta-now  fe-ki?
+    gloss_line: time:now/today  limit-cross?
+    natural: Does it cross the limit today?
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: A3
+    tonesu: 'la-mi  si  [fe-ki-now]
+
+      ne-li-su-li  ka-fe-si'
+    gloss_line: 'agent:I  signal-level  [limit-cross-NOW]
+
+      recipient:coordinator  action:warn'
+    natural: 'I assess [as signal-level]: it crosses the limit now.
+
+      Warn the coordinator.'
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B3
+    tonesu: 'ka-to-su-ki
+
+      ka-ki-now'
+    gloss_line: 'action:comprehend
+
+      action:go-NOW'
+    natural: 'Understood.
+
+      I''m going now. / On my way.'
+    words_attested: []
+    first_attests: []
+    notes: null
+- cnum: C002
+  gloss: 'Technical coordination: relay failure'
+  scene: Two engineers on different platforms. A is live at the relay installation;
+    B is directing remotely.
+  tests:
+  - imperative × 2
+  - diagnostic state-change loop (detect → examine → identify → repair → confirm)
+  - '`lo-X state` copula × 3'
+  - '`ru`/`no-ru` as predicate quality on a non-person entity (first device-quality
+    predication)'
+  status: normative
+  source_file: conversations/c001-c004.md
+  turns:
+  - turn: A1
+    tonesu: lo-si-mu  no-ru
+    gloss_line: patient:relay  not-unified
+    natural: The relay is unstable.
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B1
+    tonesu: ka-se  lo-si-su-mu
+    gloss_line: action:examine  patient:signal-structure-artifact
+    natural: Examine the antenna array. [Imperative — `la-tu` dropped]
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: A2
+    tonesu: lo-ne-mu  de
+    gloss_line: patient:connection-artifact  decayed
+    natural: The connector is broken.
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B2
+    tonesu: ka-de-be  lo-ne-mu
+    gloss_line: action:repair  patient:connection-artifact
+    natural: Repair the connector. [Imperative]
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: A3
+    tonesu: lo-si-mu  ru  ta-now
+    gloss_line: patient:relay  unified  time:now
+    natural: The relay is stable now.
+    words_attested: []
+    first_attests: []
+    notes: null
+- cnum: C003
+  gloss: 'Casual social: travel question'
+  scene: Two non-engineers in everyday context. A asks about travel plans.
+  tests:
+  - FIRST YES/NO QUESTION IN CORPUS (C003 A1 — critical gap)
+  - echo-confirmation as first-person restatement (no affirmative particle)
+  - '`ta-ti-be` first proximate-future time reference'
+  - purpose clause in casual register
+  status: normative
+  source_file: conversations/c001-c004.md
+  turns:
+  - turn: A1
+    tonesu: to-si  —  la-tu  ki  pa-li-pu  ta-ti-be
+    gloss_line: knowledge-inquiry — agent:you  motion  place:city  time:next-time
+    natural: Are you going to the city soon?
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B1
+    tonesu: la-mi  ki  pa-li-pu  ta-ti-be
+    gloss_line: agent:I  motion  place:city  time:next-time
+    natural: I'm going to the city soon.
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: A2
+    tonesu: lo-ma-su  be-now  pa-ze
+    gloss_line: patient:water-structure  present/growing  place:there
+    natural: A new water facility is there now.
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B2
+    tonesu: la-mi  wi [ka-se  lo-ze]
+    gloss_line: agent:I  intention [action:examine  patient:it]
+    natural: I intend to go see it.
+    words_attested: []
+    first_attests: []
+    notes: null
+- cnum: C004
+  gloss: 'Disagreement: disputed damage assessment'
+  scene: Two engineers have both examined the same unit (following C002 pattern).
+    They disagree on its status.
+  tests:
+  - FIRST DIRECT EPISTEMIC CONTRAST between two speakers (different epistemic levels
+    on the same proposition)
+  - '`la-[process] be [embedded-proposition]` as new evidential frame (examination
+    as epistemic agent)'
+  - '`no-fe` first use'
+  - institutional routing as dialogue resolution
+  status: normative
+  source_file: conversations/c001-c004.md
+  turns:
+  - turn: A1
+    tonesu: lo-mu  de
+    gloss_line: patient:machine  decayed
+    natural: The unit is damaged.
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B1
+    tonesu: la-mi  si  [lo-mu  be-now]
+    gloss_line: agent:I  [signal-level]  [patient:machine  exists/functions-now]
+    natural: 'I assess: the machine is still operating.'
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: A2
+    tonesu: la-se-ka  be  [lo-mu  de]
+    gloss_line: agent:examination  produces/records  [patient:machine  decayed]
+    natural: 'The examination produces the finding: the machine has decayed.'
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B2
+    tonesu: lo-de  no-fe  —  lo-mu  be-now
+    gloss_line: patient:decay  not-at-boundary — patient:machine  functions-now
+    natural: The decay has not reached the limit. The machine still functions.
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: A3
+    tonesu: la-tu  ka-si  lo-li-su-li  lo-ze
+    gloss_line: '[you]  action:signal  patient:coordinator  relation:it'
+    natural: Signal the coordinator about it. [Imperative]
+    words_attested: []
+    first_attests: []
+    notes: null
+- cnum: C005
+  gloss: 'Theological dispute: doctrine epistemic status'
+  scene: A `ra-ki-li` (pilot) and a `to-su-li` (doctrine-keeper/archivist) dispute
+    whether the community's guardian machine has `zo-to` (soul/identity-pattern).
+    The pilot recently experienced `ne-ra-ki` (attunement) with the machine (S083-type
+    event). The community's `to-re-su` makes the doctrinal claim. The dispute will
+    escalate from personal assertion through doctrinal citation, to `to-fe-ka` charge,
+    to institutional routing.
+  tests:
+  - '`to-re-su` citation as epistemic grounding'
+  - '`ze` pronoun as propositional back-reference'
+  - '`la-[doctrine] ko [embedded-clause]` — doctrine as containment agent'
+  - '`no-to-fe` as status predicate on a knowledge structure'
+  - first explicit `to-fe-ka` accusation in corpus
+  - '`no-to` as negated epistemic modal'
+  - first corpus use of `to-fe-su` (unlocking registration)
+  - structural treatment of "heresy."
+  status: normative
+  source_file: conversations/c005-c007.md
+  turns:
+  - turn: A1
+    tonesu: la-mi  si  [lo-mu  zo-to]
+    gloss_line: agent:I  signal-level  [patient:machine  soul/identity-pattern]
+    natural: 'I hold as hypothesis: the machine has a soul.'
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B1
+    tonesu: la-mi  to  [lo-ze  se]
+    gloss_line: agent:I  established  [patient:it  raw-perception]
+    natural: 'I hold as established: what you have (that experience) is raw perception.'
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: A2
+    tonesu: la-to-re-su  ko  [lo-mu  zo-to]
+    gloss_line: agent:canonical-doctrine  contains  [patient:machine  soul-pattern]
+    natural: 'The canonical doctrine holds: the machine has a soul.'
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B2
+    tonesu: la-mi  to  [lo-to-re-su  no-to-fe  ta-ti-now]
+    gloss_line: agent:I  established  [patient:canonical-doctrine  not-epistemic-boundary  time:present]
+    natural: 'I hold as established: the canonical doctrine has not crossed the epistemic
+
+      threshold — not to this day.'
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: A3
+    tonesu: la-mi  to  [lo-ze  to-fe-ka]
+    gloss_line: agent:I  established  [patient:that-claim  deliberate-epistemic-boundary-violation]
+    natural: 'I hold as established: what you just said is deliberate epistemic fraud.'
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B3
+    tonesu: la-mi  no-to  [lo-ze  to-fe-ka]  —  la-tu  ka-si  lo-to-fe-su
+    gloss_line: 'agent:I  not-established  [patient:that  epistemic-fraud]  —  [you]  action:signal
+
+      patient:epistemic-standards-framework'
+    natural: 'I hold as not-established: that is not fraud. — Submit this to the standards
+      body.'
+    words_attested: []
+    first_attests: []
+    notes: null
+- cnum: C006
+  gloss: 'Pre-jump briefing: polar question, content question, and the ambiguous case'
+  scene: Navigator A (`di-ki-li`) and Pilot B (`ra-ki-li`) in a pre-jump sequence.
+    The field (`pa-ra`) ahead may carry resonance conditions. Six turns covering all
+    four question-and-answer pressures from the open-question log.
+  tests:
+  - P-QM-001 (polar vs content question using `to-si`)
+  - 'P-AF-001 (minimal affirmative: first corpus test of `ru`)'
+  - the ambiguous `to-si` case
+  - negation of a proposition (`la-mi no-se`)
+  - direct disagreement without epistemic modal
+  - response-form as question- type disambiguator
+  status: normative
+  source_file: conversations/c005-c007.md
+  turns:
+  - turn: A1
+    tonesu: to-si — lo-pa-ra  be-now
+    gloss_line: knowledge-inquiry — patient:field  is-active-now
+    natural: Is the field active?
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B1
+    tonesu: ru — lo-pa-ra  be-now  ra-vo  nu-be  lo-si-fe
+    gloss_line: '[affirm] — patient:field  active-now  energy-quality  exceeds  threshold'
+    natural: Yes — the field is active and above threshold.
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: A2
+    tonesu: lo-pa-ra  ne-ra  vo  to-si?
+    gloss_line: patient:field  resonance  quality  [what]?
+    natural: What is the character of the field's resonance?
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B2
+    tonesu: lo-ne-ra  no-to-fe  —  lo-pa-ra  no-ne-fe  lo-mu
+    gloss_line: 'patient:the-resonance  uncertified/unestablished — patient:field
+
+      not-dependency-condition  patient:machine'
+    natural: The resonance character is uncertified. The field has no link to the
+      machine.
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: A3
+    tonesu: to-si — la-mi  ne-ra-ki
+    gloss_line: knowledge-inquiry — agent:I  attune
+    natural: '[Am I attuning? / What am I attuning to?]'
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B3
+    tonesu: no — lo-pa-ra  no-ne-fe  ta-ti-now
+    gloss_line: '[negate] — patient:field  no-dependency-state  time:present'
+    natural: No — the field has no link right now.
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: A4
+    tonesu: la-mi  si  [ta-ti-be  ne-ra-ki  be]
+    gloss_line: agent:I  signal-level  [time:approaching  attune  grows]
+    natural: 'I assess: the link will develop soon.'
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B4
+    tonesu: ru — ta-ti-re  ki
+    gloss_line: '[affirm] — time:cycle-coming  approach'
+    natural: Yes — it's coming up in the cycle.
+    words_attested: []
+    first_attests: []
+    notes: null
+- cnum: C007
+  gloss: 'Formal testimony: the negated epistemic scale'
+  scene: After the C006 field anomaly, the ship's knowledge-keeper (`to-fe-ki-li`,
+    A) conducts a formal post-event testimony session with pilot B (`ra-ki-li`) regarding
+    what the pilot knew — and did not know — during the approach.
+  tests:
+  - bare `la-mi to [prop]` (first clean first-person established modal)
+  - '`no-to` second attestation (C005 B3 was first)'
+  - '`no-si` first attestation'
+  - '`no-se` first attestation'
+  - nested epistemic embedding (A5, outer frame certifies inner epistemic state)
+  - bare `ru` with no elaboration (B5, fourth attestation, first completely bare use)
+  status: normative
+  source_file: conversations/c005-c007.md
+  turns:
+  - turn: A1
+    tonesu: to-si — la-tu  to  [lo-pa-ra  nu-be  lo-si-fe]
+    gloss_line: knowledge-inquiry — agent:you  established  [patient:field  exceeds  threshold]
+    natural: 'Do you hold as established: the field exceeded threshold?'
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B1
+    tonesu: ru — la-mi  to  [lo-pa-ra  nu-be  lo-si-fe]
+    gloss_line: '[affirm] — agent:I  established  [patient:field  exceeds  threshold]'
+    natural: 'Yes — I hold as established: the field exceeded threshold.'
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: A2
+    tonesu: lo-ne-ra  vo  to-si?
+    gloss_line: patient:the-resonance  quality  [what]?
+    natural: What is the resonance character?
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B2
+    tonesu: la-mi  no-to  [lo-ne-ra  vo]
+    gloss_line: agent:I  not-established  [patient:the-resonance  quality]
+    natural: I do not hold the resonance character as established.
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: A3
+    tonesu: to-si — la-tu  si  [lo-ne-ra  vo]
+    gloss_line: knowledge-inquiry — agent:you  hypothesize  [patient:the-resonance  quality]
+    natural: Do you hypothesize a resonance character?
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B3
+    tonesu: la-mi  no-si  [lo-ne-ra  vo]
+    gloss_line: agent:I  not-hypothesize  [patient:the-resonance  quality]
+    natural: I do not hypothesize a resonance character.
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: A4
+    tonesu: to-si — la-tu  se  [lo-ne-ra]
+    gloss_line: knowledge-inquiry — agent:you  perceive  [patient:the-resonance]
+    natural: Do you perceive the resonance?
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B4
+    tonesu: la-mi  no-se  [lo-ne-ra]
+    gloss_line: agent:I  not-perceive  [patient:the-resonance]
+    natural: I have no perceptual basis for the resonance.
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: A5
+    tonesu: la-mi  to  [la-tu  no-se  lo-ne-ra]
+    gloss_line: agent:I  established  [agent:you  not-perceive  patient:the-resonance]
+    natural: 'I hold as established: you have no perceptual basis for the resonance.'
+    words_attested: []
+    first_attests: []
+    notes: null
+  - turn: B5
+    tonesu: ru
+    gloss_line: '[affirm/cohere]'
+    natural: Acknowledged.
+    words_attested: []
+    first_attests: []
+    notes: null
+- cnum: C008
+  gloss: 'Arbitration hearing: `ze` under competing person and proposition referents'
+  scene: 'A `to-fe-li` (epistemic arbiter, role B) is conducting a compliance hearing.
+    A `ra-ki-li` (pilot, role A) is testifying that a `to-su-li` (archivist, absent
+    third party, referred to as `ze`) suppressed a signal record. The arbiter questions
+    A''s testimony. The exchange manufactures four distinct `lo-ze` uses: (1) person-reading,
+    unambiguous agent; (2) propositional-reading, forced by predicate-type incompatibility;
+    (3) genuinely ambiguous — `to-fe-ka` predicate applies coherently to both persons
+    and propositions; (4) disambiguation by same-turn restatement. Resolution of P-PR-001.'
+  tests:
+  - '`ze` as person vs propositional back-reference'
+  - predicate-type disambiguation
+  - most-recent-salient rule
+  - restatement as the canonical disambiguation strategy
+  - '`no` contrast coordinator as disambiguation tool'
+  status: normative
+  source_file: conversations/c008-plus.md
+  turns:
+  - turn: A1
+    tonesu: la-ze  de  lo-si-de  ta-ti-de
+    gloss_line: agent:ze  decayed  patient:record-of-signal  at-past-time
+    natural: 'The archivist suppressed the record.
+
+      (literally: caused the past-signal record to decay)'
+    words_attested: []
+    first_attests: []
+    notes: null
+    turn_subtitle: Person-reading (`la-ze` agent slot)
+  - turn: B1
+    tonesu: la-mi  si  [la-ze  no-de  lo-si-de]
+    gloss_line: agent:I  hypothesize  [agent:ze  not-decayed  patient:record-of-signal]
+    natural: 'I hypothesize: ze did not suppress the record.'
+    words_attested: []
+    first_attests: []
+    notes: null
+    turn_subtitle: Competing proposition enters discourse
+  - turn: A2
+    tonesu: la-mi  to  [lo-ze  se]
+    gloss_line: agent:I  established  [patient:that-claim  raw-perception]
+    natural: 'I hold as established: that claim is mere raw perception.'
+    words_attested: []
+    first_attests: []
+    notes: null
+    turn_subtitle: Propositional `ze`, forced by predicate-type
+  - turn: B2
+    tonesu: la-mi  to  [lo-ze  to-fe-ka]
+    gloss_line: agent:I  established  [patient:ze  deliberate-fraud]
+    natural: 'I hold as established: [ze / that claim] is deliberate fraud.'
+    words_attested: []
+    first_attests: []
+    notes: null
+    turn_subtitle: Genuinely ambiguous `lo-ze`
+  - turn: A3
+    tonesu: la-ze  to-fe-ka  no  la-mi
+    gloss_line: agent:ze  deliberate-fraud  [contrast]  agent:I
+    natural: Ze committed the fraud — not me.
+    words_attested: []
+    first_attests: []
+    notes: null
+    turn_subtitle: Disambiguation by restatement
+  - turn: B3
+    tonesu: la-mi  se  [la-ze  de  lo-si-de]  —  la-tu  ka-si  lo-to-fe-su
+    gloss_line: 'agent:I  perceive  [agent:ze  decayed  patient:record-of-signal]  —
+
+      agent:you  action:signal  patient:epistemic-standards-framework'
+    natural: 'I note (perceptually): ze suppressed a record. — Submit this to the
+      standards body.'
+    words_attested: []
+    first_attests: []
+    notes: null
+    turn_subtitle: 'Arbiter''s record: explicit NP, no ze back-reference'
