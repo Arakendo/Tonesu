@@ -398,7 +398,7 @@
     var card = mk('div', 'rb-entry-card');
 
     var link = mk('a', 'rb-entry-word');
-    link.href = '/tonesu/registry/words/' + e.wnum.toLowerCase() + '/';
+    link.href = '/tonesu/registry/words/' + e.wnum + '/';
     link.textContent = e.written || e.form;
     card.appendChild(link);
 
