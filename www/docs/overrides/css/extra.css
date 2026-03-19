@@ -302,6 +302,39 @@ html .md-typeset__table table {
   box-shadow: 0 0 0 2px var(--md-accent-fg-color--transparent);
 }
 
+/* ── DataTables table structure ──────────────────────────── */
+
+/* Restore Material's table wrapper after DataTables takes over */
+table.dataTable {
+  width: 100% !important;
+  border-collapse: collapse;
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
+
+table.dataTable thead th {
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  font-weight: 700;
+  font-size: 0.8rem;
+  padding: 0.6rem 0.8rem;
+  border-bottom: 2px solid var(--md-typeset-table-color);
+  text-align: left;
+  vertical-align: bottom;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+table.dataTable tbody td {
+  padding: 0.5rem 0.8rem;
+  border-bottom: 1px solid var(--md-typeset-table-color);
+  vertical-align: top;
+}
+
+table.dataTable tbody tr:hover td {
+  background: color-mix(in sRGB, var(--md-accent-fg-color) 6%, var(--md-default-bg-color));
+}
+
 /* Sort arrow color for DataTables */
 table.dataTable thead th.dt-orderable-asc span.dt-column-order::before,
 table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
