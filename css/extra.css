@@ -331,6 +331,23 @@ table.dataTable tbody td {
   vertical-align: top;
 }
 
+/* Word column: keep form + written on one line */
+table.dataTable tbody td:first-child {
+  white-space: nowrap;
+}
+
+/* Corpus links inside gloss cell */
+table.dataTable tbody td small {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.72rem;
+  color: var(--md-default-fg-color--light);
+  line-height: 1.4;
+}
+table.dataTable tbody td small a {
+  color: var(--md-accent-fg-color);
+}
+
 table.dataTable tbody tr:hover td {
   background: color-mix(in sRGB, var(--md-accent-fg-color) 6%, var(--md-default-bg-color));
 }
