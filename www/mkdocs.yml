@@ -36,6 +36,12 @@ nav:
   - Totonesu:
     - Overview: totonesu/index.md
     - Worked examples: totonesu/examples.md
+    - Production pathways: totonesu/pathways.md
+    - Conversations: totonesu/conversations.md
+    - Contrast walkthroughs: totonesu/contrasts.md
+    - Register & colloquial: totonesu/register.md
+    - Failures & edge cases: totonesu/failures.md
+    - Stress tests: totonesu/stress-tests.md
     - Sandbox: totonesu/sandbox.md
   - To'tonesu:
     - Overview: to-tonesu/index.md
