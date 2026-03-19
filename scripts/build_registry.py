@@ -501,8 +501,8 @@ def generate_index_page(
         "",
     ]
     lines += [
-        "| Word | W# | Gloss | Status |",
-        "|------|----|-------|--------|",
+        "| Word | W# | Status | Gloss |",
+        "|------|------|--------|-------|",
     ]
     for e in sorted(visible_entries, key=lambda x: x["form"]):
         emoji  = STATUS_EMOJI.get(e.get("status", "pending"), "⏳")
@@ -524,7 +524,7 @@ def generate_index_page(
         else:
             gloss_cell = gloss_text
         lines.append(
-            f'| {word_cell} | {wlink} | {gloss_cell} | {emoji} |'
+            f'| {word_cell} | {wlink} | {emoji} | {gloss_cell} |'
         )
     lines += ["", "---", "", NOTE]
     return "\n".join(lines)
