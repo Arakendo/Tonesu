@@ -1,16 +1,16 @@
 ---
-title: "MG"
+title: "Morphological Merge Test"
 ---
 
-# MG
+# Morphological Merge Test
 
-4 sentences.
+*Theme: [Grammar & syntax](../../grammar/)* · 4 sentences.
 
-[← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
 
 ---
 
-## MG-001 · 
+## MG-001 · Morphological Merge
 
 <span id="S158"></span>
 **S158**

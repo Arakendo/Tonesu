@@ -4,9 +4,9 @@ title: "Shakespeare, Hamlet Act III Scene I — "To be, or not to be""
 
 # Shakespeare, Hamlet Act III Scene I — "To be, or not to be"
 
-3 sentences.
+*Theme: [Translation](../../translation/)* · 3 sentences.
 
-[← Corpus](../../index.md)
+[← Translation](../../translation/) · [← Corpus](../../index.md)
 
 ---
 

@@ -1,16 +1,16 @@
 ---
-title: "EMD"
+title: "Em-Dash Attestation"
 ---
 
-# EMD
+# Em-Dash Attestation
 
-13 sentences.
+*Theme: [Grammar & syntax](../../grammar/)* · 13 sentences.
 
-[← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
 
 ---
 
-## EMD-001 · 
+## EMD-001 · Em-Dash Attestation
 
 <span id="S471"></span>
 **S471**

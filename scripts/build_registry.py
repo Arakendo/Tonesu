@@ -599,6 +599,64 @@ def _group_sentences_by_page(sentences: list) -> dict[str, list]:
     return dict(groups)
 
 
+# Page-level group titles (used for batch page H1 and theme table display)
+PAGE_GROUP_TITLES = {
+    "_foundations": "Early & Unbatched Sentences",
+    "P": "Early Grammar Probes",
+    "T": "Foundational Sentences",
+    "Hidden": "Hidden Property Stress Tests",
+    "T-HA": "Human Activity Domain",
+    "T-XX": "Cross-Domain Sentences",
+    "T-APO": "Apophatic Theology",
+    "T-PRM": "Primitive Attestation",
+    "T-CMP": "Compound Structure Tests",
+    "T-KO": "Knowledge & Ontology",
+    "T-MYS": "Abstract & Mystery Domain",
+    "T-REL": "Relational Theology",
+    "T-WIT": "Organizational Roles & Witness",
+    "T-PHN": "Phonology & Naming",
+    "T-AX": "Particle & Axiom Tests",
+    "CF": "Core Function Attestation",
+    "fa-VAL": "Valence Frame Test",
+    "fa-CON": "Connective Attestation",
+    "MG": "Morphological Merge Test",
+    "P-GP": "Grammar Pattern Probes",
+    "SA": "Scope & Aspect Test",
+    "OPX": "Operator Extension Test",
+    "IPX": "Inflection Pattern Test",
+    "PMS": "Particle Modifier Stress Test",
+    "EMD": "Em-Dash Attestation",
+    "MMP": "Moral & Metaphysical Paradox",
+    "KNM": "Kind Naming (Biology)",
+    "ODL": "Everyday Objects & Domestic Life",
+    "GEO": "Geography & Terrain",
+    "NUM": "Numeral System",
+    "LGL": "Legal & Governance",
+    "GOD-RES": "Theological Residuals",
+    "TAO": "Tao Te Ching — Way & Non-Action",
+    "EXO": "Exodus 3 — Burning Bush",
+    "MAT": "Rock, Mineral, Soil",
+    "SCL": "Sequential Connector Tests",
+}
+
+THEME_DESCRIPTIONS = {
+    "Foundations": "Core sentences from the earliest Tonesu attestations — basic agent-patient structures, property attribution, and foundational constructions.",
+    "Grammar & syntax": "Systematic tests of particles, operators, valence frames, connectives, scope, aspect, and sentence-level constructions.",
+    "Domains": "Vocabulary attestation across semantic domains — biology, geography, numerals, everyday life, legal, and specialized terminology.",
+    "Theology & philosophy": "Stress tests of theological, metaphysical, and philosophical constructions — divine attributes, apophatic claims, paradoxes, and cross-tradition texts.",
+    "Translation": "Translation stress tests from external source texts — scripture, literature, philosophy, and poetry rendered in Tonesu.",
+}
+
+
+def _page_group_title(page_key: str, batch_meta_list: list) -> str:
+    """Get the best title for a batch page group."""
+    if page_key in PAGE_GROUP_TITLES:
+        return PAGE_GROUP_TITLES[page_key]
+    if batch_meta_list and batch_meta_list[0].get("title"):
+        return batch_meta_list[0]["title"]
+    return page_key
+
+
 def _group_batches_by_page(batches: list) -> dict[str, list]:
     """Group batch metadata entries by their page key."""
     groups: dict[str, list] = defaultdict(list)
@@ -629,8 +687,11 @@ def generate_corpus_index(sentences: list, conv_data: dict | None, page_groups: 
         "",
         "# Corpus",
         "",
-        f"{n_sents} sentences · {n_turns} conversation turns · "
-        f"{len(page_groups)} batch pages.",
+        "The canonical body of attested Tonesu sentences. Every entry is numbered, "
+        "parsed, and glossed — organized by theme and batch.",
+        "",
+        f"**{n_sents}** sentences · **{n_turns}** conversation turns · "
+        f"**{len(page_groups)}** batch pages.",
         "",
         NOTE,
         "",
@@ -669,6 +730,7 @@ def generate_theme_page(
 ) -> str:
     """Generate a theme index page listing all batch groups in the theme."""
     theme_sents = [s for s in sentences if batch_to_theme(s.get("batch")) == theme]
+    desc = THEME_DESCRIPTIONS.get(theme, "")
 
     lines = [
         "---",
@@ -677,6 +739,10 @@ def generate_theme_page(
         "",
         f"# {theme}",
         "",
+    ]
+    if desc:
+        lines += [desc, ""]
+    lines += [
         f"{len(theme_sents)} sentences.",
         "",
         "[← Corpus](../index.md)",
@@ -699,9 +765,7 @@ def generate_theme_page(
         group_sents = page_groups.get(key, [])
         group_batches = batch_meta.get(key, [])
         n_batches = len(group_batches) if group_batches else 1
-        title = key
-        if group_batches and group_batches[0].get("title"):
-            title = group_batches[0]["title"]
+        title = _page_group_title(key, group_batches)
         lines.append(
             f"| {title} | {n_batches} | {len(group_sents)} | "
             f"[→ batches/{slug}](../batches/{slug}/) |"
@@ -718,9 +782,19 @@ def generate_batch_page(
 ) -> str:
     """Generate a batch detail page showing all sentences for a page-key group."""
     slug = _batch_page_slug(page_key)
-    title = page_key
-    if batch_meta_list and batch_meta_list[0].get("title"):
-        title = batch_meta_list[0]["title"]
+    title = _page_group_title(page_key, batch_meta_list)
+
+    # Derive theme from first sentence's batch
+    theme_slugs = {
+        "Foundations": "foundations",
+        "Grammar & syntax": "grammar",
+        "Domains": "domains",
+        "Theology & philosophy": "theology",
+        "Translation": "translation",
+    }
+    first_batch = sents[0].get("batch") if sents else None
+    theme = batch_to_theme(first_batch)
+    theme_slug = theme_slugs.get(theme, "foundations")
 
     lines = [
         "---",
@@ -729,9 +803,9 @@ def generate_batch_page(
         "",
         f"# {title}",
         "",
-        f"{len(sents)} sentences.",
+        f"*Theme: [{theme}](../../{theme_slug}/)* · {len(sents)} sentences.",
         "",
-        "[← Corpus](../../index.md)",
+        f"[← {theme}](../../{theme_slug}/) · [← Corpus](../../index.md)",
         "",
         "---",
         "",

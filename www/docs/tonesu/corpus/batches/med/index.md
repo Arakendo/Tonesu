@@ -4,9 +4,9 @@ title: "Medical Differential Diagnosis Consultation"
 
 # Medical Differential Diagnosis Consultation
 
-10 sentences.
+*Theme: [Domains](../../domains/)* · 10 sentences.
 
-[← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../index.md)
 
 ---
 

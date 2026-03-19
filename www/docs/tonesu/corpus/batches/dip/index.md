@@ -4,9 +4,9 @@ title: "Diplomatic Treaty Negotiation"
 
 # Diplomatic Treaty Negotiation
 
-9 sentences.
+*Theme: [Grammar & syntax](../../grammar/)* · 9 sentences.
 
-[← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
 
 ---
 

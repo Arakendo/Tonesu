@@ -4,9 +4,9 @@ title: "Newton's First Law of Motion"
 
 # Newton's First Law of Motion
 
-2 sentences.
+*Theme: [Grammar & syntax](../../grammar/)* · 2 sentences.
 
-[← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
 
 ---
 

@@ -4,9 +4,9 @@ title: "Last Supper / Eucharist Institution"
 
 # Last Supper / Eucharist Institution
 
-21 sentences.
+*Theme: [Translation](../../translation/)* · 21 sentences.
 
-[← Corpus](../../index.md)
+[← Translation](../../translation/) · [← Corpus](../../index.md)
 
 ---
 

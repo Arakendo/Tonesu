@@ -1,16 +1,16 @@
 ---
-title: "IPX"
+title: "Inflection Pattern Test"
 ---
 
-# IPX
+# Inflection Pattern Test
 
-2 sentences.
+*Theme: [Grammar & syntax](../../grammar/)* · 2 sentences.
 
-[← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
 
 ---
 
-## IPX-001 · 
+## IPX-001 · Inflection Pattern
 
 <span id="S180"></span>
 **S180**

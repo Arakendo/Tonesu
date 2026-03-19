@@ -1,16 +1,16 @@
 ---
-title: "P-GP"
+title: "Grammar Pattern Probes"
 ---
 
-# P-GP
+# Grammar Pattern Probes
 
-9 sentences.
+*Theme: [Grammar & syntax](../../grammar/)* · 9 sentences.
 
-[← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
 
 ---
 
-## P-GP-001 · 
+## P-GP-001 · Grammar Pattern 1
 
 <span id="S162"></span>
 **S162**
@@ -27,7 +27,7 @@ title: "P-GP"
 `la-si-mu  no-ru`
 *The document lacks coherence.*
 
-## P-GP-002 · 
+## P-GP-002 · Grammar Pattern 2
 
 <span id="S166"></span>
 **S166**
@@ -44,7 +44,7 @@ title: "P-GP"
 `lo-to-su-mu  re-ka-de-be  ti-de`
 *The archive was habitually maintained [in the past].*
 
-## P-GP-003 · 
+## P-GP-003 · Grammar Pattern 3
 
 <span id="S169"></span>
 **S169**

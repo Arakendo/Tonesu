@@ -4,9 +4,9 @@ title: "Heated Debate Corpus Test"
 
 # Heated Debate Corpus Test
 
-10 sentences.
+*Theme: [Grammar & syntax](../../grammar/)* · 10 sentences.
 
-[← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
 
 ---
 

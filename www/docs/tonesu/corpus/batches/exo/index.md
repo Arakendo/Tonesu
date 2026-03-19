@@ -1,16 +1,16 @@
 ---
-title: "EXO"
+title: "Exodus 3 — Burning Bush"
 ---
 
-# EXO
+# Exodus 3 — Burning Bush
 
-20 sentences.
+*Theme: [Translation](../../translation/)* · 20 sentences.
 
-[← Corpus](../../index.md)
+[← Translation](../../translation/) · [← Corpus](../../index.md)
 
 ---
 
-## EXO-001 · 
+## EXO-001 · Exodus 3 — Burning Bush
 
 <span id="S398"></span>
 **S398**

@@ -1,616 +1,616 @@
 batches:
 - code: P002
-  title: ''
+  title: Early Grammar Probe
   theme: Grammar & syntax
   range: S016
   count: 1
 - code: P003
-  title: ''
+  title: Early Grammar Probe
   theme: Grammar & syntax
   range: S017
   count: 1
 - code: P001
-  title: ''
+  title: Early Grammar Probe
   theme: Grammar & syntax
   range: S018
   count: 1
 - code: P004
-  title: ''
+  title: Early Grammar Probe
   theme: Grammar & syntax
   range: S019
   count: 1
 - code: T021
-  title: ''
+  title: Foundational Sentence
   theme: Foundations
   range: S020
   count: 1
 - code: T022
-  title: ''
+  title: Foundational Sentence
   theme: Foundations
   range: S021
   count: 1
 - code: T023
-  title: ''
+  title: Foundational Sentence
   theme: Foundations
   range: S022
   count: 1
 - code: T024
-  title: ''
+  title: Foundational Sentence
   theme: Foundations
   range: S023
   count: 1
 - code: T025
-  title: ''
+  title: Foundational Sentence
   theme: Foundations
   range: S024
   count: 1
 - code: Hidden Property A
-  title: ''
+  title: Hidden Property — A
   theme: Theology & philosophy
   range: S028
   count: 1
 - code: Hidden Property B
-  title: ''
+  title: Hidden Property — B
   theme: Theology & philosophy
   range: S029
   count: 1
 - code: Hidden Property C
-  title: ''
+  title: Hidden Property — C
   theme: Theology & philosophy
   range: S030
   count: 1
 - code: Hidden Property D
-  title: ''
+  title: Hidden Property — D
   theme: Theology & philosophy
   range: S031
   count: 1
 - code: T-HA-001
-  title: ''
+  title: Human Activity
   theme: Domains
   range: S032
   count: 1
 - code: T-HA-002
-  title: ''
+  title: Human Activity
   theme: Domains
   range: S033
   count: 1
 - code: T-HA-003
-  title: ''
+  title: Human Activity
   theme: Domains
   range: S034
   count: 1
 - code: T-HA-004
-  title: ''
+  title: Human Activity
   theme: Domains
   range: S035
   count: 1
 - code: T-HA-005
-  title: ''
+  title: Human Activity
   theme: Domains
   range: S036
   count: 1
 - code: T-HA-006
-  title: ''
+  title: Human Activity
   theme: Domains
   range: S037
   count: 1
 - code: T-HA-007
-  title: ''
+  title: Human Activity
   theme: Domains
   range: S038
   count: 1
 - code: T-HA-008
-  title: ''
+  title: Human Activity
   theme: Domains
   range: S039
   count: 1
 - code: T-XX-001
-  title: ''
+  title: Cross-Domain
   theme: Domains
   range: S040
   count: 1
 - code: T-XX-002
-  title: ''
+  title: Cross-Domain
   theme: Domains
   range: S041
   count: 1
 - code: T-XX-003
-  title: ''
+  title: Cross-Domain
   theme: Domains
   range: S042
   count: 1
 - code: T-XX-004
-  title: ''
+  title: Cross-Domain
   theme: Domains
   range: S043
   count: 1
 - code: T-XX-005
-  title: ''
+  title: Cross-Domain
   theme: Domains
   range: S044
   count: 1
 - code: T-APO-001
-  title: ''
+  title: Apophatic Theology
   theme: Theology & philosophy
   range: S045
   count: 1
 - code: T-APO-002
-  title: ''
+  title: Apophatic Theology
   theme: Theology & philosophy
   range: S046
   count: 1
 - code: T-PRM-001
-  title: ''
+  title: Primitive Attestation
   theme: Domains
   range: S056
   count: 1
 - code: T-PRM-002
-  title: ''
+  title: Primitive Attestation
   theme: Domains
   range: S057
   count: 1
 - code: T-PRM-003
-  title: ''
+  title: Primitive Attestation
   theme: Domains
   range: S058
   count: 1
 - code: T-PRM-004
-  title: ''
+  title: Primitive Attestation
   theme: Domains
   range: S059
   count: 1
 - code: T-PRM-005
-  title: ''
+  title: Primitive Attestation
   theme: Domains
   range: S060
   count: 1
 - code: T-PRM-006
-  title: ''
+  title: Primitive Attestation
   theme: Domains
   range: S061
   count: 1
 - code: T-PRM-007
-  title: ''
+  title: Primitive Attestation
   theme: Domains
   range: S062
   count: 1
 - code: T-PRM-008
-  title: ''
+  title: Primitive Attestation
   theme: Domains
   range: S063
   count: 1
 - code: T-CMP-001
-  title: ''
+  title: Compound Structure
   theme: Grammar & syntax
   range: S064
   count: 1
 - code: T-CMP-002
-  title: ''
+  title: Compound Structure
   theme: Grammar & syntax
   range: S065
   count: 1
 - code: T-CMP-003
-  title: ''
+  title: Compound Structure
   theme: Grammar & syntax
   range: S066
   count: 1
 - code: T-CMP-004
-  title: ''
+  title: Compound Structure
   theme: Grammar & syntax
   range: S067
   count: 1
 - code: T-KO-001
-  title: ''
+  title: Knowledge & Ontology
   theme: Domains
   range: S068
   count: 1
 - code: T-KO-002
-  title: ''
+  title: Knowledge & Ontology
   theme: Domains
   range: S069
   count: 1
 - code: T-KO-003
-  title: ''
+  title: Knowledge & Ontology
   theme: Domains
   range: S070
   count: 1
 - code: T-KO-004
-  title: ''
+  title: Knowledge & Ontology
   theme: Domains
   range: S071
   count: 1
 - code: T-MYS-001
-  title: ''
+  title: Abstract & Mystery
   theme: Domains
   range: S072
   count: 1
 - code: T-MYS-002
-  title: ''
+  title: Abstract & Mystery
   theme: Domains
   range: S073
   count: 1
 - code: T-MYS-003
-  title: ''
+  title: Abstract & Mystery
   theme: Domains
   range: S074
   count: 1
 - code: T-MYS-004
-  title: ''
+  title: Abstract & Mystery
   theme: Domains
   range: S075
   count: 1
 - code: T-MYS-005
-  title: ''
+  title: Abstract & Mystery
   theme: Domains
   range: S076
   count: 1
 - code: T-MYS-006
-  title: ''
+  title: Abstract & Mystery
   theme: Domains
   range: S077
   count: 1
 - code: T-MYS-007
-  title: ''
+  title: Abstract & Mystery
   theme: Domains
   range: S078
   count: 1
 - code: T-REL-001
-  title: ''
+  title: Relational Theology
   theme: Theology & philosophy
   range: S079
   count: 1
 - code: T-REL-002
-  title: ''
+  title: Relational Theology
   theme: Theology & philosophy
   range: S080
   count: 1
 - code: T-REL-003
-  title: ''
+  title: Relational Theology
   theme: Theology & philosophy
   range: S081
   count: 1
 - code: T-REL-004
-  title: ''
+  title: Relational Theology
   theme: Theology & philosophy
   range: S082
   count: 1
 - code: T-REL-005
-  title: ''
+  title: Relational Theology
   theme: Theology & philosophy
   range: S083
   count: 1
 - code: T-REL-006
-  title: ''
+  title: Relational Theology
   theme: Theology & philosophy
   range: S084
   count: 1
 - code: T-REL-007
-  title: ''
+  title: Relational Theology
   theme: Theology & philosophy
   range: S085
   count: 1
 - code: T-WIT-001 / baseline
-  title: ''
+  title: Witness — Baseline
   theme: Domains
   range: S086
   count: 1
 - code: T-WIT-002 / design
-  title: ''
+  title: Witness — Design
   theme: Domains
   range: S087
   count: 1
 - code: T-WIT-003 / program
-  title: ''
+  title: Witness — Program
   theme: Domains
   range: S088
   count: 1
 - code: T-WIT-004 / intention-model
-  title: ''
+  title: Witness — Intention Model
   theme: Domains
   range: S089
   count: 1
 - code: T-WIT-005 / stress
-  title: ''
+  title: Witness — Stress
   theme: Domains
   range: S090
   count: 1
 - code: T-WIT-006 / transmission
-  title: ''
+  title: Witness — Transmission
   theme: Domains
   range: S091
   count: 1
 - code: T-WIT-007 / wi-to-su
-  title: ''
+  title: Witness — wi-to-su
   theme: Domains
   range: S092
   count: 1
 - code: T-PHN-001
-  title: ''
+  title: Phonology & Naming
   theme: Domains
   range: S108
   count: 1
 - code: T-PHN-002
-  title: ''
+  title: Phonology & Naming
   theme: Domains
   range: S109
   count: 1
 - code: T-PHN-003
-  title: ''
+  title: Phonology & Naming
   theme: Domains
   range: S110
   count: 1
 - code: T-PHN-004
-  title: ''
+  title: Phonology & Naming
   theme: Domains
   range: S111
   count: 1
 - code: T-PHN-005
-  title: ''
+  title: Phonology & Naming
   theme: Domains
   range: S112
   count: 1
 - code: T-PHN-006
-  title: ''
+  title: Phonology & Naming
   theme: Domains
   range: S113
   count: 1
 - code: T-AX-001
-  title: ''
+  title: Particle & Axiom
   theme: Grammar & syntax
   range: S114
   count: 1
 - code: T-AX-002
-  title: ''
+  title: Particle & Axiom
   theme: Grammar & syntax
   range: S115
   count: 1
 - code: T-AX-003
-  title: ''
+  title: Particle & Axiom
   theme: Grammar & syntax
   range: S116
   count: 1
 - code: T-AX-004
-  title: ''
+  title: Particle & Axiom
   theme: Grammar & syntax
   range: S117
   count: 1
 - code: T-AX-005
-  title: ''
+  title: Particle & Axiom
   theme: Grammar & syntax
   range: S118
   count: 1
 - code: T-AX-006
-  title: ''
+  title: Particle & Axiom
   theme: Grammar & syntax
   range: S119
   count: 1
 - code: T-AX-007
-  title: ''
+  title: Particle & Axiom
   theme: Grammar & syntax
   range: S120
   count: 1
 - code: T-AX-008
-  title: ''
+  title: Particle & Axiom
   theme: Grammar & syntax
   range: S121
   count: 1
 - code: T-AX-009
-  title: ''
+  title: Particle & Axiom
   theme: Grammar & syntax
   range: S122
   count: 1
 - code: T-AX-010
-  title: ''
+  title: Particle & Axiom
   theme: Grammar & syntax
   range: S123
   count: 1
 - code: T-AX-011
-  title: ''
+  title: Particle & Axiom
   theme: Grammar & syntax
   range: S124
   count: 1
 - code: T-AX-012
-  title: ''
+  title: Particle & Axiom
   theme: Grammar & syntax
   range: S125
   count: 1
 - code: CF-001
-  title: ''
+  title: Core Function Attestation
   theme: Grammar & syntax
   range: S126–S157
   count: 9
 - code: fa-VAL
-  title: ''
+  title: Valence Frame Test
   theme: Grammar & syntax
   range: S132–S134
   count: 3
 - code: fa-CON-A1
-  title: ''
+  title: Connective A1
   theme: Grammar & syntax
   range: S135
   count: 1
 - code: fa-CON-A2
-  title: ''
+  title: Connective A2
   theme: Grammar & syntax
   range: S136
   count: 1
 - code: fa-CON-A3
-  title: ''
+  title: Connective A3
   theme: Grammar & syntax
   range: S137
   count: 1
 - code: fa-CON-A4
-  title: ''
+  title: Connective A4
   theme: Grammar & syntax
   range: S138
   count: 1
 - code: fa-CON-B1
-  title: ''
+  title: Connective B1
   theme: Grammar & syntax
   range: S139
   count: 1
 - code: fa-CON-B2
-  title: ''
+  title: Connective B2
   theme: Grammar & syntax
   range: S140
   count: 1
 - code: fa-CON-B3
-  title: ''
+  title: Connective B3
   theme: Grammar & syntax
   range: S141
   count: 1
 - code: fa-CON-C1
-  title: ''
+  title: Connective C1
   theme: Grammar & syntax
   range: S142
   count: 1
 - code: fa-CON-C2
-  title: ''
+  title: Connective C2
   theme: Grammar & syntax
   range: S143
   count: 1
 - code: fa-CON-C3
-  title: ''
+  title: Connective C3
   theme: Grammar & syntax
   range: S144
   count: 1
 - code: fa-CON-C4
-  title: ''
+  title: Connective C4
   theme: Grammar & syntax
   range: S145
   count: 1
 - code: fa-CON-D1
-  title: ''
+  title: Connective D1
   theme: Grammar & syntax
   range: S146
   count: 1
 - code: fa-CON-D2
-  title: ''
+  title: Connective D2
   theme: Grammar & syntax
   range: S147
   count: 1
 - code: fa-CON-E1
-  title: ''
+  title: Connective E1
   theme: Grammar & syntax
   range: S148
   count: 1
 - code: fa-CON-E2
-  title: ''
+  title: Connective E2
   theme: Grammar & syntax
   range: S149
   count: 1
 - code: fa-CON-F1
-  title: ''
+  title: Connective F1
   theme: Grammar & syntax
   range: S150
   count: 1
 - code: fa-CON-F2
-  title: ''
+  title: Connective F2
   theme: Grammar & syntax
   range: S151
   count: 1
 - code: fa-CON-F3
-  title: ''
+  title: Connective F3
   theme: Grammar & syntax
   range: S152
   count: 1
 - code: fa-CON-F4
-  title: ''
+  title: Connective F4
   theme: Grammar & syntax
   range: S153
   count: 1
 - code: fa-CON-F5
-  title: ''
+  title: Connective F5
   theme: Grammar & syntax
   range: S154
   count: 1
 - code: MG-001
-  title: ''
+  title: Morphological Merge
   theme: Grammar & syntax
   range: S158–S161
   count: 4
 - code: P-GP-001
-  title: ''
+  title: Grammar Pattern 1
   theme: Grammar & syntax
   range: S162–S165
   count: 3
 - code: P-GP-002
-  title: ''
+  title: Grammar Pattern 2
   theme: Grammar & syntax
   range: S166–S168
   count: 3
 - code: P-GP-003
-  title: ''
+  title: Grammar Pattern 3
   theme: Grammar & syntax
   range: S169–S171
   count: 3
 - code: SA-001
-  title: ''
+  title: Scope & Aspect
   theme: Grammar & syntax
   range: S172–S175
   count: 4
 - code: OPX-001
-  title: ''
+  title: Operator Extension
   theme: Grammar & syntax
   range: S176–S179
   count: 4
 - code: IPX-001
-  title: ''
+  title: Inflection Pattern
   theme: Grammar & syntax
   range: S180–S181
   count: 2
 - code: MMP-001
-  title: ''
+  title: Moral & Metaphysical Paradox
   theme: Theology & philosophy
   range: S182–S185
   count: 4
 - code: PMS-001
-  title: ''
+  title: Particle Modifier Stress
   theme: Grammar & syntax
   range: S186–S189
   count: 4
 - code: KNM-001
-  title: ''
+  title: Mammals & Birds
   theme: Domains
   range: S195–S201
   count: 7
 - code: KNM-002
-  title: ''
+  title: Small Animals
   theme: Domains
   range: S202–S207
   count: 6
 - code: ODL-001
-  title: ''
+  title: Everyday Objects & Domestic Life
   theme: Domains
   range: S208–S227
   count: 20
 - code: GEO-001
-  title: ''
+  title: Geography & Terrain
   theme: Domains
   range: S228–S237
   count: 10
 - code: NUM-001
-  title: ''
+  title: Numeral System
   theme: Domains
   range: S238–S251
   count: 14
 - code: KNM-003
-  title: ''
+  title: Reptiles & Amphibians
   theme: Domains
   range: S252–S260
   count: 9
 - code: KNM-004
-  title: ''
+  title: Primates & Domestic Animals
   theme: Domains
   range: S261–S269
   count: 9
 - code: LGL-001
-  title: ''
+  title: Legal & Governance
   theme: Domains
   range: S270–S278
   count: 9
 - code: KNM-005
-  title: ''
+  title: Canids, Felids, Ursids
   theme: Domains
   range: S279–S285
   count: 7
@@ -665,37 +665,37 @@ batches:
   range: S349–S356
   count: 8
 - code: GOD-RES-001 / GOD-002 theological reading
-  title: ''
+  title: GOD-002 Theological Reading
   theme: Theology & philosophy
   range: S357
   count: 1
 - code: GOD-RES-002 / GOD-002 physical contrast
-  title: ''
+  title: GOD-002 Physical Contrast
   theme: Theology & philosophy
   range: S358
   count: 1
 - code: GOD-RES-003 / GOD-007 nefesh candidate
-  title: ''
+  title: GOD-007 Nefesh Candidate
   theme: Theology & philosophy
   range: S359
   count: 1
 - code: GOD-RES-004 / GOD-007 three-way contrast
-  title: ''
+  title: GOD-007 Three-Way Contrast
   theme: Theology & philosophy
   range: S360
   count: 1
 - code: GOD-RES-005 / GOD-003 evaluation formula
-  title: ''
+  title: GOD-003 Evaluation Formula
   theme: Theology & philosophy
   range: S361
   count: 1
 - code: GOD-RES-006 / GOD-006 pa-pa-fe mitigation
-  title: ''
+  title: GOD-006 Pa-Pa-Fe Mitigation
   theme: Theology & philosophy
   range: S362
   count: 1
 - code: 'GOD-RES-007 / Sermon on the Mount preview: Matthew 5:3'
-  title: ''
+  title: Sermon on the Mount Preview — Matthew 5:3
   theme: Theology & philosophy
   range: S363
   count: 1
@@ -705,7 +705,7 @@ batches:
   range: S364–S373
   count: 8
 - code: FAL-001 · first `:` attestation
-  title: ''
+  title: Topic Frame First Attestation
   theme: Grammar & syntax
   range: S368
   count: 1
@@ -740,7 +740,7 @@ batches:
   range: S393–S397
   count: 5
 - code: EXO-001
-  title: ''
+  title: Exodus 3 — Burning Bush
   theme: Translation
   range: S398–S417
   count: 20
@@ -795,12 +795,12 @@ batches:
   range: S468–S470
   count: 3
 - code: EMD-001
-  title: ''
+  title: Em-Dash Attestation
   theme: Grammar & syntax
   range: S471–S473
   count: 3
 - code: TAO-001
-  title: ''
+  title: Tao Te Ching — Way & Non-Action
   theme: Theology & philosophy
   range: S474–S476
   count: 3
@@ -810,7 +810,7 @@ batches:
   range: S477–S488
   count: 11
 - code: SCL-001-F — contrast with S444
-  title: ''
+  title: Sequential Connector Contrast
   theme: Grammar & syntax
   range: S482
   count: 1

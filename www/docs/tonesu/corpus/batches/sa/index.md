@@ -1,16 +1,16 @@
 ---
-title: "SA"
+title: "Scope & Aspect Test"
 ---
 
-# SA
+# Scope & Aspect Test
 
-4 sentences.
+*Theme: [Grammar & syntax](../../grammar/)* · 4 sentences.
 
-[← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
 
 ---
 
-## SA-001 · 
+## SA-001 · Scope & Aspect
 
 <span id="S172"></span>
 **S172**

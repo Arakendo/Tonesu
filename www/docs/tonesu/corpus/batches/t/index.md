@@ -1,44 +1,44 @@
 ---
-title: "T"
+title: "Foundational Sentences"
 ---
 
-# T
+# Foundational Sentences
 
-5 sentences.
+*Theme: [Foundations](../../foundations/)* · 5 sentences.
 
-[← Corpus](../../index.md)
+[← Foundations](../../foundations/) · [← Corpus](../../index.md)
 
 ---
 
-## T021 · 
+## T021 · Foundational Sentence
 
 <span id="S020"></span>
 **S020** · *legacy*
 `la-li-be  lo-ma  ka-ko`
 *The child drinks water.*
 
-## T022 · 
+## T022 · Foundational Sentence
 
 <span id="S021"></span>
 **S021** · *legacy*
 `ro-mu  lo-zo-ma  ka-fe`
 *With a tool, one cuts wood. / A tool cuts wood.*
 
-## T023 · 
+## T023 · Foundational Sentence
 
 <span id="S022"></span>
 **S022** · *legacy*
 `la-ra-su  lo-lu  be`
 *The star emits light.*
 
-## T024 · 
+## T024 · Foundational Sentence
 
 <span id="S023"></span>
 **S023** · *legacy*
 `la-to-ki-mu  lo-si  ka-ko`
 *The machine stores information.*
 
-## T025 · 
+## T025 · Foundational Sentence
 
 <span id="S024"></span>
 **S024** · *legacy*

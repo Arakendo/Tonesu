@@ -4,9 +4,9 @@ title: "John 1:1 — Identity Operator Stress Test"
 
 # John 1:1 — Identity Operator Stress Test
 
-3 sentences.
+*Theme: [Translation](../../translation/)* · 3 sentences.
 
-[← Corpus](../../index.md)
+[← Translation](../../translation/) · [← Corpus](../../index.md)
 
 ---
 

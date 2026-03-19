@@ -4,9 +4,9 @@ title: "Plant Taxonomy — First Pass (S286–S292)"
 
 # Plant Taxonomy — First Pass (S286–S292)
 
-7 sentences.
+*Theme: [Domains](../../domains/)* · 7 sentences.
 
-[← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../index.md)
 
 ---
 

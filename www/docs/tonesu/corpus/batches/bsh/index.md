@@ -4,9 +4,9 @@ title: "Bashō, Frog Haiku (1686) — Kireji Stress Test"
 
 # Bashō, Frog Haiku (1686) — Kireji Stress Test
 
-3 sentences.
+*Theme: [Grammar & syntax](../../grammar/)* · 3 sentences.
 
-[← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
 
 ---
 

@@ -1,16 +1,16 @@
 ---
-title: "ODL"
+title: "Everyday Objects & Domestic Life"
 ---
 
-# ODL
+# Everyday Objects & Domestic Life
 
-20 sentences.
+*Theme: [Domains](../../domains/)* · 20 sentences.
 
-[← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../index.md)
 
 ---
 
-## ODL-001 · 
+## ODL-001 · Everyday Objects & Domestic Life
 
 <span id="S208"></span>
 **S208**

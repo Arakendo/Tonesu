@@ -1,16 +1,16 @@
 ---
-title: "NUM"
+title: "Numeral System"
 ---
 
-# NUM
+# Numeral System
 
-14 sentences.
+*Theme: [Domains](../../domains/)* · 14 sentences.
 
-[← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../index.md)
 
 ---
 
-## NUM-001 · 
+## NUM-001 · Numeral System
 
 <span id="S238"></span>
 **S238**

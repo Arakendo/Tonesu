@@ -1,12 +1,12 @@
 ---
-title: "Rock, Mineral, Soil — First Pass (S293–S299)"
+title: "Rock, Mineral, Soil"
 ---
 
-# Rock, Mineral, Soil — First Pass (S293–S299)
+# Rock, Mineral, Soil
 
-14 sentences.
+*Theme: [Translation](../../translation/)* · 14 sentences.
 
-[← Corpus](../../index.md)
+[← Translation](../../translation/) · [← Corpus](../../index.md)
 
 ---
 

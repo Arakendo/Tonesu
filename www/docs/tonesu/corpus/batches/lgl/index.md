@@ -1,16 +1,16 @@
 ---
-title: "LGL"
+title: "Legal & Governance"
 ---
 
-# LGL
+# Legal & Governance
 
-9 sentences.
+*Theme: [Domains](../../domains/)* · 9 sentences.
 
-[← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../index.md)
 
 ---
 
-## LGL-001 · 
+## LGL-001 · Legal & Governance
 
 <span id="S270"></span>
 **S270**

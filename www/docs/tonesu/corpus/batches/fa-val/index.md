@@ -1,16 +1,16 @@
 ---
-title: "fa-VAL"
+title: "Valence Frame Test"
 ---
 
-# fa-VAL
+# Valence Frame Test
 
-3 sentences.
+*Theme: [Grammar & syntax](../../grammar/)* · 3 sentences.
 
-[← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
 
 ---
 
-## fa-VAL · 
+## fa-VAL · Valence Frame Test
 
 <span id="S132"></span>
 **S132**

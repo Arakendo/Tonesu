@@ -1,65 +1,65 @@
 ---
-title: "T-PRM"
+title: "Primitive Attestation"
 ---
 
-# T-PRM
+# Primitive Attestation
 
-8 sentences.
+*Theme: [Domains](../../domains/)* · 8 sentences.
 
-[← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../index.md)
 
 ---
 
-## T-PRM-001 · 
+## T-PRM-001 · Primitive Attestation
 
 <span id="S056"></span>
 **S056**
 `la-ze  ne-li-pu-su  lo-si-su  de`
 *She released the archive to the council.*
 
-## T-PRM-002 · 
+## T-PRM-002 · Primitive Attestation
 
 <span id="S057"></span>
 **S057**
 `lo-zo-li  no-ma  go  de`
 *For the person, absence of substance causes decay.*
 
-## T-PRM-003 · 
+## T-PRM-003 · Primitive Attestation
 
 <span id="S058"></span>
 **S058**
 `lo-zo-li  ne-fe  ma`
 *The person needs substance / the person is in a dependency-condition toward substance.*
 
-## T-PRM-004 · 
+## T-PRM-004 · Primitive Attestation
 
 <span id="S059"></span>
 **S059**
 `lo-li-be  ne-fe  zo-no-ki`
 *The child needs sleep / rest.*
 
-## T-PRM-005 · 
+## T-PRM-005 · Primitive Attestation
 
 <span id="S060"></span>
 **S060**
 `lo-mu  ne-fe  ha-de`
 *The machine needs cooling.*
 
-## T-PRM-006 · 
+## T-PRM-006 · Primitive Attestation
 
 <span id="S061"></span>
 **S061**
 `lo-li-pu-pa  ne-fe  ma`
 *The city needs water / substance supply.*
 
-## T-PRM-007 · 
+## T-PRM-007 · Primitive Attestation
 
 <span id="S062"></span>
 **S062**
 `lo-li-pu  ne-fe  wi-to`
 *The team needs a plan / purposive structure.*
 
-## T-PRM-008 · 
+## T-PRM-008 · Primitive Attestation
 
 <span id="S063"></span>
 **S063**

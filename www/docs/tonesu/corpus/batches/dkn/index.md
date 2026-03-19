@@ -4,9 +4,9 @@ title: "A Tale of Two Cities — Opening"
 
 # A Tale of Two Cities — Opening
 
-5 sentences.
+*Theme: [Theology & philosophy](../../theology/)* · 5 sentences.
 
-[← Corpus](../../index.md)
+[← Theology & philosophy](../../theology/) · [← Corpus](../../index.md)
 
 ---
 

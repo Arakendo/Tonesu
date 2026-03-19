@@ -4,9 +4,9 @@ title: "Fallacy-Resistance Corpus"
 
 # Fallacy-Resistance Corpus
 
-33 sentences.
+*Theme: [Grammar & syntax](../../grammar/)* · 33 sentences.
 
-[← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
 
 ---
 
@@ -52,7 +52,7 @@ title: "Fallacy-Resistance Corpus"
 `la-mi  si  lo-ti-be  lo-ma-de`
 *I hypothesize: in the future, material resources will decline.   [si — proposed/possible]*
 
-## FAL-001 · first `:` attestation · 
+## FAL-001 · first `:` attestation · Topic Frame First Attestation
 
 <span id="S368"></span>
 **S368**

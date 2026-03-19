@@ -1,12 +1,12 @@
 ---
-title: "_foundations"
+title: "Early & Unbatched Sentences"
 ---
 
-# _foundations
+# Early & Unbatched Sentences
 
-45 sentences.
+*Theme: [Foundations](../../foundations/)* · 45 sentences.
 
-[← Corpus](../../index.md)
+[← Foundations](../../foundations/) · [← Corpus](../../index.md)
 
 ---
 

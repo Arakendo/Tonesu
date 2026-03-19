@@ -4,9 +4,9 @@ title: "Matthew 16:25 — Causal Inversion Paradox"
 
 # Matthew 16:25 — Causal Inversion Paradox
 
-2 sentences.
+*Theme: [Grammar & syntax](../../grammar/)* · 2 sentences.
 
-[← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
 
 ---
 

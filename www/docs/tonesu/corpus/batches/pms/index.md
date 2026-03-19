@@ -1,16 +1,16 @@
 ---
-title: "PMS"
+title: "Particle Modifier Stress Test"
 ---
 
-# PMS
+# Particle Modifier Stress Test
 
-4 sentences.
+*Theme: [Grammar & syntax](../../grammar/)* · 4 sentences.
 
-[← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
 
 ---
 
-## PMS-001 · 
+## PMS-001 · Particle Modifier Stress
 
 <span id="S186"></span>
 **S186**

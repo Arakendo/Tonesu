@@ -1,12 +1,12 @@
 ---
-title: "`;` Productivity Corpus Test"
+title: "Sequential Connector Tests"
 ---
 
-# `;` Productivity Corpus Test
+# Sequential Connector Tests
 
-17 sentences.
+*Theme: [Grammar & syntax](../../grammar/)* · 17 sentences.
 
-[← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
 
 ---
 
@@ -66,7 +66,7 @@ title: "`;` Productivity Corpus Test"
 **S488**
 *DIAGNOSTIC: causal chain vs mere sequence*
 
-## SCL-001-F — contrast with S444 · 
+## SCL-001-F — contrast with S444 · Sequential Connector Contrast
 
 <span id="S482"></span>
 **S482**

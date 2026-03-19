@@ -1,16 +1,16 @@
 ---
-title: "CF"
+title: "Core Function Attestation"
 ---
 
-# CF
+# Core Function Attestation
 
-9 sentences.
+*Theme: [Grammar & syntax](../../grammar/)* · 9 sentences.
 
-[← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
 
 ---
 
-## CF-001 · 
+## CF-001 · Core Function Attestation
 
 <span id="S126"></span>
 **S126**

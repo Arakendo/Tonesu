@@ -1,23 +1,23 @@
 ---
-title: "T-APO"
+title: "Apophatic Theology"
 ---
 
-# T-APO
+# Apophatic Theology
 
-2 sentences.
+*Theme: [Theology & philosophy](../../theology/)* · 2 sentences.
 
-[← Corpus](../../index.md)
+[← Theology & philosophy](../../theology/) · [← Corpus](../../index.md)
 
 ---
 
-## T-APO-001 · 
+## T-APO-001 · Apophatic Theology
 
 <span id="S045"></span>
 **S045**
 `la-to-fe-li  wi  to-to-se-ma-ka`
 *The standards adjudicator operates through [???].*
 
-## T-APO-002 · 
+## T-APO-002 · Apophatic Theology
 
 <span id="S046"></span>
 **S046**

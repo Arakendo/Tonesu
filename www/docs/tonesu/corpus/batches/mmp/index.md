@@ -1,16 +1,16 @@
 ---
-title: "MMP"
+title: "Moral & Metaphysical Paradox"
 ---
 
-# MMP
+# Moral & Metaphysical Paradox
 
-4 sentences.
+*Theme: [Theology & philosophy](../../theology/)* · 4 sentences.
 
-[← Corpus](../../index.md)
+[← Theology & philosophy](../../theology/) · [← Corpus](../../index.md)
 
 ---
 
-## MMP-001 · 
+## MMP-001 · Moral & Metaphysical Paradox
 
 <span id="S182"></span>
 **S182**

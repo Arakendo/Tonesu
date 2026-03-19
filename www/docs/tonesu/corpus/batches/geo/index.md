@@ -1,16 +1,16 @@
 ---
-title: "GEO"
+title: "Geography & Terrain"
 ---
 
-# GEO
+# Geography & Terrain
 
-10 sentences.
+*Theme: [Domains](../../domains/)* · 10 sentences.
 
-[← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../index.md)
 
 ---
 
-## GEO-001 · 
+## GEO-001 · Geography & Terrain
 
 <span id="S228"></span>
 **S228**

@@ -1,58 +1,58 @@
 ---
-title: "T-WIT"
+title: "Organizational Roles & Witness"
 ---
 
-# T-WIT
+# Organizational Roles & Witness
 
-7 sentences.
+*Theme: [Domains](../../domains/)* · 7 sentences.
 
-[← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../index.md)
 
 ---
 
-## T-WIT-001 / baseline · 
+## T-WIT-001 / baseline · Witness — Baseline
 
 <span id="S086"></span>
 **S086**
 `la-to-li  lo-wi-to  be-past`
 *The engineer revised the plan.*
 
-## T-WIT-002 / design · 
+## T-WIT-002 / design · Witness — Design
 
 <span id="S087"></span>
 **S087**
 `la-to-li  lo-mu  wi-to  be-past`
 *The engineer designed the machine.*
 
-## T-WIT-003 / program · 
+## T-WIT-003 / program · Witness — Program
 
 <span id="S088"></span>
 **S088**
 `lo-wi-re-su  ta-re-ti  be`
 *The recurring protocol executes each cycle.*
 
-## T-WIT-004 / intention-model · 
+## T-WIT-004 / intention-model · Witness — Intention Model
 
 <span id="S089"></span>
 **S089**
 `la-wi-ze  lo-ka  ki`
 *Her will/intention directed the action.*
 
-## T-WIT-005 / stress · 
+## T-WIT-005 / stress · Witness — Stress
 
 <span id="S090"></span>
 **S090**
 `la-ra-ki-li  lo-to-re-su  be  no  lo-wi-to`
 *The pilot followed the standing doctrine, not the mission plan.*
 
-## T-WIT-006 / transmission · 
+## T-WIT-006 / transmission · Witness — Transmission
 
 <span id="S091"></span>
 **S091**
 `la-li-su-li  lo-yu  lo-wi-to  ka-si-past`
 *The coordinator briefed the team on the plan.*
 
-## T-WIT-007 / wi-to-su · 
+## T-WIT-007 / wi-to-su · Witness — wi-to-su
 
 <span id="S092"></span>
 **S092**

@@ -4,7 +4,9 @@ title: Corpus
 
 # Corpus
 
-575 sentences · 50 conversation turns · 60 batch pages.
+The canonical body of attested Tonesu sentences. Every entry is numbered, parsed, and glossed — organized by theme and batch.
+
+**575** sentences · **50** conversation turns · **60** batch pages.
 
 *Generated from [`registry/entries.yaml`](https://github.com/Arakendo/Tonesu/blob/main/registry/entries.yaml).*
 

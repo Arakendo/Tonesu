@@ -1,16 +1,16 @@
 ---
-title: "TAO"
+title: "Tao Te Ching — Way & Non-Action"
 ---
 
-# TAO
+# Tao Te Ching — Way & Non-Action
 
-3 sentences.
+*Theme: [Theology & philosophy](../../theology/)* · 3 sentences.
 
-[← Corpus](../../index.md)
+[← Theology & philosophy](../../theology/) · [← Corpus](../../index.md)
 
 ---
 
-## TAO-001 · 
+## TAO-001 · Tao Te Ching — Way & Non-Action
 
 <span id="S474"></span>
 **S474**

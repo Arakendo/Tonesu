@@ -4,9 +4,9 @@ title: "Wittgenstein, Tractatus Logico-Philosophicus §1"
 
 # Wittgenstein, Tractatus Logico-Philosophicus §1
 
-1 sentences.
+*Theme: [Theology & philosophy](../../theology/)* · 1 sentences.
 
-[← Corpus](../../index.md)
+[← Theology & philosophy](../../theology/) · [← Corpus](../../index.md)
 
 ---
 

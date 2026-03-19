@@ -1,37 +1,37 @@
 ---
-title: "Hidden"
+title: "Hidden Property Stress Tests"
 ---
 
-# Hidden
+# Hidden Property Stress Tests
 
-4 sentences.
+*Theme: [Theology & philosophy](../../theology/)* · 4 sentences.
 
-[← Corpus](../../index.md)
+[← Theology & philosophy](../../theology/) · [← Corpus](../../index.md)
 
 ---
 
-## Hidden Property A · 
+## Hidden Property A · Hidden Property — A
 
 <span id="S028"></span>
 **S028** · *legacy*
 `go [la-ra-ki  lo-su-mu  de]  du [de-ki]`
 *Because [the storm decayed the structure], result: [collapse].*
 
-## Hidden Property B · 
+## Hidden Property B · Hidden Property — B
 
 <span id="S029"></span>
 **S029** · *legacy*
 `la-ma-di  ta-re-ti  fe-ki`
 *The river, at each recurring time, crosses its limit.*
 
-## Hidden Property C · 
+## Hidden Property C · Hidden Property — C
 
 <span id="S030"></span>
 **S030** · *legacy*
 `la-to-su-mu  vo`
 *The archive has value.*
 
-## Hidden Property D · 
+## Hidden Property D · Hidden Property — D
 
 <span id="S031"></span>
 **S031** · *legacy*

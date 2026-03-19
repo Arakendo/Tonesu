@@ -1,16 +1,16 @@
 ---
-title: "OPX"
+title: "Operator Extension Test"
 ---
 
-# OPX
+# Operator Extension Test
 
-4 sentences.
+*Theme: [Grammar & syntax](../../grammar/)* · 4 sentences.
 
-[← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
 
 ---
 
-## OPX-001 · 
+## OPX-001 · Operator Extension
 
 <span id="S176"></span>
 **S176**

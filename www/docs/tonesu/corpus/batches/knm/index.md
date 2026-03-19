@@ -1,16 +1,16 @@
 ---
-title: "KNM"
+title: "Kind Naming (Biology)"
 ---
 
-# KNM
+# Kind Naming (Biology)
 
-59 sentences.
+*Theme: [Domains](../../domains/)* · 59 sentences.
 
-[← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../index.md)
 
 ---
 
-## KNM-001 · 
+## KNM-001 · Mammals & Birds
 
 <span id="S195"></span>
 **S195**
@@ -47,7 +47,7 @@ title: "KNM"
 `la-[li  na Derek]  ka-be  lo-mu`
 *Derek built the machine.*
 
-## KNM-002 · 
+## KNM-002 · Small Animals
 
 <span id="S202"></span>
 **S202**
@@ -79,7 +79,7 @@ title: "KNM"
 `la-[ker'zo-se-so-li  na Rex]  ki`
 *Red Rex ran. / Rex the red dog ran.*
 
-## KNM-003 · 
+## KNM-003 · Reptiles & Amphibians
 
 <span id="S252"></span>
 **S252**
@@ -126,7 +126,7 @@ title: "KNM"
 `la-mi  ko  lo-[li-ne'zo-se-so-fe  na Tony]`
 *I have Tony the house cat. / Tony the domestic cat is mine.*
 
-## KNM-004 · 
+## KNM-004 · Primates & Domestic Animals
 
 <span id="S261"></span>
 **S261**
@@ -173,7 +173,7 @@ title: "KNM"
 `la-mi  ko  lo-[li-ne'zol  na Max]`
 *I have Max the dog. (casual register)*
 
-## KNM-005 · 
+## KNM-005 · Canids, Felids, Ursids
 
 <span id="S279"></span>
 **S279**

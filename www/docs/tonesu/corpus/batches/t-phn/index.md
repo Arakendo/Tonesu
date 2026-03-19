@@ -1,44 +1,44 @@
 ---
-title: "T-PHN"
+title: "Phonology & Naming"
 ---
 
-# T-PHN
+# Phonology & Naming
 
-6 sentences.
+*Theme: [Domains](../../domains/)* · 6 sentences.
 
-[← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../index.md)
 
 ---
 
-## T-PHN-001 · 
+## T-PHN-001 · Phonology & Naming
 
 <span id="S108"></span>
 **S108**
 `la-ze  lo-si-mu  ka-se`
 *They perceived the encoded signal.*
 
-## T-PHN-002 · 
+## T-PHN-002 · Phonology & Naming
 
 <span id="S109"></span>
 **S109**
 `lo-fe-so  lo-fe-si  no-ru`
 *The warning sound and the warning signal are not the same thing.*
 
-## T-PHN-003 · 
+## T-PHN-003 · Phonology & Naming
 
 <span id="S110"></span>
 **S110**
 `la-mi  lo-so  ka-se  wi  [lo-si-mu  ka-be]`
 *I detected the sound, intending to produce a record of it.*
 
-## T-PHN-004 · 
+## T-PHN-004 · Phonology & Naming
 
 <span id="S111"></span>
 **S111**
 `lo-se-su  lo-si-su  no-ne`
 *The sensor output and the archived data are not in agreement.*
 
-## T-PHN-005 · 
+## T-PHN-005 · Phonology & Naming
 
 <span id="S112"></span>
 **S112**
@@ -50,7 +50,7 @@ title: "T-PHN"
 `The machine began encoding the limit as a signal.`
 *(A) The machine detected the limit. (B) The machine began encoding the limit as a signal.*
 
-## T-PHN-006 · 
+## T-PHN-006 · Phonology & Naming
 
 <span id="S113"></span>
 **S113**

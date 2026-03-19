@@ -4,9 +4,9 @@ title: "The Liar Paradox — Self-Referential Truth Stress Test"
 
 # The Liar Paradox — Self-Referential Truth Stress Test
 
-3 sentences.
+*Theme: [Grammar & syntax](../../grammar/)* · 3 sentences.
 
-[← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
 
 ---
 

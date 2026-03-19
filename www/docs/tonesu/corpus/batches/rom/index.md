@@ -4,9 +4,9 @@ title: "Romans 7:19 — Psychological Contradiction"
 
 # Romans 7:19 — Psychological Contradiction
 
-2 sentences.
+*Theme: [Theology & philosophy](../../theology/)* · 2 sentences.
 
-[← Corpus](../../index.md)
+[← Theology & philosophy](../../theology/) · [← Corpus](../../index.md)
 
 ---
 

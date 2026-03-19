@@ -4,9 +4,9 @@ title: "Agentless and Passive Clause Test"
 
 # Agentless and Passive Clause Test
 
-10 sentences.
+*Theme: [Domains](../../domains/)* · 10 sentences.
 
-[← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../index.md)
 
 ---
 
