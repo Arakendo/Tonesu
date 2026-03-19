@@ -1,0 +1,676 @@
+/* ============================================================
+   Tonesu Site Theme — Monokai Pro
+   Dark:  Filter Spectrum  (#222222 base, yellow accent)
+   Light: Filter Sun       (#f8efe7 base, rose accent)
+   ============================================================ */
+
+/* ── Shared ─────────────────────────────────────────────── */
+:root {
+  --tonesu-font-mono: "JetBrains Mono", "Fira Code", "Cascadia Code", "Consolas", monospace;
+}
+
+/* ── Filter Spectrum — Dark ─────────────────────────────── */
+[data-md-color-scheme="slate"] {
+
+  /* Page */
+  --md-default-bg-color:            #222222;   /* editor.background        */
+  --md-default-fg-color:            #f7f1ff;   /* editor.foreground        */
+  --md-default-fg-color--light:     #bab6c0;   /* activityBar.foreground   */
+  --md-default-fg-color--lighter:   #8b888f;   /* sideBar.foreground       */
+  --md-default-fg-color--lightest:  #525053;   /* editorLineNumber.fg      */
+
+  /* Nav / header — very dark strip */
+  --md-primary-bg-color:            #131313;   /* activityBar.background   */
+  --md-primary-bg-color--light:     #191919;   /* sideBar.background       */
+  --md-primary-fg-color:            #bab6c0;   /* activityBar.foreground   */
+  --md-primary-fg-color--light:     #8b888f;
+  --md-primary-fg-color--dark:      #f7f1ff;
+
+  /* Accent — Monokai yellow */
+  --md-accent-fg-color:             #fce566;   /* activityBarBadge.bg      */
+  --md-accent-fg-color--transparent:#fce56633;
+  --md-accent-bg-color:             #131313;
+
+  /* Code blocks */
+  --md-code-bg-color:               #191919;   /* sideBar.background       */
+  --md-code-fg-color:               #f7f1ff;
+
+  /* Syntax — Monokai Spectrum palette */
+  --md-code-hl-color:               #f7f1ff19;
+  --md-code-hl-number-color:        #948ae3;   /* purple                   */
+  --md-code-hl-special-color:       #7bd88f;   /* green                    */
+  --md-code-hl-function-color:      #5ad4e6;   /* cyan                     */
+  --md-code-hl-constant-color:      #fd9353;   /* orange                   */
+  --md-code-hl-keyword-color:       #fc618d;   /* pink                     */
+  --md-code-hl-string-color:        #fce566;   /* yellow                   */
+  --md-code-hl-name-color:          #f7f1ff;
+  --md-code-hl-operator-color:      #fc618d;
+  --md-code-hl-punctuation-color:   #69676c;
+  --md-code-hl-comment-color:       #69676c;
+  --md-code-hl-generic-color:       #bab6c0;
+  --md-code-hl-variable-color:      #f7f1ff;
+
+  /* Links */
+  --md-typeset-a-color:             #fd9353;   /* orange                   */
+
+  /* Tables */
+  --md-typeset-table-color:         #363537;   /* panel.background         */
+  --md-typeset-table-color--light:  #f7f1ff14;
+
+  /* Keyboard keys */
+  --md-typeset-kbd-color:           #363537;
+  --md-typeset-kbd-accent-color:    #f7f1ff;
+  --md-typeset-kbd-border-color:    #525053;
+
+  /* Admonitions */
+  --md-admonition-fg-color:         #f7f1ff;
+  --md-admonition-bg-color:         #2a2a2a;
+
+  /* Footer */
+  --md-footer-bg-color:             #131313;
+  --md-footer-bg-color--dark:       #0d0d0d;
+  --md-footer-fg-color:             #8b888f;
+  --md-footer-fg-color--light:      #69676c;
+  --md-footer-fg-color--lighter:    #525053;
+
+  /* Shadows */
+  --md-shadow-z1: 0 0.2rem 0.5rem #13131366, 0 0 0.05rem #13131333;
+  --md-shadow-z2: 0 0.2rem 0.8rem #13131388, 0 0 0.05rem #13131344;
+  --md-shadow-z3: 0 0.2rem 1.0rem #131313bb;
+}
+
+/* ── Filter Sun — Light ─────────────────────────────────── */
+[data-md-color-scheme="default"] {
+
+  /* Page — warm cream */
+  --md-default-bg-color:            #f8efe7;   /* editor.background        */
+  --md-default-fg-color:            #2c232e;   /* editor.foreground        */
+  --md-default-fg-color--light:     #72696d;   /* sideBar.foreground       */
+  --md-default-fg-color--lighter:   #92898a;   /* statusBar.foreground     */
+  --md-default-fg-color--lightest:  #beb5b3;   /* editorLineNumber.fg      */
+
+  /* Nav / header — warm sand */
+  --md-primary-bg-color:            #ded5d0;   /* activityBar.background   */
+  --md-primary-bg-color--light:     #eee5de;   /* sideBar.background       */
+  --md-primary-fg-color:            #72696d;   /* activityBar.foreground   */
+  --md-primary-fg-color--light:     #92898a;
+  --md-primary-fg-color--dark:      #2c232e;
+
+  /* Accent — rose */
+  --md-accent-fg-color:             #ce4770;   /* activityBarBadge.bg      */
+  --md-accent-fg-color--transparent:#ce477033;
+  --md-accent-bg-color:             #f8efe7;
+
+  /* Code blocks */
+  --md-code-bg-color:               #fdf7f3;   /* editorSuggestWidget.bg   */
+  --md-code-fg-color:               #2c232e;
+
+  /* Syntax — Monokai Filter Sun palette */
+  --md-code-hl-color:               #2c232e19;
+  --md-code-hl-number-color:        #6851a2;   /* purple                   */
+  --md-code-hl-special-color:       #218871;   /* teal                     */
+  --md-code-hl-function-color:      #2473b6;   /* blue                     */
+  --md-code-hl-constant-color:      #d4572b;   /* orange‑red               */
+  --md-code-hl-keyword-color:       #ce4770;   /* rose                     */
+  --md-code-hl-string-color:        #b16803;   /* amber                    */
+  --md-code-hl-name-color:          #2c232e;
+  --md-code-hl-operator-color:      #ce4770;
+  --md-code-hl-punctuation-color:   #a59c9c;
+  --md-code-hl-comment-color:       #a59c9c;
+  --md-code-hl-generic-color:       #72696d;
+  --md-code-hl-variable-color:      #2c232e;
+
+  /* Links */
+  --md-typeset-a-color:             #b16803;   /* amber/yellow             */
+
+  /* Tables */
+  --md-typeset-table-color:         #d2c9c4;   /* input.border             */
+  --md-typeset-table-color--light:  #2c232e0c;
+
+  /* Keyboard keys */
+  --md-typeset-kbd-color:           #ded5d0;
+  --md-typeset-kbd-accent-color:    #2c232e;
+  --md-typeset-kbd-border-color:    #beb5b3;
+
+  /* Admonitions */
+  --md-admonition-fg-color:         #2c232e;
+  --md-admonition-bg-color:         #f0e7de;
+
+  /* Footer */
+  --md-footer-bg-color:             #ded5d0;
+  --md-footer-bg-color--dark:       #d2c9c4;
+  --md-footer-fg-color:             #72696d;
+  --md-footer-fg-color--light:      #92898a;
+  --md-footer-fg-color--lighter:    #a59c9c;
+
+  /* Shadows */
+  --md-shadow-z1: 0 0.2rem 0.5rem #2c232e1a, 0 0 0.05rem #2c232e0d;
+  --md-shadow-z2: 0 0.2rem 0.8rem #2c232e33, 0 0 0.05rem #2c232e14;
+  --md-shadow-z3: 0 0.2rem 1.0rem #2c232e4d;
+}
+
+/* ── Typography & structure (both modes) ─────────────────── */
+
+.md-typeset code {
+  font-family: var(--tonesu-font-mono);
+  font-size: 0.85em;
+  border-radius: 3px;
+  padding: 0.1em 0.3em;
+}
+
+/* Force tables to fill their container (Material defaults to inline-block) */
+.md-typeset__scrollwrap {
+  margin: 1em 0;            /* kill Material's negative-margin trick              */
+}
+
+.md-typeset__table {
+  display: block;
+  width: 100%;
+  padding: 0;               /* remove Material's 0 .8rem padding                  */
+  overflow-x: auto;
+}
+
+html .md-typeset__table table {
+  width: 100%;
+  display: table;
+  overflow: visible;         /* remove Material's overflow: hidden                 */
+}
+
+.md-typeset table:not([class]) {
+  display: table;
+  border: 1px solid var(--md-typeset-table-color);
+  border-radius: 4px;
+  width: 100%;
+  max-width: none;           /* override Material's max-width: 100%               */
+  table-layout: auto;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--md-code-bg-color);
+  font-weight: 600;
+}
+
+/* Let inline code in tables (Tonesu forms) breathe — avoid mid-compound breaks */
+.md-typeset table:not([class]) code {
+  white-space: nowrap;
+}
+
+/* Give table cells some breathing room */
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) th {
+  padding: .6em .8em;
+}
+
+/* ── Left navigation — visual hierarchy ─────────────────── */
+
+/*
+ * Section-group labels (e.g. "Domains", "Registry", "Corpus") are <label>
+ * elements that toggle a nested list. Make them clearly read as headings,
+ * not links: uppercase, letter-spaced, slightly smaller, clearly dimmer.
+ */
+.md-nav__list label.md-nav__link {
+  font-size: .67rem;
+  font-weight: 700;
+  letter-spacing: .09em;
+  text-transform: uppercase;
+  opacity: .45;
+  margin-top: .55rem;
+  display: block;
+  cursor: default;
+  pointer-events: none;
+}
+
+/* Hide the collapse/expand arrow on label-only nav sections */
+.md-nav__item--nested > label.md-nav__link > .md-nav__icon {
+  display: none;
+}
+
+/* Force label-only sections to stay expanded */
+.md-nav__item--nested > label.md-nav__link ~ .md-nav {
+  display: block !important;
+  max-height: none !important;
+}
+
+/* The top-of-sidebar section title (back-link) uses .md-nav__title, not
+   a <label>, so the rule above does not affect it. */
+
+/*
+ * Indent links that live inside a nested section (depth ≥ 3).
+ * .md-nav__list .md-nav__list matches lists inside lists — i.e. sub-section
+ * contents (Biology, English index, etc.) relative to sibling direct links.
+ */
+.md-nav__list .md-nav__list a.md-nav__link {
+  padding-left: .9rem;
+}
+
+/*
+ * Sidebar scroll: keep the scroll functional but make the scrollbar
+ * nearly invisible — thin, transparent track, visible only on hover.
+ */
+.md-sidebar__scrollwrap {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+.md-sidebar__scrollwrap:hover {
+  scrollbar-color: rgba(127,127,127,.25) transparent;
+}
+/* Webkit (Chrome, Edge, Safari) */
+.md-sidebar__scrollwrap::-webkit-scrollbar {
+  width: 4px;
+}
+.md-sidebar__scrollwrap::-webkit-scrollbar-track {
+  background: transparent;
+}
+.md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
+  background: transparent;
+  border-radius: 2px;
+}
+.md-sidebar__scrollwrap:hover::-webkit-scrollbar-thumb {
+  background: rgba(127,127,127,.25);
+}
+
+/* ── DataTables filter input ─────────────────────────────── */
+.dt-layout-row {
+  margin-bottom: 0.8rem;
+}
+
+.dt-search label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.8rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.dt-search .dt-input {
+  background: var(--md-code-bg-color);
+  color: var(--md-default-fg-color);
+  border: 1px solid var(--md-typeset-table-color);
+  border-radius: 4px;
+  padding: 0.3rem 0.6rem;
+  font-size: 0.8rem;
+  font-family: var(--md-text-font);
+  min-width: 220px;
+  outline: none;
+}
+
+.dt-search .dt-input:focus {
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 0 0 2px var(--md-accent-fg-color--transparent);
+}
+
+/* Sort arrow color for DataTables */
+table.dataTable thead th.dt-orderable-asc span.dt-column-order::before,
+table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
+  color: var(--md-accent-fg-color);
+}
+
+/* ── Corpus annotation (sentence notes) ─────────────────── */
+.md-typeset .admonition.annotation {
+  border: 1px solid var(--md-typeset-table-color);
+  border-left: 3px solid var(--md-default-fg-color--lighter);
+  border-radius: 0 4px 4px 0;
+  background: color-mix(in sRGB, var(--md-code-bg-color) 40%, var(--md-default-bg-color));
+  box-shadow: none;
+  font-size: .82rem;
+  padding: .5rem .8rem;
+  margin: .4rem 0 .8rem;
+}
+
+.md-typeset .admonition.annotation > .admonition-title {
+  background: none;
+  border: none;
+  padding: 0 0 .2rem;
+  margin: 0;
+  font-size: .75rem;
+  font-weight: 600;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: var(--md-default-fg-color--lighter);
+}
+
+.md-typeset .admonition.annotation > .admonition-title::before {
+  display: none;             /* no icon */
+}
+
+.md-typeset .admonition.annotation p {
+  margin: .2rem 0;
+}
+
+/* ── Derivation block (sandbox, examples) ───────────────── */
+.tn-derive {
+  background: color-mix(in sRGB, var(--md-code-bg-color) 70%, var(--md-default-bg-color));
+  border-left: 3px solid var(--md-typeset-a-color);
+  border-radius: 0 5px 5px 0;
+  padding: .55rem 1rem .55rem 1rem;
+  margin: .7rem 0 1rem;
+  font-size: .875rem;
+  line-height: 1.85;
+  overflow-wrap: break-word;
+}
+
+.tn-derive > p {
+  margin: 0 !important;
+}
+
+.tn-derive > p + p {
+  margin-top: .45rem !important;
+}
+
+/* ── Root builder ────────────────────────────────────────── */
+.rb-container {
+  font-family: inherit;
+}
+
+.rb-loading  { color: #bab6c0; }
+.rb-error    { color: #fc618d; }
+
+/* Header: controls + compound display */
+.rb-header {
+  background: #191919;
+  border: 1px solid #333;
+  border-radius: 6px;
+  padding: .75rem 1rem;
+  margin-bottom: 1rem;
+}
+
+.rb-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem 1.25rem;
+  margin-bottom: .6rem;
+}
+
+.rb-btn-group {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .3rem;
+}
+
+.rb-group-label {
+  font-size: .72rem;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  color: #69676c;
+  margin-right: .15rem;
+}
+
+.rb-ctrl-btn {
+  background: #2a2a2a;
+  border: 1px solid #444;
+  border-radius: 4px;
+  color: #bab6c0;
+  cursor: pointer;
+  font-size: .8rem;
+  padding: .2rem .55rem;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.rb-ctrl-btn:hover { background: #333; border-color: #666; color: #f7f1ff; }
+.rb-ctrl-btn.is-active {
+  background: #fce56622;
+  border-color: #fce566;
+  color: #fce566;
+}
+
+/* Compound display row */
+.rb-display {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: .4rem;
+  min-height: 2rem;
+}
+
+.rb-word {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #fce566;
+  letter-spacing: .02em;
+}
+
+.rb-parse {
+  font-size: .9rem;
+  color: #69676c;
+}
+
+.rb-placeholder {
+  color: #555;
+  font-size: .9rem;
+}
+
+.rb-icon-btn, .rb-clear-btn {
+  background: transparent;
+  border: 1px solid #444;
+  border-radius: 4px;
+  color: #bab6c0;
+  cursor: pointer;
+  font-size: .8rem;
+  padding: .15rem .45rem;
+  transition: border-color .15s, color .15s;
+}
+.rb-icon-btn:hover, .rb-clear-btn:hover {
+  border-color: #fc618d;
+  color: #fc618d;
+}
+.rb-clear-btn { margin-left: auto; }
+
+/* Main layout: palette full-width top, chain + lookup 50/50 below */
+.rb-main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.rb-panel--palette {
+  grid-column: 1 / -1;
+}
+
+@media (max-width: 560px) {
+  .rb-main { grid-template-columns: 1fr; }
+}
+
+.rb-panel {
+  background: #191919;
+  border: 1px solid #333;
+  border-radius: 6px;
+  padding: .75rem;
+}
+
+.rb-panel-title {
+  font-size: .72rem;
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  color: #69676c;
+  margin-bottom: .6rem;
+  padding-bottom: .3rem;
+  border-bottom: 1px solid #2d2d2d;
+}
+
+.rb-empty {
+  color: #555;
+  font-size: .85rem;
+  margin: 0;
+}
+
+/* Family filter strip */
+.rb-family-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .25rem;
+  margin-bottom: .6rem;
+}
+
+.rb-fam-btn {
+  background: transparent;
+  border: 1px solid #333;
+  border-radius: 4px;
+  color: #69676c;
+  cursor: pointer;
+  font-size: .75rem;
+  padding: .15rem .4rem;
+  transition: border-color .15s, color .15s;
+}
+.rb-fam-btn:hover { color: #f7f1ff; border-color: var(--fam-color, #888); }
+.rb-fam-btn.is-active {
+  border-color: var(--fam-color, #fce566);
+  color: var(--fam-color, #fce566);
+  background: color-mix(in sRGB, var(--fam-color, #fce566) 12%, transparent);
+}
+
+/* Root button grid */
+.rb-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: .3rem;
+}
+
+.rb-root-btn {
+  background: color-mix(in sRGB, var(--root-color, #888) 14%, #191919);
+  border: 1px solid var(--root-color, #888);
+  border-radius: 5px;
+  color: var(--root-color, #f7f1ff);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: .4rem;
+  padding: .2rem .5rem;
+  transition: background .15s, transform .1s;
+  font-size: .9rem;
+  font-weight: 600;
+  line-height: 1;
+  width: 100%;
+  text-align: left;
+}
+.rb-root-btn:hover {
+  background: color-mix(in sRGB, var(--root-color, #888) 28%, #191919);
+  transform: translateY(-1px);
+}
+.rb-root-btn .rb-root-gloss {
+  font-size: .55rem;
+  font-weight: 400;
+  color: #bab6c0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.25;
+}
+
+/* Chain chips */
+.rb-chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .4rem;
+  margin-bottom: .6rem;
+}
+
+.rb-chip {
+  display: flex;
+  align-items: center;
+  gap: .3rem;
+  background: color-mix(in sRGB, var(--chip-color, #888) 15%, #191919);
+  border: 1px solid var(--chip-color, #888);
+  border-radius: 5px;
+  padding: .25rem .5rem;
+}
+
+.rb-chip--modifier {
+  background: #fce56614;
+  border-color: #fce56666;
+  --chip-color: #fce566;
+}
+
+.rb-chip-cv {
+  color: var(--chip-color, #f7f1ff);
+  font-weight: 700;
+  font-size: .95rem;
+}
+
+.rb-chip-gloss {
+  color: #bab6c0;
+  font-size: .7rem;
+}
+
+.rb-chip-rm {
+  background: transparent;
+  border: none;
+  color: #555;
+  cursor: pointer;
+  font-size: .85rem;
+  line-height: 1;
+  padding: 0 .1rem;
+  transition: color .15s;
+}
+.rb-chip-rm:hover { color: #fc618d; }
+
+.rb-juncture {
+  background: transparent;
+  border: 1px dashed #555;
+  border-radius: 3px;
+  color: #555;
+  cursor: pointer;
+  font-size: .85rem;
+  line-height: 1;
+  padding: .15rem .25rem;
+  transition: color .15s, border-color .15s;
+  align-self: center;
+}
+.rb-juncture:hover { color: #fce566; border-color: #fce566; }
+.rb-juncture.is-active {
+  color: #fce566;
+  border-color: #fce566;
+  background: #fce56622;
+}
+
+.rb-gloss-line {
+  color: #69676c;
+  font-size: .8rem;
+  margin: 0;
+}
+
+/* Lookup panel */
+.rb-free {
+  background: #7bd88f1a;
+  border: 1px solid #7bd88f55;
+  border-radius: 5px;
+  color: #7bd88f;
+  font-size: .85rem;
+  padding: .5rem .75rem;
+}
+
+.rb-subhead {
+  color: #69676c;
+  font-size: .72rem;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  margin: .5rem 0 .3rem;
+}
+
+.rb-entry-card {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: .2rem .3rem;
+  padding: .3rem 0;
+  border-bottom: 1px solid #2a2a2a;
+  font-size: .85rem;
+}
+.rb-entry-card:last-child { border-bottom: none; }
+
+.rb-entry-word {
+  color: #fce566;
+  font-weight: 600;
+  text-decoration: none;
+}
+.rb-entry-word:hover { text-decoration: underline; }
+
+.rb-entry-sep { color: #444; }
+
+.rb-entry-gloss { color: #bab6c0; flex: 1; }
+
+.rb-entry-wnum {
+  color: #444;
+  font-size: .72rem;
+  margin-left: auto;
+}

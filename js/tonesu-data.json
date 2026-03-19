@@ -1,0 +1,2373 @@
+{
+  "primitives": [
+    {
+      "cv": "mu",
+      "gloss": "object / artifact",
+      "family": "m",
+      "category": "Entities & Substances",
+      "includes": "physical non-living artifacts, tools, devices",
+      "excludes": "living agents, abstract concepts",
+      "status": "active"
+    },
+    {
+      "cv": "ma",
+      "gloss": "matter / substance",
+      "family": "m",
+      "category": "Entities & Substances",
+      "includes": "raw unformed material, physical substrate",
+      "excludes": "structured objects, living tissue",
+      "status": "active"
+    },
+    {
+      "cv": "zo",
+      "gloss": "living thing",
+      "family": "z",
+      "category": "Entities & Substances",
+      "includes": "any organism: plant, animal, fungus, microbe",
+      "excludes": "non-living matter, abstract agents",
+      "status": "active"
+    },
+    {
+      "cv": "li",
+      "gloss": "social agent / person",
+      "family": "l",
+      "category": "Entities & Substances",
+      "includes": "conscious intentional actor, social being",
+      "excludes": "implies zo unless combined with mu; excludes non-intentional life",
+      "status": "active"
+    },
+    {
+      "cv": "ki",
+      "gloss": "motion",
+      "family": "k",
+      "category": "Processes & Change",
+      "includes": "physical movement, displacement, travel",
+      "excludes": "transformation, change of state, growth — use be/de compounds",
+      "status": "active"
+    },
+    {
+      "cv": "ka",
+      "gloss": "intentional action",
+      "family": "k",
+      "category": "Processes & Change",
+      "includes": "deliberate acts, operations, exertion of will",
+      "excludes": "passive or involuntary processes",
+      "status": "active"
+    },
+    {
+      "cv": "be",
+      "gloss": "growth / increase",
+      "family": "b",
+      "category": "Processes & Change",
+      "includes": "building up, generation, emergence, gain",
+      "excludes": "reduction, destruction, motion without change",
+      "status": "active"
+    },
+    {
+      "cv": "de",
+      "gloss": "decay / decrease",
+      "family": "d",
+      "category": "Processes & Change",
+      "includes": "breaking down, ending, entropy, loss",
+      "excludes": "growth, construction",
+      "status": "active"
+    },
+    {
+      "cv": "su",
+      "gloss": "structure / order",
+      "family": "s",
+      "category": "Structure & Pattern",
+      "includes": "physical arrangement, organization, system, spatial form",
+      "excludes": "processes, raw material, mental models",
+      "status": "active"
+    },
+    {
+      "cv": "to",
+      "gloss": "conceptual pattern / thought",
+      "family": "t",
+      "category": "Structure & Pattern",
+      "includes": "idea, plan, model, logic, knowledge, mental representation",
+      "excludes": "physical structure, raw sensory data",
+      "status": "active"
+    },
+    {
+      "cv": "fe",
+      "gloss": "boundary / limit",
+      "family": "f",
+      "category": "Structure & Pattern",
+      "includes": "edge, category, distinction, threshold",
+      "excludes": "internal content, connection",
+      "status": "active"
+    },
+    {
+      "cv": "ne",
+      "gloss": "relation / connection",
+      "family": "n",
+      "category": "Relations",
+      "includes": "link, bond, membership, network",
+      "excludes": "the entities themselves",
+      "status": "active"
+    },
+    {
+      "cv": "pe",
+      "gloss": "part / component",
+      "family": "p",
+      "category": "Relations",
+      "includes": "piece, element, member of a whole",
+      "excludes": "the whole, the relation",
+      "status": "active"
+    },
+    {
+      "cv": "go",
+      "gloss": "cause / origin",
+      "family": "g",
+      "category": "Relations",
+      "includes": "reason, source, trigger",
+      "excludes": "result, the caused event",
+      "status": "active"
+    },
+    {
+      "cv": "du",
+      "gloss": "result / effect",
+      "family": "d",
+      "category": "Relations",
+      "includes": "outcome, product, consequence",
+      "excludes": "cause, process",
+      "status": "active"
+    },
+    {
+      "cv": "zi",
+      "gloss": "mutual / coupling event",
+      "family": "z",
+      "category": "Relations",
+      "includes": "bilateral transformation events; reciprocal exchange; events where two participants are simultaneously modified",
+      "excludes": "static relation (use ne); directed causation (use go/du); single-participant change (use be/de/ki); energetic resonance state (use ne-ra)",
+      "status": "active"
+    },
+    {
+      "cv": "pa",
+      "gloss": "place / space",
+      "family": "p",
+      "category": "Space & Location",
+      "includes": "location, region, physical topology",
+      "excludes": "containment/interior (use ko), time, abstract logical space",
+      "status": "active"
+    },
+    {
+      "cv": "di",
+      "gloss": "direction",
+      "family": "d",
+      "category": "Space & Location",
+      "includes": "toward, away, path, orientation",
+      "excludes": "location itself",
+      "status": "active"
+    },
+    {
+      "cv": "ko",
+      "gloss": "containment / interior",
+      "family": "k",
+      "category": "Space & Location",
+      "includes": "inside, enclosed space, container, boundary-interior",
+      "excludes": "exterior, direction, mere location",
+      "status": "active"
+    },
+    {
+      "cv": "ti",
+      "gloss": "time / sequence",
+      "family": "t",
+      "category": "Time",
+      "includes": "moment, duration, order of events",
+      "excludes": "location, abstract cycles",
+      "status": "active"
+    },
+    {
+      "cv": "re",
+      "gloss": "repetition / cycle",
+      "family": "r",
+      "category": "Time",
+      "includes": "recurrence, rhythm, iteration",
+      "excludes": "single events",
+      "status": "active"
+    },
+    {
+      "cv": "se",
+      "gloss": "perception / sense",
+      "family": "s",
+      "category": "Perception & Information",
+      "includes": "raw sensory awareness: sight, hearing, touch, detection",
+      "excludes": "processed knowledge (use to), encoded signal (use si)",
+      "status": "active"
+    },
+    {
+      "cv": "so",
+      "gloss": "sound / acoustic signal",
+      "family": "s",
+      "category": "Perception & Information",
+      "includes": "acoustic signal, spoken signal, audio",
+      "excludes": "other senses, encoded/written signal",
+      "status": "active"
+    },
+    {
+      "cv": "lu",
+      "gloss": "light / visibility",
+      "family": "l",
+      "category": "Perception & Information",
+      "includes": "visual signal, illumination, electromagnetic visibility",
+      "excludes": "sound, other senses",
+      "status": "active"
+    },
+    {
+      "cv": "si",
+      "gloss": "signal / representation",
+      "family": "s",
+      "category": "Perception & Information",
+      "includes": "any encoded information: symbol, sign, data, language, code",
+      "excludes": "raw unencoded perception (use se), interpreted meaning (use to)",
+      "status": "active"
+    },
+    {
+      "cv": "vo",
+      "gloss": "value / quality",
+      "family": "v",
+      "category": "Mind & Value",
+      "includes": "worth, evaluation, degree, intensity",
+      "excludes": "factual properties",
+      "status": "active"
+    },
+    {
+      "cv": "wi",
+      "gloss": "will / intention",
+      "family": "w",
+      "category": "Mind & Value",
+      "includes": "goal, desire, purpose",
+      "excludes": "knowledge, action itself",
+      "status": "active"
+    },
+    {
+      "cv": "no",
+      "gloss": "negation / absence",
+      "family": "n",
+      "category": "Mind & Value",
+      "includes": "not, lack, removal",
+      "excludes": "presence, addition",
+      "status": "active"
+    },
+    {
+      "cv": "nu",
+      "gloss": "quantity / number",
+      "family": "n",
+      "category": "Quantity",
+      "includes": "count, measure, amount",
+      "excludes": "type, quality",
+      "status": "active"
+    },
+    {
+      "cv": "ru",
+      "gloss": "unity / singularity",
+      "family": "r",
+      "category": "Quantity",
+      "includes": "one, individual, whole",
+      "excludes": "plurality",
+      "status": "active"
+    },
+    {
+      "cv": "pu",
+      "gloss": "plurality / collective",
+      "family": "p",
+      "category": "Quantity",
+      "includes": "many, group, set",
+      "excludes": "individual",
+      "status": "active"
+    },
+    {
+      "cv": "ra",
+      "gloss": "energy / force",
+      "family": "r",
+      "category": "Energy & Force",
+      "includes": "power, charge, capacity to cause change, kinetic force",
+      "excludes": "thermal state of matter (use ha), structure, information, motion itself",
+      "status": "active"
+    },
+    {
+      "cv": "ha",
+      "gloss": "heat / thermal state",
+      "family": "h",
+      "category": "Energy & Force",
+      "includes": "temperature, warmth, coldness as matter-property, thermal intensity",
+      "excludes": "energy as force (use ra), light (use lu), sound (use so)",
+      "status": "active"
+    },
+    {
+      "cv": "fa",
+      "gloss": "affective substrate",
+      "family": "f",
+      "category": "Affective Substrate",
+      "includes": "inward-facing felt tone of organism state: mood substrate, arousal level, valence of internal chemistry, pre-conceptual affect",
+      "excludes": "named emotions (use process constructions), external sensory detection (use se), conceptual knowledge (use to)",
+      "status": "active"
+    },
+    {
+      "cv": "mi",
+      "gloss": "first-person singular (I / me)",
+      "family": "m",
+      "category": "Pronouns",
+      "includes": "speaker self-reference",
+      "excludes": null,
+      "status": "reserved"
+    },
+    {
+      "cv": "ze",
+      "gloss": "anaphoric (it / that)",
+      "family": "z",
+      "category": "Pronouns",
+      "includes": "the referent just named",
+      "excludes": null,
+      "status": "reserved"
+    }
+  ],
+  "families": [
+    {
+      "consonant": "k",
+      "name": "K — Containment · Boundary · Interior",
+      "character": "enclosure and threshold"
+    },
+    {
+      "consonant": "t",
+      "name": "T — Pattern · Time · Thought",
+      "character": "sequence and abstraction"
+    },
+    {
+      "consonant": "s",
+      "name": "S — Signal · Structure · Sound",
+      "character": "form and signal"
+    },
+    {
+      "consonant": "n",
+      "name": "N — Relation · Negation · Number",
+      "character": "connection and its measure"
+    },
+    {
+      "consonant": "p",
+      "name": "P — Part · Place · Plural",
+      "character": "spatial and partitive membership"
+    },
+    {
+      "consonant": "m",
+      "name": "M — Matter · Measure · Mind",
+      "character": "material substrate and the self"
+    },
+    {
+      "consonant": "f",
+      "name": "F — Force · Boundary · Affect",
+      "character": "edge and interior experience"
+    },
+    {
+      "consonant": "r",
+      "name": "R — Recurrence · Energy · Coherence",
+      "character": "dynamic coherence"
+    },
+    {
+      "consonant": "l",
+      "name": "L — Life · Light · Social Agent",
+      "character": "animacy and visibility"
+    },
+    {
+      "consonant": "d",
+      "name": "D — Direction · Decay · Result",
+      "character": "directed outcome"
+    },
+    {
+      "consonant": "b",
+      "name": "B — Growth · Emergence · Life-stage",
+      "character": "upward change"
+    },
+    {
+      "consonant": "h",
+      "name": "H — Heat · Breath · Voice",
+      "character": "warmth and outward flow"
+    },
+    {
+      "consonant": "w",
+      "name": "W — Will · Boundary-of-intention · Ethics",
+      "character": "directed desire"
+    },
+    {
+      "consonant": "v",
+      "name": "V — Value · Voice · Exchange",
+      "character": "expressed worth"
+    },
+    {
+      "consonant": "z",
+      "name": "Z — Living organism · Perception · Mutual exchange",
+      "character": "animate interaction"
+    },
+    {
+      "consonant": "g",
+      "name": "G — Cause · Growth-origin · Grammar",
+      "character": "generative chain"
+    }
+  ],
+  "entries": [
+    {
+      "wnum": "W000",
+      "form": "to-ne-su",
+      "written": "tonesu",
+      "gloss": "truth; the language itself",
+      "status": "active",
+      "domain": "general / meta / philosophy",
+      "roots": [
+        "to",
+        "ne",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W001",
+      "form": "li-su-li",
+      "written": "lisuli",
+      "gloss": "leader, coordinator, administrator",
+      "status": "pending",
+      "domain": "social",
+      "roots": [
+        "li",
+        "su",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W002",
+      "form": "su-mu-li",
+      "written": "sumuli",
+      "gloss": "engineer, architect",
+      "status": "pending",
+      "domain": "general / technical",
+      "roots": [
+        "su",
+        "mu",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W003",
+      "form": "to-li",
+      "written": "toli",
+      "gloss": "scholar, expert, knower",
+      "status": "pending",
+      "domain": "knowledge",
+      "roots": [
+        "to",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W010",
+      "form": "to-su-mu",
+      "written": "tosumu",
+      "gloss": "database, library, knowledge-store",
+      "status": "pending",
+      "domain": "knowledge / computation",
+      "roots": [
+        "to",
+        "su",
+        "mu"
+      ]
+    },
+    {
+      "wnum": "W011",
+      "form": "to-ki-mu",
+      "written": "tokimu",
+      "gloss": "computer, calculator",
+      "status": "pending",
+      "domain": "computation",
+      "roots": [
+        "to",
+        "ki",
+        "mu"
+      ]
+    },
+    {
+      "wnum": "W012",
+      "form": "ra-ki-mu",
+      "written": "rakimu",
+      "gloss": "engine, motor, generator",
+      "status": "pending",
+      "domain": "energy / mechanics",
+      "roots": [
+        "ra",
+        "ki",
+        "mu"
+      ]
+    },
+    {
+      "wnum": "W020",
+      "form": "to-ki",
+      "written": "toki",
+      "gloss": "computation, reasoning process",
+      "status": "pending",
+      "domain": "knowledge / computation",
+      "roots": [
+        "to",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W021",
+      "form": "si-ne-ki",
+      "written": "sineki",
+      "gloss": "signal-transmission process",
+      "status": "pending",
+      "domain": "communication",
+      "roots": [
+        "si",
+        "ne",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W022",
+      "form": "mu-ka",
+      "written": "muka",
+      "gloss": "use / operate a tool or artifact",
+      "status": "active",
+      "domain": "general",
+      "roots": [
+        "mu",
+        "ka"
+      ]
+    },
+    {
+      "wnum": "W023",
+      "form": "si-ki",
+      "written": "siki",
+      "gloss": "transmit a signal",
+      "status": "active",
+      "domain": "communication",
+      "roots": [
+        "si",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W024",
+      "form": "fe-si",
+      "written": "fesi",
+      "gloss": "warning, boundary-condition signal",
+      "status": "active",
+      "domain": "general",
+      "roots": [
+        "fe",
+        "si"
+      ]
+    },
+    {
+      "wnum": "W025",
+      "form": "to-su-ki",
+      "written": "tosuki",
+      "gloss": "comprehend, enter organized knowledge",
+      "status": "active",
+      "domain": "knowledge",
+      "roots": [
+        "to",
+        "su",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W026",
+      "form": "to-si",
+      "written": "tosi",
+      "gloss": "query; proposition / thought-signal",
+      "status": "active",
+      "domain": "knowledge / communication",
+      "roots": [
+        "to",
+        "si"
+      ]
+    },
+    {
+      "wnum": "W027",
+      "form": "to-ko",
+      "written": "toko",
+      "gloss": "memory, stored knowledge",
+      "status": "active",
+      "domain": "knowledge",
+      "roots": [
+        "to",
+        "ko"
+      ]
+    },
+    {
+      "wnum": "W028",
+      "form": "to-fe",
+      "written": "tofe",
+      "gloss": "epistemic boundary (the-line between knowledge states)",
+      "status": "pending",
+      "domain": "knowledge / ethics",
+      "roots": [
+        "to",
+        "fe"
+      ]
+    },
+    {
+      "wnum": "W029",
+      "form": "to-fe-ka",
+      "written": "tofeka",
+      "gloss": "deliberate epistemic mislabeling",
+      "status": "pending",
+      "domain": "ethics / knowledge",
+      "roots": [
+        "to",
+        "fe",
+        "ka"
+      ]
+    },
+    {
+      "wnum": "W030",
+      "form": "to-su",
+      "written": "tosu",
+      "gloss": "organized knowledge, theory, model",
+      "status": "pending",
+      "domain": "general",
+      "roots": [
+        "to",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W031",
+      "form": "ne-su",
+      "written": "nesu",
+      "gloss": "network, society, organization",
+      "status": "pending",
+      "domain": "social / technical",
+      "roots": [
+        "ne",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W032",
+      "form": "to-fe-li",
+      "written": "tofeli",
+      "gloss": "epistemic guardian/adjudicator",
+      "status": "pending",
+      "domain": "knowledge / institutions / ethics",
+      "roots": [
+        "to",
+        "fe",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W033",
+      "form": "li-be",
+      "written": "libe",
+      "gloss": "child, person in growth phase",
+      "status": "active",
+      "domain": "social / general",
+      "roots": [
+        "li",
+        "be"
+      ]
+    },
+    {
+      "wnum": "W034",
+      "form": "se-ka",
+      "written": "seka",
+      "gloss": "examination, deliberate inspection",
+      "status": "active",
+      "domain": "general",
+      "roots": [
+        "se",
+        "ka"
+      ]
+    },
+    {
+      "wnum": "W035",
+      "form": "de-be",
+      "written": "debe",
+      "gloss": "repair, restore",
+      "status": "active",
+      "domain": "general / technical",
+      "roots": [
+        "de",
+        "be"
+      ]
+    },
+    {
+      "wnum": "W036",
+      "form": "li-pu-pa",
+      "written": "lipupa",
+      "gloss": "city, inhabited settlement",
+      "status": "active",
+      "domain": "social / geography",
+      "roots": [
+        "li",
+        "pu",
+        "pa"
+      ]
+    },
+    {
+      "wnum": "W037",
+      "form": "ti-fe",
+      "written": "tife",
+      "gloss": "deadline, temporal boundary",
+      "status": "active",
+      "domain": "general / technical",
+      "roots": [
+        "ti",
+        "fe"
+      ]
+    },
+    {
+      "wnum": "W038",
+      "form": "ra-ki",
+      "written": "raki",
+      "gloss": "storm, kinetic-force discharge",
+      "status": "pending",
+      "domain": "natural phenomena",
+      "roots": [
+        "ra",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W039",
+      "form": "si-mu",
+      "written": "simu",
+      "gloss": "relay device, signal transceiver",
+      "status": "active",
+      "domain": "communication / infrastructure",
+      "roots": [
+        "si",
+        "mu"
+      ]
+    },
+    {
+      "wnum": "W040",
+      "form": "ti-be",
+      "written": "tibe",
+      "gloss": "morning; proximate future",
+      "status": "active",
+      "domain": "temporal reference",
+      "roots": [
+        "ti",
+        "be"
+      ]
+    },
+    {
+      "wnum": "W041",
+      "form": "ti-de",
+      "written": "tide",
+      "gloss": "past time; yesterday",
+      "status": "active",
+      "domain": "temporal reference",
+      "roots": [
+        "ti",
+        "de"
+      ]
+    },
+    {
+      "wnum": "W042",
+      "form": "ne-fe",
+      "written": "nefe",
+      "gloss": "dependency condition, requirement",
+      "status": "active",
+      "domain": "general / systems",
+      "roots": [
+        "ne",
+        "fe"
+      ]
+    },
+    {
+      "wnum": "W043",
+      "form": "zo-no-ki",
+      "written": "zonoki",
+      "gloss": "rest, sleep",
+      "status": "active",
+      "domain": "biological / general",
+      "roots": [
+        "zo",
+        "no",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W044",
+      "form": "ha-de",
+      "written": "hade",
+      "gloss": "cooling, thermal decrease",
+      "status": "active",
+      "domain": "physical / technical",
+      "roots": [
+        "ha",
+        "de"
+      ]
+    },
+    {
+      "wnum": "W045",
+      "form": "wi-to",
+      "written": "wito",
+      "gloss": "plan (single-instance purposive artifact)",
+      "status": "active",
+      "domain": "cognitive / social / operational",
+      "roots": [
+        "wi",
+        "to"
+      ]
+    },
+    {
+      "wnum": "W046",
+      "form": "ma-no-de",
+      "written": "manode",
+      "gloss": "medicine, treatment substance",
+      "status": "active",
+      "domain": "biological / medical",
+      "roots": [
+        "ma",
+        "no",
+        "de"
+      ]
+    },
+    {
+      "wnum": "W047",
+      "form": "ka-mu",
+      "written": "kamu",
+      "gloss": "tool, action instrument",
+      "status": "active",
+      "domain": "material / technical",
+      "roots": [
+        "ka",
+        "mu"
+      ]
+    },
+    {
+      "wnum": "W048",
+      "form": "ko-pa",
+      "written": "kopa",
+      "gloss": "room, enclosed space",
+      "status": "active",
+      "domain": "spatial",
+      "roots": [
+        "ko",
+        "pa"
+      ]
+    },
+    {
+      "wnum": "W049",
+      "form": "ki-pa",
+      "written": "kipa",
+      "gloss": "corridor, passage",
+      "status": "active",
+      "domain": "spatial",
+      "roots": [
+        "ki",
+        "pa"
+      ]
+    },
+    {
+      "wnum": "W050",
+      "form": "pa-nu",
+      "written": "panu",
+      "gloss": "size, spatial magnitude",
+      "status": "active",
+      "domain": "spatial / measurement",
+      "roots": [
+        "pa",
+        "nu"
+      ]
+    },
+    {
+      "wnum": "W051",
+      "form": "zo-de",
+      "written": "zode",
+      "gloss": "fatigue, physical tiredness",
+      "status": "active",
+      "domain": "biological",
+      "roots": [
+        "zo",
+        "de"
+      ]
+    },
+    {
+      "wnum": "W052",
+      "form": "ko-mu",
+      "written": "komu",
+      "gloss": "vessel, container artifact",
+      "status": "active",
+      "domain": "material / technical",
+      "roots": [
+        "ko",
+        "mu"
+      ]
+    },
+    {
+      "wnum": "W053",
+      "form": "pa-ra",
+      "written": "para",
+      "gloss": "energetic field, spatial force distribution",
+      "status": "active",
+      "domain": "physical / mystic",
+      "roots": [
+        "pa",
+        "ra"
+      ]
+    },
+    {
+      "wnum": "W054",
+      "form": "wi-ka-su",
+      "written": "wikasu",
+      "gloss": "ritual, structured intentional practice",
+      "status": "active",
+      "domain": "social / mystic / religious",
+      "roots": [
+        "wi",
+        "ka",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W055",
+      "form": "fe-su",
+      "written": "fesu",
+      "gloss": "ward, protective barrier",
+      "status": "active",
+      "domain": "physical / protective / mystic",
+      "roots": [
+        "fe",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W056",
+      "form": "fe-no-ka",
+      "written": "fenoka",
+      "gloss": "taboo, forbidden boundary",
+      "status": "active",
+      "domain": "social / mystic / legal",
+      "roots": [
+        "fe",
+        "no",
+        "ka"
+      ]
+    },
+    {
+      "wnum": "W057",
+      "form": "ti-mu",
+      "written": "timu",
+      "gloss": "relic, ancient artifact",
+      "status": "active",
+      "domain": "material / historical / mystic",
+      "roots": [
+        "ti",
+        "mu"
+      ]
+    },
+    {
+      "wnum": "W058",
+      "form": "ne-ra",
+      "written": "nera",
+      "gloss": "resonance, energetic coupling state",
+      "status": "active",
+      "domain": "physical / mecha resonance",
+      "roots": [
+        "ne",
+        "ra"
+      ]
+    },
+    {
+      "wnum": "W059",
+      "form": "ne-ra-ki",
+      "written": "neraki",
+      "gloss": "attune, enter resonance",
+      "status": "active",
+      "domain": "mecha / mystic / physics",
+      "roots": [
+        "ne",
+        "ra",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W060",
+      "form": "zo-se-ki",
+      "written": "zoseki",
+      "gloss": "enter trance, heightened bodyperception state",
+      "status": "active",
+      "domain": "biological / cognitive / mystic",
+      "roots": [
+        "zo",
+        "se",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W061",
+      "form": "di-ki-li",
+      "written": "dikili",
+      "gloss": "navigator",
+      "status": "active",
+      "domain": "social / technical",
+      "roots": [
+        "di",
+        "ki",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W062",
+      "form": "se-to",
+      "written": "seto",
+      "gloss": "perceptual insight, vision",
+      "status": "active",
+      "domain": "cognitive / mystic",
+      "roots": [
+        "se",
+        "to"
+      ]
+    },
+    {
+      "wnum": "W063",
+      "form": "wi-si",
+      "written": "wisi",
+      "gloss": "prayer, will-signal",
+      "status": "active",
+      "domain": "religious / communicative",
+      "roots": [
+        "wi",
+        "si"
+      ]
+    },
+    {
+      "wnum": "W064",
+      "form": "to-re-su",
+      "written": "toresu",
+      "gloss": "canonical doctrine, scripture",
+      "status": "active",
+      "domain": "religious / institutional / knowledge",
+      "roots": [
+        "to",
+        "re",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W065",
+      "form": "fe-vo",
+      "written": "fevo",
+      "gloss": "sacredness, set-apart quality",
+      "status": "active",
+      "domain": "religious / social / ethical",
+      "roots": [
+        "fe",
+        "vo"
+      ]
+    },
+    {
+      "wnum": "W066",
+      "form": "pa-wi-ka-su",
+      "written": "pawikasu",
+      "gloss": "shrine, temple",
+      "status": "active",
+      "domain": "religious / social / spatial",
+      "roots": [
+        "pa",
+        "wi",
+        "ka",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W067",
+      "form": "si-ko-mu",
+      "written": "sikomu",
+      "gloss": "individual document, encoded record",
+      "status": "active",
+      "domain": "information / material",
+      "roots": [
+        "si",
+        "ko",
+        "mu"
+      ]
+    },
+    {
+      "wnum": "W068",
+      "form": "zo-to",
+      "written": "zoto",
+      "gloss": "soul, organism identity-pattern",
+      "status": "active",
+      "domain": "cognitive / spiritual / biological",
+      "roots": [
+        "zo",
+        "to"
+      ]
+    },
+    {
+      "wnum": "W069",
+      "form": "zo-si",
+      "written": "zosi",
+      "gloss": "spirit, disembodied living agent",
+      "status": "active",
+      "domain": "spiritual / mystic / biological",
+      "roots": [
+        "zo",
+        "si"
+      ]
+    },
+    {
+      "wnum": "W070",
+      "form": "si-fe",
+      "written": "sife",
+      "gloss": "signal threshold, detection boundary",
+      "status": "active",
+      "domain": "information / physical / measurement",
+      "roots": [
+        "si",
+        "fe"
+      ]
+    },
+    {
+      "wnum": "W071",
+      "form": "ra-vo",
+      "written": "ravo",
+      "gloss": "signal intensity, energy quality",
+      "status": "active",
+      "domain": "physical / information / measurement",
+      "roots": [
+        "ra",
+        "vo"
+      ]
+    },
+    {
+      "wnum": "W072",
+      "form": "to-fe-su",
+      "written": "tofesu",
+      "gloss": "epistemic standards body/code",
+      "status": "active",
+      "domain": "knowledge / institutions / ethics",
+      "roots": [
+        "to",
+        "fe",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W073",
+      "form": "wi-to-su",
+      "written": "witosu",
+      "gloss": "design specification, formal plan",
+      "status": "active",
+      "domain": "engineering / institutional",
+      "roots": [
+        "wi",
+        "to",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W074",
+      "form": "wi-re-su",
+      "written": "wiresu",
+      "gloss": "operational protocol, standing procedure",
+      "status": "active",
+      "domain": "institutional / operational",
+      "roots": [
+        "wi",
+        "re",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W075",
+      "form": "no-ne-fe",
+      "written": "nonefe",
+      "gloss": "absence of dependency / no link",
+      "status": "active",
+      "domain": "navigation / institutional",
+      "roots": [
+        "no",
+        "ne",
+        "fe"
+      ]
+    },
+    {
+      "wnum": "W076",
+      "form": "zo-ne",
+      "written": "zone",
+      "gloss": "biological kinship bond",
+      "status": "pending",
+      "domain": "kinship / social",
+      "roots": [
+        "zo",
+        "ne"
+      ]
+    },
+    {
+      "wnum": "W077",
+      "form": "zo-ne-go",
+      "written": "zonego",
+      "gloss": "parent",
+      "status": "active",
+      "domain": "kinship",
+      "roots": [
+        "zo",
+        "ne",
+        "go"
+      ]
+    },
+    {
+      "wnum": "W078",
+      "form": "zo-ne-du",
+      "written": "zonedu",
+      "gloss": "offspring, child (kinship)",
+      "status": "active",
+      "domain": "kinship",
+      "roots": [
+        "zo",
+        "ne",
+        "du"
+      ]
+    },
+    {
+      "wnum": "W079",
+      "form": "zo-ne-ru",
+      "written": "zoneru",
+      "gloss": "sibling",
+      "status": "active",
+      "domain": "kinship",
+      "roots": [
+        "zo",
+        "ne",
+        "ru"
+      ]
+    },
+    {
+      "wnum": "W080",
+      "form": "zo-ne-go-re",
+      "written": "zonegore",
+      "gloss": "ancestor",
+      "status": "active",
+      "domain": "kinship",
+      "roots": [
+        "zo",
+        "ne",
+        "go",
+        "re"
+      ]
+    },
+    {
+      "wnum": "W081",
+      "form": "zo-ne-du-re",
+      "written": "zonedure",
+      "gloss": "descendant",
+      "status": "active",
+      "domain": "kinship",
+      "roots": [
+        "zo",
+        "ne",
+        "du",
+        "re"
+      ]
+    },
+    {
+      "wnum": "W082",
+      "form": "ra-ma",
+      "written": "rama",
+      "gloss": "fuel, energy substrate",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "ra",
+        "ma"
+      ]
+    },
+    {
+      "wnum": "W083",
+      "form": "to-ru",
+      "written": "toru",
+      "gloss": "consensus, shared conceptual identity",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "to",
+        "ru"
+      ]
+    },
+    {
+      "wnum": "W084",
+      "form": "ne-to",
+      "written": "neto",
+      "gloss": "mutual acknowledgment, agreement",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "ne",
+        "to"
+      ]
+    },
+    {
+      "wnum": "W085",
+      "form": "su-ru",
+      "written": "suru",
+      "gloss": "integrated whole, unified structure",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "su",
+        "ru"
+      ]
+    },
+    {
+      "wnum": "W086",
+      "form": "ki-pa-mu",
+      "written": "kipamu",
+      "gloss": "vehicle, moving enclosed place",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "ki",
+        "pa",
+        "mu"
+      ]
+    },
+    {
+      "wnum": "W087",
+      "form": "pa-ki",
+      "written": "paki",
+      "gloss": "adrift, uncontrolled spatial motion",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "pa",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W088",
+      "form": "pa-wi",
+      "written": "pawi",
+      "gloss": "destination, intentional target place",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "pa",
+        "wi"
+      ]
+    },
+    {
+      "wnum": "W089",
+      "form": "to-go",
+      "written": "togo",
+      "gloss": "counterfactual frame marker",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "to",
+        "go"
+      ]
+    },
+    {
+      "wnum": "W090",
+      "form": "se-no-to",
+      "written": "senoto",
+      "gloss": "percept without cognitive model (unresolved signal)",
+      "status": "pending",
+      "domain": "",
+      "roots": [
+        "se",
+        "no",
+        "to"
+      ]
+    },
+    {
+      "wnum": "W091",
+      "form": "ne-de",
+      "written": "nede",
+      "gloss": "bond dissolution (no assigned cause)",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "ne",
+        "de"
+      ]
+    },
+    {
+      "wnum": "W092",
+      "form": "ka-ne-de",
+      "written": "kanede",
+      "gloss": "deliberate bond dissolution",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "ka",
+        "ne",
+        "de"
+      ]
+    },
+    {
+      "wnum": "W093",
+      "form": "fa-ki",
+      "written": "faki",
+      "gloss": "affect shift / change of register",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "fa",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W094",
+      "form": "fa-de",
+      "written": "fade",
+      "gloss": "affect fading",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "fa",
+        "de"
+      ]
+    },
+    {
+      "wnum": "W095",
+      "form": "fa-no",
+      "written": "fano",
+      "gloss": "affect inactive (unresolved or numb)",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "fa",
+        "no"
+      ]
+    },
+    {
+      "wnum": "W096",
+      "form": "fa-re",
+      "written": "fare",
+      "gloss": "affect cycling / returning to baseline",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "fa",
+        "re"
+      ]
+    },
+    {
+      "wnum": "W097",
+      "form": "to-fe-su-ki",
+      "written": "tofesuki",
+      "gloss": "epistemic ruling crossing to public force",
+      "status": "active",
+      "domain": "knowledge / institutions / ethics",
+      "roots": [
+        "to",
+        "fe",
+        "su",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W098",
+      "form": "si-de",
+      "written": "side",
+      "gloss": "past signal, signal of record",
+      "status": "active",
+      "domain": "knowledge / communications / archival",
+      "roots": [
+        "si",
+        "de"
+      ]
+    },
+    {
+      "wnum": "W099",
+      "form": "wi-re",
+      "written": "wire",
+      "gloss": "feedback loop, iterative goal-cycle",
+      "status": "active",
+      "domain": "systems / cognition / operations",
+      "roots": [
+        "wi",
+        "re"
+      ]
+    },
+    {
+      "wnum": "W100",
+      "form": "wi-fe",
+      "written": "wife",
+      "gloss": "rule, prohibition, policy-imposed limit",
+      "status": "active",
+      "domain": "law / governance / systems",
+      "roots": [
+        "wi",
+        "fe"
+      ]
+    },
+    {
+      "wnum": "W101",
+      "form": "su-ti",
+      "written": "suti",
+      "gloss": "current state, instantaneous configuration",
+      "status": "pending",
+      "domain": "systems / engineering / physics / cognition",
+      "roots": [
+        "su",
+        "ti"
+      ]
+    },
+    {
+      "wnum": "W102",
+      "form": "nu-se",
+      "written": "nuse",
+      "gloss": "measurement, quantitative detection",
+      "status": "active",
+      "domain": "science / engineering / mathematics",
+      "roots": [
+        "nu",
+        "se"
+      ]
+    },
+    {
+      "wnum": "W103",
+      "form": "ti-re",
+      "written": "tire",
+      "gloss": "recurring time, scheduled cycle",
+      "status": "active",
+      "domain": "temporal reference / scheduling",
+      "roots": [
+        "ti",
+        "re"
+      ]
+    },
+    {
+      "wnum": "W104",
+      "form": "zi-ra",
+      "written": "zira",
+      "gloss": "physical interaction, mutual energy transfer",
+      "status": "pending",
+      "domain": "physics / force / field interaction",
+      "roots": [
+        "zi",
+        "ra"
+      ]
+    },
+    {
+      "wnum": "W105",
+      "form": "zi-ka",
+      "written": "zika",
+      "gloss": "transaction, intentional exchange event",
+      "status": "pending",
+      "domain": "social / exchange / commerce",
+      "roots": [
+        "zi",
+        "ka"
+      ]
+    },
+    {
+      "wnum": "W106",
+      "form": "zi-zo",
+      "written": "zizo",
+      "gloss": "biological coupling event",
+      "status": "pending",
+      "domain": "biology / reproduction / ecology",
+      "roots": [
+        "zi",
+        "zo"
+      ]
+    },
+    {
+      "wnum": "W107",
+      "form": "zi-zo-go",
+      "written": "zizogo",
+      "gloss": "go-role in biological coupling",
+      "status": "pending",
+      "domain": "biology / reproduction",
+      "roots": [
+        "zi",
+        "zo",
+        "go"
+      ]
+    },
+    {
+      "wnum": "W108",
+      "form": "zi-zo-du",
+      "written": "zizodu",
+      "gloss": "du-role in biological coupling",
+      "status": "pending",
+      "domain": "biology / reproduction",
+      "roots": [
+        "zi",
+        "zo",
+        "du"
+      ]
+    },
+    {
+      "wnum": "W109",
+      "form": "ti-mi",
+      "written": "timi",
+      "gloss": "now, present moment (deictic)",
+      "status": "pending",
+      "domain": "general / temporal",
+      "roots": [
+        "ti",
+        "mi"
+      ]
+    },
+    {
+      "wnum": "W110",
+      "form": "pa-mi",
+      "written": "pami",
+      "gloss": "here, speaker's location",
+      "status": "pending",
+      "domain": "general / spatial",
+      "roots": [
+        "pa",
+        "mi"
+      ]
+    },
+    {
+      "wnum": "W113",
+      "form": "su'ma",
+      "written": "su'ma",
+      "gloss": "solid (material state)",
+      "status": "pending",
+      "domain": "physical / chemistry",
+      "roots": [
+        "su",
+        "ma"
+      ]
+    },
+    {
+      "wnum": "W114",
+      "form": "ki'ma",
+      "written": "ki'ma",
+      "gloss": "liquid (material state)",
+      "status": "pending",
+      "domain": "physical / chemistry",
+      "roots": [
+        "ki",
+        "ma"
+      ]
+    },
+    {
+      "wnum": "W115",
+      "form": "no-su'ma",
+      "written": "nosu'ma",
+      "gloss": "gas (material state)",
+      "status": "pending",
+      "domain": "physical / chemistry",
+      "roots": [
+        "no",
+        "su",
+        "ma"
+      ]
+    },
+    {
+      "wnum": "W116",
+      "form": "ma-ra",
+      "written": "mara",
+      "gloss": "plasma, ionized matter",
+      "status": "pending",
+      "domain": "physical / chemistry",
+      "roots": [
+        "ma",
+        "ra"
+      ]
+    },
+    {
+      "wnum": "W117",
+      "form": "zo-ra",
+      "written": "zora",
+      "gloss": "life-energy, animating vitality",
+      "status": "active",
+      "domain": "biology / theology / phenomenology",
+      "roots": [
+        "zo",
+        "ra"
+      ]
+    },
+    {
+      "wnum": "W118",
+      "form": "vo-ne",
+      "written": "vone",
+      "gloss": "righteousness, right relational standing",
+      "status": "active",
+      "domain": "ethics / theology / social",
+      "roots": [
+        "vo",
+        "ne"
+      ]
+    },
+    {
+      "wnum": "W119",
+      "form": "de-su",
+      "written": "desu",
+      "gloss": "fault, wrong, moral failing",
+      "status": "active",
+      "domain": "ethics / law / theology",
+      "roots": [
+        "de",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W120",
+      "form": "ka-no-de-su",
+      "written": "kanodesu",
+      "gloss": "forgiveness, deliberate removal of fault",
+      "status": "active",
+      "domain": "ethics / theology / social",
+      "roots": [
+        "ka",
+        "no",
+        "de",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W121",
+      "form": "de-vo",
+      "written": "devo",
+      "gloss": "evil, value-corruption quality",
+      "status": "active",
+      "domain": "ethics / theology",
+      "roots": [
+        "de",
+        "vo"
+      ]
+    },
+    {
+      "wnum": "W122",
+      "form": "ka-to-fe",
+      "written": "katofe",
+      "gloss": "judge, deliberate epistemic bounding",
+      "status": "active",
+      "domain": "ethics / law / theology",
+      "roots": [
+        "ka",
+        "to",
+        "fe"
+      ]
+    },
+    {
+      "wnum": "W123",
+      "form": "fa-ra-be",
+      "written": "farabe",
+      "gloss": "anger, hostile arousal",
+      "status": "active",
+      "domain": "affect / ethics",
+      "roots": [
+        "fa",
+        "ra",
+        "be"
+      ]
+    },
+    {
+      "wnum": "W124",
+      "form": "wi-de-li",
+      "written": "wideli",
+      "gloss": "adversary, enemy, opposing-will person",
+      "status": "active",
+      "domain": "ethics / social",
+      "roots": [
+        "wi",
+        "de",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W125",
+      "form": "pa-be'ka-li-su",
+      "written": "pabe'kalisu",
+      "gloss": "kingdom of heaven, upper-space governance",
+      "status": "active",
+      "domain": "theology / eschatology",
+      "roots": [
+        "pa",
+        "be",
+        "ka",
+        "li",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W126",
+      "form": "si-no-vo-li",
+      "written": "sinovoli",
+      "gloss": "hypocrite, person of valueless signal",
+      "status": "active",
+      "domain": "ethics / social",
+      "roots": [
+        "si",
+        "no",
+        "vo",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W127",
+      "form": "fa-wi-de",
+      "written": "fawide",
+      "gloss": "temptation, affect-will-toward-harm",
+      "status": "active",
+      "domain": "ethics / theology / affect",
+      "roots": [
+        "fa",
+        "wi",
+        "de"
+      ]
+    },
+    {
+      "wnum": "W128",
+      "form": "ka-de-zo",
+      "written": "kadezo",
+      "gloss": "kill, deliberate ending of life",
+      "status": "active",
+      "domain": "ethics / law / biology",
+      "roots": [
+        "ka",
+        "de",
+        "zo"
+      ]
+    },
+    {
+      "wnum": "W129",
+      "form": "no-de-ma",
+      "written": "nodema",
+      "gloss": "salt, preservative matter",
+      "status": "active",
+      "domain": "material / ethics (metaphorical)",
+      "roots": [
+        "no",
+        "de",
+        "ma"
+      ]
+    },
+    {
+      "wnum": "W130",
+      "form": "se-lu",
+      "written": "selu",
+      "gloss": "eye, visual perception organ",
+      "status": "active",
+      "domain": "anatomy / sensory / theology",
+      "roots": [
+        "se",
+        "lu"
+      ]
+    },
+    {
+      "wnum": "W131",
+      "form": "ne-zi-re",
+      "written": "nezire",
+      "gloss": "spouse, bonded coupling partner",
+      "status": "active",
+      "domain": "kinship / social / legal",
+      "roots": [
+        "ne",
+        "zi",
+        "re"
+      ]
+    },
+    {
+      "wnum": "W132",
+      "form": "wi-no-ra",
+      "written": "winora",
+      "gloss": "meekness, will-without-force",
+      "status": "active",
+      "domain": "ethics / affect",
+      "roots": [
+        "wi",
+        "no",
+        "ra"
+      ]
+    },
+    {
+      "wnum": "W133",
+      "form": "su-fa",
+      "written": "sufa",
+      "gloss": "purity of heart, structured affect",
+      "status": "active",
+      "domain": "ethics / affect / theology",
+      "roots": [
+        "su",
+        "fa"
+      ]
+    },
+    {
+      "wnum": "W134",
+      "form": "re-ka-ne-li",
+      "written": "rekaneli",
+      "gloss": "peacemaker, habitual bond-creator",
+      "status": "active",
+      "domain": "ethics / social / theology",
+      "roots": [
+        "re",
+        "ka",
+        "ne",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W135",
+      "form": "pa-zo-li",
+      "written": "pazoli",
+      "gloss": "the world, inhabited realm of human persons",
+      "status": "active",
+      "domain": "geography / social / theology",
+      "roots": [
+        "pa",
+        "zo",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W136",
+      "form": "fa-wi-zi",
+      "written": "fawizi",
+      "gloss": "lust, affect-desire-to-couple",
+      "status": "proposed",
+      "domain": "ethics / biology / affect",
+      "roots": [
+        "fa",
+        "wi",
+        "zi"
+      ]
+    },
+    {
+      "wnum": "W137",
+      "form": "vo-mu",
+      "written": "vomu",
+      "gloss": "garment, clothing, value-artifact worn on body",
+      "status": "proposed",
+      "domain": "material / social",
+      "roots": [
+        "vo",
+        "mu"
+      ]
+    },
+    {
+      "wnum": "W138",
+      "form": "pa-fe",
+      "written": "pafe",
+      "gloss": "vault, firmament, sky-dome",
+      "status": "pending",
+      "domain": "geography / cosmology / theology",
+      "roots": [
+        "pa",
+        "fe"
+      ]
+    },
+    {
+      "wnum": "W139",
+      "form": "lu-mu",
+      "written": "lumu",
+      "gloss": "light-body, luminous celestial object",
+      "status": "pending",
+      "domain": "astronomy / cosmology / theology",
+      "roots": [
+        "lu",
+        "mu"
+      ]
+    },
+    {
+      "wnum": "W140",
+      "form": "lu-ti",
+      "written": "luti",
+      "gloss": "daytime, light-period",
+      "status": "pending",
+      "domain": "general / temporal",
+      "roots": [
+        "lu",
+        "ti"
+      ]
+    },
+    {
+      "wnum": "W141",
+      "form": "no-lu-ti",
+      "written": "noluti",
+      "gloss": "nighttime, dark-period",
+      "status": "pending",
+      "domain": "general / temporal",
+      "roots": [
+        "no",
+        "lu",
+        "ti"
+      ]
+    },
+    {
+      "wnum": "W142",
+      "form": "du-zo-su",
+      "written": "duzosu",
+      "gloss": "fruit, plant-result",
+      "status": "pending",
+      "domain": "biology / botany / food",
+      "roots": [
+        "du",
+        "zo",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W143",
+      "form": "zo-su-be",
+      "written": "zosube",
+      "gloss": "seed, plant-growth-product",
+      "status": "pending",
+      "domain": "biology / botany / agriculture",
+      "roots": [
+        "zo",
+        "su",
+        "be"
+      ]
+    },
+    {
+      "wnum": "W144",
+      "form": "zo-ra-ma",
+      "written": "zorama",
+      "gloss": "food, organism-energy-substrate",
+      "status": "pending",
+      "domain": "biology / food / ecology",
+      "roots": [
+        "zo",
+        "ra",
+        "ma"
+      ]
+    },
+    {
+      "wnum": "W145",
+      "form": "wi-zo",
+      "written": "wizo",
+      "gloss": "wild animal, autonomous organism",
+      "status": "pending",
+      "domain": "biology / ecology",
+      "roots": [
+        "wi",
+        "zo"
+      ]
+    },
+    {
+      "wnum": "W146",
+      "form": "ma-zo-ki",
+      "written": "mazoki",
+      "gloss": "crawler, ground-moving creature",
+      "status": "pending",
+      "domain": "biology / ecology",
+      "roots": [
+        "ma",
+        "zo",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W147",
+      "form": "ka-li-su",
+      "written": "kalisu",
+      "gloss": "governance, dominion, coordinated stewardship",
+      "status": "pending",
+      "domain": "governance / social / theology",
+      "roots": [
+        "ka",
+        "li",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W148",
+      "form": "zo-li",
+      "written": "zoli",
+      "gloss": "human person, living-person class",
+      "status": "active",
+      "domain": "general / social / biology",
+      "roots": [
+        "zo",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W149",
+      "form": "be-go-li-si",
+      "written": "begolisi",
+      "gloss": "creator-representation, image (tselem)",
+      "status": "pending",
+      "domain": "theology / philosophy / representation",
+      "roots": [
+        "be",
+        "go",
+        "li",
+        "si"
+      ]
+    },
+    {
+      "wnum": "W150",
+      "form": "zo-su-ka-li",
+      "written": "zosukali",
+      "gloss": "shepherd, structured-organism-tending-agent",
+      "status": "active",
+      "domain": "general / agriculture",
+      "roots": [
+        "zo",
+        "su",
+        "ka",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W151",
+      "form": "ra-lu-ki",
+      "written": "raluki",
+      "gloss": "fire, energy-light-process",
+      "status": "active",
+      "domain": "general / physics / theology",
+      "roots": [
+        "ra",
+        "lu",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W152",
+      "form": "ki-ne",
+      "written": "kine",
+      "gloss": "sandal, motion-bond (footwear)",
+      "status": "active",
+      "domain": "general / material culture",
+      "roots": [
+        "ki",
+        "ne"
+      ]
+    },
+    {
+      "wnum": "W153",
+      "form": "pa-vo-fe",
+      "written": "pavofe",
+      "gloss": "holy ground, value-bounded place",
+      "status": "active",
+      "domain": "theology / sacred space",
+      "roots": [
+        "pa",
+        "vo",
+        "fe"
+      ]
+    },
+    {
+      "wnum": "W154",
+      "form": "fa-ra",
+      "written": "fara",
+      "gloss": "fear/awe, forceful affect",
+      "status": "active",
+      "domain": "general / affect / theology",
+      "roots": [
+        "fa",
+        "ra"
+      ]
+    },
+    {
+      "wnum": "W155",
+      "form": "fa-de-ra",
+      "written": "fadera",
+      "gloss": "suffering, affect-decrease-force",
+      "status": "active",
+      "domain": "general / affect / social / theology",
+      "roots": [
+        "fa",
+        "de",
+        "ra"
+      ]
+    },
+    {
+      "wnum": "W156",
+      "form": "pa-ki",
+      "written": "paki",
+      "gloss": "liberation / liberator, place-motion (⚠️ form-shares W087 — pending resolution)",
+      "status": "proposed",
+      "domain": "general / social / theology",
+      "roots": [
+        "pa",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W157",
+      "form": "pa-su",
+      "written": "pasu",
+      "gloss": "mountain, structured place",
+      "status": "active",
+      "domain": "general / geography / theology",
+      "roots": [
+        "pa",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W158",
+      "form": "si-ki-li",
+      "written": "sikili",
+      "gloss": "messenger/angel, signal-motion-agent",
+      "status": "active",
+      "domain": "general / theology / communication",
+      "roots": [
+        "si",
+        "ki",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W159",
+      "form": "go-ne",
+      "written": "gone",
+      "gloss": "self-originating relation / \"I am who I am\"",
+      "status": "active",
+      "domain": "theology / philosophy / identity",
+      "roots": [
+        "go",
+        "ne"
+      ]
+    },
+    {
+      "wnum": "W160",
+      "form": "ka-pa-ki",
+      "written": "kapaki",
+      "gloss": "liberation act, deliberate place-motion",
+      "status": "active",
+      "domain": "general / social / theology",
+      "roots": [
+        "ka",
+        "pa",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W161",
+      "form": "ka-du-zo-su",
+      "written": "kaduzosu",
+      "gloss": "bread, deliberately crafted plant-product",
+      "status": "active",
+      "domain": "general / food / theology / liturgy",
+      "roots": [
+        "ka",
+        "du",
+        "zo",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W162",
+      "form": "de-ki'ma",
+      "written": "deki'ma",
+      "gloss": "wine / fermented liquid",
+      "status": "active",
+      "domain": "general / food / theology / liturgy",
+      "roots": [
+        "de",
+        "ki",
+        "ma"
+      ]
+    },
+    {
+      "wnum": "W163",
+      "form": "zo-ma",
+      "written": "zoma",
+      "gloss": "body, physical matter of a living being",
+      "status": "active",
+      "domain": "general / biology / theology / liturgy",
+      "roots": [
+        "zo",
+        "ma"
+      ]
+    },
+    {
+      "wnum": "W164",
+      "form": "zo-ki'ma",
+      "written": "zoki'ma",
+      "gloss": "blood, living liquid",
+      "status": "active",
+      "domain": "general / biology / theology / liturgy",
+      "roots": [
+        "zo",
+        "ki",
+        "ma"
+      ]
+    },
+    {
+      "wnum": "W165",
+      "form": "ne-to-fe",
+      "written": "netofe",
+      "gloss": "covenant, formally bounded agreement",
+      "status": "active",
+      "domain": "theology / law / social",
+      "roots": [
+        "ne",
+        "to",
+        "fe"
+      ]
+    },
+    {
+      "wnum": "W166",
+      "form": "to-ko-re",
+      "written": "tokore",
+      "gloss": "remembrance, memory-return",
+      "status": "active",
+      "domain": "theology / liturgy / memory",
+      "roots": [
+        "to",
+        "ko",
+        "re"
+      ]
+    },
+    {
+      "wnum": "W167",
+      "form": "ka-pa-ki'ti-re",
+      "written": "kapaki'tire",
+      "gloss": "Passover festival, recurring liberation event",
+      "status": "active",
+      "domain": "theology / Jewish tradition / liturgy",
+      "roots": [
+        "ka",
+        "pa",
+        "ki",
+        "ti",
+        "re"
+      ]
+    },
+    {
+      "wnum": "W168",
+      "form": "ka-vo-si",
+      "written": "kavosi",
+      "gloss": "thanksgiving / blessing, deliberate value-signal",
+      "status": "active",
+      "domain": "theology / liturgy / prayer / gratitude",
+      "roots": [
+        "ka",
+        "vo",
+        "si"
+      ]
+    },
+    {
+      "wnum": "W169",
+      "form": "to-to-ne-su",
+      "written": "totonesu",
+      "gloss": "knowledge of truth; knowledge of Tonesu; the language in use",
+      "status": "active",
+      "domain": "meta / language / philosophy",
+      "roots": [
+        "to",
+        "to",
+        "ne",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W170",
+      "form": "to'to-ne-su",
+      "written": "to'tonesu",
+      "gloss": "meta-truth; analytic knowledge of Tonesu; theory of the language",
+      "status": "active",
+      "domain": "meta / language / theory / philosophy",
+      "roots": [
+        "to",
+        "to",
+        "ne",
+        "su"
+      ]
+    }
+  ]
+}
