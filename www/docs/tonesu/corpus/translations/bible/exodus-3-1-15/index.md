@@ -31,21 +31,21 @@ Continues the theological stress-test sequence opened in THO-001 (S349–S356) a
 
 New compounds required for this passage, not in prior registry:
 
-| New Form | Reading | Construction | Notes |
-|----------|---------|--------------|-------|
-| `zo-su'ka-pa` | shepherd, one who tends a structured living space | `zo-su` (plant-structural organism / pasture) + `'` + `ka-pa` (action-place / tended ground) → agent of that tended ground; or simplify as `zo-li-ka` (person who acts on living things). See design decision below. |
-| `si-no-lu-ki` | burning, signal-entering-darkness / consuming fire | `si` (signal) + `no-lu` (absence of light / darkness) + `ki` (motion/process) — fire as the signal that approaches darkness as its medium. Clunky — see design note. |
-| `ra-lu-ki` | fire process, energy-light-in-motion | `ra` (energy) + `lu` (light) + `ki` (motion/process) = fire as energy emitting light in motion. Clean compositional reading. Preferred. |
-| `no-de'ra-lu-ki` | burning-but-not-consumed, fire-without-decay | `no-de` (no-decay / without decrease) + `'` + `ra-lu-ki` (fire) = fire that does not decrease its fuel. The miracle is structurally encoded. |
-| `pa-vo-fe` | holy ground, value-bounded place | `pa` (place) + `vo` (value/quality) + `fe` (boundary) = a place whose value status is explicitly bounded / set apart. Compare `to-fe-li` (epistemic guardian); `pa-vo-fe` is the spatial analog — a place whose boundary is defined by its value-status. |
-| `fa-de-ra` | suffering, felt-interior-decrease-of-force | `fa` (affective substrate) + `de` (decrease/decay) + `ra` (energy/force) = the felt interior experience of force draining away. |
-| `ka-ko-ra` | oppression, deliberate-containment-of-force | `ka` (deliberate action) + `ko` (containment/interior) + `ra` (energy/force) = deliberate act of containing someone's capacity to act. |
-| `pa-ki-li` | liberator, place-motion-agent / one who creates movement from a place | `pa` (place) + `ki` (motion) + `-li` (agent) = one who produces departure-from-place. Liberation as motion out of a place. |
-| `pa-vo-be'ma-ki` | land flowing with milk, value-emerging-matter-in-motion | held for verse 8; complex figurative compound. |
-| `zo-ne-go` | parent, carrier (already registered W077) | available |
-| `be-go-li` | creator-agent (already registered) | available; used for divine agent |
-| `pa-no-fe` | boundless-place / divine space | available from THO-001 |
-| `ki-ne` | sandals, motion-bond / what binds to the foot for movement | `ki` (motion) + `ne` (connection/bond) = what is bonded to the foot to enable or mark motion. Footwear as motion-connector. |
+| New Form | Reading | Construction |
+|----------|---------|--------------|
+| `zo-su'ka-pa` | shepherd, one who tends a structured living space | `zo-su` (plant-structural organism / pasture) + `'` + `ka-pa` (action-place / tended ground) → agent of that tended ground; or simplify as `zo-li-ka` (person who acts on living things). See design decision below. 
+| `si-no-lu-ki` | burning, signal-entering-darkness / consuming fire | `si` (signal) + `no-lu` (absence of light / darkness) + `ki` (motion/process) — fire as the signal that approaches darkness as its medium. Clunky — see design note. 
+| `ra-lu-ki` | fire process, energy-light-in-motion | `ra` (energy) + `lu` (light) + `ki` (motion/process) = fire as energy emitting light in motion. Clean compositional reading. Preferred. 
+| `no-de'ra-lu-ki` | burning-but-not-consumed, fire-without-decay | `no-de` (no-decay / without decrease) + `'` + `ra-lu-ki` (fire) = fire that does not decrease its fuel. The miracle is structurally encoded. 
+| `pa-vo-fe` | holy ground, value-bounded place | `pa` (place) + `vo` (value/quality) + `fe` (boundary) = a place whose value status is explicitly bounded / set apart. Compare `to-fe-li` (epistemic guardian); `pa-vo-fe` is the spatial analog — a place whose boundary is defined by its value-status. 
+| `fa-de-ra` | suffering, felt-interior-decrease-of-force | `fa` (affective substrate) + `de` (decrease/decay) + `ra` (energy/force) = the felt interior experience of force draining away. 
+| `ka-ko-ra` | oppression, deliberate-containment-of-force | `ka` (deliberate action) + `ko` (containment/interior) + `ra` (energy/force) = deliberate act of containing someone's capacity to act. 
+| `pa-ki-li` | liberator, place-motion-agent / one who creates movement from a place | `pa` (place) + `ki` (motion) + `-li` (agent) = one who produces departure-from-place. Liberation as motion out of a place. 
+| `pa-vo-be'ma-ki` | land flowing with milk, value-emerging-matter-in-motion | held for verse 8; complex figurative compound. 
+| `zo-ne-go` | parent, carrier (already registered W077) | available 
+| `be-go-li` | creator-agent (already registered) | available; used for divine agent 
+| `pa-no-fe` | boundless-place / divine space | available from THO-001 
+| `ki-ne` | sandals, motion-bond / what binds to the foot for movement | `ki` (motion) + `ne` (connection/bond) = what is bonded to the foot to enable or mark motion. Footwear as motion-connector. 
 
 ### Shepherd design decision
 

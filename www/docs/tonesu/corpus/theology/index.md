@@ -12,18 +12,18 @@ Stress tests of theological, metaphysical, and philosophical constructions — d
 
 ---
 
-| Batch group | Batches | Sentences | Link |
-|-------------|---------|-----------|------|
-| Hidden Property Stress Tests | 4 | 4 | [→ batches/hidden](../batches/hidden/) |
-| Apophatic Theology | 2 | 2 | [→ batches/t-apo](../batches/t-apo/) |
-| Relational Theology | 7 | 7 | [→ batches/t-rel](../batches/t-rel/) |
-| Moral & Metaphysical Paradox | 1 | 4 | [→ batches/mmp](../batches/mmp/) |
-| Divine Attribute Stress Test (S349–S356) | 1 | 8 | [→ batches/tho](../batches/tho/) |
-| Theological Residuals | 7 | 7 | [→ batches/god-res](../batches/god-res/) |
-| Romans 7:19 — Psychological Contradiction | 1 | 2 | [→ batches/rom](../batches/rom/) |
-| A Tale of Two Cities — Opening | 1 | 5 | [→ batches/dkn](../batches/dkn/) |
-| Wittgenstein, Tractatus Logico-Philosophicus §1 | 1 | 1 | [→ batches/wit](../batches/wit/) |
-| Tao Te Ching — Way & Non-Action | 1 | 3 | [→ batches/tao](../batches/tao/) |
+| Batch group | Batches | Sentences |
+|-------------|---------|-----------|
+| [Hidden Property Stress Tests](../batches/hidden/) | 4 | 4 |
+| [Apophatic Theology](../batches/t-apo/) | 2 | 2 |
+| [Relational Theology](../batches/t-rel/) | 7 | 7 |
+| [Moral & Metaphysical Paradox](../batches/mmp/) | 1 | 4 |
+| [Divine Attribute Stress Test (S349–S356)](../batches/tho/) | 1 | 8 |
+| [Theological Residuals](../batches/god-res/) | 7 | 7 |
+| [Romans 7:19 — Psychological Contradiction](../batches/rom/) | 1 | 2 |
+| [A Tale of Two Cities — Opening](../batches/dkn/) | 1 | 5 |
+| [Wittgenstein, Tractatus Logico-Philosophicus §1](../batches/wit/) | 1 | 1 |
+| [Tao Te Ching — Way & Non-Action](../batches/tao/) | 1 | 3 |
 
 ---
 

@@ -889,8 +889,8 @@ def generate_theme_page(
         "",
         "---",
         "",
-        "| Batch group | Batches | Sentences | Link |",
-        "|-------------|---------|-----------|------|",
+        "| Batch group | Batches | Sentences |",
+        "|-------------|---------|-----------|",
     ]
 
     # Collect page keys that belong to this theme
@@ -907,8 +907,7 @@ def generate_theme_page(
         n_batches = len(group_batches) if group_batches else 1
         title = _page_group_title(key, group_batches)
         lines.append(
-            f"| {title} | {n_batches} | {len(group_sents)} | "
-            f"[→ batches/{slug}](../batches/{slug}/) |"
+            f"| [{title}](../batches/{slug}/) | {n_batches} | {len(group_sents)} |"
         )
 
     lines += ["", "---", "", NOTE]
@@ -1104,6 +1103,45 @@ def generate_conversations_page(conv_data: dict | None) -> str:
 TRANS_CATEGORIES = ["Bible", "Literature", "Philosophy", "Science"]
 
 
+def _strip_empty_table_columns(text: str) -> str:
+    """Remove table columns where every data cell is empty."""
+    out_lines: list[str] = []
+    buf: list[str] = []           # current table block
+
+    def _flush_table(tbl: list[str]) -> list[str]:
+        if len(tbl) < 3:         # need header + sep + at least 1 data row
+            return tbl
+        rows = [r.split("|") for r in tbl]
+        ncols = min(len(r) for r in rows)
+        # Identify columns where all data cells (rows 2+) are blank
+        drop: set[int] = set()
+        for ci in range(ncols):
+            if all(rows[ri][ci].strip() == "" for ri in range(2, len(rows))):
+                # Also require the header to look like a real column name
+                hdr = rows[0][ci].strip() if ci < len(rows[0]) else ""
+                if hdr:            # non-empty header, all-empty data → drop
+                    drop.add(ci)
+        if not drop:
+            return tbl
+        result: list[str] = []
+        for row_cells in rows:
+            filtered = [row_cells[i] for i in range(len(row_cells)) if i not in drop]
+            result.append("|".join(filtered))
+        return result
+
+    for line in text.split("\n"):
+        if line.startswith("|"):
+            buf.append(line)
+        else:
+            if buf:
+                out_lines.extend(_flush_table(buf))
+                buf = []
+            out_lines.append(line)
+    if buf:
+        out_lines.extend(_flush_table(buf))
+    return "\n".join(out_lines)
+
+
 def copy_translation_files() -> list[dict]:
     """Copy translation markdown files to the docs tree.
 
@@ -1131,6 +1169,9 @@ def copy_translation_files() -> list[dict]:
             # Add YAML frontmatter if missing
             if not text.startswith("---"):
                 text = f'---\ntitle: "{display}"\n---\n\n{text}'
+
+            # Strip table columns that are entirely empty (e.g. unused Notes)
+            text = _strip_empty_table_columns(text)
 
             (dest_dir / "index.md").write_text(text, encoding="utf-8")
             entries.append({
