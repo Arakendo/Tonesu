@@ -6,7 +6,7 @@ title: English Index
 
 Look up Tonesu words by English keyword. Where two or more Tonesu words share a term, all appear together — the **Gloss** column gives the precise distinction.
 
-See also: [Alphabetical list](index.md) · [By domain](by-domain.md) · [Building words](../words.md)
+See also: [Alphabetical list](overview.md) · [By domain](by-domain.md) · [Building words](../words.md)
 
 | English | Written form | Parse | Gloss |
 |---------|-------------|-------|-------|

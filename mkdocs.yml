@@ -65,13 +65,13 @@ nav:
       - Word Builder: tonesu/builder.md
     - Sentences:
       - Corpus: tonesu/corpus/overview.md
-      - Foundations: tonesu/corpus/foundations/index.md
-      - Grammar & syntax: tonesu/corpus/grammar/index.md
-      - Domains: tonesu/corpus/domains/index.md
-      - Theology & philosophy: tonesu/corpus/theology/index.md
-      - Translation: tonesu/corpus/translation/index.md
-      - Conversations: tonesu/corpus/conversations/index.md
-      - Translation Analyses: tonesu/corpus/translations/index.md
+      - Foundations: tonesu/corpus/foundations/overview.md
+      - Grammar & syntax: tonesu/corpus/grammar/overview.md
+      - Domains: tonesu/corpus/domains/overview.md
+      - Theology & philosophy: tonesu/corpus/theology/overview.md
+      - Translation: tonesu/corpus/translation/overview.md
+      - Conversations: tonesu/corpus/conversations/overview.md
+      - Translation Analyses: tonesu/corpus/translations/overview.md
   - Totonesu:
     - totonesu/index.md
     - Practical:

@@ -505,7 +505,7 @@ def generate_english_page(rows: list) -> str:
         "share a term, all appear together — the **Gloss** column gives the "
         "precise distinction.",
         "",
-        "See also: [Alphabetical list](index.md) · [By domain](by-domain.md) · "
+        "See also: [Alphabetical list](overview.md) · [By domain](by-domain.md) · "
         "[Building words](../words.md)",
         "",
         "| English | Written form | Parse | Gloss |",
@@ -529,7 +529,7 @@ def generate_by_domain_page(domain_groups: list) -> str:
         "",
         "Concept-first lookup: find the word you need by semantic category.",
         "",
-        "See also: [Alphabetical list](index.md) · "
+        "See also: [Alphabetical list](overview.md) · "
         "[English index](english.md) · [By root](by-root.md) · "
         "[Building words](../words.md)",
         "",
@@ -560,7 +560,7 @@ def generate_by_root_page(root_families: list) -> str:
         "",
         "Each row groups derived compounds sharing the same lead primitive root.",
         "",
-        "See also: [Alphabetical list](index.md) · "
+        "See also: [Alphabetical list](overview.md) · "
         "[English index](english.md) · [By domain](by-domain.md) · "
         "[Building words](../words.md)",
         "",
@@ -1297,7 +1297,7 @@ def main():
         slug = theme_slugs[theme]
         theme_dir = CORPUS_DIR / slug
         theme_dir.mkdir(parents=True, exist_ok=True)
-        (theme_dir / "index.md").write_text(
+        (theme_dir / "overview.md").write_text(
             generate_theme_page(theme, sentences, page_groups, batch_meta),
             encoding="utf-8",
         )
@@ -1318,7 +1318,7 @@ def main():
     # --- Corpus: conversations ---
     conv_dir = CORPUS_DIR / "conversations"
     conv_dir.mkdir(parents=True, exist_ok=True)
-    (conv_dir / "index.md").write_text(
+    (conv_dir / "overview.md").write_text(
         generate_conversations_page(conv_data), encoding="utf-8"
     )
 
@@ -1326,7 +1326,7 @@ def main():
     trans_entries = copy_translation_files()
     if trans_entries:
         TRANS_DIR.mkdir(parents=True, exist_ok=True)
-        (TRANS_DIR / "index.md").write_text(
+        (TRANS_DIR / "overview.md").write_text(
             generate_translations_index(trans_entries), encoding="utf-8"
         )
 
@@ -1347,7 +1347,7 @@ def main():
     attested_count  = sum(1 for e in entries if e.get("wnum") in attest_index)
     n_conv_turns = sum(len(c.get("turns", [])) for c in (conv_data or {}).get("conversations", []))
     print(f"Generated {visible_count} entries -> {OUT_DIR.relative_to(REPO)}/")
-    print(f"  index.md    : {visible_count} words ({attested_count} with corpus attestations)")
+    print(f"  overview.md : {visible_count} words ({attested_count} with corpus attestations)")
     print(f"  english.md  : {len(english_rows)} English terms")
     print(f"  by-domain.md: {len(domain_groups)} domains")
     print(f"  by-root.md  : {len(root_families)} root families")
