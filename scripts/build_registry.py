@@ -850,13 +850,13 @@ def generate_corpus_index(sentences: list, conv_data: dict | None, page_groups: 
     for theme in THEME_ORDER:
         s = theme_stats[theme]
         slug = theme_slugs[theme]
-        lines.append(f"| [{theme}]({slug}/overview/) | {s['sents']} | {len(s['pages'])} |")
+        lines.append(f"| [{theme}](../{slug}/overview/) | {s['sents']} | {len(s['pages'])} |")
 
     lines += [
         "",
-        f"[Conversations](conversations/overview/) — {n_turns} turns",
+        f"[Conversations](../conversations/overview/) — {n_turns} turns",
         "",
-        "[Translation Analyses](translations/overview/) — in-depth verse-by-verse commentary",
+        "[Translation Analyses](../translations/overview/) — in-depth verse-by-verse commentary",
         "",
     ]
     return "\n".join(lines)
@@ -907,7 +907,7 @@ def generate_theme_page(
         n_batches = len(group_batches) if group_batches else 1
         title = _page_group_title(key, group_batches)
         lines.append(
-            f"| [{title}](../batches/{slug}/) | {n_batches} | {len(group_sents)} |"
+            f"| [{title}](../../batches/{slug}/) | {n_batches} | {len(group_sents)} |"
         )
 
     lines += ["", "---", "", NOTE]
@@ -1192,7 +1192,7 @@ def copy_translation_files() -> list[dict]:
                 "category": cat,
                 "slug": slug,
                 "title": display,
-                "rel_path": f"{cat.lower()}/{slug}/",
+                "rel_path": f"../{cat.lower()}/{slug}/",
             })
     return entries
 
@@ -1427,7 +1427,15 @@ def lint_directory_links(docs_root: Path) -> int:
             # Skip absolute paths and protocol-relative URLs
             if target.startswith("/") or "://" in target:
                 continue
-            resolved = (md_file.parent / target).resolve()
+            # MkDocs use_directory_urls=true: relative links are resolved from
+            # the page's *URL*, not its filesystem location.
+            #   index.md  → URL base = parent dir  (same as filesystem parent)
+            #   other.md  → URL base = parent/stem/ (one level deeper)
+            if md_file.name == "index.md":
+                link_base = md_file.parent
+            else:
+                link_base = md_file.parent / md_file.stem
+            resolved = (link_base / target).resolve()
             # Guard: must stay inside docs_root
             try:
                 resolved.relative_to(docs_root.resolve())

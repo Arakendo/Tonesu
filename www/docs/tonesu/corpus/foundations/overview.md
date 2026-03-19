@@ -14,8 +14,8 @@ Core sentences from the earliest Tonesu attestations — basic agent-patient str
 
 | Batch group | Batches | Sentences |
 |-------------|---------|-----------|
-| [Early & Unbatched Sentences](../batches/_foundations/) | 1 | 45 |
-| [Foundational Sentences](../batches/t/) | 5 | 5 |
+| [Early & Unbatched Sentences](../../batches/_foundations/) | 1 | 45 |
+| [Foundational Sentences](../../batches/t/) | 5 | 5 |
 
 ---
 
