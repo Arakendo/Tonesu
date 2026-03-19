@@ -54,6 +54,7 @@ nav:
     - The language:
       - Sounds: tonesu/sounds.md
       - Grammar: tonesu/grammar.md
+      - Morphology: tonesu/morphology.md
       - Building words: tonesu/words.md
       - Notation: tonesu/notation.md
       - Primitives: tonesu/primitives.md
