@@ -438,6 +438,43 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
   font-family: inherit;
 }
 
+/* ── Speaker buttons (Web Speech API) ────────────────────── */
+.tonesu-speaker {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.2em;
+  height: 1.2em;
+  padding: 0.2em;
+  margin: 0 0.3em;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color: var(--md-typeset-a-color);
+  font-size: inherit;
+  vertical-align: middle;
+  border-radius: 0.2em;
+  transition: background-color 0.15s ease, color 0.15s ease;
+  user-select: none;
+}
+
+.tonesu-speaker:hover {
+  background-color: color-mix(in sRGB, var(--md-typeset-a-color) 12%, transparent);
+}
+
+.tonesu-speaker:active {
+  background-color: color-mix(in sRGB, var(--md-typeset-a-color) 18%, transparent);
+}
+
+.tonesu-speaker.speaking {
+  color: var(--md-accent-fg-color);
+}
+
+.tonesu-speaker::before {
+  content: "🔊";
+  font-size: 0.9em;
+}
+
 .rb-loading  { color: #bab6c0; }
 .rb-error    { color: #fc618d; }
 
