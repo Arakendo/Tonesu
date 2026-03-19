@@ -216,6 +216,19 @@ html .md-typeset__table table {
   opacity: .45;
   margin-top: .55rem;
   display: block;
+  cursor: default;
+  pointer-events: none;
+}
+
+/* Hide the collapse/expand arrow on label-only nav sections */
+.md-nav__item--nested > label.md-nav__link > .md-nav__icon {
+  display: none;
+}
+
+/* Force label-only sections to stay expanded */
+.md-nav__item--nested > label.md-nav__link ~ .md-nav {
+  display: block !important;
+  max-height: none !important;
 }
 
 /* The top-of-sidebar section title (back-link) uses .md-nav__title, not

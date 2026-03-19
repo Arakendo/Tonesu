@@ -89,26 +89,25 @@ nav:
     - Principles: to-tonesu/principles.md
     - Design notes: to-tonesu/design.md
     - Knowledge & claims: to-tonesu/knowledge.md
-    - Domains:
-      - to-tonesu/domains/index.md
-      - Sciences:
-        - Biology: to-tonesu/domains/biology.md
-        - Mathematics: to-tonesu/domains/mathematics.md
-        - Physics: to-tonesu/domains/physics.md
-      - Society:
-        - Law: to-tonesu/domains/law.md
-        - Sociology: to-tonesu/domains/sociology.md
-        - Politics: to-tonesu/domains/politics.md
-        - Medicine: to-tonesu/domains/medicine.md
-        - Mind & Psychology: to-tonesu/domains/mind.md
-      - Values & ideas:
-        - Ethics: to-tonesu/domains/ethics.md
-        - Philosophy: to-tonesu/domains/philosophy.md
-        - Theology & Religion: to-tonesu/domains/theology.md
-      - Language & meta:
-        - Language & Metalanguage: to-tonesu/domains/metalanguage.md
-        - Casual Conversation: to-tonesu/domains/conversation.md
-        - "Tonesu's Ontology": to-tonesu/domains/ontology.md
+    - Domains: to-tonesu/domains/index.md
+    - Sciences:
+      - Biology: to-tonesu/domains/biology.md
+      - Mathematics: to-tonesu/domains/mathematics.md
+      - Physics: to-tonesu/domains/physics.md
+    - Society:
+      - Law: to-tonesu/domains/law.md
+      - Sociology: to-tonesu/domains/sociology.md
+      - Politics: to-tonesu/domains/politics.md
+      - Medicine: to-tonesu/domains/medicine.md
+      - Mind & Psychology: to-tonesu/domains/mind.md
+    - Values & ideas:
+      - Ethics: to-tonesu/domains/ethics.md
+      - Philosophy: to-tonesu/domains/philosophy.md
+      - Theology & Religion: to-tonesu/domains/theology.md
+    - Language & meta:
+      - Language & Metalanguage: to-tonesu/domains/metalanguage.md
+      - Casual Conversation: to-tonesu/domains/conversation.md
+      - "Tonesu's Ontology": to-tonesu/domains/ontology.md
   - About: about.md
 
 markdown_extensions:
