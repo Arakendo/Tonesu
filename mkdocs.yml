@@ -144,7 +144,8 @@ extra_css:
   - overrides/css/extra.css
 
 extra_javascript:
-  - https://cdn.datatables.net/2.2.2/js/dataTables.umd.min.js
+  - js/jquery.slim.min.js
+  - js/dataTables.min.js
   - js/datatables-init.js
   - js/root-builder.js
 
