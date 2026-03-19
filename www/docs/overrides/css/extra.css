@@ -231,6 +231,37 @@ html .md-typeset__table table {
   max-height: none !important;
 }
 
+/*
+ * navigation.indexes promotes the first index.md child of a section into
+ * its landing page, rendering the header as an <a> inside a
+ * .md-nav__container div instead of a plain <label>. This affects
+ * Corpus sub-groups (Basics, Subject areas, Texts) which live inside a
+ * data-md-level="2" nav. We want them to look and behave identically to
+ * the pure-label groups — not clickable.
+ */
+.md-nav[data-md-level="2"] .md-nav__item--nested > .md-nav__container > a.md-nav__link {
+  pointer-events: none;
+  cursor: default;
+  font-size: .67rem;
+  font-weight: 700;
+  letter-spacing: .09em;
+  text-transform: uppercase;
+  opacity: .45;
+  color: currentColor !important;
+  text-decoration: none !important;
+}
+
+/* Hide the arrow on container-style sub-group headers */
+.md-nav[data-md-level="2"] .md-nav__item--nested > .md-nav__container > label .md-nav__icon {
+  display: none;
+}
+
+/* Force container-style sub-groups to stay expanded */
+.md-nav[data-md-level="2"] .md-nav__item--nested > .md-nav__container ~ .md-nav {
+  display: block !important;
+  max-height: none !important;
+}
+
 /* The top-of-sidebar section title (back-link) uses .md-nav__title, not
    a <label>, so the rule above does not affect it. */
 
