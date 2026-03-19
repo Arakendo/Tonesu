@@ -243,11 +243,30 @@ html .md-typeset__table table {
   padding-left: .9rem;
 }
 
-/* Let the nav sidebar expand to full content height — no internal scroll */
+/*
+ * Sidebar scroll: keep the scroll functional but make the scrollbar
+ * nearly invisible — thin, transparent track, visible only on hover.
+ */
 .md-sidebar__scrollwrap {
-  overflow-y: visible !important;
-  height: auto !important;
-  max-height: none !important;
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+.md-sidebar__scrollwrap:hover {
+  scrollbar-color: rgba(127,127,127,.25) transparent;
+}
+/* Webkit (Chrome, Edge, Safari) */
+.md-sidebar__scrollwrap::-webkit-scrollbar {
+  width: 4px;
+}
+.md-sidebar__scrollwrap::-webkit-scrollbar-track {
+  background: transparent;
+}
+.md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
+  background: transparent;
+  border-radius: 2px;
+}
+.md-sidebar__scrollwrap:hover::-webkit-scrollbar-thumb {
+  background: rgba(127,127,127,.25);
 }
 
 /* ── DataTables filter input ─────────────────────────────── */
