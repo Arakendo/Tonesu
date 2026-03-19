@@ -336,6 +336,22 @@ table.dataTable tbody td:first-child {
   white-space: nowrap;
 }
 
+/* W# column: prevent squish */
+table.dataTable tbody td:nth-child(2),
+table.dataTable thead th:nth-child(2) {
+  white-space: nowrap;
+  min-width: 3.5rem;
+  text-align: center;
+}
+
+/* Status column: center emoji */
+table.dataTable tbody td:nth-child(3),
+table.dataTable thead th:nth-child(3) {
+  text-align: center;
+  white-space: nowrap;
+  min-width: 2rem;
+}
+
 /* Corpus links inside gloss cell */
 table.dataTable tbody td small {
   display: block;
