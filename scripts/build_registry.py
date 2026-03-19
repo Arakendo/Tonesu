@@ -429,23 +429,16 @@ def build_domain_groups(entries: list) -> list:
 # Root families (from 'lead_root' field)
 # ---------------------------------------------------------------------------
 
-def build_root_families(entries: list) -> list:
+def build_root_families(entries: list) -> dict:
+    """Return {root: [entry, ...]} grouped by lead_root, sorted."""
     families: dict = defaultdict(list)
     for entry in entries:
         if not visible(entry):
             continue
         root = entry.get("lead_root", "?")
         families[root].append(entry)
-
-    result = []
-    for root in sorted(families):
-        members = families[root]
-        parts = [
-            f"`{e['form']}` {e['wnum']} {e['gloss'].split(',')[0].split(';')[0].strip()}"
-            for e in sorted(members, key=lambda x: x["wnum"])
-        ]
-        result.append({"root": root, "entries_raw": " · ".join(parts)})
-    return result
+    return {root: sorted(families[root], key=lambda x: x["form"])
+            for root in sorted(families)}
 
 
 # ---------------------------------------------------------------------------
@@ -530,7 +523,14 @@ def generate_index_page(
     return "\n".join(lines)
 
 
-def generate_english_page(rows: list) -> str:
+def generate_english_page(
+    rows: list,
+    attest_index: dict | None = None,
+    sentence_batch_map: dict | None = None,
+) -> str:
+    if attest_index is None:
+        attest_index = {}
+    has_attestations = bool(attest_index)
     lines = [
         "---",
         "title: English Index",
@@ -545,18 +545,43 @@ def generate_english_page(rows: list) -> str:
         "See also: [Alphabetical list](overview.md) · [By domain](by-domain.md) · "
         "[Building words](../words.md)",
         "",
-        "| English | Written form | Parse | Gloss |",
-        "|---------|-------------|-------|-------|",
+        "| English | W# | Status | Gloss |",
+        "|---------|------|--------|-------|",
     ]
     for en_word, e in rows:
+        emoji  = STATUS_EMOJI.get(e.get("status", "pending"), "⏳")
+        wnum   = e["wnum"]
+        wlink  = f"[{wnum}](words/{wnum}.md)"
+        english_cell = f'{en_word} <br><small>`{e["form"]}` · {written(e["form"])}</small>'
+        gloss_text = e["gloss"]
+        if has_attestations:
+            snums = attest_index.get(wnum, [])
+            def _idx_link(sn: str) -> str:
+                bc   = (sentence_batch_map or {}).get(sn, "")
+                slug = _batch_page_slug(batch_page_key(bc))
+                return f"[{sn}]({_rel(OUT_DIR / 'english.md', BATCH_DIR / slug, anchor=sn)})"
+            if snums:
+                corpus_links = " · ".join(_idx_link(i) for i in snums)
+                gloss_cell = f'{gloss_text} <br><small>{corpus_links}</small>'
+            else:
+                gloss_cell = gloss_text
+        else:
+            gloss_cell = gloss_text
         lines.append(
-            f'| {en_word} | {written(e["form"])} | `{e["form"]}` | {e["gloss"]} |'
+            f'| {english_cell} | {wlink} | {emoji} | {gloss_cell} |'
         )
     lines += ["", "---", "", NOTE]
     return "\n".join(lines)
 
 
-def generate_by_domain_page(domain_groups: list) -> str:
+def generate_by_domain_page(
+    domain_groups: list,
+    attest_index: dict | None = None,
+    sentence_batch_map: dict | None = None,
+) -> str:
+    if attest_index is None:
+        attest_index = {}
+    has_attestations = bool(attest_index)
     lines = [
         "---",
         "title: By Domain",
@@ -575,19 +600,48 @@ def generate_by_domain_page(domain_groups: list) -> str:
         lines += [
             f"## {domain_name}",
             "",
-            "| Form | Written | W# | Gloss |",
-            "|------|---------|-----|-------|",
+            f"{len(entries_list)} compound{'s' if len(entries_list) != 1 else ''}",
+            "",
+            "| Word | W# | Status | Gloss |",
+            "|------|----|--------|-------|",
         ]
         for e in sorted(entries_list, key=lambda x: x["form"]):
+            emoji  = STATUS_EMOJI.get(e.get("status", "pending"), "⏳")
+            wnum   = e["wnum"]
+            wlink  = f"[{wnum}](words/{wnum}.md)"
+            word_cell = f'`{e["form"]}` · {written(e["form"])}'
+            gloss_text = e["gloss"]
+            if has_attestations:
+                snums = attest_index.get(wnum, [])
+                def _idx_link(sn: str) -> str:
+                    bc   = (sentence_batch_map or {}).get(sn, "")
+                    slug = _batch_page_slug(batch_page_key(bc))
+                    return f"[{sn}]({_rel(OUT_DIR / 'by-domain.md', BATCH_DIR / slug, anchor=sn)})"
+                if snums:
+                    corpus_links = " · ".join(_idx_link(i) for i in snums)
+                    gloss_cell = f'{gloss_text} <br><small>{corpus_links}</small>'
+                else:
+                    gloss_cell = gloss_text
+            else:
+                gloss_cell = gloss_text
             lines.append(
-                f'| `{e["form"]}` | {written(e["form"])} | {e["wnum"]} | {e["gloss"]} |'
+                f'| {word_cell} | {wlink} | {emoji} | {gloss_cell} |'
             )
         lines.append("")
     lines += ["---", "", NOTE]
     return "\n".join(lines)
 
 
-def generate_by_root_page(root_families: list) -> str:
+def generate_by_root_page(
+    root_families: dict,
+    primitives: dict,
+    attest_index: dict | None = None,
+    sentence_batch_map: dict | None = None,
+) -> str:
+    if attest_index is None:
+        attest_index = {}
+    has_attestations = bool(attest_index)
+    by_cv = primitives.get("by_cv", {})
     lines = [
         "---",
         "title: By Root",
@@ -595,18 +649,49 @@ def generate_by_root_page(root_families: list) -> str:
         "",
         "# Words by Root Family",
         "",
-        "Each row groups derived compounds sharing the same lead primitive root.",
+        "Each section groups derived compounds sharing the same lead primitive root.",
         "",
         "See also: [Alphabetical list](overview.md) · "
         "[English index](english.md) · [By domain](by-domain.md) · "
         "[Building words](../words.md)",
         "",
-        "| Lead root | Derived compounds |",
-        "|-----------|------------------|",
     ]
-    for r in root_families:
-        lines.append(f'| `{r["root"]}` | {r["entries_raw"]} |')
-    lines += ["", "---", "", NOTE]
+    for root, members in root_families.items():
+        prim = by_cv.get(root, {})
+        root_gloss = prim.get("gloss", "")
+        heading = f"`{root}` — {root_gloss}" if root_gloss else f"`{root}`"
+        lines += [
+            f"## {heading}",
+            "",
+            f"{len(members)} compound{'s' if len(members) != 1 else ''}",
+            "",
+            "| Word | W# | Status | Gloss |",
+            "|------|----|--------|-------|",
+        ]
+        for e in members:
+            emoji  = STATUS_EMOJI.get(e.get("status", "pending"), "⏳")
+            wnum   = e["wnum"]
+            wlink  = f"[{wnum}](words/{wnum}.md)"
+            word_cell = f'`{e["form"]}` · {written(e["form"])}'
+            gloss_text = e["gloss"]
+            if has_attestations:
+                snums = attest_index.get(wnum, [])
+                def _idx_link(sn: str) -> str:
+                    bc   = (sentence_batch_map or {}).get(sn, "")
+                    slug = _batch_page_slug(batch_page_key(bc))
+                    return f"[{sn}]({_rel(OUT_DIR / 'by-root.md', BATCH_DIR / slug, anchor=sn)})"
+                if snums:
+                    corpus_links = " · ".join(_idx_link(i) for i in snums)
+                    gloss_cell = f'{gloss_text} <br><small>{corpus_links}</small>'
+                else:
+                    gloss_cell = gloss_text
+            else:
+                gloss_cell = gloss_text
+            lines.append(
+                f'| {word_cell} | {wlink} | {emoji} | {gloss_cell} |'
+            )
+        lines.append("")
+    lines += ["---", "", NOTE]
     return "\n".join(lines)
 
 
@@ -1313,9 +1398,9 @@ def main():
 
     # --- Registry pages ---
     (OUT_DIR / "overview.md").write_text(generate_index_page(entries, attest_index, sentence_batch_map), encoding="utf-8")
-    (OUT_DIR / "english.md").write_text(generate_english_page(english_rows), encoding="utf-8")
-    (OUT_DIR / "by-domain.md").write_text(generate_by_domain_page(domain_groups), encoding="utf-8")
-    (OUT_DIR / "by-root.md").write_text(generate_by_root_page(root_families), encoding="utf-8")
+    (OUT_DIR / "english.md").write_text(generate_english_page(english_rows, attest_index, sentence_batch_map), encoding="utf-8")
+    (OUT_DIR / "by-domain.md").write_text(generate_by_domain_page(domain_groups, attest_index, sentence_batch_map), encoding="utf-8")
+    (OUT_DIR / "by-root.md").write_text(generate_by_root_page(root_families, primitives, attest_index, sentence_batch_map), encoding="utf-8")
 
     # --- Corpus: master index ---
     (CORPUS_DIR / "overview.md").write_text(

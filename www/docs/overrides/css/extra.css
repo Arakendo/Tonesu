@@ -308,17 +308,17 @@ html .md-typeset__table table {
 table.dataTable {
   width: 100% !important;
   border-collapse: collapse;
-  font-size: 0.8rem;
-  line-height: 1.5;
+  border: .05rem solid var(--md-typeset-table-color);
+  border-radius: .1rem;
+  font-size: .64rem;
 }
 
 table.dataTable thead th {
-  background: var(--md-default-bg-color);
+  background-color: var(--md-code-bg-color);
   color: var(--md-default-fg-color);
-  font-weight: 700;
-  font-size: 0.8rem;
-  padding: 0.6rem 0.8rem;
-  border-bottom: 2px solid var(--md-typeset-table-color);
+  font-weight: 600;
+  padding: .6em .8em;
+  border-bottom: .05rem solid var(--md-typeset-table-color);
   text-align: left;
   vertical-align: bottom;
   white-space: nowrap;
@@ -326,42 +326,49 @@ table.dataTable thead th {
 }
 
 table.dataTable tbody td {
-  padding: 0.5rem 0.8rem;
+  padding: .6em .8em;
   border-bottom: 1px solid var(--md-typeset-table-color);
   vertical-align: top;
 }
 
-/* Word column: keep form + written on one line */
-table.dataTable tbody td:first-child {
+/* Word / form columns: keep on one line */
+table.dataTable td.col-word,
+table.dataTable th.col-word {
   white-space: nowrap;
 }
 
-/* W# column: prevent squish */
-table.dataTable tbody td:nth-child(2),
-table.dataTable thead th:nth-child(2) {
+/* W# column */
+table.dataTable td.col-wnum,
+table.dataTable th.col-wnum {
+  text-align: center;
   white-space: nowrap;
   min-width: 3.5rem;
-  text-align: center;
 }
 
-/* Status column: center emoji */
-table.dataTable tbody td:nth-child(3),
-table.dataTable thead th:nth-child(3) {
+/* Status column */
+table.dataTable td.col-status,
+table.dataTable th.col-status {
   text-align: center;
   white-space: nowrap;
   min-width: 2rem;
+}
+
+/* English keyword column */
+table.dataTable td.col-english,
+table.dataTable th.col-english {
+  white-space: nowrap;
 }
 
 /* Corpus links inside gloss cell */
 table.dataTable tbody td small {
   display: block;
   margin-top: 0.25rem;
-  font-size: 0.72rem;
+  font-size: 0.85em;
   color: var(--md-default-fg-color--light);
   line-height: 1.4;
 }
 table.dataTable tbody td small a {
-  color: var(--md-accent-fg-color);
+  color: var(--md-typeset-a-color);
 }
 
 table.dataTable tbody tr:hover td {
