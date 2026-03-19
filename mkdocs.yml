@@ -148,6 +148,7 @@ extra_javascript:
   - js/dataTables.min.js
   - js/datatables-init.js
   - js/root-builder.js
+  - js/web-speech.js
 
 extra:
   generator: false

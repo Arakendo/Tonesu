@@ -7,6 +7,10 @@ This is the closed (or near-closed) set of foundational semantic roots. These ar
 **Target size: 30–100 roots.**
 **Current count: 34 (31 starter set + `ha` added after corpus stress test, March 2026 + `fa` added as affective substrate primitive, March 2026 + `zi` added as mutual-transformation primitive, three-domain threshold reached March 2026)**
 
+### Speaker icons (🔊)
+
+Click any speaker icon 🔊 next to a root to hear it pronounced. Quality varies by browser — Chrome and Firefox generally sound most natural. The pronunciations use the Web Speech API's default voice and may not perfectly match the intended phonology; these are approximations only. For normative phonological details, see [Sounds](../tonesu/sounds.md).
+
 ---
 
 ## Validation Rules
@@ -74,10 +78,10 @@ A robot that acts with intention is `mu + li`. An animal is `zo`. A human is `zo
 
 | Root | Gloss | Includes | Excludes |
 |------|-------|----------|----------|
-| `mu` | object / artifact | physical non-living artifacts, tools, devices | living agents, abstract concepts |
-| `ma` | matter / substance | raw unformed material, physical substrate | structured objects, living tissue |
-| `zo` | living thing | any organism: plant, animal, fungus, microbe | non-living matter, abstract agents |
-| `li` | social agent / person | conscious intentional actor, social being | implies `zo` unless combined with `mu`; excludes non-intentional life |
+| <button class="tonesu-speaker" data-text="mu" title="Pronounce"></button> `mu` | object / artifact | physical non-living artifacts, tools, devices | living agents, abstract concepts |
+| <button class="tonesu-speaker" data-text="ma" title="Pronounce"></button> `ma` | matter / substance | raw unformed material, physical substrate | structured objects, living tissue |
+| <button class="tonesu-speaker" data-text="zo" title="Pronounce"></button> `zo` | living thing | any organism: plant, animal, fungus, microbe | non-living matter, abstract agents |
+| <button class="tonesu-speaker" data-text="li" title="Pronounce"></button> `li` | social agent / person | conscious intentional actor, social being | implies `zo` unless combined with `mu`; excludes non-intentional life |
 
 ---
 
@@ -89,10 +93,10 @@ A robot that acts with intention is `mu + li`. An animal is `zo`. A human is `zo
 
 | Root | Gloss | Includes | Excludes |
 |------|-------|----------|---------|
-| `ki` | motion | physical movement, displacement, travel | transformation, change of state, growth — those use `be`/`de` compounds |
-| `ka` | intentional action | deliberate acts, operations, exertion of will | passive or involuntary processes |
-| `be` | growth / increase | building up, generation, emergence, gain | reduction, destruction, motion without change |
-| `de` | decay / decrease | breaking down, ending, entropy, loss | growth, construction |
+| <button class="tonesu-speaker" data-text="ki" title="Pronounce"></button> `ki` | motion | physical movement, displacement, travel | transformation, change of state, growth — those use `be`/`de` compounds |
+| <button class="tonesu-speaker" data-text="ka" title="Pronounce"></button> `ka` | intentional action | deliberate acts, operations, exertion of will | passive or involuntary processes |
+| <button class="tonesu-speaker" data-text="be" title="Pronounce"></button> `be` | growth / increase | building up, generation, emergence, gain | reduction, destruction, motion without change |
+| <button class="tonesu-speaker" data-text="de" title="Pronounce"></button> `de` | decay / decrease | breaking down, ending, entropy, loss | growth, construction |
 
 *Candidate root evaluated and rejected:*
 
@@ -110,9 +114,9 @@ A robot that acts with intention is `mu + li`. An animal is `zo`. A human is `zo
 
 | Root | Gloss | Includes | Excludes |
 |------|-------|----------|----------|
-| `su` | structure / order | physical arrangement, organization, system, spatial form | processes, raw material, mental models |
-| `to` | conceptual pattern / thought | idea, plan, model, logic, knowledge, mental representation | physical structure, raw sensory data |
-| `fe` | boundary / limit | edge, category, distinction, threshold | internal content, connection |
+| <button class="tonesu-speaker" data-text="su" title="Pronounce"></button> `su` | structure / order | physical arrangement, organization, system, spatial form | processes, raw material, mental models |
+| <button class="tonesu-speaker" data-text="to" title="Pronounce"></button> `to` | conceptual pattern / thought | idea, plan, model, logic, knowledge, mental representation | physical structure, raw sensory data |
+| <button class="tonesu-speaker" data-text="fe" title="Pronounce"></button> `fe` | boundary / limit | edge, category, distinction, threshold | internal content, connection |
 
 ---
 
@@ -143,11 +147,11 @@ Canonical contrast:
 
 | Root | Gloss | Includes | Excludes |
 |------|-------|----------|----------|
-| `ne` | relation / connection | link, bond, membership, network | the entities themselves |
-| `pe` | part / component | piece, element, member of a whole | the whole, the relation |
-| `go` | cause / origin | reason, source, trigger | result, the caused event |
-| `du` | result / effect | outcome, product, consequence | cause, process |
-| `zi` | mutual / coupling event | bilateral transformation events; any event where two participants are simultaneously modified by their mutual engagement; reciprocal exchange | static relation (use `ne`); directed causation (use `go`/`du`); single-participant change (use `be`/`de`/`ki`); energetic resonance *state* (use `ne-ra`) |
+| <button class="tonesu-speaker" data-text="ne" title="Pronounce"></button> `ne` | relation / connection | link, bond, membership, network | the entities themselves |
+| <button class="tonesu-speaker" data-text="pe" title="Pronounce"></button> `pe` | part / component | piece, element, member of a whole | the whole, the relation |
+| <button class="tonesu-speaker" data-text="go" title="Pronounce"></button> `go` | cause / origin | reason, source, trigger | result, the caused event |
+| <button class="tonesu-speaker" data-text="du" title="Pronounce"></button> `du` | result / effect | outcome, product, consequence | cause, process |
+| <button class="tonesu-speaker" data-text="zi" title="Pronounce"></button> `zi` | mutual / coupling event | bilateral transformation events; any event where two participants are simultaneously modified by their mutual engagement; reciprocal exchange | static relation (use `ne`); directed causation (use `go`/`du`); single-participant change (use `be`/`de`/`ki`); energetic resonance *state* (use `ne-ra`) |
 
 ---
 
@@ -155,9 +159,9 @@ Canonical contrast:
 
 | Root | Gloss | Includes | Excludes |
 |------|-------|----------|----------|
-| `pa` | place / space | location, region, physical topology | containment/interior (use `ko`), time, abstract logical space |
-| `di` | direction | toward, away, path, orientation | location itself |
-| `ko` | containment / interior | inside, enclosed space, container, boundary-interior | exterior, direction, mere location |
+| <button class="tonesu-speaker" data-text="pa" title="Pronounce"></button> `pa` | place / space | location, region, physical topology | containment/interior (use `ko`), time, abstract logical space |
+| <button class="tonesu-speaker" data-text="di" title="Pronounce"></button> `di` | direction | toward, away, path, orientation | location itself |
+| <button class="tonesu-speaker" data-text="ko" title="Pronounce"></button> `ko` | containment / interior | inside, enclosed space, container, boundary-interior | exterior, direction, mere location |
 
 ---
 
@@ -165,8 +169,8 @@ Canonical contrast:
 
 | Root | Gloss | Includes | Excludes |
 |------|-------|----------|----------|
-| `ti` | time / sequence | moment, duration, order of events | location, abstract cycles |
-| `re` | repetition / cycle | recurrence, rhythm, iteration | single events |
+| <button class="tonesu-speaker" data-text="ti" title="Pronounce"></button> `ti` | time / sequence | moment, duration, order of events | location, abstract cycles |
+| <button class="tonesu-speaker" data-text="re" title="Pronounce"></button> `re` | repetition / cycle | recurrence, rhythm, iteration | single events |
 
 ---
 
@@ -178,10 +182,10 @@ Canonical contrast:
 
 | Root | Gloss | Includes | Excludes |
 |------|-------|----------|----------|
-| `se` | perception / sense | raw sensory awareness: sight, hearing, touch, detection | processed knowledge (use `to`), encoded signal (use `si`) |
-| `so` | sound | acoustic signal, spoken signal, audio | other senses, encoded/written signal |
-| `lu` | light / visibility | visual signal, illumination, electromagnetic visibility | sound, other senses |
-| `si` | signal / representation | any encoded information: symbol, sign, data, language, code | raw unencoded perception (use `se`), interpreted meaning (use `to`) |
+| <button class="tonesu-speaker" data-text="se" title="Pronounce"></button> `se` | perception / sense | raw sensory awareness: sight, hearing, touch, detection | processed knowledge (use `to`), encoded signal (use `si`) |
+| <button class="tonesu-speaker" data-text="so" title="Pronounce"></button> `so` | sound | acoustic signal, spoken signal, audio | other senses, encoded/written signal |
+| <button class="tonesu-speaker" data-text="lu" title="Pronounce"></button> `lu` | light / visibility | visual signal, illumination, electromagnetic visibility | sound, other senses |
+| <button class="tonesu-speaker" data-text="si" title="Pronounce"></button> `si` | signal / representation | any encoded information: symbol, sign, data, language, code | raw unencoded perception (use `se`), interpreted meaning (use `to`) |
 
 ---
 
@@ -189,9 +193,9 @@ Canonical contrast:
 
 | Root | Gloss | Includes | Excludes |
 |------|-------|----------|----------|
-| `vo` | value / quality | worth, evaluation, degree, intensity | factual properties |
-| `wi` | will / intention | goal, desire, purpose | knowledge, action itself |
-| `no` | negation / absence | not, lack, removal | presence, addition |
+| <button class="tonesu-speaker" data-text="vo" title="Pronounce"></button> `vo` | value / quality | worth, evaluation, degree, intensity | factual properties |
+| <button class="tonesu-speaker" data-text="wi" title="Pronounce"></button> `wi` | will / intention | goal, desire, purpose | knowledge, action itself |
+| <button class="tonesu-speaker" data-text="no" title="Pronounce"></button> `no` | negation / absence | not, lack, removal | presence, addition |
 
 ---
 
@@ -199,9 +203,9 @@ Canonical contrast:
 
 | Root | Gloss | Includes | Excludes |
 |------|-------|----------|----------|
-| `nu` | quantity / number | count, measure, amount | type, quality |
-| `ru` | unity / singularity | one, individual, whole | plurality |
-| `pu` | plurality / collective | many, group, set | individual |
+| <button class="tonesu-speaker" data-text="nu" title="Pronounce"></button> `nu` | quantity / number | count, measure, amount | type, quality |
+| <button class="tonesu-speaker" data-text="ru" title="Pronounce"></button> `ru` | unity / singularity | one, individual, whole | plurality |
+| <button class="tonesu-speaker" data-text="pu" title="Pronounce"></button> `pu` | plurality / collective | many, group, set | individual |
 
 *Note: `plu` replaced with `pu` to comply with the CV/CVC syllable rule. All prior references to `plu` should be updated.*
 
@@ -217,8 +221,8 @@ As a result, `ra-de` does not mean "cold" — it means "energy is decreasing" (p
 
 | Root | Gloss | Includes | Excludes |
 |------|-------|----------|----------|
-| `ra` | energy / force | power, charge, capacity to cause change, kinetic force | thermal state of matter (use `ha`), structure, information, motion itself |
-| `ha` | heat / thermal state | temperature, warmth, coldness as matter-property, thermal intensity | energy as force or capacity (use `ra`), light (use `lu`), sound (use `so`) |
+| <button class="tonesu-speaker" data-text="ra" title="Pronounce"></button> `ra` | energy / force | power, charge, capacity to cause change, kinetic force | thermal state of matter (use `ha`), structure, information, motion itself |
+| <button class="tonesu-speaker" data-text="ha" title="Pronounce"></button> `ha` | heat / thermal state | temperature, warmth, coldness as matter-property, thermal intensity | energy as force or capacity (use `ra`), light (use `lu`), sound (use `so`) |
 
 ---
 
@@ -271,9 +275,7 @@ la-mi  to  lo-go    I identify the cause
 
 | Root | Gloss | Includes | Excludes |
 |------|-------|----------|---------|
-| `fa` | affective substrate | inward-facing felt tone of organism state: mood substrate, arousal level, valence of internal chemistry, pre-conceptual affect | named emotions (use process constructions), external sensory detection (use `se`), conceptual knowledge (use `to`) |
-
----
+| <button class="tonesu-speaker" data-text="fa" title="Pronounce"></button> `fa` | affective substrate | inward-facing felt tone of organism state: mood substrate, arousal level, valence of internal chemistry, pre-conceptual affect | named emotions (use process constructions), external sensory detection (use `se`), conceptual knowledge (use `to`) |
 
 ## Notes
 
