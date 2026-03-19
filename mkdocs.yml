@@ -65,16 +65,13 @@ nav:
       - Word Builder: tonesu/builder.md
     - Corpus:
       - tonesu/corpus/index.md
-      - Basics:
-        - Foundations: tonesu/corpus/foundations/index.md
-        - Grammar & syntax: tonesu/corpus/grammar/index.md
-      - Subject areas:
-        - Domains: tonesu/corpus/domains/index.md
-        - Theology & philosophy: tonesu/corpus/theology/index.md
-      - Texts:
-        - Translation: tonesu/corpus/translation/index.md
-        - Conversations: tonesu/corpus/conversations/index.md
-        - Translation Analyses: tonesu/corpus/translations/index.md
+      - Foundations: tonesu/corpus/foundations/index.md
+      - Grammar & syntax: tonesu/corpus/grammar/index.md
+      - Domains: tonesu/corpus/domains/index.md
+      - Theology & philosophy: tonesu/corpus/theology/index.md
+      - Translation: tonesu/corpus/translation/index.md
+      - Conversations: tonesu/corpus/conversations/index.md
+      - Translation Analyses: tonesu/corpus/translations/index.md
   - Totonesu:
     - totonesu/index.md
     - Practical:

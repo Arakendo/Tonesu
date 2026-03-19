@@ -14,7 +14,7 @@ The name **Tonesu** is a contraction of `to-ne-su` (pattern · relation · struc
 
 ## Design commitments
 
-| | |
+| Commitment | |
 |---|---|
 | **Phonetically simple** | Globally pronounceable — one letter, one sound, stress always on the first syllable |
 | **Compositionally transparent** | Words are built from audible parts; parsing a word gives you its meaning |
