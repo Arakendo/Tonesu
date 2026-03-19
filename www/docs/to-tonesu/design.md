@@ -8,7 +8,7 @@ Specific decisions traced from pressure to resolution. Why did the language arri
 
 ## Why tofeka
 
-*Coming soon.*
+See [Knowledge & claims](knowledge.md) for the full treatment — the epistemic pipeline, the `tofeka` / `tofeki` distinction, Popper's demarcation criterion, and how Tonesu's grammar makes fallacies structurally visible.
 
 ---
 

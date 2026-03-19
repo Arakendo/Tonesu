@@ -86,6 +86,7 @@ nav:
     - Patterns: to-tonesu/patterns.md
     - Principles: to-tonesu/principles.md
     - Design notes: to-tonesu/design.md
+    - Knowledge & claims: to-tonesu/knowledge.md
     - Domains:
       - to-tonesu/domains/index.md
       - Biology: to-tonesu/domains/biology.md
