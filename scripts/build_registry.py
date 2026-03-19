@@ -500,36 +500,32 @@ def generate_index_page(
         "[Building words](../words.md)",
         "",
     ]
-    if has_attestations:
-        lines += [
-            "| Form | Written | W# | Gloss | Status | Corpus |",
-            "|------|---------|-----|-------|--------|--------|",
-        ]
-    else:
-        lines += [
-            "| Form | Written | W# | Gloss | Status |",
-            "|------|---------|-----|-------|--------|",
-        ]
+    lines += [
+        "| Word | W# | Gloss | Status |",
+        "|------|----|-------|--------|",
+    ]
     for e in sorted(visible_entries, key=lambda x: x["form"]):
         emoji  = STATUS_EMOJI.get(e.get("status", "pending"), "⏳")
         wnum   = e["wnum"]
         wlink  = f"[{wnum}](words/{wnum}.md)"
+        word_cell = f'`{e["form"]}` · {written(e["form"])}'
+        gloss_text = e["gloss"]
         if has_attestations:
             snums = attest_index.get(wnum, [])
             def _idx_link(sn: str) -> str:
                 bc   = (sentence_batch_map or {}).get(sn, "")
                 slug = _batch_page_slug(batch_page_key(bc))
                 return f"[{sn}]({_rel(OUT_DIR / 'overview.md', BATCH_DIR / slug, anchor=sn)})"
-            corpus_cell = " · ".join(_idx_link(i) for i in snums) if snums else "—"
-            lines.append(
-                f'| `{e["form"]}` | {written(e["form"])} | {wlink} '
-                f'| {e["gloss"]} | {emoji} | {corpus_cell} |'
-            )
+            if snums:
+                corpus_links = " · ".join(_idx_link(i) for i in snums)
+                gloss_cell = f'{gloss_text} <br><small>{corpus_links}</small>'
+            else:
+                gloss_cell = gloss_text
         else:
-            lines.append(
-                f'| `{e["form"]}` | {written(e["form"])} | {wlink} '
-                f'| {e["gloss"]} | {emoji} |'
-            )
+            gloss_cell = gloss_text
+        lines.append(
+            f'| {word_cell} | {wlink} | {gloss_cell} | {emoji} |'
+        )
     lines += ["", "---", "", NOTE]
     return "\n".join(lines)
 
