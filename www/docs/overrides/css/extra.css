@@ -246,13 +246,16 @@ html .md-typeset__table table {
 /*
  * Sidebar scroll: keep the scroll functional but make the scrollbar
  * nearly invisible — thin, transparent track, visible only on hover.
+ * Firefox (scrollbar-width/scrollbar-color); Webkit fallback below.
  */
-.md-sidebar__scrollwrap {
-  scrollbar-width: thin;
-  scrollbar-color: rgba(0,0,0,0) rgba(0,0,0,0);
-}
-.md-sidebar__scrollwrap:hover {
-  scrollbar-color: rgba(127,127,127,.25) rgba(0,0,0,0);
+@supports (scrollbar-width: thin) {
+  .md-sidebar__scrollwrap {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(0,0,0,0) rgba(0,0,0,0);
+  }
+  .md-sidebar__scrollwrap:hover {
+    scrollbar-color: rgba(127,127,127,.25) rgba(0,0,0,0);
+  }
 }
 /* Webkit (Chrome, Edge, Safari) */
 .md-sidebar__scrollwrap::-webkit-scrollbar {
