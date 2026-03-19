@@ -6,7 +6,7 @@ title: "Abstract & Mystery Domain"
 
 *Theme: [Domains](../../domains/)* · 7 sentences.
 
-[← Domains](../../domains/) · [← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../overview.md)
 
 ---
 

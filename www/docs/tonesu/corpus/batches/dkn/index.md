@@ -8,7 +8,7 @@ title: "A Tale of Two Cities — Opening"
 
 :material-book-open-variant: [Full translation analysis](../../translations/literature/tale-of-two-cities/)
 
-[← Theology & philosophy](../../theology/) · [← Corpus](../../index.md)
+[← Theology & philosophy](../../theology/) · [← Corpus](../../overview.md)
 
 ---
 

@@ -6,7 +6,7 @@ title: "Diplomatic Treaty Negotiation"
 
 *Theme: [Grammar & syntax](../../grammar/)* · 9 sentences.
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
 
 ---
 

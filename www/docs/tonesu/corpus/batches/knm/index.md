@@ -6,7 +6,7 @@ title: "Kind Naming (Biology)"
 
 *Theme: [Domains](../../domains/)* · 59 sentences.
 
-[← Domains](../../domains/) · [← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../overview.md)
 
 ---
 

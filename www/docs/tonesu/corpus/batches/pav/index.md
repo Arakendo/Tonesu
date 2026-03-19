@@ -6,7 +6,7 @@ title: "Agentless and Passive Clause Test"
 
 *Theme: [Domains](../../domains/)* · 10 sentences.
 
-[← Domains](../../domains/) · [← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../overview.md)
 
 ---
 

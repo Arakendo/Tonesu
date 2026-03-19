@@ -6,7 +6,7 @@ title: Conversations
 
 8 conversations · 50 turns.
 
-[← Corpus](../index.md)
+[← Corpus](../overview.md)
 
 ---
 

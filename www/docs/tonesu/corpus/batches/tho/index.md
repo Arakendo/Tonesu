@@ -6,7 +6,7 @@ title: "Divine Attribute Stress Test (S349–S356)"
 
 *Theme: [Theology & philosophy](../../theology/)* · 8 sentences.
 
-[← Theology & philosophy](../../theology/) · [← Corpus](../../index.md)
+[← Theology & philosophy](../../theology/) · [← Corpus](../../overview.md)
 
 ---
 

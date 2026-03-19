@@ -6,7 +6,7 @@ title: "Rock, Mineral, Soil"
 
 *Theme: [Translation](../../translation/)* · 14 sentences.
 
-[← Translation](../../translation/) · [← Corpus](../../index.md)
+[← Translation](../../translation/) · [← Corpus](../../overview.md)
 
 ---
 

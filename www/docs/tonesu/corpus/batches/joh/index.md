@@ -8,7 +8,7 @@ title: "John 1:1 — Identity Operator Stress Test"
 
 :material-book-open-variant: [Full translation analysis](../../translations/bible/john-1-1/)
 
-[← Translation](../../translation/) · [← Corpus](../../index.md)
+[← Translation](../../translation/) · [← Corpus](../../overview.md)
 
 ---
 

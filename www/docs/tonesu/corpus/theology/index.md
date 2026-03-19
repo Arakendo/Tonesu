@@ -8,7 +8,7 @@ Stress tests of theological, metaphysical, and philosophical constructions — d
 
 43 sentences.
 
-[← Corpus](../index.md)
+[← Corpus](../overview.md)
 
 ---
 

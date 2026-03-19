@@ -8,7 +8,7 @@ Vocabulary attestation across semantic domains — biology, geography, numerals,
 
 191 sentences.
 
-[← Corpus](../index.md)
+[← Corpus](../overview.md)
 
 ---
 

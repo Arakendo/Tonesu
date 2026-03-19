@@ -8,7 +8,7 @@ title: "Bashō, Frog Haiku (1686) — Kireji Stress Test"
 
 :material-book-open-variant: [Full translation analysis](../../translations/literature/basho-frog/)
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
 
 ---
 

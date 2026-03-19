@@ -8,7 +8,7 @@ title: "Exodus 3 — Burning Bush"
 
 :material-book-open-variant: [Full translation analysis](../../translations/bible/exodus-3-1-15/)
 
-[← Translation](../../translation/) · [← Corpus](../../index.md)
+[← Translation](../../translation/) · [← Corpus](../../overview.md)
 
 ---
 

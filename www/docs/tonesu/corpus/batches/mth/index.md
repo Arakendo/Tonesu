@@ -8,7 +8,7 @@ title: "Matthew 16:25 — Causal Inversion Paradox"
 
 :material-book-open-variant: [Full translation analysis](../../translations/bible/matthew-16-25/)
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
 
 ---
 

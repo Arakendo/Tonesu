@@ -8,7 +8,7 @@ title: "Newton's First Law of Motion"
 
 :material-book-open-variant: [Full translation analysis](../../translations/science/newton-first-law/)
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
 
 ---
 

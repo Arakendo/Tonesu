@@ -6,7 +6,7 @@ title: "Human Activity Domain"
 
 *Theme: [Domains](../../domains/)* · 8 sentences.
 
-[← Domains](../../domains/) · [← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../overview.md)
 
 ---
 

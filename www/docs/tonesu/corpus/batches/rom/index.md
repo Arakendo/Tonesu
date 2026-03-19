@@ -8,7 +8,7 @@ title: "Romans 7:19 — Psychological Contradiction"
 
 :material-book-open-variant: [Full translation analysis](../../translations/bible/romans-7-19/)
 
-[← Theology & philosophy](../../theology/) · [← Corpus](../../index.md)
+[← Theology & philosophy](../../theology/) · [← Corpus](../../overview.md)
 
 ---
 

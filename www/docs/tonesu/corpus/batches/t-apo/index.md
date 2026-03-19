@@ -6,7 +6,7 @@ title: "Apophatic Theology"
 
 *Theme: [Theology & philosophy](../../theology/)* · 2 sentences.
 
-[← Theology & philosophy](../../theology/) · [← Corpus](../../index.md)
+[← Theology & philosophy](../../theology/) · [← Corpus](../../overview.md)
 
 ---
 

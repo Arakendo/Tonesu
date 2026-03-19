@@ -6,7 +6,7 @@ title: "Connective Attestation"
 
 *Theme: [Grammar & syntax](../../grammar/)* · 20 sentences.
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
 
 ---
 

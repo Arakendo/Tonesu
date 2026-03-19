@@ -6,7 +6,7 @@ title: "Knowledge & Ontology"
 
 *Theme: [Domains](../../domains/)* · 4 sentences.
 
-[← Domains](../../domains/) · [← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../overview.md)
 
 ---
 

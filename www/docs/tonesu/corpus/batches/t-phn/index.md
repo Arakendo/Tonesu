@@ -6,7 +6,7 @@ title: "Phonology & Naming"
 
 *Theme: [Domains](../../domains/)* · 6 sentences.
 
-[← Domains](../../domains/) · [← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../overview.md)
 
 ---
 

@@ -6,7 +6,7 @@ title: "Early & Unbatched Sentences"
 
 *Theme: [Foundations](../../foundations/)* · 45 sentences.
 
-[← Foundations](../../foundations/) · [← Corpus](../../index.md)
+[← Foundations](../../foundations/) · [← Corpus](../../overview.md)
 
 ---
 

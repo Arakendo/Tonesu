@@ -8,7 +8,7 @@ Core sentences from the earliest Tonesu attestations — basic agent-patient str
 
 50 sentences.
 
-[← Corpus](../index.md)
+[← Corpus](../overview.md)
 
 ---
 

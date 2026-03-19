@@ -6,7 +6,7 @@ title: "Scope & Aspect Test"
 
 *Theme: [Grammar & syntax](../../grammar/)* · 4 sentences.
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
 
 ---
 

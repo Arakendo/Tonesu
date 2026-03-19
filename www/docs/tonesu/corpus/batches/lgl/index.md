@@ -6,7 +6,7 @@ title: "Legal & Governance"
 
 *Theme: [Domains](../../domains/)* · 9 sentences.
 
-[← Domains](../../domains/) · [← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../overview.md)
 
 ---
 

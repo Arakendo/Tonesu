@@ -58,13 +58,13 @@ nav:
       - Notation: tonesu/notation.md
       - Primitives: tonesu/primitives.md
     - Vocabulary:
-      - Registry: tonesu/registry/index.md
+      - Registry: tonesu/registry/overview.md
       - English index: tonesu/registry/english.md
       - By domain: tonesu/registry/by-domain.md
       - By root: tonesu/registry/by-root.md
       - Word Builder: tonesu/builder.md
     - Sentences:
-      - Corpus: tonesu/corpus/index.md
+      - Corpus: tonesu/corpus/overview.md
       - Foundations: tonesu/corpus/foundations/index.md
       - Grammar & syntax: tonesu/corpus/grammar/index.md
       - Domains: tonesu/corpus/domains/index.md

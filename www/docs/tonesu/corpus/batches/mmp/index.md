@@ -6,7 +6,7 @@ title: "Moral & Metaphysical Paradox"
 
 *Theme: [Theology & philosophy](../../theology/)* · 4 sentences.
 
-[← Theology & philosophy](../../theology/) · [← Corpus](../../index.md)
+[← Theology & philosophy](../../theology/) · [← Corpus](../../overview.md)
 
 ---
 

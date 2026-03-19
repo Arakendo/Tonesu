@@ -29,7 +29,7 @@ Start here if you learn better from examples than from rules.
 
 Start here if you want to survey what vocabulary exists and how it was built.
 
-1. **[Registry — Alphabetical](tonesu/registry/index.md)** — all 155 registered compounds.
+1. **[Registry — Alphabetical](tonesu/registry/overview.md)** — all 155 registered compounds.
 2. **[Registry — By domain](tonesu/registry/by-domain.md)** — words organised by semantic area.
 3. **[Registry — English index](tonesu/registry/english.md)** — look up a concept and find its Tonesu equivalent.
 

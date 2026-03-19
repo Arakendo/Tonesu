@@ -10,7 +10,7 @@ gap analysis, and key findings.
 
 15 translation analyses.
 
-[← Corpus](../index.md)
+[← Corpus](../overview.md)
 
 ---
 

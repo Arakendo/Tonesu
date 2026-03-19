@@ -6,7 +6,7 @@ title: "Sequential Connector Tests"
 
 *Theme: [Grammar & syntax](../../grammar/)* · 17 sentences.
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
 
 ---
 

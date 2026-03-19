@@ -6,7 +6,7 @@ title: "Heated Debate Corpus Test"
 
 *Theme: [Grammar & syntax](../../grammar/)* · 10 sentences.
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
 
 ---
 

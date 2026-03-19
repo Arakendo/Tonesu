@@ -8,7 +8,7 @@ title: "Wittgenstein, Tractatus Logico-Philosophicus §1"
 
 :material-book-open-variant: [Full translation analysis](../../translations/philosophy/tractatus/)
 
-[← Theology & philosophy](../../theology/) · [← Corpus](../../index.md)
+[← Theology & philosophy](../../theology/) · [← Corpus](../../overview.md)
 
 ---
 

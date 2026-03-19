@@ -14,7 +14,7 @@ hide:
 Every word is audible as its own definition.
 
 [Get started](tonesu/index.md){ .md-button .md-button--primary }
-[Word registry](tonesu/registry/index.md){ .md-button }
+[Word registry](tonesu/registry/overview.md){ .md-button }
 
 </div>
 
@@ -121,7 +121,7 @@ knowledge without limit
 
 The word shape itself encodes what *kind* of thing it is — primitive root, compound, digit, or physical constant — with no additional markers needed.
 
-[Explore the word registry](tonesu/registry/index.md){ .md-button }
+[Explore the word registry](tonesu/registry/overview.md){ .md-button }
 [Try the word builder](tonesu/builder.md){ .md-button }
 
 

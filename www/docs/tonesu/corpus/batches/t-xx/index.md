@@ -6,7 +6,7 @@ title: "Cross-Domain Sentences"
 
 *Theme: [Domains](../../domains/)* · 5 sentences.
 
-[← Domains](../../domains/) · [← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../overview.md)
 
 ---
 

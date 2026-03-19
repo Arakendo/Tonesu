@@ -8,7 +8,7 @@ title: "Last Supper / Eucharist Institution"
 
 :material-book-open-variant: [Full translation analysis](../../translations/bible/last-supper/)
 
-[← Translation](../../translation/) · [← Corpus](../../index.md)
+[← Translation](../../translation/) · [← Corpus](../../overview.md)
 
 ---
 

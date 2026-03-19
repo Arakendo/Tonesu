@@ -8,7 +8,7 @@ Translation stress tests from external source texts — scripture, literature, p
 
 61 sentences.
 
-[← Corpus](../index.md)
+[← Corpus](../overview.md)
 
 ---
 

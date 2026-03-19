@@ -8,7 +8,7 @@ title: "Em-Dash Attestation"
 
 :material-book-open-variant: [Full translation analysis](../../translations/literature/dickinson-death/)
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
 
 ---
 

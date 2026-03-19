@@ -3,12 +3,12 @@
 build_registry.py
 
 Reads registry/entries.yaml and generates:
-  www/docs/tonesu/registry/index.md      -- full alphabetical word list
+  www/docs/tonesu/registry/overview.md   -- full alphabetical word list
   www/docs/tonesu/registry/english.md    -- English -> Tonesu lookup
   www/docs/tonesu/registry/by-domain.md  -- semantic groupings
   www/docs/tonesu/registry/by-root.md    -- root families
   www/docs/tonesu/registry/words/W***.md -- one detail page per entry
-  www/docs/tonesu/corpus/index.md        -- corpus master index
+  www/docs/tonesu/corpus/overview.md     -- corpus master index
   www/docs/tonesu/corpus/{theme}/        -- theme index pages
   www/docs/tonesu/corpus/batches/{slug}/ -- batch detail pages
   www/docs/tonesu/corpus/conversations/  -- conversation corpus
@@ -595,7 +595,7 @@ def generate_word_page(
         "",
         f"**{w}** · {gloss} · {emoji}",
         "",
-        "[← Word Registry](../index.md) · [Building words](../../words.md)",
+        "[← Word Registry](../overview.md) · [Building words](../../words.md)",
         "",
     ]
 
@@ -885,7 +885,7 @@ def generate_theme_page(
     lines += [
         f"{len(theme_sents)} sentences.",
         "",
-        "[← Corpus](../index.md)",
+        "[← Corpus](../overview.md)",
         "",
         "---",
         "",
@@ -963,7 +963,7 @@ def generate_batch_page(
         lines += [f":material-book-open-variant: [Full translation analysis]({trans_link})", ""]
 
     lines += [
-        f"[← {theme}](../../{theme_slug}/) · [← Corpus](../../index.md)",
+        f"[← {theme}](../../{theme_slug}/) · [← Corpus](../../overview.md)",
         "",
         "---",
         "",
@@ -1054,7 +1054,7 @@ def generate_conversations_page(conv_data: dict | None) -> str:
         "",
         f"{len(convs)} conversations · {n_turns} turns.",
         "",
-        "[← Corpus](../index.md)",
+        "[← Corpus](../overview.md)",
         "",
         "---",
         "",
@@ -1212,7 +1212,7 @@ def generate_translations_index(trans_entries: list[dict]) -> str:
         "",
         f"{len(trans_entries)} translation analyses.",
         "",
-        "[← Corpus](../index.md)",
+        "[← Corpus](../overview.md)",
         "",
         "---",
         "",
@@ -1275,13 +1275,13 @@ def main():
     BATCH_DIR.mkdir(parents=True, exist_ok=True)
 
     # --- Registry pages ---
-    (OUT_DIR / "index.md").write_text(generate_index_page(entries, attest_index, sentence_batch_map), encoding="utf-8")
+    (OUT_DIR / "overview.md").write_text(generate_index_page(entries, attest_index, sentence_batch_map), encoding="utf-8")
     (OUT_DIR / "english.md").write_text(generate_english_page(english_rows), encoding="utf-8")
     (OUT_DIR / "by-domain.md").write_text(generate_by_domain_page(domain_groups), encoding="utf-8")
     (OUT_DIR / "by-root.md").write_text(generate_by_root_page(root_families), encoding="utf-8")
 
     # --- Corpus: master index ---
-    (CORPUS_DIR / "index.md").write_text(
+    (CORPUS_DIR / "overview.md").write_text(
         generate_corpus_index(sentences, conv_data, page_groups), encoding="utf-8"
     )
 

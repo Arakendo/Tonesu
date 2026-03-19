@@ -8,7 +8,7 @@ title: "Tao Te Ching — Way & Non-Action"
 
 :material-book-open-variant: [Full translation analysis](../../translations/philosophy/tao-te-ching-ch1/)
 
-[← Theology & philosophy](../../theology/) · [← Corpus](../../index.md)
+[← Theology & philosophy](../../theology/) · [← Corpus](../../overview.md)
 
 ---
 

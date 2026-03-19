@@ -6,7 +6,7 @@ title: "Fallacy-Resistance Corpus"
 
 *Theme: [Grammar & syntax](../../grammar/)* · 33 sentences.
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
 
 ---
 

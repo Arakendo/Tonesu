@@ -6,7 +6,7 @@ title: "Fungi (S328–S334)"
 
 *Theme: [Domains](../../domains/)* · 7 sentences.
 
-[← Domains](../../domains/) · [← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../overview.md)
 
 ---
 

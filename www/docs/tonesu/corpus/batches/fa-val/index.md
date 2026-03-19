@@ -6,7 +6,7 @@ title: "Valence Frame Test"
 
 *Theme: [Grammar & syntax](../../grammar/)* · 3 sentences.
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
 
 ---
 

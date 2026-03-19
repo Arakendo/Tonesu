@@ -6,7 +6,7 @@ title: "Numeral System"
 
 *Theme: [Domains](../../domains/)* · 14 sentences.
 
-[← Domains](../../domains/) · [← Corpus](../../index.md)
+[← Domains](../../domains/) · [← Corpus](../../overview.md)
 
 ---
 

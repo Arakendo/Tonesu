@@ -6,7 +6,7 @@ title: "Theological Residuals"
 
 *Theme: [Theology & philosophy](../../theology/)* · 7 sentences.
 
-[← Theology & philosophy](../../theology/) · [← Corpus](../../index.md)
+[← Theology & philosophy](../../theology/) · [← Corpus](../../overview.md)
 
 ---
 

@@ -6,7 +6,7 @@ title: "Particle & Axiom Tests"
 
 *Theme: [Grammar & syntax](../../grammar/)* · 12 sentences.
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
 
 ---
 

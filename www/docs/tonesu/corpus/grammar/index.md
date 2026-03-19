@@ -8,7 +8,7 @@ Systematic tests of particles, operators, valence frames, connectives, scope, as
 
 230 sentences.
 
-[← Corpus](../index.md)
+[← Corpus](../overview.md)
 
 ---
 

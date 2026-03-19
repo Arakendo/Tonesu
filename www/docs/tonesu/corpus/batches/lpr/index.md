@@ -8,7 +8,7 @@ title: "The Liar Paradox — Self-Referential Truth Stress Test"
 
 :material-book-open-variant: [Full translation analysis](../../translations/philosophy/liar-paradox/)
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../index.md)
+[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
 
 ---
 
