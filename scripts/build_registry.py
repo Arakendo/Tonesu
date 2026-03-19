@@ -17,6 +17,7 @@ Run:   python scripts/build_registry.py
        (from repo root)
 """
 
+import os
 import re
 import sys
 import json
@@ -30,19 +31,59 @@ PRIMITIVES    = REPO / "registry" / "primitives.yaml"
 SENTENCES     = REPO / "corpus" / "sentences.yaml"
 BATCHES       = REPO / "corpus" / "batches.yaml"
 CONVERSATIONS = REPO / "corpus" / "conversations.yaml"
-OUT_DIR       = REPO / "www" / "docs" / "tonesu" / "registry"
+DOCS_ROOT     = REPO / "www" / "docs"
+OUT_DIR       = DOCS_ROOT / "tonesu" / "registry"         # vocabulary section
 WORD_DIR      = OUT_DIR / "words"
-CORPUS_DIR    = REPO / "www" / "docs" / "tonesu" / "corpus"
+CORPUS_DIR    = DOCS_ROOT / "totonesu" / "corpus"           # ← change "totonesu" to move corpus
 BATCH_DIR     = CORPUS_DIR / "batches"
 TRANS_SRC     = REPO / "corpus" / "translations"
 TRANS_DIR     = CORPUS_DIR / "translations"
-DATA_JSON     = REPO / "www" / "docs" / "js" / "tonesu-data.json"
+DATA_JSON     = DOCS_ROOT / "js" / "tonesu-data.json"
 
 NOTE = (
     "*Generated from "
     "[`registry/entries.yaml`]"
     "(https://github.com/Arakendo/Tonesu/blob/main/registry/entries.yaml).*"
 )
+
+# ---------------------------------------------------------------------------
+# URL helpers — compute relative links for generated Markdown pages.
+# Change CORPUS_DIR or OUT_DIR above and all cross-section links recalculate.
+# ---------------------------------------------------------------------------
+
+def _url_base(md_file: Path) -> Path:
+    """MkDocs use_directory_urls: the URL directory an .md file is served from.
+
+    index.md  → served at its parent directory   (base = md_file.parent)
+    other.md  → served at parent/stem/            (base = md_file.parent / md_file.stem)
+    """
+    return md_file.parent if md_file.name == "index.md" else md_file.parent / md_file.stem
+
+
+def _rel(from_md: Path, to_path: Path, anchor: str = "") -> str:
+    """Relative link href from from_md to to_path, for generated Markdown.
+
+    Strategy depends on to_path:
+      • Named .md file (not index.md) — filesystem-relative .md link.
+        MkDocs resolves .md links from the source file's filesystem directory,
+        rewriting each to the correct live URL at build time.
+      • Directory or index.md — URL-relative path via each page's URL base.
+        Browsers resolve bare-directory links against the live page URL, so
+        URL-relative (not filesystem-relative) is required here.
+
+    Rebuild after changing CORPUS_DIR or OUT_DIR — all links recalculate.
+    """
+    if to_path.suffix == ".md" and to_path.name != "index.md":
+        rel  = Path(os.path.relpath(to_path, from_md.parent))
+        href = rel.as_posix()
+    else:
+        target = to_path.parent if to_path.suffix == ".md" else to_path
+        rel    = Path(os.path.relpath(target, _url_base(from_md)))
+        href   = rel.as_posix() + "/"
+    if anchor:
+        href = href.rstrip("/") + f"#{anchor}"
+    return href
+
 
 # Maps batch-code prefix to translation file path (relative to TRANS_SRC / TRANS_DIR)
 BATCH_TRANSLATION_MAP: dict[str, str] = {
@@ -341,9 +382,9 @@ def _batch_page_slug(page_key: str) -> str:
 
 
 def _corpus_link_from_registry(id_str: str, batch_code: str = "") -> str:
-    """Build a corpus link relative from registry/words/ → corpus/batches/."""
+    """Build a corpus link from registry/words/ → corpus/batches/."""
     slug = _batch_page_slug(batch_page_key(batch_code))
-    return f"[{id_str}](../../corpus/batches/{slug}/#{id_str})"
+    return f"[{id_str}]({_rel(WORD_DIR / 'W000.md', BATCH_DIR / slug, anchor=id_str)})"
 
 
 
@@ -476,9 +517,9 @@ def generate_index_page(
         if has_attestations:
             snums = attest_index.get(wnum, [])
             def _idx_link(sn: str) -> str:
-                bc = (sentence_batch_map or {}).get(sn, "")
+                bc   = (sentence_batch_map or {}).get(sn, "")
                 slug = _batch_page_slug(batch_page_key(bc))
-                return f"[{sn}](../corpus/batches/{slug}/#{sn})"
+                return f"[{sn}]({_rel(OUT_DIR / 'overview.md', BATCH_DIR / slug, anchor=sn)})"
             corpus_cell = " · ".join(_idx_link(i) for i in snums) if snums else "—"
             lines.append(
                 f'| `{e["form"]}` | {written(e["form"])} | {wlink} '
@@ -1413,36 +1454,26 @@ def emit_data_json(entries: list, primitives: dict) -> None:
 
 def lint_directory_links(docs_root: Path) -> int:
     """
-    Scan every .md file under docs_root for bare-directory links (e.g. `](foo/)`).
-    For each, verify that foo/index.md exists — if not, it will 404 in the built
-    site.  Returns the number of broken links found.
+    Scan every .md file under docs_root for bare-directory links — both plain
+    (e.g. `](foo/)`) and anchored (e.g. `](foo/#bar)`) — and verify each target
+    exists.  Uses _url_base() for URL-relative resolution, matching MkDocs
+    use_directory_urls=true behaviour.  Returns the number of broken links found.
     """
-    import re
-    LINK_RE = re.compile(r"\]\(([^)#?:]+/)\)")
+    # Capture the path segment (with trailing /) and optional anchor fragment
+    LINK_RE = re.compile(r"\]\(([^)#?:]+/)(?:#[^)]+)?\)")
     broken: list[str] = []
     for md_file in sorted(docs_root.rglob("*.md")):
         text = md_file.read_text(encoding="utf-8")
         for m in LINK_RE.finditer(text):
-            target = m.group(1)
-            # Skip absolute paths and protocol-relative URLs
+            target = m.group(1)   # path part only, trailing / included
             if target.startswith("/") or "://" in target:
                 continue
-            # MkDocs use_directory_urls=true: relative links are resolved from
-            # the page's *URL*, not its filesystem location.
-            #   index.md  → URL base = parent dir  (same as filesystem parent)
-            #   other.md  → URL base = parent/stem/ (one level deeper)
-            if md_file.name == "index.md":
-                link_base = md_file.parent
-            else:
-                link_base = md_file.parent / md_file.stem
-            resolved = (link_base / target).resolve()
-            # Guard: must stay inside docs_root
+            resolved = (_url_base(md_file) / target).resolve()
             try:
                 resolved.relative_to(docs_root.resolve())
             except ValueError:
                 continue
-            # In MkDocs (use_directory_urls=true), both of these resolve to foo/:
-            #   foo/index.md  and  foo.md  (the latter served at foo/index.html)
+            # Valid targets: a directory with index.md, or a sibling name.md
             index_path = resolved / "index.md"
             bare_path  = resolved.parent / (resolved.name + ".md")
             if not (index_path.exists() or bare_path.exists()):
@@ -1451,9 +1482,9 @@ def lint_directory_links(docs_root: Path) -> int:
                     rel_dst = resolved.relative_to(docs_root.resolve())
                 except ValueError:
                     rel_dst = resolved
-                broken.append(f"  {rel_src} -> ]({target})  (no index.md in {rel_dst})")
+                broken.append(f"  {rel_src} -> ]({target})  (missing: {rel_dst})")
     if broken:
-        print(f"\nLINK LINT: {len(broken)} bare-directory link(s) with no index.md:")
+        print(f"\nLINK LINT: {len(broken)} bare-directory link(s) with missing target:")
         for b in broken:
             print(b)
     else:

@@ -76,14 +76,14 @@ nav:
       - Failures & edge cases: totonesu/failures.md
       - Stress tests: totonesu/stress-tests.md
     - Sentences:
-      - Corpus: tonesu/corpus/overview.md
-      - Foundations: tonesu/corpus/foundations/overview.md
-      - Grammar & syntax: tonesu/corpus/grammar/overview.md
-      - Domains: tonesu/corpus/domains/overview.md
-      - Theology & philosophy: tonesu/corpus/theology/overview.md
-      - Translation: tonesu/corpus/translation/overview.md
-      - Conversation corpus: tonesu/corpus/conversations/overview.md
-      - Translation Analyses: tonesu/corpus/translations/overview.md
+      - Corpus: totonesu/corpus/overview.md
+      - Foundations: totonesu/corpus/foundations/overview.md
+      - Grammar & syntax: totonesu/corpus/grammar/overview.md
+      - Domains: totonesu/corpus/domains/overview.md
+      - Theology & philosophy: totonesu/corpus/theology/overview.md
+      - Translation: totonesu/corpus/translation/overview.md
+      - Conversation corpus: totonesu/corpus/conversations/overview.md
+      - Translation Analyses: totonesu/corpus/translations/overview.md
   - To'tonesu:
     - to-tonesu/index.md
     - Patterns: to-tonesu/patterns.md
