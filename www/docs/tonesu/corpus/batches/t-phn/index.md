@@ -17,7 +17,7 @@ title: "Phonology & Naming"
 `la-ze  lo-si-mu  ka-se`
 *They perceived the encoded signal.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `si-mu` = encoded artifact = a record / document / transmitted data packet. Established
       compound (first used S068 area, discussed S070 notes). `si` = encoded representation;
       `mu` = artifact.
@@ -38,7 +38,7 @@ title: "Phonology & Naming"
 `lo-fe-so  lo-fe-si  no-ru`
 *The warning sound and the warning signal are not the same thing.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `fe-so` = boundary-sound = warning sound / alarm tone. The acoustic sensory event.
     - `fe-si` = boundary-signal = warning signal / encoded alert. The encoded representation
       (which may be visual, data-based, or otherwise non-acoustic).
@@ -62,7 +62,7 @@ title: "Phonology & Naming"
 `la-mi  lo-so  ka-se  wi  [lo-si-mu  ka-be]`
 *I detected the sound, intending to produce a record of it.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `lo-so` = patient:sound. Bare `so` as a noun-equivalent in patient position: the sound
       (acoustic event) is what is being perceived.
     - `ka-se` = action:perceive / detect.
@@ -83,7 +83,7 @@ title: "Phonology & Naming"
 `lo-se-su  lo-si-su  no-ne`
 *The sensor output and the archived data are not in agreement.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `se-su` = perception-structure = sensor / detection system. The physical arrangement
       that performs detection.
     - `si-su` = encoded-structure = archive / database / document collection. Established
@@ -114,7 +114,7 @@ title: "Phonology & Naming"
 `The machine began encoding the limit as a signal.`
 *(A) The machine detected the limit. (B) The machine began encoding the limit as a signal.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `ka-se` = detect / sense. `ka-si-ki` = begin encoding / start signal-representation.
       The two predicates are structurally and semantically distinguishable — one is
       a simplex compound, the other is a three-morpheme compound — but both start with
@@ -136,7 +136,7 @@ title: "Phonology & Naming"
 `The signal archive is degraded.`
 *(A) The sound archive is degraded. (B) The signal archive is degraded.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `so-su` = sound-structure = acoustic archive / audio recording collection.
     - `si-su` = signal-structure = signal archive / encoded document collection. Established
       compound (S056).

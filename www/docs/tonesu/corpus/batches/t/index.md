@@ -17,7 +17,7 @@ title: "Foundational Sentences"
 `la-li-be  lo-ma  ka-ko`
 *The child drinks water.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **`li-be`** = growing-person / child. `li` (social agent) + `be` (growth) = person in their growth phase. Candidate W033; registered in registry/derived.md.
     - **`ma` for water:** the primitives table notes "water is `ma`" in context. Here the sentence (a person ingesting substance) makes `ma` unambiguously water. Primitive `ma` validated for substance reference.
     - **`ka-ko`** = action of containing = ingest / drink / take in. `ko` (containment) used as verbal root: the act of bringing a substance into containment within the body. First corpus use.
@@ -30,7 +30,7 @@ title: "Foundational Sentences"
 `ro-mu  lo-zo-ma  ka-fe`
 *With a tool, one cuts wood. / A tool cuts wood.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Instrument-as-agent tension resolved:** English "the tool cuts" treats an artifact as a grammatical subject. Tonesu refuses this: `la` (agent) + `ka` (intentional action) requires a volitional agent. A tool is not volitional; it is an instrument (`ro`). The human user is a dropped/implied agent — see agentless clause open question. The English sentence is ontologically misleading. The Tonesu form is more accurate: the tool mediates the action, it does not perform it.
     - **`zo-ma`** = organic-matter = wood / biological substance. `zo` (living organism) + `ma` (matter) = organic substance. Transparent compound; not registered separately.
     - **`ka-fe`** = action of dividing / cutting / creating a boundary. `fe` (boundary) used as verbal root. First corpus use.
@@ -43,7 +43,7 @@ title: "Foundational Sentences"
 `la-ra-su  lo-lu  be`
 *The star emits light.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Non-intentional production grammar:** bare `be` (not `ka-be`) marks non-intentional generation. First corpus use of `be` as a transitive verb without the `ka` action particle. The distinction is now doing grammatical work:
       - `ka-be` = deliberate creation (S014: people create tools)
       - `be` alone = natural emergence / non-intentional production (this sentence)
@@ -60,7 +60,7 @@ title: "Foundational Sentences"
 `la-to-ki-mu  lo-si  ka-ko`
 *The machine stores information.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `to-ki-mu` (W011) = knowledge-processing device = computer. First use without a purpose clause.
     - `si` = signal / encoded representation = information / data. Consistent with S013–S014 usage. `si` is validated as the right root for "information."
     - `ka-ko` = action of containing = store. Second corpus use (first: S020). `ka-ko` now confirmed as the canonical store / hold / contain verb across substances (water, S020) and abstract data (information, this sentence).
@@ -73,7 +73,7 @@ title: "Foundational Sentences"
 `la-ma-di  pa-pu-ma  ka-ki`
 *The river flows to the sea.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **`ma-di`** = directed-matter = river / stream. `ma` (matter/substance) + `di` (direction) = matter with inherent directedness. Preferred over `ma-ki` (matter-motion) because rivers have stable direction; `ma-ki` generalizes to any flowing substance.
     - **`pu-ma`** = collective-water = sea / large water body. `pu` (plurality) + `ma` (matter/water) = accumulated water. In the `pa` particle position: `pa-pu-ma` = at/to the sea.
     - **Directional destination gap flagged:** `pa` (location particle) does not distinguish rest-at, move-toward, or move-from. "The river flows to the sea" and "the river is in the sea" both use `pa-pu-ma`. The `di` root exists but is not yet a grammatical particle. Logged as open question: promote `di` to destination particle.

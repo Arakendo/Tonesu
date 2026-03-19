@@ -17,7 +17,7 @@ title: "Inflection Pattern Test"
 `no-go [la-mu  de-be]  lo-mu  ru`
 *Despite the device being repaired, the device remains one.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **`no-go` concessive frame — first attestation.** The `no-go` compound extends the
       causal frame family via negation: `no` (absence) + `go` (cause/origin) = "the following
       event is NOT the causal origin of the matrix clause." Operational meaning: Y holds
@@ -43,7 +43,7 @@ title: "Inflection Pattern Test"
 `no-go [la-mu  pe  ki]  lo-mu  ru`
 *Despite the device's parts changing, the device remains one.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **`no-go` second attestation.** Same concessive frame; escalated condition: not merely
       repaired (partial change) but having its parts themselves changed (`pe  ki` = parts +
       change/motion = constituent exchange). Ship of Theseus case.

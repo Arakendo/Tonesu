@@ -22,7 +22,7 @@ title: "John 1:1 — Identity Operator Stress Test"
 Written: `tagoti lato pa`
 *John 1:1a — "In the beginning was the Word.*
 
-??? note "Notes"
+!!! annotation "Notes"
     `ta-go-ti` = at-origin-time = the temporal adverbial "in the beginning" (`ta` = location/temporal marker particle + `go` = origin/cause + `ti` = time). `la-to` = the Word as agent (`la-` agent marker + `to` = knowledge/concept/pattern, used for the Logos as the conceptual principle). `pa` = is-present / exists (spatial-stative primitive used predicatively: the Word was-at-place / had presence). `ἦν` here = existential-was: the Word existed at origin-time. No copula needed; `pa` carries the existential claim straightforwardly.
 
 <span id="S448"></span>
@@ -31,7 +31,7 @@ Written: `tagoti lato pa`
 Written: `lato ne rogonofe`
 *John 1:1b — "The Word was with God.*
 
-??? note "Notes"
+!!! annotation "Notes"
     `la-to` = the Word. `ne` = relational copula. `ro-go-no-fe` = with-the-necessary-being: accompaniment prefix `ro-` + `go-no-fe` = necessary-being (God, established THO-001). `ne ro-X` = "is in relational co-presence with X." `ἦν` here = relational-was: the Word was alongside God, in intimate co-presence. The Greek `πρὸς τὸν Θεόν` = "toward/with God" = directional intimacy. `ne ro-go-no-fe` captures the relational co-presence (not merely spatial; the copula `ne` carries the relational weight). Note: `ro-` cannot alone convey directed intimacy (GAP-JOH-001: Tonesu lacks a "toward-with" preposition); `ne ro-X` is the closest viable construction.
 
 <span id="S449"></span>
@@ -40,7 +40,7 @@ Written: `lato ne rogonofe`
 Written: `lato ne gonofe`
 *John 1:1c — "The Word was God.*
 
-??? note "Notes"
+!!! annotation "Notes"
     `la-to` = the Word. `ne` = property/nature copula. `go-no-fe` = the necessary-being / the divine (God). `ne go-no-fe` = bears the divine nature / is characterized by necessary-being-ness. `ἦν` here = qualitative-was: the Word had/shared the divine nature. The Greek uses the anarthrous `θεὸς` (without the definite article) — deliberately distinguishing this from "the Word = the entire Godhead." `ne` (property attribution) is exact: the Word does not `helms` God (strict identity would collapse the Trinity distinction), nor does it merely `helm` God (functional equivalence would be too weak). The Word *bears the nature of* the necessary-being. Tonesu is more precise than English here: the three `ἦν` clauses demand three different constructions (`pa` / `ne ro-X` / `ne X`), each native to Tonesu's grammar.
 
 ### Batch Summary

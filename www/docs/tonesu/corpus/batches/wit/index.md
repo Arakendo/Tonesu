@@ -22,7 +22,7 @@ title: "Wittgenstein, Tractatus Logico-Philosophicus §1"
 Written: `panofe helms puduto`
 *Wittgenstein, Tractatus §1 — "The world is everything that is the case.*
 
-??? note "Notes"
+!!! annotation "Notes"
     `pa-no-fe` = the world = unbounded spatial totality (`pa` = place/space + `no-fe` = without limit; established THO-001 as divine omnipresence; re-used here in secular-philosophical register for Wittgenstein's `die Welt`). `helms` (G012) = is by strict definition = structural/analytic identity. `pu-du-to` = everything that is the case = the totality of all obtaining facts: `pu-` (universal) + `du` (result/effect = actualized outcome) + `to` (conceptual pattern = proposition/knowledge-structure); `du-to` = actualized-conceptual-result = a proposition that has obtained = a fact. `pu-du-to` = all such obtaining facts = the totality of the factual. This is `du-to` in its ontological register; cf. S445–S446 where the same compound occupies the epistemic register (correct/accurate). The dual-register coherence is productive: epistemic success and ontological obtaining share the same structure. Critical distinction: `pu-du-to` (facts = things-that-are-the-case) ≠ `pu-ma` (things = material objects). Wittgenstein's argument is precisely this — the world is constituted by facts, not by the catalogue of objects. Tonesu has separate roots for these (`du-to` vs `ma`) and therefore can make the ontological move Wittgenstein requires. `helms` is correct: this is Wittgenstein's Proposition 1 as an analytic definition of the world, not a contingent claim about it.
 
 ### Batch Summary

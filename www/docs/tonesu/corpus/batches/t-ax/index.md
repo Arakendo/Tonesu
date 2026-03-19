@@ -17,7 +17,7 @@ title: "Particle & Axiom Tests"
 `lo-ra-ki-mu  be-vo`
 *The engine has generative capacity / is capable of producing output.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `be-vo` = growth-quality = generative potential. `be` (growth/increase) as the
       property-head modifying the entity; `-vo` suffix (via root `vo` = value/quality)
       marks this as a quality/degree predicate. `lo-ra-ki-mu  be-vo` = "the engine has
@@ -42,7 +42,7 @@ title: "Particle & Axiom Tests"
 `la-ra-ki-mu  wi  [lo-ra  nu-be  ka-be]`
 *The engine is [institutionally] designed for generating greater energy output.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `wi [clause]` = purpose frame. Established in spec/grammar.md § Purpose Frame.
       `la-ra-ki-mu  wi [...]` = the engine's design intent is [to generate greater energy].
     - **Non-intentional agent in `wi` frame:** `ra-ki-mu` (an artifact) cannot have
@@ -64,7 +64,7 @@ title: "Particle & Axiom Tests"
 `go [ra-ma  be]  lo-ra-ki-mu  lo-ra  nu-be  ka-be`
 *Because fuel was added, the engine generates greater energy output.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `ra-ma` = energy-matter = fuel. Head-final: `ma` (raw material/substance) is head;
       `ra` (energy) modifies it as an energy-bearing material. First use; compound candidate.
     - `go [ra-ma  be]` = causal frame: the cause is [fuel growth/addition]. `ra-ma  be` =
@@ -88,7 +88,7 @@ title: "Particle & Axiom Tests"
 `lo-pu-ra-ki-mu  to-ru`
 *The engines share a unified pattern / are the same model/type.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `to-ru` = pattern-unity. Head-final: `ru` (unity/singularity) is head; `to`
       (conceptual pattern) modifies it. "The unity in question is at the pattern level" =
       same design template = same model.
@@ -105,7 +105,7 @@ title: "Particle & Axiom Tests"
 `lo-pu-ra-ki-mu  ne-to`
 *The engines have a relational pattern / are similar to each other.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `ne-to` = relation-pattern = similarity / analogy. Head-final: `to` (conceptual
       pattern) is head; `ne` (relation/connection) modifies it. "The pattern is a relational
       one" = there exists a pattern of mutual correspondence = similarity.
@@ -121,7 +121,7 @@ title: "Particle & Axiom Tests"
 `lo-pu-ra-ki-mu  pe  lo-su-ru`
 *The engines are components of one unified system.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `su-ru` = structure-unity = unified system / single system. Head-final: `ru` (unity)
       is head; `su` (structure/organization) modifies it. "The unity in question is
       structural" = a single organized system.
@@ -141,7 +141,7 @@ title: "Particle & Axiom Tests"
 `la-zo-li  ne  lo-mu-ka`
 *The person is in relation to (possesses) a tool.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `ne` as **stative possession predicate**. In particle use, `ne` precedes its NP
       (`ne-X` = recipient:X). In predicate use, `ne` stands alone between argument markers:
       `la-X  ne  lo-Y` = X holds a relational state with respect to Y. The disambiguation is
@@ -163,7 +163,7 @@ title: "Particle & Axiom Tests"
 `la-ko-mu  ko  lo-mu-ka`
 *The container holds the tool.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Applies the established `la-X  ko  lo-Y` rule (spec/grammar.md § Containment
       Predicates). The container is the `la`-agent of the containment state; the tool is
       the `lo`-patient (contents).
@@ -183,7 +183,7 @@ title: "Particle & Axiom Tests"
 `la-ko-mu  ko  lo-pu-mu-ka`
 *The container holds multiple tools.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Same structure as S121 with `pu-` pluralizer on the contents.
     - **Possession/containment verdict (Test 3):** `ne` (possession) and `ko` (containment)
       are formally and semantically distinct. The `la`/`lo` argument positions are the same,
@@ -202,7 +202,7 @@ title: "Particle & Axiom Tests"
 `go [lo-ra-ki-mu  de]  lo-ki-pa-mu  pa-ki`
 *Given engine failure, the vehicle drifts through space.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `go [X]  matrix` = causal/conditional frame. Established in spec/grammar.md §
       Causal Frame and open-questions.md (Conditionals item). The causal frame functions
       as the conditional when the inner clause describes a trigger condition.
@@ -227,7 +227,7 @@ title: "Particle & Axiom Tests"
 `go [lo-ra-ki-mu  re-de]  lo-ki-pa-mu  pa-ki`
 *Given a recurrent engine failure, the vehicle will drift.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `re-de` = repetition-decay = recurrent/repeated failure = "fails again." `re`
       (repetition/cycle) + `de` (decay/failure). First use of `re-de` as a predicate in a
       subordinate causal clause.

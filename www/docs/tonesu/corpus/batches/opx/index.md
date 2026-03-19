@@ -17,7 +17,7 @@ title: "Operator Extension Test"
 `la-mi  se  lo-mi`
 *I observe myself. / I am self-aware at the perceptual level.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - First self-referential patient: `mi` appears in both the agent slot (`la-mi`) and the
       patient slot (`lo-mi`). The ontology handles this without structural strain: `la-` and
       `lo-` are distinct role-markers with no prohibition on shared referents.
@@ -30,7 +30,7 @@ title: "Operator Extension Test"
 `la-mi  to  [lo-mi  su]`
 *I model my own constitution. / I know what I am made of.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Embedded inner clause `[lo-mi  su]`: state predication with self as patient,
       predicate `su` (structure/constitution). Reads: "my structure [is a fact]" / "I have
       structure." Outer: "I hold this as a model."
@@ -44,7 +44,7 @@ title: "Operator Extension Test"
 `la-mi  to  [la-mi  to  [lo-mi  su]]`
 *I know that I model my own constitution.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Three-level nesting** — deepest in the corpus. Previous deepest: S175 (two levels,
       different agents). S178 is two levels with the same agent at both outer levels, self as
       patient at the innermost.
@@ -65,7 +65,7 @@ title: "Operator Extension Test"
 `go [la-su  se  lo-su]  la-su  wi-re`
 *Because the system perceives itself, the system regulates.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **`wi-re` first corpus attestation** (W099). Used here as a predicate directly:
       `la-su  wi-re` = the system [instantiates/performs] feedback regulation. W099 status
       upgrades from proposed → active with this use.

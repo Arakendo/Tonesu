@@ -17,7 +17,7 @@ title: "Valence Frame Test"
 `la-ze  ka-ne-de  lo-ne-mi; la-mi  fa-be  se  vo-de  lo-ne-mi`
 *They intentionally ended my relationship. Affect is rising in me;           I perceive value-decay when I look at it.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - First attestation of `ka-ne-de` (W092): volitional reading; `ka` (intentional action) +
       `ne-de` (relation-decay). The `ka` distinguishes this from bare `ne-mi  de` (S133),
       where dissolution happens without an assigned will.
@@ -34,7 +34,7 @@ title: "Valence Frame Test"
 `ne-mi  de; fa-be`
 *My relationship ended. [I feel the affect rising.]*
 
-??? note "Notes"
+!!! annotation "Notes"
     - First direct attestation of `ne-de` (W091) via `ne-mi  de`: `ne` (relation root) + `mi`
       (speaker reference) as head NP; `de` (decay) as predicate. No agent named. The
       dissolving is not attributed to any will — it simply occurred.
@@ -50,7 +50,7 @@ title: "Valence Frame Test"
 `ne-mi  de.  la-mi  fa-no-to  lo-go.`
 *My relationship ended. My affect has not resolved into a model of the cause.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - First corpus use of `fa-no-to` (fa-based unresolved affect). Parallels W090 `se-no-to`
       but uses the affective substrate root: substrate-affect-without-model. Where `se-no-to`
       describes perceptual signal without resolution, `fa-no-to` describes the same stall at

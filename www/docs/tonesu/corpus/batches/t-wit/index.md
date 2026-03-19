@@ -17,7 +17,7 @@ title: "Organizational Roles & Witness"
 `la-to-li  lo-wi-to  be-past`
 *The engineer revised the plan.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `be-past` = grew/changed/improved. A plan being revised is the plan growing into a better
       version of itself. `be` here carries the productive/generative sense (the plan was
       developed), not strictly growth in size. Attested pattern: `la-X  lo-Y  be` = X improved Y.
@@ -39,7 +39,7 @@ title: "Organizational Roles & Witness"
 `la-to-li  lo-mu  wi-to  be-past`
 *The engineer designed the machine.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **First candidate stress.** "Designed the machine" — the purposive conceptual work that
       preceded building it. The question: does `lo-mu  wi-to  be-past` mean "the engineer
       planned/designed the machine" (wi-to as predicate modifier or loose purposive qualifier),
@@ -73,7 +73,7 @@ title: "Organizational Roles & Witness"
 `lo-wi-re-su  ta-re-ti  be`
 *The recurring protocol executes each cycle.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **`wi-to` (Attempt A) — analysis:** `ta-re-ti` (recurring time) suggests the thing
       recurs. If this is a `wi-to` (purposive concept), what recurs is the concept itself
       being enacted — but a concept doesn't "run" or "execute"; an agent enacts it. `be` with
@@ -107,7 +107,7 @@ title: "Organizational Roles & Witness"
 `la-wi-ze  lo-ka  ki`
 *Her will/intention directed the action.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `wi-to-ze` = will-pattern-[possessive ze] = her plan. S075 established `wi-ze` = her
       will as agent in `la` slot. The question is whether `wi-to` (plan) adds anything over
       bare `wi` (will) in this context.
@@ -138,7 +138,7 @@ title: "Organizational Roles & Witness"
 `la-ra-ki-li  lo-to-re-su  be  no  lo-wi-to`
 *The pilot followed the standing doctrine, not the mission plan.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Decisive result.** In a single sentence, `to-re-su` (canonical recurring doctrine)
       and `wi-to` (specific mission plan) are contrastive. Their separation is immediately
       legible: the pilot operated under the background standing instructions
@@ -170,7 +170,7 @@ title: "Organizational Roles & Witness"
 `la-li-su-li  lo-yu  lo-wi-to  ka-si-past`
 *The coordinator briefed the team on the plan.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `ka-si` (W024, transmit/signal) used with a double-patient construction: `lo-yu`
       (the group = the recipient) and `lo-wi-to` (the plan = the content transmitted). First
       double-patient with `ka-si`. The structure is: agent transmits [content] to [recipient].
@@ -199,7 +199,7 @@ title: "Organizational Roles & Witness"
 `la-yu  lo-wi-to-su  be-past  ta-ti-de  lo-ka-wi-de`
 *The team updated the design specification before the mission.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **First corpus use of `wi-to-su`.** `wi` (will) + `to` (concept/pattern) + `su`
       (structure) = purposive-concept-structure = design specification. The three-level
       compound follows the established productive pattern: `wi-to` (purposive concept) →

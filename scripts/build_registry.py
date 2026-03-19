@@ -1025,7 +1025,7 @@ def generate_batch_page(
             notes = sn.get("notes", "")
             if notes:
                 lines.append("")
-                lines.append('??? note "Notes"')
+                lines.append('!!! annotation "Notes"')
                 for nline in notes.split("\n"):
                     lines.append(f"    {nline}")
 

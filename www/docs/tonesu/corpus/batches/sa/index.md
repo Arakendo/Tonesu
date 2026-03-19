@@ -17,7 +17,7 @@ title: "Scope & Aspect Test"
 `lo-si-de  no [ka-be]`
 *The signal record cannot be altered.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **`no [ka-clause]` second attestation.** Level 3 clause negation: `no` fronts a full
       action bracket `[ka-be]`, negating the entire action frame. First use: S036 `no [ka-se]`
       (cannot be consumed). Pattern confirmed; Level 3 graduates from provisional to confirmed.
@@ -36,7 +36,7 @@ title: "Scope & Aspect Test"
 `la-mi  no-si  [lo-ne-ra  be]`
 *I do not hypothesize that the resonance grew.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **`no-si` second attestation.** First use: C007 B3 `la-mi  no-si  lo-ne-ra  ru`
       (I do not hypothesize the resonance is coherent). S173 follows the same `la-mi  no-si
       [prop]` frame with a different embedded proposition: here `[lo-ne-ra  be]` = patient +
@@ -51,7 +51,7 @@ title: "Scope & Aspect Test"
 `la-mi  no-se  lo-si-de`
 *I have no perceptual basis for the past signal record.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **`no-se` second attestation.** First use: C007 B4 `la-mi  no-se  lo-ne-ra`
       (I have no perceptual basis for the resonance). S174 is structurally identical:
       `la-mi  no-se  lo-[X]`, different object. Pattern confirmed across two objects.
@@ -68,7 +68,7 @@ title: "Scope & Aspect Test"
 `la-to-fe-li  to  [la-mi  no-se  lo-si-de]`
 *The knowledge-keeper certifies: I have no perceptual basis for the signal record.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Nested epistemic embedding second attestation.** First: C007 A5
       `la-mi  to  [la-tu  no-se  lo-ne-ra]` (I certify: you have no perceptual basis for the
       resonance). S175 is structurally identical: outer `la-X  to  [la-Y  no-se  [prop]]`.

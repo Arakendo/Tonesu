@@ -29,7 +29,7 @@ old-pond [cut]   frog jumps-in   water sound
 Written: `refemaki / lazosema ki lorefemaki, makiso pa`
 *Bashō frog haiku — kireji as `/` parallel partition*
 
-??? note "Notes"
+!!! annotation "Notes"
     `re-fe-ma-ki` = long-established bounded water = old pond (`re` persistence + `fe` boundary + `ma-ki` water, MAT-002). `/` = parallel partition: kireji as co-equal juxtaposition — the pond and the event are formally paired without specifying the relationship between them. `la-zo-se-ma` = the aquatic-vertebrate / frog (agent; `zo-se-ma` = matter-perceptual organism, kinds.md aquatic-vertebrate class; GAP-BSH-001: no specific frog discriminator). `ki` = physical motion/displacement = enters / jumps into. `lo-re-fe-ma-ki` = patient: the old pond. `,` = prosodic boundary. `ma-ki-so pa` = water-sound exists (`ma-ki-so` = `ma-ki` water + `so` sound, head `so`; first attested here; `pa` = existential predicate = minimum required; GAP-BSH-002: source has pure noun-phrase, no predicate; `pa` is the lightest possible addition).
 
 <span id="S469"></span>
@@ -38,7 +38,7 @@ Written: `refemaki / lazosema ki lorefemaki, makiso pa`
 Written: `refemaki : lazosema ki lorefemaki, makiso pa`
 *Bashō frog haiku — kireji as `:` topic frame*
 
-??? note "Notes"
+!!! annotation "Notes"
     Identical to S468 except `/` replaced by `:` (topic frame). The old pond is the thematic anchor: "as for the old pond — the frog enters it, water-sound occurs." The pond is not co-equal partner but scene-setting. The event is a comment *about* the established place. This encodes the Bashō-as-painter reading: the pond is the canvas; the frog's entry is the mark. Contrast S468 (Bashō-as-Zen: two co-equal presences). The difference between S468 and S469 is exactly the interpretive debate that `ya` has sustained for 340 years. Tonesu forces the choice; Japanese does not.
 
 <span id="S470"></span>
@@ -47,7 +47,7 @@ Written: `refemaki : lazosema ki lorefemaki, makiso pa`
 Written: `refemaki : ki lomaki, makiso pa`
 *Bashō frog haiku — compressed, agent-dropped*
 
-??? note "Notes"
+!!! annotation "Notes"
     Maximum compression. Agent `la-zo-se-ma` dropped — the frog disappears as a named actor; only the motion event remains. `lo-ma-ki` replaces `lo-re-fe-ma-ki` — patient is simply "the water," shedding the age and boundary modifiers. Tests GAP-BSH-004: is `ki lo-X` without `la-{agent}` grammatical in Tonesu? Currently unresolved. Exploratory variant only; S468 and S469 are the primary translations. What this gains: the purest possible event-without-actor; what it loses: the frog is actually grammatically present in Japanese (`kawazu tobikomu` names the agent explicitly).
 
 ### Batch Summary

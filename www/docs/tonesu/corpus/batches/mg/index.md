@@ -17,7 +17,7 @@ title: "Morphological Merge Test"
 `to-go [lo-si  no  be  ti-de]  la-li-pu  no  se  lo-si  ti-de.           to-go [la-li-pu  no  se  lo-si  ti-de]  la-li-pu  no  ka  fe-si  ti-de.           to-go [la-li-pu  no  ka  fe-si  ti-de]  lo-li-pu  de  ti-de.`
 *Had the signal not arrived, the crew would not have received it.           Had the crew not received it, they would not have issued a warning.           Had they not issued a warning, the collective would have suffered.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Three propositions that form a single causal chain in a single analytical scope. Each
       requires its own `to-go [X]  Y` because the current grammar has no multi-sentence
       scope frame. The non-actuality marker is repeated three times for what is logically
@@ -34,7 +34,7 @@ title: "Morphological Merge Test"
 `to  lo-go-su  be.           lo-si  no  be  ti-de.           la-li-pu  no  se  lo-si  ti-de.           la-li-pu  no  ka  fe-si  ti-de.           to  lo-go-su  de.           la-to-fe-su  ka  to-fe-su-ki  lo-go-su  ti-de.`
 *[The causal analysis model is now active.]           The signal had not arrived.           The crew had not received it.           The crew had not issued the warning.           [Causal analysis model closes.]           The investigation body then published the causal analysis.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `to  lo-go-su  be` = model (root `to`) + patient: causal-analysis (`lo-go-su`) +
       activation (`be`). No `la-` anchor = impersonal, parallel to `to-go [X]  Y`. The
       scope is opened without asserting a thinker.
@@ -65,7 +65,7 @@ title: "Morphological Merge Test"
 `la-to-fe-su  to  lo-go-su  be.           lo-si  no  be  ti-de.           la-li-pu  no  ka  fe-si  ti-de.           la-to-fe-su  to  lo-go-su  de.`
 *The investigation body opens the causal model.           [In-model:] The signal had not arrived.           [In-model:] The crew did not issue the warning.           The investigation body closes the causal model.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `la-to-fe-su  to  lo-go-su  be` = attributed scope open. The `la-to-fe-su` (agent:
       investigation/standards body, W072) makes this an attributed model activation: the
       investigation body is asserting this model space, not a private speaker.
@@ -85,7 +85,7 @@ title: "Morphological Merge Test"
 `la-to-re-su  to  lo-go-su  be.           la-to-re-su  to  [la-li-pe  ne-ko  lo-si-su].           la-to-re-su  to  [lo-si-su  de  go  lo-ne-fe  be].           la-to-re-su  to  lo-go-su  de.`
 *According to the standing doctrine, the following causal model applies:           The doctrine holds that: the licensed party retains custody of the archive.           The doctrine holds that: archive decay causes tension to arise.           According to the doctrine, the analysis closes.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `la-to-re-su` = agent:standing-doctrine (W064, the standing organized doctrine/policy).
       `to  lo-go-su  be` = activates the causal model under this attributor. This form
       means "the doctrine opens a model scope" — a sustained "according to [doctrine]" frame.

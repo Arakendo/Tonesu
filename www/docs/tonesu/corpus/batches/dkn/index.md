@@ -22,7 +22,7 @@ title: "A Tale of Two Cities — Opening"
 Written: `ti helm vofe / ti helm novo'fe`
 *Dickens: "It was the best of times / the worst of times.*
 
-??? note "Notes"
+!!! annotation "Notes"
     `ti` = time (primitive); the five English container nouns collapse to one Tonesu word — Dickens's lexical variation was rhetorical texture, not semantic distinction. `helm` (G011) = is functionally understood as = `is` in the narrative/cultural register. `vo-fe` = value-at-extremum = best (`vo` value + `fe` boundary/limit; the extremal suffix pattern `X-fe` = superlative; candidate for grammar validation, GAP-DKN-001). `no-vo'fe` = not-good-at-extremum = worst: the juncture mark `'` is required to bind `no-vo` before `fe` is applied: `[no-vo]'fe` = the extremum of not-goodness. Without the juncture, `no-vo-fe` = `no-[vo-fe]` = not-best (wrong reading). Tonesu orthography makes the semantic difference visually explicit.
 
 <span id="S455"></span>
@@ -31,7 +31,7 @@ Written: `ti helm vofe / ti helm novo'fe`
 Written: `ti helm tovo / ti helm notovo`
 *Dickens: "It was the age of wisdom / the age of foolishness.*
 
-??? note "Notes"
+!!! annotation "Notes"
     `to-vo` = knowledge-value = wisdom (`to` = knowledge/concept + `vo` = value): the evaluative good of conceptual discernment. `no-to-vo` = not-knowledge-value = foolishness: the absence or failure of evaluative wisdom. `no-` prefix here signals straightforward privation: foolishness is the lack of wisdom, not its active corruption. Compare with `de-vo` (active decay of value) vs `no-vo` (privation of value): the same productive `no-` prefix governs both. `helm` throughout: all five antitheses in Dickens are contextual/interpretive claims about historical time, not strict definitions.
 
 <span id="S456"></span>
@@ -40,7 +40,7 @@ Written: `ti helm tovo / ti helm notovo`
 Written: `ti helm vosi / ti helm nosi`
 *Dickens: "It was the epoch of belief / the epoch of incredulity.*
 
-??? note "Notes"
+!!! annotation "Notes"
     `vo-si` = value-confidence = confident belief / faith (`vo` = value + `si` = certainty/stability). This compound reads: the good of certainty = that which is valued by being stable and trusted = confident belief. `no-si` = not-certainty = incredulity / skeptical refusal. Dickens's "belief" and "incredulity" are about the epistemic climate of the age — whether the culture accepts or rejects received truths. `vo-si` encodes the positive valuation of confident trust; `no-si` encodes its negation.
 
 <span id="S457"></span>
@@ -49,7 +49,7 @@ Written: `ti helm vosi / ti helm nosi`
 Written: `ti helm ha / ti helm noha`
 *Dickens: "It was the season of Light / the season of Darkness.*
 
-??? note "Notes"
+!!! annotation "Notes"
     `ha` = heat/radiance (primitive; covers both heat and light as phenomena of energy). `no-ha` = not-heat/not-light = cold/darkness. Dickens's Light and Darkness are metaphorical — spiritual and cultural illumination/obscurity. The `ha`/`no-ha` pair maps directly: `ha` = the condition of light, warmth, and clarity; `no-ha` = the absence of those properties. The pair is the simplest of the five antitheses: single-root vs negated-root, no compound structure needed.
 
 <span id="S458"></span>
@@ -58,7 +58,7 @@ Written: `ti helm ha / ti helm noha`
 Written: `ti helm bevo / ti helm devo`
 *Dickens: "It was the spring of hope / it was the winter of despair.*
 
-??? note "Notes"
+!!! annotation "Notes"
     `be-vo` = growth-value = hope (`be` = growth/increase + `vo` = value): value that is growing, increase of the good = orientation toward future good = hope. `de-vo` = decay-value = despair (`de` = decay/deterioration + `vo` = value): value that is eroding, decrease of the good = orientation toward negated future = despair. Note: `de-vo` is re-attested from ROM-001 (S453) where it carried the moral-evil register. In this Dickens context it carries the psychological-despair register. Both are valid and natural: moral evil and existential despair share the structure of value-erosion; the compound's dual-register coherence is a feature, not ambiguity. Contrast with `no-vo'fe` in S454: that was the extremum of not-having-value; `de-vo` here is the active process of value losing ground.
 
 ### Batch Summary

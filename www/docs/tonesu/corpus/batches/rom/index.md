@@ -22,7 +22,7 @@ title: "Romans 7:19 — Psychological Contradiction"
 Written: `lami wivo / no lami kaze`
 *Romans 7:19a — "For I do not do the good I want to do.*
 
-??? note "Notes"
+!!! annotation "Notes"
     `la-mi` = I (first-person agent, `la-` + `mi`). `wi-vo` = willed-good / intended-value: `wi` (purpose/intent as compound root) + `vo` (value/good). The pre-`/` clause establishes the intention. `no la-mi ka-ze` = I do not do it: `no` (negation) + `la-mi` + `ka-ze` (`ka` = act + `ze` third-person referent = act-on-it; the good is anaphorically recalled by `ze`). The will-act gap is encoded by the syntactic contrast across `/`: intention on the left, negated action on the right. Note: `wi` is here used as a compound root (intent), not as the clause-frame particle `wi {purpose} action`; the dual role is permitted because the internal compound `wi-vo` = intent-toward-good is semantically coherent regardless of framing.
 
 <span id="S453"></span>
@@ -31,7 +31,7 @@ Written: `lami wivo / no lami kaze`
 Written: `lami nowidevo / re lami kaze`
 *Romans 7:19b — "But the evil I do not want to do, I keep on doing.*
 
-??? note "Notes"
+!!! annotation "Notes"
     `la-mi` = I. `no-wi-de-vo` = rejected-harm: `no` (negation/repudiation) + `wi` (intent/will) + `de-vo` (value-decay = moral acting-against-value; `de` = decay/deterioration + `vo` = value). The compound `no-wi-de-vo` = "will-repudiated value-harm" = what I have deliberately not willed. `re la-mi ka-ze` = I keep doing it: `re` (cycle/recurrence) as a clause-level habitual aspect marker + `la-mi ka-ze` = I act-on-it. `re` as habitual is its first unambiguous attestion in this role. The structure is symmetric with S452: S452 has [intention left, negated-act right]; S453 has [repudiated-object left, compulsive-act right]. The symmetry encodes Paul's doubled contradiction: both slots of the will are active (positive will and negative will), and both produce the wrong action.
     
     **Theological note:** `de-vo` (value-decay = moral evil) is chosen over `no-vo` (privation-of-value = absence of good) to represent Paul's conception of evil here. Paul's "evil I do" is active corruption, not mere absence — `de-vo` captures the acting-against-value force. The choice reflects Augustinian corruption (de-vo) over privatio boni (no-vo). Both compounds exist; registering the distinction matters for corpus consistency.

@@ -17,7 +17,7 @@ title: "Connective Attestation"
 `la-mi  fa  fe-ki`
 *My affective substrate is in a state of approaching-threshold. Free-floating           anxiety — no object, no identifiable source.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `fa  fe-ki` = substrate in boundary-approach state. `fe` (risk/boundary) + `ki`
       (motion/becoming) = approaching-threshold. The `fa` root situates this inwardly:
       not "I detect an approaching threat" (`se  fe-ki  lo-[X]`) but "substrate itself is
@@ -32,7 +32,7 @@ title: "Connective Attestation"
 `la-mi  fa  vo-be`
 *My affective substrate registers a positive-quality rise. No particular object           caused it — the substrate is simply in positive activation.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `fa  vo-be` = substrate registering value-increase. `vo` (value/quality) + `be`
       (generation/increase) = quality-rising. No external target.
     - Contrast with `la-mi  se  vo-be  lo-[X]` (I detect value-rise at a specific object —
@@ -48,7 +48,7 @@ title: "Connective Attestation"
 `la-mi  fa  vo-de  re`
 *My affective substrate keeps registering value-decay. The pattern returns.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `fa  vo-de  re` = substrate + value-decay + repetition. `vo-de` (value-decay) +
       `re` (repetition/cycle) = the low recurs as a pattern.
     - First corpus attestation of `re` in combination with affective substrate. `re` here
@@ -67,7 +67,7 @@ title: "Connective Attestation"
 `la-mi  fa  fe-de`
 *My affective substrate registers boundary-degradation. Free-floating           threat-response — no identifiable threat.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `fa  fe-de` = substrate registering risk-decay. `fe` (risk/boundary) + `de`
       (decay/decrease) = the safety-boundary is eroding as an internal felt state.
       This is structural fear: the affective substrate's sense of protective boundary
@@ -84,7 +84,7 @@ title: "Connective Attestation"
 `la-mi  se  so.  la-mi  fa-be.  la-mi  to  lo-go.`
 *I detected an acoustic signal. My affective substrate rose. I identified           the source. — All three pipeline stages resolved in sequence.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - The thunder example from primitives.md § Affective Substrate, now committed to
       corpus. Three distinct complete clauses, each a valid standalone utterance, together
       forming the canonical `se → fa → to` three-stage sequence.
@@ -101,7 +101,7 @@ title: "Connective Attestation"
 `la-mi  se  so.  la-mi  fa-be.  la-mi  fa-no-to  lo-go.`
 *I detected an acoustic signal. My affect rose. The substrate did not resolve           into a model of the cause.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Minimal contrast with S139: identical first two clauses; third clause diverges:
       `la-mi  to  lo-go` (model formed) vs `la-mi  fa-no-to  lo-go` (no model formed).
       This is the pipeline stall at the `fa → to` transition.
@@ -120,7 +120,7 @@ title: "Connective Attestation"
 `la-mi  se  lo-si.  la-mi  to  lo-si.`
 *I received the data. I hold a model of it. — No affective substrate           activation between perception and cognition.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `lo-si` = patient-marked encoded structure / information. `se  lo-si` = perceiving
       information (a purely propositional event — incoming data, not a threat or reward
       signal). `to  lo-si` = forming a model of that information.
@@ -139,7 +139,7 @@ title: "Connective Attestation"
 `la-mi  fa-ki.  no  fa-be;  no  fa-de.`
 *My affective substrate shifted character. The state didn't escalate or           diminish — something in its quality changed register.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - First corpus attestation of `fa-ki` (W-pending). `fa` (substrate) + `ki`
       (motion/change/becoming) = substrate in motion / affect changing character.
       Distinct from `fa-be` (level rising) and `fa-de` (level falling): `fa-ki` is
@@ -158,7 +158,7 @@ title: "Connective Attestation"
 `la-mi  fa-re.  la-mi  to-ko  lo-su.`
 *My affective substrate is cycling through a recurring pattern. I recognize           this — the structure of this state has been stored.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - First corpus attestation of `fa-re` (W-pending). `fa` (substrate) + `re`
       (repetition/cycle) = affective pattern cycling. The substrate state as a whole is
       recurring — not merely that an emotion is felt again, but that the *patterned
@@ -182,7 +182,7 @@ title: "Connective Attestation"
 `la-mi  se  vo-de  lo-ne-mi.  la-mi  fa-no.`
 *I detect value-decay when I look at the relationship. And yet the affective           substrate is not active. The flat state.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - First corpus attestation of `fa-no` (W-pending). `fa` (substrate) + `no`
       (negation/absence) = substrate inactive / affective flatness.
     - The pairing with `se  vo-de  lo-ne-mi` is crucial: the `se` detection is functioning
@@ -202,7 +202,7 @@ title: "Connective Attestation"
 `la-mi  fa-be  ta-ti-de.  la-mi  fa-de.`
 *My affective substrate was in a rising state [earlier]. It is now diminishing.           The wave is falling.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - First corpus attestation of `fa-de` (W-pending). `fa` (substrate) + `de`
       (decay/decrease) = affect-level diminishing/fading.
     - `ta-ti-de` = at past time (`ta` = time marker; `ti-de` = time-decay = past). Temporal
@@ -219,7 +219,7 @@ title: "Connective Attestation"
 `la-mi  to  [la-zo-mi  fa  fe-ki]`
 *I analytically model that my organism's affective substrate is in a           boundary-approach state. — I am observing my own anxiety, not inhabiting it.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - First corpus attestation of the self-observer mode with `fa`. The matrix clause
       `la-mi  to [...]` situates the speaker as a modeling agent; the embedded clause
       `la-zo-mi  fa  fe-ki` assigns the affective state to the organism (`zo-mi`), not
@@ -241,7 +241,7 @@ title: "Connective Attestation"
 `la-mi  to  [la-zo-ze  fa  vo-de  re]`
 *I analytically model that their organism's affective substrate is in a state           of recurring value-decay. — Clinical diagnostic, first-person epistemic frame.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Same observer-mode construction as S146; different referent. `la-zo-ze` = organism
       of ze (third party). The speaker (`la-mi  to`) asserts their model; the affective
       state is attributed to the other person's organism (`la-zo-ze`).
@@ -261,7 +261,7 @@ title: "Connective Attestation"
 `la-mi  se-no.  la-mi  fa  vo-de.`
 *I am detecting nothing from the world. My affective substrate nonetheless           registers value-decay. — Chemical depression without external cause.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `se-no` = signal-absence / no external detection. Not emotional numbness (which would
       be `fa-no`, S144) — this is the *perception* channel reporting nothing incoming.
       `la-mi  fa  vo-de` = substrate active, in value-decay, without any external signal
@@ -282,7 +282,7 @@ title: "Connective Attestation"
 `la-mi  se  vo-be  lo-du.  la-mi  fa  vo-be.`
 *I detect positive quality in the result [external, directed]. And my           affective substrate is in positive-rise [internal, undirected]. Two layers           of the same positive event reported in sequence.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `se  vo-be  lo-du` = detection of value-increase directed at a specific result
       (`lo-du` = patient-marked outcome). External, object-directed perception. `fa  vo-be`
       = substrate positive-rise without object. Internal, undirected.
@@ -302,7 +302,7 @@ title: "Connective Attestation"
 `la-zo-mi  de.`
 *My body's resources are depleted. — Physical fatigue, not affective state.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `la-zo-mi` = organism-of-me as perspective anchor. `de` = decay/depletion. The
       construction locates depletion in the biological substrate, not the affective substrate.
     - This is the fatigue construction. Key contrast: `la-zo-mi  de` ≠ `la-mi  fa-de`.
@@ -321,7 +321,7 @@ title: "Connective Attestation"
 `lo-du  be.  la-mi  fa-be.  la-mi  se  vo-be  lo-du.`
 *The outcome came in. My affect rose. I detect quality-increase when I look           at the result. — This sequence is what Tonesu says instead of "I'm happy           about the outcome."*
 
-??? note "Notes"
+!!! annotation "Notes"
     - The usage guard (Principle 9, normative): `fa-vo-be` is not joy; `fa-vo-de` is not
       sadness. Named emotional states are derived via process constructions, not via bare
       `fa + quality` labels.
@@ -341,7 +341,7 @@ title: "Connective Attestation"
 `la-zo-ze  fa  vo-de  re.  la-ze  fa-no-to  lo-go.`
 *Their organism's affective substrate is in a state of recurring value-decay.           They have no model of the cause. — Clinical-record register.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Third-party `fa` assertion in two clauses. No `la-mi  to [...]` wrapper: the speaker
       asserts these as flat clinical facts, not as personal epistemic attributions. This is
       the record-entry register: an objective description.
@@ -366,7 +366,7 @@ title: "Connective Attestation"
 `Natural B: My affective substrate is active; no model of why.`
 *(A) I detected something; no model formed of what it was. (B) My affective substrate is active; no model of why.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - The W090 `se-no-to` / `fa-no-to` pair: same `no-to` stall, different entry points.
       - `se-no-to` (W090): the stall is *upstream* at the `se → to` transition. The
         perceptual signal arrived but did not resolve into a model. "I perceived something
@@ -388,7 +388,7 @@ title: "Connective Attestation"
 `lo-si-mu  be.  la-mi  fa-be.  la-mi  fa-no-to  lo-go.`
 *An official document arrived. My affective substrate rose. The substrate           has not resolved into a model of why this document is affecting me.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `lo-si-mu` = patient-marked document (`si-mu` = encoded-artifact = individual record
       or document, attested S058/S070). `be` = generation/emergence: the document arrived.
     - Tests `fa-no-to  lo-go` outside of an interpersonal/relationship context (S134 used

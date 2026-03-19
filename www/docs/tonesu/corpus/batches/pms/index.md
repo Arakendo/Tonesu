@@ -17,7 +17,7 @@ title: "Particle Modifier Stress Test"
 `no-go [lo-ra  ki]  lo-ra  ru`
 *Despite energy moving/changing form, energy remains one.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `no-go` applied to a physics conservation law. Same concessive pattern as S180
       (identity through repair) and S181 (Ship of Theseus), now in the energy domain:
       energy's unity is not derived from its remaining motionless; it persists through
@@ -36,7 +36,7 @@ title: "Particle Modifier Stress Test"
 `la-li  ka  nu-se  lo-ra`
 *The person measures the energy.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **`nu-se` (W102) first corpus attestation.** `nu` (quantity/number) + `se`
       (perception/detection) = quantitative detection = measurement. Head-final: `se`
       (perception) is the head; `nu` specifies perception that returns a quantity rather than
@@ -52,7 +52,7 @@ title: "Particle Modifier Stress Test"
 `no-go [lo-su  ki]  lo-su  ru`
 *Despite the structure transforming, the structure remains one.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Third domain for the `no-go [lo-X  ki]  lo-X  ru` pattern (S181 was mechanical parts;
     S186 was energy; S188 is abstract structure). The form has stabilised as the canonical
       expression of **invariance under transformation** — the formal concept underlying
@@ -68,7 +68,7 @@ title: "Particle Modifier Stress Test"
 `go [lo-ra-su  ne  lo-ra-su]  du [lo-ra-su  ki]  du [lo-ra-su  ki]`
 *Because force-system A is in relation with force-system B, A moves and B moves.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Gap demonstration for P-PR-002.** This sentence represents the physics domain's best
       available expression of mutual interaction using current tools. It has two problems:
       (1) **Double `du` requires sequential reading**: `du [A ki]  du [B ki]` reads as A moves

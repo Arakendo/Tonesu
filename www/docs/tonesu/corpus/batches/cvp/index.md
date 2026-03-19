@@ -17,7 +17,7 @@ title: "CV Particle Assignment — Vocative and Attention-Signal"
 `he na-Moses!`
 *Standalone vocative: "Moses!*
 
-??? note "Notes"
+!!! annotation "Notes"
     `he` = vocative particle; `na-Moses` = proper name NP. The sentence is a complete speech act: a direct call. Three-way compare: (1) `na-Moses!` — exclamatory NP; still an NP, not an illocutionary act; (2) `he na-Moses!` — vocative speech act: I am calling you specifically; (3) `la-na-Moses ka-si` — "Moses spoke" (predicate clause; Moses is the agent, not the addressee). `he` is the only form that produces a standalone direct address at minimal length. **First attestation of `he` (form newly assigned). CVP-001 count: 1.**
 
 <span id="S525"></span>
@@ -25,7 +25,7 @@ title: "CV Particle Assignment — Vocative and Attention-Signal"
 `he na-Moses, ki di-pa-su`
 *Vocative + imperative: "Moses! Go toward the mountain.*
 
-??? note "Notes"
+!!! annotation "Notes"
     `he na-Moses` = direct address frame; `,` separates it from the following imperative clause; `ki di-pa-su` = move toward / in the direction of the mountain (dropped-agent imperative, standard). The `he` makes it unambiguous that `na-Moses` is the *addressee*, not the agent of the following clause — which `la-na-Moses, ki di-pa-su` would confusingly suggest (Moses as agent of the motion). **Second attestation. CVP-001 count: 2.**
 
 <span id="S526"></span>
@@ -34,7 +34,7 @@ title: "CV Particle Assignment — Vocative and Attention-Signal"
 `la-na-Moses pa`
 *EXO-001 divine call retest: the burning bush calling*
 
-??? note "Notes"
+!!! annotation "Notes"
     Exodus 3:4 — God calls Moses by name ("Moses! Moses!"); Moses replies "Here I am." `he na-Moses!` = the bare call itself; a standalone speech act unavailable in the current system without a full predicate clause. `la-na-Moses pa` = Moses is present / Moses replies (existential `pa`, established). Compare S404 (`la-Elohim ka-si lo-na-Moses` = "Elohim signaled to Moses" — a propositional clause, not a call). The `he` form recovers the *calling* register that the S404 formulation encodes only as a report. **Third attestation. Admission threshold met (3 corpus sentences, distinct contexts). CVP-001 count: 3.**
 
 <span id="S527"></span>
@@ -49,7 +49,7 @@ title: "CV Particle Assignment — Vocative and Attention-Signal"
 `ya, go-no-fe helms vo`
 *Standalone attention-signal before a major claim*
 
-??? note "Notes"
+!!! annotation "Notes"
     `ya` = attention-signal particle; `,` separates; `go-no-fe helms vo` = "God is by definition love" (1 John 4:8, established from S499 context). `ya` here = "mark this / attend to what follows." No emotional assertion — pure content-direction. The interlocutor's field of attention is drawn outward toward the claim, not toward the speaker's affective state. Compare `fa-be!` ("my affect rises!") — `ya` asserts nothing about the speaker. **First attestation of `ya` (form newly assigned). CVP-001 count: 4.**
 
 <span id="S529"></span>
@@ -57,7 +57,7 @@ title: "CV Particle Assignment — Vocative and Attention-Signal"
 `ya, la-zo-se-ma ki lo-re-fe-ma-ki`
 *Attention-signal before an event (Bashō register)*
 
-??? note "Notes"
+!!! annotation "Notes"
     `ya, [event]` = "[look] — a frog jumped into the old pond." `ya` directs attention to the incoming event; the speaker's affective response is not asserted, only the redirection of the listener's attention to what is about to be named. This is the natural opener for any event or revelation that the speaker wants the listener to notice before it is stated. In haiku register: `ya` recovers the *kireji*-like pause-before-content that `e, ...` was originally proposed for in VPT-001 (S498). **Second attestation. CVP-001 count: 5.**
 
 <span id="S530"></span>
@@ -71,7 +71,7 @@ title: "CV Particle Assignment — Vocative and Attention-Signal"
 `ya — la-mi to lo-ze`
 *`ya` + `—` prosodic combination*
 
-??? note "Notes"
+!!! annotation "Notes"
     `ya` (attention drawn); `—` (suspension, held breath); `la-mi to lo-ze` (I know it — the revelation arrives). Three stages: attention, suspension, arrival. Tests whether `ya` and `—` interact cleanly. They do: `ya` is a CV word in isolation; `—` is a punctuation mark external to compound structure; `la-mi to lo-ze` is the clause that arrives from the held state. No parse ambiguity arises. The combination produces a rhetoric not available from either mark alone: the speaker draws attention, then holds before delivering the claim — the `—` is not a fresh suspension but a continuation of the attentional arc opened by `ya`. **`ya` + `—` combination attested. `ya` admitted as G030.**
 
 ### Batch Summary

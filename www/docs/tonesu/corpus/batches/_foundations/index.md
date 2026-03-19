@@ -62,7 +62,7 @@ title: "Early & Unbatched Sentences"
 `la-to  ka-be  ta [la-si  ka-ne-ki]`
 *Knowledge grows at the time that information connects.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **`la-to` is now clean.** With the agent particle renamed to `la`, abstract agents no longer collide with the person/agent root `li`. `la-to` = "agent: conceptual-pattern" unambiguously.
     - **Attempt 2 is canonical.** The causal frame (`go`/`du`) naturally handles "when X, Y follows" without a dedicated conditional particle. Formalized in spec/grammar.md as the Causal Conditional structure.
     - **`ne-ki` = connect** (relation + motion → become-related) is the first attested use of the inchoative pattern `ROOT + ki`, now formalized in spec/morphology.md.
@@ -77,7 +77,7 @@ title: "Early & Unbatched Sentences"
 `la zo-li  lo si-ko-mu  ka-be`
 *People create information-storage artifacts.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `zo-li` = living-person: the natural compound for "people." With `la` as the unambiguous agent particle, `la zo-li` is clean — particle followed by root compound, no collision.
     - `si-ko-mu` = signal + containment + artifact. Head-final rule: `mu` (artifact) is the head; characterized by containing (`ko`) signals (`si`). The purpose clause "to store information" is absorbed into the compound — the artifact's nature encodes its purpose.
     - `ka-be` = action:generate/create. `be` (growth/creation) covers intentional fabrication at this stage.
@@ -92,7 +92,7 @@ title: "Early & Unbatched Sentences"
 `ta [la-yu  ka-to-ki]  la-to  ka-be`
 *When they study, knowledge grows.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Boundary rule test (pass):** `ta` opens the subordinate clause `la-yu  ka-to-ki`. The matrix clause begins at `la-to` — the next matrix-level argument marker. The subordinate agent `la-yu` is already consumed, so `la-to` is unambiguously matrix-level. Boundary recovered without explicit delimiters. No new machinery needed for this case. ✓
     - **`ta` vs `go` doing real work:** S013 used `go` to *assert causation* — "because information connects, knowledge grows." This sentence uses `ta` for temporal correlation only — "when studying happens, knowledge grows" — without claiming studying is the cause. The `ta`/`go` distinction is not cosmetic; the two frames make genuinely different claims.
     - **`yu` first corpus appearance:** `la-yu` is the first gloss use of the renamed group pronoun. No collision with root `wi` (will/intention). Clean.
@@ -103,7 +103,7 @@ title: "Early & Unbatched Sentences"
 `la-su-mu-li  lo-mu  ka-se-past`
 *The engineer inspected the machine.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `su-mu-li` (W002) = engineer / systems-builder. First narrative use of this role compound.
     - `ka-se` = action of perceiving = inspect / examine deliberately. `se` (perception) used as verbal root with action particle. The act is intentional (`ka`), the mode is perceptual (`se`). No separate compound word needed; particle + root form is sufficient. Noun form `se-ka` (examination / inspection) registered as W034.
     - `-past` tense marker is placeholder gloss.
@@ -113,7 +113,7 @@ title: "Early & Unbatched Sentences"
 `lo-ze  de-past`
 *It was damaged.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Agentless-event construction tested:** `lo-ze  de-past` = the machine (as patient) underwent a decay event; no agent specified. This is distinct from `la-[agent]  lo-ze  ka-de-past` (someone intentionally damaged it). The absence of `la` + bare `lo` = passive / agentless event.
     - **Copula gap flagged:** "It was damaged" is a predicative adjective in English (state attribution). Tonesu handles this by treating the state as a past event (`de-past`). A dedicated copula structure for "X is [in state] Y" without implying an event remains undefined. Logged in open-questions.md.
     - **`ze` as non-person pronoun:** first use of `ze` for an inanimate artifact. Confirms `ze` covers all non-speaker/non-addressee referents, including objects.
@@ -124,7 +124,7 @@ title: "Early & Unbatched Sentences"
 `la-ze  lo-ze  ka-de-be-past  wi [ka-ra-be  pa-li-pu]`
 *She repaired it to restore power to the city.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **`de-be`** = decay-growth = process of reversing decay = repair / restoration. Head-final: `be` (growth) is the head; `de` (decay) specifies the starting condition. `de-be` = growth characterized as recovery from decay. `ka-de-be` = the act of repairing. Candidate W035; registered in registry/derived.md.
     - **`ra-be`** = energy-growth = energy restoration / power return. `ra` (energy) + `be` (growth/increase) = energy increasing. In the purpose clause: the intended outcome is energy being restored to the city.
     - **`li-pu`** = person-collective = city (colloquial short form of `li-pu-pa`). `li` (social agent) + `pu` (plurality) = organized collective of persons. Full compound: `li-pu-pa` (person-collective-place). In the `pa` particle position: `pa-li-pu` = at/to the city. Candidate W036; registered in registry/derived.md.
@@ -155,7 +155,7 @@ title: "Early & Unbatched Sentences"
 `lo-di-ki-li  zo-ne-go  la-mi`
 *The navigator is my parent.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **First corpus use of `zo-ne-go` (W077).** `zo-ne` = living kin relation (base);
       `go` = origin/source. Together: the entity that is the living-kin-source of the
       reference person. "The navigator is [my] living-kin-origin" = the navigator is
@@ -181,7 +181,7 @@ title: "Early & Unbatched Sentences"
 `lo-ra-ki-li  zo-ne-du  la-mi`
 *The pilot is my child.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **First corpus use of `zo-ne-du` (W078).** `zo-ne` base + `du` (result/effect) =
       the entity that is the kin-result of the reference person = child/offspring.
     - The structural parallel with S093 is exact: `lo-[described-party]  [kin-type]
@@ -199,7 +199,7 @@ title: "Early & Unbatched Sentences"
 `lo-ra-ki-li  zo-ne-ru  la-mi`
 *The pilot is my sibling.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **First corpus use of `zo-ne-ru` (W079).** `zo-ne` base + `ru` (unity/oneness
       /singularity) = kin-unity = a person who shares one origin with the reference
       person. The `ru` qualifier marks that the kin-bond is one of sameness: pilot and
@@ -219,7 +219,7 @@ title: "Early & Unbatched Sentences"
 `[S096a]  lo-di-ki-li  zo-ne-go  la-mi`
 *The pilot is the navigator's sibling.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **First multi-step kinship path in corpus.** English compresses this to "aunt"
       or "uncle." Tonesu does not. The path is TWO SENTENCES because the kin-bond
       is two steps: from speaker → to parent → to parent's sibling.
@@ -243,7 +243,7 @@ title: "Early & Unbatched Sentences"
 `lo-di-ki-li  zo-ne-go-re  la-mi`
 *The navigator is my ancestor.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **First corpus use of `zo-ne-go-re` (W080).** `zo-ne-go` (parent, W077) +
       `re` (recurrence/cycle) = the recurringly-iterated kin-source = ancestor.
       An ancestor is a parent of a parent of a parent... the `re` marks that the
@@ -266,7 +266,7 @@ title: "Early & Unbatched Sentences"
 `lo-ra-ki-li  zo-ne-du-re  la-mi`
 *The pilot is my descendant.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **First corpus use of `zo-ne-du-re` (W081).** `zo-ne-du` (child, W078) +
       `re` (recurrence) = iterated kin-result = descendant. Parallel structure to
       W080 (`zo-ne-go-re`); the `re` adds the iteration.
@@ -280,7 +280,7 @@ title: "Early & Unbatched Sentences"
 `lo-di-ki-li  zo-ne-go  lo-ra-ki-li — lo-to-fe-ki-li  zo-ne-go  lo-di-ki-li`
 *The navigator is the pilot's parent. The keeper is the navigator's parent.           [Therefore: the keeper is the pilot's grandparent — by two-sentence path.]*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Two-sentence path for "grandparent."** No single-sentence equivalent is
       available without a numeral (to quantify generation distance) or a
       relative clause (to embed a kin-noun phrase). Two declarations, two steps.
@@ -299,7 +299,7 @@ title: "Early & Unbatched Sentences"
 `[S100a]  lo-di-ki-li  zo-ne-go  la-mi`
 *Someone is the pilot's child.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **The "cousin" equivalence — three sentences.** Each step is one sentence.
       English "cousin" = parent's sibling's child = three structural facts.
       Tonesu states all three. No compression is attempted; none is needed.
@@ -326,7 +326,7 @@ title: "Early & Unbatched Sentences"
 `[lo-ne-ra  ka-se]  lo-mu  ne-mi  ka-be`
 *Build me the machine that perceived the resonance.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **First corpus use of head-final clause modification.** The structure:
       `[lo-ne-ra  ka-se]` = a clause meaning "perceived the resonance" — with no `la-[agent]`
       present. The gap is in the `la` position. The head noun `lo-mu` (the machine) follows
@@ -351,7 +351,7 @@ title: "Early & Unbatched Sentences"
 `[la-di-ki-li  ka-se]  lo-ne-ra  no-to-fe`
 *The resonance that the navigator perceived is uncertified.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Patient gap.** The inner clause `la-di-ki-li  ka-se` has an agent (navigator) but
       no patient. The gap is in the `lo` position. Head `lo-ne-ra` fills the patient gap
       semantically: the navigator perceived the resonance. In the matrix, `lo-ne-ra` is
@@ -374,7 +374,7 @@ title: "Early & Unbatched Sentences"
 `la-mi  lo-si-ki  [lo-ne-ra  ka-se]  ne-mu  ka-be`
 *I gave the code to the machine that perceived the resonance.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Same inner clause as S101** (`[lo-ne-ra  ka-se]`, gap = agent) but the head exits
       with `ne-mu` (recipient) instead of `lo-mu` (patient). The head's MATRIX role is
       recipient, not patient. This demonstrates the key principle: **the particle on the
@@ -394,7 +394,7 @@ title: "Early & Unbatched Sentences"
 `la-mi  lo-si-ki  [zo-ne-go  la-mi]  ne-li  ka-be`
 *I gave the code to the person who is my parent.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Stative inner clause — no `ka`.** `zo-ne-go  la-mi` is a kinship predication without
       an action particle: "kin-origin [from] my perspective." The gap is in the `lo`
       position — the entity BEING described as "my parent" is absent from the clause and
@@ -417,7 +417,7 @@ title: "Early & Unbatched Sentences"
 `la-mi  lo-si-ki  [zo-ne-ru  [zo-ne-go  la-mi]  lo-li]  ne-li  ka-be`
 *I gave the code to my parent's sibling.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **This sentence directly resolves the S096 NM-001 trigger.** S096 first exposed that
       "my parent's sibling" could not be embedded as a single argument. This sentence embeds
       it as a recipient argument of a matrix clause.
@@ -442,7 +442,7 @@ title: "Early & Unbatched Sentences"
 `[lo-si-de  ka-to-ko]  lo-mu  ne-mi  ka-be`
 *Build me a machine that remembers past signals.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Direct satisfaction of S019 Version B** — the target that opened the relativizer
       gap in S019. The full original target was "Build me a system that remembers past
       queries." `lo-si-de` = signal-decay = prior/past signal data. `ka-to-ko` = action of
@@ -466,7 +466,7 @@ title: "Early & Unbatched Sentences"
 `la-mi  se  [lo-mu  ne-ra  no-to-fe]`
 *I have a signal-level reading: the machine's resonance is uncertified.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **First corpus use of positive perceptual floor `la-mi  se  [prop]`.** C007 B4
       established `la-mi  no-se  [prop]` (perceptual floor negated). This is the positive
       form: "I hold at perceptual / signal level: [prop]." Consistent with the modal scale
@@ -494,7 +494,7 @@ title: "Early & Unbatched Sentences"
 `lo-li  vo`
 *The person is [socially] valued.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Type 1 predication** (`lo-X  Q`): patient-slot subject, quality predicate. X occupies
       state Q as a current condition. The claim is contingent — social recognition can change.
     - **Contrastive Pair 3 (with S162):** Same noun (`li` = person), same quality (`vo` = value).
@@ -516,7 +516,7 @@ title: "Early & Unbatched Sentences"
 `la-mu  lo-si  se  no  lo-to`
 *The machine detected the signal, not the pattern.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Second corpus attestation of `no` as intra-clause contrast coordinator.** First use: S090 (`lo-to-re-su  be  no  lo-wi-to` = "followed the doctrine, not the plan"). Here: `lo-si  se  no  lo-to` = "perceived the signal, not the pattern." Different predicate (`se` vs `be`), different domain (machine perception vs. mission instruction), parallel structure (patient contrast in both).
     - `no` in the contrast coordinator position negates only the following constituent (`lo-to`), not the predicate. The machine did perceive; what it perceived was `lo-si`, not `lo-to`. The predicate `se` is unaffected.
     - **Patient contrast:** `lo-si` (raw signal / signal data) vs. `lo-to` (conceptual pattern). In the Tonesu epistemic hierarchy, machines register signal-level data (`si`); only persons or sufficiently organized systems extract conceptual patterns (`to`). This sentence embodies that ceiling not as a doctrinal statement but as a bare perceptual report.
@@ -530,7 +530,7 @@ title: "Early & Unbatched Sentences"
 `la-si-su  ko  [la-ra-ki-li  se  lo-pa-ra]`
 *The archive holds: the pilot perceived the field.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Second corpus attestation of `ko` with a clausal complement.** First: C005 A2 (`la-to-re-su  ko  [lo-mu  zo-to]` — doctrine contains propositional belief). Here: `la-si-su  ko  [la-ra-ki-li  se  lo-pa-ra]` — archive contains propositional observation record. Different container type (`si-su` archive vs. `to-re-su` doctrine), different propositional content (perceptual report vs. doctrinal claim), parallel grammatical structure.
     - The bracketed clause `[la-ra-ki-li  se  lo-pa-ra]` is a full propositional complement: agent (`la-ra-ki-li`), predicate (`se`), patient (`lo-pa-ra`). The archive contains this proposition as an entry — not the pilot, not the field, but the propositional record of the perception event.
     - **Container semantics confirm the extension principle:** `ko` asserts a containment relation between a container and its contents. The container type determines what register of contents makes sense:
@@ -548,7 +548,7 @@ title: "Early & Unbatched Sentences"
 `la-yu  lo-to-su  be  ta-ti-be  lo-se-ka`
 *The team consolidated their knowledge after the inspection.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Mirror of S092's event-anchor construction.** S092: `ta-ti-de  lo-ka-wi-de` = "before the mission departure" (`ti-de` = past/prior → before). S192: `ta-ti-be  lo-se-ka` = "after the inspection" (`ti-be` = future/following → after). Both use `ta  ti-[dir]  lo-[event]` with a `lo-`-marked event as the temporal anchor. Different domain (mission preparation vs. maintenance/inspection cycle), different directional compound (`ti-de` vs `ti-be`).
     - **`ta-ti-de  lo-X` = before X; `ta-ti-be  lo-X` = after X.** The directional component of the time compound (`de` = decay/prior, `be` = growth/following) sets the relative position; the `lo-[event]` bracket provides the anchor event. The structure is compositionally transparent: "at the [prior/following] time [of] [event]."
     - **`be` as matrix predicate:** `lo-to-su  be` = "knowledge grows" = they consolidated their knowledge. The group's organized understanding expanded as a result of the inspection. Same `be` as all growth predicates.
@@ -562,7 +562,7 @@ title: "Early & Unbatched Sentences"
 `go [lo-zo-su  ne  lo-zo-su]  du [lo-zo-su  be]  du [lo-zo-su  be]`
 *Because living-system A is in relation with living-system B, A grows and B grows.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Second corpus attestation for P-PR-002.** S189 demonstrated the gap in physics (`lo-ra-su  ne  lo-ra-su`, force-systems). S193 repeats the same construction in biology (`lo-zo-su  ne  lo-zo-su`, living-systems in mutualistic coupling). Two domain-distinct sentences, same structural failure.
     - **`zo-su`** = living-system / organized organism. Compositional parallel to `ra-su` (force-system, used in S189): `zo` (living thing) + `su` (organized structure) = organism understood as an organized biological system. Not separately registered; compositionally transparent.
     - **The gap is identical to S189:** (1) Double `du` forces sequential reading — living-system A grows first, then living-system B — but mutualistic symbiosis is a continuous coupled exchange with no sequencing between the two growth events. (2) `ne` describes the static relation enabling the coupling; it does not encode the mutual-transformation event itself. The language approximates the outcome (both grow because they are in relation) but cannot say the coupling *is* the event in which both transform simultaneously.
@@ -578,7 +578,7 @@ title: "Early & Unbatched Sentences"
 `go [la-li  ne  la-li]  du [la-li  wi-to-ki]  du [la-li  wi-to-ki]`
 *Because delegate A is in relation with delegate B, A shifts position and B shifts position.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Third corpus attestation for P-PR-002.** S189: physics/force-systems. S193: biology/mutualistic symbiosis. S194: social/negotiation. Three-wrong-reading threshold is reached.
     - **`wi-to-ki`:** `wi` (intention) + `to` (conceptual pattern) + `ki` (inchoative) = entering a new intentional-conceptual configuration = revising one's stance. Head-final: the change-event (`ki`) in the domain of intentional-pattern (`wi-to`). Compositionally transparent; no registration needed for the test.
     - **Wrong reading (primary decomposition):** Double `du` forces sequencing — delegate A revises first, then delegate B revises. But negotiation revision is a coupled simultaneous exchange: both parties update their positions *at the exchange moment*, which is a single event, not two sequential ones. The language has no way to mark the two outcomes as concurrent.
@@ -598,7 +598,7 @@ title: "Early & Unbatched Sentences"
 `(la-ze  lo-wi-fe  be-si)  ,  du  la-ze  lo-wi-fe-no-fe  wi`
 *(She reportedly said: let rules increase.) — Therefore she intends            unlimited-governance [rules-without-boundary].*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `(la-ze  lo-wi-fe  be-si)` = the evidential frame wraps the source's actual reported position. `be-si` = growth-signal = signaling in favor of increase. The `()` marks this as reported — the speaker is not personally asserting this as the source's exact words.
     - `wi-fe-no-fe` = rules-without-boundary = `wi-fe` (W100) + `no-fe` (without limit). Default right-branching: `wi` modifies [`fe-no-fe`] = will applied to [boundary-without-limit] = unlimited imposition = totalitarianism. This bare-asserted conclusion is outside `()` — the speaker presents it without reservation.
     - **Grammar doing the work:** the real position is `()`-framed; the distortion is bare-asserted. In Tonesu, anything outside `()` claims first-person certainty. The structural contrast — `(reported premise)  ,  du  [bare confident conclusion]` — makes the gap visible: the `du` (result/therefore) asserts the conclusion follows directly from what was only a reported claim.
@@ -610,7 +610,7 @@ title: "Early & Unbatched Sentences"
 Written: `tosu helm ra`
 *Knowledge is power." (Francis Bacon, attributed)*
 
-??? note "Notes"
+!!! annotation "Notes"
     `to-su` (W030) = knowledge-system / organized knowledge. `ra` = force/energy/power (primitive). `helm` (G011) = functional equivalence predicate: X is functionally understood as Y. Bacon's claim is pragmatic — organized knowledge *functions as* power, not that it metaphysically *is* power (`helms`) or merely *has* the property of power (`ne to-su ra`). The `helm` reading is precise: in the domain of human affairs, knowledge behaves as force.
 
 <span id="S440"></span>
@@ -619,7 +619,7 @@ Written: `tosu helm ra`
 Written: `ti helm nuvo`
 *Time is money." (Benjamin Franklin, attributed)*
 
-??? note "Notes"
+!!! annotation "Notes"
     `ti` = time (primitive). `nu-vo` = quantity-value = measurable worth / counted resource (compositional; unregistered; `nu` = quantity + `vo` = value). `helm` = is functionally understood as. The claim is economic: time, in productive contexts, *functions as* a countable valuable resource. Not a definitional identity (`helms`) nor a property attribution (`ne`). Contrast with S439: both S439–S440 are `helm` pragmatic/cultural assertions.
 
 <span id="S441"></span>
@@ -628,7 +628,7 @@ Written: `ti helm nuvo`
 Written: `gonofe helm de`
 *God is dead." (Friedrich Nietzsche, *Die fröhliche Wissenschaft* §125, 1882)*
 
-??? note "Notes"
+!!! annotation "Notes"
     `go-no-fe` = necessary being (God; `go` + `no-fe` = origin without limiting boundary). `de` = decay/dissolution (primitive). `helm` = is culturally/functionally understood as. Nietzsche's claim is a cultural observation, not a metaphysical fact: the concept of God has functionally decayed in the modern imagination. `helm` is precisely right — `go-no-fe helms de` would be a logical contradiction (a necessary being is by definition incapable of dissolution). `helm` admits the tension: in the cultural-functional register, the necessary being is *understood as* dissolved. The force of the provocation is in the gap between `helm` and `helms`. Contrast immediately with S442.
 
 <span id="S442"></span>
@@ -637,7 +637,7 @@ Written: `gonofe helm de`
 Written: `gonofe helms vo`
 *God is love." (1 John 4:8)*
 
-??? note "Notes"
+!!! annotation "Notes"
     `vo` = value/quality/worth (primitive; broadest reading = unconditional positive regard / *agape*). `helms` (G012) = is by definition. This is a theological essence claim: what the necessary being *is*, not merely what it does or how it functions. Contrast with S441: same subject (`go-no-fe`), different operator, different predicate — `helm de` vs `helms vo` — encodes Nietzsche vs John at the level of the identity predicate itself. Resolves the identity-copula ambiguity raised in GAP-LSP-001 (see LSP-001 Batch Summary, and S431/S436): `ne` would attribute love as a property; `helms` asserts it as constitutive essence. The three-way scale illustrated across S441–S442: `ne` (property) < `helm` (functional) < `helms` (definitional).
 
 <span id="S443"></span>
@@ -646,7 +646,7 @@ Written: `gonofe helms vo`
 Written: `zoli helms tozo`
 *Man is a rational animal." (Aristotle, *Nicomachean Ethics* / *Politics*)*
 
-??? note "Notes"
+!!! annotation "Notes"
     `zo-li` (W148) = living-agent = human person. `to-zo` = knowledge-living-being = a living thing defined by its knowledge-capacity = rational animal (compositional; unregistered: `to` modifier + `zo` head). `helms` = is by definition. Aristotle's core definition: being human *is* being a knowledge-structured living thing. Note compound polarity: `zo-to` (W068) = soul (living → knowledge: the knowledge-aspect of a living being); `to-zo` = rational animal (knowledge → living: a life-form categorized by its knowledge-capacity). The reversal encodes a different emphasis: soul is the knowledge-side of life; rational animal is the knowledge-*categorized* kind of creature.
 
 <span id="S444"></span>
@@ -655,7 +655,7 @@ Written: `zoli helms tozo`
 Written: `lami to go lami pa`
 *I think, therefore I am." (René Descartes, *Discours de la méthode*, 1637)*
 
-??? note "Notes"
+!!! annotation "Notes"
     `la-mi` = I (first-person agent). `to` = model/think (primitive, intransitive). `go` = cause/origin particle (here: causal connective = "therefore"). `pa` = place/existence (place-occupation as proxy for existence). Structure: [premise: `la-mi to`] `go` [conclusion: `la-mi pa`] = "I think, therefore I exist." Deliberately uses `go` (causal deduction) rather than `helm`/`helms`; the Cogito is *not* an identity claim but a logical inference from a premise to a conclusion. Descartes does not say "thinking *is* existing" but "from the fact that I think, existence follows." Structural contrast with S442–S443: `helms` asserts identity; `go` deduces consequence.
 
 <span id="S445"></span>
@@ -664,7 +664,7 @@ Written: `lami to go lami pa`
 Written: `putosu ne ven duto`
 *All models are approximately correct." (George E. P. Box, paraphrase)*
 
-??? note "Notes"
+!!! annotation "Notes"
     `pu-to-su` = all knowledge-systems / all models (plural prefix `pu-` + `to-su` W030). `ne` = property copula. `ven` (G010) = approximately (spoken/written form of `~`; pre-positional hedge). `du-to` = result-of-knowledge = the successful outcome of a modelling process = correct/accurate (compositional; unregistered: `du` = result/effect + `to` = pattern/knowledge). `ven du-to` = approximately correct. Forms a linked pair with S446: see that entry for the epistemological point.
 
 <span id="S446"></span>
@@ -673,7 +673,7 @@ Written: `putosu ne ven duto`
 Written: `putosu ne ven noduto`
 *All models are approximately wrong." (George E. P. Box, complementary reading)*
 
-??? note "Notes"
+!!! annotation "Notes"
     Complement of S445. `no-du-to` = not-result-of-knowledge = incorrect (negated form; `no-` prefix + `du-to`). `ven no-du-to` = approximately wrong. S445 and S446 are both true of the same referent (`pu-to-su`), and this is not a contradiction: `ven X` and `ven no-X` co-hold when the subject is near the precision boundary — which is the condition of every finite model. `ven` is symmetric: a model that is `ven du-to` is the same model that is `ven no-du-to`. Tonesu's approximation system encodes this more faithfully than natural language: English "roughly correct" and "roughly wrong" feel contradictory; `ven du-to` and `ven no-du-to` are formally symmetric hedges. Box's full aphorism: "All models are wrong, but some are useful." A third sentence completing the aphorism — `ta pu-to-su-va ne vo` (and some models have value/utility) — is deferred.
 
 ---

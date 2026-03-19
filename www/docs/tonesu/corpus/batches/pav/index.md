@@ -28,7 +28,7 @@ title: "Agentless and Passive Clause Test"
 `la-su-mu-li  ka-be  lo-ra-su  ti-de`
 *Active baseline: "The engineer built the structure.*
 
-??? note "Notes"
+!!! annotation "Notes"
     Standard active clause. All slots filled: `la-su-mu-li` = agent (engineer); `ka-be` = intentional creation/growth; `lo-ra-su` = patient (structure); `ti-de` = past. This is the fully specified active reference form against which passive variants are measured in S560–S562.
 
 <span id="S560"></span>
@@ -36,7 +36,7 @@ title: "Agentless and Passive Clause Test"
 `lo-ra-su  de  ti-de`
 *Non-intentional process: "The structure collapsed.*
 
-??? note "Notes"
+!!! annotation "Notes"
     No agent, no `ka`. Patient `lo-ra-su` + bare predicate `de` (decay/dissolution) + `ti-de` (past). This is a Type 1 patientive state applied as event: the structure entered a state of decay. The absence of `ka` is semantically significant — no intentional agent is encoded, and none is implied. Recovers the early agentless pattern (`lo-ze de`) from s001–s039 under current grammar. **ADMISSIBLE: canonical non-intentional process form.** Note: `de` here is not a catch-all agentless event verb — it specifically encodes decay/dissolution. The non-intentional process pattern is `lo-{patient} [non-ka predicate] ti-de`; the lexical predicate supplies its own semantics (`de` = decay, `ki` = movement, `be` = growth, etc.).
 
 <span id="S561"></span>
@@ -44,7 +44,7 @@ title: "Agentless and Passive Clause Test"
 `lo-ra-su  ka-be  ti-de`
 *Intentional passive: "The structure was built.*
 
-??? note "Notes"
+!!! annotation "Notes"
     No `la-` (no explicit agent). `ka-be` = intentional creation/growth. The patient `lo-ra-su` is the only argument. Compare to S559: this is S559 with the agent stripped out. The critical question: does `ka` work without an explicit `la-`? **ADMISSIBLE: `ka` does not syntactically require a co-present `la-`.** When `ka` appears with no `la-`, it marks the agentive character of the event — the action was intentional — without specifying the actor. This is the **intentional passive**: `lo-{patient}  ka-{predicate}  ti-de` = X was (intentionally) Q-ed by someone, agent unspecified.
     
     **Core contrast (S560 vs S561):**
@@ -58,7 +58,7 @@ title: "Agentless and Passive Clause Test"
 `ro-ra-ki-mu  lo-ra-su  ka-be  ti-de`
 *Instrument-present passive: "The structure was built using the engine.*
 
-??? note "Notes"
+!!! annotation "Notes"
     `ro-ra-ki-mu` = instrument prefix (`ro-`) + engine (`ra-ki-mu`). No `la-` agent. Instrument is explicit; agent is absent. This tests whether `ro-` is a satellite argument independent of `la-`. **ADMISSIBLE: instrument clauses (`ro-`) do not require a co-present agent clause (`la-`).** Tools are never agents in Tonesu — the grammar explicitly blocks `la-ra-ki-mu` for "the machine did X" (machines are instruments, not volitional actors). When the instrument is named but the agent is not, the correct form is `ro-{tool}  lo-{patient}  ka-{predicate}`. This is the instrument-present passive.
 
 <span id="S563"></span>
@@ -66,7 +66,7 @@ title: "Agentless and Passive Clause Test"
 `ra-su : ka-be  ti-de`
 *Topic-frame passive: "As for the structure: [it was] built.*
 
-??? note "Notes"
+!!! annotation "Notes"
     Patient extracted to topic position via the `:` frame. `ra-su` = topic NP (no `lo-` prefix — the `:` frame positions it outside the clause-internal argument slots). `:` = topic-comment boundary. `ka-be  ti-de` = predicate only; the patient slot of `ka-be` is filled implicitly by the topic NP. **ADMISSIBLE: topic-frame passivization is available.** The patient is in topic position; the comment clause is the bare passive predicate. No new rule is needed — the existing Pattern 3 ellipsis (argument drop when fully recoverable) licenses the patient drop inside the comment clause when the topic IS the patient. One spelling out: `ra-su : lo-ra-su ka-be ti-de` (topic + full passive) would be redundant; idiomatic Tonesu prefers the topic-drop form shown here.
 
 <span id="S564"></span>
@@ -74,7 +74,7 @@ title: "Agentless and Passive Clause Test"
 `la-li-pu  ka-be  lo-su  ti-de`
 *Institutional active: "The council enacted the law.*
 
-??? note "Notes"
+!!! annotation "Notes"
     `li-pu` = person-collective = council/assembly; `su` = structure/order = law; `ka-be` = intentional creation. Fully active with an institutional agent. The same event in English would often appear as a passive: "a law was enacted." But in Tonesu, when the institutional agent is known and relevant, the active form with a collective agent (`la-li-pu`) is the natural expression. The intentional passive `lo-su  ka-be  ti-de` remains available but is pragmatically appropriate only when institutional authorship is unknown or deliberately suppressed. **Finding: in law, covenant, and formal institutional discourse, Tonesu prefers the active form with the institution named over the agentless passive.**
 
 <span id="S565"></span>
@@ -82,7 +82,7 @@ title: "Agentless and Passive Clause Test"
 `la-si-su  ko  {la-Elohim  ne  go-no-fe}`
 *Archival containment: "it is written that…*
 
-??? note "Notes"
+!!! annotation "Notes"
     `si-su` = signal-structure = written record/document. `ko` = containment. `{la-Elohim ne go-no-fe}` = propositional content in structural braces (scope bracket). The record is in `la-` position — it is the container-agent of the containment predicate. **Finding: the Tonesu equivalent of "it is written that X" is structurally active.** The form is `la-{document}  ko  {X}` = "the document contains X." This is not a passive but a containment predicate with the text itself as the `la-` container-agent. There is no agentless equivalent for the archival-passive; the document occupies `la-`. Scripture-to-Tonesu translation always uses this form for "it is written / it is recorded."
 
 <span id="S566"></span>
@@ -90,7 +90,7 @@ title: "Agentless and Passive Clause Test"
 `lo-pa  be`
 *Pure emergence: "The world comes into being." (Genesis register)*
 
-??? note "Notes"
+!!! annotation "Notes"
     `pa` = space/place/presence = the world (as spatial totality). `be` = growth/expansion/becoming. No `ka`, no `la-`, no `ti-de` (untensed). This is the **emergence form**: patient-slot entity + bare `be`. No intentional cause is encoded; the world grows into existence from no specified cause. The absence of `ti-de` gives a jussive/habitual/present reading alongside the declarative — `lo-pa  be` can mean "the world is coming into being" (present), "let the world be" (fiat), or "the world comes into being" (general/habitual). All three readings are structurally identical; context disambiguates. This is the appropriate form for creation-fiat utterances in Genesis register (Hebrew יְהִי, jussive). **ADMISSIBLE: `lo-X  be` = emergence; no agent, no intentionality marker.**
 
 <span id="S567"></span>
@@ -98,7 +98,7 @@ title: "Agentless and Passive Clause Test"
 `la-Elohim  ka-be  lo-pa`
 *Divine active creation: "God creates the world.*
 
-??? note "Notes"
+!!! annotation "Notes"
     Explicit divine agent. `la-Elohim` = agent; `ka-be` = intentional creation; `lo-pa` = patient (world/space). No `ti-de` to match the untensed S566 for clean comparison; add `ti-de` for past-tense biblical reading (`la-Elohim ka-be lo-pa ti-de` = Genesis 1:1 past register). The contrast with S566 isolates the effect of agent presence.
     
     **Four-way passive typology (core result of PAV-001):**
@@ -117,7 +117,7 @@ title: "Agentless and Passive Clause Test"
 `lo-to-si  ka-ki  ti-de`
 *Sacred-historical passive: "A teaching was transmitted.*
 
-??? note "Notes"
+!!! annotation "Notes"
     `to-si` = knowledge-signal = transmitted teaching/doctrine. `ka-ki` = intentional action of moving = intentional transmission/conveyance. `ti-de` = past. No explicit agent. This sentence asserts that the doctrine was transmitted by deliberate human action (not mere natural spread) without specifying who transmitted it. Appropriate for "it was taught that X," "the tradition handed this down," or "this was transmitted through the generations" — the canonical sacred-historical passive of scripture and oral tradition. **ADMISSIBLE: intentional passive in theological documentary register confirmed.**
     
     For propositional content add containment: `la-to-si  ko  {X}` = "the teaching contains X" (structurally active, same pattern as S565).

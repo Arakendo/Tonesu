@@ -17,7 +17,7 @@ title: "Grammar Pattern Probes"
 `la-li  vo`
 *A person has worth.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Type 2 predication** (`la-X  Q`): agent-slot subject, quality predicate. X is the
       structural bearer of Q. The claim is intrinsic — it holds regardless of circumstance.
     - Third `la-X  Q` sentence in corpus (after S030: `la-to-su-mu  vo` — archive has value;
@@ -33,7 +33,7 @@ title: "Grammar Pattern Probes"
 `la-su-mu-li  ka  vo`
 *The engineer acts with quality/care.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Type 3 predication** (`ka  Q`): the quality (`vo`) follows the action marker `ka` and
       characterizes *how* the action is performed — a manner modifier.
     - Second full Type 3 attestation (after S031: `la-li-pu  ka  ru`). Pattern confirmed:
@@ -49,7 +49,7 @@ title: "Grammar Pattern Probes"
 `la-si-mu  no-ru`
 *The document lacks coherence.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Type 2 predication, negated** (`la-X  no-Q`): the document *holds* the property
       of non-unity — a structural deficiency, not a transient state.
     - Explicit contrast with C002 A1 (`lo-si-mu  no-ru` = "the relay is in a non-unified
@@ -71,7 +71,7 @@ title: "Grammar Pattern Probes"
 `la-wi-re-su  ta-re-ti  ka-ne`
 *The committee meets at each recurring interval.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Time-adverbial strategy** (`ta-re-ti`): frequency is expressed as a time phrase in
       the `ta` slot. The action (`ka-ne`) is a discrete event; the `ta-re-ti` positions it
       as recurring. This is exactly S029 Attempt A extended to an institutional subject.
@@ -87,7 +87,7 @@ title: "Grammar Pattern Probes"
 `la-ze  re-ka-se`
 *She habitually records observations.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Morphological-aspect strategy** (`re-VERB`): `re` prefixes the verb compound
       (`ka-se` = action:perceive/observe). The repetition is internal to the action —
       a dispositional claim about how she characteristically behaves.
@@ -107,7 +107,7 @@ title: "Grammar Pattern Probes"
 `lo-to-su-mu  re-ka-de-be  ti-de`
 *The archive was habitually maintained [in the past].*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `re-ka-de-be` = repeat + action + repair (`de-be` = W035 = decay-then-grow = repair).
       First triple-prefix action compound: `re-` (aspect) + `ka-` (action) + `de-be` (root).
       Composes cleanly left to right: repeat(action(repair)) = habitual-repair-action.
@@ -127,7 +127,7 @@ title: "Grammar Pattern Probes"
 `go-si-be  du-ka-si-ru`
 *Signal-growth caused transmission-success.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **The boundary analysis:** `go [lo-si  be]` is a standard subordinate cause clause.
       It closes when `du` appears — `du` is a matrix-level frame word, not a
       clause-internal particle. The parser recognizes `du` as the boundary of the `go`
@@ -150,7 +150,7 @@ title: "Grammar Pattern Probes"
 `go [lo-to-su-mu  de]  du [lo-to-su  de]`
 *If the archive decays, organized knowledge decays.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Classic conditional: the `go [...]` premise is a posited (not asserted) condition;
       `du [...]` is the consequence that would follow. No outer matrix needed.
     - Both clauses have their own `lo`-patient and `de` predicate. Each clause is
@@ -167,7 +167,7 @@ title: "Grammar Pattern Probes"
 `go [la-su-mu-li  lo-mu  ka-de-be]  du [lo-su  be]`
 *Because the engineer repaired the device, the system recovered.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Both clauses have full participant structure: cause-clause has `la`, `lo`, `ka`;
       result-clause has `lo`, predicate. No ellipsis required.
     - **Confirmation of the boundary rule:** `du` signals the end of the `go`-clause and

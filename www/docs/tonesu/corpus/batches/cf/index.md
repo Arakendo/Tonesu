@@ -17,7 +17,7 @@ title: "Core Function Attestation"
 `la-mi  to  [go [lo-ra-ki-mu  no-de  ti-de]  la-ki-pa-mu  ki  lo-pa-wi  ti-de]`
 *My conceptual model: given no engine failure, the ship would have reached its           destination.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `pa-wi` = place-will = destination. Head-final: `wi` (will/intent) is head; `pa`
       (place) modifies it as an intentional place — the place one is heading toward. First
       use; compound candidate (W088).
@@ -57,7 +57,7 @@ title: "Core Function Attestation"
 `la-mi  to  [go [lo-zo-li  se  lo-si  ti-de]  la-zo-li  ka  fe-si  lo-li-pu  ti-de]`
 *My conceptual model: given the person having perceived the signal, she would have           issued a warning to the crew.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `li-pu` = plural-person = crew/collective. `lo-li-pu` = patient:collective = directed
       to the crew. The `lo-` particle on the recipient argument of `ka  fe-si` marks the
       crew as both patient and target of the warning action.
@@ -83,7 +83,7 @@ title: "Core Function Attestation"
 `la-mi  to  [go [lo-to-re-su  to-fe-su-ki  ti-de]  lo-ne-fe  de  ti-de]`
 *My conceptual model: given [the doctrine having been published], the relational           tension would have dissolved.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `to-re-su` = W064 (standing doctrine/policy). `to-fe-su-ki` = the inchoative
       publication event: the doctrine crosses the epistemic threshold to published `to-su`
       status. From semantic-map.md § Domain 6. Not yet in derived.md — compound candidate
@@ -111,7 +111,7 @@ title: "Core Function Attestation"
 `to [go [lo-ra-ki-mu  de  ti-de]  lo-ki-pa-mu  pa-ki  ti-de]`
 *In the conceptual/hypothetical domain: if the engine had failed, the ship would           have drifted.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Grammar move attempted:** `to` in the frame-setter role — the entire bracketed
       scenario is marked as non-actual/conceptual. No stance-holder (`la-X`) is named.
       The `to [...]` construction claims: "this is a conceptual scenario, not an asserted
@@ -146,7 +146,7 @@ title: "Core Function Attestation"
 `to-go [lo-ra-ki-mu  de  ti-de]  lo-ki-pa-mu  pa-ki  ti-de`
 *Counterfactually: if the engine had failed, the ship would have drifted.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `to-go` = conceptual-causal = hypothetical-causal frame marker. Head-final: `go`
       (cause/origin) is the head — this IS a causal/conditional frame; `to` (conceptual
       pattern) modifies it as hypothetical/non-actual. The compound marks the entire
@@ -192,7 +192,7 @@ title: "Core Function Attestation"
 `to-go [lo-to-re-su  to-fe-su-ki  ti-de]  lo-ne-fe  de  ti-de`
 *Counterfactually, given that the doctrine had been published, the relational           tension would have dissolved.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - The `to-go` frame removes all reference to any speaker's epistemic state. The
       sentence makes a bare counterfactual assertion about institutional causation: if
       doctrine-publication had occurred, the dispute would have dissolved. This is the
@@ -214,7 +214,7 @@ title: "Core Function Attestation"
 `to-go [la-zo-li  se  lo-si  ti-de]  la-zo-li  ka  fe-si  lo-li-pu  ti-de`
 *Counterfactually: given that the person had received the signal, she would           have issued the warning to the crew.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - The social-domain Path C sentence sketched in the CF-001 verdict (`to-go [lo-zo-li
       se  lo-si  ti-de]  la-zo-li  ka  fe-si  lo-li-pu  ti-de`) is committed here with one
       correction: premise uses `la-zo-li` (perspective-anchor agent) not `lo-zo-li`
@@ -236,7 +236,7 @@ title: "Core Function Attestation"
 `la-to-fe-su  to  [to-go [la-zo-li  se  lo-si  ti-de]                              la-zo-li  ka  fe-si  lo-li-pu  ti-de]`
 *The investigation body asserts as its model: had the person received the           signal, she would have issued the warning to the crew.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - First corpus attestation of the attributed counterfactual form:
       `la-X  to  [to-go [premise]  result]`. The embedded proposition is S155; the outer
       clause assigns epistemic ownership to `to-fe-su` (the epistemic standards/investigation
@@ -260,7 +260,7 @@ title: "Core Function Attestation"
 `to-go [lo-ra-ki-mu  de]  lo-ki-pa-mu  pa-ki`
 *Were the engine to fail, the ship would drift. — Future hypothetical.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Minimal contrast pair with S130 (past counterfactual):
       - S130: `to-go [lo-ra-ki-mu  de  ti-de]  lo-ki-pa-mu  pa-ki  ti-de` — past; `ti-de` in
         both premise and result

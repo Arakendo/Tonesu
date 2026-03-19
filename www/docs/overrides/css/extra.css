@@ -266,6 +266,38 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
   color: var(--md-accent-fg-color);
 }
 
+/* ── Corpus annotation (sentence notes) ─────────────────── */
+.md-typeset .admonition.annotation {
+  border: 1px solid var(--md-typeset-table-color);
+  border-left: 3px solid var(--md-default-fg-color--lighter);
+  border-radius: 0 4px 4px 0;
+  background: color-mix(in sRGB, var(--md-code-bg-color) 40%, var(--md-default-bg-color));
+  box-shadow: none;
+  font-size: .82rem;
+  padding: .5rem .8rem;
+  margin: .4rem 0 .8rem;
+}
+
+.md-typeset .admonition.annotation > .admonition-title {
+  background: none;
+  border: none;
+  padding: 0 0 .2rem;
+  margin: 0;
+  font-size: .75rem;
+  font-weight: 600;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: var(--md-default-fg-color--lighter);
+}
+
+.md-typeset .admonition.annotation > .admonition-title::before {
+  display: none;             /* no icon */
+}
+
+.md-typeset .admonition.annotation p {
+  margin: .2rem 0;
+}
+
 /* ── Derivation block (sandbox, examples) ───────────────── */
 .tn-derive {
   background: color-mix(in sRGB, var(--md-code-bg-color) 70%, var(--md-default-bg-color));

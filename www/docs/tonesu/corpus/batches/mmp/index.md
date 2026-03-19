@@ -17,7 +17,7 @@ title: "Moral & Metaphysical Paradox"
 `la-li  ka  vo-de  lo-li`
 *A person acts to destroy another person's value.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `vo-de` (value-decay) as a directed action predicate: the action's character is
       value-diminishment toward the patient. Intentionality is supplied by `ka` (deliberate
       action root). Without `ka`, the same construction would be a stative description; with
@@ -33,7 +33,7 @@ title: "Moral & Metaphysical Paradox"
 `la-li  de  lo-wi-fe-su`
 *The person undermines the rule. / The agent violates the law.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **`wi-fe-su` (W100 extension) first corpus attestation.** `wi-fe` = willed boundary
       (W100); `wi-fe-su` = willed-boundary-structure = rule / law as institution. `de`
       as predicate: the agent causes the rule to decay/lose force — violation without a
@@ -47,7 +47,7 @@ title: "Moral & Metaphysical Paradox"
 `la-li  to  [no-go [lo-zo  de]  lo-li  ru]`
 *The person believes: despite the body dying, the person persists.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **`no-go` in an epistemic frame over a metaphysical claim.** The concessive `no-go`
       (S180–S181) is here embedded inside a `to`-attribution: the language does not assert
       the afterlife claim; it asserts that someone *holds it as a model*. Tonesu makes no
@@ -64,7 +64,7 @@ title: "Moral & Metaphysical Paradox"
 `la-li  to  pu`
 *The person has all knowledge. / The agent knows everything.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `pu` (plurality/collective = all, the complete set) in the proposition slot of a
       `to`-attribution: the agent's model covers the totality. First use of `pu` as the
       direct proposition of an epistemic predication.

@@ -19,7 +19,7 @@ title: "Fallacy-Resistance Corpus"
 `P1:  lo-ra  to-fe  ne            P2:  lo-wi-fe  lo-la-wi-li  go  ne            C:   (lo-ra  lo-la-wi-li  go  ne)`
 *P1: Force obeys an epistemic regularity.            P2: Normative rules require a willer.            C:  (So it is claimed: force requires a willer.)*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `to-fe` (W028) = epistemic boundary / natural regularity = "law of physics." `wi-fe` (W100) = will-imposed limit / normative rule = "law as obligation." These are structurally distinct compounds in Tonesu — no single lexical item spans both meanings. The equivocation requires explicitly substituting one compound for the other mid-argument.
     - The `()` frame on C marks the conclusion as an unattributed claim — a reported inference rather than a demonstrated consequence. A speaker presenting C bare (without `()`) would be asserting first-person certainty for what is actually a non-sequitur, making the epistemic overreach visible to any interlocutor.
     - **Structural prevention:** the fallacy exploits a single English word ("law") covering two distinct concepts. Tonesu assigns these to `to-fe` and `wi-fe` — structurally non-identical forms. The equivocating inference `to-fe → wi-fe →` willer-required is impossible without an explicit identity bridge (`to-fe  ne  wi-fe`), which a speaker would have to assert and defend.
@@ -30,7 +30,7 @@ title: "Fallacy-Resistance Corpus"
 `go  lo-zu  ne-li  no  ,  lo-zu  wi-de-li  ne`
 *Because you are not a bonded ally, you are an adversary.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Three-way vocabulary: `ne-li` = bonded relational person (neighbor / ally); `no-ne-li` = person without bond (stranger); `wi-de-li` (W124) = person of opposing will (adversary/enemy). The false dichotomy collapses the three into two by treating `no-ne-li` as equivalent to `wi-de-li`. Tonesu's compositional roots make the three categories lexically distinct.
     - `go  lo-zu  ne-li  no  ,  …` = "because [you are not a ne-li]": the fallacious move is the `go` (causal frame) — grounding adversary-status in the absence of bond.
     - `no-go` in the correction = not-therefore = explicit denial of the causal frame. `no-go  lo-zu  wi-de-li  ne` = "it does not follow that you are an adversary." This directly targets the `go`-relation the false dichotomy relied on.
@@ -41,7 +41,7 @@ title: "Fallacy-Resistance Corpus"
 `A:  lo-to-re-su  to  ,  go  la-be-go-li  lo-ze  si-past            B:  la-be-go-li  lo-ze  si-past  ,  go  lo-to-re-su  si`
 *A:  The scripture is confirmed — because the creator attested it.            B:  The creator attested it — because the scripture says so.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Each sentence uses `go` (causal/grounding particle) to ground one claim in the other. A-grounds-B (scripture's truth depends on creator's attestation); B-grounds-A (creator's attestation depends on scripture's claim). The loop is fully explicit: two `go`-frames pointing back at each other.
     - **Grammar surfacing the circularity:** in Tonesu, `go [cause]  [effect]` asserts a genuine grounding relation — the `go` claim can be challenged on its own merits. When two `go`-relations mutually ground each other, both can be laid side by side and the absence of any independent `go`-ground becomes visible. An interlocutor asks: is there a third sentence — one that grounds either A or B without using the other?
     - Well-formed alternative: break one link. For example, replace B's `go  lo-to-re-su  si` with an independent grounding: `la-mi  se  lo-be-go-li` = "I perceived [the creator directly]" — a first-person perceptual claim (`se`) outside either circular premise. Whether that claim is defensible is a separate question; it at least breaks the loop.
@@ -52,7 +52,7 @@ title: "Fallacy-Resistance Corpus"
 `(la-to-li  lo-to-su  no-to)  ,  (du  lo-to-su  no-be)`
 *(The scholar reportedly does not accept the model.)            (Therefore, reportedly: the model does not hold.)   [humble/correct form]*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `to-li` (W003) = scholar/expert/knower. `to-su` (W030) = theory/model. `no-to` = does not confirm (negation of the epistemic certainty predicate). `no-be` = does not hold / does not exist.
     - The *correct* form (first sentence) keeps both the cited authority's stance and the derived conclusion inside `()`. Both are reported. Neither is the speaker's first-person certainty. An honest speaker using a cited authority wraps both the report and any inference in `()`.
     - The *problematic* form (second sentence) asserts `la-mi  to` (I confirm) as the matrix predicate, then grounds it with a `go`-clause wrapping `()` evidential content. The `go` here bridges a `()` premise to a `la-mi  to` conclusion — moving from reported/uncertain to personally-certain. The grammar does not block this, but the visible structure makes the move explicit: the speaker is claiming certainty from an anonymous report.
@@ -63,7 +63,7 @@ title: "Fallacy-Resistance Corpus"
 `ta  [la-mi  lo-ma-no-de  mu-ka-past]  ,  la-mi  zo-de-fe-past`
 *When I used medicine, my illness ended.   [temporal frame: ta]*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `ma-no-de` (W046) = medicine / treatment substance. `mu-ka` (W022) = use/operate an artifact. `zo-de-fe` = organism-fatigue-boundary = the endpoint of organism-fatigue = recovery.
     - `ta` and `go` are structurally distinct clause introducers in Tonesu (§Subordinate Clauses). `ta` introduces a temporal co-occurrence frame without causal implication. `go` introduces a genuine causal or grounding claim.
     - **The fallacy surfaced:** the post hoc argument *substitutes* `go` for `ta`. In English, "when X happened, Y happened, therefore X caused Y" — the causal claim is implicit and smuggled through the temporal conjunction. In Tonesu a speaker must **commit** to one of the two clause introducers. Using `go` is an explicit claim of causation, disputable on its merits. Using `ta` is an honest assertion of temporal co-occurrence without causal weight.
@@ -74,7 +74,7 @@ title: "Fallacy-Resistance Corpus"
 `lo-ko-mu  :  nu-de  ne`
 *As for each component: it has small mass.   [part claim]*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `ko-mu` (W052) = container-artifact = the bounded component unit. `su-ru` (W085) + `mu` = `su-ru-mu` = integrated-whole-artifact = the assembled machine as a unified structure. Two lexically distinct topic NPs.
     - `:` (topic frame) forces the speaker to name the referent of each claim. The part claim has topic `lo-ko-mu`; the whole claim has topic `lo-su-ru-mu`. The structural shift between the two `:` declarations makes the composition move explicit: you changed what you're talking about.
     - The `()` frame on the conclusion marks it as an unestablished inference — not a first-person certainty. Composition from parts to whole requires justification beyond the part-property, and `()` signals that the speaker is not personally vouching for the inference.
@@ -86,7 +86,7 @@ title: "Fallacy-Resistance Corpus"
 `la-wi-zo  lo-wi-zo  de    [descriptive]`
 *Wild animals kill each other.   [de — descriptive fact]*
 
-??? note "Notes"
+!!! annotation "Notes"
     - The descriptive sentence uses `de` (primitive: decrease/decay) as the bare predicate — a natural process, no agent intentionality marker. The normative term is `no-ka-de-zo` (W128 negated) = not-deliberately-kill = the prohibition against murder. `no-ne` = does not hold (negation of the relational predicate).
     - The inferential move is wrapped in `()`: the claim that the descriptive fact grounds the normative conclusion is presented as a reported assertion, not something the speaker is directly vouching for.
     - **Hume's guillotine:** in Tonesu, `de/be/ki` are descriptive predicates (process, growth, motion); `vo`, `wi-fe`, `ka-to-fe`, and `no-ka-de-zo` are normative predicates (value, rule, judgment, prohibition). A `go` clause bridging a descriptive predicate to a normative conclusion is an explicit claim that the fact *grounds* the norm. This bridge itself requires justification — it cannot be taken for granted. Tonesu forces the speaker to state the `go` claim explicitly; natural language often leaves the bridge implicit.
@@ -97,7 +97,7 @@ title: "Fallacy-Resistance Corpus"
 `la-mi  si  lo-ti-be  lo-ma-de`
 *I hypothesize: in the future, material resources will decline.   [si — proposed/possible]*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `la-mi  si  lo-X` = I signal/propose X — the speaker's epistemic predicate is `si` (hypothesis / proposal / possibility). `la-mi  to  lo-X` = I confirm X — the epistemic predicate is `to` (organized knowledge / certainty). These are structurally distinct predicates on `la-mi`.
     - `ti-be` = future time (W040). `ma-de` = matter-decrease = resource depletion. Compositional.
     - The modal fallacy is the bare `du` (therefore) claiming to elevate `si` to `to`. In Tonesu, moving from `la-mi  si` to `la-mi  to` requires genuine new grounding — additional perception (`la-mi  se  lo-X`), a signal from a confirmed source, or a logical derivation from established knowledge. The `du` particle alone does not provide this.
@@ -131,7 +131,7 @@ title: "Fallacy-Resistance Corpus"
 `lo-to-si-ze  :  la-mi  lo-ze  ka-to-fe  ,  no  lo-ze`
 *As for her proposition — I judge it, not her.   [correct form]*
 
-??? note "Notes"
+!!! annotation "Notes"
     - S368 is the **first corpus attestation of the `:` (topic frame) operator.**
     - The first sentence sets the topic as `lo-to-si-ze` (her proposition / the claim she made). `ka-to-fe` (W122) = deliberate epistemic bounding = to judge/evaluate. The topic frame declares: I am evaluating the *proposition*, not the *person*.
     - The second sentence shifts the topic to `lo-ze` (her, as person). `ki-pa-mu-be` = large vehicle (compositional: `ki-pa-mu` W086 = vehicle + `be` = growing/large). The irrelevant personal fact is now explicitly framed as the topic.
@@ -152,7 +152,7 @@ title: "Fallacy-Resistance Corpus"
 `go  [la-ka-li-su  lo-zo-li  wi-ne  ne]  ,  no  la-ze  du  lo-to-no-fe  ka`
 *Motte-and-bailey: strong claim retreating to weak claim.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `:` forces explicit predicate commitment at every defensive move. Bailey predicate = `to-no-fe  ka` (unlimited-knowledge-action = total authority); Motte predicate = `wi-ne  ne` (will-relation holds = has intentional engagement). These are structurally distinct predicates.
     - A listener can demand at any point: *which predicate are you defending?* The `:` framing makes this a grammatically answerable question, not a rhetorical dispute.
     - `no  la-ze  du  lo-to-no-fe  ka` = "it does not produce unlimited-authority-action" — establishing `wi-ne  ne` yields only `wi-ne  ne`, no more.
@@ -168,7 +168,7 @@ title: "Fallacy-Resistance Corpus"
 `la-mi  wi-fe  be  :  lo-ra-ne  se-to`
 *Moving the goalposts: retroactive condition change.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `wi-fe  be` = W100 `wi-fe` + `be` inchoative = rule-comes-into-existence. This is the structural tell: the standard has been replaced. The old condition was inside `()` (attributed, reported); the new condition is bare-asserted in the present. No grounds are given for the change.
     - The asymmetry is legible: `()` premise → met condition → ungrounded bare `wi-fe  be`. An interlocutor can ask: *what warrants the new condition entry?*
     - `to-ki` = knowledge-movement = epistemic approach to certainty (compositional `to` + `ki`; new compound, ⚠️ proposed).
@@ -186,7 +186,7 @@ title: "Fallacy-Resistance Corpus"
 `go  [lo-wi-fe  de]  ,  la-mi  no-se  lo-ne-ki  de`
 *Slippery slope: unjustified causal cascade.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - The fallacious chain has one bare `go [X]` (speaker certifies the initial causal premise), then wraps every subsequent step in `(du  …)` — each marking a further alleged-therefore. In English, "then Y follows, then Z, then catastrophe" sounds like a continuous causal chain. In Tonesu, the speaker must use `go [X] , Y` for each certified step. Here the speaker wrote `go [X]` once and stacked four `(du...)` consequences — the uncertainty structure is directly visible.
     - The correction uses `no-se` (W086: no perceptual basis) to mark the first inferential gap: even granting the initial premise, the next step has no grounding.
     - For a legitimate causal chain, each step would need its own independent `go`-grounding before being asserted bare.
@@ -204,7 +204,7 @@ title: "Fallacy-Resistance Corpus"
 `la-mi  lo-zo-ne-du  pa-ki`
 *Appeal to emotion: affective fact to normative conclusion.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - The illegitimate form presents an affective fact (`lo-fa  de`) and wraps the specific responsive action in `(du  …)`, marking the causal leap as alleged. The emotional state alone does not specify *which* response is warranted — multiple responses are possible, none generated automatically by `fa  de`.
     - The legitimate form surfaces the minimum chain: (a) the affective state as fact, and (b) the agent's declared value commitment (`vo-wi`). Only with both in play does the action receive warrant. A fully explicit form would add a third `go`-link: the empirical claim that this specific action reduces `fa-de`.
     - **Design insight:** the `go`-chain requirement forces a speaker to distinguish *the state that triggers feeling* from *the warrant for a specific response*. Emotional facts belong in the chain; they do not bypass it.
@@ -221,7 +221,7 @@ title: "Fallacy-Resistance Corpus"
 `(la-zu  lo-to-de  ka-past)  ,  to-si  [la-ze  de-fe-past]`
 *Loaded question: smuggled presupposition.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - The loaded form embeds `la-zu  lo-to-de  ka-past` (you were deliberately distorting knowledge) directly inside the `to-si` question frame as if it were established. The listener is invited to answer the question, which implicitly accepts the presupposition.
     - The well-formed form extracts the presupposition, wraps it in `()` (contested/reported, not established), then asks only about the terminus of that alleged practice. A listener can now step back and challenge the `()` premise before engaging with the question.
     - This confirms the general principle: any `to-si` question that contains a contestable premise requires that premise to be made explicit as `()` before the question is well-formed. The mechanism is identical to the one that governs bare assertion hygiene.
@@ -263,7 +263,7 @@ title: "Fallacy-Resistance Corpus"
 `to-si  [la-zu  lo-wi-fe  de-fe-past]`
 *Nested loaded question: three bundled presuppositions.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Each `()` block is an independent presupposition — independently contestable. The listener can accept any subset and reject the rest before engaging with the question about termination.
     - Extraction has no required ordering — each `()` block is an independent premise and may appear in any sequence. Discourse convention may prefer a foundational-to-derivative alignment (authority-holding → harmful actions → relational consequences) but this is not a grammatical rule. The ordering here (relational decay → actions → authority) reflects the natural challenge sequence rather than a deduction order. Both orderings are well-formed.
     - **Scaling result:** `()` extraction scales to three simultaneous presuppositions without grammatical strain. Each `()` block is its own clause with standard grammar. The question `to-si [...]` following three `()` blocks is unambiguous: the question is about whether the practice described in aggregate ended.
@@ -282,7 +282,7 @@ title: "Fallacy-Resistance Corpus"
 `go  [la-ka-li-su  lo-zo-li  vo-wi-fe  ne]  ,  no  la-ze  du  lo-to-no-fe  ka`
 *Double topic-substitution: motte-and-bailey with intermediate step.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - The double-retreat is the harder case. It is common in practice because a speaker forced off bailey-A does not concede to C directly — they retreat to an intermediate B that sounds like a reasonable position while still being much closer to A than to C.
     - `:` forces explicit predicate commitment at every step: A, B, and C are structurally distinct. The correction needs two separate blocking statements — one per retreat. This is more expensive rhetorically but unavoidable: each step is a distinct claim and earns a distinct block.
     - **Scaling result:** `:` scales to multi-step substitution sequences. Each step requires either defense of that predicate on its merits or an explicit block. The grammar does not allow the speaker to preserve the inferential benefit of A while standing on C — each `:` frame commits to exactly one predicate.
@@ -303,7 +303,7 @@ title: "Fallacy-Resistance Corpus"
 `(du  lo-ka-no-fe  de)  ,   (du  lo-ne-su  be-no-fe)`
 *Compound slippery slope: mixed established and unestablished links.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - The fallacious form has an invisible legitimacy gradient: the first link may have some empirical grounding while the last two are fantasy. In English (and most natural languages) these are strung together with "and then" at equal syntactic weight, hiding the gradient.
     - The corrected form uses per-link epistemic marking: `la-mi  se` (I have some basis), `la-mi  no-se` (I have no perceptual basis), then `(du  …)` for the two ungrounded final links. A listener can evaluate each link independently.
     - **Scaling result:** `go`-chaining + per-link epistemic predicates handle mixed-reliability cascades. The grammar forces the speaker to either commit to each link or visibly hedge it. There is no syntactic mechanism for distributing weight across a chain uniformly when the weight is uneven.
@@ -320,7 +320,7 @@ title: "Fallacy-Resistance Corpus"
 `go  (la-ka-li-su  (la-to-li  lo-to-su  ne)  re-ka)`
 *Nested evidential attribution: reported-within-reported.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - `()` nesting: an outer `()` makes the entire inner clause evidential; the inner `()` separately marks the scholar's attribution. The result is a committed two-step provenance chain, completely readable without special notation. The outer `()` means: this reported-report is itself the content of the evidential frame.
     - **Scaling result:** `()` stacks cleanly. `(A  (B)  ka)` = "A did some action regarding [the reported content B]." The inner `()` marks B as uncertified from the outer speaker's perspective; the outer `()` marks the whole reported-action as uncertified from the ultimate speaker's perspective.
     - `re-ka` = recurring-action = announced/repeatedly stated (compositional `re` repetition + `ka` action; new compound ⚠️ proposed).
@@ -340,7 +340,7 @@ title: "Fallacy-Resistance Corpus"
 `go  [la-na-Kael  lo-to-si-ze  se  ,  go  (la-na-Ren  lo-to-si-ze  si)]`
 *Nested modal inflation: epistemic ladder across multiple agents.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Each elevation step uses `go [previous-epistemic-stance]` to ground the next. This forces the chain to be fully linearized: there is no way to achieve multi-agent epistemic inflation without writing out the complete sequence of `go`-links.
     - The speaker's diagnosis sentences exactly retrace the chain in reverse, demonstrating that the chain from `si` to `to-su` across three agents has no independent grounding — each link only borrows from the link below it.
     - **Scaling result:** the `go`-chain + epistemic predicate system (`si`/`se`/`to`) scales to multi-agent epistemic inflation. The grammar does not prevent the inflation — but it requires each agent to explicitly commit to their elevation step, making the full chain auditable and the borrowed grounding visible.
@@ -389,7 +389,7 @@ title: "Fallacy-Resistance Corpus"
 `no  la-mi  to  lo-ka-li-su  de`
 *Campaign opening: evidential laundering.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - The laundering step: `()` → bare `la-mi  to`, identical content. The `()` marks the source as reported; the bare `to` asserts it as personal certainty without new evidence. The diagnosis restores the distinction: `la-mi  to  lo-to-fe-su  lo-ze  re-ka` = "I am certain [only] that the institution announced it."
     - This is FAL-001 S369 (appeal to authority) compressed into a political opening. The mechanism is identical; only the source type differs (standards body rather than a named scholar).
     - `to-fe-su` = epistemic standards framework/body (W072 ✅ — already registered; see FAL-F-006 for deferred-registration history).
@@ -403,7 +403,7 @@ title: "Fallacy-Resistance Corpus"
 `na-Kur  :  la-ze  lo-to-de  re-ka`
 *Policy challenge deflected: topic substitution.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - The challenge asks for the predicate of `lo-ka-li-su-mi`. The response opens with a thin affirmation (`se  ne` = I hold it with perceptual basis) — noticeably weaker than the opening `to` in S384 — and then immediately substitutes `:` topic to `na-Kur`.
     - The `:` shift is structurally legible: `lo-ka-li-su-mi  :` (policy topic) → `na-Kur  :` (person topic). The original question was about the policy predicate; the response changed the subject. The listener can demand: "return to `lo-ka-li-su-mi  :`."
     - `la-ze  lo-to-de  re-ka` is a bare accusation — not inside `()`. An interlocutor can require evidential wrapping: `(la-ze  lo-to-de  re-ka)` before the charge is contestable rather than merely asserted.
@@ -418,7 +418,7 @@ title: "Fallacy-Resistance Corpus"
 `(du  la-ka-no-fe  lo-ne-su  ka-ki)`
 *Catastrophe cascade from weak economic signal.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - One grounded input (`la-mi  se` = some perceptual basis, which is honest), then three consecutive `(du  …)` outputs. The political speech does not fabricate its evidence entirely — the cascade's insidiousness is that it borrows one real link to launch three imaginary ones.
     - `de-fe` used here for governance collapse = "governance reaches its boundary-end." First attested S378 for `wi-fe  de-fe`; second attestation in a different domain confirms productive use.
     - `ra-ma-de` = food-decay = food-supply decline (W144 `ra-ma` + `de`; new compound ⚠️ proposed).
@@ -436,7 +436,7 @@ title: "Fallacy-Resistance Corpus"
 `la-mi  lo-zo-li  ka-li-su  wi`
 *Normative demand: warrant chain skipped.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - The bare demand presents `la-mi  se` (weak perceptual basis) → bare `la-mi  wi  [governance]` (will-claim). Two chains are absent: (a) the factual harm-link connecting food-decay to injury to persons, and (b) the speaker's declared value-anchor warranting this specific response.
     - The corrected form still reaches only `la-mi  wi  [governance]` — not `la-mi  to  [governance is required]`. The normative demand remains the speaker's will-claim; that it is the correct or obligatory response for persons to accept requires further argument.
     - `lo-zo-li  vo  wi` = "toward persons, value, will" = I will in the direction of valuing persons = I hold persons' value as my action-anchor. (Compositional: W148 `zo-li`, `vo`, `wi`.)
@@ -452,7 +452,7 @@ title: "Fallacy-Resistance Corpus"
 `go  [la-mi  se  lo-ra-ma-de  se]  ,  la-mi  lo-zo-li  ka-li-su  wi`
 *The composite speech: structural audit.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Four of five audit items are ❌. The fifth is ⚠️ — a softening that is suspicious but not necessarily fallacious; recalibrating certainty downward when challenged is sometimes honest. The grammar records it; the listener evaluates whether it is honest recalibration or slippage.
     - All five audit items are **independently diagnosable**. None entangle with each other: fixing the laundering does not fix the cascade; fixing the cascade does not fix the topic substitution; fixing the topic substitution does not fix the normative leap. Each failure lives in its own grammatical frame.
     - The compact five-clause speech contains every major FAL-001/002 mechanism in 35 words of Tonesu. The structural audit produces a table with the same density as the original — which is the point. A speech designed to be slippery in natural language becomes a stack trace in Tonesu.
@@ -514,7 +514,7 @@ Note on structure: FAL-001–004 used one sentence per fallacy type. FAL-005 use
 `(du  la-mi  lo-ka-li-su  to)`
 *The propaganda paragraph.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - The paragraph deploys seven distinct failures in nine clauses. It is written to sound like a coherent campaign statement; no individual sentence is syntactically malformed. The structural damage is entirely in the epistemic and relational commitments.
     - `la-to-fe-su-ki` = agent performing a standards-body publication event (W097 ✅, active — `to-fe-su-ki` is the inchoative: the moment a ruling enters published `to-su` status; `la-` marks Kur as agent of that event). W072 and W097 both registered before the FAL series.
 
@@ -522,7 +522,7 @@ Note on structure: FAL-001–004 used one sentence per fallacy type. FAL-005 use
 **S390**
 *Structural audit of S389.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - This is the maximum-density test. FAL-001–004 produced one to three failures per entry; S389 produces six ❌ in nine clauses. The audit table remains legible and all cells are independently actionable.
     - **FAL-F-005 resolved here.** Clause 5 contains a two-layer hearsay chain: `(A  (B)  re-ka)` where A is a named individual and B is an anonymous scholar attribution. The inner `()` marks the scholar's claim as hypothesis; the outer `()` marks Kur's announcement as reported. Both layers are readable and independently contestable. Grammar is well-formed at depth-2 in a composite text. Depth-3 would require one more nesting: `(C  (A  (B)  re-ka)  re-ka)` — grammatically valid, practically a stress test for any reader. Deferred to standalone attestation.
     - **FAL-F-006 resolved here.** `la-to-fe-su-ki` in S389 is the third independent domain attestation of `to-fe-su` (institutional standards body). S383 (epistemic ladder), S384 (campaign opening), S389 (propaganda paragraph — both as agent and as agent-holder). Registration threshold met; see FAL-F-006 resolution note below.
@@ -571,7 +571,7 @@ Note on structure: FAL-001–004 used one sentence per fallacy type. FAL-005 use
 `go  [la-to-fe-su  (la-na-Kael  (la-na-Sura  lo-ka-li-su  de  se)  re-ka)  re-ka]`
 *Depth-3 hearsay chain (standalone).*
 
-??? note "Notes"
+!!! annotation "Notes"
     - **Grammatical result:** well-formed at depth-3. The innermost content is a standard epistemic clause (`la-na-Sura  lo-ka-li-su  de  se`); each wrapper adds an outer agent, the inner clause as patient-in-frame, and `re-ka` as the action predicate. The parse is unambiguous at every depth.
     - **Readability result:** depth-3 is legible but cognitively expensive. The reader must hold three attribution agents simultaneously before reaching the content proposition. A reader encountering this at speed in spoken form would likely lose one layer. In written form with spacing it remains readable — but uncomfortable. This approximately marks the practical ceiling for casual use; depth-4 is formally valid but almost certainly beyond usable readability for most speakers.
     - **Provenance chain structure:** the speaker's diagnosis is the key expressive payoff. The `go [chain]` formulation linearizes the three-agent provenance into a readable sequence and makes it clear that the original claim (`lo-ka-li-su  de`) has zero independent grounding from the speaker's perspective despite three institutional endorsements.
@@ -587,7 +587,7 @@ Note on structure: FAL-001–004 used one sentence per fallacy type. FAL-005 use
 `go  [lo-ka-li-su  de]  ,  la-mi  lo-zo-li  ka-li-su  wi`
 *Depth-3 hearsay laundered into policy conclusion.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - The laundering step at depth-3 is structurally identical to the depth-1 case (FAL-S384). The number of hearsay layers does not change the fix: restore `()` on the conclusion, and assert only the outermost institutional announcement as personal certainty. Extra layers increase the epistemic distance between the original claim and the speaker's certification, making the laundering more egregious — not different in kind.
     - **Adversarial result:** depth-3 hearsay used as warrant for a policy conclusion is auditable in two independent steps. The laundering audit and the normative-leap audit are orthogonal as in all previous batches.
     - This confirms the general principle: **the number of hearsay layers does not affect the audit structure; it only changes how distant the grounding is from the final claim.**
@@ -631,7 +631,7 @@ Note on structure: FAL-001–004 used one sentence per fallacy type. FAL-005 use
 `la-mi  se  lo-ra-ma-de  de`
 *Honest evidential attribution.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Three distinct claims at three different epistemic levels: the council's report inside `()` (not endorsed, just cited); the fact of the announcement as `la-mi  to` (certifiable); the underlying proposition as `la-mi  se` (some basis, honestly weaker).
     - Compare S384: the dishonest version strips `()` and elevates directly to `la-mi  to  lo-ra-ma-de  de`. S393 keeps each level where it belongs.
     - This is not verbose — it is precise. A careful speaker in formal register naturally states what they are certain of separately from what they have partial basis for. In colloquial register, `(la-to-fe-su  lo-ra-ma-de  de  se)  ,  la-mi  se  lo-ze` achieves the same result in two clauses.
@@ -648,7 +648,7 @@ Note on structure: FAL-001–004 used one sentence per fallacy type. FAL-005 use
 `du  la-mi  lo-ra-ma  ka-li-su  wi`
 *Consistent topic maintenance.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Compare S385: the dishonest version opens with a thin affirmation then shifts `:` to an opponent attack. S394 opens the same `lo-ka-li-su-mi  :` frame and stays on it through the full response.
     - The `du` conclusion (`la-mi  lo-ra-ma  ka-li-su  wi`) correctly follows from the stated chain. The response does not assert more than the chain warrants.
     - `lo-ra-ma  ka-li-su` = food-governance = policy-over-the-food-domain (compositional W144 `ra-ma` + W147 `ka-li-su`; ⚠️ proposed).
@@ -661,7 +661,7 @@ Note on structure: FAL-001–004 used one sentence per fallacy type. FAL-005 use
 `la-mi  se  lo-ne-su  mu-be`
 *Grounded causal chain.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - Compare S386: the dishonest version uses one bare `go [premise]` to launch three `(du...)` consequences. S395 provides independent grounding (`la-na-Sura  lo-ra-su  ka  ti-de`) for the harm-link, and the conclusion stays at `la-mi  se` rather than inflating to certainty.
     - The conclusion is exactly one step from the warranted evidence. The speaker does not assert social-fabric collapse or governance failure — only social-fabric harm, and only with `se`.
     - `ra-su` = signal-structure = food-system / supply infrastructure (compositional `ra` signal/force + `su` structure; ⚠️ proposed).
@@ -675,7 +675,7 @@ Note on structure: FAL-001–004 used one sentence per fallacy type. FAL-005 use
 `la-mi  se  lo-ze  be-vo`
 *Conservative epistemic calibration.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - The full S387 ethical-reasoning template: `fact → harm-link → value-anchor → action`. Each link is warranted; no link is skipped.
     - The speaker does not claim `la-mi  to  lo-ka-li-su  wi` (certain-I-should-govern) or `la-mi  to  lo-ze  be-vo` (certain-I-am-capable). Both conclusions remain at `la-mi  wi` (will) and `la-mi  se  lo-ze  be-vo` (some capability basis) — the honest epistemic levels.
     - `lo-ze  be-vo` = this-entity has productive capacity = I am capable. (The speaker uses `lo-ze` rather than `la-mi` here because capability is a property being attributed, not an intention being expressed.)
@@ -697,7 +697,7 @@ Note on structure: FAL-001–004 used one sentence per fallacy type. FAL-005 use
 `la-mi  to-si  [la-zu  lo-ze  se-to  to-si]`
 *The composite good-faith speech.*
 
-??? note "Notes"
+!!! annotation "Notes"
     - The composite speech is the same length as S388 (propaganda) and covers the same subject matter. The honest version is not longer and not more complex. The mechanisms add no overhead when used correctly — they are invisible infrastructure that only becomes visible when someone misuses them.
     - The final question `la-mi  to-si  [la-zu  lo-ze  se-to  to-si]` = "I ask: what is your certain-perception basis?" This is the honest inversion of S378's loaded question. Instead of smuggling accusations inside the interrogative, the speaker declares their own epistemic level (`se`) and genuinely invites the interlocutor's grounding.
     - **The good-faith speaker sounds like a functioning adult.** The propaganda speaker (S388/S389) required a six-row audit table. The honest speaker (S397) requires a five-row ✅ table. The grammar itself makes no judgment — it just keeps the books.

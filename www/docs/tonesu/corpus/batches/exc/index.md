@@ -17,7 +17,7 @@ title: "Exclusive Particle Test"
 `la-Elohim ne vo`
 *Baseline: "God is good.*
 
-??? note "Notes"
+!!! annotation "Notes"
     Simple property attribution. Establishes the reference form from which exclusive "only God is good" must be derived. `la-Elohim ne vo` = "God has the property of worth/value." `Elohim` used directly in agent position (convention from COR-001 theological batch: divine name without `na-` marker, consistent with S532–S538). No exclusive semantics — this is compatible with "God is good and so are many other things." **Baseline clear. EXC-001 count: 1.**
 
 <span id="S550"></span>
@@ -25,7 +25,7 @@ title: "Exclusive Particle Test"
 `no la-li ne vo`
 *Universal class negation: "No person is good.*
 
-??? note "Notes"
+!!! annotation "Notes"
     The negative-universal half of the exclusive claim. `la-li ne vo` = bare class attribution: "person[s] have worth." Fronted `no` negates the whole proposition: "not: person has worth" = "no person has worth." `li` bare (unquantified) functions as the class, following corpus precedent for class-level claims. This is the negation of the whole human class as a property-bearer — it does not quantify over individuals; it denies the class attribution. For the distributive reading ("each person"), a `pu` or `re` form would be needed; `la-li` is the class-property form. **Negative-universal confirmed. One half of the exclusive available. EXC-001 count: 2.**
 
 <span id="S551"></span>
@@ -33,7 +33,7 @@ title: "Exclusive Particle Test"
 `no la-li ne vo — la-Elohim ne vo`
 *Two-clause pragmatic exclusive: "No person is good — God is good.*
 
-??? note "Notes"
+!!! annotation "Notes"
     Matthew 19:17 structure: "Why do you call me good? No one is good but God alone." The `—` (prosodic suspension, EMD-002) creates an asymmetric juxtaposition: (1) deny the class; (2) suspend; (3) affirm the single exception. This is structurally identical to the correction form `no — Y`, but operating at the class-level: the first clause is a true negative-universal, not a mistaken claim being corrected. The sequence reads as exclusive by conversational implicature: "no-one-in-this-class [has worth] — [and yet] God [does]." **Important limitation:** this is two propositions linked by `—`, not a single exclusive proposition. A Tonesu speaker extracts the exclusive reading by inference. There is no grammatical marker in this construction that encodes "and no one else" — the implicature is carried by the sequence + the denied class. If the class is not denied explicitly, the implicature fails. **Two-clause pragmatic exclusive is available but not tight. EXC-001 count: 3.**
 
 <span id="S552"></span>
@@ -41,7 +41,7 @@ title: "Exclusive Particle Test"
 `la-Elohim ru ne vo`
 *`ru` as post-agent focus: DIAGNOSTIC — syntactic ambiguity.*
 
-??? note "Notes"
+!!! annotation "Notes"
     Testing whether `ru` in the inter-argument position (after agent NP, before predicate) functions as an exclusive focus particle. **Two competing parses:**
     1. `la-[Elohim-ru] ne vo` = "the unified/one God has worth" — `ru` compounds with the agent NP to form "unified-God." This yields a description (God as unified) + a property claim (has worth), not an exclusive claim.
     2. `la-Elohim [ru-ne-vo]` = "God has unity-connection-worth" — `ru` compounds leftward with the predicate into a three-root complex. `ru-ne-vo` = unity-relation-value = ?. Semantically incoherent.
@@ -54,7 +54,7 @@ title: "Exclusive Particle Test"
 `la-Elohim ne ru`
 *`ru` as predicate: the Shema form "YHWH is one.*
 
-??? note "Notes"
+!!! annotation "Notes"
     Testing `ru` in its natural predicate position. `la-Elohim ne ru` = "God has the property of unity/singularity" = "God is one." This is the Tonesu form of the Shema (Deut 6:4: שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד — "Hear, O Israel: YHWH our God, YHWH is one"). The Shema does not primarily assert exclusive scope ("there is no other God") — it asserts divine *unity* and *non-division* (אֶחָד, echad = one/undivided). `la-Elohim ne ru` captures this: God has the property of being undivided, singular, whole. **Positive finding:** the Shema form is clean and natural in Tonesu. `ne ru` = "is one/unified" is a transparent compositional predicate. **Critical distinction:** `la-Elohim ne ru` (God is one — cardinality/unity property) is distinct from "God alone is good" (exclusive scope over a different predicate). `ru` as predicate asserts a property of God; it does not restrict another predicate to God alone. **DIAGNOSTIC: `la-X ne ru` = "X is one." Not an exclusive. Shema form now established. EXC-001 count: 5.**
 
 <span id="S554"></span>
@@ -62,7 +62,7 @@ title: "Exclusive Particle Test"
 `ru-fe, la-Elohim ne vo`
 *`ru-fe` clause-initial: "ONLY God is good.*
 
-??? note "Notes"
+!!! annotation "Notes"
     Primary candidate. `ru-fe` = unity (singularity, `ru`) + boundary/limit (`fe`) = "the singular bounding case" = "at the one limit" = "solely / exclusively." Clause-initial position followed by `,`, parallel to `ya` (G030), which is also clause-initial + `,` as an attention-signal scope marker. The parallel: `ya, [clause]` = "attend to this: [clause]"; `ru-fe, [clause]` = "at the sole limit: [clause]" = "only [clause] holds."
     
     **Compositional analysis:**
@@ -81,7 +81,7 @@ title: "Exclusive Particle Test"
 `ru-fe, go to ; ka-vo`
 *`ru-fe` method scope: "Only through knowledge can one act rightly.*
 
-??? note "Notes"
+!!! annotation "Notes"
     Method exclusive — `ru-fe` restricts the *causal means*: the only path to right action is via knowledge. `go to` = "via knowledge" (causal frame); `;` = sequential connector; `ka-vo` = action-with-value = acting rightly. The full clause: "via knowledge; action-with-value." `ru-fe` scopes the entire causal proposition: "at the sole bounding point: [via knowledge, action-with-value]" = "only through knowledge does one act with value."
     
     **Scope test:** can `ru-fe` scope over a `go` causal frame constituent? Here it scopes the whole propositional structure (not just the agent NP or the predicate). The scoped content is a complex causal proposition `go to ; ka-vo`. `ru-fe` as clause-initial marker handles this cleanly — it makes no claims about argument structure inside the clause; it simply asserts the exclusive truth-domain for the whole proposition.
@@ -93,7 +93,7 @@ title: "Exclusive Particle Test"
 `ru-fe, la-mi ne zo`
 *`ru-fe` agent-narrative: "I alone survived.*
 
-??? note "Notes"
+!!! annotation "Notes"
     Narrative exclusive context (catastrophe/battle survivor). `la-mi ne zo` = "I have the property of being a living thing" = "I am alive / I survived." `ne zo` uses the copula + `zo` (living thing/organism) as a stative property predicate: I am in the living-organism class. `ru-fe, la-mi ne zo` = "at the sole bounding point: I am alive" = "I alone am alive" = "I alone survived."
     
     **Compare to `la-mi ne ru`:** "I am one (unified)" — cardinality (S553 pattern), not exclusive. The exclusive is `ru-fe, la-mi ne zo` — `ru-fe` scopes the whole existence claim, not just a unity predicate.
@@ -105,7 +105,7 @@ title: "Exclusive Particle Test"
 `ru-fe, la-Elohim helms go-no-fe`
 *Theological canonical: "God alone is the necessary being.*
 
-??? note "Notes"
+!!! annotation "Notes"
     Deut 4:35 type — "YHWH, he is God; there is no other besides him." The Tonesu form uses the full theological vocabulary: `la-Elohim` (agent); `helms` (strict identity predicate, G012 — `X helms Y` = "X is by strict definition Y," the strongest identity claim available); `go-no-fe` (necessary/uncaused being — cause-without-limit, from THO-001).
     
     `la-Elohim helms go-no-fe` = "God is by strict definition the necessary being." `ru-fe` scopes the whole identity claim: "at the sole bounding point: God is by strict definition the necessary being" = "God alone is the necessary being."
@@ -119,7 +119,7 @@ title: "Exclusive Particle Test"
 `ya, ru-fe, la-Elohim ne vo`
 *DIAGNOSTIC: `ya` + `ru-fe` stacking test.*
 
-??? note "Notes"
+!!! annotation "Notes"
     Both `ya` (attention-signal) and `ru-fe` (exclusive scope) are clause-initial particles with `,` after each. Can they stack? `ya, ru-fe, la-Elohim ne vo` = "attend to this: [at the sole bounding point: God has worth]" = "attend to this — only God has worth." The `ya` directs the listener's attention to the exclusive claim that follows. The two particles operate at different levels: `ya` is pragmatic (meta-communicative: "register this"); `ru-fe` is semantic (truth-conditional: "at the one limiting case"). They do not interfere.
     
     **Parse:** `ya,` → `ru-fe,` → `la-Elohim ne vo`. Left-to-right scope: pragmatic outer scope (`ya`) wrapping semantic inner scope (`ru-fe`) wrapping proposition. This is consistent with how scope modifiers more generally work in left-branching grammars: outermost operator first. Stacking order: pragmatic > semantic > propositional content.

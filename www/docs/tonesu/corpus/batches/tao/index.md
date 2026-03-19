@@ -22,7 +22,7 @@ title: "Tao Te Ching — Way & Non-Action"
 Written: `go susi losu, ze nohelm sunofe`
 *Line 1: 道可道，非常道 ("The Way that can be spoken is not the eternal Way")*
 
-??? note "Notes"
+!!! annotation "Notes"
     `go {su-si lo-su}` = conditional frame: when [a name is applied to the Way] = "when the Way is named." `su-si` = structured signal = name/linguistic designation (compound noun/verb); `lo-su` = the Way as patient. `ze` = it; third-person pronoun; antecedent = `su` from the premise (the Way as named). `no-helm` = does not function as (negated functional-equivalence operator, established DKN-001, generalized EMD-001). `su-no-fe` = structure-without-limit = the boundless Way; first `[X]-no-fe` applied at cosmic scale. GAP-TAO-001: Chinese 可 (kě) = can/possible; Tonesu has no possibility modal — conditional `go {…}` ("when named") substitutes, losing the potentiality/actuality distinction. GAP-TAO-002: Chinese 道可道 puns on 道 as noun AND verb; `su`-as-verb = "structures," not "speaks" — the pun is irreproducible.
 
 <span id="S475"></span>
@@ -31,7 +31,7 @@ Written: `go susi losu, ze nohelm sunofe`
 Written: `go susi losusi, ze nohelm susinofe`
 *Line 2: 名可名，非常名 ("The name that can be named is not the eternal name")*
 
-??? note "Notes"
+!!! annotation "Notes"
     Structural parallel to S474. `su-si lo-su-si` = the naming-root applied to itself as patient = "a name is named." `su-si`-as-verb names `su-si`-as-noun: the naming apparatus designates itself. This inadvertently echoes the Chinese 名可名 verbal pun at one level removed — root polyfunctionality creates a partial recovery not available in S474. `su-si-no-fe` = name without limit = the eternal/boundless name. `ze` = it; the named name.
 
 <span id="S476"></span>
@@ -40,7 +40,7 @@ Written: `go susi losusi, ze nohelm susinofe`
 Written: `nosusi helms goti lopanofe / susi helms gozoli lopuma`
 *Lines 3–4: 無名天地之始；有名萬物之母*
 
-??? note "Notes"
+!!! annotation "Notes"
     `no-su-si` = not-structured-signal = namelessness as ontological category (the pre-linguistic state). `helms` = is by definition (`::`, strict identity operator); chosen over `helm` (functional equivalence) because Laozi's claim is definitional, not approximate. `go-ti lo-pa-no-fe` = origin-in-time [of] the cosmos (established JOH-001); `pa-no-fe` = boundless place = heaven-and-earth (established THO-001). `/` = `vel` = parallel partition; maps Chinese `;` for the coordinated nameless/named dyad of equal structural weight. `su-si` = naming/linguistic designation (bare, no negation). `go-zo-li` = generative living person = mother/parent-origin; `go` (origin) + `zo` (organism) + `li` (social agent suffix); first attested this batch. `lo-pu-ma` = patient: all things (established WIT-001). GAP-TAO-003: assigning `su-no-fe` to the eternal Tao is the prohibited move lines 1–2 describe; translation enacts the violation it renders — the naming paradox is inscribed in this batch.
 
 ### Batch Summary

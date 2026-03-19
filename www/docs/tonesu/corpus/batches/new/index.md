@@ -22,7 +22,7 @@ title: "Newton's First Law of Motion"
 Written: `pufema : go no lanokora kaki loze / laze re sukipaze`
 *Newton First Law: inertial persistence*
 
-??? note "Notes"
+!!! annotation "Notes"
     `pu-fe-ma` = all bounded-material-bodies = every body (`pu-` universal quantifier + `fe-ma` = bounded-matter; first attested this batch). `:` = topic frame = "As for all bodies..." `go` = causal/conditional frame introducing the premise. `no la-no-ko-ra ka-ki lo-ze` = no external force acts on it (`no` = negation; `la-no-ko-ra` = external-force as agent; `no-ko-ra` = non-interior-force = external force, `no` + `ko` interior + `ra` force; `ka-ki` = action-change = to act upon; `lo-ze` = it, the patient body). `/` = premise/result line break. `la-ze re su-ki-pa-ze` = it continues in its spatial motion-state (`la-ze` = it as agent; `re` = cycle/continues; `su-ki-pa-ze` = structural-change-of-spatial-state-of-it; `su-ki-pa` = spatial motion-state, `su` = structure + `ki` = change + `pa` = space). `re` encodes persistence/continuation as habitual cycling. Handles the "rest or uniform motion" collapse: both states are the same `su-ki-pa` (inertial state); the disjunction dissolves.
 
 <span id="S451"></span>
@@ -31,7 +31,7 @@ Written: `pufema : go no lanokora kaki loze / laze re sukipaze`
 Written: `go lanokora kaki lofema / losukipaze ki`
 *Newton First Law: external force causes state change*
 
-??? note "Notes"
+!!! annotation "Notes"
     The complement clause completing the biconditional. `go` = conditional: if. `la-no-ko-ra ka-ki lo-fe-ma` = an external force acts on the body. `lo-su-ki-pa-ze ki` = the spatial-motion-state undergoes change (`lo-su-ki-pa-ze` = patient: the spatial-state-of-it; `ki` = changes/transforms). S450 + S451 form a biconditional pair that together express Newton's law without needing "unless": S450 = [~force → persists]; S451 = [force → changes]. This resolves GAP-NEW-002 (Tonesu lacks an "unless" particle). GAP-NEW-001 (no OR disjunction particle) is resolved by the physics: rest and uniform motion are the same inertial state in Newtonian mechanics, so `su-ki-pa` covers both without disjunction.
 
 ### Batch Summary
