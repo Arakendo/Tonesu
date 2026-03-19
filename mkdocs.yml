@@ -63,15 +63,6 @@ nav:
       - By domain: tonesu/registry/by-domain.md
       - By root: tonesu/registry/by-root.md
       - Word Builder: tonesu/builder.md
-    - Sentences:
-      - Corpus: tonesu/corpus/overview.md
-      - Foundations: tonesu/corpus/foundations/overview.md
-      - Grammar & syntax: tonesu/corpus/grammar/overview.md
-      - Domains: tonesu/corpus/domains/overview.md
-      - Theology & philosophy: tonesu/corpus/theology/overview.md
-      - Translation: tonesu/corpus/translation/overview.md
-      - Conversations: tonesu/corpus/conversations/overview.md
-      - Translation Analyses: tonesu/corpus/translations/overview.md
   - Totonesu:
     - totonesu/index.md
     - Practical:
@@ -84,6 +75,15 @@ nav:
       - Register & colloquial: totonesu/register.md
       - Failures & edge cases: totonesu/failures.md
       - Stress tests: totonesu/stress-tests.md
+    - Sentences:
+      - Corpus: tonesu/corpus/overview.md
+      - Foundations: tonesu/corpus/foundations/overview.md
+      - Grammar & syntax: tonesu/corpus/grammar/overview.md
+      - Domains: tonesu/corpus/domains/overview.md
+      - Theology & philosophy: tonesu/corpus/theology/overview.md
+      - Translation: tonesu/corpus/translation/overview.md
+      - Conversation corpus: tonesu/corpus/conversations/overview.md
+      - Translation Analyses: tonesu/corpus/translations/overview.md
   - To'tonesu:
     - to-tonesu/index.md
     - Patterns: to-tonesu/patterns.md
