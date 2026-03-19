@@ -73,14 +73,16 @@ nav:
       - Translation Analyses: tonesu/corpus/translations/index.md
   - Totonesu:
     - totonesu/index.md
-    - Worked examples: totonesu/examples.md
-    - Production pathways: totonesu/pathways.md
-    - Conversations: totonesu/conversations.md
-    - Contrast walkthroughs: totonesu/contrasts.md
-    - Register & colloquial: totonesu/register.md
-    - Failures & edge cases: totonesu/failures.md
-    - Stress tests: totonesu/stress-tests.md
-    - Sandbox: totonesu/sandbox.md
+    - Practical:
+      - Worked examples: totonesu/examples.md
+      - Production pathways: totonesu/pathways.md
+      - Conversations: totonesu/conversations.md
+      - Sandbox: totonesu/sandbox.md
+    - Analysis:
+      - Contrast walkthroughs: totonesu/contrasts.md
+      - Register & colloquial: totonesu/register.md
+      - Failures & edge cases: totonesu/failures.md
+      - Stress tests: totonesu/stress-tests.md
   - To'tonesu:
     - to-tonesu/index.md
     - Patterns: to-tonesu/patterns.md
@@ -89,20 +91,24 @@ nav:
     - Knowledge & claims: to-tonesu/knowledge.md
     - Domains:
       - to-tonesu/domains/index.md
-      - Biology: to-tonesu/domains/biology.md
-      - Theology & Religion: to-tonesu/domains/theology.md
-      - Law: to-tonesu/domains/law.md
-      - Sociology: to-tonesu/domains/sociology.md
-      - Mathematics: to-tonesu/domains/mathematics.md
-      - Physics: to-tonesu/domains/physics.md
-      - Ethics: to-tonesu/domains/ethics.md
-      - Philosophy: to-tonesu/domains/philosophy.md
-      - Politics: to-tonesu/domains/politics.md
-      - Medicine: to-tonesu/domains/medicine.md
-      - Mind & Psychology: to-tonesu/domains/mind.md
-      - Language & Metalanguage: to-tonesu/domains/metalanguage.md
-      - Casual Conversation: to-tonesu/domains/conversation.md
-      - "Tonesu's Ontology": to-tonesu/domains/ontology.md
+      - Sciences:
+        - Biology: to-tonesu/domains/biology.md
+        - Mathematics: to-tonesu/domains/mathematics.md
+        - Physics: to-tonesu/domains/physics.md
+      - Society:
+        - Law: to-tonesu/domains/law.md
+        - Sociology: to-tonesu/domains/sociology.md
+        - Politics: to-tonesu/domains/politics.md
+        - Medicine: to-tonesu/domains/medicine.md
+        - Mind & Psychology: to-tonesu/domains/mind.md
+      - Values & ideas:
+        - Ethics: to-tonesu/domains/ethics.md
+        - Philosophy: to-tonesu/domains/philosophy.md
+        - Theology & Religion: to-tonesu/domains/theology.md
+      - Language & meta:
+        - Language & Metalanguage: to-tonesu/domains/metalanguage.md
+        - Casual Conversation: to-tonesu/domains/conversation.md
+        - "Tonesu's Ontology": to-tonesu/domains/ontology.md
   - About: about.md
 
 markdown_extensions:
