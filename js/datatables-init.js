@@ -14,6 +14,32 @@
     return TARGETS.some(function (p) { return p.test(window.location.pathname); });
   }
 
+  // Map header text → CSS class for column styling
+  var COL_CLASSES = {
+    'Word':    'col-word',
+    'W#':      'col-wnum',
+    'Status':  'col-status',
+    'Gloss':   'col-gloss',
+    'English': 'col-english',
+  };
+
+  function applyColumnClasses(table) {
+    var headers = table.querySelectorAll('thead th');
+    var classMap = {};  // column index → class name
+    headers.forEach(function (th, i) {
+      var cls = COL_CLASSES[th.textContent.trim()];
+      if (cls) {
+        th.classList.add(cls);
+        classMap[i] = cls;
+      }
+    });
+    table.querySelectorAll('tbody tr').forEach(function (tr) {
+      tr.querySelectorAll('td').forEach(function (td, i) {
+        if (classMap[i]) td.classList.add(classMap[i]);
+      });
+    });
+  }
+
   function initTables() {
     if (!isTargetPage()) return;
     if (!window.DataTable) return;
@@ -30,6 +56,7 @@
               bottomEnd: null,
             },
           });
+          applyColumnClasses(table);
         }
       });
     } catch (e) {
