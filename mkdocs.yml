@@ -51,23 +51,25 @@ nav:
     - Cheat sheet: cheatsheet.md
   - Tonesu:
     - tonesu/index.md
-    - Sounds: tonesu/sounds.md
-    - Grammar: tonesu/grammar.md
-    - Building words: tonesu/words.md
-    - Notation: tonesu/notation.md
-    - Primitives: tonesu/primitives.md
-    - Registry:
-      - tonesu/registry/index.md
-      - English index: tonesu/registry/english.md
-      - By domain: tonesu/registry/by-domain.md
-      - By root: tonesu/registry/by-root.md
+    - The language:
+      - Sounds: tonesu/sounds.md
+      - Grammar: tonesu/grammar.md
+      - Building words: tonesu/words.md
+      - Notation: tonesu/notation.md
+      - Primitives: tonesu/primitives.md
+    - Registry: tonesu/registry/index.md
+    - English index: tonesu/registry/english.md
+    - By domain: tonesu/registry/by-domain.md
+    - By root: tonesu/registry/by-root.md
     - Word Builder: tonesu/builder.md
-    - Corpus:
-      - tonesu/corpus/index.md
+    - Corpus: tonesu/corpus/index.md
+    - Basics:
       - Foundations: tonesu/corpus/foundations/index.md
       - Grammar & syntax: tonesu/corpus/grammar/index.md
+    - Subject areas:
       - Domains: tonesu/corpus/domains/index.md
       - Theology & philosophy: tonesu/corpus/theology/index.md
+    - Texts:
       - Translation: tonesu/corpus/translation/index.md
       - Conversations: tonesu/corpus/conversations/index.md
       - Translation Analyses: tonesu/corpus/translations/index.md
