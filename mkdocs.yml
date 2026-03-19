@@ -56,8 +56,12 @@ nav:
       - Grammar: tonesu/grammar.md
       - Morphology: tonesu/morphology.md
       - Building words: tonesu/words.md
+      - Patterns and quick reference: tonesu/patterns.md
       - Notation: tonesu/notation.md
+      - Scope prefixes: tonesu/scope.md
       - Primitives: tonesu/primitives.md
+      - Named roots: tonesu/named-roots.md
+      - Domains: tonesu/domains.md
     - Vocabulary:
       - Registry: tonesu/registry/overview.md
       - English index: tonesu/registry/english.md

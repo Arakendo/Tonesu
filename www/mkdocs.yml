@@ -1,3 +1,11 @@
+# ┌─────────────────────────────────────────────────────────────┐
+# │  DEPRECATED — DO NOT EDIT                                  │
+# │                                                            │
+# │  The production MkDocs config is the ROOT mkdocs.yml.      │
+# │  CI (deploy.yml) and `python scripts/build.py` both use    │
+# │  the root config. This file is a stale local-dev copy.     │
+# │  All nav changes go in the ROOT mkdocs.yml only.           │
+# └─────────────────────────────────────────────────────────────┘
 site_name: Tonesu
 site_url: https://tonesu.com
 site_description: A constructed language built for clarity, compositionality, and human expression.
