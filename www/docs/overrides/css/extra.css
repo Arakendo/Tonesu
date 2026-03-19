@@ -158,15 +158,30 @@
   padding: 0.1em 0.3em;
 }
 
+/* Force tables to fill their container (Material defaults to inline-block) */
+.md-typeset__scrollwrap {
+  margin: 1em 0;            /* kill Material's negative-margin trick              */
+}
+
 .md-typeset__table {
+  display: block;
   width: 100%;
+  padding: 0;               /* remove Material's 0 .8rem padding                  */
   overflow-x: auto;
 }
 
+html .md-typeset__table table {
+  width: 100%;
+  display: table;
+  overflow: visible;         /* remove Material's overflow: hidden                 */
+}
+
 .md-typeset table:not([class]) {
+  display: table;
   border: 1px solid var(--md-typeset-table-color);
   border-radius: 4px;
   width: 100%;
+  max-width: none;           /* override Material's max-width: 100%               */
   table-layout: auto;
 }
 

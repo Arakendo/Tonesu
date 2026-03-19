@@ -1108,25 +1108,39 @@ def _strip_empty_table_columns(text: str) -> str:
     out_lines: list[str] = []
     buf: list[str] = []           # current table block
 
+    def _parse_row(row: str) -> list[str]:
+        """Split a markdown table row into inner cells (no outer empties)."""
+        cells = row.split("|")
+        # Outer | produces empty first/last segments — strip them
+        if cells and cells[0].strip() == "":
+            cells = cells[1:]
+        if cells and cells[-1].strip() == "":
+            cells = cells[:-1]
+        return cells
+
     def _flush_table(tbl: list[str]) -> list[str]:
         if len(tbl) < 3:         # need header + sep + at least 1 data row
             return tbl
-        rows = [r.split("|") for r in tbl]
-        ncols = min(len(r) for r in rows)
+        parsed = [_parse_row(r) for r in tbl]
+        ncols = len(parsed[0])   # header determines column count
+        # Pad short rows to match header
+        for row in parsed:
+            while len(row) < ncols:
+                row.append(" ")
         # Identify columns where all data cells (rows 2+) are blank
         drop: set[int] = set()
         for ci in range(ncols):
-            if all(rows[ri][ci].strip() == "" for ri in range(2, len(rows))):
-                # Also require the header to look like a real column name
-                hdr = rows[0][ci].strip() if ci < len(rows[0]) else ""
-                if hdr:            # non-empty header, all-empty data → drop
-                    drop.add(ci)
+            hdr = parsed[0][ci].strip()
+            if not hdr:
+                continue
+            if all(parsed[ri][ci].strip() == "" for ri in range(2, len(parsed))):
+                drop.add(ci)
         if not drop:
             return tbl
         result: list[str] = []
-        for row_cells in rows:
-            filtered = [row_cells[i] for i in range(len(row_cells)) if i not in drop]
-            result.append("|".join(filtered))
+        for row_cells in parsed:
+            kept = [row_cells[i] for i in range(ncols) if i not in drop]
+            result.append("| " + " | ".join(c.strip() for c in kept) + " |")
         return result
 
     for line in text.split("\n"):
