@@ -4,9 +4,9 @@ title: "Primitive Attestation"
 
 # Primitive Attestation
 
-*Theme: [Domains](../../domains/)* · 8 sentences.
+*Theme: [Domains](../../domains/overview/)* · 8 sentences.
 
-[← Domains](../../domains/) · [← Corpus](../../overview.md)
+[← Domains](../../domains/overview/) · [← Corpus](../../overview.md)
 
 ---
 

@@ -4,9 +4,9 @@ title: "Inflection Pattern Test"
 
 # Inflection Pattern Test
 
-*Theme: [Grammar & syntax](../../grammar/)* · 2 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview/)* · 2 sentences.
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
+[← Grammar & syntax](../../grammar/overview/) · [← Corpus](../../overview.md)
 
 ---
 

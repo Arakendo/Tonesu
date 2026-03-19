@@ -4,9 +4,9 @@ title: "Fallacy-Resistance Corpus"
 
 # Fallacy-Resistance Corpus
 
-*Theme: [Grammar & syntax](../../grammar/)* · 33 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview/)* · 33 sentences.
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
+[← Grammar & syntax](../../grammar/overview/) · [← Corpus](../../overview.md)
 
 ---
 

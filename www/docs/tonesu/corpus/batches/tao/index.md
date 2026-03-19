@@ -4,11 +4,11 @@ title: "Tao Te Ching — Way & Non-Action"
 
 # Tao Te Ching — Way & Non-Action
 
-*Theme: [Theology & philosophy](../../theology/)* · 3 sentences.
+*Theme: [Theology & philosophy](../../theology/overview/)* · 3 sentences.
 
 :material-book-open-variant: [Full translation analysis](../../translations/philosophy/tao-te-ching-ch1/)
 
-[← Theology & philosophy](../../theology/) · [← Corpus](../../overview.md)
+[← Theology & philosophy](../../theology/overview/) · [← Corpus](../../overview.md)
 
 ---
 

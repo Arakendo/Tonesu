@@ -4,9 +4,9 @@ title: "Legal & Governance"
 
 # Legal & Governance
 
-*Theme: [Domains](../../domains/)* · 9 sentences.
+*Theme: [Domains](../../domains/overview/)* · 9 sentences.
 
-[← Domains](../../domains/) · [← Corpus](../../overview.md)
+[← Domains](../../domains/overview/) · [← Corpus](../../overview.md)
 
 ---
 

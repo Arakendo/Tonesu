@@ -4,9 +4,9 @@ title: "Knowledge & Ontology"
 
 # Knowledge & Ontology
 
-*Theme: [Domains](../../domains/)* · 4 sentences.
+*Theme: [Domains](../../domains/overview/)* · 4 sentences.
 
-[← Domains](../../domains/) · [← Corpus](../../overview.md)
+[← Domains](../../domains/overview/) · [← Corpus](../../overview.md)
 
 ---
 

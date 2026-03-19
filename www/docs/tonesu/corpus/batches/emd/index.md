@@ -4,11 +4,11 @@ title: "Em-Dash Attestation"
 
 # Em-Dash Attestation
 
-*Theme: [Grammar & syntax](../../grammar/)* · 13 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview/)* · 13 sentences.
 
 :material-book-open-variant: [Full translation analysis](../../translations/literature/dickinson-death/)
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
+[← Grammar & syntax](../../grammar/overview/) · [← Corpus](../../overview.md)
 
 ---
 

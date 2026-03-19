@@ -4,9 +4,9 @@ title: "Organizational Roles & Witness"
 
 # Organizational Roles & Witness
 
-*Theme: [Domains](../../domains/)* · 7 sentences.
+*Theme: [Domains](../../domains/overview/)* · 7 sentences.
 
-[← Domains](../../domains/) · [← Corpus](../../overview.md)
+[← Domains](../../domains/overview/) · [← Corpus](../../overview.md)
 
 ---
 

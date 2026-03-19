@@ -4,9 +4,9 @@ title: "Operator Extension Test"
 
 # Operator Extension Test
 
-*Theme: [Grammar & syntax](../../grammar/)* · 4 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview/)* · 4 sentences.
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
+[← Grammar & syntax](../../grammar/overview/) · [← Corpus](../../overview.md)
 
 ---
 

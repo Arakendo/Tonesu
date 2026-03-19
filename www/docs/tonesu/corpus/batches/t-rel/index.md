@@ -4,9 +4,9 @@ title: "Relational Theology"
 
 # Relational Theology
 
-*Theme: [Theology & philosophy](../../theology/)* · 7 sentences.
+*Theme: [Theology & philosophy](../../theology/overview/)* · 7 sentences.
 
-[← Theology & philosophy](../../theology/) · [← Corpus](../../overview.md)
+[← Theology & philosophy](../../theology/overview/) · [← Corpus](../../overview.md)
 
 ---
 

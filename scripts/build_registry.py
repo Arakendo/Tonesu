@@ -955,7 +955,7 @@ def generate_batch_page(
         "",
     ]
 
-    info_parts = [f"*Theme: [{theme}](../../{theme_slug}/)*", f"{len(sents)} sentences."]
+    info_parts = [f"*Theme: [{theme}](../../{theme_slug}/overview/)*", f"{len(sents)} sentences."]
     lines.append(" · ".join(info_parts))
     lines.append("")
 
@@ -963,7 +963,7 @@ def generate_batch_page(
         lines += [f":material-book-open-variant: [Full translation analysis]({trans_link})", ""]
 
     lines += [
-        f"[← {theme}](../../{theme_slug}/) · [← Corpus](../../overview.md)",
+        f"[← {theme}](../../{theme_slug}/overview/) · [← Corpus](../../overview.md)",
         "",
         "---",
         "",
@@ -1361,6 +1361,11 @@ def main():
         conv_attested = sum(1 for t in conv_turns if t.get("words_attested"))
         print(f"  (conv turns contributing attestations: {conv_attested}/{len(conv_turns)})")
 
+    broken = lint_directory_links(REPO / "www" / "docs")
+    if broken:
+        import sys
+        sys.exit(1)
+
 
 def emit_data_json(entries: list, primitives: dict) -> None:
     """Emit www/docs/js/tonesu-data.json for the root browser/builder UI."""
@@ -1404,6 +1409,48 @@ def emit_data_json(entries: list, primitives: dict) -> None:
         encoding="utf-8",
     )
     print(f"  tonesu-data.json: {len(prim_list)} primitives, {len(entry_list)} entries")
+
+
+def lint_directory_links(docs_root: Path) -> int:
+    """
+    Scan every .md file under docs_root for bare-directory links (e.g. `](foo/)`).
+    For each, verify that foo/index.md exists — if not, it will 404 in the built
+    site.  Returns the number of broken links found.
+    """
+    import re
+    LINK_RE = re.compile(r"\]\(([^)#?:]+/)\)")
+    broken: list[str] = []
+    for md_file in sorted(docs_root.rglob("*.md")):
+        text = md_file.read_text(encoding="utf-8")
+        for m in LINK_RE.finditer(text):
+            target = m.group(1)
+            # Skip absolute paths and protocol-relative URLs
+            if target.startswith("/") or "://" in target:
+                continue
+            resolved = (md_file.parent / target).resolve()
+            # Guard: must stay inside docs_root
+            try:
+                resolved.relative_to(docs_root.resolve())
+            except ValueError:
+                continue
+            # In MkDocs (use_directory_urls=true), both of these resolve to foo/:
+            #   foo/index.md  and  foo.md  (the latter served at foo/index.html)
+            index_path = resolved / "index.md"
+            bare_path  = resolved.parent / (resolved.name + ".md")
+            if not (index_path.exists() or bare_path.exists()):
+                rel_src = md_file.relative_to(docs_root)
+                try:
+                    rel_dst = resolved.relative_to(docs_root.resolve())
+                except ValueError:
+                    rel_dst = resolved
+                broken.append(f"  {rel_src} -> ]({target})  (no index.md in {rel_dst})")
+    if broken:
+        print(f"\nLINK LINT: {len(broken)} bare-directory link(s) with no index.md:")
+        for b in broken:
+            print(b)
+    else:
+        print("LINK LINT: all bare-directory links OK")
+    return len(broken)
 
 
 if __name__ == "__main__":

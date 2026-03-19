@@ -4,11 +4,11 @@ title: "A Tale of Two Cities — Opening"
 
 # A Tale of Two Cities — Opening
 
-*Theme: [Theology & philosophy](../../theology/)* · 5 sentences.
+*Theme: [Theology & philosophy](../../theology/overview/)* · 5 sentences.
 
 :material-book-open-variant: [Full translation analysis](../../translations/literature/tale-of-two-cities/)
 
-[← Theology & philosophy](../../theology/) · [← Corpus](../../overview.md)
+[← Theology & philosophy](../../theology/overview/) · [← Corpus](../../overview.md)
 
 ---
 

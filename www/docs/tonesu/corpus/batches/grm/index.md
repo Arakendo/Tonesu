@@ -4,9 +4,9 @@ title: "Grammar Exercise Batch (S335–S341)"
 
 # Grammar Exercise Batch (S335–S341)
 
-*Theme: [Grammar & syntax](../../grammar/)* · 14 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview/)* · 14 sentences.
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
+[← Grammar & syntax](../../grammar/overview/) · [← Corpus](../../overview.md)
 
 ---
 

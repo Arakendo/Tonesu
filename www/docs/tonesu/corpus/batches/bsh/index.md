@@ -4,11 +4,11 @@ title: "Bashō, Frog Haiku (1686) — Kireji Stress Test"
 
 # Bashō, Frog Haiku (1686) — Kireji Stress Test
 
-*Theme: [Grammar & syntax](../../grammar/)* · 3 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview/)* · 3 sentences.
 
 :material-book-open-variant: [Full translation analysis](../../translations/literature/basho-frog/)
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
+[← Grammar & syntax](../../grammar/overview/) · [← Corpus](../../overview.md)
 
 ---
 

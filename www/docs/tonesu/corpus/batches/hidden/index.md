@@ -4,9 +4,9 @@ title: "Hidden Property Stress Tests"
 
 # Hidden Property Stress Tests
 
-*Theme: [Theology & philosophy](../../theology/)* · 4 sentences.
+*Theme: [Theology & philosophy](../../theology/overview/)* · 4 sentences.
 
-[← Theology & philosophy](../../theology/) · [← Corpus](../../overview.md)
+[← Theology & philosophy](../../theology/overview/) · [← Corpus](../../overview.md)
 
 ---
 

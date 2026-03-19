@@ -4,9 +4,9 @@ title: "Correction Pivot Test"
 
 # Correction Pivot Test
 
-*Theme: [Grammar & syntax](../../grammar/)* · 7 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview/)* · 7 sentences.
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
+[← Grammar & syntax](../../grammar/overview/) · [← Corpus](../../overview.md)
 
 ---
 

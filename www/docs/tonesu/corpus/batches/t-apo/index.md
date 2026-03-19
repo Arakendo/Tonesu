@@ -4,9 +4,9 @@ title: "Apophatic Theology"
 
 # Apophatic Theology
 
-*Theme: [Theology & philosophy](../../theology/)* · 2 sentences.
+*Theme: [Theology & philosophy](../../theology/overview/)* · 2 sentences.
 
-[← Theology & philosophy](../../theology/) · [← Corpus](../../overview.md)
+[← Theology & philosophy](../../theology/overview/) · [← Corpus](../../overview.md)
 
 ---
 

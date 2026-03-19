@@ -4,9 +4,9 @@ title: "Numeral System"
 
 # Numeral System
 
-*Theme: [Domains](../../domains/)* · 14 sentences.
+*Theme: [Domains](../../domains/overview/)* · 14 sentences.
 
-[← Domains](../../domains/) · [← Corpus](../../overview.md)
+[← Domains](../../domains/overview/) · [← Corpus](../../overview.md)
 
 ---
 

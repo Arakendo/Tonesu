@@ -4,9 +4,9 @@ title: "Connective Attestation"
 
 # Connective Attestation
 
-*Theme: [Grammar & syntax](../../grammar/)* · 20 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview/)* · 20 sentences.
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
+[← Grammar & syntax](../../grammar/overview/) · [← Corpus](../../overview.md)
 
 ---
 

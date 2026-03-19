@@ -4,11 +4,11 @@ title: "The Liar Paradox — Self-Referential Truth Stress Test"
 
 # The Liar Paradox — Self-Referential Truth Stress Test
 
-*Theme: [Grammar & syntax](../../grammar/)* · 3 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview/)* · 3 sentences.
 
 :material-book-open-variant: [Full translation analysis](../../translations/philosophy/liar-paradox/)
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
+[← Grammar & syntax](../../grammar/overview/) · [← Corpus](../../overview.md)
 
 ---
 

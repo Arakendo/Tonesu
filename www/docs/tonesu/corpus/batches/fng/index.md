@@ -4,9 +4,9 @@ title: "Fungi (S328–S334)"
 
 # Fungi (S328–S334)
 
-*Theme: [Domains](../../domains/)* · 7 sentences.
+*Theme: [Domains](../../domains/overview/)* · 7 sentences.
 
-[← Domains](../../domains/) · [← Corpus](../../overview.md)
+[← Domains](../../domains/overview/) · [← Corpus](../../overview.md)
 
 ---
 

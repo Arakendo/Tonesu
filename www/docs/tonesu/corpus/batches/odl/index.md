@@ -4,9 +4,9 @@ title: "Everyday Objects & Domestic Life"
 
 # Everyday Objects & Domestic Life
 
-*Theme: [Domains](../../domains/)* · 20 sentences.
+*Theme: [Domains](../../domains/overview/)* · 20 sentences.
 
-[← Domains](../../domains/) · [← Corpus](../../overview.md)
+[← Domains](../../domains/overview/) · [← Corpus](../../overview.md)
 
 ---
 

@@ -4,9 +4,9 @@ title: "CV Particle Assignment — Vocative and Attention-Signal"
 
 # CV Particle Assignment — Vocative and Attention-Signal
 
-*Theme: [Grammar & syntax](../../grammar/)* · 8 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview/)* · 8 sentences.
 
-[← Grammar & syntax](../../grammar/) · [← Corpus](../../overview.md)
+[← Grammar & syntax](../../grammar/overview/) · [← Corpus](../../overview.md)
 
 ---
 
