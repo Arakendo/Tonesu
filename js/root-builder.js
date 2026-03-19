@@ -224,7 +224,7 @@
     var roots = allData.primitives.filter(function (r) {
       return r.status === 'active' &&
              (activeFamily === '' || r.family === activeFamily);
-    });
+    }).sort(function (a, b) { return a.cv < b.cv ? -1 : a.cv > b.cv ? 1 : 0; });
     roots.forEach(function (root) {
       var col = FAMILY_COLORS[root.family] || '#888';
       var btn = mk('button', 'rb-root-btn');
