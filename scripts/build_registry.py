@@ -653,22 +653,25 @@ def generate_word_page(
         lines += [
             "## In the corpus",
             "",
-            "| # | Tonesu | English |",
-            "|---|--------|---------|",
+            f"{len(snums)} attestations.",
+            "",
         ]
         for snum in snums:
             item = sentence_lookup.get(snum) or turn_lookup.get(snum)
             s_batch = (sentence_batch_map or {}).get(snum, "")
             s_link = _corpus_link_from_registry(snum, s_batch)
             if item:
-                tonesu  = (item.get("tonesu") or "").replace("\n", " / ")
-                natural = (item.get("natural") or "").replace("\n", " / ")
-                lines.append(
-                    f"| {s_link} | `{tonesu}` | {natural} |"
-                )
+                tonesu_raw = item.get("tonesu") or ""
+                natural = (item.get("natural") or "").replace("\n", " ")
+                # Render each tonesu line as its own code span
+                t_lines = [t.strip() for t in tonesu_raw.split("\n") if t.strip()]
+                lines.append(f"{s_link} · *{natural}*")
+                for t in t_lines:
+                    lines.append(f":   `{t}`")
+                lines.append("")
             else:
-                lines.append(f"| {s_link} | | |")
-        lines.append("")
+                lines.append(f"{s_link}")
+                lines.append("")
 
     lines += ["---", "", NOTE]
     return "\n".join(lines)
