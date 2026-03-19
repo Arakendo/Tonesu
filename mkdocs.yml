@@ -102,6 +102,7 @@ nav:
       - Language & Metalanguage: to-tonesu/domains/metalanguage.md
       - Casual Conversation: to-tonesu/domains/conversation.md
       - "Tonesu's Ontology": to-tonesu/domains/ontology.md
+  - About: about.md
 
 markdown_extensions:
   - admonition
