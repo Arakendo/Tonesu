@@ -73,7 +73,7 @@ Every word's shape tells you what kind of thing it is. There are four structural
 
 Written Tonesu is **solid** — compounds are written without spaces or hyphens between roots. The word for *scholar* is `toli`, not `to-li`.
 
-The apostrophe `'` is the only normative non-alphabetic character in a word. It marks a structural grouping boundary inside a long compound. See [Notation](notation.md).
+The apostrophe `'` is the only normative non-alphabetic character in a word. It marks a structural grouping boundary inside a long compound. In speech, the vowel before `'` is drawn out — `to'tonesu` is spoken roughly as *too·tonesu*. In dictation or formal reading, the spoken word `peld` is inserted instead. See [Notation](notation.md).
 
 Analytic forms like `to-li` (hyphenated) appear in guides and parse breakdowns to show structure — but they are metalinguistic notation, not the written word itself.
 

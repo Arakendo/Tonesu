@@ -47,11 +47,14 @@ Goal: globally pronounceable for speakers of major world language families.
 
 **Total: 5 vowels**
 
-### Optional: Vowel Length
+### Optional: Vowel Length (morphological)
 Long vowels (aa, ee, ii, oo, uu) may function as a morphological modifier.
 - Short vowel: base concept
 - Long vowel: intensified or abstracted form
+
 *Decision pending — see open questions.*
+
+**Distinction from prosodic lengthening:** The `'` juncture marker triggers *prosodic* vowel lengthening at compound boundaries (see § Prosodic Juncture Marker). That lengthening signals structure, not meaning. Any future morphological vowel-length system would modify semantic content within a root. The two are categorically distinct and do not conflict.
 
 ---
 
@@ -125,7 +128,17 @@ Breaking invariant 1 forces lookahead. Breaking invariant 2 produces parse ambig
 
 The apostrophe marks the **left boundary of a subcompound** in a compound chain. It is a prosodic juncture — a slight phrasal pause at a structural boundary — not a segmental phoneme. It does not appear in the consonant or vowel inventory.
 
-**Phonological realization:** a minor phrase break, similar to the IPA `|` juncture feature. In careful speech, a brief silence at the juncture point. In casual speech, may reduce to a perceptible lengthening of the preceding vowel or simply a prosodic grouping boundary without audible pause.
+**Phonological realization — three-register gradient:**
+
+| Register | Realization | Example (`to'tonesu`) |
+|----------|-------------|------------------------|
+| Careful / dictation | spoken word `peld` or brief silence at the juncture | `to peld tonesu` or `to [pause] tonesu` |
+| Normal speech | **vowel lengthening** — the vowel immediately before `'` is held approximately double length | `too·tonesu` (the `o` of `to` is drawn out) |
+| Fast casual | prosodic grouping boundary only; minimal or no audible cue | `totonesu` (grouping conveyed by context) |
+
+The **canonical spoken form** is the normal-speech realization: lengthening the preceding vowel. This is the audible signal that a structural boundary exists. It is phonetically natural (comparable to Japanese compound-boundary mora, Finnish compound stress, or English compound-vs-phrase stress shifts) and robust enough to survive fast speech better than a brief silence.
+
+**Scope note:** this is *prosodic* vowel lengthening — it signals a structural boundary, not a change in meaning. It is distinct from any future *morphological* vowel length (see § Optional: Vowel Length), which would modify the semantic content of a root. The two systems occupy different domains and do not conflict.
 
 **Orthographic rule:** `'` is written at the point where a speaker would group a subcompound. It acts as a right-binding operator on the elements that follow it:
 

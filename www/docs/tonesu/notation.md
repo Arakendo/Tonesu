@@ -15,7 +15,7 @@ With `'`, the left group is explicitly bounded: `A'B-C` = [A] modifies [B-C] as 
 pa-wi'ka-su     →  [destination] + [structured-action]  =  shrine, temple
 ```
 
-Spoken as a slight phrasal pause at the marked boundary.
+Spoken by **lengthening the vowel before the marker** — `pa-wi'ka-su` sounds like *pawii·kasu*. In dictation or formal reading, the word `peld` is inserted at the boundary instead.
 
 ---
 
