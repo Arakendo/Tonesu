@@ -6,6 +6,7 @@
   var TARGETS = [
     /\/tonesu\/registry\/?$/,
     /\/tonesu\/registry\/index\/?$/,
+    /\/tonesu\/registry\/overview\/?$/,
     /\/tonesu\/registry\/english\/?$/,
   ];
 
