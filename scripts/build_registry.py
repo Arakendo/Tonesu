@@ -850,13 +850,13 @@ def generate_corpus_index(sentences: list, conv_data: dict | None, page_groups: 
     for theme in THEME_ORDER:
         s = theme_stats[theme]
         slug = theme_slugs[theme]
-        lines.append(f"| [{theme}]({slug}/) | {s['sents']} | {len(s['pages'])} |")
+        lines.append(f"| [{theme}]({slug}/overview/) | {s['sents']} | {len(s['pages'])} |")
 
     lines += [
         "",
-        f"[Conversations](conversations/) — {n_turns} turns",
+        f"[Conversations](conversations/overview/) — {n_turns} turns",
         "",
-        "[Translation Analyses](translations/) — in-depth verse-by-verse commentary",
+        "[Translation Analyses](translations/overview/) — in-depth verse-by-verse commentary",
         "",
     ]
     return "\n".join(lines)

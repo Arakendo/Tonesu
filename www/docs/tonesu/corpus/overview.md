@@ -16,12 +16,12 @@ The canonical body of attested Tonesu sentences. Every entry is numbered, parsed
 
 | Theme | Sentences | Pages |
 |-------|-----------|-------|
-| [Foundations](foundations/) | 50 | 2 |
-| [Grammar & syntax](grammar/) | 230 | 27 |
-| [Domains](domains/) | 191 | 16 |
-| [Theology & philosophy](theology/) | 43 | 10 |
-| [Translation](translation/) | 61 | 5 |
+| [Foundations](foundations/overview/) | 50 | 2 |
+| [Grammar & syntax](grammar/overview/) | 230 | 27 |
+| [Domains](domains/overview/) | 191 | 16 |
+| [Theology & philosophy](theology/overview/) | 43 | 10 |
+| [Translation](translation/overview/) | 61 | 5 |
 
-[Conversations](conversations/) — 50 turns
+[Conversations](conversations/overview/) — 50 turns
 
-[Translation Analyses](translations/) — in-depth verse-by-verse commentary
+[Translation Analyses](translations/overview/) — in-depth verse-by-verse commentary
