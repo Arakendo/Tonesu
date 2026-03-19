@@ -66,6 +66,25 @@ title: "Sequential Connector Tests"
 **S488**
 *DIAGNOSTIC: causal chain vs mere sequence*
 
+### Batch Summary
+
+| Entry | `;` verdict | Note |
+|-------|-------------|------|
+| S477 (SCL-001-A) | preferred | light faded → darkness; single-clause, no argumentative weight needed |
+| S478 (SCL-001-B) | preferred | signal → gathering; narrative register |
+| S479 (SCL-001-C) | strongly preferred | 3-link chain; `go` longhand doubles length without gain |
+| S480 (SCL-001-D) | strongly preferred | natural process chain; `go` feels argumentative |
+| S481 (SCL-001-E) | preferred | institutional flourishing; first register-sensitivity note |
+| S482 (SCL-001-F) | `go` preferred | Cogito: `;` loses deductive necessity; **differentiation test** |
+| S483 (SCL-001-G) | both viable | chronicle → `;`; normative argument → `go` |
+| S484 (SCL-001-H) | preferred | clock/departure: `go` over-asserts; `;` allows causal reading without committing |
+| S485 (SCL-001-I) | both viable | register-dependent; both natural |
+| S486 (SCL-001-J) | N/A — diagnostic | reversed chain: `;` directional; `go + ti-de` for retrospective |
+| S487 (SCL-001-K) | N/A — diagnostic | complex premise: `;` fails; `go {…},` required |
+| S488 (SCL-001-L) | preferred in observational register | causal vs sequential distinction confirmed |
+
+**`;` viable count: 9 of 12 (S477–S481, S483–S485, S488). Admission condition: 10 required.**
+
 ## SCL-001-F — contrast with S444 · Sequential Connector Contrast
 
 <span id="S482"></span>
@@ -99,6 +118,20 @@ title: "Sequential Connector Tests"
 **S493**
 `la-to-su ki ; la-ze de`
 *DIAGNOSTIC: "The plan was made; it failed." (adversative sequence)*
+
+### Batch Summary
+
+| Entry | `;` verdict | Note |
+|-------|-------------|------|
+| S489 (SCL-002-A) | strongly preferred | 3-link learning chain; double-nested `go` burdensome; **threshold met here** |
+| S490 (SCL-002-B) | preferred | social-economic sequence; `go` over-asserts mechanism |
+| S491 (SCL-002-C) | strongly preferred | proverbial register; first proverbial attestation; `go` wrong register |
+| S492 (SCL-002-D) | preferred | interpersonal wisdom; `ne-vo` (trust) first attested |
+| S493 (SCL-002-E) | preferred; `go` wrong | adversative: plan-formed ; plan-failed; `go` mis-asserts causality |
+
+**Running total: 14 viable sentences (9 SCL-001 + 5 SCL-002). Threshold of 10 passed at S489.**
+
+**Text types confirmed:** A (natural process/narrative, S477–S481), B (observational/institutional, S483–S485, S488), C (practical/proverbial, S489–S492), + adversative diagnostic (S493). Three distinct text types.
 
 ---
 

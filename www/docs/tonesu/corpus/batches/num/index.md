@@ -12,6 +12,8 @@ title: "Numeral System"
 
 ## NUM-001 · Numeral System
 
+**Purpose:** the digit inventory (nil–zan, 0–9) exists in `notes/anchor-inventory.md`; the structural rules (positional chaining, ordinals, measurement stacking) are documented there. What has not been tested in corpus is whether the system actually works across the pressure domains logged in open-questions.md: counting objects, generation distance (the S097 trigger), measurement with units, ordinals, fractions, time/date expressions, and arithmetic predication. This batch resolves NUM-001 by attesting every major use pattern in sentences.
+
 <span id="S238"></span>
 **S238**
 `la-mi  ko  lo-gal nu mu`

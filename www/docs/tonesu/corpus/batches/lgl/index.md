@@ -12,6 +12,8 @@ title: "Legal & Governance"
 
 ## LGL-001 · Legal & Governance
 
+**Purpose:** Legal vocabulary in formal systems relies on finely graded epistemic standards — "probable cause" (sufficient belief to justify investigation), "beyond reasonable doubt" (sufficient certainty to convict), "presumption of innocence" (default epistemic state before judgment). These are not cultural conventions grafted onto law; they are threshold claims in the epistemic gradient that Tonesu expresses natively via `se` / `~to` / `to`. The motivating pressure: does `~to` (G010, approximately-knowing) map cleanly onto probable cause? Can `to-fe-li` adjudication, `to-fe-ka` fraud, and the `si → ~to → to` hierarchy handle legal proceedings without new primitives?
+
 <span id="S270"></span>
 **S270**
 `la-li-se  se  lo-go-ka`

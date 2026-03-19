@@ -34,6 +34,8 @@ OUT_DIR       = REPO / "www" / "docs" / "tonesu" / "registry"
 WORD_DIR      = OUT_DIR / "words"
 CORPUS_DIR    = REPO / "www" / "docs" / "tonesu" / "corpus"
 BATCH_DIR     = CORPUS_DIR / "batches"
+TRANS_SRC     = REPO / "corpus" / "translations"
+TRANS_DIR     = CORPUS_DIR / "translations"
 DATA_JSON     = REPO / "www" / "docs" / "js" / "tonesu-data.json"
 
 NOTE = (
@@ -41,6 +43,23 @@ NOTE = (
     "[`registry/entries.yaml`]"
     "(https://github.com/Arakendo/Tonesu/blob/main/registry/entries.yaml).*"
 )
+
+# Maps batch-code prefix to translation file path (relative to TRANS_SRC / TRANS_DIR)
+BATCH_TRANSLATION_MAP: dict[str, str] = {
+    "EXO": "Bible/exodus-3-1-15",
+    "LSP": "Bible/last-supper",
+    "JOH": "Bible/john-1-1",
+    "ROM": "Bible/romans-7-19",
+    "MTH": "Bible/matthew-16-25",
+    "NEW": "Science/newton-first-law",
+    "DKN": "Literature/tale-of-two-cities",
+    "HAM": "Literature/hamlet-to-be",
+    "BSH": "Literature/basho-frog",
+    "EMD": "Literature/dickinson-death",
+    "WIT": "Philosophy/tractatus",
+    "LPR": "Philosophy/liar-paradox",
+    "TAO": "Philosophy/tao-te-ching-ch1",
+}
 
 STATUS_EMOJI = {
     "active":   "✅",
@@ -155,6 +174,122 @@ def load_batches() -> list:
         return []
     data = yaml.safe_load(BATCHES.read_text(encoding="utf-8"))
     return data.get("batches", [])
+
+
+# ---------------------------------------------------------------------------
+# Source-file parser — extracts per-sentence notes and per-batch metadata
+# ---------------------------------------------------------------------------
+
+def _parse_source_file(
+    text: str,
+    sent_notes: dict[str, dict],
+    batch_notes: dict[str, dict],
+) -> None:
+    """Parse one source markdown file, populating sent_notes and batch_notes."""
+    # --- Per-sentence notes & written forms ---
+    # Split on sentence markers: **S123
+    parts = re.split(r"(?=\*\*S\d{3,})", text)
+    for part in parts:
+        m = re.match(r"\*\*S(\d{3,})", part)
+        if not m:
+            continue
+        snum = f"S{m.group(1)}"
+
+        # Written form:  Written: `...`
+        written = ""
+        wm = re.search(r"Written:\s*`([^`]+)`", part)
+        if wm:
+            written = wm.group(1)
+
+        # **Notes:** block — runs to next --- or next **SNNN or EOF
+        notes = ""
+        nm = re.search(
+            r"\*\*Notes:\*\*\s*(.*?)(?=\n---|\n\*\*S\d{3,}|\Z)",
+            part,
+            re.DOTALL,
+        )
+        if nm:
+            notes = nm.group(1).strip()
+
+        if notes or written:
+            sent_notes[snum] = {"notes": notes, "written": written}
+
+    # --- Per-batch metadata ---
+    # Batch summary sections: ## CODE Batch Summary  or  ## CODE-NNN Batch Summary
+    for sm in re.finditer(
+        r"^## (\S+) Batch Summary\s*\n(.*?)(?=\n---|\n## |\Z)",
+        text,
+        re.MULTILINE | re.DOTALL,
+    ):
+        code = sm.group(1)
+        batch_notes.setdefault(code, {})["summary_md"] = sm.group(2).strip()
+
+    # --- Purpose extraction (three patterns) ---
+
+    # Pattern 1: ## Title — Batch: CODE  +  **Purpose:** paragraph
+    for pm in re.finditer(
+        r"^## .+?— Batch:\s*(\S+)\s*\n+"
+        r"(.*?)(?=\n---)",
+        text,
+        re.MULTILINE | re.DOTALL,
+    ):
+        code = pm.group(1)
+        body = pm.group(2).strip()
+        purpose_m = re.search(
+            r"\*\*Purpose:\*\*\s*(.*?)(?=\n---|\n\*\*S\d|\Z)",
+            body,
+            re.DOTALL,
+        )
+        if purpose_m:
+            batch_notes.setdefault(code, {})["purpose"] = purpose_m.group(1).strip()
+
+    # Pattern 2: *Batch purpose (CODE): text...*  (v3 and early v4)
+    for pm in re.finditer(
+        r"\*Batch purpose \(([^)]+)\):\s*(.*?)\*",
+        text,
+        re.DOTALL,
+    ):
+        code = pm.group(1)
+        purpose = pm.group(2).strip()
+        if purpose:
+            batch_notes.setdefault(code, {}).setdefault("purpose", purpose)
+
+    # Pattern 3: ## Title *(CODE)*  — no purpose paragraph, extract code only
+    for pm in re.finditer(
+        r"^## .+?\*\(([A-Z][\w-]+)\)\*",
+        text,
+        re.MULTILINE,
+    ):
+        code = pm.group(1)
+        batch_notes.setdefault(code, {})
+
+
+def parse_source_notes(
+    sentences: list,
+) -> tuple[dict[str, dict], dict[str, dict]]:
+    """Extract per-sentence notes and per-batch metadata from source markdown.
+
+    Returns (sent_notes, batch_notes):
+      sent_notes[snum]       = {"notes": str, "written": str}
+      batch_notes[batch_code] = {"purpose": str, "summary_md": str}
+    """
+    source_files: set[str] = set()
+    for sent in sentences:
+        sf = sent.get("source_file")
+        if sf:
+            source_files.add(sf)
+
+    sent_notes: dict[str, dict] = {}
+    batch_notes: dict[str, dict] = {}
+
+    for sf in sorted(source_files):
+        path = REPO / "corpus" / sf
+        if not path.exists():
+            continue
+        text = path.read_text(encoding="utf-8")
+        _parse_source_file(text, sent_notes, batch_notes)
+
+    return sent_notes, batch_notes
 
 
 def batch_page_key(code: str) -> str:
@@ -718,6 +853,8 @@ def generate_corpus_index(sentences: list, conv_data: dict | None, page_groups: 
         "",
         f"[Conversations](conversations/) — {n_turns} turns",
         "",
+        "[Translation Analyses](translations/) — in-depth verse-by-verse commentary",
+        "",
     ]
     return "\n".join(lines)
 
@@ -779,8 +916,12 @@ def generate_batch_page(
     page_key: str,
     sents: list,
     batch_meta_list: list,
+    sent_notes: dict[str, dict] | None = None,
+    batch_notes: dict[str, dict] | None = None,
 ) -> str:
     """Generate a batch detail page showing all sentences for a page-key group."""
+    sent_notes = sent_notes or {}
+    batch_notes = batch_notes or {}
     slug = _batch_page_slug(page_key)
     title = _page_group_title(page_key, batch_meta_list)
 
@@ -796,6 +937,13 @@ def generate_batch_page(
     theme = batch_to_theme(first_batch)
     theme_slug = theme_slugs.get(theme, "foundations")
 
+    # Check for a translation analysis file
+    trans_prefix = (first_batch or "").split("-")[0] if first_batch else ""
+    trans_rel = BATCH_TRANSLATION_MAP.get(trans_prefix)
+    trans_link = ""
+    if trans_rel:
+        trans_link = f"../../translations/{trans_rel.lower()}/"
+
     lines = [
         "---",
         f"title: \"{title}\"",
@@ -803,8 +951,16 @@ def generate_batch_page(
         "",
         f"# {title}",
         "",
-        f"*Theme: [{theme}](../../{theme_slug}/)* · {len(sents)} sentences.",
-        "",
+    ]
+
+    info_parts = [f"*Theme: [{theme}](../../{theme_slug}/)*", f"{len(sents)} sentences."]
+    lines.append(" · ".join(info_parts))
+    lines.append("")
+
+    if trans_link:
+        lines += [f":material-book-open-variant: [Full translation analysis]({trans_link})", ""]
+
+    lines += [
         f"[← {theme}](../../{theme_slug}/) · [← Corpus](../../index.md)",
         "",
         "---",
@@ -830,11 +986,18 @@ def generate_batch_page(
         else:
             lines += ["## Unbatched", ""]
 
+        # Batch purpose (from source markdown)
+        bn = batch_notes.get(bc, {})
+        purpose = bn.get("purpose", "")
+        if purpose:
+            lines += [f"**Purpose:** {purpose}", ""]
+
         for sent in bc_sents:
             snum = sent.get("snum", "")
             tonesu_lines = (sent.get("tonesu") or "").split("\n")
             natural = sent.get("natural") or ""
             status = sent.get("status", "")
+            sn = sent_notes.get(snum, {})
 
             lines.append(f'<span id="{snum}"></span>')
 
@@ -848,10 +1011,28 @@ def generate_batch_page(
                 if t:
                     lines.append(f"`{t}`")
 
+            # Written form (from source markdown)
+            written = sn.get("written", "")
+            if written:
+                lines.append(f"Written: `{written}`")
+
             if natural:
                 lines.append(f"*{natural.replace(chr(10), '<br>')}*")
 
+            # Per-sentence notes (collapsible admonition)
+            notes = sn.get("notes", "")
+            if notes:
+                lines.append("")
+                lines.append('??? note "Notes"')
+                for nline in notes.split("\n"):
+                    lines.append(f"    {nline}")
+
             lines.append("")
+
+        # Batch summary section (from source markdown)
+        summary = bn.get("summary_md", "")
+        if summary:
+            lines += ["### Batch Summary", "", summary, ""]
 
     lines += ["---", "", NOTE]
     return "\n".join(lines)
@@ -914,6 +1095,85 @@ def generate_conversations_page(conv_data: dict | None) -> str:
 
 
 # ---------------------------------------------------------------------------
+# Translation pages — copy source files + generate index
+# ---------------------------------------------------------------------------
+
+TRANS_CATEGORIES = ["Bible", "Literature", "Philosophy", "Science"]
+
+
+def copy_translation_files() -> list[dict]:
+    """Copy translation markdown files to the docs tree.
+
+    Returns a list of dicts: {category, slug, title, src_path, dest_dir}
+    """
+    entries: list[dict] = []
+    for cat in TRANS_CATEGORIES:
+        src_dir = TRANS_SRC / cat
+        if not src_dir.exists():
+            continue
+        for md in sorted(src_dir.glob("*.md")):
+            slug = md.stem  # e.g. "hamlet-to-be"
+            dest_dir = TRANS_DIR / cat.lower() / slug
+            dest_dir.mkdir(parents=True, exist_ok=True)
+
+            text = md.read_text(encoding="utf-8")
+
+            # Extract title from first H1
+            title_match = re.match(r"^#\s+(.+)", text, re.MULTILINE)
+            title = title_match.group(1).strip() if title_match else slug
+
+            # Remove "Translation Test: " prefix for cleaner display
+            display = re.sub(r"^Translation Test:\s*", "", title)
+
+            # Add YAML frontmatter if missing
+            if not text.startswith("---"):
+                text = f'---\ntitle: "{display}"\n---\n\n{text}'
+
+            (dest_dir / "index.md").write_text(text, encoding="utf-8")
+            entries.append({
+                "category": cat,
+                "slug": slug,
+                "title": display,
+                "rel_path": f"{cat.lower()}/{slug}/",
+            })
+    return entries
+
+
+def generate_translations_index(trans_entries: list[dict]) -> str:
+    """Generate the translations index page."""
+    lines = [
+        "---",
+        'title: "Translation Analyses"',
+        "---",
+        "",
+        "# Translation Analyses",
+        "",
+        "In-depth verse-by-verse analyses of source text translations into Tonesu.",
+        "Each document includes vocabulary frameworks, structural commentary,",
+        "gap analysis, and key findings.",
+        "",
+        f"{len(trans_entries)} translation analyses.",
+        "",
+        "[← Corpus](../index.md)",
+        "",
+        "---",
+        "",
+    ]
+
+    for cat in TRANS_CATEGORIES:
+        cat_entries = [e for e in trans_entries if e["category"] == cat]
+        if not cat_entries:
+            continue
+        lines += [f"## {cat}", ""]
+        for e in cat_entries:
+            lines.append(f"- [{e['title']}]({e['rel_path']})")
+        lines.append("")
+
+    lines += ["---", "", NOTE]
+    return "\n".join(lines)
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -947,6 +1207,9 @@ def main():
     # Group sentences and batch metadata by page key
     page_groups = _group_sentences_by_page(sentences)
     batch_meta  = _group_batches_by_page(batches_data)
+
+    # Parse source markdown for per-sentence notes and per-batch metadata
+    sent_notes, batch_src = parse_source_notes(sentences)
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     WORD_DIR.mkdir(parents=True, exist_ok=True)
@@ -989,7 +1252,8 @@ def main():
         page_dir.mkdir(parents=True, exist_ok=True)
         meta_list = batch_meta.get(page_key, [])
         (page_dir / "index.md").write_text(
-            generate_batch_page(page_key, sents, meta_list), encoding="utf-8"
+            generate_batch_page(page_key, sents, meta_list, sent_notes, batch_src),
+            encoding="utf-8",
         )
         batch_page_count += 1
 
@@ -999,6 +1263,14 @@ def main():
     (conv_dir / "index.md").write_text(
         generate_conversations_page(conv_data), encoding="utf-8"
     )
+
+    # --- Corpus: translation analysis pages ---
+    trans_entries = copy_translation_files()
+    if trans_entries:
+        TRANS_DIR.mkdir(parents=True, exist_ok=True)
+        (TRANS_DIR / "index.md").write_text(
+            generate_translations_index(trans_entries), encoding="utf-8"
+        )
 
     emit_data_json(entries, primitives)
 
@@ -1024,6 +1296,8 @@ def main():
     print(f"  corpus/     : {len(sentences)} sentences · {n_conv_turns} conversation turns")
     print(f"    themes    : {len(THEME_ORDER)} theme pages")
     print(f"    batches   : {batch_page_count} batch pages")
+    print(f"    notes     : {len(sent_notes)} sentences with notes, {len(batch_src)} batch summaries")
+    print(f"    translations: {len(trans_entries)} analysis pages")
     print(f"  words/      : {word_pages} detail pages")
     if conv_turns:
         conv_attested = sum(1 for t in conv_turns if t.get("words_attested"))

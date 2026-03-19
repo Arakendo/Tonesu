@@ -23,3 +23,5 @@ The canonical body of attested Tonesu sentences. Every entry is numbered, parsed
 | [Translation](translation/) | 61 | 5 |
 
 [Conversations](conversations/) — 50 turns
+
+[Translation Analyses](translations/) — in-depth verse-by-verse commentary

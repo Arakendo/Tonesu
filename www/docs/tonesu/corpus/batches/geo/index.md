@@ -12,6 +12,8 @@ title: "Geography & Terrain"
 
 ## GEO-001 · Geography & Terrain
 
+**Purpose:** determine whether point, line, angle, triangle, square, rectangle, circle, sphere, and polygon require CVC or CVCC forms, or whether all are expressible compositionally from existing primitives. Core candidates: `su` (structure/order), `fe` (boundary/limit), `pa` (place/space), `di` (direction), `re` (repetition/cycle), `nu` (quantity), `ru` (unity/singularity), `ki` (motion). The Assemblage-First Rule criterion 1 asks: does the concept have NO compositional expression at all? If any compositional expression exists — however verbose — no shortform is warranted on that criterion alone.
+
 <span id="S228"></span>
 **S228**
 `pa-ru`

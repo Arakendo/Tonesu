@@ -12,6 +12,8 @@ title: "Everyday Objects & Domestic Life"
 
 ## ODL-001 · Everyday Objects & Domestic Life
 
+**Purpose:** write 20 sentences spanning everyday human experience to locate structural distortion — the point where a Tonesu compound says something ontologically wrong, not merely verbose. Domains: bodily states (hunger, fatigue, pain, sleep/waking), weather (cold, hot, rain), eating and drinking, social–emotional (greeting, liking, fear, anger, loneliness), cognition (wanting, remembering, forgetting), and daily activity (working, resting). Reference: notes/open-questions.md § Corpus / Testing. `ha` passed an 8-sentence thermal test in March 2026; this is the continuation across the full ordinary-life spectrum.
+
 <span id="S208"></span>
 **S208**
 `lo-mi  ne-fe  zo-ma`

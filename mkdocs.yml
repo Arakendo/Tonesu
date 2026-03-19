@@ -70,6 +70,7 @@ nav:
       - Theology & philosophy: tonesu/corpus/theology/index.md
       - Translation: tonesu/corpus/translation/index.md
       - Conversations: tonesu/corpus/conversations/index.md
+      - Translation Analyses: tonesu/corpus/translations/index.md
   - Totonesu:
     - totonesu/index.md
     - Worked examples: totonesu/examples.md
