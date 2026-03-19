@@ -8,6 +8,8 @@ title: Knowledge & Claims
 
 Tonesu does not have a word for "lie." It has something more structural: a vocabulary that forces speakers to commit to the epistemic status of every claim they make — and makes violations visible. This page traces the design from the epistemic pipeline through to debate fallacy resistance, and connects it to the scientific tradition that shaped the language.
 
+> Tonesu does not tell you what is true. It tells you what kind of claim is being made.
+
 ---
 
 ## The epistemic pipeline
