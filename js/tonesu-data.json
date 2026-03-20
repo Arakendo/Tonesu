@@ -2695,6 +2695,43 @@
         "ne",
         "su"
       ]
+    },
+    {
+      "wnum": "W197",
+      "form": "fa-vo",
+      "written": "favo",
+      "gloss": "happiness; positive-valence affect state; felt sense of wellbeing",
+      "status": "active",
+      "domain": "Affect / Ethics",
+      "roots": [
+        "fa",
+        "vo"
+      ]
+    },
+    {
+      "wnum": "W198",
+      "form": "pa-ki-su",
+      "written": "pakisu",
+      "gloss": "liberty; freedom-state; the structural condition of unimpeded movement",
+      "status": "active",
+      "domain": "Ethics / Politics / Philosophy",
+      "roots": [
+        "pa",
+        "ki",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W199",
+      "form": "su-to",
+      "written": "suto",
+      "gloss": "self-evident proposition; truth whose ground is its own structure",
+      "status": "active",
+      "domain": "Epistemology / Philosophy",
+      "roots": [
+        "su",
+        "to"
+      ]
     }
   ]
 }
