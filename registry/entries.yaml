@@ -5294,3 +5294,106 @@ entries:
   first_use: 'DND-002, Lawful Neutral (S613): la-na-Soldier ne wi-su / ne wi-vo-fe'
   groups:
   - Ethics / Philosophy
+- wnum: W194
+  status: active
+  form: pa-ma
+  written: pama
+  gloss: material realm; space of matter; the physical plane
+  domain: Cosmology / Metaphysics / Physics
+  pos: noun compound / predicate
+  register: general / formal
+  lead_root: pa
+  type: compound
+  class: place / realm
+  etymology: 'pa (space/place) + ma (matter/substance) = matter-space = the domain
+    where physical matter is primary. Head-final: ma (matter) is head; pa specifies
+    it as a spatial domain rather than bulk substance. The Material Plane of D&D cosmology
+    is the paradigm case: the realm where ma (physical substance) constitutes the
+    primary fabric of the space.'
+  definition: material realm; space of matter; the physical plane; any cosmological
+    domain whose primary constituent is physical matter.
+  composition: 'pa (space/place) + ma (matter/substance). Head-final: ma (matter)
+    is head; pa specifies it as a spatial domain. pa-ma = the spatial realm defined
+    by matter = the Material Plane. Contrasts with to-pa (W195 thought-realm): the
+    two poles of cosmological substance are matter-primary (pa-ma) and thought-primary
+    (to-pa).'
+  notes: 'W194. First attested DND-003 (S621, Material Plane). Contrast with pa-su
+    (W157 = mountain = structured place): a mountain is a structured instance within
+    physical space; pa-ma is the cosmological category of matter-primary space. Different
+    heads, different meaning. Also contrast with pa-ra (W053 = energetic field) and
+    pa-vo-fe (W153 = holy ground) — all pa-X compounds with distinct readings.'
+  related: pa (primitive), ma (primitive), to-pa (W195 thought-realm — contrast pair),
+    pa-su (W157 mountain — different head), pa-ra (W053 energetic field)
+  first_use: 'DND-003, Material Plane (S621): la-na-Material ne pa-ma'
+  groups:
+  - Place / Space
+  - Cosmology / Metaphysics
+- wnum: W195
+  status: active
+  form: to-pa
+  written: topa
+  gloss: thought-realm; mind-space; the Astral Plane
+  domain: Cosmology / Metaphysics / Philosophy
+  pos: noun compound / predicate
+  register: formal / philosophical
+  lead_root: to
+  type: compound
+  class: place / realm
+  etymology: 'to (thought/pattern/conceptual substrate) + pa (place/space) = thought-space
+    = the domain where conceptual substance or thought-matter is primary. Head-final:
+    pa (space) is head; to specifies that the primary substance of the realm is thought
+    or conceptual pattern. The Astral Plane of D&D cosmology is the paradigm case:
+    a silver void where condensed thought becomes solid matter and dead gods drift
+    as solidified divine thought-substance.'
+  definition: thought-realm; mind-space; the Astral Plane; any cosmological domain
+    whose primary constituent is thought, pattern, or conceptual substance.
+  composition: 'to (thought/pattern) + pa (space). Head-final: pa (space) is head;
+    to specifies the primary substance is thought/pattern. to-pa = the spatial realm
+    defined by thought = the Astral Plane. Direct contrast pair with pa-ma (W194):
+    matter-primary (pa-ma) vs thought-primary (to-pa) are the two poles of cosmological
+    substance.'
+  notes: 'W195. First attested DND-003 (S623, Astral Plane). Contrast pair with pa-ma
+    (W194): pa-ma = space where ma (matter) is primary; to-pa = space where to (thought/
+    pattern) is primary. In D&D, navigating the Astral Plane requires mental exertion
+    rather than physical effort; dead gods drift through it as solidified divine thought-substance.
+    to-pa generalizes beyond D&D to any mind-primary or thought-space domain.'
+  related: to (primitive), pa (primitive), pa-ma (W194 material realm — contrast pair),
+    to-ko (W044 memory — thought-containment), a-to (abstract knowing — scope-derived)
+  first_use: 'DND-003, Astral Plane (S623): la-na-Astral ne to-pa'
+  groups:
+  - Place / Space
+  - Cosmology / Metaphysics
+- wnum: W196
+  status: active
+  form: pa-ne-su
+  written: panesu
+  gloss: cosmological framework; multiverse; the structured network of planes
+  domain: Cosmology / Metaphysics
+  pos: noun compound
+  register: formal
+  lead_root: pa
+  type: compound
+  class: concept / system
+  etymology: 'pa (space) + ne (relation/connection) + su (structure/order) = the spatial
+    domain organized by the structured network of inter-plane relations. Right-branching:
+    pa-(ne-su) = space of [relational-structure].'
+  definition: cosmological framework; multiverse; the Great Wheel of D&D as a structured
+    system of planes and their relations; any system of spaces constituted by their
+    structural relations to each other.
+  composition: 'pa (space/place) + ne (relation/connection) + su (structure/order).
+    Right-branching: pa-(ne-su). ne-su = relational structure (the kind of structure
+    constituted by connections/relations). pa-(ne-su) = the spatial system constituted
+    by those relational structures = the Great Wheel. Parse note: right-branching
+    is mandatory. The wrong parse (pa-ne)-su = structure of spatial-relations would
+    invert the modifier/head relationship.'
+  notes: 'W196. First attested DND-003 (S619, the Great Wheel). pa-ne-su captures
+    the Great Wheel''s defining character as a relational system: the planes are defined
+    by their structural relations to each other (alignment positions, transitive connections,
+    elemental adjacencies), not by any single property. The term generalizes beyond
+    D&D to any multiverse or multi-domain cosmological framework.'
+  related: pa (primitive), ne (primitive), su (primitive), a-pa (scope-derived form
+    = metaphysical plane), to-pa (W195), pa-ma (W194)
+  first_use: 'DND-003, Great Wheel framework (S619): la-na-GreatWheel ne pa-ne-su'
+  groups:
+  - Place / Space
+  - Cosmology / Metaphysics

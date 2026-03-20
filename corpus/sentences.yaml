@@ -520,8 +520,10 @@ sentences:
   tonesu: lo-ma-di  ha-vo  nu-no  lo-pa-ma
   gloss_line: patient:water  thermal-quality  less  patient:air-matter
   natural: The water [has] less thermal quality than the air.
-  words_attested: []
-  first_attests: []
+  words_attested:
+  - W194
+  first_attests:
+  - W194
   gap_refs: []
   source_file: sentences/v1-legacy/s001-s039.md
   source_anchor: S039
@@ -9587,3 +9589,166 @@ sentences:
   source_file: sentences/v4-current/s398-plus.md
   source_anchor: S618
   notes: null
+- snum: S619
+  gloss: 'DND-003 Great Wheel A: Framework — The Great Wheel is the cosmological framework.'
+  batch: DND-003
+  batch_sub: A
+  status: normative
+  tonesu: la-na-GreatWheel  ne  pa-ne-su
+  gloss_line: null
+  natural: The Great Wheel is the cosmological framework.
+  words_attested:
+  - W196
+  first_attests:
+  - W196
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S619
+  notes: null
+- snum: S620
+  gloss: 'DND-003 Great Wheel B: Definitional — A plane is a bounded metaphysical
+    space.'
+  batch: DND-003
+  batch_sub: B
+  status: normative
+  tonesu: 'a-pa  :  pa-fe'
+  gloss_line: null
+  natural: A plane is a bounded metaphysical space.
+  words_attested:
+  - W138
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S620
+  notes: 'Topic frame construction. a-pa (scope-derived: a- + pa = abstract/universal
+    space) is topic; pa-fe (bounded space) is predicate. Avoids la-a-pa merge hazard
+    (VPC-001 rule). First corpus attestation of a-pa in cosmological context; first
+    scope-prefix NP in topic-frame position.'
+- snum: S621
+  gloss: 'DND-003 Great Wheel C: Material Plane — the realm of matter.'
+  batch: DND-003
+  batch_sub: C
+  status: normative
+  tonesu: la-na-Material  ne  pa-ma
+  gloss_line: null
+  natural: The Material Plane is the realm of matter.
+  words_attested:
+  - W194
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S621
+  notes: null
+- snum: S622
+  gloss: 'DND-003 Great Wheel D: Ethereal Plane — transitional/liminal space.'
+  batch: DND-003
+  batch_sub: D
+  status: normative
+  tonesu: la-na-Ethereal  ne  e-pa
+  gloss_line: null
+  natural: The Ethereal Plane is transitional space.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S622
+  notes: First corpus attestation of e-pa (e- emergent/transitional + pa space). The
+    Ethereal Plane is the liminal layer overlapping the Material and Inner Planes.
+- snum: S623
+  gloss: 'DND-003 Great Wheel E: Astral Plane — thought-space, the silver void.'
+  batch: DND-003
+  batch_sub: E
+  status: normative
+  tonesu: la-na-Astral  ne  to-pa
+  gloss_line: null
+  natural: The Astral Plane is thought-space.
+  words_attested:
+  - W195
+  first_attests:
+  - W195
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S623
+  notes: null
+- snum: S624
+  gloss: 'DND-003 Great Wheel F: Inner Planes — foundational elemental spaces.'
+  batch: DND-003
+  batch_sub: F
+  status: normative
+  tonesu: la-na-Inner  ne  u-pa
+  gloss_line: null
+  natural: The Inner Planes are the foundational elemental spaces.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S624
+  notes: First corpus attestation of u-pa (u- interior/foundational + pa space). Inner
+    Planes are the elemental substrate of D&D cosmology.
+- snum: S625
+  gloss: 'DND-003 Great Wheel G: Outer Planes — collectively distributed space.'
+  batch: DND-003
+  batch_sub: G
+  status: normative
+  tonesu: la-na-Outer  ne  o-pa
+  gloss_line: null
+  natural: The Outer Planes are collectively distributed space.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S625
+  notes: First corpus attestation of o-pa (o- collective/distributed + pa space).
+    Outer Planes are arranged in an alignment ring — collectively distributed around
+    the Great Wheel.
+- snum: S626
+  gloss: 'DND-003 Great Wheel H: Celestia — Outer Plane of lawful-good will.'
+  batch: DND-003
+  batch_sub: H
+  status: normative
+  tonesu: la-na-Celestia  ne  o-pa  /  ne  wi-su  ne  wi-vo
+  gloss_line: null
+  natural: Celestia is an Outer Plane — it has lawful structure and beneficent will.
+  words_attested:
+  - W188
+  - W190
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S626
+  notes: null
+- snum: S627
+  gloss: 'DND-003 Great Wheel I: Baator (Nine Hells) — Outer Plane of lawful-evil
+    will.'
+  batch: DND-003
+  batch_sub: I
+  status: normative
+  tonesu: la-na-Baator  ne  o-pa  /  ne  wi-su  ne  wi-de
+  gloss_line: null
+  natural: Baator is an Outer Plane — it has lawful structure and harm-directed will.
+  words_attested:
+  - W188
+  - W191
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S627
+  notes: null
+- snum: S628
+  gloss: 'DND-003 Great Wheel J: Outlands — True Neutral hub, law-neutral and ethics-neutral.'
+  batch: DND-003
+  batch_sub: J
+  status: normative
+  tonesu: la-na-Outlands  ne  wi-su-fe  /  ne  wi-vo-fe
+  gloss_line: null
+  natural: The Outlands is both law-neutral and ethics-neutral — the neutral hub of
+    the cosmological wheel.
+  words_attested:
+  - W192
+  - W193
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S628
+  notes: Identical alignment construction to S614 (TN druid, DND-002). The Outlands
+    is the cosmological embodiment of True Neutrality.

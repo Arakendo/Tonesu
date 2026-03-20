@@ -3709,3 +3709,183 @@ la-na-Demon  ne  wi-no-su  /  ne  wi-de
 | Jedi (STW-001) | `wi-su` | `wi-vo` | Lawful Good |
 | Sith (STW-002) | `wi-su` | `wi-de` | Lawful Evil |
 | `ara` (the Force) | `wi-su-fe` | `wi-vo-fe` | True Neutral |
+
+---
+
+## DND-003: D&D — The Great Wheel Cosmology
+
+**Batch:** DND-003  
+**Source:** D&D 5e / Planescape — the Great Wheel model of the multiverse  
+**Entries:** S619–S628 · **New vocabulary:** W194 (`pa-ma`), W195 (`to-pa`), W196 (`pa-ne-su`)  
+**Scope-prefix first attestations:** `a-pa` (S620), `e-pa` (S622), `u-pa` (S624), `o-pa` (S625)
+
+**Key design note:** This batch activates all four applicable scope prefixes (`a-`, `e-`, `u-`, `o-`) with the spatial root `pa`, yielding four cosmologically distinct spatial categories. See `corpus/translations/Literature/dnd-great-wheel.md` for full analysis.
+
+---
+
+### S619 — DND-003-A
+
+```
+la-na-GreatWheel  ne  pa-ne-su
+```
+
+**Written:** `lanaGreatWheel ne panesu`
+
+**Natural reading:** The Great Wheel is the cosmological framework.
+
+**Notes:** W196 first attestation. `pa-ne-su` = space-relation-structure = the cosmological system constituted by the structured network of inter-plane relations. Right-branching: `pa-(ne-su)`. The Great Wheel is defined by the structural relations among its planes, not by any single property.
+
+---
+
+### S620 — DND-003-B
+
+```
+a-pa  :  pa-fe
+```
+
+**Written:** `apa : pafe`
+
+**Natural reading:** A plane is a bounded metaphysical space.
+
+**Notes:** Topic frame construction (`:`) — `a-pa` (scope-derived: `a-` + `pa` = abstract/universal space) is the topic; `pa-fe` (bounded space) is the predicate. **`a-pa` merge hazard avoidance:** `la-a-pa ne pa-fe` would produce `la-a-pa` → merging toward `la-pa` in fast speech (VPC-001 rule). Topic frame sidesteps this. First corpus attestation of `a-pa` in cosmological context; first scope-prefix NP in topic-frame position. `pa-fe` = compositional: `pa` (space) + `fe` (boundary) = bounded/distinct space; unregistered.
+
+---
+
+### S621 — DND-003-C
+
+```
+la-na-Material  ne  pa-ma
+```
+
+**Written:** `lanaMaterial ne pama`
+
+**Natural reading:** The Material Plane is the realm of matter.
+
+**Notes:** W194 first attestation. `pa-ma` = matter-space = the cosmological domain where `ma` (matter/substance) is the primary constituent. Contrast with `pa-su` (W157 = mountain = structured place): different heads, different scale of meaning.
+
+---
+
+### S622 — DND-003-D
+
+```
+la-na-Ethereal  ne  e-pa
+```
+
+**Written:** `lanaEthereal ne epa`
+
+**Natural reading:** The Ethereal Plane is transitional space.
+
+**Notes:** First corpus attestation of `e-pa` (`e-` = emergent/transitional + `pa` = space). The Ethereal Plane overlaps the Material and Inner Planes and is the liminal layer through which ghosts pass through solid matter. `e-` captures the between-states, transitional character without requiring a new primitive.
+
+---
+
+### S623 — DND-003-E
+
+```
+la-na-Astral  ne  to-pa
+```
+
+**Written:** `lanaAstral ne topa`
+
+**Natural reading:** The Astral Plane is thought-space.
+
+**Notes:** W195 first attestation. `to-pa` = thought-realm = the space where `to` (thought/pattern) is the primary constituent. In D&D, condensed thought becomes solid matter in the Astral Plane; dead gods drift through it as solidified divine thought-substance. Direct contrast pair with `pa-ma` (W194): matter-primary vs thought-primary — the two poles of cosmological substance.
+
+---
+
+### S624 — DND-003-F
+
+```
+la-na-Inner  ne  u-pa
+```
+
+**Written:** `lanaInner ne upa`
+
+**Natural reading:** The Inner Planes are the foundational elemental spaces.
+
+**Notes:** First corpus attestation of `u-pa` (`u-` = interior/foundational + `pa` = space). The Inner Planes are the elemental substrate of D&D cosmology — the foundational elemental layer from which the Material Plane draws its physical substance. Fire, Water, Earth, Air, and the Energy Planes are all subtypes of `u-pa`.
+
+---
+
+### S625 — DND-003-G
+
+```
+la-na-Outer  ne  o-pa
+```
+
+**Written:** `lanaOuter ne opa`
+
+**Natural reading:** The Outer Planes are collectively distributed space.
+
+**Notes:** First corpus attestation of `o-pa` (`o-` = collective/distributed + `pa` = space). The Outer Planes are arranged in a ring — the "wheel" — each distinct but part of the collective, alignment-distributed structure. Precedent: `o-li` (S508, community-as-unit) established `o-` as the collectivizing prefix.
+
+---
+
+### S626 — DND-003-H
+
+```
+la-na-Celestia  ne  o-pa  /  ne  wi-su  ne  wi-vo
+```
+
+**Written:** `lanaCelestia ne opa / ne wisu ne wivo`
+
+**Natural reading:** Celestia is an Outer Plane — it has lawful structure and beneficent will.
+
+**Notes:** Co-predicative `/`: Celestia is an `o-pa` (Outer Plane) AND has `wi-su` (W188, lawful will) + `wi-vo` (W190, good will). DND-002 alignment vocabulary first deployed in cosmological context. Cross-franchise: Celestia (LG) is structurally identical to the Jedi Order (STW-001).
+
+---
+
+### S627 — DND-003-I
+
+```
+la-na-Baator  ne  o-pa  /  ne  wi-su  ne  wi-de
+```
+
+**Written:** `lanaBaator ne opa / ne wisu ne wide`
+
+**Natural reading:** Baator is an Outer Plane — it has lawful structure and harm-directed will.
+
+**Notes:** Formally parallel to S626 — same `(o-pa / ne wi-su ne wi-X)` frame, `wi-de` (W191) replacing `wi-vo`. The structural parallelism shows Celestia and Baator differ only in the ethics axis. Cross-franchise: Baator (LE) is structurally identical to the Sith Order (STW-002).
+
+---
+
+### S628 — DND-003-J
+
+```
+la-na-Outlands  ne  wi-su-fe  /  ne  wi-vo-fe
+```
+
+**Written:** `lanaOutlands ne wisufe / ne wivofe`
+
+**Natural reading:** The Outlands is both law-neutral and ethics-neutral — the neutral hub of the cosmological wheel.
+
+**Notes:** W192 + W193. Identical double-neutral construction to S614 (TN druid, DND-002). The Outlands is the cosmological embodiment of True Neutrality; S628 and S614 share the same compound pair by design. `o-pa` intentionally omitted: the Outlands' payload is its double-neutrality, not merely its membership in the Outer Planes class.
+
+---
+
+## DND-003 Batch Summary
+
+| Entry | Written form | Plane / entity | Key vocabulary |
+|-------|-------------|----------------|----------------|
+| S619 (DND-003-A) | `lanaGreatWheel ne panesu` | The Great Wheel | W196 first att. |
+| S620 (DND-003-B) | `apa : pafe` | Plane (generic) | `a-pa` first att.; topic frame |
+| S621 (DND-003-C) | `lanaMaterial ne pama` | Material Plane | W194 first att. |
+| S622 (DND-003-D) | `lanaEthereal ne epa` | Ethereal Plane | `e-pa` first att. |
+| S623 (DND-003-E) | `lanaAstral ne topa` | Astral Plane | W195 first att. |
+| S624 (DND-003-F) | `lanaInner ne upa` | Inner Planes | `u-pa` first att. |
+| S625 (DND-003-G) | `lanaOuter ne opa` | Outer Planes | `o-pa` first att. |
+| S626 (DND-003-H) | `lanaCelestia ne opa / ne wisu ne wivo` | Celestia (LG) | W188 + W190 |
+| S627 (DND-003-I) | `lanaBaator ne opa / ne wisu ne wide` | Baator (LE) | W188 + W191 |
+| S628 (DND-003-J) | `lanaOutlands ne wisufe / ne wivofe` | Outlands (TN) | W192 + W193 |
+
+**Cross-batch alignment mapping (extended):**
+
+| Plane / Entity | Law | Ethics | Batch |
+|----------------|-----|--------|-------|
+| Celestia | `wi-su` | `wi-vo` | DND-003 |
+| Baator | `wi-su` | `wi-de` | DND-003 |
+| Outlands | `wi-su-fe` | `wi-vo-fe` | DND-003 |
+| TN Druid | `wi-su-fe` | `wi-vo-fe` | DND-002 |
+| Jedi Order | `wi-su` | `wi-vo` | STW-001 |
+| Sith Order | `wi-su` | `wi-de` | STW-002 |
+| The Force (`ara`) | `wi-su-fe` | `wi-vo-fe` | STW-001 (cross-ref) |

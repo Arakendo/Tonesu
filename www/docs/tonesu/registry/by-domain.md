@@ -43,7 +43,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## Place / Space
 
-12 compounds
+15 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -51,14 +51,17 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `ko-pa` · kopa | [W048](words/W048.md) | ✅ | room, enclosed space <br><small>[S064](../../../totonesu/corpus/batches/t-cmp#S064) · [S267](../../../totonesu/corpus/batches/knm#S267) · [S423](../../../totonesu/corpus/batches/lsp#S423) · [S473](../../../totonesu/corpus/batches/emd#S473) · [S516](../../../totonesu/corpus/batches/emd#S516)</small> |
 | `li-pu-pa` · lipupa | [W036](words/W036.md) | ✅ | city, inhabited settlement <br><small>[S061](../../../totonesu/corpus/batches/t-prm#S061)</small> |
 | `pa-be'ka-li-su` · pabe'kalisu | [W125](words/W125.md) | ✅ | kingdom of heaven, upper-space governance |
-| `pa-fe` · pafe | [W138](words/W138.md) | ⏳ | vault, firmament, sky-dome <br><small>[S258](../../../totonesu/corpus/batches/knm#S258) · [S362](../../../totonesu/corpus/batches/god-res#S362)</small> |
+| `pa-fe` · pafe | [W138](words/W138.md) | ⏳ | vault, firmament, sky-dome <br><small>[S258](../../../totonesu/corpus/batches/knm#S258) · [S362](../../../totonesu/corpus/batches/god-res#S362) · [S620](../../../totonesu/corpus/batches/dnd#S620)</small> |
+| `pa-ma` · pama | [W194](words/W194.md) | ✅ | material realm; space of matter; the physical plane <br><small>[S039](../../../totonesu/corpus/batches/t-ha#S039) · [S621](../../../totonesu/corpus/batches/dnd#S621)</small> |
 | `pa-mi` · pami | [W110](words/W110.md) | ⏳ | here, speaker's location <br><small>[S338](../../../totonesu/corpus/batches/grm#S338) · [S341](../../../totonesu/corpus/batches/grm#S341) · [S405](../../../totonesu/corpus/batches/exo#S405) · [S406](../../../totonesu/corpus/batches/exo#S406)</small> |
+| `pa-ne-su` · panesu | [W196](words/W196.md) | ✅ | cosmological framework; multiverse; the structured network of planes <br><small>[S619](../../../totonesu/corpus/batches/dnd#S619)</small> |
 | `pa-ra` · para | [W053](words/W053.md) | ✅ | energetic field, spatial force distribution <br><small>[C006-A1](../../../totonesu/corpus/batches/_foundations#C006-A1) · [C006-A2](../../../totonesu/corpus/batches/_foundations#C006-A2) · [C006-B1](../../../totonesu/corpus/batches/_foundations#C006-B1) · [C006-B2](../../../totonesu/corpus/batches/_foundations#C006-B2) · [C006-B3](../../../totonesu/corpus/batches/_foundations#C006-B3) · [C007-A1](../../../totonesu/corpus/batches/_foundations#C007-A1) · [C007-B1](../../../totonesu/corpus/batches/_foundations#C007-B1) · [S072](../../../totonesu/corpus/batches/t-mys#S072) · [S191](../../../totonesu/corpus/batches/_foundations#S191)</small> |
 | `pa-su` · pasu | [W157](words/W157.md) | ✅ | mountain, structured place |
 | `pa-vo-fe` · pavofe | [W153](words/W153.md) | ✅ | holy ground, value-bounded place <br><small>[S406](../../../totonesu/corpus/batches/exo#S406)</small> |
 | `pa-wi` · pawi | [W088](words/W088.md) | ✅ | destination, intentional target place <br><small>[S126](../../../totonesu/corpus/batches/cf#S126)</small> |
 | `pa-wi-ka-su` · pawikasu | [W066](words/W066.md) | ✅ | shrine, temple <br><small>[S085](../../../totonesu/corpus/batches/t-rel#S085)</small> |
 | `pa-zo-li` · pazoli | [W135](words/W135.md) | ✅ | the world, inhabited realm of human persons |
+| `to-pa` · topa | [W195](words/W195.md) | ✅ | thought-realm; mind-space; the Astral Plane <br><small>[S623](../../../totonesu/corpus/batches/dnd#S623)</small> |
 
 ## Artifact / Device
 
@@ -297,18 +300,28 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `wi-fa-ki` · wifaki | [W183](words/W183.md) | ✅ | enchantment; willed-affect-shift; magic of intentionally altering affect and will <br><small>[S603](../../../totonesu/corpus/batches/dnd#S603)</small> |
 | `wi-ra-su` · wirasu | [W179](words/W179.md) | ✅ | magic; the systematic, disciplined practice of directed force <br><small>[S599](../../../totonesu/corpus/batches/dnd#S599) · [S600](../../../totonesu/corpus/batches/dnd#S600) · [S601](../../../totonesu/corpus/batches/dnd#S601) · [S602](../../../totonesu/corpus/batches/dnd#S602) · [S603](../../../totonesu/corpus/batches/dnd#S603) · [S604](../../../totonesu/corpus/batches/dnd#S604) · [S605](../../../totonesu/corpus/batches/dnd#S605) · [S606](../../../totonesu/corpus/batches/dnd#S606) · [S607](../../../totonesu/corpus/batches/dnd#S607)</small> |
 
+## Cosmology / Metaphysics
+
+3 compounds
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `pa-ma` · pama | [W194](words/W194.md) | ✅ | material realm; space of matter; the physical plane <br><small>[S039](../../../totonesu/corpus/batches/t-ha#S039) · [S621](../../../totonesu/corpus/batches/dnd#S621)</small> |
+| `pa-ne-su` · panesu | [W196](words/W196.md) | ✅ | cosmological framework; multiverse; the structured network of planes <br><small>[S619](../../../totonesu/corpus/batches/dnd#S619)</small> |
+| `to-pa` · topa | [W195](words/W195.md) | ✅ | thought-realm; mind-space; the Astral Plane <br><small>[S623](../../../totonesu/corpus/batches/dnd#S623)</small> |
+
 ## Ethics / Philosophy
 
 6 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
-| `wi-de` · wide | [W191](words/W191.md) | ✅ | evil; will toward harm/decrease; maleficent moral disposition <br><small>[S616](../../../totonesu/corpus/batches/dnd#S616) · [S617](../../../totonesu/corpus/batches/dnd#S617) · [S618](../../../totonesu/corpus/batches/dnd#S618)</small> |
+| `wi-de` · wide | [W191](words/W191.md) | ✅ | evil; will toward harm/decrease; maleficent moral disposition <br><small>[S616](../../../totonesu/corpus/batches/dnd#S616) · [S617](../../../totonesu/corpus/batches/dnd#S617) · [S618](../../../totonesu/corpus/batches/dnd#S618) · [S627](../../../totonesu/corpus/batches/dnd#S627)</small> |
 | `wi-no-su` · winosu | [W189](words/W189.md) | ✅ | chaotic; will unbound by structure; spontaneous / freedom-first moral disposition <br><small>[S612](../../../totonesu/corpus/batches/dnd#S612) · [S615](../../../totonesu/corpus/batches/dnd#S615) · [S618](../../../totonesu/corpus/batches/dnd#S618)</small> |
-| `wi-su` · wisu | [W188](words/W188.md) | ✅ | lawful; will organized by structure; rule-following moral disposition <br><small>[S609](../../../totonesu/corpus/batches/dnd#S609) · [S610](../../../totonesu/corpus/batches/dnd#S610) · [S613](../../../totonesu/corpus/batches/dnd#S613) · [S616](../../../totonesu/corpus/batches/dnd#S616)</small> |
-| `wi-su-fe` · wisufe | [W192](words/W192.md) | ✅ | law-neutral; will at the structural limit; neither rule-imposing nor rule-rejecting <br><small>[S611](../../../totonesu/corpus/batches/dnd#S611) · [S614](../../../totonesu/corpus/batches/dnd#S614) · [S617](../../../totonesu/corpus/batches/dnd#S617)</small> |
-| `wi-vo` · wivo | [W190](words/W190.md) | ✅ | good; will toward value/benefit; beneficent moral disposition <br><small>[S452](../../../totonesu/corpus/batches/rom#S452) · [S471](../../../totonesu/corpus/batches/emd#S471) · [S514](../../../totonesu/corpus/batches/emd#S514) · [S521](../../../totonesu/corpus/batches/emd#S521) · [S609](../../../totonesu/corpus/batches/dnd#S609) · [S610](../../../totonesu/corpus/batches/dnd#S610) · [S611](../../../totonesu/corpus/batches/dnd#S611) · [S612](../../../totonesu/corpus/batches/dnd#S612)</small> |
-| `wi-vo-fe` · wivofe | [W193](words/W193.md) | ✅ | ethics-neutral; will at the value limit; neither primarily beneficent nor harmful <br><small>[S613](../../../totonesu/corpus/batches/dnd#S613) · [S614](../../../totonesu/corpus/batches/dnd#S614) · [S615](../../../totonesu/corpus/batches/dnd#S615)</small> |
+| `wi-su` · wisu | [W188](words/W188.md) | ✅ | lawful; will organized by structure; rule-following moral disposition <br><small>[S609](../../../totonesu/corpus/batches/dnd#S609) · [S610](../../../totonesu/corpus/batches/dnd#S610) · [S613](../../../totonesu/corpus/batches/dnd#S613) · [S616](../../../totonesu/corpus/batches/dnd#S616) · [S626](../../../totonesu/corpus/batches/dnd#S626) · [S627](../../../totonesu/corpus/batches/dnd#S627)</small> |
+| `wi-su-fe` · wisufe | [W192](words/W192.md) | ✅ | law-neutral; will at the structural limit; neither rule-imposing nor rule-rejecting <br><small>[S611](../../../totonesu/corpus/batches/dnd#S611) · [S614](../../../totonesu/corpus/batches/dnd#S614) · [S617](../../../totonesu/corpus/batches/dnd#S617) · [S628](../../../totonesu/corpus/batches/dnd#S628)</small> |
+| `wi-vo` · wivo | [W190](words/W190.md) | ✅ | good; will toward value/benefit; beneficent moral disposition <br><small>[S452](../../../totonesu/corpus/batches/rom#S452) · [S471](../../../totonesu/corpus/batches/emd#S471) · [S514](../../../totonesu/corpus/batches/emd#S514) · [S521](../../../totonesu/corpus/batches/emd#S521) · [S609](../../../totonesu/corpus/batches/dnd#S609) · [S610](../../../totonesu/corpus/batches/dnd#S610) · [S611](../../../totonesu/corpus/batches/dnd#S611) · [S612](../../../totonesu/corpus/batches/dnd#S612) · [S626](../../../totonesu/corpus/batches/dnd#S626)</small> |
+| `wi-vo-fe` · wivofe | [W193](words/W193.md) | ✅ | ethics-neutral; will at the value limit; neither primarily beneficent nor harmful <br><small>[S613](../../../totonesu/corpus/batches/dnd#S613) · [S614](../../../totonesu/corpus/batches/dnd#S614) · [S615](../../../totonesu/corpus/batches/dnd#S615) · [S628](../../../totonesu/corpus/batches/dnd#S628)</small> |
 
 ## Meta / Language
 

@@ -2658,6 +2658,43 @@
         "vo",
         "fe"
       ]
+    },
+    {
+      "wnum": "W194",
+      "form": "pa-ma",
+      "written": "pama",
+      "gloss": "material realm; space of matter; the physical plane",
+      "status": "active",
+      "domain": "Cosmology / Metaphysics / Physics",
+      "roots": [
+        "pa",
+        "ma"
+      ]
+    },
+    {
+      "wnum": "W195",
+      "form": "to-pa",
+      "written": "topa",
+      "gloss": "thought-realm; mind-space; the Astral Plane",
+      "status": "active",
+      "domain": "Cosmology / Metaphysics / Philosophy",
+      "roots": [
+        "to",
+        "pa"
+      ]
+    },
+    {
+      "wnum": "W196",
+      "form": "pa-ne-su",
+      "written": "panesu",
+      "gloss": "cosmological framework; multiverse; the structured network of planes",
+      "status": "active",
+      "domain": "Cosmology / Metaphysics",
+      "roots": [
+        "pa",
+        "ne",
+        "su"
+      ]
     }
   ]
 }

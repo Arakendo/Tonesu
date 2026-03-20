@@ -1750,3 +1750,54 @@ Related:       wi (primitive), vo (primitive), fe (primitive), wi-vo (W190 good 
 ```
 
 ---
+
+**W194**
+```
+Form:          pa-ma
+Type:          compound
+Class:         place / realm
+Definition:    material realm; space of matter; the physical plane; any cosmological domain whose primary constituent is physical matter.
+Composition:   pa (space/place) + ma (matter/substance). Head-final: ma (matter) is head; pa specifies it as a spatial domain. pa-ma = the spatial realm defined by matter = the Material Plane. Contrasts with to-pa (W195 thought-realm): the two poles of cosmological substance are matter-primary (pa-ma) and thought-primary (to-pa).
+Register:      general / formal
+Domain:        Cosmology / Metaphysics / Physics
+Status:        ✅ active
+First use:     DND-003, Material Plane (S621): la-na-Material ne pa-ma
+Notes:         W194. First attested DND-003 (S621, Material Plane). Contrast with pa-su (W157 = mountain = structured place): a mountain is a structured instance within physical space; pa-ma is the cosmological category of matter-primary space. Different heads, different meaning. Also contrast with pa-ra (W053 = energetic field) and pa-vo-fe (W153 = holy ground) — all pa-X compounds with distinct readings.
+Related:       pa (primitive), ma (primitive), to-pa (W195 thought-realm — contrast pair), pa-su (W157 mountain — different head), pa-ra (W053 energetic field)
+```
+
+---
+
+**W195**
+```
+Form:          to-pa
+Type:          compound
+Class:         place / realm
+Definition:    thought-realm; mind-space; the Astral Plane; any cosmological domain whose primary constituent is thought, pattern, or conceptual substance.
+Composition:   to (thought/pattern) + pa (space). Head-final: pa (space) is head; to specifies the primary substance is thought/pattern. to-pa = the spatial realm defined by thought = the Astral Plane. Direct contrast pair with pa-ma (W194): matter-primary (pa-ma) vs thought-primary (to-pa) are the two poles of cosmological substance.
+Register:      formal / philosophical
+Domain:        Cosmology / Metaphysics / Philosophy
+Status:        ✅ active
+First use:     DND-003, Astral Plane (S623): la-na-Astral ne to-pa
+Notes:         W195. First attested DND-003 (S623, Astral Plane). Contrast pair with pa-ma (W194): pa-ma = space where ma (matter) is primary; to-pa = space where to (thought/ pattern) is primary. In D&D, navigating the Astral Plane requires mental exertion rather than physical effort; dead gods drift through it as solidified divine thought-substance. to-pa generalizes beyond D&D to any mind-primary or thought-space domain.
+Related:       to (primitive), pa (primitive), pa-ma (W194 material realm — contrast pair), to-ko (W044 memory — thought-containment), a-to (abstract knowing — scope-derived)
+```
+
+---
+
+**W196**
+```
+Form:          pa-ne-su
+Type:          compound
+Class:         concept / system
+Definition:    cosmological framework; multiverse; the Great Wheel of D&D as a structured system of planes and their relations; any system of spaces constituted by their structural relations to each other.
+Composition:   pa (space/place) + ne (relation/connection) + su (structure/order). Right-branching: pa-(ne-su). ne-su = relational structure (the kind of structure constituted by connections/relations). pa-(ne-su) = the spatial system constituted by those relational structures = the Great Wheel. Parse note: right-branching is mandatory. The wrong parse (pa-ne)-su = structure of spatial-relations would invert the modifier/head relationship.
+Register:      formal
+Domain:        Cosmology / Metaphysics
+Status:        ✅ active
+First use:     DND-003, Great Wheel framework (S619): la-na-GreatWheel ne pa-ne-su
+Notes:         W196. First attested DND-003 (S619, the Great Wheel). pa-ne-su captures the Great Wheel's defining character as a relational system: the planes are defined by their structural relations to each other (alignment positions, transitive connections, elemental adjacencies), not by any single property. The term generalizes beyond D&D to any multiverse or multi-domain cosmological framework.
+Related:       pa (primitive), ne (primitive), su (primitive), a-pa (scope-derived form = metaphysical plane), to-pa (W195), pa-ma (W194)
+```
+
+---

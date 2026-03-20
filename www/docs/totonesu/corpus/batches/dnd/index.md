@@ -4,7 +4,7 @@ title: "D&D — The Eight Schools of Magic"
 
 # D&D — The Eight Schools of Magic
 
-*Theme: [Foundations](../../foundations/overview/)* · 20 sentences.
+*Theme: [Foundations](../../foundations/overview/)* · 30 sentences.
 
 [← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
 
@@ -215,6 +215,85 @@ title: "D&D — The Eight Schools of Magic"
 | Jedi (STW-001) | `wi-su` | `wi-vo` | Lawful Good |
 | Sith (STW-002) | `wi-su` | `wi-de` | Lawful Evil |
 | `ara` (the Force) | `wi-su-fe` | `wi-vo-fe` | True Neutral |
+
+## DND-003 · D&D — The Great Wheel Cosmology
+
+<span id="S619"></span>
+**S619**
+`la-na-GreatWheel  ne  pa-ne-su`
+*The Great Wheel is the cosmological framework.*
+
+<span id="S620"></span>
+**S620**
+`a-pa  :  pa-fe`
+*A plane is a bounded metaphysical space.*
+
+<span id="S621"></span>
+**S621**
+`la-na-Material  ne  pa-ma`
+*The Material Plane is the realm of matter.*
+
+<span id="S622"></span>
+**S622**
+`la-na-Ethereal  ne  e-pa`
+*The Ethereal Plane is transitional space.*
+
+<span id="S623"></span>
+**S623**
+`la-na-Astral  ne  to-pa`
+*The Astral Plane is thought-space.*
+
+<span id="S624"></span>
+**S624**
+`la-na-Inner  ne  u-pa`
+*The Inner Planes are the foundational elemental spaces.*
+
+<span id="S625"></span>
+**S625**
+`la-na-Outer  ne  o-pa`
+*The Outer Planes are collectively distributed space.*
+
+<span id="S626"></span>
+**S626**
+`la-na-Celestia  ne  o-pa  /  ne  wi-su  ne  wi-vo`
+*Celestia is an Outer Plane — it has lawful structure and beneficent will.*
+
+<span id="S627"></span>
+**S627**
+`la-na-Baator  ne  o-pa  /  ne  wi-su  ne  wi-de`
+*Baator is an Outer Plane — it has lawful structure and harm-directed will.*
+
+<span id="S628"></span>
+**S628**
+`la-na-Outlands  ne  wi-su-fe  /  ne  wi-vo-fe`
+*The Outlands is both law-neutral and ethics-neutral — the neutral hub of the cosmological wheel.*
+
+### Batch Summary
+
+| Entry | Written form | Plane / entity | Key vocabulary |
+|-------|-------------|----------------|----------------|
+| S619 (DND-003-A) | `lanaGreatWheel ne panesu` | The Great Wheel | W196 first att. |
+| S620 (DND-003-B) | `apa : pafe` | Plane (generic) | `a-pa` first att.; topic frame |
+| S621 (DND-003-C) | `lanaMaterial ne pama` | Material Plane | W194 first att. |
+| S622 (DND-003-D) | `lanaEthereal ne epa` | Ethereal Plane | `e-pa` first att. |
+| S623 (DND-003-E) | `lanaAstral ne topa` | Astral Plane | W195 first att. |
+| S624 (DND-003-F) | `lanaInner ne upa` | Inner Planes | `u-pa` first att. |
+| S625 (DND-003-G) | `lanaOuter ne opa` | Outer Planes | `o-pa` first att. |
+| S626 (DND-003-H) | `lanaCelestia ne opa / ne wisu ne wivo` | Celestia (LG) | W188 + W190 |
+| S627 (DND-003-I) | `lanaBaator ne opa / ne wisu ne wide` | Baator (LE) | W188 + W191 |
+| S628 (DND-003-J) | `lanaOutlands ne wisufe / ne wivofe` | Outlands (TN) | W192 + W193 |
+
+**Cross-batch alignment mapping (extended):**
+
+| Plane / Entity | Law | Ethics | Batch |
+|----------------|-----|--------|-------|
+| Celestia | `wi-su` | `wi-vo` | DND-003 |
+| Baator | `wi-su` | `wi-de` | DND-003 |
+| Outlands | `wi-su-fe` | `wi-vo-fe` | DND-003 |
+| TN Druid | `wi-su-fe` | `wi-vo-fe` | DND-002 |
+| Jedi Order | `wi-su` | `wi-vo` | STW-001 |
+| Sith Order | `wi-su` | `wi-de` | STW-002 |
+| The Force (`ara`) | `wi-su-fe` | `wi-vo-fe` | STW-001 (cross-ref) |
 
 ---
 
