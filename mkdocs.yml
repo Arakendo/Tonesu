@@ -64,10 +64,10 @@ nav:
       - Named roots: tonesu/named-roots.md
       - Domains: tonesu/domains.md
     - Vocabulary:
-      - Registry: tonesu/registry/overview.md
+      - Tonesu Registry: tonesu/registry/overview.md
       - English index: tonesu/registry/english.md
-      - By domain: tonesu/registry/by-domain.md
-      - By root: tonesu/registry/by-root.md
+      - Tonesu by domain: tonesu/registry/by-domain.md
+      - Tonesu by root: tonesu/registry/by-root.md
       - Colloquial registry: tonesu/registry/colloquial.md
       - Colloquial lookup: tonesu/registry/colloquial-english.md
       - Word Builder: tonesu/builder.md
