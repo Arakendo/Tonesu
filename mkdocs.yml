@@ -149,6 +149,7 @@ extra_javascript:
   - js/dataTables.min.js
   - js/datatables-init.js
   - js/root-builder.js
+  - js/nav-expand.js
   - js/web-speech.js
 
 extra:
