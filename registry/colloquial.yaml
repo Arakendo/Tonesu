@@ -1,0 +1,171 @@
+# registry/colloquial.yaml
+#
+# Structured source for all registered CLQ colloquial entries.
+# Consumed by scripts/build_registry.py to generate:
+#   www/docs/tonesu/registry/colloquial.md          — overview / lookup table
+#   www/docs/tonesu/registry/colloquial-english.md  — English → colloquial index
+#
+# Authoring rules (mirrors registry/colloquial.md):
+#   - All entries trace back to a canonical formal compound in entries.yaml
+#   - formal compound must have a corpus attestation sentence (first_use)
+#   - status: active | proposed | retired
+#   - CLQ IDs are stable — never reuse a retired id number
+#
+# namespace_notes: records CVC collisions that prevent a stub from being registered.
+# These appear as a separate section on the overview page.
+
+colloquial:
+
+  - clq_id: CLQ-001a
+    form: zol
+    formal: zo-se-so-li
+    gloss: "canid class (dog, wolf, coyote, jackal)"
+    compression: "zo + [se-so dropped] + li → zol"
+    anchor: zo
+    status: active
+    first_use: S269
+    notes: >-
+      Base-class stub, not a standalone species label. Plain zol = canid class as
+      a whole; species reference requires a retained discriminator (li-ne'zol = dog,
+      wi-pu'zol = wolf). Discriminator prefixes are NOT dropped in contraction.
+    related_clq:
+      - CLQ-001b
+
+  - clq_id: CLQ-001b
+    form: zof
+    formal: zo-se-so-fe
+    gloss: "felid/fox class (house cat, lion, tiger, leopard, fox)"
+    compression: "zo + [se-so dropped] + fe → zof"
+    anchor: zo
+    status: active
+    first_use: S269
+    notes: >-
+      Symmetric pair with zol. Plain zof = felid/fox class as a whole; species
+      reference requires a retained discriminator (li-ne'zof = house cat,
+      pu-zo'zof = lion, ko-pa'zof = fox). Registered simultaneously with zol
+      on analogical grounds; first direct corpus use originally pending.
+    related_clq:
+      - CLQ-001a
+
+  - clq_id: CLQ-002a
+    form: zod
+    formal: zo-se-so-di
+    gloss: "bird class (Aves — eagle, parrot, penguin, chicken, sparrow)"
+    compression: "zo + [se-so dropped] + di → zod"
+    anchor: zo
+    status: active
+    first_use: S284
+    notes: >-
+      Base-class stub, not a species label. Plain zod = bird class as a whole;
+      species reference requires a retained discriminator (wi-di'zod = eagle,
+      si-so'zod = parrot, ma-ki'zod = penguin).
+    related_clq: []
+
+  - clq_id: CLQ-003a
+    form: zos
+    formal: zo-su
+    gloss: "plant class (trees, flowers, grass, vines)"
+    compression: "zo + su → zos (two-root base; solid written form = stub)"
+    anchor: zo
+    status: active
+    first_use: S292
+    notes: >-
+      Two-root base; no middle acoustic-organism layer to drop. Different
+      compression depth from zol/zof/zod (which drop se-so) but satisfies the
+      same rule: unambiguous in discourse domain; formal compound canonical.
+      Plain zos = plant class; discriminated forms retain prefix (be-di'zos = tree,
+      lu-be'zos = flower, pa-be'zos = grass).
+    related_clq: []
+
+  - clq_id: CLQ-004a
+    form: mas
+    formal: ma-su
+    gloss: "rock / stone class"
+    compression: "ma + su → mas (matter anchor; same mechanism as zos)"
+    anchor: ma
+    status: active
+    first_use: S299
+    notes: >-
+      First colloquial stub anchored on ma (matter) rather than zo (organism).
+      Plain mas = rock/stone class as a whole; discriminated forms retain prefix
+      (pu'mas = aggregate rock / gravel / sand casual form).
+    related_clq: []
+
+  - clq_id: CLQ-005a
+    form: zom
+    formal: zo-se-ma
+    gloss: "fish / aquatic-organism class"
+    compression: "zo + [se dropped] + ma → zom (one-root drop, not two)"
+    anchor: zo
+    status: active
+    first_use: S313
+    notes: >-
+      Three-morpheme base (zo-se-ma); shallower than the four-morpheme
+      acoustic-organism bases (zo-se-so-[x]), so only one middle root dropped
+      rather than two. Plain zom = fish class; discriminated forms retain prefix
+      (dipa'zom = salmon casual, wiki'zom = shark casual).
+    related_clq:
+      - CLQ-005b
+
+  - clq_id: CLQ-005b
+    form: zop
+    formal: zo-se-so-pa
+    gloss: "whale / cetacean class"
+    compression: "zo + [se-so dropped] + pa → zop"
+    anchor: zo
+    status: active
+    first_use: S311
+    notes: >-
+      Architectural counterpart to zom. Whales are zo-se-so-pa (acoustic organisms
+      whose signal operates at place scale), not zo-se-ma (matter-perceptual
+      aquatic organisms). The fish/whale split is the central design decision of
+      KNM-006: acoustic primacy, not aquatic habitat, determines the branch.
+    related_clq:
+      - CLQ-005a
+
+  - clq_id: CLQ-006a
+    form: zon
+    formal: zo-se-ne
+    gloss: "herd ungulate class (deer, horse, cattle, bison)"
+    compression: "zo + [se dropped] + ne → zon; terminal root ne: initial consonant n retained as coda"
+    anchor: zo
+    status: active
+    first_use: S320
+    notes: >-
+      One-root drop (se dropped), same compression depth as zom. Terminal root
+      ne contributes its initial consonant n as the stub coda. Plain zon = herd
+      ungulate class; discriminated forms retain prefix (di'zon = horse casual,
+      pu'zon = cattle casual, re'zon = deer casual).
+    related_clq: []
+
+# ---------------------------------------------------------------------------
+# Namespace collision notes — organism classes whose CVC stub would collide
+# with an already-registered entry. These classes use disyllabic casual forms.
+# ---------------------------------------------------------------------------
+
+namespace_notes:
+
+  - note_id: KNM-008
+    form_blocked: zop
+    blocked_by: CLQ-005b
+    formal_base: zo-pe
+    class_affected: "arthropod / invertebrate"
+    documented_at: S327
+    notes: >-
+      zo-pe → zop collides with whale stub (CLQ-005b). Arthropod base uses
+      disyllabic casual form zo-pe. Discriminated species-level forms
+      (ne'zo-pe, su'zo-pe, so'zo-pe, zi'zo-pe, de'zo-pe) retain their
+      discriminator prefixes and are unaffected.
+
+  - note_id: FNG-001
+    form_blocked: zon
+    blocked_by: CLQ-006a
+    formal_base: zo-ne
+    class_affected: "fungal / mycelial"
+    documented_at: S334
+    notes: >-
+      zo-ne → zon collides with herd-ungulate stub (CLQ-006a). Fungal base uses
+      disyllabic casual form zo-ne. Structural cause: a depth-2 compound zo-{Y}
+      and a depth-3 compound zo-se-{Y} share terminal root Y and therefore produce
+      colliding stubs whenever they end on the same root. Both collisions
+      (KNM-008 and FNG-001) arise from this depth-boundary compression rule.

@@ -68,6 +68,8 @@ nav:
       - English index: tonesu/registry/english.md
       - By domain: tonesu/registry/by-domain.md
       - By root: tonesu/registry/by-root.md
+      - Colloquial registry: tonesu/registry/colloquial.md
+      - Colloquial lookup: tonesu/registry/colloquial-english.md
       - Word Builder: tonesu/builder.md
   - Totonesu:
     - totonesu/index.md

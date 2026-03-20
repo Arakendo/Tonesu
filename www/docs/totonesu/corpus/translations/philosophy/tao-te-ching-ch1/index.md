@@ -210,6 +210,29 @@ The `/` mark maps Chinese `;` exactly for coordinated ontological complementarit
 
 ---
 
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `su` | none | — | Primitive CV root — minimum possible; no compression applies |
+| `su-si` | none | — | 2-root compound — below 3-morpheme contraction threshold |
+| `su-no-fe` | none | — | `[X]-no-fe` extremal — outside CLQ scope; CLQ-EXT unresolved |
+| `su-si-no-fe` | none | — | `[X]-no-fe` extremal — outside CLQ scope |
+| `no-su-si` | none | — | Negated 2-root compound — below threshold |
+| `go-ti` | none | — | 2-root compound — below threshold |
+| `go-zo-li` | none | — | 3-root compound but newly attested; not yet frequent enough to warrant a stub |
+| `pa-no-fe` | none | — | `[X]-no-fe` extremal — outside CLQ scope |
+| `go-no-fe` | none | — | `[X]-no-fe` extremal — outside CLQ scope |
+| `pu-ma` | none | — | 2-root compound — below threshold |
+| `go {…},` conditional | none | `;` possible? | No — the `go` conditional is semantically load-bearing here; `;` gives sequential reading, losing the potentiality/conditionality of 可 |
+| `helms` identity | none | — | Identity operator; cannot relax without changing the ontological claim |
+
+**Verdict:** TAO-001 is irreducibly formal. Every form is either a primitive root, a 2-root compound below the contraction threshold, an `[X]-no-fe` extremal (outside CLQ scope until CLQ-EXT is resolved), or a semantically load-bearing operator whose relaxation would change the claim rather than merely register it.
+
+*No CLQ entries registered from this batch. No `register: colloquial` corpus sentences from S474–S476.*
+
+---
+
 ## Meta-note: Tonesu and Tonesu
 
 Tonesu takes its name from `tonesu` (W000): complete structured knowledge — "the condition of patterns held together in structure, truth as an organized relational whole." The language aspires toward `tonesu` in the same way that Laozi's student aspires toward 道: as the organizing principle that everything is in relation to.

@@ -237,6 +237,45 @@ Strip hyphens: `to-li` → `toli` · `ra-ki-mu` → `rakimu` · `to-no-fe` → `
 
 ---
 
+## Translation file conventions — Colloquial Register Analysis section
+
+Every translation file ends with a `## Colloquial Register Analysis` section placed **after the batch summary** and **before any closing meta-notes**. This section is the canonical inspection record for whether forms from the batch compress under CLQ contraction rules.
+
+### Format
+
+```markdown
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `form` | CLQ-NNN | `stub` | one-line note |
+| `form` | none | — | reason |
+
+**Verdict:** [one sentence — e.g. "irreducibly formal" or "N stubs applicable: ..."]
+
+*CLQ entries registered from this batch: CLQ-NNN · CLQ-NNN / none.*
+```
+
+### Row rules
+
+- Include every new compound first-attested in the batch, plus any operators that might relax under register shift (e.g. `go {…},` → `;`)
+- **Primitive CV root** → `none` + "Primitive CV root — minimum possible"
+- **2-root compound** → `none` + "2-root — below 3-morpheme contraction threshold"
+- **`[X]-no-fe` extremal** → `none` + "`[X]-no-fe` extremal — outside CLQ scope; CLQ-EXT unresolved"
+- **Semantically load-bearing operator** → `none` + "semantically load-bearing; relaxation changes the claim"
+- **CLQ entry applies** → record `CLQ-NNN`, the stub form, and a note; then register the entry in both `registry/colloquial.md` AND `registry/colloquial.yaml`
+
+### Verdict criteria
+
+- **"irreducibly formal"** — all forms are below threshold, extremal, or load-bearing
+- **"N stubs applicable: [list]"** — at least one new or existing CLQ entry applies to a form in the batch
+
+### Pipeline note
+
+The `## Colloquial Register Analysis` section is copied verbatim into the website by `copy_translation_files()` in `scripts/build_registry.py` — no special handling needed. The colloquial registry lookup pages (`tonesu/registry/colloquial.md` and `tonesu/registry/colloquial-english.md`) are generated from `registry/colloquial.yaml` by the same script. When a new CLQ entry is registered, update **both** `registry/colloquial.md` (human-readable) and `registry/colloquial.yaml` (pipeline source).
+
+---
+
 ## Translation file conventions (`corpus/translations/`)
 
 ### `Written:` fields are mechanical hyphen-stripping only

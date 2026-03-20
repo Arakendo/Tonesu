@@ -28,6 +28,7 @@ from collections import defaultdict
 REPO          = Path(__file__).resolve().parent.parent
 ENTRIES       = REPO / "registry" / "entries.yaml"
 PRIMITIVES    = REPO / "registry" / "primitives.yaml"
+COLLOQUIAL    = REPO / "registry" / "colloquial.yaml"
 SENTENCES     = REPO / "corpus" / "sentences.yaml"
 BATCHES       = REPO / "corpus" / "batches.yaml"
 CONVERSATIONS = REPO / "corpus" / "conversations.yaml"
@@ -215,6 +216,14 @@ def load_batches() -> list:
         return []
     data = yaml.safe_load(BATCHES.read_text(encoding="utf-8"))
     return data.get("batches", [])
+
+
+def load_colloquial() -> tuple[list, list]:
+    """Load registry/colloquial.yaml; return (entries, namespace_notes)."""
+    if not COLLOQUIAL.exists():
+        return [], []
+    data = yaml.safe_load(COLLOQUIAL.read_text(encoding="utf-8"))
+    return data.get("colloquial", []), data.get("namespace_notes", [])
 
 
 # ---------------------------------------------------------------------------
@@ -1354,6 +1363,128 @@ def generate_translations_index(trans_entries: list[dict]) -> str:
 
 
 # ---------------------------------------------------------------------------
+# Colloquial registry page generators
+# ---------------------------------------------------------------------------
+
+def generate_colloquial_overview(
+    clq_entries: list,
+    clq_notes: list,
+    sentence_batch_map: dict | None = None,
+) -> str:
+    """Generate www/docs/tonesu/registry/colloquial.md from colloquial.yaml."""
+    STATUS_MAP = {"active": "✅", "proposed": "⚠️", "retired": "🚫"}
+    lines = [
+        "---",
+        "title: Colloquial Registry",
+        "---",
+        "",
+        "# Colloquial Forms",
+        "",
+        "Registered contractions and stub-forms used in the casual/spoken register. "
+        "All entries trace back to a canonical formal compound with a corpus attestation. "
+        "Formal compounds remain the normative lexical entries; colloquial forms are "
+        "spoken shortcuts, never the normative phonological form.",
+        "",
+        "**Contraction rule:** A formal compound of 3+ morphemes may contract to a "
+        "shorter CVC spoken form when: (1) the formal compound is at least 3 morphemes "
+        "long; (2) the short form is unambiguous within its discourse domain; "
+        "(3) the formal compound remains the canonical registered entry.",
+        "",
+        "See also: [Alphabetical list](overview.md) · "
+        "[English index](english.md) · [By domain](by-domain.md) · "
+        "[By root](by-root.md)",
+        "",
+        "| CLQ ID | Form | Formal | Gloss | Status | First use |",
+        "|--------|------|--------|-------|--------|-----------|",
+    ]
+    for e in clq_entries:
+        status_icon = STATUS_MAP.get(e.get("status", ""), "⏳")
+        clq_id   = e.get("clq_id", "")
+        form     = e.get("form", "")
+        formal   = e.get("formal", "")
+        gloss    = e.get("gloss", "")
+        first    = e.get("first_use", "")
+        lines.append(
+            f"| {clq_id} | `{form}` | `{formal}` | {gloss} | {status_icon} | {first} |"
+        )
+    lines += [
+        "",
+        "## Compression notes",
+        "",
+    ]
+    for e in clq_entries:
+        comp = e.get("compression", "")
+        notes_text = e.get("notes", "")
+        related = e.get("related_clq") or []
+        related_str = (", ".join(f"`{r}`" for r in related)) if related else ""
+        lines += [
+            f"### {e.get('clq_id', '')} — `{e.get('form', '')}`",
+            "",
+            f"**Formal:** `{e.get('formal', '')}` · **Gloss:** {e.get('gloss', '')}",
+            "",
+        ]
+        if comp:
+            lines += [f"**Compression:** {comp}", ""]
+        if notes_text:
+            lines += [notes_text.strip(), ""]
+        if related_str:
+            lines += [f"**Related:** {related_str}", ""]
+    if clq_notes:
+        lines += [
+            "## Namespace collision notes",
+            "",
+            "CVC stubs that cannot be registered because the form is already taken.",
+            "",
+            "| Note ID | Form blocked | Blocked by | Formal base | Class affected |",
+            "|---------|-------------|-----------|-------------|----------------|",
+        ]
+        for n in clq_notes:
+            lines.append(
+                f"| {n.get('note_id', '')} | `{n.get('form_blocked', '')}` "
+                f"| {n.get('blocked_by', '')} | `{n.get('formal_base', '')}` "
+                f"| {n.get('class_affected', '')} |"
+            )
+        lines.append("")
+        for n in clq_notes:
+            lines += [
+                f"### {n.get('note_id', '')} — `{n.get('formal_base', '')}`",
+                "",
+                n.get("notes", "").strip(),
+                "",
+            ]
+    lines += ["---", "", NOTE]
+    return "\n".join(lines)
+
+
+def generate_colloquial_english(clq_entries: list) -> str:
+    """Generate www/docs/tonesu/registry/colloquial-english.md from colloquial.yaml."""
+    STATUS_MAP = {"active": "✅", "proposed": "⚠️", "retired": "🚫"}
+    lines = [
+        "---",
+        "title: Colloquial Lookup",
+        "---",
+        "",
+        "# Colloquial Lookup — English → Stub",
+        "",
+        "Find the colloquial stub form for a class you know in English.",
+        "",
+        "See also: [Colloquial registry](colloquial.md) · "
+        "[Alphabetical list](overview.md) · [English index](english.md)",
+        "",
+        "| Gloss | Stub | Formal | Status | First use |",
+        "|-------|------|--------|--------|-----------|",
+    ]
+    for e in sorted(clq_entries, key=lambda x: x.get("gloss", "").lower()):
+        status_icon = STATUS_MAP.get(e.get("status", ""), "⏳")
+        lines.append(
+            f"| {e.get('gloss', '')} | `{e.get('form', '')}` "
+            f"| `{e.get('formal', '')}` | {status_icon} | {e.get('first_use', '')} |"
+        )
+    lines += ["", "---", "", NOTE]
+    return "\n".join(lines)
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -1364,6 +1495,7 @@ def main():
     conv_turns    = load_conversations()
     conv_data     = load_conv_data()
     batches_data  = load_batches()
+    clq_entries, clq_notes = load_colloquial()
     attest_index  = build_attestation_index(sentences, conv_turns)
     domain_groups = build_domain_groups(entries)
     root_families = build_root_families(entries)
@@ -1401,6 +1533,14 @@ def main():
     (OUT_DIR / "english.md").write_text(generate_english_page(english_rows, attest_index, sentence_batch_map), encoding="utf-8")
     (OUT_DIR / "by-domain.md").write_text(generate_by_domain_page(domain_groups, attest_index, sentence_batch_map), encoding="utf-8")
     (OUT_DIR / "by-root.md").write_text(generate_by_root_page(root_families, primitives, attest_index, sentence_batch_map), encoding="utf-8")
+
+    # --- Colloquial registry pages ---
+    (OUT_DIR / "colloquial.md").write_text(
+        generate_colloquial_overview(clq_entries, clq_notes, sentence_batch_map), encoding="utf-8"
+    )
+    (OUT_DIR / "colloquial-english.md").write_text(
+        generate_colloquial_english(clq_entries), encoding="utf-8"
+    )
 
     # --- Corpus: master index ---
     (CORPUS_DIR / "overview.md").write_text(
@@ -1473,6 +1613,8 @@ def main():
     print(f"  english.md  : {len(english_rows)} English terms")
     print(f"  by-domain.md: {len(domain_groups)} domains")
     print(f"  by-root.md  : {len(root_families)} root families")
+    clq_active = sum(1 for e in clq_entries if e.get("status") != "retired")
+    print(f"  colloquial  : {clq_active} active stubs, {len(clq_notes)} namespace notes")
     print(f"  corpus/     : {len(sentences)} sentences · {n_conv_turns} conversation turns")
     print(f"    themes    : {len(THEME_ORDER)} theme pages")
     print(f"    batches   : {batch_page_count} batch pages")
