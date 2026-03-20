@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 78 |
+| [w101-plus.md](w101-plus.md) | W101+ | 87 |
 
-**Total: 166 W-series entries** — active: 122 · proposed: 3 · pending: 39 · cold: 0 · retired: 2
+**Total: 175 W-series entries** — active: 131 · proposed: 3 · pending: 39 · cold: 0 · retired: 2
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -36,6 +36,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `de-su` | W119 | fault, wrong, moral failing | ✅ | [w101-plus](w101-plus.md) |
 | `de-vo` | W121 | evil, value-corruption quality | ✅ | [w101-plus](w101-plus.md) |
 | `de-zo` | W178 | death, dying (organism-decrease, non-agentive) | ✅ | [w101-plus](w101-plus.md) |
+| `de-zo-ki` | W186 | necromancy; death-organism-change; magic of transformation through and across death | ✅ | [w101-plus](w101-plus.md) |
 | `di-ki-li` | W061 | navigator | ✅ | [w051-w100](w051-w100.md) |
 | `du-zo-su` | W142 | fruit, plant-result | ⏳ | [w101-plus](w101-plus.md) |
 | `fa-de` | W094 | affect fading | ✅ | [w051-w100](w051-w100.md) |
@@ -53,6 +54,8 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `fe-si` | W024 | warning, boundary-condition signal | ✅ | [w001-w050](w001-w050.md) |
 | `fe-su` | W055 | ward, protective barrier | ✅ | [w051-w100](w051-w100.md) |
 | `fe-vo` | W065 | sacredness, set-apart quality | ✅ | [w051-w100](w051-w100.md) |
+| `ge-ki` | W187 | transmutation; quality-change; fundamental alteration of properties | ✅ | [w101-plus](w101-plus.md) |
+| `ge-se-ki` | W185 | illusion; quality-perception-change; magic of crafting apparent properties | ✅ | [w101-plus](w101-plus.md) |
 | `go-ne` | W159 | self-originating relation / "I am who I am" | ✅ | [w101-plus](w101-plus.md) |
 | `ha-de` | W044 | cooling, thermal decrease | ✅ | [w001-w050](w001-w050.md) |
 | `ka-de-zo` | W128 | kill, deliberate ending of life | ✅ | [w101-plus](w101-plus.md) |
@@ -69,6 +72,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `ki-ne` | W152 | sandal, motion-bond (footwear) | ✅ | [w101-plus](w101-plus.md) |
 | `ki-pa` | W049 | corridor, passage | ✅ | [w001-w050](w001-w050.md) |
 | `ki-pa-mu` | W086 | vehicle, moving enclosed place | ✅ | [w051-w100](w051-w100.md) |
+| `ko-fe-ki` | W180 | abjuration; containment-limit-change; magic of maintaining protective barriers | ✅ | [w101-plus](w101-plus.md) |
 | `ko-mu` | W052 | vessel, container artifact | ✅ | [w051-w100](w051-w100.md) |
 | `ko-ne-mu` | W176 | chain, shackle, constraining bond | ✅ | [w101-plus](w101-plus.md) |
 | `ko-pa` | W048 | room, enclosed space | ✅ | [w001-w050](w001-w050.md) |
@@ -96,6 +100,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `no-su'ma` | W115 | gas (material state) | ⏳ | [w101-plus](w101-plus.md) |
 | `nu-se` | W102 | measurement, quantitative detection | ✅ | [w101-plus](w101-plus.md) |
 | `pa-be'ka-li-su` | W125 | kingdom of heaven, upper-space governance | ✅ | [w101-plus](w101-plus.md) |
+| `pa-be-ki` | W181 | conjuration; spatial-emergence-change; magic of making things emerge into new places | ✅ | [w101-plus](w101-plus.md) |
 | `pa-fe` | W138 | vault, firmament, sky-dome | ⏳ | [w101-plus](w101-plus.md) |
 | `pa-ki` | W087 | adrift, uncontrolled spatial motion | ✅ | [w051-w100](w051-w100.md) |
 | `pa-ki` | W156 | liberation / liberator, place-motion (⚠️ form-shares W087 — pending resolution) | ⚠️ | [w101-plus](w101-plus.md) |
@@ -107,6 +112,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `pa-wi` | W088 | destination, intentional target place | ✅ | [w051-w100](w051-w100.md) |
 | `pa-wi-ka-su` | W066 | shrine, temple | ✅ | [w051-w100](w051-w100.md) |
 | `pa-zo-li` | W135 | the world, inhabited realm of human persons | ✅ | [w101-plus](w101-plus.md) |
+| `ra-be-ki` | W184 | evocation; force-manifestation-change; magic of channeling and releasing raw force | ✅ | [w101-plus](w101-plus.md) |
 | `ra-ki` | W038 | storm, kinetic-force discharge | ⏳ | [w001-w050](w001-w050.md) |
 | `ra-ki-mu` | W012 | engine, motor, generator | ⏳ | [w001-w050](w001-w050.md) |
 | `ra-lu-ki` | W151 | fire, energy-light-process | ✅ | [w101-plus](w101-plus.md) |
@@ -152,6 +158,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `to-ne-su` | W000 | truth; the language itself | ✅ | [w001-w050](w001-w050.md) |
 | `to-re-su` | W064 | canonical doctrine, scripture | ✅ | [w051-w100](w051-w100.md) |
 | `to-ru` | W083 | consensus, shared conceptual identity | ✅ | [w051-w100](w051-w100.md) |
+| `to-se-ki` | W182 | divination; pattern-perception-change; magic of transforming perception to access hidden knowledge | ✅ | [w101-plus](w101-plus.md) |
 | `to-si` | W026 | query; proposition / thought-signal | ✅ | [w001-w050](w001-w050.md) |
 | `to-su` | W030 | organized knowledge, theory, model | ⏳ | [w001-w050](w001-w050.md) |
 | `to-su-ki` | W025 | comprehend, enter organized knowledge | ✅ | [w001-w050](w001-w050.md) |
@@ -161,10 +168,12 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `vo-ne` | W118 | righteousness, right relational standing | ✅ | [w101-plus](w101-plus.md) |
 | `wi-de-li` | W124 | adversary, enemy, opposing-will person | ✅ | [w101-plus](w101-plus.md) |
 | `wi-du` | W175 | victory, achievement (will-result) | ✅ | [w101-plus](w101-plus.md) |
+| `wi-fa-ki` | W183 | enchantment; willed-affect-shift; magic of intentionally altering affect and will | ✅ | [w101-plus](w101-plus.md) |
 | `wi-fe` | W100 | rule, prohibition, policy-imposed limit | ✅ | [w051-w100](w051-w100.md) |
 | `wi-ka-su` | W054 | ritual, structured intentional practice | ✅ | [w051-w100](w051-w100.md) |
 | `wi-no-ra` | W132 | meekness, will-without-force | ✅ | [w101-plus](w101-plus.md) |
 | `wi-ra` | W177 | directed power, authority (will-force) | ✅ | [w101-plus](w101-plus.md) |
+| `wi-ra-su` | W179 | magic; the systematic, disciplined practice of directed force | ✅ | [w101-plus](w101-plus.md) |
 | `wi-re` | W099 | feedback loop, iterative goal-cycle | ✅ | [w051-w100](w051-w100.md) |
 | `wi-re-su` | W074 | operational protocol, standing procedure | ✅ | [w051-w100](w051-w100.md) |
 | `wi-si` | W063 | prayer, will-signal | ✅ | [w051-w100](w051-w100.md) |
@@ -234,13 +243,16 @@ Concept-first lookup: find the compound you need by domain.
 `de-su` W119 fault · `de-vo` W121 evil · `go-ne` W159 self-originating relation / "I am who I am" · `ka-li-su` W147 governance · `ka-no-de-su` W120 forgiveness · `li-pu-pa` W036 city · `ne-su` W031 network · `ne-to` W084 mutual acknowledgment · `ne-to-fe` W165 covenant · `ne-zi-re` W131 spouse · `pa-vo-fe` W153 holy ground · `re-ka-ne-li` W134 peacemaker · `si-no-vo-li` W126 hypocrite · `to-fe-su` W072 epistemic standards body/code · `wi-de-li` W124 adversary · `wi-fe` W100 rule · `wi-re` W099 feedback loop · `wi-re-su` W074 operational protocol · `wi-to-su` W073 design specification
 
 **Organism / Biology**
-`de-ki'ma` W162 wine / fermented liquid · `de-zo` W178 death · `du-zo-su` W142 fruit · `ka-de-zo` W128 kill · `ma-zo-ki` W146 crawler · `se-lu` W130 eye · `wi-zo` W145 wild animal · `zi-zo` W106 biological coupling event · `zi-zo-du` W108 du-role in biological coupling · `zi-zo-go` W107 go-role in biological coupling · `zo-de` W051 fatigue · `zo-ki'ma` W164 blood · `zo-li` W148 human person · `zo-ma` W163 body · `zo-no-ki` W043 rest · `zo-ra` W117 life-energy · `zo-ra-ma` W144 food · `zo-se-ki` W060 enter trance · `zo-si` W069 spirit · `zo-su-be` W143 seed · `zo-su-ka-li` W150 shepherd · `zo-to` W068 soul
+`de-ki'ma` W162 wine / fermented liquid · `de-zo` W178 death · `de-zo-ki` W186 necromancy · `du-zo-su` W142 fruit · `ka-de-zo` W128 kill · `ma-zo-ki` W146 crawler · `se-lu` W130 eye · `wi-zo` W145 wild animal · `zi-zo` W106 biological coupling event · `zi-zo-du` W108 du-role in biological coupling · `zi-zo-go` W107 go-role in biological coupling · `zo-de` W051 fatigue · `zo-ki'ma` W164 blood · `zo-li` W148 human person · `zo-ma` W163 body · `zo-no-ki` W043 rest · `zo-ra` W117 life-energy · `zo-ra-ma` W144 food · `zo-se-ki` W060 enter trance · `zo-si` W069 spirit · `zo-su-be` W143 seed · `zo-su-ka-li` W150 shepherd · `zo-to` W068 soul
 
 **Energy / Matter / Physics**
 `ha-de` W044 cooling · `ki'ma` W114 liquid (material state) · `lu-mu` W139 light-body · `ma-ra` W116 plasma · `ne-ra` W058 resonance · `ne-ra-ki` W059 attune · `no-su'ma` W115 gas (material state) · `nu-se` W102 measurement · `pa-ra` W053 energetic field · `ra-ki` W038 storm · `ra-ki-mu` W012 engine · `ra-lu-ki` W151 fire · `ra-ma` W082 fuel · `ra-vo` W071 signal intensity · `su'ma` W113 solid (material state) · `zi-ra` W104 physical interaction
 
 **Relation / State / Quality**
 `de-be` W035 repair · `ka-ne-de` W092 deliberate bond dissolution · `ne-de` W091 bond dissolution (no assigned cause) · `ne-fe` W042 dependency condition · `ne-no-ra` W171 peace · `no-de-ma` W129 salt · `no-ne-fe` W075 absence of dependency / no link · `pa-ki` W087 adrift · `pa-nu` W050 size · `su-fa` W133 purity of heart · `su-ne` W174 harmony · `su-ru` W085 integrated whole · `wi-du` W175 victory · `wi-ra` W177 directed power
+
+**Academic / Formal Knowledge**
+`de-zo-ki` W186 necromancy · `ge-ki` W187 transmutation · `ge-se-ki` W185 illusion · `ko-fe-ki` W180 abjuration · `pa-be-ki` W181 conjuration · `ra-be-ki` W184 evocation · `to-se-ki` W182 divination · `wi-fa-ki` W183 enchantment · `wi-ra-su` W179 magic
 
 **Meta / Language**
 `to'to-ne-su` W170 meta-truth · `to-to-ne-su` W169 knowledge of truth
@@ -253,6 +265,7 @@ Quick lookup by lead primitive root.
 
 | Lead root | Key entries (W#) |
 |-----------|-----------------|
+| `?` | wi-ra-su W179, ko-fe-ki W180, pa-be-ki W181, to-se-ki W182, wi-fa-ki W183, ra-be-ki W184, ge-se-ki W185, de-zo-ki W186, ge-ki W187 |
 | `be` | be-go-li-si W149 |
 | `de` | de-be W035, de-su W119, de-vo W121, de-ki'ma W162, de-zo W178 |
 | `di` | di-ki-li W061 |

@@ -4878,3 +4878,241 @@ entries:
   first_use: 'Star Wars, Jedi Code line 5 (S592): no-de-zo ne / ara ne'
   groups:
   - Organism / Biology
+- wnum: W179
+  status: active
+  form: wi-ra-su
+  written: wirasu
+  gloss: magic; the systematic, disciplined practice of directed force
+  domain: Academic / Formal Knowledge
+  pos: noun
+  register: formal
+  etymology: 'wi (will/intention) + ra (force/energy) + su (structure/system) = will-force-structure
+    = the structured intentional discipline of directed force. Right-branching: wi-(ra-su)
+    = will of [force-structure]. D&D-specific academic magic — captures the school-based,
+    disciplined character of D&D spellcasting better than a primitive or 2-root form
+    would.'
+  composition: wi (intention/will) + ra (force/energy) + su (structure/system). wi
+    modifies ra-su (force-structure = patterned force). The compound names the activity
+    (systematic practice) not merely the phenomenon (force).
+  notes: 'First attested in DND-001 (S599). Connects to wi-ra (W177, directed power)
+    as its head compound. The eight schools (W180-W187) are each defined as wi-ra-su
+    lo-[corresponding patient]. Cross-batch: all Jedi and Sith practices are subspecies
+    of wi-ra-su operating under different ethical commitments.'
+  related: wi (primitive), ra (primitive), su (primitive), wi-ra (W177 directed power),
+    ra-su (force-structure, compositional)
+  first_use: 'DND-001, framing sentence (S599): wi-ra-su ne to-su lo-wi-ra'
+  groups:
+  - Academic / Formal Knowledge
+- wnum: W180
+  status: active
+  form: ko-fe-ki
+  written: kofeki
+  gloss: abjuration; containment-limit-change; magic of maintaining protective barriers
+  domain: Academic / Formal Knowledge
+  pos: noun
+  register: formal
+  etymology: 'ko (containing/enclosing) + fe (boundary/limit) + ki (change/transformation)
+    = containment-limit-change. Right-branching: ko-(fe-ki) = containing of [limit-change]
+    = the art of manipulating and enforcing containing limits. Maps to D&D Abjuration:
+    wards, shields, banishments — all involve creating or reinforcing a limit that
+    contains, repels, or excludes.'
+  composition: ko (container/enclosure) + fe (boundary/limit) + ki (change/transformation).
+    fe-ki = limit-change/transformation = the act of altering limits. ko modifies
+    fe-ki = the containing of that limit-transformation = protective magic.
+  notes: 'W180. First attested DND-001 (S600). The -ki suffix is shared by all eight
+    school compounds (W180-W187), marking them all as change-arts. ko-fe patient in
+    S600: lo-ko-fe = "containing-limit" as what is operated upon.'
+  related: ko (primitive), fe (primitive), ki (primitive), wi-ra-su (W179 magic)
+  first_use: 'DND-001, Abjuration (S600): ko-fe-ki ne wi-ra-su lo-ko-fe'
+  groups:
+  - Academic / Formal Knowledge
+- wnum: W181
+  status: active
+  form: pa-be-ki
+  written: pabeki
+  gloss: conjuration; spatial-emergence-change; magic of making things emerge into
+    new places
+  domain: Academic / Formal Knowledge
+  pos: noun
+  register: formal
+  etymology: 'pa (space/place/presence) + be (emergence/becoming) + ki (change/transformation)
+    = space-emergence-change. Right-branching: pa-(be-ki) = spatial [emergence-change]
+    = the art of altering emergence in space. Maps to D&D Conjuration: summoning,
+    teleportation, creation of matter — all involve making something emerge in a new
+    or unexpected spatial location.'
+  composition: pa (space/place) + be (emergence) + ki (change/transformation). be-ki
+    = emergence-change = transforming where or how something emerges. pa modifies
+    be-ki = spatial emergence-transformation = conjuration.
+  notes: 'W181. First attested DND-001 (S601). be-pa patient in S601: lo-be-pa = "spatial-emergence"
+    as what is produced. Connects to pa-be (W156, spatial emergence) as a related
+    but distinct compound.'
+  related: pa (primitive), be (primitive), ki (primitive), wi-ra-su (W179 magic)
+  first_use: 'DND-001, Conjuration (S601): pa-be-ki ne wi-ra-su lo-be-pa'
+  groups:
+  - Academic / Formal Knowledge
+- wnum: W182
+  status: active
+  form: to-se-ki
+  written: toseki
+  gloss: divination; pattern-perception-change; magic of transforming perception to
+    access hidden knowledge
+  domain: Academic / Formal Knowledge
+  pos: noun
+  register: formal
+  etymology: 'to (knowledge/pattern) + se (sense/perception) + ki (change/transformation)
+    = knowledge-perception-change. Right-branching: to-(se-ki) = pattern [perception-change]
+    = the art of transforming how things are perceived in order to gain knowledge.
+    Maps to D&D Divination: scrying, detection spells, future-seeing — all involve
+    expanding or transforming the perceptual range to access what was previously imperceptible.'
+  composition: to (knowledge/pattern) + se (sense/perception) + ki (change/transformation).
+    se-ki = perception-change = transforming sensory/perceptual access. to modifies
+    se-ki = the knowledge-oriented transformation of perception.
+  notes: 'W182. First attested DND-001 (S602). Notably active: divination is the art
+    of CHANGING perception to gain knowledge, not merely passively seeing. Tonesu
+    frames divination as intentional transformation. so-to patient in S602: lo-so-to
+    = "perception-knowledge" (reversed order in patient slot, allowed by compositional
+    reading).'
+  related: to (primitive), se (primitive), ki (primitive), wi-ra-su (W179 magic)
+  first_use: 'DND-001, Divination (S602): to-se-ki ne wi-ra-su lo-so-to'
+  groups:
+  - Academic / Formal Knowledge
+- wnum: W183
+  status: active
+  form: wi-fa-ki
+  written: wifaki
+  gloss: enchantment; willed-affect-shift; magic of intentionally altering affect
+    and will
+  domain: Academic / Formal Knowledge
+  pos: noun
+  register: formal
+  etymology: 'wi (will/intention) + fa-ki (W093, affect-shift/register-change) = willed
+    affect-shift = enchantment. The compound names the intentional deployment of affect-shifting
+    magic. This is not a 3-primitive compound but wi + [W093]: will applied to the
+    registered affect-shift primitive compound. Maps to D&D Enchantment: charm, dominate,
+    suggestion — all involve deliberately altering the emotional/volitional state
+    of sentient beings.'
+  composition: 'wi (will/intention) + fa-ki (W093: affect-modification). wi modifies
+    fa-ki = the willful/intentional deployment of affect-shift. Distinct from fa-ki
+    (W093) alone, which is any shift in affect-register; wi-fa-ki is specifically
+    the willful magical deployment of that shift.'
+  notes: 'W183. First attested DND-001 (S603). Builds directly on fa-ki (W093), which
+    was first attested in the wider emotional vocabulary. The -ki in fa-ki and the
+    school -ki are the same root, preserving compositionality. fa-wi patient in S603:
+    lo-fa-wi = "affect-will" = the combined affect-volitional state of the enchanted
+    being.'
+  related: wi (primitive), fa-ki (W093 affect-shift), ki (primitive), wi-ra-su (W179)
+  first_use: 'DND-001, Enchantment (S603): wi-fa-ki ne wi-ra-su lo-fa-wi'
+  groups:
+  - Academic / Formal Knowledge
+- wnum: W184
+  status: active
+  form: ra-be-ki
+  written: rabeki
+  gloss: evocation; force-manifestation-change; magic of channeling and releasing
+    raw force
+  domain: Academic / Formal Knowledge
+  pos: noun
+  register: formal
+  etymology: 'ra (force/energy) + be (emergence/becoming) + ki (change/transformation)
+    = force-emergence-change. Right-branching: ra-(be-ki) = force [manifestation-change]
+    = the art of transforming how force manifests. Maps to D&D Evocation: fireball,
+    lightning bolt, healing — all involve channeling raw energy into manifest effects.
+    NOTE: ra-ki (W038) = storm (already taken); ra-be-ki avoids this by branching
+    ra-(be-ki) rather than (ra-be)-ki.'
+  composition: ra (force/energy) + be (emergence) + ki (change/transformation). be-ki
+    = manifestation-change = the art of altering or directing emergence. ra modifies
+    be-ki = force-directed manifestation = evocation. The parse ra-(be-ki) is right-branching
+    and unambiguous.
+  notes: 'W184. First attested DND-001 (S604). Careful parse avoids W038 ra-ki (storm).
+    ra-be patient in S604: lo-ra-be = "force-emergence" = the manifest force product
+    of evocation. Used in contrast S608 vs ge-se-ki (W185): evocation produces real
+    ra-be; illusion produces apparent ge-se.'
+  related: ra (primitive), be (primitive), ki (primitive), ra-ki (W038 storm — distinct),
+    wi-ra-su (W179 magic)
+  first_use: 'DND-001, Evocation (S604): ra-be-ki ne wi-ra-su lo-ra-be'
+  groups:
+  - Academic / Formal Knowledge
+- wnum: W185
+  status: active
+  form: ge-se-ki
+  written: geseki
+  gloss: illusion; quality-perception-change; magic of crafting apparent properties
+  domain: Academic / Formal Knowledge
+  pos: noun
+  register: formal
+  etymology: 'ge (quality/property) + se (sense/perception) + ki (change/transformation)
+    = quality-perception-change. Right-branching: ge-(se-ki) = quality [perception-change]
+    = the art of transforming how qualities are perceived. Maps to D&D Illusion: illusions,
+    glamours, invisibility — all involve making things appear to have properties they
+    do not in fact have, by manipulating perception.'
+  composition: 'ge (quality/property) + se (sense/perception) + ki (change/transformation).
+    se-ki = perception-change. ge modifies se-ki = quality-of-perception transformation
+    = illusion magic. Polar opposite of ra-be-ki (W184): evocation changes what IS;
+    illusion changes what APPEARS.'
+  notes: 'W185. First attested DND-001 (S605). ge-se patient in S605: lo-ge-se = "quality-of-perception"
+    = apparent properties (not inherent ones). The contrast (S608) sharpens this:
+    ra-be-ki produces lo-ra-be (real force); ge-se-ki produces lo-ge-se (quality-of-perception).
+    Both are defined via patient reference, making the structural opposition maximally
+    explicit.'
+  related: ge (primitive), se (primitive), ki (primitive), wi-ra-su (W179 magic),
+    ra-be-ki (W184 evocation — polar contrast)
+  first_use: 'DND-001, Illusion (S605): ge-se-ki ne wi-ra-su lo-ge-se'
+  groups:
+  - Academic / Formal Knowledge
+- wnum: W186
+  status: active
+  form: de-zo-ki
+  written: dezoki
+  gloss: necromancy; death-organism-change; magic of transformation through and across
+    death
+  domain: Academic / Formal Knowledge
+  pos: noun
+  register: formal
+  etymology: 'de (decrease/ending) + zo (living thing) + ki (change/transformation)
+    = death-organism-change. Right-branching: de-(zo-ki) = [at/through death] organism-change-art
+    = the art of making changes to living things at or across the death threshold.
+    Maps to D&D Necromancy: animate dead, cause disease, draining life force — all
+    involve working transformation in or around the death-state of organisms. Connects
+    to de-zo (W178, dying/death-event) as the domain, with ki marking the intentional
+    art applied there.'
+  composition: 'de (decrease/ending) + zo (living thing) + ki (change/transformation).
+    zo-ki = organism-change. de modifies zo-ki = death-realm organism-transformation.
+    Parallel structure to ge-ki (W187, quality-change): both are domain + ki.'
+  notes: 'W186. First attested DND-001 (S606). Builds on de-zo (W178), the death-event
+    compound. The separation of de-zo (event) and de-zo-ki (art) is intentional: de-zo
+    is what happens; de-zo-ki is the magic that works in that domain. de-zo patient
+    in S606: lo-de-zo = "death-event" as the domain/patient.'
+  related: de (primitive), zo (primitive), ki (primitive), de-zo (W178 death-event),
+    wi-ra-su (W179 magic)
+  first_use: 'DND-001, Necromancy (S606): de-zo-ki ne wi-ra-su lo-de-zo'
+  groups:
+  - Organism / Biology
+  - Academic / Formal Knowledge
+- wnum: W187
+  status: active
+  form: ge-ki
+  written: geki
+  gloss: transmutation; quality-change; fundamental alteration of properties
+  domain: Academic / Formal Knowledge
+  pos: noun
+  register: formal
+  etymology: 'ge (quality/property) + ki (change/transformation) = quality-change.
+    2-root compound: the simplest and most fundamental of the eight school compounds.
+    Maps to D&D Transmutation: polymorph, enlarge/reduce, stone to flesh — all involve
+    directly changing the intrinsic properties of a thing. The 2-root minimum is appropriate:
+    transmutation is the most direct school — just "change what it IS", without the
+    spatial, perceptual, or force-mediation that the other schools require.'
+  composition: 'ge (quality/property) + ki (change/transformation). Direct: property-change.
+    No intermediate root needed — transmutation is the unmediated alteration of what
+    a thing IS.'
+  notes: 'W187. First attested DND-001 (S607). The only 2-root school compound — all
+    others are 3-root. This captures the structural simplicity and directness of transmutation
+    as a magical category. lo-ge patient in S607 = "quality/property itself" = the
+    fundamental properties of things. Parallel with ge-se-ki (W185, illusion): both
+    are ge-X compounds — illusion changes how qualities APPEAR; transmutation changes
+    what qualities ARE.'
+  related: ge (primitive), ki (primitive), ge-se-ki (W185 illusion — related ge-root),
+    wi-ra-su (W179 magic)
+  first_use: 'DND-001, Transmutation (S607): ge-ki ne wi-ra-su lo-ge'
+  groups:
+  - Academic / Formal Knowledge

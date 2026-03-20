@@ -3357,3 +3357,184 @@ ke, la-pa-pu  ne  wi-fe  lo-ra-pa ; la-to-su  si  {pa-pu  ne  wi-fe}
 **Finding 3: `wi-fe` (W100) attested directly in a rights-claim predicate (S579, S580, S582, S585).** Four direct uses as the claimed normative property in `la-X ne wi-fe lo-Y` ("X holds the right over Y"). Prior use S183 used `wi-fe-su` (derived institution form). DIP-001 establishes `wi-fe` bare as a predicate in rights/legal register. Recommend updating W100 status from pending to active.
 
 **Recommendation: Admit `ke` (G032) as the canonical pivot particle.** Three qualifying attestations across three structurally independent registers. Form: CV, `ke`. Definition: discourse pivot marker — signals that the current speaker is setting aside a prior exchange and advancing an affirmative position; the denial of whatever was asserted in the prior exchange is implied without re-performance. Syntax: clause-initial, followed by `,`; same positional slot as `ya` and `ru-fe`. Written solid: `ke,` before the advancing clause. Stacks with `ya` as `ya, ke, [clause]` = "attend: {pivot} [affirmative claim]."
+
+---
+
+## D&D — The Eight Schools of Magic (S599–S608)
+
+*Batch purpose (DND-001): translation of the eight D&D schools of magic. Tests compound vocabulary formation for abstract academic categories, property-attribution syntax via `ne`, and the bi-clausal parallel `/` as a contrast frame. Full analysis in `corpus/translations/Literature/dnd-schools-of-magic.md`.*
+
+*New compounds attested this batch: `wi-ra-su` (W179, magic), `ko-fe-ki` (W180, abjuration), `pa-be-ki` (W181, conjuration), `to-se-ki` (W182, divination), `wi-fa-ki` (W183, enchantment), `ra-be-ki` (W184, evocation), `ge-se-ki` (W185, illusion), `de-zo-ki` (W186, necromancy), `ge-ki` (W187, transmutation).*
+
+---
+
+**S599 — Magic as systematic discipline.** *(DND-001-A)*
+
+```
+wi-ra-su  ne  to-su  lo-wi-ra
+```
+
+**Written:** `wirasu ne tosu lowira`
+
+**Natural reading:** The magical arts form a systematic discipline of directed power.
+
+**Notes:** Framing sentence for the batch. `wi-ra-su` (W179) introduced here: `wi-(ra-su)` = will of [force-structure] = the disciplined, intentional practice of structured force. `to-su` = systematic/structured knowledge system. `lo-wi-ra` = directed power (W177) as patient = what magic is a discipline *of*. The sentence defines magic as an academic genus before the eight species are differentiated.
+
+---
+
+**S600 — Abjuration.** *(DND-001-B)*
+
+```
+ko-fe-ki  ne  wi-ra-su  lo-ko-fe
+```
+
+**Written:** `kofeki ne wirasu lokofé`
+
+**Written:** `kofeki ne wirasu kofe`
+
+**Natural reading:** Abjuration is the magic of creating and maintaining containing limits.
+
+**Notes:** `ko-fe-ki` (W180): `ko-(fe-ki)` = containing of [limit-change] = the art of manipulating protective limits. `lo-ko-fe` = containing-limit as patient = what abjuration operates on. Wards, shields, banishments all involve creating or enforcing a containing boundary. `ko` (enclosing/containing) is the domain root.
+
+---
+
+**S601 — Conjuration.** *(DND-001-C)*
+
+```
+pa-be-ki  ne  wi-ra-su  lo-be-pa
+```
+
+**Written:** `pabeki ne wirasu lobepa`
+
+**Natural reading:** Conjuration is the magic of making things emerge into new places.
+
+**Notes:** `pa-be-ki` (W181): `pa-(be-ki)` = spatial [emergence-change] = the art of making things appear in space. `lo-be-pa` = spatial-emergence as patient = what conjuration produces. Covers summoning, teleportation, and creation of matter. `pa` (space/presence) as domain root captures the spatial character of conjuration.
+
+---
+
+**S602 — Divination.** *(DND-001-D)*
+
+```
+to-se-ki  ne  wi-ra-su  lo-so-to
+```
+
+**Written:** `toseki ne wirasu losoto`
+
+**Natural reading:** Divination is the magic of perception-knowledge.
+
+**Notes:** `to-se-ki` (W182): `to-(se-ki)` = pattern [perception-change] = the art of transforming perception to access hidden knowledge. The patient `lo-so-to` uses `so-to` (perception-knowledge, compositional reading of `se-to` with vowel harmony — note: formally `se-to` would be cleaner; `so-to` is the slot patient for this batch). Divination is framed as *active*: you transform (ki) perception (se) to gain knowledge (to). Not passive seeing but intentional perceptual work.
+
+---
+
+**S603 — Enchantment.** *(DND-001-E)*
+
+```
+wi-fa-ki  ne  wi-ra-su  lo-fa-wi
+```
+
+**Written:** `wifaki ne wirasu lofawi`
+
+**Natural reading:** Enchantment is the magic of altering the affect-will.
+
+**Notes:** `wi-fa-ki` (W183): `wi-(fa-ki)` = willed [affect-shift] = intentional deployment of affect-register manipulation. Builds directly on `fa-ki` (W093, affect-register transformation). Patient `lo-fa-wi` = affect-will complex = the combined emotional-volitional state of the enchanted subject. Charm, dominate, suggestion all operate on `fa-wi` (what-you-feel + what-you-want).
+
+---
+
+**S604 — Evocation.** *(DND-001-F)*
+
+```
+ra-be-ki  ne  wi-ra-su  lo-ra-be
+```
+
+**Written:** `rabeki ne wirasu lorabe`
+
+**Natural reading:** Evocation is the magic of channeling and releasing raw force.
+
+**Notes:** `ra-be-ki` (W184): `ra-(be-ki)` = force [manifestation-change] = the art of directing how force manifests. Careful parse avoids `ra-ki` (W038, storm). Patient `lo-ra-be` = force-emergence = the manifest force product of evocation. Fireball, lightning bolt, healing — all involve taking `ra` (raw energy) and shaping its `be` (emergence/manifestation). Structural polar opposite of illusion: evocation acts on `ra` (real); illusion acts on `ge-se` (apparent).
+
+---
+
+**S605 — Illusion.** *(DND-001-G)*
+
+```
+ge-se-ki  ne  wi-ra-su  lo-ge-se
+```
+
+**Written:** `geseki ne wirasu logese`
+
+**Natural reading:** Illusion is the magic of crafting how things appear.
+
+**Notes:** `ge-se-ki` (W185): `ge-(se-ki)` = quality [perception-change] = the art of altering how qualities are perceived. Patient `lo-ge-se` = quality-of-perception = apparent properties (not inherent ones). Illusion magic does not change what IS; it changes how things APPEAR. Contrast with transmutation `ge-ki` (W187): illusion alters `ge` through `se` (perception); transmutation alters `ge` directly. Both are `ge`-rooted schools.
+
+---
+
+**S606 — Necromancy.** *(DND-001-H)*
+
+```
+de-zo-ki  ne  wi-ra-su  lo-de-zo
+```
+
+**Written:** `dezoki ne wirasu lodezo`
+
+**Natural reading:** Necromancy is the magic of transformation through death.
+
+**Notes:** `de-zo-ki` (W186): `de-(zo-ki)` = death-threshold [organism-change] = the art of transforming living things across or through the death state. Builds on `de-zo` (W178, dying/death-event). The distinction is important: `de-zo` (W178) is what happens (the event); `de-zo-ki` is the art practiced *in that domain*. Patient `lo-de-zo` = the death-event itself = the domain necromancy operates on. Animate dead, cause disease, drain life — all work at the `de-zo` boundary.
+
+---
+
+**S607 — Transmutation.** *(DND-001-I)*
+
+```
+ge-ki  ne  wi-ra-su  lo-ge
+```
+
+**Written:** `geki ne wirasu loge`
+
+**Natural reading:** Transmutation is the magic of altering fundamental properties.
+
+**Notes:** `ge-ki` (W187): `ge` + `ki` = quality-change. The only 2-root school compound — all others (W180-W186) are 3-root. The structural simplicity is appropriate: transmutation is the most direct school, operating on `ge` (fundamental property) without spatial, perceptual, or force mediation. Patient `lo-ge` = property/quality itself = what transmutation acts on. Parallel with illusion `ge-se-ki`: illusion changes `ge` through `se`-mediation; transmutation changes `ge` directly.
+
+---
+
+**S608 — Contrast: Evocation vs Illusion.** *(DND-001-J)*
+
+```
+la-ra-be-ki  be  lo-ra  /  la-ge-se-ki  be  lo-ge-se
+```
+
+**Written:** `larabeki be lora / lageseki be logese`
+
+**Natural reading:** Evocation generates real force; Illusion generates quality-of-perception.
+
+**Notes:** Bi-clausal parallel `/` used as contrast frame (not antithetical but structural opposition). `be` = emergent-process verb. Both schools use `be` as the predicate: both "bring forth" something. But evocation brings forth `ra` (real force/energy) while illusion brings forth `ge-se` (quality-of-perception = apparent properties). The parallel structure makes the ontological distinction maximally explicit: one produces actuality, the other produces appearance. Connects to the Sith Code cross-batch finding: `go {ra}, la-mi wi-ra-be` (S595) = through force, I grow in directed-power. The Force `ara` is the universal substrate; the schools of magic are differentiated modes of directing that substrate.
+
+---
+
+## DND-001 Batch Summary
+
+| Entry | Written form | School | Key finding |
+|-------|-------------|--------|-------------|
+| S599 (DND-001-A) | `wirasu ne tosu lowira` | Frame | Magic as systematic discipline of directed power; W179 |
+| S600 (DND-001-B) | `kofeki ne wirasu kofe` | Abjuration | Containing-limit-change; W180 |
+| S601 (DND-001-C) | `pabeki ne wirasu lobepa` | Conjuration | Spatial emergence-change; W181 |
+| S602 (DND-001-D) | `toseki ne wirasu losoto` | Divination | Divination is ACTIVE transformation, not passive seeing; W182 |
+| S603 (DND-001-E) | `wifaki ne wirasu lofawi` | Enchantment | Willful affect-shift; builds on fa-ki (W093); W183 |
+| S604 (DND-001-F) | `rabeki ne wirasu lorabe` | Evocation | Force-manifestation; avoids ra-ki (W038); W184 |
+| S605 (DND-001-G) | `geseki ne wirasu logese` | Illusion | Quality-of-perception; polar contrast to evocation; W185 |
+| S606 (DND-001-H) | `dezoki ne wirasu lodezo` | Necromancy | Death-threshold organism-change; builds on de-zo (W178); W186 |
+| S607 (DND-001-I) | `geki ne wirasu loge` | Transmutation | 2-root; most direct; pure property-change; W187 |
+| S608 (DND-001-J) | `larabeki be lora / lageseki be logese` | Contrast | Force vs appearance; ontological distinction via parallel `/` |
+
+---
+
+### DND-001 Findings
+
+**Finding 1: All eight D&D schools reduce to compositional combinations of 12 primitives.** `ko`, `fe`, `pa`, `be`, `to`, `se`, `wi`, `fa`, `ra`, `ge`, `de`, `zo` — plus the shared change-root `ki`. No new primitive is required. The D&D school taxonomy is fully expressible in Tonesu without expanding the closed primitive set. This is a positive compositional stress test.
+
+**Finding 2: The `-ki` school suffix encodes a genuine structural insight.** D&D magic is, at root, a taxonomy of *change-arts* — each school is a specific domain in which intentional transformation (`ki`) is applied. The shared `-ki` suffix (W180-W186) makes this explicit. The one exception (`ge-ki`, W187) uses the same suffix directly, making transmutation the most primitive: property-change, unmediated.
+
+**Finding 3: `wi-fa-ki` (W183) establishes that affect-manipulation is available as a compound-head target.** Enchantment is `wi` applied to `fa-ki` (W093). This confirms that registered 2-root compounds can serve as valid compound heads in 3-root constructions. `wi-(fa-ki)` is not a new primitive — it is a deliberate layering of will (`wi`) onto a registered affect-shift system.
+
+**Finding 4: The evocation/illusion polar contrast (S608) demonstrates the ontological depth of the `ge`/`ra` distinction.** Evocation (`ra-(be-ki)`) produces things that are real in the `ra`-sense: force, energy, causal power. Illusion (`ge-(se-ki)`) produces things that are real only in the `ge-se`-sense: apparent properties, perceptual manipulations. The parallel `/` frame in S608 makes this ontological split grammatically visible.
+
+**Finding 5: Cross-batch connection — D&D magic and the Force.** `ara` (universal energy, scope-derived form first attested STW-001) is the substrate from which all schools of magic draw. `wi-ra-su` (magic as directed-force-discipline) builds on `wi-ra` (W177, directed power) which was attested in the Sith Code (S595). The schools of D&D magic are subspecies of `wi-ra-su`; the Jedi and Sith practices are subspecies of `wi-ra-su` operating under different ethical commitments.

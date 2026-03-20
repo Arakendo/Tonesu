@@ -6825,8 +6825,10 @@ sentences:
   tonesu: de-zo-ki'ma-mi  go-lu-yu
   gloss_line: null
   natural: which is poured out for you.
-  words_attested: []
-  first_attests: []
+  words_attested:
+  - W186
+  first_attests:
+  - W186
   gap_refs: []
   source_file: sentences/v4-current/s398-plus.md
   source_anchor: S435
@@ -9066,4 +9068,348 @@ sentences:
   gap_refs: []
   source_file: sentences/v4-current/s398-plus.md
   source_anchor: S587
+  notes: null
+- snum: S588
+  gloss: Jedi Code, line 1 — "There is no emotion, there is peace."
+  batch: STW-001
+  batch_sub: A
+  status: normative
+  tonesu: no-fa  ne  /  ne-no-ra  ne
+  gloss_line: null
+  natural: No raw affect / peaceful-relation prevails.
+  words_attested:
+  - W171
+  first_attests:
+  - W171
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S588
+  notes: null
+- snum: S589
+  gloss: Jedi Code, line 2 — "There is no ignorance, there is knowledge."
+  batch: STW-001
+  batch_sub: B
+  status: normative
+  tonesu: no-to  ne  /  to  ne
+  gloss_line: null
+  natural: No knowledge-absence / knowledge prevails.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S589
+  notes: null
+- snum: S590
+  gloss: Jedi Code, line 3 — "There is no passion, there is serenity."
+  batch: STW-001
+  batch_sub: C
+  status: normative
+  tonesu: no-fa-wi-ra  ne  /  fa-su  ne
+  gloss_line: null
+  natural: No driven-forceful-affect / structured-affect prevails.
+  words_attested:
+  - W173
+  first_attests:
+  - W173
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S590
+  notes: null
+- snum: S591
+  gloss: Jedi Code, line 4 — "There is no chaos, there is harmony."
+  batch: STW-001
+  batch_sub: D
+  status: normative
+  tonesu: no-su  ne  /  su-ne  ne
+  gloss_line: null
+  natural: No structure / structure-of-connection prevails.
+  words_attested:
+  - W174
+  first_attests:
+  - W174
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S591
+  notes: null
+- snum: S592
+  gloss: Jedi Code, line 5 — "There is no death, there is the Force."
+  batch: STW-001
+  batch_sub: E
+  status: normative
+  tonesu: no-de-zo  ne  /  ara  ne
+  gloss_line: null
+  natural: No organism-decrease / universal-energy prevails.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S592
+  notes: null
+- snum: S593
+  gloss: Sith Code, line 1 — "Peace is a lie, there is only passion."
+  batch: STW-002
+  batch_sub: A
+  status: normative
+  tonesu: ne-no-ra  ne  to-fe-ka  /  ru-fe,  fa-wi-ra  ne
+  gloss_line: null
+  natural: Peaceful-relation is deliberate-mislabeling / only—driven-affect prevails.
+  words_attested:
+  - W029
+  - W171
+  - W172
+  first_attests:
+  - W029
+  - W172
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S593
+  notes: null
+- snum: S594
+  gloss: Sith Code, line 2 — "Through passion, I gain strength."
+  batch: STW-002
+  batch_sub: B
+  status: normative
+  tonesu: go {fa-wi-ra},  la-mi  ra-be
+  gloss_line: null
+  natural: '[Cause: passion] → I grow in force.'
+  words_attested:
+  - W172
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S594
+  notes: null
+- snum: S595
+  gloss: Sith Code, line 3 — "Through strength, I gain power."
+  batch: STW-002
+  batch_sub: C
+  status: normative
+  tonesu: go {ra},  la-mi  wi-ra-be
+  gloss_line: null
+  natural: '[Cause: force] → I grow in directed-power.'
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S595
+  notes: null
+- snum: S596
+  gloss: Sith Code, line 4 — "Through power, I gain victory."
+  batch: STW-002
+  batch_sub: D
+  status: normative
+  tonesu: go {wi-ra},  la-mi  wi-du-be
+  gloss_line: null
+  natural: '[Cause: directed-power] → I grow in willed-achievement.'
+  words_attested:
+  - W177
+  first_attests:
+  - W177
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S596
+  notes: null
+- snum: S597
+  gloss: Sith Code, line 5 — "Through victory, my chains are broken."
+  batch: STW-002
+  batch_sub: E
+  status: normative
+  tonesu: go {wi-du},  lo-mi  ko-ne-mu  de-ki
+  gloss_line: null
+  natural: '[Cause: victory] → my chains enter breaking.'
+  words_attested:
+  - W175
+  - W176
+  first_attests:
+  - W175
+  - W176
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S597
+  notes: null
+- snum: S598
+  gloss: Sith Code, line 6 — "The Force shall free me."
+  batch: STW-002
+  batch_sub: F
+  status: normative
+  tonesu: la-ara  lo-mi  ka-pa-ki
+  gloss_line: null
+  natural: The Force liberates me.
+  words_attested:
+  - W160
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S598
+  notes: null
+- snum: S599
+  gloss: 'DND-001 framing: magic as systematic discipline of directed power.'
+  batch: DND-001
+  batch_sub: A
+  status: normative
+  tonesu: wi-ra-su  ne  to-su  lo-wi-ra
+  gloss_line: null
+  natural: The magical arts form a systematic discipline of directed power.
+  words_attested:
+  - W030
+  - W177
+  - W179
+  first_attests:
+  - W179
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S599
+  notes: null
+- snum: S600
+  gloss: 'DND-001 Abjuration: magic of creating and maintaining containing limits.'
+  batch: DND-001
+  batch_sub: B
+  status: normative
+  tonesu: ko-fe-ki  ne  wi-ra-su  lo-ko-fe
+  gloss_line: null
+  natural: Abjuration is the magic of creating and maintaining containing limits.
+  words_attested:
+  - W179
+  - W180
+  first_attests:
+  - W180
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S600
+  notes: null
+- snum: S601
+  gloss: 'DND-001 Conjuration: magic of spatial emergence (summoning / teleportation).'
+  batch: DND-001
+  batch_sub: C
+  status: normative
+  tonesu: pa-be-ki  ne  wi-ra-su  lo-be-pa
+  gloss_line: null
+  natural: Conjuration is the magic of making things emerge into new places.
+  words_attested:
+  - W179
+  - W181
+  first_attests:
+  - W181
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S601
+  notes: null
+- snum: S602
+  gloss: 'DND-001 Divination: magic of expanding perception to access hidden knowledge.'
+  batch: DND-001
+  batch_sub: D
+  status: normative
+  tonesu: to-se-ki  ne  wi-ra-su  lo-so-to
+  gloss_line: null
+  natural: Divination is the magic of perception-knowledge.
+  words_attested:
+  - W179
+  - W182
+  first_attests:
+  - W182
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S602
+  notes: null
+- snum: S603
+  gloss: 'DND-001 Enchantment: magic of altering the affect-will in sentient beings.'
+  batch: DND-001
+  batch_sub: E
+  status: normative
+  tonesu: wi-fa-ki  ne  wi-ra-su  lo-fa-wi
+  gloss_line: null
+  natural: Enchantment is the magic of altering the affect-will.
+  words_attested:
+  - W179
+  - W183
+  first_attests:
+  - W183
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S603
+  notes: null
+- snum: S604
+  gloss: 'DND-001 Evocation: magic of channeling and releasing raw force.'
+  batch: DND-001
+  batch_sub: F
+  status: normative
+  tonesu: ra-be-ki  ne  wi-ra-su  lo-ra-be
+  gloss_line: null
+  natural: Evocation is the magic of channeling and releasing raw force.
+  words_attested:
+  - W179
+  - W184
+  first_attests:
+  - W184
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S604
+  notes: null
+- snum: S605
+  gloss: 'DND-001 Illusion: magic of crafting how things appear to perception.'
+  batch: DND-001
+  batch_sub: G
+  status: normative
+  tonesu: ge-se-ki  ne  wi-ra-su  lo-ge-se
+  gloss_line: null
+  natural: Illusion is the magic of crafting how things appear.
+  words_attested:
+  - W179
+  - W185
+  first_attests:
+  - W185
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S605
+  notes: null
+- snum: S606
+  gloss: 'DND-001 Necromancy: magic of transformation across and through death.'
+  batch: DND-001
+  batch_sub: H
+  status: normative
+  tonesu: de-zo-ki  ne  wi-ra-su  lo-de-zo
+  gloss_line: null
+  natural: Necromancy is the magic of transformation through death.
+  words_attested:
+  - W178
+  - W179
+  - W186
+  first_attests:
+  - W178
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S606
+  notes: null
+- snum: S607
+  gloss: 'DND-001 Transmutation: magic of altering fundamental properties.'
+  batch: DND-001
+  batch_sub: I
+  status: normative
+  tonesu: ge-ki  ne  wi-ra-su  lo-ge
+  gloss_line: null
+  natural: Transmutation is the magic of altering fundamental properties.
+  words_attested:
+  - W179
+  - W187
+  first_attests:
+  - W187
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S607
+  notes: null
+- snum: S608
+  gloss: 'DND-001 contrast: Evocation vs Illusion — force vs quality-of-perception.'
+  batch: DND-001
+  batch_sub: J
+  status: normative
+  tonesu: la-ra-be-ki  be  lo-ra  /  la-ge-se-ki  be  lo-ge-se
+  gloss_line: null
+  natural: Evocation generates real force; Illusion generates quality-of-perception.
+  words_attested:
+  - W184
+  - W185
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S608
   notes: null

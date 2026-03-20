@@ -278,8 +278,7 @@ conversations:
     natural: 'I hold as established: what you just said is deliberate epistemic fraud.'
     words_attested:
     - W029
-    first_attests:
-    - W029
+    first_attests: []
     notes: null
   - turn: B3
     tonesu: la-mi  no-to  [lo-ze  to-fe-ka]  —  la-tu  ka-si  lo-to-fe-su
