@@ -261,8 +261,26 @@ def _parse_source_file(
         if nm:
             notes = nm.group(1).strip()
 
-        if notes or written:
-            sent_notes[snum] = {"notes": notes, "written": written}
+        # **Natural:** / **Natural reading:** block
+        natural_reading = ""
+        nr_m = re.search(
+            r"\*\*Natural(?: reading)?:\*\*\s*(.*?)(?=\n\*\*Notes:|\n---|\n\*\*S\d{3,}|\Z)",
+            part,
+            re.DOTALL,
+        )
+        if nr_m:
+            raw_nr = nr_m.group(1).strip()
+            nr_lines = []
+            for ln in raw_nr.splitlines():
+                ln = ln.strip()
+                ln = re.sub(r"^>\s*", "", ln)   # strip blockquote >
+                ln = re.sub(r"^-\s*", "", ln)   # strip bullet -
+                if ln:
+                    nr_lines.append(ln)
+            natural_reading = " / ".join(nr_lines)
+
+        if notes or written or natural_reading:
+            sent_notes[snum] = {"notes": notes, "written": written, "natural_reading": natural_reading}
 
     # --- Per-batch metadata ---
     # Batch summary sections: ## CODE Batch Summary  or  ## CODE-NNN Batch Summary
@@ -710,6 +728,7 @@ def generate_word_page(
     sentence_lookup: dict,
     turn_lookup: dict,
     sentence_batch_map: dict | None = None,
+    sent_notes: dict | None = None,
 ) -> str:
     wnum  = entry["wnum"]
     form  = entry["form"]
@@ -789,13 +808,18 @@ def generate_word_page(
             "| S# | Tonesu |",
             "|----|--------|",
         ]
+        _sent_notes = sent_notes or {}
         for snum in snums:
             item = sentence_lookup.get(snum) or turn_lookup.get(snum)
             s_batch = (sentence_batch_map or {}).get(snum, "")
             s_link = _corpus_link_from_registry(snum, s_batch)
             if item:
                 tonesu_raw = item.get("tonesu") or ""
-                natural = (item.get("natural") or "").replace("\n", " ").replace("|", "\\|")
+                yaml_natural = (item.get("natural") or "").replace("\n", " ")
+                sn = _sent_notes.get(snum, {})
+                # Prefer richer source-file natural reading over the YAML gloss
+                natural_reading = sn.get("natural_reading", "")
+                natural = (natural_reading or yaml_natural).replace("|", "\\|")
                 t_lines = [t.strip() for t in tonesu_raw.split("\n") if t.strip()]
                 tonesu_cell = " · ".join(f"`{t}`" for t in t_lines)
                 cell = f'{tonesu_cell}<br><small class="entry-natural">{natural}</small>' if natural else tonesu_cell
@@ -1602,7 +1626,7 @@ def main():
         if not visible(entry):
             continue
         page_text = generate_word_page(
-            entry, attest_index, sent_lookup, turn_lookup, sentence_batch_map
+            entry, attest_index, sent_lookup, turn_lookup, sentence_batch_map, sent_notes
         )
         (WORD_DIR / f"{entry['wnum']}.md").write_text(page_text, encoding="utf-8")
         word_pages += 1
