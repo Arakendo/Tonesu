@@ -2772,6 +2772,45 @@
         "su",
         "to"
       ]
+    },
+    {
+      "wnum": "W203",
+      "form": "wi-fe'de",
+      "written": "wife'de",
+      "gloss": "penalty; sanction; rule-imposed decrease",
+      "status": "active",
+      "domain": "Law / Governance / Normative",
+      "roots": [
+        "wi",
+        "fe",
+        "de"
+      ]
+    },
+    {
+      "wnum": "W204",
+      "form": "su-zo-ko",
+      "written": "suzoko",
+      "gloss": "coverage; protective welfare structure; systematic protection for persons",
+      "status": "active",
+      "domain": "Health / Law / Governance",
+      "roots": [
+        "su",
+        "zo",
+        "ko"
+      ]
+    },
+    {
+      "wnum": "W205",
+      "form": "ka-li-de",
+      "written": "kalide",
+      "gloss": "tax; governance revenue extraction; governance-sanctioned decrease",
+      "status": "active",
+      "domain": "Law / Governance / Finance",
+      "roots": [
+        "ka",
+        "li",
+        "de"
+      ]
     }
   ]
 }
