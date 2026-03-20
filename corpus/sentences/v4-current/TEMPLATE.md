@@ -88,3 +88,9 @@ following this exact format. Do not invent variant layouts.
 2. Add batch entry to `corpus/batches.yaml` (code, title, theme, purpose)
 3. Run `python scripts/build.py` to regenerate site pages
 4. Verify the batch page renders at `tonesu/corpus/batches/[CODE]/`
+
+If this batch has a corresponding translation analysis file in `corpus/translations/`:
+
+5. Add a `## Colloquial Register Analysis` section at the **end** of that file.
+   See `corpus/translations/TEMPLATE.md` for the row rules, verdict criteria,
+   and CLQ registration steps.

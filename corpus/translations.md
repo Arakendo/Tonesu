@@ -1,62 +1,58 @@
-# Translations
+# Translations — Directory Index
 
-## Status: Empty — populate after sentence patterns are established
-
-This file tests the language against real passages. Translation stress-tests the system in ways that constructed toy sentences cannot: real texts contain idioms, metaphors, implicit assumptions, and concepts that were never anticipated during design.
-
----
-
-## Purpose
-
-- Find gaps in the primitive set
-- Reveal grammatical structures the language cannot yet express
-- Test whether contracted forms emerge naturally
-- Discover where the formal/colloquial split is necessary
+Translation analysis files live in `corpus/translations/{Category}/`.
+This file is a pointer; it is not used by the pipeline.
 
 ---
 
-## Recommended Test Passages
+## Active translation files
 
-Work through these roughly in order of complexity.
-
-### Tier 1 — Simple and concrete
-- [ ] A weather report (time, place, physical states)
-- [ ] A short recipe (sequence, action, quantity, physical objects)
-- [ ] A basic tool manual (steps, imperatives, physical description)
-
-### Tier 2 — Relational and social
-- [ ] A short letter or greeting
-- [ ] A simple news headline
-- [ ] A dialogue between two people exchanging information
-
-### Tier 3 — Abstract and technical
-- [ ] A dictionary definition of "algorithm"
-- [ ] A short paragraph from a science textbook
-- [ ] A legal or contractual statement (obligation, condition, party)
-
-### Tier 4 — Edge cases
-- [ ] A metaphor or idiom (e.g. "burning bridges," "the idea caught fire")
-- [ ] A sentence with deliberate ambiguity in English
-- [ ] A question with no clear agent (passive voice equivalent)
-- [ ] A philosophical statement about the nature of knowledge
+| Category | File | Batch | Status |
+|----------|------|-------|--------|
+| Bible | [exodus-3-1-15.md](translations/Bible/exodus-3-1-15.md) | EXO-001 | draft |
+| Bible | [genesis-1.md](translations/Bible/genesis-1.md) | — | draft |
+| Bible | [john-1-1.md](translations/Bible/john-1-1.md) | JOH-001 | draft |
+| Bible | [last-supper.md](translations/Bible/last-supper.md) | LSP-001 | draft |
+| Bible | [matthew-16-25.md](translations/Bible/matthew-16-25.md) | MAT-001 | draft |
+| Bible | [matthew-5-7.md](translations/Bible/matthew-5-7.md) | — | draft |
+| Bible | [romans-7-19.md](translations/Bible/romans-7-19.md) | ROM-001 | draft |
+| Literature | [basho-frog.md](translations/Literature/basho-frog.md) | BSH-001 | draft |
+| Literature | [dickinson-death.md](translations/Literature/dickinson-death.md) | DEB-001 | draft |
+| Literature | [hamlet-to-be.md](translations/Literature/hamlet-to-be.md) | HAM-001 | draft |
+| Literature | [tale-of-two-cities.md](translations/Literature/tale-of-two-cities.md) | — | draft |
+| Philosophy | [liar-paradox.md](translations/Philosophy/liar-paradox.md) | LPR-001 | draft |
+| Philosophy | [tao-te-ching-ch1.md](translations/Philosophy/tao-te-ching-ch1.md) | TAO-001 | draft |
+| Philosophy | [tractatus.md](translations/Philosophy/tractatus.md) | — | draft |
+| Science | [newton-first-law.md](translations/Science/newton-first-law.md) | NEW-001 | draft |
 
 ---
 
-## Entry Format
+## Template
+
+See [`corpus/translations/TEMPLATE.md`](translations/TEMPLATE.md) for the
+canonical format for new translation analysis files, including:
+
+- File structure (H1, sections, verse-by-verse format)
+- `**Written:**` field rules (mechanical hyphen-stripping only)
+- Colloquial Register Analysis section (required, appears last)
+- CLQ row rules and verdict criteria
+- Registration checklist
+
+---
+
+## Pipeline integration
+
+`copy_translation_files()` in `scripts/build_registry.py` copies every `*.md`
+under `corpus/translations/{Category}/` verbatim to:
 
 ```
-Source language:   English (or other)
-Original text:     [text here]
-Translation:       [language form here]
-Gloss:             [morpheme breakdown]
-Notes:             [what was difficult, what was approximated, what failed]
-Status:            draft | reviewed | stable
+www/docs/totonesu/corpus/translations/{category.lower()}/{slug}/index.md
 ```
 
----
+The pipeline reads only: (1) the first `# …` heading for the page title, and
+(2) runs `_strip_empty_table_columns` on all tables. Internal structure is not
+parsed — what you write is what renders.
 
-## Open Questions
+The `generate_translations_index()` function then regenerates
+`www/docs/totonesu/corpus/translations/overview.md` from the collected entries.
 
-- [ ] Does the language need a passive voice construction? (See S011 in sentences.md)
-- [ ] How should idiomatic metaphors be handled — preserve them, block them, or formally encode analogy?
-- [ ] What is the translation policy for culturally specific concepts with no structural equivalent?
