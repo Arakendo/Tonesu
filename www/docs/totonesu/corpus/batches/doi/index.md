@@ -51,8 +51,8 @@ title: "Declaration of Independence — Preamble"
 
 <span id="S636"></span>
 **S636**
-`la-o-zo-li  be  ka-li-su  ka-be  go  to-ne-su`
-*The people institute a new governance grounded in organized truth.*
+`la-o-zo-li  be  ka-li-su  ka-be  go  to`
+*The people institute a new governance grounded in reason and principles.*
 
 <span id="S637"></span>
 **S637**
@@ -77,7 +77,7 @@ title: "Declaration of Independence — Preamble"
 | S633 (DOI-001-E) | `zo / pakisu / kase favo` | Life, Liberty, pursuit of Happiness | W197 + W198 first att. |
 | S634 (DOI-001-F) | `go vonenofe, laozoli be kalisu / lakalisu wivo go nevowi` | Governments instituted | `ne-vo-wi` consent; W190 |
 | S635 (DOI-001-G) | `go kalisu ne kade, laozoli vone ki lokalisu` | Right to alter or abolish | W118 as predicate; `ki` |
-| S636 (DOI-001-H) | `laozoli be kalisu kabe go tonesu` | Institute new Government | `ka-be` = new; W000 as foundation |
+| S636 (DOI-001-H) | `laozoli be kalisu kabe go to` | Institute new Government | `ka-be` = new; `go to` = grounded in reason |
 | S637 (DOI-001-I) | `lanaColonies ne pakisu / ne nonefe` | Free and Independent States | W198 + W075 parallel |
 | S638 (DOI-001-J) | `vonenofe ne gone / suto ne tonesu` | Synthesis — rights + divine structure | W159 + W199 + W000 cross-batch |
 

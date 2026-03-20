@@ -9896,26 +9896,26 @@ sentences:
     becomes destructive. vo-ne (W118) as predicate = the people have righteous standing.
     ki = change (primitive, covers alter through abolish).'
 - snum: S636
-  gloss: 'DOI-001 Declaration H: institute new Government on the foundation of truth.'
+  gloss: 'DOI-001 Declaration H: institute new Government on the foundation of reason
+    and principles.'
   batch: DOI-001
   batch_sub: H
   status: normative
-  tonesu: la-o-zo-li  be  ka-li-su  ka-be  go  to-ne-su
-  gloss_line: '[agent]all-persons increase governance as-new origin truth-structure'
-  natural: The people institute a new governance grounded in organized truth.
+  tonesu: la-o-zo-li  be  ka-li-su  ka-be  go  to
+  gloss_line: '[agent]all-persons increase governance as-new origin reason/principles'
+  natural: The people institute a new governance grounded in reason and principles.
   words_attested:
-  - W000
   - W147
   - W148
-  first_attests:
-  - W000
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-plus.md
   source_anchor: S636
   notes: 'be = institute/increase. ka-be = deliberately increased / freshly established
-    = new. go to-ne-su = grounded in / derived from W000 (truth-as-organized-knowledge).
-    Intentional: the language''s aspirational name is the foundation of legitimate
-    governance.'
+    = new. go to = grounded in reason/principles (primitive to). The Declaration''s
+    "principles" are conceptual patterns (to) without further qualification. Using
+    to-ne-su here would over-determine the claim: the Declaration asserts governance
+    grounded in reason broadly, not in the structured-relational-organized-truth ontology.'
 - snum: S637
   gloss: 'DOI-001 Declaration I: Colonies are Free and Independent States.'
   batch: DOI-001
@@ -9949,7 +9949,8 @@ sentences:
   - W118
   - W159
   - W199
-  first_attests: []
+  first_attests:
+  - W000
   gap_refs: []
   source_file: sentences/v4-current/s398-plus.md
   source_anchor: S638

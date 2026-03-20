@@ -213,16 +213,16 @@ go  ka-li-su  ne  ka-de,  la-o-zo-li  vo-ne  ki  lo-ka-li-su
 **Source:** "and to institute new Government, laying its foundation on such principles and organizing its powers in such form"
 
 ```
-la-o-zo-li  be  ka-li-su  ka-be  go  to-ne-su
+la-o-zo-li  be  ka-li-su  ka-be  go  to
 ```
 
-**Written:** `laozoli be kalisu kabe go tonesu`
+**Written:** `laozoli be kalisu kabe go to`
 
-**Gloss-line:** `[agent]all-persons increase governance as-new origin truth-structure`
+**Gloss-line:** `[agent]all-persons increase governance as-new origin reason/principles`
 
-**Natural reading:** The people institute a new governance grounded in organized truth.
+**Natural reading:** The people institute a new governance grounded in reason and principles.
 
-**Notes:** `be` = institute/increase. `ka-be` = deliberately increased / freshly established = new (deliberate newness, not merely `no-pe = novel`). `go  to-ne-su` = causal/foundational: grounded in / derived from `to-ne-su` (W000, truth-as-organized-relational-knowledge = Tonesu itself). The foundation of legitimate government is the same structure as the language's aspirational name. The sentence encodes the Enlightenment view: governance legitimated by reason and truth, not by tradition or force alone.
+**Notes:** `be` = institute/increase. `ka-be` = deliberately-established, freshly-instituted = new. `go  to` = grounded in / derived from `to` (primitive: thought/reason/conceptual principle). The Declaration's "principles" are conceptual patterns — rational grounds for governance — without further qualification. Using `to-ne-su` (W000, organized truth = the language itself) would over-determine: the Declaration's Enlightenment appeal is to reason *broadly*, not to structured-relational knowledge *as an ontological object*. `to` alone preserves the rhetorical vagueness honestly. The translation discipline here: Tonesu's internal consistency creates a pull toward collapsing fuzzy philosophy into specific ontology objects. That pull should be resisted when the source is genuinely under-specified.
 
 ---
 
@@ -277,7 +277,7 @@ vo-ne-no-fe  ne  go-ne  /  su-to  ne  tonesu
 | S633 (DOI-001-E) | `zo / pakisu / kase favo` | Life, Liberty, pursuit of Happiness | W197 + W198 first att. |
 | S634 (DOI-001-F) | `go vonenofe, laozoli be kalisu / lakalisu wivo go nevowi` | Governments instituted | `ne-vo-wi` compositional (consent) |
 | S635 (DOI-001-G) | `go kalisu ne kade, laozoli vone ki lokalisu` | Right to alter or abolish | W118 as predicate; `ki` = alter/abolish |
-| S636 (DOI-001-H) | `laozoli be kalisu kabe go tonesu` | Institute new Government | `ka-be` = new/freshly-established; W000 |
+| S636 (DOI-001-H) | `laozoli be kalisu kabe go to` | Institute new Government | `ka-be` = new; `go to` = grounded in reason |
 | S637 (DOI-001-I) | `lanaColonies ne pakisu / ne nonefe` | Free and Independent States | W198 + W075 parallel |
 | S638 (DOI-001-J) | `vonenofe ne gone / suto ne tonesu` | Synthesis — rights + divine structure | W159 + W199 + W000 cross-batch |
 
@@ -295,7 +295,7 @@ vo-ne-no-fe  ne  go-ne  /  su-to  ne  tonesu
 
 5. **Consent as relational-volitional convergence:** `ne-vo-wi` = relation-value-will = consent (composable). The Declaration's consent-of-the-governed is a relational state in which wills converge on shared value. No new W-entry needed.
 
-6. **`W000` as the ground of legitimate governance (S636):** `go  to-ne-su` = "grounded in Tonesu" — the Constitution of organized truth. Intentional: Tonesu's aspirational name (truth as organized knowledge) is what validates a new government. This is the batch's most structurally rich sentence.
+6. **S636 translation discipline — resist ontological collapse (S636):** `to-ne-su` (W000) was the initial translation of "principles" but is incorrect. The Declaration's "principles" are `to` (conceptual patterns / reason broadly) — not the structured-relational-organized-truth ontology. Tonesu's internal consistency creates a gravity well that pulls vague philosophical rhetoric toward specific ontology objects. That pull has to be actively resisted when the source is genuinely under-specified. `go to` = grounded in reason. `go to-ne-su` = grounded in the structured knowledge system. Those are different claims.
 
 ---
 

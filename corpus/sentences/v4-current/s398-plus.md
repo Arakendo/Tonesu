@@ -4001,14 +4001,14 @@ go  ka-li-su  ne  ka-de,  la-o-zo-li  vo-ne  ki  lo-ka-li-su
 ### S636 — DOI-001-H
 
 ```
-la-o-zo-li  be  ka-li-su  ka-be  go  to-ne-su
+la-o-zo-li  be  ka-li-su  ka-be  go  to
 ```
 
-**Written:** `laozoli be kalisu kabe go tonesu`
+**Written:** `laozoli be kalisu kabe go to`
 
-**Natural reading:** The people institute a new governance grounded in organized truth.
+**Natural reading:** The people institute a new governance grounded in reason and principles.
 
-**Notes:** `be` = institute / increase. `ka-be` = deliberately-increased, freshly-established = new (not `no-pe` = merely novel; `ka-be` is volitional newness). `go  to-ne-su` = causal/foundational: grounded in / derived from `to-ne-su` (W000, truth-as-organized-knowledge = the language's own name). The intentional encoding: a legitimate new governance is grounded in the same condition as Tonesu's aspiration — organized truth. The language name appears as the founding reference.
+**Notes:** `be` = institute / increase. `ka-be` = deliberately-established, freshly-instituted = new. `go  to` = grounded in / derived from `to` (primitive: thought/reason/conceptual principle). The Declaration's "principles" are conceptual patterns — rational grounds for governance — without further qualification. Using `to-ne-su` (W000, organized truth = the language itself) here would over-determine the claim: it would collapse the Declaration's broad Enlightenment appeal to reason into a specific ontological object. `to` alone is honest: governance is grounded in reason/principles without asserting they constitute a structured relational knowledge system.
 
 ---
 
@@ -4053,6 +4053,6 @@ vo-ne-no-fe  ne  go-ne  /  su-to  ne  tonesu
 | S633 (DOI-001-E) | `zo / pakisu / kase favo` | Life, Liberty, pursuit of Happiness | W197 + W198 first att. |
 | S634 (DOI-001-F) | `go vonenofe, laozoli be kalisu / lakalisu wivo go nevowi` | Governments instituted | `ne-vo-wi` consent; W190 |
 | S635 (DOI-001-G) | `go kalisu ne kade, laozoli vone ki lokalisu` | Right to alter or abolish | W118 as predicate; `ki` |
-| S636 (DOI-001-H) | `laozoli be kalisu kabe go tonesu` | Institute new Government | `ka-be` = new; W000 as foundation |
+| S636 (DOI-001-H) | `laozoli be kalisu kabe go to` | Institute new Government | `ka-be` = new; `go to` = grounded in reason |
 | S637 (DOI-001-I) | `lanaColonies ne pakisu / ne nonefe` | Free and Independent States | W198 + W075 parallel |
 | S638 (DOI-001-J) | `vonenofe ne gone / suto ne tonesu` | Synthesis — rights + divine structure | W159 + W199 + W000 cross-batch |
