@@ -78,14 +78,6 @@
 go  ka-be  zo-li-su,  la-o-zo-li  ka-ne-de  lo-ne-wi-su
 ```
 
-**Written:** `go kabe zoalisu, lao zoli kaneide lonenisu`
-
-Wait — let me correct this. Written form = notation with hyphens stripped, spaces preserved.
-
-```
-go  ka-be  zo-li-su,  la-o-zo-li  ka-ne-de  lo-ne-wi-su
-```
-
 **Written:** `go kabe zolisu, laozoli kanede lonewisu`
 
 **Gloss-line:** `origin increases people-structure, [agent]collective-person dissolves [patient]relational-will-bond`
@@ -229,10 +221,6 @@ la-o-zo-li  be  ka-li-su  ka-be  go  to
 ```
 la-na-Colonies  ne  pa-ki-su  /  ne  no-ne-fe
 ```
-
-**Written:** `lanaColonies ne pakisu / ne noneife`
-
-Wait, I need to strip hyphens from the written form only. `no-ne-fe` → `nonefe`.
 
 **Written:** `lanaColonies ne pakisu / ne nonefe`
 
