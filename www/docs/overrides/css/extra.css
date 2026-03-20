@@ -280,17 +280,21 @@ html .md-typeset__table table {
 
 /* ── Top nav tab subtitles ────────────────────────────────── */
 /* Tiny descriptors beneath the three main section tabs.
-   Tabs stay top-aligned; the subtitle sits flush below the label.
    Use :nth-child on list items (tab order is fixed in mkdocs.yml):
-   1=Home  2=Tonesu  3=Totonesu  4=To'tonesu  5=About             */
+   1=Home  2=Tonesu  3=Totonesu  4=To'tonesu  5=About
+   Material sets .md-tabs__item { height: 2.4rem } and
+   .md-tabs__link { margin-top: .8rem; display: flex }.
+   We increase the item height and adjust padding to make room. */
+.md-tabs__item {
+  height: 3.2rem !important;
+}
+
 .md-tabs__link {
-  display: flex;
   flex-direction: column;
   align-items: center;
   line-height: 1.2;
-  padding-top: 0.6rem;
-  padding-bottom: 0.4rem;
-  vertical-align: top;
+  margin-top: 0.5rem !important;
+  padding-bottom: 0.3rem;
 }
 
 .md-tabs__item:nth-child(2) > .md-tabs__link::after,
@@ -300,9 +304,9 @@ html .md-typeset__table table {
   font-size: 0.55rem;
   font-weight: 400;
   letter-spacing: 0.04em;
-  color: var(--md-primary-fg-color);
-  opacity: 0.55;
-  margin-top: 0.05rem;
+  color: var(--md-primary-bg-color);
+  opacity: 0.5;
+  margin-top: 0.1rem;
 }
 
 .md-tabs__item:nth-child(2) > .md-tabs__link::after { content: "the language"; }
