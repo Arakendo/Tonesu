@@ -4291,3 +4291,158 @@ la-na-Roberts  wi-fe'ka-to-fe  lo-wi-fe'de  ne  ka-li-de
 | S648 (ACA-001-D) | `lowife'de ne tofe wife'de / ne tofe kalide` | Both descriptions hold | `to-fe` (W028) location pred. |
 | S649 (ACA-001-E) | `lanaRoberts wife'katofe lowife'de ne kalide` | Roberts's normative move | `wi-fe'ka-to-fe` pattern |
 | S650 (ACA-001-F) | `~wife'de ne suto / ke, wife no tosuki lotofe wife'de ne kalide` | `~` verdict | `~` structural mode |
+
+---
+
+## DND-004: D&D — The Classes
+
+**Batch:** DND-004  
+**Source:** Dungeons & Dragons — core class roster (originally AD&D; here the 8-class founding set)  
+**Entries:** S651–S658 · **New vocabulary:** W206 (`ra-ka-li`), W207 (`to-ra-li`), W208 (`se-de-li`), W209 (`vo-ra-li`), W210 (`zo-re-li`), W211 (`wi-vo-li`), W212 (`zo-ki-li`), W213 (`so-vo-li`)
+
+**Scope:** The 8 founding classes of AD&D — Fighter, Wizard, Rogue, Cleric, Druid, Paladin, Ranger, Bard. Remaining 5e classes (Barbarian, Monk, Sorcerer, Warlock, Artificer) deferred. See `corpus/translations/Literature/dnd-classes.md` for full analysis.
+
+**Design claim:** All eight classes reduce to 3-root `-li` agent compounds using the closed primitive set. The `-li` derivational suffix is the productive agent-maker here; each compound encodes the class's defining activity as the head modifier. The batch demonstrates the **`-li` role-registry pattern** as a productive word-formation mechanism for role and character vocabulary.
+
+---
+
+### S651 — DND-004-A
+
+```
+la-ra-ka-li  ra-ka  lo-zo-li
+```
+
+**Written:** `larakali raka lozoli`
+
+**Natural reading:** A fighter applies force against persons.
+
+**Notes:** W206 (`ra-ka-li`) first attestation. `ra-ka` = volitional force-action = the fighter's predicate (purposeful combat). `lo-zo-li` (W148, human persons) as patient = in combat the fighter acts on others. The `ka` component is load-bearing: marks the force as deliberate rather than incidental (contrast `ra-ki` W038 = storm = non-volitional force). The fighter is the simplest class compound: direct volitional force, no metaphysical source required.
+
+---
+
+### S652 — DND-004-B
+
+```
+la-to-ra-li  ra-be  go  to
+```
+
+**Written:** `latorali rabe go to`
+
+**Natural reading:** A wizard manifests force from knowledge.
+
+**Notes:** W207 (`to-ra-li`) first attestation. `ra-be` = force-increase/emergence = force manifests. `go to` = from/because of knowledge = the force's source is the wizard's `to`. Parallel structure to S654 (cleric): both use `ra-be go [source]`, differing only in source (`to` vs `vo`). This parallel is intentional — it makes the wizard/cleric structural distinction explicit.
+
+---
+
+### S653 — DND-004-C
+
+```
+la-se-de-li  se-de
+```
+
+**Written:** `lasedeli sede`
+
+**Natural reading:** A rogue evades detection.
+
+**Notes:** W208 (`se-de-li`) first attestation. Bare predicate `se-de` — the rogue evades detection in general, no specific target identified. The sentence is minimal by design: the rogue's defining act is the act itself, not its effect on any patient. Contrast `si-de` (W098, misinformation = signal-decrease): `se` = raw perceptual input; `si` = encoded signal. A rogue hides from perception (`se-de`); a forger degrades information (`si-de`).
+
+---
+
+### S654 — DND-004-D
+
+```
+la-vo-ra-li  ra-be  go  vo
+```
+
+**Written:** `lavorali rabe go vo`
+
+**Natural reading:** A cleric manifests force from worth.
+
+**Notes:** W209 (`vo-ra-li`) first attestation. Structural parallel to S652 (wizard): `ra-be go vo` vs `ra-be go to`. The cleric's force comes from `vo` (sacred worth/value); the wizard's from `to` (knowledge). A cleric who loses their faith loses their `vo`, and thus their `ra`. The parallel structure makes the wizard/cleric distinction visible as a single variable change in an otherwise identical construction.
+
+---
+
+### S655 — DND-004-E
+
+```
+la-zo-re-li  ko  lo-re-zo
+```
+
+**Written:** `lazoreli ko lorezo`
+
+**Natural reading:** A druid is contained within the life-cycle.
+
+**Notes:** W210 (`zo-re-li`) first attestation. `ko` = containment predicate (is within / belongs to). `lo-re-zo` = patient: `re-zo` = cycle-of-organisms = life-cycle (reversed root order from the compound `zo-re` — the patient names the cycle as its first component). The druid is defined by embeddedness, not by study (`zo-su-ka-li` W150, ecologist) or motion (`zo-ki-li` W212, ranger).
+
+---
+
+### S656 — DND-004-F
+
+```
+la-wi-vo-li  wi  lo-vo  /  ra-be
+```
+
+**Written:** `lawivoli wi lovo / rabe`
+
+**Natural reading:** A paladin wills toward worth / and force manifests.
+
+**Notes:** W211 (`wi-vo-li`) first attestation. Bi-clausal parallel (`/`): first clause = the oath (`wi lo-vo` = wills toward worth); second clause = the combat action (`ra-be` = force manifests, implied agent: same paladin). Both clauses are simultaneous and load-bearing — neither is subordinate to the other. The oath DRIVES the force; the force EXPRESSES the oath. A paladin who loses `wi lo-vo` retains `ra-be` capacity but is no longer structurally a paladin.
+
+---
+
+### S657 — DND-004-G
+
+```
+la-zo-ki-li  ki  lo-pa-fe
+```
+
+**Written:** `lazokili ki lopafe`
+
+**Natural reading:** A ranger moves to the frontier.
+
+**Notes:** W212 (`zo-ki-li`) first attestation. `ki` = motion/movement as predicate. `lo-pa-fe` (W138, boundary-space/frontier) = the ranger's canonical destination. The frontier is the structural definition of the ranger's domain: the edge between the settled and the wild. Contrast `di-ki-li` (W061, traveler): a traveler follows a course by direction; a ranger navigates biological environments toward the frontier.
+
+---
+
+### S658 — DND-004-H
+
+```
+la-so-vo-li  so-vo  lu-zo-li
+```
+
+**Written:** `lasovoli sovo luzoli`
+
+**Natural reading:** A bard creates sonic worth for persons.
+
+**Notes:** W213 (`so-vo-li`) first attestation. `so-vo` = sonic worth = the bard's act (acoustic performance that creates value). `lu-zo-li` (W148, persons) = beneficiary frame: the worth is created FOR others. The bard is the only class in DND-004 whose defining sentence uses the `lu-` beneficiary frame — a structural marker of other-directedness. Performance is constitutively for an audience; a bard performing in isolation is not yet a bard in their defining act.
+
+---
+
+## DND-004 Batch Summary
+
+**Entries:** S651–S658 · **New vocabulary:** W206 (`ra-ka-li`), W207 (`to-ra-li`), W208 (`se-de-li`), W209 (`vo-ra-li`), W210 (`zo-re-li`), W211 (`wi-vo-li`), W212 (`zo-ki-li`), W213 (`so-vo-li`)
+
+| Entry | Written form | Class | Key vocabulary |
+|-------|-------------|-------|----------------|
+| S651 (DND-004-A) | `larakali raka lozoli` | Fighter | W206 (`ra-ka-li`) first att. |
+| S652 (DND-004-B) | `latorali rabe go to` | Wizard | W207 (`to-ra-li`) first att. |
+| S653 (DND-004-C) | `lasedeli sede` | Rogue | W208 (`se-de-li`) first att. |
+| S654 (DND-004-D) | `lavorali rabe go vo` | Cleric | W209 (`vo-ra-li`) first att. |
+| S655 (DND-004-E) | `lazoreli ko lorezo` | Druid | W210 (`zo-re-li`) first att. |
+| S656 (DND-004-F) | `lawivoli wi lovo / rabe` | Paladin | W211 (`wi-vo-li`) first att. |
+| S657 (DND-004-G) | `lazokili ki lopafe` | Ranger | W212 (`zo-ki-li`) first att. |
+| S658 (DND-004-H) | `lasovoli sovo luzoli` | Bard | W213 (`so-vo-li`) first att. |
+
+---
+
+### DND-004 Findings
+
+**Finding 1: All eight founding D&D classes reduce to 3-root `-li` agent compounds using the closed primitive set.** Every class compound takes the form `[X-Y]-li` where `li` is the derivational agent-suffix and `X-Y` is the 2-root modifier encoding the class's defining activity. No new primitives are required. The 8 classes are expressible with 12 primitives: `ra`, `to`, `se`, `vo`, `zo`, `wi`, `so`, `ka`, `de`, `re`, `ki`, `li`. This is a strong positive stress-test of the `-li` pattern.
+
+**Finding 2: The `X-ra-li` pattern (force-source-person) unifies three classes as a structural family.** Fighter (`ra-ka-li`), Wizard (`to-ra-li`), and Cleric (`vo-ra-li`) all share `ra` (force) as the axial root. What differs is the relationship to force: the fighter APPLIES force directly (`ka = volitional action`); the wizard CHANNELS force FROM knowledge (`to → ra`); the cleric CHANNELS force FROM worth (`vo → ra`). The X-ra-li analysis makes the class triad structurally legible as force applied through different sources.
+
+**Finding 3: The `zo-X-li` pattern yields three distinct relationships to the living world.** Druid (`zo-re-li`), Ranger (`zo-ki-li`), and the existing Ecologist (`zo-su-ka-li` W150) all share `zo` (living thing) as lead root. The distinguishing second root encodes the mode of relationship: `re` = containment in cycles (druid: IS within the cycle); `ki` = motion through (ranger: MOVES through); `su-ka` = structured study of (ecologist: STUDIES from outside). Three entries, same root family, three ontologically distinct stances.
+
+**Finding 4: The Paladin as structural anomaly.** All other classes' defining sentences use a single predicate frame. The paladin requires the bi-clausal parallel (`/`): oath (`wi lo-vo`) / force (`ra-be`). Neither clause is sufficient alone — a paladin without the oath is just a fighter; a paladin without force is just a will. The structural complexity of the paladin's sentence mirrors the structural complexity of the class: it is constitutively dual.
+
+**Finding 5: The Bard as the only beneficiary-frame class.** Only S658 (bard) uses the `lu-` beneficiary marker. All other classes act on patients (`lo-`) or on sources (`go`). The bard creates FOR others. This is the structural encoding of a key D&D class distinction: the bard's gift is constitutively social; it requires an audience. The `lu-` frame marks this at the grammar level, not just in the notes.

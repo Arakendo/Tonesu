@@ -4,7 +4,7 @@ title: "D&D — The Eight Schools of Magic"
 
 # D&D — The Eight Schools of Magic
 
-*Theme: [Foundations](../../foundations/overview/)* · 30 sentences.
+*Theme: [Foundations](../../foundations/overview/)* · 38 sentences.
 
 [← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
 
@@ -294,6 +294,63 @@ title: "D&D — The Eight Schools of Magic"
 | Jedi Order | `wi-su` | `wi-vo` | STW-001 |
 | Sith Order | `wi-su` | `wi-de` | STW-002 |
 | The Force (`ara`) | `wi-su-fe` | `wi-vo-fe` | STW-001 (cross-ref) |
+
+## DND-004 · D&D — The Classes (8-class founding set)
+
+<span id="S651"></span>
+**S651**
+`la-ra-ka-li  ra-ka  lo-zo-li`
+*A fighter applies volitional force against persons.*
+
+<span id="S652"></span>
+**S652**
+`la-to-ra-li  ra-be  go  to`
+*A wizard manifests force from knowledge.*
+
+<span id="S653"></span>
+**S653**
+`la-se-de-li  se-de`
+*A rogue evades detection.*
+
+<span id="S654"></span>
+**S654**
+`la-vo-ra-li  ra-be  go  vo`
+*A cleric manifests force from worth.*
+
+<span id="S655"></span>
+**S655**
+`la-zo-re-li  ko  lo-re-zo`
+*A druid is contained within the life-cycle.*
+
+<span id="S656"></span>
+**S656**
+`la-wi-vo-li  wi  lo-vo  /  ra-be`
+*A paladin wills toward worth / and force manifests.*
+
+<span id="S657"></span>
+**S657**
+`la-zo-ki-li  ki  lo-pa-fe`
+*A ranger moves to the frontier.*
+
+<span id="S658"></span>
+**S658**
+`la-so-vo-li  so-vo  lu-zo-li`
+*A bard creates sonic worth for persons.*
+
+### Batch Summary
+
+**Entries:** S651–S658 · **New vocabulary:** W206 (`ra-ka-li`), W207 (`to-ra-li`), W208 (`se-de-li`), W209 (`vo-ra-li`), W210 (`zo-re-li`), W211 (`wi-vo-li`), W212 (`zo-ki-li`), W213 (`so-vo-li`)
+
+| Entry | Written form | Class | Key vocabulary |
+|-------|-------------|-------|----------------|
+| S651 (DND-004-A) | `larakali raka lozoli` | Fighter | W206 (`ra-ka-li`) first att. |
+| S652 (DND-004-B) | `latorali rabe go to` | Wizard | W207 (`to-ra-li`) first att. |
+| S653 (DND-004-C) | `lasedeli sede` | Rogue | W208 (`se-de-li`) first att. |
+| S654 (DND-004-D) | `lavorali rabe go vo` | Cleric | W209 (`vo-ra-li`) first att. |
+| S655 (DND-004-E) | `lazoreli ko lorezo` | Druid | W210 (`zo-re-li`) first att. |
+| S656 (DND-004-F) | `lawivoli wi lovo / rabe` | Paladin | W211 (`wi-vo-li`) first att. |
+| S657 (DND-004-G) | `lazokili ki lopafe` | Ranger | W212 (`zo-ki-li`) first att. |
+| S658 (DND-004-H) | `lasovoli sovo luzoli` | Bard | W213 (`so-vo-li`) first att. |
 
 ---
 

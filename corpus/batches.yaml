@@ -909,3 +909,8 @@ batches:
   theme: Translation / Stress Test
   range: S645–S650
   count: 6
+- code: DND-004
+  title: D&D — The Classes (8-class founding set)
+  theme: Translation
+  range: S651–S658
+  count: 8

@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 105 |
+| [w101-plus.md](w101-plus.md) | W101+ | 113 |
 
-**Total: 193 W-series entries** — active: 149 · proposed: 3 · pending: 39 · cold: 0 · retired: 2
+**Total: 201 W-series entries** — active: 157 · proposed: 3 · pending: 39 · cold: 0 · retired: 2
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -118,12 +118,14 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `pa-wi-ka-su` | W066 | shrine, temple | ✅ | [w051-w100](w051-w100.md) |
 | `pa-zo-li` | W135 | the world, inhabited realm of human persons | ✅ | [w101-plus](w101-plus.md) |
 | `ra-be-ki` | W184 | evocation; force-manifestation-change; magic of channeling and releasing raw force | ✅ | [w101-plus](w101-plus.md) |
+| `ra-ka-li` | W206 | fighter / combatant | ✅ | [w101-plus](w101-plus.md) |
 | `ra-ki` | W038 | storm, kinetic-force discharge | ⏳ | [w001-w050](w001-w050.md) |
 | `ra-ki-mu` | W012 | engine, motor, generator | ⏳ | [w001-w050](w001-w050.md) |
 | `ra-lu-ki` | W151 | fire, energy-light-process | ✅ | [w101-plus](w101-plus.md) |
 | `ra-ma` | W082 | fuel, energy substrate | ✅ | [w051-w100](w051-w100.md) |
 | `ra-vo` | W071 | signal intensity, energy quality | ✅ | [w051-w100](w051-w100.md) |
 | `re-ka-ne-li` | W134 | peacemaker, habitual bond-creator | ✅ | [w101-plus](w101-plus.md) |
+| `se-de-li` | W208 | rogue / stealth agent | ✅ | [w101-plus](w101-plus.md) |
 | `se-ka` | W034 | examination, deliberate inspection | ✅ | [w001-w050](w001-w050.md) |
 | `se-lu` | W130 | eye, visual perception organ | ✅ | [w101-plus](w101-plus.md) |
 | `se-no-to` | W090 | percept without cognitive model (unresolved signal) | ⏳ | [w051-w100](w051-w100.md) |
@@ -137,6 +139,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `si-mu` | W039 | relay device, signal transceiver | ✅ | [w001-w050](w001-w050.md) |
 | `si-ne-ki` | W021 | signal-transmission process | ⏳ | [w001-w050](w001-w050.md) |
 | `si-no-vo-li` | W126 | hypocrite, person of valueless signal | ✅ | [w101-plus](w101-plus.md) |
+| `so-vo-li` | W213 | bard / sonic artist | ✅ | [w101-plus](w101-plus.md) |
 | `su'ma` | W113 | solid (material state) | ⏳ | [w101-plus](w101-plus.md) |
 | `su-fa` | W133 | purity of heart, structured affect | ✅ | [w101-plus](w101-plus.md) |
 | `su-ka-li` | W200 | service provider; platform operator | ✅ | [w101-plus](w101-plus.md) |
@@ -167,6 +170,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `to-li` | W003 | scholar, expert, knower | ⏳ | [w001-w050](w001-w050.md) |
 | `to-ne-su` | W000 | truth; the language itself | ✅ | [w001-w050](w001-w050.md) |
 | `to-pa` | W195 | thought-realm; mind-space; the Astral Plane | ✅ | [w101-plus](w101-plus.md) |
+| `to-ra-li` | W207 | wizard / mage | ✅ | [w101-plus](w101-plus.md) |
 | `to-re-su` | W064 | canonical doctrine, scripture | ✅ | [w051-w100](w051-w100.md) |
 | `to-ru` | W083 | consensus, shared conceptual identity | ✅ | [w051-w100](w051-w100.md) |
 | `to-se-ki` | W182 | divination; pattern-perception-change; magic of transforming perception to access hidden knowledge | ✅ | [w101-plus](w101-plus.md) |
@@ -177,6 +181,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `to-to-ne-su` | W169 | knowledge of truth; knowledge of Tonesu; the language in use | ✅ | [w101-plus](w101-plus.md) |
 | `vo-mu` | W137 | garment, clothing, value-artifact worn on body | ⚠️ | [w101-plus](w101-plus.md) |
 | `vo-ne` | W118 | righteousness, right relational standing | ✅ | [w101-plus](w101-plus.md) |
+| `vo-ra-li` | W209 | cleric / divine agent | ✅ | [w101-plus](w101-plus.md) |
 | `wi-de` | W191 | evil; will toward harm/decrease; maleficent moral disposition | ✅ | [w101-plus](w101-plus.md) |
 | `wi-de-li` | W124 | adversary, enemy, opposing-will person | ✅ | [w101-plus](w101-plus.md) |
 | `wi-du` | W175 | victory, achievement (will-result) | ✅ | [w101-plus](w101-plus.md) |
@@ -197,6 +202,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `wi-to-su` | W073 | design specification, formal plan | ✅ | [w051-w100](w051-w100.md) |
 | `wi-vo` | W190 | good; will toward value/benefit; beneficent moral disposition | ✅ | [w101-plus](w101-plus.md) |
 | `wi-vo-fe` | W193 | ethics-neutral; will at the value limit; neither primarily beneficent nor harmful | ✅ | [w101-plus](w101-plus.md) |
+| `wi-vo-li` | W211 | paladin / oath-champion | ✅ | [w101-plus](w101-plus.md) |
 | `wi-zo` | W145 | wild animal, autonomous organism | ⏳ | [w101-plus](w101-plus.md) |
 | `zi-ka` | W105 | transaction, intentional exchange event | ⏳ | [w101-plus](w101-plus.md) |
 | `zi-ra` | W104 | physical interaction, mutual energy transfer | ⏳ | [w101-plus](w101-plus.md) |
@@ -205,6 +211,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `zi-zo-go` | W107 | go-role in biological coupling | ⏳ | [w101-plus](w101-plus.md) |
 | `zo-de` | W051 | fatigue, physical tiredness | ✅ | [w051-w100](w051-w100.md) |
 | `zo-ki'ma` | W164 | blood, living liquid | ✅ | [w101-plus](w101-plus.md) |
+| `zo-ki-li` | W212 | ranger / wilderness guide | ✅ | [w101-plus](w101-plus.md) |
 | `zo-li` | W148 | human person, living-person class | ✅ | [w101-plus](w101-plus.md) |
 | `zo-ma` | W163 | body, physical matter of a living being | ✅ | [w101-plus](w101-plus.md) |
 | `zo-ne` | W076 | biological kinship bond | ⏳ | [w051-w100](w051-w100.md) |
@@ -216,6 +223,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `zo-no-ki` | W043 | rest, sleep | ✅ | [w001-w050](w001-w050.md) |
 | `zo-ra` | W117 | life-energy, animating vitality | ✅ | [w101-plus](w101-plus.md) |
 | `zo-ra-ma` | W144 | food, organism-energy-substrate | ⏳ | [w101-plus](w101-plus.md) |
+| `zo-re-li` | W210 | druid / nature-cycle practitioner | ✅ | [w101-plus](w101-plus.md) |
 | `zo-se-ki` | W060 | enter trance, heightened bodyperception state | ✅ | [w051-w100](w051-w100.md) |
 | `zo-si` | W069 | spirit, disembodied living agent | ✅ | [w051-w100](w051-w100.md) |
 | `zo-su-be` | W143 | seed, plant-growth-product | ⏳ | [w101-plus](w101-plus.md) |
@@ -293,6 +301,9 @@ Concept-first lookup: find the compound you need by domain.
 **Normative**
 `wi-fe'de` W203 penalty
 
+**Social / Role**
+`ra-ka-li` W206 fighter / combatant · `se-de-li` W208 rogue / stealth agent · `so-vo-li` W213 bard / sonic artist · `to-ra-li` W207 wizard / mage · `vo-ra-li` W209 cleric / divine agent · `wi-vo-li` W211 paladin / oath-champion · `zo-ki-li` W212 ranger / wilderness guide · `zo-re-li` W210 druid / nature-cycle practitioner
+
 ---
 
 ## C. Root Families
@@ -301,7 +312,7 @@ Quick lookup by lead primitive root.
 
 | Lead root | Key entries (W#) |
 |-----------|-----------------|
-| `?` | wi-ra-su W179, ko-fe-ki W180, pa-be-ki W181, to-se-ki W182, wi-fa-ki W183, ra-be-ki W184, ge-se-ki W185, de-zo-ki W186, ge-ki W187, wi-su W188, wi-no-su W189, wi-vo W190, wi-de W191, wi-su-fe W192, wi-vo-fe W193 |
+| `?` | wi-ra-su W179, ko-fe-ki W180, pa-be-ki W181, to-se-ki W182, wi-fa-ki W183, ra-be-ki W184, ge-se-ki W185, de-zo-ki W186, ge-ki W187, wi-su W188, wi-no-su W189, wi-vo W190, wi-de W191, wi-su-fe W192, wi-vo-fe W193, ra-ka-li W206, to-ra-li W207, se-de-li W208, vo-ra-li W209, zo-re-li W210, wi-vo-li W211, zo-ki-li W212, so-vo-li W213 |
 | `be` | be-go-li-si W149 |
 | `de` | de-be W035, de-su W119, de-vo W121, de-ki'ma W162, de-zo W178 |
 | `di` | di-ki-li W061 |

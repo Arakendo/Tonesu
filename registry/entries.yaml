@@ -5754,3 +5754,256 @@ entries:
   groups:
   - Law / Governance
   - Finance / Economic
+- wnum: W206
+  status: active
+  form: ra-ka-li
+  written: rakali
+  gloss: fighter / combatant
+  english:
+  - fighter
+  - combatant
+  - warrior
+  composition: 'ra (force/energy) + ka (intentional action) + li (social agent). Head:
+    li (agent-type). Modifier: ra-ka (force-action) = purposeful application of force.
+    Compare ra-ki (W038, storm/non-volitional energy-in-motion): the ka root IS the
+    distinction — a ra-ka-li acts with deliberate force; ra-ki is non-volitional natural
+    force. Right-branching: ra-(ka-li) = force-kind-of-action-person; li as derivational
+    head marks agent role.'
+  etymology: ra (force) + ka (intentional action) + li (social agent). Force-action-person
+    = one whose defining activity is the purposeful application of force. The volitional
+    frame (ka) distinguishes from natural force events (ra-ki W038).
+  notes: 'W206. First attested DND-004 (S651). D&D Classes batch. The fighter is the
+    canonical force-action agent: their defining compound is the simplest in the class
+    set (no metaphysical source required, unlike wizard/cleric/paladin). Cross-class
+    contrast: ra-ka-li (fighter) and vo-ra-li (W209, cleric) both mobilize ra, but
+    fighter''s source is direct ka (volitional effort); cleric''s source is vo (sacred
+    worth). Barbarian (not filed) would contrast as fa-ra-li (affect-force-person),
+    where the force is reactive/emotional rather than intentional.'
+  related: 'ra (primitive: force), ka (primitive: intentional action), li (primitive:
+    social agent), ra-ki (W038: storm — non-volitional force-motion, key contrast),
+    vo-ra-li (W209: cleric — parallel ra-compound with different source), wi-ra (W177:
+    willpower)'
+  first_use: 'DND-004, D&D Classes (S651): la-ra-ka-li  ra-ka  lo-zo-li'
+  groups:
+  - Social / Role
+- wnum: W207
+  status: active
+  form: to-ra-li
+  written: torali
+  gloss: wizard / mage
+  english:
+  - wizard
+  - mage
+  - arcanist
+  composition: 'to (conceptual pattern/thought) + ra (force/energy) + li (social agent).
+    Head: li (agent-type). Modifier: to-ra (knowledge-force) = the agent for whom
+    knowledge IS force. Right-branching: to-(ra-li) = knowledge-kind-of-force-person.'
+  etymology: 'to (knowledge/conceptual pattern) + ra (force/energy) + li (social agent).
+    Knowledge-force-person = one who channels conceptual knowledge as force. The structural
+    claim: a wizard''s to and ra are not separate — knowledge held by a to-ra-li is
+    itself a force capacity.'
+  notes: 'W207. First attested DND-004 (S652). D&D Classes batch. Parallel compound
+    structure to vo-ra-li (W209, cleric): both are X-ra-li where X is the source that
+    the agent converts into force. Wizard: to (knowledge). Cleric: vo (sacred worth).
+    This parallel makes the fighter/wizard/cleric triad structurally legible: ra-ka-li
+    (direct force), to-ra-li (knowledge-sourced force), vo-ra-li (worth-sourced force).
+    Contrast to-li (W003, scholar): a scholar holds knowledge; a wizard mobilizes
+    knowledge as power. The ra root marks the distinction.'
+  related: 'to (primitive: knowledge/thought), ra (primitive: force), li (primitive:
+    social agent), to-li (W003: scholar — knowledge-person without force role), vo-ra-li
+    (W209: cleric — parallel X-ra-li compound), ra-ka-li (W206: fighter — direct force
+    without knowledge mediation)'
+  first_use: 'DND-004, D&D Classes (S652): la-to-ra-li  ra-be  go  to'
+  groups:
+  - Social / Role
+- wnum: W208
+  status: active
+  form: se-de-li
+  written: sedeli
+  gloss: rogue / stealth agent
+  english:
+  - rogue
+  - thief
+  - stealth agent
+  composition: 'se (perception/sense) + de (decrease/reduction) + li (social agent).
+    Head: li (agent-type). Modifier: se-de (perception-decrease) = one who reduces
+    their own perceptibility. Right-branching: se-(de-li) = perception-kind-of-decrease-person.
+    Key distinction from si-de (W098, misinformation = signal-decrease): se-de is
+    evasion of detection (reducing others'' ability to perceive you); si-de is degradation
+    of the signal itself.'
+  etymology: se (perception) + de (decrease) + li (social agent). Perception-decrease-person
+    = one who diminishes their perceptibility. Stealth as reduction of the sensory
+    trace one leaves.
+  notes: 'W207. First attested DND-004 (S653). D&D Classes batch. The rogue''s defining
+    activity: making themselves unperceptible. Contrast si-de (W098, misinformation):
+    si-de degrades the signal; se-de evades the detector. A rogue who deceives (disinformation
+    tactics) uses si-de; a rogue who hides uses se-de. se-de-li collapses both rogue
+    subtypes (assassin/thief) into the stealth frame, as hiding is the base class
+    feature. Cross-class: distinct from zo-ki-li (W212, ranger) who also moves through
+    the world unseen — the ranger''s defining compound is motion through living environments,
+    not perception-evasion.'
+  related: 'se (primitive: perception/sense), de (primitive: decrease), li (primitive:
+    social agent), si-de (W098: misinformation — signal-decrease, important contrast),
+    zo-ki-li (W212: ranger — motion in living world, different approach to unseen
+    movement)'
+  first_use: 'DND-004, D&D Classes (S653): la-se-de-li  se-de'
+  groups:
+  - Social / Role
+- wnum: W209
+  status: active
+  form: vo-ra-li
+  written: vorali
+  gloss: cleric / divine agent
+  english:
+  - cleric
+  - divine agent
+  - priest-warrior
+  composition: 'vo (value/worth/quality) + ra (force/energy) + li (social agent).
+    Head: li (agent-type). Modifier: vo-ra (worth-force) = one who applies force as
+    an instrument of sacred worth. Right-branching: vo-(ra-li) = worth-kind-of-force-person.
+    The vo (worth/sacred) specifies the source and orientation of the force, distinguishing
+    from to-ra-li (W207, wizard: source = knowledge) and ra-ka-li (W206, fighter:
+    source = direct volitional effort).'
+  etymology: vo (value/worth) + ra (force/energy) + li (social agent). Worth-force-person
+    = one who channels sacred worth as force. The cleric's force comes from and is
+    oriented by vo — the value dimension of existence.
+  notes: 'W209. First attested DND-004 (S654). D&D Classes batch. Parallel to to-ra-li
+    (W207, wizard) in construction: both are X-ra-li. The X-ra-li pattern captures
+    the class trio fighter/wizard/cleric as: direct force (ra-ka-li), knowledge-sourced
+    force (to-ra-li), worth-sourced force (vo-ra-li). Sentence S652 and S654 use the
+    same predicate structure (ra-be go X) to make this parallel explicit. Note: wi-vo-li
+    (W211, paladin) also invokes vo but is wi-vo rather than vo-ra — the paladin''s
+    primary characteristic is the sworn will (wi), with vo as the target of that will,
+    not the source of force.'
+  related: 'vo (primitive: value/worth), ra (primitive: force), li (primitive: social
+    agent), to-ra-li (W207: wizard — parallel X-ra-li compound), ra-ka-li (W206: fighter
+    — direct force), wi-vo-li (W211: paladin — vo appears as will''s target, not force
+    source)'
+  first_use: 'DND-004, D&D Classes (S654): la-vo-ra-li  ra-be  go  vo'
+  groups:
+  - Social / Role
+- wnum: W210
+  status: active
+  form: zo-re-li
+  written: zoreli
+  gloss: druid / nature-cycle practitioner
+  english:
+  - druid
+  - nature practitioner
+  composition: 'zo (living thing/organism) + re (repetition/cycle) + li (social agent).
+    Head: li (agent-type). Modifier: zo-re (organism-cycle) = the cycles of living
+    things. A zo-re-li is a person defined by their embeddedness in living cycles.
+    Right-branching: zo-(re-li) = organism-kind-of-cycle-person.'
+  etymology: zo (living thing) + re (cycle/repetition) + li (social agent). Organism-cycle-person
+    = one whose defining relationship is to the cyclical processes of living things
+    (seasons, growth, death, renewal).
+  notes: 'W210. First attested DND-004 (S655). D&D Classes batch. Distinct from zo-su-ka-li
+    (W150, ecologist): an ecologist studies living systems structurally from an organized
+    position; a druid is embedded within the cycles of living things. Study vs embeddedness.
+    Also distinct from zo-ki-li (W212, ranger): a ranger moves through the living
+    world; a druid IS within its cycles. Motion vs containment. The predicate in S655
+    (ko lo-re-zo) captures the containment: the druid does not study or traverse the
+    life-cycle; they are inside it.'
+  related: 'zo (primitive: living thing), re (primitive: cycle), li (primitive: social
+    agent), zo-su-ka-li (W150: ecologist — structured study vs embeddedness), zo-ki-li
+    (W212: ranger — motion vs containment), re-ka-ne-li (W134: community-cycle-relation-person
+    — re in a social context)'
+  first_use: 'DND-004, D&D Classes (S655): la-zo-re-li  ko  lo-re-zo'
+  groups:
+  - Social / Role
+- wnum: W211
+  status: active
+  form: wi-vo-li
+  written: wivoli
+  gloss: paladin / oath-champion
+  english:
+  - paladin
+  - oath-champion
+  - sacred warrior
+  composition: 'wi (will/intention) + vo (value/worth) + li (social agent). Head:
+    li (agent-type). Modifier: wi-vo (will-toward-worth) = will consecrated to an
+    oath of worth. Right-branching: wi-(vo-li) = will-kind-of-worth-person. The compound
+    encodes the distinguishing feature of the paladin class: the sacred oath (wi directed
+    at vo). Distinct from vo-ra-li (W209, cleric): the cleric''s force comes FROM
+    vo (vo is the source); the paladin''s will IS directed AT vo (vo is the oath-target).'
+  etymology: wi (will/intention) + vo (worth/value) + li (social agent). Will-worth-person
+    = one whose will is consecrated to an oath of worth. The paladin's defining feature
+    is not combat but the sacred vow that authorizes and orients the combat.
+  notes: 'W211. First attested DND-004 (S656). D&D Classes batch. The S656 sentence
+    uses the bi-clausal parallel (/) to capture both aspects: wi lo-vo (the oath dimension)
+    / ra-be (the combat dimension). The paladin IS both, and the parallel marks both
+    as load-bearing. A paladin who loses the will-toward-worth becomes a Fallen Paladin
+    — in Tonesu this would be: wi-no-vo-li (will-away-from-worth-person) or simply
+    a ra-ka-li who no longer holds wi lo-vo. The structural dissolution of the paladin
+    class is captured in the name. Contrast wi-ra (W177, willpower/directed power):
+    wi-ra is undirected directional force; wi-vo-li specifies that the will is directed
+    at worth specifically.'
+  related: 'wi (primitive: will/intention), vo (primitive: value/worth), li (primitive:
+    social agent), vo-ra-li (W209: cleric — vo as source vs vo as oath-target here),
+    wi-ra (W177: willpower — wi in force context vs worth context), ra-ka-li (W206:
+    fighter — force without oath frame)'
+  first_use: 'DND-004, D&D Classes (S656): la-wi-vo-li  wi  lo-vo  /  ra-be'
+  groups:
+  - Social / Role
+- wnum: W212
+  status: active
+  form: zo-ki-li
+  written: zokili
+  gloss: ranger / wilderness guide
+  english:
+  - ranger
+  - wilderness guide
+  - tracker
+  composition: 'zo (living thing/organism) + ki (motion) + li (social agent). Head:
+    li (agent-type). Modifier: zo-ki (organism-motion) = motion through the living
+    world. A zo-ki-li is a person defined by their movement through natural/living
+    environments. Right-branching: zo-(ki-li) = organism-kind-of-motion-person. Distinct
+    from di-ki-li (W061, traveler = directional-motion-person): di-ki-li travels by
+    direction/path; zo-ki-li moves through biological environments.'
+  etymology: zo (living thing/organism) + ki (motion/movement) + li (social agent).
+    Organism-motion-person = one who moves through the living world — the tracker,
+    the wilderness guide, the frontier warden.
+  notes: 'W212. First attested DND-004 (S657). D&D Classes batch. The sentence S657
+    uses pa-fe (W138, boundary-space/frontier) as the destination: a ranger moves
+    to the frontier. The frontier is the structural definition of the ranger''s domain
+    — the edge between the known/settled world and the wild/unsettled. Distinct from
+    di-ki-li (W061): a traveler moves along paths BY direction; a ranger moves THROUGH
+    biological environments. The zo root marks the living-world context. Also distinct
+    from zo-re-li (W210, druid): a druid is contained within living cycles (ko); a
+    ranger moves through the living world (ki). Containment vs motion.'
+  related: 'zo (primitive: living thing), ki (primitive: motion), li (primitive: social
+    agent), di-ki-li (W061: traveler — directional motion, key contrast), zo-re-li
+    (W210: druid — zo-compound, containment vs motion), pa-fe (W138: frontier/boundary-space
+    — ranger''s canonical destination)'
+  first_use: 'DND-004, D&D Classes (S657): la-zo-ki-li  ki  lo-pa-fe'
+  groups:
+  - Social / Role
+- wnum: W213
+  status: active
+  form: so-vo-li
+  written: sovoli
+  gloss: bard / sonic artist
+  english:
+  - bard
+  - performer
+  - sonic artist
+  composition: 'so (sound) + vo (value/worth) + li (social agent). Head: li (agent-type).
+    Modifier: so-vo (sound-worth) = worth created through sound. A so-vo-li is a person
+    who produces worth through sonic performance. Right-branching: so-(vo-li) = sound-kind-of-worth-person.'
+  etymology: 'so (sound) + vo (value/worth) + li (social agent). Sound-worth-person
+    = one who creates worth through sound. The bard''s defining act: making sound
+    that produces vo (worth, inspiration, beauty, morale).'
+  notes: 'W213. First attested DND-004 (S658). D&D Classes batch. The sentence S658
+    uses the lu (beneficiary) frame: so-vo lu-zo-li = sound-worth for-persons. This
+    marks the bard as inherently other-directed: the acoustic worth is created FOR
+    an audience. Contrast with the other classes whose actions have patient or causal
+    frames (ra-ka against persons, ra-be from a source, etc.) — the bard''s frame
+    is beneficiary, capturing performance as fundamentally gift-oriented. The so root
+    anchors the bard specifically to sound, distinguishing from a visual artist or
+    actor who uses si (encoded representation) rather than so (acoustic signal).'
+  related: 'so (primitive: sound), vo (primitive: value/worth), li (primitive: social
+    agent), so (sound — core root of si-go-li W201 content-originator uses si not
+    so), lu (particle: beneficiary)'
+  first_use: 'DND-004, D&D Classes (S658): la-so-vo-li  so-vo  lu-zo-li'
+  groups:
+  - Social / Role

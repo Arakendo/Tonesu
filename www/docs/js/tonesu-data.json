@@ -2811,6 +2811,110 @@
         "li",
         "de"
       ]
+    },
+    {
+      "wnum": "W206",
+      "form": "ra-ka-li",
+      "written": "rakali",
+      "gloss": "fighter / combatant",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "ra",
+        "ka",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W207",
+      "form": "to-ra-li",
+      "written": "torali",
+      "gloss": "wizard / mage",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "to",
+        "ra",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W208",
+      "form": "se-de-li",
+      "written": "sedeli",
+      "gloss": "rogue / stealth agent",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "se",
+        "de",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W209",
+      "form": "vo-ra-li",
+      "written": "vorali",
+      "gloss": "cleric / divine agent",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "vo",
+        "ra",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W210",
+      "form": "zo-re-li",
+      "written": "zoreli",
+      "gloss": "druid / nature-cycle practitioner",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "zo",
+        "re",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W211",
+      "form": "wi-vo-li",
+      "written": "wivoli",
+      "gloss": "paladin / oath-champion",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "wi",
+        "vo",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W212",
+      "form": "zo-ki-li",
+      "written": "zokili",
+      "gloss": "ranger / wilderness guide",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "zo",
+        "ki",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W213",
+      "form": "so-vo-li",
+      "written": "sovoli",
+      "gloss": "bard / sonic artist",
+      "status": "active",
+      "domain": "",
+      "roots": [
+        "so",
+        "vo",
+        "li"
+      ]
     }
   ]
 }

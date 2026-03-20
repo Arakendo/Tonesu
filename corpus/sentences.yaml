@@ -10296,3 +10296,168 @@ sentences:
     to the to-fe (W028, epistemic boundary) between wi-fe''de and ka-li-de. The statute
     works by straddling the boundary rather than resolving it. Tonesu verdict: structurally
     coherent but critically incomplete — exactly the same finding as Section 230.'
+- snum: S651
+  gloss: 'DND-004-A: Fighter — a fighter applies force against persons.'
+  batch: DND-004
+  batch_sub: A
+  status: normative
+  tonesu: la-ra-ka-li  ra-ka  lo-zo-li
+  gloss_line: '[agent]fighter applies-force [patient]persons'
+  natural: A fighter applies volitional force against persons.
+  words_attested:
+  - W148
+  - W206
+  first_attests:
+  - W206
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S651
+  notes: 'DND-004-A. First attestation of ra-ka-li (W206, fighter). ra-ka as predicate
+    = volitional force-application. lo-zo-li (W148, human persons) as patient = in
+    combat, the fighter acts on others. The ka component is load-bearing: marks the
+    force as deliberate, not incidental (contrast ra-ki W038, storm = non-volitional
+    force-in-motion).'
+- snum: S652
+  gloss: 'DND-004-B: Wizard — force manifests from knowledge.'
+  batch: DND-004
+  batch_sub: B
+  status: normative
+  tonesu: la-to-ra-li  ra-be  go  to
+  gloss_line: '[agent]wizard force-emerges from knowledge'
+  natural: A wizard manifests force from knowledge.
+  words_attested:
+  - W207
+  first_attests:
+  - W207
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S652
+  notes: 'DND-004-B. First attestation of to-ra-li (W207, wizard). ra-be (force-increase/emerging)
+    as predicate = force manifests. go to = from/because of knowledge. Parallel structure
+    to S654 (cleric): both use ra-be go [source], differing only in source (to vs
+    vo). The parallel is intentional — it encodes the wizard/cleric structural contrast
+    into the corpus.'
+- snum: S653
+  gloss: 'DND-004-C: Rogue — a rogue evades detection.'
+  batch: DND-004
+  batch_sub: C
+  status: normative
+  tonesu: la-se-de-li  se-de
+  gloss_line: '[agent]rogue evades-detection'
+  natural: A rogue evades detection.
+  words_attested:
+  - W208
+  first_attests:
+  - W208
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S653
+  notes: 'DND-004-C. First attestation of se-de-li (W208, rogue). Bare predicate se-de
+    = evades perception, no patient required — the rogue evades detection in general.
+    Contrast si-de (W098, misinformation): si = encoded signal; se = raw perceptual
+    input. The rogue reduces how well others detect them (se-de); a forger corrupts
+    the signal itself (si-de).'
+- snum: S654
+  gloss: 'DND-004-D: Cleric — force manifests from worth.'
+  batch: DND-004
+  batch_sub: D
+  status: normative
+  tonesu: la-vo-ra-li  ra-be  go  vo
+  gloss_line: '[agent]cleric force-emerges from worth'
+  natural: A cleric manifests force from worth.
+  words_attested:
+  - W209
+  first_attests:
+  - W209
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S654
+  notes: 'DND-004-D. First attestation of vo-ra-li (W209, cleric). Structural parallel
+    to S652 (wizard): ra-be go vo vs ra-be go to. The cleric''s force comes from vo
+    (sacred worth/value); the wizard''s from to (knowledge). The parallel makes the
+    source-distinction between magical practitioners explicit in the corpus record.'
+- snum: S655
+  gloss: 'DND-004-E: Druid — a druid is contained within the life-cycle.'
+  batch: DND-004
+  batch_sub: E
+  status: normative
+  tonesu: la-zo-re-li  ko  lo-re-zo
+  gloss_line: '[agent]druid is-within [patient]life-cycle'
+  natural: A druid is contained within the life-cycle.
+  words_attested:
+  - W210
+  first_attests:
+  - W210
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S655
+  notes: 'DND-004-E. First attestation of zo-re-li (W210, druid). ko = containment
+    predicate ("is within/belongs to"). lo-re-zo = patient: re (cycle) + zo (organism)
+    = cycle-of-organisms = life-cycle. The druid is defined by embeddedness in living
+    cycles — distinct from zo-su-ka-li (W150, ecologist: studies from outside) and
+    zo-ki-li (W212, ranger: moves through).'
+- snum: S656
+  gloss: 'DND-004-F: Paladin — a paladin wills toward worth / force manifests.'
+  batch: DND-004
+  batch_sub: F
+  status: normative
+  tonesu: la-wi-vo-li  wi  lo-vo  /  ra-be
+  gloss_line: '[agent]paladin wills [patient]worth / force-manifests'
+  natural: A paladin wills toward worth / and force manifests.
+  words_attested:
+  - W211
+  first_attests:
+  - W211
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S656
+  notes: 'DND-004-F. First attestation of wi-vo-li (W211, paladin). Bi-clausal parallel
+    (/): first clause = the oath (wi lo-vo = wills toward worth); second clause =
+    the combat action (ra-be = force manifests). Both are load-bearing for the paladin''s
+    identity. The parallel encodes the structural claim: oath drives force. Contrast
+    vo-ra-li (W209, cleric): cleric''s vo is a force-source; paladin''s vo is the
+    oath-target of wi.'
+- snum: S657
+  gloss: 'DND-004-G: Ranger — a ranger moves to the frontier.'
+  batch: DND-004
+  batch_sub: G
+  status: normative
+  tonesu: la-zo-ki-li  ki  lo-pa-fe
+  gloss_line: '[agent]ranger moves [patient]frontier'
+  natural: A ranger moves to the frontier.
+  words_attested:
+  - W138
+  - W212
+  first_attests:
+  - W212
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S657
+  notes: 'DND-004-G. First attestation of zo-ki-li (W212, ranger). ki as predicate
+    = moves/goes. lo-pa-fe (W138, boundary-space/frontier) as patient = the ranger''s
+    canonical destination. The frontier (pa-fe = place-boundary) is the structural
+    definition of ranger territory: the edge between settled and wild. Contrast di-ki-li
+    (W061, traveler): traveler''s motion is directed by course/path; ranger''s motion
+    is through living environments toward the frontier.'
+- snum: S658
+  gloss: 'DND-004-H: Bard — a bard creates sonic worth for persons.'
+  batch: DND-004
+  batch_sub: H
+  status: normative
+  tonesu: la-so-vo-li  so-vo  lu-zo-li
+  gloss_line: '[agent]bard sonic-worth [beneficiary]persons'
+  natural: A bard creates sonic worth for persons.
+  words_attested:
+  - W148
+  - W213
+  first_attests:
+  - W213
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S658
+  notes: 'DND-004-H. First attestation of so-vo-li (W213, bard). so-vo as predicate
+    = produces sonic worth / performs. lu-zo-li (W148, persons) with lu- beneficiary
+    marker = creates for others. The bard is the only class in DND-004 whose defining
+    sentence uses the lu beneficiary frame — a structural marker of other-directedness.
+    Performance is constitutively for an audience. Contrast so (acoustic signal) vs
+    si (encoded representation): bard is so-vo-li, not si-vo-li.'

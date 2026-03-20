@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-20 translation analyses.
+21 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -29,6 +29,7 @@ gap analysis, and key findings.
 - [Bashō — The Frog Haiku](../literature/basho-frog/)
 - [Emily Dickinson — "Because I could not stop for Death"](../literature/dickinson-death/)
 - [dnd-alignments](../literature/dnd-alignments/)
+- [dnd-classes](../literature/dnd-classes/)
 - [D&D Cosmology — The Great Wheel (DND-003)](../literature/dnd-great-wheel/)
 - [dnd-schools-of-magic](../literature/dnd-schools-of-magic/)
 - [Declaration of Independence — Translation Analysis (DOI-001)](../literature/doi-declaration/)
