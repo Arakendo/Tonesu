@@ -714,6 +714,36 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
   margin-bottom: .6rem;
 }
 
+/* ── Word-page metadata table (Domain / Class / Type / …) ── */
+/* Markdown requires a header row, but these tables use empty <th> cells.
+   Hide the blank header and style the label column as property keys.       */
+.md-typeset table:has(> thead > tr > th:empty) {
+  font-size: 0.82rem;
+  border-top: none;
+  width: auto;
+  min-width: 24rem;
+}
+.md-typeset table:has(> thead > tr > th:empty) thead {
+  display: none;
+}
+.md-typeset table:has(> thead > tr > th:empty) td:first-child {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--md-default-fg-color--light);
+  white-space: nowrap;
+  width: 1%;
+  padding-right: 1.5rem;
+  vertical-align: top;
+}
+.md-typeset table:has(> thead > tr > th:empty) td {
+  border-bottom: 1px solid var(--md-typeset-table-color);
+}
+.md-typeset table:has(> thead > tr > th:empty) tbody tr:first-child td {
+  border-top: 1px solid var(--md-typeset-table-color);
+}
+
 .rb-chip {
   display: flex;
   align-items: center;
