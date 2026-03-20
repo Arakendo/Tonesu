@@ -19,7 +19,7 @@ Start here if you want to know *why* the language works the way it does before m
 
 Start here if you learn better from examples than from rules.
 
-1. **[Corpus](totonesu/corpus/sentences.md)** — attested Tonesu sentences with glosses and notes.
+1. **[Corpus](totonesu/corpus/overview.md)** — attested Tonesu sentences with glosses and notes.
 2. **[Worked examples](totonesu/examples.md)** — longer passage analyses.
 3. Circle back to [Grammar](tonesu/grammar.md) when a construction isn't clear.
 

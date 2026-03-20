@@ -149,7 +149,7 @@ For the full rules on right-branching, `'` juncture, and derivational suffixes, 
 
 The worked examples above show how individual words are built. The walkthroughs below show the grammar working in full sentences — parse breakdowns that reveal how slots, particles, and compounds interact.
 
-For the complete corpus (575+ sentences), see the [Corpus](../tonesu/corpus/overview.md).
+For the complete corpus (575+ sentences), see the [Corpus](corpus/overview.md).
 
 ---
 

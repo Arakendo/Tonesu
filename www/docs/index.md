@@ -130,4 +130,4 @@ The word shape itself encodes what *kind* of thing it is — primitive root, com
 - **[Primitives](tonesu/primitives.md)** — the full 34-root inventory
 - **[Grammar](tonesu/grammar.md)** — particles, sentence structure, word order
 - **[Principles](to-tonesu/principles.md)** — why the language is designed this way
-- **[Corpus](totonesu/corpus/sentences.md)** — attested sentences
+- **[Corpus](totonesu/corpus/overview.md)** — attested sentences

@@ -162,7 +162,7 @@ Most compounds are 2–4 roots. Longer compounds are valid but should use `'` gr
 
 </div>
 
-Most of the words in [the word list](registry.md) are at stage 3. Many useful compounds never need registration — their meaning falls directly out of the structure every time.
+Most of the words in [the word list](registry/overview.md) are at stage 3. Many useful compounds never need registration — their meaning falls directly out of the structure every time.
 
 ---
 

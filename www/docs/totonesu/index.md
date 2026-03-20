@@ -32,5 +32,5 @@ Everything here is drawn from the corpus or built as a deliberate probe. The goa
 
 ## Reference
 
-- **[Corpus](../tonesu/corpus/overview.md)** — the full sentence corpus (575+ sentences), organized by theme and batch
+- **[Corpus](corpus/overview.md)** — the full sentence corpus (575+ sentences), organized by theme and batch
 - **[Building words](../tonesu/words.md)** — the rules behind compound construction
