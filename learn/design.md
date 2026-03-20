@@ -12,6 +12,36 @@ like, what order do concepts go in, and what format serves learners best?
 
 ---
 
+## Core design principles
+
+### Tonesu is learned like a system, not a natural language
+
+There are no irregular forms. Every word is compositional. Grammar is
+minimal and fixed. The challenge is structural thinking, not memorization.
+
+### Meaning first, system second
+
+Learners experience language through use, not definition. The flow is:
+
+> show → then explain
+
+Not:
+
+> explain → then use
+
+Abstract structure (tier system, head-final principle, parse invariants)
+is introduced *after* the learner has already encountered examples that
+demonstrate it. The formal system is a reference that deepens understanding
+— not the entry point.
+
+### Patterns emerge; they are not front-loaded
+
+Primitives are introduced through sentences, not as a map to study.
+The phonosemantic map and full root inventory exist as reference — learners
+reach for them when they're ready, not when the curriculum pushes them.
+
+---
+
 ## What a learner is acquiring
 
 Tonesu is unlike natural-language learning in key ways:
@@ -22,52 +52,94 @@ Tonesu is unlike natural-language learning in key ways:
   base. Learning the roots *is* most of the vocabulary problem.
 - **Grammar is minimal.** Core frame is three slots: `la-[agent]
   [verb-compound] lo-[patient]`. Particles are few and fixed in function.
-- **Notation is part of the language.** `~`, `'`, `()`, `[]`, `;`, `/`, `—`
-  etc. are normative marks a learner needs to read and produce.
+- **Notation is semantic.** `~`, `'`, `()`, `[]`, `;`, `/`, `—`
+  etc. are normative operators — not optional annotation, but part of
+  what the language *means*.
 - **The hard part is compounding.** Knowing primitives isn't enough; a
   learner needs to parse and construct compounds fluently.
+- **Epistemic discipline is a skill.** Knowing when to use `se` vs `to`,
+  when *not* to upgrade a claim, and how misuse looks — this is the
+  philosophical core of the language, not just grammar.
 
 So the learning problem is mostly:
 
-1. Internalize ~34 roots and their semantic fields.
-2. Understand head-final right-branching composition.
-3. Learn the grammar particles and their force.
-4. Read and use notation marks correctly.
+1. Encounter real sentences and begin pattern-matching.
+2. Progressively internalize roots through repeated use.
+3. Understand head-final right-branching composition.
+4. Learn grammar particles and notation marks together (they are
+   experienced together — splitting them is academically clean but
+   pedagogically wrong).
 5. Build fluency with derived vocabulary through corpus exposure.
+6. Develop the epistemic judgment to produce well-calibrated Tonesu.
 
 ---
 
-## Candidate learning stages
+## Learning stages
 
-### Stage 0 — Orientation (before any production)
-- What kind of language is this? Why does it work this way?
-- The tier system: CV / compound / CVC / CVCC — why shapes signal tier.
-- The head-final principle: modifier before head, right-branching default.
-- The core sentence frame.
+### Stage 0 — First Contact
 
-**Outcome:** learner can parse `to-li` and `la-mi to-si lo-tu` on paper.
+Not "what is the formal structure" but "what does this *do*."
+
+Give the learner 3–5 real sentences using a small subset of roots (5–8).
+Supply just enough explanation to parse. No tier system, no formal
+invariants — just: here's a sentence, here's what it says, here's how
+the pieces fit together.
+
+Example sentences (from the foundations corpus, C001–C008):
+
+```
+la-mi  se  lo-zo-ne
+I perceived the mycelium.
+
+to-si — la-tu  ki  pa-li-pu  ta-ti-be
+Are you going to the city soon?
+
+la-zo-su  be  lo-zo-be
+A plant produces seeds.
+```
+
+Roots introduced by this stage (candidate set):
+`la` `lo` `mi` `tu` `se` `to` `si` `ki` `be` `zo`
+
+**Outcome:** learner can read a simple sentence and identify "who did
+what to what." They've seen the `la-`/`lo-` frame in action before
+anyone explains it formally.
 
 ---
 
-### Stage 1 — Primitives (the conceptual inventory)
-- The 34 CV roots grouped by phonosemantic family or functional cluster.
-- Each root: form, core meaning, canonical compound examples.
-- Not flashcards — the roots need to be learned as a *map*, not a list.
-  The phonosemantic map (`notes/phonosemantic-map.md`) is a key resource here.
+### Stage 1 — Progressive root introduction
 
-**Open question:** what's the best grouping order?
-- Phonosemantic families (all `t-` roots together, all `r-` roots, etc.)?
-- Semantic clusters (mind/knowledge group, body/action group, etc.)?
-- Frequency in the corpus?
-- An interleaved approach: introduce roots as they appear in worked sentences?
+NOT "here are all 34 primitives, learn them as a map."
 
-**Outcome:** learner can look at any primitive CV form and recall its
-semantic field and directional logic (e.g. `to` = knowledge/pattern,
-`si` = signal/surface, `ka` = agency/cause).
+Instead: introduce roots *through sentences*, in clusters of 3–6 per
+lesson. Reuse heavily. Cluster by usage context, not by phonosemantic
+family or taxonomy.
+
+Example lesson shape:
+
+> "Here are 6 roots you need to understand these 10 sentences."
+
+The phonosemantic map (`notes/phonosemantic-map.md`) and full primitive
+inventory (`registry/primitives.md`) exist as **reference** — the learner
+consults them when a root comes up, not as a study target. The map is
+valuable once the learner has enough roots internalized to see the
+patterns; it's not the entry point.
+
+**Open question:** what's the best usage-based clustering?
+- Group by the corpus conversations/sentences they appear in?
+- Group by conceptual affinity (perception roots, agency roots, etc.)?
+- Frequency-weighted: most-used roots first?
+
+**Outcome:** after 4–5 lessons, learner knows ~20 roots from repeated
+use and can recall their semantic field when encountering them.
 
 ---
 
 ### Stage 2 — Compound construction
+
+This is where learners will actually fail. If someone quits Tonesu, it
+will be here. The stage needs especially careful design.
+
 - Head-final rule in depth. Practice: given two roots, build the compound
   and explain what it means.
 - The `'` juncture marker: when and why.
@@ -76,12 +148,31 @@ semantic field and directional logic (e.g. `to` = knowledge/pattern,
 - Common derivational patterns: `-li` (person), `-mu` (device/tool),
   `-pa` (place), `-ge` (state/quality), `-ki` (action/change).
 
+#### Ambiguity resolution drills (critical exercise type)
+
+Give a compound like `to-fe-su-ki`. Ask:
+- What are 2–3 possible parses?
+- Which is correct and why?
+- What would a different parse mean?
+
+This trains structural thinking under ambiguity — the core cognitive
+skill for Tonesu fluency. These drills should appear in *every* lesson
+from Stage 2 onward.
+
 **Outcome:** learner can construct unfamiliar compounds from roots alone
-and correctly parse multi-root chains like `to-fe-su-ki`.
+and correctly parse multi-root chains, including resolving ambiguous
+bracketings.
 
 ---
 
-### Stage 3 — Grammar particles in use
+### Stage 3 — Grammar and notation in use
+
+Grammar particles and notation marks are taught *together* because
+learners experience them together. In real Tonesu, `go {premise}, result`
+involves a particle *and* a structural bracket simultaneously; teaching
+them in separate stages creates an artificial split.
+
+**Grammar particles:**
 - `la-` / `lo-` / `lu-` (agent / patient / result).
 - `ne` copula — property attribution only; not identity.
 - `go` causal particle — necessary connection (Hume's distinction).
@@ -92,78 +183,114 @@ and correctly parse multi-root chains like `to-fe-su-ki`.
 - `ru-fe` exclusive scope.
 - `helm` / `helms` identity spectrum.
 
-**Outcome:** learner can produce and parse multi-clause constructions
-including causal chains, parallels, and denials.
-
----
-
-### Stage 4 — Notation marks in reading and writing
+**Notation marks (semantic operators):**
 - Evidential frame `()` — not asserting; reported/inferred.
 - Aside frame `[]` — annotation that doesn't alter truth conditions.
 - Approximation `~` / `ven`.
 - Quotation `""` — direct speech, mention, titles.
 - Prosodic suspension `—` / `el`.
 - Scope prefixes `a- i- u- o- e-` and the `la-` merge hazard.
+- Topic frame `:` — sentence-initial "as for X."
 
-**Outcome:** learner can read a fully notated corpus sentence and
-identify what each mark is doing.
+**Outcome:** learner can produce and parse multi-clause constructions
+including causal chains, parallels, denials, evidential hedges, and
+aside annotations.
 
 ---
 
-### Stage 5 — Derived vocabulary and registry fluency
-- Work through the registry systematically or by domain.
+### Stage 4 — Derived vocabulary and corpus fluency
+
+- Work through the registry by domain or through corpus sentences.
 - Each derived entry: parse it from roots, verify the gloss makes sense.
 - Corpus sentences as the main exposure vehicle — real sentences, not
   contrived examples.
+- Continue ambiguity drills with longer compounds.
 
 **Outcome:** learner has a working vocabulary of 50–100 derived forms
 and can look up unfamiliar words and parse them independently.
 
 ---
 
+### Stage 5 — Epistemic discipline
+
+Not just grammar — the philosophical core of the language.
+
+- When to use `se` (perception) vs `to` (knowledge/pattern).
+- When *not* to upgrade a claim — the difference matters.
+- How epistemic misuse looks and why it's wrong.
+- The evidential frame `()` as a tool for intellectual honesty.
+- The `~` approximation mark: when precision should give way.
+- `helm` vs `helms` vs `ne`: the three-way identity/attribution spectrum
+  and when each is appropriate.
+
+Corpus sentences from the fallacy batch (FAL, S374–S397) and theological
+batch (THO) are rich material here — they were designed to stress-test
+exactly these distinctions.
+
+**Outcome:** learner can produce well-calibrated Tonesu: not just
+grammatically correct, but epistemically honest.
+
+---
+
 ### Stage 6 — Production and colloquial register
+
 - Writing original sentences from prompts.
 - Applying CLQ contraction rules.
 - Understanding when formal vs colloquial register is appropriate.
+- Translation challenges: given an English sentence, produce Tonesu
+  and justify each structural choice.
 
 **Outcome:** learner can produce grammatically correct, well-registered
 Tonesu for a given communicative context.
 
 ---
 
-## Format questions
+## Format: Corpus-first + reference backing (C+B hybrid)
 
-### Option A — Linear lesson sequence
-Classic: Lesson 1, Lesson 2, … Each lesson introduces a concept,
-gives examples from the corpus, ends with a small exercise set.
+**Decided.** The other options were considered and eliminated:
 
-Pros: clear progression, easy to navigate, familiar format.
-Cons: the language is so compositional that "lesson order" matters a lot —
-get it wrong and learners are confused. Exercises need to be designed.
+- **Option A (linear lessons):** too artificial. You end up fighting the
+  language's own compositional design.
+- **Option B (reference + guided tour):** too passive. Good for someone
+  who already knows the language, not for acquisition.
+- **Option D (domain-first):** primitives appear in all domains, so you
+  can't avoid front-loading them. Motivation is good but structure breaks.
+- **Option C (corpus-driven inductive) + B (reference backing):** wins.
 
-### Option B — Reference + worked examples (current site model)
-The site already has reference pages (Grammar, Morphology, Building words,
-Patterns). "Learning" would be a guided tour pointing to these in sequence,
-with exercises/prompts layered on top.
+### Why C+B is right for Tonesu
 
-Pros: doesn't duplicate existing content. Cons: not optimized for acquisition.
+Tonesu is compositional, pattern-driven, and structurally consistent.
+That makes it perfect for inductive learning: show patterns, let the
+learner notice them, then formalize.
 
-### Option C — Corpus-driven inductive approach
-Start with real sentences. Each sentence introduces or practices one
-concept. Sentences are sequenced by concept-introduction order. The
-learner encounters the rule after the example, not before.
+The existing reference content (Grammar, Morphology, Building words,
+Patterns, Notation) stays as-is — it's the backing material that
+a learner links to when they want the full rule. Learning content
+does not duplicate it.
 
-Pros: suits the compositional nature of the language (see syntax in action,
-then formalize). Cons: requires careful sequencing of the sentence corpus;
-more work to design.
+### Lesson structure (each lesson = one sentence cluster)
 
-### Option D — Domain-first / use-case entry
-Start with a domain (e.g. everyday conversation, theological discourse,
-mathematical description) and learn the vocabulary + grammar needed for
-that domain. Parallel tracks for different learners.
+1. **Show 2–4 real sentences.** No explanation yet.
+2. **Ask the learner to notice a pattern.** What's similar? What changed?
+3. **Explain:** 1 new concept + 2–3 new roots.
+4. **Exercises:**
+   - Parse drill: decompose a compound.
+   - Build drill: construct a compound from a semantic target.
+   - Ambiguity drill (Stage 2+): resolve a multi-root parse.
+   - Translation prompt (Stage 3+): English → Tonesu.
+5. **Link to reference** for the formal rule behind the concept.
 
-Pros: motivated learning, connects to real use. Cons: primitives appear
-in all domains — hard to avoid front-loading everything anyway.
+### Advanced track: translation walkthroughs
+
+The Bible, Tao Te Ching, and other translation files are rich
+pedagogical material. A translation walkthrough can *be* a lesson:
+
+> "In this lesson we translate Genesis 1:1–3 and encounter these
+> five new compounds for the first time."
+
+This is where Tonesu shines — forced to express genuinely hard
+concepts. These walkthroughs serve as both advanced lessons and
+reading material.
 
 ---
 
@@ -177,51 +304,29 @@ in all domains — hard to avoid front-loading everything anyway.
    producing original ones vs engaging in real-time conversation
    (if that's ever a use case) — very different targets.
 
-3. **Exercises: what forms work?**
-   - Translation prompts (English → Tonesu)?
-   - Parse drills (given a compound, decompose it)?
-   - Fill-in-the-particle (given a sentence, insert the right particles)?
-   - Construction challenges (given a semantic target, build the compound)?
-   - Error-spotting (identify what's wrong in a malformed sentence)?
+3. **Exercise design specifics:**
+   - How many exercises per lesson? (Candidate: 3–5)
+   - Self-check only or scored? (Probably self-check for v1)
+   - What format for answer keys? (Expandable sections? Separate page?)
 
 4. **Interactivity:** The Word Builder (`tonesu/builder.md`) already exists
    as an interactive tool. Could lessons link to it as a practice environment?
 
 5. **Spaced repetition:** Is there a role for SRS (Anki-style) for the
-   34 primitives? Probably yes for Stage 1. How do we author that deck?
+   34 primitives? Probably yes as a supplementary tool alongside Stage 1
+   lessons. How do we author that deck?
 
-6. **Lesson length / granularity:** One concept per lesson? One stage per
-   lesson? Short (5 min) or long (30 min) sessions?
+6. **Lesson length / granularity:** One concept per lesson? Short (5 min)
+   or long (30 min) sessions? Working hypothesis: short, ~10 minutes,
+   one concept + one sentence cluster.
 
-7. **Worked translations as lessons:** The Bible/Tao/etc. translation files
-   are rich pedagogical material — could a translation walkthrough *be* a
-   lesson? "In this lesson we translate Genesis 1:1–3 and encounter these
-   five primitives for the first time."
+7. **Prerequisites:** Does any lesson assume another? Probably yes — the
+   stages are sequential. Do we need a formal prerequisite graph or is
+   "do them in order" sufficient?
 
-8. **Prerequisites:** Does any lesson assume another? Do we need a
-   formal prerequisite graph?
-
----
-
-## Likely recommended approach (working hypothesis)
-
-**Hybrid: Reference + structured pathway.**
-
-- Keep the existing reference content as-is (Grammar, Morphology, etc.).
-- Create a "Learning path" section with:
-  - A curated sequence of concepts (Stage 0–5 from above).
-  - Each stage links to the relevant reference pages but adds:
-    - A short motivating intro.
-    - 3–5 annotated corpus examples.
-    - A small exercise set (translation + parse prompts).
-  - The corpus-driven approach for vocabulary (Stage 5): use existing
-    batch sentences as the primary exposure material.
-- Translation walkthroughs (Stage 5–6) as standalone lessons that double
-  as advanced reading material.
-
-**First lesson candidate:** Stage 0 + 1 combined — "What Tonesu is and
-the 10 most-used primitive roots" — using the foundations corpus batch
-(C001–C008) as the worked example material.
+8. **First lesson candidate:** Stage 0 — "First Contact." Use foundations
+   corpus (C001–C008). Introduce ~8 roots. 3–5 sentences. 2 parse exercises.
+   Link to Quick start and Primitives page for reference.
 
 ---
 
@@ -234,14 +339,40 @@ the 10 most-used primitive roots" — using the foundations corpus batch
 | `spec/morphology.md` | Derivational affixes |
 | `spec/word-formation.md` | Compound construction rules |
 | `registry/primitives.md` | The 34 CV roots |
-| `notes/phonosemantic-map.md` | Phonosemantic family groupings |
-| `notes/basics.md` | Language basics summary — possible Stage 0 source |
+| `notes/phonosemantic-map.md` | Phonosemantic family groupings (Stage 1 reference) |
+| `notes/basics.md` | Language basics summary |
 | `corpus/sentences/v4-current/` | Worked sentences for exercises |
-| `corpus/conversations/` | Dialogue examples for Stage 3+ |
-| `corpus/translations/` | Advanced reading / translation walkthroughs |
+| `corpus/conversations/` | Dialogue examples (Stage 0 First Contact source) |
+| `corpus/translations/` | Advanced track / translation walkthroughs |
 | `notes/open-questions.md` | Edge cases learners will hit |
+| `www/docs/quick-start.md` | Existing quick start — possible Stage 0 complement |
+| `www/docs/cheatsheet.md` | Cheat sheet — reference companion for lessons |
 
 ---
 
-*Next step: decide on format (Option A/B/C/D above), pick the first
-lesson topic, and draft it.*
+## Feedback log
+
+### 2026-03-20 — Initial review
+
+Key critique: design was "extremely well-structured but slightly too
+top-down." Specific issues and resolutions:
+
+| Issue | Resolution |
+|-------|------------|
+| Stage 0 too abstract (tier system, formal structure) | Replaced with "First Contact" — real sentences first |
+| Stage 1: "learn 34 primitives as a map" = too heavy | Changed to progressive root introduction through sentences; map is reference |
+| Grammar and notation taught separately | Merged into one stage — learners experience them together |
+| Missing: ambiguity resolution drills | Added to Stage 2 as a critical exercise type, recurring thereafter |
+| Missing: epistemic discipline as a skill | Added as Stage 5 — philosophical core, not just grammar |
+| Format undecided | Locked in C+B hybrid (corpus-first + reference backing) |
+| Translation walkthroughs undervalued | Elevated to explicit advanced track |
+| Overall: reference-first instead of cognition-first | Restructured all stages to show → then explain |
+
+> "You've designed the perfect reference manual — now tilt it 20% toward
+> a learning experience."
+
+---
+
+*Next step: draft Stage 0 — First Contact. Select 3–5 foundation corpus
+sentences, identify the ~8 roots they use, write the lesson using the
+sentence-cluster format.*
