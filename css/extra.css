@@ -158,18 +158,24 @@
   padding: 0.1em 0.3em;
 }
 
-/* ── Tonesu language showcase — inline word-form display ─── */
+/* ── Tonesu language forms — inline code display ─────────── */
 /*
- * In demo/showcase sections, Tonesu forms are authored as inline
- * code spans for convenience, but should read as displayed language
- * forms — not code snippets. Strip the code-box chrome and apply
- * accent color at body size. Pre>code (display blocks) are excluded.
+ * On this site, inline code spans are always Tonesu word forms or
+ * linguistic notation — not code snippets. Strip the code-box chrome
+ * site-wide (pre>code display blocks are excluded via :not(pre)).
+ * The homepage showcase/example sections get accent color + bold on
+ * top of this base rule.
  */
-.tn-showcase :not(pre) > code,
-.tn-example-grid :not(pre) > code {
-  background: none;
+.md-typeset :not(pre) > code {
+  background: transparent;
   border-radius: 0;
   padding: 0;
+  box-shadow: none;
+}
+
+/* Homepage demo sections: accent color + bold to make forms prominent */
+.tn-showcase :not(pre) > code,
+.tn-example-grid :not(pre) > code {
   font-size: 1.05em;
   color: var(--md-accent-fg-color);
   font-weight: 600;
