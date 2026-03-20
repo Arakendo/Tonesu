@@ -205,10 +205,11 @@ html .md-typeset__table table {
 
 /*
  * Section-group labels (e.g. "Domains", "Registry", "Corpus") are <label>
- * elements that toggle a nested list. Make them clearly read as headings,
- * not links: uppercase, letter-spaced, slightly smaller, clearly dimmer.
+ * elements. Decoration-only section headings (non-toggling) are styled as
+ * headings: uppercase, letter-spaced, dimmer, not clickable.
+ * md-nav__item--section labels ARE toggling (clickable) on mobile — excluded.
  */
-.md-nav__list label.md-nav__link {
+.md-nav__list .md-nav__item:not(.md-nav__item--section) > label.md-nav__link {
   font-size: .67rem;
   font-weight: 700;
   letter-spacing: .09em;
@@ -220,25 +221,20 @@ html .md-typeset__table table {
   pointer-events: none;
 }
 
-/* Hide the collapse/expand arrow on label-only nav sections */
-.md-nav__item--nested > label.md-nav__link > .md-nav__icon {
+/* Hide the collapse/expand arrow on non-section (decoration-only) label nav items */
+.md-nav__item--nested:not(.md-nav__item--section) > label.md-nav__link > .md-nav__icon {
   display: none;
 }
 
-/* Force section nav items to stay expanded — all viewports.
-   Material's toggle is input.md-nav__toggle (checkbox); label and nav are its
-   subsequent siblings. Target the nav via the input sibling relation. */
-.md-nav__item--section > input.md-nav__toggle ~ .md-nav,
-.md-nav__item--section > label.md-nav__link ~ .md-nav {
-  display: block !important;
-  max-height: none !important;
-  overflow: visible !important;
-  visibility: visible !important;
-}
-
-/* Also suppress the expand/collapse arrow on section-level labels */
-.md-nav__item--section > label.md-nav__link > .md-nav__icon {
-  display: none !important;
+/* On desktop: force section nav items to stay expanded.
+   On mobile, Material's tap-to-expand behavior takes over naturally. */
+@media screen and (min-width: 76.25em) {
+  .md-nav__item--section > input.md-nav__toggle ~ .md-nav,
+  .md-nav__item--section > label.md-nav__link ~ .md-nav {
+    display: block !important;
+    max-height: none !important;
+    overflow: visible !important;
+  }
 }
 
 /* The top-of-sidebar section title (back-link) uses .md-nav__title, not
