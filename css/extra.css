@@ -981,3 +981,30 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
   font-size: .72rem;
   margin-left: auto;
 }
+
+/* ── Front-page showcase block ──────────────────────────── */
+.tn-showcase {
+  border-left: 3px solid var(--md-accent-fg-color);
+  background: var(--md-code-bg-color);
+  padding: 1.25rem 1.5rem;
+  margin: 1rem 0;
+  border-radius: 0 .3rem .3rem 0;
+}
+
+.tn-showcase blockquote {
+  border-left: none;
+  background: transparent;
+  padding: 0;
+  margin: 0 0 .75rem;
+  font-size: 1.05rem;
+  font-style: italic;
+  color: var(--md-accent-fg-color);
+}
+
+.tn-showcase p {
+  margin: .5rem 0;
+}
+
+.tn-showcase code {
+  font-size: .9em;
+}
