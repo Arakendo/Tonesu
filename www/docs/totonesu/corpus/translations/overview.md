@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-21 translation analyses.
+23 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -23,6 +23,11 @@ gap analysis, and key findings.
 - [Matthew 16:25](../bible/matthew-16-25/)
 - [Sermon on the Mount (Matthew 5–7)](../bible/matthew-5-7/)
 - [Romans 7:19](../bible/romans-7-19/)
+
+## Law
+
+- [ACA Individual Mandate — Translation Analysis (ACA-001)](../law/aca-mandate/)
+- [Communications Decency Act §230(c)(1) — Translation Analysis (CDA-001)](../law/cda-section230/)
 
 ## Literature
 

@@ -6,6 +6,8 @@ title: "Communications Decency Act — Section 230(c)(1)"
 
 *Theme: [Foundations](../../foundations/overview/)* · 6 sentences.
 
+:material-book-open-variant: [Full translation analysis](../../translations/law/cda-section230/)
+
 [← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
 
 ---

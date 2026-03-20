@@ -101,6 +101,8 @@ BATCH_TRANSLATION_MAP: dict[str, str] = {
     "WIT": "Philosophy/tractatus",
     "LPR": "Philosophy/liar-paradox",
     "TAO": "Philosophy/tao-te-ching-ch1",
+    "CDA": "Law/cda-section230",
+    "ACA": "Law/aca-mandate",
 }
 
 STATUS_EMOJI = {
@@ -1254,7 +1256,7 @@ def generate_conversations_page(conv_data: dict | None) -> str:
 # Translation pages — copy source files + generate index
 # ---------------------------------------------------------------------------
 
-TRANS_CATEGORIES = ["Bible", "Literature", "Philosophy", "Science"]
+TRANS_CATEGORIES = ["Bible", "Law", "Literature", "Philosophy", "Science"]
 
 
 def _strip_empty_table_columns(text: str) -> str:

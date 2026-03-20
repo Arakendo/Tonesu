@@ -6,6 +6,8 @@ title: "ACA Individual Mandate — 26 U.S.C. §5000A (penalty vs tax)"
 
 *Theme: [Foundations](../../foundations/overview/)* · 6 sentences.
 
+:material-book-open-variant: [Full translation analysis](../../translations/law/aca-mandate/)
+
 [← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
 
 ---
