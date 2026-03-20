@@ -185,6 +185,12 @@ Consolidated list of unresolved design decisions from across all spec and regist
 
 ---
 
+## Pipeline / Build
+
+- [ ] **`derive_first_attests.py` is add-only — no recompute or validation mode.** The script adds `first_attests` entries to `sentences.yaml` but never removes them. Exposed by S636 (DOI-001): a manually entered `first_attests: [W000]` persisted after W000 was removed from `words_attested` in the same sentence — the script left the ghost entry in place. Two candidate fixes: (1) a `--recompute` flag that rebuilds all `first_attests` from scratch by scanning the full sentence list; (2) a validation pass that flags any `first_attests` entry whose W# is absent from `words_attested` in the same sentence. Without one of these, incorrect first-attestation records will silently accumulate whenever a sentence is edited.
+
+---
+
 ## Dictionary / Reference
 
 - [ ] **Dictionary structure (deferred; revisit after ~300 compounds).** When the corpus matures, the reference dictionary should be organized as a multi-layer manual rather than a standard alphabetical word list. Suggested hierarchy from design notes:
