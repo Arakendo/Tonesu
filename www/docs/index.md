@@ -127,6 +127,30 @@ The word shape itself encodes what *kind* of thing it is — primitive root, com
 
 ---
 
+## What it does to text { .tn-section-title }
+
+When you translate something into Tonesu, the structure of the original becomes visible — ideology becomes inspectable, rhetoric becomes typed claims, and vibes become explicit relationships.
+
+<div class="tn-showcase" markdown>
+
+> **"Peace is a lie."** — *The Sith Code*
+
+In English: edgy, vague, dramatic.
+
+In Tonesu: `nenora ne tofeka` — **peace is a deliberate epistemic boundary violation.**
+
+`tofeka` (W029) is not "falsehood" — it is active misclassification: labeling a known `to-su` (systematic knowledge) as `si` (mere signal). The Sith aren't saying peace doesn't exist. They're saying it is a maintained deception — a stronger and more specific claim than the English suggests.
+
+The Jedi reply — **"there is no emotion, there is serenity"** — translates as `no-fa-wi-ra ne / fa-su ne`: remove unstructured affect driven by will-and-force (`fa-wi-ra`), replace it with affect in ordered form (`fa-su`, W173, serenity). Not the absence of feeling. Affect-structure optimization.
+
+And the Force itself? `ara` — `a-` (abstract/universal scope) + `ra` (energy/force) = universal-abstract-energy. No new word needed; the scope system generates it compositionally.
+
+[Read the full translation](totonesu/corpus/translations/literature/star-wars-codes/index.md){ .md-button }
+
+</div>
+
+---
+
 - **[Primitives](tonesu/primitives.md)** — the full 34-root inventory
 - **[Grammar](tonesu/grammar.md)** — particles, sentence structure, word order
 - **[Principles](to-tonesu/principles.md)** — why the language is designed this way
