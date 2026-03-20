@@ -32,6 +32,7 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.sections
+    - navigation.expand
     - navigation.top
     - navigation.indexes
     - navigation.path
