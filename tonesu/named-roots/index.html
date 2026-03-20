@@ -16,7 +16,7 @@
         <link rel="prev" href="../primitives/">
       
       
-        <link rel="next" href="../domains/">
+        <link rel="next" href="../anchors/">
       
       
         
@@ -597,6 +597,8 @@
   
     
     
+      
+        
       
         
       
@@ -1213,10 +1215,10 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#physical-constants-in-si-units" class="md-nav__link">
+  <a href="#physical-constants" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Physical Constants (in SI units)
+        Physical Constants
       
     </span>
   </a>
@@ -1287,6 +1289,34 @@
   
 </nav>
       
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../anchors/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Exceptional anchors
+  
+
+    
+  </span>
+  
+  
+
+      </a>
     </li>
   
 
@@ -3586,10 +3616,10 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#physical-constants-in-si-units" class="md-nav__link">
+  <a href="#physical-constants" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Physical Constants (in SI units)
+        Physical Constants
       
     </span>
   </a>
@@ -4152,69 +4182,83 @@
 <th>Constant</th>
 <th>Form</th>
 <th>Value</th>
-<th>Sound</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>π</td>
-<td><code>pelf</code></td>
-<td>3.141592…</td>
-<td><em>pehlf</em></td>
+<td><code>varn</code></td>
+<td>3.14159…</td>
 </tr>
 <tr>
-<td>e</td>
-<td><code>emel</code></td>
+<td>τ (2π)</td>
+<td><code>worn</code></td>
+<td>6.28318…</td>
+</tr>
+<tr>
+<td>e (Euler)</td>
+<td><code>werm</code></td>
 <td>2.71828…</td>
-<td><em>eh-mehl</em></td>
 </tr>
 <tr>
 <td>φ (golden ratio)</td>
-<td><code>frim</code></td>
-<td>1.618…</td>
-<td><em>frihm</em></td>
+<td><code>vins</code></td>
+<td>1.61803…</td>
+</tr>
+<tr>
+<td>√2</td>
+<td><code>valm</code></td>
+<td>1.41421…</td>
+</tr>
+<tr>
+<td>i (imaginary unit)</td>
+<td><code>walf</code></td>
+<td>√(−1)</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Usage in expressions:</strong></p>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-10-1" name="__codelineno-10-1" href="#__codelineno-10-1"></a>pelf nu pa            → π meters (quantity of space: pi units)
-<a id="__codelineno-10-2" name="__codelineno-10-2" href="#__codelineno-10-2"></a>emel fu                → base of e: 10^e
-</code></pre></div>
-<h3 id="physical-constants-in-si-units">Physical Constants (in SI units)</h3>
+<h3 id="physical-constants">Physical Constants</h3>
 <table>
 <thead>
 <tr>
 <th>Constant</th>
 <th>Form</th>
 <th>Approx Value</th>
-<th>Sound</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>speed of light (c)</td>
-<td><code>cerl</code></td>
-<td>3×10⁸ m/s</td>
-<td><em>serl</em></td>
+<td><code>vern</code></td>
+<td>2.998×10⁸ m/s</td>
 </tr>
 <tr>
-<td>Planck constant (ℏ)</td>
-<td><code>hels</code></td>
+<td>reduced Planck (ħ)</td>
+<td><code>birm</code></td>
 <td>1.055×10⁻³⁴ J·s</td>
-<td><em>helps</em></td>
 </tr>
 <tr>
-<td>Gravitational constant (G)</td>
-<td><code>geol</code></td>
-<td>6.674×10⁻¹¹ m³/kg·s²</td>
-<td><em>geh-ohl</em></td>
+<td>gravitational (G)</td>
+<td><code>velf</code></td>
+<td>6.674×10⁻¹¹ N·m²/kg²</td>
+</tr>
+<tr>
+<td>Boltzmann (k_B)</td>
+<td><code>holm</code></td>
+<td>1.381×10⁻²³ J/K</td>
+</tr>
+<tr>
+<td>elementary charge</td>
+<td><code>vils</code></td>
+<td>1.602×10⁻¹⁹ C</td>
+</tr>
+<tr>
+<td>fine structure (α)</td>
+<td><code>yolm</code></td>
+<td>≈ 1/137</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Usage:</strong></p>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-11-1" name="__codelineno-11-1" href="#__codelineno-11-1"></a>cerl nu pa ti           → distance light travels in 1 second
-<a id="__codelineno-11-2" name="__codelineno-11-2" href="#__codelineno-11-2"></a>hels nu ra ti           → Planck constant: energy-time anchor
-</code></pre></div>
 <h3 id="convention-defined-units">Convention-Defined Units</h3>
 <table>
 <thead>
@@ -4222,47 +4266,56 @@
 <th>Unit</th>
 <th>Form</th>
 <th>Value</th>
-<th>Rationale</th>
-<th>Sound</th>
+<th>Notes</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Mole</td>
+<td>Mole (N_A)</td>
 <td><code>wels</code></td>
 <td>6.022×10²³</td>
-<td>counted by convention, not composition</td>
-<td><em>wels</em></td>
+<td>Avogadro counting unit</td>
 </tr>
 <tr>
-<td>AU (astronomical unit)</td>
+<td>AU</td>
 <td><code>holf</code></td>
 <td>1.496×10¹¹ m</td>
-<td>IAU-defined; no compositional expression</td>
-<td><em>holf</em></td>
+<td>IAU-defined Earth–Sun distance</td>
 </tr>
 <tr>
 <td>Parsec</td>
 <td><code>yarm</code></td>
 <td>3.086×10¹⁶ m</td>
-<td>parallax-arcsecond; convention-defined</td>
-<td><em>yarm</em></td>
+<td>Parallax-arcsecond; convention-defined</td>
+</tr>
+<tr>
+<td>Julian year</td>
+<td><code>hulm</code></td>
+<td>31,557,600 s</td>
+<td>Earth orbital period anchor</td>
+</tr>
+<tr>
+<td>Ampere</td>
+<td><code>telf</code></td>
+<td>see notes</td>
+<td>SI current unit; defined by <code>vils</code>-count-rate</td>
 </tr>
 </tbody>
 </table>
 <p><strong>Usage:</strong></p>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-12-1" name="__codelineno-12-1" href="#__codelineno-12-1"></a>bol hin nu holf         → 150 AU (inner Oort cloud edge)
-<a id="__codelineno-12-2" name="__codelineno-12-2" href="#__codelineno-12-2"></a>bun nu yarm             → 2 parsecs (stellar neighborhood)
-<a id="__codelineno-12-3" name="__codelineno-12-3" href="#__codelineno-12-3"></a>pir nu yarm             → 1 kiloparsec (galactic structure)
-<a id="__codelineno-12-4" name="__codelineno-12-4" href="#__codelineno-12-4"></a>wul nu yarm             → 1 gigaparsec (cosmological survey depth)
+<div class="highlight"><pre><span></span><code><a id="__codelineno-10-1" name="__codelineno-10-1" href="#__codelineno-10-1"></a>varn nu pa              → π meters
+<a id="__codelineno-10-2" name="__codelineno-10-2" href="#__codelineno-10-2"></a>bol hin nu holf         → 150 AU (inner Oort cloud edge)
+<a id="__codelineno-10-3" name="__codelineno-10-3" href="#__codelineno-10-3"></a>bun nu yarm             → 2 parsecs (stellar neighborhood)
+<a id="__codelineno-10-4" name="__codelineno-10-4" href="#__codelineno-10-4"></a>pir nu yarm             → 1 kiloparsec (galactic structure)
 </code></pre></div>
 <h3 id="light-year-compositional">Light-Year (Compositional)</h3>
 <p>The light-year <strong>has</strong> a compositional expression and receives no CVCC form:</p>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-13-1" name="__codelineno-13-1" href="#__codelineno-13-1"></a>lu-ki ti-re nu pa       → distance light travels in one time-cycle
-<a id="__codelineno-13-2" name="__codelineno-13-2" href="#__codelineno-13-2"></a>                           (one year, in stellar-astronomy context)
-<a id="__codelineno-13-3" name="__codelineno-13-3" href="#__codelineno-13-3"></a>gal bun nu lu-ki ti-re nu pa
-<a id="__codelineno-13-4" name="__codelineno-13-4" href="#__codelineno-13-4"></a>                        → 3.2 light-years (using compositional form)
+<div class="highlight"><pre><span></span><code><a id="__codelineno-11-1" name="__codelineno-11-1" href="#__codelineno-11-1"></a>lu-ki ti-re nu pa       → distance light travels in one time-cycle
+<a id="__codelineno-11-2" name="__codelineno-11-2" href="#__codelineno-11-2"></a>                           (one year, in stellar-astronomy context)
+<a id="__codelineno-11-3" name="__codelineno-11-3" href="#__codelineno-11-3"></a>gal bun nu lu-ki ti-re nu pa
+<a id="__codelineno-11-4" name="__codelineno-11-4" href="#__codelineno-11-4"></a>                        → 3.2 light-years (using compositional form)
 </code></pre></div>
+<p>For the full CVCC inventory with rationale and phonological constraints, see <a href="../anchors/">Exceptional Anchors</a>.</p>
 <hr />
 <h2 id="visual-pattern-modifiers">Visual-Pattern Modifiers</h2>
 <p>Light-distribution patterns on surfaces use compositional compounds (not named roots), but function as pre-nominal color-like modifiers:</p>
@@ -4300,16 +4353,16 @@
 <hr />
 <h2 id="scope-rule-for-named-root-modifiers">Scope Rule for Named-Root Modifiers</h2>
 <p>Colors, scales, and visual patterns all use head-final order — modifier before noun:</p>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-14-1" name="__codelineno-14-1" href="#__codelineno-14-1"></a>{modifier} {noun}                    → simple noun
-<a id="__codelineno-14-2" name="__codelineno-14-2" href="#__codelineno-14-2"></a>{modifier}&#39;{compound-noun}           → multi-root compound
+<div class="highlight"><pre><span></span><code><a id="__codelineno-12-1" name="__codelineno-12-1" href="#__codelineno-12-1"></a>{modifier} {noun}                    → simple noun
+<a id="__codelineno-12-2" name="__codelineno-12-2" href="#__codelineno-12-2"></a>{modifier}&#39;{compound-noun}           → multi-root compound
 </code></pre></div>
 <p><strong>Examples:</strong></p>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-15-1" name="__codelineno-15-1" href="#__codelineno-15-1"></a>ker mu                               → red object
-<a id="__codelineno-15-2" name="__codelineno-15-2" href="#__codelineno-15-2"></a>gal bun nu ti                        → order 32 (ordinal)
-<a id="__codelineno-15-3" name="__codelineno-15-3" href="#__codelineno-15-3"></a>pir nu ma                            → kilogram
-<a id="__codelineno-15-4" name="__codelineno-15-4" href="#__codelineno-15-4"></a>lu-di mu                             → striped object
-<a id="__codelineno-15-5" name="__codelineno-15-5" href="#__codelineno-15-5"></a>lu-pe&#39;zo-se-so-fe                    → spotted cat organism
-<a id="__codelineno-15-6" name="__codelineno-15-6" href="#__codelineno-15-6"></a>no-lu&#39;lu-pe&#39;ma-ki&#39;zo-se-so-fe       → dark-spotted water-cat (panther)
+<div class="highlight"><pre><span></span><code><a id="__codelineno-13-1" name="__codelineno-13-1" href="#__codelineno-13-1"></a>ker mu                               → red object
+<a id="__codelineno-13-2" name="__codelineno-13-2" href="#__codelineno-13-2"></a>gal bun nu ti                        → order 32 (ordinal)
+<a id="__codelineno-13-3" name="__codelineno-13-3" href="#__codelineno-13-3"></a>pir nu ma                            → kilogram
+<a id="__codelineno-13-4" name="__codelineno-13-4" href="#__codelineno-13-4"></a>lu-di mu                             → striped object
+<a id="__codelineno-13-5" name="__codelineno-13-5" href="#__codelineno-13-5"></a>lu-pe&#39;zo-se-so-fe                    → spotted cat organism
+<a id="__codelineno-13-6" name="__codelineno-13-6" href="#__codelineno-13-6"></a>no-lu&#39;lu-pe&#39;ma-ki&#39;zo-se-so-fe       → dark-spotted water-cat (panther)
 </code></pre></div>
 <p>The <code>'</code> is required whenever the noun is a multi-root compound to avoid ambiguity in parsing.</p>
 <hr />
