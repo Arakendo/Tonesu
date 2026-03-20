@@ -374,12 +374,16 @@ table.dataTable th.col-snum {
 
 table.dataTable td.col-tonesu,
 table.dataTable th.col-tonesu {
-  white-space: nowrap;
+  min-width: 14rem;
 }
 
-table.dataTable td.col-natural,
-table.dataTable th.col-natural {
+/* Natural-language gloss stacked under tonesu in combined cell */
+.entry-natural {
+  display: block;
+  margin-top: 0.3rem;
   color: var(--md-default-fg-color--light);
+  font-size: 0.82rem;
+  white-space: normal;
 }
 
 /* Colloquial CLQ ID column */
