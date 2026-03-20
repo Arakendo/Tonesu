@@ -10134,3 +10134,165 @@ sentences:
     vs content-originator) has not been given organized definition. The statute works
     by delegating the boundary question to judicial discretion. In Tonesu, that delegation
     would need to be explicit.'
+- snum: S645
+  gloss: 'ACA-001 A: The mandate rule — an applicable individual shall maintain coverage.'
+  batch: ACA-001
+  batch_sub: A
+  status: normative
+  tonesu: wi-fe  la-i-zo-li  ko  lo-su-zo-ko
+  gloss_line: rule [agent]particular-person maintains [patient]coverage-structure
+  natural: The rule — an applicable person shall maintain health coverage.
+  words_attested:
+  - W100
+  - W148
+  - W204
+  first_attests:
+  - W204
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S645
+  notes: ACA-001-A. The mandate as a clean normative claim. i-zo-li = the particular
+    person to whom the rule applies (i-prefix = precise/particular + zo-li W148).
+    ko as predicate = maintains within containment structure. su-zo-ko (W204, first
+    attestation) = structured-organism-containment = minimum essential coverage. The
+    mandate itself is structurally unambiguous — contrast with the consequences (S646+)
+    which is where the controversy lives.
+- snum: S646
+  gloss: 'ACA-001 B: The shared responsibility payment — wi-fe''de first attestation.'
+  batch: ACA-001
+  batch_sub: B
+  status: normative
+  tonesu: go  la-i-zo-li  no  ko  lo-su-zo-ko,  du  wi-fe'de  lu-ka-li-su
+  gloss_line: origin [agent]person not-maintain [patient]coverage, therefore penalty
+    [beneficiary]governance
+  natural: Because the person does not maintain coverage, a payment accrues to governance.
+  words_attested:
+  - W100
+  - W147
+  - W148
+  - W203
+  - W204
+  first_attests:
+  - W203
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S646
+  notes: ACA-001-B. wi-fe'de (W203, first attestation) = rule-imposed decrease = the
+    shared responsibility payment. Structurally neutral — says nothing about whether
+    this is a "penalty" or "tax." It is a decrease flowing to governance (lu-ka-li-su),
+    triggered by coverage failure. This is the structural core of the entire NFIB
+    v. Sebelius controversy, compressed into one sentence. What the payment IS (structurally)
+    is not contested; what it should be CALLED (constitutionally) is.
+- snum: S647
+  gloss: 'ACA-001 C: The naming dispute — Congress calls it a penalty; Roberts calls
+    it a tax.'
+  batch: ACA-001
+  batch_sub: C
+  status: normative
+  tonesu: la-ka-li-su  to  lo-wi-fe'de  ne  no-ka-li-de  /  la-na-Roberts  to  lo-wi-fe'de  ne  ka-li-de
+  gloss_line: '[agent]Congress holds [patient]payment is not-a-tax / [agent]Roberts
+    holds [patient]payment is a-tax'
+  natural: Congress held the payment is not a tax / Roberts held the same payment
+    is a tax.
+  words_attested:
+  - W028
+  - W100
+  - W147
+  - W203
+  - W205
+  first_attests:
+  - W205
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S647
+  notes: 'ACA-001-C. ka-li-de (W205, first attestation) = governance revenue extraction
+    = tax. Both clauses use to (hold/assert as knowledge) rather than ka-to-fe (deliberate
+    categorical assignment); the pointing difference — ne no-ka-li-de vs ne ka-li-de
+    — makes the dispute explicit via the parallel / construction. Same patient (lo-wi-fe''de),
+    same operation (to = hold as knowledge), different result (not-tax vs tax). This
+    is where the to-fe-ka potential lives: the category label is being applied for
+    constitutional strategic purposes, not as a neutral structural observation.'
+- snum: S648
+  gloss: 'ACA-001 D: Both descriptions hold — the payment sits at the epistemic boundary
+    of both penalty and tax simultaneously.'
+  batch: ACA-001
+  batch_sub: D
+  status: normative
+  tonesu: lo-wi-fe'de  ne  to-fe  wi-fe'de  /  ne  to-fe  ka-li-de
+  gloss_line: '[patient]payment is at-epistemic-boundary penalty / is at-epistemic-boundary
+    tax'
+  natural: The payment sits at the boundary of being a penalty / and at the boundary
+    of being a tax.
+  words_attested:
+  - W028
+  - W100
+  - W203
+  - W205
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S648
+  notes: ACA-001-D. Uses to-fe (W028, epistemic boundary) as a location predicate
+    — ne to-fe X = "occupies the boundary zone of X" = is at the edge of the X-category.
+    The Roberts finding exactly — Section 5000A(b) was designed to sit at the intersection
+    of both categories. That is not an accident; it is what made political passage
+    possible (Obama needed it to look like a penalty) and constitutional survival
+    possible (Roberts needed it to look like a tax). Tonesu makes this structural
+    in one sentence.
+- snum: S649
+  gloss: 'ACA-001 E: Roberts''s normative categorization — wi-fe''ka-to-fe applied
+    to resolve the boundary in favor of the tax frame.'
+  batch: ACA-001
+  batch_sub: E
+  status: normative
+  tonesu: la-na-Roberts  wi-fe'ka-to-fe  lo-wi-fe'de  ne  ka-li-de
+  gloss_line: '[agent]Roberts norm-categorizes [patient]payment as tax'
+  natural: Roberts normatively categorized the payment as a tax.
+  words_attested:
+  - W100
+  - W122
+  - W203
+  - W205
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S649
+  notes: 'ACA-001-E. wi-fe''ka-to-fe = juncture compound (W100 + W122): the rule-that-assigns-categories
+    = normative categorization. Roberts did not discover that §5000A(b) is a tax —
+    he decided that the tax-frame is the operative one for constitutional purposes.
+    This is wi-fe''ka-to-fe (normative assignment), not su-to (structural discovery).
+    Exact structural parallel with CDA-001 S643: both involve a legal instrument applying
+    wi-fe''ka-to-fe to resolve a to-fe boundary that the object sits astride. The
+    pattern recurs across legal instruments.'
+- snum: S650
+  gloss: 'ACA-001 F: The ~ verdict — ~wi-fe''de is the honest translation; the boundary
+    between penalty and tax has not been formally resolved.'
+  batch: ACA-001
+  batch_sub: F
+  status: normative
+  tonesu: ~wi-fe'de  ne  su-to  /  ke,  wi-fe  no  to-su-ki  lo-to-fe  wi-fe'de  ne  ka-li-de
+  gloss_line: ~penalty is a structural-truth / but rule not-comprehends [patient]boundary
+    penalty and tax
+  natural: ~wi-fe'de is a structural fact / but the rule has not comprehended the
+    boundary between penalty and tax.
+  words_attested:
+  - W025
+  - W028
+  - W100
+  - W199
+  - W203
+  - W205
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S650
+  notes: 'ACA-001-F. Synthesis and ~ verdict. The ~ in ~wi-fe''de is in its structural
+    mode (spec/phonology.md § ~ Approximation Mark, structural sub-section added March
+    2026): it marks that the category wi-fe''de is deliberately under-resolved by
+    the statute, not that the speaker is uncertain. su-to (W199) confirms: the ~wi-fe''de
+    reading is itself structurally self-evident — the honest translation of "shared
+    responsibility payment" is ~wi-fe''de. ke, pivots to the diagnostic parallel with
+    CDA-001 S642/S644: the rule (wi-fe) has not given to-su-ki (W025, organized knowledge)
+    to the to-fe (W028, epistemic boundary) between wi-fe''de and ka-li-de. The statute
+    works by straddling the boundary rather than resolving it. Tonesu verdict: structurally
+    coherent but critically incomplete — exactly the same finding as Section 230.'

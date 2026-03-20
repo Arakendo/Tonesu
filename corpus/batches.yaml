@@ -904,3 +904,8 @@ batches:
   theme: Translation / Stress Test
   range: S639–S644
   count: 6
+- code: ACA-001
+  title: ACA Individual Mandate — 26 U.S.C. §5000A (penalty vs tax)
+  theme: Translation / Stress Test
+  range: S645–S650
+  count: 6

@@ -4163,3 +4163,131 @@ la-wi-fe  ne  wi-fe'ka-to-fe  /  ke, la-wi-fe  no  to-su-ki  lo-to-fe  su-ka-li 
 | S642 (CDA-001-D) | `lawife no tosuki lotofe sukali ne sigoli` | "Another" boundary gap | `to-su-ki` (W025) gap diagnosis |
 | S643 (CDA-001-E) | `lawife ne nosuto / ne wife'katofe` | "Shall be treated as" = normative | `su-to` (W199) vs `wi-fe'ka-to-fe` |
 | S644 (CDA-001-F) | `lawife ne wife'katofe / ke, lawife no tosuki lotofe sukali ne sigoli` | Structural verdict | Synthesis: S643 + S642 |
+
+---
+
+## ACA-001 — ACA Individual Mandate (26 U.S.C. §5000A)
+
+**Source:** Affordable Care Act Individual Mandate, 26 U.S.C. §5000A · *NFIB v. Sebelius*, 567 U.S. 519 (2012)
+**New vocabulary:** W203 (`wi-fe'de`), W204 (`su-zo-ko`), W205 (`ka-li-de`)
+
+### S645 — ACA-001-A
+
+**Source:** "An applicable individual shall ... ensure that the individual ... is covered under minimum essential coverage for such month." — 26 U.S.C. §5000A(a)
+
+```
+wi-fe  la-i-zo-li  ko  lo-su-zo-ko
+```
+
+**Written:** `wife laizoli ko losuzoko`
+
+**Gloss-line:** `rule [agent]particular-person maintains [patient]coverage-structure`
+
+**Natural reading:** The rule — an applicable person shall maintain health coverage.
+
+**Notes:** W204 (`su-zo-ko`) first attestation. The mandate itself is structurally clean: there is a rule (`wi-fe`), an agent (`i-zo-li` = the particular person to whom the rule applies), a predicate (`ko` = maintains within containment structure), and a patient (`su-zo-ko` = minimum essential coverage as structured organism-protection). No ambiguity in the obligation. The controversy lives entirely in S646 onward.
+
+---
+
+### S646 — ACA-001-B
+
+**Source:** "If a taxpayer ... fails to meet the requirement of subsection (a) for 1 or more months, then there is hereby imposed on the taxpayer a penalty" — 26 U.S.C. §5000A(b)
+
+```
+go  la-i-zo-li  no  ko  lo-su-zo-ko,  du  wi-fe'de  lu-ka-li-su
+```
+
+**Written:** `go laizoli no ko losuzoko, du wife'de lukalisu`
+
+**Gloss-line:** `origin [agent]person not-maintain [patient]coverage, therefore penalty [beneficiary]governance`
+
+**Natural reading:** Because the person does not maintain coverage, a payment accrues to governance.
+
+**Notes:** W203 (`wi-fe'de`) first attestation. `wi-fe'de` = juncture compound: `[wi-fe]` + `de` = rule-decrease = the decrease imposed by the rule. Written `wife'de` (juncture `'` preserved). Structurally neutral: says nothing about whether this is a "penalty" or a "tax." It is a directed decrease flowing to governance (`lu-ka-li-su`), triggered by coverage failure. That structural description is the entire ACA controversy, compressed into one sentence.
+
+---
+
+### S647 — ACA-001-C
+
+**Source:** Congress labeled §5000A(b) a "penalty" (and emphatically not a tax); Roberts in *NFIB v. Sebelius* re-labeled it a "tax" to uphold it under Article I §8.
+
+```
+la-ka-li-su  to  lo-wi-fe'de  ne  no-ka-li-de  /  la-na-Roberts  to  lo-wi-fe'de  ne  ka-li-de
+```
+
+**Written:** `lakalisu to lowife'de ne nokalide / lanaRoberts to lowife'de ne kalide`
+
+**Gloss-line:** `[agent]Congress holds [patient]payment is not-a-tax / [agent]Roberts holds [patient]payment is a-tax`
+
+**Natural reading:** Congress held the payment is not a tax / Roberts held the same payment is a tax.
+
+**Notes:** W205 (`ka-li-de`) first attestation. The parallel `/` construction puts identical sentence structure on both sides with the single difference: `no-ka-li-de` (not-a-tax) vs `ka-li-de` (a-tax). Same patient (`lo-wi-fe'de`). Same operation (`to` = hold as knowledge). Opposite conclusions. This is the constitutional naming dispute made structurally visible. Both uses of `to` (rather than `ka-to-fe`) are deliberate: Congress and Roberts are each asserting what they believe/held, not performing a bare categorical assignment — the epistemic commitment is present on both sides.
+
+---
+
+### S648 — ACA-001-D
+
+**Source:** Roberts's holding: §5000A(b) has characteristics of both penalty and tax simultaneously — it can be upheld as a tax even if it could not be upheld as a commerce regulation.
+
+```
+lo-wi-fe'de  ne  to-fe  wi-fe'de  /  ne  to-fe  ka-li-de
+```
+
+**Written:** `lowife'de ne tofe wife'de / ne tofe kalide`
+
+**Gloss-line:** `[patient]payment is at-epistemic-boundary penalty / is at-epistemic-boundary tax`
+
+**Natural reading:** The payment sits at the boundary of being a penalty / and at the boundary of being a tax.
+
+**Notes:** `ne to-fe X` = "occupies the epistemic boundary of X" = exists at the edge of the X-category. The Roberts finding compressed: §5000A(b) was deliberately designed to sit at the intersection of both categories. That was not a drafting error — it was the strategy. Obama needed it to look like a penalty (avoiding the "tax increase" political charge); Roberts needed it to look like a tax (finding constitutional footing). Tonesu makes the construction visible: the payment is `to-fe wi-fe'de` AND `to-fe ka-li-de` simultaneously. That intersection is the statute's operating space.
+
+---
+
+### S649 — ACA-001-E
+
+**Source:** Roberts's decisive constitutional move: regardless of what Congress called it, it functions as a tax; therefore it is constitutional under the taxing power.
+
+```
+la-na-Roberts  wi-fe'ka-to-fe  lo-wi-fe'de  ne  ka-li-de
+```
+
+**Written:** `lanaRoberts wife'katofe lowife'de ne kalide`
+
+**Gloss-line:** `[agent]Roberts norm-categorizes [patient]payment as tax`
+
+**Natural reading:** Roberts normatively categorized the payment as a tax.
+
+**Notes:** `wi-fe'ka-to-fe` = W100 + W122 juncture compound = the rule-that-assigns-categories = normative categorization. Roberts did not *discover* that §5000A(b) is a tax — he *decided* the tax-frame is constitutionally operative. This is `wi-fe'ka-to-fe`, not `su-to`. The structural parallel with CDA-001 S643 is exact: both involve a legal instrument deploying `wi-fe'ka-to-fe` to resolve a `to-fe` boundary that the underlying object sits astride. The pattern appears to be fundamental to law under the `~` mode: legal systems use `wi-fe'ka-to-fe` to impose resolution on structurally ambiguous objects, rather than waiting for `su-to` resolution.
+
+---
+
+### S650 — ACA-001-F
+
+**Source:** Tonesu structural verdict on §5000A(b) and *NFIB v. Sebelius*
+
+```
+~wi-fe'de  ne  su-to  /  ke,  wi-fe  no  to-su-ki  lo-to-fe  wi-fe'de  ne  ka-li-de
+```
+
+**Written:** `~wife'de ne suto / ke, wife no tosuki lotofe wife'de ne kalide`
+
+**Gloss-line:** `~penalty is structural-truth / but rule not-comprehends [patient]boundary penalty and tax`
+
+**Natural reading:** `~wi-fe'de` is a structural fact / but the rule has not comprehended the boundary between penalty and tax.
+
+**Notes:** The `~` is in its **structural mode** (spec/phonology.md § `~` Approximation Mark, structural sub-section): imprecision belonging to the source system, not the speaker. `~wi-fe'de` = something-like-a-penalty, where the category boundary is deliberately unresolved by the statute. `su-to` (W199) confirms: this is a structural self-evidence — the honest translation of "shared responsibility payment" is `~wi-fe'de`. `ke,` pivots to the diagnostic parallel with CDA-001 S644: the rule (`wi-fe`) has not given `to-su-ki` (organized knowledge) to the `to-fe` between `wi-fe'de` and `ka-li-de`. The statute works by straddling rather than resolving. Tonesu verdict: structurally coherent but deliberately incomplete — the same structural finding as Section 230. **Pattern identified:** Law uses `wi-fe'ka-to-fe` to force resolution, and `~` to postpone it. Both are constitutional design tools, not bugs.
+
+---
+
+## ACA-001 Batch Summary
+
+**Entries:** S645–S650 · **New vocabulary:** W203 (`wi-fe'de`), W204 (`su-zo-ko`), W205 (`ka-li-de`)
+
+| Entry | Written form | Source clause | Key vocabulary |
+|-------|-------------|---------------|----------------|
+| S645 (ACA-001-A) | `wife laizoli ko losuzoko` | Mandate rule | W204 (`su-zo-ko`) first att. |
+| S646 (ACA-001-B) | `go laizoli no ko losuzoko, du wife'de lukalisu` | Payment trigger | W203 (`wi-fe'de`) first att. |
+| S647 (ACA-001-C) | `lakalisu to lowife'de ne nokalide / lanaRoberts to lowife'de ne kalide` | Naming dispute | W205 (`ka-li-de`) first att. |
+| S648 (ACA-001-D) | `lowife'de ne tofe wife'de / ne tofe kalide` | Both descriptions hold | `to-fe` (W028) location pred. |
+| S649 (ACA-001-E) | `lanaRoberts wife'katofe lowife'de ne kalide` | Roberts's normative move | `wi-fe'ka-to-fe` pattern |
+| S650 (ACA-001-F) | `~wife'de ne suto / ke, wife no tosuki lotofe wife'de ne kalide` | `~` verdict | `~` structural mode |

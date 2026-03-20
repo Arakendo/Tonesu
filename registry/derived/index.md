@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 102 |
+| [w101-plus.md](w101-plus.md) | W101+ | 105 |
 
-**Total: 190 W-series entries** — active: 146 · proposed: 3 · pending: 39 · cold: 0 · retired: 2
+**Total: 193 W-series entries** — active: 149 · proposed: 3 · pending: 39 · cold: 0 · retired: 2
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -61,6 +61,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `ha-de` | W044 | cooling, thermal decrease | ✅ | [w001-w050](w001-w050.md) |
 | `ka-de-zo` | W128 | kill, deliberate ending of life | ✅ | [w101-plus](w101-plus.md) |
 | `ka-du-zo-su` | W161 | bread, deliberately crafted plant-product | ✅ | [w101-plus](w101-plus.md) |
+| `ka-li-de` | W205 | tax; governance revenue extraction; governance-sanctioned decrease | ✅ | [w101-plus](w101-plus.md) |
 | `ka-li-su` | W147 | governance, dominion, coordinated stewardship | ⏳ | [w101-plus](w101-plus.md) |
 | `ka-mu` | W047 | tool, action instrument | ✅ | [w001-w050](w001-w050.md) |
 | `ka-ne-de` | W092 | deliberate bond dissolution | ✅ | [w051-w100](w051-w100.md) |
@@ -144,6 +145,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `su-ru` | W085 | integrated whole, unified structure | ✅ | [w051-w100](w051-w100.md) |
 | `su-ti` | W101 | current state, instantaneous configuration | ⏳ | [w101-plus](w101-plus.md) |
 | `su-to` | W199 | self-evident proposition; truth whose ground is its own structure | ✅ | [w101-plus](w101-plus.md) |
+| `su-zo-ko` | W204 | coverage; protective welfare structure; systematic protection for persons | ✅ | [w101-plus](w101-plus.md) |
 | `ti-be` | W040 | morning; proximate future | ✅ | [w001-w050](w001-w050.md) |
 | `ti-de` | W041 | past time; yesterday | ✅ | [w001-w050](w001-w050.md) |
 | `ti-fe` | W037 | deadline, temporal boundary | ✅ | [w001-w050](w001-w050.md) |
@@ -180,6 +182,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `wi-du` | W175 | victory, achievement (will-result) | ✅ | [w101-plus](w101-plus.md) |
 | `wi-fa-ki` | W183 | enchantment; willed-affect-shift; magic of intentionally altering affect and will | ✅ | [w101-plus](w101-plus.md) |
 | `wi-fe` | W100 | rule, prohibition, policy-imposed limit | ✅ | [w051-w100](w051-w100.md) |
+| `wi-fe'de` | W203 | penalty; sanction; rule-imposed decrease | ✅ | [w101-plus](w101-plus.md) |
 | `wi-ka-su` | W054 | ritual, structured intentional practice | ✅ | [w051-w100](w051-w100.md) |
 | `wi-no-ra` | W132 | meekness, will-without-force | ✅ | [w101-plus](w101-plus.md) |
 | `wi-no-su` | W189 | chaotic; will unbound by structure; spontaneous / freedom-first moral disposition | ✅ | [w101-plus](w101-plus.md) |
@@ -275,8 +278,20 @@ Concept-first lookup: find the compound you need by domain.
 **Ethics / Philosophy**
 `pa-ki-su` W198 liberty · `wi-de` W191 evil · `wi-no-su` W189 chaotic · `wi-su` W188 lawful · `wi-su-fe` W192 law-neutral · `wi-vo` W190 good · `wi-vo-fe` W193 ethics-neutral
 
+**Finance / Economic**
+`ka-li-de` W205 tax
+
+**Health / Organism**
+`su-zo-ko` W204 coverage
+
+**Law / Governance**
+`ka-li-de` W205 tax · `su-zo-ko` W204 coverage · `wi-fe'de` W203 penalty
+
 **Meta / Language**
 `to'to-ne-su` W170 meta-truth · `to-to-ne-su` W169 knowledge of truth
+
+**Normative**
+`wi-fe'de` W203 penalty
 
 ---
 
@@ -295,7 +310,7 @@ Quick lookup by lead primitive root.
 | `fe` | fe-si W024, fe-su W055, fe-no-ka W056, fe-vo W065 |
 | `go` | go-ne W159 |
 | `ha` | ha-de W044 |
-| `ka` | ka-mu W047, ka-ne-de W092, ka-no-de-su W120, ka-to-fe W122, ka-de-zo W128, ka-li-su W147, ka-pa-ki W160, ka-du-zo-su W161, ka-pa-ki'ti-re W167, ka-vo-si W168 |
+| `ka` | ka-mu W047, ka-ne-de W092, ka-no-de-su W120, ka-to-fe W122, ka-de-zo W128, ka-li-su W147, ka-pa-ki W160, ka-du-zo-su W161, ka-pa-ki'ti-re W167, ka-vo-si W168, ka-li-de W205 |
 | `ki` | ki-pa W049, ki-pa-mu W086, ki'ma W114, ki-ne W152 |
 | `ko` | ko-pa W048, ko-mu W052, ko-ne-mu W176 |
 | `li` | li-su-li W001, li-be W033, li-pu-pa W036 |
@@ -310,10 +325,10 @@ Quick lookup by lead primitive root.
 | `re` | re-ka-ne-li W134 |
 | `se` | se-ka W034, se-to W062, se-no-to W090, se-lu W130 |
 | `si` | si-ne-ki W021, si-ki W023, si-mu W039, si-ko-mu W067, si-fe W070, si-de W098, si-no-vo-li W126, si-ki-li W158, si-go-li W201 |
-| `su` | su-mu-li W002, su-ru W085, su-ti W101, su'ma W113, su-fa W133, su-ne W174, su-to W199, su-ka-li W200 |
+| `su` | su-mu-li W002, su-ru W085, su-ti W101, su'ma W113, su-fa W133, su-ne W174, su-to W199, su-ka-li W200, su-zo-ko W204 |
 | `ti` | ti-fe W037, ti-be W040, ti-de W041, ti-mu W057, ti-re W103, ti-mi W109 |
 | `to` | to-ne-su W000, to-li W003, to-su-mu W010, to-ki-mu W011, to-ki W020, to-su-ki W025, to-si W026, to-ko W027, to-fe W028, to-fe-ka W029, to-su W030, to-fe-li W032, to-re-su W064, to-fe-su W072, to-ru W083, to-go W089, to-fe-su-ki W097, to-ko-re W166, to-to-ne-su W169, to'to-ne-su W170, to-pa W195, to-ki'ne-su W202 |
 | `vo` | vo-ne W118, vo-mu W137 |
-| `wi` | wi-to W045, wi-ka-su W054, wi-si W063, wi-to-su W073, wi-re-su W074, wi-re W099, wi-fe W100, wi-de-li W124, wi-no-ra W132, wi-zo W145, wi-du W175, wi-ra W177 |
+| `wi` | wi-to W045, wi-ka-su W054, wi-si W063, wi-to-su W073, wi-re-su W074, wi-re W099, wi-fe W100, wi-de-li W124, wi-no-ra W132, wi-zo W145, wi-du W175, wi-ra W177, wi-fe'de W203 |
 | `zi` | zi-ra W104, zi-ka W105, zi-zo W106, zi-zo-go W107, zi-zo-du W108 |
 | `zo` | zo-no-ki W043, zo-de W051, zo-se-ki W060, zo-to W068, zo-si W069, zo-ne W076, zo-ne-go W077, zo-ne-du W078, zo-ne-ru W079, zo-ne-go-re W080, zo-ne-du-re W081, zo-ra W117, zo-su-be W143, zo-ra-ma W144, zo-li W148, zo-su-ka-li W150, zo-ma W163, zo-ki'ma W164 |

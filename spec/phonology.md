@@ -269,6 +269,30 @@ These are distinct propositions. `~wipu'zosesoli` = approximately {wolf-kind} (u
 
 Multiple `~` marks in a sentence are permitted, each scoping its own following unit independently.
 
+**Intentional under-specification — structural / strategic-vagueness mode:**
+`~` is not limited to the speaker's epistemic uncertainty about measurement or classification. It may also mark that the *referenced concept itself* is intentionally under-defined in the system being described — imprecision authored by the source, not introduced by the speaker.
+
+In legal-register translations and structural analyses of strategically vague texts, `~` applied to a concept-term signals: "this boundary or category is deliberately left unresolved by the originating system; `~` is the honest translation of that design choice, not an admission of the speaker's ignorance."
+
+```
+~ka-to-fe      → something-like-editorial-judgment
+                 (= the threshold is real but the law deliberately leaves it undefined;
+                 applying `~` faithfully renders the imprecision)
+~su-ka-li      → something-like-platform-operator
+                 (= the statutory category boundary is intentionally porous)
+~wi-fe         → something-like-a-rule
+                 (= interpreted, contested, and unresolved by courts)
+```
+
+This distinguishes two `~` modes by **locus of imprecision**:
+
+| Mode | Imprecision belongs to | Typical register |
+|------|----------------------|------------------|
+| Epistemic | the speaker's uncertainty | measurement, casual, hedged claims |
+| Structural | the source system, by design | legal translation, philosophical analysis of vague texts |
+
+Both are valid `~` uses. In most contexts the mode is recoverable from domain and register. Where disambiguation is required, the structural mode may be annotated with `[]`: `~ka-to-fe [wi-fe no to-su-ki]` = "something-like-editorial-judgment [where the rule has not defined the boundary]." In everyday Tonesu (measurement, casual speech), `~` is epistemic by default.
+
 ---
 
 ### `()` — Evidential Frame

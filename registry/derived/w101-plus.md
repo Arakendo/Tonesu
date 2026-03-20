@@ -1903,3 +1903,54 @@ Related:       to-ki (W020 computation — component), ne-su (W031 network/organ
 ```
 
 ---
+
+**W203**
+```
+Form:          wi-fe'de
+Type:          compound
+Class:         concept
+Definition:    penalty; sanction; rule-imposed decrease; a cost or reduction deliberately imposed on an agent as the structural consequence of rule violation or failure to meet a governance mandate.
+Composition:   wi-fe (W100, rule) + de (decrease). Juncture mark: [wi-fe]'de binds wi-fe as a pre-compound with de as head. Head-final: de (decrease) is head; wi-fe (rule) specifies the source and ground of the decrease. A wi-fe'de is a decrease whose ground is a rule — the cost that follows structurally from the rule's condition being met. Note: right-branching without juncture would give wi-(fe-de) = will-of-[limit-decrease]; the juncture 'de prevents that misparse and anchors the compound to the registered word wi-fe (W100).
+Register:      formal / legal
+Domain:        Law / Governance / Normative
+Status:        ✅ active
+First use:     ACA-001, ACA Individual Mandate (S646): go  la-i-zo-li  no  ko  lo-su-zo-ko,  du  wi-fe'de  lu-ka-li-su
+Notes:         W203. First attested ACA-001 (S646). Introduced for ACA Individual Mandate translation stress test (26 U.S.C. §5000A). The ACA 'shared responsibility payment' is structurally a wi-fe'de: a decrease imposed by the mandate rule, flowing to governance. Contrast wi-de (W191): wi-de = willed maleficence (moral domain); wi-fe'de = rule-imposed cost (normative/structural domain). See ka-li-de (W205) for the tax-frame parallel: both wi-fe'de and ka-li-de describe §5000A(b); NFIB v. Sebelius (2012) is the constitutional argument about which category governs.
+Related:       wi-fe (W100, rule — grounding compound), de (primitive, decrease), wi-de (W191, evil — locus contrast: moral vs structural), ka-li-de (W205, tax — constitutional category contrast), to-fe (W028, epistemic boundary — where wi-fe'de and ka-li-de overlap in §5000A(b))
+```
+
+---
+
+**W204**
+```
+Form:          su-zo-ko
+Type:          compound
+Class:         entity / state
+Definition:    coverage; protective welfare structure; the systematic regime of organized protection for living persons. In policy contexts, the institutional structure (insurance, benefits system) that provides organized protection for an individual's organism-state. The ACA's "minimum essential coverage" is a su-zo-ko in the health-mandate sense.
+Composition:   su (structure/order) + zo (organism/life) + ko (containment). Right-branching: su-(zo-ko). zo-ko = organism-containment = the act or state of protecting a living being. su-(zo-ko) = structure-of-[organism-containment] = the organized systemic form that organism-protection takes. The head is zo-ko; su qualifies it as systematic and structural rather than incidental. Contrast: ko alone = physical containment (vessel); zo-ko = organism-specific protective containment; su-zo-ko = the institutionally organized form of organism-protection = coverage as a systemic structure.
+Register:      formal / legal / policy
+Domain:        Health / Law / Governance
+Status:        ✅ active
+First use:     ACA-001, ACA Individual Mandate (S645): wi-fe  la-i-zo-li  ko  lo-su-zo-ko
+Notes:         W204. First attested ACA-001 (S645). Introduced for ACA Individual Mandate translation stress test. Corresponds to "minimum essential coverage" under 26 U.S.C. §5000A(f). The "minimum essential" qualifier is embedded in the structural reading: su-zo-ko names the protective structure; what counts as a qualifying su-zo-ko is specified by §5000A(f) categories. Productive: su-zo-ko-fe = coverage boundary; no-su-zo-ko = absence of coverage (the trigger condition for wi-fe'de, W203).
+Related:       su (primitive), zo (primitive), ko (primitive), wi-fe'de (W203 penalty — triggered by absence of su-zo-ko), wi-fe (W100 rule — mandate is a wi-fe over su-zo-ko), zo-li (W148 person — the su-zo-ko protects zo-li)
+```
+
+---
+
+**W205**
+```
+Form:          ka-li-de
+Type:          compound
+Class:         event / concept
+Definition:    tax; governance revenue extraction; the purposeful governance-authorized act of diminishing persons' resources for institutional purposes. Structurally distinct from wi-fe'de (penalty) in locus of agency and purpose: ka-li-de is governance acting upon persons as a revenue mechanism; wi-fe'de is a rule imposing cost on an agent for a violation condition.
+Composition:   ka (purposeful action) + li (person/social) + de (decrease). Right-branching: ka-(li-de). li-de = person-decrease = a reduction in the resources or standing of a social agent. ka-(li-de) = purposeful enactment of [person-decrease] = the intentional institution of a social reduction mechanism. The tax is an action: governance DOES ka-li-de. Contrast wi-fe'de (W203): a penalty IS (a structural consequence); a tax is DONE (a governance act). The ACA finding (NFIB v. Sebelius): §5000A(b) can be read as either — the same object satisfies both compound descriptions simultaneously.
+Register:      formal / legal / policy
+Domain:        Law / Governance / Finance
+Status:        ✅ active
+First use:     ACA-001, ACA Individual Mandate (S647): la-ka-li-su  to  lo-wi-fe'de  ne  no-ka-li-de  /  la-na-Roberts  to  lo-wi-fe'de  ne  ka-li-de
+Notes:         W205. First attested ACA-001 (S647). Introduced for ACA Individual Mandate translation stress test. The constitutional crux of NFIB v. Sebelius (2012): the shared responsibility payment (wi-fe'de, W203) is argued by Roberts to also constitute a ka-li-de under the Article I §8 taxing power. S648 makes the structural diagnosis explicit: the payment is at to-fe (W028, epistemic boundary) of both wi-fe'de and ka-li-de simultaneously. Tonesu verdict: the two compounds describe the same structural object from different action-loci, which is exactly what makes the constitutional argument possible. Compare: wi-de (W191, evil — entirely distinct; moral domain).
+Related:       ka (primitive), li (primitive), de (primitive), wi-fe'de (W203 penalty — constitutional contrast), ka-li-su (W147 governance — shares ka-li root structure), to-fe (W028 epistemic boundary — where ka-li-de and wi-fe'de overlap), wi-fe (W100 rule — authorizing frame)
+```
+
+---

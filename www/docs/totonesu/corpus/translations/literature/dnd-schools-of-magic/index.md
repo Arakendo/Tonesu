@@ -94,7 +94,7 @@ wi-ra-su  ne  to-su  lo-wi-ra
 ko-fe-ki  ne  wi-ra-su  lo-ko-fe
 ```
 
-**Written:** `kofeki ne wirasu lokofé`
+**Written:** `kofeki ne wirasu lokofe`
 
 **Natural reading:** Abjuration is the magic of containing limits.
 
@@ -221,7 +221,7 @@ la-ra-be-ki  be  lo-ra  /  la-ge-se-ki  be  lo-ge-se
 | Entry | Written form | School | Key finding |
 |-------|-------------|--------|-------------|
 | S599 (DND-001-A) | `wirasu ne tosu lowira` | Magic (frame) | Wi-ra-su = will-of-force-structure = academic D&D magic specifically |
-| S600 (DND-001-B) | `kofeki ne wirasu lokofé` | Abjuration | Containing limits, not removing threat; adds structure |
+| S600 (DND-001-B) | `kofeki ne wirasu lokofe` | Abjuration | Containing limits, not removing threat; adds structure |
 | S601 (DND-001-C) | `pabeki ne wirasu lobepa` | Conjuration | Spatial emergence — transition not creation |
 | S602 (DND-001-D) | `toseki ne wirasu losoto` | Divination | Active perception-transformation, not passive seeing |
 | S603 (DND-001-E) | `wifaki ne wirasu lofawi` | Enchantment | Willed affect-shift; targets affect-will register, not behaviour directly |
