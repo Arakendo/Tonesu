@@ -2583,6 +2583,81 @@
         "ge",
         "ki"
       ]
+    },
+    {
+      "wnum": "W188",
+      "form": "wi-su",
+      "written": "wisu",
+      "gloss": "lawful; will organized by structure; rule-following moral disposition",
+      "status": "active",
+      "domain": "Ethics / Philosophy",
+      "roots": [
+        "wi",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W189",
+      "form": "wi-no-su",
+      "written": "winosu",
+      "gloss": "chaotic; will unbound by structure; spontaneous / freedom-first moral disposition",
+      "status": "active",
+      "domain": "Ethics / Philosophy",
+      "roots": [
+        "wi",
+        "no",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W190",
+      "form": "wi-vo",
+      "written": "wivo",
+      "gloss": "good; will toward value/benefit; beneficent moral disposition",
+      "status": "active",
+      "domain": "Ethics / Philosophy",
+      "roots": [
+        "wi",
+        "vo"
+      ]
+    },
+    {
+      "wnum": "W191",
+      "form": "wi-de",
+      "written": "wide",
+      "gloss": "evil; will toward harm/decrease; maleficent moral disposition",
+      "status": "active",
+      "domain": "Ethics / Philosophy",
+      "roots": [
+        "wi",
+        "de"
+      ]
+    },
+    {
+      "wnum": "W192",
+      "form": "wi-su-fe",
+      "written": "wisufe",
+      "gloss": "law-neutral; will at the structural limit; neither rule-imposing nor rule-rejecting",
+      "status": "active",
+      "domain": "Ethics / Philosophy",
+      "roots": [
+        "wi",
+        "su",
+        "fe"
+      ]
+    },
+    {
+      "wnum": "W193",
+      "form": "wi-vo-fe",
+      "written": "wivofe",
+      "gloss": "ethics-neutral; will at the value limit; neither primarily beneficent nor harmful",
+      "status": "active",
+      "domain": "Ethics / Philosophy",
+      "roots": [
+        "wi",
+        "vo",
+        "fe"
+      ]
     }
   ]
 }
