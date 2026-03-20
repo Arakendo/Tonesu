@@ -1,55 +1,57 @@
 /**
  * Web Speech API wrapper for Tonesu pronunciation
- * Speaks text using browser's native TTS engine
- * Quality varies by browser — Firefox and Chrome generally sound best
+ * Uses phonetic respelling so TTS engines produce correct CV syllables
  */
+
+/**
+ * Phonetic respelling map for Tonesu primitives.
+ * Keys are Tonesu roots; values are strings a Spanish TTS voice
+ * will pronounce correctly (Spanish has near-identical vowel values
+ * and clean CV syllable structure).
+ */
+const PRONUNCIATION = {
+  mu: 'moo',  ma: 'ma',   zo: 'zo',   li: 'lee',
+  ki: 'kee',  ka: 'ka',   be: 'bay',  de: 'day',
+  su: 'sue',  to: 'toe',  fe: 'fay',
+  ne: 'nay',  pe: 'pay',  go: 'go',   du: 'do',   zi: 'zee',
+  pa: 'pa',   di: 'dee',  ko: 'co',
+  ti: 'tee',  re: 'ray',
+  se: 'say',  so: 'so',   lu: 'loo',  si: 'see',
+  ra: 'rah',  ha: 'ha',
+  nu: 'gnu',  ru: 'roo',  pu: 'pooh',
+  vo: 'voe',  wi: 'wee',  no: 'no',   fa: 'fa',
+  mi: 'me',
+};
 
 class TonesuSpeaker {
   constructor() {
     this.synth = window.speechSynthesis;
     this.isSupported = !!this.synth;
-    this.currentUtterance = null;
   }
 
-  /**
-   * Speak text with Tonesu-appropriate settings
-   * @param {string} text - Text to pronounce
-   * @param {object} options - Optional settings {rate, pitch, volume}
-   */
   speak(text, options = {}) {
-    if (!this.isSupported) {
-      console.warn('Web Speech API not supported in this browser');
-      return;
-    }
-
-    // Cancel any ongoing speech
+    if (!this.isSupported) return;
     this.synth.cancel();
 
-    const utterance = new SpeechSynthesisUtterance(text);
-    
-    // Default to slower rate so syllables are clear
-    utterance.rate = options.rate ?? 0.85;
+    // Use phonetic respelling if available, otherwise pass through
+    const spoken = PRONUNCIATION[text.toLowerCase()] || text;
+
+    const utterance = new SpeechSynthesisUtterance(spoken);
+    utterance.rate = options.rate ?? 0.8;
     utterance.pitch = options.pitch ?? 1.0;
     utterance.volume = options.volume ?? 1.0;
+    utterance.lang = 'en-US';
 
-    this.currentUtterance = utterance;
+    // Prefer Microsoft Zira if available
+    const voices = this.synth.getVoices();
+    const zira = voices.find(v => v.name.includes('Zira'));
+    if (zira) utterance.voice = zira;
+
     this.synth.speak(utterance);
   }
 
-  /**
-   * Stop current speech
-   */
   stop() {
-    if (this.isSupported) {
-      this.synth.cancel();
-    }
-  }
-
-  /**
-   * Check if currently speaking
-   */
-  isSpeaking() {
-    return this.isSupported && this.synth.speaking;
+    if (this.isSupported) this.synth.cancel();
   }
 }
 
