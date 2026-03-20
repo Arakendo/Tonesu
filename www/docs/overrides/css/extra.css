@@ -365,6 +365,23 @@ table.dataTable th.col-english {
   white-space: nowrap;
 }
 
+/* Word detail page corpus columns */
+table.dataTable td.col-snum,
+table.dataTable th.col-snum {
+  white-space: nowrap;
+  min-width: 3.5rem;
+}
+
+table.dataTable td.col-tonesu,
+table.dataTable th.col-tonesu {
+  white-space: nowrap;
+}
+
+table.dataTable td.col-natural,
+table.dataTable th.col-natural {
+  color: var(--md-default-fg-color--light);
+}
+
 /* Colloquial CLQ ID column */
 table.dataTable td.col-clqid,
 table.dataTable th.col-clqid {

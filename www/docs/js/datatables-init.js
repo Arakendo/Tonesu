@@ -10,6 +10,7 @@
     /\/tonesu\/registry\/english\/?$/,
     /\/tonesu\/registry\/colloquial\/?$/,
     /\/tonesu\/registry\/colloquial-english\/?$/,
+    /\/tonesu\/registry\/words\/W\d+\/?$/,
   ];
 
   function isTargetPage() {
@@ -29,6 +30,10 @@
     'Formal':    'col-formal',
     'Stub':      'col-word',
     'First use': 'col-firstuse',
+    // Word detail page corpus table
+    'S#':        'col-snum',
+    'Tonesu':    'col-tonesu',
+    'Natural':   'col-natural',
   };
 
   function applyColumnClasses(table) {
