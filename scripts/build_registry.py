@@ -786,8 +786,8 @@ def generate_word_page(
             "",
             f"{len(snums)} attestation{'s' if len(snums) != 1 else ''}.",
             "",
-            "| S# | Tonesu | Natural |",
-            "|----|--------|---------|",
+            "| S# | Tonesu |",
+            "|----|--------|",
         ]
         for snum in snums:
             item = sentence_lookup.get(snum) or turn_lookup.get(snum)
@@ -798,9 +798,10 @@ def generate_word_page(
                 natural = (item.get("natural") or "").replace("\n", " ").replace("|", "\\|")
                 t_lines = [t.strip() for t in tonesu_raw.split("\n") if t.strip()]
                 tonesu_cell = " · ".join(f"`{t}`" for t in t_lines)
-                lines.append(f"| {s_link} | {tonesu_cell} | {natural} |")
+                cell = f'{tonesu_cell}<br><small class="entry-natural">{natural}</small>' if natural else tonesu_cell
+                lines.append(f"| {s_link} | {cell} |")
             else:
-                lines.append(f"| {s_link} | | |")
+                lines.append(f"| {s_link} | |")
 
     lines += ["---", "", NOTE]
     return "\n".join(lines)

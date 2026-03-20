@@ -33,7 +33,6 @@
     // Word detail page corpus table
     'S#':        'col-snum',
     'Tonesu':    'col-tonesu',
-    'Natural':   'col-natural',
   };
 
   function applyColumnClasses(table) {
@@ -57,16 +56,16 @@
     if (!isTargetPage()) return;
     if (!window.DataTable) return;
     try {
+      var isWordPage = /\/tonesu\/registry\/words\/W\d+\/?$/.test(window.location.pathname);
       document.querySelectorAll('.md-content__inner table').forEach(function (table) {
-        // Skip 2-column metadata tables on word pages (Domain / Class / Type / …).
-        // Those tables have blank <th> elements; DataTables would eat the first
-        // data row as visible column headers.  All registry data tables have ≥3 cols.
-        var thCount = table.querySelectorAll('thead th').length;
-        if (thCount < 3) return;
+        // Skip the blank-header metadata table on word pages (Domain/Class/Type/…).
+        // It has empty <th> cells; real data tables always have non-empty first header.
+        var firstTh = table.querySelector('thead th');
+        if (!firstTh || firstTh.textContent.trim() === '') return;
         if (!window.DataTable.isDataTable(table)) {
           new window.DataTable(table, {
             paging: true,
-            pageLength: 50,
+            pageLength: isWordPage ? 10 : 50,
             info: true,
             layout: {
               topStart: { search: { placeholder: 'Filter…' } },
