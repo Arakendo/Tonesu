@@ -3252,8 +3252,10 @@ sentences:
   tonesu: la-mi  fa-vo  lo-tu
   gloss_line: agent:me  affect-quality  patient:you
   natural: I like you. / I feel warmly toward you.
-  words_attested: []
-  first_attests: []
+  words_attested:
+  - W197
+  first_attests:
+  - W197
   gap_refs: []
   source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S219
@@ -9752,3 +9754,206 @@ sentences:
   source_anchor: S628
   notes: Identical alignment construction to S614 (TN druid, DND-002). The Outlands
     is the cosmological embodiment of True Neutrality.
+- snum: S629
+  gloss: 'DOI-001 Declaration A: dissolution of political bonds — when the course
+    of human events demands it.'
+  batch: DOI-001
+  batch_sub: A
+  status: normative
+  tonesu: go  ka-be  zo-li-su,  la-o-zo-li  ka-ne-de  lo-ne-wi-su
+  gloss_line: origin increases people-structure, [agent]collective-person dissolves
+    [patient]relational-will-bond
+  natural: When the course of human events has grown enough — a people dissolve the
+    political bonds connecting them.
+  words_attested:
+  - W092
+  - W147
+  - W148
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S629
+  notes: 'go ka-be zo-li-su = causal-temporal framing: as origin-events accumulate/increase.
+    ka-ne-de (W092) = deliberate bond dissolution. ne-wi-su = relational-volitional-structure
+    = political bond (right-branching: ne-(wi-su)).'
+- snum: S630
+  gloss: 'DOI-001 Declaration B: we hold these truths to be self-evident.'
+  batch: DOI-001
+  batch_sub: B
+  status: normative
+  tonesu: la-yu  to  lo-su-to
+  gloss_line: '[agent]we know [patient]self-evident-truth'
+  natural: We hold that these are self-evident truths.
+  words_attested:
+  - W199
+  first_attests:
+  - W199
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S630
+  notes: 'W199 first attestation. to used as verb: to know / hold as knowledge. su-to
+    (W199) = self-evident proposition. Echoes la-mi to lo-tonesu (W000 example).'
+- snum: S631
+  gloss: 'DOI-001 Declaration C: all men are created equal.'
+  batch: DOI-001
+  batch_sub: C
+  status: normative
+  tonesu: la-go-li  be  lo-o-zo-li  su-ne
+  gloss_line: '[agent]origin-person increases [patient]collective-persons equal-relation'
+  natural: The creator made all persons equal in relational standing.
+  words_attested:
+  - W148
+  - W174
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S631
+  notes: go-li = origin-person = creator (composable). o-zo-li = collective-persons.
+    su-ne (W174) = structural-relation = equal standing. Equality is relational-structural,
+    not identity of substance.
+- snum: S632
+  gloss: 'DOI-001 Declaration D: endowed by their Creator with certain unalienable
+    Rights.'
+  batch: DOI-001
+  batch_sub: D
+  status: normative
+  tonesu: la-go-li  be  lo-o-zo-li  lu-vo-ne-no-fe
+  gloss_line: '[agent]origin-person increases [patient]all-persons [beneficiary]rights-without-limit'
+  natural: The creator gave all persons unalienable rights as their endowment.
+  words_attested:
+  - W118
+  - W148
+  first_attests:
+  - W118
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S632
+  notes: 'lu- beneficiary frame: the rights are what persons receive. vo-ne-no-fe
+    = THO-001 extremal construction on W118: vo-ne (righteous standing) + no-fe (without
+    boundary) = unalienable rights.'
+- snum: S633
+  gloss: 'DOI-001 Declaration E: Life, Liberty, and the pursuit of Happiness.'
+  batch: DOI-001
+  batch_sub: E
+  status: normative
+  tonesu: zo  /  pa-ki-su  /  ka-se  fa-vo
+  gloss_line: life / liberty-state / deliberate-seeking happiness
+  natural: Life / Liberty / the pursuit of happiness.
+  words_attested:
+  - W197
+  - W198
+  first_attests:
+  - W198
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S633
+  notes: W197 (fa-vo, happiness) and W198 (pa-ki-su, liberty) first attestations.
+    Three-item / parallel list. zo (primitive) = Life. ka-se fa-vo = deliberate-seeking
+    positive-affect = pursuit of happiness.
+- snum: S634
+  gloss: 'DOI-001 Declaration F: governments instituted to secure rights, deriving
+    just powers from consent.'
+  batch: DOI-001
+  batch_sub: F
+  status: normative
+  tonesu: go  vo-ne-no-fe,  la-o-zo-li  be  ka-li-su  /  la-ka-li-su  wi-vo  go  ne-vo-wi
+  gloss_line: origin rights-without-limit, [agent]collective-persons increase governance
+    / [agent]governance just-will origin consent
+  natural: For unalienable rights, persons institute governance; governance derives
+    just power from consent.
+  words_attested:
+  - W118
+  - W147
+  - W148
+  - W190
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S634
+  notes: go vo-ne-no-fe = causal/purpose framing. be = institute (deliberate increase).
+    wi-vo (W190) = just-will = beneficent power. ne-vo-wi = relational-value-will
+    = consent (composable; ne + vo + wi = consensual relational will).
+- snum: S635
+  gloss: 'DOI-001 Declaration G: right of the people to alter or abolish destructive
+    government.'
+  batch: DOI-001
+  batch_sub: G
+  status: normative
+  tonesu: go  ka-li-su  ne  ka-de,  la-o-zo-li  vo-ne  ki  lo-ka-li-su
+  gloss_line: origin governance becomes destructive, [agent]collective-persons have-right
+    change [patient]governance
+  natural: When governance becomes destructive, the people have the right to change
+    or abolish it.
+  words_attested:
+  - W118
+  - W147
+  - W148
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S635
+  notes: 'go ka-li-su ne ka-de = causal-conditional: governance''s relational state
+    becomes destructive. vo-ne (W118) as predicate = the people have righteous standing.
+    ki = change (primitive, covers alter through abolish).'
+- snum: S636
+  gloss: 'DOI-001 Declaration H: institute new Government on the foundation of truth.'
+  batch: DOI-001
+  batch_sub: H
+  status: normative
+  tonesu: la-o-zo-li  be  ka-li-su  ka-be  go  to-ne-su
+  gloss_line: '[agent]all-persons increase governance as-new origin truth-structure'
+  natural: The people institute a new governance grounded in organized truth.
+  words_attested:
+  - W000
+  - W147
+  - W148
+  first_attests:
+  - W000
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S636
+  notes: 'be = institute/increase. ka-be = deliberately increased / freshly established
+    = new. go to-ne-su = grounded in / derived from W000 (truth-as-organized-knowledge).
+    Intentional: the language''s aspirational name is the foundation of legitimate
+    governance.'
+- snum: S637
+  gloss: 'DOI-001 Declaration I: Colonies are Free and Independent States.'
+  batch: DOI-001
+  batch_sub: I
+  status: normative
+  tonesu: la-na-Colonies  ne  pa-ki-su  /  ne  no-ne-fe
+  gloss_line: '[agent]the-Colonies are liberty-state / are no-relational-bound'
+  natural: The Colonies are in a state of liberty and are free of all binding connection.
+  words_attested:
+  - W075
+  - W198
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S637
+  notes: pa-ki-su (W198) = liberty-state = Free. no-ne-fe (W075) = no-relation-boundary
+    = independence. / parallel pairs positive claim (liberty as state) with negative
+    claim (independence as absence of binding).
+- snum: S638
+  gloss: 'DOI-001 Declaration J: cross-batch synthesis — unalienable rights as self-originating;
+    self-evident truth as organized knowledge.'
+  batch: DOI-001
+  batch_sub: J
+  status: normative
+  tonesu: vo-ne-no-fe  ne  go-ne  /  su-to  ne  tonesu
+  gloss_line: unalienable-rights are self-originating / self-evident-truth is Tonesu
+  natural: Unalienable rights are self-originating (like the divine I AM) / self-evident
+    truth is the condition of organized knowledge.
+  words_attested:
+  - W000
+  - W118
+  - W159
+  - W199
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S638
+  notes: 'Cross-batch synthesis: DOI-001 × THO-001. vo-ne-no-fe predicated on go-ne
+    (W159): rights share the self-originating character of the divine. su-to (W199)
+    predicated on to-ne-su (W000): self-evidence is the condition of truth-as-organized-knowing.
+    Philosophical keystone of the batch.'

@@ -1801,3 +1801,54 @@ Related:       pa (primitive), ne (primitive), su (primitive), a-pa (scope-deriv
 ```
 
 ---
+
+**W197**
+```
+Form:          fa-vo
+Type:          compound
+Class:         quality / affect state
+Definition:    happiness; the felt sense of positive value; a sustained affect state with positive valence. The attained condition of positive affective quality, distinct from momentary pleasure.
+Composition:   fa (affective substrate) + vo (value/quality). Head-final: vo is head; fa specifies that the value-quality is affective in character rather than abstract or relational. fa-vo = affect [of] value = the positive-valence affect state = happiness. Antonym: fa-de (W094, distress = affect [of] decrease/harm). fa-vo and fa-de are the positive and negative poles of the affective-value axis.
+Register:      standard
+Domain:        Affect / Ethics
+Status:        ✅ active
+First use:     DOI-001, Declaration of Independence (S633): zo / pa-ki-su / ka-se fa-vo
+Notes:         W197. First attested DOI-001 (S633, Life / Liberty / pursuit of Happiness). Completes the fa-X affect compound family alongside fa-de (W094 distress), fa-wi-ra (W172 passion), fa-su (W173 serenity). The Declaration's "pursuit of happiness" is rendered ka-se fa-vo: deliberate-seeking positive-affect-value. fa-vo is the target; ka-se is the intentional directionality toward it.
+Related:       fa (primitive), vo (primitive), fa-de (W094 distress — antonym), fa-su (W173 serenity — structured affect), fa-wi-ra (W172 passion — driven affect)
+```
+
+---
+
+**W198**
+```
+Form:          pa-ki-su
+Type:          compound
+Class:         state / condition
+Definition:    liberty; freedom-state; the structured systemic condition in which unimpeded movement and action are maintained as a stable property of persons' situation. Liberty as a structural entitlement, not merely the momentary absence of constraint.
+Composition:   pa (place/space) + ki (motion/change) + su (structure/order). Right-branching: pa-(ki-su). ki-su = the structure of/for motion = the organized condition permitting free movement. pa-(ki-su) = the spatial-relational domain constituted by that motion-structure = liberty. Contrast with pa-ki (W087, adrift = uncontrolled spatial motion): pa-ki-su adds su (structure), encoding liberty as organized freedom rather than chaos or adriftness. Liberty requires structure; W198 captures this exactly.
+Register:      standard / formal
+Domain:        Ethics / Politics / Philosophy
+Status:        ✅ active
+First use:     DOI-001, Declaration of Independence (S633): zo / pa-ki-su / ka-se fa-vo
+Notes:         W198. First attested DOI-001 (S633, Life / Liberty / pursuit of Happiness). The su head is the normative addition: liberty is not the absence of all structure but the presence of a structure that preserves and enables free movement. Contrast with pa-ki (W087 adrift) — adriftness lacks structure; liberty has it. The Declaration conceives Liberty as an entitlement (a stable structural feature), not a temporary condition. pa-ki-su encodes this political-philosophical precision.
+Related:       pa (primitive), ki (primitive), su (primitive), pa-ki (W087 adrift — contrast, unstructured motion), pa-ki (W156 liberation — contrast, pending form-share resolution), no-ne-fe (W075 independence — relational absence)
+```
+
+---
+
+**W199**
+```
+Form:          su-to
+Type:          compound
+Class:         concept
+Definition:    self-evident proposition; a claim that requires no external justification because its truth is grounded in its own structural character; a truth whose verification is internal to itself.
+Composition:   su (structure/order) + to (pattern/thought/knowledge). Head-final: to (knowledge) is head; su specifies that the grounding mode is structural and internal. su-to = knowledge [whose ground is] structure = truth that is self-structuring = self-evident proposition. The complement is derived-to (knowledge derived from external chains of inference); su-to is the counterpart: knowledge that needs no external chain because the structure IS the proof.
+Register:      formal / philosophical
+Domain:        Epistemology / Philosophy
+Status:        ✅ active
+First use:     DOI-001, Declaration of Independence (S630): la-yu to lo-su-to
+Notes:         W199. First attested DOI-001 (S630, "We hold these truths to be self-evident"). Important construction note: ro-to would be invalid — ro- is the instrument marker particle in grammar.md, not a primitive root, and cannot form compound words. su-to is the correct and phonologically valid construction. Parallel with go-ne (W159, self-originating relation = "I AM WHO I AM"): both are self-referential forms whose justification is internal. go-ne = cause whose origin is itself; su-to = truth whose structure is its own ground. These belong to the family of Tonesu forms encoding self-grounding. S638 (DOI-001-J) exploits this connection explicitly.
+Related:       su (primitive), to (primitive), go-ne (W159 self-originating relation — structural parallel), to-ne-su (W000 organized truth — the language itself), to-su (W030 organized knowledge)
+```
+
+---

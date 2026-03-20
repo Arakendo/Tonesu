@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-19 translation analyses.
+20 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -31,6 +31,7 @@ gap analysis, and key findings.
 - [dnd-alignments](../literature/dnd-alignments/)
 - [D&D Cosmology — The Great Wheel (DND-003)](../literature/dnd-great-wheel/)
 - [dnd-schools-of-magic](../literature/dnd-schools-of-magic/)
+- [Declaration of Independence — Translation Analysis (DOI-001)](../literature/doi-declaration/)
 - [Hamlet — "To be, or not to be"](../literature/hamlet-to-be/)
 - [Star Wars — The Jedi Code and the Sith Code](../literature/star-wars-codes/)
 - [A Tale of Two Cities — Opening](../literature/tale-of-two-cities/)

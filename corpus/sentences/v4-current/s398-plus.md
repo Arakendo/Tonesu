@@ -3889,3 +3889,170 @@ la-na-Outlands  ne  wi-su-fe  /  ne  wi-vo-fe
 | Jedi Order | `wi-su` | `wi-vo` | STW-001 |
 | Sith Order | `wi-su` | `wi-de` | STW-002 |
 | The Force (`ara`) | `wi-su-fe` | `wi-vo-fe` | STW-001 (cross-ref) |
+
+---
+
+## Declaration of Independence — Preamble (S629–S638)
+
+*Batch purpose (DOI-001): translation stress-test of the Declaration of Independence preamble. Tests the extremal `[X]-no-fe` suffix on political rights, the new liberty-compound `pa-ki-su`, self-evident proposition `su-to`, the affect-value form `fa-vo`, and cross-batch connection to THO-001 (divine attributes) via the self-grounding family. Full analysis in `corpus/translations/Literature/doi-declaration.md`.*
+
+*New compounds attested this batch: `fa-vo` (W197, happiness), `pa-ki-su` (W198, liberty-state), `su-to` (W199, self-evident proposition).*
+
+---
+
+### S629 — DOI-001-A
+
+```
+go  ka-be  zo-li-su,  la-o-zo-li  ka-ne-de  lo-ne-wi-su
+```
+
+**Written:** `go kabe zolisu, laozoli kanede lonewisu`
+
+**Natural reading:** When the course of human events has grown enough — a people dissolve the political bonds connecting them.
+
+**Notes:** `go  ka-be  zo-li-su` = causal-temporal framing: as origin-cause events accumulate/increase in people-structure. `ka-ne-de` (W092) = deliberate relational decrease = dissolve. `ne-wi-su` = relational-volitional-structure = political bond (right-branching: ne-(wi-su) = connection of [organized-will]).
+
+---
+
+### S630 — DOI-001-B
+
+```
+la-yu  to  lo-su-to
+```
+
+**Written:** `layu to losuto`
+
+**Natural reading:** We hold that these are self-evident truths.
+
+**Notes:** W199 first attestation. `la-yu` = we (agentive). `to` used as verb: to know / hold as knowledge. `su-to` (W199) = self-evident proposition = truth whose ground is its own structure. Echoes `la-mi  to  lo-tonesu` (W000 example: "I hold truth"). The self-evident truths are objects of knowing, not just claims — `la-yu  to  lo-su-to` = "we hold self-grounding-truths."
+
+---
+
+### S631 — DOI-001-C
+
+```
+la-go-li  be  lo-o-zo-li  su-ne
+```
+
+**Written:** `lagoli be loozoli sune`
+
+**Natural reading:** The creator made all persons equal in relational standing.
+
+**Notes:** `go-li` = origin-person = creator (composable; no W-entry needed). `be` = deliberate increase = made/established. `o-zo-li` = collective-persons = all people. `su-ne` (W174) = structure-of-relation = equal (structural relational parity). Equality is relational-structural, not identity of substance. Contrast `su-ne-ru` (equal-in-unified-structure, used in GEO-001 for equal sides) — `su-ne` without `ru` is the general equal-standing reading.
+
+---
+
+### S632 — DOI-001-D
+
+```
+la-go-li  be  lo-o-zo-li  lu-vo-ne-no-fe
+```
+
+**Written:** `lagoli be loozoli luvonenofe`
+
+**Natural reading:** The creator gave all persons unalienable rights as their endowment.
+
+**Notes:** `lu-` beneficiary frame: the rights are what the persons receive as endowment. `vo-ne-no-fe` = THO-001 extremal construction: `vo-ne` (W118, righteous-relational-standing / rights) + `no-fe` (without boundary) = unalienable rights. The extremal suffix encodes the normative force: these rights have no external limit that can strip them. The pattern extends naturally from divine attributes (THO-001) to political entitlements (DOI-001).
+
+---
+
+### S633 — DOI-001-E
+
+```
+zo  /  pa-ki-su  /  ka-se  fa-vo
+```
+
+**Written:** `zo / pakisu / kase favo`
+
+**Natural reading:** Life / Liberty / the pursuit of happiness.
+
+**Notes:** W197 (`fa-vo`, happiness) and W198 (`pa-ki-su`, liberty) first attestations. Three-item `/` parallel list — the Declaration's canonical triad. `zo` (primitive) = Life. `pa-ki-su` (W198) = liberty-state = structured freedom. `ka-se  fa-vo` = deliberate-seeking positive-affect-value = pursuit of happiness (two-word phrase, not a single compound). Phonologically the cleanest sentence in the batch.
+
+---
+
+### S634 — DOI-001-F
+
+```
+go  vo-ne-no-fe,  la-o-zo-li  be  ka-li-su  /  la-ka-li-su  wi-vo  go  ne-vo-wi
+```
+
+**Written:** `go vonenofe, laozoli be kalisu / lakalisu wivo go nevowi`
+
+**Natural reading:** For unalienable rights, persons institute governance; governance derives just power from consent.
+
+**Notes:** `go  vo-ne-no-fe,` = purpose framing: for the sake of unalienable rights. `be` = institute / establish. `/` parallel: first clause = persons establish governance; second clause = governance's just-will (`wi-vo`, W190) derives (`go`) from consent. `ne-vo-wi` = relation-value-will = consent as a relational state in which wills converge on shared value (composable; no W-entry needed).
+
+---
+
+### S635 — DOI-001-G
+
+```
+go  ka-li-su  ne  ka-de,  la-o-zo-li  vo-ne  ki  lo-ka-li-su
+```
+
+**Written:** `go kalisu ne kade, laozoli vone ki lokalisu`
+
+**Natural reading:** When governance becomes destructive, the people have the right to change or abolish it.
+
+**Notes:** `go  ka-li-su  ne  ka-de` = causal-conditional: governance's relational state (`ne`) becomes `ka-de` (deliberately destructive). `,` boundary. `la-o-zo-li  vo-ne` = the people [have] righteous standing (W118 used as predicate). `ki` = change (primitive verb: covers both alter and abolish). `lo-ka-li-su` = patient: the governance. `ki` alone is sufficient; `ka-ne-de` could specify dissolution specifically — `ki` encodes the general right.
+
+---
+
+### S636 — DOI-001-H
+
+```
+la-o-zo-li  be  ka-li-su  ka-be  go  to-ne-su
+```
+
+**Written:** `laozoli be kalisu kabe go tonesu`
+
+**Natural reading:** The people institute a new governance grounded in organized truth.
+
+**Notes:** `be` = institute / increase. `ka-be` = deliberately-increased, freshly-established = new (not `no-pe` = merely novel; `ka-be` is volitional newness). `go  to-ne-su` = causal/foundational: grounded in / derived from `to-ne-su` (W000, truth-as-organized-knowledge = the language's own name). The intentional encoding: a legitimate new governance is grounded in the same condition as Tonesu's aspiration — organized truth. The language name appears as the founding reference.
+
+---
+
+### S637 — DOI-001-I
+
+```
+la-na-Colonies  ne  pa-ki-su  /  ne  no-ne-fe
+```
+
+**Written:** `lanaColonies ne pakisu / ne nonefe`
+
+**Natural reading:** The Colonies are in a state of liberty and are free of all binding connection.
+
+**Notes:** `pa-ki-su` (W198) = liberty-state = Free. `no-ne-fe` (W075) = no-relation-boundary = independent. `/` parallel pairs the positive claim (liberty as a structured state) with the negative claim (independence as absence of binding). The Declaration's "Free and Independent States" maps to the `pa-ki-su / no-ne-fe` pair: liberty is the presence of structured freedom; independence is the absence of constraining relational bond. Both are necessary and distinct.
+
+---
+
+### S638 — DOI-001-J
+
+```
+vo-ne-no-fe  ne  go-ne  /  su-to  ne  tonesu
+```
+
+**Written:** `vonenofe ne gone / suto ne tonesu`
+
+**Natural reading:** Unalienable rights are self-originating (like the divine I AM) / self-evident truth is the condition of organized knowledge.
+
+**Notes:** Cross-batch synthesis: DOI-001 × THO-001 × W000. `vo-ne-no-fe` predicated on `go-ne` (W159, self-originating relation = "I AM WHO I AM"): unalienable rights share the structural character of the divine self-grounding — both are properties that have no external origin that could revoke them. `su-to` (W199) predicated on `to-ne-su` (W000): self-evident truth is the instantiation of organized-knowledge = the language's own condition. Philosophical keystone of the batch: rights are grounded in self-originating structure; self-evident truths are grounded in Tonesu itself.
+
+---
+
+## DOI-001 Batch Summary
+
+**Entries:** S629–S638 · **New vocabulary:** W197 (`fa-vo`), W198 (`pa-ki-su`), W199 (`su-to`)
+
+| Entry | Written form | Source clause | Key vocabulary |
+|-------|-------------|---------------|----------------|
+| S629 (DOI-001-A) | `go kabe zolisu, laozoli kanede lonewisu` | When in the course of human events | W092 re-use; `ne-wi-su` compositional |
+| S630 (DOI-001-B) | `layu to losuto` | We hold these truths self-evident | W199 first att. |
+| S631 (DOI-001-C) | `lagoli be loozoli sune` | All men created equal | `go-li` compositional; W174 |
+| S632 (DOI-001-D) | `lagoli be loozoli luvonenofe` | Endowed with unalienable Rights | `vo-ne-no-fe` extremal; `lu-` frame |
+| S633 (DOI-001-E) | `zo / pakisu / kase favo` | Life, Liberty, pursuit of Happiness | W197 + W198 first att. |
+| S634 (DOI-001-F) | `go vonenofe, laozoli be kalisu / lakalisu wivo go nevowi` | Governments instituted | `ne-vo-wi` consent; W190 |
+| S635 (DOI-001-G) | `go kalisu ne kade, laozoli vone ki lokalisu` | Right to alter or abolish | W118 as predicate; `ki` |
+| S636 (DOI-001-H) | `laozoli be kalisu kabe go tonesu` | Institute new Government | `ka-be` = new; W000 as foundation |
+| S637 (DOI-001-I) | `lanaColonies ne pakisu / ne nonefe` | Free and Independent States | W198 + W075 parallel |
+| S638 (DOI-001-J) | `vonenofe ne gone / suto ne tonesu` | Synthesis — rights + divine structure | W159 + W199 + W000 cross-batch |

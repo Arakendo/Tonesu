@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 96 |
+| [w101-plus.md](w101-plus.md) | W101+ | 99 |
 
-**Total: 184 W-series entries** — active: 140 · proposed: 3 · pending: 39 · cold: 0 · retired: 2
+**Total: 187 W-series entries** — active: 143 · proposed: 3 · pending: 39 · cold: 0 · retired: 2
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -47,6 +47,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `fa-ra-be` | W123 | anger, hostile arousal | ✅ | [w101-plus](w101-plus.md) |
 | `fa-re` | W096 | affect cycling / returning to baseline | ✅ | [w051-w100](w051-w100.md) |
 | `fa-su` | W173 | serenity, affect in ordered/structured form | ✅ | [w101-plus](w101-plus.md) |
+| `fa-vo` | W197 | happiness; positive-valence affect state; felt sense of wellbeing | ✅ | [w101-plus](w101-plus.md) |
 | `fa-wi-de` | W127 | temptation, affect-will-toward-harm | ✅ | [w101-plus](w101-plus.md) |
 | `fa-wi-ra` | W172 | passion, driven desire (affect-will-force) | ✅ | [w101-plus](w101-plus.md) |
 | `fa-wi-zi` | W136 | lust, affect-desire-to-couple | ⚠️ | [w101-plus](w101-plus.md) |
@@ -104,6 +105,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `pa-fe` | W138 | vault, firmament, sky-dome | ⏳ | [w101-plus](w101-plus.md) |
 | `pa-ki` | W087 | adrift, uncontrolled spatial motion | ✅ | [w051-w100](w051-w100.md) |
 | `pa-ki` | W156 | liberation / liberator, place-motion (⚠️ form-shares W087 — pending resolution) | ⚠️ | [w101-plus](w101-plus.md) |
+| `pa-ki-su` | W198 | liberty; freedom-state; the structural condition of unimpeded movement | ✅ | [w101-plus](w101-plus.md) |
 | `pa-ma` | W194 | material realm; space of matter; the physical plane | ✅ | [w101-plus](w101-plus.md) |
 | `pa-mi` | W110 | here, speaker's location | ⏳ | [w101-plus](w101-plus.md) |
 | `pa-ne-su` | W196 | cosmological framework; multiverse; the structured network of planes | ✅ | [w101-plus](w101-plus.md) |
@@ -139,6 +141,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `su-ne` | W174 | harmony, structure-of-connection | ✅ | [w101-plus](w101-plus.md) |
 | `su-ru` | W085 | integrated whole, unified structure | ✅ | [w051-w100](w051-w100.md) |
 | `su-ti` | W101 | current state, instantaneous configuration | ⏳ | [w101-plus](w101-plus.md) |
+| `su-to` | W199 | self-evident proposition; truth whose ground is its own structure | ✅ | [w101-plus](w101-plus.md) |
 | `ti-be` | W040 | morning; proximate future | ✅ | [w001-w050](w001-w050.md) |
 | `ti-de` | W041 | past time; yesterday | ✅ | [w001-w050](w001-w050.md) |
 | `ti-fe` | W037 | deadline, temporal boundary | ✅ | [w001-w050](w001-w050.md) |
@@ -228,7 +231,7 @@ Concept-first lookup: find the compound you need by domain.
 `ne-zi-re` W131 spouse · `zo-ne` W076 biological kinship bond · `zo-ne-du` W078 offspring · `zo-ne-du-re` W081 descendant · `zo-ne-go` W077 parent · `zo-ne-go-re` W080 ancestor · `zo-ne-ru` W079 sibling
 
 **Place / Space**
-`ki-pa` W049 corridor · `ko-pa` W048 room · `li-pu-pa` W036 city · `pa-be'ka-li-su` W125 kingdom of heaven · `pa-fe` W138 vault · `pa-ma` W194 material realm · `pa-mi` W110 here · `pa-ne-su` W196 cosmological framework · `pa-ra` W053 energetic field · `pa-su` W157 mountain · `pa-vo-fe` W153 holy ground · `pa-wi` W088 destination · `pa-wi-ka-su` W066 shrine · `pa-zo-li` W135 the world · `to-pa` W195 thought-realm
+`ki-pa` W049 corridor · `ko-pa` W048 room · `li-pu-pa` W036 city · `pa-be'ka-li-su` W125 kingdom of heaven · `pa-fe` W138 vault · `pa-ki-su` W198 liberty · `pa-ma` W194 material realm · `pa-mi` W110 here · `pa-ne-su` W196 cosmological framework · `pa-ra` W053 energetic field · `pa-su` W157 mountain · `pa-vo-fe` W153 holy ground · `pa-wi` W088 destination · `pa-wi-ka-su` W066 shrine · `pa-zo-li` W135 the world · `to-pa` W195 thought-realm
 
 **Artifact / Device**
 `ka-du-zo-su` W161 bread · `ka-mu` W047 tool · `ki-ne` W152 sandal · `ki-pa-mu` W086 vehicle · `ko-mu` W052 vessel · `ko-ne-mu` W176 chain · `ma-no-de` W046 medicine · `ra-ki-mu` W012 engine · `si-ko-mu` W067 individual document · `si-mu` W039 relay device · `to-ki-mu` W011 computer · `to-su-mu` W010 database · `vo-mu` W137 garment · `wi-to` W045 plan (single-instance purposive artifact)
@@ -237,13 +240,13 @@ Concept-first lookup: find the compound you need by domain.
 `lu-ti` W140 daytime · `no-lu-ti` W141 nighttime · `ti-be` W040 morning · `ti-de` W041 past time · `ti-fe` W037 deadline · `ti-mi` W109 now · `ti-mu` W057 relic · `ti-re` W103 recurring time
 
 **Knowledge / Epistemic**
-`ka-to-fe` W122 judge · `to-fe` W028 epistemic boundary (the-line between knowledge states) · `to-fe-ka` W029 deliberate epistemic mislabeling · `to-fe-li` W032 epistemic guardian/adjudicator · `to-fe-su` W072 epistemic standards body/code · `to-fe-su-ki` W097 epistemic ruling crossing to public force · `to-go` W089 counterfactual frame marker · `to-ki` W020 computation · `to-ko` W027 memory · `to-ko-re` W166 remembrance · `to-ne-su` W000 truth · `to-re-su` W064 canonical doctrine · `to-ru` W083 consensus · `to-si` W026 query · `to-su` W030 organized knowledge · `to-su-ki` W025 comprehend · `to-su-mu` W010 database
+`ka-to-fe` W122 judge · `su-to` W199 self-evident proposition · `to-fe` W028 epistemic boundary (the-line between knowledge states) · `to-fe-ka` W029 deliberate epistemic mislabeling · `to-fe-li` W032 epistemic guardian/adjudicator · `to-fe-su` W072 epistemic standards body/code · `to-fe-su-ki` W097 epistemic ruling crossing to public force · `to-go` W089 counterfactual frame marker · `to-ki` W020 computation · `to-ko` W027 memory · `to-ko-re` W166 remembrance · `to-ne-su` W000 truth · `to-re-su` W064 canonical doctrine · `to-ru` W083 consensus · `to-si` W026 query · `to-su` W030 organized knowledge · `to-su-ki` W025 comprehend · `to-su-mu` W010 database
 
 **Signal / Communication**
 `fe-si` W024 warning · `mu-ka` W022 use / operate a tool or artifact · `ra-vo` W071 signal intensity · `si-de` W098 past signal · `si-fe` W070 signal threshold · `si-ki` W023 transmit a signal · `si-ko-mu` W067 individual document · `si-mu` W039 relay device
 
 **Affect / Emotional substrate**
-`fa-de` W094 affect fading · `fa-de-ra` W155 suffering · `fa-ki` W093 affect shift / change of register · `fa-no` W095 affect inactive (unresolved or numb) · `fa-ra` W154 fear/awe · `fa-ra-be` W123 anger · `fa-re` W096 affect cycling / returning to baseline · `fa-su` W173 serenity · `fa-wi-de` W127 temptation · `fa-wi-ra` W172 passion · `fa-wi-zi` W136 lust · `se-no-to` W090 percept without cognitive model (unresolved signal) · `su-fa` W133 purity of heart · `wi-no-ra` W132 meekness
+`fa-de` W094 affect fading · `fa-de-ra` W155 suffering · `fa-ki` W093 affect shift / change of register · `fa-no` W095 affect inactive (unresolved or numb) · `fa-ra` W154 fear/awe · `fa-ra-be` W123 anger · `fa-re` W096 affect cycling / returning to baseline · `fa-su` W173 serenity · `fa-vo` W197 happiness · `fa-wi-de` W127 temptation · `fa-wi-ra` W172 passion · `fa-wi-zi` W136 lust · `se-no-to` W090 percept without cognitive model (unresolved signal) · `su-fa` W133 purity of heart · `wi-no-ra` W132 meekness
 
 **Ritual / Sacred**
 `be-go-li-si` W149 creator-representation · `fe-no-ka` W056 taboo · `fe-vo` W065 sacredness · `go-ne` W159 self-originating relation / "I am who I am" · `ka-li-su` W147 governance · `ka-pa-ki'ti-re` W167 Passover festival · `ka-vo-si` W168 thanksgiving / blessing · `pa-be'ka-li-su` W125 kingdom of heaven · `pa-vo-fe` W153 holy ground · `pa-wi-ka-su` W066 shrine · `se-to` W062 perceptual insight · `to-re-su` W064 canonical doctrine · `vo-ne` W118 righteousness · `wi-ka-su` W054 ritual · `wi-si` W063 prayer · `zo-ra` W117 life-energy · `zo-si` W069 spirit · `zo-to` W068 soul
@@ -267,7 +270,7 @@ Concept-first lookup: find the compound you need by domain.
 `pa-ma` W194 material realm · `pa-ne-su` W196 cosmological framework · `to-pa` W195 thought-realm
 
 **Ethics / Philosophy**
-`wi-de` W191 evil · `wi-no-su` W189 chaotic · `wi-su` W188 lawful · `wi-su-fe` W192 law-neutral · `wi-vo` W190 good · `wi-vo-fe` W193 ethics-neutral
+`pa-ki-su` W198 liberty · `wi-de` W191 evil · `wi-no-su` W189 chaotic · `wi-su` W188 lawful · `wi-su-fe` W192 law-neutral · `wi-vo` W190 good · `wi-vo-fe` W193 ethics-neutral
 
 **Meta / Language**
 `to'to-ne-su` W170 meta-truth · `to-to-ne-su` W169 knowledge of truth
@@ -285,7 +288,7 @@ Quick lookup by lead primitive root.
 | `de` | de-be W035, de-su W119, de-vo W121, de-ki'ma W162, de-zo W178 |
 | `di` | di-ki-li W061 |
 | `du` | du-zo-su W142 |
-| `fa` | fa-ki W093, fa-de W094, fa-no W095, fa-re W096, fa-ra-be W123, fa-wi-de W127, fa-wi-zi W136, fa-ra W154, fa-de-ra W155, fa-wi-ra W172, fa-su W173 |
+| `fa` | fa-ki W093, fa-de W094, fa-no W095, fa-re W096, fa-ra-be W123, fa-wi-de W127, fa-wi-zi W136, fa-ra W154, fa-de-ra W155, fa-wi-ra W172, fa-su W173, fa-vo W197 |
 | `fe` | fe-si W024, fe-su W055, fe-no-ka W056, fe-vo W065 |
 | `go` | go-ne W159 |
 | `ha` | ha-de W044 |
@@ -299,12 +302,12 @@ Quick lookup by lead primitive root.
 | `ne` | ne-su W031, ne-fe W042, ne-ra W058, ne-ra-ki W059, ne-to W084, ne-de W091, ne-zi-re W131, ne-to-fe W165, ne-no-ra W171 |
 | `no` | no-ne-fe W075, no-su'ma W115, no-de-ma W129, no-lu-ti W141 |
 | `nu` | nu-se W102 |
-| `pa` | pa-nu W050, pa-ra W053, pa-wi-ka-su W066, pa-ki W087, pa-wi W088, pa-mi W110, pa-be'ka-li-su W125, pa-zo-li W135, pa-fe W138, pa-vo-fe W153, pa-ki W156, pa-su W157, pa-ma W194, pa-ne-su W196 |
+| `pa` | pa-nu W050, pa-ra W053, pa-wi-ka-su W066, pa-ki W087, pa-wi W088, pa-mi W110, pa-be'ka-li-su W125, pa-zo-li W135, pa-fe W138, pa-vo-fe W153, pa-ki W156, pa-su W157, pa-ma W194, pa-ne-su W196, pa-ki-su W198 |
 | `ra` | ra-ki-mu W012, ra-ki W038, ra-vo W071, ra-ma W082, ra-lu-ki W151 |
 | `re` | re-ka-ne-li W134 |
 | `se` | se-ka W034, se-to W062, se-no-to W090, se-lu W130 |
 | `si` | si-ne-ki W021, si-ki W023, si-mu W039, si-ko-mu W067, si-fe W070, si-de W098, si-no-vo-li W126, si-ki-li W158 |
-| `su` | su-mu-li W002, su-ru W085, su-ti W101, su'ma W113, su-fa W133, su-ne W174 |
+| `su` | su-mu-li W002, su-ru W085, su-ti W101, su'ma W113, su-fa W133, su-ne W174, su-to W199 |
 | `ti` | ti-fe W037, ti-be W040, ti-de W041, ti-mu W057, ti-re W103, ti-mi W109 |
 | `to` | to-ne-su W000, to-li W003, to-su-mu W010, to-ki-mu W011, to-ki W020, to-su-ki W025, to-si W026, to-ko W027, to-fe W028, to-fe-ka W029, to-su W030, to-fe-li W032, to-re-su W064, to-fe-su W072, to-ru W083, to-go W089, to-fe-su-ki W097, to-ko-re W166, to-to-ne-su W169, to'to-ne-su W170, to-pa W195 |
 | `vo` | vo-ne W118, vo-mu W137 |
