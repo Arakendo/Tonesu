@@ -10,7 +10,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `?`
 
-9 compounds
+15 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -21,8 +21,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `pa-be-ki` · pabeki | [W181](words/W181.md) | ✅ | conjuration; spatial-emergence-change; magic of making things emerge into new places <br><small>[S601](../../../totonesu/corpus/batches/dnd#S601)</small> |
 | `ra-be-ki` · rabeki | [W184](words/W184.md) | ✅ | evocation; force-manifestation-change; magic of channeling and releasing raw force <br><small>[S604](../../../totonesu/corpus/batches/dnd#S604) · [S608](../../../totonesu/corpus/batches/dnd#S608)</small> |
 | `to-se-ki` · toseki | [W182](words/W182.md) | ✅ | divination; pattern-perception-change; magic of transforming perception to access hidden knowledge <br><small>[S602](../../../totonesu/corpus/batches/dnd#S602)</small> |
+| `wi-de` · wide | [W191](words/W191.md) | ✅ | evil; will toward harm/decrease; maleficent moral disposition <br><small>[S616](../../../totonesu/corpus/batches/dnd#S616) · [S617](../../../totonesu/corpus/batches/dnd#S617) · [S618](../../../totonesu/corpus/batches/dnd#S618)</small> |
 | `wi-fa-ki` · wifaki | [W183](words/W183.md) | ✅ | enchantment; willed-affect-shift; magic of intentionally altering affect and will <br><small>[S603](../../../totonesu/corpus/batches/dnd#S603)</small> |
+| `wi-no-su` · winosu | [W189](words/W189.md) | ✅ | chaotic; will unbound by structure; spontaneous / freedom-first moral disposition <br><small>[S612](../../../totonesu/corpus/batches/dnd#S612) · [S615](../../../totonesu/corpus/batches/dnd#S615) · [S618](../../../totonesu/corpus/batches/dnd#S618)</small> |
 | `wi-ra-su` · wirasu | [W179](words/W179.md) | ✅ | magic; the systematic, disciplined practice of directed force <br><small>[S599](../../../totonesu/corpus/batches/dnd#S599) · [S600](../../../totonesu/corpus/batches/dnd#S600) · [S601](../../../totonesu/corpus/batches/dnd#S601) · [S602](../../../totonesu/corpus/batches/dnd#S602) · [S603](../../../totonesu/corpus/batches/dnd#S603) · [S604](../../../totonesu/corpus/batches/dnd#S604) · [S605](../../../totonesu/corpus/batches/dnd#S605) · [S606](../../../totonesu/corpus/batches/dnd#S606) · [S607](../../../totonesu/corpus/batches/dnd#S607)</small> |
+| `wi-su` · wisu | [W188](words/W188.md) | ✅ | lawful; will organized by structure; rule-following moral disposition <br><small>[S609](../../../totonesu/corpus/batches/dnd#S609) · [S610](../../../totonesu/corpus/batches/dnd#S610) · [S613](../../../totonesu/corpus/batches/dnd#S613) · [S616](../../../totonesu/corpus/batches/dnd#S616)</small> |
+| `wi-su-fe` · wisufe | [W192](words/W192.md) | ✅ | law-neutral; will at the structural limit; neither rule-imposing nor rule-rejecting <br><small>[S611](../../../totonesu/corpus/batches/dnd#S611) · [S614](../../../totonesu/corpus/batches/dnd#S614) · [S617](../../../totonesu/corpus/batches/dnd#S617)</small> |
+| `wi-vo` · wivo | [W190](words/W190.md) | ✅ | good; will toward value/benefit; beneficent moral disposition <br><small>[S452](../../../totonesu/corpus/batches/rom#S452) · [S471](../../../totonesu/corpus/batches/emd#S471) · [S514](../../../totonesu/corpus/batches/emd#S514) · [S521](../../../totonesu/corpus/batches/emd#S521) · [S609](../../../totonesu/corpus/batches/dnd#S609) · [S610](../../../totonesu/corpus/batches/dnd#S610) · [S611](../../../totonesu/corpus/batches/dnd#S611) · [S612](../../../totonesu/corpus/batches/dnd#S612)</small> |
+| `wi-vo-fe` · wivofe | [W193](words/W193.md) | ✅ | ethics-neutral; will at the value limit; neither primarily beneficent nor harmful <br><small>[S613](../../../totonesu/corpus/batches/dnd#S613) · [S614](../../../totonesu/corpus/batches/dnd#S614) · [S615](../../../totonesu/corpus/batches/dnd#S615)</small> |
 
 ## `be` — growth / increase
 

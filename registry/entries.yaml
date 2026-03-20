@@ -5116,3 +5116,181 @@ entries:
   first_use: 'DND-001, Transmutation (S607): ge-ki ne wi-ra-su lo-ge'
   groups:
   - Academic / Formal Knowledge
+- wnum: W188
+  status: active
+  form: wi-su
+  written: wisu
+  gloss: lawful; will organized by structure; rule-following moral disposition
+  domain: Ethics / Philosophy
+  pos: adjective / predicate compound
+  register: formal
+  etymology: 'wi (will/intention) + su (structure/order) = structured will = the disposition
+    of organizing one''s will by rules, hierarchies, codes, and commitments. The lawful
+    character: promise-keeping, structure-respecting, code-following intent. In the
+    D&D alignment system, the LG pole of the law/chaos axis. Distinct from wi-fe (W100,
+    rule as normative claim) — wi-su is the dispositional QUALITY of will; wi-fe is
+    the OBJECT (a rule, a normative claim).'
+  composition: 'wi (will) + su (structure). Head su: the will IS organized by structure.
+    Two-root compound; no additional specification needed — lawfulness is will-plus-structure
+    with no further constraint.'
+  notes: 'W188. First attested DND-002 (S609 framing, S610 Lawful Good). Paired with
+    wi-no-su (W189, chaotic) and wi-su-fe (W192, law-neutral) to cover the full law/chaos
+    axis. Cross-batch: the Jedi Code (STW-001) and Sith Code (STW-002) are both wi-su
+    in character — their codes are structured causal chains — differing only on the
+    wi-vo/wi-de (ethics) axis. Distinct from wi-re (W099, feedback loop), wi-du (W175,
+    victory), wi-fe (W100, rule). Do not confuse with wi-fe: wi-su is a PERSON''S
+    will-quality; wi-fe is a normative OBJECT (a rule/claim).'
+  related: wi (primitive), su (primitive), wi-fe (W100 rule — distinct), wi-no-su
+    (W189 chaotic — opposite), wi-su-fe (W192 law-neutral — middle)
+  first_use: 'DND-002, alignment framing (S609): wi-li ne wi-su / wi-li ne wi-vo'
+  groups:
+  - Ethics / Philosophy
+- wnum: W189
+  status: active
+  form: wi-no-su
+  written: winosu
+  gloss: chaotic; will unbound by structure; spontaneous / freedom-first moral disposition
+  domain: Ethics / Philosophy
+  pos: adjective / predicate compound
+  register: formal
+  etymology: 'wi (will/intention) + no-su (no-structure / unorder / chaos) = will
+    free from structural constraint. Right-branching: wi-(no-su) = will of [no-structure].
+    The chaotic character: authority-rejecting, spontaneity-valuing, individual-freedom-first
+    intent. In the D&D alignment system, the CG/CN/CE pole of the law/chaos axis.
+    NOT simply evil: a Chaotic Good ranger (S612) has wi-no-su + wi-vo — fully beneficent,
+    but structure-free.'
+  composition: 'wi (will) + no-su (no-structure). no-su is the established negation
+    compound (structure-less, chaos); attested in no-su''ma (W115, gas = structureless
+    matter). Three-root compound: wi-(no-su). Right-branching is unambiguous.'
+  notes: 'W189. First attested DND-002 (S612, Chaotic Good Ranger). no-su (chaos/
+    no-structure) is an established unit in the registry (no-su''ma W115). wi-no-su
+    extends this to the moral/dispositional sphere: a person whose will is organized
+    around the ABSENCE of structural constraint. Three-root compound; the middle root
+    no is a negation prefix, making the overall structure wi-(no-(su)) but with right-branching
+    defaulting to wi-(no-su) as a unit.'
+  related: wi (primitive), no (primitive), su (primitive), no-su (negation compound,
+    no-su''ma W115), wi-su (W188 lawful — opposite), wi-su-fe (W192 law-neutral —
+    middle)
+  first_use: 'DND-002, Chaotic Good (S612): la-na-Ranger ne wi-no-su / ne wi-vo'
+  groups:
+  - Ethics / Philosophy
+- wnum: W190
+  status: active
+  form: wi-vo
+  written: wivo
+  gloss: good; will toward value/benefit; beneficent moral disposition
+  domain: Ethics / Philosophy
+  pos: adjective / predicate compound
+  register: formal
+  etymology: 'wi (will/intention) + vo (value/quality/worth) = will oriented toward
+    what is valuable = will directed toward producing benefit for others. The good
+    character: protecting life, helping others, selfless orientation. In the D&D alignment
+    system, the LG/NG/CG pole of the ethics axis. vo here takes its evaluative/beneficent
+    sense: what has worth, what benefits, what ought to be preserved. Compare vo-ne
+    (W118, righteousness = right-relational value): both use vo in a positive evaluative
+    sense, but wi-vo focuses on the DISPOSITIONAL motivation whereas vo-ne focuses
+    on the RELATIONAL manifestation.'
+  composition: 'wi (will) + vo (value/benefit). Head vo: the will IS oriented toward
+    value. Two-root compound. Parallel structure to wi-de (W191, evil) = will-toward-harm.'
+  notes: 'W190. First attested DND-002 (S609 framing). Forms the positive ethics-axis
+    pole. Paired with wi-de (W191, evil) and wi-vo-fe (W193, ethics-neutral). The
+    Jedi''s ethics axis position is wi-vo (S610 cross-batch mapping: Jedi = wi-su
+    + wi-vo = Lawful Good).'
+  related: wi (primitive), vo (primitive), vo-ne (W118 righteousness — relational),
+    wi-de (W191 evil — opposite), wi-vo-fe (W193 ethics-neutral — middle)
+  first_use: 'DND-002, alignment framing (S609): wi-li ne wi-su / wi-li ne wi-vo'
+  groups:
+  - Ethics / Philosophy
+- wnum: W191
+  status: active
+  form: wi-de
+  written: wide
+  gloss: evil; will toward harm/decrease; maleficent moral disposition
+  domain: Ethics / Philosophy
+  pos: adjective / predicate compound
+  register: formal
+  etymology: 'wi (will/intention) + de (decrease/decay/harm) = will directed toward
+    causing decrease or harm = maleficent intention. The evil character: harming others,
+    exploitation, cruelty, destruction as ends. In the D&D alignment system, the LE/NE/CE
+    pole of the ethics axis. de here has its general decrease/harm sense, not limited
+    to mortality: harm to welfare, exploitation, causing suffering are all wi-de expressions.'
+  composition: 'wi (will) + de (decrease/harm). Head de: the will IS directed toward
+    decrease/harm. Two-root compound. Parallel structure to wi-vo (W190, good) = will-toward-value.
+    Compound hierarchy confirmed: wi-de (quality) → wi-de-li (W124, the person who
+    has this quality = adversary/enemy).'
+  notes: 'W191. First attested standalone DND-002 (S616, Lawful Evil Tyrant). Previously
+    only attested as a component of wi-de-li (W124, adversary). S616 first attests
+    wi-de as a freestanding predicate: la-na-Tyrant ne wi-su / ne wi-de. Confirms
+    compound hierarchy: wi-de (property) + li (person suffix) → wi-de-li (person with
+    this property). The Sith''s ethics axis position is wi-de (S618 cross-batch mapping:
+    Sith = wi-su + wi-de = Lawful Evil).'
+  related: wi (primitive), de (primitive), wi-de-li (W124 adversary — uses wi-de as
+    component), wi-vo (W190 good — opposite), wi-vo-fe (W193 ethics-neutral — middle)
+  first_use: 'DND-002, Lawful Evil (S616): la-na-Tyrant ne wi-su / ne wi-de'
+  groups:
+  - Ethics / Philosophy
+- wnum: W192
+  status: active
+  form: wi-su-fe
+  written: wisufe
+  gloss: law-neutral; will at the structural limit; neither rule-imposing nor rule-rejecting
+  domain: Ethics / Philosophy
+  pos: adjective / predicate compound
+  register: formal
+  etymology: 'wi (will/intention) + su-fe (structure-limit / structural boundary)
+    = will positioned at the structural limit. Right-branching: wi-(su-fe) = will
+    of [structure-boundary]. The law-neutral character: follows structure when useful,
+    departs from it when not; neither deeply law-bound nor deeply chaotic. In D&D
+    terms: Neutral Good clerics, True Neutral druids (with wi-vo-fe), Neutral Evil
+    villains (with wi-de).'
+  composition: 'wi (will) + su (structure) + fe (boundary/limit). Right-branching:
+    wi-(su-fe). su-fe = the limit or boundary of structure = a threshold position
+    on the order axis. The compound names a will that operates at this threshold:
+    both directions available, neither maximized. Parse note: wi-su-fe correctly right-branches
+    as wi-(su-fe), NOT (wi-su)-fe. The potential misread as [wi-su]-fe (bounded-lawfulness)
+    would also produce a broadly neutral reading, but the intended structure is wi-(su-fe).
+    Distinguished from wi-fe (W100, a concrete rule/normative claim) by the insertion
+    of su as second root.'
+  notes: 'W192. First attested DND-002 (S611, Neutral Good Cleric). NEUTRAL IS NOT
+    NEGATION: wi-su-fe uses fe (boundary/limit) not no (negation), encoding a position
+    at the limit rather than absence from the axis. A TN druid (S614) is ACTIVE in
+    maintaining balance — wi-su-fe is a positive positional claim.'
+  related: wi (primitive), su (primitive), fe (primitive), wi-fe (W100 rule — distinct
+    2-root compound), wi-su (W188 lawful — extreme), wi-no-su (W189 chaotic — opposite
+    extreme)
+  first_use: 'DND-002, Neutral Good (S611): la-na-Cleric ne wi-su-fe / ne wi-vo'
+  groups:
+  - Ethics / Philosophy
+- wnum: W193
+  status: active
+  form: wi-vo-fe
+  written: wivofe
+  gloss: ethics-neutral; will at the value limit; neither primarily beneficent nor
+    harmful
+  domain: Ethics / Philosophy
+  pos: adjective / predicate compound
+  register: formal
+  etymology: 'wi (will/intention) + vo-fe (value-limit / value-boundary) = will positioned
+    at the value limit. Right-branching: wi-(vo-fe) = will of [value-boundary]. The
+    ethics-neutral character: neither strongly motivated by benefit to others nor
+    by harm; self-interested, pragmatic, or genuinely indifferent to the good/evil
+    distinction. In D&D terms: Lawful Neutral soldiers (with wi-su), True Neutral
+    druids (with wi-su-fe), Chaotic Neutral rogues (with wi-no-su).'
+  composition: 'wi (will) + vo (value/benefit) + fe (boundary/limit). Right-branching:
+    wi-(vo-fe). vo-fe = the limit or boundary of the value axis = a threshold position
+    on the ethics axis. The compound names a will that takes no strong ethics-axis
+    position. Parse note: wi-vo-fe correctly right-branches as wi-(vo-fe), not (wi-vo)-fe
+    (which would read: bounded-beneficence = good but limited, not the same thing).
+    Consistent structural parallel with wi-su-fe (W192).'
+  notes: 'W193. First attested DND-002 (S613, Lawful Neutral Soldier). NEUTRAL IS
+    NOT NEGATION: wi-vo-fe uses fe (boundary/limit) not no (negation), encoding a
+    threshold position rather than absence of ethical will. The LN soldier follows
+    orders neither to help nor to harm — their code is the structure (wi-su), not
+    any particular good or evil outcome. The TN druid''s double-neutral (S614) is
+    the unique case where both axes are wi-X-fe.'
+  related: wi (primitive), vo (primitive), fe (primitive), wi-vo (W190 good — extreme),
+    wi-de (W191 evil — opposite extreme), wi-su-fe (W192 law-neutral — structural
+    parallel)
+  first_use: 'DND-002, Lawful Neutral (S613): la-na-Soldier ne wi-su / ne wi-vo-fe'
+  groups:
+  - Ethics / Philosophy

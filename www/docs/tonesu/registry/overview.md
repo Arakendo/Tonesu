@@ -4,7 +4,7 @@ title: Word Registry
 
 # Word Registry
 
-173 derived compounds, sorted alphabetically.
+179 derived compounds, sorted alphabetically.
 
 See also: [English index](english.md) · [By domain](by-domain.md) · [By root](by-root.md) · [Building words](../words.md)
 
@@ -146,19 +146,25 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `to-to-ne-su` · totonesu | [W169](words/W169.md) | ✅ | knowledge of truth; knowledge of Tonesu; the language in use |
 | `vo-mu` · vomu | [W137](words/W137.md) | ⚠️ | garment, clothing, value-artifact worn on body |
 | `vo-ne` · vone | [W118](words/W118.md) | ✅ | righteousness, right relational standing |
+| `wi-de` · wide | [W191](words/W191.md) | ✅ | evil; will toward harm/decrease; maleficent moral disposition <br><small>[S616](../../../totonesu/corpus/batches/dnd#S616) · [S617](../../../totonesu/corpus/batches/dnd#S617) · [S618](../../../totonesu/corpus/batches/dnd#S618)</small> |
 | `wi-de-li` · wideli | [W124](words/W124.md) | ✅ | adversary, enemy, opposing-will person <br><small>[S366](../../../totonesu/corpus/batches/fal#S366)</small> |
 | `wi-du` · widu | [W175](words/W175.md) | ✅ | victory, achievement (will-result) <br><small>[S597](../../../totonesu/corpus/batches/stw#S597)</small> |
 | `wi-fa-ki` · wifaki | [W183](words/W183.md) | ✅ | enchantment; willed-affect-shift; magic of intentionally altering affect and will <br><small>[S603](../../../totonesu/corpus/batches/dnd#S603)</small> |
 | `wi-fe` · wife | [W100](words/W100.md) | ✅ | rule, prohibition, policy-imposed limit <br><small>[S364](../../../totonesu/corpus/batches/fal#S364) · [S365](../../../totonesu/corpus/batches/_foundations#S365) · [S375](../../../totonesu/corpus/batches/fal#S375) · [S376](../../../totonesu/corpus/batches/fal#S376) · [S379](../../../totonesu/corpus/batches/fal#S379) · [S381](../../../totonesu/corpus/batches/fal#S381) · [S579](../../../totonesu/corpus/batches/dip#S579) · [S580](../../../totonesu/corpus/batches/dip#S580) · [S581](../../../totonesu/corpus/batches/dip#S581) · [S582](../../../totonesu/corpus/batches/dip#S582) · [S583](../../../totonesu/corpus/batches/dip#S583) · [S584](../../../totonesu/corpus/batches/dip#S584) · [S585](../../../totonesu/corpus/batches/dip#S585) · [S587](../../../totonesu/corpus/batches/dip#S587)</small> |
 | `wi-ka-su` · wikasu | [W054](words/W054.md) | ✅ | ritual, structured intentional practice <br><small>[S073](../../../totonesu/corpus/batches/t-mys#S073)</small> |
 | `wi-no-ra` · winora | [W132](words/W132.md) | ✅ | meekness, will-without-force |
+| `wi-no-su` · winosu | [W189](words/W189.md) | ✅ | chaotic; will unbound by structure; spontaneous / freedom-first moral disposition <br><small>[S612](../../../totonesu/corpus/batches/dnd#S612) · [S615](../../../totonesu/corpus/batches/dnd#S615) · [S618](../../../totonesu/corpus/batches/dnd#S618)</small> |
 | `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) <br><small>[S596](../../../totonesu/corpus/batches/stw#S596) · [S599](../../../totonesu/corpus/batches/dnd#S599)</small> |
 | `wi-ra-su` · wirasu | [W179](words/W179.md) | ✅ | magic; the systematic, disciplined practice of directed force <br><small>[S599](../../../totonesu/corpus/batches/dnd#S599) · [S600](../../../totonesu/corpus/batches/dnd#S600) · [S601](../../../totonesu/corpus/batches/dnd#S601) · [S602](../../../totonesu/corpus/batches/dnd#S602) · [S603](../../../totonesu/corpus/batches/dnd#S603) · [S604](../../../totonesu/corpus/batches/dnd#S604) · [S605](../../../totonesu/corpus/batches/dnd#S605) · [S606](../../../totonesu/corpus/batches/dnd#S606) · [S607](../../../totonesu/corpus/batches/dnd#S607)</small> |
 | `wi-re` · wire | [W099](words/W099.md) | ✅ | feedback loop, iterative goal-cycle <br><small>[S179](../../../totonesu/corpus/batches/opx#S179)</small> |
 | `wi-re-su` · wiresu | [W074](words/W074.md) | ✅ | operational protocol, standing procedure <br><small>[S088](../../../totonesu/corpus/batches/t-wit#S088) · [S166](../../../totonesu/corpus/batches/p-gp#S166)</small> |
 | `wi-si` · wisi | [W063](words/W063.md) | ✅ | prayer, will-signal |
+| `wi-su` · wisu | [W188](words/W188.md) | ✅ | lawful; will organized by structure; rule-following moral disposition <br><small>[S609](../../../totonesu/corpus/batches/dnd#S609) · [S610](../../../totonesu/corpus/batches/dnd#S610) · [S613](../../../totonesu/corpus/batches/dnd#S613) · [S616](../../../totonesu/corpus/batches/dnd#S616)</small> |
+| `wi-su-fe` · wisufe | [W192](words/W192.md) | ✅ | law-neutral; will at the structural limit; neither rule-imposing nor rule-rejecting <br><small>[S611](../../../totonesu/corpus/batches/dnd#S611) · [S614](../../../totonesu/corpus/batches/dnd#S614) · [S617](../../../totonesu/corpus/batches/dnd#S617)</small> |
 | `wi-to` · wito | [W045](words/W045.md) | ✅ | plan (single-instance purposive artifact) <br><small>[S062](../../../totonesu/corpus/batches/t-prm#S062) · [S086](../../../totonesu/corpus/batches/t-wit#S086) · [S087](../../../totonesu/corpus/batches/t-wit#S087) · [S090](../../../totonesu/corpus/batches/t-wit#S090) · [S091](../../../totonesu/corpus/batches/t-wit#S091)</small> |
 | `wi-to-su` · witosu | [W073](words/W073.md) | ✅ | design specification, formal plan <br><small>[S092](../../../totonesu/corpus/batches/t-wit#S092)</small> |
+| `wi-vo` · wivo | [W190](words/W190.md) | ✅ | good; will toward value/benefit; beneficent moral disposition <br><small>[S452](../../../totonesu/corpus/batches/rom#S452) · [S471](../../../totonesu/corpus/batches/emd#S471) · [S514](../../../totonesu/corpus/batches/emd#S514) · [S521](../../../totonesu/corpus/batches/emd#S521) · [S609](../../../totonesu/corpus/batches/dnd#S609) · [S610](../../../totonesu/corpus/batches/dnd#S610) · [S611](../../../totonesu/corpus/batches/dnd#S611) · [S612](../../../totonesu/corpus/batches/dnd#S612)</small> |
+| `wi-vo-fe` · wivofe | [W193](words/W193.md) | ✅ | ethics-neutral; will at the value limit; neither primarily beneficent nor harmful <br><small>[S613](../../../totonesu/corpus/batches/dnd#S613) · [S614](../../../totonesu/corpus/batches/dnd#S614) · [S615](../../../totonesu/corpus/batches/dnd#S615)</small> |
 | `wi-zo` · wizo | [W145](words/W145.md) | ⏳ | wild animal, autonomous organism <br><small>[S372](../../../totonesu/corpus/batches/fal#S372)</small> |
 | `zi-ka` · zika | [W105](words/W105.md) | ⏳ | transaction, intentional exchange event <br><small>[S202](../../../totonesu/corpus/batches/knm#S202) · [S218](../../../totonesu/corpus/batches/odl#S218) · [S263](../../../totonesu/corpus/batches/knm#S263)</small> |
 | `zi-ra` · zira | [W104](words/W104.md) | ⏳ | physical interaction, mutual energy transfer |

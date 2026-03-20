@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 87 |
+| [w101-plus.md](w101-plus.md) | W101+ | 93 |
 
-**Total: 175 W-series entries** — active: 131 · proposed: 3 · pending: 39 · cold: 0 · retired: 2
+**Total: 181 W-series entries** — active: 137 · proposed: 3 · pending: 39 · cold: 0 · retired: 2
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -166,19 +166,25 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `to-to-ne-su` | W169 | knowledge of truth; knowledge of Tonesu; the language in use | ✅ | [w101-plus](w101-plus.md) |
 | `vo-mu` | W137 | garment, clothing, value-artifact worn on body | ⚠️ | [w101-plus](w101-plus.md) |
 | `vo-ne` | W118 | righteousness, right relational standing | ✅ | [w101-plus](w101-plus.md) |
+| `wi-de` | W191 | evil; will toward harm/decrease; maleficent moral disposition | ✅ | [w101-plus](w101-plus.md) |
 | `wi-de-li` | W124 | adversary, enemy, opposing-will person | ✅ | [w101-plus](w101-plus.md) |
 | `wi-du` | W175 | victory, achievement (will-result) | ✅ | [w101-plus](w101-plus.md) |
 | `wi-fa-ki` | W183 | enchantment; willed-affect-shift; magic of intentionally altering affect and will | ✅ | [w101-plus](w101-plus.md) |
 | `wi-fe` | W100 | rule, prohibition, policy-imposed limit | ✅ | [w051-w100](w051-w100.md) |
 | `wi-ka-su` | W054 | ritual, structured intentional practice | ✅ | [w051-w100](w051-w100.md) |
 | `wi-no-ra` | W132 | meekness, will-without-force | ✅ | [w101-plus](w101-plus.md) |
+| `wi-no-su` | W189 | chaotic; will unbound by structure; spontaneous / freedom-first moral disposition | ✅ | [w101-plus](w101-plus.md) |
 | `wi-ra` | W177 | directed power, authority (will-force) | ✅ | [w101-plus](w101-plus.md) |
 | `wi-ra-su` | W179 | magic; the systematic, disciplined practice of directed force | ✅ | [w101-plus](w101-plus.md) |
 | `wi-re` | W099 | feedback loop, iterative goal-cycle | ✅ | [w051-w100](w051-w100.md) |
 | `wi-re-su` | W074 | operational protocol, standing procedure | ✅ | [w051-w100](w051-w100.md) |
 | `wi-si` | W063 | prayer, will-signal | ✅ | [w051-w100](w051-w100.md) |
+| `wi-su` | W188 | lawful; will organized by structure; rule-following moral disposition | ✅ | [w101-plus](w101-plus.md) |
+| `wi-su-fe` | W192 | law-neutral; will at the structural limit; neither rule-imposing nor rule-rejecting | ✅ | [w101-plus](w101-plus.md) |
 | `wi-to` | W045 | plan (single-instance purposive artifact) | ✅ | [w001-w050](w001-w050.md) |
 | `wi-to-su` | W073 | design specification, formal plan | ✅ | [w051-w100](w051-w100.md) |
+| `wi-vo` | W190 | good; will toward value/benefit; beneficent moral disposition | ✅ | [w101-plus](w101-plus.md) |
+| `wi-vo-fe` | W193 | ethics-neutral; will at the value limit; neither primarily beneficent nor harmful | ✅ | [w101-plus](w101-plus.md) |
 | `wi-zo` | W145 | wild animal, autonomous organism | ⏳ | [w101-plus](w101-plus.md) |
 | `zi-ka` | W105 | transaction, intentional exchange event | ⏳ | [w101-plus](w101-plus.md) |
 | `zi-ra` | W104 | physical interaction, mutual energy transfer | ⏳ | [w101-plus](w101-plus.md) |
@@ -254,6 +260,9 @@ Concept-first lookup: find the compound you need by domain.
 **Academic / Formal Knowledge**
 `de-zo-ki` W186 necromancy · `ge-ki` W187 transmutation · `ge-se-ki` W185 illusion · `ko-fe-ki` W180 abjuration · `pa-be-ki` W181 conjuration · `ra-be-ki` W184 evocation · `to-se-ki` W182 divination · `wi-fa-ki` W183 enchantment · `wi-ra-su` W179 magic
 
+**Ethics / Philosophy**
+`wi-de` W191 evil · `wi-no-su` W189 chaotic · `wi-su` W188 lawful · `wi-su-fe` W192 law-neutral · `wi-vo` W190 good · `wi-vo-fe` W193 ethics-neutral
+
 **Meta / Language**
 `to'to-ne-su` W170 meta-truth · `to-to-ne-su` W169 knowledge of truth
 
@@ -265,7 +274,7 @@ Quick lookup by lead primitive root.
 
 | Lead root | Key entries (W#) |
 |-----------|-----------------|
-| `?` | wi-ra-su W179, ko-fe-ki W180, pa-be-ki W181, to-se-ki W182, wi-fa-ki W183, ra-be-ki W184, ge-se-ki W185, de-zo-ki W186, ge-ki W187 |
+| `?` | wi-ra-su W179, ko-fe-ki W180, pa-be-ki W181, to-se-ki W182, wi-fa-ki W183, ra-be-ki W184, ge-se-ki W185, de-zo-ki W186, ge-ki W187, wi-su W188, wi-no-su W189, wi-vo W190, wi-de W191, wi-su-fe W192, wi-vo-fe W193 |
 | `be` | be-go-li-si W149 |
 | `de` | de-be W035, de-su W119, de-vo W121, de-ki'ma W162, de-zo W178 |
 | `di` | di-ki-li W061 |

@@ -4,7 +4,7 @@ title: "D&D — The Eight Schools of Magic"
 
 # D&D — The Eight Schools of Magic
 
-*Theme: [Foundations](../../foundations/overview/)* · 10 sentences.
+*Theme: [Foundations](../../foundations/overview/)* · 20 sentences.
 
 [← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
 
@@ -108,6 +108,113 @@ title: "D&D — The Eight Schools of Magic"
 | S606 (DND-001-H) | `dezoki ne wirasu lodezo` | Necromancy | Death-threshold organism-change; builds on de-zo (W178); W186 |
 | S607 (DND-001-I) | `geki ne wirasu loge` | Transmutation | 2-root; most direct; pure property-change; W187 |
 | S608 (DND-001-J) | `larabeki be lora / lageseki be logese` | Contrast | Force vs appearance; ontological distinction via parallel `/` |
+
+## DND-002 · D&D — The Nine Alignments
+
+**Purpose:** translation of the D&D 3×3 alignment grid. Tests two-axis moral characterization via the bi-clausal parallel `/`, the adequacy of `wi-` as the character-disposition root, the "neutral is not negation" design problem, and retroactive alignment mapping of STW characters. Full analysis in `corpus/translations/Literature/dnd-alignments.md`.
+
+<span id="S609"></span>
+**S609**
+`wi-li  ne  wi-su  /  wi-li  ne  wi-vo`
+*A person's will has a structure-dimension and a value-dimension.*
+
+!!! annotation "Notes"
+    Framing sentence. `wi-li` = will-of-a-person = an agent's dispositional character. The `/` parallel expresses simultaneous co-predication on two independent axes: will is characterized by its law-position (`ne wi-su`) AND by its ethics-position (`ne wi-vo`). The framing uses the LG combination (wi-su + wi-vo) as the paradigm case. Key structural finding: `/` here is NOT contrastive (as in S608) but co-attributive — both properties apply to the same subject simultaneously and independently.
+
+<span id="S610"></span>
+**S610**
+`la-na-Paladin  ne  wi-su  /  ne  wi-vo`
+*The Paladin's will is organized by structure and oriented toward value.*
+
+!!! annotation "Notes"
+    W188 + W190. Maximum on both axes. The Paladin keeps oaths (`wi-su`), protects the innocent (`wi-vo`). The most constrained and most demanding alignment: structure compels the good.
+
+<span id="S611"></span>
+**S611**
+`la-na-Cleric  ne  wi-su-fe  /  ne  wi-vo`
+*The Cleric's will operates at the structural limit and is oriented toward value.*
+
+!!! annotation "Notes"
+    W192 + W190. First attestation of `wi-su-fe` (W192). The Cleric pursues maximum good (`wi-vo`) without being bound by rigid structure (`wi-su-fe` = at the structural limit, not the extreme). Neutral Good is sometimes called "the purest good" — good without the constraint of law.
+
+<span id="S612"></span>
+**S612**
+`la-na-Ranger  ne  wi-no-su  /  ne  wi-vo`
+*The Ranger's will rejects structural constraint yet is fully oriented toward value.*
+
+!!! annotation "Notes"
+    W189 + W190. First attestation of `wi-no-su` (W189). Structural freedom in service of genuine benefit. The Ranger operates outside institutional law, serves a good purpose. `wi-no-su` is NOT simply evil — a CG character has maximum `wi-vo` combined with maximum structural freedom.
+
+<span id="S613"></span>
+**S613**
+`la-na-Soldier  ne  wi-su  /  ne  wi-vo-fe`
+*The Soldier's will is organized by structure but takes no strong value-position.*
+
+!!! annotation "Notes"
+    W188 + W193. First attestation of `wi-vo-fe` (W193). The Soldier follows orders (`wi-su`) without strong moral investment in outcomes (`wi-vo-fe` = at the ethics-limit). Uses structure as the organizing principle, not benefit or harm. The philosophically fraught alignment: duty above ethics.
+
+<span id="S614"></span>
+**S614**
+`la-na-Druid  ne  wi-su-fe  /  ne  wi-vo-fe`
+*The Druid's will operates at both the structural and the value limit.*
+
+!!! annotation "Notes"
+    W192 + W193. The only alignment using BOTH neutral terms. Structural symmetry: both sides of `/` have the same form (`ne wi-X-fe`). This mirrors TN's position at the center of the grid. The Druid actively maintains balance: `wi-su-fe` and `wi-vo-fe` are threshold positions, not absences of will.
+
+<span id="S615"></span>
+**S615**
+`la-na-Rogue  ne  wi-no-su  /  ne  wi-vo-fe`
+*The Rogue's will rejects structure but takes no strong value-position.*
+
+!!! annotation "Notes"
+    W189 + W193. Maximum structural freedom, indifferent ethics. The Rogue pursues personal interest without concern for order or virtue. CN is associated with maximum unpredictability: `wi-no-su` (no structural constraint) + `wi-vo-fe` (no stable ethical orientation).
+
+<span id="S616"></span>
+**S616**
+`la-na-Tyrant  ne  wi-su  /  ne  wi-de`
+*The Tyrant's will is organized by structure and directed toward harm.*
+
+!!! annotation "Notes"
+    W188 + W191. **First standalone attestation of `wi-de` (W191).** Confirms the compound hierarchy: `wi-de` (evil quality) was previously only a component of `wi-de-li` (W124, adversary/enemy); S616 first attests it as a freestanding predicate. LE is the most dangerous alignment: structure (`wi-su`) organized in service of harm (`wi-de`). The Tyrant builds hierarchies FOR exploitation. More terrifying than CE because systematic.
+
+<span id="S617"></span>
+**S617**
+`la-na-Villain  ne  wi-su-fe  /  ne  wi-de`
+*The Villain's will takes no strong position on structure, yet is directed toward harm.*
+
+!!! annotation "Notes"
+    W192 + W191. Structure is purely instrumental for the Villain — uses order when useful, chaos when not. The ethics axis is maximally negative: harm-directed will regardless of structural context. NE considered the "most purely evil" alignment by some: unpredictable means + consistent harm orientation.
+
+<span id="S618"></span>
+**S618**
+`la-na-Demon  ne  wi-no-su  /  ne  wi-de`
+*The Demon's will rejects all structure and is directed toward harm.*
+
+!!! annotation "Notes"
+    W189 + W191. Maximum on both extremes. CE is the alignment of destruction for its own sake. The bi-axial sentence makes explicit: the chaos and the evil are independent — the Demon is not "evil because chaotic" but chaotic (`wi-no-su`) AND evil (`wi-de`) as two separate properties. A CE entity is not simply "the most evil" — it is evil AND unstructured, making it unreliable even from its own perspective.
+
+### Batch Summary
+
+| Entry | Written form | Alignment | Findings |
+|-------|-------------|-----------|---------|
+| S609 (DND-002-A) | `wili ne wisu / wili ne wivo` | Frame | `/` as co-predication not contrast; W188 + W190 |
+| S610 (DND-002-B) | `lanaPaladin ne wisu / ne wivo` | LG | Paradigm case |
+| S611 (DND-002-C) | `lanaCleric ne wisufe / ne wivo` | NG | W192 first att. |
+| S612 (DND-002-D) | `lanaRanger ne winosu / ne wivo` | CG | W189 first att.; wi-no-su ≠ evil |
+| S613 (DND-002-E) | `lanaSoldier ne wisu / ne wivofe` | LN | W193 first att.; structure above ethics |
+| S614 (DND-002-F) | `lanaDruid ne wisufe / ne wivofe` | TN | Unique double-neutral; symmetric sentence |
+| S615 (DND-002-G) | `lanaRogue ne winosu / ne wivofe` | CN | Structural freedom + value indifference |
+| S616 (DND-002-H) | `lanaTyrant ne wisu / ne wide` | LE | **wi-de W191 first standalone att.** |
+| S617 (DND-002-I) | `lanaVillain ne wisufe / ne wide` | NE | Instrumental structure + harm |
+| S618 (DND-002-J) | `lanaDemon ne winosu / ne wide` | CE | Maximum on both extremes; chaos and evil independent |
+
+**Cross-batch alignment mapping (Jedi/Sith):**
+
+| Entity | Law | Ethics | Alignment |
+|--------|-----|--------|-----------|
+| Jedi (STW-001) | `wi-su` | `wi-vo` | Lawful Good |
+| Sith (STW-002) | `wi-su` | `wi-de` | Lawful Evil |
+| `ara` (the Force) | `wi-su-fe` | `wi-vo-fe` | True Neutral |
 
 ---
 

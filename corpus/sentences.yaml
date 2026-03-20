@@ -7076,8 +7076,10 @@ sentences:
   tonesu: la-mi wi-vo / no la-mi ka-ze
   gloss_line: null
   natural: Romans 7:19a — "For I do not do the good I want to do.
-  words_attested: []
-  first_attests: []
+  words_attested:
+  - W190
+  first_attests:
+  - W190
   gap_refs: []
   source_file: sentences/v4-current/s398-plus.md
   source_anchor: S452
@@ -7355,7 +7357,8 @@ sentences:
   gloss_line: null
   natural: 'Stanza 1, lines 1-2: "Because I could not stop for Death — / He kindly
     stopped for me —'
-  words_attested: []
+  words_attested:
+  - W190
   first_attests: []
   gap_refs:
   - GAP-EMD-001
@@ -7980,7 +7983,8 @@ sentences:
   tonesu: ta go {no la-mi de-ki lo-de-zo-li} — la-de-zo-li wi-vo de-ki lu-mi —
   gloss_line: null
   natural: Dickinson stanza 1, lines 1-2, with `—` restored
-  words_attested: []
+  words_attested:
+  - W190
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-plus.md
@@ -8087,7 +8091,8 @@ sentences:
   tonesu: la-de-zo-li — wi-vo de-ki lu-mi
   gloss_line: null
   natural: Post-agent NP suspension (subject announced, predicate held)
-  words_attested: []
+  words_attested:
+  - W190
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-plus.md
@@ -9412,4 +9417,173 @@ sentences:
   gap_refs: []
   source_file: sentences/v4-current/s398-plus.md
   source_anchor: S608
+  notes: null
+- snum: S609
+  gloss: 'DND-002 framing: will has two independent axes — structure and value.'
+  batch: DND-002
+  batch_sub: A
+  status: normative
+  tonesu: wi-li  ne  wi-su  /  wi-li  ne  wi-vo
+  gloss_line: null
+  natural: A person's will has a structure-dimension and a value-dimension.
+  words_attested:
+  - W188
+  - W190
+  first_attests:
+  - W188
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S609
+  notes: null
+- snum: S610
+  gloss: 'DND-002 Lawful Good: Paladin — structured will, value-oriented will.'
+  batch: DND-002
+  batch_sub: B
+  status: normative
+  tonesu: la-na-Paladin  ne  wi-su  /  ne  wi-vo
+  gloss_line: null
+  natural: The Paladin's will is organized by structure and oriented toward value.
+  words_attested:
+  - W188
+  - W190
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S610
+  notes: null
+- snum: S611
+  gloss: 'DND-002 Neutral Good: Cleric — law-neutral will, value-oriented will.'
+  batch: DND-002
+  batch_sub: C
+  status: normative
+  tonesu: la-na-Cleric  ne  wi-su-fe  /  ne  wi-vo
+  gloss_line: null
+  natural: The Cleric's will operates at the structural limit and is oriented toward
+    value.
+  words_attested:
+  - W190
+  - W192
+  first_attests:
+  - W192
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S611
+  notes: null
+- snum: S612
+  gloss: 'DND-002 Chaotic Good: Ranger — chaotic will, value-oriented will.'
+  batch: DND-002
+  batch_sub: D
+  status: normative
+  tonesu: la-na-Ranger  ne  wi-no-su  /  ne  wi-vo
+  gloss_line: null
+  natural: The Ranger's will rejects structural constraint yet is fully oriented toward
+    value.
+  words_attested:
+  - W189
+  - W190
+  first_attests:
+  - W189
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S612
+  notes: null
+- snum: S613
+  gloss: 'DND-002 Lawful Neutral: Soldier — structured will, ethics-neutral will.'
+  batch: DND-002
+  batch_sub: E
+  status: normative
+  tonesu: la-na-Soldier  ne  wi-su  /  ne  wi-vo-fe
+  gloss_line: null
+  natural: The Soldier's will is organized by structure but takes no strong value-position.
+  words_attested:
+  - W188
+  - W193
+  first_attests:
+  - W193
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S613
+  notes: null
+- snum: S614
+  gloss: 'DND-002 True Neutral: Druid — law-neutral will, ethics-neutral will.'
+  batch: DND-002
+  batch_sub: F
+  status: normative
+  tonesu: la-na-Druid  ne  wi-su-fe  /  ne  wi-vo-fe
+  gloss_line: null
+  natural: The Druid's will operates at both the structural and the value limit.
+  words_attested:
+  - W192
+  - W193
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S614
+  notes: null
+- snum: S615
+  gloss: 'DND-002 Chaotic Neutral: Rogue — chaotic will, ethics-neutral will.'
+  batch: DND-002
+  batch_sub: G
+  status: normative
+  tonesu: la-na-Rogue  ne  wi-no-su  /  ne  wi-vo-fe
+  gloss_line: null
+  natural: The Rogue's will rejects structure but takes no strong value-position.
+  words_attested:
+  - W189
+  - W193
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S615
+  notes: null
+- snum: S616
+  gloss: 'DND-002 Lawful Evil: Tyrant — structured will, harm-directed will. First
+    standalone attestation of wi-de.'
+  batch: DND-002
+  batch_sub: H
+  status: normative
+  tonesu: la-na-Tyrant  ne  wi-su  /  ne  wi-de
+  gloss_line: null
+  natural: The Tyrant's will is organized by structure and directed toward harm.
+  words_attested:
+  - W188
+  - W191
+  first_attests:
+  - W191
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S616
+  notes: null
+- snum: S617
+  gloss: 'DND-002 Neutral Evil: Villain — law-neutral will, harm-directed will.'
+  batch: DND-002
+  batch_sub: I
+  status: normative
+  tonesu: la-na-Villain  ne  wi-su-fe  /  ne  wi-de
+  gloss_line: null
+  natural: The Villain's will takes no strong position on structure, yet is directed
+    toward harm.
+  words_attested:
+  - W191
+  - W192
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S617
+  notes: null
+- snum: S618
+  gloss: 'DND-002 Chaotic Evil: Demon — chaotic will, harm-directed will.'
+  batch: DND-002
+  batch_sub: J
+  status: normative
+  tonesu: la-na-Demon  ne  wi-no-su  /  ne  wi-de
+  gloss_line: null
+  natural: The Demon's will rejects all structure and is directed toward harm.
+  words_attested:
+  - W189
+  - W191
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S618
   notes: null
