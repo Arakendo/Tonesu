@@ -2467,6 +2467,122 @@
         "de",
         "zo"
       ]
+    },
+    {
+      "wnum": "W179",
+      "form": "wi-ra-su",
+      "written": "wirasu",
+      "gloss": "magic; the systematic, disciplined practice of directed force",
+      "status": "active",
+      "domain": "Academic / Formal Knowledge",
+      "roots": [
+        "wi",
+        "ra",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W180",
+      "form": "ko-fe-ki",
+      "written": "kofeki",
+      "gloss": "abjuration; containment-limit-change; magic of maintaining protective barriers",
+      "status": "active",
+      "domain": "Academic / Formal Knowledge",
+      "roots": [
+        "ko",
+        "fe",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W181",
+      "form": "pa-be-ki",
+      "written": "pabeki",
+      "gloss": "conjuration; spatial-emergence-change; magic of making things emerge into new places",
+      "status": "active",
+      "domain": "Academic / Formal Knowledge",
+      "roots": [
+        "pa",
+        "be",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W182",
+      "form": "to-se-ki",
+      "written": "toseki",
+      "gloss": "divination; pattern-perception-change; magic of transforming perception to access hidden knowledge",
+      "status": "active",
+      "domain": "Academic / Formal Knowledge",
+      "roots": [
+        "to",
+        "se",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W183",
+      "form": "wi-fa-ki",
+      "written": "wifaki",
+      "gloss": "enchantment; willed-affect-shift; magic of intentionally altering affect and will",
+      "status": "active",
+      "domain": "Academic / Formal Knowledge",
+      "roots": [
+        "wi",
+        "fa",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W184",
+      "form": "ra-be-ki",
+      "written": "rabeki",
+      "gloss": "evocation; force-manifestation-change; magic of channeling and releasing raw force",
+      "status": "active",
+      "domain": "Academic / Formal Knowledge",
+      "roots": [
+        "ra",
+        "be",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W185",
+      "form": "ge-se-ki",
+      "written": "geseki",
+      "gloss": "illusion; quality-perception-change; magic of crafting apparent properties",
+      "status": "active",
+      "domain": "Academic / Formal Knowledge",
+      "roots": [
+        "ge",
+        "se",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W186",
+      "form": "de-zo-ki",
+      "written": "dezoki",
+      "gloss": "necromancy; death-organism-change; magic of transformation through and across death",
+      "status": "active",
+      "domain": "Academic / Formal Knowledge",
+      "roots": [
+        "de",
+        "zo",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W187",
+      "form": "ge-ki",
+      "written": "geki",
+      "gloss": "transmutation; quality-change; fundamental alteration of properties",
+      "status": "active",
+      "domain": "Academic / Formal Knowledge",
+      "roots": [
+        "ge",
+        "ki"
+      ]
     }
   ]
 }
