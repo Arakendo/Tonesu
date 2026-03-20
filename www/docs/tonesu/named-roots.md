@@ -242,49 +242,43 @@ Constants that are irrational, transcendental, or defined by convention receive 
 
 ### Mathematical Constants
 
-| Constant | Form | Value | Sound |
-|----------|------|-------|-------|
-| π | `pelf` | 3.141592… | *pehlf* |
-| e | `emel` | 2.71828… | *eh-mehl* |
-| φ (golden ratio) | `frim` | 1.618… | *frihm* |
+| Constant | Form | Value |
+|----------|------|-------|
+| π | `varn` | 3.14159… |
+| τ (2π) | `worn` | 6.28318… |
+| e (Euler) | `werm` | 2.71828… |
+| φ (golden ratio) | `vins` | 1.61803… |
+| √2 | `valm` | 1.41421… |
+| i (imaginary unit) | `walf` | √(−1) |
 
-**Usage in expressions:**
+### Physical Constants
 
-```
-pelf nu pa            → π meters (quantity of space: pi units)
-emel fu                → base of e: 10^e
-```
-
-### Physical Constants (in SI units)
-
-| Constant | Form | Approx Value | Sound |
-|----------|------|--------------|-------|
-| speed of light (c) | `cerl` | 3×10⁸ m/s | *serl* |
-| Planck constant (ℏ) | `hels` | 1.055×10⁻³⁴ J·s | *helps* |
-| Gravitational constant (G) | `geol` | 6.674×10⁻¹¹ m³/kg·s² | *geh-ohl* |
-
-**Usage:**
-
-```
-cerl nu pa ti           → distance light travels in 1 second
-hels nu ra ti           → Planck constant: energy-time anchor
-```
+| Constant | Form | Approx Value |
+|----------|------|----------|
+| speed of light (c) | `vern` | 2.998×10⁸ m/s |
+| reduced Planck (ħ) | `birm` | 1.055×10⁻³⁴ J·s |
+| gravitational (G) | `velf` | 6.674×10⁻¹¹ N·m²/kg² |
+| Boltzmann (k_B) | `holm` | 1.381×10⁻²³ J/K |
+| elementary charge | `vils` | 1.602×10⁻¹⁹ C |
+| fine structure (α) | `yolm` | ≈ 1/137 |
 
 ### Convention-Defined Units
 
-| Unit | Form | Value | Rationale | Sound |
-|------|------|-------|-----------|-------|
-| Mole | `wels` | 6.022×10²³ | counted by convention, not composition | *wels* |
-| AU (astronomical unit) | `holf` | 1.496×10¹¹ m | IAU-defined; no compositional expression | *holf* |
-| Parsec | `yarm` | 3.086×10¹⁶ m | parallax-arcsecond; convention-defined | *yarm* |
+| Unit | Form | Value | Notes |
+|------|------|-------|-------|
+| Mole (N_A) | `wels` | 6.022×10²³ | Avogadro counting unit |
+| AU | `holf` | 1.496×10¹¹ m | IAU-defined Earth–Sun distance |
+| Parsec | `yarm` | 3.086×10¹⁶ m | Parallax-arcsecond; convention-defined |
+| Julian year | `hulm` | 31,557,600 s | Earth orbital period anchor |
+| Ampere | `telf` | see notes | SI current unit; defined by `vils`-count-rate |
 
 **Usage:**
 
 ```
+varn nu pa              → π meters
 bol hin nu holf         → 150 AU (inner Oort cloud edge)
 bun nu yarm             → 2 parsecs (stellar neighborhood)
 pir nu yarm             → 1 kiloparsec (galactic structure)
-wul nu yarm             → 1 gigaparsec (cosmological survey depth)
 ```
 
 ### Light-Year (Compositional)
@@ -297,6 +291,8 @@ lu-ki ti-re nu pa       → distance light travels in one time-cycle
 gal bun nu lu-ki ti-re nu pa
                         → 3.2 light-years (using compositional form)
 ```
+
+For the full CVCC inventory with rationale and phonological constraints, see [Exceptional Anchors](anchors.md).
 
 ---
 

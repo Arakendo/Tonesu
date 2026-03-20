@@ -62,6 +62,7 @@ nav:
       - Scope prefixes: tonesu/scope.md
       - Primitives: tonesu/primitives.md
       - Named roots: tonesu/named-roots.md
+      - Exceptional anchors: tonesu/anchors.md
       - Domains: tonesu/domains.md
     - Vocabulary:
       - Tonesu Registry: tonesu/registry/overview.md
