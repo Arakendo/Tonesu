@@ -341,7 +341,7 @@ With DND-003, the D&D/Star Wars batch series now spans:
 | Baator (Nine Hells) | `wi-su` | `wi-de` | DND-003 |
 | Outlands | `wi-su-fe` | `wi-vo-fe` | DND-003 |
 | True Neutral druid | `wi-su-fe` | `wi-vo-fe` | DND-002 |
-| Cleric (CG alignment) | `wi-no-su` | `wi-vo` | DND-002 |
+| Cleric (NG alignment) | `wi-su-fe` | `wi-vo` | DND-002 |
 | Demon (CE alignment) | `wi-no-su` | `wi-de` | DND-002 |
 | Jedi Order | `wi-su` | `wi-vo` | STW-001 |
 | Sith Order | `wi-su` | `wi-de` | STW-002 |
