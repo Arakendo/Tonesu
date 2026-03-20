@@ -225,20 +225,20 @@ html .md-typeset__table table {
   display: none;
 }
 
-/* Force label-only sections to stay expanded (desktop sidebar) */
-.md-nav__item--nested > label.md-nav__link ~ .md-nav {
+/* Force section nav items to stay expanded — all viewports.
+   Material's toggle is input.md-nav__toggle (checkbox); label and nav are its
+   subsequent siblings. Target the nav via the input sibling relation. */
+.md-nav__item--section > input.md-nav__toggle ~ .md-nav,
+.md-nav__item--section > label.md-nav__link ~ .md-nav {
   display: block !important;
   max-height: none !important;
   overflow: visible !important;
+  visibility: visible !important;
 }
 
-/* Mobile drawer (primary nav, below 1220px): force all nested sections open */
-@media screen and (max-width: 76.1875em) {
-  .md-nav--primary .md-nav__item--nested > .md-nav {
-    display: block !important;
-    max-height: none !important;
-    overflow: visible !important;
-  }
+/* Also suppress the expand/collapse arrow on section-level labels */
+.md-nav__item--section > label.md-nav__link > .md-nav__icon {
+  display: none !important;
 }
 
 /* The top-of-sidebar section title (back-link) uses .md-nav__title, not
