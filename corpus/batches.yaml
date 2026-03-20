@@ -899,3 +899,8 @@ batches:
   theme: Translation
   range: S629–S638
   count: 10
+- code: CDA-001
+  title: Communications Decency Act — Section 230(c)(1)
+  theme: Translation / Stress Test
+  range: S639–S644
+  count: 6

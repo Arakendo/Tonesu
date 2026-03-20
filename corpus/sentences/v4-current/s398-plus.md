@@ -4056,3 +4056,110 @@ vo-ne-no-fe  ne  go-ne  /  su-to  ne  tonesu
 | S636 (DOI-001-H) | `laozoli be kalisu kabe go to` | Institute new Government | `ka-be` = new; `go to` = grounded in reason |
 | S637 (DOI-001-I) | `lanaColonies ne pakisu / ne nonefe` | Free and Independent States | W198 + W075 parallel |
 | S638 (DOI-001-J) | `vonenofe ne gone / suto ne tonesu` | Synthesis — rights + divine structure | W159 + W199 + W000 cross-batch |
+
+---
+
+## CDA-001: Communications Decency Act — Section 230(c)(1)
+
+**Source text:** "No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider." — 47 U.S.C. §230(c)(1)
+
+**New vocabulary:** W200 (`su-ka-li`), W201 (`si-go-li`), W202 (`to-ki'ne-su`)
+
+---
+
+### S639 — CDA-001-A
+
+```
+la-su-ka-li  lo-to-ki'ne-su  ne  no-si-go-li  lo-to-si  go  zo-li
+```
+
+**Written:** `lasukali lotoki'nesu ne nosigoli lotosi go zoli`
+
+**Natural reading:** A service-provider of an online platform is not a content-originator of information-signals from persons.
+
+**Notes:** Direct rendering of §230(c)(1). Three roles introduced: `su-ka-li` (W200, service-provider = "provider"), `to-ki'ne-su` (W202, online platform = "interactive computer service"), `si-go-li` (W201, content-originator = "publisher or speaker"). `lo-to-si go zo-li` (information-signals from a person) encodes "provided by another information content provider" — deliberately open-scoped: who counts as "another" and where the boundary lies is the statute's unresolved problem (addressed in S642). First attestations: W200, W201, W202.
+
+---
+
+### S640 — CDA-001-B
+
+```
+la-to-ki'ne-su  ne  si-mu  lu-zo-li  /  ne  no-si-go-li
+```
+
+**Written:** `latoki'nesu ne simu luzoli / ne nosigoli`
+
+**Natural reading:** An online platform is a relay device for persons / is not a content-originator.
+
+**Notes:** `si-mu` (W039) = relay device, signal transceiver — precisely captures the platform's structural role: it transmits, not originates. `lu-zo-li` = for-the-benefit-of persons (beneficiary frame). The `/` parallel pairs the structural description (relay-device) with its legal consequence (not a content-originator). Immunity flows from this structural identity. S641 shows where this breaks.
+
+---
+
+### S641 — CDA-001-C
+
+```
+go  la-su-ka-li  ka-to-fe  lo-to-si,  du  la-su-ka-li  ne  si-go-li
+```
+
+**Written:** `go lasukali katofe lotosi, du lasukali ne sigoli`
+
+**Natural reading:** If a service-provider deliberately categorizes information, then the service-provider is a content-originator.
+
+**Notes:** The editorial-judgment exception. `go {premise}, du {result}` causal conditional. `ka-to-fe` (W122) = deliberate epistemic bounding = editorial judgment / curation. The moment a platform deliberately categorizes content — curating, filtering, labeling on the merits — it crosses into `si-go-li` territory. This is exactly the legal controversy 230 litigation has circled for decades: where does passive hosting end and active editorial selection begin? Tonesu states the threshold cleanly via `ka-to-fe`.
+
+---
+
+### S642 — CDA-001-D
+
+```
+la-wi-fe  no  to-su-ki  lo-to-fe  su-ka-li  ne  si-go-li
+```
+
+**Written:** `lawife no tosuki lotofe sukali ne sigoli`
+
+**Natural reading:** The rule has not comprehended the boundary between service-provider and content-originator.
+
+**Notes:** `to-su-ki` (W025) = comprehend, enter organized knowledge. `lo-to-fe su-ka-li ne si-go-li` = the epistemic-boundary of [the relation between] service-provider and content-originator. The statute uses "another information content provider" but does not define where one role ends and the other begins. In Tonesu, a rule that invokes a boundary (`to-fe`) it has not organized knowledge of (`no to-su-ki`) is structurally incomplete. The statute functions only because courts tolerate strategic vagueness; Tonesu does not.
+
+---
+
+### S643 — CDA-001-E
+
+```
+la-wi-fe  ne  no-su-to  /  ne  wi-fe'ka-to-fe
+```
+
+**Written:** `lawife ne nosuto / ne wife'katofe`
+
+**Natural reading:** The rule is not a self-evident proposition / it is a rule about deliberate categorization.
+
+**Notes:** `su-to` (W199) = self-evident proposition. §230(c)(1) does not assert that platforms ARE NOT publishers — it mandates that they MUST NOT BE TREATED AS publishers. "Shall be treated as" is `wi-fe'ka-to-fe` (rule-about-deliberate-categorization), not `su-to` (structural truth). The distinction matters: a `wi-fe'ka-to-fe` can be appealed, contested, amended; a `su-to` cannot. `wi-fe'ka-to-fe` = [wi-fe (W100) rule] juncture [ka-to-fe (W122) deliberate categorical judgment] = rule whose content is prescriptive categorization.
+
+---
+
+### S644 — CDA-001-F
+
+```
+la-wi-fe  ne  wi-fe'ka-to-fe  /  ke, la-wi-fe  no  to-su-ki  lo-to-fe  su-ka-li  ne  si-go-li
+```
+
+**Written:** `lawife ne wife'katofe / ke, lawife no tosuki lotofe sukali ne sigoli`
+
+**Natural reading:** The rule is a prescription about categorization / but the rule has not defined the boundary between service-provider and content-originator.
+
+**Notes:** Synthesis of CDA-001. `/  ke,` construction: first clause (from S643) establishes what §230 IS (a prescriptive categorization rule); `ke,` pivots to the unresolved problem (from S642: the boundary is undefined). Tonesu diagnosis: §230(c)(1) is structurally coherent as a legal instrument — it is a `wi-fe'ka-to-fe`, not a `su-to` — but incomplete because the boundary it relies on (service-provider vs content-originator) has not been given organized definition. The statute works by delegating the boundary question to judicial discretion, a structural move Tonesu would require to be made explicit.
+
+---
+
+## CDA-001 Batch Summary
+
+**Entries:** S639–S644 · **New vocabulary:** W200 (`su-ka-li`), W201 (`si-go-li`), W202 (`to-ki'ne-su`)
+
+| Entry | Written form | Source clause | Key vocabulary |
+|-------|-------------|---------------|----------------|
+| S639 (CDA-001-A) | `lasukali lotoki'nesu ne nosigoli lotosi go zoli` | Core immunity claim | W200 + W201 + W202 first att. |
+| S640 (CDA-001-B) | `latoki'nesu ne simu luzoli / ne nosigoli` | Platform as relay device | `si-mu` (W039) relay identity |
+| S641 (CDA-001-C) | `go lasukali katofe lotosi, du lasukali ne sigoli` | Editorial exception | `ka-to-fe` (W122) threshold |
+| S642 (CDA-001-D) | `lawife no tosuki lotofe sukali ne sigoli` | "Another" boundary gap | `to-su-ki` (W025) gap diagnosis |
+| S643 (CDA-001-E) | `lawife ne nosuto / ne wife'katofe` | "Shall be treated as" = normative | `su-to` (W199) vs `wi-fe'ka-to-fe` |
+| S644 (CDA-001-F) | `lawife ne wife'katofe / ke, lawife no tosuki lotofe sukali ne sigoli` | Structural verdict | Synthesis: S643 + S642 |

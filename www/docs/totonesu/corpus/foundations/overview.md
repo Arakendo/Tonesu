@@ -6,7 +6,7 @@ title: "Foundations"
 
 Core sentences from the earliest Tonesu attestations — basic agent-patient structures, property attribution, and foundational constructions.
 
-101 sentences.
+107 sentences.
 
 [← Corpus](../overview.md)
 
@@ -19,6 +19,7 @@ Core sentences from the earliest Tonesu attestations — basic agent-patient str
 | [Star Wars — The Jedi Code](../../batches/stw/) | 2 | 11 |
 | [D&D — The Eight Schools of Magic](../../batches/dnd/) | 3 | 30 |
 | [Declaration of Independence — Preamble](../../batches/doi/) | 1 | 10 |
+| [Communications Decency Act — Section 230(c)(1)](../../batches/cda/) | 1 | 6 |
 
 ---
 

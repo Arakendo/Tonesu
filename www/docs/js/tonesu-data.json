@@ -2722,6 +2722,46 @@
       ]
     },
     {
+      "wnum": "W200",
+      "form": "su-ka-li",
+      "written": "sukali",
+      "gloss": "service provider; platform operator",
+      "status": "active",
+      "domain": "Social / Institutional",
+      "roots": [
+        "su",
+        "ka",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W201",
+      "form": "si-go-li",
+      "written": "sigoli",
+      "gloss": "content originator; signal-origin-agent; speaker",
+      "status": "active",
+      "domain": "Social / Signal / Institutional",
+      "roots": [
+        "si",
+        "go",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W202",
+      "form": "to-ki'ne-su",
+      "written": "toki'nesu",
+      "gloss": "online platform; networked computing system; interactive computer service",
+      "status": "active",
+      "domain": "Structure / Technology / Social",
+      "roots": [
+        "to",
+        "ki",
+        "ne",
+        "su"
+      ]
+    },
+    {
       "wnum": "W199",
       "form": "su-to",
       "written": "suto",

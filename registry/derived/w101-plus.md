@@ -1852,3 +1852,54 @@ Related:       su (primitive), to (primitive), go-ne (W159 self-originating rela
 ```
 
 ---
+
+**W200**
+```
+Form:          su-ka-li
+Type:          compound
+Class:         agent
+Definition:    service provider; platform operator; the social agent who actively maintains a structured system (a platform, infrastructure, or organized service) for others to use. Applies to any agent whose primary role is running the structure through which others act — not the user of the structure, but its operator and maintainer.
+Composition:   su (structure/order) + ka (intentional action) + li (social agent). Right-branching: su-[ka-li]. ka-li = action-agent = an agent defined by intentional action. su-[ka-li] = structure's action-agent = the one whose intentional action constitutes and maintains the structure. Contrast with mu-ka-li (user: the one who uses a specific artifact): su-ka-li maintains the system itself. The "provider" in Section 230(c)(1) terminology.
+Register:      formal / technical
+Domain:        Social / Institutional
+Status:        ✅ active
+First use:     CDA-001, Section 230(c)(1) (S639): la-su-ka-li  lo-to-ki'ne-su  ne  no-si-go-li  lo-to-si  go  zo-li
+Notes:         W200. First attested CDA-001 (S639). Introduced for Section 230(c)(1) translation stress test. Captures "provider of an interactive computer service" as a structural role. The three-way role distinction: su-ka-li (maintains the platform) vs mu-ka-li (uses the platform = user) vs si-go-li (W201, originates content on the platform). These roles are structurally distinct in Tonesu; Section 230's immunity depends on distinguishing them correctly.
+Related:       su (primitive), ka (primitive), li (primitive), mu-ka-li (user — artifact-operator, contrast), si-go-li (W201 content-originator — distinct role), to-ki'ne-su (W202 online platform — the system su-ka-li operates)
+```
+
+---
+
+**W201**
+```
+Form:          si-go-li
+Type:          compound
+Class:         agent
+Definition:    content originator; speaker; signal-origin-agent; the social agent from whom a signal, piece of information, or creative content originates. The person who is the causal source of the content — its author or creator. Distinct from su-ka-li (W200, platform operator, who transmits or hosts content but did not originate it).
+Composition:   si (signal/representation) + go (cause/origin) + li (social agent). Right-branching: si-[go-li]. go-li = origin-agent = an agent defined as a causal source. si-[go-li] = signal's origin-agent = the one who is the causal source of the signal. This is the "speaker" and "publisher" in Section 230 terminology and the "author" in copyright law.
+Register:      formal / technical / legal
+Domain:        Social / Signal / Institutional
+Status:        ✅ active
+First use:     CDA-001, Section 230(c)(1) (S639): la-su-ka-li  lo-to-ki'ne-su  ne  no-si-go-li  lo-to-si  go  zo-li
+Notes:         W201. First attested CDA-001 (S639). Introduced for Section 230(c)(1) translation stress test. Section 230 uses "publisher or speaker" as a unified class: both roles derive legal relevance from being causally responsible for content. In Tonesu, si-go-li unifies these cleanly under signal-origin. The editorial exception (S641): when a platform operator (su-ka-li) deliberately categorizes content (ka-to-fe), the operator becomes si-go-li — intentional curation converts relay-agent into responsible author.
+Related:       si (primitive), go (primitive), li (primitive), su-ka-li (W200 platform operator — contrast role), to-si (W026 information-signal — what si-go-li originates), to-ki'ne-su (W202 online platform)
+```
+
+---
+
+**W202**
+```
+Form:          to-ki'ne-su
+Type:          compound
+Class:         system
+Definition:    online platform; networked computing system; interactive computer service; the structured organizational network through which computation takes place and information is exchanged among multiple users. The platform as infrastructure — the structural environment within which su-ka-li (service providers), mu-ka-li (users), and si-go-li (content originators) all operate.
+Composition:   to-ki (W020 = computation, reasoning process) + ne-su (network-structure: ne = relation/connection + su = structure/order). Juncture ' marks [to-ki] as pre-bound before ne-su: [computation] + [network-structure] = computation-network-structure = the structured relational system within which computation occurs. Contrast with to-ki-mu (W011, computer = a single computational artifact): to-ki'ne-su is the network/platform environment, not a single device.
+Register:      formal / technical
+Domain:        Structure / Technology / Social
+Status:        ✅ active
+First use:     CDA-001, Section 230(c)(1) (S639): la-su-ka-li  lo-to-ki'ne-su  ne  no-si-go-li  lo-to-si  go  zo-li
+Notes:         W202. First attested CDA-001 (S639). Introduced for Section 230(c)(1) translation stress test. Corresponds to "interactive computer service" in Section 230 terminology — defined in law as "any information service, system, or access software provider that provides or enables computer access by multiple users to a computer server." The Tonesu form emphasizes the structural network character of the platform: it is the organized relational system (ne-su), not merely a device (to-ki-mu).
+Related:       to-ki (W020 computation — component), ne-su (W031 network/organization — component), to-ki-mu (W011 computer — single device, contrast), su-ka-li (W200 platform operator — agent who runs this), mu-ka-li (user — agent who uses this), si-mu (W039 relay device — functional analogy)
+```
+
+---

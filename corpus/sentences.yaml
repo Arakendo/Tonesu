@@ -9958,3 +9958,179 @@ sentences:
     (W159): rights share the self-originating character of the divine. su-to (W199)
     predicated on to-ne-su (W000): self-evidence is the condition of truth-as-organized-knowing.
     Philosophical keystone of the batch.'
+- snum: S639
+  gloss: 'CDA-001 230(c)(1) A: Core immunity claim — service-provider of an online
+    platform is not a content-originator of information from persons.'
+  batch: CDA-001
+  batch_sub: A
+  status: normative
+  tonesu: la-su-ka-li  lo-to-ki'ne-su  ne  no-si-go-li  lo-to-si  go  zo-li
+  gloss_line: '[agent]service-provider [patient]online-platform is not-content-originator
+    [patient]information-signal from person'
+  natural: A service-provider of an online platform is not a content-originator of
+    information-signals from persons.
+  words_attested:
+  - W020
+  - W026
+  - W031
+  - W100
+  - W148
+  - W200
+  - W201
+  - W202
+  first_attests:
+  - W200
+  - W201
+  - W202
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S639
+  notes: 'Direct rendering of CDA §230(c)(1): "No provider or user of an interactive
+    computer service shall be treated as the publisher or speaker of any information
+    provided by another information content provider." Three roles introduced: su-ka-li
+    (W200, service-provider = "provider"), to-ki''ne-su (W202, online platform = "interactive
+    computer service"), si-go-li (W201, content-originator = "publisher or speaker").
+    lo-to-si go zo-li (information-signals from a person) encodes "provided by another
+    information content provider" — deliberately open: who that person is and where
+    the boundary lies is the statute''s unresolved problem (see S642). "Shall be treated
+    as" vs "is" addressed in S643.'
+- snum: S640
+  gloss: 'CDA-001 230(c)(1) B: The online platform is structurally a relay device
+    for persons, not a content-originator.'
+  batch: CDA-001
+  batch_sub: B
+  status: normative
+  tonesu: la-to-ki'ne-su  ne  si-mu  lu-zo-li  /  ne  no-si-go-li
+  gloss_line: '[agent]online-platform is relay-device [beneficiary]persons / is not-content-originator'
+  natural: An online platform is a relay device for persons / is not a content-originator.
+  words_attested:
+  - W020
+  - W031
+  - W039
+  - W148
+  - W201
+  - W202
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S640
+  notes: 'si-mu (W039) = relay device, signal transceiver — exactly captures the platform''s
+    structural role: it transmits, not originates. lu-zo-li = for-the-benefit-of persons
+    (beneficiary frame). The / parallel pairs the positive structural description
+    (relay-device for persons) with its legal consequence (not a content-originator).
+    The immunity flows from this structural identity: the platform is the wire, not
+    the author. Contrast with S641 for where this breaks.'
+- snum: S641
+  gloss: 'CDA-001 230(c)(1) C: Editorial exception — deliberate categorization converts
+    platform-operator into content-originator.'
+  batch: CDA-001
+  batch_sub: C
+  status: normative
+  tonesu: go  la-su-ka-li  ka-to-fe  lo-to-si,  du  la-su-ka-li  ne  si-go-li
+  gloss_line: if [agent]service-provider judges [patient]information, then [agent]service-provider
+    is content-originator
+  natural: If a service-provider deliberately categorizes information, then the service-provider
+    is a content-originator.
+  words_attested:
+  - W026
+  - W122
+  - W200
+  - W201
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S641
+  notes: 'The editorial-judgment exception to Section 230 immunity. go {premise},
+    du {result} = causal conditional. ka-to-fe (W122) = deliberate epistemic bounding
+    = editorial judgment / curation. The moment a platform deliberately categorizes
+    information — promoting, demoting, labeling, filtering on the merits — it crosses
+    into si-go-li territory and loses the relay-device immunity. This is exactly the
+    legal controversy: courts have fought for decades over where passive hosting ends
+    and active editorial selection begins. Tonesu states the threshold precisely via
+    ka-to-fe.'
+- snum: S642
+  gloss: 'CDA-001 230(c)(1) D: The statute’s gap — the rule has not defined the boundary
+    between service-provider and content-originator.'
+  batch: CDA-001
+  batch_sub: D
+  status: normative
+  tonesu: la-wi-fe  no  to-su-ki  lo-to-fe  su-ka-li  ne  si-go-li
+  gloss_line: '[agent]the-rule not comprehends [patient]epistemic-boundary service-provider
+    [relation]content-originator'
+  natural: The rule has not comprehended the boundary between service-provider and
+    content-originator.
+  words_attested:
+  - W025
+  - W028
+  - W100
+  - W200
+  - W201
+  first_attests:
+  - W025
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S642
+  notes: to-su-ki (W025) = comprehend, enter organized knowledge. lo-to-fe su-ka-li
+    ne si-go-li = the epistemic-boundary [of the relation between] service-provider
+    and content-originator. The statute uses "another information content provider"
+    but does not define where the platform's role ends and "another's" begins. This
+    is the unresolved boundary that 30 years of litigation has contested. In Tonesu,
+    a rule that invokes a boundary (to-fe) it has not organized knowledge of (no to-su-ki)
+    is structurally incomplete. The statute 'works' only because courts tolerate strategic
+    vagueness; Tonesu does not.
+- snum: S643
+  gloss: 'CDA-001 230(c)(1) E: “Shall be treated as” is normative prescription, not
+    a self-evident truth.'
+  batch: CDA-001
+  batch_sub: E
+  status: normative
+  tonesu: la-wi-fe  ne  no-su-to  /  ne  wi-fe'ka-to-fe
+  gloss_line: '[agent]the-rule is not-self-evident / is rule-about-categorization'
+  natural: The rule is not a self-evident proposition / it is a rule about deliberate
+    categorization.
+  words_attested:
+  - W100
+  - W122
+  - W199
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S643
+  notes: 'su-to (W199) = self-evident proposition. Section 230(c)(1) does not assert
+    that platforms ARE NOT publishers — it mandates that they MUST NOT BE TREATED
+    AS publishers. "Shall be treated as" is wi-fe''ka-to-fe (rule about deliberate
+    categorization / epistemic-bounding), not su-to (structural truth). Tonesu requires
+    distinguishing these: a normative categorization rule can be repealed, contested,
+    or have exceptions (as courts have found); a su-to cannot. The / parallel pairs
+    the negative claim (not self-evident) with the positive identification of what
+    it actually is.'
+- snum: S644
+  gloss: 'CDA-001 230(c)(1) F: Structural verdict — the rule is a categorization prescription
+    with an undefined critical boundary.'
+  batch: CDA-001
+  batch_sub: F
+  status: normative
+  tonesu: la-wi-fe  ne  wi-fe'ka-to-fe  /  ke, la-wi-fe  no  to-su-ki  lo-to-fe su-ka-li  ne  si-go-li
+  gloss_line: '[agent]the-rule is rule-about-categorization / but [agent]the-rule
+    not comprehends [patient]boundary service-provider [relation]content-originator'
+  natural: The rule is a prescription about categorization / but the rule has not
+    defined the boundary between service-provider and content-originator.
+  words_attested:
+  - W025
+  - W028
+  - W100
+  - W122
+  - W200
+  - W201
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S644
+  notes: 'Synthesis of CDA-001. / ke, construction: first clause (S643) establishes
+    what 230 IS (a prescriptive categorization rule, wi-fe''ka-to-fe); ke, pivots
+    to advance the unresolved problem (S642: the boundary is undefined). Tonesu diagnosis:
+    Section 230(c)(1) is structurally coherent as a legal instrument — it is a wi-fe''ka-to-fe,
+    not a su-to — but is incomplete because the boundary it relies on (service-provider
+    vs content-originator) has not been given organized definition. The statute works
+    by delegating the boundary question to judicial discretion. In Tonesu, that delegation
+    would need to be explicit.'
