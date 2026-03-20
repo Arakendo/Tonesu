@@ -58,6 +58,10 @@
     if (!window.DataTable) return;
     try {
       document.querySelectorAll('.md-content__inner table').forEach(function (table) {
+        // Skip tables whose first header isn't a known registry column — e.g. the
+        // 2-column metadata table on word pages (Domain / Class / Type / …).
+        var firstTh = table.querySelector('thead th');
+        if (!firstTh || !COL_CLASSES[firstTh.textContent.trim()]) return;
         if (!window.DataTable.isDataTable(table)) {
           new window.DataTable(table, {
             paging: true,
