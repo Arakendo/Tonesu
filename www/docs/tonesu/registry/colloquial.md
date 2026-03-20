@@ -97,18 +97,17 @@ One-root drop (se dropped), same compression depth as zom. Terminal root ne cont
 
 ## Namespace collision notes
 
-CVC stubs that cannot be registered because the form is already taken.
+CVC forms that cannot be registered as stubs because the slot is already taken by an existing entry. These classes use their disyllabic formal base as their casual form instead.
 
-| Note ID | Form blocked | Blocked by | Formal base | Class affected |
-|---------|-------------|-----------|-------------|----------------|
-| KNM-008 | `zop` | CLQ-005b | `zo-pe` | arthropod / invertebrate |
-| FNG-001 | `zon` | CLQ-006a | `zo-ne` | fungal / mycelial |
+**KNM-008 — `zo-pe` (arthropod / invertebrate)**
 
-### KNM-008 — `zo-pe`
+`zop` collides with CLQ-005b (`zop` is already taken) · first documented S327. Casual form for this class: `zo-pe` (disyllabic — no compression).
 
 zo-pe → zop collides with whale stub (CLQ-005b). Arthropod base uses disyllabic casual form zo-pe. Discriminated species-level forms (ne'zo-pe, su'zo-pe, so'zo-pe, zi'zo-pe, de'zo-pe) retain their discriminator prefixes and are unaffected.
 
-### FNG-001 — `zo-ne`
+**FNG-001 — `zo-ne` (fungal / mycelial)**
+
+`zon` collides with CLQ-006a (`zon` is already taken) · first documented S334. Casual form for this class: `zo-ne` (disyllabic — no compression).
 
 zo-ne → zon collides with herd-ungulate stub (CLQ-006a). Fungal base uses disyllabic casual form zo-ne. Structural cause: a depth-2 compound zo-{Y} and a depth-3 compound zo-se-{Y} share terminal root Y and therefore produce colliding stubs whenever they end on the same root. Both collisions (KNM-008 and FNG-001) arise from this depth-boundary compression rule.
 

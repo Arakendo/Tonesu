@@ -8,6 +8,8 @@
     /\/tonesu\/registry\/index\/?$/,
     /\/tonesu\/registry\/overview\/?$/,
     /\/tonesu\/registry\/english\/?$/,
+    /\/tonesu\/registry\/colloquial\/?$/,
+    /\/tonesu\/registry\/colloquial-english\/?$/,
   ];
 
   function isTargetPage() {
@@ -16,11 +18,17 @@
 
   // Map header text → CSS class for column styling
   var COL_CLASSES = {
-    'Word':    'col-word',
-    'W#':      'col-wnum',
-    'Status':  'col-status',
-    'Gloss':   'col-gloss',
-    'English': 'col-english',
+    'Word':      'col-word',
+    'W#':        'col-wnum',
+    'Status':    'col-status',
+    'Gloss':     'col-gloss',
+    'English':   'col-english',
+    // Colloquial registry columns
+    'CLQ ID':    'col-clqid',
+    'Form':      'col-word',
+    'Formal':    'col-formal',
+    'Stub':      'col-word',
+    'First use': 'col-firstuse',
   };
 
   function applyColumnClasses(table) {

@@ -1433,25 +1433,28 @@ def generate_colloquial_overview(
         lines += [
             "## Namespace collision notes",
             "",
-            "CVC stubs that cannot be registered because the form is already taken.",
+            "CVC forms that cannot be registered as stubs because the slot is already "
+            "taken by an existing entry. These classes use their disyllabic formal base "
+            "as their casual form instead.",
             "",
-            "| Note ID | Form blocked | Blocked by | Formal base | Class affected |",
-            "|---------|-------------|-----------|-------------|----------------|",
         ]
         for n in clq_notes:
-            lines.append(
-                f"| {n.get('note_id', '')} | `{n.get('form_blocked', '')}` "
-                f"| {n.get('blocked_by', '')} | `{n.get('formal_base', '')}` "
-                f"| {n.get('class_affected', '')} |"
-            )
-        lines.append("")
-        for n in clq_notes:
+            blocked   = n.get("form_blocked", "")
+            by        = n.get("blocked_by", "")
+            base      = n.get("formal_base", "")
+            cls       = n.get("class_affected", "")
+            doc_at    = n.get("documented_at", "")
+            notes_txt = n.get("notes", "").strip()
+            doc_str   = f" · first documented {doc_at}" if doc_at else ""
             lines += [
-                f"### {n.get('note_id', '')} — `{n.get('formal_base', '')}`",
+                f"**{n.get('note_id', '')} — `{base}` ({cls})**",
                 "",
-                n.get("notes", "").strip(),
+                f"`{blocked}` collides with {by} (`{blocked}` is already taken){doc_str}. "
+                f"Casual form for this class: `{base}` (disyllabic — no compression).",
                 "",
             ]
+            if notes_txt:
+                lines += [notes_txt, ""]
     lines += ["---", "", NOTE]
     return "\n".join(lines)
 

@@ -365,6 +365,27 @@ table.dataTable th.col-english {
   white-space: nowrap;
 }
 
+/* Colloquial CLQ ID column */
+table.dataTable td.col-clqid,
+table.dataTable th.col-clqid {
+  white-space: nowrap;
+  min-width: 5rem;
+}
+
+/* Formal compound column (colloquial pages) */
+table.dataTable td.col-formal,
+table.dataTable th.col-formal {
+  white-space: nowrap;
+}
+
+/* First use column (colloquial pages) */
+table.dataTable td.col-firstuse,
+table.dataTable th.col-firstuse {
+  text-align: center;
+  white-space: nowrap;
+  min-width: 4rem;
+}
+
 /* Corpus links inside gloss cell */
 table.dataTable tbody td small {
   display: block;
