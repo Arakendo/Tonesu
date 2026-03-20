@@ -55,13 +55,14 @@
       document.querySelectorAll('.md-content__inner table').forEach(function (table) {
         if (!window.DataTable.isDataTable(table)) {
           new window.DataTable(table, {
-            paging: false,
-            info: false,
+            paging: true,
+            pageLength: 50,
+            info: true,
             layout: {
               topStart: { search: { placeholder: 'Filter…' } },
               topEnd: null,
-              bottomStart: null,
-              bottomEnd: null,
+              bottomStart: 'info',
+              bottomEnd: 'paging',
             },
           });
           applyColumnClasses(table);
