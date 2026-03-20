@@ -20,3 +20,10 @@ A conversation entry is used when:
 - The construct depends on prior discourse context (pronoun resolution, `ze` back-reference, floor-state tracking)
 
 Single sentences that happen to be dialogue lines go in the sentence files (S-series) with a note about their conversational context.
+
+---
+
+## Template
+
+See [TEMPLATE.md](TEMPLATE.md) for the canonical format — `.md` narrative structure,
+YAML block schema, field reference, and registration checklist.
