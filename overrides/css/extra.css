@@ -209,7 +209,7 @@ html .md-typeset__table table {
  * headings: uppercase, letter-spaced, dimmer, not clickable.
  * md-nav__item--section labels ARE toggling (clickable) on mobile — excluded.
  */
-.md-nav__list .md-nav__item:not(.md-nav__item--section) > label.md-nav__link {
+.md-nav__list .md-nav__item:not(.md-nav__item--section) > label.md-nav__link:not(.md-nav__link--active) {
   font-size: .67rem;
   font-weight: 700;
   letter-spacing: .09em;
