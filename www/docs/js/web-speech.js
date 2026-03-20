@@ -78,8 +78,13 @@ function initSpeakerButtons() {
   });
 }
 
-// Initialize when DOM is ready
-if (document.readyState === 'loading') {
+// Initialize on every page load.
+// MkDocs Material's navigation.instant replaces DOM on navigation without a full
+// reload, so DOMContentLoaded only fires once. material exposes document$ which
+// fires after every page transition — use it when available.
+if (typeof document$ !== 'undefined') {
+  document$.subscribe(initSpeakerButtons);
+} else if (document.readyState === 'loading') {
   document.addEventListener('DOMContentLoaded', initSpeakerButtons);
 } else {
   initSpeakerButtons();
