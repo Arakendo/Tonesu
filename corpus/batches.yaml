@@ -869,3 +869,13 @@ batches:
   theme: Grammar & syntax
   range: S579–S587
   count: 9
+- code: STW-001
+  title: Star Wars — The Jedi Code
+  theme: Translation
+  range: S588–S592
+  count: 5
+- code: STW-002
+  title: Star Wars — The Sith Code
+  theme: Translation
+  range: S593–S598
+  count: 6

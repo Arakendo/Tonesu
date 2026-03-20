@@ -62,7 +62,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## Artifact / Device
 
-13 compounds
+14 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -71,6 +71,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `ki-ne` · kine | [W152](words/W152.md) | ✅ | sandal, motion-bond (footwear) <br><small>[S044](../../../totonesu/corpus/batches/t-xx#S044) · [S406](../../../totonesu/corpus/batches/exo#S406)</small> |
 | `ki-pa-mu` · kipamu | [W086](words/W086.md) | ✅ | vehicle, moving enclosed place <br><small>[S123](../../../totonesu/corpus/batches/t-ax#S123) · [S124](../../../totonesu/corpus/batches/t-ax#S124) · [S125](../../../totonesu/corpus/batches/t-ax#S125) · [S126](../../../totonesu/corpus/batches/cf#S126) · [S129](../../../totonesu/corpus/batches/cf#S129) · [S130](../../../totonesu/corpus/batches/cf#S130) · [S157](../../../totonesu/corpus/batches/cf#S157) · [S472](../../../totonesu/corpus/batches/emd#S472) · [S515](../../../totonesu/corpus/batches/emd#S515) · [S522](../../../totonesu/corpus/batches/emd#S522)</small> |
 | `ko-mu` · komu | [W052](words/W052.md) | ✅ | vessel, container artifact <br><small>[S068](../../../totonesu/corpus/batches/t-ko#S068) · [S121](../../../totonesu/corpus/batches/t-ax#S121) · [S122](../../../totonesu/corpus/batches/t-ax#S122) · [S371](../../../totonesu/corpus/batches/fal#S371) · [S426](../../../totonesu/corpus/batches/lsp#S426) · [S433](../../../totonesu/corpus/batches/lsp#S433)</small> |
+| `ko-ne-mu` · konemu | [W176](words/W176.md) | ✅ | chain, shackle, constraining bond |
 | `ma-no-de` · manode | [W046](words/W046.md) | ✅ | medicine, treatment substance <br><small>[S063](../../../totonesu/corpus/batches/t-prm#S063) · [S370](../../../totonesu/corpus/batches/fal#S370)</small> |
 | `ra-ki-mu` · rakimu | [W012](words/W012.md) | ⏳ | engine, motor, generator <br><small>[S034](../../../totonesu/corpus/batches/t-ha#S034) · [S038](../../../totonesu/corpus/batches/t-ha#S038) · [S114](../../../totonesu/corpus/batches/t-ax#S114) · [S115](../../../totonesu/corpus/batches/t-ax#S115) · [S116](../../../totonesu/corpus/batches/t-ax#S116) · [S123](../../../totonesu/corpus/batches/t-ax#S123) · [S124](../../../totonesu/corpus/batches/t-ax#S124) · [S125](../../../totonesu/corpus/batches/t-ax#S125) · [S126](../../../totonesu/corpus/batches/cf#S126) · [S129](../../../totonesu/corpus/batches/cf#S129) · [S130](../../../totonesu/corpus/batches/cf#S130) · [S157](../../../totonesu/corpus/batches/cf#S157)</small> |
 | `si-ko-mu` · sikomu | [W067](words/W067.md) | ✅ | individual document, encoded record <br><small>[S014](../../../totonesu/corpus/batches/_foundations#S014) · [S069](../../../totonesu/corpus/batches/t-ko#S069) · [S070](../../../totonesu/corpus/batches/t-ko#S070)</small> |
@@ -136,7 +137,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## Affect / Emotional substrate
 
-12 compounds
+14 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -147,7 +148,9 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `fa-ra` · fara | [W154](words/W154.md) | ✅ | fear/awe, forceful affect <br><small>[S408](../../../totonesu/corpus/batches/exo#S408)</small> |
 | `fa-ra-be` · farabe | [W123](words/W123.md) | ✅ | anger, hostile arousal <br><small>[S221](../../../totonesu/corpus/batches/odl#S221)</small> |
 | `fa-re` · fare | [W096](words/W096.md) | ✅ | affect cycling / returning to baseline |
+| `fa-su` · fasu | [W173](words/W173.md) | ✅ | serenity, affect in ordered/structured form |
 | `fa-wi-de` · fawide | [W127](words/W127.md) | ✅ | temptation, affect-will-toward-harm |
+| `fa-wi-ra` · fawira | [W172](words/W172.md) | ✅ | passion, driven desire (affect-will-force) |
 | `fa-wi-zi` · fawizi | [W136](words/W136.md) | ⚠️ | lust, affect-desire-to-couple |
 | `se-no-to` · senoto | [W090](words/W090.md) | ⏳ | percept without cognitive model (unresolved signal) |
 | `su-fa` · sufa | [W133](words/W133.md) | ✅ | purity of heart, structured affect |
@@ -206,11 +209,12 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## Organism / Biology
 
-21 compounds
+22 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `de-ki'ma` · deki'ma | [W162](words/W162.md) | ✅ | wine / fermented liquid <br><small>[S437](../../../totonesu/corpus/batches/lsp#S437)</small> |
+| `de-zo` · dezo | [W178](words/W178.md) | ✅ | death, dying (organism-decrease, non-agentive) |
 | `du-zo-su` · duzosu | [W142](words/W142.md) | ⏳ | fruit, plant-result <br><small>[S428](../../../totonesu/corpus/batches/lsp#S428) · [S480](../../../totonesu/corpus/batches/scl#S480) · [S491](../../../totonesu/corpus/batches/scl#S491) · [S513](../../../totonesu/corpus/batches/vpc#S513)</small> |
 | `ka-de-zo` · kadezo | [W128](words/W128.md) | ✅ | kill, deliberate ending of life |
 | `ma-zo-ki` · mazoki | [W146](words/W146.md) | ⏳ | crawler, ground-moving creature |
@@ -257,7 +261,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## Relation / State / Quality
 
-10 compounds
+14 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -265,12 +269,16 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `ka-ne-de` · kanede | [W092](words/W092.md) | ✅ | deliberate bond dissolution <br><small>[S132](../../../totonesu/corpus/batches/fa-val#S132) · [S438](../../../totonesu/corpus/batches/lsp#S438)</small> |
 | `ne-de` · nede | [W091](words/W091.md) | ✅ | bond dissolution (no assigned cause) |
 | `ne-fe` · nefe | [W042](words/W042.md) | ✅ | dependency condition, requirement <br><small>[S058](../../../totonesu/corpus/batches/t-prm#S058) · [S059](../../../totonesu/corpus/batches/t-prm#S059) · [S060](../../../totonesu/corpus/batches/t-prm#S060) · [S061](../../../totonesu/corpus/batches/t-prm#S061) · [S062](../../../totonesu/corpus/batches/t-prm#S062) · [S128](../../../totonesu/corpus/batches/cf#S128) · [S131](../../../totonesu/corpus/batches/cf#S131) · [S161](../../../totonesu/corpus/batches/mg#S161) · [S208](../../../totonesu/corpus/batches/odl#S208)</small> |
+| `ne-no-ra` · nenora | [W171](words/W171.md) | ✅ | peace, relation-without-force |
 | `no-de-ma` · nodema | [W129](words/W129.md) | ✅ | salt, preservative matter |
 | `no-ne-fe` · nonefe | [W075](words/W075.md) | ✅ | absence of dependency / no link <br><small>[C006-B2](../../../totonesu/corpus/batches/_foundations#C006-B2) · [C006-B3](../../../totonesu/corpus/batches/_foundations#C006-B3) · [S063](../../../totonesu/corpus/batches/t-prm#S063)</small> |
 | `pa-ki` · paki | [W087](words/W087.md) | ✅ | adrift, uncontrolled spatial motion |
 | `pa-nu` · panu | [W050](words/W050.md) | ✅ | size, spatial magnitude <br><small>[S065](../../../totonesu/corpus/batches/t-cmp#S065)</small> |
 | `su-fa` · sufa | [W133](words/W133.md) | ✅ | purity of heart, structured affect |
+| `su-ne` · sune | [W174](words/W174.md) | ✅ | harmony, structure-of-connection |
 | `su-ru` · suru | [W085](words/W085.md) | ✅ | integrated whole, unified structure <br><small>[S119](../../../totonesu/corpus/batches/t-ax#S119)</small> |
+| `wi-du` · widu | [W175](words/W175.md) | ✅ | victory, achievement (will-result) |
+| `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) |
 
 ## Meta / Language
 

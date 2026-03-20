@@ -1404,3 +1404,139 @@ Related:       to-ne-su (W000, truth / the language), to-to-ne-su (W169, knowled
 ```
 
 ---
+
+**W171**
+```
+Form:          ne-no-ra
+Type:          compound
+Class:         state / quality
+Definition:    Peace; a relational state characterized by the absence of coercive force. Not the absence of connection or affect, but the presence of bond that carries no violence — a relation (ne) from which force (ra) is absent (no).
+Composition:   ne (relation/connection) + no (negation/absence) + ra (force/energy) = relation-without-force. Head: ne (it IS a relation; qualified by the absence of force in it).
+Register:      standard / ethical / social
+Domain:        social / ethics / affect
+Status:        ✅ active
+First use:     Star Wars, Jedi Code line 1 (S588): no-fa ne / ne-no-ra ne
+Notes:         Peace is a relational property: it describes the quality of a bond, not the inner state of a person. Compare fa-su (W173, serenity = affect in ordered form), the personal/affective complement. Contrasts: ne-su (W031) = network; ne-no-ra = peace (force-free bond); fa-su (W173) = serenity (inward); wi-no-ra (W132) = meekness (will-without-force).
+Related:       ne (primitive), no (primitive), ra (primitive), wi-no-ra (W132 meekness), ne-su (W031 network), fa-su (W173 serenity)
+```
+
+---
+
+**W172**
+```
+Form:          fa-wi-ra
+Type:          compound
+Class:         affect state / quality
+Definition:    Passion; driven desire; the affective state in which the substrate has become purposeful and forceful. Affect (fa) organized by will/intention (wi) and charged with force (ra). The felt quality of intense, purposeful, unrelenting drive — affect as compulsion.
+Composition:   fa (affective substrate) + wi (will/intention) + ra (force/energy) = affect-will-force. Head: fa (it IS an affective state; qualified by willedness and force).
+Register:      standard / ethical / philosophical
+Domain:        affect / ethics
+Status:        ✅ active
+First use:     Star Wars, Jedi Code line 3 / Sith Code line 1 (S590, S593)
+Notes:         Distinct from: fa-ra (W154) = fear/awe; fa-ra-be (W123) = anger; fa-wi-de (W127) = temptation. Passion is affect made both purposeful (wi) and forceful (ra), not specifically hostile. fa-su (W173) is the direct contrary: serenity = affect with structure but without drive or force.
+Related:       fa (primitive), wi (primitive), ra (primitive), fa-ra (W154), fa-ra-be (W123), fa-wi-de (W127), fa-su (W173 serenity)
+```
+
+---
+
+**W173**
+```
+Form:          fa-su
+Type:          compound
+Class:         affect state / quality
+Definition:    Serenity; affect in its properly ordered form. The affective substrate that has settled into structural order — calm without suppression, stillness without emptiness. The inward complement of ne-no-ra (W171, peace as relational property).
+Composition:   fa (affective substrate) + su (structure/order) = affect-structure. Head: fa (it IS an affective state; qualified by having acquired structure).
+Register:      standard / ethical / contemplative
+Domain:        affect / ethics
+Status:        ✅ active
+First use:     Star Wars, Jedi Code line 3 (S590): no-fa-wi-ra ne / fa-su ne
+Notes:         Distinct from su-fa (W133, purity of heart): su-fa views affect FROM the structural side; fa-su views it FROM the affective side. Three-way distinction: ne-no-ra (W171) = peace (relational/outward); fa-su = serenity (affective/inward); su-fa (W133) = purity of heart (structural/theological). fa-wi-ra (W172) = the contrary (affect with will-force, not structure).
+Related:       fa (primitive), su (primitive), su-fa (W133), ne-no-ra (W171), fa-wi-ra (W172), fa-no (W095)
+```
+
+---
+
+**W174**
+```
+Form:          su-ne
+Type:          compound
+Class:         state / quality
+Definition:    Harmony; structural order in the domain of relations/connections. The state where all bonds and relational arrangements are in their proper structural position. Distinct from ne-su (W031, the network as a connective system): su-ne foregrounds the structural order within which connections are arranged.
+Composition:   su (structure/order) + ne (relation/connection) = structure-of-connection. Head: su (it IS a structural state; of the relational domain).
+Register:      standard / ethical / philosophical
+Domain:        social / structure / ethics
+Status:        ✅ active
+First use:     Star Wars, Jedi Code line 4 (S591): no-su ne / su-ne ne
+Notes:         Contrasts: ne-su (W031) = network (connections as head); su-ne = harmony (structure as head). Jedi Code contrast: no-su (chaos = absence of all structure) / su-ne (harmony = structure in the relational domain).
+Related:       su (primitive), ne (primitive), ne-su (W031 network), su-fa (W133)
+```
+
+---
+
+**W175**
+```
+Form:          wi-du
+Type:          compound
+Class:         state / event
+Definition:    Victory; achievement; the outcome that was the direct object of directed intention. The will-result — not just any result but specifically the result that will was aimed at. Success, prevailing, triumph. Distinct from du alone (any result) by requiring the willed intention that produced it.
+Composition:   wi (will/intention) + du (result/effect) = will-result. Head: du (it IS a result; characterized as the one willed). wi-du-be (composable) = victory growing = gaining/achieving victory.
+Register:      standard / ethical / martial / philosophical
+Domain:        ethics / agency / social
+Status:        ✅ active
+First use:     Star Wars, Sith Code line 4 (S596): go {wi-ra}, la-mi wi-du-be
+Notes:         Contrast: du alone = any result; wi-du = specifically the intended outcome. A side effect is du; a victory is wi-du. Third step in the Sith causal chain: ra (strength) → wi-ra (W177, power) → wi-du (victory).
+Related:       wi (primitive), du (primitive), wi-ra (W177), ka (primitive)
+```
+
+---
+
+**W176**
+```
+Form:          ko-ne-mu
+Type:          compound
+Class:         entity / artifact
+Definition:    Chain; shackle; constraining bond. A physical artifact (mu) whose function is to create a containment-relation (ko + ne) — it binds an entity within an enclosed connection, preventing free motion. Extended: any mechanism of enforced constraint.
+Composition:   ko (containment/interior) + ne (relation/connection) + mu (artifact/object) = containment-connection-artifact. Head: mu (it IS an artifact; implementing a containing connection).
+Register:      standard / material / social / legal
+Domain:        material / constraint / social
+Status:        ✅ active
+First use:     Star Wars, Sith Code line 5 (S597): go {wi-du}, lo-mi ko-ne-mu de-ki
+Notes:         de-ki (decrease-enter = entering a state of dissolution/breaking) with ko-ne-mu: the chains break as a consequence of causal structure, not by an agent's deliberate act. Extended uses: ko-ne-mu lo-X = chains constraining X.
+Related:       ko (primitive), ne (primitive), mu (primitive), pa-ki (liberation, EXO-001)
+```
+
+---
+
+**W177**
+```
+Form:          wi-ra
+Type:          compound
+Class:         state / quality
+Definition:    Directed power; authority; will-force. Force (ra) organized and directed by intention (wi). The energetic capacity to cause change when that capacity is in service of deliberate purpose. Power as command of force, not mere possession of it.
+Composition:   wi (will/intention) + ra (force/energy) = will-force. Head: ra (it IS force; characterized as willed/directed). wi-ra-be (composable) = power growing = gaining directed power.
+Register:      standard / ethical / political / philosophical
+Domain:        agency / social / structure
+Status:        ✅ active
+First use:     Star Wars, Sith Code line 3 (S595): go {ra}, la-mi wi-ra-be
+Notes:         Middle position in the Sith causal chain: ra (undirected strength) → wi-ra (directed power) → wi-du (W175, victory). Distinct from: ra (primitive, undirected); fa-wi-ra (W172, passion: initiates at affect; wi-ra: initiates at intention, no affective component). Power is colder; passion is warmer.
+Related:       wi (primitive), ra (primitive), fa-wi-ra (W172), wi-du (W175), wi-fe (W100)
+```
+
+---
+
+**W178**
+```
+Form:          de-zo
+Type:          compound
+Class:         event / state
+Definition:    Death; dying; the natural or non-deliberate cessation of a living thing. Organism-decrease — the process by which a living entity (zo) diminishes to the point of cessation (de). Non-agentive: death happens to an organism; not performed by an agent.
+Composition:   de (decrease/end) + zo (living thing) = organism-decrease. Head: zo (it IS a living thing that undergoes); de specifies direction of change (decrease to zero).
+Register:      standard / biological / philosophical / theological
+Domain:        biology / ethics / theology
+Status:        ✅ active
+First use:     Star Wars, Jedi Code line 5 (S592): no-de-zo ne / ara ne
+Notes:         de-zo is non-agentive (natural or accidental death). The agentive form is ka-de-zo (W128, deliberate killing). Referenced in W128 notes but first explicitly attested here. The Jedi Code: no-de-zo ne / ara ne = "no dying / universal-energy prevails." Death is not replaced by zo-ra (W117, life-energy) but by ara, the universal substrate itself.
+Related:       de (primitive), zo (primitive), ka-de-zo (W128 deliberate killing), zo-ra (W117 life-energy)
+```
+
+---

@@ -1,3 +1,181 @@
+## Star Wars — The Jedi Code and the Sith Code (S588–S598)
+
+*Batch purpose (STW-001/STW-002): translation of both canonical Star Wars ethical codes. Tests bi-clausal parallel `/`, scope-derived `ara` as the Force, `ru-fe` exclusive scope, `go`-causal chains, and agency shift. Full analysis in `corpus/translations/Literature/star-wars-codes.md`.*
+
+*New compounds attested this batch: `ne-no-ra` (W171, peace), `fa-wi-ra` (W172, passion), `fa-su` (W173, serenity), `su-ne` (W174, harmony), `wi-du` (W175, victory), `ko-ne-mu` (W176, chain/shackle), `wi-ra` (W177, directed power), `de-zo` (W178, death/dying).*
+
+---
+
+**S588 — Jedi Code, line 1 — "There is no emotion, there is peace."** *(STW-001-A)*
+
+```
+no-fa  ne  /  ne-no-ra  ne
+```
+
+**Written:** `nofa ne / nenora ne`
+
+**Natural reading:** No raw affect / peaceful-relation prevails.
+
+**Notes:** `/` bi-clausal parallel. `no-fa` = negation of affective substrate = no raw reactive emotion. `ne-no-ra` = relation-without-force = peace (W171, first attestation). The Jedi Code's subtle claim: peace is not affect-absence, it is the presence of force-free connection. Replace reactive affect with bonds that carry no violence.
+
+---
+
+**S589 — Jedi Code, line 2 — "There is no ignorance, there is knowledge."** *(STW-001-B)*
+
+```
+no-to  ne  /  to  ne
+```
+
+**Written:** `noto ne / to ne`
+
+**Natural reading:** No knowledge-absence / knowledge prevails.
+
+**Notes:** Cleanest line. `no-to` = absence of conceptual pattern = ignorance (composable). `to` = knowledge (primitive). Near-tautological in the best sense: `no-{no-to}` / `to`. No new vocabulary required.
+
+---
+
+**S590 — Jedi Code, line 3 — "There is no passion, there is serenity."** *(STW-001-C)*
+
+```
+no-fa-wi-ra  ne  /  fa-su  ne
+```
+
+**Written:** `nofawira ne / fasu ne`
+
+**Natural reading:** No driven-forceful-affect / structured-affect prevails.
+
+**Notes:** First attestations of `fa-wi-ra` (W172, passion = affect-will-force) and `fa-su` (W173, serenity = affect-structure). The negation reveals what passion IS: affect hijacked by will-direction and force. Serenity is the alternative: affect that has found structure without drive. Extends the `fa-[X]` compound family.
+
+---
+
+**S591 — Jedi Code, line 4 — "There is no chaos, there is harmony."** *(STW-001-D)*
+
+```
+no-su  ne  /  su-ne  ne
+```
+
+**Written:** `nosu ne / sune ne`
+
+**Natural reading:** No structure / structure-of-connection prevails.
+
+**Notes:** `no-su` = absence of structure = chaos. `su-ne` = structure-of-relation = harmony (W174, first attestation). The parallel reveals the definitions: chaos is total structural absence; harmony is specifically the structural ordering of relational bonds — not just any structure but `su` in the `ne` domain.
+
+---
+
+**S592 — Jedi Code, line 5 — "There is no death, there is the Force."** *(STW-001-E)*
+
+```
+no-de-zo  ne  /  ara  ne
+```
+
+**Written:** `nodezo ne / ara ne`
+
+**Natural reading:** No organism-decrease / universal-energy prevails.
+
+**Notes:** First explicit registration of `de-zo` (W178, death = organism-decrease, non-agentive). First corpus attestation of `ara` (scope-derivation: `a-` + `ra` = abstract/universal energy = the Force). The Force is what remains when de-zo is negated — not life (`zo-ra`, W117) but the encompassing universal-energy field. `ara ne` — the Jedi Code ends with the one affirmation that requires no prefix.
+
+---
+
+**S593 — Sith Code, line 1 — "Peace is a lie, there is only passion."** *(STW-002-A)*
+
+```
+ne-no-ra  ne  to-fe-ka  /  ru-fe,  fa-wi-ra  ne
+```
+
+**Written:** `nenora ne tofeka / rufe, fawira ne`
+
+**Natural reading:** Peaceful-relation is deliberate-mislabeling / only: driven-affect prevails.
+
+**Notes:** Direct structural inversion of S588: both sentences contain `ne-no-ra ne`, but here it is attributed `to-fe-ka` (W029, deliberate epistemic mislabeling = a lie). The Sith don't claim peace is merely absent — they claim it is an actively maintained deception. `ru-fe, fa-wi-ra ne` = only passion prevails (`ru-fe` exclusive scope particle). The two codes are grammatically locked by the shared phrase `ne-no-ra ne` carrying opposite truth-values.
+
+---
+
+**S594 — Sith Code, line 2 — "Through passion, I gain strength."** *(STW-002-B)*
+
+```
+go {fa-wi-ra},  la-mi  ra-be
+```
+
+**Written:** `go {fawira}, lami rabe`
+
+**Natural reading:** [Cause: passion] → I grow in force.
+
+**Notes:** First link of the Sith causal chain. `go {fa-wi-ra}` = by means of passion (necessary causal mechanism — `go`, not `;`; the Sith assert ontological production, not coincidence). `la-mi ra-be` = I grow in force = I gain strength. `ra-be` = force-increasing (composable).
+
+---
+
+**S595 — Sith Code, line 3 — "Through strength, I gain power."** *(STW-002-C)*
+
+```
+go {ra},  la-mi  wi-ra-be
+```
+
+**Written:** `go {ra}, lami wirabe`
+
+**Natural reading:** [Cause: force] → I grow in directed-power.
+
+**Notes:** `go {ra}` = by means of force/strength. `la-mi wi-ra-be` = I grow in directed-power. `wi-ra-be` = `wi-ra` (W177, will-force = directed power) + `be` (increasing). Escalation: `ra` (raw capacity) → `wi-ra` (capacity organized by intention). First attestation of `wi-ra` (W177).
+
+---
+
+**S596 — Sith Code, line 4 — "Through power, I gain victory."** *(STW-002-D)*
+
+```
+go {wi-ra},  la-mi  wi-du-be
+```
+
+**Written:** `go {wira}, lami widube`
+
+**Natural reading:** [Cause: directed-power] → I grow in willed-achievement.
+
+**Notes:** `go {wi-ra}` = by means of directed power. `la-mi wi-du-be` = I grow in victory. `wi-du-be` = `wi-du` (W175, victory = will-result) + `be` (increasing). Third escalation step: directed force achieves its aimed-at outcome. All three causal lines use `la-mi` as explicit agent. First attestation of `wi-du` (W175).
+
+---
+
+**S597 — Sith Code, line 5 — "Through victory, my chains are broken."** *(STW-002-E)*
+
+```
+go {wi-du},  lo-mi  ko-ne-mu  de-ki
+```
+
+**Written:** `go {widu}, lomi konemu deki`
+
+**Natural reading:** [Cause: victory] → my chains enter breaking.
+
+**Notes:** Agency shift: `la-mi` → `lo-mi`. `lo-mi ko-ne-mu` = the chains that constrain me (patient-frame: what affects me). `de-ki` = decrease-enter = enter the state of breaking. The chains break as a *causal consequence* (`go {wi-du}`), not as a deliberate act by the speaker. First attestation of `ko-ne-mu` (W176, chain/shackle = containment-connection-artifact). The speaker is now acted upon, not acting.
+
+---
+
+**S598 — Sith Code, line 6 — "The Force shall free me."** *(STW-002-F)*
+
+```
+la-ara  lo-mi  ka-pa-ki
+```
+
+**Written:** `laara lomi kapaki`
+
+**Natural reading:** The Force liberates me.
+
+**Notes:** `la-ara` = the Force (universal-energy `ara`) as grammatical agent (`la-`). `lo-mi` = me as patient. `ka-pa-ki` = liberation act (deliberate action producing place-motion = movement out of containment; EXO-001). First attestation of `ara` as a grammatical agent. The speaker is `lo-mi` (patient) throughout S597–S598, completing the agency inversion from the `la-mi`-driven causal chain (S594–S596). Phonological note: `la-ara` → written `laara`; both syllables begin with consonants (`l-`, `r-`), satisfying Parse Invariant 1.
+
+---
+
+## STW-001 / STW-002 Batch Summary
+
+| Entry | Written form | Key finding |
+|-------|-------------|-------------|
+| S588 (STW-001-A) | `nofa ne / nenora ne` | Peace = force-free relation; `ne-no-ra` W171 |
+| S589 (STW-001-B) | `noto ne / to ne` | Primitive-only; near-tautological |
+| S590 (STW-001-C) | `nofawira ne / fasu ne` | Passion W172 / serenity W173; `fa-[X]` family extended |
+| S591 (STW-001-D) | `nosu ne / sune ne` | Chaos = `no-su`; harmony W174 |
+| S592 (STW-001-E) | `nodezo ne / ara ne` | Death W178; Force = `ara`; first `ara` attestation |
+| S593 (STW-002-A) | `nenora ne tofeka / rufe, fawira ne` | Peace as deliberate lie; direct S588-inversion |
+| S594 (STW-002-B) | `go {fawira}, lami rabe` | `go`-causal chain starts; passion → strength |
+| S595 (STW-002-C) | `go {ra}, lami wirabe` | Strength → directed-power W177 |
+| S596 (STW-002-D) | `go {wira}, lami widube` | Power → victory W175 |
+| S597 (STW-002-E) | `go {widu}, lomi konemu deki` | Agency shift; chains W176 break as causal result |
+| S598 (STW-002-F) | `laara lomi kapaki` | `la-ara` as agent; Force liberates; `la-mi` → `lo-mi` inversion complete |
+
 ## Exodus 3:1–15 Translation Stress Test (S398–S417)
 
 *Batch purpose (EXO-001): first translation from the Moses narrative. Stress-tests theophany, divine name, liberation, holy ground, and the identity-copula gap. All new compounds proposed here are filed in `corpus/translations/Bible/exodus-3-1-15.md` which contains the full vocabulary framework, verse-by-verse analysis, and gap documentation.*

@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-15 translation analyses.
+16 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -29,6 +29,7 @@ gap analysis, and key findings.
 - [Bashō — The Frog Haiku](../literature/basho-frog/)
 - [Emily Dickinson — "Because I could not stop for Death"](../literature/dickinson-death/)
 - [Hamlet — "To be, or not to be"](../literature/hamlet-to-be/)
+- [Star Wars — The Jedi Code and the Sith Code](../literature/star-wars-codes/)
 - [A Tale of Two Cities — Opening](../literature/tale-of-two-cities/)
 
 ## Philosophy

@@ -2368,6 +2368,105 @@
         "ne",
         "su"
       ]
+    },
+    {
+      "wnum": "W171",
+      "form": "ne-no-ra",
+      "written": "nenora",
+      "gloss": "peace, relation-without-force",
+      "status": "active",
+      "domain": "social / ethics / affect",
+      "roots": [
+        "ne",
+        "no",
+        "ra"
+      ]
+    },
+    {
+      "wnum": "W172",
+      "form": "fa-wi-ra",
+      "written": "fawira",
+      "gloss": "passion, driven desire (affect-will-force)",
+      "status": "active",
+      "domain": "affect / ethics",
+      "roots": [
+        "fa",
+        "wi",
+        "ra"
+      ]
+    },
+    {
+      "wnum": "W173",
+      "form": "fa-su",
+      "written": "fasu",
+      "gloss": "serenity, affect in ordered/structured form",
+      "status": "active",
+      "domain": "affect / ethics",
+      "roots": [
+        "fa",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W174",
+      "form": "su-ne",
+      "written": "sune",
+      "gloss": "harmony, structure-of-connection",
+      "status": "active",
+      "domain": "social / structure / ethics",
+      "roots": [
+        "su",
+        "ne"
+      ]
+    },
+    {
+      "wnum": "W175",
+      "form": "wi-du",
+      "written": "widu",
+      "gloss": "victory, achievement (will-result)",
+      "status": "active",
+      "domain": "ethics / agency / social",
+      "roots": [
+        "wi",
+        "du"
+      ]
+    },
+    {
+      "wnum": "W176",
+      "form": "ko-ne-mu",
+      "written": "konemu",
+      "gloss": "chain, shackle, constraining bond",
+      "status": "active",
+      "domain": "material / constraint / social",
+      "roots": [
+        "ko",
+        "ne",
+        "mu"
+      ]
+    },
+    {
+      "wnum": "W177",
+      "form": "wi-ra",
+      "written": "wira",
+      "gloss": "directed power, authority (will-force)",
+      "status": "active",
+      "domain": "agency / social / structure",
+      "roots": [
+        "wi",
+        "ra"
+      ]
+    },
+    {
+      "wnum": "W178",
+      "form": "de-zo",
+      "written": "dezo",
+      "gloss": "death, dying (organism-decrease, non-agentive)",
+      "status": "active",
+      "domain": "biology / ethics / theology",
+      "roots": [
+        "de",
+        "zo"
+      ]
     }
   ]
 }

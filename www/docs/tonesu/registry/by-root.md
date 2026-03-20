@@ -18,7 +18,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `de` — decay / decrease
 
-4 compounds
+5 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -26,6 +26,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `de-ki'ma` · deki'ma | [W162](words/W162.md) | ✅ | wine / fermented liquid <br><small>[S437](../../../totonesu/corpus/batches/lsp#S437)</small> |
 | `de-su` · desu | [W119](words/W119.md) | ✅ | fault, wrong, moral failing |
 | `de-vo` · devo | [W121](words/W121.md) | ✅ | evil, value-corruption quality <br><small>[S458](../../../totonesu/corpus/batches/dkn#S458)</small> |
+| `de-zo` · dezo | [W178](words/W178.md) | ✅ | death, dying (organism-decrease, non-agentive) |
 
 ## `di` — direction
 
@@ -45,7 +46,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `fa` — affective substrate
 
-9 compounds
+11 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -56,7 +57,9 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `fa-ra` · fara | [W154](words/W154.md) | ✅ | fear/awe, forceful affect <br><small>[S408](../../../totonesu/corpus/batches/exo#S408)</small> |
 | `fa-ra-be` · farabe | [W123](words/W123.md) | ✅ | anger, hostile arousal <br><small>[S221](../../../totonesu/corpus/batches/odl#S221)</small> |
 | `fa-re` · fare | [W096](words/W096.md) | ✅ | affect cycling / returning to baseline |
+| `fa-su` · fasu | [W173](words/W173.md) | ✅ | serenity, affect in ordered/structured form |
 | `fa-wi-de` · fawide | [W127](words/W127.md) | ✅ | temptation, affect-will-toward-harm |
+| `fa-wi-ra` · fawira | [W172](words/W172.md) | ✅ | passion, driven desire (affect-will-force) |
 | `fa-wi-zi` · fawizi | [W136](words/W136.md) | ⚠️ | lust, affect-desire-to-couple |
 
 ## `fe` — boundary / limit
@@ -116,11 +119,12 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `ko` — containment / interior
 
-2 compounds
+3 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `ko-mu` · komu | [W052](words/W052.md) | ✅ | vessel, container artifact <br><small>[S068](../../../totonesu/corpus/batches/t-ko#S068) · [S121](../../../totonesu/corpus/batches/t-ax#S121) · [S122](../../../totonesu/corpus/batches/t-ax#S122) · [S371](../../../totonesu/corpus/batches/fal#S371) · [S426](../../../totonesu/corpus/batches/lsp#S426) · [S433](../../../totonesu/corpus/batches/lsp#S433)</small> |
+| `ko-ne-mu` · konemu | [W176](words/W176.md) | ✅ | chain, shackle, constraining bond |
 | `ko-pa` · kopa | [W048](words/W048.md) | ✅ | room, enclosed space <br><small>[S064](../../../totonesu/corpus/batches/t-cmp#S064) · [S267](../../../totonesu/corpus/batches/knm#S267) · [S423](../../../totonesu/corpus/batches/lsp#S423) · [S473](../../../totonesu/corpus/batches/emd#S473) · [S516](../../../totonesu/corpus/batches/emd#S516)</small> |
 
 ## `li` — social agent / person
@@ -162,12 +166,13 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `ne` — relation / connection
 
-8 compounds
+9 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `ne-de` · nede | [W091](words/W091.md) | ✅ | bond dissolution (no assigned cause) |
 | `ne-fe` · nefe | [W042](words/W042.md) | ✅ | dependency condition, requirement <br><small>[S058](../../../totonesu/corpus/batches/t-prm#S058) · [S059](../../../totonesu/corpus/batches/t-prm#S059) · [S060](../../../totonesu/corpus/batches/t-prm#S060) · [S061](../../../totonesu/corpus/batches/t-prm#S061) · [S062](../../../totonesu/corpus/batches/t-prm#S062) · [S128](../../../totonesu/corpus/batches/cf#S128) · [S131](../../../totonesu/corpus/batches/cf#S131) · [S161](../../../totonesu/corpus/batches/mg#S161) · [S208](../../../totonesu/corpus/batches/odl#S208)</small> |
+| `ne-no-ra` · nenora | [W171](words/W171.md) | ✅ | peace, relation-without-force |
 | `ne-ra` · nera | [W058](words/W058.md) | ✅ | resonance, energetic coupling state <br><small>[C006-A2](../../../totonesu/corpus/batches/_foundations#C006-A2) · [C006-B2](../../../totonesu/corpus/batches/_foundations#C006-B2) · [C007-A2](../../../totonesu/corpus/batches/_foundations#C007-A2) · [C007-A3](../../../totonesu/corpus/batches/_foundations#C007-A3) · [C007-A4](../../../totonesu/corpus/batches/_foundations#C007-A4) · [C007-A5](../../../totonesu/corpus/batches/_foundations#C007-A5) · [C007-B2](../../../totonesu/corpus/batches/_foundations#C007-B2) · [C007-B3](../../../totonesu/corpus/batches/_foundations#C007-B3) · [C007-B4](../../../totonesu/corpus/batches/_foundations#C007-B4) · [S101](../../../totonesu/corpus/batches/_foundations#S101) · [S102](../../../totonesu/corpus/batches/_foundations#S102) · [S103](../../../totonesu/corpus/batches/_foundations#S103) · [S107](../../../totonesu/corpus/batches/_foundations#S107) · [S173](../../../totonesu/corpus/batches/sa#S173)</small> |
 | `ne-ra-ki` · neraki | [W059](words/W059.md) | ✅ | attune, enter resonance <br><small>[C006-A3](../../../totonesu/corpus/batches/_foundations#C006-A3) · [C006-A4](../../../totonesu/corpus/batches/_foundations#C006-A4) · [S083](../../../totonesu/corpus/batches/t-rel#S083)</small> |
 | `ne-su` · nesu | [W031](words/W031.md) | ⏳ | network, society, organization <br><small>[S041](../../../totonesu/corpus/batches/t-xx#S041) · [S376](../../../totonesu/corpus/batches/fal#S376) · [S381](../../../totonesu/corpus/batches/fal#S381) · [S386](../../../totonesu/corpus/batches/fal#S386) · [S388](../../../totonesu/corpus/batches/fal#S388) · [S389](../../../totonesu/corpus/batches/fal#S389) · [S395](../../../totonesu/corpus/batches/fal#S395) · [S397](../../../totonesu/corpus/batches/fal#S397) · [S490](../../../totonesu/corpus/batches/scl#S490)</small> |
@@ -261,13 +266,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `su` — structure / order
 
-5 compounds
+6 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `su'ma` · su'ma | [W113](words/W113.md) | ⏳ | solid (material state) |
 | `su-fa` · sufa | [W133](words/W133.md) | ✅ | purity of heart, structured affect |
 | `su-mu-li` · sumuli | [W002](words/W002.md) | ⏳ | engineer, architect <br><small>[S025](../../../totonesu/corpus/batches/_foundations#S025) · [S164](../../../totonesu/corpus/batches/p-gp#S164) · [S171](../../../totonesu/corpus/batches/p-gp#S171) · [S559](../../../totonesu/corpus/batches/pav#S559)</small> |
+| `su-ne` · sune | [W174](words/W174.md) | ✅ | harmony, structure-of-connection |
 | `su-ru` · suru | [W085](words/W085.md) | ✅ | integrated whole, unified structure <br><small>[S119](../../../totonesu/corpus/batches/t-ax#S119)</small> |
 | `su-ti` · suti | [W101](words/W101.md) | ⏳ | current state, instantaneous configuration |
 
@@ -322,14 +328,16 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `wi` — will / intention
 
-10 compounds
+12 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `wi-de-li` · wideli | [W124](words/W124.md) | ✅ | adversary, enemy, opposing-will person <br><small>[S366](../../../totonesu/corpus/batches/fal#S366)</small> |
+| `wi-du` · widu | [W175](words/W175.md) | ✅ | victory, achievement (will-result) |
 | `wi-fe` · wife | [W100](words/W100.md) | ✅ | rule, prohibition, policy-imposed limit <br><small>[S364](../../../totonesu/corpus/batches/fal#S364) · [S365](../../../totonesu/corpus/batches/_foundations#S365) · [S375](../../../totonesu/corpus/batches/fal#S375) · [S376](../../../totonesu/corpus/batches/fal#S376) · [S379](../../../totonesu/corpus/batches/fal#S379) · [S381](../../../totonesu/corpus/batches/fal#S381) · [S579](../../../totonesu/corpus/batches/dip#S579) · [S580](../../../totonesu/corpus/batches/dip#S580) · [S581](../../../totonesu/corpus/batches/dip#S581) · [S582](../../../totonesu/corpus/batches/dip#S582) · [S583](../../../totonesu/corpus/batches/dip#S583) · [S584](../../../totonesu/corpus/batches/dip#S584) · [S585](../../../totonesu/corpus/batches/dip#S585) · [S587](../../../totonesu/corpus/batches/dip#S587)</small> |
 | `wi-ka-su` · wikasu | [W054](words/W054.md) | ✅ | ritual, structured intentional practice <br><small>[S073](../../../totonesu/corpus/batches/t-mys#S073)</small> |
 | `wi-no-ra` · winora | [W132](words/W132.md) | ✅ | meekness, will-without-force |
+| `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) |
 | `wi-re` · wire | [W099](words/W099.md) | ✅ | feedback loop, iterative goal-cycle <br><small>[S179](../../../totonesu/corpus/batches/opx#S179)</small> |
 | `wi-re-su` · wiresu | [W074](words/W074.md) | ✅ | operational protocol, standing procedure <br><small>[S088](../../../totonesu/corpus/batches/t-wit#S088) · [S166](../../../totonesu/corpus/batches/p-gp#S166)</small> |
 | `wi-si` · wisi | [W063](words/W063.md) | ✅ | prayer, will-signal |
