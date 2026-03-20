@@ -280,7 +280,9 @@ html .md-typeset__table table {
 
 /* ── Top nav tab subtitles ────────────────────────────────── */
 /* Tiny descriptors beneath the three main section tabs.
-   Tabs stay top-aligned; the subtitle sits flush below the label. */
+   Tabs stay top-aligned; the subtitle sits flush below the label.
+   Use :nth-child on list items (tab order is fixed in mkdocs.yml):
+   1=Home  2=Tonesu  3=Totonesu  4=To'tonesu  5=About             */
 .md-tabs__link {
   display: flex;
   flex-direction: column;
@@ -291,9 +293,9 @@ html .md-typeset__table table {
   vertical-align: top;
 }
 
-.md-tabs__link[href$="tonesu/"]::after,
-.md-tabs__link[href$="totonesu/"]::after,
-.md-tabs__link[href$="to-tonesu/"]::after {
+.md-tabs__item:nth-child(2) > .md-tabs__link::after,
+.md-tabs__item:nth-child(3) > .md-tabs__link::after,
+.md-tabs__item:nth-child(4) > .md-tabs__link::after {
   display: block;
   font-size: 0.55rem;
   font-weight: 400;
@@ -303,9 +305,9 @@ html .md-typeset__table table {
   margin-top: 0.05rem;
 }
 
-.md-tabs__link[href$="tonesu/"]::after     { content: "the language"; }
-.md-tabs__link[href$="totonesu/"]::after   { content: "in use"; }
-.md-tabs__link[href$="to-tonesu/"]::after  { content: "design"; }
+.md-tabs__item:nth-child(2) > .md-tabs__link::after { content: "the language"; }
+.md-tabs__item:nth-child(3) > .md-tabs__link::after { content: "in use"; }
+.md-tabs__item:nth-child(4) > .md-tabs__link::after { content: "design"; }
 
 /* ── DataTables filter input ─────────────────────────────── */
 .dt-layout-row {
