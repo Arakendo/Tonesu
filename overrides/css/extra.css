@@ -160,25 +160,26 @@
 
 /* ── Tonesu language forms — inline code display ─────────── */
 /*
- * On this site, inline code spans are always Tonesu word forms or
- * linguistic notation — not code snippets. Strip the code-box chrome
- * site-wide (pre>code display blocks are excluded via :not(pre)).
- * The homepage showcase/example sections get accent color + bold on
- * top of this base rule.
+ * On this site, inline code spans are Tonesu word forms or linguistic
+ * notation — not code snippets. Site-wide: strip the code-box chrome,
+ * render at body size in accent color so forms stand out from English
+ * gloss text without being aggressive. Pre>code blocks are excluded.
+ * Homepage showcase/example sections get bold + slightly larger on top.
  */
 .md-typeset :not(pre) > code {
   background: transparent;
   border-radius: 0;
   padding: 0;
   box-shadow: none;
+  font-size: 1em;
+  color: var(--md-accent-fg-color);
 }
 
-/* Homepage demo sections: accent color + bold to make forms prominent */
+/* Homepage demo sections: bold + larger for hero display */
 .tn-showcase :not(pre) > code,
 .tn-example-grid :not(pre) > code {
-  font-size: 1.05em;
-  color: var(--md-accent-fg-color);
-  font-weight: 600;
+  font-size: 1.1em;
+  font-weight: 700;
 }
 
 /* Force tables to fill their container (Material defaults to inline-block) */
