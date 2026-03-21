@@ -66,7 +66,7 @@ Every word is audible as its own definition.
 
 Words are composed from a **closed set of 34 two-letter roots** following a single rule: modifier precedes head, right-branching.
 
-<div class="grid tn-example-grid" markdown>
+<div class="tn-example-grid" markdown>
 
 <div markdown>
 
@@ -284,7 +284,7 @@ All eight are change-arts. The head of every school name is `ki` (change/motion)
 | Abjuration | `kofeki` | `ko-fe-ki` | containment-limit-change |
 | Conjuration | `pabeki` | `pa-be-ki` | space-emergence-change |
 | Divination | `toseki` | `to-se-ki` | pattern-perception-change |
-| Enchantment | `wifaki` | `wi-fa-ki` | willed-affect-shift |
+| Enchantment | `wifaki` | `wi-fa-ki` | willed-affect-change |
 | Evocation | `rabeki` | `ra-be-ki` | force-manifestation-change |
 | Illusion | `geseki` | `ge-se-ki` | quality-perception-change |
 | Necromancy | `dezoki` | `de-zo-ki` | death-organism-change |
