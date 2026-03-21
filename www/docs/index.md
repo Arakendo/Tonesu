@@ -71,25 +71,25 @@ Words are composed from a **closed set of 34 two-letter roots** following a sing
 <div markdown>
 
 ```
-to   pattern / thought
-li   person / agent
+zo   living thing
+li   social agent
 ```
 
-**`toli`** — scholar  
-`to` modifies `li`: pattern-person
+**`zoli`** — human being  
+`zo` modifies `li`: organism-person
 
 </div>
 
 <div markdown>
 
 ```
-to   pattern / thought
-ki   change / motion
+ki   motion / change
+pa   place / space
 mu   object / device
 ```
 
-**`tokimu`** — computer  
-pattern-change-device
+**`kipamu`** — vehicle  
+motion-place-device
 
 </div>
 
@@ -108,12 +108,12 @@ absence-of-heat
 <div markdown>
 
 ```
-to-no-fe
+ra-no-fe
 ```
 
-**`tonofe`** — omniscience  
-pattern + no-boundary:  
-knowledge without limit
+**`ranofe`** — omnipotence  
+force + no-boundary:  
+power without limit
 
 </div>
 
