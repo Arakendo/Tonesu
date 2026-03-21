@@ -2915,6 +2915,46 @@
         "vo",
         "li"
       ]
+    },
+    {
+      "wnum": "W214",
+      "form": "ko-ha-mu",
+      "written": "kohamu",
+      "gloss": "oven / thermal containment device",
+      "status": "active",
+      "domain": "cooking / material sciences / general",
+      "roots": [
+        "ko",
+        "ha",
+        "mu"
+      ]
+    },
+    {
+      "wnum": "W215",
+      "form": "ma-ne-ki",
+      "written": "maneki",
+      "gloss": "mix / combine / blend",
+      "status": "active",
+      "domain": "cooking / chemistry / general",
+      "roots": [
+        "ma",
+        "ne",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W216",
+      "form": "ha-zo-ra-ma",
+      "written": "hazorama",
+      "gloss": "baked food / thermally-treated food",
+      "status": "active",
+      "domain": "cooking / food / general",
+      "roots": [
+        "ha",
+        "zo",
+        "ra",
+        "ma"
+      ]
     }
   ]
 }

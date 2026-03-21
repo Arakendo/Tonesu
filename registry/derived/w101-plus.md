@@ -2050,3 +2050,64 @@ Related:       so (primitive: sound), vo (primitive: value/worth), li (primitive
 ```
 
 ---
+
+**W214**
+```
+Form:          ko-ha-mu
+Type:          compound
+Class:         entity (artifact / device)
+Definition:    oven; thermal containment device. The device defined by containing heat for the purpose of cooking or thermally transforming materials placed inside it. `ko-` (containment) provides the structural frame that makes it an oven rather than an open flame; `ha-mu` (heat-device) is the device-type. Covers all oven types: domestic baking oven, industrial kiln, ceramic kiln, bread oven.
+Composition:   ko (containment) + ha (heat/thermal state) + mu (device/artifact) = containment-[heat-device] = the device that contains heat for thermal processing.
+               Right-branch parse: ko-[ha-mu] = containment-[thermal device].
+               Distinct from ra-ki-mu (W012, engine = energy-motion-device): an engine converts energy to motion; an oven holds thermal state steady for transformation.
+Register:      general / culinary
+Domain:        cooking / material sciences / general
+Status:        ✅ active
+First use:     CKG-001, Cookie Recipe (S659): ha-ki  lo-ko-ha-mu
+Notes:         CKG-001 first attestation. S659: ha-ki lo-ko-ha-mu = preheat the oven (instruction register, agent-dropped). S663: la-ko-ha-mu ha-ki lo-zo-ra-ma-su lu-ha-su = the oven bakes the dough into heat-structured form — first artifact- as-agent construction in the cooking domain.
+Related:       ko (primitive: containment), ha (primitive: heat/thermal state), mu (primitive: artifact/device), ra-ki-mu (W012: engine), ko-mu (W052: vessel), to-ki-mu (W011: computer)
+```
+
+---
+
+**W215**
+```
+Form:          ma-ne-ki
+Type:          compound
+Class:         action / process
+Definition:    mix; combine; blend. The physical action of bringing matter into relational unity through motion. Covers: stirring, folding, blending, combining, kneading — any physical act whose purpose and result is the relational bonding of previously separate matter. The ne (relation/bond) root encodes that the goal is union, not mere motion.
+Composition:   ma (matter) + ne (relation/bond) + ki (motion/change) = matter-[relational-motion] = the motion that brings matter into relation.
+
+               Right-branch parse: ma-[ne-ki] = matter-[connecting motion].
+
+               The three-root chain: matter (substrate) + relation (goal) + motion (mechanism).
+Register:      general / culinary
+Domain:        cooking / chemistry / general
+Status:        ✅ active
+First use:     CKG-001, Cookie Recipe (S660): ma-ne-ki  lo-ki'ma-zo-ra-ma  pa-ko-mu  lu-su-ne
+Notes:         CKG-001 first attestation. Tested in three configurations: (1) S660: single patient + location + result frame; (2) S661: location-first + patient; (3) S662: double lo-patient with ne coordinator (lo-X ne lo-Y) — first joint-patient construction in the corpus. The double-patient construction rhymes with the verb's internal ne structure: mixing is constitutively the motion that creates ne (relation).
+Related:       ma (primitive: matter), ne (primitive: relation/bond), ki (primitive: motion/change), su-ne (W174: harmony — the natural result-state of successful mixing), su-ki (structure-forming action — composable)
+```
+
+---
+
+**W216**
+```
+Form:          ha-zo-ra-ma
+Type:          compound
+Class:         entity (food)
+Definition:    baked food; thermally-treated food. Any food that has undergone the defining thermal transformation: raw or mixed ingredients become ha-zo-ra-ma once they exit the oven or other thermal process. The ha- prefix is the transformation marker: it distinguishes the post-thermal entity from the pre-thermal substrate. Covers: cookies, bread, roasted vegetables, grilled meat — any food whose identity is constituted by the thermal process it underwent.
+Composition:   ha (heat/thermal state) + zo-ra-ma (food, W144) = thermal-[food] = food defined by its thermal history = baked/cooked food.
+
+               Right-branch parse: ha-[zo-ra-ma] = thermal-[organism-energy-substrate].
+
+               Compare: zo-ra-ma (W144) = food generally; ha-zo-ra-ma = food whose identity is thermally constituted.
+Register:      general / culinary
+Domain:        cooking / food / general
+Status:        ✅ active
+First use:     CKG-001, Cookie Recipe (S664): ki  lo-ha-zo-ra-ma ;  de-ha-ki ;  ha-zo-ra-ma  ne  be-su
+Notes:         CKG-001 phase-change landmark. In S663 material is zo-ra-ma-su (structured food mixture = raw dough). In S664, post-baking, same material becomes ha-zo-ra-ma (cookie/baked good). The vocabulary shift encodes ontological transformation: the baked good is no longer the same entity as the raw dough. ha- prefix functions as a phase-change marker at the vocabulary level.
+Related:       ha (primitive: thermal state), zo-ra-ma (W144: food), ka-du-zo-su (W161: bread — a ha-zo-ra-ma subspecies), ko-ha-mu (W214: oven — the production device), de-ki'ma (W162: wine — fermented liquid, different transformation type)
+```
+
+---

@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-23 translation analyses.
+24 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -23,6 +23,10 @@ gap analysis, and key findings.
 - [matthew-16-25](../bible/matthew-16-25/)
 - [Sermon on the Mount (Matthew 5–7)](../bible/matthew-5-7/)
 - [romans-7-19](../bible/romans-7-19/)
+
+## Everyday
+
+- [chocolate-chip-cookies](../everyday/chocolate-chip-cookies/)
 
 ## Law
 

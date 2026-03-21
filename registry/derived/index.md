@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 113 |
+| [w101-plus.md](w101-plus.md) | W101+ | 116 |
 
-**Total: 201 W-series entries** — active: 157 · proposed: 3 · pending: 39 · cold: 0 · retired: 2
+**Total: 204 W-series entries** — active: 160 · proposed: 3 · pending: 39 · cold: 0 · retired: 2
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -59,6 +59,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `ge-se-ki` | W185 | illusion; quality-perception-change; magic of crafting apparent properties | ✅ | [w101-plus](w101-plus.md) |
 | `go-ne` | W159 | self-originating relation / "I am who I am" | ✅ | [w101-plus](w101-plus.md) |
 | `ha-de` | W044 | cooling, thermal decrease | ✅ | [w001-w050](w001-w050.md) |
+| `ha-zo-ra-ma` | W216 | baked food / thermally-treated food | ✅ | [w101-plus](w101-plus.md) |
 | `ka-de-zo` | W128 | kill, deliberate ending of life | ✅ | [w101-plus](w101-plus.md) |
 | `ka-du-zo-su` | W161 | bread, deliberately crafted plant-product | ✅ | [w101-plus](w101-plus.md) |
 | `ka-li-de` | W205 | tax; governance revenue extraction; governance-sanctioned decrease | ✅ | [w101-plus](w101-plus.md) |
@@ -75,6 +76,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `ki-pa` | W049 | corridor, passage | ✅ | [w001-w050](w001-w050.md) |
 | `ki-pa-mu` | W086 | vehicle, moving enclosed place | ✅ | [w051-w100](w051-w100.md) |
 | `ko-fe-ki` | W180 | abjuration; containment-limit-change; magic of maintaining protective barriers | ✅ | [w101-plus](w101-plus.md) |
+| `ko-ha-mu` | W214 | oven / thermal containment device | ✅ | [w101-plus](w101-plus.md) |
 | `ko-mu` | W052 | vessel, container artifact | ✅ | [w051-w100](w051-w100.md) |
 | `ko-ne-mu` | W176 | chain, shackle, constraining bond | ✅ | [w101-plus](w101-plus.md) |
 | `ko-pa` | W048 | room, enclosed space | ✅ | [w001-w050](w001-w050.md) |
@@ -83,6 +85,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `li-su-li` | W001 | leader, coordinator, administrator | ⏳ | [w001-w050](w001-w050.md) |
 | `lu-mu` | W139 | light-body, luminous celestial object | ⏳ | [w101-plus](w101-plus.md) |
 | `lu-ti` | W140 | daytime, light-period | ⏳ | [w101-plus](w101-plus.md) |
+| `ma-ne-ki` | W215 | mix / combine / blend | ✅ | [w101-plus](w101-plus.md) |
 | `ma-no-de` | W046 | medicine, treatment substance | ✅ | [w001-w050](w001-w050.md) |
 | `ma-ra` | W116 | plasma, ionized matter | ⏳ | [w101-plus](w101-plus.md) |
 | `ma-zo-ki` | W146 | crawler, ground-moving creature | ⏳ | [w101-plus](w101-plus.md) |
@@ -248,7 +251,7 @@ Concept-first lookup: find the compound you need by domain.
 `ki-pa` W049 corridor · `ko-pa` W048 room · `li-pu-pa` W036 city · `pa-be'ka-li-su` W125 kingdom of heaven · `pa-fe` W138 vault · `pa-ki-su` W198 liberty · `pa-ma` W194 material realm · `pa-mi` W110 here · `pa-ne-su` W196 cosmological framework · `pa-ra` W053 energetic field · `pa-su` W157 mountain · `pa-vo-fe` W153 holy ground · `pa-wi` W088 destination · `pa-wi-ka-su` W066 shrine · `pa-zo-li` W135 the world · `to-pa` W195 thought-realm
 
 **Artifact / Device**
-`ka-du-zo-su` W161 bread · `ka-mu` W047 tool · `ki-ne` W152 sandal · `ki-pa-mu` W086 vehicle · `ko-mu` W052 vessel · `ko-ne-mu` W176 chain · `ma-no-de` W046 medicine · `ra-ki-mu` W012 engine · `si-ko-mu` W067 individual document · `si-mu` W039 relay device · `to-ki'ne-su` W202 online platform · `to-ki-mu` W011 computer · `to-su-mu` W010 database · `vo-mu` W137 garment · `wi-to` W045 plan (single-instance purposive artifact)
+`ka-du-zo-su` W161 bread · `ka-mu` W047 tool · `ki-ne` W152 sandal · `ki-pa-mu` W086 vehicle · `ko-ha-mu` W214 oven / thermal containment device · `ko-mu` W052 vessel · `ko-ne-mu` W176 chain · `ma-no-de` W046 medicine · `ra-ki-mu` W012 engine · `si-ko-mu` W067 individual document · `si-mu` W039 relay device · `to-ki'ne-su` W202 online platform · `to-ki-mu` W011 computer · `to-su-mu` W010 database · `vo-mu` W137 garment · `wi-to` W045 plan (single-instance purposive artifact)
 
 **Time**
 `lu-ti` W140 daytime · `no-lu-ti` W141 nighttime · `ti-be` W040 morning · `ti-de` W041 past time · `ti-fe` W037 deadline · `ti-mi` W109 now · `ti-mu` W057 relic · `ti-re` W103 recurring time
@@ -269,10 +272,10 @@ Concept-first lookup: find the compound you need by domain.
 `de-su` W119 fault · `de-vo` W121 evil · `go-ne` W159 self-originating relation / "I am who I am" · `ka-li-su` W147 governance · `ka-no-de-su` W120 forgiveness · `li-pu-pa` W036 city · `ne-su` W031 network · `ne-to` W084 mutual acknowledgment · `ne-to-fe` W165 covenant · `ne-zi-re` W131 spouse · `pa-vo-fe` W153 holy ground · `re-ka-ne-li` W134 peacemaker · `si-no-vo-li` W126 hypocrite · `su-ka-li` W200 service provider · `to-fe-su` W072 epistemic standards body/code · `to-ki'ne-su` W202 online platform · `wi-de-li` W124 adversary · `wi-fe` W100 rule · `wi-re` W099 feedback loop · `wi-re-su` W074 operational protocol · `wi-to-su` W073 design specification
 
 **Organism / Biology**
-`de-ki'ma` W162 wine / fermented liquid · `de-zo` W178 death · `de-zo-ki` W186 necromancy · `du-zo-su` W142 fruit · `ka-de-zo` W128 kill · `ma-zo-ki` W146 crawler · `se-lu` W130 eye · `wi-zo` W145 wild animal · `zi-zo` W106 biological coupling event · `zi-zo-du` W108 du-role in biological coupling · `zi-zo-go` W107 go-role in biological coupling · `zo-de` W051 fatigue · `zo-ki'ma` W164 blood · `zo-li` W148 human person · `zo-ma` W163 body · `zo-no-ki` W043 rest · `zo-ra` W117 life-energy · `zo-ra-ma` W144 food · `zo-se-ki` W060 enter trance · `zo-si` W069 spirit · `zo-su-be` W143 seed · `zo-su-ka-li` W150 shepherd · `zo-to` W068 soul
+`de-ki'ma` W162 wine / fermented liquid · `de-zo` W178 death · `de-zo-ki` W186 necromancy · `du-zo-su` W142 fruit · `ha-zo-ra-ma` W216 baked food / thermally-treated food · `ka-de-zo` W128 kill · `ma-zo-ki` W146 crawler · `se-lu` W130 eye · `wi-zo` W145 wild animal · `zi-zo` W106 biological coupling event · `zi-zo-du` W108 du-role in biological coupling · `zi-zo-go` W107 go-role in biological coupling · `zo-de` W051 fatigue · `zo-ki'ma` W164 blood · `zo-li` W148 human person · `zo-ma` W163 body · `zo-no-ki` W043 rest · `zo-ra` W117 life-energy · `zo-ra-ma` W144 food · `zo-se-ki` W060 enter trance · `zo-si` W069 spirit · `zo-su-be` W143 seed · `zo-su-ka-li` W150 shepherd · `zo-to` W068 soul
 
 **Energy / Matter / Physics**
-`ha-de` W044 cooling · `ki'ma` W114 liquid (material state) · `lu-mu` W139 light-body · `ma-ra` W116 plasma · `ne-ra` W058 resonance · `ne-ra-ki` W059 attune · `no-su'ma` W115 gas (material state) · `nu-se` W102 measurement · `pa-ra` W053 energetic field · `ra-ki` W038 storm · `ra-ki-mu` W012 engine · `ra-lu-ki` W151 fire · `ra-ma` W082 fuel · `ra-vo` W071 signal intensity · `su'ma` W113 solid (material state) · `zi-ra` W104 physical interaction
+`ha-de` W044 cooling · `ki'ma` W114 liquid (material state) · `lu-mu` W139 light-body · `ma-ne-ki` W215 mix / combine / blend · `ma-ra` W116 plasma · `ne-ra` W058 resonance · `ne-ra-ki` W059 attune · `no-su'ma` W115 gas (material state) · `nu-se` W102 measurement · `pa-ra` W053 energetic field · `ra-ki` W038 storm · `ra-ki-mu` W012 engine · `ra-lu-ki` W151 fire · `ra-ma` W082 fuel · `ra-vo` W071 signal intensity · `su'ma` W113 solid (material state) · `zi-ra` W104 physical interaction
 
 **Relation / State / Quality**
 `de-be` W035 repair · `ka-ne-de` W092 deliberate bond dissolution · `ne-de` W091 bond dissolution (no assigned cause) · `ne-fe` W042 dependency condition · `ne-no-ra` W171 peace · `no-de-ma` W129 salt · `no-ne-fe` W075 absence of dependency / no link · `pa-ki` W087 adrift · `pa-nu` W050 size · `su-fa` W133 purity of heart · `su-ne` W174 harmony · `su-ru` W085 integrated whole · `wi-du` W175 victory · `wi-ra` W177 directed power
@@ -288,6 +291,9 @@ Concept-first lookup: find the compound you need by domain.
 
 **Finance / Economic**
 `ka-li-de` W205 tax
+
+**Food / Cooking**
+`ha-zo-ra-ma` W216 baked food / thermally-treated food · `ko-ha-mu` W214 oven / thermal containment device · `ma-ne-ki` W215 mix / combine / blend
 
 **Health / Organism**
 `su-zo-ko` W204 coverage
@@ -320,13 +326,13 @@ Quick lookup by lead primitive root.
 | `fa` | fa-ki W093, fa-de W094, fa-no W095, fa-re W096, fa-ra-be W123, fa-wi-de W127, fa-wi-zi W136, fa-ra W154, fa-de-ra W155, fa-wi-ra W172, fa-su W173, fa-vo W197 |
 | `fe` | fe-si W024, fe-su W055, fe-no-ka W056, fe-vo W065 |
 | `go` | go-ne W159 |
-| `ha` | ha-de W044 |
+| `ha` | ha-de W044, ha-zo-ra-ma W216 |
 | `ka` | ka-mu W047, ka-ne-de W092, ka-no-de-su W120, ka-to-fe W122, ka-de-zo W128, ka-li-su W147, ka-pa-ki W160, ka-du-zo-su W161, ka-pa-ki'ti-re W167, ka-vo-si W168, ka-li-de W205 |
 | `ki` | ki-pa W049, ki-pa-mu W086, ki'ma W114, ki-ne W152 |
-| `ko` | ko-pa W048, ko-mu W052, ko-ne-mu W176 |
+| `ko` | ko-pa W048, ko-mu W052, ko-ne-mu W176, ko-ha-mu W214 |
 | `li` | li-su-li W001, li-be W033, li-pu-pa W036 |
 | `lu` | lu-mu W139, lu-ti W140 |
-| `ma` | ma-no-de W046, ma-ra W116, ma-zo-ki W146 |
+| `ma` | ma-no-de W046, ma-ra W116, ma-zo-ki W146, ma-ne-ki W215 |
 | `mu` | mu-ka W022 |
 | `ne` | ne-su W031, ne-fe W042, ne-ra W058, ne-ra-ki W059, ne-to W084, ne-de W091, ne-zi-re W131, ne-to-fe W165, ne-no-ra W171 |
 | `no` | no-ne-fe W075, no-su'ma W115, no-de-ma W129, no-lu-ti W141 |

@@ -10461,3 +10461,133 @@ sentences:
     sentence uses the lu beneficiary frame — a structural marker of other-directedness.
     Performance is constitutively for an audience. Contrast so (acoustic signal) vs
     si (encoded representation): bard is so-vo-li, not si-vo-li.'
+- snum: S659
+  gloss: 'CKG-001-A: Preheat the oven.'
+  batch: CKG-001
+  batch_sub: A
+  status: normative
+  tonesu: ha-ki  lo-ko-ha-mu
+  gloss_line: heat-change [patient]oven
+  natural: Heat the oven.
+  words_attested:
+  - W214
+  first_attests:
+  - W214
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S659
+  notes: 'CKG-001-A. First attestation of ko-ha-mu (W214, oven). Instruction register:
+    agent-dropped imperative. ha-ki (heat-change) = heat up / raise thermal state.
+    lo-ko-ha-mu = patient: the oven. First cooking-domain sentence in corpus.'
+- snum: S660
+  gloss: 'CKG-001-B: Mix the liquid food-materials in the vessel until unified.'
+  batch: CKG-001
+  batch_sub: B
+  status: normative
+  tonesu: ma-ne-ki  lo-ki'ma-zo-ra-ma  pa-ko-mu  lu-su-ne
+  gloss_line: mix [patient]liquid-food [location]vessel [result]harmony
+  natural: Mix the liquid food-materials in the vessel until they are unified.
+  words_attested:
+  - W052
+  - W114
+  - W144
+  - W174
+  - W215
+  first_attests:
+  - W114
+  - W144
+  - W215
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S660
+  notes: 'CKG-001-B. First attestation of ma-ne-ki (W215, mix/combine). Instruction
+    register. lo-ki''ma-zo-ra-ma = liquid food materials (wet ingredients): ki''ma
+    (W114, liquid) + zo-ra-ma (W144, food). pa-ko-mu = location: in the vessel (W052).
+    lu-su-ne = result/beneficiary: su-ne (W174, harmony) = until structurally unified.
+    First use of lu- as result-state frame in culinary domain.'
+- snum: S661
+  gloss: 'CKG-001-C: In a separate vessel, mix the dry food-materials.'
+  batch: CKG-001
+  batch_sub: C
+  status: normative
+  tonesu: pa-no-ne-ko-mu  ma-ne-ki  lo-su'ma-zo-ra-ma
+  gloss_line: '[location]separate-vessel mix [patient]solid-food'
+  natural: In a separate vessel, mix the dry food-materials.
+  words_attested:
+  - W052
+  - W113
+  - W144
+  - W215
+  first_attests:
+  - W113
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S661
+  notes: 'CKG-001-C. pa-no-ne-ko-mu = location-first frame: pa- (spatial) + no-ne-ko-mu
+    (separate vessel = no (negation) + ne (relation) + ko-mu (W052)). su''ma-zo-ra-ma
+    = dry/solid food materials (dry ingredients): su''ma (W113, solid) + zo-ra-ma
+    (W144, food). Location-initial topicalization for spatial framing.'
+- snum: S662
+  gloss: 'CKG-001-D: Combine the wet ingredients with the dry ingredients.'
+  batch: CKG-001
+  batch_sub: D
+  status: normative
+  tonesu: ma-ne-ki  lo-ki'ma-zo-ra-ma  ne  lo-su'ma-zo-ra-ma
+  gloss_line: mix [patient]liquid-food and [patient]solid-food
+  natural: Combine the wet ingredients and the dry ingredients.
+  words_attested:
+  - W113
+  - W114
+  - W144
+  - W215
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S662
+  notes: 'CKG-001-D. Double lo-patient construction: lo-X ne lo-Y — first joint-patient
+    frame in corpus. Both ingredient classes marked as patients of ma-ne-ki. The ne
+    coordinator between the two lo- phrases rhymes structurally with the verb''s own
+    internal ne root: mixing is constitutively relational action.'
+- snum: S663
+  gloss: 'CKG-001-E: Place the dough in the oven; the oven bakes it until set.'
+  batch: CKG-001
+  batch_sub: E
+  status: normative
+  tonesu: ki  lo-zo-ra-ma-su  pa-ko-ha-mu ;  la-ko-ha-mu  ha-ki  lo-zo-ra-ma-su  lu-ha-su
+  gloss_line: move [patient]dough [location]oven ; [agent]oven heat-change [patient]dough
+    [result]heat-set
+  natural: Place the dough in the oven; the oven heats the dough until it is set.
+  words_attested:
+  - W144
+  - W214
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S663
+  notes: 'CKG-001-E. Bi-clausal ";" (sequential connector). Clause 1: instruction-register
+    ki (motion) + lo-zo-ra-ma-su (dough = zo-ra-ma W144 + su structured) + pa-ko-ha-mu
+    (location: oven). Clause 2: la-ko-ha-mu ha-ki lo-zo-ra-ma-su lu-ha-su — artifact
+    agency: the oven (la- agent) thermally changes the dough (patient) into heat-set
+    state (lu-ha-su = result: ha + su). First artifact-as-agent construction in cooking
+    domain.'
+- snum: S664
+  gloss: 'CKG-001-F: Remove the baked food; cool; the baked good is complete.'
+  batch: CKG-001
+  batch_sub: F
+  status: normative
+  tonesu: ki  lo-ha-zo-ra-ma ;  de-ha-ki ;  ha-zo-ra-ma  ne  be-su
+  gloss_line: move [patient]baked-food ; thermal-decrease ; baked-food complete-structure
+  natural: Remove the baked food; cool it; the baked good is done.
+  words_attested:
+  - W216
+  first_attests:
+  - W216
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S664
+  notes: 'CKG-001-F. Three sequential clauses via ";". Clause 1: ki lo-ha-zo-ra-ma
+    = move/remove the baked food (W216 first attestation). Clause 2: de-ha-ki = thermal-decrease
+    = cool (de + ha + ki = decrease-thermal-change). Clause 3: ha-zo-ra-ma ne be-su
+    = the baked good is complete (ne property attribution; be-su = be (completion)
+    + su (structure) = completed-formation). Phase-change landmark: dough from S663
+    is now ha-zo-ra-ma.'

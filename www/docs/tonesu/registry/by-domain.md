@@ -68,7 +68,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## Artifact / Device
 
-15 compounds
+16 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -76,7 +76,8 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `ka-mu` · kamu | [W047](words/W047.md) | ✅ | tool, action instrument <br><small>[S071](../../../totonesu/corpus/batches/t-ko#S071)</small> |
 | `ki-ne` · kine | [W152](words/W152.md) | ✅ | sandal, motion-bond (footwear) <br><small>[S044](../../../totonesu/corpus/batches/t-xx#S044) · [S406](../../../totonesu/corpus/batches/exo#S406)</small> |
 | `ki-pa-mu` · kipamu | [W086](words/W086.md) | ✅ | vehicle, moving enclosed place <br><small>[S123](../../../totonesu/corpus/batches/t-ax#S123) · [S124](../../../totonesu/corpus/batches/t-ax#S124) · [S125](../../../totonesu/corpus/batches/t-ax#S125) · [S126](../../../totonesu/corpus/batches/cf#S126) · [S129](../../../totonesu/corpus/batches/cf#S129) · [S130](../../../totonesu/corpus/batches/cf#S130) · [S157](../../../totonesu/corpus/batches/cf#S157) · [S472](../../../totonesu/corpus/batches/emd#S472) · [S515](../../../totonesu/corpus/batches/emd#S515) · [S522](../../../totonesu/corpus/batches/emd#S522)</small> |
-| `ko-mu` · komu | [W052](words/W052.md) | ✅ | vessel, container artifact <br><small>[S068](../../../totonesu/corpus/batches/t-ko#S068) · [S121](../../../totonesu/corpus/batches/t-ax#S121) · [S122](../../../totonesu/corpus/batches/t-ax#S122) · [S371](../../../totonesu/corpus/batches/fal#S371) · [S426](../../../totonesu/corpus/batches/lsp#S426) · [S433](../../../totonesu/corpus/batches/lsp#S433)</small> |
+| `ko-ha-mu` · kohamu | [W214](words/W214.md) | ✅ | oven / thermal containment device <br><small>[S659](../../../totonesu/corpus/batches/ckg#S659) · [S663](../../../totonesu/corpus/batches/ckg#S663)</small> |
+| `ko-mu` · komu | [W052](words/W052.md) | ✅ | vessel, container artifact <br><small>[S068](../../../totonesu/corpus/batches/t-ko#S068) · [S121](../../../totonesu/corpus/batches/t-ax#S121) · [S122](../../../totonesu/corpus/batches/t-ax#S122) · [S371](../../../totonesu/corpus/batches/fal#S371) · [S426](../../../totonesu/corpus/batches/lsp#S426) · [S433](../../../totonesu/corpus/batches/lsp#S433) · [S660](../../../totonesu/corpus/batches/ckg#S660) · [S661](../../../totonesu/corpus/batches/ckg#S661)</small> |
 | `ko-ne-mu` · konemu | [W176](words/W176.md) | ✅ | chain, shackle, constraining bond <br><small>[S597](../../../totonesu/corpus/batches/stw#S597)</small> |
 | `ma-no-de` · manode | [W046](words/W046.md) | ✅ | medicine, treatment substance <br><small>[S063](../../../totonesu/corpus/batches/t-prm#S063) · [S370](../../../totonesu/corpus/batches/fal#S370)</small> |
 | `ra-ki-mu` · rakimu | [W012](words/W012.md) | ⏳ | engine, motor, generator <br><small>[S034](../../../totonesu/corpus/batches/t-ha#S034) · [S038](../../../totonesu/corpus/batches/t-ha#S038) · [S114](../../../totonesu/corpus/batches/t-ax#S114) · [S115](../../../totonesu/corpus/batches/t-ax#S115) · [S116](../../../totonesu/corpus/batches/t-ax#S116) · [S123](../../../totonesu/corpus/batches/t-ax#S123) · [S124](../../../totonesu/corpus/batches/t-ax#S124) · [S125](../../../totonesu/corpus/batches/t-ax#S125) · [S126](../../../totonesu/corpus/batches/cf#S126) · [S129](../../../totonesu/corpus/batches/cf#S129) · [S130](../../../totonesu/corpus/batches/cf#S130) · [S157](../../../totonesu/corpus/batches/cf#S157)</small> |
@@ -221,7 +222,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## Organism / Biology
 
-23 compounds
+24 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -229,6 +230,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `de-zo` · dezo | [W178](words/W178.md) | ✅ | death, dying (organism-decrease, non-agentive) <br><small>[S606](../../../totonesu/corpus/batches/dnd#S606)</small> |
 | `de-zo-ki` · dezoki | [W186](words/W186.md) | ✅ | necromancy; death-organism-change; magic of transformation through and across death <br><small>[S435](../../../totonesu/corpus/batches/lsp#S435) · [S606](../../../totonesu/corpus/batches/dnd#S606)</small> |
 | `du-zo-su` · duzosu | [W142](words/W142.md) | ⏳ | fruit, plant-result <br><small>[S428](../../../totonesu/corpus/batches/lsp#S428) · [S480](../../../totonesu/corpus/batches/scl#S480) · [S491](../../../totonesu/corpus/batches/scl#S491) · [S513](../../../totonesu/corpus/batches/vpc#S513)</small> |
+| `ha-zo-ra-ma` · hazorama | [W216](words/W216.md) | ✅ | baked food / thermally-treated food <br><small>[S664](../../../totonesu/corpus/batches/ckg#S664)</small> |
 | `ka-de-zo` · kadezo | [W128](words/W128.md) | ✅ | kill, deliberate ending of life |
 | `ma-zo-ki` · mazoki | [W146](words/W146.md) | ⏳ | crawler, ground-moving creature |
 | `se-lu` · selu | [W130](words/W130.md) | ✅ | eye, visual perception organ |
@@ -242,7 +244,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `zo-ma` · zoma | [W163](words/W163.md) | ✅ | body, physical matter of a living being <br><small>[S021](../../../totonesu/corpus/batches/t#S021) · [S197](../../../totonesu/corpus/batches/knm#S197) · [S208](../../../totonesu/corpus/batches/odl#S208) · [S216](../../../totonesu/corpus/batches/odl#S216) · [S247](../../../totonesu/corpus/batches/num#S247) · [S248](../../../totonesu/corpus/batches/num#S248)</small> |
 | `zo-no-ki` · zonoki | [W043](words/W043.md) | ✅ | rest, sleep <br><small>[S059](../../../totonesu/corpus/batches/t-prm#S059)</small> |
 | `zo-ra` · zora | [W117](words/W117.md) | ✅ | life-energy, animating vitality <br><small>[S359](../../../totonesu/corpus/batches/god-res#S359)</small> |
-| `zo-ra-ma` · zorama | [W144](words/W144.md) | ⏳ | food, organism-energy-substrate |
+| `zo-ra-ma` · zorama | [W144](words/W144.md) | ⏳ | food, organism-energy-substrate <br><small>[S660](../../../totonesu/corpus/batches/ckg#S660) · [S661](../../../totonesu/corpus/batches/ckg#S661) · [S662](../../../totonesu/corpus/batches/ckg#S662) · [S663](../../../totonesu/corpus/batches/ckg#S663)</small> |
 | `zo-se-ki` · zoseki | [W060](words/W060.md) | ✅ | enter trance, heightened bodyperception state <br><small>[S074](../../../totonesu/corpus/batches/t-mys#S074)</small> |
 | `zo-si` · zosi | [W069](words/W069.md) | ✅ | spirit, disembodied living agent <br><small>[S085](../../../totonesu/corpus/batches/t-rel#S085) · [S360](../../../totonesu/corpus/batches/god-res#S360)</small> |
 | `zo-su-be` · zosube | [W143](words/W143.md) | ⏳ | seed, plant-growth-product |
@@ -251,13 +253,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## Energy / Matter / Physics
 
-16 compounds
+17 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `ha-de` · hade | [W044](words/W044.md) | ✅ | cooling, thermal decrease <br><small>[S060](../../../totonesu/corpus/batches/t-prm#S060)</small> |
-| `ki'ma` · ki'ma | [W114](words/W114.md) | ⏳ | liquid (material state) |
+| `ki'ma` · ki'ma | [W114](words/W114.md) | ⏳ | liquid (material state) <br><small>[S660](../../../totonesu/corpus/batches/ckg#S660) · [S662](../../../totonesu/corpus/batches/ckg#S662)</small> |
 | `lu-mu` · lumu | [W139](words/W139.md) | ⏳ | light-body, luminous celestial object <br><small>[S362](../../../totonesu/corpus/batches/god-res#S362)</small> |
+| `ma-ne-ki` · maneki | [W215](words/W215.md) | ✅ | mix / combine / blend <br><small>[S660](../../../totonesu/corpus/batches/ckg#S660) · [S661](../../../totonesu/corpus/batches/ckg#S661) · [S662](../../../totonesu/corpus/batches/ckg#S662)</small> |
 | `ma-ra` · mara | [W116](words/W116.md) | ⏳ | plasma, ionized matter |
 | `ne-ra` · nera | [W058](words/W058.md) | ✅ | resonance, energetic coupling state <br><small>[C006-A2](../../../totonesu/corpus/batches/_foundations#C006-A2) · [C006-B2](../../../totonesu/corpus/batches/_foundations#C006-B2) · [C007-A2](../../../totonesu/corpus/batches/_foundations#C007-A2) · [C007-A3](../../../totonesu/corpus/batches/_foundations#C007-A3) · [C007-A4](../../../totonesu/corpus/batches/_foundations#C007-A4) · [C007-A5](../../../totonesu/corpus/batches/_foundations#C007-A5) · [C007-B2](../../../totonesu/corpus/batches/_foundations#C007-B2) · [C007-B3](../../../totonesu/corpus/batches/_foundations#C007-B3) · [C007-B4](../../../totonesu/corpus/batches/_foundations#C007-B4) · [S101](../../../totonesu/corpus/batches/_foundations#S101) · [S102](../../../totonesu/corpus/batches/_foundations#S102) · [S103](../../../totonesu/corpus/batches/_foundations#S103) · [S107](../../../totonesu/corpus/batches/_foundations#S107) · [S173](../../../totonesu/corpus/batches/sa#S173)</small> |
 | `ne-ra-ki` · neraki | [W059](words/W059.md) | ✅ | attune, enter resonance <br><small>[C006-A3](../../../totonesu/corpus/batches/_foundations#C006-A3) · [C006-A4](../../../totonesu/corpus/batches/_foundations#C006-A4) · [S083](../../../totonesu/corpus/batches/t-rel#S083)</small> |
@@ -269,7 +272,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `ra-lu-ki` · raluki | [W151](words/W151.md) | ✅ | fire, energy-light-process <br><small>[S402](../../../totonesu/corpus/batches/exo#S402) · [S403](../../../totonesu/corpus/batches/exo#S403) · [S479](../../../totonesu/corpus/batches/scl#S479)</small> |
 | `ra-ma` · rama | [W082](words/W082.md) | ✅ | fuel, energy substrate <br><small>[S116](../../../totonesu/corpus/batches/t-ax#S116) · [S394](../../../totonesu/corpus/batches/fal#S394) · [S396](../../../totonesu/corpus/batches/fal#S396) · [S397](../../../totonesu/corpus/batches/fal#S397)</small> |
 | `ra-vo` · ravo | [W071](words/W071.md) | ✅ | signal intensity, energy quality <br><small>[C006-B1](../../../totonesu/corpus/batches/_foundations#C006-B1) · [S067](../../../totonesu/corpus/batches/t-cmp#S067)</small> |
-| `su'ma` · su'ma | [W113](words/W113.md) | ⏳ | solid (material state) |
+| `su'ma` · su'ma | [W113](words/W113.md) | ⏳ | solid (material state) <br><small>[S661](../../../totonesu/corpus/batches/ckg#S661) · [S662](../../../totonesu/corpus/batches/ckg#S662)</small> |
 | `zi-ra` · zira | [W104](words/W104.md) | ⏳ | physical interaction, mutual energy transfer |
 
 ## Relation / State / Quality
@@ -288,7 +291,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `pa-ki` · paki | [W087](words/W087.md) | ✅ | adrift, uncontrolled spatial motion |
 | `pa-nu` · panu | [W050](words/W050.md) | ✅ | size, spatial magnitude <br><small>[S065](../../../totonesu/corpus/batches/t-cmp#S065)</small> |
 | `su-fa` · sufa | [W133](words/W133.md) | ✅ | purity of heart, structured affect |
-| `su-ne` · sune | [W174](words/W174.md) | ✅ | harmony, structure-of-connection <br><small>[S591](../../../totonesu/corpus/batches/stw#S591) · [S631](../../../totonesu/corpus/batches/doi#S631)</small> |
+| `su-ne` · sune | [W174](words/W174.md) | ✅ | harmony, structure-of-connection <br><small>[S591](../../../totonesu/corpus/batches/stw#S591) · [S631](../../../totonesu/corpus/batches/doi#S631) · [S660](../../../totonesu/corpus/batches/ckg#S660)</small> |
 | `su-ru` · suru | [W085](words/W085.md) | ✅ | integrated whole, unified structure <br><small>[S119](../../../totonesu/corpus/batches/t-ax#S119)</small> |
 | `wi-du` · widu | [W175](words/W175.md) | ✅ | victory, achievement (will-result) <br><small>[S597](../../../totonesu/corpus/batches/stw#S597)</small> |
 | `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) <br><small>[S596](../../../totonesu/corpus/batches/stw#S596) · [S599](../../../totonesu/corpus/batches/dnd#S599)</small> |
@@ -340,6 +343,16 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `ka-li-de` · kalide | [W205](words/W205.md) | ✅ | tax; governance revenue extraction; governance-sanctioned decrease <br><small>[S647](../../../totonesu/corpus/batches/aca#S647) · [S648](../../../totonesu/corpus/batches/aca#S648) · [S649](../../../totonesu/corpus/batches/aca#S649) · [S650](../../../totonesu/corpus/batches/aca#S650)</small> |
+
+## Food / Cooking
+
+3 compounds
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `ha-zo-ra-ma` · hazorama | [W216](words/W216.md) | ✅ | baked food / thermally-treated food <br><small>[S664](../../../totonesu/corpus/batches/ckg#S664)</small> |
+| `ko-ha-mu` · kohamu | [W214](words/W214.md) | ✅ | oven / thermal containment device <br><small>[S659](../../../totonesu/corpus/batches/ckg#S659) · [S663](../../../totonesu/corpus/batches/ckg#S663)</small> |
+| `ma-ne-ki` · maneki | [W215](words/W215.md) | ✅ | mix / combine / blend <br><small>[S660](../../../totonesu/corpus/batches/ckg#S660) · [S661](../../../totonesu/corpus/batches/ckg#S661) · [S662](../../../totonesu/corpus/batches/ckg#S662)</small> |
 
 ## Health / Organism
 

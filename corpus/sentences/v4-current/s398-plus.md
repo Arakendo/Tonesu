@@ -4446,3 +4446,142 @@ la-so-vo-li  so-vo  lu-zo-li
 **Finding 4: The Paladin as structural anomaly.** All other classes' defining sentences use a single predicate frame. The paladin requires the bi-clausal parallel (`/`): oath (`wi lo-vo`) / force (`ra-be`). Neither clause is sufficient alone — a paladin without the oath is just a fighter; a paladin without force is just a will. The structural complexity of the paladin's sentence mirrors the structural complexity of the class: it is constitutively dual.
 
 **Finding 5: The Bard as the only beneficiary-frame class.** Only S658 (bard) uses the `lu-` beneficiary marker. All other classes act on patients (`lo-`) or on sources (`go`). The bard creates FOR others. This is the structural encoding of a key D&D class distinction: the bard's gift is constitutively social; it requires an audience. The `lu-` frame marks this at the grammar level, not just in the notes.
+
+---
+
+## CKG-001: Cookie Recipe — Chocolate Chip Cookies
+
+**Batch:** CKG-001  
+**Source:** Standard chocolate chip cookie recipe (generic procedural form)  
+**Entries:** S659–S664 · **New vocabulary:** W214 (`ko-ha-mu`), W215 (`ma-ne-ki`), W216 (`ha-zo-ra-ma`)
+
+**Key design note:** This batch exercises the instruction register (agent-dropped
+imperatives), material-state vocabulary for wet/dry ingredients, double `lo-` patient
+coordination with `ne`, artifact agency (`la-ko-ha-mu`), and phase-change tracking
+(raw dough → baked good). See `corpus/translations/Everyday/chocolate-chip-cookies.md`
+for full analysis.
+
+---
+
+### S659 — CKG-001-A
+
+```
+ha-ki  lo-ko-ha-mu
+```
+
+**Written:** `haki lokohamu`
+
+**Natural reading:** Heat-change the containment-heat-device.
+
+**Notes:** W214 (`ko-ha-mu`) first attestation. Bare-verb imperative; no `la-` agent
+(instruction register: agent = immediate addressee). `ha-ki` = thermal-change =
+heat up. `ko-ha-mu` = containment-heat-device = oven: `ko` (containment) +
+`ha` (heat) + `mu` (device). Right-branch: `ko-[ha-mu]` = containment-[heat-device].
+
+---
+
+### S660 — CKG-001-B
+
+```
+ma-ne-ki  lo-ki'ma-zo-ra-ma  pa-ko-mu  lu-su-ne
+```
+
+**Written:** `maneki loki'mazorama pakomu lusune`
+
+**Natural reading:** Combine the liquid food-materials in the vessel, result: structural harmony.
+
+**Notes:** W215 (`ma-ne-ki`) first attestation. `ma-ne-ki` = matter-[relational-motion]
+= the action of bringing matter into relational unity through motion = mix/combine.
+`ki'ma-zo-ra-ma` = liquid food materials (W114 + W144) = the wet ingredients.
+`pa-ko-mu` = in the vessel / bowl. `lu-su-ne` = result: structural harmony (W174) =
+until the mixture is harmoniously unified (creamy / well-emulsified).
+
+---
+
+### S661 — CKG-001-C
+
+```
+pa-no-ne-ko-mu  ma-ne-ki  lo-su'ma-zo-ra-ma
+```
+
+**Written:** `panonekomu maneki losu'mazorama`
+
+**Natural reading:** At the unrelated vessel, combine the solid food-materials.
+
+**Notes:** `no-ne-ko-mu` = non-relation-vessel = a vessel unconnected to the previous
+= a separate bowl. `pa-no-ne-ko-mu` sentence-initial = location shift. `su'ma-zo-ra-ma`
+= solid-state food materials (W113 + W144) = dry ingredients (flour, sugar, salt,
+leavening). Juncture `'` marks `su'ma` as pre-bound: `[su'ma]-zo-ra-ma` = solid-
+state-[food material].
+
+---
+
+### S662 — CKG-001-D
+
+```
+ma-ne-ki  lo-ki'ma-zo-ra-ma  ne  lo-su'ma-zo-ra-ma
+```
+
+**Written:** `maneki loki'mazorama ne losu'mazorama`
+
+**Natural reading:** Combine [liquid food-materials] bonded-with [solid food-materials].
+
+**Notes:** First double-patient construction in the corpus. `lo-X ne lo-Y` = patient X
+bonded-to patient Y = X and Y jointly as the patient of the combining action. The
+`ne` between the two `lo-NPs` marks them as a jointly constituted input; the
+cook folds both ingredient classes together. The `ne` in `ma-ne-ki` (the verb)
+compositionally anticipates the `ne` that joins its inputs.
+
+---
+
+### S663 — CKG-001-E
+
+```
+ki  lo-zo-ra-ma-su  pa-ko-ha-mu ;  la-ko-ha-mu  ha-ki  lo-zo-ra-ma-su  lu-ha-su
+```
+
+**Written:** `ki lozoramasu pakohamu ; lakohamu haki lozoramasu luhasu`
+
+**Natural reading:** Move the structured food-matter to the oven; the oven heat-changes
+the structured food-matter, result: thermally-set.
+
+**Notes:** `;` separates placement (imperative) from baking (oven-as-agent). `zo-ra-ma-su`
+= structured food material = the mixed dough ready for baking (W144 + `su`). `la-ko-ha-mu`
+= artifact agency: the oven is the causal agent of thermal change; `la-` marks the oven
+as the source of the transformation, not just the location. `ha-su` = thermally-structured
+= heat-set state (composable: `ha` + `su`). `lu-ha-su` = result: heat-set.
+
+---
+
+### S664 — CKG-001-F
+
+```
+ki  lo-ha-zo-ra-ma ;  de-ha-ki ;  ha-zo-ra-ma  ne  be-su
+```
+
+**Written:** `ki lohazorama ; dehaki ; hazorama ne besu`
+
+**Natural reading:** Move the thermally-treated food [from oven]; thermal decrease;
+the thermally-treated food is completed-formation.
+
+**Notes:** W216 (`ha-zo-ra-ma`) first attestation. Phase-change landmark: in S663 the
+material was `zo-ra-ma-su` (raw dough); here, post-baking, it is `ha-zo-ra-ma` (thermally-
+treated food = cookie). The vocabulary shift tracks the ontological change. `de-ha-ki` =
+decay-heat-change = cooling (composable). `be-su` = growth-result-structure = completed
+formation = the state of being a fully produced artifact. `ha-zo-ra-ma ne be-su` =
+the baked good is complete.
+
+---
+
+## CKG-001 Batch Summary
+
+**Entries:** S659–S664 · **New vocabulary:** W214 (`ko-ha-mu`), W215 (`ma-ne-ki`), W216 (`ha-zo-ra-ma`)
+
+| Entry | Written form | Step | Key vocabulary |
+|-------|-------------|------|----------------|
+| S659 (CKG-001-A) | `haki lokohamu` | Preheat | W214 (`ko-ha-mu`) first att. |
+| S660 (CKG-001-B) | `maneki loki'mazorama pakomu lusune` | Mix wet | W215 (`ma-ne-ki`) first att. |
+| S661 (CKG-001-C) | `panonekomu maneki losu'mazorama` | Mix dry | `su'ma-zo-ra-ma` first use |
+| S662 (CKG-001-D) | `maneki loki'mazorama ne losu'mazorama` | Combine | Double `lo-ne-lo` patient first att. |
+| S663 (CKG-001-E) | `ki lozoramasu pakohamu ; lakohamu haki lozoramasu luhasu` | Bake | Artifact agency; `ha-su` |
+| S664 (CKG-001-F) | `ki lohazorama ; dehaki ; hazorama ne besu` | Remove + cool | W216 (`ha-zo-ra-ma`) first att. |
