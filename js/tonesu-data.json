@@ -1937,7 +1937,7 @@
       "form": "vo-mu",
       "written": "vomu",
       "gloss": "garment, clothing, value-artifact worn on body",
-      "status": "proposed",
+      "status": "active",
       "domain": "material / social",
       "roots": [
         "vo",
@@ -2980,6 +2980,21 @@
         "ka",
         "be",
         "ne"
+      ]
+    },
+    {
+      "wnum": "W219",
+      "form": "fe-vo'si-ko-mu",
+      "written": "fevo'sikomu",
+      "gloss": "consecrated inscribed object / pentacle / talisman",
+      "status": "active",
+      "domain": "magic / ritual / inscription",
+      "roots": [
+        "fe",
+        "vo",
+        "si",
+        "ko",
+        "mu"
       ]
     }
   ]
