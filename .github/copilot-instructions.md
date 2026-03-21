@@ -15,7 +15,7 @@ the ground-truth source of record when answering questions or doing work.
 | `spec/` | All normative language rules — grammar, phonology, morphology, word-formation, naming, domain-creation, principles. Start here for language design questions. |
 | `registry/` | All word inventories — primitives, derived compounds, roots, domains, colloquial forms. The `derived/` subfolder holds the active intake file and full entry files. |
 | `registry/derived/` | Derived compound full entries split by W-number range; `index.md` is the quick-reference. New entries always go into `w101-plus.md` first. |
-| `corpus/sentences/` | Numbered sentence corpus organized by format era. `v4-current/s398-plus.md` is the active intake file. Older eras in `v1-legacy/`, `v2-labeled/`, `v3-transition/`. |
+| `corpus/sentences/` | Numbered sentence corpus organized by format era. `v4-current/s549-plus.md` is the active intake file. Older eras in `v1-legacy/`, `v2-labeled/`, `v3-transition/`. |
 | `corpus/translations/` | Translation stress tests by source text. Each source gets its own subfolder (e.g. `Bible/`). |
 | `notes/` | Open questions, design notes, semantic map, basics summary, prior-art. Non-normative but important context. |
 | `www/docs/` | Website source files (Markdown pages, overrides, CSS). Built by `scripts/build.py` and MkDocs. |
@@ -47,7 +47,7 @@ Never renumber existing W-numbers or S-numbers when splitting.
 | Colloquial contracted forms | `registry/colloquial.md` |
 | Sentence corpus quick-reference index | `corpus/sentences/index.md` |
 | Kind-term taxonomy tree (living things + matter) | `registry/kinds.md` |
-| Active sentence intake (new sentences here first) | `corpus/sentences/v4-current/s398-plus.md` |
+| Active sentence intake (new sentences here first) | `corpus/sentences/v4-current/s549-plus.md` |
 | Corpus index | `corpus/index.md` |
 | Bible translation stress tests | `corpus/translations/Bible/` |
 | Digit, color, scale-prefix, and CVC/CVCC exceptional anchor inventory | `notes/anchor-inventory.md` |
@@ -158,7 +158,7 @@ Key instances: `to-no-fe` omniscience · `ra-no-fe` omnipotence ·
 
 ### Process conventions
 
-- Corpus tests are tracked under batch labels: THO- (theological), GRAM- (grammar), etc. New batches go in `corpus/sentences/v4-current/s398-plus.md`.
+- Corpus tests are tracked under batch labels: THO- (theological), GRAM- (grammar), etc. New batches go in `corpus/sentences/v4-current/s549-plus.md`.
 - Open questions are logged in `notes/open-questions.md`. Mark resolved with `[x]` and a brief resolution note; do not delete old entries.
 - New derived entries always go into `registry/derived/w101-plus.md` first, then update `registry/derived/index.md` (sections A, B, and C).
 

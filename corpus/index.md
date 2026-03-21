@@ -37,7 +37,8 @@ Conversation entries (C-series) use a multi-turn format with `A:` / `B:` turn ma
 | [sentences/s252-s278.md](sentences/s252-s278.md) | S252–S278 | Cat-family taxonomy (KNM-003) · canid-family (KNM-004) · legal theory epistemics (LGL-001) |
 | [sentences/s279-s334.md](sentences/s279-s334.md) | S279–S334 | KNM-005 bird taxonomy · PLT-001 plants · MAT-001/002 rock/soil/water · KNM-006–008 fish/ungulates/arthropods · FNG-001 fungi |
 | [sentences/s335-s397.md](sentences/s335-s397.md) | S335–S397 | GRM-001/002 grammar · THO-001 divine attributes · GOD-RES · FAL-001–007 fallacy corpus |
-| [sentences/s398-plus.md](sentences/s398-plus.md) | S398+ | EXO-001 · LSP-001 · FMQ-001 · JOH-001 · NEW-001 · ROM-001 · DKN-001 · MTH-001 · WIT-001 · HAM-001 · LPR-001 · BSH-001 · EMD-001/002 · TAO-001 · SCL-001/002 · VPT-001 · VPC-001 · CVP-001 · COR-001 *(ongoing)* |
+| [sentences/s398-s548.md](sentences/s398-s548.md) | S398–S548 | EXO-001 · LSP-001 · FMQ-001 · JOH-001 · NEW-001 · ROM-001 · DKN-001 · MTH-001 · WIT-001 · HAM-001 · LPR-001 · BSH-001 · EMD-001/002 · TAO-001 · SCL-001/002 · VPT-001 · VPC-001 · CVP-001 · COR-001 · DEB-001 |
+| [sentences/s549-plus.md](sentences/s549-plus.md) | S549+ | EXC-001 · PAV-001 · MED-001 · DIP-001 · STW-001/002 · DND-001–004 · DOI-001 · CDA-001 · ACA-001 · CKG-001 · SUT-001 *(ongoing)* |
 
 ### Conversations
 

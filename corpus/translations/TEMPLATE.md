@@ -195,7 +195,7 @@ When a new CLQ entry is registered from this batch, update both
 
 1. Name the file after the source text slug: `source-title.md`
 2. Place it in the correct category folder (`Bible/`, `Literature/`, `Philosophy/`, `Science/`)
-3. Add the batch sentences to `corpus/sentences/v4-current/s398-plus.md` (or current active intake)
+3. Add the batch sentences to `corpus/sentences/v4-current/s549-plus.md` (or current active intake)
 4. Add the batch entry to `corpus/batches.yaml`
 5. Add sentence entries to `corpus/sentences.yaml`
 6. Run `python scripts/build.py` — the file will be copied to `www/docs/totonesu/corpus/translations/{category}/{slug}/index.md`

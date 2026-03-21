@@ -1,6 +1,6 @@
 # Batch Template — v4-current format
 
-New corpus batches go in `s398-plus.md` (or the current active intake file)
+New corpus batches go in `s549-plus.md` (or the current active intake file)
 following this exact format. Do not invent variant layouts.
 
 ---
