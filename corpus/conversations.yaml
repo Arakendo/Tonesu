@@ -496,7 +496,7 @@ conversations:
   - predicate-type disambiguation
   - most-recent-salient rule
   - restatement as the canonical disambiguation strategy
-  - '`no` contrast coordinator as disambiguation tool'
+  - '`no` contrast coordinator as disambiguation tool.'
   status: normative
   source_file: conversations/c008-plus.md
   turns:
@@ -509,7 +509,11 @@ conversations:
     words_attested:
     - W098
     first_attests: []
-    notes: null
+    notes: "- `la-ze` = archivist (absent third party). Agent slot; unambiguous person-reading.\n\
+      - `de lo-si-de` = caused the past-signal record to decay = suppressed/destroyed\
+      \ the\n  document. `si-de` (W098: past-signal, signal-of-record) in the patient\
+      \ slot.\n  `ta-ti-de` = at past time.\n- **State of discourse after A1:** ze-the-person\
+      \ is the sole salient referent. No\n  proposition is yet a discourse entity."
     turn_subtitle: Person-reading (`la-ze` agent slot)
   - turn: B1
     tonesu: la-mi  si  [la-ze  no-de  lo-si-de]
@@ -518,7 +522,13 @@ conversations:
     words_attested:
     - W098
     first_attests: []
-    notes: null
+    notes: "- B challenges A1 at `si` level — not asserting the counterclaim as established,\
+      \ only\n  as hypothesis. Correct Tonesu practice: challenge at the lowest confident\
+      \ epistemic\n  level.\n- **State of discourse after B1:** two referents are\
+      \ now simultaneously salient:\n  (1) ze-the-person (from A1, `la-ze` agent of\
+      \ the alleged act); and\n  (2) B1's counterclaim proposition (`la-ze  no-de\
+      \  lo-si-de`) as an explicit discourse\n  entity. This is the collision that\
+      \ P-PR-001 anticipates."
     turn_subtitle: Competing proposition enters discourse
   - turn: A2
     tonesu: la-mi  to  [lo-ze  se]
@@ -526,7 +536,20 @@ conversations:
     natural: 'I hold as established: that claim is mere raw perception.'
     words_attested: []
     first_attests: []
-    notes: null
+    notes: "- `lo-ze` = B1's proposition — not ze-the-person. A is dismissing the\
+      \ counterclaim as\n  being at `se` level: B's hypothesis lacks evidential grounding.\n\
+      - **Why person-reading is blocked:** `se` (raw perception / signal-level epistemic\
+      \ datum)\n  predicates of data, claims, and epistemic states — not of persons.\
+      \ `lo-ze  se` read as\n  \"ze (the archivist) is raw perception\" is incoherent:\
+      \ persons are not epistemic data\n  levels. Therefore `ze` is forced to the\
+      \ propositional referent (B1's claim).\n- **Predicate-type disambiguation confirmed.**\
+      \ Same form as C005 B1 (`la-mi  to  [lo-ze\n  se]` — identical) where it was\
+      \ also propositional and also unambiguous. A2 adds the\n  crucial analytical\
+      \ dimension: the person-referent was actively in discourse and *still*\n  the\
+      \ proposition was forced by predicate incompatibility.\n- A's escalation pattern:\
+      \ A opens with a `to`-level denial of B's epistemic status,\n  not a re-assertion\
+      \ of the underlying charge. Methodical: address the challenge before\n  re-asserting\
+      \ the original claim."
     turn_subtitle: Propositional `ze`, forced by predicate-type
   - turn: B2
     tonesu: la-mi  to  [lo-ze  to-fe-ka]
@@ -535,7 +558,20 @@ conversations:
     words_attested:
     - W029
     first_attests: []
-    notes: null
+    notes: "- **First genuine `ze` ambiguity in the corpus.** Two coherent readings:\n\
+      \  - **Person-reading:** \"I hold as established that ze (the archivist) committed\n\
+      \    deliberate epistemic boundary violation.\" B is counter-charging ze — the\
+      \ same entity\n    A accused in A1.\n  - **Proposition-reading:** \"I hold as\
+      \ established that A2's move — dismissing my\n    testimony as mere `se` — is\
+      \ itself `to-fe-ka`.\" B is accusing A of epistemic\n    deflation: deliberately\
+      \ downgrading B's evidenced hypothesis to `se` level.\n- `to-fe-ka` (W029: deliberate\
+      \ epistemic boundary violation) applies coherently to both\n  persons (as agents\
+      \ of the violation) and to propositions/claims (as acts or moves that\n  constitute\
+      \ the violation). No predicate-type incompatibility is possible here.\n- **Neither\
+      \ referent is more grammatically prominent.** B1 introduced a proposition;\n\
+      \  A1 introduced the person. Both are one turn away from B2. The discourse does\
+      \ not\n  structurally favour either.\n- This is the breaking point P-PR-001\
+      \ was watching for."
     turn_subtitle: Genuinely ambiguous `lo-ze`
   - turn: A3
     tonesu: la-ze  to-fe-ka  no  la-mi
@@ -544,7 +580,21 @@ conversations:
     words_attested:
     - W029
     first_attests: []
-    notes: null
+    notes: "- **Disambiguation by NP restatement in the same sentence.** A interprets\
+      \ B2 as the\n  person-reading (ze charged with fraud) and clarifies: `la-ze\
+      \ ... no la-mi` uses the\n  `no` contrast coordinator to make explicit who is\
+      \ the agent of `to-fe-ka`. \"Ze did it,\n  not me.\" This rules out the proposition-reading\
+      \ entirely — if B had been charging A's\n  epistemic move (A2) as fraudulent,\
+      \ the contrast referent would not be `la-mi`; A is\n  instead re-asserting ze-the-person\
+      \ as the fraud actor.\n- **`no` contrast coordinator as disambiguation tool.**\
+      \ The standard Level 4 negation\n  (`[actual constituent]  no  [rejected alternative]`,\
+      \ formalized spec/grammar.md §\n  Negation) performs double duty here: it clarifies\
+      \ the referent AND asserts the charge.\n  `la-ze  to-fe-ka  no  la-mi` = \"\
+      [It is] ze [who committed] fraud, not me.\"\n- **Most-recently-salient rule\
+      \ confirmed by failure mode.** A could not rely on recency\n  alone; `to-fe-ka`\
+      \ was too compatible with both referents. Restatement was *required*\n  to resolve\
+      \ the ambiguity. This is the finding: the most-recent-salient rule is\n  insufficient\
+      \ when a predicate applies symmetrically to both types."
     turn_subtitle: Disambiguation by restatement
   - turn: B3
     tonesu: la-mi  se  [la-ze  de  lo-si-de]  —  la-tu  ka-si  lo-to-fe-su
@@ -557,5 +607,24 @@ conversations:
     - W072
     - W098
     first_attests: []
-    notes: null
+    notes: "- **First positive attestation of `la-mi  se  [embedded clause]`.** The\
+      \ epistemic modal\n  frame `la-[speaker]  se  [proposition]` had its corpus\
+      \ column in spec/grammar.md marked\n  \"positive awaited\" — the negated form\
+      \ `no-se` was attested at C007 B4 but the positive\n  `la-mi  se  [prop]` had\
+      \ not appeared in the record until now. C008 B3 closes that gap.\n  The positive\
+      \ form means: \"I have perceptual / signal-level grounds for noting [prop].\"\
+      \n  Applied to testimony: the arbiter received A's claim as a perceptual input\
+      \ (they heard\n  it) and records it at exactly that level — no higher.\n- **Arbiter\
+      \ uses `se` (perceptual/floor level) for the ruling-note.** B does not certify\n\
+      \  A's charge at `to` or `si` level — B acknowledges A's testimony as perceptually\
+      \ received\n  (`se`) and routes it to `to-fe-su` for adjudication. Correct Tonesu\
+      \ arbitration\n  form: the arbiter records the testimony at the level it was\
+      \ received, not at a higher\n  asserted level.\n- **Explicit NP `la-ze` replaces\
+      \ `lo-ze` in B3.** The arbiter re-states A1's claim in\n  full (`la-ze  de \
+      \ lo-si-de`) rather than using `ze` back-reference. This is the\n  Tonesu formal-register\
+      \ practice: once ambiguity has been produced in a proceeding,\n  explicit NPs\
+      \ are preferred over pronouns in the official record. The rationale is\n  institutional,\
+      \ not grammatical: the record must be unambiguous to `to-fe-su`.\n- `la-tu \
+      \ ka-si  lo-to-fe-su` = second corpus use of `to-fe-su` routing (first: C005\
+      \ B3).\n  Same institutional routing pattern; confirms it is productive."
     turn_subtitle: 'Arbiter''s record: explicit NP, no ze back-reference'
