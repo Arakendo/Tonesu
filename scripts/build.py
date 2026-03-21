@@ -6,6 +6,8 @@ Runs the full rebuild pipeline in the correct dependency order:
 
   Step 0  extract_sentences.py       — extract sentence records from v4-current
                                         markdown into sentences.yaml
+          extract_batches.py         — derive batches.yaml from sentences.yaml
+                                        and markdown headings
   Step 1  generate_registry_md.py    — sync registry/derived/*.md from entries.yaml
                                         (GitHub-browsable human-readable files)
   Step 2  annotate_words_attested.py — populate words_attested on sentences and
@@ -34,6 +36,7 @@ SCRIPTS_DIR = REPO / "scripts"
 
 STEPS = [
     (0, "extract_sentences.py",       "Extract sentences from v4-current → sentences.yaml"),
+    (0, "extract_batches.py",         "Derive batches.yaml from sentences.yaml + markdown headings"),
     (1, "generate_registry_md.py",    "Sync registry/derived/*.md from entries.yaml"),
     (2, "annotate_words_attested.py", "Annotate words_attested on sentences and turns"),
     (3, "derive_first_attests.py",    "Derive first_attests; backfill first_use"),

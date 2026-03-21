@@ -749,6 +749,11 @@ batches:
   theme: Translation
   range: S418–S438
   count: 21
+- code: FMQ-001
+  title: Famous Quote Operator Tests
+  theme: Foundations
+  range: S439–S446
+  count: 8
 - code: JOH-001
   title: John 1:1 — Identity Operator Stress Test
   theme: Translation
@@ -795,12 +800,12 @@ batches:
   range: S468–S470
   count: 3
 - code: EMD-001
-  title: Em-Dash Attestation
+  title: Emily Dickinson, "Because I could not stop for Death" (F479/J712, ~1863) — Stanzas 1 & 6
   theme: Grammar & syntax
   range: S471–S473
   count: 3
 - code: TAO-001
-  title: Tao Te Ching — Way & Non-Action
+  title: Laozi, *Tao Te Ching* (道德經), Chapter 1, Lines 1–4
   theme: Theology & philosophy
   range: S474–S476
   count: 3
@@ -808,12 +813,7 @@ batches:
   title: '`;` Productivity Corpus Test'
   theme: Grammar & syntax
   range: S477–S488
-  count: 11
-- code: SCL-001-F — contrast with S444
-  title: Sequential Connector Contrast
-  theme: Grammar & syntax
-  range: S482
-  count: 1
+  count: 12
 - code: SCL-002
   title: '`;` Extended Corpus Test'
   theme: Grammar & syntax
@@ -871,51 +871,51 @@ batches:
   count: 9
 - code: STW-001
   title: Star Wars — The Jedi Code
-  theme: Translation
+  theme: Foundations
   range: S588–S592
   count: 5
 - code: STW-002
   title: Star Wars — The Sith Code
-  theme: Translation
+  theme: Foundations
   range: S593–S598
   count: 6
 - code: DND-001
   title: D&D — The Eight Schools of Magic
-  theme: Translation
+  theme: Foundations
   range: S599–S608
   count: 10
 - code: DND-002
   title: D&D — The Nine Alignments
-  theme: Translation
+  theme: Foundations
   range: S609–S618
   count: 10
 - code: DND-003
   title: D&D — The Great Wheel Cosmology
-  theme: Translation
+  theme: Foundations
   range: S619–S628
   count: 10
 - code: DOI-001
   title: Declaration of Independence — Preamble
-  theme: Translation
+  theme: Foundations
   range: S629–S638
   count: 10
 - code: CDA-001
   title: Communications Decency Act — Section 230(c)(1)
-  theme: Translation / Stress Test
+  theme: Foundations
   range: S639–S644
   count: 6
 - code: ACA-001
-  title: ACA Individual Mandate — 26 U.S.C. §5000A (penalty vs tax)
-  theme: Translation / Stress Test
+  title: ACA Individual Mandate (26 U.S.C. §5000A)
+  theme: Foundations
   range: S645–S650
   count: 6
 - code: DND-004
-  title: D&D — The Classes (8-class founding set)
-  theme: Translation
+  title: D&D — The Classes
+  theme: Foundations
   range: S651–S658
   count: 8
 - code: CKG-001
   title: Cookie Recipe — Chocolate Chip Cookies
-  theme: Translation
+  theme: Foundations
   range: S659–S664
   count: 6

@@ -297,7 +297,7 @@ title: "D&D — The Eight Schools of Magic"
 | Sith Order | `wi-su` | `wi-de` | STW-002 |
 | The Force (`ara`) | `wi-su-fe` | `wi-vo-fe` | STW-001 (cross-ref) |
 
-## DND-004 · D&D — The Classes (8-class founding set)
+## DND-004 · D&D — The Classes
 
 <span id="S651"></span>
 **S651**

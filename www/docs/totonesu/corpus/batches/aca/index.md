@@ -1,8 +1,8 @@
 ---
-title: "ACA Individual Mandate — 26 U.S.C. §5000A (penalty vs tax)"
+title: "ACA Individual Mandate (26 U.S.C. §5000A)"
 ---
 
-# ACA Individual Mandate — 26 U.S.C. §5000A (penalty vs tax)
+# ACA Individual Mandate (26 U.S.C. §5000A)
 
 *Theme: [Foundations](../../foundations/overview/)* · 6 sentences.
 
@@ -12,7 +12,7 @@ title: "ACA Individual Mandate — 26 U.S.C. §5000A (penalty vs tax)"
 
 ---
 
-## ACA-001 · ACA Individual Mandate — 26 U.S.C. §5000A (penalty vs tax)
+## ACA-001 · ACA Individual Mandate (26 U.S.C. §5000A)
 
 <span id="S645"></span>
 **S645**

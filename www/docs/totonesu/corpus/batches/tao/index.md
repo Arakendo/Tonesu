@@ -12,7 +12,7 @@ title: "Tao Te Ching — Way & Non-Action"
 
 ---
 
-## TAO-001 · Tao Te Ching — Way & Non-Action
+## TAO-001 · Laozi, *Tao Te Ching* (道德經), Chapter 1, Lines 1–4
 
 **Purpose:** Untranslatable-concept stress test. No possibility modal (GAP-TAO-001); 道 as noun/verb pun (GAP-TAO-002); the naming-the-unnameable paradox (GAP-TAO-003). `su` as mapping for 道 (the Tao); `[X]-no-fe` at cosmic scale; `helms` for ontological definition; `/` as parallel partition for the nameless/named dyad.
 

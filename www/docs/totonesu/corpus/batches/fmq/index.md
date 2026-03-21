@@ -1,8 +1,8 @@
 ---
-title: "FMQ"
+title: "Famous Quote Operator Tests"
 ---
 
-# FMQ
+# Famous Quote Operator Tests
 
 *Theme: [Foundations](../../foundations/overview/)* · 8 sentences.
 
@@ -10,7 +10,7 @@ title: "FMQ"
 
 ---
 
-## FMQ-001 · FMQ-001
+## FMQ-001 · Famous Quote Operator Tests
 
 **Purpose:** Stress-tests the three identity/equivalence operators — `helm` (G011, functional equivalence), `helms` (G012, strict definitional identity), and `ven` (G010, approximation hedge) — against famous philosophical, theological, and scientific quotes. Sources: Bacon, Franklin, Nietzsche, 1 John 4:8, Aristotle, Descartes, G. E. P. Box. Grouped: S439–S441 (`helm`), S442–S443 (`helms`), S444 (causal `go` contrast), S445–S446 (`ven`).
 

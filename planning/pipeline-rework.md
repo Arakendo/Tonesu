@@ -1,7 +1,7 @@
 # Pipeline Rework Plan
 
 *Created: 2026-03-20*
-*Status: Phase 2 complete — Phase 3 next*
+*Status: Phase 3 complete — Phase 5 next (Phase 4 deferred)*
 
 ---
 
@@ -36,6 +36,7 @@ The two automated paths (registry YAML→MD and translation MD→site) work well
 | Step | Script | Reads | Writes |
 |---|---|---|---|
 | 0 | `extract_sentences.py` | `corpus/sentences/v4-current/*.md`, existing `sentences.yaml` | `sentences.yaml` |
+| 0 | `extract_batches.py` | `sentences.yaml`, `corpus/sentences/**/*.md`, existing `batches.yaml` | `batches.yaml` |
 | 1 | `generate_registry_md.py` | `entries.yaml` | `registry/derived/*.md`, `registry/derived/index.md` |
 | 2 | `annotate_words_attested.py` | `entries.yaml`, `sentences.yaml`, `conversations.yaml` | `sentences.yaml`, `conversations.yaml` (words_attested fields) |
 | 3 | `derive_first_attests.py` | `sentences.yaml`, `conversations.yaml`, `entries.yaml` | `sentences.yaml`, `conversations.yaml` (first_attests), `entries.yaml` (first_use backfill) |
@@ -286,7 +287,7 @@ After all phases, the pipeline would be:
 - [x] **Phase 2** — Write `extract_sentences.py` parser for v4-current format *(2026-03-22)*
 - [x] **Phase 2** — Wire extraction into `build.py` as Step 0 *(2026-03-22)*
 - [x] **Phase 2** — Verify roundtrip: extract → annotate → derive → build produces identical output *(2026-03-22)*
-- [ ] **Phase 3** — Derive `batches.yaml` from extracted sentence data
+- [x] **Phase 3** — Derive `batches.yaml` from extracted sentence data *(2026-03-21)*
 - [ ] **Phase 4** — Write conversation extraction parser
 - [ ] **Phase 5** — Generate `colloquial.md` from `colloquial.yaml`
 - [ ] Update `.github/copilot-instructions.md` to reflect new workflow

@@ -12,7 +12,7 @@ title: "Em-Dash Attestation"
 
 ---
 
-## EMD-001 · Em-Dash Attestation
+## EMD-001 · Emily Dickinson, "Because I could not stop for Death" (F479/J712, ~1863) — Stanzas 1 & 6
 
 **Purpose:** Personification of abstract process as social agent (`de-zo-li`); narration from beyond death (`la-mi` as dead speaker); the Dickinson dash (GAP-EMD-001); `helm` as poetic metaphor operator; Immortality personified separately from Eternity.
 

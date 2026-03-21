@@ -16,12 +16,12 @@ Core sentences from the earliest Tonesu attestations — basic agent-patient str
 |-------------|---------|-----------|
 | [Early & Unbatched Sentences](../../batches/_foundations/) | 1 | 37 |
 | [Foundational Sentences](../../batches/t/) | 5 | 5 |
-| [FMQ](../../batches/fmq/) | 1 | 8 |
+| [Famous Quote Operator Tests](../../batches/fmq/) | 1 | 8 |
 | [Star Wars — The Jedi Code](../../batches/stw/) | 2 | 11 |
 | [D&D — The Eight Schools of Magic](../../batches/dnd/) | 4 | 38 |
 | [Declaration of Independence — Preamble](../../batches/doi/) | 1 | 10 |
 | [Communications Decency Act — Section 230(c)(1)](../../batches/cda/) | 1 | 6 |
-| [ACA Individual Mandate — 26 U.S.C. §5000A (penalty vs tax)](../../batches/aca/) | 1 | 6 |
+| [ACA Individual Mandate (26 U.S.C. §5000A)](../../batches/aca/) | 1 | 6 |
 | [Cookie Recipe — Chocolate Chip Cookies](../../batches/ckg/) | 1 | 6 |
 
 ---

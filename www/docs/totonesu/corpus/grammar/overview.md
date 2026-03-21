@@ -33,7 +33,7 @@ Systematic tests of particles, operators, valence frames, connectives, scope, as
 | [The Liar Paradox — Self-Referential Truth Stress Test](../../batches/lpr/) | 1 | 3 |
 | [Bashō, Frog Haiku (1686) — Kireji Stress Test](../../batches/bsh/) | 1 | 3 |
 | [Em-Dash Attestation](../../batches/emd/) | 2 | 13 |
-| [Sequential Connector Tests](../../batches/scl/) | 3 | 17 |
+| [Sequential Connector Tests](../../batches/scl/) | 2 | 17 |
 | [V-Particle Productivity Test](../../batches/vpt/) | 1 | 10 |
 | [V-Prefix Class Productivity Test](../../batches/vpc/) | 1 | 10 |
 | [CV Particle Assignment — Vocative and Attention-Signal](../../batches/cvp/) | 1 | 8 |
