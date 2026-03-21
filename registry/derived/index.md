@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 116 |
+| [w101-plus.md](w101-plus.md) | W101+ | 118 |
 
-**Total: 204 W-series entries** — active: 160 · proposed: 3 · pending: 39 · cold: 0 · retired: 2
+**Total: 206 W-series entries** — active: 162 · proposed: 3 · pending: 39 · cold: 0 · retired: 2
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -60,6 +60,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `go-ne` | W159 | self-originating relation / "I am who I am" | ✅ | [w101-plus](w101-plus.md) |
 | `ha-de` | W044 | cooling, thermal decrease | ✅ | [w001-w050](w001-w050.md) |
 | `ha-zo-ra-ma` | W216 | baked food / thermally-treated food | ✅ | [w101-plus](w101-plus.md) |
+| `ka-be-ne` | W218 | binding / deliberate bond-creation | ✅ | [w101-plus](w101-plus.md) |
 | `ka-de-zo` | W128 | kill, deliberate ending of life | ✅ | [w101-plus](w101-plus.md) |
 | `ka-du-zo-su` | W161 | bread, deliberately crafted plant-product | ✅ | [w101-plus](w101-plus.md) |
 | `ka-li-de` | W205 | tax; governance revenue extraction; governance-sanctioned decrease | ✅ | [w101-plus](w101-plus.md) |
@@ -195,6 +196,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `wi-no-ra` | W132 | meekness, will-without-force | ✅ | [w101-plus](w101-plus.md) |
 | `wi-no-su` | W189 | chaotic; will unbound by structure; spontaneous / freedom-first moral disposition | ✅ | [w101-plus](w101-plus.md) |
 | `wi-ra` | W177 | directed power, authority (will-force) | ✅ | [w101-plus](w101-plus.md) |
+| `wi-ra-li` | W217 | spirit / directed-force-agent | ✅ | [w101-plus](w101-plus.md) |
 | `wi-ra-su` | W179 | magic; the systematic, disciplined practice of directed force | ✅ | [w101-plus](w101-plus.md) |
 | `wi-re` | W099 | feedback loop, iterative goal-cycle | ✅ | [w051-w100](w051-w100.md) |
 | `wi-re-su` | W074 | operational protocol, standing procedure | ✅ | [w051-w100](w051-w100.md) |
@@ -283,6 +285,12 @@ Concept-first lookup: find the compound you need by domain.
 **Academic / Formal Knowledge**
 `de-zo-ki` W186 necromancy · `ge-ki` W187 transmutation · `ge-se-ki` W185 illusion · `ko-fe-ki` W180 abjuration · `pa-be-ki` W181 conjuration · `ra-be-ki` W184 evocation · `to-se-ki` W182 divination · `wi-fa-ki` W183 enchantment · `wi-ra-su` W179 magic
 
+**Action / Process**
+`ka-be-ne` W218 binding / deliberate bond-creation
+
+**Agent / Entity Types**
+`wi-ra-li` W217 spirit / directed-force-agent
+
 **Cosmology / Metaphysics**
 `pa-ma` W194 material realm · `pa-ne-su` W196 cosmological framework · `to-pa` W195 thought-realm
 
@@ -300,6 +308,12 @@ Concept-first lookup: find the compound you need by domain.
 
 **Law / Governance**
 `ka-li-de` W205 tax · `su-zo-ko` W204 coverage · `wi-fe'de` W203 penalty
+
+**Legal / Governance**
+`ka-be-ne` W218 binding / deliberate bond-creation
+
+**Magic / Ritual**
+`ka-be-ne` W218 binding / deliberate bond-creation · `wi-ra-li` W217 spirit / directed-force-agent
 
 **Meta / Language**
 `to'to-ne-su` W170 meta-truth · `to-to-ne-su` W169 knowledge of truth
@@ -327,7 +341,7 @@ Quick lookup by lead primitive root.
 | `fe` | fe-si W024, fe-su W055, fe-no-ka W056, fe-vo W065 |
 | `go` | go-ne W159 |
 | `ha` | ha-de W044, ha-zo-ra-ma W216 |
-| `ka` | ka-mu W047, ka-ne-de W092, ka-no-de-su W120, ka-to-fe W122, ka-de-zo W128, ka-li-su W147, ka-pa-ki W160, ka-du-zo-su W161, ka-pa-ki'ti-re W167, ka-vo-si W168, ka-li-de W205 |
+| `ka` | ka-mu W047, ka-ne-de W092, ka-no-de-su W120, ka-to-fe W122, ka-de-zo W128, ka-li-su W147, ka-pa-ki W160, ka-du-zo-su W161, ka-pa-ki'ti-re W167, ka-vo-si W168, ka-li-de W205, ka-be-ne W218 |
 | `ki` | ki-pa W049, ki-pa-mu W086, ki'ma W114, ki-ne W152 |
 | `ko` | ko-pa W048, ko-mu W052, ko-ne-mu W176, ko-ha-mu W214 |
 | `li` | li-su-li W001, li-be W033, li-pu-pa W036 |
@@ -346,6 +360,6 @@ Quick lookup by lead primitive root.
 | `ti` | ti-fe W037, ti-be W040, ti-de W041, ti-mu W057, ti-re W103, ti-mi W109 |
 | `to` | to-ne-su W000, to-li W003, to-su-mu W010, to-ki-mu W011, to-ki W020, to-su-ki W025, to-si W026, to-ko W027, to-fe W028, to-fe-ka W029, to-su W030, to-fe-li W032, to-re-su W064, to-fe-su W072, to-ru W083, to-go W089, to-fe-su-ki W097, to-ko-re W166, to-to-ne-su W169, to'to-ne-su W170, to-pa W195, to-ki'ne-su W202 |
 | `vo` | vo-ne W118, vo-mu W137 |
-| `wi` | wi-to W045, wi-ka-su W054, wi-si W063, wi-to-su W073, wi-re-su W074, wi-re W099, wi-fe W100, wi-de-li W124, wi-no-ra W132, wi-zo W145, wi-du W175, wi-ra W177, wi-fe'de W203 |
+| `wi` | wi-to W045, wi-ka-su W054, wi-si W063, wi-to-su W073, wi-re-su W074, wi-re W099, wi-fe W100, wi-de-li W124, wi-no-ra W132, wi-zo W145, wi-du W175, wi-ra W177, wi-fe'de W203, wi-ra-li W217 |
 | `zi` | zi-ra W104, zi-ka W105, zi-zo W106, zi-zo-go W107, zi-zo-du W108 |
 | `zo` | zo-no-ki W043, zo-de W051, zo-se-ki W060, zo-to W068, zo-si W069, zo-ne W076, zo-ne-go W077, zo-ne-du W078, zo-ne-ru W079, zo-ne-go-re W080, zo-ne-du-re W081, zo-ra W117, zo-su-be W143, zo-ra-ma W144, zo-li W148, zo-su-ka-li W150, zo-ma W163, zo-ki'ma W164 |

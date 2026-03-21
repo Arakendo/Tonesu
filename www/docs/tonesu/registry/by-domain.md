@@ -77,7 +77,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `ki-ne` · kine | [W152](words/W152.md) | ✅ | sandal, motion-bond (footwear) <br><small>[S044](../../../totonesu/corpus/batches/t-xx#S044) · [S406](../../../totonesu/corpus/batches/exo#S406)</small> |
 | `ki-pa-mu` · kipamu | [W086](words/W086.md) | ✅ | vehicle, moving enclosed place <br><small>[S123](../../../totonesu/corpus/batches/t-ax#S123) · [S124](../../../totonesu/corpus/batches/t-ax#S124) · [S125](../../../totonesu/corpus/batches/t-ax#S125) · [S126](../../../totonesu/corpus/batches/cf#S126) · [S129](../../../totonesu/corpus/batches/cf#S129) · [S130](../../../totonesu/corpus/batches/cf#S130) · [S157](../../../totonesu/corpus/batches/cf#S157) · [S472](../../../totonesu/corpus/batches/emd#S472) · [S515](../../../totonesu/corpus/batches/emd#S515) · [S522](../../../totonesu/corpus/batches/emd#S522)</small> |
 | `ko-ha-mu` · kohamu | [W214](words/W214.md) | ✅ | oven / thermal containment device <br><small>[S659](../../../totonesu/corpus/batches/ckg#S659) · [S663](../../../totonesu/corpus/batches/ckg#S663)</small> |
-| `ko-mu` · komu | [W052](words/W052.md) | ✅ | vessel, container artifact <br><small>[S068](../../../totonesu/corpus/batches/t-ko#S068) · [S121](../../../totonesu/corpus/batches/t-ax#S121) · [S122](../../../totonesu/corpus/batches/t-ax#S122) · [S371](../../../totonesu/corpus/batches/fal#S371) · [S426](../../../totonesu/corpus/batches/lsp#S426) · [S433](../../../totonesu/corpus/batches/lsp#S433)</small> |
+| `ko-mu` · komu | [W052](words/W052.md) | ✅ | vessel, container artifact <br><small>[S068](../../../totonesu/corpus/batches/t-ko#S068) · [S121](../../../totonesu/corpus/batches/t-ax#S121) · [S122](../../../totonesu/corpus/batches/t-ax#S122) · [S371](../../../totonesu/corpus/batches/fal#S371) · [S426](../../../totonesu/corpus/batches/lsp#S426) · [S433](../../../totonesu/corpus/batches/lsp#S433) · [S673](../../../totonesu/corpus/batches/sol#S673) · [S674](../../../totonesu/corpus/batches/sol#S674) · [S675](../../../totonesu/corpus/batches/sol#S675) · [S676](../../../totonesu/corpus/batches/sol#S676) · [S677](../../../totonesu/corpus/batches/sol#S677)</small> |
 | `ko-ne-mu` · konemu | [W176](words/W176.md) | ✅ | chain, shackle, constraining bond <br><small>[S597](../../../totonesu/corpus/batches/stw#S597)</small> |
 | `ma-no-de` · manode | [W046](words/W046.md) | ✅ | medicine, treatment substance <br><small>[S063](../../../totonesu/corpus/batches/t-prm#S063) · [S370](../../../totonesu/corpus/batches/fal#S370)</small> |
 | `ra-ki-mu` · rakimu | [W012](words/W012.md) | ⏳ | engine, motor, generator <br><small>[S034](../../../totonesu/corpus/batches/t-ha#S034) · [S038](../../../totonesu/corpus/batches/t-ha#S038) · [S114](../../../totonesu/corpus/batches/t-ax#S114) · [S115](../../../totonesu/corpus/batches/t-ax#S115) · [S116](../../../totonesu/corpus/batches/t-ax#S116) · [S123](../../../totonesu/corpus/batches/t-ax#S123) · [S124](../../../totonesu/corpus/batches/t-ax#S124) · [S125](../../../totonesu/corpus/batches/t-ax#S125) · [S126](../../../totonesu/corpus/batches/cf#S126) · [S129](../../../totonesu/corpus/batches/cf#S129) · [S130](../../../totonesu/corpus/batches/cf#S130) · [S157](../../../totonesu/corpus/batches/cf#S157)</small> |
@@ -294,7 +294,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `su-ne` · sune | [W174](words/W174.md) | ✅ | harmony, structure-of-connection <br><small>[S591](../../../totonesu/corpus/batches/stw#S591) · [S631](../../../totonesu/corpus/batches/doi#S631) · [S660](../../../totonesu/corpus/batches/ckg#S660)</small> |
 | `su-ru` · suru | [W085](words/W085.md) | ✅ | integrated whole, unified structure <br><small>[S119](../../../totonesu/corpus/batches/t-ax#S119)</small> |
 | `wi-du` · widu | [W175](words/W175.md) | ✅ | victory, achievement (will-result) <br><small>[S597](../../../totonesu/corpus/batches/stw#S597)</small> |
-| `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) <br><small>[S596](../../../totonesu/corpus/batches/stw#S596) · [S599](../../../totonesu/corpus/batches/dnd#S599)</small> |
+| `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) <br><small>[S596](../../../totonesu/corpus/batches/stw#S596) · [S599](../../../totonesu/corpus/batches/dnd#S599) · [S672](../../../totonesu/corpus/batches/sol#S672)</small> |
 
 ## Academic / Formal Knowledge
 
@@ -311,6 +311,22 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `to-se-ki` · toseki | [W182](words/W182.md) | ✅ | divination; pattern-perception-change; magic of transforming perception to access hidden knowledge <br><small>[S602](../../../totonesu/corpus/batches/dnd#S602)</small> |
 | `wi-fa-ki` · wifaki | [W183](words/W183.md) | ✅ | enchantment; willed-affect-shift; magic of intentionally altering affect and will <br><small>[S603](../../../totonesu/corpus/batches/dnd#S603)</small> |
 | `wi-ra-su` · wirasu | [W179](words/W179.md) | ✅ | magic; the systematic, disciplined practice of directed force <br><small>[S599](../../../totonesu/corpus/batches/dnd#S599) · [S600](../../../totonesu/corpus/batches/dnd#S600) · [S601](../../../totonesu/corpus/batches/dnd#S601) · [S602](../../../totonesu/corpus/batches/dnd#S602) · [S603](../../../totonesu/corpus/batches/dnd#S603) · [S604](../../../totonesu/corpus/batches/dnd#S604) · [S605](../../../totonesu/corpus/batches/dnd#S605) · [S606](../../../totonesu/corpus/batches/dnd#S606) · [S607](../../../totonesu/corpus/batches/dnd#S607)</small> |
+
+## Action / Process
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `ka-be-ne` · kabene | [W218](words/W218.md) | ✅ | binding / deliberate bond-creation <br><small>[S673](../../../totonesu/corpus/batches/sol#S673)</small> |
+
+## Agent / Entity Types
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `wi-ra-li` · wirali | [W217](words/W217.md) | ✅ | spirit / directed-force-agent <br><small>[S672](../../../totonesu/corpus/batches/sol#S672) · [S673](../../../totonesu/corpus/batches/sol#S673) · [S677](../../../totonesu/corpus/batches/sol#S677)</small> |
 
 ## Cosmology / Metaphysics
 
@@ -371,6 +387,23 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `ka-li-de` · kalide | [W205](words/W205.md) | ✅ | tax; governance revenue extraction; governance-sanctioned decrease <br><small>[S647](../../../totonesu/corpus/batches/aca#S647) · [S648](../../../totonesu/corpus/batches/aca#S648) · [S649](../../../totonesu/corpus/batches/aca#S649) · [S650](../../../totonesu/corpus/batches/aca#S650)</small> |
 | `su-zo-ko` · suzoko | [W204](words/W204.md) | ✅ | coverage; protective welfare structure; systematic protection for persons <br><small>[S645](../../../totonesu/corpus/batches/aca#S645) · [S646](../../../totonesu/corpus/batches/aca#S646)</small> |
 | `wi-fe'de` · wife'de | [W203](words/W203.md) | ✅ | penalty; sanction; rule-imposed decrease <br><small>[S646](../../../totonesu/corpus/batches/aca#S646) · [S647](../../../totonesu/corpus/batches/aca#S647) · [S648](../../../totonesu/corpus/batches/aca#S648) · [S649](../../../totonesu/corpus/batches/aca#S649) · [S650](../../../totonesu/corpus/batches/aca#S650)</small> |
+
+## Legal / Governance
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `ka-be-ne` · kabene | [W218](words/W218.md) | ✅ | binding / deliberate bond-creation <br><small>[S673](../../../totonesu/corpus/batches/sol#S673)</small> |
+
+## Magic / Ritual
+
+2 compounds
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `ka-be-ne` · kabene | [W218](words/W218.md) | ✅ | binding / deliberate bond-creation <br><small>[S673](../../../totonesu/corpus/batches/sol#S673)</small> |
+| `wi-ra-li` · wirali | [W217](words/W217.md) | ✅ | spirit / directed-force-agent <br><small>[S672](../../../totonesu/corpus/batches/sol#S672) · [S673](../../../totonesu/corpus/batches/sol#S673) · [S677](../../../totonesu/corpus/batches/sol#S677)</small> |
 
 ## Meta / Language
 

@@ -11952,3 +11952,120 @@ sentences:
     state. Closes the batch narrative: currently inactive (S665), target powered (S667),
     feedback (S671) drives toward that target — subject to the no-ramp constraint
     (S668/S670).'
+- snum: S672
+  gloss: Solomon held authority over 72 spirits.
+  batch: SOL-001
+  batch_sub: A
+  status: normative
+  tonesu: la-Solomon  ne  wi-ra  lo-yom bun nu wi-ra-li
+  gloss_line: null
+  natural: Solomon held authority over 72 spirits of directed power.
+  words_attested:
+  - W177
+  - W217
+  first_attests:
+  - W217
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S672
+  notes: 'Authority construction via DIP-001 pattern: `la-X  ne  wi-ra  lo-Y` = X
+    holds directed-power over Y. `wi-ra` (W177) serves as the mediating property connecting
+    agent to patient via `ne`. Numeral phrase in patient position: `lo-yom bun nu
+    wi-ra-li` = "patient: 72 (7·10+2) directed-force-agents." The `lo-` prefix attaches
+    to `yom`, the first element of the number phrase; `wi-ra-li` (W217) is the patient
+    head. W217 first attestation.'
+- snum: S673
+  gloss: He bound them into a vessel.
+  batch: SOL-001
+  batch_sub: B
+  status: normative
+  tonesu: la-Solomon  ka-be-ne  lo-wi-ra-li  lu-ko-mu
+  gloss_line: null
+  natural: Solomon bound the spirits, confining them in a vessel.
+  words_attested:
+  - W052
+  - W217
+  - W218
+  first_attests:
+  - W218
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S673
+  notes: 'W218 (`ka-be-ne`, deliberate bond-creation) first corpus attestation. `lu-ko-mu`
+    uses the result/beneficiary slot as a spatial destination: the vessel is what
+    the binding produces/fills. The antonym `ka-ne-de` (W092, deliberate bond dissolution)
+    gives the full bind/unbind pair.'
+- snum: S674
+  gloss: He sealed the vessel with his sign.
+  batch: SOL-001
+  batch_sub: C
+  status: normative
+  tonesu: la-Solomon  ka-fe-si  lo-ko-mu  go-si
+  gloss_line: null
+  natural: Solomon sealed the vessel with his sign.
+  words_attested:
+  - W052
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S674
+  notes: '`ka-fe-si` = deliberately-impose-boundary-signal = seal (compositional:
+    `ka` + `fe-si` W024; no registry entry). `go-si` = "by means of / originating
+    from signal" = instrumental use of `go-`. The causal origin of the sealing is
+    Solomon''s sign/mark; agent identity makes `si` unambiguous.'
+- snum: S675
+  gloss: The Babylonians found the vessel.
+  batch: SOL-001
+  batch_sub: D
+  status: normative
+  tonesu: la-li-Bavel  se-ka  lo-ko-mu
+  gloss_line: null
+  natural: The Babylonians found the vessel through investigation.
+  words_attested:
+  - W034
+  - W052
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S675
+  notes: '`li-Bavel` = person-of-Bavel = Babylonian (Bavel = Hebrew name for Babylon).
+    Group NP with `la-` agent prefix: Babylonians-as-agent. W034 (`se-ka`, examination/deliberate
+    inspection) fits: the Babylonians were excavating the buried pit deliberately,
+    not stumbling upon it.'
+- snum: S676
+  gloss: They opened it.
+  batch: SOL-001
+  batch_sub: E
+  status: normative
+  tonesu: la-li-Bavel  ka-no-ko  lo-ko-mu
+  gloss_line: null
+  natural: The Babylonians opened the vessel.
+  words_attested:
+  - W052
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S676
+  notes: '`ka-no-ko` = deliberately-act-toward-no-containment = open a sealed container.
+    Compositional: `ka` (deliberate) + `no` (negation) + `ko` (containment/interior).
+    No new vocabulary required.'
+- snum: S677
+  gloss: The spirits came forth.
+  batch: SOL-001
+  batch_sub: F
+  status: normative
+  tonesu: la-wi-ra-li  ki  go-ka-no-ko'ko-mu
+  gloss_line: null
+  natural: The spirits moved forth, [released by] the opening of the vessel.
+  words_attested:
+  - W052
+  - W217
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S677
+  notes: '`go-ka-no-ko''ko-mu` = "caused by [the opening]-of-[the vessel]." First
+    `go-[action''object]` causal nominalization in the corpus: `''` juncture binds
+    the action compound `ka-no-ko` to its object `ko-mu`; `go-` takes the resulting
+    nominalized event as its causal argument. `ki` (motion, primitive) — direction
+    unspecified; narrative context supplies the outward reading.'

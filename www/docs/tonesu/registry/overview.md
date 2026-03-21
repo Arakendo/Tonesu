@@ -4,7 +4,7 @@ title: Word Registry
 
 # Word Registry
 
-202 derived compounds, sorted alphabetically.
+204 derived compounds, sorted alphabetically.
 
 See also: [English index](english.md) · [By domain](by-domain.md) · [By root](by-root.md) · [Building words](../words.md)
 
@@ -40,6 +40,7 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `go-ne` · gone | [W159](words/W159.md) | ✅ | self-originating relation / "I am who I am" <br><small>[S415](../../../totonesu/corpus/batches/exo#S415) · [S638](../../../totonesu/corpus/batches/doi#S638)</small> |
 | `ha-de` · hade | [W044](words/W044.md) | ✅ | cooling, thermal decrease <br><small>[S060](../../../totonesu/corpus/batches/t-prm#S060)</small> |
 | `ha-zo-ra-ma` · hazorama | [W216](words/W216.md) | ✅ | baked food / thermally-treated food <br><small>[S664](../../../totonesu/corpus/batches/ckg#S664)</small> |
+| `ka-be-ne` · kabene | [W218](words/W218.md) | ✅ | binding / deliberate bond-creation <br><small>[S673](../../../totonesu/corpus/batches/sol#S673)</small> |
 | `ka-de-zo` · kadezo | [W128](words/W128.md) | ✅ | kill, deliberate ending of life |
 | `ka-du-zo-su` · kaduzosu | [W161](words/W161.md) | ✅ | bread, deliberately crafted plant-product <br><small>[S429](../../../totonesu/corpus/batches/lsp#S429)</small> |
 | `ka-li-de` · kalide | [W205](words/W205.md) | ✅ | tax; governance revenue extraction; governance-sanctioned decrease <br><small>[S647](../../../totonesu/corpus/batches/aca#S647) · [S648](../../../totonesu/corpus/batches/aca#S648) · [S649](../../../totonesu/corpus/batches/aca#S649) · [S650](../../../totonesu/corpus/batches/aca#S650)</small> |
@@ -57,7 +58,7 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `ki-pa-mu` · kipamu | [W086](words/W086.md) | ✅ | vehicle, moving enclosed place <br><small>[S123](../../../totonesu/corpus/batches/t-ax#S123) · [S124](../../../totonesu/corpus/batches/t-ax#S124) · [S125](../../../totonesu/corpus/batches/t-ax#S125) · [S126](../../../totonesu/corpus/batches/cf#S126) · [S129](../../../totonesu/corpus/batches/cf#S129) · [S130](../../../totonesu/corpus/batches/cf#S130) · [S157](../../../totonesu/corpus/batches/cf#S157) · [S472](../../../totonesu/corpus/batches/emd#S472) · [S515](../../../totonesu/corpus/batches/emd#S515) · [S522](../../../totonesu/corpus/batches/emd#S522)</small> |
 | `ko-fe-ki` · kofeki | [W180](words/W180.md) | ✅ | abjuration; containment-limit-change; magic of maintaining protective barriers <br><small>[S600](../../../totonesu/corpus/batches/dnd#S600)</small> |
 | `ko-ha-mu` · kohamu | [W214](words/W214.md) | ✅ | oven / thermal containment device <br><small>[S659](../../../totonesu/corpus/batches/ckg#S659) · [S663](../../../totonesu/corpus/batches/ckg#S663)</small> |
-| `ko-mu` · komu | [W052](words/W052.md) | ✅ | vessel, container artifact <br><small>[S068](../../../totonesu/corpus/batches/t-ko#S068) · [S121](../../../totonesu/corpus/batches/t-ax#S121) · [S122](../../../totonesu/corpus/batches/t-ax#S122) · [S371](../../../totonesu/corpus/batches/fal#S371) · [S426](../../../totonesu/corpus/batches/lsp#S426) · [S433](../../../totonesu/corpus/batches/lsp#S433)</small> |
+| `ko-mu` · komu | [W052](words/W052.md) | ✅ | vessel, container artifact <br><small>[S068](../../../totonesu/corpus/batches/t-ko#S068) · [S121](../../../totonesu/corpus/batches/t-ax#S121) · [S122](../../../totonesu/corpus/batches/t-ax#S122) · [S371](../../../totonesu/corpus/batches/fal#S371) · [S426](../../../totonesu/corpus/batches/lsp#S426) · [S433](../../../totonesu/corpus/batches/lsp#S433) · [S673](../../../totonesu/corpus/batches/sol#S673) · [S674](../../../totonesu/corpus/batches/sol#S674) · [S675](../../../totonesu/corpus/batches/sol#S675) · [S676](../../../totonesu/corpus/batches/sol#S676) · [S677](../../../totonesu/corpus/batches/sol#S677)</small> |
 | `ko-ne-mu` · konemu | [W176](words/W176.md) | ✅ | chain, shackle, constraining bond <br><small>[S597](../../../totonesu/corpus/batches/stw#S597)</small> |
 | `ko-pa` · kopa | [W048](words/W048.md) | ✅ | room, enclosed space <br><small>[S064](../../../totonesu/corpus/batches/t-cmp#S064) · [S267](../../../totonesu/corpus/batches/knm#S267) · [S423](../../../totonesu/corpus/batches/lsp#S423) · [S473](../../../totonesu/corpus/batches/emd#S473) · [S516](../../../totonesu/corpus/batches/emd#S516)</small> |
 | `li-be` · libe | [W033](words/W033.md) | ✅ | child, person in growth phase <br><small>[S020](../../../totonesu/corpus/batches/t#S020) · [S059](../../../totonesu/corpus/batches/t-prm#S059) · [S066](../../../totonesu/corpus/batches/t-cmp#S066)</small> |
@@ -109,7 +110,7 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `ra-vo` · ravo | [W071](words/W071.md) | ✅ | signal intensity, energy quality <br><small>[C006-B1](../../../totonesu/corpus/batches/_foundations#C006-B1) · [S067](../../../totonesu/corpus/batches/t-cmp#S067)</small> |
 | `re-ka-ne-li` · rekaneli | [W134](words/W134.md) | ✅ | peacemaker, habitual bond-creator |
 | `se-de-li` · sedeli | [W208](words/W208.md) | ✅ | rogue / stealth agent <br><small>[S653](../../../totonesu/corpus/batches/dnd#S653)</small> |
-| `se-ka` · seka | [W034](words/W034.md) | ✅ | examination, deliberate inspection <br><small>[C004-A2](../../../totonesu/corpus/batches/_foundations#C004-A2) · [S192](../../../totonesu/corpus/batches/_foundations#S192)</small> |
+| `se-ka` · seka | [W034](words/W034.md) | ✅ | examination, deliberate inspection <br><small>[C004-A2](../../../totonesu/corpus/batches/_foundations#C004-A2) · [S192](../../../totonesu/corpus/batches/_foundations#S192) · [S675](../../../totonesu/corpus/batches/sol#S675)</small> |
 | `se-lu` · selu | [W130](words/W130.md) | ✅ | eye, visual perception organ |
 | `se-no-to` · senoto | [W090](words/W090.md) | ⏳ | percept without cognitive model (unresolved signal) |
 | `se-to` · seto | [W062](words/W062.md) | ✅ | perceptual insight, vision <br><small>[S078](../../../totonesu/corpus/batches/t-mys#S078) · [S375](../../../totonesu/corpus/batches/fal#S375) · [S397](../../../totonesu/corpus/batches/fal#S397)</small> |
@@ -174,7 +175,8 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `wi-ka-su` · wikasu | [W054](words/W054.md) | ✅ | ritual, structured intentional practice <br><small>[S073](../../../totonesu/corpus/batches/t-mys#S073)</small> |
 | `wi-no-ra` · winora | [W132](words/W132.md) | ✅ | meekness, will-without-force |
 | `wi-no-su` · winosu | [W189](words/W189.md) | ✅ | chaotic; will unbound by structure; spontaneous / freedom-first moral disposition <br><small>[S612](../../../totonesu/corpus/batches/dnd#S612) · [S615](../../../totonesu/corpus/batches/dnd#S615) · [S618](../../../totonesu/corpus/batches/dnd#S618)</small> |
-| `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) <br><small>[S596](../../../totonesu/corpus/batches/stw#S596) · [S599](../../../totonesu/corpus/batches/dnd#S599)</small> |
+| `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) <br><small>[S596](../../../totonesu/corpus/batches/stw#S596) · [S599](../../../totonesu/corpus/batches/dnd#S599) · [S672](../../../totonesu/corpus/batches/sol#S672)</small> |
+| `wi-ra-li` · wirali | [W217](words/W217.md) | ✅ | spirit / directed-force-agent <br><small>[S672](../../../totonesu/corpus/batches/sol#S672) · [S673](../../../totonesu/corpus/batches/sol#S673) · [S677](../../../totonesu/corpus/batches/sol#S677)</small> |
 | `wi-ra-su` · wirasu | [W179](words/W179.md) | ✅ | magic; the systematic, disciplined practice of directed force <br><small>[S599](../../../totonesu/corpus/batches/dnd#S599) · [S600](../../../totonesu/corpus/batches/dnd#S600) · [S601](../../../totonesu/corpus/batches/dnd#S601) · [S602](../../../totonesu/corpus/batches/dnd#S602) · [S603](../../../totonesu/corpus/batches/dnd#S603) · [S604](../../../totonesu/corpus/batches/dnd#S604) · [S605](../../../totonesu/corpus/batches/dnd#S605) · [S606](../../../totonesu/corpus/batches/dnd#S606) · [S607](../../../totonesu/corpus/batches/dnd#S607)</small> |
 | `wi-re` · wire | [W099](words/W099.md) | ✅ | feedback loop, iterative goal-cycle <br><small>[S179](../../../totonesu/corpus/batches/opx#S179) · [S671](../../../totonesu/corpus/batches/sut#S671)</small> |
 | `wi-re-su` · wiresu | [W074](words/W074.md) | ✅ | operational protocol, standing procedure <br><small>[S088](../../../totonesu/corpus/batches/t-wit#S088) · [S166](../../../totonesu/corpus/batches/p-gp#S166)</small> |

@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-24 translation analyses.
+25 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -35,6 +35,7 @@ gap analysis, and key findings.
 
 ## Literature
 
+- [ars-goetia-binding](../literature/ars-goetia-binding/)
 - [basho-frog](../literature/basho-frog/)
 - [dickinson-death](../literature/dickinson-death/)
 - [dnd-alignments](../literature/dnd-alignments/)

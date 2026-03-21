@@ -107,3 +107,4 @@ Corpus evidence by batch (for cross-reference):
 | DND-004 | D&D — The Classes — archetype vocabulary stress test | S651–S658 | s549-plus.md |
 | CKG-001 | Cookie Recipe — Chocolate Chip Cookies — procedural register; ingredient quantities; baking instructions | S659–S664 | s549-plus.md |
 | SUT-001 | `su-ti` state-snapshot predicate and `wi-fe-ka` rule/law activation — first corpus test of both; W101 first attestation | S665–S671 | s549-plus.md |
+| SOL-001 | Ars Goetia — Solomonic binding narrative (Lesser Key of Solomon) — W217 `wi-ra-li` (spirit/directed-force-agent) and W218 `ka-be-ne` (binding/deliberate bond-creation) first attestations | S672–S677 | s549-plus.md |

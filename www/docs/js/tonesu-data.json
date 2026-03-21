@@ -2955,6 +2955,32 @@
         "ra",
         "ma"
       ]
+    },
+    {
+      "wnum": "W217",
+      "form": "wi-ra-li",
+      "written": "wirali",
+      "gloss": "spirit / directed-force-agent",
+      "status": "active",
+      "domain": "magic / spirit taxonomy",
+      "roots": [
+        "wi",
+        "ra",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W218",
+      "form": "ka-be-ne",
+      "written": "kabene",
+      "gloss": "binding / deliberate bond-creation",
+      "status": "active",
+      "domain": "magic / obligation / constraint",
+      "roots": [
+        "ka",
+        "be",
+        "ne"
+      ]
     }
   ]
 }

@@ -6112,3 +6112,77 @@ entries:
   groups:
   - Organism / Biology
   - Food / Cooking
+- wnum: W217
+  status: active
+  form: wi-ra-li
+  written: wirali
+  gloss: spirit / directed-force-agent
+  lead_root: wi
+  type: compound
+  class: entity (agent)
+  register: magical / theological
+  domain: magic / spirit taxonomy
+  definition: 'spirit; directed-force-agent. An intentional entity whose nature is
+    constituted by willed force — a non-human agent defined by its capacity to exercise
+    directed power. Covers Solomonic spirits and demons in the commanding-and-binding
+    tradition; powerful intentional beings whose defining attribute is the exercise
+    of willed force rather than biological nature (zo-li = person) or artifactual
+    agency (mu-li = AI/institution). Distinct from si-ki-li (W158: messenger/angel
+    — defined by mission and signal) and wi-de-li (W124: adversary — defined by opposition
+    to another). A wi-ra-li may be commanded, bound, and released; its nature is power,
+    not enmity.'
+  composition: 'wi (will/intention) + ra (force/energy) + li (social agent/person)
+    = will-force-agent. Three-root cascade: motivation (wi) → power (ra) → agent-status
+    (li). Right-branch parse: wi-[ra-li] = will-[force-agent] = a wilful being of
+    force.'
+  notes: 'SOL-001 first attestation (S672). Introduced with the Ars Goetia binding
+    narrative: the 72 entities Solomon commanded are the paradigm case. Distinct from
+    si-ki-li (W158: messengers defined by mission) and wi-de-li (W124: adversaries
+    defined by opposition). Neutral as to benevolence: wi-ra-li is not equivalent
+    to de-vo (W121: evil, value-corruption quality); many Solomonic spirits are neither
+    good nor evil in moral terms.'
+  related: 'wi (primitive: will/intention), ra (primitive: force/energy), li (primitive:
+    social agent), si-ki-li (W158: messenger/angel — signal-mission-agent), wi-de-li
+    (W124: adversary — opposing-will-person), wi-ra (W177: directed power/authority
+    — the property these agents embody), wi-ra-su (W179: magic — systematic practice
+    of directed force)'
+  first_use: 'SOL-001, Ars Goetia binding (S672): la-Solomon  ne  wi-ra  lo-yom bun
+    nu wi-ra-li'
+  groups:
+  - Agent / Entity Types
+  - Magic / Ritual
+- wnum: W218
+  status: active
+  form: ka-be-ne
+  written: kabene
+  gloss: binding / deliberate bond-creation
+  lead_root: ka
+  type: compound
+  class: action / process
+  register: magical / legal / general
+  domain: magic / obligation / constraint
+  definition: 'bind; deliberately create a bond. The intentional act of establishing
+    a relational constraint between entities — compelling the bound party into a persisting
+    connection from which it cannot exit unilaterally. Antonym: ka-ne-de (W092, deliberate
+    bond dissolution / unbinding). The be- root encodes that the bond is actively
+    grown into existence; the result is ne (relation/bond) — not a natural or incidental
+    connection but one created by deliberate act. Applies in magical contexts (binding
+    spirits), legal contexts (imposing obligation), and any setting where a persisting
+    relational constraint is deliberately established.'
+  composition: 'ka (deliberate action) + be (growth/increase) + ne (relation/bond)
+    = deliberately grow a bond. Right-branch parse: ka-[be-ne] = deliberate-[bond-formation].
+    Triple structure: intention (ka) → generative direction (be) → relational outcome
+    (ne). Direct antonym pair: ka-be-ne / ka-ne-de (W092).'
+  notes: 'SOL-001 first attestation (S673). Formed by analogy with ka-ne-de (W092:
+    deliberate bond dissolution). The pair is productive: ka-be-ne = bind / create
+    constraint; ka-ne-de = unbind / dissolve constraint. The be/de axis on the ne
+    root gives a full creation–dissolution spectrum for intentional relational acts.'
+  related: 'ka (primitive: deliberate action), be (primitive: growth/increase), ne
+    (primitive: relation/bond), ka-ne-de (W092: deliberate bond dissolution — antonym),
+    ko-ne-mu (W176: chain/shackle — physical artifact of binding), ne-to-fe (W165:
+    covenant — bounded agreement, a different kind of created bond)'
+  first_use: 'SOL-001, Ars Goetia binding (S673): la-Solomon  ka-be-ne  lo-wi-ra-li  lu-ko-mu'
+  groups:
+  - Action / Process
+  - Magic / Ritual
+  - Legal / Governance

@@ -2188,3 +2188,112 @@ la-ki  wi-re  lu-su-ti-be
 **Coverage:** First attestations of W101 (`su-ti`) and all three temporal state forms (`su-ti` / `su-ti-de` / `su-ti-be`); `wi-fe-ka` (forbidden predicate, agentless) and `no-wi-fe-ka` (permitted); policy-as-agent prohibition form; W099 + W101 target-state regulation link.
 
 **Gaps:** opens path to capability vs. permission modality follow-up (`be-vo` axis untested — see testing-ideas.md).
+
+---
+
+## Ars Goetia — Solomonic Binding Narrative (S672–S677)
+
+*Batch purpose (SOL-001): First-attest W217 (`wi-ra-li`, spirit/directed-force-agent) and W218 (`ka-be-ne`, binding/deliberate bond-creation) in corpus sentences. Source: the framing narrative of the Ars Goetia (Lesser Key of Solomon). Tests: authority construction via DIP-001 `ne`+property pattern, numeral phrase in patient slot, result slot as destination (`lu-ko-mu`), instrumental `go-si`, proper-name agent and group NP, and causal nominalization with juncture (`go-ka-no-ko'ko-mu`).*
+
+*New compounds attested this batch: W217 (`wi-ra-li`), W218 (`ka-be-ne`).*
+
+---
+
+**S672 — Solomon held authority over 72 spirits.** *(SOL-001-A)*
+
+```
+la-Solomon  ne  wi-ra  lo-yom bun nu wi-ra-li
+```
+
+**Written:** `laSolomon ne wira loyom bun nu wirali`
+
+**Natural reading:** Solomon held authority over 72 spirits of directed power.
+
+**Notes:** Authority construction via DIP-001 pattern: `la-X  ne  wi-ra  lo-Y` = X holds directed-power over Y. `wi-ra` (W177) serves as the mediating property connecting agent to patient via `ne`. Numeral phrase in patient position: `lo-yom bun nu wi-ra-li` = "patient: 72 (7·10+2) directed-force-agents." The `lo-` prefix attaches to `yom`, the first element of the number phrase; `wi-ra-li` (W217) is the patient head. W217 first attestation.
+
+---
+
+**S673 — He bound them into a vessel.** *(SOL-001-B)*
+
+```
+la-Solomon  ka-be-ne  lo-wi-ra-li  lu-ko-mu
+```
+
+**Written:** `laSolomon kabene lowirali lukomu`
+
+**Natural reading:** Solomon bound the spirits, confining them in a vessel.
+
+**Notes:** W218 (`ka-be-ne`, deliberate bond-creation) first corpus attestation. `lu-ko-mu` uses the result/beneficiary slot as a spatial destination: the vessel is what the binding produces/fills. The antonym `ka-ne-de` (W092, deliberate bond dissolution) gives the full bind/unbind pair.
+
+---
+
+**S674 — He sealed the vessel with his sign.** *(SOL-001-C)*
+
+```
+la-Solomon  ka-fe-si  lo-ko-mu  go-si
+```
+
+**Written:** `laSolomon kafesi lokomu gosi`
+
+**Natural reading:** Solomon sealed the vessel with his sign.
+
+**Notes:** `ka-fe-si` = deliberately-impose-boundary-signal = seal (compositional: `ka` + `fe-si` W024; no registry entry). `go-si` = "by means of / originating from signal" = instrumental use of `go-`. The causal origin of the sealing is Solomon's sign/mark; agent identity makes `si` unambiguous.
+
+---
+
+**S675 — The Babylonians found the vessel.** *(SOL-001-D)*
+
+```
+la-li-Bavel  se-ka  lo-ko-mu
+```
+
+**Written:** `laliBavel seka lokomu`
+
+**Natural reading:** The Babylonians found the vessel through investigation.
+
+**Notes:** `li-Bavel` = person-of-Bavel = Babylonian (Bavel = Hebrew name for Babylon). Group NP with `la-` agent prefix: Babylonians-as-agent. W034 (`se-ka`, examination/deliberate inspection) fits: the Babylonians were excavating the buried pit deliberately, not stumbling upon it.
+
+---
+
+**S676 — They opened it.** *(SOL-001-E)*
+
+```
+la-li-Bavel  ka-no-ko  lo-ko-mu
+```
+
+**Written:** `laliBavel kanoko lokomu`
+
+**Natural reading:** The Babylonians opened the vessel.
+
+**Notes:** `ka-no-ko` = deliberately-act-toward-no-containment = open a sealed container. Compositional: `ka` (deliberate) + `no` (negation) + `ko` (containment/interior). No new vocabulary required.
+
+---
+
+**S677 — The spirits came forth.** *(SOL-001-F)*
+
+```
+la-wi-ra-li  ki  go-ka-no-ko'ko-mu
+```
+
+**Written:** `lawirali ki gokanoko'komu`
+
+**Natural reading:** The spirits moved forth, [released by] the opening of the vessel.
+
+**Notes:** `go-ka-no-ko'ko-mu` = "caused by [the opening]-of-[the vessel]." First `go-[action'object]` causal nominalization in the corpus: `'` juncture binds the action compound `ka-no-ko` to its object `ko-mu`; `go-` takes the resulting nominalized event as its causal argument. `ki` (motion, primitive) — direction unspecified; narrative context supplies the outward reading.
+
+---
+
+## SOL-001 Batch Summary
+
+| Entry | Tonesu | Written form | Key feature |
+|-------|--------|-------------|-------------|
+| S672 (SOL-001-A) | `la-Solomon  ne  wi-ra  lo-yom bun nu wi-ra-li` | `laSolomon ne wira loyom bun nu wirali` | W217 `wi-ra-li` first att. |
+| S673 (SOL-001-B) | `la-Solomon  ka-be-ne  lo-wi-ra-li  lu-ko-mu` | `laSolomon kabene lowirali lukomu` | W218 `ka-be-ne` first att. |
+| S674 (SOL-001-C) | `la-Solomon  ka-fe-si  lo-ko-mu  go-si` | `laSolomon kafesi lokomu gosi` | `ka-fe-si` seal; instrumental `go-si` |
+| S675 (SOL-001-D) | `la-li-Bavel  se-ka  lo-ko-mu` | `laliBavel seka lokomu` | proper-name group NP |
+| S676 (SOL-001-E) | `la-li-Bavel  ka-no-ko  lo-ko-mu` | `laliBavel kanoko lokomu` | `ka-no-ko` = open |
+| S677 (SOL-001-F) | `la-wi-ra-li  ki  go-ka-no-ko'ko-mu` | `lawirali ki gokanoko'komu` | causal nominalization with `'` |
+
+**Coverage:** W217 (`wi-ra-li`) and W218 (`ka-be-ne`) first attested; authority-over construction (`ne` + property + `lo-` patient); numeral phrase in patient position; `lu-` as spatial destination; instrumental `go-si`; proper-name group NP; first `go-[action'object]` causal nominalization.
+
+**Key finding:** The Ars Goetia binding narrative translates into six clean sentences with two new compounds. S677's `go-ka-no-ko'ko-mu` demonstrates that `'` juncture can bind an action to its object inside a `go-` causal frame — causal nominalization is available without new grammar.
