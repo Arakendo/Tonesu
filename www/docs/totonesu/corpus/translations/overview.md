@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-27 translation analyses.
+28 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -51,6 +51,7 @@ gap analysis, and key findings.
 ## Philosophy
 
 - [liar-paradox](../philosophy/liar-paradox/)
+- [lojban-type-contrasts](../philosophy/lojban-type-contrasts/)
 - [proof-structure](../philosophy/proof-structure/)
 - [tao-te-ching-ch1](../philosophy/tao-te-ching-ch1/)
 - [tractatus](../philosophy/tractatus/)

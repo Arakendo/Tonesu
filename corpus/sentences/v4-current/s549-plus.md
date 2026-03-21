@@ -2513,3 +2513,110 @@ to-go {no-ki},  no-re ;  re  su-ti ;  go  to ,  ki
 **Coverage:** `a-` universal scope prefix in a deductive premise (S684); stacked `go {P}, go {P}, C` (S686); `;` vs `go` minimal pair for the Humean/Cartesian distinction (S687/S688); `to-go` counterfactual + `go to,` anaphoric conclusion in reductio structure (S689). No new vocabulary entries — pure grammar and connective test.
 
 **Key finding:** The `;` / `go` distinction is the sharpest distinction in the corpus. `;` = constant conjunction (Hume): two states recorded in sequence. `go` = necessary connection: the premise constitutively grounds the consequence. S687/S688 are minimal pairs on exactly this axis — same propositional content, different logical structure. The Cogito works in Tonesu only with `go`, not `;`.
+
+---
+
+## Lojban Type Contrasts (S690–S695)
+
+*Batch purpose (LOJ-001): Structural comparison against Lojban's distinctive type machinery (CLL, lojban.org). Tests six canonical Lojban features against Tonesu's grammar: `su'o` existential quantification (`i-` prefix vs `a-` universal from S684); `lo nu X` event nominalization (Tonesu's causal-frame approach vs Lojban's first-class event nominal); `na` vs `na'e` claim/predicate negation scope (Tonesu's five-level negation system); `jinvi` + `du'u` belief attribution (`to` primitive frame); `djuno` + `du'u` knowledge attribution (`to-su` organized knowledge frame); `la-li to-su {to-si ...}` embedded indirect question (Tonesu's `to-si` gap-filler inside a propositional frame — first corpus attempt). No new vocabulary — structural analysis batch. Full analysis in `corpus/translations/Philosophy/lojban-type-contrasts.md`.*
+
+---
+
+### S690 — LOJ-001-A
+
+```
+i-zo-li  ne  de-zo
+```
+
+**Written:** `izoli ne dezo`
+
+**Natural reading:** A particular person is mortal.
+
+**Notes:** Existential reading via `i-` (precise/particular scope prefix): "the particular-persons [that exist here] have the mortality property." Contrast with S684 (`a-zo-li ne de-zo` = ALL persons are mortal, universal via `a-`). The `i-` prefix narrows to particulars; the `a-` prefix expands to abstract universals. Lojban encodes this distinction as `su'o prenu cu morsi` (at least one person is mortal = existential, `su'o`) vs `ro prenu cu morsi` (all persons are mortal, `ro`). Tonesu's scope-prefix system (`i-` = precise/particular ≈ existential particularity; `a-` = abstract/universal ≈ `ro`) achieves the same type distinction through a different mechanism — scope prefix on the argument rather than independent pre-argument quantifier words. First explicit existential-scope use of `i-` in the corpus; completes the universal/existential quantification pair.
+
+---
+
+### S691 — LOJ-001-B
+
+```
+go {la-li  ki},  la-li  ne  fa-vo
+```
+
+**Written:** `go lali ki, lali ne favo`
+
+**Natural reading:** Because I move: I have happiness.
+
+**Notes:** Test of event nominalization under causal framing. Lojban equivalent: `lo nu mi klama cu pluka mi` ("the event of my going pleases me") — where `lo nu mi klama` is a first-class nominal (the event of going as a subject that predicts pleasure). Tonesu does not have a dedicated event-nominalization operator. The causal frame `go {X}, Y` routes the same semantic content: the event clause `la-li ki` is the cause; `la-li ne fa-vo` (I have happiness) is the effect. Truth-conditionally equivalent, type-structurally different: Lojban makes the event a noun; Tonesu makes it a cause. The obligatory shift to causal framing is not a failure — it encodes an epistemic commitment that Lojban's neutral `pluka` does not: Tonesu's `go` asserts a constitutive grounding relationship, not merely correlation. Lojban's `lo nu X cu pluka Y` leaves the exact relationship type unspecified; Tonesu specifies it as causal. First explicit corpus test of this Lojban/Tonesu structural divergence.
+
+---
+
+### S692 — LOJ-001-C
+
+```
+la-su-mu  ne  no-pom
+```
+
+**Written:** `lasumu ne nopom`
+
+**Natural reading:** The structure-artifact has the not-blue property.
+
+**Notes:** Predicate negation (maps to Lojban `na'e`). `su-mu` = structural artifact = building/constructed object (compositional: `su` [structure] + `mu` [artifact], no W-entry needed). `no-pom` = not-blue (Level 1 negation: `no-` prefix on the color anchor `pom`). `la-su-mu ne no-pom` = "the building holds the non-blue property as a predicate" — the building EXISTS and has a determinable color, which is not-blue. This is Lojban's `na'e blanu` ("is other-than-blue"): the predicate is negated, not the claim. The building definitely has a color; it is simply not the blue one. Compare S693 (claim negation). Tonesu Level 1 negation (root/compound prefix) is structurally the closest analogue to Lojban's scalar `na'e` negation — both negate at the predicate level and leave the subject's existence unaffected.
+
+---
+
+### S693 — LOJ-001-D
+
+```
+no  la-su-mu  ne  pom
+```
+
+**Written:** `no lasumu ne pom`
+
+**Natural reading:** Not: [the structure-artifact is blue].
+
+**Notes:** Claim negation (maps to Lojban `na`). Fronted `no` denies the entire proposition — the whole predication `la-su-mu ne pom` fails. Established by S550 precedent (`no la-li ne vo` = "not: person has worth"). Lojban: `lo zdani na blanu` ("the house is-not blue"). Minimal pair with S692: same words, different scope. S692 (`la-su-mu ne no-pom`) says: the building has a non-blue property — it exists with a determinable color that isn't blue. S693 (`no la-su-mu ne pom`) says: the proposition that the building is blue is false — no color attribution is being made, merely the positive claim is denied. Tonesu's five-level negation system captures both Lojban's `na` (claim negation → fronted `no`) and `na'e` (scalar/predicate negation → `no-X` root prefix) without introducing new particles. Lojban's `to'e` (polar opposite = anti-blue) is not directly mapped by the current system — that would require explicit polar compound specification (`pom-fe`? or the complementary color).
+
+---
+
+### S694 — LOJ-001-E
+
+```
+la-li  to  {la-Sokrates  ne  de-zo}
+```
+
+**Written:** `lali to laSokrates ne dezo`
+
+**Natural reading:** I hold [that Sokrates is mortal] as my conception.
+
+**Notes:** Propositional belief attribution (maps to Lojban `mi jinvi lo du'u la .sokrates. morsi`). `to` (primitive: thought/concept/pattern) + `{proposition}` as the belief-content frame. Established in the counterfactual attribution spec: `la-X to {P}` = X holds as their conceptual model that P. Here applied to a contingent historical belief. `to` marks the proposition as privately held by the agent — not asserted as fact. Lojban uses `jinvi` (to opine, to have a personal view) + `du'u` (proposition abstraction) for this. Tonesu uses `to` (primitive conceptual commitment) + `{braced clause}`. The proposition `{la-Sokrates ne de-zo}` is held inside a private epistemic frame; it is not asserted by the sentence itself. Compare S695 (established knowledge).
+
+---
+
+### S695 — LOJ-001-F
+
+```
+la-li  to-su  {la-Sokrates  ne  de-zo}
+```
+
+**Written:** `lali tosu laSokrates ne dezo`
+
+**Natural reading:** I have organized knowledge [that Sokrates is mortal].
+
+**Notes:** Propositional knowledge attribution (maps to Lojban `mi djuno lo du'u la .sokrates. morsi`). `to-su` (W030, organized knowledge/framework) + `{proposition}` as the knowledge-content frame. First extension of `to-su` into the propositional knowledge-attribution pattern: `la-li to-su {P}` = I have established, structured knowledge that P. The `to` / `to-su` distinction is Tonesu's analogue of Lojban's `jinvi` / `djuno` distinction: `la-li to {P}` = I believe P (private, uncommitted conception); `la-li to-su {P}` = I know P (organized, established epistemic structure). This is the JTB-style distinction (justified true belief vs knowledge) mapped onto Tonesu's epistemic grain. Provisional status: this is the first corpus sentence using `to-su` with a braced proposition. The `to-su {P}` pattern may need a second attestation before becoming fully confirmed grammar; development noted in open-questions.md.
+
+---
+
+## LOJ-001 Batch Summary
+
+| Entry | Tonesu | Written form | Key feature |
+|-------|--------|-------------|-------------|
+| S690 (LOJ-001-A) | `i-zo-li  ne  de-zo` | `izoli ne dezo` | `i-` existential scope (Lojban `su'o`) |
+| S691 (LOJ-001-B) | `go {la-li  ki},  la-li  ne  fa-vo` | `go lali ki, lali ne favo` | Event via causal frame (Lojban `lo nu`) |
+| S692 (LOJ-001-C) | `la-su-mu  ne  no-pom` | `lasumu ne nopom` | Predicate negation (Lojban `na'e`) |
+| S693 (LOJ-001-D) | `no  la-su-mu  ne  pom` | `no lasumu ne pom` | Claim negation (Lojban `na`) |
+| S694 (LOJ-001-E) | `la-li  to  {la-Sokrates  ne  de-zo}` | `lali to laSokrates ne dezo` | Belief attribution (`to`, Lojban `jinvi`) |
+| S695 (LOJ-001-F) | `la-li  to-su  {la-Sokrates  ne  de-zo}` | `lali tosu laSokrates ne dezo` | Knowledge attribution (`to-su`, Lojban `djuno`) |
+
+**Coverage:** `i-` as existential scope prefix (S690, completing universal/existential pair with S684); causal-frame as event-nominalization substitute (S691); claim vs predicate negation scope distinction (S692/S693, Lojban na/na'e); belief vs organized knowledge in propositional attitude (S694/S695, Lojban jinvi/djuno + du'u). No new vocabulary.
+
+**Key finding:** Lojban's type machinery maps onto Tonesu through structural redirections rather than direct analogues. The `lo nu X` event nominal becomes a causal clause; the `na`/`na'e` distinction already exists in the five-level negation system; the `jinvi`/`djuno` belief-knowledge distinction maps to `to` vs `to-su`. The one genuine gap: Lojban's `tanru` (underdetermined compound) cannot be reproduced in Tonesu — every compound is compositionally specified. This is a design choice, not a deficiency: Tonesu demands disambiguation at the point of construction.
