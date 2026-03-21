@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-25 translation analyses.
+26 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -43,6 +43,7 @@ gap analysis, and key findings.
 - [dnd-great-wheel](../literature/dnd-great-wheel/)
 - [dnd-schools-of-magic](../literature/dnd-schools-of-magic/)
 - [doi-declaration](../literature/doi-declaration/)
+- [greater-key-preparations](../literature/greater-key-preparations/)
 - [hamlet-to-be](../literature/hamlet-to-be/)
 - [star-wars-codes](../literature/star-wars-codes/)
 - [tale-of-two-cities](../literature/tale-of-two-cities/)

@@ -731,11 +731,10 @@ Definition:    garment; clothing; a value-bearing artifact worn on the body; any
 Composition:   vo (value/quality) + mu (artifact/physical object) = value-artifact = a physical object defined by its value-bearing function. Clothing is the canonical example: it exists to confer warmth, covering, or social value upon its wearer. Head-final: mu (artifact) is head; vo specifies that this artifact belongs to the value-domain.
 Register:      standard / social
 Domain:        material / social
-Status:        ⚠️ proposed
-First use:     Matthew 6:28–30 ("consider the lilies... yet I tell you that not even Solomon in all his splendor was dressed like one of these" —
-               vo-mu as clothing compared against the lily's natural display).
-Notes:         Status: proposed — one primary corpus context. Monitor.
-               The Matthew 6:28–30 comparison is structurally clean: both Solomon's vo-mu (crafted value-artifact) and the lily's display express `vo` (value/quality); the lily's is natural (not-mu), Solomon's is crafted.
+Status:        ✅ active
+First use:     SOL-002, Greater Key preparations (S680): la-to-ra-li  ne  ne-fe  lo-yim-vo-mu
+Notes:         SOL-002 first attestation (proposed → active). First explicit corpus use in the construction yim-vo-mu (white garment) as the prescribed ritual garment in Greater Key preparations (S680: la-to-ra-li ne ne-fe lo-yim-vo-mu).
+               The Matthew 6:28–30 comparison is structurally clean: both Solomon’s vo-mu (crafted value-artifact) and the lily’s display express `vo` (value/quality); the lily’s is natural (not-mu), Solomon’s is crafted.
                vo-mu covers: robes, cloaks, everyday clothing — any worn artifact serving value-expression functions.
 Related:       vo (primitive: value/quality), mu (primitive: artifact/object), ka-mu (W047: tool / action-instrument — another mu-family member)
 ```
@@ -2142,6 +2141,25 @@ Status:        ✅ active
 First use:     SOL-001, Ars Goetia binding (S673): la-Solomon  ka-be-ne  lo-wi-ra-li  lu-ko-mu
 Notes:         SOL-001 first attestation (S673). Formed by analogy with ka-ne-de (W092: deliberate bond dissolution). The pair is productive: ka-be-ne = bind / create constraint; ka-ne-de = unbind / dissolve constraint. The be/de axis on the ne root gives a full creation–dissolution spectrum for intentional relational acts.
 Related:       ka (primitive: deliberate action), be (primitive: growth/increase), ne (primitive: relation/bond), ka-ne-de (W092: deliberate bond dissolution — antonym), ko-ne-mu (W176: chain/shackle — physical artifact of binding), ne-to-fe (W165: covenant — bounded agreement, a different kind of created bond)
+```
+
+---
+
+**W219**
+```
+Form:          fe-vo'si-ko-mu
+Type:          compound
+Class:         entity (ritual artifact)
+Definition:    consecrated inscribed object; pentacle; talisman; lamination. A physical artifact defined by two structurally necessary features: (1) it is inscribed with encoded symbols (si-ko-mu = individual encoded record), and (2) it is consecrated / set apart as sacred (fe-vo = sacredness / set-apart quality). Neither feature alone suffices to define the class: an uninscribed holy object is not a pentacle; an inscribed but unconsecrated object is not a talisman. The intersection of both is the class. Covers: pentacles in any magical tradition (Solomonic, Hermetic, etc.), talismans, protective laminations, consecrated seals, ritual amulets bearing symbolic inscriptions.
+Composition:   fe-vo (W065: sacredness, set-apart quality) + si-ko-mu (W067: individual document / encoded record). Juncture: fe-vo is pre-bound by the \'\' marker, modifying si-ko-mu as a unit. Parse: [[fe-vo]\'[si-ko-mu]] = [[sacred]-[inscribed-artifact]].
+
+               The \'\' juncture is mandatory: without it the chain defaults to right-branching fe-[vo-si-ko-mu], parsing value-modifying [signal-contained-artifact] which loses the sacred-quality feature. The juncture locks the intended structure.
+Register:      magical / theological
+Domain:        magic / ritual / inscription
+Status:        ✅ active
+First use:     SOL-002, Greater Key preparations (S683): la-fe-vo\'si-ko-mu-Saturn  ne  wi-ra  lo-wi-ra-li-Saturn
+Notes:         SOL-002 first attestation (S683). Introduced with the first pentacle of Saturn description from the Greater Key (Clavicula Salomonis). Extended to cover any tradition’s equivalent: Greek phylakteria, Jewish kameas, Arabic talisimans — all qualify structurally. Proper-noun modification: fe-vo\'si-ko-mu-Saturn = the pentacle assigned to Saturn; the planet name is a tradition-label on the artifact, not a metaphysical claim about cosmological ownership.
+Related:       fe-vo (W065: sacredness/set-apart quality), si-ko-mu (W067: individual document/encoded record), wi-ka (W054: ritual, structured intentional practice), wi-ra-su (W179: magic/systematic practice of directed force), ka-fe-vo (deliberate consecration act — compositional), wi-ra-li (W217: spirit/directed-force-agent — the entities the pentacle governs)
 ```
 
 ---

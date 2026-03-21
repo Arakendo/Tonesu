@@ -68,12 +68,13 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## Artifact / Device
 
-16 compounds
+17 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
+| `fe-vo'si-ko-mu` · fevo'sikomu | [W219](words/W219.md) | ✅ | consecrated inscribed object / pentacle / talisman |
 | `ka-du-zo-su` · kaduzosu | [W161](words/W161.md) | ✅ | bread, deliberately crafted plant-product <br><small>[S429](../../../totonesu/corpus/batches/lsp#S429)</small> |
-| `ka-mu` · kamu | [W047](words/W047.md) | ✅ | tool, action instrument <br><small>[S071](../../../totonesu/corpus/batches/t-ko#S071)</small> |
+| `ka-mu` · kamu | [W047](words/W047.md) | ✅ | tool, action instrument <br><small>[S071](../../../totonesu/corpus/batches/t-ko#S071) · [S681](../../../totonesu/corpus/batches/sol#S681) · [S682](../../../totonesu/corpus/batches/sol#S682)</small> |
 | `ki-ne` · kine | [W152](words/W152.md) | ✅ | sandal, motion-bond (footwear) <br><small>[S044](../../../totonesu/corpus/batches/t-xx#S044) · [S406](../../../totonesu/corpus/batches/exo#S406)</small> |
 | `ki-pa-mu` · kipamu | [W086](words/W086.md) | ✅ | vehicle, moving enclosed place <br><small>[S123](../../../totonesu/corpus/batches/t-ax#S123) · [S124](../../../totonesu/corpus/batches/t-ax#S124) · [S125](../../../totonesu/corpus/batches/t-ax#S125) · [S126](../../../totonesu/corpus/batches/cf#S126) · [S129](../../../totonesu/corpus/batches/cf#S129) · [S130](../../../totonesu/corpus/batches/cf#S130) · [S157](../../../totonesu/corpus/batches/cf#S157) · [S472](../../../totonesu/corpus/batches/emd#S472) · [S515](../../../totonesu/corpus/batches/emd#S515) · [S522](../../../totonesu/corpus/batches/emd#S522)</small> |
 | `ko-ha-mu` · kohamu | [W214](words/W214.md) | ✅ | oven / thermal containment device <br><small>[S659](../../../totonesu/corpus/batches/ckg#S659) · [S663](../../../totonesu/corpus/batches/ckg#S663)</small> |
@@ -86,7 +87,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `to-ki'ne-su` · toki'nesu | [W202](words/W202.md) | ✅ | online platform; networked computing system; interactive computer service <br><small>[S639](../../../totonesu/corpus/batches/cda#S639) · [S640](../../../totonesu/corpus/batches/cda#S640)</small> |
 | `to-ki-mu` · tokimu | [W011](words/W011.md) | ⏳ | computer, calculator <br><small>[S023](../../../totonesu/corpus/batches/t#S023)</small> |
 | `to-su-mu` · tosumu | [W010](words/W010.md) | ⏳ | database, library, knowledge-store <br><small>[S010](../../../totonesu/corpus/batches/_foundations#S010) · [S030](../../../totonesu/corpus/batches/hidden#S030) · [S168](../../../totonesu/corpus/batches/p-gp#S168) · [S170](../../../totonesu/corpus/batches/p-gp#S170)</small> |
-| `vo-mu` · vomu | [W137](words/W137.md) | ⚠️ | garment, clothing, value-artifact worn on body |
+| `vo-mu` · vomu | [W137](words/W137.md) | ✅ | garment, clothing, value-artifact worn on body |
 | `wi-to` · wito | [W045](words/W045.md) | ✅ | plan (single-instance purposive artifact) <br><small>[S062](../../../totonesu/corpus/batches/t-prm#S062) · [S086](../../../totonesu/corpus/batches/t-wit#S086) · [S087](../../../totonesu/corpus/batches/t-wit#S087) · [S090](../../../totonesu/corpus/batches/t-wit#S090) · [S091](../../../totonesu/corpus/batches/t-wit#S091)</small> |
 
 ## Time
@@ -175,7 +176,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 |------|----|--------|-------|
 | `be-go-li-si` · begolisi | [W149](words/W149.md) | ⏳ | creator-representation, image (tselem) <br><small>[S354](../../../totonesu/corpus/batches/tho#S354)</small> |
 | `fe-no-ka` · fenoka | [W056](words/W056.md) | ✅ | taboo, forbidden boundary <br><small>[S077](../../../totonesu/corpus/batches/t-mys#S077)</small> |
-| `fe-vo` · fevo | [W065](words/W065.md) | ✅ | sacredness, set-apart quality <br><small>[S081](../../../totonesu/corpus/batches/t-rel#S081)</small> |
+| `fe-vo` · fevo | [W065](words/W065.md) | ✅ | sacredness, set-apart quality <br><small>[S081](../../../totonesu/corpus/batches/t-rel#S081) · [S683](../../../totonesu/corpus/batches/sol#S683)</small> |
 | `go-ne` · gone | [W159](words/W159.md) | ✅ | self-originating relation / "I am who I am" <br><small>[S415](../../../totonesu/corpus/batches/exo#S415) · [S638](../../../totonesu/corpus/batches/doi#S638)</small> |
 | `ka-li-su` · kalisu | [W147](words/W147.md) | ⏳ | governance, dominion, coordinated stewardship <br><small>[S374](../../../totonesu/corpus/batches/fal#S374) · [S376](../../../totonesu/corpus/batches/fal#S376) · [S379](../../../totonesu/corpus/batches/fal#S379) · [S380](../../../totonesu/corpus/batches/fal#S380) · [S381](../../../totonesu/corpus/batches/fal#S381) · [S382](../../../totonesu/corpus/batches/fal#S382) · [S384](../../../totonesu/corpus/batches/fal#S384) · [S386](../../../totonesu/corpus/batches/fal#S386) · [S387](../../../totonesu/corpus/batches/fal#S387) · [S388](../../../totonesu/corpus/batches/fal#S388) · [S389](../../../totonesu/corpus/batches/fal#S389) · [S391](../../../totonesu/corpus/batches/fal#S391) · [S392](../../../totonesu/corpus/batches/fal#S392) · [S394](../../../totonesu/corpus/batches/fal#S394) · [S396](../../../totonesu/corpus/batches/fal#S396) · [S397](../../../totonesu/corpus/batches/fal#S397) · [S634](../../../totonesu/corpus/batches/doi#S634) · [S635](../../../totonesu/corpus/batches/doi#S635) · [S636](../../../totonesu/corpus/batches/doi#S636) · [S646](../../../totonesu/corpus/batches/aca#S646) · [S647](../../../totonesu/corpus/batches/aca#S647)</small> |
 | `ka-pa-ki'ti-re` · kapaki'tire | [W167](words/W167.md) | ✅ | Passover festival, recurring liberation event <br><small>[S418](../../../totonesu/corpus/batches/lsp#S418) · [S420](../../../totonesu/corpus/batches/lsp#S420) · [S421](../../../totonesu/corpus/batches/lsp#S421) · [S422](../../../totonesu/corpus/batches/lsp#S422) · [S424](../../../totonesu/corpus/batches/lsp#S424)</small> |
@@ -202,7 +203,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `de-vo` · devo | [W121](words/W121.md) | ✅ | evil, value-corruption quality <br><small>[S458](../../../totonesu/corpus/batches/dkn#S458)</small> |
 | `go-ne` · gone | [W159](words/W159.md) | ✅ | self-originating relation / "I am who I am" <br><small>[S415](../../../totonesu/corpus/batches/exo#S415) · [S638](../../../totonesu/corpus/batches/doi#S638)</small> |
 | `ka-li-su` · kalisu | [W147](words/W147.md) | ⏳ | governance, dominion, coordinated stewardship <br><small>[S374](../../../totonesu/corpus/batches/fal#S374) · [S376](../../../totonesu/corpus/batches/fal#S376) · [S379](../../../totonesu/corpus/batches/fal#S379) · [S380](../../../totonesu/corpus/batches/fal#S380) · [S381](../../../totonesu/corpus/batches/fal#S381) · [S382](../../../totonesu/corpus/batches/fal#S382) · [S384](../../../totonesu/corpus/batches/fal#S384) · [S386](../../../totonesu/corpus/batches/fal#S386) · [S387](../../../totonesu/corpus/batches/fal#S387) · [S388](../../../totonesu/corpus/batches/fal#S388) · [S389](../../../totonesu/corpus/batches/fal#S389) · [S391](../../../totonesu/corpus/batches/fal#S391) · [S392](../../../totonesu/corpus/batches/fal#S392) · [S394](../../../totonesu/corpus/batches/fal#S394) · [S396](../../../totonesu/corpus/batches/fal#S396) · [S397](../../../totonesu/corpus/batches/fal#S397) · [S634](../../../totonesu/corpus/batches/doi#S634) · [S635](../../../totonesu/corpus/batches/doi#S635) · [S636](../../../totonesu/corpus/batches/doi#S636) · [S646](../../../totonesu/corpus/batches/aca#S646) · [S647](../../../totonesu/corpus/batches/aca#S647)</small> |
-| `ka-no-de-su` · kanodesu | [W120](words/W120.md) | ✅ | forgiveness, deliberate removal of fault |
+| `ka-no-de-su` · kanodesu | [W120](words/W120.md) | ✅ | forgiveness, deliberate removal of fault <br><small>[S679](../../../totonesu/corpus/batches/sol#S679)</small> |
 | `li-pu-pa` · lipupa | [W036](words/W036.md) | ✅ | city, inhabited settlement <br><small>[S061](../../../totonesu/corpus/batches/t-prm#S061)</small> |
 | `ne-su` · nesu | [W031](words/W031.md) | ⏳ | network, society, organization <br><small>[S041](../../../totonesu/corpus/batches/t-xx#S041) · [S376](../../../totonesu/corpus/batches/fal#S376) · [S381](../../../totonesu/corpus/batches/fal#S381) · [S386](../../../totonesu/corpus/batches/fal#S386) · [S388](../../../totonesu/corpus/batches/fal#S388) · [S389](../../../totonesu/corpus/batches/fal#S389) · [S395](../../../totonesu/corpus/batches/fal#S395) · [S397](../../../totonesu/corpus/batches/fal#S397) · [S490](../../../totonesu/corpus/batches/scl#S490) · [S639](../../../totonesu/corpus/batches/cda#S639) · [S640](../../../totonesu/corpus/batches/cda#S640)</small> |
 | `ne-to` · neto | [W084](words/W084.md) | ✅ | mutual acknowledgment, agreement <br><small>[S118](../../../totonesu/corpus/batches/t-ax#S118)</small> |
@@ -284,7 +285,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `de-be` · debe | [W035](words/W035.md) | ✅ | repair, restore <br><small>[S180](../../../totonesu/corpus/batches/ipx#S180)</small> |
 | `ka-ne-de` · kanede | [W092](words/W092.md) | ✅ | deliberate bond dissolution <br><small>[S132](../../../totonesu/corpus/batches/fa-val#S132) · [S438](../../../totonesu/corpus/batches/lsp#S438) · [S629](../../../totonesu/corpus/batches/doi#S629)</small> |
 | `ne-de` · nede | [W091](words/W091.md) | ✅ | bond dissolution (no assigned cause) |
-| `ne-fe` · nefe | [W042](words/W042.md) | ✅ | dependency condition, requirement <br><small>[S058](../../../totonesu/corpus/batches/t-prm#S058) · [S059](../../../totonesu/corpus/batches/t-prm#S059) · [S060](../../../totonesu/corpus/batches/t-prm#S060) · [S061](../../../totonesu/corpus/batches/t-prm#S061) · [S062](../../../totonesu/corpus/batches/t-prm#S062) · [S128](../../../totonesu/corpus/batches/cf#S128) · [S131](../../../totonesu/corpus/batches/cf#S131) · [S161](../../../totonesu/corpus/batches/mg#S161) · [S208](../../../totonesu/corpus/batches/odl#S208)</small> |
+| `ne-fe` · nefe | [W042](words/W042.md) | ✅ | dependency condition, requirement <br><small>[S058](../../../totonesu/corpus/batches/t-prm#S058) · [S059](../../../totonesu/corpus/batches/t-prm#S059) · [S060](../../../totonesu/corpus/batches/t-prm#S060) · [S061](../../../totonesu/corpus/batches/t-prm#S061) · [S062](../../../totonesu/corpus/batches/t-prm#S062) · [S128](../../../totonesu/corpus/batches/cf#S128) · [S131](../../../totonesu/corpus/batches/cf#S131) · [S161](../../../totonesu/corpus/batches/mg#S161) · [S208](../../../totonesu/corpus/batches/odl#S208) · [S679](../../../totonesu/corpus/batches/sol#S679) · [S680](../../../totonesu/corpus/batches/sol#S680)</small> |
 | `ne-no-ra` · nenora | [W171](words/W171.md) | ✅ | peace, relation-without-force <br><small>[S588](../../../totonesu/corpus/batches/stw#S588) · [S593](../../../totonesu/corpus/batches/stw#S593)</small> |
 | `no-de-ma` · nodema | [W129](words/W129.md) | ✅ | salt, preservative matter |
 | `no-ne-fe` · nonefe | [W075](words/W075.md) | ✅ | absence of dependency / no link <br><small>[C006-B2](../../../totonesu/corpus/batches/_foundations#C006-B2) · [C006-B3](../../../totonesu/corpus/batches/_foundations#C006-B3) · [S063](../../../totonesu/corpus/batches/t-prm#S063) · [S637](../../../totonesu/corpus/batches/doi#S637)</small> |
@@ -294,7 +295,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `su-ne` · sune | [W174](words/W174.md) | ✅ | harmony, structure-of-connection <br><small>[S591](../../../totonesu/corpus/batches/stw#S591) · [S631](../../../totonesu/corpus/batches/doi#S631) · [S660](../../../totonesu/corpus/batches/ckg#S660)</small> |
 | `su-ru` · suru | [W085](words/W085.md) | ✅ | integrated whole, unified structure <br><small>[S119](../../../totonesu/corpus/batches/t-ax#S119)</small> |
 | `wi-du` · widu | [W175](words/W175.md) | ✅ | victory, achievement (will-result) <br><small>[S597](../../../totonesu/corpus/batches/stw#S597)</small> |
-| `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) <br><small>[S596](../../../totonesu/corpus/batches/stw#S596) · [S599](../../../totonesu/corpus/batches/dnd#S599) · [S672](../../../totonesu/corpus/batches/sol#S672)</small> |
+| `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) <br><small>[S596](../../../totonesu/corpus/batches/stw#S596) · [S599](../../../totonesu/corpus/batches/dnd#S599) · [S672](../../../totonesu/corpus/batches/sol#S672) · [S683](../../../totonesu/corpus/batches/sol#S683)</small> |
 
 ## Academic / Formal Knowledge
 
@@ -398,10 +399,11 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## Magic / Ritual
 
-2 compounds
+3 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
+| `fe-vo'si-ko-mu` · fevo'sikomu | [W219](words/W219.md) | ✅ | consecrated inscribed object / pentacle / talisman |
 | `ka-be-ne` · kabene | [W218](words/W218.md) | ✅ | binding / deliberate bond-creation <br><small>[S673](../../../totonesu/corpus/batches/sol#S673)</small> |
 | `wi-ra-li` · wirali | [W217](words/W217.md) | ✅ | spirit / directed-force-agent <br><small>[S672](../../../totonesu/corpus/batches/sol#S672) · [S673](../../../totonesu/corpus/batches/sol#S673) · [S677](../../../totonesu/corpus/batches/sol#S677)</small> |
 
@@ -422,6 +424,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 |------|----|--------|-------|
 | `wi-fe'de` · wife'de | [W203](words/W203.md) | ✅ | penalty; sanction; rule-imposed decrease <br><small>[S646](../../../totonesu/corpus/batches/aca#S646) · [S647](../../../totonesu/corpus/batches/aca#S647) · [S648](../../../totonesu/corpus/batches/aca#S648) · [S649](../../../totonesu/corpus/batches/aca#S649) · [S650](../../../totonesu/corpus/batches/aca#S650)</small> |
 
+## Signal / Inscription
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `fe-vo'si-ko-mu` · fevo'sikomu | [W219](words/W219.md) | ✅ | consecrated inscribed object / pentacle / talisman |
+
 ## Social / Role
 
 8 compounds
@@ -431,7 +441,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `ra-ka-li` · rakali | [W206](words/W206.md) | ✅ | fighter / combatant <br><small>[S651](../../../totonesu/corpus/batches/dnd#S651)</small> |
 | `se-de-li` · sedeli | [W208](words/W208.md) | ✅ | rogue / stealth agent <br><small>[S653](../../../totonesu/corpus/batches/dnd#S653)</small> |
 | `so-vo-li` · sovoli | [W213](words/W213.md) | ✅ | bard / sonic artist <br><small>[S658](../../../totonesu/corpus/batches/dnd#S658)</small> |
-| `to-ra-li` · torali | [W207](words/W207.md) | ✅ | wizard / mage <br><small>[S652](../../../totonesu/corpus/batches/dnd#S652)</small> |
+| `to-ra-li` · torali | [W207](words/W207.md) | ✅ | wizard / mage <br><small>[S652](../../../totonesu/corpus/batches/dnd#S652) · [S678](../../../totonesu/corpus/batches/sol#S678) · [S679](../../../totonesu/corpus/batches/sol#S679) · [S680](../../../totonesu/corpus/batches/sol#S680) · [S681](../../../totonesu/corpus/batches/sol#S681) · [S682](../../../totonesu/corpus/batches/sol#S682)</small> |
 | `vo-ra-li` · vorali | [W209](words/W209.md) | ✅ | cleric / divine agent <br><small>[S654](../../../totonesu/corpus/batches/dnd#S654)</small> |
 | `wi-vo-li` · wivoli | [W211](words/W211.md) | ✅ | paladin / oath-champion <br><small>[S656](../../../totonesu/corpus/batches/dnd#S656)</small> |
 | `zo-ki-li` · zokili | [W212](words/W212.md) | ✅ | ranger / wilderness guide <br><small>[S657](../../../totonesu/corpus/batches/dnd#S657)</small> |

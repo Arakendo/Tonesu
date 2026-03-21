@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 118 |
+| [w101-plus.md](w101-plus.md) | W101+ | 119 |
 
-**Total: 206 W-series entries** — active: 162 · proposed: 3 · pending: 39 · cold: 0 · retired: 2
+**Total: 207 W-series entries** — active: 164 · proposed: 2 · pending: 39 · cold: 0 · retired: 2
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -55,6 +55,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `fe-si` | W024 | warning, boundary-condition signal | ✅ | [w001-w050](w001-w050.md) |
 | `fe-su` | W055 | ward, protective barrier | ✅ | [w051-w100](w051-w100.md) |
 | `fe-vo` | W065 | sacredness, set-apart quality | ✅ | [w051-w100](w051-w100.md) |
+| `fe-vo'si-ko-mu` | W219 | consecrated inscribed object / pentacle / talisman | ✅ | [w101-plus](w101-plus.md) |
 | `ge-ki` | W187 | transmutation; quality-change; fundamental alteration of properties | ✅ | [w101-plus](w101-plus.md) |
 | `ge-se-ki` | W185 | illusion; quality-perception-change; magic of crafting apparent properties | ✅ | [w101-plus](w101-plus.md) |
 | `go-ne` | W159 | self-originating relation / "I am who I am" | ✅ | [w101-plus](w101-plus.md) |
@@ -183,7 +184,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `to-su-ki` | W025 | comprehend, enter organized knowledge | ✅ | [w001-w050](w001-w050.md) |
 | `to-su-mu` | W010 | database, library, knowledge-store | ⏳ | [w001-w050](w001-w050.md) |
 | `to-to-ne-su` | W169 | knowledge of truth; knowledge of Tonesu; the language in use | ✅ | [w101-plus](w101-plus.md) |
-| `vo-mu` | W137 | garment, clothing, value-artifact worn on body | ⚠️ | [w101-plus](w101-plus.md) |
+| `vo-mu` | W137 | garment, clothing, value-artifact worn on body | ✅ | [w101-plus](w101-plus.md) |
 | `vo-ne` | W118 | righteousness, right relational standing | ✅ | [w101-plus](w101-plus.md) |
 | `vo-ra-li` | W209 | cleric / divine agent | ✅ | [w101-plus](w101-plus.md) |
 | `wi-de` | W191 | evil; will toward harm/decrease; maleficent moral disposition | ✅ | [w101-plus](w101-plus.md) |
@@ -253,7 +254,7 @@ Concept-first lookup: find the compound you need by domain.
 `ki-pa` W049 corridor · `ko-pa` W048 room · `li-pu-pa` W036 city · `pa-be'ka-li-su` W125 kingdom of heaven · `pa-fe` W138 vault · `pa-ki-su` W198 liberty · `pa-ma` W194 material realm · `pa-mi` W110 here · `pa-ne-su` W196 cosmological framework · `pa-ra` W053 energetic field · `pa-su` W157 mountain · `pa-vo-fe` W153 holy ground · `pa-wi` W088 destination · `pa-wi-ka-su` W066 shrine · `pa-zo-li` W135 the world · `to-pa` W195 thought-realm
 
 **Artifact / Device**
-`ka-du-zo-su` W161 bread · `ka-mu` W047 tool · `ki-ne` W152 sandal · `ki-pa-mu` W086 vehicle · `ko-ha-mu` W214 oven / thermal containment device · `ko-mu` W052 vessel · `ko-ne-mu` W176 chain · `ma-no-de` W046 medicine · `ra-ki-mu` W012 engine · `si-ko-mu` W067 individual document · `si-mu` W039 relay device · `to-ki'ne-su` W202 online platform · `to-ki-mu` W011 computer · `to-su-mu` W010 database · `vo-mu` W137 garment · `wi-to` W045 plan (single-instance purposive artifact)
+`fe-vo'si-ko-mu` W219 consecrated inscribed object / pentacle / talisman · `ka-du-zo-su` W161 bread · `ka-mu` W047 tool · `ki-ne` W152 sandal · `ki-pa-mu` W086 vehicle · `ko-ha-mu` W214 oven / thermal containment device · `ko-mu` W052 vessel · `ko-ne-mu` W176 chain · `ma-no-de` W046 medicine · `ra-ki-mu` W012 engine · `si-ko-mu` W067 individual document · `si-mu` W039 relay device · `to-ki'ne-su` W202 online platform · `to-ki-mu` W011 computer · `to-su-mu` W010 database · `vo-mu` W137 garment · `wi-to` W045 plan (single-instance purposive artifact)
 
 **Time**
 `lu-ti` W140 daytime · `no-lu-ti` W141 nighttime · `ti-be` W040 morning · `ti-de` W041 past time · `ti-fe` W037 deadline · `ti-mi` W109 now · `ti-mu` W057 relic · `ti-re` W103 recurring time
@@ -313,13 +314,16 @@ Concept-first lookup: find the compound you need by domain.
 `ka-be-ne` W218 binding / deliberate bond-creation
 
 **Magic / Ritual**
-`ka-be-ne` W218 binding / deliberate bond-creation · `wi-ra-li` W217 spirit / directed-force-agent
+`fe-vo'si-ko-mu` W219 consecrated inscribed object / pentacle / talisman · `ka-be-ne` W218 binding / deliberate bond-creation · `wi-ra-li` W217 spirit / directed-force-agent
 
 **Meta / Language**
 `to'to-ne-su` W170 meta-truth · `to-to-ne-su` W169 knowledge of truth
 
 **Normative**
 `wi-fe'de` W203 penalty
+
+**Signal / Inscription**
+`fe-vo'si-ko-mu` W219 consecrated inscribed object / pentacle / talisman
 
 **Social / Role**
 `ra-ka-li` W206 fighter / combatant · `se-de-li` W208 rogue / stealth agent · `so-vo-li` W213 bard / sonic artist · `to-ra-li` W207 wizard / mage · `vo-ra-li` W209 cleric / divine agent · `wi-vo-li` W211 paladin / oath-champion · `zo-ki-li` W212 ranger / wilderness guide · `zo-re-li` W210 druid / nature-cycle practitioner
@@ -338,7 +342,7 @@ Quick lookup by lead primitive root.
 | `di` | di-ki-li W061 |
 | `du` | du-zo-su W142 |
 | `fa` | fa-ki W093, fa-de W094, fa-no W095, fa-re W096, fa-ra-be W123, fa-wi-de W127, fa-wi-zi W136, fa-ra W154, fa-de-ra W155, fa-wi-ra W172, fa-su W173, fa-vo W197 |
-| `fe` | fe-si W024, fe-su W055, fe-no-ka W056, fe-vo W065 |
+| `fe` | fe-si W024, fe-su W055, fe-no-ka W056, fe-vo W065, fe-vo'si-ko-mu W219 |
 | `go` | go-ne W159 |
 | `ha` | ha-de W044, ha-zo-ra-ma W216 |
 | `ka` | ka-mu W047, ka-ne-de W092, ka-no-de-su W120, ka-to-fe W122, ka-de-zo W128, ka-li-su W147, ka-pa-ki W160, ka-du-zo-su W161, ka-pa-ki'ti-re W167, ka-vo-si W168, ka-li-de W205, ka-be-ne W218 |

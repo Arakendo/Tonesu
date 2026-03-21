@@ -6,7 +6,7 @@ title: "Foundations"
 
 Core sentences from the earliest Tonesu attestations — basic agent-patient structures, property attribution, and foundational constructions.
 
-140 sentences.
+146 sentences.
 
 [← Corpus](../overview.md)
 
@@ -24,7 +24,7 @@ Core sentences from the earliest Tonesu attestations — basic agent-patient str
 | [ACA Individual Mandate (26 U.S.C. §5000A)](../../batches/aca/) | 1 | 6 |
 | [Cookie Recipe — Chocolate Chip Cookies](../../batches/ckg/) | 1 | 6 |
 | [SUT](../../batches/sut/) | 1 | 7 |
-| [SOL](../../batches/sol/) | 1 | 6 |
+| [SOL](../../batches/sol/) | 2 | 12 |
 
 ---
 

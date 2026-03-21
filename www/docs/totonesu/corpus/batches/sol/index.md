@@ -4,7 +4,7 @@ title: "SOL"
 
 # SOL
 
-*Theme: [Foundations](../../foundations/overview/)* · 6 sentences.
+*Theme: [Foundations](../../foundations/overview/)* · 12 sentences.
 
 :material-book-open-variant: [Full translation analysis](../../translations/literature/ars-goetia-binding/)
 
@@ -78,6 +78,73 @@ title: "SOL"
 **Coverage:** W217 (`wi-ra-li`) and W218 (`ka-be-ne`) first attested; authority-over construction (`ne` + property + `lo-` patient); numeral phrase in patient position; `lu-` as spatial destination; instrumental `go-si`; proper-name group NP; first `go-[action'object]` causal nominalization.
 
 **Key finding:** The Ars Goetia binding narrative translates into six clean sentences with two new compounds. S677's `go-ka-no-ko'ko-mu` demonstrates that `'` juncture can bind an action to its object inside a `go-` causal frame — causal nominalization is available without new grammar.
+
+## SOL-002 · 
+
+**Purpose:** Translate the preparation ritual of the Clavicula Salomonis (Book II): timed ritual operations, purification, white garments, instrument-making, consecration, and the first pentacle description. Key tests: proper-noun time-slot pattern (`ti-re-Saturn`, `ti-re-Mercury`), `ne ne-fe` prescription framing, `ka-fe-vo` compositional consecration, W137 (`vo-mu`, garment) activation from proposed → active, W219 (`fe-vo'si-ko-mu`, pentacle/consecrated inscribed object) first attestation.
+
+<span id="S678"></span>
+**S678**
+`ti-re-Saturn : la-to-ra-li  ka  lo-wi-ka`
+*In the Saturn time-slot, the practitioner performs the ritual work.*
+
+!!! annotation "Notes"
+    First use of the proper-noun time-slot pattern: `ti-re-[Planet]` = the recurring time-slot attributed to that planet by tradition. `ti-re` (W103, recurring time / scheduled cycle) is modified by the proper noun `Saturn` as a tradition label — the sentence does NOT assert that Saturn cosmologically governs the hour; it names the slot by received convention. The `:` topic frame (`[topic] : [comment-clause]`) handles temporal framing: "as for the Saturn time-slot: perform the ritual." `wi-ka` (W054) as patient = "the ritual work." `to-ra-li` (W207, wizard/mage) = the ritual practitioner.
+
+<span id="S679"></span>
+**S679**
+`gal nu lu-ti : la-to-ra-li  ne  ne-fe  ka-no-de-su  lo-su-ti`
+*For three day-periods, the practitioner must cleanse their current state.*
+
+!!! annotation "Notes"
+    Duration topic frame: `gal nu lu-ti` (three day-units, using `lu-ti` W140) as the sentence-initial topic = "for three days." `ne ne-fe` = holds as requirement (positive prescription, DIP-001/SUT-001 pattern extension). `ka-no-de-su  lo-su-ti` = "deliberately remove fault from [this person's] current state" — `su-ti` (W101) used reflexively as the object of purification: the practitioner's current state is what must be cleansed. Connects W120 (forgiveness/removal-of-fault) with W101 (state-snapshot) in a purification context.
+
+<span id="S680"></span>
+**S680**
+`la-to-ra-li  ne  ne-fe  lo-yim-vo-mu`
+*The practitioner must [wear] white garments.*
+
+!!! annotation "Notes"
+    W137 (`vo-mu`) first corpus attestation — status promoted from proposed (⚠️) to active (✅). `yim-vo-mu` = white-garment compound: `yim` (CVC color, white) modifies `vo-mu` (W137, garment). `ne ne-fe lo-yim-vo-mu` = "holds as requirement: white garments." The `lo-` prefix on the required object marks what is required rather than what is acted upon — the garment is the thing the requirement bears on (wear/have/be-in-relation-with), with the precise relational mode determined by context. First attestation of color `yim` (white) in a compound modifier position.
+
+<span id="S681"></span>
+**S681**
+`ti-re-Mercury : la-to-ra-li  ka  lu-ka-mu`
+*In the Mercury time-slot, the practitioner makes the instruments.*
+
+!!! annotation "Notes"
+    Second use of the `ti-re-[Planet]` pattern — confirming it is productive across the planetary-hour system without requiring separate entries per planet. `lu-ka-mu` = result slot: instruments — "acts, producing/resulting in instruments" = makes/prepares the instruments. Compare `lu-ko-mu` from S673 (result as container for bound spirits) — here `lu-` carries a creation result. The pair S678/S681 establishes that the planetary-hour system maps onto distinct `ti-re` slots by proper-noun modification.
+
+<span id="S682"></span>
+**S682**
+`la-to-ra-li  ka-fe-vo  lo-ka-mu  go-wi-ka`
+*The practitioner consecrates the instruments through ritual.*
+
+!!! annotation "Notes"
+    `ka-fe-vo` = deliberately make sacred = consecrate. Compositional: `ka` (deliberate action) + `fe-vo` (W065, sacredness / set-apart quality). No new registry entry required — the composition is transparent. `go-wi-ka` = "by means of / originating from ritual" (W054, ritual / structured intentional practice) = instrumental `go-` with the ritual as the causal mechanism. `lo-ka-mu` = patient: the instruments. The three-stage preparation: make instruments in Mercury hour (S681) → consecrate through ritual (S682) → use the resulting pentacle (S683).
+
+<span id="S683"></span>
+**S683**
+`la-fe-vo'si-ko-mu-Saturn  ne  wi-ra  lo-wi-ra-li-Saturn`
+*The pentacle of Saturn holds directed power over the spirits of Saturn.*
+
+!!! annotation "Notes"
+    W219 (`fe-vo'si-ko-mu`, consecrated inscribed object / pentacle) first corpus attestation. The `'` juncture is mandatory — without it the chain defaults to right-branching `fe-[vo-si-ko-mu]` (a "value-document-vessel" reading), which loses the sacredness feature. With the juncture: `[fe-vo]'[si-ko-mu]` = [[sacred]-[inscribed-artifact]] = pentacle. Proper-noun modification: `-Saturn` appended to both the pentacle (`fe-vo'si-ko-mu-Saturn` = the Saturn-attributed pentacle) and the spirits (`wi-ra-li-Saturn` = Saturn's spirits) — the planet name is a tradition-label, not a metaphysical claim. The authority construction `ne wi-ra lo-Y` is the same pattern as S672 (Solomon's authority over spirits) — the pentacle functions as a non-person authority holder.
+
+### Batch Summary
+
+| Entry | Tonesu | Written form | Key feature |
+|-------|--------|-------------|-------------|
+| S678 (SOL-002-A) | `ti-re-Saturn : la-to-ra-li  ka  lo-wi-ka` | `tireSaturn : latorali ka lowika` | `ti-re-[Planet]` pattern first use |
+| S679 (SOL-002-B) | `gal nu lu-ti : la-to-ra-li  ne  ne-fe  ka-no-de-su  lo-su-ti` | `gal nu luti : latorali ne nefe kanodesu losuti` | duration topic + `ne ne-fe` prescription |
+| S680 (SOL-002-C) | `la-to-ra-li  ne  ne-fe  lo-yim-vo-mu` | `latorali ne nefe loyimvomu` | W137 `vo-mu` first att. (→ active) |
+| S681 (SOL-002-D) | `ti-re-Mercury : la-to-ra-li  ka  lu-ka-mu` | `tireMercury : latorali ka lukamu` | `ti-re-[Planet]` confirmed productive |
+| S682 (SOL-002-E) | `la-to-ra-li  ka-fe-vo  lo-ka-mu  go-wi-ka` | `latorali kafevo lokamu gowika` | `ka-fe-vo` consecration; `go-[ritual]` instrumental |
+| S683 (SOL-002-F) | `la-fe-vo'si-ko-mu-Saturn  ne  wi-ra  lo-wi-ra-li-Saturn` | `lafevo'sikomuSaturn ne wira lowiraliSaturn` | W219 `fe-vo'si-ko-mu` first att. |
+
+**Coverage:** `ti-re-[Planet]` proper-noun time-slot pattern (S678, S681); `ne ne-fe` prescription framing (S679, S680); W137 (`vo-mu`, garment) activated from proposed; W219 (`fe-vo'si-ko-mu`, pentacle) first attested; `ka-fe-vo` compositional consecration; non-person authority holder (pentacle as `ne wi-ra lo-Y` subject).
+
+**Key finding:** The Greater Key's planetary-hour timing system compresses into a single productive pattern (`ti-re-[Planet]`) without importing Western astrology's cosmological ontology. The ritual preparation arc (time → purify → dress → make instruments → consecrate → use) translates into six sentences using exclusively existing vocabulary plus one new artifact class.
 
 ---
 
