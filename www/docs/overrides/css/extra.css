@@ -1006,6 +1006,63 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
   margin-left: auto;
 }
 
+/* ── Homepage word-family and scope demo grids ─────────── */
+.tn-family-grid,
+.tn-scope-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(9.5rem, 1fr));
+  gap: 0.75rem;
+  margin: 1.25rem 0;
+}
+
+.tn-family-cell,
+.tn-scope-cell {
+  background: var(--md-code-bg-color);
+  border: 1px solid var(--md-typeset-table-color);
+  border-radius: 0.4rem;
+  padding: 0.8rem 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.2rem;
+}
+
+.tn-family-cell--root,
+.tn-scope-cell--base {
+  border-color: var(--md-accent-fg-color);
+}
+
+.tn-family-word,
+.tn-scope-word {
+  font-family: var(--tonesu-font-mono);
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--md-accent-fg-color);
+  line-height: 1.15;
+}
+
+.tn-family-parse {
+  font-family: var(--tonesu-font-mono);
+  font-size: 0.72rem;
+  color: var(--md-default-fg-color--lighter);
+}
+
+.tn-scope-label {
+  font-size: 0.68rem;
+  font-weight: 600;
+  color: var(--md-default-fg-color--lighter);
+  letter-spacing: 0.01em;
+}
+
+.tn-family-gloss,
+.tn-scope-gloss {
+  font-size: 0.78rem;
+  color: var(--md-default-fg-color--light);
+  line-height: 1.35;
+  margin-top: auto;
+}
+
 /* ── Front-page showcase block ──────────────────────────── */
 .tn-showcase {
   border-left: 3px solid var(--md-accent-fg-color);
