@@ -37,6 +37,11 @@ title: "Sequential Connector Tests"
 `la-to be ; la-to-ki be ; la-zo-li-pu vo be`
 *Knowledge grew; judgment sharpened; the people flourished.*
 
+<span id="S482"></span>
+**S482**
+`la-mi to ; la-mi pa`
+*I thought; therefore I existed.*
+
 <span id="S483"></span>
 **S483**
 `la-su-ki su ; la-vo-su pa`
@@ -55,7 +60,7 @@ title: "Sequential Connector Tests"
 <span id="S486"></span>
 **S486**
 `la-yu ki ; la-ti ki ti-de`
-*DIAGNOSTIC: reversed chain — "We departed; the clock had moved.*
+*DIAGNOSTIC: reversed chain — "We departed; the clock had moved."*
 
 <span id="S487"></span>
 **S487**
@@ -84,13 +89,6 @@ title: "Sequential Connector Tests"
 | S488 (SCL-001-L) | preferred in observational register | causal vs sequential distinction confirmed |
 
 **`;` viable count: 9 of 12 (S477–S481, S483–S485, S488). Admission condition: 10 required.**
-
-## SCL-001-F — contrast with S444 · Sequential Connector Contrast
-
-<span id="S482"></span>
-**S482**
-`la-mi to ; la-mi pa`
-*I thought; therefore I existed.*
 
 ## SCL-002 · `;` Extended Corpus Test
 

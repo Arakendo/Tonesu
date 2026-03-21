@@ -42,7 +42,7 @@ title: "ACA Individual Mandate — 26 U.S.C. §5000A (penalty vs tax)"
 <span id="S650"></span>
 **S650**
 `~wi-fe'de  ne  su-to  /  ke,  wi-fe  no  to-su-ki  lo-to-fe  wi-fe'de  ne  ka-li-de`
-*~wi-fe'de is a structural fact / but the rule has not comprehended the boundary between penalty and tax.*
+*`~wi-fe'de` is a structural fact / but the rule has not comprehended the boundary between penalty and tax.*
 
 ### Batch Summary
 

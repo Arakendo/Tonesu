@@ -4,7 +4,7 @@ title: "Early & Unbatched Sentences"
 
 # Early & Unbatched Sentences
 
-*Theme: [Foundations](../../foundations/overview/)* · 45 sentences.
+*Theme: [Foundations](../../foundations/overview/)* · 37 sentences.
 
 [← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
 
@@ -603,78 +603,6 @@ title: "Early & Unbatched Sentences"
     - `wi-fe-no-fe` = rules-without-boundary = `wi-fe` (W100) + `no-fe` (without limit). Default right-branching: `wi` modifies [`fe-no-fe`] = will applied to [boundary-without-limit] = unlimited imposition = totalitarianism. This bare-asserted conclusion is outside `()` — the speaker presents it without reservation.
     - **Grammar doing the work:** the real position is `()`-framed; the distortion is bare-asserted. In Tonesu, anything outside `()` claims first-person certainty. The structural contrast — `(reported premise)  ,  du  [bare confident conclusion]` — makes the gap visible: the `du` (result/therefore) asserts the conclusion follows directly from what was only a reported claim.
     - Corrected form: `(la-ze  lo-wi-fe  be-si)  ,  (du  la-ze  lo-wi-fe-no-fe  wi)` — place both premise and conclusion inside `()`. Both are reported/uncertain. The result is the weaker, epistemically honest version.
-
-<span id="S439"></span>
-**S439**
-`to-su  helm  ra`
-Written: `tosu helm ra`
-*Knowledge is power." (Francis Bacon, attributed)*
-
-!!! annotation "Notes"
-    `to-su` (W030) = knowledge-system / organized knowledge. `ra` = force/energy/power (primitive). `helm` (G011) = functional equivalence predicate: X is functionally understood as Y. Bacon's claim is pragmatic — organized knowledge *functions as* power, not that it metaphysically *is* power (`helms`) or merely *has* the property of power (`ne to-su ra`). The `helm` reading is precise: in the domain of human affairs, knowledge behaves as force.
-
-<span id="S440"></span>
-**S440**
-`ti  helm  nu-vo`
-Written: `ti helm nuvo`
-*Time is money." (Benjamin Franklin, attributed)*
-
-!!! annotation "Notes"
-    `ti` = time (primitive). `nu-vo` = quantity-value = measurable worth / counted resource (compositional; unregistered; `nu` = quantity + `vo` = value). `helm` = is functionally understood as. The claim is economic: time, in productive contexts, *functions as* a countable valuable resource. Not a definitional identity (`helms`) nor a property attribution (`ne`). Contrast with S439: both S439–S440 are `helm` pragmatic/cultural assertions.
-
-<span id="S441"></span>
-**S441**
-`go-no-fe  helm  de`
-Written: `gonofe helm de`
-*God is dead." (Friedrich Nietzsche, *Die fröhliche Wissenschaft* §125, 1882)*
-
-!!! annotation "Notes"
-    `go-no-fe` = necessary being (God; `go` + `no-fe` = origin without limiting boundary). `de` = decay/dissolution (primitive). `helm` = is culturally/functionally understood as. Nietzsche's claim is a cultural observation, not a metaphysical fact: the concept of God has functionally decayed in the modern imagination. `helm` is precisely right — `go-no-fe helms de` would be a logical contradiction (a necessary being is by definition incapable of dissolution). `helm` admits the tension: in the cultural-functional register, the necessary being is *understood as* dissolved. The force of the provocation is in the gap between `helm` and `helms`. Contrast immediately with S442.
-
-<span id="S442"></span>
-**S442**
-`go-no-fe  helms  vo`
-Written: `gonofe helms vo`
-*God is love." (1 John 4:8)*
-
-!!! annotation "Notes"
-    `vo` = value/quality/worth (primitive; broadest reading = unconditional positive regard / *agape*). `helms` (G012) = is by definition. This is a theological essence claim: what the necessary being *is*, not merely what it does or how it functions. Contrast with S441: same subject (`go-no-fe`), different operator, different predicate — `helm de` vs `helms vo` — encodes Nietzsche vs John at the level of the identity predicate itself. Resolves the identity-copula ambiguity raised in GAP-LSP-001 (see LSP-001 Batch Summary, and S431/S436): `ne` would attribute love as a property; `helms` asserts it as constitutive essence. The three-way scale illustrated across S441–S442: `ne` (property) < `helm` (functional) < `helms` (definitional).
-
-<span id="S443"></span>
-**S443**
-`zo-li  helms  to-zo`
-Written: `zoli helms tozo`
-*Man is a rational animal." (Aristotle, *Nicomachean Ethics* / *Politics*)*
-
-!!! annotation "Notes"
-    `zo-li` (W148) = living-agent = human person. `to-zo` = knowledge-living-being = a living thing defined by its knowledge-capacity = rational animal (compositional; unregistered: `to` modifier + `zo` head). `helms` = is by definition. Aristotle's core definition: being human *is* being a knowledge-structured living thing. Note compound polarity: `zo-to` (W068) = soul (living → knowledge: the knowledge-aspect of a living being); `to-zo` = rational animal (knowledge → living: a life-form categorized by its knowledge-capacity). The reversal encodes a different emphasis: soul is the knowledge-side of life; rational animal is the knowledge-*categorized* kind of creature.
-
-<span id="S444"></span>
-**S444**
-`la-mi  to  go  la-mi  pa`
-Written: `lami to go lami pa`
-*I think, therefore I am." (René Descartes, *Discours de la méthode*, 1637)*
-
-!!! annotation "Notes"
-    `la-mi` = I (first-person agent). `to` = model/think (primitive, intransitive). `go` = cause/origin particle (here: causal connective = "therefore"). `pa` = place/existence (place-occupation as proxy for existence). Structure: [premise: `la-mi to`] `go` [conclusion: `la-mi pa`] = "I think, therefore I exist." Deliberately uses `go` (causal deduction) rather than `helm`/`helms`; the Cogito is *not* an identity claim but a logical inference from a premise to a conclusion. Descartes does not say "thinking *is* existing" but "from the fact that I think, existence follows." Structural contrast with S442–S443: `helms` asserts identity; `go` deduces consequence.
-
-<span id="S445"></span>
-**S445**
-`pu-to-su  ne  ven  du-to`
-Written: `putosu ne ven duto`
-*All models are approximately correct." (George E. P. Box, paraphrase)*
-
-!!! annotation "Notes"
-    `pu-to-su` = all knowledge-systems / all models (plural prefix `pu-` + `to-su` W030). `ne` = property copula. `ven` (G010) = approximately (spoken/written form of `~`; pre-positional hedge). `du-to` = result-of-knowledge = the successful outcome of a modelling process = correct/accurate (compositional; unregistered: `du` = result/effect + `to` = pattern/knowledge). `ven du-to` = approximately correct. Forms a linked pair with S446: see that entry for the epistemological point.
-
-<span id="S446"></span>
-**S446**
-`pu-to-su  ne  ven  no-du-to`
-Written: `putosu ne ven noduto`
-*All models are approximately wrong." (George E. P. Box, complementary reading)*
-
-!!! annotation "Notes"
-    Complement of S445. `no-du-to` = not-result-of-knowledge = incorrect (negated form; `no-` prefix + `du-to`). `ven no-du-to` = approximately wrong. S445 and S446 are both true of the same referent (`pu-to-su`), and this is not a contradiction: `ven X` and `ven no-X` co-hold when the subject is near the precision boundary — which is the condition of every finite model. `ven` is symmetric: a model that is `ven du-to` is the same model that is `ven no-du-to`. Tonesu's approximation system encodes this more faithfully than natural language: English "roughly correct" and "roughly wrong" feel contradictory; `ven du-to` and `ven no-du-to` are formally symmetric hedges. Box's full aphorism: "All models are wrong, but some are useful." A third sentence completing the aphorism — `ta pu-to-su-va ne vo` (and some models have value/utility) — is deferred.
 
 ---
 

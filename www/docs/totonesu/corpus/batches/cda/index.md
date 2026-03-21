@@ -41,7 +41,7 @@ title: "Communications Decency Act — Section 230(c)(1)"
 
 <span id="S644"></span>
 **S644**
-`la-wi-fe  ne  wi-fe'ka-to-fe  /  ke, la-wi-fe  no  to-su-ki  lo-to-fe su-ka-li  ne  si-go-li`
+`la-wi-fe  ne  wi-fe'ka-to-fe  /  ke, la-wi-fe  no  to-su-ki  lo-to-fe  su-ka-li  ne  si-go-li`
 *The rule is a prescription about categorization / but the rule has not defined the boundary between service-provider and content-originator.*
 
 ### Batch Summary

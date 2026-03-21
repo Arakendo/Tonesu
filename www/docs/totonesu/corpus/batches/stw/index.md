@@ -59,7 +59,7 @@ title: "Star Wars — The Jedi Code"
 <span id="S593"></span>
 **S593**
 `ne-no-ra  ne  to-fe-ka  /  ru-fe,  fa-wi-ra  ne`
-*Peaceful-relation is deliberate-mislabeling / only—driven-affect prevails.*
+*Peaceful-relation is deliberate-mislabeling / only: driven-affect prevails.*
 
 !!! annotation "Notes"
     Direct structural inversion of S588: both sentences contain `ne-no-ra ne`, but here it is attributed `to-fe-ka` (W029, deliberate epistemic mislabeling = a lie). The Sith don't claim peace is merely absent — they claim it is an actively maintained deception. `ru-fe, fa-wi-ra ne` = only passion prevails (`ru-fe` exclusive scope particle). The two codes are grammatically locked by the shared phrase `ne-no-ra ne` carrying opposite truth-values.

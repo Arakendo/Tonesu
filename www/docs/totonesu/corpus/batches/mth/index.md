@@ -20,7 +20,7 @@ title: "Matthew 16:25 — Causal Inversion Paradox"
 **S459**
 `go la-ze ka-no-de lo-ze-zo-ra / lo-ze-zo-ra de`
 Written: `go laze kanode lozezora / lozezora de`
-*Matthew 16:25a — "Whoever saves their life will lose it.*
+*Matthew 16:25a — "Whoever saves their life will lose it."*
 
 !!! annotation "Notes"
     `go` = conditional/causal frame. `la-ze` = whoever (third-person indefinite as agent). `ka-no-de` = deliberate-preservation = to save/preserve/keep (`ka` = action/will + `no` = negation of + `de` = decay = action-against-decay = deliberate preservation). `lo-ze-zo-ra` = their life-energy (patient: `ze` third-person modifier + `zo-ra` W117 life-energy = ψυχή). `lo-ze-zo-ra de` = their life-energy decays/erodes (`de` alone as predicate = undergoes decay). The causal inversion is the content, not the grammar: a `go` frame can connect any premise to any result, including paradoxical ones. The sentence makes the claim; the grammar is neutral.
@@ -29,7 +29,7 @@ Written: `go laze kanode lozezora / lozezora de`
 **S460**
 `go la-ze ka-de lo-ze-zo-ra wi-mi / lo-ze-zo-ra be`
 Written: `go laze kade lozezora wimi / lozezora be`
-*Matthew 16:25b — "Whoever loses their life for my sake will find it.*
+*Matthew 16:25b — "Whoever loses their life for my sake will find it."*
 
 !!! annotation "Notes"
     `ka-de` = deliberate-decay = to sacrifice/give-up/surrender (`ka` = action/will + `de` = decay = willed dissolution). `lo-ze-zo-ra` = their life-energy (patient, same as S459). `wi-mi` = for-my-sake / for-my-purpose: `wi` (purpose as compound root) + `mi` (first-person = the speaker, i.e. Jesus). Post-patient position marks it as a telic-purpose modifier on the action. `lo-ze-zo-ra be` = their life-energy grows/increases (`be` = growth/increase as predicate). The promise: deliberate self-sacrifice motivated by the speaker's purpose produces the opposite result (increase, not decrease). `be` and `de` are the minimal opposition across S459/S460: both are intransitive predicates applied to the same patient.

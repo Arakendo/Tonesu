@@ -15,7 +15,7 @@ title: "CV Particle Assignment — Vocative and Attention-Signal"
 <span id="S524"></span>
 **S524**
 `he na-Moses!`
-*Standalone vocative: "Moses!*
+*Standalone vocative: "Moses!"*
 
 !!! annotation "Notes"
     `he` = vocative particle; `na-Moses` = proper name NP. The sentence is a complete speech act: a direct call. Three-way compare: (1) `na-Moses!` — exclamatory NP; still an NP, not an illocutionary act; (2) `he na-Moses!` — vocative speech act: I am calling you specifically; (3) `la-na-Moses ka-si` — "Moses spoke" (predicate clause; Moses is the agent, not the addressee). `he` is the only form that produces a standalone direct address at minimal length. **First attestation of `he` (form newly assigned). CVP-001 count: 1.**
@@ -23,7 +23,7 @@ title: "CV Particle Assignment — Vocative and Attention-Signal"
 <span id="S525"></span>
 **S525**
 `he na-Moses, ki di-pa-su`
-*Vocative + imperative: "Moses! Go toward the mountain.*
+*Vocative + imperative: "Moses! Go toward the mountain."*
 
 !!! annotation "Notes"
     `he na-Moses` = direct address frame; `,` separates it from the following imperative clause; `ki di-pa-su` = move toward / in the direction of the mountain (dropped-agent imperative, standard). The `he` makes it unambiguous that `na-Moses` is the *addressee*, not the agent of the following clause — which `la-na-Moses, ki di-pa-su` would confusingly suggest (Moses as agent of the motion). **Second attestation. CVP-001 count: 2.**

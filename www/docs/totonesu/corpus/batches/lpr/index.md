@@ -20,7 +20,7 @@ title: "The Liar Paradox — Self-Referential Truth Stress Test"
 **S465**
 `vund ne no-tonesu vunds`
 Written: `vund ne notonesu vunds`
-*This sentence is false." — naive attempt with `tonesu`*
+*"This sentence is false." — naive attempt with `tonesu`*
 
 !!! annotation "Notes"
     `vund … vunds` = evidential frame (G014/G015). `ne no-tonesu` = is not truth-as-organized-knowledge. **Fails as a Liar construction on two grounds.** First, `no-tonesu` is the wrong predicate: `tonesu` (W000) is truth as a *state* of organized coherent knowledge — its negation gives epistemic incoherence (ignorance, confusion), not propositional falsehood. `no-tonesu` ≠ "this proposition is false." Second, `ne no-tonesu` has no subject — there is no sentence-indexical in Tonesu that can point from inside the frame back to the frame itself. The form is grammatically marginal (predication without subject) and semantically wrong for the Liar's purpose.
@@ -29,7 +29,7 @@ Written: `vund ne notonesu vunds`
 **S466**
 `vund ne no-du-to vunds`
 Written: `vund ne noduto vunds`
-*This sentence is false." — improved attempt with `du-to`*
+*"This sentence is false." — improved attempt with `du-to`*
 
 !!! annotation "Notes"
     `du-to` = obtaining fact (established WIT-001, S461); `no-du-to` = non-obtaining = false as a propositional predicate — the right tool. Grammatically parseable as a frame with missing subject. **Fails as a Liar construction on two structural grounds.** Block 1 (no sentence-indexical): there is no noun phrase in Tonesu of the form "the proposition that is this sentence" — no pro-form can point back to the containing clause from within it. Block 2 (Tarski hierarchy): the evidential frame structurally separates the asserting speaker (level N+1) from the reported content (level N). The framing speaker can predicate over the frame content; the content cannot reach up to predicate over the frame. This is Tarski's object-language / metalanguage hierarchy instantiated in the syntax: `vund … vunds` is one-directional; the content cannot observe its wrapper.

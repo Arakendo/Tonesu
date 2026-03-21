@@ -30,12 +30,12 @@ title: "V-Particle Productivity Test"
 <span id="S494"></span>
 **S494**
 `a`
-*Bare acknowledgment: "Right. / I see. / Got it.*
+*Bare acknowledgment: "Right. / I see. / Got it."*
 
 <span id="S495"></span>
 **S495**
 `a, la-ze ki...`
-*Discourse-chain acknowledgment: "Yes, and then—*
+*Discourse-chain acknowledgment: "Yes, and then—"*
 
 <span id="S496"></span>
 **S496**
@@ -50,7 +50,7 @@ title: "V-Particle Productivity Test"
 <span id="S498"></span>
 **S498**
 `e!`
-*Surprise / attention shift: "Oh!" or "Look—*
+*Surprise / attention shift: "Oh!" or "Look—"*
 
 <span id="S499"></span>
 **S499**

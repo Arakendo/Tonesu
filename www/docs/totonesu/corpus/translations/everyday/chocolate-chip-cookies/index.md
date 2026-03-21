@@ -4,7 +4,7 @@ batch_codes: [CKG-001]
 # Translation Test: Chocolate Chip Cookie Recipe
 
 ## Source: Standard chocolate chip cookie recipe (generic public-domain procedural form)
-## Status: First pass — 6-step founding set
+## Status: Two passes — founding set (CKG-001) + measurement augmentation
 
 ---
 
@@ -259,6 +259,123 @@ food is [in its] completed-structure state = the cookies are done.
 
 ---
 
+## CKG-001 Second Pass: Measurement Augmentation
+
+**Context:** The source text specifies concrete measurements — a temperature (190°C), volume-based ingredient quantities (cups, teaspoons), a count (2 eggs), and an implied duration (10–12 minutes). This second pass demonstrates how the Tonesu anchor system encodes these quantities in the existing sentences. No new S-numbers or W-entries are assigned; these are analytical augmentations of S659–S664 showing the measurement vocabulary in culinary context.
+
+**Volume domain — first attestation:** The anchor inventory defines base measurement domains (`nu pa` space, `nu ti` time, `nu ma` matter, `nu ha` heat) but not volume. Volume is enclosed space: `ko` (containment) + `pa` (space) → `nu ko-pa` = quantity of enclosed space. This is the first use of `nu ko-pa` as a compositional volume measurement domain. No new root entry is required.
+
+---
+
+### Temperature augmentation (S659)
+
+190°C = 463 K (rounded) → `~mol wes gal nu ha` (approximately 4-6-3 heat-units)
+
+```
+ha-ki  lo-ko-ha-mu  [~mol wes gal nu ha]
+```
+
+**Written:** `haki lokohamu [~mol wes gal nu ha]`
+
+**Natural reading:** Preheat the oven [approximately 463 kelvin].
+
+**Notes:** The temperature is placed in an aside frame `[...]` — it contextualizes the `ha-ki` instruction without restructuring the predicate. `~` pre-poses the entire measurement block; `mol wes gal` = 4-6-3 positionally = 463. The approximation is appropriate on three grounds: (1) domestic ovens are imprecise instruments; (2) the source text's dual notation ("190°C / 375°F") signals that both values are practical approximations; (3) the kelvin value rounds from 463.15. The `~` also collapses the °C/°F distinction: Tonesu does not have a Celsius or Fahrenheit scale — only the kelvin-register `nu ha`. Both conventional temperatures point at the same thermal region; `~` marks that "approximately here" is what the instruction means.
+
+The aside frame's removal-invariance is satisfied: stripping `[~mol wes gal nu ha]` leaves a valid instruction (`ha-ki lo-ko-ha-mu`). The measurement is a contextual gloss, not a structural argument.
+
+---
+
+### Ingredient quantity augmentation (S660, S661)
+
+**Mass pattern** — `{digits} rim nu ma` = grams (milli-kilograms). Preferred for solid ingredients.
+
+| Ingredient | Form | SI value |
+|------------|------|----------|
+| Butter (~1 cup) | `~bun gal nil rim nu ma` | ≈230 g |
+| Flour (~2¼ cups) | `~bun fon nil rim nu ma` | ≈280 g |
+| Granulated sugar (~¾ cup) | `~bol hin nil rim nu ma` | ≈150 g |
+| Brown sugar (~¾ cup) | `~bol wes hin rim nu ma` | ≈165 g |
+| Salt (~1 tsp) | `~wes rim nu ma` | ≈6 g |
+
+**Volume pattern** — `{digits} rim nu ko-pa` = milliliters (milli-enclosed-space). First attestations of the `nu ko-pa` domain.
+
+| Quantity | Form | SI value |
+|----------|------|----------|
+| 1 tsp (≈5 mL) | `hin rim nu ko-pa` | 5 mL |
+| 2 tsp / vanilla (~10 mL) | `bol nil rim nu ko-pa` | 10 mL |
+| 1 cup (≈240 mL) | `~bun mol nil rim nu ko-pa` | ≈240 mL |
+
+**Count:**
+
+| Ingredient | Form | Reading |
+|------------|------|---------|
+| 2 eggs | `bun nu zo-ra-ma` | 2 food-items |
+
+**Fractions** — `ru-pu` constructor (first attested S247–S248) applied to volume:
+
+| Fraction | Form | Example |
+|----------|------|---------|
+| ½ | `ru-pu bun` | `ru-pu bun nu ko-pa` = ½ volume-unit |
+| ¼ | `ru-pu mol` | `ru-pu mol nu ko-pa` = ¼ volume-unit |
+| ¾ | `gal ru-pu mol` | `gal ru-pu mol nu ko-pa` = ¾ volume-unit |
+| 2¼ | `zan ru-pu mol` | `zan ru-pu mol nu ko-pa` = 9/4 volume-units |
+
+The `ru-pu` system produces improper fractions for mixed numbers (2¼ → 9/4). This is the canonical Tonesu form — it avoids any need for a separate mixed-number syntax.
+
+**Augmented S660:**
+
+```
+ma-ne-ki  lo-ki'ma-zo-ra-ma  [~bun gal nil rim nu ma  ne  bun nu zo-ra-ma]  pa-ko-mu  lu-su-ne
+```
+
+**Written:** `maneki loki'mazorama [~bun gal nil rim nu ma ne bun nu zorama] pakomu lusune`
+
+**Natural reading:** Combine the liquid food-materials [~230 g of matter and 2 food-items] in the vessel, result: structural harmony.
+
+**Notes:** The aside gives approximate butter mass and egg count — the two wet ingredients whose quantities bear most on recipe outcome. `ne` joins them inside the aside, mirroring the relational `ne` of `ma-ne-ki`. The `~` on the mass expression but not the count reflects actual precision: "2 eggs" is exact; "a cup of butter" is approximate by nature of volume-to-mass conversion.
+
+**Augmented S661:**
+
+```
+pa-no-ne-ko-mu  ma-ne-ki  lo-su'ma-zo-ra-ma  [~bun fon nil rim nu ma  ne  ~wes rim nu ma]
+```
+
+**Written:** `panonekomu maneki losu'mazorama [~bun fon nil rim nu ma ne ~wes rim nu ma]`
+
+**Natural reading:** At the separate vessel, combine the dry food-materials [~280 g of matter and ~6 g of matter].
+
+**Notes:** Flour and salt are the two dry ingredients whose quantities most affect structure and flavor. The aside demonstrates the multi-quantity form with `ne` as the list connector inside the frame.
+
+---
+
+### Bake time augmentation (S663)
+
+Standard bake time: 10–12 minutes → `~bol bun nu re-ti-de` (approximately 12 minutes)
+
+```
+ki  lo-zo-ra-ma-su  pa-ko-ha-mu ;  la-ko-ha-mu  ha-ki  lo-zo-ra-ma-su  lu-ha-su  [~bol bun nu re-ti-de]
+```
+
+**Written:** `ki lozoramasu pakohamu ; lakohamu haki lozoramasu luhasu [~bol bun nu re-ti-de]`
+
+**Natural reading:** Move the structured food to the oven; the oven heat-changes the structured food until set [approximately 12 minutes].
+
+**Notes:** `re-ti-de` = diminished recurring time = minute (first attested S249); `bol bun` = 1-2 positionally = 12; `~` marks "approximately" — standard for oven times, which vary by oven and dough thickness. The time expression is again in an aside frame: the structural content of S663 is the instruction and its thermodynamic result (`lu-ha-su`); the duration is contextual precision, not a structural argument. The result-condition (`lu-ha-su`) is primary; the time is a practical guide to when that condition is typically reached.
+
+---
+
+### Second Pass Findings
+
+**Finding 6: `nu ko-pa` is the compositional volume domain; no new root is required.** Volume = quantity of enclosed space = `nu ko-pa`. The pattern `{digits} rim nu ko-pa` encodes milliliters. This is the first attested use of `nu ko-pa` as a measurement domain, composing from primitives `ko` (containment) and `pa` (space), both already in the lexicon.
+
+**Finding 7: `~` does measurement-pragmatics work beyond simple uncertainty.** In recipe context, `~` encodes that a quantity is a *practical target*, not a physical constant. `~mol wes gal nu ha` means "heat to approximately this thermal region" — not "I'm vaguely uncertain about the number." The `~` also collapses the °C/°F distinction: both conventional scales point at the same thermal region, and Tonesu's kelvin-register `nu ha` with `~` captures the instruction's actual precision.
+
+**Finding 8: No new CVC, CVCC, or W-entry is required for recipe measurement.** Every measurement in the recipe encodes through existing infrastructure: digit inventory (CVC-tier), `rim` (milli, ergonomic shortform), `nu` (quantity primitive), domain bases `ma` / `ha` / `ko-pa`, `re-ti-de` (minute, S249), and `ru-pu` fractions (S247–S248). Monday's measurement challenge is fully absorbed by established vocabulary.
+
+**Finding 9: Aside frames `[...]` are the natural integration site for measurement qualifications in instruction-register sentences.** Recipes interleave instructions (bare imperatives) with specifications (temperatures, quantities, times). In Tonesu, these roles are structurally distinct: the imperative clause is the command; the measurement is the contextual precision. The `[]` frame isolates the measurement without restructuring the predicate. Removing the aside leaves a valid instruction; the frame provides the degree of precision a recipe reader needs — and nothing more.
+
+---
+
 ## Colloquial Register Analysis
 
 | Form used | CLQ entry | Colloquial form | Notes |
@@ -273,7 +390,12 @@ food is [in its] completed-structure state = the cookies are done.
 | `de-ha-ki` | none | — | 3-root composable predicate — first use; no corpus pressure yet |
 | `be-su` | none | — | 2-root — below 3-morpheme contraction threshold |
 | `ha-su` | none | — | 2-root — below 3-morpheme contraction threshold |
+| `nu ko-pa` | none | — | 2-root compositional volume domain — below threshold |
+| `rim nu ma` pattern | none | — | measurement phrase; components are CVC ergonomic shortform (`rim`) and primitives — not a vocabulary item |
+| `rim nu ko-pa` pattern | none | — | measurement phrase; same structure as `rim nu ma` — not a vocabulary item |
+| digit chains (`mol wes gal`, `bun gal nil`, etc.) | none | — | CVC anchors — minimum possible |
+| `ru-pu` fraction forms | none | — | `ru-pu` constructor established S247–S248; new applications here below CLQ scope |
 
-**Verdict:** irreducibly formal — all new compounds are first attestations with no corpus pressure; all 2-root predicates are below threshold.
+**Verdict:** irreducibly formal — all new compounds are first attestations with no corpus pressure; all 2-root predicates and measurement-frame patterns are below CLQ scope.
 
 *CLQ entries registered from this batch: none.*

@@ -38,7 +38,7 @@ Written: `lami pa / lami nopa : ne tosi`
 **S464**
 `de lo-no-ko-ra / ka-ra lo-de-no-fe : ne to-si`
 Written: `de lonokora / kara lodenofe : ne tosi`
-*Hamlet III.i — "To suffer... or to take arms against a sea of troubles*
+*Hamlet III.i — "To suffer... or to take arms against a sea of troubles"*
 
 !!! annotation "Notes"
     Second deliberative parallel — the two options Hamlet weighs. `de` = undergo-deterioration/suffer (root: decay/harm). `lo-no-ko-ra` = patient: external force/compulsion (`no-ko-ra` established NEW-001); redeployed here as fortune's hostile agency — the thing one would suffer against. `ka-ra` = act-forcefully (`ka` = act + `ra` = energy/force; compositional). `lo-de-no-fe` = patient: harm-without-limit (`de-no-fe` new: `de` + `[X]-no-fe` productive suffix = unbounded adversity = "a sea of troubles"). The "nobler" comparative frame is absent (GAP-HAM-001: no comparative particle); the sentence renders the options without ranking them.

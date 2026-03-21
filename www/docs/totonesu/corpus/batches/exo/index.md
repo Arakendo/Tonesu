@@ -75,7 +75,7 @@ title: "Exodus 3 — Burning Bush"
 <span id="S405"></span>
 **S405**
 `la-na-Moses  si  lo-pa-mi`
-*Moses answered: "Here I am.*
+*Moses answered: "Here I am."*
 
 !!! annotation "Notes"
     `pa-mi` = place-of-me = my location = here. The locative surface of Hebrew *hineni* (here I am). **Gap:** *hineni* as a speech-act of total availability has no Tonesu equivalent; `lo-pa-mi` captures only the locative dimension. See exodus-3-1-15.md Gap 2.
@@ -155,7 +155,7 @@ title: "Exodus 3 — Burning Bush"
 <span id="S415"></span>
 **S415**
 `la-mi  go-ne  lo-mi`
-*God: "I am who I am.*
+*God: "I am who I am."*
 
 !!! annotation "Notes"
     **First attestation and central gap:** `go-ne` = cause-relate = self-originating relation (W159). `la-mi  go-ne  lo-mi` = I stand in a causal-relational bond directed at myself = I am my own origin and referent = *ehyeh asher ehyeh*. This is a relation claim, not an identity claim — the constitutional self-identity meaning of the divine name remains outside Tonesu's current grammar. The gap is documented and not resolved by this rendering. Whether `go-ne  lo-mi` develops a strong conventional identity reading through corpus frequency is an empirical question.

@@ -20,7 +20,7 @@ title: "Romans 7:19 — Psychological Contradiction"
 **S452**
 `la-mi wi-vo / no la-mi ka-ze`
 Written: `lami wivo / no lami kaze`
-*Romans 7:19a — "For I do not do the good I want to do.*
+*Romans 7:19a — "For I do not do the good I want to do."*
 
 !!! annotation "Notes"
     `la-mi` = I (first-person agent, `la-` + `mi`). `wi-vo` = willed-good / intended-value: `wi` (purpose/intent as compound root) + `vo` (value/good). The pre-`/` clause establishes the intention. `no la-mi ka-ze` = I do not do it: `no` (negation) + `la-mi` + `ka-ze` (`ka` = act + `ze` third-person referent = act-on-it; the good is anaphorically recalled by `ze`). The will-act gap is encoded by the syntactic contrast across `/`: intention on the left, negated action on the right. Note: `wi` is here used as a compound root (intent), not as the clause-frame particle `wi {purpose} action`; the dual role is permitted because the internal compound `wi-vo` = intent-toward-good is semantically coherent regardless of framing.
@@ -29,7 +29,7 @@ Written: `lami wivo / no lami kaze`
 **S453**
 `la-mi no-wi-de-vo / re la-mi ka-ze`
 Written: `lami nowidevo / re lami kaze`
-*Romans 7:19b — "But the evil I do not want to do, I keep on doing.*
+*Romans 7:19b — "But the evil I do not want to do, I keep on doing."*
 
 !!! annotation "Notes"
     `la-mi` = I. `no-wi-de-vo` = rejected-harm: `no` (negation/repudiation) + `wi` (intent/will) + `de-vo` (value-decay = moral acting-against-value; `de` = decay/deterioration + `vo` = value). The compound `no-wi-de-vo` = "will-repudiated value-harm" = what I have deliberately not willed. `re la-mi ka-ze` = I keep doing it: `re` (cycle/recurrence) as a clause-level habitual aspect marker + `la-mi ka-ze` = I act-on-it. `re` as habitual is its first unambiguous attestion in this role. The structure is symmetric with S452: S452 has [intention left, negated-act right]; S453 has [repudiated-object left, compulsive-act right]. The symmetry encodes Paul's doubled contradiction: both slots of the will are active (positive will and negative will), and both produce the wrong action.

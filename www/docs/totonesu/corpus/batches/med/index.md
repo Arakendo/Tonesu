@@ -15,7 +15,7 @@ title: "Medical Differential Diagnosis Consultation"
 <span id="S569"></span>
 **S569**
 `go ha-be  lo-zo-li  de  ti-de`
-*A's opening claim: "The fever caused the patient's deterioration.*
+*A's opening claim: "The fever caused the patient's deterioration."*
 
 !!! annotation "Notes"
     A's diagnostic hypothesis. Causal frame: `go ha-be` = "caused by heat-increase"; `lo-zo-li de ti-de` = "the patient deteriorated." A asserts a thermal causal chain as the primary mechanism. No epistemic hedge — A is putting forward a direct causal reading from observation. **Round 1 opening.**
@@ -47,7 +47,7 @@ title: "Medical Differential Diagnosis Consultation"
 <span id="S573"></span>
 **S573**
 `ya, la-to-su  si  {go ha-be  lo-ko-su  de}`
-*A's Round 3 structural appeal: "The canonical record says thermal cause.*
+*A's Round 3 structural appeal: "The canonical record says thermal cause."*
 
 !!! annotation "Notes"
     A's strongest move. Instead of further personal evidence, A appeals to `to-su` (established knowledge / the canonical diagnostic record). `la-to-su si {…}` = "established knowledge signals [the proposition that…]." The embedded clause `{go ha-be  lo-ko-su  de}` = "by thermal cause, the organ deteriorated" — the canonical record is on the thermal side. This is a structural appeal: A is now claiming that the thermal hypothesis does not need new defense — it is already in the record. For B at this point: the thermal hypothesis has been asserted (Round 1), backed by perceptual evidence (Round 2), and is now presented as institutionally established (Round 3). A third denial from B would re-engage a premise that the committee has been through twice. The information to convey is not "I still reject the thermal hypothesis" — the committee knows that. The information is: "here is the alternative evidence, here is the causal chain." **Round 3 trigger condition established.**

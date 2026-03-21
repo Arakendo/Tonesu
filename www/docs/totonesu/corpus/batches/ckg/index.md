@@ -17,32 +17,32 @@ title: "Cookie Recipe — Chocolate Chip Cookies"
 <span id="S659"></span>
 **S659**
 `ha-ki  lo-ko-ha-mu`
-*Heat the oven.*
+*Heat-change the containment-heat-device.*
 
 <span id="S660"></span>
 **S660**
 `ma-ne-ki  lo-ki'ma-zo-ra-ma  pa-ko-mu  lu-su-ne`
-*Mix the liquid food-materials in the vessel until they are unified.*
+*Combine the liquid food-materials in the vessel, result: structural harmony.*
 
 <span id="S661"></span>
 **S661**
 `pa-no-ne-ko-mu  ma-ne-ki  lo-su'ma-zo-ra-ma`
-*In a separate vessel, mix the dry food-materials.*
+*At the unrelated vessel, combine the solid food-materials.*
 
 <span id="S662"></span>
 **S662**
 `ma-ne-ki  lo-ki'ma-zo-ra-ma  ne  lo-su'ma-zo-ra-ma`
-*Combine the wet ingredients and the dry ingredients.*
+*Combine [liquid food-materials] bonded-with [solid food-materials].*
 
 <span id="S663"></span>
 **S663**
 `ki  lo-zo-ra-ma-su  pa-ko-ha-mu ;  la-ko-ha-mu  ha-ki  lo-zo-ra-ma-su  lu-ha-su`
-*Place the dough in the oven; the oven heats the dough until it is set.*
+*Move the structured food-matter to the oven; the oven heat-changes the structured food-matter, result: thermally-set.*
 
 <span id="S664"></span>
 **S664**
 `ki  lo-ha-zo-ra-ma ;  de-ha-ki ;  ha-zo-ra-ma  ne  be-su`
-*Remove the baked food; cool it; the baked good is done.*
+*Move the thermally-treated food [from oven]; thermal decrease; the thermally-treated food is completed-formation.*
 
 ### Batch Summary
 

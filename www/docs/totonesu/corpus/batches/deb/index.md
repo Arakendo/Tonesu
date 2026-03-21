@@ -15,7 +15,7 @@ title: "Heated Debate Corpus Test"
 <span id="S539"></span>
 **S539**
 `la-to ne vo-fe`
-*A opens: "Knowledge is supremely valuable.*
+*A opens: "Knowledge is supremely valuable."*
 
 !!! annotation "Notes"
     `la-to ne vo-fe` = knowledge has the property of no-limit-value = knowledge is boundlessly valuable. `vo-fe` = value-boundary = maximal value (extremal `-no-fe` suffix pattern, THO-001). Bare opening claim; no correction tools active yet. **Round 1, A's position on the table. DEB-001 count: 1.**
@@ -23,7 +23,7 @@ title: "Heated Debate Corpus Test"
 <span id="S540"></span>
 **S540**
 `no — la-ka ne vo-fe`
-*B, round 1 correction: "No — action is supremely valuable.*
+*B, round 1 correction: "No — action is supremely valuable."*
 
 !!! annotation "Notes"
     Clean Round 1 correction: `no` (denial) + `—` (suspension) + `la-ka ne vo-fe` (B's replacement claim). Identical structure to S532 (COR-001). The denial is fresh — A just stated the claim for the first time; `no — Y` is fully appropriate and not yet stale. **Round 1, correction clean. DEB-001 count: 2.**
@@ -31,7 +31,7 @@ title: "Heated Debate Corpus Test"
 <span id="S541"></span>
 **S541**
 `ya, la-to be lo-ka`
-*A advances evidence: "Look — knowledge builds action.*
+*A advances evidence: "Look — knowledge builds action."*
 
 !!! annotation "Notes"
     A escalates from assertion to causal argument. `ya` (attend to this — CVP-001 S528: `ya` before a major claim) + `la-to be lo-ka` = knowledge grows/produces action. A is asserting the causal arrow `to → ka`. `ya` in adversarial discourse: "this is the argument you cannot dismiss." No affect claim; purely content-directed. `ya` is productive in heated register without importing emotional valence. **DEB-001 count: 3.**

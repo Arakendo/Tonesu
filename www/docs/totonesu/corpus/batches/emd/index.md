@@ -33,7 +33,7 @@ A Swelling of the Ground —
 **S471**
 `ta go {no la-mi de-ki lo-de-zo-li}, la-de-zo-li wi-vo de-ki lu-mi`
 Written: `ta go {no lami deki lodezoli}, ladezoli wivo deki lumi`
-*Stanza 1, lines 1-2: "Because I could not stop for Death — / He kindly stopped for me —*
+*Stanza 1, lines 1-2: "Because I could not stop for Death — / He kindly stopped for me —"*
 
 !!! annotation "Notes"
     `ta` = past temporal frame. `go {…}` = causal frame: "because [I was not stopping for Death]". `de-zo` = dying/death (established as non-deliberate organism-decay, in non-murder register). `de-zo-li` = Death personified: `de-zo` + `-li` (social agent suffix) = the death-person; first corpus use of `-li` applied to a process-compound rather than a concrete entity (GAP-EMD-002: process personification via `-li`). `de-ki` = stop / cease motion: `de` (decay/cessation) + `ki` (motion) = motion-cessation; first attested here. `wi-vo` = kindly / intentional-goodness (established ROM-001): Death acts from good will. `lu-mi` = beneficiary: me. The `,` renders Dickinson's em-dash at the line break — closest approximation available; GAP-EMD-001 (no prosodic-suspension mark). `la-mi` is used for the dead speaker without resolution; GAP-EMD-003.
@@ -42,7 +42,7 @@ Written: `ta go {no lami deki lodezoli}, ladezoli wivo deki lumi`
 **S472**
 `la-ki-pa-mu ko lo-mi lo-de-zo-li lo-no-de-zo-li`
 Written: `lakipamu ko lomi lodezoli lonodezoli`
-*Stanza 1, lines 3-4: "The Carriage held but just Ourselves — / And Immortality.*
+*Stanza 1, lines 3-4: "The Carriage held but just Ourselves — / And Immortality."*
 
 !!! annotation "Notes"
     `ki-pa-mu` = W086 (vehicle/carriage; established). `ko` = containment predicate. Three patients: `lo-mi` (me), `lo-de-zo-li` (Death-person), `lo-no-de-zo-li` (Immortality-person). `no-de-zo` = not-dying = immortality: `no` + `de-zo`; distinct from `ti-no-fe` (eternity = time-without-limit, THO-001). Immortality is the property of not dying; Eternity is the dimension of time. Dickinson holds both in the same poem; Tonesu can distinguish them. `no-de-zo-li` = Immortality personified; first attested here. The "but just" exclusive has no equivalent (GAP-EMD-004: no exclusive particle). Dickinson's final line "And Immortality." arrives in isolation as typographic revelation; in Tonesu it is the third item in a patient list — the arrival effect is lost.
@@ -51,7 +51,7 @@ Written: `lakipamu ko lomi lodezoli lonodezoli`
 **S473**
 `la-mi la-de-zo-li de-ki ne-di-ko-pa, ko-pa helm be-ma-pa`
 Written: `lami ladezoli deki nedikopa, kopa helm bemapa`
-*Stanza 6 grave scene: "We paused before a House that seemed / A Swelling of the Ground —*
+*Stanza 6 grave scene: "We paused before a House that seemed / A Swelling of the Ground —"*
 
 !!! annotation "Notes"
     `la-mi la-de-zo-li de-ki` = I [and] Death-person paused (ceased motion). `ne-di-ko-pa` = relational-direction-toward-house (`ne` + `di` + `ko-pa`) = in front of / positioned before a house; compositional directional spatial relation. `,` = frame boundary. `ko-pa` = enclosed space / house (W048). `helm` (G011) = is functionally understood as / the metaphorical equivalent of. `be-ma-pa` = raised-matter-place = grave mound: `be` (growth/raise) + `ma` (matter) + `pa` (place) = a swelling of the ground; first attested here. **Key structural finding: `helm` as poetic metaphor operator.** The DKN-001 finding (helm = cultural-historical functional equivalence) generalizes here to pure poetic metaphor: `ko-pa helm be-ma-pa` = the house is understood-as a grave mound. The speaker recognizes her own grave. `helm` is the correct operator: not `helms` (strict definitional identity) and not `ne` (property attribution); the grave *functions as* a house. This extends `helm` from cultural register to poetic metaphor register across all domains.

@@ -190,6 +190,7 @@ python scripts/build.py
 
 | Step | Script | What it does |
 |------|--------|-------------|
+| 0 | `extract_sentences.py` | Extracts sentence records from v4-current markdown → `sentences.yaml` |
 | 1 | `generate_registry_md.py` | Syncs `registry/derived/*.md` from `entries.yaml` |
 | 2 | `annotate_words_attested.py` | Populates `words_attested` on sentences/turns |
 | 3 | `derive_first_attests.py` | Derives first attestation data, backfills `first_use` |

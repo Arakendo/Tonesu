@@ -15,7 +15,7 @@ title: "Diplomatic Treaty Negotiation"
 <span id="S579"></span>
 **S579**
 `la-li-pu  ne  wi-fe  lo-ra-pa`
-*A's Round 1: "The delegation asserts rights over the resource territory.*
+*A's Round 1: "The delegation asserts rights over the resource territory."*
 
 !!! annotation "Notes"
     A's opening claim. `la-li-pu ne wi-fe lo-ra-pa` = "The delegation holds the willed boundary over the resource territory" = "The delegation has the rule/right over the resource territory." Type 2 attributive predication: `la-li-pu` (agent slot) + `ne` (copula) + `wi-fe` (property: normative claim) + `lo-ra-pa` (patient: resource territory). **`wi-fe` first direct-form attestation in rights/legal register.** Previous attestation (S183, MMP-001) used `wi-fe-su` (rule-as-institution); this sentence uses the bare compound as a claimed property of an agent. Round 1 opening.

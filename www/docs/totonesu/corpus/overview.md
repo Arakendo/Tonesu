@@ -6,7 +6,7 @@ title: Corpus
 
 The canonical body of attested Tonesu sentences. Every entry is numbered, parsed, and glossed — organized by theme and batch.
 
-**652** sentences · **50** conversation turns · **66** batch pages.
+**652** sentences · **50** conversation turns · **67** batch pages.
 
 *Generated from [`registry/entries.yaml`](https://github.com/Arakendo/Tonesu/blob/main/registry/entries.yaml).*
 
@@ -16,7 +16,7 @@ The canonical body of attested Tonesu sentences. Every entry is numbered, parsed
 
 | Theme | Sentences | Pages |
 |-------|-----------|-------|
-| [Foundations](../foundations/overview/) | 127 | 8 |
+| [Foundations](../foundations/overview/) | 127 | 9 |
 | [Grammar & syntax](../grammar/overview/) | 230 | 27 |
 | [Domains](../domains/overview/) | 191 | 16 |
 | [Theology & philosophy](../theology/overview/) | 43 | 10 |

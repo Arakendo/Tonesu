@@ -174,7 +174,7 @@ title: "D&D — The Eight Schools of Magic"
 <span id="S616"></span>
 **S616**
 `la-na-Tyrant  ne  wi-su  /  ne  wi-de`
-*The Tyrant's will is organized by structure and directed toward harm.*
+*Lawful Evil: Tyrant.*
 
 !!! annotation "Notes"
     W188 + W191. **First standalone attestation of `wi-de` (W191).** Confirms the compound hierarchy: `wi-de` (evil quality) was previously only a component of `wi-de-li` (W124, adversary/enemy); S616 first attests it as a freestanding predicate. LE is the most dangerous alignment: structure (`wi-su`) organized in service of harm (`wi-de`). The Tyrant builds hierarchies FOR exploitation. More terrifying than CE because systematic.
@@ -302,7 +302,7 @@ title: "D&D — The Eight Schools of Magic"
 <span id="S651"></span>
 **S651**
 `la-ra-ka-li  ra-ka  lo-zo-li`
-*A fighter applies volitional force against persons.*
+*A fighter applies force against persons.*
 
 <span id="S652"></span>
 **S652**

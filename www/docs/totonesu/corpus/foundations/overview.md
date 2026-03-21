@@ -14,8 +14,9 @@ Core sentences from the earliest Tonesu attestations — basic agent-patient str
 
 | Batch group | Batches | Sentences |
 |-------------|---------|-----------|
-| [Early & Unbatched Sentences](../../batches/_foundations/) | 1 | 45 |
+| [Early & Unbatched Sentences](../../batches/_foundations/) | 1 | 37 |
 | [Foundational Sentences](../../batches/t/) | 5 | 5 |
+| [FMQ](../../batches/fmq/) | 1 | 8 |
 | [Star Wars — The Jedi Code](../../batches/stw/) | 2 | 11 |
 | [D&D — The Eight Schools of Magic](../../batches/dnd/) | 4 | 38 |
 | [Declaration of Independence — Preamble](../../batches/doi/) | 1 | 10 |
