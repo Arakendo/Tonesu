@@ -1,3 +1,4 @@
 notes/design-history.md
 site/
 __pycache__/
+scripts/_*.py
