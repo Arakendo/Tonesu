@@ -6,7 +6,7 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 
 ## Ready to run — registered vocabulary with no attestations
 
-- [ ] **`wi-fe` / `su-ti` activation batch** — Both registered (W100/W101), zero attestations. 6–8 sentences: "this is the rule", "the rule forbids X", "the current state of the system is…", "the configuration changes when…". Confirm they behave as designed.
+- [x] **`wi-fe` / `su-ti` activation batch** — filed as SUT-001 (S665–S671). W101 (`su-ti`) first attested. Also first attestations of `su-ti-de`, `su-ti-be`, `wi-fe-ka`, `no-wi-fe-ka`, and policy-as-agent prohibition form (`la-wi-fe-su ne wi-fe-ka lo-Y`). W099 + W101 target-state regulation link.
 - [ ] **`zo-si` / `zo-to` disambiguation stress** — Candidates for registration. Batch that puts "creating from nothing" vs "transforming an existing thing" into contexts where the distinction matters. Either confirms the split or shows they collapse in practice.
 - [ ] **`ne-ra` second attestation** — Registered (W058) but thin on corpus. Find a second use context that isn't directly theological.
 

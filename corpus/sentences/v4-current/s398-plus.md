@@ -4585,3 +4585,127 @@ the baked good is complete.
 | S662 (CKG-001-D) | `maneki loki'mazorama ne losu'mazorama` | Combine | Double `lo-ne-lo` patient first att. |
 | S663 (CKG-001-E) | `ki lozoramasu pakohamu ; lakohamu haki lozoramasu luhasu` | Bake | Artifact agency; `ha-su` |
 | S664 (CKG-001-F) | `ki lohazorama ; dehaki ; hazorama ne besu` | Remove + cool | W216 (`ha-zo-ra-ma`) first att. |
+
+---
+
+## `su-ti` State and `wi-fe-ka` Rule Activation (S665–S671)
+
+*Batch purpose (SUT-001): First-attest W101 (`su-ti`, state-snapshot predicate) and `wi-fe-ka` (rule-forbidden predicate) in corpus sentences, confirming `lo-X su-ti Y` state-configuration grammar and both agentless and policy-mediated prohibition forms.*
+
+*New compounds attested this batch: W101 (`su-ti`).*
+
+---
+
+**S665 — Machine: currently inactive.** *(SUT-001-A)*
+
+```
+lo-ki  su-ti  no-ra
+```
+
+**Written:** `loki suti nora`
+
+**Natural reading:** The machine is currently in an inactive configuration.
+
+**Notes:** W101 (`su-ti`) first corpus attestation. `lo-X su-ti Y` = X is currently in state Y (static snapshot — no change implied). Y here is `no-ra` (zero-force = inactive, compositional). Compare `lo-ki  no-be` (the machine is not increasing — a *change* predicate); `lo-ki  su-ti  no-ra` = the machine holds the inactive state (a *snapshot* predicate). Resolves the open-questions.md note: "no primitive for stable condition without invoking change or evaluation."
+
+---
+
+**S666 — Machine: was powered previously.** *(SUT-001-B)*
+
+```
+lo-ki  su-ti-de  ra
+```
+
+**Written:** `loki sutide ra`
+
+**Natural reading:** The machine's previous configuration was powered.
+
+**Notes:** `su-ti-de` = past configuration (W101 + temporal suffix `-de` = past/decay). First attestation of the past-state derived form. Timeline: was powered (S666), is now inactive (S665).
+
+---
+
+**S667 — Machine: target state is powered.** *(SUT-001-C)*
+
+```
+lo-ki  su-ti-be  ra
+```
+
+**Written:** `loki sutibe ra`
+
+**Natural reading:** The machine's target configuration is powered.
+
+**Notes:** `su-ti-be` = expected future/target configuration (W101 + suffix `-be` = growth/expected). First attestation of the target-state derived form. The three sentences S665–S667 establish the full `su-ti` timeline vocabulary: current (`su-ti`), past (`su-ti-de`), target (`su-ti-be`). Batch narrative: currently inactive, was powered, target is to be powered again — S671 provides the mechanism.
+
+---
+
+**S668 — Power ramp is forbidden.** *(SUT-001-D)*
+
+```
+lo-be-ra  wi-fe-ka
+```
+
+**Written:** `lobera wifeka`
+
+**Natural reading:** A power ramp is forbidden.
+
+**Notes:** First corpus attestation of `wi-fe-ka` (W100 derived: willed-boundary as applied to a specific act = the act is prohibited by rule). Patient `be-ra` = growth-force = increasing power = power ramp (compositional). The agentless predicate form `lo-X wi-fe-ka` states the prohibition without naming the source; compare S670 which names the policy authority.
+
+---
+
+**S669 — Power decrease is not forbidden.** *(SUT-001-E)*
+
+```
+lo-no-be-ra  no-wi-fe-ka
+```
+
+**Written:** `lonobera nowifeka`
+
+**Natural reading:** A power decrease is not forbidden.
+
+**Notes:** `no-wi-fe-ka` = not-rule-forbidden = permitted (compositional: `no-` + `wi-fe-ka`). First attestation. Patient `no-be-ra` = no-growth-force = decreasing power. Minimal contrast with S668: the prohibited act (`be-ra`, ramp up) and the permitted act (`no-be-ra`, ramp down) differ only in one `no-` modifier. Instantiates the deontic identity: permitted ↔ not-forbidden.
+
+---
+
+**S670 — Protocol forbids power ramps.** *(SUT-001-F)*
+
+```
+la-wi-fe-su  ne  wi-fe-ka  lo-be-ra
+```
+
+**Written:** `lawifesu ne wifeka lobera`
+
+**Natural reading:** The safety protocol forbids power ramps.
+
+**Notes:** Extension of the DIP-001 rights-claim pattern (`la-X ne wi-fe lo-Y` = X holds rule over Y): `ne wi-fe-ka` attributes the prohibiting form specifically to the patient. `la-wi-fe-su ne wi-fe-ka lo-be-ra` = "The policy holds as rule-prohibited over power-ramps." Contrast with S668 (agentless predicate): same norm, different grammatical perspective — S670 locates the norm in an institutional authority.
+
+---
+
+**S671 — Machine regulates toward target state.** *(SUT-001-G)*
+
+```
+la-ki  wi-re  lu-su-ti-be
+```
+
+**Written:** `laki wire lusutibe`
+
+**Natural reading:** The machine self-regulates toward its target configuration.
+
+**Notes:** Connects W101 (`su-ti-be`, target state) with W099 (`wi-re`, feedback regulation), confirming the structural relationship noted in W101's registry entry: "a feedback loop is precisely the mechanism for moving `su-ti` from current state toward target `su-ti`." `lu-` = beneficiary/result slot: the regulation is done for the target state. Closes the batch narrative: currently inactive (S665), target powered (S667), feedback (S671) drives toward that target — subject to the no-ramp constraint (S668/S670).
+
+---
+
+## SUT-001 Batch Summary
+
+| Entry | Tonesu | Written form | Key feature |
+|-------|--------|-------------|-------------|
+| S665 (SUT-001-A) | `lo-ki  su-ti  no-ra` | `loki suti nora` | W101 `su-ti` first att. |
+| S666 (SUT-001-B) | `lo-ki  su-ti-de  ra` | `loki sutide ra` | `su-ti-de` first att. |
+| S667 (SUT-001-C) | `lo-ki  su-ti-be  ra` | `loki sutibe ra` | `su-ti-be` first att. |
+| S668 (SUT-001-D) | `lo-be-ra  wi-fe-ka` | `lobera wifeka` | `wi-fe-ka` first att. (agentless) |
+| S669 (SUT-001-E) | `lo-no-be-ra  no-wi-fe-ka` | `lonobera nowifeka` | `no-wi-fe-ka` first att. |
+| S670 (SUT-001-F) | `la-wi-fe-su  ne  wi-fe-ka  lo-be-ra` | `lawifesu ne wifeka lobera` | policy-as-agent prohibition |
+| S671 (SUT-001-G) | `la-ki  wi-re  lu-su-ti-be` | `laki wire lusutibe` | W099 + W101 structural link |
+
+**Coverage:** First attestations of W101 (`su-ti`) and all three temporal state forms (`su-ti` / `su-ti-de` / `su-ti-be`); `wi-fe-ka` (forbidden predicate, agentless) and `no-wi-fe-ka` (permitted); policy-as-agent prohibition form; W099 + W101 target-state regulation link.
+
+**Gaps:** opens path to capability vs. permission modality follow-up (`be-vo` axis untested — see testing-ideas.md).

@@ -11822,3 +11822,133 @@ sentences:
     change. `de-ha-ki` = decay-heat-change = cooling (composable). `be-su` = growth-result-structure
     = completed formation = the state of being a fully produced artifact. `ha-zo-ra-ma
     ne be-su` = the baked good is complete.'
+- snum: S665
+  gloss: 'Machine: currently inactive.'
+  batch: SUT-001
+  batch_sub: A
+  status: normative
+  tonesu: lo-ki  su-ti  no-ra
+  gloss_line: null
+  natural: The machine is currently in an inactive configuration.
+  words_attested:
+  - W101
+  first_attests:
+  - W101
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S665
+  notes: 'W101 (`su-ti`) first corpus attestation. `lo-X su-ti Y` = X is currently
+    in state Y (static snapshot — no change implied). Y here is `no-ra` (zero-force
+    = inactive, compositional). Compare `lo-ki  no-be` (the machine is not increasing
+    — a *change* predicate); `lo-ki  su-ti  no-ra` = the machine holds the inactive
+    state (a *snapshot* predicate). Resolves the open-questions.md note: "no primitive
+    for stable condition without invoking change or evaluation."'
+- snum: S666
+  gloss: 'Machine: was powered previously.'
+  batch: SUT-001
+  batch_sub: B
+  status: normative
+  tonesu: lo-ki  su-ti-de  ra
+  gloss_line: null
+  natural: The machine's previous configuration was powered.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S666
+  notes: '`su-ti-de` = past configuration (W101 + temporal suffix `-de` = past/decay).
+    First attestation of the past-state derived form. Timeline: was powered (S666),
+    is now inactive (S665).'
+- snum: S667
+  gloss: 'Machine: target state is powered.'
+  batch: SUT-001
+  batch_sub: C
+  status: normative
+  tonesu: lo-ki  su-ti-be  ra
+  gloss_line: null
+  natural: The machine's target configuration is powered.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S667
+  notes: '`su-ti-be` = expected future/target configuration (W101 + suffix `-be` =
+    growth/expected). First attestation of the target-state derived form. The three
+    sentences S665–S667 establish the full `su-ti` timeline vocabulary: current (`su-ti`),
+    past (`su-ti-de`), target (`su-ti-be`). Batch narrative: currently inactive, was
+    powered, target is to be powered again — S671 provides the mechanism.'
+- snum: S668
+  gloss: Power ramp is forbidden.
+  batch: SUT-001
+  batch_sub: D
+  status: normative
+  tonesu: lo-be-ra  wi-fe-ka
+  gloss_line: null
+  natural: A power ramp is forbidden.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S668
+  notes: 'First corpus attestation of `wi-fe-ka` (W100 derived: willed-boundary as
+    applied to a specific act = the act is prohibited by rule). Patient `be-ra` =
+    growth-force = increasing power = power ramp (compositional). The agentless predicate
+    form `lo-X wi-fe-ka` states the prohibition without naming the source; compare
+    S670 which names the policy authority.'
+- snum: S669
+  gloss: Power decrease is not forbidden.
+  batch: SUT-001
+  batch_sub: E
+  status: normative
+  tonesu: lo-no-be-ra  no-wi-fe-ka
+  gloss_line: null
+  natural: A power decrease is not forbidden.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S669
+  notes: '`no-wi-fe-ka` = not-rule-forbidden = permitted (compositional: `no-` + `wi-fe-ka`).
+    First attestation. Patient `no-be-ra` = no-growth-force = decreasing power. Minimal
+    contrast with S668: the prohibited act (`be-ra`, ramp up) and the permitted act
+    (`no-be-ra`, ramp down) differ only in one `no-` modifier. Instantiates the deontic
+    identity: permitted ↔ not-forbidden.'
+- snum: S670
+  gloss: Protocol forbids power ramps.
+  batch: SUT-001
+  batch_sub: F
+  status: normative
+  tonesu: la-wi-fe-su  ne  wi-fe-ka  lo-be-ra
+  gloss_line: null
+  natural: The safety protocol forbids power ramps.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S670
+  notes: 'Extension of the DIP-001 rights-claim pattern (`la-X ne wi-fe lo-Y` = X
+    holds rule over Y): `ne wi-fe-ka` attributes the prohibiting form specifically
+    to the patient. `la-wi-fe-su ne wi-fe-ka lo-be-ra` = "The policy holds as rule-prohibited
+    over power-ramps." Contrast with S668 (agentless predicate): same norm, different
+    grammatical perspective — S670 locates the norm in an institutional authority.'
+- snum: S671
+  gloss: Machine regulates toward target state.
+  batch: SUT-001
+  batch_sub: G
+  status: normative
+  tonesu: la-ki  wi-re  lu-su-ti-be
+  gloss_line: null
+  natural: The machine self-regulates toward its target configuration.
+  words_attested:
+  - W099
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s398-plus.md
+  source_anchor: S671
+  notes: 'Connects W101 (`su-ti-be`, target state) with W099 (`wi-re`, feedback regulation),
+    confirming the structural relationship noted in W101''s registry entry: "a feedback
+    loop is precisely the mechanism for moving `su-ti` from current state toward target
+    `su-ti`." `lu-` = beneficiary/result slot: the regulation is done for the target
+    state. Closes the batch narrative: currently inactive (S665), target powered (S667),
+    feedback (S671) drives toward that target — subject to the no-ramp constraint
+    (S668/S670).'

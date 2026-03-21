@@ -315,7 +315,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `su-mu-li` · sumuli | [W002](words/W002.md) | ⏳ | engineer, architect <br><small>[S025](../../../totonesu/corpus/batches/_foundations#S025) · [S164](../../../totonesu/corpus/batches/p-gp#S164) · [S171](../../../totonesu/corpus/batches/p-gp#S171) · [S559](../../../totonesu/corpus/batches/pav#S559)</small> |
 | `su-ne` · sune | [W174](words/W174.md) | ✅ | harmony, structure-of-connection <br><small>[S591](../../../totonesu/corpus/batches/stw#S591) · [S631](../../../totonesu/corpus/batches/doi#S631) · [S660](../../../totonesu/corpus/batches/ckg#S660)</small> |
 | `su-ru` · suru | [W085](words/W085.md) | ✅ | integrated whole, unified structure <br><small>[S119](../../../totonesu/corpus/batches/t-ax#S119)</small> |
-| `su-ti` · suti | [W101](words/W101.md) | ⏳ | current state, instantaneous configuration |
+| `su-ti` · suti | [W101](words/W101.md) | ⏳ | current state, instantaneous configuration <br><small>[S665](../../../totonesu/corpus/batches/sut#S665)</small> |
 | `su-to` · suto | [W199](words/W199.md) | ✅ | self-evident proposition; truth whose ground is its own structure <br><small>[S630](../../../totonesu/corpus/batches/doi#S630) · [S638](../../../totonesu/corpus/batches/doi#S638) · [S650](../../../totonesu/corpus/batches/aca#S650)</small> |
 | `su-zo-ko` · suzoko | [W204](words/W204.md) | ✅ | coverage; protective welfare structure; systematic protection for persons <br><small>[S645](../../../totonesu/corpus/batches/aca#S645) · [S646](../../../totonesu/corpus/batches/aca#S646)</small> |
 
@@ -383,7 +383,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `wi-ka-su` · wikasu | [W054](words/W054.md) | ✅ | ritual, structured intentional practice <br><small>[S073](../../../totonesu/corpus/batches/t-mys#S073)</small> |
 | `wi-no-ra` · winora | [W132](words/W132.md) | ✅ | meekness, will-without-force |
 | `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) <br><small>[S596](../../../totonesu/corpus/batches/stw#S596) · [S599](../../../totonesu/corpus/batches/dnd#S599)</small> |
-| `wi-re` · wire | [W099](words/W099.md) | ✅ | feedback loop, iterative goal-cycle <br><small>[S179](../../../totonesu/corpus/batches/opx#S179)</small> |
+| `wi-re` · wire | [W099](words/W099.md) | ✅ | feedback loop, iterative goal-cycle <br><small>[S179](../../../totonesu/corpus/batches/opx#S179) · [S671](../../../totonesu/corpus/batches/sut#S671)</small> |
 | `wi-re-su` · wiresu | [W074](words/W074.md) | ✅ | operational protocol, standing procedure <br><small>[S088](../../../totonesu/corpus/batches/t-wit#S088) · [S166](../../../totonesu/corpus/batches/p-gp#S166)</small> |
 | `wi-si` · wisi | [W063](words/W063.md) | ✅ | prayer, will-signal |
 | `wi-to` · wito | [W045](words/W045.md) | ✅ | plan (single-instance purposive artifact) <br><small>[S062](../../../totonesu/corpus/batches/t-prm#S062) · [S086](../../../totonesu/corpus/batches/t-wit#S086) · [S087](../../../totonesu/corpus/batches/t-wit#S087) · [S090](../../../totonesu/corpus/batches/t-wit#S090) · [S091](../../../totonesu/corpus/batches/t-wit#S091)</small> |

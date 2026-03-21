@@ -84,7 +84,7 @@ See also: [Alphabetical list](overview.md) · [By domain](by-domain.md) · [Buil
 | coverage <br><small>`su-zo-ko` · suzoko</small> | [W204](words/W204.md) | ✅ | coverage; protective welfare structure; systematic protection for persons <br><small>[S645](../../../totonesu/corpus/batches/aca#S645) · [S646](../../../totonesu/corpus/batches/aca#S646)</small> |
 | crawler <br><small>`ma-zo-ki` · mazoki</small> | [W146](words/W146.md) | ⏳ | crawler, ground-moving creature |
 | creator-representation <br><small>`be-go-li-si` · begolisi</small> | [W149](words/W149.md) | ⏳ | creator-representation, image (tselem) <br><small>[S354](../../../totonesu/corpus/batches/tho#S354)</small> |
-| current state <br><small>`su-ti` · suti</small> | [W101](words/W101.md) | ⏳ | current state, instantaneous configuration |
+| current state <br><small>`su-ti` · suti</small> | [W101](words/W101.md) | ⏳ | current state, instantaneous configuration <br><small>[S665](../../../totonesu/corpus/batches/sut#S665)</small> |
 | dark-period <br><small>`no-lu-ti` · noluti</small> | [W141](words/W141.md) | ⏳ | nighttime, dark-period |
 | database <br><small>`to-su-mu` · tosumu</small> | [W010](words/W010.md) | ⏳ | database, library, knowledge-store <br><small>[S010](../../../totonesu/corpus/batches/_foundations#S010) · [S030](../../../totonesu/corpus/batches/hidden#S030) · [S168](../../../totonesu/corpus/batches/p-gp#S168) · [S170](../../../totonesu/corpus/batches/p-gp#S170)</small> |
 | daytime <br><small>`lu-ti` · luti</small> | [W140](words/W140.md) | ⏳ | daytime, light-period |
@@ -142,7 +142,7 @@ See also: [Alphabetical list](overview.md) · [By domain](by-domain.md) · [Buil
 | fatigue <br><small>`zo-de` · zode</small> | [W051](words/W051.md) | ✅ | fatigue, physical tiredness <br><small>[S066](../../../totonesu/corpus/batches/t-cmp#S066)</small> |
 | fault <br><small>`de-su` · desu</small> | [W119](words/W119.md) | ✅ | fault, wrong, moral failing |
 | fear <br><small>`fa-ra` · fara</small> | [W154](words/W154.md) | ✅ | fear/awe, forceful affect <br><small>[S408](../../../totonesu/corpus/batches/exo#S408)</small> |
-| feedback loop <br><small>`wi-re` · wire</small> | [W099](words/W099.md) | ✅ | feedback loop, iterative goal-cycle <br><small>[S179](../../../totonesu/corpus/batches/opx#S179)</small> |
+| feedback loop <br><small>`wi-re` · wire</small> | [W099](words/W099.md) | ✅ | feedback loop, iterative goal-cycle <br><small>[S179](../../../totonesu/corpus/batches/opx#S179) · [S671](../../../totonesu/corpus/batches/sut#S671)</small> |
 | felt sense of wellbeing <br><small>`fa-vo` · favo</small> | [W197](words/W197.md) | ✅ | happiness; positive-valence affect state; felt sense of wellbeing <br><small>[S219](../../../totonesu/corpus/batches/odl#S219) · [S633](../../../totonesu/corpus/batches/doi#S633)</small> |
 | fermented liquid <br><small>`de-ki'ma` · deki'ma</small> | [W162](words/W162.md) | ✅ | wine / fermented liquid <br><small>[S437](../../../totonesu/corpus/batches/lsp#S437)</small> |
 | fighter <br><small>`ra-ka-li` · rakali</small> | [W206](words/W206.md) | ✅ | fighter / combatant <br><small>[S651](../../../totonesu/corpus/batches/dnd#S651)</small> |
@@ -181,13 +181,13 @@ See also: [Alphabetical list](overview.md) · [By domain](by-domain.md) · [Buil
 | image <br><small>`be-go-li-si` · begolisi</small> | [W149](words/W149.md) | ⏳ | creator-representation, image (tselem) <br><small>[S354](../../../totonesu/corpus/batches/tho#S354)</small> |
 | individual document <br><small>`si-ko-mu` · sikomu</small> | [W067](words/W067.md) | ✅ | individual document, encoded record <br><small>[S014](../../../totonesu/corpus/batches/_foundations#S014) · [S069](../../../totonesu/corpus/batches/t-ko#S069) · [S070](../../../totonesu/corpus/batches/t-ko#S070)</small> |
 | inhabited settlement <br><small>`li-pu-pa` · lipupa</small> | [W036](words/W036.md) | ✅ | city, inhabited settlement <br><small>[S061](../../../totonesu/corpus/batches/t-prm#S061)</small> |
-| instantaneous configuration <br><small>`su-ti` · suti</small> | [W101](words/W101.md) | ⏳ | current state, instantaneous configuration |
+| instantaneous configuration <br><small>`su-ti` · suti</small> | [W101](words/W101.md) | ⏳ | current state, instantaneous configuration <br><small>[S665](../../../totonesu/corpus/batches/sut#S665)</small> |
 | integrated whole <br><small>`su-ru` · suru</small> | [W085](words/W085.md) | ✅ | integrated whole, unified structure <br><small>[S119](../../../totonesu/corpus/batches/t-ax#S119)</small> |
 | intentional exchange event <br><small>`zi-ka` · zika</small> | [W105](words/W105.md) | ⏳ | transaction, intentional exchange event <br><small>[S202](../../../totonesu/corpus/batches/knm#S202) · [S218](../../../totonesu/corpus/batches/odl#S218) · [S263](../../../totonesu/corpus/batches/knm#S263)</small> |
 | intentional target place <br><small>`pa-wi` · pawi</small> | [W088](words/W088.md) | ✅ | destination, intentional target place <br><small>[S126](../../../totonesu/corpus/batches/cf#S126)</small> |
 | interactive computer service <br><small>`to-ki'ne-su` · toki'nesu</small> | [W202](words/W202.md) | ✅ | online platform; networked computing system; interactive computer service <br><small>[S639](../../../totonesu/corpus/batches/cda#S639) · [S640](../../../totonesu/corpus/batches/cda#S640)</small> |
 | ionized matter <br><small>`ma-ra` · mara</small> | [W116](words/W116.md) | ⏳ | plasma, ionized matter |
-| iterative goal-cycle <br><small>`wi-re` · wire</small> | [W099](words/W099.md) | ✅ | feedback loop, iterative goal-cycle <br><small>[S179](../../../totonesu/corpus/batches/opx#S179)</small> |
+| iterative goal-cycle <br><small>`wi-re` · wire</small> | [W099](words/W099.md) | ✅ | feedback loop, iterative goal-cycle <br><small>[S179](../../../totonesu/corpus/batches/opx#S179) · [S671](../../../totonesu/corpus/batches/sut#S671)</small> |
 | judge <br><small>`ka-to-fe` · katofe</small> | [W122](words/W122.md) | ✅ | judge, deliberate epistemic bounding <br><small>[S368](../../../totonesu/corpus/batches/fal#S368) · [S641](../../../totonesu/corpus/batches/cda#S641) · [S643](../../../totonesu/corpus/batches/cda#S643) · [S644](../../../totonesu/corpus/batches/cda#S644) · [S649](../../../totonesu/corpus/batches/aca#S649)</small> |
 | kill <br><small>`ka-de-zo` · kadezo</small> | [W128](words/W128.md) | ✅ | kill, deliberate ending of life |
 | kinetic-force discharge <br><small>`ra-ki` · raki</small> | [W038](words/W038.md) | ⏳ | storm, kinetic-force discharge <br><small>[S028](../../../totonesu/corpus/batches/hidden#S028) · [S358](../../../totonesu/corpus/batches/god-res#S358)</small> |

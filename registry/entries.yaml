@@ -2395,8 +2395,8 @@ entries:
     target `su-ti`.'
   related: su (structure/order), ti (time/sequence), wi-re (W099, feedback loop),
     su-ti-de (past state), to-ko (W044, memory — stored past su-ti)
-  first_use: not yet attested in corpus; registered as compound candidate after primitive
-    validation test for "state/configuration" (March 2026).
+  first_use: S665 (`lo-ki  su-ti  no-ra` = "The machine is currently in an inactive
+    configuration." — SUT-001-A; first attestation of the state-snapshot predicate)
 - wnum: W102
   form: nu-se
   gloss: measurement, quantitative detection

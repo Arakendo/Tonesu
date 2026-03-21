@@ -18,7 +18,7 @@ Composition:   su (structure/order) + ti (time/sequence) — the structure as ti
 Register:      standard / technical
 Domain:        systems / engineering / physics / cognition
 Status:        ⏳ pending
-First use:     not yet attested in corpus; registered as compound candidate after primitive validation test for "state/configuration" (March 2026).
+First use:     S665 (`lo-ki  su-ti  no-ra` = "The machine is currently in an inactive configuration." — SUT-001-A; first attestation of the state-snapshot predicate)
 Notes:         Resolves open-questions.md note: "The language currently expresses 'X is in state Y' via juxtaposition... no primitive for stable condition without invoking change or evaluation." Usage: `lo-X  su-ti  Y` = X is currently in configuration Y (state snapshot, no change implied). Compare `lo-X  be` = X is increasing (change reading); `lo-X  su-ti  be-vo` = X is currently in a high-energy configuration (state predication without claiming change is occurring).
                Natural extensions:
                su-ti-de  = past configuration / archived state (what the system was) su-ti-be  = expected future configuration / target state Relationship to wi-re (W099): a feedback loop is precisely the mechanism for moving `su-ti` from current state toward a target `su-ti`.
