@@ -10,6 +10,8 @@ Runs the full rebuild pipeline in the correct dependency order:
                                         and markdown headings
   Step 1  generate_registry_md.py    — sync registry/derived/*.md from entries.yaml
                                         (GitHub-browsable human-readable files)
+          generate_colloquial_md.py — generate registry/colloquial.md from
+                                        colloquial.yaml
   Step 2  annotate_words_attested.py — populate words_attested on sentences and
                                         conversation turns by matching registry forms
   Step 3  derive_first_attests.py    — derive first_attests per sentence/turn and
@@ -38,6 +40,7 @@ STEPS = [
     (0, "extract_sentences.py",       "Extract sentences from v4-current → sentences.yaml"),
     (0, "extract_batches.py",         "Derive batches.yaml from sentences.yaml + markdown headings"),
     (1, "generate_registry_md.py",    "Sync registry/derived/*.md from entries.yaml"),
+    (1, "generate_colloquial_md.py",  "Generate registry/colloquial.md from colloquial.yaml"),
     (2, "annotate_words_attested.py", "Annotate words_attested on sentences and turns"),
     (3, "derive_first_attests.py",    "Derive first_attests; backfill first_use"),
     (4, "build_registry.py",          "Generate www/docs/tonesu/ pages"),

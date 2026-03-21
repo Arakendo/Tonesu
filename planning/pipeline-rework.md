@@ -1,7 +1,7 @@
 # Pipeline Rework Plan
 
 *Created: 2026-03-20*
-*Status: Phase 3 complete — Phase 5 next (Phase 4 deferred)*
+*Status: Phase 5 complete — Phase 4 remaining (deferred)*
 
 ---
 

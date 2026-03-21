@@ -193,6 +193,7 @@ python scripts/build.py
 | 0 | `extract_sentences.py` | Extracts sentence records from v4-current markdown → `sentences.yaml` |
 | 0 | `extract_batches.py` | Derives `batches.yaml` from `sentences.yaml` + markdown headings |
 | 1 | `generate_registry_md.py` | Syncs `registry/derived/*.md` from `entries.yaml` |
+| 1 | `generate_colloquial_md.py` | Generates `registry/colloquial.md` from `colloquial.yaml` |
 | 2 | `annotate_words_attested.py` | Populates `words_attested` on sentences/turns |
 | 3 | `derive_first_attests.py` | Derives first attestation data, backfills `first_use` |
 | 4 | `build_registry.py` | Generates all `www/docs/tonesu/registry/` and corpus pages |
@@ -265,7 +266,7 @@ Every translation file ends with a `## Colloquial Register Analysis` section pla
 - **2-root compound** → `none` + "2-root — below 3-morpheme contraction threshold"
 - **`[X]-no-fe` extremal** → `none` + "`[X]-no-fe` extremal — outside CLQ scope; CLQ-EXT unresolved"
 - **Semantically load-bearing operator** → `none` + "semantically load-bearing; relaxation changes the claim"
-- **CLQ entry applies** → record `CLQ-NNN`, the stub form, and a note; then register the entry in both `registry/colloquial.md` AND `registry/colloquial.yaml`
+- **CLQ entry applies** → record `CLQ-NNN`, the stub form, and a note; then register the entry in `registry/colloquial.yaml` (the pipeline generates `registry/colloquial.md` automatically)
 
 ### Verdict criteria
 
@@ -274,7 +275,7 @@ Every translation file ends with a `## Colloquial Register Analysis` section pla
 
 ### Pipeline note
 
-The `## Colloquial Register Analysis` section is copied verbatim into the website by `copy_translation_files()` in `scripts/build_registry.py` — no special handling needed. The colloquial registry lookup pages (`tonesu/registry/colloquial.md` and `tonesu/registry/colloquial-english.md`) are generated from `registry/colloquial.yaml` by the same script. When a new CLQ entry is registered, update **both** `registry/colloquial.md` (human-readable) and `registry/colloquial.yaml` (pipeline source).
+The `## Colloquial Register Analysis` section is copied verbatim into the website by `copy_translation_files()` in `scripts/build_registry.py` — no special handling needed. The colloquial registry lookup pages (`tonesu/registry/colloquial.md` and `tonesu/registry/colloquial-english.md`) are generated from `registry/colloquial.yaml` by the same script. `registry/colloquial.md` (the normative human-readable reference) is also generated from `colloquial.yaml` by `generate_colloquial_md.py`. When a new CLQ entry is registered, update **only** `registry/colloquial.yaml` — the pipeline regenerates everything else.
 
 ---
 
