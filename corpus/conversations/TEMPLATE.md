@@ -1,4 +1,9 @@
-# Conversation Template — corpus/conversations/
+# Conversation Template — corpus/conversations/ (v2)
+
+*v2 — March 2026. Changes from v1: `turn_subtitle` added to YAML schema and
+field table; `.md` label → YAML field mapping added; summary table columns
+updated to 4-column format; optional Gaps/Verdict sections documented; pipeline
+note updated.*
 
 A conversation entry documents a multi-turn Tonesu exchange. It lives in
 two parallel places:
@@ -39,18 +44,19 @@ New conversations go in the current intake file (`c008-plus.md` or successor).
 **[Cnum] — [One-line English gloss / scene title]**
 
 *Scene: [One paragraph describing the situation, participants, and discourse context.
-Name participant roles as Tonesu compound readings: `to-fe-li` (epistemic arbiter,
-role B) etc. Explain what discourse-level construct is under test.]*
+Name participant roles as Tonesu compound readings with English gloss and letter:
+`to-fe-li` (epistemic arbiter, role B), `ra-ki-li` (pilot, role A). Explain what
+discourse-level construct is under test.]*
 
 *Tests: [comma-separated list of the specific constructions or rules being tested]*
 
 ---
 
-**Turn A1 — [Short label for what this turn does]**
+**Turn A1 — [Short subtitle: what this turn does]**
 
 ```
-Gloss:    [morpheme breakdown — label:form arrangement]
-Literal:  [same morphemes, English values]
+Gloss:    [Tonesu notation — hyphens preserved]
+Literal:  [morpheme-by-morpheme English, label:value format]
 Natural:  [fluent English reading]
 ```
 
@@ -58,10 +64,11 @@ Natural:  [fluent English reading]
 - [bullet: parse decision or design choice]
 - [bullet: state of discourse after this turn — what referents are active,
   what epistemic floor has been established]
+- **State of discourse after A1:** [...]
 
 ---
 
-**Turn B1 — [Short label]**
+**Turn B1 — [Short subtitle]**
 
 ```
 Gloss:    [...]
@@ -79,17 +86,55 @@ Natural:  [...]
 
 ---
 
-## [Cnum] Summary
+## [Cnum] Gaps and pressures  ← OPTIONAL: include when the exchange surfaces
+                                  unresolved design questions or edge cases
 
-| Turn | Natural | Key test |
-|------|---------|----------|
-| A1 | [natural gloss] | [what construction is tested] |
-| B1 | [natural gloss] | [what construction is tested] |
+| Gap | Location | Resolution |
+|-----|----------|------------|
+| [Brief description] | [turn label] | [Resolved / Unresolved / Logged as ISSUE-NNN] |
+
+---
+
+## Verdict [Cnum]: [summary clause]  ← OPTIONAL: include when the conversation
+                                         resolves a design question (closes an issue
+                                         or confirms a rule)
+
+[Multi-row table showing each critical turn, its form, and the verdict:]
+
+| Turn | [Ze referent / Key test / etc.] | Resolution mechanism |
+|------|--------------------------------|---------------------|
+| A1 | ... | ... |
+
+**[Finding or rule formulated in one or two sentences.]**
+
+**[Design decision if applicable.]**
+
+**[Issue closed, if applicable.]** ([Month Year], [Cnum])
+
+---
+
+### [Cnum] Summary
+
+| Turn | Move | Form | Verdict |
+|------|------|------|---------|
+| A1 | [what A does in this turn] | `[tonesu form]` | clean / ambiguous / [finding] |
+| B1 | [what B does in this turn] | `[tonesu form]` | clean / [finding] |
 
 **Key finding:** [one sentence: what the conversation establishes or resolves]
 
 **Issues resolved / logged:** [ISSUE-NNN or "none"]
 ```
+
+### `.md` label → YAML field mapping
+
+The code-block labels in the narrative file map to YAML fields as follows:
+
+| `.md` label | YAML field | Notes |
+|-------------|-----------|-------|
+| `Gloss:` | `tonesu` | Tonesu notation form (hyphens preserved) |
+| `Literal:` | `gloss_line` | Morpheme-by-morpheme English |
+| `Natural:` | `natural` | Fluent English reading |
+| `Turn X1 — [subtitle]` | `turn_subtitle` | Optional; short label for the turn's role in the exchange |
 
 ---
 
@@ -111,6 +156,7 @@ The `turns` list order must match the `.md` file exactly.
   source_file: conversations/c008-plus.md   # relative to repo root
   turns:
     - turn: A1
+      turn_subtitle: "Person-reading (`la-ze` agent slot)"   # optional; short label
       tonesu: "la-ze  de  lo-si-de  ta-ti-de"   # notation form (hyphens preserved)
       gloss_line: "agent:ze  decayed  patient:record-signal  at:past-time"
       natural: "The archivist suppressed the record."
@@ -118,6 +164,7 @@ The `turns` list order must match the `.md` file exactly.
       first_attests: []    # W-numbers first attested here; populated by derive pass
       notes: null          # string or null
     - turn: B1
+      turn_subtitle: "Competing proposition enters discourse"
       tonesu: "la-mi  si  [la-ze  no-de  lo-si-de]"
       gloss_line: "agent:I  hypothesize  [agent:ze  not-decayed  patient:record-signal]"
       natural: "I hypothesize: ze did not suppress the record."
@@ -141,6 +188,7 @@ The `turns` list order must match the `.md` file exactly.
 | `turns[].turn` | yes | Turn label: A1, B1, A2, B2 … (uppercase role + 1-based index). |
 | `turns[].tonesu` | yes | Tonesu notation (hyphens preserved). Multi-line OK with `\|`. |
 | `turns[].gloss_line` | recommended | Morpheme-by-morpheme breakdown with English slots. |
+| `turns[].turn_subtitle` | optional | Short label for turn's role in the exchange — matches `.md` heading `— [subtitle]`. Captured in YAML for reference; not currently rendered by the site generator. |
 | `turns[].natural` | yes | Fluent English reading. |
 | `turns[].words_attested` | yes | Empty list `[]` on authoring; populated by `annotate_words_attested.py`. |
 | `turns[].first_attests` | yes | Empty list `[]` on authoring; populated by `derive_first_attests.py`. |
@@ -152,11 +200,16 @@ The `turns` list order must match the `.md` file exactly.
 
 `generate_conversations_page()` in `scripts/build_registry.py` reads
 `corpus/conversations.yaml` exclusively. It uses: `cnum`, `gloss`, `scene`,
-`turns[].turn`, `turns[].tonesu`, `turns[].natural`. The `.md` narrative
-file is not read by the pipeline.
+`turns[].turn`, `turns[].tonesu`, `turns[].natural`. Fields `turn_subtitle`,
+`gloss_line`, and `notes` are captured but not currently rendered on the site.
+The `.md` narrative file is not read by the pipeline.
 
 The generated page writes to:
 `www/docs/totonesu/corpus/conversations/overview.md`
+
+`annotate_words_attested.py` (Step 2) and `derive_first_attests.py` (Step 3)
+also process conversation turns and populate `words_attested` and `first_attests`
+in `conversations.yaml`.
 
 ---
 
