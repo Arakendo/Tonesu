@@ -1,7 +1,6 @@
 ---
-title: "Exodus 3:1–15"
+batch_codes: [EXO]
 ---
-
 # Translation Test: Exodus 3:1–15
 
 ## Source: Hebrew Bible / Old Testament, Exodus, Chapter 3, verses 1–15

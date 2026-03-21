@@ -1,5 +1,6 @@
 ---
 title: "D&D — The Eight Schools of Magic"
+batch_codes: [DND-001]
 ---
 
 # Translation Test: Dungeons & Dragons — The Eight Schools of Magic

@@ -1,3 +1,6 @@
+---
+batch_codes: [DOI]
+---
 # Declaration of Independence — Translation Analysis (DOI-001)
 
 **Source:** United States Declaration of Independence (1776)  

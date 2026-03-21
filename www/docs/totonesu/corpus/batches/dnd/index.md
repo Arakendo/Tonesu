@@ -6,6 +6,8 @@ title: "D&D — The Eight Schools of Magic"
 
 *Theme: [Foundations](../../foundations/overview/)* · 38 sentences.
 
+:material-book-open-variant: [Full translation analysis](../../translations/literature/dnd-schools-of-magic/)
+
 [← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
 
 ---

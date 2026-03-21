@@ -1,7 +1,6 @@
 ---
-title: "The Liar Paradox"
+batch_codes: [LPR]
 ---
-
 # Translation Test: The Liar Paradox
 
 ## Source: Epimenides / Eubulides (~600–300 BCE); canonical form attributed to Eubulides of Miletus

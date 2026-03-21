@@ -1,3 +1,6 @@
+---
+batch_codes: [DKN]
+---
 # Translation Test: A Tale of Two Cities — Opening
 
 ## Source: Charles Dickens, *A Tale of Two Cities* (1859), Book I, Chapter 1, opening paragraph

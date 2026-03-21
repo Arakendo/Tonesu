@@ -1,5 +1,6 @@
 ---
 title: "D&D — The Classes"
+batch_codes: [DND-004]
 ---
 
 # Translation Test: Dungeons & Dragons — The Classes

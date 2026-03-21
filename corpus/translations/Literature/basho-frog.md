@@ -1,3 +1,6 @@
+---
+batch_codes: [BSH]
+---
 # Translation Test: Bashō — The Frog Haiku
 
 ## Source: Matsuo Bashō (松尾芭蕉), 1686

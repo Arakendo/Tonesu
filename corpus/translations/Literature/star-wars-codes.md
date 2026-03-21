@@ -1,3 +1,6 @@
+---
+batch_codes: [STW]
+---
 # Translation Test: Star Wars — The Jedi Code and the Sith Code
 
 ## Source: George Lucas / Wookieepedia canonical texts

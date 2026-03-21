@@ -25,6 +25,9 @@ import yaml
 from pathlib import Path
 from collections import defaultdict
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from theme import batch_to_theme, THEME_ORDER
+
 REPO          = Path(__file__).resolve().parent.parent
 ENTRIES       = REPO / "registry" / "entries.yaml"
 PRIMITIVES    = REPO / "registry" / "primitives.yaml"
@@ -86,24 +89,37 @@ def _rel(from_md: Path, to_path: Path, anchor: str = "") -> str:
     return href
 
 
-# Maps batch-code prefix to translation file path (relative to TRANS_SRC / TRANS_DIR)
-BATCH_TRANSLATION_MAP: dict[str, str] = {
-    "EXO": "Bible/exodus-3-1-15",
-    "LSP": "Bible/last-supper",
-    "JOH": "Bible/john-1-1",
-    "ROM": "Bible/romans-7-19",
-    "MTH": "Bible/matthew-16-25",
-    "NEW": "Science/newton-first-law",
-    "DKN": "Literature/tale-of-two-cities",
-    "HAM": "Literature/hamlet-to-be",
-    "BSH": "Literature/basho-frog",
-    "EMD": "Literature/dickinson-death",
-    "WIT": "Philosophy/tractatus",
-    "LPR": "Philosophy/liar-paradox",
-    "TAO": "Philosophy/tao-te-ching-ch1",
-    "CDA": "Law/cda-section230",
-    "ACA": "Law/aca-mandate",
-}
+def _build_translation_map() -> dict[str, str]:
+    """Build batch-code/prefix → translation-file-path map from YAML frontmatter.
+
+    Each translation .md under TRANS_SRC may contain a ``batch_codes`` list in
+    its YAML frontmatter.  Entries can be full batch codes (``DND-001``) or bare
+    prefixes (``EXO``).  The caller tries exact match first, then prefix.
+    """
+    code_map: dict[str, str] = {}
+    for cat_dir in sorted(TRANS_SRC.iterdir()):
+        if not cat_dir.is_dir() or cat_dir.name.startswith("."):
+            continue
+        for md in sorted(cat_dir.glob("*.md")):
+            text = md.read_text(encoding="utf-8")
+            if not text.startswith("---"):
+                continue
+            end = text.find("\n---", 3)
+            if end == -1:
+                continue
+            try:
+                fm = yaml.safe_load(text[3:end])
+            except yaml.YAMLError:
+                continue
+            if not isinstance(fm, dict):
+                continue
+            codes = fm.get("batch_codes", [])
+            if not codes:
+                continue
+            rel_path = f"{cat_dir.name}/{md.stem}"
+            for code in codes:
+                code_map[str(code)] = rel_path
+    return code_map
 
 STATUS_EMOJI = {
     "active":   "✅",
@@ -834,54 +850,8 @@ def generate_word_page(
 
 
 # ---------------------------------------------------------------------------
-# Corpus theme grouping
+# Corpus theme grouping  (batch_to_theme & THEME_ORDER imported from theme.py)
 # ---------------------------------------------------------------------------
-
-THEME_ORDER = [
-    "Foundations",
-    "Grammar & syntax",
-    "Domains",
-    "Theology & philosophy",
-    "Translation",
-]
-
-_GRAMMAR_PREFIXES  = {"GRM","VPC","VPT","CVP","EXC","SCL","EMD","COR","CF","FAL",
-                      "LPR","MG","OPX","IPX","PMS","MTH","NEW","SA","BSH","DEB","DIP"}
-_DOMAIN_PREFIXES   = {"KNM","ODL","GEO","LGL","PLT","MED","FNG","PAV","NUM"}
-_THEOLOGY_PREFIXES = {"THO","GOD","DKN","WIT","TAO","ROM","MMP"}
-_TRANS_PREFIXES    = {"EXO","MAT","JOH","LSP","HAM"}
-_T_GRAMMAR_SUBS    = {"AX", "CMP"}
-_T_THEOLOGY_SUBS   = {"APO", "REL"}
-
-
-def batch_to_theme(batch: str | None) -> str:
-    if not batch:
-        return "Foundations"
-    if re.match(r"^T\d", batch):
-        return "Foundations"
-    if batch.startswith("Hidden"):
-        return "Theology & philosophy"
-    if batch.startswith("T-"):
-        sub = batch[2:].split("-")[0].upper()
-        if sub in _T_THEOLOGY_SUBS:
-            return "Theology & philosophy"
-        if sub in _T_GRAMMAR_SUBS:
-            return "Grammar & syntax"
-        return "Domains"
-    if batch.lower().startswith("fa"):
-        return "Grammar & syntax"
-    if re.match(r"^P[-\d]", batch) or re.match(r"^P\d", batch):
-        return "Grammar & syntax"
-    first = batch.split("-")[0].upper()
-    if first in _GRAMMAR_PREFIXES:
-        return "Grammar & syntax"
-    if first in _DOMAIN_PREFIXES:
-        return "Domains"
-    if first in _THEOLOGY_PREFIXES:
-        return "Theology & philosophy"
-    if first in _TRANS_PREFIXES:
-        return "Translation"
-    return "Foundations"
 
 
 def _group_sentences_by_page(sentences: list) -> dict[str, list]:
@@ -1097,7 +1067,7 @@ def generate_batch_page(
 
     # Check for a translation analysis file
     trans_prefix = (first_batch or "").split("-")[0] if first_batch else ""
-    trans_rel = BATCH_TRANSLATION_MAP.get(trans_prefix)
+    trans_rel = _TRANSLATION_MAP.get(first_batch or "") or _TRANSLATION_MAP.get(trans_prefix)
     trans_link = ""
     if trans_rel:
         trans_link = f"../../translations/{trans_rel.lower()}/"
@@ -1256,7 +1226,10 @@ def generate_conversations_page(conv_data: dict | None) -> str:
 # Translation pages — copy source files + generate index
 # ---------------------------------------------------------------------------
 
-TRANS_CATEGORIES = ["Bible", "Law", "Literature", "Philosophy", "Science"]
+TRANS_CATEGORIES = sorted(
+    d.name for d in TRANS_SRC.iterdir()
+    if d.is_dir() and not d.name.startswith(".")
+)
 
 
 def _strip_empty_table_columns(text: str) -> str:
@@ -1517,6 +1490,9 @@ def generate_colloquial_english(clq_entries: list) -> str:
 # ---------------------------------------------------------------------------
 
 def main():
+    global _TRANSLATION_MAP
+    _TRANSLATION_MAP = _build_translation_map()
+
     entries       = load_entries()
     primitives    = load_primitives()
     sentences     = load_sentences()

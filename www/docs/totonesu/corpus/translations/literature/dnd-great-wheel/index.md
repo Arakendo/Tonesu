@@ -1,7 +1,6 @@
 ---
-title: "D&D Cosmology — The Great Wheel (DND-003)"
+batch_codes: [DND-003]
 ---
-
 # D&D Cosmology — The Great Wheel (DND-003)
 
 **Source:** D&D 5e / Planescape cosmology — the Great Wheel model of the multiverse  

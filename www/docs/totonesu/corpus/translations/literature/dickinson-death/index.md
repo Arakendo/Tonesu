@@ -1,7 +1,6 @@
 ---
-title: "Emily Dickinson — "Because I could not stop for Death""
+batch_codes: [EMD]
 ---
-
 # Translation Test: Emily Dickinson — "Because I could not stop for Death"
 
 ## Source: Emily Dickinson, F479 / J712 (~1863; first published 1890)

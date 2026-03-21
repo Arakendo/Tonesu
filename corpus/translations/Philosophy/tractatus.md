@@ -1,3 +1,6 @@
+---
+batch_codes: [WIT]
+---
 # Translation Test: Wittgenstein, Tractatus Logico-Philosophicus §1
 
 ## Source: Ludwig Wittgenstein, *Tractatus Logico-Philosophicus* (1921/1922), Proposition 1

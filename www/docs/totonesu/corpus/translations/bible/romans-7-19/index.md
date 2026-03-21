@@ -1,7 +1,6 @@
 ---
-title: "Romans 7:19"
+batch_codes: [ROM]
 ---
-
 # Translation Test: Romans 7:19
 
 ## Source: Greek New Testament, Letter to the Romans (Πρὸς Ῥωμαίους) 7:19

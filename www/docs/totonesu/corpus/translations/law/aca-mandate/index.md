@@ -1,7 +1,6 @@
 ---
-title: "ACA Individual Mandate — Translation Analysis (ACA-001)"
+batch_codes: [ACA]
 ---
-
 # ACA Individual Mandate — Translation Analysis (ACA-001)
 
 **Source:** Affordable Care Act, 26 U.S.C. §5000A · *NFIB v. Sebelius*, 567 U.S. 519 (2012)

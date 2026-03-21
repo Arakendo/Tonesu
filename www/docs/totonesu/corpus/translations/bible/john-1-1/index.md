@@ -1,7 +1,6 @@
 ---
-title: "John 1:1"
+batch_codes: [JOH]
 ---
-
 # Translation Test: John 1:1
 
 ## Source: Greek New Testament, Gospel of John (Κατὰ Ἰωάννην) 1:1

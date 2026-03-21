@@ -1,7 +1,6 @@
 ---
-title: "Hamlet — "To be, or not to be""
+batch_codes: [HAM]
 ---
-
 # Translation Test: Hamlet — "To be, or not to be"
 
 ## Source: William Shakespeare, *Hamlet*, Act III, Scene I (~1600)

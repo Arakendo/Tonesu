@@ -1,7 +1,6 @@
 ---
-title: "Matthew 16:25"
+batch_codes: [MTH]
 ---
-
 # Translation Test: Matthew 16:25
 
 ## Source: Greek New Testament, Gospel of Matthew (Κατὰ Μαθθαῖον) 16:25

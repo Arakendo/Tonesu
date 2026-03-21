@@ -6,6 +6,8 @@ title: "Star Wars — The Jedi Code"
 
 *Theme: [Foundations](../../foundations/overview/)* · 11 sentences.
 
+:material-book-open-variant: [Full translation analysis](../../translations/literature/star-wars-codes/)
+
 [← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
 
 ---

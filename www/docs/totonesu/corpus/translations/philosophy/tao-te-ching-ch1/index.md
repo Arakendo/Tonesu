@@ -1,7 +1,6 @@
 ---
-title: "Tao Te Ching, Chapter 1"
+batch_codes: [TAO]
 ---
-
 # Translation Test: Tao Te Ching, Chapter 1
 
 ## Source: Laozi, *Tao Te Ching* (道德經), Chapter 1 — c. 6th–4th century BCE

@@ -1,3 +1,6 @@
+---
+batch_codes: [LSP]
+---
 # Translation Test: The Last Supper
 
 ## Source: Luke 22:7–20 + Matthew 26:26–28 (cross-reference)

@@ -3,18 +3,32 @@
 Each file under `corpus/translations/{Category}/` is a standalone translation
 analysis document. Files are copied verbatim into the site by `copy_translation_files()`
 in `scripts/build_registry.py`. No internal structure is parsed by the pipeline
-except: (1) the first `# …` heading (used as the page title), and (2) removal of
+except: (1) YAML frontmatter (`batch_codes` for linking batch pages to analysis
+files), (2) the first `# …` heading (used as the page title), and (3) removal of
 empty table columns via `_strip_empty_table_columns`.
 
+**Categories are auto-discovered** from subdirectory names under
+`corpus/translations/`. To add a new category, create the folder — no script
+changes needed.
+
+**Batch linking is auto-discovered** from `batch_codes` in YAML frontmatter.
+Each entry can be a full batch code (`DND-001`) or a prefix (`EXO`). The
+pipeline tries exact match first, then prefix. To link a batch page to a
+translation analysis file, add `batch_codes` to the file's frontmatter — no
+script changes needed.
+
 New translation files go directly in the appropriate category folder
-(`Bible/`, `Literature/`, `Philosophy/`, `Science/`). Name the file after the
-source text: `hamlet-to-be.md`, `john-1-1.md`, etc.
+(`Bible/`, `Law/`, `Literature/`, `Philosophy/`, `Science/`, or a new one).
+Name the file after the source text: `hamlet-to-be.md`, `john-1-1.md`, etc.
 
 ---
 
 ## Template
 
 ```markdown
+---
+batch_codes: [PREFIX]
+---
 # Translation Test: [Source Title]
 
 ## Source

@@ -1,5 +1,6 @@
 ---
 title: "D&D — The Nine Alignments"
+batch_codes: [DND-002]
 ---
 
 # Translation Test: Dungeons & Dragons — The Nine Alignments

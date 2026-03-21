@@ -1,4 +1,6 @@
-# Translation Test: Newton's First Law of Motion
+---
+batch_codes: [NEW]
+---# Translation Test: Newton's First Law of Motion
 
 ## Source: Isaac Newton, *Philosophiæ Naturalis Principia Mathematica* (1687), Book I, Axioms or Laws of Motion, Law I
 ## Reference text: Andrew Motte translation (1729), revised; as "Every body perseveres in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impressed thereon."

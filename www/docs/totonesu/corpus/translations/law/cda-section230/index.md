@@ -1,7 +1,6 @@
 ---
-title: "Communications Decency Act §230(c)(1) — Translation Analysis (CDA-001)"
+batch_codes: [CDA]
 ---
-
 # Communications Decency Act §230(c)(1) — Translation Analysis (CDA-001)
 
 **Source:** Communications Decency Act of 1996 (47 U.S.C. §230), Section 230(c)(1)

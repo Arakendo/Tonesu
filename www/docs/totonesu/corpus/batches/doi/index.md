@@ -6,6 +6,8 @@ title: "Declaration of Independence — Preamble"
 
 *Theme: [Foundations](../../foundations/overview/)* · 10 sentences.
 
+:material-book-open-variant: [Full translation analysis](../../translations/literature/doi-declaration/)
+
 [← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
 
 ---
