@@ -306,11 +306,46 @@ reading material.
 
 3. **Exercise design specifics:**
    - How many exercises per lesson? (Candidate: 3–5)
-   - Self-check only or scored? (Probably self-check for v1)
-   - What format for answer keys? (Expandable sections? Separate page?)
+   - Self-check only. Scored evaluation would require knowing the learner's
+     intended meaning — not inferrable from form alone.
+   - Feedback taxonomy for build / translation drills (four types):
+     - **Valid but different meaning** — the learner's answer is structurally
+       correct but encodes a different claim than the target. Not an error;
+       flag as alternate.
+     - **Over-specified** — the learner added more structure than the target
+       requires (e.g. added a scope prefix when the bare form suffices).
+     - **Under-specified** — the learner's form is ambiguous where the target
+       is not (e.g. missing `'` juncture in a 4-root chain).
+     - **Structural error** — the form violates a rule (wrong tier, bad root
+       order, parse invariant broken).
+   - Answer keys: expandable sections (avoids spoiler on first read-through).
 
-4. **Interactivity:** The Word Builder (`tonesu/builder.md`) already exists
-   as an interactive tool. Could lessons link to it as a practice environment?
+4. **Word Builder as lesson platform** (`tonesu/builder.md`). The builder
+   is already a functional interactive tool — lessons should treat it as a
+   first-class practice environment, not just an optional link.
+
+   Proposed integration model:
+
+   - **Guided building (Stage 0–1):** pre-load part of the compound chain
+     in the builder; learner selects the missing root(s) to complete it.
+     The builder shows the resulting gloss immediately — feedback is the
+     compound's meaning, not a score.
+   - **Constrained building (Stage 1–2):** restrict the builder's visible
+     root palette to the roots introduced so far in the lesson sequence.
+     Unlocking more roots as stages advance makes the palette itself a
+     progression signal.
+   - **Reverse parsing (Stage 2–3):** give the learner a complete compound
+     in the builder; ask them to identify the head, the modifier, and the
+     juncture. The builder's parse view is the answer key.
+   - **Ambiguity mode (Stage 2+):** give a 4-root chain without `'`; ask
+     the learner to build both legal bracketings and explain what each means.
+   - **Translation mode (Stage 3+):** English prompt → learner builds in the
+     builder → compare against the target; apply the four-type feedback
+     taxonomy above.
+
+   Root gating (restricting the palette) is the primary mechanism that
+   ties the builder to the stage progression. Requires a small addition to
+   the builder's JS: a parameter to accept an allowed-roots list.
 
 5. **Spaced repetition:** Is there a role for SRS (Anki-style) for the
    34 primitives? Probably yes as a supplementary tool alongside Stage 1
@@ -347,10 +382,21 @@ reading material.
 | `notes/open-questions.md` | Edge cases learners will hit |
 | `www/docs/quick-start.md` | Existing quick start — possible Stage 0 complement |
 | `www/docs/cheatsheet.md` | Cheat sheet — reference companion for lessons |
+| `www/docs/tonesu/builder.md` | Word Builder — interactive compound practice tool (Stage 0+) |
 
 ---
 
 ## Feedback log
+
+### 2026-03-20 — Second pass (word builder integration)
+
+| Issue | Resolution |
+|-------|------------|
+| Open Q #3: "self-check or scored?" too vague | Answered: self-check; added four-type feedback taxonomy |
+| Open Q #4: builder as optional link only | Reframed as first-class lesson platform with 5-mode integration model |
+| Missing: progression mechanism | Root gating identified — palette restriction drives Stage 0→1→2 advance |
+
+---
 
 ### 2026-03-20 — Initial review
 
