@@ -14,7 +14,7 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 
 ## Ready to run — grammar structure gaps
 
-- [ ] **Proof structure** — Multi-step deductive chains using `go`. Deferred pending subordinate clause resolution; that prerequisite is now done. Good target: Euclid's proof of infinite primes (short, requires nested premises, conclusion has the right kind of necessity). Test modus ponens, reductio ad absurdum, Cogito-style self-certifying inference. Contrast with `;` for mere sequence.
+- [x] **Proof structure** — Multi-step deductive chains using `go`. Filed as PRF-001 (S684–S689): Aristotle syllogism (all-persons/Socrates), Descartes Cogito, reductio from cyclic motion. First stacked `go {P}, go {P}, C`; first `a-` scope prefix in deductive premise; `;` vs `go` minimal pair.
 - [ ] **Permission vs capability modality** — No batch distinguishes "can" (physical capability, `be-vo`) from "may" (permission/authority). Flagged as "untested" in open questions. Good source material: medical consent, legal authority, social permission. Also stress-tests `wi-fe` from a different angle.
 
 ---

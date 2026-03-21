@@ -2406,3 +2406,110 @@ la-fe-vo'si-ko-mu-Saturn  ne  wi-ra  lo-wi-ra-li-Saturn
 **Coverage:** `ti-re-[Planet]` proper-noun time-slot pattern (S678, S681); `ne ne-fe` prescription framing (S679, S680); W137 (`vo-mu`, garment) activated from proposed; W219 (`fe-vo'si-ko-mu`, pentacle) first attested; `ka-fe-vo` compositional consecration; non-person authority holder (pentacle as `ne wi-ra lo-Y` subject).
 
 **Key finding:** The Greater Key's planetary-hour timing system compresses into a single productive pattern (`ti-re-[Planet]`) without importing Western astrology's cosmological ontology. The ritual preparation arc (time → purify → dress → make instruments → consecrate → use) translates into six sentences using exclusively existing vocabulary plus one new artifact class.
+
+---
+
+## Proof Structure: Syllogism, Cogito, Reductio (S684–S689)
+
+*Batch purpose (PRF-001): First test of multi-step deductive chains using `go`. Tests the `a-` universal scope prefix in a major syllogistic premise, stacked double-`go {P}, go {P}, C` conclusion, `;` vs `go` distinction as a minimal contrast pair (Humean constant conjunction vs necessary connection), Descartes' Cogito using `go` as epistemic grounding, and reductio ad absurdum structure. No new vocabulary — pure grammar and connective test. Full analysis in `corpus/translations/Philosophy/proof-structure.md`.*
+
+---
+
+### S684 — PRF-001-A
+
+```
+a-zo-li  ne  de-zo
+```
+
+**Written:** `azoli ne dezo`
+
+**Natural reading:** All persons are mortal.
+
+**Notes:** First corpus use of the `a-` scope prefix in a syllogistic major premise. `a-zo-li` = universal-person = "persons in the abstract / all persons" — `a-` attaches to `zo-li` (W049) to yield the universally-quantified subject. `ne  de-zo` = property attribution: the property of dying/mortality (W178, non-agentive death-event). `a-zo-li ne de-zo` = "the universally-quantified person has the property of mortality." The major premise of the classical syllogism — All men are mortal (Aristotle).
+
+---
+
+### S685 — PRF-001-B
+
+```
+la-Sokrates  ne  zo-li
+```
+
+**Written:** `laSokrates ne zoli`
+
+**Natural reading:** Socrates is a person.
+
+**Notes:** Minor premise of the classical syllogism. `Sokrates` = phonologically adapted proper name (Greek /Sōkrátēs/ → Tonesu `Sokrates`, stress-initial, five-letter adaptation). `la-Sokrates ne zo-li` = agent-Sokrates has-property person-agent (W049). Straightforward property attribution using an existing agent.
+
+---
+
+### S686 — PRF-001-C
+
+```
+go  a-zo-li  ne  de-zo ,  go  la-Sokrates  ne  zo-li ,  la-Sokrates  ne  de-zo
+```
+
+**Written:** `go azoli ne dezo, go laSokrates ne zoli, laSokrates ne dezo`
+
+**Natural reading:** Because all persons are mortal, and because Socrates is a person: Socrates is mortal.
+
+**Notes:** First stacked double-`go {P}, go {P}, C` in corpus. Stack trace: first `go` opens a subordinate clause level; `ne de-zo` (the complete predicated property of `a-zo-li`) closes the first `go` frame at the `,`; second `go` opens another subordinate clause level; `ne zo-li` closes the second frame at the `,`; matrix clause `la-Sokrates ne de-zo` is the syllogistic conclusion. Both premises are necessary — removing either leaves the conclusion unsupported. The `ne` copula form closes the `go` frame in formal register because the property-attribution clause is syntactically complete once the predicated property (a closed NP) is consumed. The `,` makes the boundary explicit.
+
+---
+
+### S687 — PRF-001-D
+
+```
+la-li  to-ki ;  lo-li  su-ti
+```
+
+**Written:** `lali toki ; loli suti`
+
+**Natural reading:** I am reasoning; I am in a current state.
+
+**Notes:** Intentionally weaker form of the Cogito. `;` = Humean constant conjunction — two sequential observations recorded without any claim that the first grounds the second. `la-li to-ki` = I am engaged in the computation/reasoning process (W020). `lo-li su-ti` = the entity marked 'I' has a current configuration/state (W101, patient frame: `lo-li` as the entity-in-configuration). The sentence is true but philosophically insufficient: it records that thinking and existing co-occur in sequence, without asserting the constitutive relationship between them. Compare S688.
+
+---
+
+### S688 — PRF-001-E
+
+```
+go {la-li  to-ki},  lo-li  su-ti
+```
+
+**Written:** `go lali toki, loli suti`
+
+**Natural reading:** Because I am reasoning: I have a determinate present state.
+
+**Notes:** Correct Cogito (Descartes, *Meditationes*, 1641). `go` = epistemic grounding — the reasoning in the premise clause is the constitutive ground for the existence-claim in the matrix clause, not merely its temporal precursor. `lo-li su-ti` (patient frame, no specified state Y) = "the entity marked 'I' has some current configuration" = "I exist with a determinable present state." Self-certifying: the act of uttering this sentence instantiates `la-li to-ki` (I am reasoning), which via `go` grounds `lo-li su-ti` (I am currently configured). The minimal-pair contrast with S687 is the sharpest expression of Hume's problem of induction in the corpus: `;` records conjunction; `go` asserts the ground.
+
+---
+
+### S689 — PRF-001-F
+
+```
+to-go {no-ki},  no-re ;  re  su-ti ;  go  to ,  ki
+```
+
+**Written:** `togo noki, nore ; re suti ; go to, ki`
+
+**Natural reading:** If there were no motion, there would be no cyclic recurrence. Cyclic recurrence [currently] obtains. By the foregoing principle: motion.
+
+**Notes:** Reductio ad absurdum structure in three clauses joined by `;`. Clause 1: `to-go {no-ki}, no-re` = counterfactual conditional — if motion-absence held: no cyclic recurrence. This is the non-actual conditional (W089, `to-go` frame) establishing the principle. Clause 2: `re su-ti` = empirical observation — the primitive `re` (recurrence/cycle) has a present configuration, i.e., cycles are currently instantiated and observable. Clause 3: `go to , ki` = logical conclusion — `to` (conceptual/pattern, anaphoric: refers to the principle of clause 1), `go to,` = "grounded in the stated pattern/principle," `ki` = change/motion [obtains]. The reductio: hypothetically there is no motion → no cycles; but cycles are observed; therefore motion obtains. The `;` joins the three argumentative steps sequentially (Humean conjunction between steps); `go to,` marks only the final conclusion as logically grounded in the established principle. First three-clause complex argument sentence; first reductio structure in corpus.
+
+---
+
+## PRF-001 Batch Summary
+
+| Entry | Tonesu | Written form | Key feature |
+|-------|--------|-------------|-------------|
+| S684 (PRF-001-A) | `a-zo-li  ne  de-zo` | `azoli ne dezo` | First `a-` scope prefix in syllogistic major premise |
+| S685 (PRF-001-B) | `la-Sokrates  ne  zo-li` | `laSokrates ne zoli` | Minor syllogistic premise with proper name |
+| S686 (PRF-001-C) | `go  a-zo-li  ne  de-zo ,  go  la-Sokrates  ne  zo-li ,  la-Sokrates  ne  de-zo` | `go azoli ne dezo, go laSokrates ne zoli, laSokrates ne dezo` | First stacked double-`go {P}, go {P}, C` |
+| S687 (PRF-001-D) | `la-li  to-ki ;  lo-li  su-ti` | `lali toki ; loli suti` | Cogito wrong form — `;` constant conjunction |
+| S688 (PRF-001-E) | `go {la-li  to-ki},  lo-li  su-ti` | `go lali toki, loli suti` | Cogito correct — `go` epistemic grounding |
+| S689 (PRF-001-F) | `to-go {no-ki},  no-re ;  re  su-ti ;  go  to ,  ki` | `togo noki, nore ; re suti ; go to, ki` | First reductio; `go to,` anaphoric conclusion |
+
+**Coverage:** `a-` universal scope prefix in a deductive premise (S684); stacked `go {P}, go {P}, C` (S686); `;` vs `go` minimal pair for the Humean/Cartesian distinction (S687/S688); `to-go` counterfactual + `go to,` anaphoric conclusion in reductio structure (S689). No new vocabulary entries — pure grammar and connective test.
+
+**Key finding:** The `;` / `go` distinction is the sharpest distinction in the corpus. `;` = constant conjunction (Hume): two states recorded in sequence. `go` = necessary connection: the premise constitutively grounds the consequence. S687/S688 are minimal pairs on exactly this axis — same propositional content, different logical structure. The Cogito works in Tonesu only with `go`, not `;`.
