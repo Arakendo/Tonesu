@@ -3074,3 +3074,127 @@ de-zo'ka-be  ne  wi-ra  ;  ru-fe,  be  go-si  ko-de  lo  ka-be-zo
 **Verdict:** irreducibly formal — all forms are below threshold, at-threshold but load-bearing, or scope markers.
 
 *CLQ entries registered from this batch: none.*
+
+---
+
+## EGG-001 — Scrambled Eggs Recipe
+
+*Batch purpose (EGG-001): Procedural instruction register — scrambled eggs recipe. Six steps: beat (S720), heat pan + add fat (S721), add eggs (S722), stir (S723), condition-triggered removal (S724), quality verdict (S725). Key tests: compositional first use of `du-zo-ki` (egg = animal-result, parallel to W142 fruit); W227 `su-ha-mu` (cooking pan, distinct from W214 oven by su/ko open-vs-enclosed contrast); `ma-ki` (stir = matter-motion); first `go {su-ti [state]}` conditional on state-check; phase tracking `du-zo-ki` → `ha-zo-ra-ma` → `no-ha-su` end-state; `ha-zo-ra-ma ne vo` as quality-completion verdict (contrast CKG-001's `ha-zo-ra-ma ne be-su` structural completion). Full analysis in `corpus/translations/Everyday/scrambled-eggs.md`.*
+
+---
+
+### S720 — EGG-001-A
+
+```
+ma-ne-ki  lo-du-zo-ki  pa-ko-mu  lu-su-ne
+```
+
+**Written:** `maneki loduzoki pakomu lusune`
+
+**Natural reading:** Beat the eggs in the bowl, result: uniform mixture.
+
+**Notes:** `du-zo-ki` = compositional first use: `du` (result/effect, primitive) + `zo-ki` (motile organism: `zo` living thing + `ki` motion = motile = animal/bird). Result-of-a-motile-organism = egg. By direct parallel with W142 `du-zo-su` (plant-structural-result = fruit: `du` + `zo-su` = result of the plant). The compositional logic is symmetric: `du-zo-su` = fruit (plant's result), `du-zo-ki` = egg (motile organism's result). No W-entry required — the pattern is already formally grounded. `ma-ne-ki` (W215) established CKG-001. `pa-ko-mu` = in/at the bowl/vessel. `lu-su-ne` = result: structural harmony (W174) = until uniformly beaten. Pattern identical to S660 (beating wet ingredients for cookies): same container, same result-target, new ingredient class (egg vs. butter/sugar/egg in cookies).
+
+---
+
+### S721 — EGG-001-B
+
+```
+ha-ki  lo-su-ha-mu ;  ki  lo-su'ma-zo-ra-ma  pa-su-ha-mu
+```
+
+**Written:** `haki losuhamu ; ki losu'mazorama pasuhamu`
+
+**Natural reading:** Heat the pan; add the solid food material [fat/butter] to the pan.
+
+**Notes:** W227 `su-ha-mu` first attestation. `su-ha-mu` = structured heat-artifact = cooking pan / skillet: `su` (structure/open-arrangement) + `ha` (heat) + `mu` (artifact). Contrast with W214 `ko-ha-mu` (oven: `ko` = containment/enclosure). The su/ko distinction maps the open-surface pan vs. the closed oven: `su-ha-mu` is an open structured surface that conducts heat; `ko-ha-mu` is an enclosing containment that surrounds food with heat. `ha-ki lo-su-ha-mu` = heat the pan (agent-dropped imperative: instruction register). `;` sequential connector: first heat, then add fat. `lo-su'ma-zo-ra-ma` = patient: solid food material (W113 + W144, established CKG-001 for dry/powdered ingredients; here applied to butter/fat which is solid at room temperature). `pa-su-ha-mu` = at/on the pan (spatial locative by `pa-` prefix, parallel to `pa-ko-mu` for bowl and `pa-ko-ha-mu` for oven in CKG-001). The butter melts from the pan's heat — the phase transition to `ki'ma-zo-ra-ma` (liquid food material) is implicit in the sequential action.
+
+---
+
+### S722 — EGG-001-C
+
+```
+ki  lo-du-zo-ki  pa-su-ha-mu
+```
+
+**Written:** `ki loduzoki pasuhamu`
+
+**Natural reading:** Move the eggs into the pan.
+
+**Notes:** Agent-dropped imperative: pour/add. `du-zo-ki` second appearance (established S720). `pa-su-ha-mu` = into/onto the pan (same spatial locative as S721). The simplest action in the recipe: a single patient-location clause. After the beaten eggs (S720 outcome: `lu-su-ne` = uniform mixture) are moved into the heated fat-coated pan, the cooking process begins. Compare S663 (cookie batch): `ki lo-zo-ra-ma-su pa-ko-ha-mu` (move dough into oven). Same ki-move-into pattern; different target container.
+
+---
+
+### S723 — EGG-001-D
+
+```
+ma-ki  lo-du-zo-ki  pa-su-ha-mu
+```
+
+**Written:** `maki loduzoki pasuhamu`
+
+**Natural reading:** Stir/move the eggs [continuously] in the pan.
+
+**Notes:** `ma-ki` = compositional first use: `ma` (matter/substance, primitive) + `ki` (motion, primitive) = matter-in-motion = the continuous physical displacement of a material = stirring/agitating. Distinct from `ma-ne-ki` (W215: combine/mix = matter-relational-motion = bringing matter into relational unity); `ma-ki` is simpler — pure matter-motion without the relational endpoint. Stirring scrambled eggs is continuous matter-motion with no target state of unity; it is ongoing agitation to prevent setting. The distinction from `ma-ne-ki`: `ma-ne-ki` builds toward `lu-su-ne` (harmony, completion of combining); `ma-ki` is maintenance motion without a relational target. Agent-dropped imperative throughout the instruction register.
+
+---
+
+### S724 — EGG-001-E
+
+```
+go {su-ti  no-ha-su},  ki  lo-ha-zo-ra-ma
+```
+
+**Written:** `go {suti nohasu}, ki lohazorama`
+
+**Natural reading:** If [the food is in the snapshot-state: not-thermally-set], move the cooked food [off heat].
+
+**Notes:** First `go {su-ti [state]}` conditional on a state-check. Grammar §Conditional: `go {premise}, result` where premise is a causal/conditional ground. Here the premise is a state-snapshot test: `su-ti no-ha-su` (W101: state-snapshot = not-thermally-set). `no-ha-su` = `no` (negation) + `ha-su` (established CKG-001: thermally-set state = heat-structured). The condition is: the eggs are still in the uncompleted thermal state (soft, not yet rubbery/overcooked). `ki lo-ha-zo-ra-ma` = move the thermally-treated food [off the heat source]. `ha-zo-ra-ma` (W216) = thermally-treated food — first use of this term in EGG-001; the eggs have now become `ha-zo-ra-ma` by the cooking process in S723. The conditional structure encodes the critical food-science instruction of scrambled eggs: remove from heat ONLY when still soft, not when fully set. This is the precise opposite of cookie removal (CKG-001 S664: remove `ha-zo-ra-ma` after it reaches `be-su` = fully formed). The `go {su-ti [state]}` pattern is a first: conditional not on an agent's action or abstract causal chain, but on the current physical state of the food.
+
+---
+
+### S725 — EGG-001-F
+
+```
+ha-zo-ra-ma  ne  vo
+```
+
+**Written:** `hazorama ne vo`
+
+**Natural reading:** The cooked food has worth. / The scrambled eggs are good.
+
+**Notes:** Recipe-completion verdict. `ha-zo-ra-ma ne vo` = thermally-treated food has the property of worth = is good/ready. Contrast with CKG-001 S664 verdict: `ha-zo-ra-ma ne be-su` = the food has the property of structural-completion = is fully formed (cookie =  a complete baked artifact). The two recipe endings diverge: the cookie ends with structural completion (`be-su`); the scrambled egg ends with quality (`vo`). Scrambled eggs are NOT defined by reaching `be-su` (which would be overcooked/rubbery) but by having worth at the soft state. `ne vo` = has worth = is ready, is good, is what it was supposed to be. The `ha-zo-ra-ma ne vo` formula encodes the qualitative-completion verdict vs. the structural-completion verdict of `ha-zo-ra-ma ne be-su`. This completes the EGG-001 recipe arc: raw `du-zo-ki` → beaten → cooked → soft-state removed → `ha-zo-ra-ma ne vo`.
+
+---
+
+## EGG-001 Batch Summary
+
+| Entry | Tonesu | Written form | Step | Key feature |
+|-------|--------|-------------|------|-------------|
+| S720 (EGG-001-A) | `ma-ne-ki  lo-du-zo-ki  pa-ko-mu  lu-su-ne` | `maneki loduzoki pakomu lusune` | Beat eggs | `du-zo-ki` (egg) first use; parallel to W142 fruit |
+| S721 (EGG-001-B) | `ha-ki  lo-su-ha-mu ;  ki  lo-su'ma-zo-ra-ma  pa-su-ha-mu` | `haki losuhamu ; ki losu'mazorama pasuhamu` | Heat pan + add fat | W227 `su-ha-mu` first attestation; `pa-su-ha-mu` spatial locative |
+| S722 (EGG-001-C) | `ki  lo-du-zo-ki  pa-su-ha-mu` | `ki loduzoki pasuhamu` | Add eggs to pan | Patient-location structure; `ki`-move into pan |
+| S723 (EGG-001-D) | `ma-ki  lo-du-zo-ki  pa-su-ha-mu` | `maki loduzoki pasuhamu` | Stir | `ma-ki` (stir = matter-motion) first use; distinct from `ma-ne-ki` |
+| S724 (EGG-001-E) | `go {su-ti  no-ha-su},  ki  lo-ha-zo-ra-ma` | `go {suti nohasu}, ki lohazorama` | Remove when soft | First `go {su-ti [state]}` conditional on state-check; `no-ha-su` |
+| S725 (EGG-001-F) | `ha-zo-ra-ma  ne  vo` | `hazorama ne vo` | Done | Quality verdict `ne vo` vs. structural completion `ne be-su` (CKG-001) |
+
+**New vocabulary:** W227 `su-ha-mu` (cooking pan: structured heat-artifact, open-surface).
+**Compositional first uses:** `du-zo-ki` (egg: animal-result, parallel to W142 fruit); `pa-su-ha-mu` (spatial locative: at/on the pan); `ma-ki` (stir: matter-motion, distinct from `ma-ne-ki`); `no-ha-su` (not-thermally-set = soft/underdone state); `ha-zo-ra-ma ne vo` (quality-completion verdict).
+**Key structural findings:** First `go {su-ti [state]}` conditional on state-check (S724). Phase arc: `du-zo-ki` (raw egg) → (beaten) → `ha-zo-ra-ma` (cooked) → `no-ha-su` end-state. Recipe diverges from CKG-001 at final verdict: `ne vo` (quality present) vs. `ne be-su` (structurally complete). `su-ha-mu`/`ko-ha-mu` contrast: open-surface vs. enclosed-containment cooking vessels.
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `su-ha-mu` (W227) | none | — | 3-root compound — below 4-morpheme threshold |
+| `du-zo-ki` | none | — | 3-root compositional — below threshold |
+| `ma-ne-ki` (W215) | none | — | 3-root — below threshold; semantically load-bearing |
+| `su'ma-zo-ra-ma` | none | — | 4-root with juncture — at threshold; juncture load-bearing |
+| `pa-su-ha-mu` | none | — | 4-morpheme locative — at threshold; locative `pa-` semantically load-bearing |
+| `ma-ki` | none | — | 2-root — below threshold |
+| `no-ha-su` | none | — | 3-root — below threshold |
+| `ha-zo-ra-ma` (W216) | none | — | 3-root — below threshold; semantically load-bearing |
+
+**Verdict:** irreducibly formal — all forms are below threshold, at-threshold but load-bearing, or locative markers.
+
+*CLQ entries registered from this batch: none.*

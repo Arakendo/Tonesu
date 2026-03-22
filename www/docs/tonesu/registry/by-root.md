@@ -122,7 +122,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `ha-de` · hade | [W044](words/W044.md) | ✅ | cooling, thermal decrease <br><small>[S060](../../../totonesu/corpus/batches/t-prm#S060)</small> |
-| `ha-zo-ra-ma` · hazorama | [W216](words/W216.md) | ✅ | baked food / thermally-treated food <br><small>[S664](../../../totonesu/corpus/batches/ckg#S664)</small> |
+| `ha-zo-ra-ma` · hazorama | [W216](words/W216.md) | ✅ | baked food / thermally-treated food <br><small>[S664](../../../totonesu/corpus/batches/ckg#S664) · [S724](../../../totonesu/corpus/batches/egg#S724) · [S725](../../../totonesu/corpus/batches/egg#S725)</small> |
 
 ## `ka` — intentional action
 
@@ -192,7 +192,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
-| `ma-ne-ki` · maneki | [W215](words/W215.md) | ✅ | mix / combine / blend <br><small>[S660](../../../totonesu/corpus/batches/ckg#S660) · [S661](../../../totonesu/corpus/batches/ckg#S661) · [S662](../../../totonesu/corpus/batches/ckg#S662)</small> |
+| `ma-ne-ki` · maneki | [W215](words/W215.md) | ✅ | mix / combine / blend <br><small>[S660](../../../totonesu/corpus/batches/ckg#S660) · [S661](../../../totonesu/corpus/batches/ckg#S661) · [S662](../../../totonesu/corpus/batches/ckg#S662) · [S720](../../../totonesu/corpus/batches/egg#S720)</small> |
 | `ma-no-de` · manode | [W046](words/W046.md) | ✅ | medicine, treatment substance <br><small>[S063](../../../totonesu/corpus/batches/t-prm#S063) · [S370](../../../totonesu/corpus/batches/fal#S370)</small> |
 | `ma-ra` · mara | [W116](words/W116.md) | ⏳ | plasma, ionized matter |
 | `ma-zo-ki` · mazoki | [W146](words/W146.md) | ⏳ | crawler, ground-moving creature |
@@ -312,17 +312,18 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `su` — structure / order
 
-9 compounds
+10 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `su'ma` · su'ma | [W113](words/W113.md) | ⏳ | solid (material state) |
 | `su-fa` · sufa | [W133](words/W133.md) | ✅ | purity of heart, structured affect |
+| `su-ha-mu` · suhamu | [W227](words/W227.md) | ✅ | cooking pan; stovetop cooking surface; open heat-vessel <br><small>[S721](../../../totonesu/corpus/batches/egg#S721)</small> |
 | `su-ka-li` · sukali | [W200](words/W200.md) | ✅ | service provider; platform operator <br><small>[S639](../../../totonesu/corpus/batches/cda#S639) · [S641](../../../totonesu/corpus/batches/cda#S641) · [S642](../../../totonesu/corpus/batches/cda#S642) · [S644](../../../totonesu/corpus/batches/cda#S644)</small> |
 | `su-mu-li` · sumuli | [W002](words/W002.md) | ⏳ | engineer, architect <br><small>[S025](../../../totonesu/corpus/batches/_foundations#S025) · [S164](../../../totonesu/corpus/batches/p-gp#S164) · [S171](../../../totonesu/corpus/batches/p-gp#S171) · [S559](../../../totonesu/corpus/batches/pav#S559)</small> |
-| `su-ne` · sune | [W174](words/W174.md) | ✅ | harmony, structure-of-connection <br><small>[S591](../../../totonesu/corpus/batches/stw#S591) · [S631](../../../totonesu/corpus/batches/doi#S631) · [S660](../../../totonesu/corpus/batches/ckg#S660)</small> |
+| `su-ne` · sune | [W174](words/W174.md) | ✅ | harmony, structure-of-connection <br><small>[S591](../../../totonesu/corpus/batches/stw#S591) · [S631](../../../totonesu/corpus/batches/doi#S631) · [S660](../../../totonesu/corpus/batches/ckg#S660) · [S720](../../../totonesu/corpus/batches/egg#S720)</small> |
 | `su-ru` · suru | [W085](words/W085.md) | ✅ | integrated whole, unified structure <br><small>[S119](../../../totonesu/corpus/batches/t-ax#S119)</small> |
-| `su-ti` · suti | [W101](words/W101.md) | ⏳ | current state, instantaneous configuration <br><small>[S665](../../../totonesu/corpus/batches/sut#S665) · [S679](../../../totonesu/corpus/batches/sol#S679) · [S687](../../../totonesu/corpus/batches/prf#S687) · [S688](../../../totonesu/corpus/batches/prf#S688) · [S689](../../../totonesu/corpus/batches/prf#S689)</small> |
+| `su-ti` · suti | [W101](words/W101.md) | ⏳ | current state, instantaneous configuration <br><small>[S665](../../../totonesu/corpus/batches/sut#S665) · [S679](../../../totonesu/corpus/batches/sol#S679) · [S687](../../../totonesu/corpus/batches/prf#S687) · [S688](../../../totonesu/corpus/batches/prf#S688) · [S689](../../../totonesu/corpus/batches/prf#S689) · [S724](../../../totonesu/corpus/batches/egg#S724)</small> |
 | `su-to` · suto | [W199](words/W199.md) | ✅ | self-evident proposition; truth whose ground is its own structure <br><small>[S630](../../../totonesu/corpus/batches/doi#S630) · [S638](../../../totonesu/corpus/batches/doi#S638) · [S650](../../../totonesu/corpus/batches/aca#S650)</small> |
 | `su-zo-ko` · suzoko | [W204](words/W204.md) | ✅ | coverage; protective welfare structure; systematic protection for persons <br><small>[S645](../../../totonesu/corpus/batches/aca#S645) · [S646](../../../totonesu/corpus/batches/aca#S646)</small> |
 

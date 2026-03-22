@@ -2282,3 +2282,20 @@ Related:       fa-ra (W154), su (structure), wi-ra-su (W179), fa-de (W094), fa-d
 ```
 
 ---
+
+**W227**
+```
+Form:          su-ha-mu
+Type:          compound
+Class:         entity (artifact)
+Definition:    cooking pan; stovetop cooking surface; any open flat or concave heat-conducting vessel used for direct stovetop cooking. The structured (su) heat-transferring (ha) artifact (mu) = the device whose structural arrangement conducts and distributes heat directly to food materials. Distinct from ko-ha-mu (W214: oven = containment- heat-device, enclosed) by the su vs ko distinction: su = open structured arrangement; ko = enclosed containment. A pan sits open on a heat source; an oven encloses food in a heated enclosure. Covers frying pan, skillet, saucepan (when used for direct heat transfer).
+Composition:   su (structure/order) + ha (heat/thermal state) + mu (artifact/device). Head-final: mu (artifact) is head; su-ha (structured heat transfer) specifies the type. Right-branching: su modifies [ha-mu] = structure of the heat-device = the structured heat-conducting device = pan.
+Register:      standard / procedural
+Domain:        food / cooking / domestic
+Status:        ✅ active
+First use:     EGG-001-B (S721): ha-ki  lo-su-ha-mu ;  ki  lo-su'ma-zo-ra-ma  pa-su-ha-mu
+Notes:         Established alongside its complement ko-ha-mu (W214: oven). The su/ko contrast is the structural key: ko = containment/enclosure (food inside a thermally sealed space); su = structure/arrangement (food on an open, structured conducting surface). Spatial locative: pa-su-ha-mu = at/on the pan, paralleling pa-ko-mu (vessel) and pa-ko-ha-mu (oven). First attested EGG-001 (S721).
+Related:       ko-ha-mu (W214: oven/containment heat-device), ha (heat, primitive), su (structure, primitive), mu (artifact, primitive), ha-zo-ra-ma (W216: thermally-treated food)
+```
+
+---

@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-32 translation analyses.
+33 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -28,6 +28,7 @@ gap analysis, and key findings.
 ## Everyday
 
 - [chocolate-chip-cookies](../everyday/chocolate-chip-cookies/)
+- [scrambled-eggs](../everyday/scrambled-eggs/)
 
 ## Law
 

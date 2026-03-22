@@ -3085,6 +3085,19 @@
         "ra",
         "su"
       ]
+    },
+    {
+      "wnum": "W227",
+      "form": "su-ha-mu",
+      "written": "suhamu",
+      "gloss": "cooking pan; stovetop cooking surface; open heat-vessel",
+      "status": "active",
+      "domain": "food / cooking / domestic",
+      "roots": [
+        "su",
+        "ha",
+        "mu"
+      ]
     }
   ]
 }

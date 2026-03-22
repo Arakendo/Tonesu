@@ -6,7 +6,7 @@ title: "Foundations"
 
 Core sentences from the earliest Tonesu attestations — basic agent-patient structures, property attribution, and foundational constructions.
 
-176 sentences.
+182 sentences.
 
 [← Corpus](../overview.md)
 
@@ -30,6 +30,7 @@ Core sentences from the earliest Tonesu attestations — basic agent-patient str
 | [*The Art of War* (Sun Tzu, Chapters 1 & 3) — Deception, Rapidity, and the Know-Yourself Triptych](../../batches/aow/) | 1 | 6 |
 | [*The Prince* (Machiavelli) + Dark Triad Psychology](../../batches/map/) | 1 | 6 |
 | [Marx (*Theses on Feuerbach*, *Communist Manifesto*, *A Contribution to the Critique of Hegel's Philosophy of Right*, *Economic and Philosophic Manuscripts of 1844*, *Critique of the Gotha Programme*, *Capital* Vol I)](../../batches/mrx/) | 1 | 6 |
+| [Scrambled Eggs Recipe](../../batches/egg/) | 1 | 6 |
 
 ---
 

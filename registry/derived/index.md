@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 126 |
+| [w101-plus.md](w101-plus.md) | W101+ | 127 |
 
-**Total: 214 W-series entries** — active: 171 · proposed: 2 · pending: 39 · cold: 0 · retired: 2
+**Total: 215 W-series entries** — active: 172 · proposed: 2 · pending: 39 · cold: 0 · retired: 2
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -152,6 +152,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `so-vo-li` | W213 | bard / sonic artist | ✅ | [w101-plus](w101-plus.md) |
 | `su'ma` | W113 | solid (material state) | ⏳ | [w101-plus](w101-plus.md) |
 | `su-fa` | W133 | purity of heart, structured affect | ✅ | [w101-plus](w101-plus.md) |
+| `su-ha-mu` | W227 | cooking pan; stovetop cooking surface; open heat-vessel | ✅ | [w101-plus](w101-plus.md) |
 | `su-ka-li` | W200 | service provider; platform operator | ✅ | [w101-plus](w101-plus.md) |
 | `su-mu-li` | W002 | engineer, architect | ⏳ | [w001-w050](w001-w050.md) |
 | `su-ne` | W174 | harmony, structure-of-connection | ✅ | [w101-plus](w101-plus.md) |
@@ -308,6 +309,9 @@ Concept-first lookup: find the compound you need by domain.
 **Cosmology / Metaphysics**
 `pa-ma` W194 material realm · `pa-ne-su` W196 cosmological framework · `to-pa` W195 thought-realm
 
+**Domestic / Everyday**
+`su-ha-mu` W227 cooking pan
+
 **Epistemics / Knowledge**
 `ka-si-de` W224 deliberate deception
 
@@ -323,8 +327,14 @@ Concept-first lookup: find the compound you need by domain.
 **Health / Organism**
 `su-zo-ko` W204 coverage
 
+**Heat / Thermal**
+`su-ha-mu` W227 cooking pan
+
 **Kinds**
 `zo-ki-ma` W220 snake / serpent / limbless locomoting organism
+
+**Kitchen / Equipment**
+`su-ha-mu` W227 cooking pan
 
 **Law / Governance**
 `ka-li-de` W205 tax · `su-zo-ko` W204 coverage · `wi-fe'de` W203 penalty
@@ -391,7 +401,7 @@ Quick lookup by lead primitive root.
 | `re` | re-ka-ne-li W134 |
 | `se` | se-ka W034, se-to W062, se-no-to W090, se-lu W130 |
 | `si` | si-ne-ki W021, si-ki W023, si-mu W039, si-ko-mu W067, si-fe W070, si-de W098, si-no-vo-li W126, si-ki-li W158, si-go-li W201 |
-| `su` | su-mu-li W002, su-ru W085, su-ti W101, su'ma W113, su-fa W133, su-ne W174, su-to W199, su-ka-li W200, su-zo-ko W204 |
+| `su` | su-mu-li W002, su-ru W085, su-ti W101, su'ma W113, su-fa W133, su-ne W174, su-to W199, su-ka-li W200, su-zo-ko W204, su-ha-mu W227 |
 | `ti` | ti-fe W037, ti-be W040, ti-de W041, ti-mu W057, ti-re W103, ti-mi W109 |
 | `to` | to-ne-su W000, to-li W003, to-su-mu W010, to-ki-mu W011, to-ki W020, to-su-ki W025, to-si W026, to-ko W027, to-fe W028, to-fe-ka W029, to-su W030, to-fe-li W032, to-re-su W064, to-fe-su W072, to-ru W083, to-go W089, to-fe-su-ki W097, to-ko-re W166, to-to-ne-su W169, to'to-ne-su W170, to-pa W195, to-ki'ne-su W202 |
 | `vo` | vo-ne W118, vo-mu W137 |

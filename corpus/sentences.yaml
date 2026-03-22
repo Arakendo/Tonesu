@@ -13200,3 +13200,155 @@ sentences:
     labor. The vampire metaphor in Marx maps onto `ko-de` (engulf-consume) + `wi-ra`
     (directed power that commands) — the biological devouring and the political commanding
     are both present in the Tonesu structure.'
+- snum: S720
+  gloss: 'Beat the eggs in the bowl, result: uniform mixture.'
+  batch: EGG-001
+  batch_sub: A
+  status: normative
+  tonesu: ma-ne-ki  lo-du-zo-ki  pa-ko-mu  lu-su-ne
+  gloss_line: null
+  natural: 'Beat the eggs in the bowl, result: uniform mixture.'
+  words_attested:
+  - W174
+  - W215
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S720
+  notes: '`du-zo-ki` = compositional first use: `du` (result/effect, primitive) +
+    `zo-ki` (motile organism: `zo` living thing + `ki` motion = motile = animal/bird).
+    Result-of-a-motile-organism = egg. By direct parallel with W142 `du-zo-su` (plant-structural-result
+    = fruit: `du` + `zo-su` = result of the plant). The compositional logic is symmetric:
+    `du-zo-su` = fruit (plant''s result), `du-zo-ki` = egg (motile organism''s result).
+    No W-entry required — the pattern is already formally grounded. `ma-ne-ki` (W215)
+    established CKG-001. `pa-ko-mu` = in/at the bowl/vessel. `lu-su-ne` = result:
+    structural harmony (W174) = until uniformly beaten. Pattern identical to S660
+    (beating wet ingredients for cookies): same container, same result-target, new
+    ingredient class (egg vs. butter/sugar/egg in cookies).'
+- snum: S721
+  gloss: Heat the pan; add the solid food material [fat/butter] to the pan.
+  batch: EGG-001
+  batch_sub: B
+  status: normative
+  tonesu: ha-ki  lo-su-ha-mu ;  ki  lo-su'ma-zo-ra-ma  pa-su-ha-mu
+  gloss_line: null
+  natural: Heat the pan; add the solid food material [fat/butter] to the pan.
+  words_attested:
+  - W227
+  first_attests:
+  - W227
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S721
+  notes: 'W227 `su-ha-mu` first attestation. `su-ha-mu` = structured heat-artifact
+    = cooking pan / skillet: `su` (structure/open-arrangement) + `ha` (heat) + `mu`
+    (artifact). Contrast with W214 `ko-ha-mu` (oven: `ko` = containment/enclosure).
+    The su/ko distinction maps the open-surface pan vs. the closed oven: `su-ha-mu`
+    is an open structured surface that conducts heat; `ko-ha-mu` is an enclosing containment
+    that surrounds food with heat. `ha-ki lo-su-ha-mu` = heat the pan (agent-dropped
+    imperative: instruction register). `;` sequential connector: first heat, then
+    add fat. `lo-su''ma-zo-ra-ma` = patient: solid food material (W113 + W144, established
+    CKG-001 for dry/powdered ingredients; here applied to butter/fat which is solid
+    at room temperature). `pa-su-ha-mu` = at/on the pan (spatial locative by `pa-`
+    prefix, parallel to `pa-ko-mu` for bowl and `pa-ko-ha-mu` for oven in CKG-001).
+    The butter melts from the pan''s heat — the phase transition to `ki''ma-zo-ra-ma`
+    (liquid food material) is implicit in the sequential action.'
+- snum: S722
+  gloss: Move the eggs into the pan.
+  batch: EGG-001
+  batch_sub: C
+  status: normative
+  tonesu: ki  lo-du-zo-ki  pa-su-ha-mu
+  gloss_line: null
+  natural: Move the eggs into the pan.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S722
+  notes: 'Agent-dropped imperative: pour/add. `du-zo-ki` second appearance (established
+    S720). `pa-su-ha-mu` = into/onto the pan (same spatial locative as S721). The
+    simplest action in the recipe: a single patient-location clause. After the beaten
+    eggs (S720 outcome: `lu-su-ne` = uniform mixture) are moved into the heated fat-coated
+    pan, the cooking process begins. Compare S663 (cookie batch): `ki lo-zo-ra-ma-su
+    pa-ko-ha-mu` (move dough into oven). Same ki-move-into pattern; different target
+    container.'
+- snum: S723
+  gloss: Stir/move the eggs [continuously] in the pan.
+  batch: EGG-001
+  batch_sub: D
+  status: normative
+  tonesu: ma-ki  lo-du-zo-ki  pa-su-ha-mu
+  gloss_line: null
+  natural: Stir/move the eggs [continuously] in the pan.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S723
+  notes: '`ma-ki` = compositional first use: `ma` (matter/substance, primitive) +
+    `ki` (motion, primitive) = matter-in-motion = the continuous physical displacement
+    of a material = stirring/agitating. Distinct from `ma-ne-ki` (W215: combine/mix
+    = matter-relational-motion = bringing matter into relational unity); `ma-ki` is
+    simpler — pure matter-motion without the relational endpoint. Stirring scrambled
+    eggs is continuous matter-motion with no target state of unity; it is ongoing
+    agitation to prevent setting. The distinction from `ma-ne-ki`: `ma-ne-ki` builds
+    toward `lu-su-ne` (harmony, completion of combining); `ma-ki` is maintenance motion
+    without a relational target. Agent-dropped imperative throughout the instruction
+    register.'
+- snum: S724
+  gloss: 'If [the food is in the snapshot-state: not-thermally-set], move the cooked
+    food [off heat].'
+  batch: EGG-001
+  batch_sub: E
+  status: normative
+  tonesu: go {su-ti  no-ha-su},  ki  lo-ha-zo-ra-ma
+  gloss_line: null
+  natural: 'If [the food is in the snapshot-state: not-thermally-set], move the cooked
+    food [off heat].'
+  words_attested:
+  - W101
+  - W216
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S724
+  notes: 'First `go {su-ti [state]}` conditional on a state-check. Grammar §Conditional:
+    `go {premise}, result` where premise is a causal/conditional ground. Here the
+    premise is a state-snapshot test: `su-ti no-ha-su` (W101: state-snapshot = not-thermally-set).
+    `no-ha-su` = `no` (negation) + `ha-su` (established CKG-001: thermally-set state
+    = heat-structured). The condition is: the eggs are still in the uncompleted thermal
+    state (soft, not yet rubbery/overcooked). `ki lo-ha-zo-ra-ma` = move the thermally-treated
+    food [off the heat source]. `ha-zo-ra-ma` (W216) = thermally-treated food — first
+    use of this term in EGG-001; the eggs have now become `ha-zo-ra-ma` by the cooking
+    process in S723. The conditional structure encodes the critical food-science instruction
+    of scrambled eggs: remove from heat ONLY when still soft, not when fully set.
+    This is the precise opposite of cookie removal (CKG-001 S664: remove `ha-zo-ra-ma`
+    after it reaches `be-su` = fully formed). The `go {su-ti [state]}` pattern is
+    a first: conditional not on an agent''s action or abstract causal chain, but on
+    the current physical state of the food.'
+- snum: S725
+  gloss: The cooked food has worth. / The scrambled eggs are good.
+  batch: EGG-001
+  batch_sub: F
+  status: normative
+  tonesu: ha-zo-ra-ma  ne  vo
+  gloss_line: null
+  natural: The cooked food has worth. / The scrambled eggs are good.
+  words_attested:
+  - W216
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S725
+  notes: 'Recipe-completion verdict. `ha-zo-ra-ma ne vo` = thermally-treated food
+    has the property of worth = is good/ready. Contrast with CKG-001 S664 verdict:
+    `ha-zo-ra-ma ne be-su` = the food has the property of structural-completion =
+    is fully formed (cookie =  a complete baked artifact). The two recipe endings
+    diverge: the cookie ends with structural completion (`be-su`); the scrambled egg
+    ends with quality (`vo`). Scrambled eggs are NOT defined by reaching `be-su` (which
+    would be overcooked/rubbery) but by having worth at the soft state. `ne vo` =
+    has worth = is ready, is good, is what it was supposed to be. The `ha-zo-ra-ma
+    ne vo` formula encodes the qualitative-completion verdict vs. the structural-completion
+    verdict of `ha-zo-ra-ma ne be-su`. This completes the EGG-001 recipe arc: raw
+    `du-zo-ki` → beaten → cooked → soft-state removed → `ha-zo-ra-ma ne vo`.'
