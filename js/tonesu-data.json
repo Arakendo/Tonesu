@@ -3098,6 +3098,31 @@
         "ha",
         "mu"
       ]
+    },
+    {
+      "wnum": "W228",
+      "form": "ki-fe-mu",
+      "written": "kifemu",
+      "gloss": "fundamental string; 1D vibrating entity; oscillating boundary object",
+      "status": "active",
+      "domain": "physics / theoretical / string theory",
+      "roots": [
+        "ki",
+        "fe",
+        "mu"
+      ]
+    },
+    {
+      "wnum": "W229",
+      "form": "pa-di",
+      "written": "padi",
+      "gloss": "dimension; spatial direction; independent axis of extension",
+      "status": "active",
+      "domain": "physics / mathematics / geometry",
+      "roots": [
+        "pa",
+        "di"
+      ]
     }
   ]
 }
