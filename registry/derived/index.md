@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 127 |
+| [w101-plus.md](w101-plus.md) | W101+ | 129 |
 
-**Total: 215 W-series entries** — active: 172 · proposed: 2 · pending: 39 · cold: 0 · retired: 2
+**Total: 217 W-series entries** — active: 174 · proposed: 2 · pending: 39 · cold: 0 · retired: 2
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -78,6 +78,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `ka-to-fe` | W122 | judge, deliberate epistemic bounding | ✅ | [w101-plus](w101-plus.md) |
 | `ka-vo-si` | W168 | thanksgiving / blessing, deliberate value-signal | ✅ | [w101-plus](w101-plus.md) |
 | `ki'ma` | W114 | liquid (material state) | ⏳ | [w101-plus](w101-plus.md) |
+| `ki-fe-mu` | W228 | fundamental string; 1D vibrating entity; oscillating boundary object | ✅ | [w101-plus](w101-plus.md) |
 | `ki-ne` | W152 | sandal, motion-bond (footwear) | ✅ | [w101-plus](w101-plus.md) |
 | `ki-pa` | W049 | corridor, passage | ✅ | [w001-w050](w001-w050.md) |
 | `ki-pa-mu` | W086 | vehicle, moving enclosed place | ✅ | [w051-w100](w051-w100.md) |
@@ -112,6 +113,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `nu-se` | W102 | measurement, quantitative detection | ✅ | [w101-plus](w101-plus.md) |
 | `pa-be'ka-li-su` | W125 | kingdom of heaven, upper-space governance | ✅ | [w101-plus](w101-plus.md) |
 | `pa-be-ki` | W181 | conjuration; spatial-emergence-change; magic of making things emerge into new places | ✅ | [w101-plus](w101-plus.md) |
+| `pa-di` | W229 | dimension; spatial direction; independent axis of extension | ✅ | [w101-plus](w101-plus.md) |
 | `pa-fe` | W138 | vault, firmament, sky-dome | ⏳ | [w101-plus](w101-plus.md) |
 | `pa-ki` | W087 | adrift, uncontrolled spatial motion | ✅ | [w051-w100](w051-w100.md) |
 | `pa-ki` | W156 | liberation / liberator, place-motion (⚠️ form-shares W087 — pending resolution) | ⚠️ | [w101-plus](w101-plus.md) |
@@ -324,6 +326,9 @@ Concept-first lookup: find the compound you need by domain.
 **Food / Cooking**
 `ha-zo-ra-ma` W216 baked food / thermally-treated food · `ko-ha-mu` W214 oven / thermal containment device · `ma-ne-ki` W215 mix / combine / blend
 
+**Foundations / Quantum**
+`ki-fe-mu` W228 fundamental string
+
 **Health / Organism**
 `su-zo-ko` W204 coverage
 
@@ -345,6 +350,9 @@ Concept-first lookup: find the compound you need by domain.
 **Magic / Ritual**
 `fe-vo'si-ko-mu` W219 consecrated inscribed object / pentacle / talisman · `ka-be-ne` W218 binding / deliberate bond-creation · `wi-ra-li` W217 spirit / directed-force-agent
 
+**Mathematics / Geometry**
+`pa-di` W229 dimension
+
 **Meta / Language**
 `to'to-ne-su` W170 meta-truth · `to-to-ne-su` W169 knowledge of truth
 
@@ -357,8 +365,14 @@ Concept-first lookup: find the compound you need by domain.
 **Normative**
 `wi-fe'de` W203 penalty
 
+**Physics / Theoretical**
+`ki-fe-mu` W228 fundamental string · `pa-di` W229 dimension
+
 **Political / Social**
 `ra-su-li` W225 sovereign
+
+**Science / Formal**
+`ki-fe-mu` W228 fundamental string · `pa-di` W229 dimension
 
 **Signal / Inscription**
 `fe-vo'si-ko-mu` W219 consecrated inscribed object / pentacle / talisman
@@ -387,7 +401,7 @@ Quick lookup by lead primitive root.
 | `go` | go-ne W159 |
 | `ha` | ha-de W044, ha-zo-ra-ma W216 |
 | `ka` | ka-mu W047, ka-ne-de W092, ka-no-de-su W120, ka-to-fe W122, ka-de-zo W128, ka-li-su W147, ka-pa-ki W160, ka-du-zo-su W161, ka-pa-ki'ti-re W167, ka-vo-si W168, ka-li-de W205, ka-be-ne W218, ka-ra W222, ka-si-de W224 |
-| `ki` | ki-pa W049, ki-pa-mu W086, ki'ma W114, ki-ne W152 |
+| `ki` | ki-pa W049, ki-pa-mu W086, ki'ma W114, ki-ne W152, ki-fe-mu W228 |
 | `ko` | ko-pa W048, ko-mu W052, ko-ne-mu W176, ko-ha-mu W214 |
 | `li` | li-su-li W001, li-be W033, li-pu-pa W036 |
 | `lu` | lu-mu W139, lu-ti W140 |
@@ -396,7 +410,7 @@ Quick lookup by lead primitive root.
 | `ne` | ne-su W031, ne-fe W042, ne-ra W058, ne-ra-ki W059, ne-to W084, ne-de W091, ne-zi-re W131, ne-to-fe W165, ne-no-ra W171 |
 | `no` | no-ne-fe W075, no-su'ma W115, no-de-ma W129, no-lu-ti W141 |
 | `nu` | nu-se W102 |
-| `pa` | pa-nu W050, pa-ra W053, pa-wi-ka-su W066, pa-ki W087, pa-wi W088, pa-mi W110, pa-be'ka-li-su W125, pa-zo-li W135, pa-fe W138, pa-vo-fe W153, pa-ki W156, pa-su W157, pa-ma W194, pa-ne-su W196, pa-ki-su W198 |
+| `pa` | pa-nu W050, pa-ra W053, pa-wi-ka-su W066, pa-ki W087, pa-wi W088, pa-mi W110, pa-be'ka-li-su W125, pa-zo-li W135, pa-fe W138, pa-vo-fe W153, pa-ki W156, pa-su W157, pa-ma W194, pa-ne-su W196, pa-ki-su W198, pa-di W229 |
 | `ra` | ra-ki-mu W012, ra-ki W038, ra-vo W071, ra-ma W082, ra-lu-ki W151, ra-su-li W225 |
 | `re` | re-ka-ne-li W134 |
 | `se` | se-ka W034, se-to W062, se-no-to W090, se-lu W130 |

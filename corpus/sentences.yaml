@@ -3166,8 +3166,10 @@ sentences:
   tonesu: la-pa-di  no-ha
   gloss_line: agent:external-space  not-heat
   natural: It is cold outside.
-  words_attested: []
-  first_attests: []
+  words_attested:
+  - W229
+  first_attests:
+  - W229
   gap_refs: []
   source_file: sentences/v3-transition/s176-s227.md
   source_anchor: S213
@@ -3180,7 +3182,8 @@ sentences:
   tonesu: la-pa-di  ha-vo
   gloss_line: agent:external-space  heat-quality
   natural: It is hot outside.
-  words_attested: []
+  words_attested:
+  - W229
   first_attests: []
   gap_refs: []
   source_file: sentences/v3-transition/s176-s227.md
@@ -3537,7 +3540,8 @@ sentences:
   tonesu: la-bun gal nu zo  ki  lo-pa-di
   gloss_line: agent:twenty-three organisms  moved  patient:outward-place
   natural: Twenty-three organisms moved outside.
-  words_attested: []
+  words_attested:
+  - W229
   first_attests: []
   gap_refs: []
   source_file: sentences/v3-transition/s228-s251.md
@@ -13352,3 +13356,143 @@ sentences:
     ne vo` formula encodes the qualitative-completion verdict vs. the structural-completion
     verdict of `ha-zo-ra-ma ne be-su`. This completes the EGG-001 recipe arc: raw
     `du-zo-ki` → beaten → cooked → soft-state removed → `ha-zo-ra-ma ne vo`.'
+- snum: S726
+  gloss: Particles are vibration modes of strings.
+  batch: STR-001
+  batch_sub: A
+  status: normative
+  tonesu: go {ki-fe-mu},  la-pe-ma  ne  ki-be
+  gloss_line: On account of strings, particles have the property of being vibration-modes.
+  natural: Particles are vibration modes of strings.
+  words_attested:
+  - W228
+  first_attests:
+  - W228
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S726
+  notes: 'Core claim of string theory. `ki-fe-mu` (W228, first use) = the fundamental
+    string: 1D oscillating entity (`ki` motion + `fe` boundary + `mu` artifact). `pe-ma`
+    = particle (matter-component, anchor-inventory compositional). `ki-be` (first
+    use) = vibration-mode: `ki` (motion) + `be` (structure) = a structured mode of
+    oscillation. The `go {premise}, result` frame: the causal/ontological ground is
+    the string; the result is that particles are vibration-modes of it. Parallel structure
+    to S730 (`go {ki-fe-mu}, la-o-ra be`): same causal agent (string), different result-clause
+    (particles vs. forces).'
+- snum: S727
+  gloss: Space has eleven dimensions.
+  batch: STR-001
+  batch_sub: B
+  status: normative
+  tonesu: la-pa  ne  bol bol nu pa-di
+  gloss_line: Space has the property of eleven spatial-directions.
+  natural: Space has eleven dimensions.
+  words_attested:
+  - W229
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S727
+  notes: '`pa-di` (W229, first use) = dimension: `pa` (space) + `di` (direction) =
+    spatial direction = an independent axis of extension. `bol bol` = 11 in positional
+    digit notation (most-significant first: one-one). `bol bol nu pa-di` = eleven
+    measures of spatial-direction = eleven dimensions. The count construction `{digit}
+    nu {noun}` from anchor-inventory applies cleanly. `la-pa ne [property]` = space
+    has the property. Technically the 11 dimensions of M-theory include both 10 spatial
+    + 1 temporal; pa-di here covers all coordinate directions inclusively; the temporal
+    dimension is strictly ti-di but the pa-di gloss is conventional in physics register.
+    See translation file for ti-di note.'
+- snum: S728
+  gloss: Four dimensions are observable (the large dimensions of spacetime).
+  batch: STR-001
+  batch_sub: C
+  status: normative
+  tonesu: mol nu pa-di  ne  lu
+  gloss_line: Four dimensions have the property of visibility/observability.
+  natural: Four dimensions are observable (the large dimensions of spacetime).
+  words_attested:
+  - W229
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S728
+  notes: '`mol` = 4 (digit). The four observable large dimensions: in M-theory, three
+    spatial (pa-di) + one temporal (ti-di) form the familiar 4D spacetime. `pa-di`
+    covers all four here (inclusive counting). `ne lu` = has the property of visibility/
+    observability: `lu` (light/visibility primitive) in property position = perceivable,
+    accessible to measurement and observation. Contrast with S729 where `no-lu` marks
+    the opposite property. The `{count} nu {noun} ne {property}` pattern: NP-count-subject
+    before copula. No `la-` needed; the count-NP is the topic.'
+- snum: S729
+  gloss: Seven dimensions are compactified — too small to observe.
+  batch: STR-001
+  batch_sub: D
+  status: normative
+  tonesu: yom nu ko-pa-di  ne  no-lu
+  gloss_line: Seven compactified-directions have the property of non-observability.
+  natural: Seven dimensions are compactified — too small to observe.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S729
+  notes: '`yom` = 7 (digit). `ko-pa-di` (first use) = compactified dimension: `ko`
+    (containment/enclosure) + `pa-di` (spatial direction W229) = an enclosed/rolled-
+    up spatial direction = a compactified dimension. The `ko` primitive carries the
+    exact physical meaning: these dimensions are enclosed within Planck-scale space,
+    curled up on themselves. `no-lu` = property of non-visibility. The S728/S729 pair
+    forms a precise numerical partition of the 11 dimensions: mol (4) observable +
+    yom (7) compactified = bol bol (11) total. `yom` (7) + `mol` (4) = `bol bol` (11)
+    by positional arithmetic. First use of both `ko-pa-di` and the `yom`-digit in
+    corpus.'
+- snum: S730
+  gloss: All forces emerge from strings.
+  batch: STR-001
+  batch_sub: E
+  status: normative
+  tonesu: go {ki-fe-mu},  la-o-ra  be
+  gloss_line: On account of strings, all forces arise/emerge.
+  natural: All forces emerge from strings.
+  words_attested:
+  - W228
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S730
+  notes: 'Parallel to S726 (`go {ki-fe-mu}, la-pe-ma ne ki-be`): same causal frame
+    (strings as ground), different result. `o-ra` = `o-` (collective scope prefix)
+    + `ra` (force/energy primitive) = "all forces collectively" = the full force sector
+    (electromagnetism, weak, strong, gravity). `la-o-ra be` = all forces grow/emerge.
+    `be` (growth/increase/emergence) as the predicate = forces arise from the ground
+    of strings; they are not prior independent entities but modal emergents. The S726/S730
+    pair expresses that strings are the ontological source of BOTH particles (S726)
+    and forces (S730). This is the unification claim — particle physics and force
+    theory collapse to one underlying entity. Contrast S731 where the same claim is
+    wrapped in evidential frame marking it as theoretical.'
+- snum: S731
+  gloss: It is theorized that strings unify all forces.
+  batch: STR-001
+  batch_sub: F
+  status: normative
+  tonesu: (go {ki-fe-mu},  la-o-ra  ne  su-ne)
+  gloss_line: (On account of strings, all forces have the property of structural-harmony.)
+  natural: It is theorized that strings unify all forces.
+  words_attested:
+  - W174
+  - W228
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S731
+  notes: 'The evidential frame `()` wraps the whole sentence, marking its content
+    as reported/theorized — not directly asserted or empirically confirmed. This is
+    the correct epistemic status of string theory: a mathematically rich framework
+    not yet empirically confirmed by experiment. `su-ne` (W174) = structural harmony
+    = the state in which all forces are unified into one structure. `la-o-ra ne su-ne`
+    = all forces have structural-harmony = all forces are unified. `go {ki-fe-mu}`
+    = the mechanism is the string. The evidential frame encodes the distinction between
+    a scientific claim (unconfirmed) and a scientific fact (confirmed): this is the
+    former. Compare with PRF-001 S688 use of evidential frame for epistemic hedging.
+    `(go {ki-fe-mu}, la-o-ra ne su-ne)` is the most complete Tonesu formulation of
+    the string theory unification thesis — and the `()` marks it as a proposition
+    that scientists hold, not one directly observed.'

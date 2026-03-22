@@ -296,7 +296,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `pa-ki` · paki | [W087](words/W087.md) | ✅ | adrift, uncontrolled spatial motion |
 | `pa-nu` · panu | [W050](words/W050.md) | ✅ | size, spatial magnitude <br><small>[S065](../../../totonesu/corpus/batches/t-cmp#S065)</small> |
 | `su-fa` · sufa | [W133](words/W133.md) | ✅ | purity of heart, structured affect |
-| `su-ne` · sune | [W174](words/W174.md) | ✅ | harmony, structure-of-connection <br><small>[S591](../../../totonesu/corpus/batches/stw#S591) · [S631](../../../totonesu/corpus/batches/doi#S631) · [S660](../../../totonesu/corpus/batches/ckg#S660) · [S720](../../../totonesu/corpus/batches/egg#S720)</small> |
+| `su-ne` · sune | [W174](words/W174.md) | ✅ | harmony, structure-of-connection <br><small>[S591](../../../totonesu/corpus/batches/stw#S591) · [S631](../../../totonesu/corpus/batches/doi#S631) · [S660](../../../totonesu/corpus/batches/ckg#S660) · [S720](../../../totonesu/corpus/batches/egg#S720) · [S731](../../../totonesu/corpus/batches/str#S731)</small> |
 | `su-ru` · suru | [W085](words/W085.md) | ✅ | integrated whole, unified structure <br><small>[S119](../../../totonesu/corpus/batches/t-ax#S119)</small> |
 | `wi-du` · widu | [W175](words/W175.md) | ✅ | victory, achievement (will-result) <br><small>[S597](../../../totonesu/corpus/batches/stw#S597)</small> |
 | `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) <br><small>[S596](../../../totonesu/corpus/batches/stw#S596) · [S599](../../../totonesu/corpus/batches/dnd#S599) · [S672](../../../totonesu/corpus/batches/sol#S672) · [S683](../../../totonesu/corpus/batches/sol#S683) · [S708](../../../totonesu/corpus/batches/map#S708) · [S719](../../../totonesu/corpus/batches/mrx#S719)</small> |
@@ -409,6 +409,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `ko-ha-mu` · kohamu | [W214](words/W214.md) | ✅ | oven / thermal containment device <br><small>[S659](../../../totonesu/corpus/batches/ckg#S659) · [S663](../../../totonesu/corpus/batches/ckg#S663)</small> |
 | `ma-ne-ki` · maneki | [W215](words/W215.md) | ✅ | mix / combine / blend <br><small>[S660](../../../totonesu/corpus/batches/ckg#S660) · [S661](../../../totonesu/corpus/batches/ckg#S661) · [S662](../../../totonesu/corpus/batches/ckg#S662) · [S720](../../../totonesu/corpus/batches/egg#S720)</small> |
 
+## Foundations / Quantum
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `ki-fe-mu` · kifemu | [W228](words/W228.md) | ✅ | fundamental string; 1D vibrating entity; oscillating boundary object <br><small>[S726](../../../totonesu/corpus/batches/str#S726) · [S730](../../../totonesu/corpus/batches/str#S730) · [S731](../../../totonesu/corpus/batches/str#S731)</small> |
+
 ## Health / Organism
 
 1 compound
@@ -469,6 +477,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `ka-be-ne` · kabene | [W218](words/W218.md) | ✅ | binding / deliberate bond-creation <br><small>[S673](../../../totonesu/corpus/batches/sol#S673) · [S715](../../../totonesu/corpus/batches/mrx#S715)</small> |
 | `wi-ra-li` · wirali | [W217](words/W217.md) | ✅ | spirit / directed-force-agent <br><small>[S672](../../../totonesu/corpus/batches/sol#S672) · [S673](../../../totonesu/corpus/batches/sol#S673) · [S677](../../../totonesu/corpus/batches/sol#S677)</small> |
 
+## Mathematics / Geometry
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `pa-di` · padi | [W229](words/W229.md) | ✅ | dimension; spatial direction; independent axis of extension <br><small>[S213](../../../totonesu/corpus/batches/odl#S213) · [S214](../../../totonesu/corpus/batches/odl#S214) · [S239](../../../totonesu/corpus/batches/num#S239) · [S727](../../../totonesu/corpus/batches/str#S727) · [S728](../../../totonesu/corpus/batches/str#S728)</small> |
+
 ## Meta / Language
 
 2 compounds
@@ -509,6 +525,15 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 |------|----|--------|-------|
 | `wi-fe'de` · wife'de | [W203](words/W203.md) | ✅ | penalty; sanction; rule-imposed decrease <br><small>[S646](../../../totonesu/corpus/batches/aca#S646) · [S647](../../../totonesu/corpus/batches/aca#S647) · [S648](../../../totonesu/corpus/batches/aca#S648) · [S649](../../../totonesu/corpus/batches/aca#S649) · [S650](../../../totonesu/corpus/batches/aca#S650)</small> |
 
+## Physics / Theoretical
+
+2 compounds
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `ki-fe-mu` · kifemu | [W228](words/W228.md) | ✅ | fundamental string; 1D vibrating entity; oscillating boundary object <br><small>[S726](../../../totonesu/corpus/batches/str#S726) · [S730](../../../totonesu/corpus/batches/str#S730) · [S731](../../../totonesu/corpus/batches/str#S731)</small> |
+| `pa-di` · padi | [W229](words/W229.md) | ✅ | dimension; spatial direction; independent axis of extension <br><small>[S213](../../../totonesu/corpus/batches/odl#S213) · [S214](../../../totonesu/corpus/batches/odl#S214) · [S239](../../../totonesu/corpus/batches/num#S239) · [S727](../../../totonesu/corpus/batches/str#S727) · [S728](../../../totonesu/corpus/batches/str#S728)</small> |
+
 ## Political / Social
 
 1 compound
@@ -516,6 +541,15 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `ra-su-li` · rasuli | [W225](words/W225.md) | ✅ | sovereign; commander; ruler who commands organized force <br><small>[S709](../../../totonesu/corpus/batches/map#S709)</small> |
+
+## Science / Formal
+
+2 compounds
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `ki-fe-mu` · kifemu | [W228](words/W228.md) | ✅ | fundamental string; 1D vibrating entity; oscillating boundary object <br><small>[S726](../../../totonesu/corpus/batches/str#S726) · [S730](../../../totonesu/corpus/batches/str#S730) · [S731](../../../totonesu/corpus/batches/str#S731)</small> |
+| `pa-di` · padi | [W229](words/W229.md) | ✅ | dimension; spatial direction; independent axis of extension <br><small>[S213](../../../totonesu/corpus/batches/odl#S213) · [S214](../../../totonesu/corpus/batches/odl#S214) · [S239](../../../totonesu/corpus/batches/num#S239) · [S727](../../../totonesu/corpus/batches/str#S727) · [S728](../../../totonesu/corpus/batches/str#S728)</small> |
 
 ## Signal / Inscription
 

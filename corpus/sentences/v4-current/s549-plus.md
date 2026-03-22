@@ -3198,3 +3198,192 @@ ha-zo-ra-ma  ne  vo
 **Verdict:** irreducibly formal — all forms are below threshold, at-threshold but load-bearing, or locative markers.
 
 *CLQ entries registered from this batch: none.*
+
+---
+
+## STR-001 — String Theory and the 11 Dimensions
+
+**Source:** Theoretical physics — string theory and M-theory.
+**Translation file:** `corpus/translations/Science/string-theory.md`
+
+---
+
+### S726 — STR-001-A
+
+```
+go {ki-fe-mu},  la-pe-ma  ne  ki-be
+```
+
+**Written:** `go {kifemu}, lapema ne kibe`
+
+**Gloss:** On account of strings, particles have the property of being vibration-modes.
+
+**Natural reading:** Particles are vibration modes of strings.
+
+**Notes:** Core claim of string theory. `ki-fe-mu` (W228, first use) = the fundamental
+string: 1D oscillating entity (`ki` motion + `fe` boundary + `mu` artifact). `pe-ma` =
+particle (matter-component, anchor-inventory compositional). `ki-be` (first use) =
+vibration-mode: `ki` (motion) + `be` (structure) = a structured mode of oscillation.
+The `go {premise}, result` frame: the causal/ontological ground is the string; the
+result is that particles are vibration-modes of it. Parallel structure to S730 (`go
+{ki-fe-mu}, la-o-ra be`): same causal agent (string), different result-clause
+(particles vs. forces).
+
+---
+
+### S727 — STR-001-B
+
+```
+la-pa  ne  bol bol nu pa-di
+```
+
+**Written:** `lapa ne bol bol nu padi`
+
+**Gloss:** Space has the property of eleven spatial-directions.
+
+**Natural reading:** Space has eleven dimensions.
+
+**Notes:** `pa-di` (W229, first use) = dimension: `pa` (space) + `di` (direction) =
+spatial direction = an independent axis of extension. `bol bol` = 11 in positional
+digit notation (most-significant first: one-one). `bol bol nu pa-di` = eleven
+measures of spatial-direction = eleven dimensions. The count construction `{digit} nu
+{noun}` from anchor-inventory applies cleanly. `la-pa ne [property]` = space has the
+property. Technically the 11 dimensions of M-theory include both 10 spatial + 1
+temporal; pa-di here covers all coordinate directions inclusively; the temporal
+dimension is strictly ti-di but the pa-di gloss is conventional in physics register.
+See translation file for ti-di note.
+
+---
+
+### S728 — STR-001-C
+
+```
+mol nu pa-di  ne  lu
+```
+
+**Written:** `mol nu padi ne lu`
+
+**Gloss:** Four dimensions have the property of visibility/observability.
+
+**Natural reading:** Four dimensions are observable (the large dimensions of spacetime).
+
+**Notes:** `mol` = 4 (digit). The four observable large dimensions: in M-theory, three
+spatial (pa-di) + one temporal (ti-di) form the familiar 4D spacetime. `pa-di` covers
+all four here (inclusive counting). `ne lu` = has the property of visibility/
+observability: `lu` (light/visibility primitive) in property position = perceivable,
+accessible to measurement and observation. Contrast with S729 where `no-lu` marks the
+opposite property. The `{count} nu {noun} ne {property}` pattern: NP-count-subject
+before copula. No `la-` needed; the count-NP is the topic.
+
+---
+
+### S729 — STR-001-D
+
+```
+yom nu ko-pa-di  ne  no-lu
+```
+
+**Written:** `yom nu kopadi ne nolu`
+
+**Gloss:** Seven compactified-directions have the property of non-observability.
+
+**Natural reading:** Seven dimensions are compactified — too small to observe.
+
+**Notes:** `yom` = 7 (digit). `ko-pa-di` (first use) = compactified dimension:
+`ko` (containment/enclosure) + `pa-di` (spatial direction W229) = an enclosed/rolled-
+up spatial direction = a compactified dimension. The `ko` primitive carries the exact
+physical meaning: these dimensions are enclosed within Planck-scale space, curled up
+on themselves. `no-lu` = property of non-visibility. The S728/S729 pair forms a
+precise numerical partition of the 11 dimensions: mol (4) observable + yom (7)
+compactified = bol bol (11) total. `yom` (7) + `mol` (4) = `bol bol` (11) by
+positional arithmetic. First use of both `ko-pa-di` and the `yom`-digit in corpus.
+
+---
+
+### S730 — STR-001-E
+
+```
+go {ki-fe-mu},  la-o-ra  be
+```
+
+**Written:** `go {kifemu}, laora be`
+
+**Gloss:** On account of strings, all forces arise/emerge.
+
+**Natural reading:** All forces emerge from strings.
+
+**Notes:** Parallel to S726 (`go {ki-fe-mu}, la-pe-ma ne ki-be`): same causal frame
+(strings as ground), different result. `o-ra` = `o-` (collective scope prefix) +
+`ra` (force/energy primitive) = "all forces collectively" = the full force sector
+(electromagnetism, weak, strong, gravity). `la-o-ra be` = all forces grow/emerge.
+`be` (growth/increase/emergence) as the predicate = forces arise from the ground of
+strings; they are not prior independent entities but modal emergents. The S726/S730
+pair expresses that strings are the ontological source of BOTH particles (S726) and
+forces (S730). This is the unification claim — particle physics and force theory
+collapse to one underlying entity. Contrast S731 where the same claim is wrapped in
+evidential frame marking it as theoretical.
+
+---
+
+### S731 — STR-001-F
+
+```
+(go {ki-fe-mu},  la-o-ra  ne  su-ne)
+```
+
+**Written:** `(go {kifemu}, laora ne sune)`
+
+**Gloss:** (On account of strings, all forces have the property of structural-harmony.)
+
+**Natural reading:** It is theorized that strings unify all forces.
+
+**Notes:** The evidential frame `()` wraps the whole sentence, marking its content as
+reported/theorized — not directly asserted or empirically confirmed. This is the
+correct epistemic status of string theory: a mathematically rich framework not yet
+empirically confirmed by experiment. `su-ne` (W174) = structural harmony = the state
+in which all forces are unified into one structure. `la-o-ra ne su-ne` = all forces
+have structural-harmony = all forces are unified. `go {ki-fe-mu}` = the mechanism is
+the string. The evidential frame encodes the distinction between a scientific claim
+(unconfirmed) and a scientific fact (confirmed): this is the former. Compare with
+PRF-001 S688 use of evidential frame for epistemic hedging. `(go {ki-fe-mu}, la-o-ra
+ne su-ne)` is the most complete Tonesu formulation of the string theory unification
+thesis — and the `()` marks it as a proposition that scientists hold, not one
+directly observed.
+
+---
+
+### Batch summary — STR-001
+
+**Source:** String theory / M-theory (11 dimensions)
+
+| Entry | Tonesu | Written | Claim | Key feature |
+|-------|--------|---------|-------|-------------|
+| S726 (STR-001-A) | `go {ki-fe-mu},  la-pe-ma  ne  ki-be` | `go {kifemu}, lapema ne kibe` | Particles are vibration modes | W228 `ki-fe-mu` first use; `ki-be` (vibration mode) first use |
+| S727 (STR-001-B) | `la-pa  ne  bol bol nu pa-di` | `lapa ne bol bol nu padi` | Space has 11 dimensions | W229 `pa-di` first use; `bol bol` = 11 positional digit |
+| S728 (STR-001-C) | `mol nu pa-di  ne  lu` | `mol nu padi ne lu` | 4 dimensions observable | `mol` = 4; `ne lu` observability property |
+| S729 (STR-001-D) | `yom nu ko-pa-di  ne  no-lu` | `yom nu kopadi ne nolu` | 7 dimensions compactified | `ko-pa-di` first use; `yom` = 7; `no-lu` non-observability |
+| S730 (STR-001-E) | `go {ki-fe-mu},  la-o-ra  be` | `go {kifemu}, laora be` | All forces emerge from strings | `o-ra` (collective-force); `be` as emergence predicate |
+| S731 (STR-001-F) | `(go {ki-fe-mu},  la-o-ra  ne  su-ne)` | `(go {kifemu}, laora ne sune)` | Unification claim (theoretical) | Evidential frame `()` marks theoretical status |
+
+**New vocabulary:** W228 `ki-fe-mu` (fundamental string: 1D oscillating entity); W229 `pa-di` (dimension: spatial direction).
+**Compositional first uses:** `ki-be` (vibration-mode: motion-structure); `ko-pa-di` (compactified dimension: enclosed-spatial-direction); `o-ra` (all forces: collective-force); `bol bol nu pa-di` (eleven dimensions: positional digits + count construction).
+**Key structural findings:** Parallel `go {ki-fe-mu}, ...` causal frame applied to both S726 (particles) and S730 (forces) — strings as unified ontological source. Digit arithmetic: `mol` (4) + `yom` (7) = `bol bol` (11), the partition of observable + compactified dimensions. Evidential frame `()` in S731 marks unconfirmed theoretical status — distinct from S730 which asserts the same claim without hedge.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `ki-fe-mu` (W228) | none | — | 3-root compound — below 4-morpheme threshold |
+| `pa-di` (W229) | none | — | 2-root — below threshold |
+| `ki-be` | none | — | 2-root — below threshold |
+| `ko-pa-di` | none | — | 3-root — below threshold |
+| `o-ra` | none | — | Scope-prefix + primitive — below threshold |
+| `pe-ma` | none | — | 2-root — below threshold |
+| `su-ne` (W174) | none | — | 2-root — below threshold; semantically load-bearing (unification predicate) |
+| `bol bol nu pa-di` | none | — | Count construction — positional digits are minimal forms |
+
+**Verdict:** irreducibly formal — all forms are below threshold or structural minimums.
+
+*CLQ entries registered from this batch: none.*

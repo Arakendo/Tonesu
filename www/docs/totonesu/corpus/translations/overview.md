@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-33 translation analyses.
+34 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -64,6 +64,7 @@ gap analysis, and key findings.
 ## Science
 
 - [newton-first-law](../science/newton-first-law/)
+- [string-theory](../science/string-theory/)
 
 ---
 

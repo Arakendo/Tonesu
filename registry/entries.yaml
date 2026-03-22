@@ -6522,3 +6522,91 @@ entries:
   - Kitchen / Equipment
   - Heat / Thermal
   - Domestic / Everyday
+- wnum: W228
+  status: active
+  form: ki-fe-mu
+  written: kifemu
+  gloss: fundamental string; 1D vibrating entity; oscillating boundary object
+  lead_root: ki
+  type: compound
+  class: entity (theoretical construct)
+  register: scientific / formal
+  domain: physics / theoretical / string theory
+  definition: 'The fundamental theoretical object of string theory: a 1D entity (boundary/limit
+    in one spatial direction) that oscillates (is in vibrational motion). All particles
+    and forces are hypothesized to be different vibration modes (ki-be) of this entity.
+    Distinct from a macroscopic string or filament — ki-fe-mu is a quantum-scale entity
+    at or near the Planck length, not directly observable. The compound encodes both
+    its geometric character (fe: 1D boundary) and its defining physical behavior (ki:
+    oscillation/motion).
+
+    '
+  composition: 'ki (motion/oscillation) + fe (boundary/limit) + mu (artifact/entity).
+    Head-final: mu (artifact) is head; ki modifies [fe-mu]. fe-mu = the boundary-artifact
+    = a 1D delimited entity. ki-fe-mu = the 1D entity in oscillatory motion = vibrating
+    string. The right-branching parse captures the ontology: a string is a boundary-
+    artifact (fe-mu) in motion (ki).
+
+    '
+  notes: 'String theory posits that ki-fe-mu replaces the point-particle (pe-ma) as
+    the fundamental constituent of nature. Different vibrational modes (ki-be) of
+    the same ki-fe-mu produce different particles (leptons, quarks) and force carriers
+    (photon, graviton). In M-theory (11-dimensional string theory), ki-fe-mu extends
+    to higher-dimensional objects (branes), but ki-fe-mu names the 1D string specifically.
+    First attested STR-001 (S726).
+
+    '
+  related: 'pe-ma (particle: matter-component, anchor-inventory), ki-be (vibration-mode:
+    motion-structure, compositional first use STR-001), pa-di (W229: dimension), su-ne
+    (W174: structural harmony / unification)
+
+    '
+  first_use: 'STR-001-A (S726): go {ki-fe-mu},  la-pe-ma  ne  ki-be'
+  groups:
+  - Physics / Theoretical
+  - Foundations / Quantum
+  - Science / Formal
+- wnum: W229
+  status: active
+  form: pa-di
+  written: padi
+  gloss: dimension; spatial direction; independent axis of extension
+  lead_root: pa
+  type: compound
+  class: property (geometric)
+  register: scientific / formal
+  domain: physics / mathematics / geometry
+  definition: 'An independent axis or direction of spatial extension. In 3-dimensional
+    familiar space there are three pa-di (left-right, forward-back, up-down). In M-theory
+    there are eleven. A pa-di is the minimal unit of spatial independence: one degree
+    of freedom in position. The compound encodes this directly: pa (space/place) +
+    di (direction) = a direction through space. Counts with nu: bol bol nu pa-di =
+    eleven dimensions. Compactified dimensions: ko-pa-di (enclosed-spatial-direction),
+    where ko (containment) marks the dimension as rolled up to Planck scale.
+
+    '
+  composition: 'pa (space/place) + di (direction). Head-final, 2-root compound: di
+    (direction) is head; pa (spatial) specifies that this is a spatial direction as
+    opposed to a purely conceptual or mathematical direction. pa-di = the direction
+    within space = spatial dimension.
+
+    '
+  notes: 'pa-di covers both spatial and temporal dimensions when used in physics discourse,
+    where "dimension" encompasses all coordinate degrees of freedom including time.
+    When precision matters, the temporal dimension is ti-di (time-direction) and spatial
+    dimensions are pa-di strictly. In the 11-dimension M-theory context, 4 large dimensions
+    (3 pa-di + 1 ti-di) are observable, and 7 ko-pa-di (compactified spatial directions)
+    are not. STR-001 uses pa-di for all 11 dimensions inclusively, with a note marking
+    the ti-di distinction. First attested STR-001 (S727).
+
+    '
+  related: 'pa (space, primitive), di (direction, primitive), ko-pa-di (compactified
+    dimension: containment-spatial-direction, compositional), ki-fe-mu (W228: fundamental
+    string), bol bol nu pa-di (eleven dimensions, count construction)
+
+    '
+  first_use: 'STR-001-B (S727): la-pa  ne  bol bol nu pa-di'
+  groups:
+  - Physics / Theoretical
+  - Mathematics / Geometry
+  - Science / Formal

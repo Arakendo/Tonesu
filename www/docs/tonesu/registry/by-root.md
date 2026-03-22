@@ -147,11 +147,12 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `ki` — motion
 
-4 compounds
+5 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `ki'ma` · ki'ma | [W114](words/W114.md) | ⏳ | liquid (material state) |
+| `ki-fe-mu` · kifemu | [W228](words/W228.md) | ✅ | fundamental string; 1D vibrating entity; oscillating boundary object <br><small>[S726](../../../totonesu/corpus/batches/str#S726) · [S730](../../../totonesu/corpus/batches/str#S730) · [S731](../../../totonesu/corpus/batches/str#S731)</small> |
 | `ki-ne` · kine | [W152](words/W152.md) | ✅ | sandal, motion-bond (footwear) <br><small>[S044](../../../totonesu/corpus/batches/t-xx#S044) · [S406](../../../totonesu/corpus/batches/exo#S406)</small> |
 | `ki-pa` · kipa | [W049](words/W049.md) | ✅ | corridor, passage <br><small>[S064](../../../totonesu/corpus/batches/t-cmp#S064) · [S243](../../../totonesu/corpus/batches/num#S243)</small> |
 | `ki-pa-mu` · kipamu | [W086](words/W086.md) | ✅ | vehicle, moving enclosed place <br><small>[S123](../../../totonesu/corpus/batches/t-ax#S123) · [S124](../../../totonesu/corpus/batches/t-ax#S124) · [S125](../../../totonesu/corpus/batches/t-ax#S125) · [S126](../../../totonesu/corpus/batches/cf#S126) · [S129](../../../totonesu/corpus/batches/cf#S129) · [S130](../../../totonesu/corpus/batches/cf#S130) · [S157](../../../totonesu/corpus/batches/cf#S157) · [S472](../../../totonesu/corpus/batches/emd#S472) · [S515](../../../totonesu/corpus/batches/emd#S515) · [S522](../../../totonesu/corpus/batches/emd#S522)</small> |
@@ -242,11 +243,12 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `pa` — place / space
 
-15 compounds
+16 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `pa-be'ka-li-su` · pabe'kalisu | [W125](words/W125.md) | ✅ | kingdom of heaven, upper-space governance |
+| `pa-di` · padi | [W229](words/W229.md) | ✅ | dimension; spatial direction; independent axis of extension <br><small>[S213](../../../totonesu/corpus/batches/odl#S213) · [S214](../../../totonesu/corpus/batches/odl#S214) · [S239](../../../totonesu/corpus/batches/num#S239) · [S727](../../../totonesu/corpus/batches/str#S727) · [S728](../../../totonesu/corpus/batches/str#S728)</small> |
 | `pa-fe` · pafe | [W138](words/W138.md) | ⏳ | vault, firmament, sky-dome <br><small>[S258](../../../totonesu/corpus/batches/knm#S258) · [S362](../../../totonesu/corpus/batches/god-res#S362) · [S620](../../../totonesu/corpus/batches/dnd#S620) · [S657](../../../totonesu/corpus/batches/dnd#S657)</small> |
 | `pa-ki` · paki | [W087](words/W087.md) | ✅ | adrift, uncontrolled spatial motion |
 | `pa-ki` · paki | [W156](words/W156.md) | ⚠️ | liberation / liberator, place-motion (⚠️ form-shares W087 — pending resolution) <br><small>[S123](../../../totonesu/corpus/batches/t-ax#S123) · [S124](../../../totonesu/corpus/batches/t-ax#S124) · [S125](../../../totonesu/corpus/batches/t-ax#S125) · [S129](../../../totonesu/corpus/batches/cf#S129) · [S130](../../../totonesu/corpus/batches/cf#S130) · [S157](../../../totonesu/corpus/batches/cf#S157) · [S377](../../../totonesu/corpus/batches/fal#S377)</small> |
@@ -321,7 +323,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `su-ha-mu` · suhamu | [W227](words/W227.md) | ✅ | cooking pan; stovetop cooking surface; open heat-vessel <br><small>[S721](../../../totonesu/corpus/batches/egg#S721)</small> |
 | `su-ka-li` · sukali | [W200](words/W200.md) | ✅ | service provider; platform operator <br><small>[S639](../../../totonesu/corpus/batches/cda#S639) · [S641](../../../totonesu/corpus/batches/cda#S641) · [S642](../../../totonesu/corpus/batches/cda#S642) · [S644](../../../totonesu/corpus/batches/cda#S644)</small> |
 | `su-mu-li` · sumuli | [W002](words/W002.md) | ⏳ | engineer, architect <br><small>[S025](../../../totonesu/corpus/batches/_foundations#S025) · [S164](../../../totonesu/corpus/batches/p-gp#S164) · [S171](../../../totonesu/corpus/batches/p-gp#S171) · [S559](../../../totonesu/corpus/batches/pav#S559)</small> |
-| `su-ne` · sune | [W174](words/W174.md) | ✅ | harmony, structure-of-connection <br><small>[S591](../../../totonesu/corpus/batches/stw#S591) · [S631](../../../totonesu/corpus/batches/doi#S631) · [S660](../../../totonesu/corpus/batches/ckg#S660) · [S720](../../../totonesu/corpus/batches/egg#S720)</small> |
+| `su-ne` · sune | [W174](words/W174.md) | ✅ | harmony, structure-of-connection <br><small>[S591](../../../totonesu/corpus/batches/stw#S591) · [S631](../../../totonesu/corpus/batches/doi#S631) · [S660](../../../totonesu/corpus/batches/ckg#S660) · [S720](../../../totonesu/corpus/batches/egg#S720) · [S731](../../../totonesu/corpus/batches/str#S731)</small> |
 | `su-ru` · suru | [W085](words/W085.md) | ✅ | integrated whole, unified structure <br><small>[S119](../../../totonesu/corpus/batches/t-ax#S119)</small> |
 | `su-ti` · suti | [W101](words/W101.md) | ⏳ | current state, instantaneous configuration <br><small>[S665](../../../totonesu/corpus/batches/sut#S665) · [S679](../../../totonesu/corpus/batches/sol#S679) · [S687](../../../totonesu/corpus/batches/prf#S687) · [S688](../../../totonesu/corpus/batches/prf#S688) · [S689](../../../totonesu/corpus/batches/prf#S689) · [S724](../../../totonesu/corpus/batches/egg#S724)</small> |
 | `su-to` · suto | [W199](words/W199.md) | ✅ | self-evident proposition; truth whose ground is its own structure <br><small>[S630](../../../totonesu/corpus/batches/doi#S630) · [S638](../../../totonesu/corpus/batches/doi#S638) · [S650](../../../totonesu/corpus/batches/aca#S650)</small> |
