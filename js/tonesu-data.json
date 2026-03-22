@@ -3123,6 +3123,30 @@
         "pa",
         "di"
       ]
+    },
+    {
+      "wnum": "W230",
+      "form": "wi-no",
+      "written": "wino",
+      "gloss": "unwillingness; not-wanting; reluctance",
+      "status": "active",
+      "domain": "Agency / Affect / Ethics",
+      "roots": [
+        "wi",
+        "no"
+      ]
+    },
+    {
+      "wnum": "W231",
+      "form": "de-vo",
+      "written": "devo",
+      "gloss": "shame; loss of worth; dishonour",
+      "status": "active",
+      "domain": "Ethics / Affect / Social",
+      "roots": [
+        "de",
+        "vo"
+      ]
     }
   ]
 }
