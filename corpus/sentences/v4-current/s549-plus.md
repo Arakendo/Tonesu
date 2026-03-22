@@ -2944,3 +2944,133 @@ mi  ne  ra-no-fe-vo  ;  wi {la-mi  ra-be},  la-mi  ka-si-de  ;  go {fa-no},  la-
 **New vocabulary:** W225 `ra-su-li` (sovereign/ruler/prince).
 **Compositional first uses:** `ka-no-su` (deliberate structureless action); `mi ne ra-no-fe-vo` (self-grandiosity predication); `ka-si-de lo [patient]` (transitive deception with patient).
 **Key structural findings:** `nu-be` comparison on abstract political quality; `la-X si [Q] lo [Z]` as appearance predication (`si` = outward signal = apparent face); `wi {}` purpose-frame with self-directed goal; `go {}` with impersonal state premise; triple `;` chain mixing clause types.
+
+---
+
+## MRX-001 — Marx (*Theses on Feuerbach*, *Communist Manifesto*, *A Contribution to the Critique of Hegel's Philosophy of Right*, *Economic and Philosophic Manuscripts of 1844*, *Critique of the Gotha Programme*, *Capital* Vol I)
+
+*Batch purpose (MRX-001): Six core Marxist aphorisms spanning 1844–1875. Key tests: first corpus imperative S715 (workers of the world, unite!); first `he {collective NP}` vocative with non-named addressee; `ru-fe … / ke,` ideological pivot structure; new entry W226 `fa-ra-su` (religion: structured reverence practice); compositional forms `fa-de-mu` (affect-fading device / opium analog), `o-be-go-li` (collective of producer-agents / workers), `du-be-go-li` (alienated product), `de-zo'ka-be` (dead labor), `ka-be-zo` (living labor), `vo-pa` (worth-presence / needs), `o-zo-li` (the people collectively); cross-genre reuse of `ko-de` (devour: first use EXO-002 Aaron's serpent, second use S719 capital vampire). Full analysis in `corpus/translations/Literature/marx.md`.*
+
+---
+
+### S714 — MRX-001-A
+
+```
+ru-fe, la-to-li  to-su  lo-pa-zo-li  /  ke, la-to-li  ka  lo-pa-zo-li
+```
+
+**Written:** `rufe, latoli tosu lopazoli / ke, latoli ka lopazoli`
+
+**Natural reading:** Only have scholars systematized knowledge of the world; [pivot]: scholars act on the world.
+
+**Notes:** Marx, *Theses on Feuerbach* §XI (1845): "Philosophers have only interpreted the world, in various ways; the point is to change it." `ru-fe,` = exclusive scope marker (only/solely), opening the claim being denied. `la-to-li` = agent-marked scholar/philosopher (W028: `to-li` = knowledge-person). `to-su lo-pa-zo-li` = organized-knowledge of the world — uses the `to-su lo-[NP]` relational knowledge pattern established AOW-001 (S705–S707): `to-su` (W030: organized knowledge, theory, model) with `lo-pa-zo-li` (patient-marked world; `pa-zo-li` W135: the world-as-living-structure). `/` = parallel partition, structural midpoint of the bi-clausal antithesis. `ke,` = pivot particle (opening the advancing claim after implied denial of `ru-fe` premise). `la-to-li  ka  lo-pa-zo-li` = scholars act-on the world: `ka` (intentional action, exertion of will) as the predicate — deliberate agency applied to the world. The pivot structure `ru-fe … / ke, …` is new: exclusive-scope framing of the denied premise, biclausally partitioned from the pivot claim. This encodes Marx's logic precisely: the `ru-fe` side characterizes what philosophers have done; `ke,` performs the denial and pivots to what must be done instead; `ka` vs `to-su` = praxis vs contemplation. First combined use of `ru-fe` + `/` + `ke,` in a single sentence.
+
+---
+
+### S715 — MRX-001-B
+
+```
+he o-be-go-li lo pa-zo-li,  ka-be-ne!
+```
+
+**Written:** `he obegoli lo pazoli, kabene!`
+
+**Natural reading:** [You,] collective-producers of the world — bind yourselves together! → Workers of the world, unite!
+
+**Notes:** Marx & Engels, *The Communist Manifesto* (1848), closing line: "Workers of the world, unite!" **FIRST CORPUS IMPERATIVE.** Grammar rule: omit `la-tu` (the generic-agentless agent); all other arguments remain; context establishes the addressee (here: the addressed collective NP after `he`). `he` = direct-address speech act marker (G029: `he {NP}` vocative). First use of `he` with a non-named collective NP (the grammar defines `he` as directing a call at "a person or named entity" — a collective of persons qualifies). `o-be-go-li` = `o-` (collective scope prefix) + `be-go-li` (producer-agent: `be` growth/production + `go` cause/origin + `li` social agent = the one who causes productive growth = the producer/worker). Compositional first use of `o-be-go-li`. `lo pa-zo-li` = patient-marked world (the domain the workers collectively inhabit and from which they are addressed). `,` separates the `he`-address frame from the imperative predicate. `ka-be-ne!` = W218 (deliberate bond-creation, binding) as an imperative: [you/the addressed] create deliberate bonds = unite! The `!` adds force to the imperative. The vocative `he` + collective NP + `,` + imperative `ka-be-ne!` is the first full corpus instance of the imperative construction.
+
+---
+
+### S716 — MRX-001-C
+
+```
+fa-ra-su  ne  fa-de-mu  lo  o-zo-li
+```
+
+**Written:** `farasu ne fademu lo ozoli`
+
+**Natural reading:** Religion is the affect-fading device for the collective-of-persons.
+
+**Notes:** Marx, *A Contribution to the Critique of Hegel's Philosophy of Right* (1844): "Religion is the opium of the people." `fa-ra-su` = W226 (new entry, first attestation): religion; structured reverence practice; institutionalized awe-discipline. Composition: `fa-ra` (W154: fear/awe, forceful affect) + `su` (structure/system). Head-final: `su` is head; `fa-ra` specifies what the structure organizes — the awe/reverence affect. `ne` = property copula — attributes the property to religion. `fa-de-mu` = compositional first use: `fa-de` (W094: affect fading, the process by which affective substrate diminishes) + `mu` (artifact/device) = the thing that makes affect fade = an affect-fading device; the Marxist functional definition of opium: not the plant but its social function as anesthetic. `lo o-zo-li` = patient-marked collective-of-persons: `o-` (collective) + `zo-li` (W148: human person) = the people as a collective entity. Compositional first use of `o-zo-li`. The Tonesu rendering captures the Marxist structural argument without importing the drug metaphor: religion (`fa-ra-su`) is the affect-fading device (`fa-de-mu`) for the people — the institution that dampens the affective substrate so that the conditions of suffering are not felt as urgent.
+
+---
+
+### S717 — MRX-001-D
+
+```
+du-be-go-li  ne  de-li  lo  be-go-li
+```
+
+**Written:** `dubegoli ne deli lo begoli`
+
+**Natural reading:** The product-of-the-producer is an adversary to the producer.
+
+**Notes:** Marx, *Economic and Philosophic Manuscripts of 1844* (alienated labor): "The worker becomes poorer the more wealth he produces … The worker puts his life into the object; but now his life no longer belongs to him but to the object." `du-be-go-li` = compositional first use: `du` (result/effect) + `be-go-li` (producer-agent: `be` production + `go` origin + `li` person-agent = the producer/worker). Head-final right-branching: `du` modifies `[be-go-li]` = the result/product of the producer-agent = the alienated product of labor — the object produced by the worker. `ne` = property copula. `de-li` = W223 (adversary): has the adversarial property. `lo be-go-li` = patient-marked producer: the worker against whom the product has turned adversarial. The sentence captures the core Marxist concept of alienation: the product (`du-be-go-li`) confronts the one who produced it (`be-go-li`) as an alien hostile force (`de-li`). Tonesu formalizes this with `du-` (result/effect prefix) turning the producer's own causal output against the producer in the patient slot — the grammatical structure mirrors the alienation dynamic.
+
+---
+
+### S718 — MRX-001-E
+
+```
+la-a-zo-li  ka  go-si  ra  ;  lu-a-zo-li  be  go-si  vo-pa
+```
+
+**Written:** `laazoli ka gosi ra ; luazoli be gosi vopa`
+
+**Natural reading:** Each person acts according to their capacity; each person [as beneficiary] grows according to their worth-presence / needs.
+
+**Notes:** Marx, *Critique of the Gotha Programme* (1875): "From each according to his abilities, to each according to his needs!" `la-a-zo-li` = agent-marked `a-zo-li`: `a-` (universal/abstract scope prefix, word-initial) + `zo-li` (W148: human person) = every person without restriction, each person as universal instance. Compositional first use of `a-zo-li`. `ka` = intentional action, exertion of will — acts/contributes. `go-si ra` = by means of force/capacity: `go-si` (instrumental "by means of", established AOW-001) + `ra` (force/energy/capacity, primitive) = according to / in proportion to their capacity. `;` = sequential connector (not `go` — the Humean constant conjunction: A, and then B; the mechanism of solidarity is not asserted, only the pairing). `lu-a-zo-li` = beneficiary-marked each-person (`lu-` prefix = result/beneficiary slot): what grows accrues to every person as recipient. `be` = grows/increases — the benefit increases toward each person as beneficiary. `go-si vo-pa` = by means of worth-presence: `go-si` + `vo-pa` (compositional first use: `vo` quality/worth + `pa` presence = worth-as-present = what has quality that needs to be present for wellbeing = needs/requirements). The `;` pairing makes the two distribution principles structurally symmetrical and directionality distinct: `la-` (from each) vs `lu-` (to each), `ra` (capacity/ability) vs `vo-pa` (needs/requirements). Gotha's principle encoded without any new vocabulary beyond `vo-pa`.
+
+---
+
+### S719 — MRX-001-F
+
+```
+de-zo'ka-be  ne  wi-ra  ;  ru-fe,  be  go-si  ko-de  lo  ka-be-zo
+```
+
+**Written:** `dezo'kabe ne wira ; rufe, be gosi kode lo kabezo`
+
+**Natural reading:** Dead labor is directed power; only: [it] grows by devouring living labor.
+
+**Notes:** Marx, *Capital* Vol I (1867): "Capital is dead labour, that, vampire-like, only lives by sucking living labour, and lives the more, the more labour it sucks." `de-zo'ka-be` = compositional first use: `de-zo` (W178: death, dying, organism-decrease) + `'` (prosodic juncture: pre-bound subcompound) + `ka-be` (productive action: `ka` intentional action + `be` growth = productive-creating-action). Head-final: `de-zo` modifies `[ka-be]` = death-qualified productive-action = the productive action that has died = dead labor. The `'` juncture makes `de-zo` a pre-bound modifier on `ka-be`. `ne wi-ra` = is directed power (W177: will-force, authority, the capacity to direct and command): capital as the social form accumulated dead labor takes — it becomes `wi-ra`, the power that directs living labor. `ru-fe,` = exclusive scope: only by this single mechanism. `be` = grows/increases (agent dropped — capital is the implied subject; argument-drop confirmed in grammar as valid when contextually recoverable). `go-si ko-de lo ka-be-zo` = by devouring living labor: `go-si` (instrumental) + `ko-de` (devour/swallow/engulf-and-consume, `ko` containment + `de` decrease — established compositional, EXO-002 S700) + `lo ka-be-zo` (patient-marked living-labor: `ka-be` productive-action + `zo` W148-class living thing = the living-being's productive action = living labor). Compositional first uses: `de-zo'ka-be` (dead labor), `ka-be-zo` (living labor), `ka-be` (productive action). Cross-genre reuse of `ko-de`: first attested EXO-002 S700 ("Aaron's serpent devoured the others"); second use here for capital's extraction from labor. The vampire metaphor in Marx maps onto `ko-de` (engulf-consume) + `wi-ra` (directed power that commands) — the biological devouring and the political commanding are both present in the Tonesu structure.
+
+---
+
+## MRX-001 Batch Summary
+
+| Entry | Tonesu | Written form | Key feature |
+|-------|--------|-------------|-------------|
+| S714 (MRX-001-A) | `ru-fe, la-to-li  to-su  lo-pa-zo-li  /  ke, la-to-li  ka  lo-pa-zo-li` | `rufe, latoli tosu lopazoli / ke, latoli ka lopazoli` | First `ru-fe … / ke,` ideological pivot; `to-su lo-NP` vs `ka lo-NP` = contemplation vs praxis |
+| S715 (MRX-001-B) | `he o-be-go-li lo pa-zo-li,  ka-be-ne!` | `he obegoli lo pazoli, kabene!` | **FIRST CORPUS IMPERATIVE**; first `he {collective NP}` vocative; `o-be-go-li` first use |
+| S716 (MRX-001-C) | `fa-ra-su  ne  fa-de-mu  lo  o-zo-li` | `farasu ne fademu lo ozoli` | W226 `fa-ra-su` first attestation; `fa-de-mu` compositional; `o-zo-li` collective-person first use |
+| S717 (MRX-001-D) | `du-be-go-li  ne  de-li  lo  be-go-li` | `dubegoli ne deli lo begoli` | Alienated labor: `du-` result prefix inverts producer/product; `du-be-go-li` compositional first use |
+| S718 (MRX-001-E) | `la-a-zo-li  ka  go-si  ra  ;  lu-a-zo-li  be  go-si  vo-pa` | `laazoli ka gosi ra ; luazoli be gosi vopa` | Gotha distribution principle; `a-zo-li` universal-scoped person; `vo-pa` (needs) compositional first use; `la-` vs `lu-` directionality |
+| S719 (MRX-001-F) | `de-zo'ka-be  ne  wi-ra  ;  ru-fe,  be  go-si  ko-de  lo  ka-be-zo` | `dezo'kabe ne wira ; rufe, be gosi kode lo kabezo` | Capital vampire; `de-zo'ka-be` dead labor + `ka-be-zo` living labor compositional first uses; `ko-de` cross-genre reuse (EXO-002→MRX-001) |
+
+**New vocabulary:** W226 `fa-ra-su` (religion: structured reverence practice).
+**Compositional first uses:** `fa-de-mu` (affect-fading device / opium analog); `o-zo-li` (collective-of-persons / the people); `o-be-go-li` (collective of producer-agents / workers); `du-be-go-li` (product/result of the producer = alienated labor); `a-zo-li` (universal-scoped person = each person); `vo-pa` (worth-presence = needs/requirements); `ka-be` (productive action); `de-zo'ka-be` (dead labor: death-qualified productive action); `ka-be-zo` (living labor: living-thing's productive action).
+**Key structural findings:** First corpus imperative (S715): omit `la-tu`, context supplies addressee via `he {NP}` vocative. First `he {collective NP}` (non-named mass addressee). First `ru-fe … / ke,` biclausally-partitioned pivot (S714). Cross-genre `ko-de` reuse: EXO-002 (serpent devouring) → MRX-001 (capital devouring labor) — same compositional form in two registers. `la-` vs `lu-` directionality encodes contribution/reception asymmetry in Gotha principle (S718). Argument-drop (agent omitted, contextually recoverable) attested in `be go-si ko-de` (S719).
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `fa-ra-su` | none | — | 3-root compound — below 4-morpheme contraction threshold |
+| `fa-de-mu` | none | — | 3-root compound — below 4-morpheme contraction threshold |
+| `o-zo-li` | none | — | 3-morpheme form — below threshold |
+| `o-be-go-li` | none | — | 4-root — at threshold but semantically load-bearing collective marker |
+| `du-be-go-li` | none | — | 4-root — at threshold; `du-` result prefix is semantically load-bearing |
+| `a-zo-li` | none | — | 3-morpheme form — below threshold |
+| `vo-pa` | none | — | 2-root — below 3-morpheme contraction threshold |
+| `ka-be` | none | — | 2-root — below threshold |
+| `de-zo'ka-be` | none | — | 4-root with juncture — at threshold; juncture structure load-bearing |
+| `ka-be-zo` | none | — | 3-root — below threshold |
+| `ko-de` | none | — | 2-root — below threshold |
+| `go-si` | none | — | 2-root instrumental — below threshold; semantically load-bearing |
+| `ru-fe` | none | — | 2-root scope marker — below threshold; semantically load-bearing |
+| `ka-be-ne` | none | — | 3-root W218 — below 4-morpheme threshold |
+
+**Verdict:** irreducibly formal — all forms are below threshold, at-threshold but load-bearing, or scope markers.
+
+*CLQ entries registered from this batch: none.*

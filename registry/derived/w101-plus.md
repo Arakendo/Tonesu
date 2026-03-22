@@ -2265,3 +2265,20 @@ Related:       ra (force), su (structure), li (agent), wi-ra (W177: directed pow
 ```
 
 ---
+
+**W226**
+```
+Form:          fa-ra-su
+Type:          compound
+Class:         process / institution
+Definition:    religion; a structured, institutionalized practice of reverence and awe; any systematic discipline organized around the affect of fear/awe (fa-ra) directed at transcendent or sacred objects. Head-final: su (structure/system) is head; fa-ra (W154: fear/awe, forceful affect) specifies the type of structured practice. Covers all forms of institutionalized reverence. Distinct from wi-ra-su (W179: magic/systematic force practice) which organizes will-force directed at the world; fa-ra-su organizes the awe-affect into institutional form.
+Composition:   fa-ra (W154: fear/awe/forceful affect) + su (structure/system). Head-final: the structured system of [awe] = an awe-structured institution.
+Register:      standard
+Domain:        social / religious / philosophical
+Status:        ✅ active
+First use:     MRX-001-C (S716): fa-ra-su  ne  fa-de-mu  lo  o-zo-li
+Notes:         First attested in MRX-001 (S716) as the Tonesu rendering of Marx's "religion" in the "opium of the people" claim. The Marxist reading foregrounds fa-ra-su as an institutional structure (su) built on the affective substrate of overwhelm/awe (fa-ra) — the organized channeling of that substrate into social compliance. Compare wi-ra-su (W179: magic — organizes will-force for world-manipulation) and wi-ra (W177: directed power — organizes force for command). fa-ra-su organizes the affect-of-overwhelm into social institutions.
+Related:       fa-ra (W154), su (structure), wi-ra-su (W179), fa-de (W094), fa-de-mu (compositional)
+```
+
+---

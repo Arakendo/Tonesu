@@ -965,3 +965,13 @@ batches:
   range: S708–S713
   count: 6
   purpose: Key aphorisms from Niccolò Machiavelli's
+- code: MRX-001
+  title: Marx (*Theses on Feuerbach*, *Communist Manifesto*, *A Contribution to the Critique of Hegel's Philosophy of Right*, *Economic and Philosophic Manuscripts of 1844*, *Critique of the Gotha Programme*,
+    *Capital* Vol I)
+  theme: Foundations
+  range: S714–S719
+  count: 6
+  purpose: 'Six core Marxist aphorisms spanning 1844–1875. Key tests: first corpus imperative S715 (workers of the world, unite!); first `he {collective NP}` vocative with non-named addressee; `ru-fe …
+    / ke,` ideological pivot structure; new entry W226 `fa-ra-su` (religion: structured reverence practice); compositional forms `fa-de-mu` (affect-fading device / opium analog), `o-be-go-li` (collective
+    of producer-agents / workers), `du-be-go-li` (alienated product), `de-zo''ka-be` (dead labor), `ka-be-zo` (living labor), `vo-pa` (worth-presence / needs), `o-zo-li` (the people collectively); cross-genre
+    reuse of `ko-de` (devour: first use EXO-002 Aaron''s serpent, second use S719 capital vampire). Full analysis in `corpus/translations/Literature/marx.md`.'

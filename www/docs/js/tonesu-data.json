@@ -3072,6 +3072,19 @@
         "su",
         "li"
       ]
+    },
+    {
+      "wnum": "W226",
+      "form": "fa-ra-su",
+      "written": "farasu",
+      "gloss": "religion; structured reverence practice; institutionalized awe-discipline",
+      "status": "active",
+      "domain": "social / religious / philosophical",
+      "roots": [
+        "fa",
+        "ra",
+        "su"
+      ]
     }
   ]
 }

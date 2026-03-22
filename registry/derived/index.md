@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 125 |
+| [w101-plus.md](w101-plus.md) | W101+ | 126 |
 
-**Total: 213 W-series entries** — active: 170 · proposed: 2 · pending: 39 · cold: 0 · retired: 2
+**Total: 214 W-series entries** — active: 171 · proposed: 2 · pending: 39 · cold: 0 · retired: 2
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -46,6 +46,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `fa-no` | W095 | affect inactive (unresolved or numb) | ✅ | [w051-w100](w051-w100.md) |
 | `fa-ra` | W154 | fear/awe, forceful affect | ✅ | [w101-plus](w101-plus.md) |
 | `fa-ra-be` | W123 | anger, hostile arousal | ✅ | [w101-plus](w101-plus.md) |
+| `fa-ra-su` | W226 | religion; structured reverence practice; institutionalized awe-discipline | ✅ | [w101-plus](w101-plus.md) |
 | `fa-re` | W096 | affect cycling / returning to baseline | ✅ | [w051-w100](w051-w100.md) |
 | `fa-su` | W173 | serenity, affect in ordered/structured form | ✅ | [w101-plus](w101-plus.md) |
 | `fa-vo` | W197 | happiness; positive-valence affect state; felt sense of wellbeing | ✅ | [w101-plus](w101-plus.md) |
@@ -272,13 +273,13 @@ Concept-first lookup: find the compound you need by domain.
 `fe-si` W024 warning · `mu-ka` W022 use / operate a tool or artifact · `ra-vo` W071 signal intensity · `si-de` W098 past signal · `si-fe` W070 signal threshold · `si-go-li` W201 content originator · `si-ki` W023 transmit a signal · `si-ko-mu` W067 individual document · `si-mu` W039 relay device
 
 **Affect / Emotional substrate**
-`fa-de` W094 affect fading · `fa-de-ra` W155 suffering · `fa-ki` W093 affect shift / change of register · `fa-no` W095 affect inactive (unresolved or numb) · `fa-ra` W154 fear/awe · `fa-ra-be` W123 anger · `fa-re` W096 affect cycling / returning to baseline · `fa-su` W173 serenity · `fa-vo` W197 happiness · `fa-wi-de` W127 temptation · `fa-wi-ra` W172 passion · `fa-wi-zi` W136 lust · `se-no-to` W090 percept without cognitive model (unresolved signal) · `su-fa` W133 purity of heart · `wi-no-ra` W132 meekness
+`fa-de` W094 affect fading · `fa-de-ra` W155 suffering · `fa-ki` W093 affect shift / change of register · `fa-no` W095 affect inactive (unresolved or numb) · `fa-ra` W154 fear/awe · `fa-ra-be` W123 anger · `fa-ra-su` W226 religion · `fa-re` W096 affect cycling / returning to baseline · `fa-su` W173 serenity · `fa-vo` W197 happiness · `fa-wi-de` W127 temptation · `fa-wi-ra` W172 passion · `fa-wi-zi` W136 lust · `se-no-to` W090 percept without cognitive model (unresolved signal) · `su-fa` W133 purity of heart · `wi-no-ra` W132 meekness
 
 **Ritual / Sacred**
-`be-go-li-si` W149 creator-representation · `fe-no-ka` W056 taboo · `fe-vo` W065 sacredness · `go-ne` W159 self-originating relation / "I am who I am" · `ka-li-su` W147 governance · `ka-pa-ki'ti-re` W167 Passover festival · `ka-vo-si` W168 thanksgiving / blessing · `pa-be'ka-li-su` W125 kingdom of heaven · `pa-vo-fe` W153 holy ground · `pa-wi-ka-su` W066 shrine · `se-to` W062 perceptual insight · `to-re-su` W064 canonical doctrine · `vo-ne` W118 righteousness · `wi-ka-su` W054 ritual · `wi-si` W063 prayer · `zo-ra` W117 life-energy · `zo-si` W069 spirit · `zo-to` W068 soul
+`be-go-li-si` W149 creator-representation · `fa-ra-su` W226 religion · `fe-no-ka` W056 taboo · `fe-vo` W065 sacredness · `go-ne` W159 self-originating relation / "I am who I am" · `ka-li-su` W147 governance · `ka-pa-ki'ti-re` W167 Passover festival · `ka-vo-si` W168 thanksgiving / blessing · `pa-be'ka-li-su` W125 kingdom of heaven · `pa-vo-fe` W153 holy ground · `pa-wi-ka-su` W066 shrine · `se-to` W062 perceptual insight · `to-re-su` W064 canonical doctrine · `vo-ne` W118 righteousness · `wi-ka-su` W054 ritual · `wi-si` W063 prayer · `zo-ra` W117 life-energy · `zo-si` W069 spirit · `zo-to` W068 soul
 
 **Social / Institutional**
-`de-su` W119 fault · `de-vo` W121 evil · `go-ne` W159 self-originating relation / "I am who I am" · `ka-li-su` W147 governance · `ka-no-de-su` W120 forgiveness · `li-pu-pa` W036 city · `ne-su` W031 network · `ne-to` W084 mutual acknowledgment · `ne-to-fe` W165 covenant · `ne-zi-re` W131 spouse · `pa-vo-fe` W153 holy ground · `re-ka-ne-li` W134 peacemaker · `si-no-vo-li` W126 hypocrite · `su-ka-li` W200 service provider · `to-fe-su` W072 epistemic standards body/code · `to-ki'ne-su` W202 online platform · `wi-de-li` W124 adversary · `wi-fe` W100 rule · `wi-re` W099 feedback loop · `wi-re-su` W074 operational protocol · `wi-to-su` W073 design specification
+`de-su` W119 fault · `de-vo` W121 evil · `fa-ra-su` W226 religion · `go-ne` W159 self-originating relation / "I am who I am" · `ka-li-su` W147 governance · `ka-no-de-su` W120 forgiveness · `li-pu-pa` W036 city · `ne-su` W031 network · `ne-to` W084 mutual acknowledgment · `ne-to-fe` W165 covenant · `ne-zi-re` W131 spouse · `pa-vo-fe` W153 holy ground · `re-ka-ne-li` W134 peacemaker · `si-no-vo-li` W126 hypocrite · `su-ka-li` W200 service provider · `to-fe-su` W072 epistemic standards body/code · `to-ki'ne-su` W202 online platform · `wi-de-li` W124 adversary · `wi-fe` W100 rule · `wi-re` W099 feedback loop · `wi-re-su` W074 operational protocol · `wi-to-su` W073 design specification
 
 **Organism / Biology**
 `de-ki'ma` W162 wine / fermented liquid · `de-zo` W178 death · `de-zo-ki` W186 necromancy · `du-zo-su` W142 fruit · `ha-zo-ra-ma` W216 baked food / thermally-treated food · `ka-de-zo` W128 kill · `ma-zo-ki` W146 crawler · `se-lu` W130 eye · `wi-zo` W145 wild animal · `zi-zo` W106 biological coupling event · `zi-zo-du` W108 du-role in biological coupling · `zi-zo-go` W107 go-role in biological coupling · `zo-de` W051 fatigue · `zo-ki'ma` W164 blood · `zo-li` W148 human person · `zo-ma` W163 body · `zo-no-ki` W043 rest · `zo-ra` W117 life-energy · `zo-ra-ma` W144 food · `zo-se-ki` W060 enter trance · `zo-si` W069 spirit · `zo-su-be` W143 seed · `zo-su-ka-li` W150 shepherd · `zo-to` W068 soul
@@ -371,7 +372,7 @@ Quick lookup by lead primitive root.
 | `de` | de-be W035, de-su W119, de-vo W121, de-ki'ma W162, de-zo W178, de-li W223 |
 | `di` | di-ki-li W061 |
 | `du` | du-zo-su W142 |
-| `fa` | fa-ki W093, fa-de W094, fa-no W095, fa-re W096, fa-ra-be W123, fa-wi-de W127, fa-wi-zi W136, fa-ra W154, fa-de-ra W155, fa-wi-ra W172, fa-su W173, fa-vo W197 |
+| `fa` | fa-ki W093, fa-de W094, fa-no W095, fa-re W096, fa-ra-be W123, fa-wi-de W127, fa-wi-zi W136, fa-ra W154, fa-de-ra W155, fa-wi-ra W172, fa-su W173, fa-vo W197, fa-ra-su W226 |
 | `fe` | fe-si W024, fe-su W055, fe-no-ka W056, fe-vo W065, fe-vo'si-ko-mu W219 |
 | `go` | go-ne W159 |
 | `ha` | ha-de W044, ha-zo-ra-ma W216 |
