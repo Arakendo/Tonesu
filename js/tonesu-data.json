@@ -1727,9 +1727,9 @@
       "wnum": "W121",
       "form": "de-vo",
       "written": "devo",
-      "gloss": "evil, value-corruption quality",
+      "gloss": "evil; shame; worth/value-diminishment quality",
       "status": "active",
-      "domain": "ethics / theology",
+      "domain": "ethics / theology / affect",
       "roots": [
         "de",
         "vo"
@@ -3134,18 +3134,6 @@
       "roots": [
         "wi",
         "no"
-      ]
-    },
-    {
-      "wnum": "W231",
-      "form": "de-vo",
-      "written": "devo",
-      "gloss": "shame; loss of worth; dishonour",
-      "status": "active",
-      "domain": "Ethics / Affect / Social",
-      "roots": [
-        "de",
-        "vo"
       ]
     }
   ]
