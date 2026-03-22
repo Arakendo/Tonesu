@@ -6,7 +6,7 @@ title: "Foundations"
 
 Core sentences from the earliest Tonesu attestations — basic agent-patient structures, property attribution, and foundational constructions.
 
-188 sentences.
+201 sentences.
 
 [← Corpus](../overview.md)
 
@@ -32,6 +32,7 @@ Core sentences from the earliest Tonesu attestations — basic agent-patient str
 | [Marx (*Theses on Feuerbach*, *Communist Manifesto*, *A Contribution to the Critique of Hegel's Philosophy of Right*, *Economic and Philosophic Manuscripts of 1844*, *Critique of the Gotha Programme*, *Capital* Vol I)](../../batches/mrx/) | 1 | 6 |
 | [Scrambled Eggs Recipe](../../batches/egg/) | 1 | 6 |
 | [String Theory and the 11 Dimensions](../../batches/str/) | 1 | 6 |
+| [Sanguinius at the Eternity Gate, Part I: The Admission](../../batches/sng/) | 2 | 13 |
 
 ---
 

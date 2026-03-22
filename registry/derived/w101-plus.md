@@ -2333,3 +2333,44 @@ Related:       pa (space, primitive), di (direction, primitive), ko-pa-di (compa
 ```
 
 ---
+
+**W230**
+```
+Form:          wi-no
+Type:          compound
+Class:         quality / state
+Definition:    unwillingness; the state of not-wanting; reluctance to be engaged with something. The will is not aligned with the current situation.
+               Distinct from bare no-wi (momentary action-negation: "do not will X") — wi-no names the sustained quality/state: "I am in a state of not-willing."
+               Parallel to fa-no (W095, affect-absent): as fa-no is the affective substrate that is not present, wi-no is the will that is not present or not engaged.
+Composition:   wi (will/intention) + no (negation/absence). Head-final: no (absence) is head; wi specifies whose absence — the will itself. wi-no = the-absence-of-will = unwillingness.
+Register:      standard
+Domain:        Agency / Affect / Ethics
+Status:        ✅ active
+First use:     SNG-001-A (S732): la-mi  wi-no  lo-fe-su — "I do not want to be here [at this wall]."
+Notes:         Usage: la-mi wi-no lo-X = I am unwilling toward X / I do not want X; la-X wi-no = X is unwilling; wi-no as predicate = the unwillingness itself.
+               Contrast: wi-no-ra (W131, meekness = will-without-force) — different compound: wi-no-ra right-branches as wi-(no-ra) = will of [no-force]; wi-no left-branches as (wi-no) the unified state. Confirm parse by context: wi-no as predicate = unwilling; wi-no-ra = will-without-giving-force = meek.
+               The opening of the Sanguinius speech (SNG-001) first attests this compound — a commander admitting reluctance before his troops, a structural impossibility in many rhetorical registers but natural in Tonesu: the language enforces honesty of attribution.
+Related:       wi (primitive: will/intention), no (primitive: negation), fa-no (W095: affect-absent — parallel structure), wi-no-ra (W131: meekness — related but distinct parse)
+```
+
+---
+
+**W231**
+```
+Form:          de-vo
+Type:          compound
+Class:         quality / state / event
+Definition:    shame; loss of worth; dishonour; the state or process of one's worth diminishing. Covers: the acute felt experience of having done something beneath one's worth; the social collapse of standing; the diminishment of dignity.
+               Used as predicate: la-X de-vo = X is in a state of shame/dishonour. Used as noun/patient: lo-de-vo = the shame itself; no de-vo = not in shame.
+               Antonym: wi-vo (W190, will toward worth = honour-disposition = the stance that produces and maintains worth).
+Composition:   de (decrease/decay) + vo (worth/value). Head-final: vo (worth) is head; de specifies that the worth is undergoing decrease. de-vo = worth-decrease = shame/dishonour.
+Register:      standard
+Domain:        Ethics / Affect / Social
+Status:        ✅ active
+First use:     SNG-001-E (S736): no de-vo / wi-vo — "Not in shame / [but] with honour."
+Notes:         Paired contrast with wi-vo (W190): de-vo (shame) / wi-vo (honour-disposition) is the antithetical pair in Sanguinius's permission-to-flee speech: "no de-vo / wi-vo" = "not in shame / [but] in honour."
+               Distinct from: fa-de (W094, affective decrease = distress): fa-de is quantitative affect-diminishing; de-vo is worth/dignity diminishing. The two can co-occur (shame is often accompanied by distress) but they name different dimensions.
+Related:       de (primitive: decrease/decay), vo (primitive: worth/value), wi-vo (W190: honour-disposition — antonym), fa-de (W094: distress — related but distinct), vo-ne (W118: righteousness)
+```
+
+---

@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 129 |
+| [w101-plus.md](w101-plus.md) | W101+ | 133 |
 
-**Total: 217 W-series entries** — active: 174 · proposed: 2 · pending: 39 · cold: 0 · retired: 2
+**Total: 221 W-series entries** — active: 178 · proposed: 2 · pending: 39 · cold: 0 · retired: 2
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -36,6 +36,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `de-li` | W223 | adversary; agent of harm; opposing agent | ✅ | [w101-plus](w101-plus.md) |
 | `de-su` | W119 | fault, wrong, moral failing | ✅ | [w101-plus](w101-plus.md) |
 | `de-vo` | W121 | evil, value-corruption quality | ✅ | [w101-plus](w101-plus.md) |
+| `de-vo` | W231 | shame; loss of worth; dishonour | ✅ | [w101-plus](w101-plus.md) |
 | `de-zo` | W178 | death, dying (organism-decrease, non-agentive) | ✅ | [w101-plus](w101-plus.md) |
 | `de-zo-ki` | W186 | necromancy; death-organism-change; magic of transformation through and across death | ✅ | [w101-plus](w101-plus.md) |
 | `di-ki-li` | W061 | navigator | ✅ | [w051-w100](w051-w100.md) |
@@ -202,6 +203,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `wi-fe` | W100 | rule, prohibition, policy-imposed limit | ✅ | [w051-w100](w051-w100.md) |
 | `wi-fe'de` | W203 | penalty; sanction; rule-imposed decrease | ✅ | [w101-plus](w101-plus.md) |
 | `wi-ka-su` | W054 | ritual, structured intentional practice | ✅ | [w051-w100](w051-w100.md) |
+| `wi-no` | W230 | unwillingness; not-wanting; reluctance | ✅ | [w101-plus](w101-plus.md) |
 | `wi-no-ra` | W132 | meekness, will-without-force | ✅ | [w101-plus](w101-plus.md) |
 | `wi-no-su` | W189 | chaotic; will unbound by structure; spontaneous / freedom-first moral disposition | ✅ | [w101-plus](w101-plus.md) |
 | `wi-ra` | W177 | directed power, authority (will-force) | ✅ | [w101-plus](w101-plus.md) |
@@ -276,7 +278,7 @@ Concept-first lookup: find the compound you need by domain.
 `fe-si` W024 warning · `mu-ka` W022 use / operate a tool or artifact · `ra-vo` W071 signal intensity · `si-de` W098 past signal · `si-fe` W070 signal threshold · `si-go-li` W201 content originator · `si-ki` W023 transmit a signal · `si-ko-mu` W067 individual document · `si-mu` W039 relay device
 
 **Affect / Emotional substrate**
-`fa-de` W094 affect fading · `fa-de-ra` W155 suffering · `fa-ki` W093 affect shift / change of register · `fa-no` W095 affect inactive (unresolved or numb) · `fa-ra` W154 fear/awe · `fa-ra-be` W123 anger · `fa-ra-su` W226 religion · `fa-re` W096 affect cycling / returning to baseline · `fa-su` W173 serenity · `fa-vo` W197 happiness · `fa-wi-de` W127 temptation · `fa-wi-ra` W172 passion · `fa-wi-zi` W136 lust · `se-no-to` W090 percept without cognitive model (unresolved signal) · `su-fa` W133 purity of heart · `wi-no-ra` W132 meekness
+`de-vo` W231 shame · `fa-de` W094 affect fading · `fa-de-ra` W155 suffering · `fa-ki` W093 affect shift / change of register · `fa-no` W095 affect inactive (unresolved or numb) · `fa-ra` W154 fear/awe · `fa-ra-be` W123 anger · `fa-ra-su` W226 religion · `fa-re` W096 affect cycling / returning to baseline · `fa-su` W173 serenity · `fa-vo` W197 happiness · `fa-wi-de` W127 temptation · `fa-wi-ra` W172 passion · `fa-wi-zi` W136 lust · `se-no-to` W090 percept without cognitive model (unresolved signal) · `su-fa` W133 purity of heart · `wi-no` W230 unwillingness · `wi-no-ra` W132 meekness
 
 **Ritual / Sacred**
 `be-go-li-si` W149 creator-representation · `fa-ra-su` W226 religion · `fe-no-ka` W056 taboo · `fe-vo` W065 sacredness · `go-ne` W159 self-originating relation / "I am who I am" · `ka-li-su` W147 governance · `ka-pa-ki'ti-re` W167 Passover festival · `ka-vo-si` W168 thanksgiving / blessing · `pa-be'ka-li-su` W125 kingdom of heaven · `pa-vo-fe` W153 holy ground · `pa-wi-ka-su` W066 shrine · `se-to` W062 perceptual insight · `to-re-su` W064 canonical doctrine · `vo-ne` W118 righteousness · `wi-ka-su` W054 ritual · `wi-si` W063 prayer · `zo-ra` W117 life-energy · `zo-si` W069 spirit · `zo-to` W068 soul
@@ -299,6 +301,9 @@ Concept-first lookup: find the compound you need by domain.
 **Action / Process**
 `ka-be-ne` W218 binding / deliberate bond-creation · `ka-ra` W222 deliberate force
 
+**Agency / Will**
+`wi-no` W230 unwillingness
+
 **Agent / Entity Types**
 `wi-ra-li` W217 spirit / directed-force-agent
 
@@ -319,6 +324,9 @@ Concept-first lookup: find the compound you need by domain.
 
 **Ethics / Philosophy**
 `pa-ki-su` W198 liberty · `wi-de` W191 evil · `wi-no-su` W189 chaotic · `wi-su` W188 lawful · `wi-su-fe` W192 law-neutral · `wi-vo` W190 good · `wi-vo-fe` W193 ethics-neutral
+
+**Ethics / Social**
+`de-vo` W231 shame
 
 **Finance / Economic**
 `ka-li-de` W205 tax
@@ -393,7 +401,7 @@ Quick lookup by lead primitive root.
 |-----------|-----------------|
 | `?` | wi-ra-su W179, ko-fe-ki W180, pa-be-ki W181, to-se-ki W182, wi-fa-ki W183, ra-be-ki W184, ge-se-ki W185, de-zo-ki W186, ge-ki W187, wi-su W188, wi-no-su W189, wi-vo W190, wi-de W191, wi-su-fe W192, wi-vo-fe W193, ra-ka-li W206, to-ra-li W207, se-de-li W208, vo-ra-li W209, zo-re-li W210, wi-vo-li W211, zo-ki-li W212, so-vo-li W213 |
 | `be` | be-go-li-si W149 |
-| `de` | de-be W035, de-su W119, de-vo W121, de-ki'ma W162, de-zo W178, de-li W223 |
+| `de` | de-be W035, de-su W119, de-vo W121, de-ki'ma W162, de-zo W178, de-li W223, de-vo W231 |
 | `di` | di-ki-li W061 |
 | `du` | du-zo-su W142 |
 | `fa` | fa-ki W093, fa-de W094, fa-no W095, fa-re W096, fa-ra-be W123, fa-wi-de W127, fa-wi-zi W136, fa-ra W154, fa-de-ra W155, fa-wi-ra W172, fa-su W173, fa-vo W197, fa-ra-su W226 |
@@ -419,6 +427,6 @@ Quick lookup by lead primitive root.
 | `ti` | ti-fe W037, ti-be W040, ti-de W041, ti-mu W057, ti-re W103, ti-mi W109 |
 | `to` | to-ne-su W000, to-li W003, to-su-mu W010, to-ki-mu W011, to-ki W020, to-su-ki W025, to-si W026, to-ko W027, to-fe W028, to-fe-ka W029, to-su W030, to-fe-li W032, to-re-su W064, to-fe-su W072, to-ru W083, to-go W089, to-fe-su-ki W097, to-ko-re W166, to-to-ne-su W169, to'to-ne-su W170, to-pa W195, to-ki'ne-su W202 |
 | `vo` | vo-ne W118, vo-mu W137 |
-| `wi` | wi-to W045, wi-ka-su W054, wi-si W063, wi-to-su W073, wi-re-su W074, wi-re W099, wi-fe W100, wi-de-li W124, wi-no-ra W132, wi-zo W145, wi-du W175, wi-ra W177, wi-fe'de W203, wi-ra-li W217 |
+| `wi` | wi-to W045, wi-ka-su W054, wi-si W063, wi-to-su W073, wi-re-su W074, wi-re W099, wi-fe W100, wi-de-li W124, wi-no-ra W132, wi-zo W145, wi-du W175, wi-ra W177, wi-fe'de W203, wi-ra-li W217, wi-no W230 |
 | `zi` | zi-ra W104, zi-ka W105, zi-zo W106, zi-zo-go W107, zi-zo-du W108 |
 | `zo` | zo-no-ki W043, zo-de W051, zo-se-ki W060, zo-to W068, zo-si W069, zo-ne W076, zo-ne-go W077, zo-ne-du W078, zo-ne-ru W079, zo-ne-go-re W080, zo-ne-du-re W081, zo-ra W117, zo-su-be W143, zo-ra-ma W144, zo-li W148, zo-su-ka-li W150, zo-ma W163, zo-ki'ma W164, zo-ki-ma W220, zo-su-mu W221 |

@@ -3387,3 +3387,311 @@ directly observed.
 **Verdict:** irreducibly formal — all forms are below threshold or structural minimums.
 
 *CLQ entries registered from this batch: none.*
+
+---
+
+## SNG-001 — Sanguinius at the Eternity Gate, Part I: The Admission (S732–S737)
+
+*Batch purpose (SNG-001): The opening of Sanguinius's speech to the defenders of the Eternity Gate during the Siege of Terra (*Echoes of Eternity*, Warhammer 40K). Six sentences covering: the admission of unwillingness (S732), the tactical truth (S733), the truth-pledge to the survivors (S734), the permission to flee (S735), the manner of departure (S736), and the dignified release (S737). Key tests: W230 `wi-no` (unwillingness, first use); W231 `de-vo` (shame/loss-of-worth, first use); first-person capability negation; relative-clause modifier on a vocative address; the antithetical parallel `/` for "not X / but Y" in an ethical context; dignity-transfer as a speech act. New vocabulary: W230 `wi-no` (unwillingness), W231 `de-vo` (shame). Source: Aaron Dembski-Bowden, *Echoes of Eternity* (2022), Siege of Terra series.*
+
+---
+
+### S732 — SNG-001-A
+
+**Tonesu:** `la-mi  wi-no  lo-fe-su`
+
+**Written:** `lami wino lofesu`
+
+**Gloss:** I (unwilling) [at-the-wall]
+
+**Natural reading:** I do not want to be here [at this wall].
+
+**Notes:** First use of W230 `wi-no` (unwillingness). The speech's opening line: a commander admitting reluctance before a battle that cannot be won. `la-mi` = I (agent). `wi-no` (W230) = unwillingness / not-wanting — predicate. `lo-fe-su` = patient: at/toward the fortification (`fe-su`, W055, boundary-structure = ward/wall/fortification). The admission is directed outward as an affective claim: my will is not aligned with being here. Structurally simple; emotionally unusual — oratory rarely begins with an admission of unwillingness. Tonesu's attribution discipline makes it natural.
+
+**Source:** "I do not want to be here." — Sanguinius, *Echoes of Eternity*
+
+---
+
+### S733 — SNG-001-B
+
+**Tonesu:** `la-o-li  no  be-vo  [ka-ko  lo-fe-su] ;  lo-ze  nu-be  lo-mi`
+
+**Written:** `laoli no bevo kako lofesu ; loze nube lomi`
+
+**Gloss:** we [not] capable [to-contain the-wall] ; they exceed us [in number]
+
+**Natural reading:** We cannot hold this wall; they outnumber us.
+
+**Notes:** Capability negation + numeric contrast. `la-o-li` = agent: collective-us (`o-` collective prefix + `li` person). `no be-vo` = lack capacity (`be-vo` = generative-quality / capability, S114–S116 confirmed canonical). `[ka-ko lo-fe-su]` = purpose-clause: to deliberately contain the fortification (`ka`=action + `ko`=containment + `lo-fe-su`=patient-wall). `;` = sequential connector (constant conjunction, not causal). Second clause: `lo-ze nu-be lo-mi` = they [quantity-exceed] us (`nu-be` = S064–S067 comparison particle: more-than; `ze` = 3rd person; `mi` = 1st person). The two clauses give the tactical truth: incapability + disparity. Compositional first use: `ka-ko lo-fe-su` (hold/defend the wall).
+
+**Source:** "We cannot hold this wall. They are too many; we are too few." — Sanguinius, *Echoes of Eternity*
+
+---
+
+### S734 — SNG-001-C
+
+**Tonesu:** `la-mi  no  [ka-si-no] — he  [ta {re-ti-be  fa-ra}  ki-de  ti-de]  o-tu`
+
+**Written:** `lami no [kasino] — he [ta {retibefara} kide tide] otu`
+
+**Gloss:** I [not] [act-false-signal] — O [during {days-of-dread} having-traversed past] collective-you
+
+**Natural reading:** I will not lie — O you who have walked through days of dread.
+
+**Notes:** Truth-pledge with vocative-relative address. `la-mi no [ka-si-no]` = I not [deliberately-false-signal]: `ka`(action)+`si`(signal)+`no`(negation) = deliberate emission of a false signal = to lie. Compositional: `si-no` = false-signal; `ka-si-no` = the act of lying. `—` = prosodic suspension: holds before the address. `he` (G029) = vocative particle. Relative clause: `[ta {re-ti-be fa-ra} ki-de ti-de] o-tu` = "[during {days of dread} having-traversed past] collective-you" = "you who passed through days of dread." `ta {X}` = temporal frame: during X. `re-ti-be` = day (temporal unit, W040-family). `fa-ra` (W154) = fear/awe (forceful affect). `ki-de` = motion-decay = traverse/pass through. `ti-de` = past. `o-tu` = collective-you (`o-` + `tu`). Addressed to: the survivors of the 200-day siege. Compositional first uses: `ka-si-no` (to lie); `re-ti-be fa-ra` (days of dread).
+
+**Source:** "I will not lie. Not to you who have come through two hundred days of this." — Sanguinius, *Echoes of Eternity*
+
+---
+
+### S735 — SNG-001-D
+
+**Tonesu:** `he  [wi  ka-ki-de]  o-tu — ka-ki-de`
+
+**Written:** `he [wi kakide] otu — kakide`
+
+**Gloss:** O [purposing-to-flee] collective-you — flee!
+
+**Natural reading:** You who wish to flee — flee!
+
+**Notes:** Vocative relative + permissive imperative. Structural heart of the speech. `he` (G029) = vocative. Relative clause: `[wi ka-ki-de] o-tu` = "[purposing to flee] collective-you" = "you who intend to flee." `wi` as purpose frame: the gap-agent (= `o-tu`) has the purpose of `ka-ki-de`. `—` = prosodic suspension marking the separation between address and command. `ka-ki-de` = deliberate-move-away = to flee/retreat (`ka`=deliberate-action + `ki`=motion + `de`=decay/away). The imperative drops `la-tu` per the imperative rule; the command addresses those named in the relative clause. Compositional first use: `ka-ki-de` (deliberate retreat / to flee).
+
+**Source:** "If you wish to run, run." — Sanguinius, *Echoes of Eternity*
+
+---
+
+### S736 — SNG-001-E
+
+**Tonesu:** `no  de-vo / wi-vo`
+
+**Written:** `no devo / wivo`
+
+**Gloss:** not [shame] / [honour-disposition]
+
+**Natural reading:** Not in shame — but with honour.
+
+**Notes:** First use of W231 `de-vo` (shame). Antithetical parallel with `/` (G013, vel). This is the antithetical bi-clausal form admitted DKN-001: the two flanking elements are formally paired antitheses. `no de-vo` = not in shame (W231: de-vo = loss of worth = shame/dishonour). `wi-vo` (W190) = good / will-toward-worth = honour-disposition = the stance of one whose will is directed toward what has value. The contrast: `de-vo` (worth decreasing) / `wi-vo` (will toward worth). Minimal sentence; maximum ethical content. Structurally: it is the qualification on the preceding permission to flee — departure is not shame, it IS honour. This completes the antithetical permission structure.
+
+**Source:** "Not in shame, but with honour." — Sanguinius, *Echoes of Eternity*
+
+---
+
+### S737 — SNG-001-F
+
+**Tonesu:** `ka-ki-de ; la-mi  fa-vo  lo-o-tu ; la-o-tu  ne-mi  lo-o-su  de  ti-de`
+
+**Written:** `kakide ; lami favo loootu ; laootu nemi loosu de tide`
+
+**Gloss:** flee! ; I [positive-affect] [toward collective-you] ; collective-you [released-to-me] all-structure past
+
+**Natural reading:** Go — I am grateful for you; you have already given me everything.
+
+**Notes:** Three-clause dignified release. `;` = sequential connector (constant conjunction). `ka-ki-de` = flee/go (imperative, see S735). `la-mi fa-vo lo-o-tu` = I am in positive-affect [toward] collective-you: `fa-vo` (W197) = happiness / positive-valence affect state; here directed at the departing soldiers = gratitude / warm regard. `la-o-tu ne-mi lo-o-su de ti-de` = collective-you [released-to-me] all-things past: `ne-mi` = relational-toward-me = for-me / to-me (recipient marker in transfer construction); `lo-o-su` = patient: all-structured-things = everything (`o-`=collective + `su`=structure); `de` = decrease/release (the giver's possession ends); `ti-de` = past. The three clauses: GO (imperative) + I-VALUE-YOU (gratitude) + YOU-GAVE-EVERYTHING (recognition of completed gift). Compositional first use: `o-su` as "everything structured/everything" (collective + structure).
+
+**Source:** "Go with my gratitude. You have already given everything." — Sanguinius, *Echoes of Eternity*
+
+---
+
+### Batch summary — SNG-001
+
+**Source:** Sanguinius's speech at the Eternity Gate, *Echoes of Eternity* (Aaron Dembski-Bowden, 2022), Siege of Terra series. First literature-domain translation batch.
+
+| Entry | Tonesu | Written | Claim | Key feature |
+|-------|--------|---------|-------|-------------|
+| S732 (SNG-001-A) | `la-mi  wi-no  lo-fe-su` | `lami wino lofesu` | I do not want to be here | W230 `wi-no` first use |
+| S733 (SNG-001-B) | `la-o-li  no  be-vo  [ka-ko  lo-fe-su] ;  lo-ze  nu-be  lo-mi` | `laoli no bevo kako lofesu ; loze nube lomi` | We cannot hold this wall; they outnumber us | Capability negation + numeric contrast |
+| S734 (SNG-001-C) | `la-mi  no  [ka-si-no] — he  [ta {re-ti-be  fa-ra}  ki-de  ti-de]  o-tu` | `lami no kasino — he ta {retibefara} kide tide otu` | I will not lie — O you who walked days of dread | `he` vocative + relative modifier; `ka-si-no` first use |
+| S735 (SNG-001-D) | `he  [wi  ka-ki-de]  o-tu — ka-ki-de` | `he wi kakide otu — kakide` | You who wish to flee — flee! | Permission imperative; relative on vocative; `ka-ki-de` first use |
+| S736 (SNG-001-E) | `no  de-vo / wi-vo` | `no devo / wivo` | Not in shame / but with honour | W231 `de-vo` first use; antithetical `/` |
+| S737 (SNG-001-F) | `ka-ki-de ; la-mi  fa-vo  lo-o-tu ; la-o-tu  ne-mi  lo-o-su  de  ti-de` | `kakide ; lami favo loootu ; laootu nemi loosu de tide` | Go — I thank you; you have given everything | Three-clause dignified release; `o-su` first use |
+
+**New vocabulary:** W230 `wi-no` (unwillingness: will-negation); W231 `de-vo` (shame: worth-decrease).
+
+**Compositional first uses:** `ka-si-no` (to lie: deliberate-false-signal); `ka-ki-de` (to flee: deliberate-motion-away); `re-ti-be fa-ra` (days of dread); `o-su` (everything/all-structure: collective-structure).
+
+**Key structural findings:** First vocative-relative construction (S734): `he [relative-modifier] NP` — the relative clause modifies the address-target, not the main predicate; the gap inside the relative clause is the vocative NP. First antithetical `/` in an ethical context (S736): "not shame / honour" — the two-word antithetical pair compresses an entire moral stance. Three-clause `;` sequence (S737) demonstrates: command + attribution + recognition as a single speech act of dignified release.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `wi-no` (W230) | none | — | 2-root — below 3-morpheme contraction threshold |
+| `de-vo` (W231) | none | — | 2-root — below threshold |
+| `be-vo` | none | — | 2-root — below threshold |
+| `fe-su` (W055) | none | — | 2-root — below threshold |
+| `fa-vo` (W197) | none | — | 2-root — below threshold |
+| `fa-ra` (W154) | none | — | 2-root — below threshold |
+| `wi-vo` (W190) | none | — | 2-root — below threshold; semantically load-bearing (honour predicate) |
+| `ka-si-no` | none | — | 3-root — below 4-morpheme threshold |
+| `ka-ki-de` | none | — | 3-root — below threshold |
+| `re-ti-be fa-ra` | none | — | Noun phrase, not compound — outside CLQ scope |
+| `o-su` | none | — | Scope-prefix + primitive — below threshold |
+
+**Verdict:** irreducibly formal — all forms are below threshold or structural minimums.
+
+*CLQ entries registered from this batch: none.*
+
+---
+
+## SNG-002 — Sanguinius at the Eternity Gate, Part II: The Choice (S738–S744)
+
+*Batch purpose (SNG-002): The pivot of Sanguinius's speech — the declaration of identity, the acceptance of fate, and the tricolon vow. Seven sentences: half-human identity split (S738), the unknowing of fate's timing (S739), the paired choice-declarations (S740), the tricolon vow (S741), the moral rationale (S742), the polar interrogative (S743), and the collective defiant response (S744). Key tests: compound possessive agent `la-pe-zo-li-mi` (human-part-of-me as agent); `no-to` on two distinct epistemically-opaque objects; paired `wi`-vow declarations with `/`; three-clause `;` tricolon all sharing `wi` intent-predicate; `no [go {…}] — ke, [go {…}]` causal-negation pivot structure; fronted polar `to-si` interrogative; and minimal-sentence `no!` as the first single-word defiant corpus sentence. No new W-entries. Source: Aaron Dembski-Bowden, *Echoes of Eternity* (2022).*
+
+---
+
+### S738 — SNG-002-A
+
+**Tonesu:** `la-pe-mi  ne  zo-li ; la-pe-zo-li-mi  wi-ra  [la-mi  no-ki]`
+
+**Written:** `lapemi ne zoli ; lapezolimi wira [lami noki]`
+
+**Gloss:** my-component is [human-person] ; my-person-component commands [that-I not-move]
+
+**Natural reading:** I am (in part) human; the human in me demands that I stay.
+
+**Notes:** Identity split + compelled volition. Two-clause sentence joined by `;`. First clause: `la-pe-mi ne zo-li` = "my-component is human-person." `pe` (component/part, primitive) + `mi` (1st person possessive) = `pe-mi` = my-component. `ne` = property copula. `zo-li` = human-person (living-person). The claim: one component of me is a human person — not "I am partly human" as a dilution of identity, but "one of my components IS human." Second clause: `la-pe-zo-li-mi wi-ra [la-mi no-ki]` = "my-person-component commands [that I not-move]." `pe-zo-li-mi` = my-person-component = the human element within me (`pe`=part + `zo-li`=person + `mi`=possessive). As `la-` agent: the human part acts as agent of a `wi-ra` (W177, directed power/authority) predicate. `[la-mi no-ki]` = purpose-clause: that I (not-move = stay). `no-ki` = not-motion = staying/remaining (compositional: no + ki). The human part of Sanguinius is personified as an agent with its own will-force (`wi-ra`) that overrides the reluctance expressed in S732. Compositional first uses: `pe-mi` (my-component), `pe-zo-li-mi` (my-person-component = the human in me), `no-ki` (not-motion = staying).
+
+**Source:** "I am half-human. And the human in me demands that I stay." — Sanguinius, *Echoes of Eternity*
+
+---
+
+### S739 — SNG-002-B
+
+**Tonesu:** `la-mi  no-to  [ti  lo-de-zo-mi] ; no-to  [su  lo-de-zo-mi] — ru-fe,  [lo-de-zo-mi  be  ti-be]`
+
+**Written:** `lami noto [ti lodeozomi] ; noto [su lodeozomi] — ru-fe, [lodeozomi be tibe]`
+
+**Gloss:** I don't-know [the time of my-death] ; don't-know [the structure/manner of my-death] — only [my-death approaches]
+
+**Natural reading:** I know not the When or the How — only that my death is near.
+
+**Notes:** Epistemic double negation + exclusive scope affirmation. `no-to` = negated conceptual knowing = "I don't know" (confirmed canonical: C007 B2, multiple attestations). Two parallel `no-to` clauses joined by `;`, followed by `—` (prosodic suspension) then `ru-fe,` (G031, exclusive scope = "only/solely"). First `no-to` clause: `[ti lo-de-zo-mi]` = [the time of my-death]: `ti` = time (primitive) used as a topic-noun here; `lo-de-zo-mi` = patient: my-death (`de-zo` W178 + `mi` possessive). Second `no-to` clause: `[su lo-de-zo-mi]` = [the structure/manner of my-death]: `su` = structure/form used as a noun for "the how / the manner." Both unknowings are about the same thing: `de-zo-mi` (my death), but from two axes (when vs. how). `ru-fe,` scopes the following clause: `[lo-de-zo-mi be ti-be]` = [my-death approaches/grows near]: `be` = growth/approach + `ti-be` (W040) = proximate future. The sole thing known: death will arrive. Compositional: `de-zo-mi` (my death), `ti` as time-noun, `su` as manner-noun.
+
+**Source:** "I know not the When or the How, only that it comes." — Sanguinius, *Echoes of Eternity*
+
+---
+
+### S740 — SNG-002-C
+
+**Tonesu:** `la-mi  wi  lo-de-zo-mi / la-mi  wi  [la-mi  de-zo  lo-pa-mi]`
+
+**Written:** `lami wi lodeozomi / lami wi [lami dezo lopami]`
+
+**Gloss:** I will [my-death] / I will [I die at-my-position]
+
+**Natural reading:** I choose this death. I choose to die here.
+
+**Notes:** Paired `wi`-vow declarations with reinforcing `/`. Both clauses express the same volitional act from two angles: first as noun-choice ("I will my death" = I have directed my intention at death-itself, claiming ownership of this fate), then as action-choice ("I will [I die here]" = I commit to the specific act of dying at my current position). `wi` as predicate: `la-mi wi lo-X` = I will/choose X (my intention is directed at X). First clause: `lo-de-zo-mi` = patient: my-death (`de-zo` W178 + `mi`). Second clause: purpose-clause `[la-mi de-zo lo-pa-mi]` = [I die at-my-position]: `de-zo` = non-agentive dying (W178); `lo-pa-mi` = at my location = here (`pa`=place + `mi`=mine). The `/` pairs two phrasings of the same vow — poetic reinforcement (parallel, not antithetical here). Vow-form use of `wi` with nominal patient: first attestation of this construction with `de-zo`.
+
+**Source:** "I choose this death. I choose to die here." — Sanguinius, *Echoes of Eternity*
+
+---
+
+### S741 — SNG-002-D
+
+**Tonesu:** `la-mi  wi  [ka-su-pa] ; la-mi  wi  [ka-ra] ; la-mi  wi  [ka-ko  lo-fe-su]`
+
+**Written:** `lami wi [kasupa] ; lami wi [kara] ; lami wi [kako lofesu]`
+
+**Gloss:** I will [deliberate-stance] ; I will [deliberate-force-action] ; I will [contain the-wall]
+
+**Natural reading:** I will stand. I will fight. I will hold this wall.
+
+**Notes:** Tricolon vow — the climax of the speech. Three `;`-joined clauses, each `la-mi wi [ka-X]` = "I commit to [deliberate-X]". The repetition of the full `la-mi wi` is intentional oratorial emphasis (anaphora). First clause: `ka-su-pa` = deliberate-structure-at-position = to stand firm (`ka`+`su`+`pa` = intentional structural placement = maintaining a fixed position). Second clause: `ka-ra` = deliberate-force-action = to fight / to engage with force (`ka`+`ra` = intentional application of energy/force). Third clause: `ka-ko lo-fe-su` = to deliberately contain the fortification = to hold the wall (`ka-ko` = intentional containment; `lo-fe-su` W055 = the wall/ward). The three-member hierarchy: maintain position → engage in combat → hold the objective. Compositional first uses: `su-pa` (structural position / stance), `ka-su-pa` (to stand firm, deliberate stance-maintenance), `ka-ra` (to fight / deliberate force-action).
+
+**Source:** "I will stand. I will fight. I will hold this wall." — Sanguinius, *Echoes of Eternity*
+
+---
+
+### S742 — SNG-002-E
+
+**Tonesu:** `no  [go {be-vo  lo-wi-du-mi}] — ke,  [go {ne-vo}]`
+
+**Written:** `no [go {bevo lowidumi}] — ke, [go {nevo}]`
+
+**Gloss:** not [because-of {capability toward my-victory}] — but [because-of {it-is-worthy}]
+
+**Natural reading:** Not because I can win — but because it is right.
+
+**Notes:** Causal-negation pivot — the moral rationale for the vow. `no [go {X}]` = "not because of [X]" = causal negation (negated causal frame). `be-vo lo-wi-du-mi` = capability [toward] my-victory: `be-vo` = capability (generative-quality, S114–S116); `lo-wi-du-mi` = patient: my victory (`wi-du` W175 = victory/achievement + `mi` possessive). `—` = prosodic suspension before the pivot. `ke,` (G032) = pivot particle: implied denial + advancing claim. Here the denial `no [go {be-vo lo-wi-du-mi}]` is fresh in context, and `ke,` pivots to the advancing moral claim. `[go {ne-vo}]` = because-of [it-is-worthy]: `ne-vo` = relational-worth / the quality of being right in relation = righteousness (compositional: `ne` relation + `vo` worth).
+
+**Source:** "Not because I can win. But because it is right." — Sanguinius, *Echoes of Eternity*
+
+---
+
+### S743 — SNG-002-F
+
+**Tonesu:** `to-si — la-o-tu  wi  [ka-ki-de]`
+
+**Written:** `tosi — laootu wi [kakide]`
+
+**Gloss:** [truth-unknown] — collective-you intend [to-flee]
+
+**Natural reading:** Will you run?
+
+**Notes:** Polar interrogative — fronted `to-si` polar question construction in an oratorical/address context. `to-si` (fronted before the proposition) = polar question mark: "is the following proposition true?" (P-QM-001: fronted `to-si —` = polar question; formalized spec/grammar.md § Questions). `—` = prosodic suspension between the question marker and the proposition, holding the question open. `la-o-tu wi [ka-ki-de]` = collective-you intend [to flee]: `o-tu` = collective-you; `wi [clause]` = intention-frame; `ka-ki-de` = flee (S735 first use). First attestation of polar `to-si` in a large-group confrontational oratorical address.
+
+**Source:** "Will you run?" — Sanguinius, *Echoes of Eternity*
+
+---
+
+### S744 — SNG-002-G
+
+**Tonesu:** `no!`
+
+**Written:** `no!`
+
+**Gloss:** [negation / defiant refusal]
+
+**Natural reading:** No!
+
+**Notes:** Minimal defiant refusal — first single-word corpus sentence. The collective response of the assembled defenders to S743. `no` (primitive root) = negation/absence. Here: `no!` as a bare exclamatory sentence-initial minimal negative (P-AF-001: bare `no` = "[that] does not hold"; `!` = exclamatory/force marker). The assembled force answers the polar question of S743 with the most minimal possible Tonesu utterance: a single primitive root, exclaimed. Closes the speech. First use of `no!` as a standalone exclamatory utterance. First multi-speaker (collective voice) corpus entry. Speaker: the assembled defenders (`o-tu`) collectively.
+
+**Source:** "No!" — The defenders, *Echoes of Eternity*
+
+---
+
+### Batch summary — SNG-002
+
+**Source:** Sanguinius's speech at the Eternity Gate, *Echoes of Eternity* (Aaron Dembski-Bowden, 2022), second part.
+
+| Entry | Tonesu | Written | Claim | Key feature |
+|-------|--------|---------|-------|-------------|
+| S738 (SNG-002-A) | `la-pe-mi  ne  zo-li ; la-pe-zo-li-mi  wi-ra  [la-mi  no-ki]` | `lapemi ne zoli ; lapezolimi wira lami noki` | I am (in part) human; my human component demands I stay | `pe-zo-li-mi` compound agent; `wi-ra` as compulsion; `no-ki` first use |
+| S739 (SNG-002-B) | `la-mi  no-to  [ti  lo-de-zo-mi] ; no-to  [su  lo-de-zo-mi] — ru-fe,  [lo-de-zo-mi  be  ti-be]` | `lami noto ti lodeozomi ; noto su lodeozomi — ru-fe, lodeozomi be tibe` | I know not the when or the how, only that death approaches | Double `no-to` + `ru-fe,` exclusive scope |
+| S740 (SNG-002-C) | `la-mi  wi  lo-de-zo-mi / la-mi  wi  [la-mi  de-zo  lo-pa-mi]` | `lami wi lodeozomi / lami wi lami dezo lopami` | I choose this death; I choose to die here | Paired `wi`-vow with `/`; `de-zo-mi` first use |
+| S741 (SNG-002-D) | `la-mi  wi  [ka-su-pa] ; la-mi  wi  [ka-ra] ; la-mi  wi  [ka-ko  lo-fe-su]` | `lami wi kasupa ; lami wi kara ; lami wi kako lofesu` | I will stand; I will fight; I will hold this wall | Tricolon `wi`-vow; `ka-su-pa` and `ka-ra` first uses |
+| S742 (SNG-002-E) | `no  [go {be-vo  lo-wi-du-mi}] — ke,  [go {ne-vo}]` | `no go {bevo lowidumi} — ke, go {nevo}` | Not because I can win — but because it is right | Causal-negation + `ke,` pivot |
+| S743 (SNG-002-F) | `to-si — la-o-tu  wi  [ka-ki-de]` | `tosi — laootu wi kakide` | Will you run? | Fronted polar `to-si`; communal address interrogative |
+| S744 (SNG-002-G) | `no!` | `no!` | No! | First single-word sentence; collective speaker; exclamatory `no` |
+
+**New vocabulary:** none (all forms compositional or previously registered).
+
+**Compositional first uses:** `pe-mi` (my-component); `pe-zo-li-mi` (my-person-component = the human in me); `no-ki` (not-motion = staying/remaining); `de-zo-mi` (my death); `lo-pa-mi` (at my position = here); `su-pa` (structural position); `ka-su-pa` (to stand firm); `ka-ra` (to fight / deliberate force-action).
+
+**Key structural findings:** S738 introduces compound possessive agents: `la-pe-zo-li-mi` (my-human-part) is a syntactic agent with its own predicate. S739 demonstrates double `no-to` parallelism + `ru-fe,` reversal: "I know not A; not B — only C." S740 first uses `/` in reinforcing (non-antithetical) parallel: two phrasings of the same vow. S741 delivers tricolon vow with anaphoric `la-mi wi [...]` × 3. S742 uses `no [go {X}] — ke, [go {Y}]` as pure causal-negation pivot. S744 is the corpus's first single-word sentence and first multi-speaker utterance.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `wi-ra` (W177) | none | — | 2-root — below threshold |
+| `de-zo` (W178) | none | — | 2-root — below threshold |
+| `wi-du` (W175) | none | — | 2-root — below threshold |
+| `be-vo` | none | — | 2-root — below threshold |
+| `fe-su` (W055) | none | — | 2-root — below threshold |
+| `pe-zo-li-mi` | none | — | 4-element chain — possessive `mi` is inflectional; effective compound depth = 3 (pe-zo-li); below threshold |
+| `no-ki` | none | — | 2-root — below threshold |
+| `ka-su-pa` | none | — | 3-root — below threshold |
+| `ka-ra` | none | — | 2-root — below threshold |
+| `go {X}` causal frames | none | — | Core structural operator — semantically load-bearing |
+| `ru-fe,` (G031) | none | — | Structural particle — outside CLQ scope |
+| `no!` | none | — | Primitive CV root — minimum possible |
+
+**Verdict:** irreducibly formal — all forms are below threshold, structural minimums, or load-bearing operators.
+
+*CLQ entries registered from this batch: none.*

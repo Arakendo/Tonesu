@@ -48,7 +48,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `de` — decay / decrease
 
-6 compounds
+7 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -56,7 +56,8 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `de-ki'ma` · deki'ma | [W162](words/W162.md) | ✅ | wine / fermented liquid <br><small>[S437](../../../totonesu/corpus/batches/lsp#S437)</small> |
 | `de-li` · deli | [W223](words/W223.md) | ✅ | adversary; agent of harm; opposing agent <br><small>[S704](../../../totonesu/corpus/batches/aow#S704) · [S705](../../../totonesu/corpus/batches/aow#S705) · [S706](../../../totonesu/corpus/batches/aow#S706) · [S707](../../../totonesu/corpus/batches/aow#S707) · [S717](../../../totonesu/corpus/batches/mrx#S717)</small> |
 | `de-su` · desu | [W119](words/W119.md) | ✅ | fault, wrong, moral failing |
-| `de-vo` · devo | [W121](words/W121.md) | ✅ | evil, value-corruption quality <br><small>[S458](../../../totonesu/corpus/batches/dkn#S458)</small> |
+| `de-vo` · devo | [W121](words/W121.md) | ✅ | evil, value-corruption quality |
+| `de-vo` · devo | [W231](words/W231.md) | ✅ | shame; loss of worth; dishonour <br><small>[S458](../../../totonesu/corpus/batches/dkn#S458)</small> |
 | `de-zo` · dezo | [W178](words/W178.md) | ✅ | death, dying (organism-decrease, non-agentive) <br><small>[S606](../../../totonesu/corpus/batches/dnd#S606) · [S684](../../../totonesu/corpus/batches/prf#S684) · [S686](../../../totonesu/corpus/batches/prf#S686) · [S690](../../../totonesu/corpus/batches/loj#S690) · [S694](../../../totonesu/corpus/batches/loj#S694) · [S695](../../../totonesu/corpus/batches/loj#S695) · [S719](../../../totonesu/corpus/batches/mrx#S719)</small> |
 
 ## `di` — direction
@@ -382,7 +383,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `wi` — will / intention
 
-14 compounds
+15 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -391,6 +392,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `wi-fe` · wife | [W100](words/W100.md) | ✅ | rule, prohibition, policy-imposed limit <br><small>[S364](../../../totonesu/corpus/batches/fal#S364) · [S365](../../../totonesu/corpus/batches/_foundations#S365) · [S375](../../../totonesu/corpus/batches/fal#S375) · [S376](../../../totonesu/corpus/batches/fal#S376) · [S379](../../../totonesu/corpus/batches/fal#S379) · [S381](../../../totonesu/corpus/batches/fal#S381) · [S579](../../../totonesu/corpus/batches/dip#S579) · [S580](../../../totonesu/corpus/batches/dip#S580) · [S581](../../../totonesu/corpus/batches/dip#S581) · [S582](../../../totonesu/corpus/batches/dip#S582) · [S583](../../../totonesu/corpus/batches/dip#S583) · [S584](../../../totonesu/corpus/batches/dip#S584) · [S585](../../../totonesu/corpus/batches/dip#S585) · [S587](../../../totonesu/corpus/batches/dip#S587) · [S642](../../../totonesu/corpus/batches/cda#S642) · [S643](../../../totonesu/corpus/batches/cda#S643) · [S644](../../../totonesu/corpus/batches/cda#S644) · [S645](../../../totonesu/corpus/batches/aca#S645) · [S646](../../../totonesu/corpus/batches/aca#S646) · [S647](../../../totonesu/corpus/batches/aca#S647) · [S648](../../../totonesu/corpus/batches/aca#S648) · [S649](../../../totonesu/corpus/batches/aca#S649) · [S650](../../../totonesu/corpus/batches/aca#S650)</small> |
 | `wi-fe'de` · wife'de | [W203](words/W203.md) | ✅ | penalty; sanction; rule-imposed decrease <br><small>[S646](../../../totonesu/corpus/batches/aca#S646) · [S647](../../../totonesu/corpus/batches/aca#S647) · [S648](../../../totonesu/corpus/batches/aca#S648) · [S649](../../../totonesu/corpus/batches/aca#S649) · [S650](../../../totonesu/corpus/batches/aca#S650)</small> |
 | `wi-ka-su` · wikasu | [W054](words/W054.md) | ✅ | ritual, structured intentional practice <br><small>[S073](../../../totonesu/corpus/batches/t-mys#S073)</small> |
+| `wi-no` · wino | [W230](words/W230.md) | ✅ | unwillingness; not-wanting; reluctance |
 | `wi-no-ra` · winora | [W132](words/W132.md) | ✅ | meekness, will-without-force |
 | `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) <br><small>[S596](../../../totonesu/corpus/batches/stw#S596) · [S599](../../../totonesu/corpus/batches/dnd#S599) · [S672](../../../totonesu/corpus/batches/sol#S672) · [S683](../../../totonesu/corpus/batches/sol#S683) · [S708](../../../totonesu/corpus/batches/map#S708) · [S719](../../../totonesu/corpus/batches/mrx#S719)</small> |
 | `wi-ra-li` · wirali | [W217](words/W217.md) | ✅ | spirit / directed-force-agent <br><small>[S672](../../../totonesu/corpus/batches/sol#S672) · [S673](../../../totonesu/corpus/batches/sol#S673) · [S677](../../../totonesu/corpus/batches/sol#S677)</small> |
