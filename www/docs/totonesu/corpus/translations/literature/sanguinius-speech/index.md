@@ -129,7 +129,7 @@ Corpus sentences: **S732–S744**.
 
 **Tonesu:** `ka-ki-de ; la-mi  fa-vo  lo-o-tu ; la-o-tu  ne-mi  lo-o-su  de  ti-de`
 
-**Written:** `kakide ; lami favo loootu ; laootu nemi loosu de tide`
+**Written:** `kakide ; lami favo lootu ; laotu nemi loosu de tide`
 
 **Natural reading:** Go — I am grateful for you; you have already given me everything.
 

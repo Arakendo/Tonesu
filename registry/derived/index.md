@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 133 |
+| [w101-plus.md](w101-plus.md) | W101+ | 131 |
 
-**Total: 221 W-series entries** — active: 178 · proposed: 2 · pending: 39 · cold: 0 · retired: 2
+**Total: 219 W-series entries** — active: 176 · proposed: 2 · pending: 39 · cold: 0 · retired: 2
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
