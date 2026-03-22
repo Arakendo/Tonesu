@@ -400,18 +400,23 @@ Related:       ka (primitive: deliberate action), no (primitive: negation), de-s
 ```
 Form:          de-vo
 Type:          compound
-Class:         quality / moral state
-Definition:    evil; the quality of moral decay; value-corrosion; the state of being organized around decrease in value. Not a thing but a quality: the property of choices, agents, or states characterized by the corruption of goodness. Greek ponēros (evil, wicked, harmful).
-Composition:   de (decrease/decay) + vo (value/quality) = decay-of-value. Head-final:
-               vo (value) is head; de specifies that the value in question is undergoing or has undergone decrease/corruption.
-Register:      standard / ethical / theological
-Domain:        ethics / theology
+Class:         quality / moral state / social state
+Definition:    de-vo = decrease-of-worth. One compositional form; two register-contexts:
+               (1) MORAL-QUALITY register: evil; the quality of moral decay; value-corrosion; the state of being organized around decrease in value. Not a thing but a quality: the property of choices, agents, or states characterized by the corruption of goodness. Greek ponēros (evil, wicked, harmful).
+               (2) HONOUR-SOCIAL register: shame; dishonour; loss of standing; the state or process of one's worth diminishing. Covers: the acute felt experience of having done something beneath one's worth; the social collapse of standing; the diminishment of dignity. Used as predicate: la-X de-vo = X is in a state of shame/dishonour. Used as noun: lo-de-vo = the shame itself; no de-vo = not in shame.
+               The two readings are the same compositional fact seen from different angles: the moral reading attributes de-vo to choices/agents/states as a characterizing quality; the honour reading describes de-vo as a state that a person has entered or been placed in. Context disambiguates.
+Composition:   de (decrease/decay) + vo (value/worth/quality) = decrease-of-worth. Head-final: vo (worth) is head; de specifies that the worth in question is undergoing or has undergone decrease/corruption.
+Register:      standard / ethical / theological / social-honour
+Domain:        ethics / theology / affect
 Status:        ✅ active
-First use:     Matthew 5–7 translation (Lord's Prayer: "deliver us from de-vo"; 7:11 "evil gifts"; Matthew 5:45 "evil person" = de-vo-li).
+First use:     Matthew 5–7 translation (Lord's Prayer: "deliver us from de-vo"; 7:11 "evil gifts"; Matthew 5:45 "evil person" = de-vo-li). Shame/honour register: SNG-001-E (S736): no de-vo / wi-vo — "Not in shame / [but] with honour."
 Notes:         Key derivatives:
-               de-vo-li   = a person characterized by evil = an evil person de-vo-ki   = entering evil state = becoming corrupt (inchoative) pa-de-no-fe = place of boundless decay = Gehenna/hell (proposed; SOM-002, pending corpus test) Contrast with:
-               de-su  (W119) — a fault-product (countable, addressable wrong) de-vo  — the quality itself (uncountable, characterizes agents/states) "Evil" in the Lord's Prayer "deliver us from evil": `go-de-vo  fe` = bound us from the domain of evil-value = from the sphere of de-vo.
-Related:       de (primitive), vo (primitive), de-su (W119), ka-no-de-su (W120), de-vo-li (evil person derivation)
+               de-vo-li   = a person characterized by evil = an evil person de-vo-ki   = entering evil/shame state (inchoative) pa-de-no-fe = place of boundless decay = Gehenna/hell (proposed; SOM-002, pending corpus test)
+               Antonym: wi-vo (W190, will toward worth = honour-disposition = the stance that produces and maintains worth). Key antithetical pairing: `no de-vo / wi-vo` = "not in shame / [but] with honour" (SNG-001-E, S736).
+               Contrast with: de-su (W119) — a fault-product (countable, addressable wrong); de-vo — the quality/state itself (uncountable, characterizes agents/states/persons). fa-de (W094) — affective decrease = distress: fa-de is quantitative affect-diminishing; de-vo is worth/dignity diminishing. The two can co-occur but name different dimensions.
+               Registration note: W231 was a duplicate registration of this form in a shame-only framing; retired and merged into W121 (March 2026). All W231 corpus attestations (SNG-001-E, S736) resolve to W121.
+               "Evil" in the Lord's Prayer "deliver us from evil": `go-de-vo  fe` = bound us from the domain of evil-value = from the sphere of de-vo.
+Related:       de (primitive), vo (primitive), de-su (W119), ka-no-de-su (W120), wi-vo (W190: honour-disposition — antonym), fa-de (W094: distress — related but distinct), vo-ne (W118: righteousness), de-vo-li (evil person derivation)
 ```
 
 ---
@@ -2360,17 +2365,10 @@ Related:       wi (primitive: will/intention), no (primitive: negation), fa-no (
 Form:          de-vo
 Type:          compound
 Class:         quality / state / event
-Definition:    shame; loss of worth; dishonour; the state or process of one's worth diminishing. Covers: the acute felt experience of having done something beneath one's worth; the social collapse of standing; the diminishment of dignity.
-               Used as predicate: la-X de-vo = X is in a state of shame/dishonour. Used as noun/patient: lo-de-vo = the shame itself; no de-vo = not in shame.
-               Antonym: wi-vo (W190, will toward worth = honour-disposition = the stance that produces and maintains worth).
-Composition:   de (decrease/decay) + vo (worth/value). Head-final: vo (worth) is head; de specifies that the worth is undergoing decrease. de-vo = worth-decrease = shame/dishonour.
+Definition:    RETIRED (March 2026): duplicate registration. This entry was registered as "shame; loss of worth; dishonour" during SNG-001, but the form de-vo is already registered as W121 with the same compositional reading (de decrease + vo worth = decrease-of-worth). The shame/dishonour and evil-quality readings are both applications of the same compositional unit in different registers. All content merged into W121. All W231 corpus references (SNG-001-E, S736) resolve to W121.
 Register:      standard
 Domain:        Ethics / Affect / Social
-Status:        ✅ active
-First use:     SNG-001-E (S736): no de-vo / wi-vo — "Not in shame / [but] with honour."
-Notes:         Paired contrast with wi-vo (W190): de-vo (shame) / wi-vo (honour-disposition) is the antithetical pair in Sanguinius's permission-to-flee speech: "no de-vo / wi-vo" = "not in shame / [but] in honour."
-               Distinct from: fa-de (W094, affective decrease = distress): fa-de is quantitative affect-diminishing; de-vo is worth/dignity diminishing. The two can co-occur (shame is often accompanied by distress) but they name different dimensions.
-Related:       de (primitive: decrease/decay), vo (primitive: worth/value), wi-vo (W190: honour-disposition — antonym), fa-de (W094: distress — related but distinct), vo-ne (W118: righteousness)
+Status:        🚫 retired
 ```
 
 ---

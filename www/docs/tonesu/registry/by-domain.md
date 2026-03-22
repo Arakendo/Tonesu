@@ -149,11 +149,10 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## Affect / Emotional substrate
 
-18 compounds
+17 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
-| `de-vo` · devo | [W231](words/W231.md) | ✅ | shame; loss of worth; dishonour <br><small>[S458](../../../totonesu/corpus/batches/dkn#S458)</small> |
 | `fa-de` · fade | [W094](words/W094.md) | ✅ | affect fading |
 | `fa-de-ra` · fadera | [W155](words/W155.md) | ✅ | suffering, affect-decrease-force <br><small>[S409](../../../totonesu/corpus/batches/exo#S409)</small> |
 | `fa-ki` · faki | [W093](words/W093.md) | ✅ | affect shift / change of register |
@@ -205,7 +204,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `de-su` · desu | [W119](words/W119.md) | ✅ | fault, wrong, moral failing |
-| `de-vo` · devo | [W121](words/W121.md) | ✅ | evil, value-corruption quality |
+| `de-vo` · devo | [W121](words/W121.md) | ✅ | evil; shame; worth/value-diminishment quality <br><small>[S458](../../../totonesu/corpus/batches/dkn#S458)</small> |
 | `fa-ra-su` · farasu | [W226](words/W226.md) | ✅ | religion; structured reverence practice; institutionalized awe-discipline <br><small>[S716](../../../totonesu/corpus/batches/mrx#S716)</small> |
 | `go-ne` · gone | [W159](words/W159.md) | ✅ | self-originating relation / "I am who I am" <br><small>[S415](../../../totonesu/corpus/batches/exo#S415) · [S638](../../../totonesu/corpus/batches/doi#S638)</small> |
 | `ka-li-su` · kalisu | [W147](words/W147.md) | ⏳ | governance, dominion, coordinated stewardship <br><small>[S374](../../../totonesu/corpus/batches/fal#S374) · [S376](../../../totonesu/corpus/batches/fal#S376) · [S379](../../../totonesu/corpus/batches/fal#S379) · [S380](../../../totonesu/corpus/batches/fal#S380) · [S381](../../../totonesu/corpus/batches/fal#S381) · [S382](../../../totonesu/corpus/batches/fal#S382) · [S384](../../../totonesu/corpus/batches/fal#S384) · [S386](../../../totonesu/corpus/batches/fal#S386) · [S387](../../../totonesu/corpus/batches/fal#S387) · [S388](../../../totonesu/corpus/batches/fal#S388) · [S389](../../../totonesu/corpus/batches/fal#S389) · [S391](../../../totonesu/corpus/batches/fal#S391) · [S392](../../../totonesu/corpus/batches/fal#S392) · [S394](../../../totonesu/corpus/batches/fal#S394) · [S396](../../../totonesu/corpus/batches/fal#S396) · [S397](../../../totonesu/corpus/batches/fal#S397) · [S634](../../../totonesu/corpus/batches/doi#S634) · [S635](../../../totonesu/corpus/batches/doi#S635) · [S636](../../../totonesu/corpus/batches/doi#S636) · [S646](../../../totonesu/corpus/batches/aca#S646) · [S647](../../../totonesu/corpus/batches/aca#S647)</small> |
@@ -400,14 +399,6 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `wi-su-fe` · wisufe | [W192](words/W192.md) | ✅ | law-neutral; will at the structural limit; neither rule-imposing nor rule-rejecting <br><small>[S611](../../../totonesu/corpus/batches/dnd#S611) · [S614](../../../totonesu/corpus/batches/dnd#S614) · [S617](../../../totonesu/corpus/batches/dnd#S617) · [S628](../../../totonesu/corpus/batches/dnd#S628)</small> |
 | `wi-vo` · wivo | [W190](words/W190.md) | ✅ | good; will toward value/benefit; beneficent moral disposition <br><small>[S452](../../../totonesu/corpus/batches/rom#S452) · [S471](../../../totonesu/corpus/batches/emd#S471) · [S514](../../../totonesu/corpus/batches/emd#S514) · [S521](../../../totonesu/corpus/batches/emd#S521) · [S609](../../../totonesu/corpus/batches/dnd#S609) · [S610](../../../totonesu/corpus/batches/dnd#S610) · [S611](../../../totonesu/corpus/batches/dnd#S611) · [S612](../../../totonesu/corpus/batches/dnd#S612) · [S626](../../../totonesu/corpus/batches/dnd#S626) · [S634](../../../totonesu/corpus/batches/doi#S634)</small> |
 | `wi-vo-fe` · wivofe | [W193](words/W193.md) | ✅ | ethics-neutral; will at the value limit; neither primarily beneficent nor harmful <br><small>[S613](../../../totonesu/corpus/batches/dnd#S613) · [S614](../../../totonesu/corpus/batches/dnd#S614) · [S615](../../../totonesu/corpus/batches/dnd#S615) · [S628](../../../totonesu/corpus/batches/dnd#S628)</small> |
-
-## Ethics / Social
-
-1 compound
-
-| Word | W# | Status | Gloss |
-|------|----|--------|-------|
-| `de-vo` · devo | [W231](words/W231.md) | ✅ | shame; loss of worth; dishonour <br><small>[S458](../../../totonesu/corpus/batches/dkn#S458)</small> |
 
 ## Finance / Economic
 

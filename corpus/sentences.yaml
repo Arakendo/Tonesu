@@ -7434,9 +7434,9 @@ sentences:
   gloss_line: null
   natural: 'Dickens: "It was the spring of hope / it was the winter of despair."'
   words_attested:
-  - W231
+  - W121
   first_attests:
-  - W231
+  - W121
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
   source_anchor: S458

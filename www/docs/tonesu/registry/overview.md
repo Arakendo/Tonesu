@@ -4,7 +4,7 @@ title: Word Registry
 
 # Word Registry
 
-217 derived compounds, sorted alphabetically.
+216 derived compounds, sorted alphabetically.
 
 See also: [English index](english.md) · [By domain](by-domain.md) · [By root](by-root.md) · [Building words](../words.md)
 
@@ -15,8 +15,7 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `de-ki'ma` · deki'ma | [W162](words/W162.md) | ✅ | wine / fermented liquid <br><small>[S437](../../../totonesu/corpus/batches/lsp#S437)</small> |
 | `de-li` · deli | [W223](words/W223.md) | ✅ | adversary; agent of harm; opposing agent <br><small>[S704](../../../totonesu/corpus/batches/aow#S704) · [S705](../../../totonesu/corpus/batches/aow#S705) · [S706](../../../totonesu/corpus/batches/aow#S706) · [S707](../../../totonesu/corpus/batches/aow#S707) · [S717](../../../totonesu/corpus/batches/mrx#S717)</small> |
 | `de-su` · desu | [W119](words/W119.md) | ✅ | fault, wrong, moral failing |
-| `de-vo` · devo | [W121](words/W121.md) | ✅ | evil, value-corruption quality |
-| `de-vo` · devo | [W231](words/W231.md) | ✅ | shame; loss of worth; dishonour <br><small>[S458](../../../totonesu/corpus/batches/dkn#S458)</small> |
+| `de-vo` · devo | [W121](words/W121.md) | ✅ | evil; shame; worth/value-diminishment quality <br><small>[S458](../../../totonesu/corpus/batches/dkn#S458)</small> |
 | `de-zo` · dezo | [W178](words/W178.md) | ✅ | death, dying (organism-decrease, non-agentive) <br><small>[S606](../../../totonesu/corpus/batches/dnd#S606) · [S684](../../../totonesu/corpus/batches/prf#S684) · [S686](../../../totonesu/corpus/batches/prf#S686) · [S690](../../../totonesu/corpus/batches/loj#S690) · [S694](../../../totonesu/corpus/batches/loj#S694) · [S695](../../../totonesu/corpus/batches/loj#S695) · [S719](../../../totonesu/corpus/batches/mrx#S719)</small> |
 | `de-zo-ki` · dezoki | [W186](words/W186.md) | ✅ | necromancy; death-organism-change; magic of transformation through and across death <br><small>[S435](../../../totonesu/corpus/batches/lsp#S435) · [S606](../../../totonesu/corpus/batches/dnd#S606)</small> |
 | `di-ki-li` · dikili | [W061](words/W061.md) | ✅ | navigator <br><small>[S078](../../../totonesu/corpus/batches/t-mys#S078) · [S093](../../../totonesu/corpus/batches/_foundations#S093) · [S096](../../../totonesu/corpus/batches/_foundations#S096) · [S097](../../../totonesu/corpus/batches/_foundations#S097) · [S099](../../../totonesu/corpus/batches/_foundations#S099) · [S100](../../../totonesu/corpus/batches/_foundations#S100) · [S102](../../../totonesu/corpus/batches/_foundations#S102)</small> |

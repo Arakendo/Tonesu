@@ -48,7 +48,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `de` — decay / decrease
 
-7 compounds
+6 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -56,8 +56,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `de-ki'ma` · deki'ma | [W162](words/W162.md) | ✅ | wine / fermented liquid <br><small>[S437](../../../totonesu/corpus/batches/lsp#S437)</small> |
 | `de-li` · deli | [W223](words/W223.md) | ✅ | adversary; agent of harm; opposing agent <br><small>[S704](../../../totonesu/corpus/batches/aow#S704) · [S705](../../../totonesu/corpus/batches/aow#S705) · [S706](../../../totonesu/corpus/batches/aow#S706) · [S707](../../../totonesu/corpus/batches/aow#S707) · [S717](../../../totonesu/corpus/batches/mrx#S717)</small> |
 | `de-su` · desu | [W119](words/W119.md) | ✅ | fault, wrong, moral failing |
-| `de-vo` · devo | [W121](words/W121.md) | ✅ | evil, value-corruption quality |
-| `de-vo` · devo | [W231](words/W231.md) | ✅ | shame; loss of worth; dishonour <br><small>[S458](../../../totonesu/corpus/batches/dkn#S458)</small> |
+| `de-vo` · devo | [W121](words/W121.md) | ✅ | evil; shame; worth/value-diminishment quality <br><small>[S458](../../../totonesu/corpus/batches/dkn#S458)</small> |
 | `de-zo` · dezo | [W178](words/W178.md) | ✅ | death, dying (organism-decrease, non-agentive) <br><small>[S606](../../../totonesu/corpus/batches/dnd#S606) · [S684](../../../totonesu/corpus/batches/prf#S684) · [S686](../../../totonesu/corpus/batches/prf#S686) · [S690](../../../totonesu/corpus/batches/loj#S690) · [S694](../../../totonesu/corpus/batches/loj#S694) · [S695](../../../totonesu/corpus/batches/loj#S695) · [S719](../../../totonesu/corpus/batches/mrx#S719)</small> |
 
 ## `di` — direction
