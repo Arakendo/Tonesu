@@ -1014,3 +1014,11 @@ batches:
     access. Key questions: (1) Are `be-vo` and `wi-fe-ka` orthogonal — can both hold simultaneously in the same utterance? (2) Does the `la-X ne wi-fe lo-Y` rights-claim pattern (first in DIP-001''s diplomatic
     register) generalize to medical ethics? (3) How is active exercise of authority (`wi-ra`) distinct from normative authority-holding (`ne wi-fe`)? Closes the open-questions.md capability/modality watch
     item.'
+- code: ISA-001
+  title: Isaiah 53:4–6 — Substitutionary Causation
+  theme: Foundations
+  range: S752–S758
+  count: 7
+  purpose: 'Translate Isaiah 53:4–6, the theological core of the Suffering Servant poem. Primary structural tests: (1) substitutionary causal logic — `go {cause-from-A}  effect-on-B` where moral ownership
+    and physical effect fall on different parties; (2) third-person possessive gap — no `-X` suffix exists; workaround via `lo-` role-particle as genitive inside `go {}` scope; (3) `go-si` extended to manner/comparison
+    ("like sheep"); (4) distributive quantification gap — `a-o-li` is collective-universal, not distributive. Connects to MAP-001 appearance predication (S753) and PAV-001 intentional passive (S754).'

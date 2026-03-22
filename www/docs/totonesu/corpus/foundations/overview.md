@@ -6,7 +6,7 @@ title: "Foundations"
 
 Core sentences from the earliest Tonesu attestations — basic agent-patient structures, property attribution, and foundational constructions.
 
-208 sentences.
+215 sentences.
 
 [← Corpus](../overview.md)
 
@@ -34,6 +34,7 @@ Core sentences from the earliest Tonesu attestations — basic agent-patient str
 | [String Theory and the 11 Dimensions](../../batches/str/) | 1 | 6 |
 | [Sanguinius at the Eternity Gate, Part I: The Admission](../../batches/sng/) | 2 | 13 |
 | [Permission vs Capability Modality](../../batches/perm/) | 1 | 7 |
+| [Isaiah 53:4–6 — Substitutionary Causation](../../batches/isa/) | 1 | 7 |
 
 ---
 

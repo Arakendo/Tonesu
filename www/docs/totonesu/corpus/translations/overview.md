@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-35 translation analyses.
+36 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -19,6 +19,7 @@ gap analysis, and key findings.
 - [exodus-3-1-15](../bible/exodus-3-1-15/)
 - [exodus-7-staff-serpents](../bible/exodus-7-staff-serpents/)
 - [Genesis 1](../bible/genesis-1/)
+- [isaiah-53](../bible/isaiah-53/)
 - [john-1-1](../bible/john-1-1/)
 - [last-supper](../bible/last-supper/)
 - [matthew-16-25](../bible/matthew-16-25/)

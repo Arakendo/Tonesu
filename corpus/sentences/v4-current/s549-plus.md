@@ -3870,3 +3870,183 @@ directly observed.
 **Verdict:** irreducibly formal — all forms are below threshold or structural particles.
 
 *CLQ entries registered from this batch: none.*
+
+---
+
+## Isaiah 53:4–6 — Substitutionary Causation (S752–S758) — Batch: ISA-001
+
+*Batch purpose (ISA-001): Translate Isaiah 53:4–6, the theological core of the Suffering Servant poem. Primary structural tests: (1) substitutionary causal logic — `go {cause-from-A}  effect-on-B` where moral ownership and physical effect fall on different parties; (2) third-person possessive gap — no `-X` suffix exists; workaround via `lo-` role-particle as genitive inside `go {}` scope; (3) `go-si` extended to manner/comparison ("like sheep"); (4) distributive quantification gap — `a-o-li` is collective-universal, not distributive. Connects to MAP-001 appearance predication (S753) and PAV-001 intentional passive (S754).*
+
+---
+
+### S752 — ISA-001-A
+
+**Source:** "Surely he has borne our griefs and carried our sorrows." (Isaiah 53:4a, ESV)
+
+**Tonesu:** `la-zo-li  ka-ko  [fa-de  lo-o-li] / la-zo-li  ka-ko  [fa-ra  lo-o-li]`
+
+**Written:** `lazoli kako fade looli / lazoli kako fara looli`
+
+**Gloss:** [servant] holds/contains [grief of us] / [servant] holds/contains [overwhelming-affect of us]
+
+**Natural reading:** He bore our grief / he carried our overwhelming anguish.
+
+**Notes:** Hebrew parallelism encoded as bi-clausal `/`. Left clause: `fa-de` (affect-decrease = grief/sorrow; right-branching: `fa-(de)` = affect [decrease]; compositional; first use) as patient of `ka-ko` (containment/holding). Right clause: `fa-ra` (W154 = overwhelming affect = fear/physical suffering, already registered) as the amplified parallel — `fa-ra` covers both dread and somatic pain, making it the right intensification. The `/` marks this as formal parallelism (two phrasings of the same act, second intensifying the first) rather than mere sequence. `fa-de` and `fa-ra` target the emotional and physical dimensions of anguish respectively. The `lo-o-li` genitive (`lo-` marking possession toward the collective us) establishes moral ownership before v.5 makes the causal transfer explicit.
+
+---
+
+### S753 — ISA-001-B
+
+**Source:** "yet we esteemed him stricken, smitten by God, and afflicted." (Isaiah 53:4b, ESV)
+
+**Tonesu:** `la-o-mi  si  [lo-zo-li  ka-ra-de  go {la-Elohim}]`
+
+**Written:** `laomi si lozoli karade go {laElohim}`
+
+**Gloss:** [we] appear/signal [servant was-struck because-of {God}]
+
+**Natural reading:** We perceived him as struck by God.
+
+**Notes:** MAP-001 appearance predication `la-X si [Q]` (first attested MAP-001 S708–S709), used here to mark the crowd's misreading. `si` = outward signal/surface-appearance (P005). The bracketed clause `[lo-zo-li  ka-ra-de  go {la-Elohim}]` = "the person was struck, with God as the causal agent." `ra-de` = force-decrease = being struck/wounded (compositional: `ra` = force, `de` = decrease; first use). Intentional passive: `lo-zo-li  ka-ra-de` = the person was (intentionally) struck; `go {la-Elohim}` attributes God as the cause. This extends the PAV-001 intentional passive (`lo-P  ka-Q`) with explicit third-party causal attribution (`go {agent}`). The `si` wrapper signals this reading is wrong — it is what the crowd's surface processing produced. S754 provides the underlying structural truth. The reader holds both simultaneously.
+
+---
+
+### S754 — ISA-001-C
+
+**Source:** "But he was pierced for our transgressions; he was crushed for our iniquities." (Isaiah 53:5a–b, ESV)
+
+**Tonesu:** `lo-zo-li  ka-ra-de  go {ka-wi-fe-de  o-li} ;  lo-zo-li  ka-ra-no-ki  go {de-wi-fe  o-li}`
+
+**Written:** `lozoli karade go {kawifede ooli} ; lozoli karanoki go {dewife ooli}`
+
+**Gloss:** [servant] was-struck because-of {our transgressions} ; [servant] was-crushed because-of {our moral-debt}
+
+**Natural reading:** The Servant was struck because of our deliberate transgressions; he was crushed because of our moral debt.
+
+**Notes:** **First attestation of substitutionary causal logic.** Two `;`-connected intentional passives, each with `go {cause}` attribution. The causal source in both cases is morally attributable to `o-li` (us), but the physical effect (`ka-ra-de`, `ka-ra-no-ki`) falls on `lo-zo-li` (the Servant). Tonesu's `go` frame marks logical/moral cause without requiring agent identity between cause-holder and effect-recipient — the disjunction is structurally visible and clean.
+
+- `ka-wi-fe-de` = deliberate rule-decrease = transgression as a committed act: `ka-(wi-(fe-de))` = intentional [will toward [boundary-decrease]] = deliberate norm violation. First use.
+- `de-wi-fe` = moral debt / guilt as a standing state: `de-(wi-fe)` = decrease of [willed-boundary] = structural erosion of normativity = iniquity. Distinct from `wi-fe'de` (W203 = the penalty imposed, used in S755). First use.
+- `ka-ra-no-ki` = intentional-force-immobilization = crushing: `ka-(ra-(no-ki))` = deliberate [force [immobility-entry]] = causing the force-stopped state. Distinct from `ka-ra-de` (a strike with force-decrease). First use.
+
+Contrast with S753: S753 = crowd misperception wrapped in `si`; S754 = the underlying structural reality without appearance wrapper. Both use `go` attribution; the difference is logical framing, not vocabulary.
+
+---
+
+### S755 — ISA-001-D
+
+**Source:** "upon him was the chastisement that brought us peace." (Isaiah 53:5c, ESV)
+
+**Tonesu:** `la-zo-li  ko  lo-wi-fe'de  [go {vo-ne  lu-o-li}]`
+
+**Written:** `lazoli ko lowife'de go {vone luooli}`
+
+**Gloss:** [servant] receives [the-penalty] [that-caused {peace toward-us}]
+
+**Natural reading:** The Servant received the penalty that caused peace toward us.
+
+**Notes:** `ko` = containment/reception predicate (passive reception, no agentive intentionality required; attested S068–S071). `lo-wi-fe'de` = the penalty (W203: `wi-fe'de` = `[wi-fe]'de` = juncture pre-binds `wi-fe` as unit, `de` = head = decrease-grounded-in-rule = the punishment imposed). `vo-ne` = worth-in-relation = relational flourishing = peace/shalom (compositional: `vo` = worth, `ne` = connection/relation; right-branching: `vo-(ne)` = worth [relational]; first use). The relative clause `[go {vo-ne lu-o-li}]` = "that caused peace toward us": `go {vo-ne}` = resulting in relational-worth; `lu-o-li` = toward us (beneficiary `lu-`). Three-link causal chain across S754–S755–S756: our transgressions → Servant's wounds (`go` S754) → Servant's penalty-reception → our peace (`go` S755) → our healing (`go` S756). Tonesu's `go` holds every link without new connectives.
+
+---
+
+### S756 — ISA-001-E
+
+**Source:** "and with his stripes we are healed." (Isaiah 53:5d, ESV)
+
+**Tonesu:** `la-o-li  zo-vo-ki  go {ra-de  lo-zo-li}`
+
+**Written:** `laoli zovoki go {rade lozoli}`
+
+**Gloss:** [we] enter-living-health because-of {wounds of-the-servant}
+
+**Natural reading:** We are healed because of the Servant's wounds.
+
+**Notes:** `zo-vo-ki` = living-worth-entry = entering health = to be healed (compositional: `zo-(vo-ki)` = living [worth-entry]; first use). `go {ra-de  lo-zo-li}` = because of [wounds of the person]. **Third-person possessive workaround — first attestation.** Tonesu has `-mi` (first-person possessive; e.g. `de-zo-mi` = my death, S739) and `-tu` (second-person possessive) as established corpus suffixes. No third-person possessive suffix exists. Workaround: `ra-de  lo-zo-li` = wounds [toward/of the person] — using `lo-` as a genitive marker inside `go {}` scope. Inside `go {}`, `lo-zo-li` unambiguously modifies `ra-de` (it cannot be parsed as a patient marker in this structural position). The construction relies on `go {}` scoping for parse resolution. Novel; flagged as an open design question: should third-person possession have a dedicated suffix form?
+
+---
+
+### S757 — ISA-001-F
+
+**Source:** "All we like sheep have gone astray; we have turned — every one — to his own way." (Isaiah 53:6a–b, ESV)
+
+**Tonesu:** `a-o-li  ka-ki-no  go-si  zo-pa-li ;  a-o-li  ka-ki  go-si  to-lo-o-li`
+
+**Written:** `aooli kakino gosi zopali ; aooli kaki gosi tolooli`
+
+**Gloss:** [all-we] wander-aimlessly in-manner-of {animal} ; [all-we] move in-manner-of {our-own-understanding}
+
+**Natural reading:** All of us wandered aimlessly in the manner of animals; all of us moved according to our own way of thinking.
+
+**Notes:**
+- `ka-ki-no` = deliberate-motion-absence = aimless wandering / going astray: `ka-(ki-no)` = intentional [motion-absence] = choosing aimless movement. First use.
+- `zo-pa-li` = living-place-being = creature defined by inhabiting a space = grazing animal (compositional: `zo-(pa-li)` = living [place-being] = creature of a place; first use). In the simile context, `zo-pa-li` targets the animal's defining characteristic: existence without a frame-given telos, defined only by its spatial niche.
+- `go-si` in **manner/comparison function**: `go-si [description]` = in-the-manner-of. `go-si` has been attested in instrumental/means contexts (AOW-001 S706, SOL-001). This batch extends it to manner/simile — how one acts rather than what one uses as a tool. First attestation of `go-si` in manner-of function. The `~` approximation mark is not appropriate for simile (`~` spec = "approximately / on the order of" = epistemic or structural approximation, not analogy of kind); `go-si` is structurally correct.
+- `to-lo-o-li` = `to` (knowing/conceptual root) + `lo-o-li` (genitive of us) = the conceptual-framework belonging to us = our own way of thinking / our own course.
+- **Distributive quantification gap:** Hebrew "every one to his own way" is distributive — each of N parties to a distinct direction individually owned. `a-o-li  ka-ki  go-si  to-lo-o-li` uses collective `a-o-li` (all-collectively), collapsing the distributive reading. Tonesu has no established distributive quantifier. Flagged as an open design question.
+
+---
+
+### S758 — ISA-001-G
+
+**Source:** "and the LORD has laid on him the iniquity of us all." (Isaiah 53:6c, ESV)
+
+**Tonesu:** `la-Yahweh  ka-ne-ki  lo-zo-li  lo-de-wi-fe  a-o-li`
+
+**Written:** `laYahweh kaneki lozoli lodewife aooli`
+
+**Gloss:** [YHWH] causes-convergence-onto [servant] [moral-debt] [all-us]
+
+**Natural reading:** YHWH caused the moral debt of all of us to converge on the Servant.
+
+**Notes:** `ka-ne-ki` = deliberate-connection-entry = intentionally causing something to converge / to place upon (compositional: `ka-(ne-ki)` = intentional [connection-entry]; extends `ne-ki` = "to connect," first attested S013; `ka-` prefix adds deliberate intentionality; first use). Divine name `Yahweh` in `la-` agent position, following `Elohim` convention established across the theological corpus. `lo-zo-li` = patient of the placement (the Servant, onto whom the convergence is directed). `lo-de-wi-fe` = the moral debt: `lo-` as role-particle nominalizing `de-wi-fe` for patient framing. `a-o-li` = all of us = collective universal genitive modifier on the moral debt. **Structural summation:** S754 established that *our* guilt is the `go`-cause of the Servant's wounds. S758 reveals that *YHWH* is the active agent who *caused* that convergence — adding a second explicit causal layer: `go {o-li ka-wi-fe-de}  [Servant wounded]` (logical-moral cause, S754) AND `la-Yahweh  ka-ne-ki  [Servant]  [guilt of all]` (divine agentive act, S758). Two compatible causal claims in different frames.
+
+---
+
+### Batch summary — ISA-001
+
+| Entry | Tonesu | Written | Claim | Key feature |
+|-------|--------|---------|-------|-------------|
+| S752 (ISA-001-A) | `la-zo-li  ka-ko  [fa-de  lo-o-li] / la-zo-li  ka-ko  [fa-ra  lo-o-li]` | `lazoli kako fade looli / lazoli kako fara looli` | He bore our grief / he carried our suffering | `/` for Hebrew parallelism; `fa-de` first use |
+| S753 (ISA-001-B) | `la-o-mi  si  [lo-zo-li  ka-ra-de  go {la-Elohim}]` | `laomi si lozoli karade go {laElohim}` | We perceived him as struck by God | MAP-001 `si` for misperception; `ra-de` first use |
+| S754 (ISA-001-C) | `lo-zo-li  ka-ra-de  go {ka-wi-fe-de  o-li} ;  lo-zo-li  ka-ra-no-ki  go {de-wi-fe  o-li}` | `lozoli karade go {kawifede ooli} ; lozoli karanoki go {dewife ooli}` | Pierced for our transgressions; crushed for our iniquities | First substitutionary causal logic; `ka-wi-fe-de`, `de-wi-fe`, `ra-no-ki` first uses |
+| S755 (ISA-001-D) | `la-zo-li  ko  lo-wi-fe'de  [go {vo-ne  lu-o-li}]` | `lazoli ko lowife'de go {vone luooli}` | He received the penalty that brought us peace | Relative clause + causal chain; `vo-ne` first use |
+| S756 (ISA-001-E) | `la-o-li  zo-vo-ki  go {ra-de  lo-zo-li}` | `laoli zovoki go {rade lozoli}` | We are healed by his wounds | Third-person possessive workaround; `zo-vo-ki` first use |
+| S757 (ISA-001-F) | `a-o-li  ka-ki-no  go-si  zo-pa-li ;  a-o-li  ka-ki  go-si  to-lo-o-li` | `aooli kakino gosi zopali ; aooli kaki gosi tolooli` | All we like animals went astray; all went our own way | `go-si` in manner function; `ka-ki-no`, `zo-pa-li` first uses; distributive gap |
+| S758 (ISA-001-G) | `la-Yahweh  ka-ne-ki  lo-zo-li  lo-de-wi-fe  a-o-li` | `laYahweh kaneki lozoli lodewife aooli` | YHWH laid on him the iniquity of all of us | `ka-ne-ki` first use; dual causal layer; divine agentive convergence |
+
+**New vocabulary:** none (all forms compositional).
+
+**Compositional first uses:** `fa-de` (grief, affect-decrease); `ra-de` (wound/strike, force-decrease); `ra-no-ki` (crush, force-immobility); `ka-wi-fe-de` (transgress, deliberate rule-decrease); `de-wi-fe` (iniquity/moral debt, rule-deficit state); `vo-ne` (peace, relational worth); `zo-vo-ki` (to be healed, enter living-health); `ka-ne-ki` (to place upon, deliberate connection-entry); `ka-ki-no` (to go astray, deliberate-motion-absence); `zo-pa-li` (animal/creature, living-place-being).
+
+**Key structural findings:**
+1. **Substitutionary causal logic.** `go {cause-from-A}  effect-on-B` where moral ownership and physical effect fall on different parties. Tonesu's `go` frame handles this cleanly — it marks logical/moral cause without requiring agent identity. First attested S754.
+2. **Third-person possessive gap.** No `-X` suffix for third-person possession. Workaround: `[noun]  lo-[person-NP]` inside `go {}` scope (the bracketed context prevents misparse as a patient marker). First attested S756. Flagged: open design question.
+3. **`go-si` in manner/comparison function.** Extended from instrument/means (AOW-001) to manner/simile: `go-si zo-pa-li` = in-the-manner-of animals. `~` approximation not appropriate for simile (epistemic vs analogical). First manner-use attested S757.
+4. **Distributive quantification gap.** `a-o-li` = collective universality; "each to their own way" requires distributive quantification; `a-o-li` collapses this. No distributive quantifier established in the grammar. Flagged: open design question.
+5. **Dual causal layer.** S754 = `go {guilt-of-A}  [effect-on-B]` (logical-moral causation). S758 = `la-Yahweh  ka-ne-ki  [B]  [guilt of A]` (divine agentive causation). Two independent causal claims, compatible, distinct structural frames.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `fa-de` | none | — | 2-root — below threshold |
+| `fa-ra` (W154) | none | — | 2-root — below threshold |
+| `ra-de` | none | — | 2-root — below threshold |
+| `ra-no-ki` | none | — | 3-root — below threshold |
+| `ka-wi-fe-de` | none | — | `ka-` + 3-root compound; effective depth = 3; below threshold |
+| `de-wi-fe` | none | — | 3-root — below threshold |
+| `vo-ne` | none | — | 2-root — below threshold |
+| `zo-vo-ki` | none | — | 3-root — below threshold |
+| `ka-ne-ki` | none | — | 3-root — below threshold |
+| `ka-ki-no` | none | — | 3-root — below threshold |
+| `zo-pa-li` | none | — | 3-root — below threshold |
+| `wi-fe'de` (W203) | none | — | 3-element with juncture — juncture `'` is structurally load-bearing; below threshold |
+| `go {X}` causal frames | none | — | Structural operator — semantically load-bearing |
+| `a-o-li` | none | — | V-prefix + 2-root — below threshold |
+| `go-si` | none | — | 2-root instrumental/manner particle — below threshold |
+
+**Verdict:** irreducibly formal — all forms are below threshold or load-bearing structural operators.
+
+*CLQ entries registered from this batch: none.*

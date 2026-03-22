@@ -13979,3 +13979,192 @@ sentences:
     the physician *has* authority as a standing stative property; `wi-ra` = the physician
     *uses* that authority as a performance. Second attestation of `wi-ra` in an authorization/compulsion
     register (first: SNG-002 S738, as directed compulsion from a person-component).'
+- snum: S752
+  gloss: He bore our grief / he carried our overwhelming anguish.
+  batch: ISA-001
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: '[servant] holds/contains [grief of us] / [servant] holds/contains [overwhelming-affect
+    of us]'
+  natural: He bore our grief / he carried our overwhelming anguish.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S752
+  notes: 'Hebrew parallelism encoded as bi-clausal `/`. Left clause: `fa-de` (affect-decrease
+    = grief/sorrow; right-branching: `fa-(de)` = affect [decrease]; compositional;
+    first use) as patient of `ka-ko` (containment/holding). Right clause: `fa-ra`
+    (W154 = overwhelming affect = fear/physical suffering, already registered) as
+    the amplified parallel — `fa-ra` covers both dread and somatic pain, making it
+    the right intensification. The `/` marks this as formal parallelism (two phrasings
+    of the same act, second intensifying the first) rather than mere sequence. `fa-de`
+    and `fa-ra` target the emotional and physical dimensions of anguish respectively.
+    The `lo-o-li` genitive (`lo-` marking possession toward the collective us) establishes
+    moral ownership before v.5 makes the causal transfer explicit.'
+- snum: S753
+  gloss: We perceived him as struck by God.
+  batch: ISA-001
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: '[we] appear/signal [servant was-struck because-of {God}]'
+  natural: We perceived him as struck by God.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S753
+  notes: 'MAP-001 appearance predication `la-X si [Q]` (first attested MAP-001 S708–S709),
+    used here to mark the crowd''s misreading. `si` = outward signal/surface-appearance
+    (P005). The bracketed clause `[lo-zo-li  ka-ra-de  go {la-Elohim}]` = "the person
+    was struck, with God as the causal agent." `ra-de` = force-decrease = being struck/wounded
+    (compositional: `ra` = force, `de` = decrease; first use). Intentional passive:
+    `lo-zo-li  ka-ra-de` = the person was (intentionally) struck; `go {la-Elohim}`
+    attributes God as the cause. This extends the PAV-001 intentional passive (`lo-P  ka-Q`)
+    with explicit third-party causal attribution (`go {agent}`). The `si` wrapper
+    signals this reading is wrong — it is what the crowd''s surface processing produced.
+    S754 provides the underlying structural truth. The reader holds both simultaneously.'
+- snum: S754
+  gloss: The Servant was struck because of our deliberate transgressions; he was crushed
+    because of our moral debt.
+  batch: ISA-001
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: '[servant] was-struck because-of {our transgressions} ; [servant] was-crushed
+    because-of {our moral-debt}'
+  natural: The Servant was struck because of our deliberate transgressions; he was
+    crushed because of our moral debt.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S754
+  notes: '**First attestation of substitutionary causal logic.** Two `;`-connected
+    intentional passives, each with `go {cause}` attribution. The causal source in
+    both cases is morally attributable to `o-li` (us), but the physical effect (`ka-ra-de`,
+    `ka-ra-no-ki`) falls on `lo-zo-li` (the Servant). Tonesu''s `go` frame marks logical/moral
+    cause without requiring agent identity between cause-holder and effect-recipient
+    — the disjunction is structurally visible and clean. - `ka-wi-fe-de` = deliberate
+    rule-decrease = transgression as a committed act: `ka-(wi-(fe-de))` = intentional
+    [will toward [boundary-decrease]] = deliberate norm violation. First use. - `de-wi-fe`
+    = moral debt / guilt as a standing state: `de-(wi-fe)` = decrease of [willed-boundary]
+    = structural erosion of normativity = iniquity. Distinct from `wi-fe''de` (W203
+    = the penalty imposed, used in S755). First use. - `ka-ra-no-ki` = intentional-force-immobilization
+    = crushing: `ka-(ra-(no-ki))` = deliberate [force [immobility-entry]] = causing
+    the force-stopped state. Distinct from `ka-ra-de` (a strike with force-decrease).
+    First use. Contrast with S753: S753 = crowd misperception wrapped in `si`; S754
+    = the underlying structural reality without appearance wrapper. Both use `go`
+    attribution; the difference is logical framing, not vocabulary.'
+- snum: S755
+  gloss: The Servant received the penalty that caused peace toward us.
+  batch: ISA-001
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: '[servant] receives [the-penalty] [that-caused {peace toward-us}]'
+  natural: The Servant received the penalty that caused peace toward us.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S755
+  notes: '`ko` = containment/reception predicate (passive reception, no agentive intentionality
+    required; attested S068–S071). `lo-wi-fe''de` = the penalty (W203: `wi-fe''de`
+    = `[wi-fe]''de` = juncture pre-binds `wi-fe` as unit, `de` = head = decrease-grounded-in-rule
+    = the punishment imposed). `vo-ne` = worth-in-relation = relational flourishing
+    = peace/shalom (compositional: `vo` = worth, `ne` = connection/relation; right-branching:
+    `vo-(ne)` = worth [relational]; first use). The relative clause `[go {vo-ne lu-o-li}]`
+    = "that caused peace toward us": `go {vo-ne}` = resulting in relational-worth;
+    `lu-o-li` = toward us (beneficiary `lu-`). Three-link causal chain across S754–S755–S756:
+    our transgressions → Servant''s wounds (`go` S754) → Servant''s penalty-reception
+    → our peace (`go` S755) → our healing (`go` S756). Tonesu''s `go` holds every
+    link without new connectives.'
+- snum: S756
+  gloss: We are healed because of the Servant's wounds.
+  batch: ISA-001
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: '[we] enter-living-health because-of {wounds of-the-servant}'
+  natural: We are healed because of the Servant's wounds.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S756
+  notes: '`zo-vo-ki` = living-worth-entry = entering health = to be healed (compositional:
+    `zo-(vo-ki)` = living [worth-entry]; first use). `go {ra-de  lo-zo-li}` = because
+    of [wounds of the person]. **Third-person possessive workaround — first attestation.**
+    Tonesu has `-mi` (first-person possessive; e.g. `de-zo-mi` = my death, S739) and
+    `-tu` (second-person possessive) as established corpus suffixes. No third-person
+    possessive suffix exists. Workaround: `ra-de  lo-zo-li` = wounds [toward/of the
+    person] — using `lo-` as a genitive marker inside `go {}` scope. Inside `go {}`,
+    `lo-zo-li` unambiguously modifies `ra-de` (it cannot be parsed as a patient marker
+    in this structural position). The construction relies on `go {}` scoping for parse
+    resolution. Novel; flagged as an open design question: should third-person possession
+    have a dedicated suffix form?'
+- snum: S757
+  gloss: All of us wandered aimlessly in the manner of animals; all of us moved according
+    to our own way of thinking.
+  batch: ISA-001
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: '[all-we] wander-aimlessly in-manner-of {animal} ; [all-we] move in-manner-of
+    {our-own-understanding}'
+  natural: All of us wandered aimlessly in the manner of animals; all of us moved
+    according to our own way of thinking.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S757
+  notes: '- `ka-ki-no` = deliberate-motion-absence = aimless wandering / going astray:
+    `ka-(ki-no)` = intentional [motion-absence] = choosing aimless movement. First
+    use. - `zo-pa-li` = living-place-being = creature defined by inhabiting a space
+    = grazing animal (compositional: `zo-(pa-li)` = living [place-being] = creature
+    of a place; first use). In the simile context, `zo-pa-li` targets the animal''s
+    defining characteristic: existence without a frame-given telos, defined only by
+    its spatial niche. - `go-si` in **manner/comparison function**: `go-si [description]`
+    = in-the-manner-of. `go-si` has been attested in instrumental/means contexts (AOW-001
+    S706, SOL-001). This batch extends it to manner/simile — how one acts rather than
+    what one uses as a tool. First attestation of `go-si` in manner-of function. The
+    `~` approximation mark is not appropriate for simile (`~` spec = "approximately
+    / on the order of" = epistemic or structural approximation, not analogy of kind);
+    `go-si` is structurally correct. - `to-lo-o-li` = `to` (knowing/conceptual root)
+    + `lo-o-li` (genitive of us) = the conceptual-framework belonging to us = our
+    own way of thinking / our own course. - **Distributive quantification gap:** Hebrew
+    "every one to his own way" is distributive — each of N parties to a distinct direction
+    individually owned. `a-o-li  ka-ki  go-si  to-lo-o-li` uses collective `a-o-li`
+    (all-collectively), collapsing the distributive reading. Tonesu has no established
+    distributive quantifier. Flagged as an open design question.'
+- snum: S758
+  gloss: YHWH caused the moral debt of all of us to converge on the Servant.
+  batch: ISA-001
+  batch_sub: G
+  status: normative
+  tonesu: ''
+  gloss_line: '[YHWH] causes-convergence-onto [servant] [moral-debt] [all-us]'
+  natural: YHWH caused the moral debt of all of us to converge on the Servant.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S758
+  notes: '`ka-ne-ki` = deliberate-connection-entry = intentionally causing something
+    to converge / to place upon (compositional: `ka-(ne-ki)` = intentional [connection-entry];
+    extends `ne-ki` = "to connect," first attested S013; `ka-` prefix adds deliberate
+    intentionality; first use). Divine name `Yahweh` in `la-` agent position, following
+    `Elohim` convention established across the theological corpus. `lo-zo-li` = patient
+    of the placement (the Servant, onto whom the convergence is directed). `lo-de-wi-fe`
+    = the moral debt: `lo-` as role-particle nominalizing `de-wi-fe` for patient framing.
+    `a-o-li` = all of us = collective universal genitive modifier on the moral debt.
+    **Structural summation:** S754 established that *our* guilt is the `go`-cause
+    of the Servant''s wounds. S758 reveals that *YHWH* is the active agent who *caused*
+    that convergence — adding a second explicit causal layer: `go {o-li ka-wi-fe-de}  [Servant
+    wounded]` (logical-moral cause, S754) AND `la-Yahweh  ka-ne-ki  [Servant]  [guilt
+    of all]` (divine agentive act, S758). Two compatible causal claims in different
+    frames.'
