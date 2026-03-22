@@ -146,7 +146,7 @@ Corpus sentences: **S732–S744**.
 | S734 (SNG-001-C) | `la-mi  no  [ka-si-no] — he  [ta {re-ti-be  fa-ra}  ki-de  ti-de]  o-tu` | `lami no kasino — he ta {retibefara} kide tide otu` | I will not lie — O you who walked days of dread | `he` vocative + relative; `ka-si-no` first use |
 | S735 (SNG-001-D) | `he  [wi  ka-ki-de]  o-tu — ka-ki-de` | `he wi kakide otu — kakide` | You who wish to flee — flee! | Permission imperative; `ka-ki-de` first use |
 | S736 (SNG-001-E) | `no  de-vo / wi-vo` | `no devo / wivo` | Not in shame / but with honour | W231 `de-vo` first use; antithetical `/` |
-| S737 (SNG-001-F) | `ka-ki-de ; la-mi  fa-vo  lo-o-tu ; la-o-tu  ne-mi  lo-o-su  de  ti-de` | `kakide ; lami favo loootu ; laootu nemi loosu de tide` | Go — I thank you; you have given everything | Three-clause dignified release |
+| S737 (SNG-001-F) | `ka-ki-de ; la-mi  fa-vo  lo-o-tu ; la-o-tu  ne-mi  lo-o-su  de  ti-de` | `kakide ; lami favo lootu ; laotu nemi loosu de tide` | Go — I thank you; you have given everything | Three-clause dignified release |
 
 ---
 
