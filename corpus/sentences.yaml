@@ -7574,7 +7574,9 @@ sentences:
   natural: Hamlet III.i — "To suffer... or to take arms against a sea of troubles"
   words_attested:
   - W026
-  first_attests: []
+  - W222
+  first_attests:
+  - W222
   gap_refs:
   - GAP-HAM-001
   source_file: sentences/v4-current/s398-s548.md
@@ -12652,3 +12654,171 @@ sentences:
     in the first clause (`la-na-Faro wi-fe-ki` has Pharaoh as the subject-of-will,
     not as external agent), making the volitional vs divine-hardening ambiguity structurally
     present.'
+- snum: S702
+  gloss: All warfare operates through deception.
+  batch: AOW-001
+  batch_sub: A
+  status: normative
+  tonesu: a-ka-ra  ne  go-si  ka-si-de
+  gloss_line: null
+  natural: All warfare operates through deception.
+  words_attested:
+  - W224
+  first_attests:
+  - W224
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S702
+  notes: 'Sun Tzu, Chapter 1.18 (Giles: "All warfare is based on deception"; Chinese:
+    兵者，詭道也). `a-ka-ra` = `a-` scope prefix (abstract/universal) + `ka-ra` (W222: combat)
+    = all-warfare without restriction, every instance of warfare. First use of `a-ka-ra`.
+    `ne go-si ka-si-de` = "has the property of being-by-means-of deception." First
+    use of `ne go-si [X]` as instrumental-property predication — attributing to an
+    entity a characteristic operational mode. `go-si` (instrumental "by means of")
+    normally attaches to action clauses; here it is predicated directly via `ne` to
+    mark the defining mode of all-warfare as deception. `ka-si-de` (W224) = deliberate
+    deception; intentional signal-corruption. Tonesu renders 兵者，詭道也 as a property
+    claim: all-warfare IS the kind of thing that operates through deception as its
+    defining mode.'
+- snum: S703
+  gloss: Warfare operates through speed.
+  batch: AOW-001
+  batch_sub: B
+  status: normative
+  tonesu: ka-ra  ne  go-si  ki
+  gloss_line: null
+  natural: Warfare operates through speed.
+  words_attested:
+  - W222
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S703
+  notes: 'Sun Tzu on the centrality of rapidity (cp. Chapter 11: 兵之情主速, "The essential
+    character of warfare prizes speed"). Parallel structure to S702: both are `[subject]
+    ne go-si [mode]` property predications attributing an operational mode to warfare.
+    `ka-ra` (W222) = warfare; `ki` = change/motion/speed (primitive root). In military
+    context `ki` carries the reading of rapid, decisive movement — the speed dimension
+    of ki rather than mere change-in-general. The S702–S703 couplet presents Sun Tzu''s
+    two foundational operational principles (deception and speed) as parallel property
+    predications, making their structural symmetry formally explicit.'
+- snum: S704
+  gloss: 'As for supreme excellence: the adversary is in a state of defeat, not via
+    combat.'
+  batch: AOW-001
+  batch_sub: C
+  status: normative
+  tonesu: 'ra-no-fe  :  la-de-li  ne  de-ra  no  go-si  ka-ra'
+  gloss_line: null
+  natural: 'As for supreme excellence: the adversary is in a state of defeat, not
+    via combat.'
+  words_attested:
+  - W222
+  - W223
+  first_attests:
+  - W223
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S704
+  notes: 'Sun Tzu, Chapter 3.2 (Giles: "supreme excellence consists in breaking the
+    enemy''s resistance without fighting"). `ra-no-fe` = [ra]-no-fe extremal = unbounded
+    force/excellence (THO-001 pattern applied to `ra`). First use of `ra-no-fe` in
+    military register (not theological). Used as the topic NP in the topic frame `:`:
+    "as for supreme excellence — [its character is defined by what follows]." `la-de-li`
+    = the adversary (W223) in the agent position. `ne de-ra` = has the property of
+    force-decrease = is in a state of defeat. `de-ra` = `de` (decrease) + `ra` (force)
+    = force-decrease as a state = defeat. Compositional first use. `no go-si ka-ra`
+    = "not by means of combat." The adversary''s defeat is the mark of supreme excellence
+    specifically when achieved without direct combat. The `:` topic frame presents
+    `ra-no-fe` as the concept under examination; the comment clause defines it concretely:
+    what makes supreme excellence is adversarial defeat achieved without fighting.'
+- snum: S705
+  gloss: 'If I have organized knowledge of the adversary and of myself: all combat
+    is free of defeat.'
+  batch: AOW-001
+  batch_sub: D
+  status: normative
+  tonesu: go {la-mi  to-su  lo-de-li  ;  la-mi  to-su  lo-mi},  a-ka-ra  ne  no-de-ra
+  gloss_line: null
+  natural: 'If I have organized knowledge of the adversary and of myself: all combat
+    is free of defeat.'
+  words_attested:
+  - W030
+  - W223
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S705
+  notes: 'Sun Tzu, Chapter 3.18 (Giles: "If you know the enemy and know yourself,
+    you need not fear the result of a hundred battles"). Know-yourself triptych, Part
+    1: both known → no defeat. `go {premises},` = conditional causal frame. Premises
+    are two clauses joined with `;` (constant conjunction, not `wi` which is the purpose
+    frame "in order that"). The `;` inside `{}` chains provides NP conjunction for
+    the bilateral knowledge condition. Key finding: Tonesu has no dedicated AND particle
+    for NP lists; `;` (sequential) inside a conditional premise is the grammatically
+    correct strategy. `la-mi to-su lo-de-li` = "I have organized knowledge OF the
+    adversary." First use of `to-su lo-[NP]` for relational/entity-directed knowledge
+    — distinct from `to-su {P}` (propositional knowledge established in LOJ-001).
+    `lo-de-li` = patient-marked adversary = knowledge directed at the adversary as
+    an entity. `la-mi to-su lo-mi` = "I have organized knowledge of myself" (self-knowledge
+    condition). Matrix: `a-ka-ra ne no-de-ra` = "all-combat has the property of no-defeat."
+    `no-de-ra` = absence of defeat (no + de-ra). `a-ka-ra` = all instances of combat.
+    Compositional first uses: `no-de-ra`, used compositionally as property NP.'
+- snum: S706
+  gloss: 'If I know myself but not the adversary: combat is [sometimes] victory /
+    [sometimes] defeat.'
+  batch: AOW-001
+  batch_sub: E
+  status: normative
+  tonesu: go {la-mi  to-su  lo-mi  ;  no  la-mi  to-su  lo-de-li},  ka-ra  ne  be-ra  /  ka-ra  ne  de-ra
+  gloss_line: null
+  natural: 'If I know myself but not the adversary: combat is [sometimes] victory
+    / [sometimes] defeat.'
+  words_attested:
+  - W030
+  - W222
+  - W223
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S706
+  notes: 'Sun Tzu, Chapter 3.18 (Giles: "If you know yourself but not the enemy, for
+    every victory gained you will also suffer a defeat"). Know-yourself triptych,
+    Part 2: self only known → alternating outcomes. Premise chain: self-knowledge
+    present (first clause) AND adversary-knowledge absent (`no la-mi to-su lo-de-li`
+    = negated knowledge claim). Matrix: `ka-ra ne be-ra / ka-ra ne de-ra` = "combat
+    has the property of victory / combat has the property of defeat." The `/` bi-clausal
+    parallel pairs two outcome-predications, capturing the alternating fortune Sun
+    Tzu describes. `be-ra` = `be` (increase) + `ra` (force) = force-increase = victory.
+    `de-ra` = defeat (from S704). Compositional first use of `be-ra`. The `/` partition
+    closes neither outcome — it holds both in structural suspension, formally encoding
+    the uncertainty of partial knowledge. Middle sentence of the triptych; flanked
+    by S705 (both known: no defeat) and S707 (neither known: all defeat).'
+- snum: S707
+  gloss: 'If I have neither knowledge of the adversary nor of myself: all combat results
+    in defeat.'
+  batch: AOW-001
+  batch_sub: F
+  status: normative
+  tonesu: go {no  la-mi  to-su  lo-de-li  ;  no  la-mi  to-su  lo-mi},  a-ka-ra  ne  de-ra
+  gloss_line: null
+  natural: 'If I have neither knowledge of the adversary nor of myself: all combat
+    results in defeat.'
+  words_attested:
+  - W030
+  - W223
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S707
+  notes: 'Sun Tzu, Chapter 3.18 (Giles: "If you know neither the enemy nor yourself,
+    you will succumb in every battle"). Know-yourself triptych, Part 3: neither known
+    → defeat in all combats. Both premises negated: `no la-mi to-su lo-de-li` (no
+    adversary knowledge) AND `no la-mi to-su lo-mi` (no self-knowledge). Matrix: `a-ka-ra
+    ne de-ra` = "all-combat has the property of defeat." Exact structural mirror of
+    S705: S705 uses `a-ka-ra ne no-de-ra` (all-combat → no-defeat); S707 uses `a-ka-ra
+    ne de-ra` (all-combat → defeat). The logical symmetry between the two extremes
+    (S705 and S707) is formally encoded in the sentence structure — the only difference
+    is the presence or absence of `no-` on `de-ra` and on each premise clause. S706
+    breaks the symmetry: partial knowledge produces neither the universal security
+    of S705 nor the universal doom of S707 but an unresolvable alternation.'

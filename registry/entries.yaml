@@ -6300,3 +6300,107 @@ entries:
   - Artifact / Daily Life
   - Narrative
   - Biological / Living
+- wnum: W222
+  status: active
+  form: ka-ra
+  written: kara
+  gloss: deliberate force; combat; martial action; warfare
+  lead_root: ka
+  type: compound
+  class: process / action
+  register: standard
+  domain: military / conflict / narrative
+  definition: 'deliberate application of force; combat; martial action; warfare as
+    an activity. The intersection of intentional action (ka) and energy/force (ra):
+    an agent''s deliberate direction of force against another. Distinct from ra-ki
+    (W038: storm — non-volitional force-in-motion) by the ka modifier: ka-ra is always
+    willed, targeted, and agentive.
+
+    '
+  composition: 'ka (deliberate action / intentionality) + ra (force/energy). Head-final:
+    ra (force) is head; ka specifies the force as deliberate and intentional rather
+    than natural or incidental. 2-root compound.'
+  notes: First attestation AOW-001 (S703). Core vocabulary for the Art of War stress
+    test. Distinct from ra alone (raw force, non-volitional), ra-ki (W038, storm/force-in-motion),
+    and ka alone (deliberate action without force specification). a-ka-ra (a-prefix
+    + ka-ra) = universal-scoped warfare, all instances of warfare, used as topic NP
+    in S702. The ne go-si ka-ra construction (not-by-means-of-combat) appears in S704
+    as a manner complement.
+  related: 'ka (deliberate action), ra (force/energy), ra-ki (W038: storm), de-ra
+    (defeat — compositional: force-decrease), be-ra (victory — compositional: force-increase),
+    de-li (W223: adversary)'
+  first_use: 'AOW-001-B (S703): ka-ra ne go-si ki'
+  groups:
+  - Military / Conflict
+  - Action / Process
+  - Narrative
+- wnum: W223
+  status: active
+  form: de-li
+  written: deli
+  gloss: adversary; agent of harm; opposing agent
+  lead_root: de
+  type: compound
+  class: entity (agent)
+  register: standard
+  domain: military / conflict / social / narrative
+  definition: 'an agent whose defining effect on a counterpart is decrease or harm;
+    adversary; opposing agent; enemy. Head li (social agent/person), modified by de
+    (decrease/harm): the person whose agency causes decrease. Covers military enemy,
+    legal adversary, competitive opponent — any agent positioned in opposition whose
+    agency tends toward the counterpart''s decrease. Distinct from de-zo-li (W089:
+    personified death) which carries mythological loading; de-li is a relational role
+    term.
+
+    '
+  composition: 'de (decrease/harm) + li (social agent / person). Head-final: li (agent)
+    is head; de specifies the type of agent by effect — one whose agency causes decrease.
+    Mirror of be-li (W056: benefactor = increase-agent).'
+  notes: 'First attestation AOW-001-C (S704). Part of the know-yourself triptych (S705–S707).
+    Used as la-de-li (the adversary, agent-marked) throughout S704–S707. Intentionally
+    relational: de-li is "adversary" only relative to a counterpart — there is no
+    absolute de-li in Tonesu, only contextually adversarial roles.'
+  related: 'de (decrease/harm), li (social agent), be-li (W056: benefactor), de-zo-li
+    (W089: personified death), ka-ra (W222: combat), de-ra (compositional: defeat
+    / force-decrease)'
+  first_use: 'AOW-001-C (S704): ra-no-fe : la-de-li ne de-ra no go-si ka-ra'
+  groups:
+  - Social / Relational
+  - Military / Conflict
+  - Narrative
+- wnum: W224
+  status: active
+  form: ka-si-de
+  written: kaside
+  gloss: deliberate deception; strategic misdirection; intentional signal-corruption
+  lead_root: ka
+  type: compound
+  class: process / action
+  register: standard
+  domain: military / conflict / social / epistemics
+  definition: 'the deliberate act of corrupting or degrading a signal to mislead a
+    recipient; strategic deception; misdirection. Default right-branching parse: ka
+    modifies [si-de], where si-de = signal-decrease = the reduction of signal fidelity.
+    Ka-si-de = intentional [signal-decrease] = deliberate degradation of information
+    fidelity for strategic purposes. Distinguished from simple ignorance (absence
+    of knowledge) by the ka (intentionality) component: ka-si-de is always an agentive
+    act, not an accident or omission.
+
+    '
+  composition: 'ka (deliberate action) + si (signal/information channel) + de (decrease/harm/corruption).
+    Default right-branching: ka modifies [si-de]. Si-de = signal-decrease; ka-si-de
+    = intentional [signal-decrease] = deliberate signal-corruption = deception.'
+  notes: 'First attestation AOW-001-A (S702). Sun Tzu''s foundational axiom "all warfare
+    is based on deception" is rendered as a-ka-ra ne go-si ka-si-de. The three-root
+    compound carries ka (intentionality), si (information/signal), and de (decrease/corruption):
+    deception as intentional information degradation, not mere falsehood-utterance.
+    Consistent with an information-theoretic analysis of deception: lying is a signal
+    manipulation that reduces the recipient''s epistemic access to states of the world.'
+  related: 'ka (deliberate action), si (signal/information), de (decrease/harm), si-de
+    (signal-degradation — compositional), ka-ra (W222: combat), to-no-fe (omniscience
+    — the no-fe extremal of to: maximum knowledge, contrast term for ka-si-de)'
+  first_use: 'AOW-001-A (S702): a-ka-ra ne go-si ka-si-de'
+  groups:
+  - Military / Conflict
+  - Epistemics / Knowledge
+  - Social / Relational

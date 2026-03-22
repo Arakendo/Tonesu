@@ -3022,6 +3022,43 @@
         "su",
         "mu"
       ]
+    },
+    {
+      "wnum": "W222",
+      "form": "ka-ra",
+      "written": "kara",
+      "gloss": "deliberate force; combat; martial action; warfare",
+      "status": "active",
+      "domain": "military / conflict / narrative",
+      "roots": [
+        "ka",
+        "ra"
+      ]
+    },
+    {
+      "wnum": "W223",
+      "form": "de-li",
+      "written": "deli",
+      "gloss": "adversary; agent of harm; opposing agent",
+      "status": "active",
+      "domain": "military / conflict / social / narrative",
+      "roots": [
+        "de",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W224",
+      "form": "ka-si-de",
+      "written": "kaside",
+      "gloss": "deliberate deception; strategic misdirection; intentional signal-corruption",
+      "status": "active",
+      "domain": "military / conflict / social / epistemics",
+      "roots": [
+        "ka",
+        "si",
+        "de"
+      ]
     }
   ]
 }

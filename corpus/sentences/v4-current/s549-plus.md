@@ -2728,3 +2728,111 @@ la-na-Faro  wi-fe-ki  /  no  la-na-Faro  si  lo-si-be-go-li
 **Compositional first uses:** `ko-de` (swallow/engulf-and-consume); `wi-fe-ki` (harden one's will); `si-be-go-li` (divine signal); `na-Aharon` (Aaron); `na-Faro` (Pharaoh).
 **Key finding:** "X became Y" requires a three-clause decomposition in Tonesu: `X ki ; ne Y` (X changed; [it is] Y). There is no single-clause 'become' verb. The competitive structure of the passage maps naturally onto two parallel `;` chains (S696 and S699) with the decisive `ko-de` resolution in S700.
 
+
+
+---
+
+## AOW-001 — *The Art of War* (Sun Tzu, Chapters 1 & 3) — Deception, Rapidity, and the Know-Yourself Triptych
+
+*Batch purpose (AOW-001): Core axioms from Sun Tzu's* The Art of War *(孫子兵法), Chapters 1 and 3. Key tests: first use of ka-ra (W222: combat/warfare), de-li (W223: adversary), and ka-si-de (W224: deliberate deception); compositional first uses de-ra (defeat: force-decrease), be-ra (victory: force-increase), ra-no-fe (supreme excellence: ra-extremal), no-de-ra (absence of defeat); first use of ne go-si [X] for instrumental-property predication; first use of to-su lo-[NP] for relational knowledge (entity-directed vs propositional); `;` inside `{}` conditional frame for NP conjunction (correcting the wi misconception — wi is the purpose particle, not AND). Full analysis in `corpus/translations/Literature/art-of-war.md`.*
+
+---
+
+### S702 — AOW-001-A
+
+```
+a-ka-ra  ne  go-si  ka-si-de
+```
+
+**Written:** `akara ne gosi kaside`
+
+**Natural reading:** All warfare operates through deception.
+
+**Notes:** Sun Tzu, Chapter 1.18 (Giles: "All warfare is based on deception"; Chinese: 兵者，詭道也). `a-ka-ra` = `a-` scope prefix (abstract/universal) + `ka-ra` (W222: combat) = all-warfare without restriction, every instance of warfare. First use of `a-ka-ra`. `ne go-si ka-si-de` = "has the property of being-by-means-of deception." First use of `ne go-si [X]` as instrumental-property predication — attributing to an entity a characteristic operational mode. `go-si` (instrumental "by means of") normally attaches to action clauses; here it is predicated directly via `ne` to mark the defining mode of all-warfare as deception. `ka-si-de` (W224) = deliberate deception; intentional signal-corruption. Tonesu renders 兵者，詭道也 as a property claim: all-warfare IS the kind of thing that operates through deception as its defining mode.
+
+---
+
+### S703 — AOW-001-B
+
+```
+ka-ra  ne  go-si  ki
+```
+
+**Written:** `kara ne gosi ki`
+
+**Natural reading:** Warfare operates through speed.
+
+**Notes:** Sun Tzu on the centrality of rapidity (cp. Chapter 11: 兵之情主速, "The essential character of warfare prizes speed"). Parallel structure to S702: both are `[subject] ne go-si [mode]` property predications attributing an operational mode to warfare. `ka-ra` (W222) = warfare; `ki` = change/motion/speed (primitive root). In military context `ki` carries the reading of rapid, decisive movement — the speed dimension of ki rather than mere change-in-general. The S702–S703 couplet presents Sun Tzu's two foundational operational principles (deception and speed) as parallel property predications, making their structural symmetry formally explicit.
+
+---
+
+### S704 — AOW-001-C
+
+```
+ra-no-fe  :  la-de-li  ne  de-ra  no  go-si  ka-ra
+```
+
+**Written:** `ranofe: ladeli ne dera no gosi kara`
+
+**Natural reading:** As for supreme excellence: the adversary is in a state of defeat, not via combat.
+
+**Notes:** Sun Tzu, Chapter 3.2 (Giles: "supreme excellence consists in breaking the enemy's resistance without fighting"). `ra-no-fe` = [ra]-no-fe extremal = unbounded force/excellence (THO-001 pattern applied to `ra`). First use of `ra-no-fe` in military register (not theological). Used as the topic NP in the topic frame `:`: "as for supreme excellence — [its character is defined by what follows]." `la-de-li` = the adversary (W223) in the agent position. `ne de-ra` = has the property of force-decrease = is in a state of defeat. `de-ra` = `de` (decrease) + `ra` (force) = force-decrease as a state = defeat. Compositional first use. `no go-si ka-ra` = "not by means of combat." The adversary's defeat is the mark of supreme excellence specifically when achieved without direct combat. The `:` topic frame presents `ra-no-fe` as the concept under examination; the comment clause defines it concretely: what makes supreme excellence is adversarial defeat achieved without fighting.
+
+---
+
+### S705 — AOW-001-D
+
+```
+go {la-mi  to-su  lo-de-li  ;  la-mi  to-su  lo-mi},  a-ka-ra  ne  no-de-ra
+```
+
+**Written:** `go {lami tosu lodeli; lami tosu lomi}, akara ne nodera`
+
+**Natural reading:** If I have organized knowledge of the adversary and of myself: all combat is free of defeat.
+
+**Notes:** Sun Tzu, Chapter 3.18 (Giles: "If you know the enemy and know yourself, you need not fear the result of a hundred battles"). Know-yourself triptych, Part 1: both known → no defeat. `go {premises},` = conditional causal frame. Premises are two clauses joined with `;` (constant conjunction, not `wi` which is the purpose frame "in order that"). The `;` inside `{}` chains provides NP conjunction for the bilateral knowledge condition. Key finding: Tonesu has no dedicated AND particle for NP lists; `;` (sequential) inside a conditional premise is the grammatically correct strategy. `la-mi to-su lo-de-li` = "I have organized knowledge OF the adversary." First use of `to-su lo-[NP]` for relational/entity-directed knowledge — distinct from `to-su {P}` (propositional knowledge established in LOJ-001). `lo-de-li` = patient-marked adversary = knowledge directed at the adversary as an entity. `la-mi to-su lo-mi` = "I have organized knowledge of myself" (self-knowledge condition). Matrix: `a-ka-ra ne no-de-ra` = "all-combat has the property of no-defeat." `no-de-ra` = absence of defeat (no + de-ra). `a-ka-ra` = all instances of combat. Compositional first uses: `no-de-ra`, used compositionally as property NP.
+
+---
+
+### S706 — AOW-001-E
+
+```
+go {la-mi  to-su  lo-mi  ;  no  la-mi  to-su  lo-de-li},  ka-ra  ne  be-ra  /  ka-ra  ne  de-ra
+```
+
+**Written:** `go {lami tosu lomi; no lami tosu lodeli}, kara ne bera / kara ne dera`
+
+**Natural reading:** If I know myself but not the adversary: combat is [sometimes] victory / [sometimes] defeat.
+
+**Notes:** Sun Tzu, Chapter 3.18 (Giles: "If you know yourself but not the enemy, for every victory gained you will also suffer a defeat"). Know-yourself triptych, Part 2: self only known → alternating outcomes. Premise chain: self-knowledge present (first clause) AND adversary-knowledge absent (`no la-mi to-su lo-de-li` = negated knowledge claim). Matrix: `ka-ra ne be-ra / ka-ra ne de-ra` = "combat has the property of victory / combat has the property of defeat." The `/` bi-clausal parallel pairs two outcome-predications, capturing the alternating fortune Sun Tzu describes. `be-ra` = `be` (increase) + `ra` (force) = force-increase = victory. `de-ra` = defeat (from S704). Compositional first use of `be-ra`. The `/` partition closes neither outcome — it holds both in structural suspension, formally encoding the uncertainty of partial knowledge. Middle sentence of the triptych; flanked by S705 (both known: no defeat) and S707 (neither known: all defeat).
+
+---
+
+### S707 — AOW-001-F
+
+```
+go {no  la-mi  to-su  lo-de-li  ;  no  la-mi  to-su  lo-mi},  a-ka-ra  ne  de-ra
+```
+
+**Written:** `go {no lami tosu lodeli; no lami tosu lomi}, akara ne dera`
+
+**Natural reading:** If I have neither knowledge of the adversary nor of myself: all combat results in defeat.
+
+**Notes:** Sun Tzu, Chapter 3.18 (Giles: "If you know neither the enemy nor yourself, you will succumb in every battle"). Know-yourself triptych, Part 3: neither known → defeat in all combats. Both premises negated: `no la-mi to-su lo-de-li` (no adversary knowledge) AND `no la-mi to-su lo-mi` (no self-knowledge). Matrix: `a-ka-ra ne de-ra` = "all-combat has the property of defeat." Exact structural mirror of S705: S705 uses `a-ka-ra ne no-de-ra` (all-combat → no-defeat); S707 uses `a-ka-ra ne de-ra` (all-combat → defeat). The logical symmetry between the two extremes (S705 and S707) is formally encoded in the sentence structure — the only difference is the presence or absence of `no-` on `de-ra` and on each premise clause. S706 breaks the symmetry: partial knowledge produces neither the universal security of S705 nor the universal doom of S707 but an unresolvable alternation.
+
+---
+
+## AOW-001 Batch Summary
+
+| Entry | Tonesu | Written form | Key feature |
+|-------|--------|-------------|-------------|
+| S702 (AOW-001-A) | `a-ka-ra  ne  go-si  ka-si-de` | `akara ne gosi kaside` | First use `ne go-si [X]` instrumental-property predication; `a-ka-ra` universal-scoped warfare |
+| S703 (AOW-001-B) | `ka-ra  ne  go-si  ki` | `kara ne gosi ki` | Parallel deception/speed couplet; `ka-ra` W222 first attestation |
+| S704 (AOW-001-C) | `ra-no-fe  :  la-de-li  ne  de-ra  no  go-si  ka-ra` | `ranofe: ladeli ne dera no gosi kara` | `ra-no-fe` extremal in military register; `de-ra` (defeat) compositional first use; `de-li` W223 first attestation |
+| S705 (AOW-001-D) | `go {la-mi  to-su  lo-de-li  ;  la-mi  to-su  lo-mi},  a-ka-ra  ne  no-de-ra` | `go {lami tosu lodeli; lami tosu lomi}, akara ne nodera` | First `to-su lo-[NP]` relational knowledge; `;` inside `{}` for NP conjunction; `no-de-ra` compositional |
+| S706 (AOW-001-E) | `go {la-mi  to-su  lo-mi  ;  no  la-mi  to-su  lo-de-li},  ka-ra  ne  be-ra  /  ka-ra  ne  de-ra` | `go {lami tosu lomi; no lami tosu lodeli}, kara ne bera / kara ne dera` | `be-ra` (victory) compositional first use; `/` pairing alternating outcomes |
+| S707 (AOW-001-F) | `go {no  la-mi  to-su  lo-de-li  ;  no  la-mi  to-su  lo-mi},  a-ka-ra  ne  de-ra` | `go {no lami tosu lodeli; no lami tosu lomi}, akara ne dera` | Exact mirror of S705; `a-ka-ra ne de-ra` vs `a-ka-ra ne no-de-ra` minimal pair |
+
+**New vocabulary:** W222 `ka-ra` (combat/warfare), W223 `de-li` (adversary), W224 `ka-si-de` (deliberate deception).
+**Compositional first uses:** `de-ra` (defeat: force-decrease); `be-ra` (victory: force-increase); `ra-no-fe` (supreme excellence: ra-extremal); `no-de-ra` (absence of defeat); `a-ka-ra` (all-warfare: a-scoped ka-ra); `to-su lo-[NP]` relational knowledge pattern.
+**Key finding:** Tonesu has no AND coordinator for NP lists. Bilateral conditions in a `go {}` premise use `;` (sequential: constant conjunction) to chain the two knowledge clauses. `wi` is the purpose frame ("in order that"), not an AND particle — confirmed in grammar.md line 927.

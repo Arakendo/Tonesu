@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 121 |
+| [w101-plus.md](w101-plus.md) | W101+ | 124 |
 
-**Total: 209 W-series entries** — active: 166 · proposed: 2 · pending: 39 · cold: 0 · retired: 2
+**Total: 212 W-series entries** — active: 169 · proposed: 2 · pending: 39 · cold: 0 · retired: 2
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -33,6 +33,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `be-go-li-si` | W149 | creator-representation, image (tselem) | ⏳ | [w101-plus](w101-plus.md) |
 | `de-be` | W035 | repair, restore | ✅ | [w001-w050](w001-w050.md) |
 | `de-ki'ma` | W162 | wine / fermented liquid | ✅ | [w101-plus](w101-plus.md) |
+| `de-li` | W223 | adversary; agent of harm; opposing agent | ✅ | [w101-plus](w101-plus.md) |
 | `de-su` | W119 | fault, wrong, moral failing | ✅ | [w101-plus](w101-plus.md) |
 | `de-vo` | W121 | evil, value-corruption quality | ✅ | [w101-plus](w101-plus.md) |
 | `de-zo` | W178 | death, dying (organism-decrease, non-agentive) | ✅ | [w101-plus](w101-plus.md) |
@@ -71,6 +72,8 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `ka-no-de-su` | W120 | forgiveness, deliberate removal of fault | ✅ | [w101-plus](w101-plus.md) |
 | `ka-pa-ki` | W160 | liberation act, deliberate place-motion | ✅ | [w101-plus](w101-plus.md) |
 | `ka-pa-ki'ti-re` | W167 | Passover festival, recurring liberation event | ✅ | [w101-plus](w101-plus.md) |
+| `ka-ra` | W222 | deliberate force; combat; martial action; warfare | ✅ | [w101-plus](w101-plus.md) |
+| `ka-si-de` | W224 | deliberate deception; strategic misdirection; intentional signal-corruption | ✅ | [w101-plus](w101-plus.md) |
 | `ka-to-fe` | W122 | judge, deliberate epistemic bounding | ✅ | [w101-plus](w101-plus.md) |
 | `ka-vo-si` | W168 | thanksgiving / blessing, deliberate value-signal | ✅ | [w101-plus](w101-plus.md) |
 | `ki'ma` | W114 | liquid (material state) | ⏳ | [w101-plus](w101-plus.md) |
@@ -289,7 +292,7 @@ Concept-first lookup: find the compound you need by domain.
 `de-zo-ki` W186 necromancy · `ge-ki` W187 transmutation · `ge-se-ki` W185 illusion · `ko-fe-ki` W180 abjuration · `pa-be-ki` W181 conjuration · `ra-be-ki` W184 evocation · `to-se-ki` W182 divination · `wi-fa-ki` W183 enchantment · `wi-ra-su` W179 magic
 
 **Action / Process**
-`ka-be-ne` W218 binding / deliberate bond-creation
+`ka-be-ne` W218 binding / deliberate bond-creation · `ka-ra` W222 deliberate force
 
 **Agent / Entity Types**
 `wi-ra-li` W217 spirit / directed-force-agent
@@ -302,6 +305,9 @@ Concept-first lookup: find the compound you need by domain.
 
 **Cosmology / Metaphysics**
 `pa-ma` W194 material realm · `pa-ne-su` W196 cosmological framework · `to-pa` W195 thought-realm
+
+**Epistemics / Knowledge**
+`ka-si-de` W224 deliberate deception
 
 **Ethics / Philosophy**
 `pa-ki-su` W198 liberty · `wi-de` W191 evil · `wi-no-su` W189 chaotic · `wi-su` W188 lawful · `wi-su-fe` W192 law-neutral · `wi-vo` W190 good · `wi-vo-fe` W193 ethics-neutral
@@ -330,14 +336,20 @@ Concept-first lookup: find the compound you need by domain.
 **Meta / Language**
 `to'to-ne-su` W170 meta-truth · `to-to-ne-su` W169 knowledge of truth
 
+**Military / Conflict**
+`de-li` W223 adversary · `ka-ra` W222 deliberate force · `ka-si-de` W224 deliberate deception
+
 **Narrative**
-`zo-ki-ma` W220 snake / serpent / limbless locomoting organism · `zo-su-mu` W221 staff / rod / wooden implement
+`de-li` W223 adversary · `ka-ra` W222 deliberate force · `zo-ki-ma` W220 snake / serpent / limbless locomoting organism · `zo-su-mu` W221 staff / rod / wooden implement
 
 **Normative**
 `wi-fe'de` W203 penalty
 
 **Signal / Inscription**
 `fe-vo'si-ko-mu` W219 consecrated inscribed object / pentacle / talisman
+
+**Social / Relational**
+`de-li` W223 adversary · `ka-si-de` W224 deliberate deception
 
 **Social / Role**
 `ra-ka-li` W206 fighter / combatant · `se-de-li` W208 rogue / stealth agent · `so-vo-li` W213 bard / sonic artist · `to-ra-li` W207 wizard / mage · `vo-ra-li` W209 cleric / divine agent · `wi-vo-li` W211 paladin / oath-champion · `zo-ki-li` W212 ranger / wilderness guide · `zo-re-li` W210 druid / nature-cycle practitioner
@@ -352,14 +364,14 @@ Quick lookup by lead primitive root.
 |-----------|-----------------|
 | `?` | wi-ra-su W179, ko-fe-ki W180, pa-be-ki W181, to-se-ki W182, wi-fa-ki W183, ra-be-ki W184, ge-se-ki W185, de-zo-ki W186, ge-ki W187, wi-su W188, wi-no-su W189, wi-vo W190, wi-de W191, wi-su-fe W192, wi-vo-fe W193, ra-ka-li W206, to-ra-li W207, se-de-li W208, vo-ra-li W209, zo-re-li W210, wi-vo-li W211, zo-ki-li W212, so-vo-li W213 |
 | `be` | be-go-li-si W149 |
-| `de` | de-be W035, de-su W119, de-vo W121, de-ki'ma W162, de-zo W178 |
+| `de` | de-be W035, de-su W119, de-vo W121, de-ki'ma W162, de-zo W178, de-li W223 |
 | `di` | di-ki-li W061 |
 | `du` | du-zo-su W142 |
 | `fa` | fa-ki W093, fa-de W094, fa-no W095, fa-re W096, fa-ra-be W123, fa-wi-de W127, fa-wi-zi W136, fa-ra W154, fa-de-ra W155, fa-wi-ra W172, fa-su W173, fa-vo W197 |
 | `fe` | fe-si W024, fe-su W055, fe-no-ka W056, fe-vo W065, fe-vo'si-ko-mu W219 |
 | `go` | go-ne W159 |
 | `ha` | ha-de W044, ha-zo-ra-ma W216 |
-| `ka` | ka-mu W047, ka-ne-de W092, ka-no-de-su W120, ka-to-fe W122, ka-de-zo W128, ka-li-su W147, ka-pa-ki W160, ka-du-zo-su W161, ka-pa-ki'ti-re W167, ka-vo-si W168, ka-li-de W205, ka-be-ne W218 |
+| `ka` | ka-mu W047, ka-ne-de W092, ka-no-de-su W120, ka-to-fe W122, ka-de-zo W128, ka-li-su W147, ka-pa-ki W160, ka-du-zo-su W161, ka-pa-ki'ti-re W167, ka-vo-si W168, ka-li-de W205, ka-be-ne W218, ka-ra W222, ka-si-de W224 |
 | `ki` | ki-pa W049, ki-pa-mu W086, ki'ma W114, ki-ne W152 |
 | `ko` | ko-pa W048, ko-mu W052, ko-ne-mu W176, ko-ha-mu W214 |
 | `li` | li-su-li W001, li-be W033, li-pu-pa W036 |
