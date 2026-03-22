@@ -12497,3 +12497,158 @@ sentences:
     onto Tonesu''s epistemic grain. Provisional status: this is the first corpus sentence
     using `to-su` with a braced proposition. The `to-su {P}` pattern may need a second
     attestation before becoming fully confirmed grammar; development noted in open-questions.md.'
+- snum: S696
+  gloss: Aaron cast the staff; the staff changed; [it was] a snake.
+  batch: EXO-002
+  batch_sub: A
+  status: normative
+  tonesu: la-na-Aharon  ka  lo-zo-su-mu ;  zo-su-mu  ki ;  ne  zo-ki-ma
+  gloss_line: null
+  natural: Aaron cast the staff; the staff changed; [it was] a snake.
+  words_attested:
+  - W220
+  - W221
+  first_attests:
+  - W220
+  - W221
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S696
+  notes: 'Three-clause sequential chain via `;` (constant conjunction without causal
+    claim): (1) Aaron deliberately-acted on the staff = cast it; (2) the staff underwent
+    change/motion event; (3) resulting state: [it was] snake. `ka  lo-X` = perform
+    a deliberate action on X. `zo-su-mu` (W221) = staff/wooden implement. `ki` = primitive
+    motion/change event (intransitive — the staff itself changed). `ne  zo-ki-ma`
+    = copula + snake = the resulting-state predication. `zo-ki-ma` (W220) = snake/serpent;
+    first attestation of both new words. `na-Aharon` = Aaron, first proper-name attestation
+    in corpus. The mechanism of transformation is not specified — `ki` (change) leaves
+    the agent of transformation implicit (theologically: divine). The three-clause
+    chain is necessitated by Tonesu''s lack of a ''become'' verb: the change event
+    and the resulting state are separate clauses. This is a key structural finding:
+    Tonesu cannot render "X became Y" in a single clause; it must decompose into change-event
+    + result-copula.'
+- snum: S697
+  gloss: Pharaoh directed a summons to the sorcerers.
+  batch: EXO-002
+  batch_sub: B
+  status: normative
+  tonesu: la-na-Faro  si-ki  lo-to-ra-li
+  gloss_line: null
+  natural: Pharaoh directed a summons to the sorcerers.
+  words_attested:
+  - W023
+  - W207
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S697
+  notes: '`na-Faro` = Pharaoh; first proper-name attestation (Hebrew: Par''oh). `si-ki`
+    = directed signal = summons/call (signal aimed at a recipient). `lo-to-ra-li`
+    = patient: the sorcerers/magicians. `to-ra-li` (W207) = knowledge-force-agent
+    = wizard/sorcerer — first attestation in Exodus/Biblical register; the same compound
+    covers D&D wizards (DND-004) and Egyptian magicians equally. This tests whether
+    W207 generalizes beyond its fantasy-genre origin into a historical/religious text
+    genre; it does. The sentence is structurally minimal: authority figure issues
+    a directed signal to subordinates.'
+- snum: S698
+  gloss: The sorcerers cast their staffs by means of their secret arts.
+  batch: EXO-002
+  batch_sub: C
+  status: normative
+  tonesu: la-to-ra-li  ka  lo-zo-su-mu-ne  go-si  wi-ra-su
+  gloss_line: null
+  natural: The sorcerers cast their staffs by means of their secret arts.
+  words_attested:
+  - W179
+  - W207
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S698
+  notes: '`lo-zo-su-mu-ne` = patient: their staffs; `ne` (bond/connection) appended
+    as possessive = the staffs bonded to them. `go-si` = signal-means = "by way of
+    / by means of" (instrumental particle, established in SOL-001). `wi-ra-su` (W179)
+    = systematic-directed-force-practice = magic/secret arts — first attestation in
+    Biblical register. The sentence leaves what was done with the staffs implicit
+    (the action outcome is the parallel transformation in S699). The phrase `go-si  wi-ra-su`
+    = "by means of systematic magical practice" maps to Hebrew `b''lahateihem` (by
+    their enchantments / secret arts). Note: in Tonesu, `wi-ra-su` is a body of practice
+    (magic as a system), not a specific spell or force-event; `go-si` marks it as
+    the means by which the action was executed.'
+- snum: S699
+  gloss: Their staffs changed; [they were] snakes.
+  batch: EXO-002
+  batch_sub: D
+  status: normative
+  tonesu: zo-su-mu-ne  ki ;  ne  zo-ki-ma
+  gloss_line: null
+  natural: Their staffs changed; [they were] snakes.
+  words_attested:
+  - W220
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S699
+  notes: 'Subject-initial, agentless parallel transformation chain: mirrors the second
+    two clauses of S696 but applied to the sorcerers'' staffs (`zo-su-mu-ne` = their
+    staffs). The two-clause `;` chain (`ki ; ne zo-ki-ma`) is the exact structural
+    echo of S696''s clauses 2–3. The structural parallel between S696 and S699 is
+    the key syntactic finding: the same transformation pattern applies to both Aaron''s
+    staff and the sorcerers'' staffs, encoded by the same `;` chain form. The structural
+    symmetry makes the competition explicit: two instances of the same pattern, set
+    up for the decisive outcome in S700.'
+- snum: S700
+  gloss: Aaron's snake consumed their staffs.
+  batch: EXO-002
+  batch_sub: E
+  status: normative
+  tonesu: la-zo-ki-ma-na-Aharon  ko-de  lo-zo-su-mu-ne
+  gloss_line: null
+  natural: Aaron's snake consumed their staffs.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S700
+  notes: '`zo-ki-ma-na-Aharon` = Aaron''s-serpent = the transformed serpent belonging
+    to Aaron (possessive chain: thing + `na-` + name). `ko-de` = containment-decrease
+    = engulf-and-consume = devour/swallow (compositional, 2-root, below CLQ threshold).
+    `lo-zo-su-mu-ne` = patient: their staffs. The sentence follows the Hebrew source
+    text (Exodus 7:12b: "Aaron''s staff swallowed up their staffs") in using `zo-su-mu-ne`
+    (staffs) as the patient rather than `zo-ki-ma-ne` (their snakes) — the Hebrew
+    text reverts to "staffs" even though they had been transformed. This creates a
+    notable cross-type reference: the subject is `zo-ki-ma-na-Aharon` (the snake)
+    but the patient is `zo-su-mu-ne` (their staffs). Possible interpretations: (1)
+    the sorcerers'' snakes transformed back to staffs as they were consumed; (2) the
+    text uses "staffs" metonymically for the whole event. In Tonesu the sentence is
+    grammatical either way; the cross-type reference is documented here. `ko-de` first
+    attestation as a swallowing/devouring action verb.'
+- snum: S701
+  gloss: 'Pharaoh''s will hardened / Not: Pharaoh received the divine signal.'
+  batch: EXO-002
+  batch_sub: F
+  status: normative
+  tonesu: la-na-Faro  wi-fe-ki  /  no  la-na-Faro  si  lo-si-be-go-li
+  gloss_line: null
+  natural: 'Pharaoh''s will hardened / Not: Pharaoh received the divine signal.'
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S701
+  notes: 'Bi-clausal parallel (`/`) pairing Pharaoh''s internal volitional state with
+    his external non-reception. `wi-fe-ki` = will-boundary-inchoative = the will entering
+    a bounded/closed state = hardening of will (first attestation; compositional from
+    `wi` + `fe` + `-ki` inchoative suffix). Maps to Hebrew `yehezak lev-Faro` (Pharaoh''s
+    heart became strong/hard, Exodus 7:13). The `/` particle pairs the two clauses
+    structurally: the hardening and the non-reception are the two faces of the same
+    refusal. `no la-na-Faro  si  lo-si-be-go-li` = Not: Pharaoh-perceived the divine-signal
+    = he did not receive/hear what the creator-agent was signaling. `si-be-go-li`
+    = signal-from-the-creator-agent = the divine sign/message (compositional). The
+    bi-clausal parallel leaves the causal relationship between the two clauses unstated
+    — the `/` pairs them structurally; which is cause and which is effect is theologically
+    contested (divine hardening vs volitional hardening). This ambiguity is appropriate:
+    the Hebrew text itself oscillates. The Tonesu sentence is deliberately agentless
+    in the first clause (`la-na-Faro wi-fe-ki` has Pharaoh as the subject-of-will,
+    not as external agent), making the volitional vs divine-hardening ambiguity structurally
+    present.'

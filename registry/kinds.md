@@ -44,6 +44,9 @@ zo  (living thing)
 ├── zo-su  structural organism / plants
 │         PLT-001 · S286–S292 · s279-s334.md
 │
+├── zo-ki-ma  limbless-locomoting organism / snakes, serpents, eels
+│              EXO-002 · S696–S701 · s549-plus.md
+│
 ├── zo-pe  component organism / arthropods & invertebrates
 │         KNM-008 · S321–S327 · s279-s334.md
 │

@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 119 |
+| [w101-plus.md](w101-plus.md) | W101+ | 121 |
 
-**Total: 207 W-series entries** — active: 164 · proposed: 2 · pending: 39 · cold: 0 · retired: 2
+**Total: 209 W-series entries** — active: 166 · proposed: 2 · pending: 39 · cold: 0 · retired: 2
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -218,6 +218,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `zo-de` | W051 | fatigue, physical tiredness | ✅ | [w051-w100](w051-w100.md) |
 | `zo-ki'ma` | W164 | blood, living liquid | ✅ | [w101-plus](w101-plus.md) |
 | `zo-ki-li` | W212 | ranger / wilderness guide | ✅ | [w101-plus](w101-plus.md) |
+| `zo-ki-ma` | W220 | snake / serpent / limbless locomoting organism | ✅ | [w101-plus](w101-plus.md) |
 | `zo-li` | W148 | human person, living-person class | ✅ | [w101-plus](w101-plus.md) |
 | `zo-ma` | W163 | body, physical matter of a living being | ✅ | [w101-plus](w101-plus.md) |
 | `zo-ne` | W076 | biological kinship bond | ⏳ | [w051-w100](w051-w100.md) |
@@ -234,6 +235,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `zo-si` | W069 | spirit, disembodied living agent | ✅ | [w051-w100](w051-w100.md) |
 | `zo-su-be` | W143 | seed, plant-growth-product | ⏳ | [w101-plus](w101-plus.md) |
 | `zo-su-ka-li` | W150 | shepherd, structured-organism-tending-agent | ✅ | [w101-plus](w101-plus.md) |
+| `zo-su-mu` | W221 | staff / rod / wooden implement | ✅ | [w101-plus](w101-plus.md) |
 | `zo-to` | W068 | soul, organism identity-pattern | ✅ | [w051-w100](w051-w100.md) |
 
 *Retired entries (W111 `de-ti`, W112 `be-ti`) — see their entries for details.*
@@ -292,6 +294,12 @@ Concept-first lookup: find the compound you need by domain.
 **Agent / Entity Types**
 `wi-ra-li` W217 spirit / directed-force-agent
 
+**Artifact / Daily Life**
+`zo-su-mu` W221 staff / rod / wooden implement
+
+**Biological / Living**
+`zo-ki-ma` W220 snake / serpent / limbless locomoting organism · `zo-su-mu` W221 staff / rod / wooden implement
+
 **Cosmology / Metaphysics**
 `pa-ma` W194 material realm · `pa-ne-su` W196 cosmological framework · `to-pa` W195 thought-realm
 
@@ -307,6 +315,9 @@ Concept-first lookup: find the compound you need by domain.
 **Health / Organism**
 `su-zo-ko` W204 coverage
 
+**Kinds**
+`zo-ki-ma` W220 snake / serpent / limbless locomoting organism
+
 **Law / Governance**
 `ka-li-de` W205 tax · `su-zo-ko` W204 coverage · `wi-fe'de` W203 penalty
 
@@ -318,6 +329,9 @@ Concept-first lookup: find the compound you need by domain.
 
 **Meta / Language**
 `to'to-ne-su` W170 meta-truth · `to-to-ne-su` W169 knowledge of truth
+
+**Narrative**
+`zo-ki-ma` W220 snake / serpent / limbless locomoting organism · `zo-su-mu` W221 staff / rod / wooden implement
 
 **Normative**
 `wi-fe'de` W203 penalty
@@ -366,4 +380,4 @@ Quick lookup by lead primitive root.
 | `vo` | vo-ne W118, vo-mu W137 |
 | `wi` | wi-to W045, wi-ka-su W054, wi-si W063, wi-to-su W073, wi-re-su W074, wi-re W099, wi-fe W100, wi-de-li W124, wi-no-ra W132, wi-zo W145, wi-du W175, wi-ra W177, wi-fe'de W203, wi-ra-li W217 |
 | `zi` | zi-ra W104, zi-ka W105, zi-zo W106, zi-zo-go W107, zi-zo-du W108 |
-| `zo` | zo-no-ki W043, zo-de W051, zo-se-ki W060, zo-to W068, zo-si W069, zo-ne W076, zo-ne-go W077, zo-ne-du W078, zo-ne-ru W079, zo-ne-go-re W080, zo-ne-du-re W081, zo-ra W117, zo-su-be W143, zo-ra-ma W144, zo-li W148, zo-su-ka-li W150, zo-ma W163, zo-ki'ma W164 |
+| `zo` | zo-no-ki W043, zo-de W051, zo-se-ki W060, zo-to W068, zo-si W069, zo-ne W076, zo-ne-go W077, zo-ne-du W078, zo-ne-ru W079, zo-ne-go-re W080, zo-ne-du-re W081, zo-ra W117, zo-su-be W143, zo-ra-ma W144, zo-li W148, zo-su-ka-li W150, zo-ma W163, zo-ki'ma W164, zo-ki-ma W220, zo-su-mu W221 |

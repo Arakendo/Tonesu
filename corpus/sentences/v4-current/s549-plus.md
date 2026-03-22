@@ -2620,3 +2620,111 @@ la-li  to-su  {la-Sokrates  ne  de-zo}
 **Coverage:** `i-` as existential scope prefix (S690, completing universal/existential pair with S684); causal-frame as event-nominalization substitute (S691); claim vs predicate negation scope distinction (S692/S693, Lojban na/na'e); belief vs organized knowledge in propositional attitude (S694/S695, Lojban jinvi/djuno + du'u). No new vocabulary.
 
 **Key finding:** Lojban's type machinery maps onto Tonesu through structural redirections rather than direct analogues. The `lo nu X` event nominal becomes a causal clause; the `na`/`na'e` distinction already exists in the five-level negation system; the `jinvi`/`djuno` belief-knowledge distinction maps to `to` vs `to-su`. The one genuine gap: Lojban's `tanru` (underdetermined compound) cannot be reproduced in Tonesu — every compound is compositionally specified. This is a design choice, not a deficiency: Tonesu demands disambiguation at the point of construction.
+
+---
+
+## EXO-002 — Exodus 7:8–12 — Aaron's Staff and the Sorcerers
+
+*Batch purpose (EXO-002): Staff-and-serpent confrontation: Aaron's staff transforms into a snake before Pharaoh; the Egyptian sorcerers replicate by their secret arts; Aaron's serpent devours theirs. Key tests: categorical transformation via three-clause `;` sequential chain (`zo-su-mu ki ; ne zo-ki-ma`); first use of `zo-ki-ma` (W220, snake genus term) and `zo-su-mu` (W221, staff/wooden implement); `to-ra-li` (W207) and `wi-ra-su` (W179) in Biblical register; instrumental `go-si`; `ko-de` (engulf-and-consume / swallow); `wi-fe-ki` (harden one's will); first proper-name attestations `na-Aharon` and `na-Faro`. Full analysis in `corpus/translations/Bible/exodus-7-staff-serpents.md`.*
+
+---
+
+### S696 — EXO-002-A
+
+```
+la-na-Aharon  ka  lo-zo-su-mu ;  zo-su-mu  ki ;  ne  zo-ki-ma
+```
+
+**Written:** `lanaAharon ka lozosumu; zosumu ki; ne zokima`
+
+**Natural reading:** Aaron cast the staff; the staff changed; [it was] a snake.
+
+**Notes:** Three-clause sequential chain via `;` (constant conjunction without causal claim): (1) Aaron deliberately-acted on the staff = cast it; (2) the staff underwent change/motion event; (3) resulting state: [it was] snake. `ka  lo-X` = perform a deliberate action on X. `zo-su-mu` (W221) = staff/wooden implement. `ki` = primitive motion/change event (intransitive — the staff itself changed). `ne  zo-ki-ma` = copula + snake = the resulting-state predication. `zo-ki-ma` (W220) = snake/serpent; first attestation of both new words. `na-Aharon` = Aaron, first proper-name attestation in corpus. The mechanism of transformation is not specified — `ki` (change) leaves the agent of transformation implicit (theologically: divine). The three-clause chain is necessitated by Tonesu's lack of a 'become' verb: the change event and the resulting state are separate clauses. This is a key structural finding: Tonesu cannot render "X became Y" in a single clause; it must decompose into change-event + result-copula.
+
+---
+
+### S697 — EXO-002-B
+
+```
+la-na-Faro  si-ki  lo-to-ra-li
+```
+
+**Written:** `lanaFaro siki lotorali`
+
+**Natural reading:** Pharaoh directed a summons to the sorcerers.
+
+**Notes:** `na-Faro` = Pharaoh; first proper-name attestation (Hebrew: Par'oh). `si-ki` = directed signal = summons/call (signal aimed at a recipient). `lo-to-ra-li` = patient: the sorcerers/magicians. `to-ra-li` (W207) = knowledge-force-agent = wizard/sorcerer — first attestation in Exodus/Biblical register; the same compound covers D&D wizards (DND-004) and Egyptian magicians equally. This tests whether W207 generalizes beyond its fantasy-genre origin into a historical/religious text genre; it does. The sentence is structurally minimal: authority figure issues a directed signal to subordinates.
+
+---
+
+### S698 — EXO-002-C
+
+```
+la-to-ra-li  ka  lo-zo-su-mu-ne  go-si  wi-ra-su
+```
+
+**Written:** `latorali ka lozosumune gosi wirasu`
+
+**Natural reading:** The sorcerers cast their staffs by means of their secret arts.
+
+**Notes:** `lo-zo-su-mu-ne` = patient: their staffs; `ne` (bond/connection) appended as possessive = the staffs bonded to them. `go-si` = signal-means = "by way of / by means of" (instrumental particle, established in SOL-001). `wi-ra-su` (W179) = systematic-directed-force-practice = magic/secret arts — first attestation in Biblical register. The sentence leaves what was done with the staffs implicit (the action outcome is the parallel transformation in S699). The phrase `go-si  wi-ra-su` = "by means of systematic magical practice" maps to Hebrew `b'lahateihem` (by their enchantments / secret arts). Note: in Tonesu, `wi-ra-su` is a body of practice (magic as a system), not a specific spell or force-event; `go-si` marks it as the means by which the action was executed.
+
+---
+
+### S699 — EXO-002-D
+
+```
+zo-su-mu-ne  ki ;  ne  zo-ki-ma
+```
+
+**Written:** `zosumune ki; ne zokima`
+
+**Natural reading:** Their staffs changed; [they were] snakes.
+
+**Notes:** Subject-initial, agentless parallel transformation chain: mirrors the second two clauses of S696 but applied to the sorcerers' staffs (`zo-su-mu-ne` = their staffs). The two-clause `;` chain (`ki ; ne zo-ki-ma`) is the exact structural echo of S696's clauses 2–3. The structural parallel between S696 and S699 is the key syntactic finding: the same transformation pattern applies to both Aaron's staff and the sorcerers' staffs, encoded by the same `;` chain form. The structural symmetry makes the competition explicit: two instances of the same pattern, set up for the decisive outcome in S700.
+
+---
+
+### S700 — EXO-002-E
+
+```
+la-zo-ki-ma-na-Aharon  ko-de  lo-zo-su-mu-ne
+```
+
+**Written:** `lazokimanaAharon kode lozosumune`
+
+**Natural reading:** Aaron's snake consumed their staffs.
+
+**Notes:** `zo-ki-ma-na-Aharon` = Aaron's-serpent = the transformed serpent belonging to Aaron (possessive chain: thing + `na-` + name). `ko-de` = containment-decrease = engulf-and-consume = devour/swallow (compositional, 2-root, below CLQ threshold). `lo-zo-su-mu-ne` = patient: their staffs. The sentence follows the Hebrew source text (Exodus 7:12b: "Aaron's staff swallowed up their staffs") in using `zo-su-mu-ne` (staffs) as the patient rather than `zo-ki-ma-ne` (their snakes) — the Hebrew text reverts to "staffs" even though they had been transformed. This creates a notable cross-type reference: the subject is `zo-ki-ma-na-Aharon` (the snake) but the patient is `zo-su-mu-ne` (their staffs). Possible interpretations: (1) the sorcerers' snakes transformed back to staffs as they were consumed; (2) the text uses "staffs" metonymically for the whole event. In Tonesu the sentence is grammatical either way; the cross-type reference is documented here. `ko-de` first attestation as a swallowing/devouring action verb.
+
+---
+
+### S701 — EXO-002-F
+
+```
+la-na-Faro  wi-fe-ki  /  no  la-na-Faro  si  lo-si-be-go-li
+```
+
+**Written:** `lanaFaro wifeki / no lanaFaro si losibegoli`
+
+**Natural reading:** Pharaoh's will hardened / Not: Pharaoh received the divine signal.
+
+**Notes:** Bi-clausal parallel (`/`) pairing Pharaoh's internal volitional state with his external non-reception. `wi-fe-ki` = will-boundary-inchoative = the will entering a bounded/closed state = hardening of will (first attestation; compositional from `wi` + `fe` + `-ki` inchoative suffix). Maps to Hebrew `yehezak lev-Faro` (Pharaoh's heart became strong/hard, Exodus 7:13). The `/` particle pairs the two clauses structurally: the hardening and the non-reception are the two faces of the same refusal. `no la-na-Faro  si  lo-si-be-go-li` = Not: Pharaoh-perceived the divine-signal = he did not receive/hear what the creator-agent was signaling. `si-be-go-li` = signal-from-the-creator-agent = the divine sign/message (compositional). The bi-clausal parallel leaves the causal relationship between the two clauses unstated — the `/` pairs them structurally; which is cause and which is effect is theologically contested (divine hardening vs volitional hardening). This ambiguity is appropriate: the Hebrew text itself oscillates. The Tonesu sentence is deliberately agentless in the first clause (`la-na-Faro wi-fe-ki` has Pharaoh as the subject-of-will, not as external agent), making the volitional vs divine-hardening ambiguity structurally present.
+
+---
+
+## EXO-002 Batch Summary
+
+| Entry | Tonesu | Written form | Key feature |
+|-------|--------|-------------|-------------|
+| S696 (EXO-002-A) | `la-na-Aharon  ka  lo-zo-su-mu ;  zo-su-mu  ki ;  ne  zo-ki-ma` | `lanaAharon ka lozosumu; zosumu ki; ne zokima` | Three-clause transformation chain; `na-Aharon` and `zo-su-mu`/`zo-ki-ma` first use |
+| S697 (EXO-002-B) | `la-na-Faro  si-ki  lo-to-ra-li` | `lanaFaro siki lotorali` | Authority summons; `na-Faro` first attestation |
+| S698 (EXO-002-C) | `la-to-ra-li  ka  lo-zo-su-mu-ne  go-si  wi-ra-su` | `latorali ka lozosumune gosi wirasu` | Instrumental `go-si`; `wi-ra-su` in Biblical register |
+| S699 (EXO-002-D) | `zo-su-mu-ne  ki ;  ne  zo-ki-ma` | `zosumune ki; ne zokima` | Parallel transformation echo; agentless `;` chain |
+| S700 (EXO-002-E) | `la-zo-ki-ma-na-Aharon  ko-de  lo-zo-su-mu-ne` | `lazokimanaAharon kode lozosumune` | `ko-de` swallow/devour; competitive dominance; cross-type reference |
+| S701 (EXO-002-F) | `la-na-Faro  wi-fe-ki  /  no  la-na-Faro  si  lo-si-be-go-li` | `lanaFaro wifeki / no lanaFaro si losibegoli` | `wi-fe-ki` volitional hardening; bi-clausal `/`; divine/volitional ambiguity |
+
+**New vocabulary:** W220 `zo-ki-ma` (snake/serpent), W221 `zo-su-mu` (staff/wooden implement).
+**Compositional first uses:** `ko-de` (swallow/engulf-and-consume); `wi-fe-ki` (harden one's will); `si-be-go-li` (divine signal); `na-Aharon` (Aaron); `na-Faro` (Pharaoh).
+**Key finding:** "X became Y" requires a three-clause decomposition in Tonesu: `X ki ; ne Y` (X changed; [it is] Y). There is no single-clause 'become' verb. The competitive structure of the passage maps naturally onto two parallel `;` chains (S696 and S699) with the decisive `ko-de` resolution in S700.
+

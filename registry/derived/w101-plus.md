@@ -2163,3 +2163,37 @@ Related:       fe-vo (W065: sacredness/set-apart quality), si-ko-mu (W067: indiv
 ```
 
 ---
+
+**W220**
+```
+Form:          zo-ki-ma
+Type:          compound
+Class:         kind term (living thing)
+Definition:    snake; serpent; any limbless organism whose locomotion is exclusively through sinuous matter-contact motion. The organism defined by the complete integration of its body into its mode of movement — no limbs separate from the body; the body IS the locomotor apparatus. Covers snakes, serpents, eels, and other limbless elongated locomoting organisms.
+Composition:   zo (living thing) + ki (motion/change) + ma (matter/substance). Head-final: zo is head; ki-ma (motion-matter) specifies the type. An organism whose defining character is matter-contact locomotion without limbs. Avoids collision with the inchoative pattern zo-ki ('come to life') by the -ma disambiguator. Right-branching: zo modifies [ki-ma] = living-thing of the matter-motion type.
+Register:      standard
+Domain:        biology / narrative / kinds
+Status:        ✅ active
+First use:     EXO-002-A (S696): la-na-Aharon  ka  lo-zo-su-mu ;  zo-su-mu  ki ;  ne  zo-ki-ma
+Notes:         First reptile-class kind term in the kinds taxonomy. Fills the gap between zo-se-[x] (perceptual-axis organisms) and zo-pe (arthropods/invertebrates). Snakes are neither primarily perceptual-mode organisms nor segmented; they are defined by locomotion mode: sinuous matter-contact movement without limbs. The -ma root disambiguates from the informal inchoative example (zo-ki = 'come to life'). EXO-002 first attestation (S696). Second attestation S699 (parallel transformation, sorcerers' staffs). S700 uses zo-ki-ma-na-Aharon as agent (Aaron's serpent swallows the rival staffs).
+Related:       zo (living), ki (motion/change), ma (matter/substance), zo-pe (arthropods/invertebrates), zo-se-ma (aquatic vertebrates — adjacent class), zo-su-mu (W221: wooden staff — the object that transforms into zo-ki-ma in EXO-002)
+```
+
+---
+
+**W221**
+```
+Form:          zo-su-mu
+Type:          compound
+Class:         entity (artifact)
+Definition:    staff; rod; walking stick; any implement made from structural plant material (wood, bamboo, thick reed). A rigid elongated implement crafted or repurposed from plant-structural matter. Distinct from su-mu (structural artifact in general) by the plant-organic origin — zo-su-mu is always wood or plant-derived.
+Composition:   zo (living thing) + su (structure/order) + mu (artifact). Head-final: mu (artifact) is head; zo-su specifies type — an artifact of living structural material = a plant-structural artifact = a wooden implement. Right-branching: zo modifies [su-mu] = living structural artifact = an artifact from living structural material.
+Register:      standard
+Domain:        daily life / ritual / narrative
+Status:        ✅ active
+First use:     EXO-002-A (S696): la-na-Aharon  ka  lo-zo-su-mu ;  zo-su-mu  ki ;  ne  zo-ki-ma
+Notes:         Moses' shepherd's staff (Exodus 3, EXO-001 context), Aaron's rod (Exodus 7, EXO-002 first attestation), and by extension any staff, wand, walking stick, or rod made from plant material. The zo head carries the organic-material origin; su specifies its organized/structural character; mu marks it as artifact. Possessive chain: zo-su-mu-na-Aharon = Aaron's staff; zo-su-mu-ne = their staffs (bond-possessive). The staff undergoes categorical transformation into zo-ki-ma (W220) via the three-clause sequential chain in S696. S700 refers back to zo-su-mu when 'Aaron's serpent swallowed their staffs' — the Hebrew source text also reverts to 'staffs' at v.12b.
+Related:       zo (living), su (structure), mu (artifact), zo-su (structural organism / plant), zo-ki-ma (W220: snake — the form the staff transforms into in EXO-002), ra-lu-ki (W: fire process)
+```
+
+---

@@ -4,7 +4,7 @@ title: "Exodus 3 — Burning Bush"
 
 # Exodus 3 — Burning Bush
 
-*Theme: [Translation](../../translation/overview/)* · 20 sentences.
+*Theme: [Translation](../../translation/overview/)* · 26 sentences.
 
 :material-book-open-variant: [Full translation analysis](../../translations/bible/exodus-3-1-15/)
 
@@ -175,6 +175,55 @@ title: "Exodus 3 — Burning Bush"
 
 !!! annotation "Notes"
     `ti-no-fe` (eternal, THO-001) used as zero-copula predicate of a name. `ta-re-zo-ne-go` = at-recurring-ancestor-cycle = from generation to generation. Uses `zo-ne-go` (W077, parent/ancestor) + `re` (cycle) + `ta` (temporal frame). Clean carry-forward from prior vocabulary.
+
+## EXO-002 · Exodus 7:8–12 — Aaron's Staff and the Sorcerers
+
+**Purpose:** Staff-and-serpent confrontation: Aaron's staff transforms into a snake before Pharaoh; the Egyptian sorcerers replicate by their secret arts; Aaron's serpent devours theirs. Key tests: categorical transformation via three-clause `;` sequential chain (`zo-su-mu ki ; ne zo-ki-ma`); first use of `zo-ki-ma` (W220, snake genus term) and `zo-su-mu` (W221, staff/wooden implement); `to-ra-li` (W207) and `wi-ra-su` (W179) in Biblical register; instrumental `go-si`; `ko-de` (engulf-and-consume / swallow); `wi-fe-ki` (harden one's will); first proper-name attestations `na-Aharon` and `na-Faro`. Full analysis in `corpus/translations/Bible/exodus-7-staff-serpents.md`.
+
+<span id="S696"></span>
+**S696**
+`la-na-Aharon  ka  lo-zo-su-mu ;  zo-su-mu  ki ;  ne  zo-ki-ma`
+*Aaron cast the staff; the staff changed; [it was] a snake.*
+
+<span id="S697"></span>
+**S697**
+`la-na-Faro  si-ki  lo-to-ra-li`
+*Pharaoh directed a summons to the sorcerers.*
+
+<span id="S698"></span>
+**S698**
+`la-to-ra-li  ka  lo-zo-su-mu-ne  go-si  wi-ra-su`
+*The sorcerers cast their staffs by means of their secret arts.*
+
+<span id="S699"></span>
+**S699**
+`zo-su-mu-ne  ki ;  ne  zo-ki-ma`
+*Their staffs changed; [they were] snakes.*
+
+<span id="S700"></span>
+**S700**
+`la-zo-ki-ma-na-Aharon  ko-de  lo-zo-su-mu-ne`
+*Aaron's snake consumed their staffs.*
+
+<span id="S701"></span>
+**S701**
+`la-na-Faro  wi-fe-ki  /  no  la-na-Faro  si  lo-si-be-go-li`
+*Pharaoh's will hardened / Not: Pharaoh received the divine signal.*
+
+### Batch Summary
+
+| Entry | Tonesu | Written form | Key feature |
+|-------|--------|-------------|-------------|
+| S696 (EXO-002-A) | `la-na-Aharon  ka  lo-zo-su-mu ;  zo-su-mu  ki ;  ne  zo-ki-ma` | `lanaAharon ka lozosumu; zosumu ki; ne zokima` | Three-clause transformation chain; `na-Aharon` and `zo-su-mu`/`zo-ki-ma` first use |
+| S697 (EXO-002-B) | `la-na-Faro  si-ki  lo-to-ra-li` | `lanaFaro siki lotorali` | Authority summons; `na-Faro` first attestation |
+| S698 (EXO-002-C) | `la-to-ra-li  ka  lo-zo-su-mu-ne  go-si  wi-ra-su` | `latorali ka lozosumune gosi wirasu` | Instrumental `go-si`; `wi-ra-su` in Biblical register |
+| S699 (EXO-002-D) | `zo-su-mu-ne  ki ;  ne  zo-ki-ma` | `zosumune ki; ne zokima` | Parallel transformation echo; agentless `;` chain |
+| S700 (EXO-002-E) | `la-zo-ki-ma-na-Aharon  ko-de  lo-zo-su-mu-ne` | `lazokimanaAharon kode lozosumune` | `ko-de` swallow/devour; competitive dominance; cross-type reference |
+| S701 (EXO-002-F) | `la-na-Faro  wi-fe-ki  /  no  la-na-Faro  si  lo-si-be-go-li` | `lanaFaro wifeki / no lanaFaro si losibegoli` | `wi-fe-ki` volitional hardening; bi-clausal `/`; divine/volitional ambiguity |
+
+**New vocabulary:** W220 `zo-ki-ma` (snake/serpent), W221 `zo-su-mu` (staff/wooden implement).
+**Compositional first uses:** `ko-de` (swallow/engulf-and-consume); `wi-fe-ki` (harden one's will); `si-be-go-li` (divine signal); `na-Aharon` (Aaron); `na-Faro` (Pharaoh).
+**Key finding:** "X became Y" requires a three-clause decomposition in Tonesu: `X ki ; ne Y` (X changed; [it is] Y). There is no single-clause 'become' verb. The competitive structure of the passage maps naturally onto two parallel `;` chains (S696 and S699) with the decisive `ko-de` resolution in S700.
 
 ---
 

@@ -142,7 +142,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `si-de` · side | [W098](words/W098.md) | ✅ | past signal, signal of record <br><small>[C008-A1](../../../totonesu/corpus/batches/_foundations#C008-A1) · [C008-B1](../../../totonesu/corpus/batches/_foundations#C008-B1) · [C008-B3](../../../totonesu/corpus/batches/_foundations#C008-B3) · [S106](../../../totonesu/corpus/batches/_foundations#S106) · [S172](../../../totonesu/corpus/batches/sa#S172) · [S174](../../../totonesu/corpus/batches/sa#S174) · [S175](../../../totonesu/corpus/batches/sa#S175)</small> |
 | `si-fe` · sife | [W070](words/W070.md) | ✅ | signal threshold, detection boundary <br><small>[C006-B1](../../../totonesu/corpus/batches/_foundations#C006-B1) · [C007-A1](../../../totonesu/corpus/batches/_foundations#C007-A1) · [C007-B1](../../../totonesu/corpus/batches/_foundations#C007-B1) · [S067](../../../totonesu/corpus/batches/t-cmp#S067)</small> |
 | `si-go-li` · sigoli | [W201](words/W201.md) | ✅ | content originator; signal-origin-agent; speaker <br><small>[S641](../../../totonesu/corpus/batches/cda#S641) · [S642](../../../totonesu/corpus/batches/cda#S642) · [S644](../../../totonesu/corpus/batches/cda#S644)</small> |
-| `si-ki` · siki | [W023](words/W023.md) | ✅ | transmit a signal <br><small>[S076](../../../totonesu/corpus/batches/t-mys#S076) · [S082](../../../totonesu/corpus/batches/t-rel#S082) · [S103](../../../totonesu/corpus/batches/_foundations#S103) · [S104](../../../totonesu/corpus/batches/_foundations#S104) · [S105](../../../totonesu/corpus/batches/_foundations#S105)</small> |
+| `si-ki` · siki | [W023](words/W023.md) | ✅ | transmit a signal <br><small>[S076](../../../totonesu/corpus/batches/t-mys#S076) · [S082](../../../totonesu/corpus/batches/t-rel#S082) · [S103](../../../totonesu/corpus/batches/_foundations#S103) · [S104](../../../totonesu/corpus/batches/_foundations#S104) · [S105](../../../totonesu/corpus/batches/_foundations#S105) · [S697](../../../totonesu/corpus/batches/exo#S697)</small> |
 | `si-ko-mu` · sikomu | [W067](words/W067.md) | ✅ | individual document, encoded record <br><small>[S014](../../../totonesu/corpus/batches/_foundations#S014) · [S069](../../../totonesu/corpus/batches/t-ko#S069) · [S070](../../../totonesu/corpus/batches/t-ko#S070)</small> |
 | `si-mu` · simu | [W039](words/W039.md) | ✅ | relay device, signal transceiver <br><small>[C002-A1](../../../totonesu/corpus/batches/_foundations#C002-A1) · [C002-A3](../../../totonesu/corpus/batches/_foundations#C002-A3) · [S043](../../../totonesu/corpus/batches/t-xx#S043) · [S108](../../../totonesu/corpus/batches/t-phn#S108) · [S110](../../../totonesu/corpus/batches/t-phn#S110) · [S154](../../../totonesu/corpus/batches/fa-con#S154) · [S165](../../../totonesu/corpus/batches/p-gp#S165) · [S640](../../../totonesu/corpus/batches/cda#S640)</small> |
 
@@ -311,7 +311,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `ra-be-ki` · rabeki | [W184](words/W184.md) | ✅ | evocation; force-manifestation-change; magic of channeling and releasing raw force <br><small>[S604](../../../totonesu/corpus/batches/dnd#S604) · [S608](../../../totonesu/corpus/batches/dnd#S608)</small> |
 | `to-se-ki` · toseki | [W182](words/W182.md) | ✅ | divination; pattern-perception-change; magic of transforming perception to access hidden knowledge <br><small>[S602](../../../totonesu/corpus/batches/dnd#S602)</small> |
 | `wi-fa-ki` · wifaki | [W183](words/W183.md) | ✅ | enchantment; willed-affect-shift; magic of intentionally altering affect and will <br><small>[S603](../../../totonesu/corpus/batches/dnd#S603)</small> |
-| `wi-ra-su` · wirasu | [W179](words/W179.md) | ✅ | magic; the systematic, disciplined practice of directed force <br><small>[S599](../../../totonesu/corpus/batches/dnd#S599) · [S600](../../../totonesu/corpus/batches/dnd#S600) · [S601](../../../totonesu/corpus/batches/dnd#S601) · [S602](../../../totonesu/corpus/batches/dnd#S602) · [S603](../../../totonesu/corpus/batches/dnd#S603) · [S604](../../../totonesu/corpus/batches/dnd#S604) · [S605](../../../totonesu/corpus/batches/dnd#S605) · [S606](../../../totonesu/corpus/batches/dnd#S606) · [S607](../../../totonesu/corpus/batches/dnd#S607)</small> |
+| `wi-ra-su` · wirasu | [W179](words/W179.md) | ✅ | magic; the systematic, disciplined practice of directed force <br><small>[S599](../../../totonesu/corpus/batches/dnd#S599) · [S600](../../../totonesu/corpus/batches/dnd#S600) · [S601](../../../totonesu/corpus/batches/dnd#S601) · [S602](../../../totonesu/corpus/batches/dnd#S602) · [S603](../../../totonesu/corpus/batches/dnd#S603) · [S604](../../../totonesu/corpus/batches/dnd#S604) · [S605](../../../totonesu/corpus/batches/dnd#S605) · [S606](../../../totonesu/corpus/batches/dnd#S606) · [S607](../../../totonesu/corpus/batches/dnd#S607) · [S698](../../../totonesu/corpus/batches/exo#S698)</small> |
 
 ## Action / Process
 
@@ -328,6 +328,23 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `wi-ra-li` · wirali | [W217](words/W217.md) | ✅ | spirit / directed-force-agent <br><small>[S672](../../../totonesu/corpus/batches/sol#S672) · [S673](../../../totonesu/corpus/batches/sol#S673) · [S677](../../../totonesu/corpus/batches/sol#S677)</small> |
+
+## Artifact / Daily Life
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `zo-su-mu` · zosumu | [W221](words/W221.md) | ✅ | staff / rod / wooden implement <br><small>[S696](../../../totonesu/corpus/batches/exo#S696)</small> |
+
+## Biological / Living
+
+2 compounds
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `zo-ki-ma` · zokima | [W220](words/W220.md) | ✅ | snake / serpent / limbless locomoting organism <br><small>[S696](../../../totonesu/corpus/batches/exo#S696) · [S699](../../../totonesu/corpus/batches/exo#S699)</small> |
+| `zo-su-mu` · zosumu | [W221](words/W221.md) | ✅ | staff / rod / wooden implement <br><small>[S696](../../../totonesu/corpus/batches/exo#S696)</small> |
 
 ## Cosmology / Metaphysics
 
@@ -379,6 +396,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 |------|----|--------|-------|
 | `su-zo-ko` · suzoko | [W204](words/W204.md) | ✅ | coverage; protective welfare structure; systematic protection for persons <br><small>[S645](../../../totonesu/corpus/batches/aca#S645) · [S646](../../../totonesu/corpus/batches/aca#S646)</small> |
 
+## Kinds
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `zo-ki-ma` · zokima | [W220](words/W220.md) | ✅ | snake / serpent / limbless locomoting organism <br><small>[S696](../../../totonesu/corpus/batches/exo#S696) · [S699](../../../totonesu/corpus/batches/exo#S699)</small> |
+
 ## Law / Governance
 
 3 compounds
@@ -416,6 +441,15 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `to'to-ne-su` · to'tonesu | [W170](words/W170.md) | ✅ | meta-truth; analytic knowledge of Tonesu; theory of the language |
 | `to-to-ne-su` · totonesu | [W169](words/W169.md) | ✅ | knowledge of truth; knowledge of Tonesu; the language in use |
 
+## Narrative
+
+2 compounds
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `zo-ki-ma` · zokima | [W220](words/W220.md) | ✅ | snake / serpent / limbless locomoting organism <br><small>[S696](../../../totonesu/corpus/batches/exo#S696) · [S699](../../../totonesu/corpus/batches/exo#S699)</small> |
+| `zo-su-mu` · zosumu | [W221](words/W221.md) | ✅ | staff / rod / wooden implement <br><small>[S696](../../../totonesu/corpus/batches/exo#S696)</small> |
+
 ## Normative
 
 1 compound
@@ -441,7 +475,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `ra-ka-li` · rakali | [W206](words/W206.md) | ✅ | fighter / combatant <br><small>[S651](../../../totonesu/corpus/batches/dnd#S651)</small> |
 | `se-de-li` · sedeli | [W208](words/W208.md) | ✅ | rogue / stealth agent <br><small>[S653](../../../totonesu/corpus/batches/dnd#S653)</small> |
 | `so-vo-li` · sovoli | [W213](words/W213.md) | ✅ | bard / sonic artist <br><small>[S658](../../../totonesu/corpus/batches/dnd#S658)</small> |
-| `to-ra-li` · torali | [W207](words/W207.md) | ✅ | wizard / mage <br><small>[S652](../../../totonesu/corpus/batches/dnd#S652) · [S678](../../../totonesu/corpus/batches/sol#S678) · [S679](../../../totonesu/corpus/batches/sol#S679) · [S680](../../../totonesu/corpus/batches/sol#S680) · [S681](../../../totonesu/corpus/batches/sol#S681) · [S682](../../../totonesu/corpus/batches/sol#S682)</small> |
+| `to-ra-li` · torali | [W207](words/W207.md) | ✅ | wizard / mage <br><small>[S652](../../../totonesu/corpus/batches/dnd#S652) · [S678](../../../totonesu/corpus/batches/sol#S678) · [S679](../../../totonesu/corpus/batches/sol#S679) · [S680](../../../totonesu/corpus/batches/sol#S680) · [S681](../../../totonesu/corpus/batches/sol#S681) · [S682](../../../totonesu/corpus/batches/sol#S682) · [S697](../../../totonesu/corpus/batches/exo#S697) · [S698](../../../totonesu/corpus/batches/exo#S698)</small> |
 | `vo-ra-li` · vorali | [W209](words/W209.md) | ✅ | cleric / divine agent <br><small>[S654](../../../totonesu/corpus/batches/dnd#S654)</small> |
 | `wi-vo-li` · wivoli | [W211](words/W211.md) | ✅ | paladin / oath-champion <br><small>[S656](../../../totonesu/corpus/batches/dnd#S656)</small> |
 | `zo-ki-li` · zokili | [W212](words/W212.md) | ✅ | ranger / wilderness guide <br><small>[S657](../../../totonesu/corpus/batches/dnd#S657)</small> |
