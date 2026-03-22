@@ -2996,6 +2996,32 @@
         "ko",
         "mu"
       ]
+    },
+    {
+      "wnum": "W220",
+      "form": "zo-ki-ma",
+      "written": "zokima",
+      "gloss": "snake / serpent / limbless locomoting organism",
+      "status": "active",
+      "domain": "biology / narrative / kinds",
+      "roots": [
+        "zo",
+        "ki",
+        "ma"
+      ]
+    },
+    {
+      "wnum": "W221",
+      "form": "zo-su-mu",
+      "written": "zosumu",
+      "gloss": "staff / rod / wooden implement",
+      "status": "active",
+      "domain": "daily life / ritual / narrative",
+      "roots": [
+        "zo",
+        "su",
+        "mu"
+      ]
     }
   ]
 }
