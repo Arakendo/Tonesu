@@ -2836,3 +2836,111 @@ go {no  la-mi  to-su  lo-de-li  ;  no  la-mi  to-su  lo-mi},  a-ka-ra  ne  de-ra
 **New vocabulary:** W222 `ka-ra` (combat/warfare), W223 `de-li` (adversary), W224 `ka-si-de` (deliberate deception).
 **Compositional first uses:** `de-ra` (defeat: force-decrease); `be-ra` (victory: force-increase); `ra-no-fe` (supreme excellence: ra-extremal); `no-de-ra` (absence of defeat); `a-ka-ra` (all-warfare: a-scoped ka-ra); `to-su lo-[NP]` relational knowledge pattern.
 **Key finding:** Tonesu has no AND coordinator for NP lists. Bilateral conditions in a `go {}` premise use `;` (sequential: constant conjunction) to chain the two knowledge clauses. `wi` is the purpose frame ("in order that"), not an AND particle — confirmed in grammar.md line 927.
+
+
+---
+
+## MAP-001 — *The Prince* (Machiavelli) + Dark Triad Psychology
+
+*Batch purpose (MAP-001): Key aphorisms from Niccolò Machiavelli's* Il Principe *(The Prince, 1532) combined with the psychological Dark Triad (narcissism, Machiavellianism, psychopathy). Key tests: first use of `nu-be` comparison particle in political/abstract register; first `la-X si [Q] lo [Z]` appearance predication (X signals Q to Z = X appears as Q to Z); first `wi {}` purpose-frame with explicit goal clause; first `go {}` with agentless state premise (`fa-no`); first triple `;` chain mixing three clause types; new word `ra-su-li` (W225: sovereign/ruler). Full analysis in `corpus/translations/Literature/machiavelli-dark-triad.md`.*
+
+---
+
+### S708 — MAP-001-A
+
+```
+wi-ra  :  fa-ra  su  nu-be  fa-vo
+```
+
+**Written:** `wira: fara su nube favo`
+
+**Natural reading:** As for authority: fear has more structural reliability than love.
+
+**Notes:** Machiavelli, *The Prince* Ch 17 (Giles/Ricci: "it is much safer to be feared than loved"). `wi-ra` (W177: directed power/authority) as topic NP; `:` topic frame = "as for authority…" `fa-ra` (W154: fear/awe) and `fa-vo` (W197: happiness/positive-affect) are the two items being compared. `su` = structure/reliability as the quality dimension in the comparison: the degree to which a relationship holds its structural form under pressure. `nu-be` = more-than (established grammar comparison particle; `nu` quantity + `be` increase). First use of `nu-be` in political-philosophical register on abstract quality dimensions. Pattern: `lo-A  Q  nu-be  lo-B` → here `fa-ra  su  nu-be  fa-vo` (the articles are elided; `fa-ra` and `fa-vo` function as 0-article abstract NPs). The argument is Machiavellian: love-based authority collapses when tested; fear-based authority maintains structural integrity because the mechanism (deterrence) is self-reinforcing. `su` as quality dimension captures "structural integrity/reliability" rather than intrinsic worth.
+
+---
+
+### S709 — MAP-001-B
+
+```
+la-ra-su-li  si  vo  lo  ze  /  la-ra-su-li  ne  ka-si-de
+```
+
+**Written:** `larasuli si vo loze / larasuli ne kaside`
+
+**Natural reading:** The sovereign appears as one of worth to others / [but] the sovereign IS deception.
+
+**Notes:** Machiavelli, *The Prince* Ch 18 ("It is not necessary for a prince to have the above-named qualities, but it is very necessary to appear to have them"). `ra-su-li` (W225: sovereign/ruler) first attestation. `la-ra-su-li si vo lo ze` = the sovereign signals worth/virtue to others. First use of `la-X si [Q] lo [Z]` as **appearance predication**: what an agent signals outward to an observer IS their apparent-face. `si` (signal/information primitive) here functions as an appearance verb: the outward signal constitutes the appearance, without commitment to it reflecting inner reality. `la-ra-su-li ne ka-si-de` = the sovereign has the property of deception. `ne` (property copula) attributes deception as the sovereign's inner reality. The `/` bi-clausal parallel pairs appearance (the outgoing signal) against reality (the inner property). The structural opposition makes the Machiavellian duplicity formally explicit: first clause = the face projected; second clause = the actual character. Distinct from `la-X ne vo` (which would assert the sovereign genuinely has worth) and `la-X si vo lo ze` alone (which would only describe the signal without the reality contrast).
+
+---
+
+### S710 — MAP-001-C
+
+```
+mi  ne  ra-no-fe-vo
+```
+
+**Written:** `mi ne ranofevo`
+
+**Natural reading:** I [myself] have the property of supreme excellence.
+
+**Notes:** Dark Triad — Narcissism. The narcissist's core implicit claim: the self has unbounded force-worth. `mi` = self, first person (primitive). `ne` = property copula. `ra-no-fe-vo` = unbounded force-worth / supreme excellence (compositional, established AOW-001 S704 context). First use of `mi` as the subject of a direct `ne ra-no-fe-vo` self-predication. This minimal two-word claim after `ne` is the narcissistic grandiosity claim in its structurally simplest form: no qualification, no hedging, no context — just `mi ne [unbounded-excellence]`. In Tonesu, this sentence is structurally well-formed (it is not prohibited to claim self-excellence), but contextually it identifies a pattern: the agent who speaks `mi ne ra-no-fe-vo` as if it were ordinary is the narcissistic agent. The sentence also contrasts with the S712 psychopathy claim: narcissism inflates the self; psychopathy empties the affect substrate. Both sentences begin with first-person.
+
+---
+
+### S711 — MAP-001-D
+
+```
+wi {la-mi  ra-be},  la-mi  ka-si-de  lo  ze
+```
+
+**Written:** `wi {lami rabe}, lami kaside loze`
+
+**Natural reading:** In order for me to gain power, I deceive others.
+
+**Notes:** Dark Triad — Machiavellianism. `wi {}` = purpose frame ("in order that / so that"), looking forward to intended outcome. `wi {la-mi ra-be}` = with the purpose that I-gain-force = for the purpose of increasing my power. `la-mi ra-be` = I gain force/power (established: `ra-be` = force-increasing / gaining power). Matrix: `la-mi ka-si-de lo ze` = I perform deception on others. First use of `ka-si-de` (W224: deliberate deception) as a **transitive verb** with explicit patient `lo ze` (others). `ka-si-de lo ze` = to deceive others (deception directed at a patient). First use of `wi {}` purpose-frame with a full clause inside. First use of `wi {}` with an explicitly self-directed goal (`la-mi ra-be` = I-gain-force). The Machiavellian structure is in the frame choice: `go` (causal frame) would present deception as the CAUSE of power; `wi` (purpose frame) presents it as the MEANS toward a GOAL. This is the instrumentalist structure — deception is not the root but the tool. The goal is explicit and self-interested. First attestation directly connecting `wi {}` purpose-frame with `ka-si-de`.
+
+---
+
+### S712 — MAP-001-E
+
+```
+go {fa-no},  la-mi  ka-no-su  lo  ze
+```
+
+**Written:** `go {fano}, lami kanosu loze`
+
+**Natural reading:** Because affect is inactive, I act without structural constraint on others.
+
+**Notes:** Dark Triad — Psychopathy. `go {fa-no}` = because [condition: affect-inactive]. First use of `go {}` with an **agentless state predicate** as premise: `fa-no` (W095: affect inactive/offline, without subject specified) as the causal premise. The premise is impersonal — it predicates the absence of affect as a structural state, not a choice. Matrix: `la-mi ka-no-su lo ze` = I act structurelessly on others. `ka-no-su` = deliberate-action-without-structure = action that bypasses/ignores relational and structural constraints on behavior. Compositional first-use: `ka` (deliberate action) + `no` (absence/negation) + `su` (structure) = action of being unstructured = unconstrained action-toward-others. The Tonesu claim: the structure that normally mediates affect-regulated action (empathic modulation, social reciprocity, felt consequence of harm) is removed when `fa` is offline. `ka-no-su` is the result: action without those mediating structures. `lo ze` = on others (third parties as patient). Distinct from `ka` alone (deliberate action, neutral to structural dimension) and `ka-si-de` (structured deception, which is itself `ka` + structure of signal-corruption). Psychopathy in Tonesu is not the PRESENCE of harmful will but the ABSENCE of structural constraint: `fa-no` → `ka-no-su`.
+
+---
+
+### S713 — MAP-001-F
+
+```
+mi  ne  ra-no-fe-vo  ;  wi {la-mi  ra-be},  la-mi  ka-si-de  ;  go {fa-no},  la-mi  ka-no-su
+```
+
+**Written:** `mi ne ranofevo; wi {lami rabe}, lami kaside; go {fano}, lami kanosu`
+
+**Natural reading:** I am of supreme excellence; [and] in order to gain power, I deceive; [and] because affect is inactive, I act without structure.
+
+**Notes:** Dark Triad synthesis. All three traits in a `;` triple chain: narcissism (`mi ne ra-no-fe-vo`) → Machiavellianism (`wi {la-mi ra-be}, la-mi ka-si-de`) → psychopathy (`go {fa-no}, la-mi ka-no-su`). First time a `;` sequential chain links THREE DIFFERENT CLAUSE TYPES: (1) property predication (`ne`), (2) purpose-frame clause (`wi {}`), (3) causal-frame clause (`go {}`). The `;` carries the "and also / and in the same agent" meaning: all three descriptions are jointly true of the same speaker. No causal connection is asserted between them (that would require `go`); no sequential precedence is implied; they co-describe a single structure. The resulting three-part structure mirrors the know-yourself triptych (S705–S707) formally — both are triple structures with a shared agent — but the logic is inverted: S705–S707 are CONDITIONAL (if P then Q), while S710–S712/S713 are CONSTITUTIVE (this is what the agent IS). The first-person speaker claiming all three simultaneously has structural parallels to the Sith code (STW-002) but without the causal chain (`go … la-mi … go … la-mi …`): the Dark Triad is not a causal progression of the Sith type but a co-present cluster.
+
+---
+
+## MAP-001 Batch Summary
+
+| Entry | Tonesu | Written form | Key feature |
+|-------|--------|-------------|-------------|
+| S708 (MAP-001-A) | `wi-ra  :  fa-ra  su  nu-be  fa-vo` | `wira: fara su nube favo` | First `nu-be` comparison in political-abstract register; topic frame + comparison |
+| S709 (MAP-001-B) | `la-ra-su-li  si  vo  lo  ze  /  la-ra-su-li  ne  ka-si-de` | `larasuli si vo loze / larasuli ne kaside` | First `la-X si [Q] lo [Z]` appearance predication; W225 `ra-su-li` first attestation |
+| S710 (MAP-001-C) | `mi  ne  ra-no-fe-vo` | `mi ne ranofevo` | Narcissism: self as object of `ra-no-fe-vo` predication; minimal grandiosity form |
+| S711 (MAP-001-D) | `wi {la-mi  ra-be},  la-mi  ka-si-de  lo  ze` | `wi {lami rabe}, lami kaside loze` | First `wi {}` with explicit self-goal; `ka-si-de lo [patient]` transitive |
+| S712 (MAP-001-E) | `go {fa-no},  la-mi  ka-no-su  lo  ze` | `go {fano}, lami kanosu loze` | First agentless-state `go {}` premise (`fa-no`); `ka-no-su` compositional first use |
+| S713 (MAP-001-F) | `mi  ne  ra-no-fe-vo  ;  wi {la-mi  ra-be},  la-mi  ka-si-de  ;  go {fa-no},  la-mi  ka-no-su` | `mi ne ranofevo; wi {lami rabe}, lami kaside; go {fano}, lami kanosu` | First triple `;` chain across three clause types (ne / wi{} / go{}) |
+
+**New vocabulary:** W225 `ra-su-li` (sovereign/ruler/prince).
+**Compositional first uses:** `ka-no-su` (deliberate structureless action); `mi ne ra-no-fe-vo` (self-grandiosity predication); `ka-si-de lo [patient]` (transitive deception with patient).
+**Key structural findings:** `nu-be` comparison on abstract political quality; `la-X si [Q] lo [Z]` as appearance predication (`si` = outward signal = apparent face); `wi {}` purpose-frame with self-directed goal; `go {}` with impersonal state premise; triple `;` chain mixing clause types.

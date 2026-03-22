@@ -959,3 +959,9 @@ batches:
   range: S702–S707
   count: 6
   purpose: Core axioms from Sun Tzu's
+- code: MAP-001
+  title: '*The Prince* (Machiavelli) + Dark Triad Psychology'
+  theme: Foundations
+  range: S708–S713
+  count: 6
+  purpose: Key aphorisms from Niccolò Machiavelli's

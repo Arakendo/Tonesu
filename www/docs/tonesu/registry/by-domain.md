@@ -10,7 +10,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## Person / Agent
 
-14 compounds
+15 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -18,6 +18,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `li-be` · libe | [W033](words/W033.md) | ✅ | child, person in growth phase <br><small>[S020](../../../totonesu/corpus/batches/t#S020) · [S059](../../../totonesu/corpus/batches/t-prm#S059) · [S066](../../../totonesu/corpus/batches/t-cmp#S066)</small> |
 | `li-su-li` · lisuli | [W001](words/W001.md) | ⏳ | leader, coordinator, administrator <br><small>[C004-A3](../../../totonesu/corpus/batches/_foundations#C004-A3) · [S091](../../../totonesu/corpus/batches/t-wit#S091)</small> |
 | `pa-ki` · paki | [W156](words/W156.md) | ⚠️ | liberation / liberator, place-motion (⚠️ form-shares W087 — pending resolution) <br><small>[S123](../../../totonesu/corpus/batches/t-ax#S123) · [S124](../../../totonesu/corpus/batches/t-ax#S124) · [S125](../../../totonesu/corpus/batches/t-ax#S125) · [S129](../../../totonesu/corpus/batches/cf#S129) · [S130](../../../totonesu/corpus/batches/cf#S130) · [S157](../../../totonesu/corpus/batches/cf#S157) · [S377](../../../totonesu/corpus/batches/fal#S377)</small> |
+| `ra-su-li` · rasuli | [W225](words/W225.md) | ✅ | sovereign; commander; ruler who commands organized force <br><small>[S709](../../../totonesu/corpus/batches/map#S709)</small> |
 | `si-go-li` · sigoli | [W201](words/W201.md) | ✅ | content originator; signal-origin-agent; speaker <br><small>[S641](../../../totonesu/corpus/batches/cda#S641) · [S642](../../../totonesu/corpus/batches/cda#S642) · [S644](../../../totonesu/corpus/batches/cda#S644)</small> |
 | `si-ki-li` · sikili | [W158](words/W158.md) | ✅ | messenger/angel, signal-motion-agent <br><small>[S401](../../../totonesu/corpus/batches/exo#S401)</small> |
 | `si-no-vo-li` · sinovoli | [W126](words/W126.md) | ✅ | hypocrite, person of valueless signal |
@@ -155,12 +156,12 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `fa-de` · fade | [W094](words/W094.md) | ✅ | affect fading |
 | `fa-de-ra` · fadera | [W155](words/W155.md) | ✅ | suffering, affect-decrease-force <br><small>[S409](../../../totonesu/corpus/batches/exo#S409)</small> |
 | `fa-ki` · faki | [W093](words/W093.md) | ✅ | affect shift / change of register |
-| `fa-no` · fano | [W095](words/W095.md) | ✅ | affect inactive (unresolved or numb) |
-| `fa-ra` · fara | [W154](words/W154.md) | ✅ | fear/awe, forceful affect <br><small>[S408](../../../totonesu/corpus/batches/exo#S408)</small> |
+| `fa-no` · fano | [W095](words/W095.md) | ✅ | affect inactive (unresolved or numb) <br><small>[S712](../../../totonesu/corpus/batches/map#S712) · [S713](../../../totonesu/corpus/batches/map#S713)</small> |
+| `fa-ra` · fara | [W154](words/W154.md) | ✅ | fear/awe, forceful affect <br><small>[S408](../../../totonesu/corpus/batches/exo#S408) · [S708](../../../totonesu/corpus/batches/map#S708)</small> |
 | `fa-ra-be` · farabe | [W123](words/W123.md) | ✅ | anger, hostile arousal <br><small>[S221](../../../totonesu/corpus/batches/odl#S221)</small> |
 | `fa-re` · fare | [W096](words/W096.md) | ✅ | affect cycling / returning to baseline |
 | `fa-su` · fasu | [W173](words/W173.md) | ✅ | serenity, affect in ordered/structured form <br><small>[S590](../../../totonesu/corpus/batches/stw#S590)</small> |
-| `fa-vo` · favo | [W197](words/W197.md) | ✅ | happiness; positive-valence affect state; felt sense of wellbeing <br><small>[S219](../../../totonesu/corpus/batches/odl#S219) · [S633](../../../totonesu/corpus/batches/doi#S633) · [S691](../../../totonesu/corpus/batches/loj#S691)</small> |
+| `fa-vo` · favo | [W197](words/W197.md) | ✅ | happiness; positive-valence affect state; felt sense of wellbeing <br><small>[S219](../../../totonesu/corpus/batches/odl#S219) · [S633](../../../totonesu/corpus/batches/doi#S633) · [S691](../../../totonesu/corpus/batches/loj#S691) · [S708](../../../totonesu/corpus/batches/map#S708)</small> |
 | `fa-wi-de` · fawide | [W127](words/W127.md) | ✅ | temptation, affect-will-toward-harm |
 | `fa-wi-ra` · fawira | [W172](words/W172.md) | ✅ | passion, driven desire (affect-will-force) <br><small>[S593](../../../totonesu/corpus/batches/stw#S593) · [S594](../../../totonesu/corpus/batches/stw#S594)</small> |
 | `fa-wi-zi` · fawizi | [W136](words/W136.md) | ⚠️ | lust, affect-desire-to-couple |
@@ -295,7 +296,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `su-ne` · sune | [W174](words/W174.md) | ✅ | harmony, structure-of-connection <br><small>[S591](../../../totonesu/corpus/batches/stw#S591) · [S631](../../../totonesu/corpus/batches/doi#S631) · [S660](../../../totonesu/corpus/batches/ckg#S660)</small> |
 | `su-ru` · suru | [W085](words/W085.md) | ✅ | integrated whole, unified structure <br><small>[S119](../../../totonesu/corpus/batches/t-ax#S119)</small> |
 | `wi-du` · widu | [W175](words/W175.md) | ✅ | victory, achievement (will-result) <br><small>[S597](../../../totonesu/corpus/batches/stw#S597)</small> |
-| `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) <br><small>[S596](../../../totonesu/corpus/batches/stw#S596) · [S599](../../../totonesu/corpus/batches/dnd#S599) · [S672](../../../totonesu/corpus/batches/sol#S672) · [S683](../../../totonesu/corpus/batches/sol#S683)</small> |
+| `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) <br><small>[S596](../../../totonesu/corpus/batches/stw#S596) · [S599](../../../totonesu/corpus/batches/dnd#S599) · [S672](../../../totonesu/corpus/batches/sol#S672) · [S683](../../../totonesu/corpus/batches/sol#S683) · [S708](../../../totonesu/corpus/batches/map#S708)</small> |
 
 ## Academic / Formal Knowledge
 
@@ -363,7 +364,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
-| `ka-si-de` · kaside | [W224](words/W224.md) | ✅ | deliberate deception; strategic misdirection; intentional signal-corruption <br><small>[S702](../../../totonesu/corpus/batches/aow#S702)</small> |
+| `ka-si-de` · kaside | [W224](words/W224.md) | ✅ | deliberate deception; strategic misdirection; intentional signal-corruption <br><small>[S702](../../../totonesu/corpus/batches/aow#S702) · [S709](../../../totonesu/corpus/batches/map#S709) · [S711](../../../totonesu/corpus/batches/map#S711) · [S713](../../../totonesu/corpus/batches/map#S713)</small> |
 
 ## Ethics / Philosophy
 
@@ -452,22 +453,24 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## Military / Conflict
 
-3 compounds
-
-| Word | W# | Status | Gloss |
-|------|----|--------|-------|
-| `de-li` · deli | [W223](words/W223.md) | ✅ | adversary; agent of harm; opposing agent <br><small>[S704](../../../totonesu/corpus/batches/aow#S704) · [S705](../../../totonesu/corpus/batches/aow#S705) · [S706](../../../totonesu/corpus/batches/aow#S706) · [S707](../../../totonesu/corpus/batches/aow#S707)</small> |
-| `ka-ra` · kara | [W222](words/W222.md) | ✅ | deliberate force; combat; martial action; warfare <br><small>[S464](../../../totonesu/corpus/batches/ham#S464) · [S703](../../../totonesu/corpus/batches/aow#S703) · [S704](../../../totonesu/corpus/batches/aow#S704) · [S706](../../../totonesu/corpus/batches/aow#S706)</small> |
-| `ka-si-de` · kaside | [W224](words/W224.md) | ✅ | deliberate deception; strategic misdirection; intentional signal-corruption <br><small>[S702](../../../totonesu/corpus/batches/aow#S702)</small> |
-
-## Narrative
-
 4 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `de-li` · deli | [W223](words/W223.md) | ✅ | adversary; agent of harm; opposing agent <br><small>[S704](../../../totonesu/corpus/batches/aow#S704) · [S705](../../../totonesu/corpus/batches/aow#S705) · [S706](../../../totonesu/corpus/batches/aow#S706) · [S707](../../../totonesu/corpus/batches/aow#S707)</small> |
 | `ka-ra` · kara | [W222](words/W222.md) | ✅ | deliberate force; combat; martial action; warfare <br><small>[S464](../../../totonesu/corpus/batches/ham#S464) · [S703](../../../totonesu/corpus/batches/aow#S703) · [S704](../../../totonesu/corpus/batches/aow#S704) · [S706](../../../totonesu/corpus/batches/aow#S706)</small> |
+| `ka-si-de` · kaside | [W224](words/W224.md) | ✅ | deliberate deception; strategic misdirection; intentional signal-corruption <br><small>[S702](../../../totonesu/corpus/batches/aow#S702) · [S709](../../../totonesu/corpus/batches/map#S709) · [S711](../../../totonesu/corpus/batches/map#S711) · [S713](../../../totonesu/corpus/batches/map#S713)</small> |
+| `ra-su-li` · rasuli | [W225](words/W225.md) | ✅ | sovereign; commander; ruler who commands organized force <br><small>[S709](../../../totonesu/corpus/batches/map#S709)</small> |
+
+## Narrative
+
+5 compounds
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `de-li` · deli | [W223](words/W223.md) | ✅ | adversary; agent of harm; opposing agent <br><small>[S704](../../../totonesu/corpus/batches/aow#S704) · [S705](../../../totonesu/corpus/batches/aow#S705) · [S706](../../../totonesu/corpus/batches/aow#S706) · [S707](../../../totonesu/corpus/batches/aow#S707)</small> |
+| `ka-ra` · kara | [W222](words/W222.md) | ✅ | deliberate force; combat; martial action; warfare <br><small>[S464](../../../totonesu/corpus/batches/ham#S464) · [S703](../../../totonesu/corpus/batches/aow#S703) · [S704](../../../totonesu/corpus/batches/aow#S704) · [S706](../../../totonesu/corpus/batches/aow#S706)</small> |
+| `ra-su-li` · rasuli | [W225](words/W225.md) | ✅ | sovereign; commander; ruler who commands organized force <br><small>[S709](../../../totonesu/corpus/batches/map#S709)</small> |
 | `zo-ki-ma` · zokima | [W220](words/W220.md) | ✅ | snake / serpent / limbless locomoting organism <br><small>[S696](../../../totonesu/corpus/batches/exo#S696) · [S699](../../../totonesu/corpus/batches/exo#S699)</small> |
 | `zo-su-mu` · zosumu | [W221](words/W221.md) | ✅ | staff / rod / wooden implement <br><small>[S696](../../../totonesu/corpus/batches/exo#S696)</small> |
 
@@ -478,6 +481,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `wi-fe'de` · wife'de | [W203](words/W203.md) | ✅ | penalty; sanction; rule-imposed decrease <br><small>[S646](../../../totonesu/corpus/batches/aca#S646) · [S647](../../../totonesu/corpus/batches/aca#S647) · [S648](../../../totonesu/corpus/batches/aca#S648) · [S649](../../../totonesu/corpus/batches/aca#S649) · [S650](../../../totonesu/corpus/batches/aca#S650)</small> |
+
+## Political / Social
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `ra-su-li` · rasuli | [W225](words/W225.md) | ✅ | sovereign; commander; ruler who commands organized force <br><small>[S709](../../../totonesu/corpus/batches/map#S709)</small> |
 
 ## Signal / Inscription
 
@@ -494,7 +505,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `de-li` · deli | [W223](words/W223.md) | ✅ | adversary; agent of harm; opposing agent <br><small>[S704](../../../totonesu/corpus/batches/aow#S704) · [S705](../../../totonesu/corpus/batches/aow#S705) · [S706](../../../totonesu/corpus/batches/aow#S706) · [S707](../../../totonesu/corpus/batches/aow#S707)</small> |
-| `ka-si-de` · kaside | [W224](words/W224.md) | ✅ | deliberate deception; strategic misdirection; intentional signal-corruption <br><small>[S702](../../../totonesu/corpus/batches/aow#S702)</small> |
+| `ka-si-de` · kaside | [W224](words/W224.md) | ✅ | deliberate deception; strategic misdirection; intentional signal-corruption <br><small>[S702](../../../totonesu/corpus/batches/aow#S702) · [S709](../../../totonesu/corpus/batches/map#S709) · [S711](../../../totonesu/corpus/batches/map#S711) · [S713](../../../totonesu/corpus/batches/map#S713)</small> |
 
 ## Social / Role
 

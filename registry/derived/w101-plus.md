@@ -2248,3 +2248,20 @@ Related:       ka (deliberate action), si (signal/information), de (decrease/har
 ```
 
 ---
+
+**W225**
+```
+Form:          ra-su-li
+Type:          compound
+Class:         entity (agent)
+Definition:    one who commands organized force; sovereign; ruler; prince in the Machiavellian sense. The agent (li) defined by commanding force (ra) organized into structures (su). Distinct from li-su-li (W001: administrator/coordinator — organizes people into structures) in that ra-su-li's defining characteristic is the FORCE dimension: the sovereign commands organized power, not merely administrative structure. Distinct from wi-ra (W177: directed power/authority — a state, not an agent) and wi-ra-li (W217: spirit/divine-force-agent — a different agent type).
+Composition:   ra (force/energy) + su (structure/order) + li (agent role). Head-final: li (agent) is head; ra-su specifies the type by what the agent commands — organized force = structured martial/political power. 3-root compound. Default right-branching: ra modifies [su-li] = force [of the] structure-agent = sovereign.
+Register:      standard
+Domain:        political / military / social / narrative
+Status:        ✅ active
+First use:     MAP-001-B (S709): la-ra-su-li  si  vo  lo  ze  /  la-ra-su-li  ne  ka-si-de
+Notes:         First attestation MAP-001-B (S709): la-ra-su-li si vo lo ze / la-ra-su-li ne ka-si-de — the ruler appears virtuous to others / [but] IS deception. The Machiavellian prince par excellence. Corresponds to Italian "principe" (The Prince) or Chinese "君主" (sovereign), not a hereditary title but a functional role: the one who wields organized force in a polity. Compare wi-ra-li (W217, spirit/divine-force-agent — sacred register, not political).
+Related:       ra (force), su (structure), li (agent), wi-ra (W177: directed power — state, not agent), li-su-li (W001: administrator/coordinator — distinct by force vs people-organization), wi-ra-li (W217: spirit agent — distinct register and scope)
+```
+
+---

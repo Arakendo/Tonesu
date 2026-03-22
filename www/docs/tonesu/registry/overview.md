@@ -4,7 +4,7 @@ title: Word Registry
 
 # Word Registry
 
-210 derived compounds, sorted alphabetically.
+211 derived compounds, sorted alphabetically.
 
 See also: [English index](english.md) · [By domain](by-domain.md) · [By root](by-root.md) · [Building words](../words.md)
 
@@ -23,12 +23,12 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `fa-de` · fade | [W094](words/W094.md) | ✅ | affect fading |
 | `fa-de-ra` · fadera | [W155](words/W155.md) | ✅ | suffering, affect-decrease-force <br><small>[S409](../../../totonesu/corpus/batches/exo#S409)</small> |
 | `fa-ki` · faki | [W093](words/W093.md) | ✅ | affect shift / change of register |
-| `fa-no` · fano | [W095](words/W095.md) | ✅ | affect inactive (unresolved or numb) |
-| `fa-ra` · fara | [W154](words/W154.md) | ✅ | fear/awe, forceful affect <br><small>[S408](../../../totonesu/corpus/batches/exo#S408)</small> |
+| `fa-no` · fano | [W095](words/W095.md) | ✅ | affect inactive (unresolved or numb) <br><small>[S712](../../../totonesu/corpus/batches/map#S712) · [S713](../../../totonesu/corpus/batches/map#S713)</small> |
+| `fa-ra` · fara | [W154](words/W154.md) | ✅ | fear/awe, forceful affect <br><small>[S408](../../../totonesu/corpus/batches/exo#S408) · [S708](../../../totonesu/corpus/batches/map#S708)</small> |
 | `fa-ra-be` · farabe | [W123](words/W123.md) | ✅ | anger, hostile arousal <br><small>[S221](../../../totonesu/corpus/batches/odl#S221)</small> |
 | `fa-re` · fare | [W096](words/W096.md) | ✅ | affect cycling / returning to baseline |
 | `fa-su` · fasu | [W173](words/W173.md) | ✅ | serenity, affect in ordered/structured form <br><small>[S590](../../../totonesu/corpus/batches/stw#S590)</small> |
-| `fa-vo` · favo | [W197](words/W197.md) | ✅ | happiness; positive-valence affect state; felt sense of wellbeing <br><small>[S219](../../../totonesu/corpus/batches/odl#S219) · [S633](../../../totonesu/corpus/batches/doi#S633) · [S691](../../../totonesu/corpus/batches/loj#S691)</small> |
+| `fa-vo` · favo | [W197](words/W197.md) | ✅ | happiness; positive-valence affect state; felt sense of wellbeing <br><small>[S219](../../../totonesu/corpus/batches/odl#S219) · [S633](../../../totonesu/corpus/batches/doi#S633) · [S691](../../../totonesu/corpus/batches/loj#S691) · [S708](../../../totonesu/corpus/batches/map#S708)</small> |
 | `fa-wi-de` · fawide | [W127](words/W127.md) | ✅ | temptation, affect-will-toward-harm |
 | `fa-wi-ra` · fawira | [W172](words/W172.md) | ✅ | passion, driven desire (affect-will-force) <br><small>[S593](../../../totonesu/corpus/batches/stw#S593) · [S594](../../../totonesu/corpus/batches/stw#S594)</small> |
 | `fa-wi-zi` · fawizi | [W136](words/W136.md) | ⚠️ | lust, affect-desire-to-couple |
@@ -53,7 +53,7 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `ka-pa-ki` · kapaki | [W160](words/W160.md) | ✅ | liberation act, deliberate place-motion <br><small>[S410](../../../totonesu/corpus/batches/exo#S410) · [S411](../../../totonesu/corpus/batches/exo#S411) · [S412](../../../totonesu/corpus/batches/exo#S412) · [S413](../../../totonesu/corpus/batches/exo#S413) · [S418](../../../totonesu/corpus/batches/lsp#S418) · [S420](../../../totonesu/corpus/batches/lsp#S420) · [S421](../../../totonesu/corpus/batches/lsp#S421) · [S422](../../../totonesu/corpus/batches/lsp#S422) · [S424](../../../totonesu/corpus/batches/lsp#S424) · [S598](../../../totonesu/corpus/batches/stw#S598)</small> |
 | `ka-pa-ki'ti-re` · kapaki'tire | [W167](words/W167.md) | ✅ | Passover festival, recurring liberation event <br><small>[S418](../../../totonesu/corpus/batches/lsp#S418) · [S420](../../../totonesu/corpus/batches/lsp#S420) · [S421](../../../totonesu/corpus/batches/lsp#S421) · [S422](../../../totonesu/corpus/batches/lsp#S422) · [S424](../../../totonesu/corpus/batches/lsp#S424)</small> |
 | `ka-ra` · kara | [W222](words/W222.md) | ✅ | deliberate force; combat; martial action; warfare <br><small>[S464](../../../totonesu/corpus/batches/ham#S464) · [S703](../../../totonesu/corpus/batches/aow#S703) · [S704](../../../totonesu/corpus/batches/aow#S704) · [S706](../../../totonesu/corpus/batches/aow#S706)</small> |
-| `ka-si-de` · kaside | [W224](words/W224.md) | ✅ | deliberate deception; strategic misdirection; intentional signal-corruption <br><small>[S702](../../../totonesu/corpus/batches/aow#S702)</small> |
+| `ka-si-de` · kaside | [W224](words/W224.md) | ✅ | deliberate deception; strategic misdirection; intentional signal-corruption <br><small>[S702](../../../totonesu/corpus/batches/aow#S702) · [S709](../../../totonesu/corpus/batches/map#S709) · [S711](../../../totonesu/corpus/batches/map#S711) · [S713](../../../totonesu/corpus/batches/map#S713)</small> |
 | `ka-to-fe` · katofe | [W122](words/W122.md) | ✅ | judge, deliberate epistemic bounding <br><small>[S368](../../../totonesu/corpus/batches/fal#S368) · [S641](../../../totonesu/corpus/batches/cda#S641) · [S643](../../../totonesu/corpus/batches/cda#S643) · [S644](../../../totonesu/corpus/batches/cda#S644) · [S649](../../../totonesu/corpus/batches/aca#S649)</small> |
 | `ka-vo-si` · kavosi | [W168](words/W168.md) | ✅ | thanksgiving / blessing, deliberate value-signal <br><small>[S426](../../../totonesu/corpus/batches/lsp#S426) · [S429](../../../totonesu/corpus/batches/lsp#S429)</small> |
 | `ki'ma` · ki'ma | [W114](words/W114.md) | ⏳ | liquid (material state) |
@@ -111,6 +111,7 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `ra-ki-mu` · rakimu | [W012](words/W012.md) | ⏳ | engine, motor, generator <br><small>[S034](../../../totonesu/corpus/batches/t-ha#S034) · [S038](../../../totonesu/corpus/batches/t-ha#S038) · [S114](../../../totonesu/corpus/batches/t-ax#S114) · [S115](../../../totonesu/corpus/batches/t-ax#S115) · [S116](../../../totonesu/corpus/batches/t-ax#S116) · [S123](../../../totonesu/corpus/batches/t-ax#S123) · [S124](../../../totonesu/corpus/batches/t-ax#S124) · [S125](../../../totonesu/corpus/batches/t-ax#S125) · [S126](../../../totonesu/corpus/batches/cf#S126) · [S129](../../../totonesu/corpus/batches/cf#S129) · [S130](../../../totonesu/corpus/batches/cf#S130) · [S157](../../../totonesu/corpus/batches/cf#S157)</small> |
 | `ra-lu-ki` · raluki | [W151](words/W151.md) | ✅ | fire, energy-light-process <br><small>[S402](../../../totonesu/corpus/batches/exo#S402) · [S403](../../../totonesu/corpus/batches/exo#S403) · [S479](../../../totonesu/corpus/batches/scl#S479)</small> |
 | `ra-ma` · rama | [W082](words/W082.md) | ✅ | fuel, energy substrate <br><small>[S116](../../../totonesu/corpus/batches/t-ax#S116) · [S394](../../../totonesu/corpus/batches/fal#S394) · [S396](../../../totonesu/corpus/batches/fal#S396) · [S397](../../../totonesu/corpus/batches/fal#S397)</small> |
+| `ra-su-li` · rasuli | [W225](words/W225.md) | ✅ | sovereign; commander; ruler who commands organized force <br><small>[S709](../../../totonesu/corpus/batches/map#S709)</small> |
 | `ra-vo` · ravo | [W071](words/W071.md) | ✅ | signal intensity, energy quality <br><small>[C006-B1](../../../totonesu/corpus/batches/_foundations#C006-B1) · [S067](../../../totonesu/corpus/batches/t-cmp#S067)</small> |
 | `re-ka-ne-li` · rekaneli | [W134](words/W134.md) | ✅ | peacemaker, habitual bond-creator |
 | `se-de-li` · sedeli | [W208](words/W208.md) | ✅ | rogue / stealth agent <br><small>[S653](../../../totonesu/corpus/batches/dnd#S653)</small> |
@@ -179,7 +180,7 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `wi-ka-su` · wikasu | [W054](words/W054.md) | ✅ | ritual, structured intentional practice <br><small>[S073](../../../totonesu/corpus/batches/t-mys#S073)</small> |
 | `wi-no-ra` · winora | [W132](words/W132.md) | ✅ | meekness, will-without-force |
 | `wi-no-su` · winosu | [W189](words/W189.md) | ✅ | chaotic; will unbound by structure; spontaneous / freedom-first moral disposition <br><small>[S612](../../../totonesu/corpus/batches/dnd#S612) · [S615](../../../totonesu/corpus/batches/dnd#S615) · [S618](../../../totonesu/corpus/batches/dnd#S618)</small> |
-| `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) <br><small>[S596](../../../totonesu/corpus/batches/stw#S596) · [S599](../../../totonesu/corpus/batches/dnd#S599) · [S672](../../../totonesu/corpus/batches/sol#S672) · [S683](../../../totonesu/corpus/batches/sol#S683)</small> |
+| `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) <br><small>[S596](../../../totonesu/corpus/batches/stw#S596) · [S599](../../../totonesu/corpus/batches/dnd#S599) · [S672](../../../totonesu/corpus/batches/sol#S672) · [S683](../../../totonesu/corpus/batches/sol#S683) · [S708](../../../totonesu/corpus/batches/map#S708)</small> |
 | `wi-ra-li` · wirali | [W217](words/W217.md) | ✅ | spirit / directed-force-agent <br><small>[S672](../../../totonesu/corpus/batches/sol#S672) · [S673](../../../totonesu/corpus/batches/sol#S673) · [S677](../../../totonesu/corpus/batches/sol#S677)</small> |
 | `wi-ra-su` · wirasu | [W179](words/W179.md) | ✅ | magic; the systematic, disciplined practice of directed force <br><small>[S599](../../../totonesu/corpus/batches/dnd#S599) · [S600](../../../totonesu/corpus/batches/dnd#S600) · [S601](../../../totonesu/corpus/batches/dnd#S601) · [S602](../../../totonesu/corpus/batches/dnd#S602) · [S603](../../../totonesu/corpus/batches/dnd#S603) · [S604](../../../totonesu/corpus/batches/dnd#S604) · [S605](../../../totonesu/corpus/batches/dnd#S605) · [S606](../../../totonesu/corpus/batches/dnd#S606) · [S607](../../../totonesu/corpus/batches/dnd#S607) · [S698](../../../totonesu/corpus/batches/exo#S698)</small> |
 | `wi-re` · wire | [W099](words/W099.md) | ✅ | feedback loop, iterative goal-cycle <br><small>[S179](../../../totonesu/corpus/batches/opx#S179) · [S671](../../../totonesu/corpus/batches/sut#S671)</small> |

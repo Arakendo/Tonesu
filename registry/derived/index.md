@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 124 |
+| [w101-plus.md](w101-plus.md) | W101+ | 125 |
 
-**Total: 212 W-series entries** — active: 169 · proposed: 2 · pending: 39 · cold: 0 · retired: 2
+**Total: 213 W-series entries** — active: 170 · proposed: 2 · pending: 39 · cold: 0 · retired: 2
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -131,6 +131,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `ra-ki-mu` | W012 | engine, motor, generator | ⏳ | [w001-w050](w001-w050.md) |
 | `ra-lu-ki` | W151 | fire, energy-light-process | ✅ | [w101-plus](w101-plus.md) |
 | `ra-ma` | W082 | fuel, energy substrate | ✅ | [w051-w100](w051-w100.md) |
+| `ra-su-li` | W225 | sovereign; commander; ruler who commands organized force | ✅ | [w101-plus](w101-plus.md) |
 | `ra-vo` | W071 | signal intensity, energy quality | ✅ | [w051-w100](w051-w100.md) |
 | `re-ka-ne-li` | W134 | peacemaker, habitual bond-creator | ✅ | [w101-plus](w101-plus.md) |
 | `se-de-li` | W208 | rogue / stealth agent | ✅ | [w101-plus](w101-plus.md) |
@@ -250,7 +251,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 Concept-first lookup: find the compound you need by domain.
 
 **Person / Agent**
-`di-ki-li` W061 navigator · `li-be` W033 child · `li-su-li` W001 leader · `pa-ki` W156 liberation / liberator · `si-go-li` W201 content originator · `si-ki-li` W158 messenger/angel · `si-no-vo-li` W126 hypocrite · `su-ka-li` W200 service provider · `su-mu-li` W002 engineer · `to-fe-li` W032 epistemic guardian/adjudicator · `to-li` W003 scholar · `wi-de-li` W124 adversary · `zo-li` W148 human person · `zo-su-ka-li` W150 shepherd
+`di-ki-li` W061 navigator · `li-be` W033 child · `li-su-li` W001 leader · `pa-ki` W156 liberation / liberator · `ra-su-li` W225 sovereign · `si-go-li` W201 content originator · `si-ki-li` W158 messenger/angel · `si-no-vo-li` W126 hypocrite · `su-ka-li` W200 service provider · `su-mu-li` W002 engineer · `to-fe-li` W032 epistemic guardian/adjudicator · `to-li` W003 scholar · `wi-de-li` W124 adversary · `zo-li` W148 human person · `zo-su-ka-li` W150 shepherd
 
 **Kinship**
 `ne-zi-re` W131 spouse · `zo-ne` W076 biological kinship bond · `zo-ne-du` W078 offspring · `zo-ne-du-re` W081 descendant · `zo-ne-go` W077 parent · `zo-ne-go-re` W080 ancestor · `zo-ne-ru` W079 sibling
@@ -337,13 +338,16 @@ Concept-first lookup: find the compound you need by domain.
 `to'to-ne-su` W170 meta-truth · `to-to-ne-su` W169 knowledge of truth
 
 **Military / Conflict**
-`de-li` W223 adversary · `ka-ra` W222 deliberate force · `ka-si-de` W224 deliberate deception
+`de-li` W223 adversary · `ka-ra` W222 deliberate force · `ka-si-de` W224 deliberate deception · `ra-su-li` W225 sovereign
 
 **Narrative**
-`de-li` W223 adversary · `ka-ra` W222 deliberate force · `zo-ki-ma` W220 snake / serpent / limbless locomoting organism · `zo-su-mu` W221 staff / rod / wooden implement
+`de-li` W223 adversary · `ka-ra` W222 deliberate force · `ra-su-li` W225 sovereign · `zo-ki-ma` W220 snake / serpent / limbless locomoting organism · `zo-su-mu` W221 staff / rod / wooden implement
 
 **Normative**
 `wi-fe'de` W203 penalty
+
+**Political / Social**
+`ra-su-li` W225 sovereign
 
 **Signal / Inscription**
 `fe-vo'si-ko-mu` W219 consecrated inscribed object / pentacle / talisman
@@ -382,7 +386,7 @@ Quick lookup by lead primitive root.
 | `no` | no-ne-fe W075, no-su'ma W115, no-de-ma W129, no-lu-ti W141 |
 | `nu` | nu-se W102 |
 | `pa` | pa-nu W050, pa-ra W053, pa-wi-ka-su W066, pa-ki W087, pa-wi W088, pa-mi W110, pa-be'ka-li-su W125, pa-zo-li W135, pa-fe W138, pa-vo-fe W153, pa-ki W156, pa-su W157, pa-ma W194, pa-ne-su W196, pa-ki-su W198 |
-| `ra` | ra-ki-mu W012, ra-ki W038, ra-vo W071, ra-ma W082, ra-lu-ki W151 |
+| `ra` | ra-ki-mu W012, ra-ki W038, ra-vo W071, ra-ma W082, ra-lu-ki W151, ra-su-li W225 |
 | `re` | re-ka-ne-li W134 |
 | `se` | se-ka W034, se-to W062, se-no-to W090, se-lu W130 |
 | `si` | si-ne-ki W021, si-ki W023, si-mu W039, si-ko-mu W067, si-fe W070, si-de W098, si-no-vo-li W126, si-ki-li W158, si-go-li W201 |

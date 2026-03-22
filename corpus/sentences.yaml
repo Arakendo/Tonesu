@@ -12822,3 +12822,181 @@ sentences:
     is the presence or absence of `no-` on `de-ra` and on each premise clause. S706
     breaks the symmetry: partial knowledge produces neither the universal security
     of S705 nor the universal doom of S707 but an unresolvable alternation.'
+- snum: S708
+  gloss: 'As for authority: fear has more structural reliability than love.'
+  batch: MAP-001
+  batch_sub: A
+  status: normative
+  tonesu: 'wi-ra  :  fa-ra  su  nu-be  fa-vo'
+  gloss_line: null
+  natural: 'As for authority: fear has more structural reliability than love.'
+  words_attested:
+  - W154
+  - W177
+  - W197
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S708
+  notes: 'Machiavelli, *The Prince* Ch 17 (Giles/Ricci: "it is much safer to be feared
+    than loved"). `wi-ra` (W177: directed power/authority) as topic NP; `:` topic
+    frame = "as for authority…" `fa-ra` (W154: fear/awe) and `fa-vo` (W197: happiness/positive-affect)
+    are the two items being compared. `su` = structure/reliability as the quality
+    dimension in the comparison: the degree to which a relationship holds its structural
+    form under pressure. `nu-be` = more-than (established grammar comparison particle;
+    `nu` quantity + `be` increase). First use of `nu-be` in political-philosophical
+    register on abstract quality dimensions. Pattern: `lo-A  Q  nu-be  lo-B` → here
+    `fa-ra  su  nu-be  fa-vo` (the articles are elided; `fa-ra` and `fa-vo` function
+    as 0-article abstract NPs). The argument is Machiavellian: love-based authority
+    collapses when tested; fear-based authority maintains structural integrity because
+    the mechanism (deterrence) is self-reinforcing. `su` as quality dimension captures
+    "structural integrity/reliability" rather than intrinsic worth.'
+- snum: S709
+  gloss: The sovereign appears as one of worth to others / [but] the sovereign IS
+    deception.
+  batch: MAP-001
+  batch_sub: B
+  status: normative
+  tonesu: la-ra-su-li  si  vo  lo  ze  /  la-ra-su-li  ne  ka-si-de
+  gloss_line: null
+  natural: The sovereign appears as one of worth to others / [but] the sovereign IS
+    deception.
+  words_attested:
+  - W224
+  - W225
+  first_attests:
+  - W225
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S709
+  notes: 'Machiavelli, *The Prince* Ch 18 ("It is not necessary for a prince to have
+    the above-named qualities, but it is very necessary to appear to have them").
+    `ra-su-li` (W225: sovereign/ruler) first attestation. `la-ra-su-li si vo lo ze`
+    = the sovereign signals worth/virtue to others. First use of `la-X si [Q] lo [Z]`
+    as **appearance predication**: what an agent signals outward to an observer IS
+    their apparent-face. `si` (signal/information primitive) here functions as an
+    appearance verb: the outward signal constitutes the appearance, without commitment
+    to it reflecting inner reality. `la-ra-su-li ne ka-si-de` = the sovereign has
+    the property of deception. `ne` (property copula) attributes deception as the
+    sovereign''s inner reality. The `/` bi-clausal parallel pairs appearance (the
+    outgoing signal) against reality (the inner property). The structural opposition
+    makes the Machiavellian duplicity formally explicit: first clause = the face projected;
+    second clause = the actual character. Distinct from `la-X ne vo` (which would
+    assert the sovereign genuinely has worth) and `la-X si vo lo ze` alone (which
+    would only describe the signal without the reality contrast).'
+- snum: S710
+  gloss: I [myself] have the property of supreme excellence.
+  batch: MAP-001
+  batch_sub: C
+  status: normative
+  tonesu: mi  ne  ra-no-fe-vo
+  gloss_line: null
+  natural: I [myself] have the property of supreme excellence.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S710
+  notes: 'Dark Triad — Narcissism. The narcissist''s core implicit claim: the self
+    has unbounded force-worth. `mi` = self, first person (primitive). `ne` = property
+    copula. `ra-no-fe-vo` = unbounded force-worth / supreme excellence (compositional,
+    established AOW-001 S704 context). First use of `mi` as the subject of a direct
+    `ne ra-no-fe-vo` self-predication. This minimal two-word claim after `ne` is the
+    narcissistic grandiosity claim in its structurally simplest form: no qualification,
+    no hedging, no context — just `mi ne [unbounded-excellence]`. In Tonesu, this
+    sentence is structurally well-formed (it is not prohibited to claim self-excellence),
+    but contextually it identifies a pattern: the agent who speaks `mi ne ra-no-fe-vo`
+    as if it were ordinary is the narcissistic agent. The sentence also contrasts
+    with the S712 psychopathy claim: narcissism inflates the self; psychopathy empties
+    the affect substrate. Both sentences begin with first-person.'
+- snum: S711
+  gloss: In order for me to gain power, I deceive others.
+  batch: MAP-001
+  batch_sub: D
+  status: normative
+  tonesu: wi {la-mi  ra-be},  la-mi  ka-si-de  lo  ze
+  gloss_line: null
+  natural: In order for me to gain power, I deceive others.
+  words_attested:
+  - W224
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S711
+  notes: 'Dark Triad — Machiavellianism. `wi {}` = purpose frame ("in order that /
+    so that"), looking forward to intended outcome. `wi {la-mi ra-be}` = with the
+    purpose that I-gain-force = for the purpose of increasing my power. `la-mi ra-be`
+    = I gain force/power (established: `ra-be` = force-increasing / gaining power).
+    Matrix: `la-mi ka-si-de lo ze` = I perform deception on others. First use of `ka-si-de`
+    (W224: deliberate deception) as a **transitive verb** with explicit patient `lo
+    ze` (others). `ka-si-de lo ze` = to deceive others (deception directed at a patient).
+    First use of `wi {}` purpose-frame with a full clause inside. First use of `wi
+    {}` with an explicitly self-directed goal (`la-mi ra-be` = I-gain-force). The
+    Machiavellian structure is in the frame choice: `go` (causal frame) would present
+    deception as the CAUSE of power; `wi` (purpose frame) presents it as the MEANS
+    toward a GOAL. This is the instrumentalist structure — deception is not the root
+    but the tool. The goal is explicit and self-interested. First attestation directly
+    connecting `wi {}` purpose-frame with `ka-si-de`.'
+- snum: S712
+  gloss: Because affect is inactive, I act without structural constraint on others.
+  batch: MAP-001
+  batch_sub: E
+  status: normative
+  tonesu: go {fa-no},  la-mi  ka-no-su  lo  ze
+  gloss_line: null
+  natural: Because affect is inactive, I act without structural constraint on others.
+  words_attested:
+  - W095
+  first_attests:
+  - W095
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S712
+  notes: 'Dark Triad — Psychopathy. `go {fa-no}` = because [condition: affect-inactive].
+    First use of `go {}` with an **agentless state predicate** as premise: `fa-no`
+    (W095: affect inactive/offline, without subject specified) as the causal premise.
+    The premise is impersonal — it predicates the absence of affect as a structural
+    state, not a choice. Matrix: `la-mi ka-no-su lo ze` = I act structurelessly on
+    others. `ka-no-su` = deliberate-action-without-structure = action that bypasses/ignores
+    relational and structural constraints on behavior. Compositional first-use: `ka`
+    (deliberate action) + `no` (absence/negation) + `su` (structure) = action of being
+    unstructured = unconstrained action-toward-others. The Tonesu claim: the structure
+    that normally mediates affect-regulated action (empathic modulation, social reciprocity,
+    felt consequence of harm) is removed when `fa` is offline. `ka-no-su` is the result:
+    action without those mediating structures. `lo ze` = on others (third parties
+    as patient). Distinct from `ka` alone (deliberate action, neutral to structural
+    dimension) and `ka-si-de` (structured deception, which is itself `ka` + structure
+    of signal-corruption). Psychopathy in Tonesu is not the PRESENCE of harmful will
+    but the ABSENCE of structural constraint: `fa-no` → `ka-no-su`.'
+- snum: S713
+  gloss: I am of supreme excellence; [and] in order to gain power, I deceive; [and]
+    because affect is inactive, I act without structure.
+  batch: MAP-001
+  batch_sub: F
+  status: normative
+  tonesu: mi  ne  ra-no-fe-vo  ;  wi {la-mi  ra-be},  la-mi  ka-si-de  ;  go {fa-no},  la-mi  ka-no-su
+  gloss_line: null
+  natural: I am of supreme excellence; [and] in order to gain power, I deceive; [and]
+    because affect is inactive, I act without structure.
+  words_attested:
+  - W095
+  - W224
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S713
+  notes: 'Dark Triad synthesis. All three traits in a `;` triple chain: narcissism
+    (`mi ne ra-no-fe-vo`) → Machiavellianism (`wi {la-mi ra-be}, la-mi ka-si-de`)
+    → psychopathy (`go {fa-no}, la-mi ka-no-su`). First time a `;` sequential chain
+    links THREE DIFFERENT CLAUSE TYPES: (1) property predication (`ne`), (2) purpose-frame
+    clause (`wi {}`), (3) causal-frame clause (`go {}`). The `;` carries the "and
+    also / and in the same agent" meaning: all three descriptions are jointly true
+    of the same speaker. No causal connection is asserted between them (that would
+    require `go`); no sequential precedence is implied; they co-describe a single
+    structure. The resulting three-part structure mirrors the know-yourself triptych
+    (S705–S707) formally — both are triple structures with a shared agent — but the
+    logic is inverted: S705–S707 are CONDITIONAL (if P then Q), while S710–S712/S713
+    are CONSTITUTIVE (this is what the agent IS). The first-person speaker claiming
+    all three simultaneously has structural parallels to the Sith code (STW-002) but
+    without the causal chain (`go … la-mi … go … la-mi …`): the Dark Triad is not
+    a causal progression of the Sith type but a co-present cluster.'
