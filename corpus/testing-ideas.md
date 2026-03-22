@@ -15,7 +15,7 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 ## Ready to run — grammar structure gaps
 
 - [x] **Proof structure** — Multi-step deductive chains using `go`. Filed as PRF-001 (S684–S689): Aristotle syllogism (all-persons/Socrates), Descartes Cogito, reductio from cyclic motion. First stacked `go {P}, go {P}, C`; first `a-` scope prefix in deductive premise; `;` vs `go` minimal pair.
-- [ ] **Permission vs capability modality** — No batch distinguishes "can" (physical capability, `be-vo`) from "may" (permission/authority). Flagged as "untested" in open questions. Good source material: medical consent, legal authority, social permission. Also stress-tests `wi-fe` from a different angle.
+- [x] **Permission vs capability modality** — filed as PERM-001 (S745–S751). Four-quadrant capability/permission matrix confirmed: S747 (capable + forbidden), S748 (permitted + incapable). `wi-fe-ka` clausal argument first attested; `ne wi-fe` rights-claim cross-registered to medical domain; three-level modal landscape: `be-vo` (capacity) / `wi-fe-ka`/`ne wi-fe` (normative state) / `wi-ra` (performative authority). No new primitive needed.
 
 ---
 

@@ -3695,3 +3695,178 @@ directly observed.
 **Verdict:** irreducibly formal — all forms are below threshold, structural minimums, or load-bearing operators.
 
 *CLQ entries registered from this batch: none.*
+
+---
+
+## Permission vs Capability Modality (S745–S751) — Batch: PERM-001
+
+*Batch purpose (PERM-001): Test the capability/permission distinction — `be-vo` (physical capacity) vs the `wi-fe` family (normative prohibition and rights-holding) — across two domains: medical consent and institutional access. Key questions: (1) Are `be-vo` and `wi-fe-ka` orthogonal — can both hold simultaneously in the same utterance? (2) Does the `la-X ne wi-fe lo-Y` rights-claim pattern (first in DIP-001's diplomatic register) generalize to medical ethics? (3) How is active exercise of authority (`wi-ra`) distinct from normative authority-holding (`ne wi-fe`)? Closes the open-questions.md capability/modality watch item.*
+
+---
+
+### S745 — PERM-001-A
+
+**Source:** "The patient can speak."
+
+**Tonesu:** `la-zo-li  be-vo  [ka-si]`
+
+**Written:** `lazoli bevo kasi`
+
+**Gloss:** [person] has-capacity [deliberate-signaling]
+
+**Natural reading:** The patient can speak.
+
+**Notes:** Capability baseline — no normative content. `be-vo` = generative/productive quality = capacity/ability (compositional: be = growth/increase, vo = worth/quality = "productive quality"). `[ka-si]` = deliberate signaling = speaking. A physical fact about the world: says nothing about whether speaking is permitted, mandated, or forbidden. Baseline against which S746–S748 are measured.
+
+---
+
+### S746 — PERM-001-B
+
+**Source:** "Visitors are not permitted to enter."
+
+**Tonesu:** `wi-fe-ka  [la-pa-li  ka-ki-be]`
+
+**Written:** `wifeka lapali kakibe`
+
+**Gloss:** rule-forbidden [visitors enter/approach]
+
+**Natural reading:** It is forbidden for visitors to enter.
+
+**Notes:** Prohibition baseline — no capability claim. `wi-fe-ka` (W100 derived) = willed boundary on a specific action = the action is prohibited by a rule. Second domain attestation of `wi-fe-ka` after SUT-001 (S668, mechanical power ramp context); first use with a person-class subject inside the bracketed clause. `pa-li` = place-person = visitor/outsider (compositional: pa = space/place + li = person = person defined by their spatial relation to this space; first use). `ka-ki-be` = deliberate motion toward = approach/entry (ki = motion, be = growth/proximate direction; compositional). The prohibition is impersonal and institutional. Whether visitors are physically *capable* of entry is not at issue; the sentence makes a normative claim only.
+
+---
+
+### S747 — PERM-001-C
+
+**Source:** "The patient can walk, but may not leave."
+
+**Tonesu:** `la-zo-li  be-vo  [ka-ki] — wi-fe-ka  [la-zo-li  ka-ki-de]`
+
+**Written:** `lazoli bevo kaki — wifeka lazoli kakide`
+
+**Gloss:** [person] has-capacity [motion] — rule-forbidden [person deliberate-departure]
+
+**Natural reading:** The patient can walk, but may not leave.
+
+**Notes:** **Core minimal pair A — capability present, permission absent.** Two simultaneously true, structurally independent claims joined by `—` (prosodic suspension). Left: physical fact (`be-vo` = capacity for motion). Right: normative fact (`wi-fe-ka` = rule-boundary on departure). The `—` connects without asserting any causal or logical relation — it is not "because he can walk, he may not leave" but simply "both are true at once." `ka-ki-de` = deliberate departure (ka = intentional action, ki = motion, de = decrease/away). **Key diagnostic:** neither claim implies or negates the other. Being ambulatory does not entail freedom; being confined does not entail inability. The two axes are orthogonal. First use of `wi-fe-ka` with a full `la-X V-phrase` clausal argument (SUT-001 S668 used bare `lo-X` nominal patient).
+
+---
+
+### S748 — PERM-001-D
+
+**Source:** "The patient has been cleared to leave, but cannot walk."
+
+**Tonesu:** `no-wi-fe-ka  [la-zo-li  ka-ki-de] — la-zo-li  no  be-vo  [ka-ki]`
+
+**Written:** `nowifeka lazoli kakide — lazoli no bevo kaki`
+
+**Gloss:** not-rule-forbidden [person departure] — [person] lacks-capacity [motion]
+
+**Natural reading:** The patient is cleared to leave, but cannot walk.
+
+**Notes:** **Core minimal pair B — capability absent, permission present.** Inverted from S747. `no-wi-fe-ka [X]` = no rule-boundary on [X] = X is permitted (first attested SUT-001 S669; first use here with a clausal argument). `la-zo-li  no  be-vo  [ka-ki]` = the patient lacks capacity for motion. Two simultaneously true orthogonal claims: normative clearance (the discharge is authorized; no prohibition stands) and physical impossibility (the patient cannot walk). The clearance does not imply the capability; the incapacity does not negate the clearance. Together S747 and S748 close all four quadrants of the capability/permission matrix:
+
+| | Permitted (`no-wi-fe-ka`) | Forbidden (`wi-fe-ka`) |
+|---|---|---|
+| Capable (`be-vo`) | — | **S747** (can walk, confined) |
+| Incapable (`no be-vo`) | **S748** (cleared, cannot walk) | — |
+
+---
+
+### S749 — PERM-001-E
+
+**Source:** "The patient has the right to refuse treatment."
+
+**Tonesu:** `la-zo-li  ne  wi-fe  lo-no-ka-fe-zo`
+
+**Written:** `lazoli ne wife lonokafezo`
+
+**Gloss:** [person] holds rule/right toward not-treatment
+
+**Natural reading:** The patient has the normative right to refuse treatment.
+
+**Notes:** Personal rights-claim using the `la-X ne wi-fe lo-Y` pattern (DIP-001, S579–S582). `ka-fe-zo` = deliberate-act-of-living-boundary = medical treatment (ka = intentional action, fe = boundary, zo = living body; right-branching: ka-(fe-zo) = action upon the body's boundary = treatment; compositional, not registered; first use). `no-ka-fe-zo` = not-treatment = refusal/non-treatment as a nominal concept. `lo-no-ka-fe-zo` = toward [non-treatment] = the domain over which the normative rule is held. Critical distinction from `no-wi-fe-ka [X]`: `no-wi-fe-ka` is an impersonal absence of prohibition (no one is blocking X); `la-X ne wi-fe lo-Y` is a positive normative holding — the patient is an active rights-holder, not merely an unhindered agent. Medical ethics concretely: not just "no law forbids refusal" but "the patient is the normative authority over their own non-treatment." First attestation of `la-X ne wi-fe lo-Y` in a medical register; first use of `ka-fe-zo`.
+
+---
+
+### S750 — PERM-001-F
+
+**Source:** "Only the physician has authority over the treatment."
+
+**Tonesu:** `ru-fe,  la-zo-fe-li  ne  wi-fe  lo-ka-fe-zo`
+
+**Written:** `ru-fe, lazofeli ne wife lokafezo`
+
+**Gloss:** only: [physician] holds rule/right toward treatment
+
+**Natural reading:** Only the physician has authority concerning the treatment.
+
+**Notes:** Exclusive authority claim. `ru-fe,` (G031) scopes the subsequent proposition to a single holder. `zo-fe-li` = living-boundary-person = physician/healer (zo = living body, fe = boundary/maintenance, li = person-agent; right-branching: zo-(fe-li) = living-[boundary-keeper] = person who maintains the living boundary = physician/healer; compositional; first use). `la-zo-fe-li  ne  wi-fe  lo-ka-fe-zo` = physician holds the normative rule/authority over treatment — same DIP-001 authority-holding pattern (S579, S580). `ru-fe,` restricts this to one holder: no other party occupies this normative authority slot over treatment. Overlap note: S749 (patient holds right of refusal) and S750 (physician holds authority over treatment) are compatible — two different persons holding different normative claims about the same event.
+
+---
+
+### S751 — PERM-001-G
+
+**Source:** "The physician authorizes the procedure."
+
+**Tonesu:** `la-zo-fe-li  wi-ra  lo-ka-fe-zo`
+
+**Written:** `lazofeli wira lokafezo`
+
+**Gloss:** [physician] directs-force toward treatment
+
+**Natural reading:** The physician authorizes the procedure.
+
+**Notes:** **Active authority exercise vs normative property.** Closes the three-level modal landscape confirmed by this batch:
+
+1. **Capacity** (`be-vo`, S745–S748) — physical fact about a body; no agent or norm involved
+2. **Normative state** (`wi-fe-ka` / `ne wi-fe`, S746–S750) — what is or is not forbidden; what right is held; a static structural fact about the normative order
+3. **Performative authority** (`wi-ra`, S751) — the physician *actively exercises* directed-power; an event that changes the normative state
+
+`wi-ra` (W177) = will-force / directed power. Here: the physician's `wi-ra` toward the treatment = the authorizing event. After this utterance the treatment has been authorized — the normative order of the world has been updated by the performative act. Compare S750: `ne wi-fe` = the physician *has* authority as a standing stative property; `wi-ra` = the physician *uses* that authority as a performance. Second attestation of `wi-ra` in an authorization/compulsion register (first: SNG-002 S738, as directed compulsion from a person-component).
+
+---
+
+### Batch summary — PERM-001
+
+| Entry | Tonesu | Written | Claim | Key feature |
+|-------|--------|---------|-------|-------------|
+| S745 (PERM-001-A) | `la-zo-li  be-vo  [ka-si]` | `lazoli bevo kasi` | The patient can speak | Capability baseline; `be-vo` isolated from normative |
+| S746 (PERM-001-B) | `wi-fe-ka  [la-pa-li  ka-ki-be]` | `wifeka lapali kakibe` | Visitors may not enter | Prohibition baseline; `wi-fe-ka` clausal arg; `pa-li` first use |
+| S747 (PERM-001-C) | `la-zo-li  be-vo  [ka-ki] — wi-fe-ka  [la-zo-li  ka-ki-de]` | `lazoli bevo kaki — wifeka lazoli kakide` | Can walk, may not leave | Core minimal pair A: capable + prohibited |
+| S748 (PERM-001-D) | `no-wi-fe-ka  [la-zo-li  ka-ki-de] — la-zo-li  no  be-vo  [ka-ki]` | `nowifeka lazoli kakide — lazoli no bevo kaki` | Cleared to leave, cannot walk | Core minimal pair B: permitted + incapable |
+| S749 (PERM-001-E) | `la-zo-li  ne  wi-fe  lo-no-ka-fe-zo` | `lazoli ne wife lonokafezo` | Patient has right to refuse treatment | `ne wi-fe` rights-claim in medical register; `ka-fe-zo` first use |
+| S750 (PERM-001-F) | `ru-fe,  la-zo-fe-li  ne  wi-fe  lo-ka-fe-zo` | `ru-fe, lazofeli ne wife lokafezo` | Only the physician has authority | `zo-fe-li` first use; exclusive authority via `ru-fe` |
+| S751 (PERM-001-G) | `la-zo-fe-li  wi-ra  lo-ka-fe-zo` | `lazofeli wira lokafezo` | Physician authorizes the procedure | `wi-ra` as performative authority event vs `ne wi-fe` stative |
+
+**New vocabulary:** none (all forms compositional or previously registered).
+
+**Compositional first uses:** `pa-li` (visitor, place-person); `ka-fe-zo` (medical treatment, act-of-body-boundary); `zo-fe-li` (physician, living-boundary-person); `no-ka-fe-zo` (non-treatment, negated action nominal); `ka-ki-be` (deliberate approach/entry).
+
+**Key structural findings:**
+1. **Orthogonality confirmed.** S747 and S748 close the four-quadrant capability/permission matrix. `be-vo` (capability) and the `wi-fe` family (normative permission/prohibition) operate on genuinely independent axes — no primitive needed for the permission axis.
+2. **`wi-fe-ka` with clausal argument.** SUT-001 used `wi-fe-ka` with bare nominal patients. PERM-001 extends it to full clausal arguments (`wi-fe-ka [la-X V-phrase]`), following the same bracketing convention as other clause-embedding predicates.
+3. **Three-level modal landscape:** capacity (`be-vo`) / normative state (`wi-fe-ka` / `ne wi-fe`) / performative authority (`wi-ra`). This triad is now corpus-confirmed. The open-questions.md capability-modality watch item is closed.
+4. **`ne wi-fe` is register-neutral.** First tested in DIP-001 (diplomatic). PERM-001 S749–S750 confirm the personal authority/rights-claim form generalizes across domains.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `be-vo` | none | — | 2-root — below threshold |
+| `wi-fe-ka` | none | — | 3-root — below threshold |
+| `no-wi-fe-ka` | none | — | `no-` + 3-root compound; `no-` is a transparent productive prefix; effective depth = 3; below threshold |
+| `pa-li` | none | — | 2-root — below threshold |
+| `ka-ki-be` | none | — | 3-root — below threshold |
+| `ka-ki-de` | none | — | 3-root — below threshold |
+| `ka-fe-zo` | none | — | 3-root — below threshold |
+| `zo-fe-li` | none | — | 3-root — below threshold |
+| `wi-ra` (W177) | none | — | 2-root — below threshold |
+| `wi-fe` (W100) | none | — | 2-root — below threshold |
+| `ru-fe,` (G031) | none | — | Structural particle — outside CLQ scope |
+
+**Verdict:** irreducibly formal — all forms are below threshold or structural particles.
+
+*CLQ entries registered from this batch: none.*
