@@ -3072,6 +3072,32 @@
         "su",
         "li"
       ]
+    },
+    {
+      "wnum": "W226",
+      "form": "fa-ra-su",
+      "written": "farasu",
+      "gloss": "religion; structured reverence practice; institutionalized awe-discipline",
+      "status": "active",
+      "domain": "social / religious / philosophical",
+      "roots": [
+        "fa",
+        "ra",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W227",
+      "form": "su-ha-mu",
+      "written": "suhamu",
+      "gloss": "cooking pan; stovetop cooking surface; open heat-vessel",
+      "status": "active",
+      "domain": "food / cooking / domestic",
+      "roots": [
+        "su",
+        "ha",
+        "mu"
+      ]
     }
   ]
 }
