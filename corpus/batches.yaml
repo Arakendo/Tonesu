@@ -1022,3 +1022,8 @@ batches:
   purpose: 'Translate Isaiah 53:4–6, the theological core of the Suffering Servant poem. Primary structural tests: (1) substitutionary causal logic — `go {cause-from-A}  effect-on-B` where moral ownership
     and physical effect fall on different parties; (2) third-person possessive gap — no `-X` suffix exists; workaround via `lo-` role-particle as genitive inside `go {}` scope; (3) `go-si` extended to manner/comparison
     ("like sheep"); (4) distributive quantification gap — `a-o-li` is collective-universal, not distributive. Connects to MAP-001 appearance predication (S753) and PAV-001 intentional passive (S754).'
+- code: JAB-001
+  title: ''
+  theme: Foundations
+  range: S759–S764
+  count: 6

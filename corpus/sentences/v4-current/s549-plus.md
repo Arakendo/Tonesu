@@ -3937,15 +3937,15 @@ Contrast with S753: S753 = crowd misperception wrapped in `si`; S754 = the under
 
 **Source:** "upon him was the chastisement that brought us peace." (Isaiah 53:5c, ESV)
 
-**Tonesu:** `la-zo-li  ko  lo-wi-fe'de  [go {vo-ne  lu-o-li}]`
+**Tonesu:** `la-zo-li  ko  lo-wi-fe'de  [go {ne-no-ra  lu-o-li}]`
 
-**Written:** `lazoli ko lowife'de go {vone luooli}`
+**Written:** `lazoli ko lowife'de go {nenora luooli}`
 
 **Gloss:** [servant] receives [the-penalty] [that-caused {peace toward-us}]
 
 **Natural reading:** The Servant received the penalty that caused peace toward us.
 
-**Notes:** `ko` = containment/reception predicate (passive reception, no agentive intentionality required; attested S068–S071). `lo-wi-fe'de` = the penalty (W203: `wi-fe'de` = `[wi-fe]'de` = juncture pre-binds `wi-fe` as unit, `de` = head = decrease-grounded-in-rule = the punishment imposed). `vo-ne` = worth-in-relation = relational flourishing = peace/shalom (compositional: `vo` = worth, `ne` = connection/relation; right-branching: `vo-(ne)` = worth [relational]; first use). The relative clause `[go {vo-ne lu-o-li}]` = "that caused peace toward us": `go {vo-ne}` = resulting in relational-worth; `lu-o-li` = toward us (beneficiary `lu-`). Three-link causal chain across S754–S755–S756: our transgressions → Servant's wounds (`go` S754) → Servant's penalty-reception → our peace (`go` S755) → our healing (`go` S756). Tonesu's `go` holds every link without new connectives.
+**Notes:** `ko` = containment/reception predicate (passive reception, no agentive intentionality required; attested S068–S071). `lo-wi-fe'de` = the penalty (W203: `wi-fe'de` = `[wi-fe]'de` = juncture pre-binds `wi-fe` as unit, `de` = head = decrease-grounded-in-rule = the punishment imposed). `ne-no-ra` (W171) = relation-without-force = peace/shalom (already registered: `ne` = relation, `no` = negation, `ra` = force; first attested S588). The relative clause `[go {ne-no-ra lu-o-li}]` = "that caused peace toward us": `go {ne-no-ra}` = resulting in relation-without-force; `lu-o-li` = toward us (beneficiary `lu-`). Three-link causal chain across S754–S755–S756: our transgressions → Servant's wounds (`go` S754) → Servant's penalty-reception → our peace (`go` S755) → our healing (`go` S756). Tonesu's `go` holds every link without new connectives.
 
 ---
 
@@ -4009,14 +4009,14 @@ Contrast with S753: S753 = crowd misperception wrapped in `si`; S754 = the under
 | S752 (ISA-001-A) | `la-zo-li  ka-ko  [fa-de  lo-o-li] / la-zo-li  ka-ko  [fa-ra  lo-o-li]` | `lazoli kako fade looli / lazoli kako fara looli` | He bore our grief / he carried our suffering | `/` for Hebrew parallelism; `fa-de` first use |
 | S753 (ISA-001-B) | `la-o-mi  si  [lo-zo-li  ka-ra-de  go {la-Elohim}]` | `laomi si lozoli karade go {laElohim}` | We perceived him as struck by God | MAP-001 `si` for misperception; `ra-de` first use |
 | S754 (ISA-001-C) | `lo-zo-li  ka-ra-de  go {ka-wi-fe-de  o-li} ;  lo-zo-li  ka-ra-no-ki  go {de-wi-fe  o-li}` | `lozoli karade go {kawifede ooli} ; lozoli karanoki go {dewife ooli}` | Pierced for our transgressions; crushed for our iniquities | First substitutionary causal logic; `ka-wi-fe-de`, `de-wi-fe`, `ra-no-ki` first uses |
-| S755 (ISA-001-D) | `la-zo-li  ko  lo-wi-fe'de  [go {vo-ne  lu-o-li}]` | `lazoli ko lowife'de go {vone luooli}` | He received the penalty that brought us peace | Relative clause + causal chain; `vo-ne` first use |
+| S755 (ISA-001-D) | `la-zo-li  ko  lo-wi-fe'de  [go {ne-no-ra  lu-o-li}]` | `lazoli ko lowife'de go {nenora luooli}` | He received the penalty that brought us peace | Relative clause + causal result chain; `ne-no-ra` (W171) |
 | S756 (ISA-001-E) | `la-o-li  zo-vo-ki  go {ra-de  lo-zo-li}` | `laoli zovoki go {rade lozoli}` | We are healed by his wounds | Third-person possessive workaround; `zo-vo-ki` first use |
 | S757 (ISA-001-F) | `a-o-li  ka-ki-no  go-si  zo-pa-li ;  a-o-li  ka-ki  go-si  to-lo-o-li` | `aooli kakino gosi zopali ; aooli kaki gosi tolooli` | All we like animals went astray; all went our own way | `go-si` in manner function; `ka-ki-no`, `zo-pa-li` first uses; distributive gap |
 | S758 (ISA-001-G) | `la-Yahweh  ka-ne-ki  lo-zo-li  lo-de-wi-fe  a-o-li` | `laYahweh kaneki lozoli lodewife aooli` | YHWH laid on him the iniquity of all of us | `ka-ne-ki` first use; dual causal layer; divine agentive convergence |
 
 **New vocabulary:** none (all forms compositional).
 
-**Compositional first uses:** `fa-de` (grief, affect-decrease); `ra-de` (wound/strike, force-decrease); `ra-no-ki` (crush, force-immobility); `ka-wi-fe-de` (transgress, deliberate rule-decrease); `de-wi-fe` (iniquity/moral debt, rule-deficit state); `vo-ne` (peace, relational worth); `zo-vo-ki` (to be healed, enter living-health); `ka-ne-ki` (to place upon, deliberate connection-entry); `ka-ki-no` (to go astray, deliberate-motion-absence); `zo-pa-li` (animal/creature, living-place-being).
+**Compositional first uses:** `fa-de` (grief, affect-decrease); `ra-de` (wound/strike, force-decrease); `ra-no-ki` (crush, force-immobility); `ka-wi-fe-de` (transgress, deliberate rule-decrease); `de-wi-fe` (iniquity/moral debt, rule-deficit state); `zo-vo-ki` (to be healed, enter living-health); `ka-ne-ki` (to place upon, deliberate connection-entry); `ka-ki-no` (to go astray, deliberate-motion-absence); `zo-pa-li` (animal/creature, living-place-being).
 
 **Key structural findings:**
 1. **Substitutionary causal logic.** `go {cause-from-A}  effect-on-B` where moral ownership and physical effect fall on different parties. Tonesu's `go` frame handles this cleanly — it marks logical/moral cause without requiring agent identity. First attested S754.
@@ -4037,7 +4037,7 @@ Contrast with S753: S753 = crowd misperception wrapped in `si`; S754 = the under
 | `ra-no-ki` | none | — | 3-root — below threshold |
 | `ka-wi-fe-de` | none | — | `ka-` + 3-root compound; effective depth = 3; below threshold |
 | `de-wi-fe` | none | — | 3-root — below threshold |
-| `vo-ne` | none | — | 2-root — below threshold |
+| `ne-no-ra` (W171) | none | — | 3-root — below threshold; already-registered reuse |
 | `zo-vo-ki` | none | — | 3-root — below threshold |
 | `ka-ne-ki` | none | — | 3-root — below threshold |
 | `ka-ki-no` | none | — | 3-root — below threshold |
@@ -4048,5 +4048,155 @@ Contrast with S753: S753 = crowd misperception wrapped in `si`; S754 = the under
 | `go-si` | none | — | 2-root instrumental/manner particle — below threshold |
 
 **Verdict:** irreducibly formal — all forms are below threshold or load-bearing structural operators.
+
+*CLQ entries registered from this batch: none.*
+
+---
+
+# JAB-001 — Jabberwocky (Carroll, 1871)
+
+*Lewis Carroll, "Jabberwocky," Through the Looking-Glass (1871). Public domain. Nonce-vocabulary stress test for the `""` quotation frame and `~` concept-approximation.*
+
+---
+
+### S759 — JAB-001-A
+
+**Source:** "'Twas brillig, and the slithy toves / Did gyre and gimble in the wabe;" (Stanza I, ll. 1–2)
+
+**Tonesu:** `ta {~ha-lu-ti} : la-"slithy toves" ka-~ki-re lo-"wabe" / la-"slithy toves" ka-"gimble" lo-"wabe"`
+
+**Written:** `ta {~haluti} : la"slithy toves" ka~kire lo"wabe" / la"slithy toves" ka"gimble" lo"wabe"`
+
+**Gloss:** at [~warm-daytime] : [slithy-toves] circled [wabe-ward] / [slithy-toves] gimbled [wabe-ward]
+
+**Natural reading:** At something like warm afternoon, the slithy toves circled in the wabe / and gimbled in the wabe.
+
+**Notes:** `ta {~ha-lu-ti}` = temporal frame + concept-approximate descriptor: approximately [warm-daytime] = "brillig." `lu-ti` (W140) = daytime; `ha` = heat; `~ha-lu-ti` = something like warm-daytime. `la-"slithy toves"` = agent role on quoted nonce noun-phrase — first attestation of `la-` applied to a `""` token. `ka-~ki-re` = deliberate approximately-cyclic motion: `ki-re` = cyclic motion (`ki` = motion, `re` = repetition/cycle); `~ki-re` = something like circular spiralling. `ka-"gimble"` = deliberate-quoted-action: the nonce verb imported as an action label. `/` = bi-clausal parallel: two actions of the same agent in the same temporal frame.
+
+---
+
+### S760 — JAB-001-B
+
+**Source:** "All mimsy were the borogoves, / And the mome raths outgrabe." (Stanza I, ll. 3–4)
+
+**Tonesu:** `a-"borogoves" ne ~fa-de ; la-"mome raths" "outgrabe"`
+
+**Written:** `a"borogoves" ne ~fade ; la"mome raths" "outgrabe"`
+
+**Gloss:** all-[borogoves] have-property ~affect-decrease ; [mome-raths] outgrabe
+
+**Natural reading:** All borogoves have something like a diminished/miserable quality; the mome raths outgrabe.
+
+**Notes:** `a-"borogoves"` = universal scope prefix `a-` applied to a quoted noun — first attestation of V-prefix on a `""` token. `ne ~fa-de` = copula + concept-approximate property: "has the property of approximately affect-fading." `fa-de` (W094) = affect-decrease; under `~`, it becomes a concept-approximate for "mimsy" (flimsy and miserable). `la-"mome raths"` = agent role on multi-word quoted noun-phrase. `"outgrabe"` = bare quoted verb in predicate position: the nonce past-tense verb occupies the verbal slot without `ka-` wrapping — Carroll's past form ("outgrabe") is preserved verbatim.
+
+---
+
+### S761 — JAB-001-C
+
+**Source:** "Beware the Jabberwock, my son! / The jaws that bite, the claws that catch! / Beware the Jubjub bird, and shun / The frumious Bandersnatch!" (Stanza II, ll. 1–4)
+
+**Tonesu:** `he na-li-be-mi! fe lo-na-"Jabberwock"! — [ka-ra-de] zo-mu ; [ka-ko] ra-mu — / fe lo-na-"Jubjub bird"! / fe lo-na-"frumious Bandersnatch"!`
+
+**Written:** `he nalibemi! fe lona"Jabberwock"! — [karade] zomu ; [kako] ramu — / fe lona"Jubjub bird"! / fe lona"frumious Bandersnatch"!`
+
+**Gloss:** [vocative my-child]! guard-boundary [Jabberwock]! — [biting] organism-tool ; [catching] force-tool — / guard-boundary [Jubjub-bird]! / guard-boundary [frumious-Bandersnatch]!
+
+**Natural reading:** My son! Beware the Jabberwock! — the biting jaws; the grasping claws — beware the Jubjub bird! Beware the frumious Bandersnatch!
+
+**Notes:** `he na-li-be-mi!` = vocative + kind-term-possessive NP: `he` (vocative particle G029) + `na-` (kind-term prefix) + `li-be` (W033, child/growing person) + `-mi` (first-person possessive). `na-li-be-mi` = my child/son. `fe lo-na-"Jabberwock"!` = **warning imperative**: `fe` (boundary/limit primitive) used as pragmatic imperative "maintain your boundary from X!" = beware X. First use. `na-"Jabberwock"` = kind-term citation for the nonce creature. `[ka-ra-de] zo-mu` = the biting organism-tool = jaws: modifier clause `[ka-ra-de]` = biting; `zo-mu` = organism-device = biological tool = first use. `[ka-ko] ra-mu` = the catching force-tool = claws: `[ka-ko]` = grasping; `ra-mu` = force-device = first use. `—...—` = paired prosodic suspensions marking the parenthetical identification. `/` = parallel partition between warning units.
+
+---
+
+### S762 — JAB-001-D
+
+**Source:** "One, two! One, two! And through and through / The vorpal blade went snicker-snack!" (Stanza VI, ll. 1–2)
+
+**Tonesu:** `bol, bun! bol, bun! la-"vorpal" ra-mu ka-ki-fe lo-na-"Jabberwock" — so-"snicker-snack"!`
+
+**Written:** `bol, bun! bol, bun! la"vorpal" ramu kakife lona"Jabberwock" — so"snicker-snack"!`
+
+**Gloss:** one, two! one, two! [vorpal force-tool] cut-through [Jabberwock] — sound-[snicker-snack]!
+
+**Natural reading:** One, two! One, two! The vorpal blade cut through the Jabberwock — snicker-snack!
+
+**Notes:** `bol, bun!` = digits as combat cadence: `bol` = 1, `bun` = 2 (digit inventory, spec/grammar.md). Repeated twice for the double-pass. `la-"vorpal" ra-mu` = agent NP: the vorpal force-tool. `"vorpal"` = pre-head quoted modifier; `ra-mu` = force-device (weapon/blade) = first use. `ka-ki-fe` = deliberate-motion-through-boundary = cut through: `ka` (intentional) + `ki` (motion) + `fe` (boundary), right-branching `ka-(ki-fe)` = intentional [motion-boundary-crossing]. First use. `so-"snicker-snack"` = **first attestation of `so-"X"` onomatopoeia import**: `so` (acoustic signal primitive) + `""` frame = the sound named "snicker-snack." The hyphen inside `"snicker-snack"` is English orthography (preserved inside quotes); the Tonesu morpheme hyphen between `so` and the quote is stripped in written form.
+
+---
+
+### S763 — JAB-001-E
+
+**Source:** "He left it dead, and with its head / He came galumphing back." (Stanza VI, ll. 3–4)
+
+**Tonesu:** `ta ti-de : la-zo-li ka-ne-de lo-na-"Jabberwock" [de-zo] ; la-zo-li ka-~ki-be-ra [ko lo-pa-be lo-na-"Jabberwock"]`
+
+**Written:** `ta tide : lazoli kanede lona"Jabberwock" [dezo] ; lazoli ka~kibera [ko lopabe lona"Jabberwock"]`
+
+**Gloss:** at past-time : [hero] severed-from [Jabberwock] [in-dead-state] ; [hero] ~powerfully-galumphed [while-containing upper-space of-[Jabberwock]]
+
+**Natural reading:** At that past moment: the hero left the Jabberwock behind (in its dead state); and came galumphing back carrying the Jabberwock's head.
+
+**Notes:** `ta ti-de :` = temporal topic frame: "at past time, [the following]." `ka-ne-de` (W092) = deliberate bond dissolution = to sever, leave behind. `[de-zo]` = **result-state secondary predicate**: the Jabberwock is left in a state of death (`de-zo` W178). Bracket marks it as a secondary predicate on the patient, not the primary verb — extending the PAV-001 secondary-predicate pattern into `;`-chained context. `ka-~ki-be-ra` = deliberate approximately-forceful-lumbering motion: `ki-be-ra` = motion-growth-force, right-branching `ki-(be-ra)` = motion [of force-growth] = motion with increasing forceful energy; under `~` = something like powerful tromping = galumph. First use. `[ko lo-pa-be lo-na-"Jabberwock"]` = secondary bracket: while carrying the Jabberwock's head. `pa-be` = place-growth = upward-direction zone = the highest point of a body = the head. **First use of `pa-be` as anatomical proxy: the upper-space of an organism = its head.** `lo-na-"Jabberwock"` = genitive: of the Jabberwock.
+
+---
+
+### S764 — JAB-001-F
+
+**Source:** "'O frabjous day! Callooh! Callay!' / He chortled in his joy." (Stanza VII, ll. 3–4)
+
+**Tonesu:** `ya, "frabjous"! "Callooh"! "Callay"! la-zo-li ~so-fa-vo go-si fa-vo ti-de`
+
+**Written:** `ya, "frabjous"! "Callooh"! "Callay"! lazoli ~sofavo gosi favo tide`
+
+**Gloss:** [attention] [frabjous]! [Callooh]! [Callay]! [hero] ~joy-sound in-manner-of happiness past-time
+
+**Natural reading:** Frabjous! Callooh! Callay! And the hero made a joyful sound — he chortled in his happiness.
+
+**Notes:** `ya, "frabjous"!` = attention-signal + quoted exclamation: `ya` (attention marker, clause-initial + comma) opens the exclamatory sequence. The quoted tokens `"frabjous"`, `"Callooh"`, `"Callay"` occupy exclamatory-nominal position — not syntactic arguments, but voiced tokens registered as utterances. `la-zo-li ~so-fa-vo` = the hero made approximately-joy-sound: `~so-fa-vo` = approximately [sound-happiness]; `so` (acoustic signal primitive) + `fa-vo` (W197, happiness). Concept-approximation for "chortle" (Carroll's portmanteau of chuckle + snort). First use of `so` + affect-compound in sound-naming construction. `go-si fa-vo` = in the manner of happiness = joyfully: extends `go-si` manner function from ISA-001 S757. `ti-de` = W041, past time.
+
+---
+
+### Batch summary — JAB-001
+
+| Entry | Tonesu | Written | Claim | Key feature |
+|-------|--------|---------|-------|-------------|
+| S759 (JAB-001-A) | `ta {~ha-lu-ti} : la-"slithy toves" ka-~ki-re lo-"wabe" / la-"slithy toves" ka-"gimble" lo-"wabe"` | `ta {~haluti} : la"slithy toves" ka~kire lo"wabe" / la"slithy toves" ka"gimble" lo"wabe"` | At brillig-time, slithy toves gyred and gimbled in the wabe | `la-"X"` first use; `~ha-lu-ti` brillig-approx; `~ki-re` gyre |
+| S760 (JAB-001-B) | `a-"borogoves" ne ~fa-de ; la-"mome raths" "outgrabe"` | `a"borogoves" ne ~fade ; la"mome raths" "outgrabe"` | All borogoves mimsy; mome raths outgrabe | `a-"X"` first use; `ne ~fa-de` copula + concept-approx; bare quoted verb |
+| S761 (JAB-001-C) | `he na-li-be-mi! fe lo-na-"Jabberwock"! — [ka-ra-de] zo-mu ; [ka-ko] ra-mu — / fe lo-na-"Jubjub bird"! / fe lo-na-"frumious Bandersnatch"!` | `he nalibemi! fe lona"Jabberwock"! — [karade] zomu ; [kako] ramu — / fe lona"Jubjub bird"! / fe lona"frumious Bandersnatch"!` | Beware the Jabberwock — jaws; claws — beware Jubjub, beware Bandersnatch | `fe lo-na-"X"` warning imperative; `zo-mu`, `ra-mu` first uses; triple `na-"X"` creature citation |
+| S762 (JAB-001-D) | `bol, bun! bol, bun! la-"vorpal" ra-mu ka-ki-fe lo-na-"Jabberwock" — so-"snicker-snack"!` | `bol, bun! bol, bun! la"vorpal" ramu kakife lona"Jabberwock" — so"snicker-snack"!` | The vorpal blade cut through the Jabberwock — snicker-snack! | Digit cadence; `ka-ki-fe` cut-through; `so-"X"` onomatopoeia first use |
+| S763 (JAB-001-E) | `ta ti-de : la-zo-li ka-ne-de lo-na-"Jabberwock" [de-zo] ; la-zo-li ka-~ki-be-ra [ko lo-pa-be lo-na-"Jabberwock"]` | `ta tide : lazoli kanede lona"Jabberwock" [dezo] ; lazoli ka~kibera [ko lopabe lona"Jabberwock"]` | He left it dead and galumphed back with its head | `[de-zo]` result-state predicate; `~ki-be-ra` galumph; `pa-be` head first use |
+| S764 (JAB-001-F) | `ya, "frabjous"! "Callooh"! "Callay"! la-zo-li ~so-fa-vo go-si fa-vo ti-de` | `ya, "frabjous"! "Callooh"! "Callay"! lazoli ~sofavo gosi favo tide` | Frabjous! He chortled in his joy | Bare quoted exclamations; `~so-fa-vo` chortle; `go-si fa-vo` joyfully |
+
+**New vocabulary:** none (all forms compositional).
+
+**Compositional first uses:** `zo-mu` (organism-device; jaw/biological tool); `ra-mu` (force-device; claw/blade); `ka-ki-fe` (cut through; deliberate motion through boundary); `pa-be` (upper-space; head-region); `ki-re` (cyclic motion, under `~`); `ki-be-ra` (motion-growth-force, under `~`); `so-fa-vo` (sound-happiness, under `~`).
+
+**Key structural findings:**
+1. **`""` frame under mass nonce load.** 14 Carroll tokens imported verbatim. Role-particles, scope-prefixes, and kind-term markers apply *outside* `""`, wrapping the quoted token as a syntactic unit: `la-"X"`, `lo-na-"X"`, `a-"X"`, `so-"X"`, `fe lo-na-"X"`. Parse is never ambiguous.
+2. **`~[compound]` concept-approximation.** `~` used for 5 Carroll terms (brillig, gyre, mimsy, galumph, chortle). The "something like" reading (spec-valid) hedges translation without false semantic identity claims. No new design question needed.
+3. **`fe` as warning imperative.** `fe lo-na-"X"!` = "maintain your boundary from X!" = beware X. First pragmatic-imperative use of the `fe` primitive. Compositionally transparent.
+4. **`pa-be` as anatomical proxy for "head."** First use of positional vocabulary as body-part reference: `pa-be` (upward-space) = the head-region as the highest zone of an organism.
+5. **`so-"X"` onomatopoeia import.** `so` (acoustic signal) + `""` frame = "the sound named X." First attestation of the strategy.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `~ha-lu-ti` | none | — | 3-root concept-approx — below contraction threshold |
+| `~ki-re` | none | — | 2-root under `~` — below threshold |
+| `~fa-de` (W094) | none | — | 2-root — below threshold |
+| `zo-mu` | none | — | 2-root — below threshold |
+| `ra-mu` | none | — | 2-root — below threshold |
+| `ka-ki-fe` | none | — | 3-root — below threshold |
+| `pa-be` | none | — | 2-root — below threshold |
+| `~ki-be-ra` | none | — | 3-root under `~` — below threshold |
+| `~so-fa-vo` | none | — | 3-element under `~` — below threshold |
+| `na-li-be-mi` | none | — | Structural derivation (`na-` + W033 + `-mi`); not a bare compound |
+| `fe lo-na-"X"` | none | — | Pragmatic imperative — semantically load-bearing; relaxation changes force |
+| `go-si fa-vo` | none | — | `go-si` manner function + 2-root — below threshold |
+| `""` quoted tokens (×14) | none | — | Import frame — outside CLQ scope; no Tonesu semantic depth to compress |
+
+**Verdict:** irreducibly formal — all forms are below threshold, load-bearing, or outside CLQ scope.
 
 *CLQ entries registered from this batch: none.*

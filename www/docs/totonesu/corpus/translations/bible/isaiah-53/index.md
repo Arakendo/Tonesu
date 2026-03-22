@@ -38,7 +38,7 @@ Corpus sentences: **S752–S758**.
 | `ra-no-ki` | crush; immobilize: force entering immobility | compositional | — |
 | `ka-wi-fe-de` | transgress; violate: deliberate rule-decrease | compositional | — |
 | `de-wi-fe` | iniquity; moral debt: decrease-of-willed-boundary | compositional | — |
-| `vo-ne` | peace; relational worth: worth-in-relation | compositional | — |
+| `ne-no-ra` | peace; relation-without-force | ✅ active | W171 |
 | `zo-vo-ki` | to be healed: enter living-health | compositional | — |
 | `ka-ne-ki` | to place upon; cause to converge: deliberate connection-entry | compositional | — |
 | `ka-ki-no` | to go astray; wander: deliberate-motion-absence | compositional | — |
@@ -107,13 +107,13 @@ ISA-001 S754 uses `ka-wi-fe-de` (deliberate transgression, act) and `de-wi-fe` (
 
 **Source:** "upon him was the chastisement that brought us peace." (v.5c)
 
-**Tonesu:** `la-zo-li  ko  lo-wi-fe'de  [go {vo-ne  lu-o-li}]`
+**Tonesu:** `la-zo-li  ko  lo-wi-fe'de  [go {ne-no-ra  lu-o-li}]`
 
-**Written:** `lazoli ko lowife'de go {vone luooli}`
+**Written:** `lazoli ko lowife'de go {nenora luooli}`
 
 **Natural reading:** The person received the penalty that caused peace toward us.
 
-**Notes:** `ko` = containment/reception predicate (S068–S071: passive reception, no intentionality required). `lo-wi-fe'de` = the penalty (W203, `wi-fe'de` = rule-imposed cost = punishment imposed by a normative framework). The relative clause `[go {vo-ne lu-o-li}]` = "that caused peace for us": `go {vo-ne}` = because of/resulting in relational-worth; `lu-o-li` = toward us (beneficiary marking with `lu-`). `vo-ne` = worth-in-relation = relational flourishing = shalom/peace (compositional: `vo` = worth, `ne` = connection/relation; first use). The construction establishes a three-link causal chain across S754–S755–S756: our transgressions → the Servant's punishment → our peace → our healing. The chain is held together by `go` at each link; no new connective particle is needed.
+**Notes:** `ko` = containment/reception predicate (S068–S071: passive reception, no intentionality required). `lo-wi-fe'de` = the penalty (W203, `wi-fe'de` = rule-imposed cost = punishment imposed by a normative framework). The relative clause `[go {ne-no-ra lu-o-li}]` = "that caused peace for us": `go {ne-no-ra}` = resulting in relation-without-force; `lu-o-li` = toward us (beneficiary marking with `lu-`). `ne-no-ra` (W171) = relation-without-force = peace/shalom (already registered: `ne` = relation, `no` = negation, `ra` = force; first attested S588). The construction establishes a three-link causal chain across S754–S755–S756: our transgressions → the Servant's punishment → our peace → our healing. The chain is held together by `go` at each link; no new connective particle is needed.
 
 ---
 
@@ -171,7 +171,7 @@ ISA-001 S754 uses `ka-wi-fe-de` (deliberate transgression, act) and `de-wi-fe` (
 | S752 (ISA-001-A) | `la-zo-li  ka-ko  [fa-de  lo-o-li] / la-zo-li  ka-ko  [fa-ra  lo-o-li]` | `lazoli kako fade looli / lazoli kako fara looli` | He bore our grief / he carried our suffering | `/` for Hebrew parallelism; `fa-de` first use |
 | S753 (ISA-001-B) | `la-o-mi  si  [lo-zo-li  ka-ra-de  go {la-Elohim}]` | `laomi si lozoli karade go {laElohim}` | We perceived him as struck by God | Appearance predication `si` for crowd misreading; `ra-de` first use |
 | S754 (ISA-001-C) | `lo-zo-li  ka-ra-de  go {ka-wi-fe-de  o-li} ;  lo-zo-li  ka-ra-no-ki  go {de-wi-fe  o-li}` | `lozoli karade go {kawifede ooli} ; lozoli karanoki go {dewife ooli}` | Pierced for our transgressions; crushed for our iniquities | First substitutionary causal logic; `ka-wi-fe-de`, `de-wi-fe`, `ra-no-ki` first uses |
-| S755 (ISA-001-D) | `la-zo-li  ko  lo-wi-fe'de  [go {vo-ne  lu-o-li}]` | `lazoli ko lowife'de go {vone luooli}` | He received the penalty that brought us peace | Relative clause + causal result chain; `vo-ne` first use |
+| S755 (ISA-001-D) | `la-zo-li  ko  lo-wi-fe'de  [go {ne-no-ra  lu-o-li}]` | `lazoli ko lowife'de go {nenora luooli}` | He received the penalty that brought us peace | Relative clause + causal result chain; `ne-no-ra` (W171) |
 | S756 (ISA-001-E) | `la-o-li  zo-vo-ki  go {ra-de  lo-zo-li}` | `laoli zovoki go {rade lozoli}` | We are healed by his wounds | Third-person possessive workaround `lo-zo-li`; `zo-vo-ki` first use |
 | S757 (ISA-001-F) | `a-o-li  ka-ki-no  go-si  zo-pa-li ;  a-o-li  ka-ki  go-si  to-lo-o-li` | `aooli kakino gosi zopali ; aooli kaki gosi tolooli` | All we like animals went astray; all went our own way | `go-si` in manner function; `ka-ki-no`, `zo-pa-li` first uses; distributive gap |
 | S758 (ISA-001-G) | `la-Yahweh  ka-ne-ki  lo-zo-li  lo-de-wi-fe  a-o-li` | `laYahweh kaneki lozoli lodewife aooli` | YHWH laid on him the iniquity of all of us | `ka-ne-ki` first use; divine agent + substitutionary convergence; dual causal layer |
@@ -219,7 +219,7 @@ Tonesu has `-mi` (first: `de-zo-mi` = my death) and `-tu` (second) as establishe
 | `ra-no-ki` | none | — | 3-root — below threshold |
 | `ka-wi-fe-de` | none | — | 4-root chain — `ka` (intentional prefix) + 3-root compound; effective compound depth = 3; below threshold |
 | `de-wi-fe` | none | — | 3-root — below threshold |
-| `vo-ne` | none | — | 2-root — below threshold |
+| `ne-no-ra` (W171) | none | — | 3-root — below threshold; already-registered reuse |
 | `zo-vo-ki` | none | — | 3-root — below threshold |
 | `ka-ne-ki` | none | — | 3-root — below threshold |
 | `ka-ki-no` | none | — | 3-root — below threshold |
