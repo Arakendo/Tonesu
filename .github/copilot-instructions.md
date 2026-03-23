@@ -192,6 +192,7 @@ python scripts/build.py
 |------|--------|-------------|
 | 0 | `extract_sentences.py` | Extracts sentence records from v4-current markdown → `sentences.yaml` |
 | 0 | `extract_batches.py` | Derives `batches.yaml` from `sentences.yaml` + markdown headings |
+| 0 | `extract_conversations.py` | Extracts conversation records from all `c*.md` files → `conversations.yaml` |
 | 1 | `generate_registry_md.py` | Syncs `registry/derived/*.md` from `entries.yaml` |
 | 1 | `generate_colloquial_md.py` | Generates `registry/colloquial.md` from `colloquial.yaml` |
 | 2 | `annotate_words_attested.py` | Populates `words_attested` on sentences/turns |

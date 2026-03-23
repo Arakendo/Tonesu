@@ -4,14 +4,11 @@ conversations:
   scene: The relay platform, shortly after S027. Engineer A (ze) has discovered the
     backup power unit is also failing. Engineer B (a colleague) arrives.
   tests:
-  - content question
-  - copula gap
-  - agentless state
-  - W037 `ti-fe`
+  - content question, copula gap, agentless state, W037 `ti-fe`
   - utterance-level epistemic marking
   - imperative in dialogue
   - acknowledgment particle
-  - agent drop
+  - agent drop.
   status: normative
   source_file: conversations/c001-c004.md
   turns:
@@ -21,7 +18,16 @@ conversations:
     natural: I found damage in the backup unit.
     words_attested: []
     first_attests: []
-    notes: null
+    notes: '- `re-mu` = repeat-artifact = backup / secondary unit. `re` (repetition)
+      + `mu` (artifact) = a second instance of the artifact serving the same function.
+      Transparent compound; not registered separately.
+
+      - `lo-de` = patient:decay — the decay is what was perceived. Treating damage
+      as a concrete patient-of-perception rather than a predicate. First use of a
+      process root as a nominal patient.
+
+      - Agent `la-mi` is explicit because A is introducing new information; no prior
+      discourse context to rely on.'
   - turn: B1
     tonesu: de  vo  to-si?
     gloss_line: decay  quality  QUERY
@@ -29,7 +35,21 @@ conversations:
     words_attested:
     - W026
     first_attests: []
-    notes: null
+    notes: '- **First content question in corpus.** `to-si` (W026, query/knowledge-seeking
+      signal) used as a floating interrogative placeholder at end of utterance. Extends
+      W026 from its registered nominal sense ("a query") to a grammatical interrogative
+      function: "the thing-I-am-seeking-knowledge-of."
+
+      - Structure: `de` (the topic: decay) + `vo` (the dimension being questioned:
+      quality/kind) + `to-si?` (interrogative marker: what?). Reads: "Decay — quality
+      — [seeking this information]?" = "What quality is the damage?"
+
+      - `to-si` as interrogative placeholder is semantically transparent: it is literally
+      a knowledge-seeking signal, placed where the unknown information would go. No
+      new particle required; W026 function extended.
+
+      - Contrast with yes/no questions (`?` at end of full proposition): content questions
+      use `to-si?` in the slot corresponding to the queried element.'
   - turn: A2
     tonesu: 'lo-re-mu  de-now
 
@@ -43,14 +63,38 @@ conversations:
     words_attested:
     - W037
     first_attests: []
-    notes: null
+    notes: '- **Copula gap (2nd confirmation):** `lo-re-mu  de-now` = patient:backup-unit
+      + decay-NOW. No linking verb. The state is attributed to the patient by juxtaposition.
+      Consistent with S026 (`lo-ze  de-past`). Copula-by-juxtaposition is the working
+      pattern; formal rule pending.
+
+      - **`ti-fe` first corpus use:** W037 (time + boundary = period-limit, deadline).
+      The time-limit approaches; sense of urgency conveyed without intensifiers or
+      exclamations.
+
+      - **`ki-now` with dropped argument:** bare `ki-now` (motion-NOW) without `la`
+      or `lo`. The subject of "approaches" is pragmatically recoverable (the system,
+      the failure event, the time itself — it does not matter). First attested *argument-drop
+      driven by discourse context* rather than imperative agent-drop. Minimal, clean.
+
+      - Two separate sentences rather than a compound: A is giving information sequentially,
+      not composing a complex clause. Normal for speech under urgency.'
   - turn: B2
     tonesu: ta-now  fe-ki?
     gloss_line: time:now/today  limit-cross?
     natural: Does it cross the limit today?
     words_attested: []
     first_attests: []
-    notes: null
+    notes: '- Yes/no question with content `?` at end. `ta-now` = at this time-period
+      = today / currently. `fe-ki` = reach/cross a limit (from W024 related entry,
+      first verbal use in a question).
+
+      - Clean. No gaps.
+
+      - **"Today" resolved:** `ta-now` covers "at this time-period" colloquially;
+      no dedicated word for day-as-unit-of-time yet. The time-period granularity (hour?
+      day? shift?) is context-dependent. Adequately ambiguous; flag for future number/time
+      vocabulary.'
   - turn: A3
     tonesu: 'la-mi  si  [fe-ki-now]
 
@@ -63,7 +107,24 @@ conversations:
       Warn the coordinator.'
     words_attested: []
     first_attests: []
-    notes: null
+    notes: '- **First utterance-level epistemic marker.** `la-mi  si  [proposition]`
+      = "I, at `si` epistemic level, assert [...]." The speaker marks their confidence
+      explicitly: `si` (signal/hypothesis, not yet `to` = established). This is Domain
+      1 (Epistemic States) operating at discourse level — a speaker hedging not the
+      content of their claim but its *epistemic status*.
+
+      - This construction is productive: `la-[speaker]  [epistemic-root]  [proposition]`
+      = "I hold [proposition] at [level]." The epistemic root (`se`, `si`, `to`, `to-su`)
+      becomes a sentence-level modal operator. First corpus evidence that the epistemic
+      vocabulary functions this way. The pattern should be documented in spec/grammar.md
+      once confirmed by a second case.
+
+      - **Note:** this is NOT the same as the evidentiality candidates `se-ro`/`si-ro`/`to-ro`
+      (which mark *how* you came to know). This marks *what status you assign the
+      proposition*. Both mechanisms may coexist; they are orthogonal.
+
+      - Second sentence: imperative with recipient. `ne-li-su-li` (W001 in recipient
+      slot) first corpus use of that form. `la-tu` dropped (imperative rule). Clean.'
   - turn: B3
     tonesu: 'ka-to-su-ki
 
@@ -76,17 +137,34 @@ conversations:
       I''m going now. / On my way.'
     words_attested: []
     first_attests: []
-    notes: null
+    notes: '- **`ka-to-su-ki` as responsive:** first standalone use of W025 in conversational
+      acknowledgment. `ka` (action) + `to-su-ki` (enter organized understanding) =
+      "I have grasped this." Compact and precise: not "I heard you" (merely signal-level
+      reception) but "I have understood" (comprehension achieved).
+
+      - **Agent drop in B3b:** `ka-ki-now` with `la-mi` omitted. In prior imperative
+      constructions (S019, A3 above), `la-tu` (addressee-as-agent) is dropped. Here
+      the *speaker* drops themselves. First attested case of speaker-drop in conversational
+      context. This is presumably licensed by immediate-context salience: the speaker
+      is the obvious actor. The rule is provisional: *in face-to-face exchange, the
+      current speaker may be dropped from the agent slot when the action described
+      can only be theirs.* Log as a grammar open question.
+
+      - **Absence of "yes" / affirmative particle:** The entire acknowledgment arc
+      (Turn B3) manages without a standalone affirmative. English "yes" doesn''t appear
+      because Tonesu routes agreement through action-confirmation (`ka-to-su-ki` =
+      I have understood, implicitly affirming) and motion-declaration (`ka-ki-now`
+      = I am acting on it). This gap may be real (Tonesu never developed a simple
+      "yes") or the pattern may be that Tonesu *always expresses what kind of affirmation*.
+      Needs more corpus data.'
 - cnum: C002
   gloss: 'Technical coordination: relay failure'
   scene: Two engineers on different platforms. A is live at the relay installation;
     B is directing remotely.
   tests:
-  - imperative × 2
-  - diagnostic state-change loop (detect → examine → identify → repair → confirm)
-  - '`lo-X state` copula × 3'
-  - '`ru`/`no-ru` as predicate quality on a non-person entity (first device-quality
-    predication)'
+  - imperative × 2, diagnostic state-change loop (detect → examine → identify → repair
+    → confirm), `lo-X  state` copula × 3, `ru`/`no-ru` as predicate quality on a non-person
+    entity (first device-quality predication).
   status: normative
   source_file: conversations/c001-c004.md
   turns:
@@ -97,28 +175,48 @@ conversations:
     words_attested:
     - W039
     first_attests: []
-    notes: null
+    notes: '- `si-mu` = signal-artifact = relay device / transceiver. Registered as
+      W039.
+
+      - `no-ru` = negate-unity = incoherent / unstable. First use of `no-` on a quality
+      root (previous: `no-de` S030). `no-` is now confirmed as a productive negation
+      prefix on quality and process roots alike.
+
+      - `lo-X  quality` with a device in the patient slot — confirms quality predication
+      works on non-person entities. Extends the copula-by-juxtaposition pattern to
+      artifact subjects.'
   - turn: B1
     tonesu: ka-se  lo-si-su-mu
     gloss_line: action:examine  patient:signal-structure-artifact
     natural: Examine the antenna array. [Imperative — `la-tu` dropped]
     words_attested: []
     first_attests: []
-    notes: null
+    notes: '- `si-su-mu` = signal-structure-artifact = antenna array / receiving installation.
+      Transparent compound; not registered separately.
+
+      - Third imperative in corpus (`la-tu` drop confirmed pattern): S019 B, C001
+      A3, C002 B1Imperative now occurs both in formal instruction (S019) and in live
+      technical direction. Register is the same.'
   - turn: A2
     tonesu: lo-ne-mu  de
     gloss_line: patient:connection-artifact  decayed
     natural: The connector is broken.
     words_attested: []
     first_attests: []
-    notes: null
+    notes: '- `ne-mu` = relation-artifact = physical connector / coupling component.
+      Transparent; not registered separately.
+
+      - Bare `de` predication on an artifact — the connector has undergone non-intentional
+      deterioration. Consistent with all prior `de` uses.'
   - turn: B2
     tonesu: ka-de-be  lo-ne-mu
     gloss_line: action:repair  patient:connection-artifact
     natural: Repair the connector. [Imperative]
     words_attested: []
     first_attests: []
-    notes: null
+    notes: '- `de-be` (W035) used in imperative for the first time. Previously appeared
+      only in declarative contexts. Works cleanly: the directive is to perform `de-be`
+      on the patient.'
   - turn: A3
     tonesu: lo-si-mu  ru  ta-now
     gloss_line: patient:relay  unified  time:now
@@ -126,15 +224,21 @@ conversations:
     words_attested:
     - W039
     first_attests: []
-    notes: null
+    notes: '- `lo-si-mu  ru  ta-now` closes the loop from A1. State has changed from
+      `no-ru` → `ru`. `ta-now` marks the resolution as present-moment. First time
+      a sentence directly inverts a previous one within the same conversation.
+
+      - `ru` as predicate quality on a device: this is the affirmative twin of C002
+      A1''s `no-ru`. Both confirm P-GP-001 territory: quality roots (`ru`, `no-ru`,
+      `vo`) predicated on the patient via juxtaposition.'
 - cnum: C003
   gloss: 'Casual social: travel question'
   scene: Two non-engineers in everyday context. A asks about travel plans.
   tests:
-  - FIRST YES/NO QUESTION IN CORPUS (C003 A1 — critical gap)
-  - echo-confirmation as first-person restatement (no affirmative particle)
-  - '`ta-ti-be` first proximate-future time reference'
-  - purpose clause in casual register
+  - FIRST YES/NO QUESTION IN CORPUS (C003 A1 — critical gap), echo-confirmation as
+    first-person restatement (no affirmative particle), `ta-ti-be` first proximate-future
+    time reference
+  - purpose clause in casual register.
   status: normative
   source_file: conversations/c001-c004.md
   turns:
@@ -145,39 +249,89 @@ conversations:
     words_attested:
     - W026
     first_attests: []
-    notes: null
+    notes: '- `to-si` (W026) redeployed as a POLAR question marker. Prior use in C001
+      B1: content question ("what kind of damage?" — unknown argument). Here: yes/no
+      question (unknown truth-value of complete proposition). Same surface form, different
+      logical scope.
+
+      - Structural difference: in content questions, `to-si` fronts a proposition
+      with a gap where the unknown argument sits (`to-si  [damage:___?]`). In polar
+      questions, `to-si` fronts a complete well-formed proposition (`to-si  [la-tu  ki  pa-li-pu]`)
+      with the truth value itself as the unknown. Both are semantically coherent under
+      `to-si` = "seeking information." Whether this fully resolves or just defers
+      the question depends on whether corpus eventually produces an ambiguous case.
+      See P-QM-001.
+
+      - `ta-ti-be` = time:next-time = proximate future / tomorrow / soon. `ti` (time)
+      + `be` (grow/come) = an upcoming time interval. Registered as W040. First calendrical
+      / temporal reference compound not using an English placeholder gloss.
+
+      - The dash after `to-si` marks a pragmatic boundary: the inquiry frame (`to-si`)
+      sets the mode, then the full proposition follows. This is the same boundary
+      behavior as other clause-framing particles.'
   - turn: B1
     tonesu: la-mi  ki  pa-li-pu  ta-ti-be
     gloss_line: agent:I  motion  place:city  time:next-time
     natural: I'm going to the city soon.
     words_attested: []
     first_attests: []
-    notes: null
+    notes: '- **Echo-confirmation**. B restates the proposition from B''s own agent
+      position rather than using a bare affirmative. The question''s proposition (`la-tu  ki  pa-li-pu  ta-ti-be`)
+      is answered by replacing `la-tu` (agent:you) with `la-mi` (agent:I) and repeating.
+      "Yes" in Tonesu is currently: "I do the thing you asked about."
+
+      - This is the same confirmation strategy as C001 B3 (`ka-to-su-ki` + `ka-ki-now`)  —
+      agreement through action-commitment — but now in its minimal form: restate the
+      claim from oneself. C001 used action-compounds to confirm; C003 B1 uses the
+      proposition''s own structure. Two echo-confirmation strategies now in corpus.
+
+      - Gap: the echo is unambiguous here because `la-tu` → `la-mi` is a clean substitution.
+      In more complex propositions, full echo may be syntactically heavy. The pressure
+      toward a minimal `[affirm]` particle grows. See P-AF-001.'
   - turn: A2
     tonesu: lo-ma-su  be-now  pa-ze
     gloss_line: patient:water-structure  present/growing  place:there
     natural: A new water facility is there now.
     words_attested: []
     first_attests: []
-    notes: null
+    notes: '- `ma-su` = matter-structure = water facility / material processing system.
+      Transparent compound; not registered separately. `ma` (matter) + `su` (structure/organize)
+      = a system that organizes material. Applicable to water treatment, filtration,
+      reservoir management.
+
+      - `be-now` used as presence/existence predicate: the facility is actively there
+      and operational. Consistent with `be` as "grow/exist" in predicate position.
+
+      - `pa-ze` = place:there = at that place. First use of `ze` (3rd-person/inanimate)
+      in the location particle frame. `pa-ze` = location of the contextually established
+      place (the city). Economy of reference: the city was established in A1; `ze`
+      stands in without repeating `li-pu`.'
   - turn: B2
     tonesu: la-mi  wi [ka-se  lo-ze]
     gloss_line: agent:I  intention [action:examine  patient:it]
     natural: I intend to go see it.
     words_attested: []
     first_attests: []
-    notes: null
+    notes: '- Purpose clause (`wi [clause]`) in casual register. C001''s purpose clauses
+      were obligation/instruction; this one is personal intention. Confirms `wi` is
+      not register-restricted.
+
+      - `ka-se  lo-ze` = examine/perceive it. `se` (perceive) as the verb content
+      of the action. B intends to go look at the new facility. Simple and clean; the
+      purpose clause carries the full meaning without a separate "go" verb because
+      going is implied by the intention-toward.
+
+      - Agent of `wi` clause: inherited as `la-mi` per the agent-inheritance rule.
+      7th corpus confirmation.'
 - cnum: C004
   gloss: 'Disagreement: disputed damage assessment'
   scene: Two engineers have both examined the same unit (following C002 pattern).
     They disagree on its status.
   tests:
   - FIRST DIRECT EPISTEMIC CONTRAST between two speakers (different epistemic levels
-    on the same proposition)
-  - '`la-[process] be [embedded-proposition]` as new evidential frame (examination
-    as epistemic agent)'
-  - '`no-fe` first use'
-  - institutional routing as dialogue resolution
+    on the same proposition), `la-[process]  be  [embedded-proposition]` as new evidential
+    frame (examination as epistemic agent), `no-fe` first use
+  - institutional routing as dialogue resolution.
   status: normative
   source_file: conversations/c001-c004.md
   turns:
@@ -187,14 +341,36 @@ conversations:
     natural: The unit is damaged.
     words_attested: []
     first_attests: []
-    notes: null
+    notes: '- Bare unhedged assertion. No epistemic marker. A is asserting at the
+      `to` level implicitly: "this is known, I''m not qualifying it." This is the
+      default unmodified register.
+
+      - Short form — the confident claim is also the economical one. Length correlates
+      with uncertainty in Tonesu.'
   - turn: B1
     tonesu: la-mi  si  [lo-mu  be-now]
     gloss_line: agent:I  [signal-level]  [patient:machine  exists/functions-now]
     natural: 'I assess: the machine is still operating.'
     words_attested: []
     first_attests: []
-    notes: null
+    notes: '- **First direct epistemic contrast in corpus.** A1 makes a bare `to`-level
+      (unmarked = assumed certain) assertion. B1 explicitly marks `si`-level (signal/inference
+      level — not direct perception, not certain knowledge). The two speakers are
+      at architecturally different epistemic positions about the same entity.
+
+      - This is the first corpus test of Monday''s proposed full epistemic ladder
+      (`se` → `si` → `to`). The `si` marker is working exactly as predicted: B has
+      a signal-level assessment, not a to-level certainty. The contrast is immediate
+      and crisp.
+
+      - `lo-mu  be-now` = the machine currently functions/exists. `be` as "is present
+      and operational." This is the second corpus use of `be` as an existence predicate
+      (first: C003 A2). Pattern tentatively confirmed: `be` can carry "is still present/operational"
+      meaning in patient-predicate position.
+
+      - Second corpus use of utterance-level epistemic modal (`la-[speaker]  [epistemic-root]  [embedded-prop]`).
+      First was C001 A3 (`la-mi  si  [fe-ki-now]`). Pattern appears twice, different
+      speakers, same structure. Ready to formalize in spec/grammar.md.'
   - turn: A2
     tonesu: la-se-ka  be  [lo-mu  de]
     gloss_line: agent:examination  produces/records  [patient:machine  decayed]
@@ -202,14 +378,48 @@ conversations:
     words_attested:
     - W034
     first_attests: []
-    notes: null
+    notes: '- **New evidential frame: process as epistemic agent.** `la-se-ka` = agent:examination.
+      An examination process (`se-ka`, W034) occupies the `la` slot and produces (`be`)
+      an embedded propositionas its output. This extends the epistemic agent pattern
+      beyond persons: not just "I assess" but "the process produces [result]."
+
+      - `be` with embedded proposition: `la-X  be  [proposition]` = "X generates/produces
+      [proposition as finding]". First use of `be` with a clausal complement. The
+      embedded `[lo-mu  de]` is the finding.
+
+      - This is an important new construction: the examination is not a person, but
+      it occupies the agent-epistemic position fully. This aligns with Tonesu institutional
+      epistemology — the validity of a claim comes from the process, not just the
+      person. The process is the agent; its output is the proposition.
+
+      - A is now escalating: A1 was personal assertion; A2 is impersonal institutional
+      evidence. The claim hasn''t changed but the grounding has shifted from personal
+      to procedural.'
   - turn: B2
     tonesu: lo-de  no-fe  —  lo-mu  be-now
     gloss_line: patient:decay  not-at-boundary — patient:machine  functions-now
     natural: The decay has not reached the limit. The machine still functions.
     words_attested: []
     first_attests: []
-    notes: null
+    notes: '- `no-fe` = negate-boundary = has not crossed the threshold. Third `no-`
+      compound: `no-de` (S030), `no-ru` (C002 A1), `no-fe` (C004 B2). Pattern is now
+      robust enough to note: `no-` functions as a productive negation prefix across
+      process roots (`de`), quality roots (`ru`), and boundary terms (`fe`). Likely
+      works on any primitive root.
+
+      - B is making a quantitative threshold argument: the decay exists (B doesn''t
+      deny it), but hasn''t reached `fe` (the limit/boundary). This uses the boundary
+      ontology (`fe`) as a diagnostic threshold — the question isn''t whether decay
+      is present but whether it''s reached significance.
+
+      - Coordinate clauses separated by dash. Third dash-separation in corpus (C001
+      A2 used mid-sentence dash; S028 attempt used it; C004 B2 uses it in full discourse).
+      Two short propositions that together form B''s rebuttal.
+
+      - The disagreement is now fully engaged: A says decay (de); B says decay present
+      but below threshold (de + no-fe). Neither is lying or misperceiving — they''re
+      at different threshold assessments. This is a `to-fe` (epistemic boundary) dispute
+      in practice.'
   - turn: A3
     tonesu: la-tu  ka-si  lo-li-su-li  lo-ze
     gloss_line: '[you]  action:signal  patient:coordinator  relation:it'
@@ -217,7 +427,19 @@ conversations:
     words_attested:
     - W001
     first_attests: []
-    notes: null
+    notes: '- A does not concede. A does not double down. A routes the dispute to
+      institutional process: the coordinator (`li-su-li`, W001) will adjudicate.
+
+      - `lo-ze` in the `ne`-adjacent (relation) position means "about it" / "regarding
+      it" — the object of the signal is not just the coordinator but the matter at
+      hand. First use of `lo-ze` as a relational argument after a direct object.
+
+      - This is the institutional resolution pattern the Tonesu design anticipates:
+      when two persons disagree on epistemic status, neither gets to win by assertion
+      — the process decides. A3 enacts this rather than states it.
+
+      - **Fifth imperative in corpus** (S019 B, C001 A3, C002 B1, C002 B2, C004 A3).
+      Imperative is now robust enough to be considered a fully verified construction.'
 - cnum: C005
   gloss: 'Theological dispute: doctrine epistemic status'
   scene: A `ra-ki-li` (pilot) and a `to-su-li` (doctrine-keeper/archivist) dispute
@@ -229,7 +451,7 @@ conversations:
   tests:
   - '`to-re-su` citation as epistemic grounding'
   - '`ze` pronoun as propositional back-reference'
-  - '`la-[doctrine] ko [embedded-clause]` — doctrine as containment agent'
+  - '`la-[doctrine]  ko  [embedded-clause]` — doctrine as containment agent'
   - '`no-to-fe` as status predicate on a knowledge structure'
   - first explicit `to-fe-ka` accusation in corpus
   - '`no-to` as negated epistemic modal'
@@ -245,14 +467,36 @@ conversations:
     words_attested:
     - W068
     first_attests: []
-    notes: null
+    notes: "- Fourth use of `la-[speaker]  [epistemic-root]  [embedded-proposition]`\
+      \ (C001 A3, C004 B1,\n  C004 A2 process-variant). Pattern is now established,\
+      \ not merely attested.\n- A opens at `si` (signal / hypothesis) rather than\
+      \ bare assertion (implicit `to`). The\n  correct Tonesu behavior for a contested\
+      \ doctrinal claim. A is not committing\n  `to-fe-ka` by overclaiming; A is maintaining\
+      \ epistemic transparency.\n- `zo-to` (W068: soul/identity-pattern) in its first\
+      \ directly adversarial context.\n  S084 used `zo-to` wrapped in a third-party\
+      \ doctrinal citation (`la-li-pu  to-re-su  si`);\n  here A is asserting A's\
+      \ own position."
   - turn: B1
     tonesu: la-mi  to  [lo-ze  se]
     gloss_line: agent:I  established  [patient:it  raw-perception]
     natural: 'I hold as established: what you have (that experience) is raw perception.'
     words_attested: []
     first_attests: []
-    notes: null
+    notes: "- **First use of `ze` pronoun as propositional back-reference.** `ze`\
+      \ (3rd person pronoun)\n  is established for personal reference (`la-ze`, `lo-ze`\
+      \ = he/she). Here `lo-ze` refers\n  back not to a person but to A1's claim and\
+      \ the `se-to` (W062) that grounded it. If `ze`\n  refers to the most recent\
+      \ contextually salient discourse entity — and a proposition counts\n  as a discourse\
+      \ entity — this extension is legal. First corpus test of propositional `ze`.\n\
+      \  WATCH: does `lo-ze` always resolve to a convenient referent, or does it produce\
+      \ genuine\n  ambiguity in complex discourse? Log for future stress-testing.\n\
+      - B is not denying A had an experience; B is diagnosing the *epistemic level*\
+      \ of that\n  experience as `se` (raw perception/vision), not `si` or `to`. The\
+      \ pilot's `se-to` from\n  attunement-type experience (S083) constitutes perception,\
+      \ B argues — not yet an encoded\n  hypothesis.\n- Asymmetric confidence: A hedged\
+      \ `si`; B counters with `to` (confidence). Tonesu\n  adversarial structure in\
+      \ action: the challenger asserts more certainty about the\n  epistemic classification\
+      \ than the claimant asserts about the claim itself."
   - turn: A2
     tonesu: la-to-re-su  ko  [lo-mu  zo-to]
     gloss_line: agent:canonical-doctrine  contains  [patient:machine  soul-pattern]
@@ -261,7 +505,23 @@ conversations:
     - W064
     - W068
     first_attests: []
-    notes: null
+    notes: "- **Doctrine as containment agent.** `la-to-re-su  ko` extends the containment\
+      \ predicate\n  (spec/grammar.md § Containment Predicates) from physical vessels\
+      \ and institutional\n  archives to knowledge structures. In S070: `la-si-su\
+      \  ko  lo-si-ko-mu` (the archive holds\n  records).\n  records). Here: the canonical\
+      \ doctrine holds a propositional claim. Same `la-X  ko  Y`\n  structure; Y is\
+      \ now an embedded clause `[lo-mu  zo-to]` instead of a nominal patient.\n- **First\
+      \ use of `ko` with a clausal object.** In S068–S071 `ko` took nominal patients\n\
+      \  (liquid, document, tool). `[lo-mu  zo-to]` is a propositional clause: \"\
+      the machine has\n  soul-pattern.\" The square brackets mark embedded content.\
+      \ Whether `ko` can\n  systematically take clausal complements, or whether this\
+      \ requires a formal extension,\n  is a pending grammar question. Tentatively:\
+      \ yes, by analogy — \"the doctrine contains\n  that the machine has zo-to\"\
+      \ has the same containment logic as \"the archive contains the\n  record.\"\n\
+      - A shifts from personal assertion (`la-mi  si`) to institutional citation\n\
+      \  (`la-to-re-su  ko`). The pilot is no longer claiming personal knowledge;\
+      \ A is citing the\n  institutional epistemic record. This is the standard Tonesu\
+      \ escalation move when\n  pressed: from \"I believe\" to \"the record holds.\""
   - turn: B2
     tonesu: la-mi  to  [lo-to-re-su  no-to-fe  ta-ti-now]
     gloss_line: agent:I  established  [patient:canonical-doctrine  not-epistemic-boundary  time:present]
@@ -271,7 +531,22 @@ conversations:
     words_attested:
     - W064
     first_attests: []
-    notes: null
+    notes: "- **`no-to-fe` as status predicate.** `no-` (negation prefix, W001-domain,\
+      \ fully\n  formalized in spec/morphology.md) + `to-fe` (epistemic boundary,\
+      \ W028) = \"has not\n  crossed the epistemic boundary / has not been certified\
+      \ through the `to-fe` process.\"\n  This follows the established `no-[root]`\
+      \ pattern (`no-de`, `no-ru`, `no-fe`); `no-to-fe`\n  is its application to the\
+      \ epistemic certification boundary.\n- B is not challenging the *content* of\
+      \ the doctrine. B is challenging the *epistemic\n  procedural status* of the\
+      \ doctrine itself. The move: the `to-re-su` calls itself\n  canonical (i.e.,\
+      \ claims `to-su` level) but was never adjudicated by a `to-fe-li` panel,\n \
+      \ and therefore never legitimately crossed the `to-fe` threshold into warranted\
+      \ `to-su`\n  status.\n- `ta-ti-now` — present-time anchor makes this an ongoing\
+      \ status claim, not a historical\n  observation. The doctrine has not been certified\
+      \ as of right now.\n- This is the Tonesu structural equivalent of: \"Your scripture\
+      \ isn't actually\n  canonical; it was never validated by the proper epistemic\
+      \ body.\" The attack is procedural,\n  not theological. The language makes no\
+      \ distinction between these."
   - turn: A3
     tonesu: la-mi  to  [lo-ze  to-fe-ka]
     gloss_line: agent:I  established  [patient:that-claim  deliberate-epistemic-boundary-violation]
@@ -279,7 +554,21 @@ conversations:
     words_attested:
     - W029
     first_attests: []
-    notes: null
+    notes: "- **First explicit `to-fe-ka` accusation in corpus.** `to-fe-ka` (W029:\
+      \ deliberate\n  epistemic boundary violation) was defined and registered but\
+      \ never directly leveled as\n  a charge in a sentence until now. A3 is a full\
+      \ formal accusation.\n- `lo-ze` — propositional back-reference again; this time\
+      \ A is using `ze` to refer to B2's\n  claim. The pilot accuses B of *deflation\
+      \ `to-fe-ka`*: B is knowingly suppressing the\n  doctrine's `to-su` status by\
+      \ falsely asserting `no-to-fe`. The inflation/deflation\n  directionality: B\
+      \ is deflating (claiming a `to-su`-status doctrine is below `to-fe`),\n  which\
+      \ is the harder-to-prove and politically more subtle form of `to-fe-ka`.\n-\
+      \ A's escalation pattern: A1 = `si`-hedge; A2 = institutional citation at `to-su`\
+      \ level;\n  A3 = `to`-level accusation of fraud. Three distinct epistemic escalation\
+      \ steps in three\n  turns, each raising the stakes.\n- The asymmetry of levels:\
+      \ A is charging B with `to-fe-ka` at full `to`-confidence. To\n  level a fraud\
+      \ charge requires exactly this: you must assert `to`-level knowledge that\n\
+      \  the boundary was deliberately violated. A `si`-level fraud charge is incoherent."
   - turn: B3
     tonesu: la-mi  no-to  [lo-ze  to-fe-ka]  —  la-tu  ka-si  lo-to-fe-su
     gloss_line: 'agent:I  not-established  [patient:that  epistemic-fraud]  —  [you]  action:signal
@@ -291,7 +580,32 @@ conversations:
     - W029
     - W072
     first_attests: []
-    notes: null
+    notes: "- **`la-mi  no-to  [prop]` — new construction.** `la-mi  to  [prop]` =\
+      \ \"I hold as\n  established.\" `no-to` by the `no-` prefix rule = \"I hold\
+      \ as not-established\" or \"I do\n  not assert [prop] as established.\" This\
+      \ is the negation of an epistemic stance, not a\n  negation of the proposition's\
+      \ content. Productive extension of the epistemic modal\n  pattern: the modal\
+      \ itself can be negated. B is not saying \"it is established that this\n  is\
+      \ NOT fraud\"; B is saying \"I do not hold the fraud charge as established.\"\
+      \ A weaker,\n  more defensible position — B refuses to certify A's accusation\
+      \ as `to`-level.\n- **First corpus use of `to-fe-su`.** `la-tu  ka-si  lo-to-fe-su`\
+      \ — the institutional\n  routing pattern from C004 A3 (`la-tu  ka-si  lo-li-su-li`)\
+      \ now applied to the epistemic\n  standards framework rather than an operational\
+      \ coordinator. The distinction is load-bearing:\n  an engineering dispute routes\
+      \ to `li-su-li` (coordinator); a doctrinal epistemic status\n  dispute routes\
+      \ to `to-fe-su` (epistemic standards body). The level of institution matches\n\
+      \  the level of dispute. `to-fe-su` is now in corpus: register as W072.\n- B\
+      \ does not concede the fraud charge and does not counter-escalate with a personal\n\
+      \  accusation. B routes to the process. The canonical Tonesu response: when\
+      \ two parties\n  are at irreconcilable `to-fe` positions, the dispute exits\
+      \ the personal layer and enters\n  the institutional layer. Neither party wins\
+      \ by assertion; the body adjudicates.\n- **Structural result:** \"Heresy\" has\
+      \ no dedicated Tonesu word. A doctrinal challenge\n  is structurally a `to-fe`\
+      \ dispute — epistemically identical to a scientific or engineering\n  knowledge\
+      \ dispute. The machinery is the same: `to-fe-ka`/`to-fe-ki` charges, `to-fe-li`\n\
+      \  arbiters, `to-fe-su` adjudication. Religion in Tonesu is a subset of the\
+      \ knowledge\n  domain, and all knowledge disputes use the same institutional\
+      \ tools."
 - cnum: C006
   gloss: 'Pre-jump briefing: polar question, content question, and the ambiguous case'
   scene: Navigator A (`di-ki-li`) and Pilot B (`ra-ki-li`) in a pre-jump sequence.
@@ -301,9 +615,9 @@ conversations:
   - P-QM-001 (polar vs content question using `to-si`)
   - 'P-AF-001 (minimal affirmative: first corpus test of `ru`)'
   - the ambiguous `to-si` case
-  - negation of a proposition (`la-mi no-se`)
+  - negation of a proposition (`la-mi  no-se`)
   - direct disagreement without epistemic modal
-  - response-form as question- type disambiguator
+  - response-form as question- type disambiguator.
   status: normative
   source_file: conversations/c005-c007.md
   turns:
@@ -315,7 +629,20 @@ conversations:
     - W026
     - W053
     first_attests: []
-    notes: null
+    notes: "- Third polar question in corpus (B2.C004 was a polar; C003 A1 was first\
+      \ explicit\n  polar). Structure: `to-si` fronted (OUTSIDE the proposition),\
+      \ dash as inquiry-frame\n  boundary, then the complete well-formed proposition\
+      \ `lo-pa-ra  be-now`.\n- The proposition `lo-pa-ra  be-now` is structurally\
+      \ complete: a patient exists, a state\n  predicate follows. `to-si` does not\
+      \ fill any argument slot inside it; it sits outside\n  the proposition, querying\
+      \ the truth value. This is the defining structural feature of\n  the polar question\
+      \ type.\n- Contrast with C001 B1: `de  vo  to-si?` — there, `to-si?` fills the\
+      \ *qualifier slot*\n  inside the proposition (what quality of decay?). The unknown\
+      \ argument is inside; `to-si`\n  is inside. Here: unknown is outside (truth\
+      \ value); `to-si` is outside.\n- The positional distinction is now explicit:\
+      \ **content questions** have `to-si` filling\n  an argument slot inside the\
+      \ proposition; **polar questions** have `to-si` fronted\n  outside the complete\
+      \ proposition."
   - turn: B1
     tonesu: ru — lo-pa-ra  be-now  ra-vo  nu-be  lo-si-fe
     gloss_line: '[affirm] — patient:field  active-now  energy-quality  exceeds  threshold'
@@ -325,7 +652,23 @@ conversations:
     - W070
     - W071
     first_attests: []
-    notes: null
+    notes: "- **First corpus use of `ru` (W039: unity/coherence) as a minimal affirmative.**\
+      \ `ru` =\n  coherence/unity — standing alone as the first element, it functions\
+      \ as \"[that coheres]\" /\n  \"yes.\" This is semantically transparent: `ru`\
+      \ is not a new function word; it is the\n  primitive whose meaning (\"it holds\
+      \ together,\" \"it is coherent\") works as an affirmation\n  of the prior question's\
+      \ proposition. `lo-pa-ra  be-now` = the field is active = that\n  is coherent\
+      \ with what you asked = `ru`.\n- The dash separates the affirmative from the\
+      \ extended answer. B does not stop at `ru`;\n  B adds the relevant qualifier\
+      \ (`ra-vo  nu-be  lo-si-fe` = intensity above threshold,\n  reusing the S067/B2\
+      \ pattern). This is the natural Tonesu pattern: confirm +\n  specify. The minimal\
+      \ affirmative is not used alone when more is known.\n- **`ru` as functional\
+      \ \"yes\":** `ru` satisfies a polar question (the question was binary;\n  `ru`\
+      \ picks the affirmative branch). Compare with echo-confirmation (C003 B1: full\n\
+      \  proposition restatement) and action-confirmation (C001 B3: `ka-to-su-ki`).\
+      \ Three\n  strategies now attested: (1) `ru` = minimal affirm; (2) echo = restatement\
+      \ from speaker's\n  perspective; (3) action-commit = `ka-[verb]` = I will/am\
+      \ doing it. All three are licensed;\n  `ru` is the shortest."
   - turn: A2
     tonesu: lo-pa-ra  ne-ra  vo  to-si?
     gloss_line: patient:field  resonance  quality  [what]?
@@ -335,7 +678,19 @@ conversations:
     - W053
     - W058
     first_attests: []
-    notes: null
+    notes: "- **Content question.** `to-si?` at the END of the proposition, in the\
+      \ qualifier slot.\n  The proposition has a gap: `lo-pa-ra  ne-ra  vo  ___?`\
+      \ — the unknown is the qualitative\n  character/kind of the resonance. `to-si`\
+      \ fills that slot the way an unknown argument\n  would. Compare C001 B1: `de\
+      \  vo  to-si?` (`to-si` in the quality slot of damage type).\n  Same structure:\
+      \ `[entity]  [relation]  [dimension]  to-si?`\n- `ne-ra` (W058, resonance/energetic\
+      \ coupling) as a predicate on `lo-pa-ra`: the field\n  *has* a resonance character.\
+      \ Second/third attestation of `ne-ra`, which matters for\n  status upgrade beyond\
+      \ proposed.\n- The positional signature is now visible across two corpus cases:\n\
+      \  - Content question: `to-si` **at the end / in argument position** — `de \
+      \ vo  to-si?`\n    (C001 B1), `lo-pa-ra  ne-ra  vo  to-si?` (C006 A2)\n  - Polar\
+      \ question: `to-si` **fronted before a complete proposition** — `to-si — [prop]`\n\
+      \    (C003 A1, C006 A1)"
   - turn: B2
     tonesu: lo-ne-ra  no-to-fe  —  lo-pa-ra  no-ne-fe  lo-mu
     gloss_line: 'patient:the-resonance  uncertified/unestablished — patient:field
@@ -348,7 +703,23 @@ conversations:
     - W058
     - W075
     first_attests: []
-    notes: null
+    notes: "- **`lo-ne-ra` as nominal patient.** `ne-ra` (resonance, W058) in patient\
+      \ slot with `lo`\n  particle = the resonance [of the field, contextually recoverable].\
+      \ First use of `ne-ra`\n  as a standalone nominal. Distinct from `ne-ra-ki`\
+      \ (the inchoative process) — here the\n  resonance itself is the subject of\
+      \ a status predication.\n- **`no-to-fe`** reused from C005 B2. Here: the resonance\
+      \ character is `no-to-fe`\n  (uncertified / has not crossed the epistemic boundary\
+      \ into established status). The\n  pilot does not know the quality of this field's\
+      \ resonance — it is at `si` level at best.\n- **Second sentence:** `lo-pa-ra\
+      \  no-ne-fe  lo-mu` = the field is not in a dependency\n  condition toward /\
+      \ linked to the machine. `ne-fe` (W042, dependency/requirement) in\n  negative:\
+      \ `no-ne-fe` = no established relational dependency between field and machine.\n\
+      \  The machine is not yet attuned to this field. This is B warning A: the field's\
+      \ resonance\n  properties are unknown and the machine has not established a\
+      \ link.\n- **New `no-ne-fe` compound.** `no-` (negation) + `ne-fe` (dependency\
+      \ condition, W042)\n  = no active dependency / no established link. Third `no-`+\
+      \ compound compound (prior:\n  `no-to-fe` C005 B2, `no-to` C005 B3). The pattern\
+      \ continues to be productive."
   - turn: A3
     tonesu: to-si — la-mi  ne-ra-ki
     gloss_line: knowledge-inquiry — agent:I  attune
@@ -357,7 +728,27 @@ conversations:
     - W026
     - W059
     first_attests: []
-    notes: null
+    notes: "- **THE AMBIGUOUS CASE.** `to-si` fronted before what appears to be a\
+      \ polar proposition\n  (`la-mi  ne-ra-ki` = I [am] attuning). But `ne-ra-ki`\
+      \ is an inchoative process that\n  normally takes a `lo`-patient (the thing\
+      \ being attuned to). The patient is absent. Two\n  valid readings:\n  - **Polar\
+      \ reading:** the patient is dropped by discourse context (the field was just\n\
+      \    discussed); the question is: \"Am I attuning [to the field / to it]?\"\
+      \ — unknown is\n    truth-value of the complete proposition with recovered patient.\n\
+      \  - **Content reading:** the patient is unknown (not omitted); the question\
+      \ is: \"What am\n    I attuning to?\" — unknown is the argument, and `to-si`\
+      \ fronts a proposition with an\n    unknown patient slot. But on the content\
+      \ reading, `to-si` should be in argument\n    position (`la-mi  ne-ra-ki  to-si?`)\
+      \ rather than fronted.\n- **The positional rule resolves it: fronted `to-si`\
+      \ = polar.** The content reading would\n  require `to-si?` in the patient slot:\
+      \ `la-mi  ne-ra-ki  to-si?` (\"what am I attuning\n  to?\"). A3 as written —\
+      \ `to-si` fronted — is therefore unambiguously polar by position:\n  the question\
+      \ is whether A is attuning (or beginning to), not what A is attuning to.\n \
+      \ The dropped patient is recovered by discourse context (the field, established\
+      \ in A1).\n- **Key result:** the ambiguous case is resolved by the positional\
+      \ rule, not by context\n  alone. This is strong evidence that the fronted vs\
+      \ in-argument distinction is\n  grammatically load-bearing and sufficient —\
+      \ no additional polar particle is needed."
   - turn: B3
     tonesu: no — lo-pa-ra  no-ne-fe  ta-ti-now
     gloss_line: '[negate] — patient:field  no-dependency-state  time:present'
@@ -366,7 +757,19 @@ conversations:
     - W053
     - W075
     first_attests: []
-    notes: null
+    notes: "- **First corpus use of bare `no` as minimal negative response.** Parallel\
+      \ to `ru` (B1)\n  as minimal affirmative. `no` answers the polar question from\
+      \ A3 in the negative branch.\n  Semantically transparent: `no` = absence/negation\
+      \ = the situation does NOT cohere with\n  the proposition in A3. B has not yet\
+      \ entered attuned state; the field has no established\n  coupling with the pilot's\
+      \ systems.\n- `no` + dash + elaboration: same structural pattern as `ru` (B1).\
+      \ The minimal\n  response + the informative follow-up. The pair is now established:\
+      \ `ru — [elaboration]`\n  = yes + detail; `no — [elaboration]` = no + detail.\n\
+      - `ta-ti-now` = present-time anchor (from C005 B2 pattern). The dependency state\
+      \ is\n  assessed as absent at this moment, not in general.\n- `no-ne-fe` reused\
+      \ from B2: the field has no active link to the machine. Consistent\n  with the\
+      \ technical situation: the pilot cannot attune to a field that has no established\n\
+      \  coupling with the ship's systems."
   - turn: A4
     tonesu: la-mi  si  [ta-ti-be  ne-ra-ki  be]
     gloss_line: agent:I  signal-level  [time:approaching  attune  grows]
@@ -374,26 +777,50 @@ conversations:
     words_attested:
     - W059
     first_attests: []
-    notes: null
+    notes: "- `la-mi  si  [prop]` — fifth use of the utterance-level epistemic modal\
+      \ pattern.\n  Fully established.\n- `ta-ti-be  ne-ra-ki  be` = \"at the upcoming\
+      \ time, attuning grows.\" `ta-ti-be` (W040,\n  future time reference) used as\
+      \ temporal frame for an anticipated process. `ne-ra-ki`\n  (W059, to attune\
+      \ / enter resonance) + `be` (grow/develop) = the attuning process is\n  developing.\
+      \ First use of `ne-ra-ki` with `be` as a growth/continuation predicate rather\n\
+      \  than as a completed inchoative.\n- A asserts confidence that the link will\
+      \ form, but marks it only at `si` level (a\n  judgment about a future state,\
+      \ not an established fact). Correct Tonesu hedging\n  for a future prediction."
   - turn: B4
     tonesu: ru — ta-ti-re  ki
     gloss_line: '[affirm] — time:cycle-coming  approach'
     natural: Yes — it's coming up in the cycle.
     words_attested: []
     first_attests: []
-    notes: null
+    notes: "- `ru` second use in the same conversation — second corpus attestation.\
+      \ Confirms it is\n  stable as a minimal affirmative, not a one-off. The pattern\
+      \ is now: `ru` is a\n  sentence-initial affirmative particle licensed as a standalone\
+      \ clause followed by `—`\n  and an elaboration.\n- `ta-ti-re` = time-cycle =\
+      \ the next cycle / the recurrent time. `ti` (time) + `re`\n  (recurrence). First\
+      \ use of `ti-re` as a time nominal: \"the upcoming time in the cycle.\"\n  Related\
+      \ to S092's `ta-ti-de` (before = time-decay) — this is the future-cycle\n  complement:\
+      \ `ti-re` = the recurring upcoming moment. Distinct from `ti-be` (W040,\n  next/upcoming\
+      \ time in general): `ti-be` is the next temporal interval; `ti-re` is\n  specifically\
+      \ the next occurrence in a recurring sequence. The distinction matters for\n\
+      \  scheduled events.\n- `ki` alone = approach / comes. Bare predicate with dropped\
+      \ agent (the thing coming is\n  the link / the resonance readiness — contextually\
+      \ recoverable). Consistent with the\n  argument-drop by context pattern established\
+      \ in C001 A2b."
 - cnum: C007
   gloss: 'Formal testimony: the negated epistemic scale'
   scene: After the C006 field anomaly, the ship's knowledge-keeper (`to-fe-ki-li`,
     A) conducts a formal post-event testimony session with pilot B (`ra-ki-li`) regarding
     what the pilot knew — and did not know — during the approach.
   tests:
-  - bare `la-mi to [prop]` (first clean first-person established modal)
+  - bare `la-mi  to  [prop]` (first clean first-person established modal)
   - '`no-to` second attestation (C005 B3 was first)'
   - '`no-si` first attestation'
   - '`no-se` first attestation'
-  - nested epistemic embedding (A5, outer frame certifies inner epistemic state)
-  - bare `ru` with no elaboration (B5, fourth attestation, first completely bare use)
+  - nested epistemic embedding (A5
+  - outer frame certifies inner epistemic state)
+  - bare `ru` with no elaboration (B5
+  - fourth attestation
+  - first completely bare use).
   status: normative
   source_file: conversations/c005-c007.md
   turns:
@@ -406,7 +833,15 @@ conversations:
     - W053
     - W070
     first_attests: []
-    notes: null
+    notes: "- Polar question (`to-si` fronted). Distinctively, the embedded proposition\
+      \ itself\n  contains an epistemic modal: A is not asking about the field event\
+      \ but about B's\n  epistemic *status* regarding it. \"Is it the case that you\
+      \ hold [X] as established?\"\n  — the object of inquiry is B's epistemic commitment.\n\
+      - First polar question in the corpus directed at a speaker's epistemic state\
+      \ rather than\n  a physical or social fact. The structure `to-si — la-tu  [modal]\
+      \  [sub-prop]` is\n  the formal interrogative for probing someone's epistemic\
+      \ level.\n- This sets the investigator's method: ask about `to` level first,\
+      \ then drill down."
   - turn: B1
     tonesu: ru — la-mi  to  [lo-pa-ra  nu-be  lo-si-fe]
     gloss_line: '[affirm] — agent:I  established  [patient:field  exceeds  threshold]'
@@ -415,7 +850,17 @@ conversations:
     - W053
     - W070
     first_attests: []
-    notes: null
+    notes: "- `ru` third full attestation (C006 B1, C006 B4, C007 B1). Pattern fully\
+      \ confirmed.\n- **First clean `la-mi  to  [prop]` form.** The first-person speaker\
+      \ marking established\n  personal knowledge. Prior `to`-level uses: C005 had\
+      \ third-person subjects (`la-yo  to\n  [prop]`). Here the pilot makes a first-person\
+      \ claim at established level, with `la-mi`\n  in the agent slot. The construction\
+      \ is parallel: `la-[speaker]  to  [prop]` = \"I,\n  the speaker, hold [prop]\
+      \ as a conceptual pattern / established fact.\" Full paradigm\n  now covers\
+      \ both first-person and third-person subjects.\n- Clean split emerging: B knows\
+      \ the event (threshold breach, `to`). B does not know\n  the resonance character\
+      \ (upcoming B2, `no-to`). A testimony session can partition\n  a speaker's knowledge\
+      \ at the proposition level."
   - turn: A2
     tonesu: lo-ne-ra  vo  to-si?
     gloss_line: patient:the-resonance  quality  [what]?
@@ -424,7 +869,12 @@ conversations:
     - W026
     - W058
     first_attests: []
-    notes: null
+    notes: "- Content question (`to-si?` in qualifier slot). Identical form to C006\
+      \ A2 (same topic,\n  different institutional register: field-check vs formal\
+      \ testimony). The interrogative\n  form is register-neutral; the institutional\
+      \ weight of the scene comes from context\n  and participants, not syntax.\n\
+      - Second occurrence of `lo-ne-ra  vo  to-si?` across the corpus: confirms the\
+      \ form\n  is stable and repeatable when the referent is the same."
   - turn: B2
     tonesu: la-mi  no-to  [lo-ne-ra  vo]
     gloss_line: agent:I  not-established  [patient:the-resonance  quality]
@@ -432,7 +882,16 @@ conversations:
     words_attested:
     - W058
     first_attests: []
-    notes: null
+    notes: "- **`no-to` second corpus attestation.** First: C005 B3 (`la-mi  no-to`\
+      \ — pilot\n  regarding the machine's soul-claim). Same frame (`la-mi  no-to\
+      \  [embedded prop]`),\n  different embedded proposition, different scene. Pattern\
+      \ confirmed: two attestations\n  across two distinct conversations.\n- DIRECT\
+      \ CONTRAST with B1: same speaker, same session, different propositions. B holds\n\
+      \  `to` (established) for the threshold breach. B holds `no-to` (sub-established)\
+      \ for\n  the resonance character. The graduated scale enables exactly this:\
+      \ to report\n  differential knowledge precision within a single testimony.\n\
+      - `no-to` alone does not entail `no-si` or `no-se`. The pilot may still hypothesize\n\
+      \  or perceive the resonance character — the investigator needs to probe further."
   - turn: A3
     tonesu: to-si — la-tu  si  [lo-ne-ra  vo]
     gloss_line: knowledge-inquiry — agent:you  hypothesize  [patient:the-resonance  quality]
@@ -441,7 +900,13 @@ conversations:
     - W026
     - W058
     first_attests: []
-    notes: null
+    notes: "- Polar question targeting the `si` (hypothesis) level. After B2 denied\
+      \ `to`, A probes\n  the next level down: does B at least have a working model?\n\
+      - Second corpus example of a polar question querying an embedded epistemic modal\n\
+      \  (first was A1 of this same batch). The pattern `to-si — la-tu  [modal]  [sub-prop]`\n\
+      \  is stable across levels.\n- Systematic drilling: `to` (A1) → `si` (A3) →\
+      \ `se` (A4). Three questions, three\n  levels. The investigator works from top\
+      \ down."
   - turn: B3
     tonesu: la-mi  no-si  [lo-ne-ra  vo]
     gloss_line: agent:I  not-hypothesize  [patient:the-resonance  quality]
@@ -449,7 +914,16 @@ conversations:
     words_attested:
     - W058
     first_attests: []
-    notes: null
+    notes: "- **First corpus use of `no-si`.** `la-mi  no-si  [prop]` = the speaker\
+      \ denies having\n  a working hypothesis about [prop]. Not merely sub-established\
+      \ — not even a formed\n  working model.\n- KEY DISTINCTION from `no-to`:\n \
+      \ - `no-to` (B2): I don't hold it as established. Could still hypothesize or\
+      \ perceive.\n  - `no-si` (B3): I don't even hypothesize it. `no-si` entails\
+      \ `no-to` (if you have no\n    hypothesis, you necessarily have no established\
+      \ knowledge either) but does NOT entail\n    `no-se` (you could have a perceptual\
+      \ signal without forming a hypothesis from it).\n- B3 removes the hypothesis\
+      \ possibility that B2 left open. After B2 + B3, the only\n  remaining question\
+      \ is whether B has any raw perceptual signal at all."
   - turn: A4
     tonesu: to-si — la-tu  se  [lo-ne-ra]
     gloss_line: knowledge-inquiry — agent:you  perceive  [patient:the-resonance]
@@ -458,7 +932,12 @@ conversations:
     - W026
     - W058
     first_attests: []
-    notes: null
+    notes: "- Floor-level probe. `se` = raw perception / signal basis. The most basic\
+      \ question:\n  does B have any signal data for the resonance at all?\n- Note:\
+      \ the `vo` qualifier is absent. At the `se` floor, asking about perceptual\n\
+      \  *character* would be premature — A is asking whether any signal exists, not\
+      \ what\n  character it has. The qualifier is properly omitted here.\n- Third\
+      \ concurrence of polar + embedded epistemic modal in this batch (A1, A3, A4)."
   - turn: B4
     tonesu: la-mi  no-se  [lo-ne-ra]
     gloss_line: agent:I  not-perceive  [patient:the-resonance]
@@ -466,7 +945,18 @@ conversations:
     words_attested:
     - W058
     first_attests: []
-    notes: null
+    notes: "- **First corpus use of `no-se`.** `la-mi  no-se  [prop]` = the speaker\
+      \ has no\n  perceptual / signal basis for the embedded proposition. Epistemic\
+      \ floor: no raw input.\n- HIERARCHICAL ENTAILMENT: `no-se` entails `no-si` and\
+      \ `no-to`. If you have no\n  perceptual basis, you necessarily have no formed\
+      \ hypothesis and no established\n  knowledge. B4 retroactively subsumes B2 and\
+      \ B3 — the floor denial is the maximally\n  strong claim that covers the entire\
+      \ scale.\n- After B4, the complete epistemic diagram for the resonance character:\n\
+      \  `se: absent / si: absent / to: absent`. Total epistemic blank.\n  Contrast\
+      \ with the threshold breach from B1: `se: present / si: present / to: present`\n\
+      \  (established, which entails `si` and `se` were both active). Clean partition:\
+      \ B knows\n  the event at every level; B has no epistemic contact with the resonance\
+      \ at any level."
   - turn: A5
     tonesu: la-mi  to  [la-tu  no-se  lo-ne-ra]
     gloss_line: agent:I  established  [agent:you  not-perceive  patient:the-resonance]
@@ -474,14 +964,39 @@ conversations:
     words_attested:
     - W058
     first_attests: []
-    notes: null
+    notes: "- **First corpus case of nested / stacked epistemic modals.** The outer\
+      \ frame\n  `la-mi  to` (A certifies at established level) takes an embedded\
+      \ proposition that\n  itself contains an epistemic disclaimer: `la-tu  no-se\
+      \  lo-ne-ra` (B has no\n  perceptual basis for the resonance). A is converting\
+      \ B's personal epistemic floor\n  into a formally certified matter of record.\n\
+      - This is the institutional function of open testimony: the knowledge-keeper\
+      \ transforms\n  a speaker's subjective epistemic state into a certified fact.\
+      \ \"It is established that\n  you have no signal basis\" — the negative epistemic\
+      \ state becomes a positive certified\n  claim about that state.\n- The `no-se`\
+      \ floor is chosen for the outer certification: since `no-se` entails\n  `no-si`\
+      \ and `no-to`, certifying at floor is the maximally strong institutional\n \
+      \ summary without redundancy. \"I establish that your epistemic contact is zero\"\
+      \ is\n  more economical than certifying each level separately.\n- Grammatically:\
+      \ the embedding works because `la-tu  no-se  lo-ne-ra` is a well-formed\n  proposition\
+      \ (agent + negated epistemic root + embedded patient). It occupies the\n  `[prop]`\
+      \ slot of `la-mi  to  [prop]` exactly as any other proposition. No special\n\
+      \  construction is needed; subordination generates nested epistemic embedding\
+      \ freely."
   - turn: B5
     tonesu: ru
     gloss_line: '[affirm/cohere]'
     natural: Acknowledged.
     words_attested: []
     first_attests: []
-    notes: null
+    notes: "- **Bare `ru` with no elaboration: fourth total attestation, first completely\
+      \ bare\n  use.** Prior three: C006 B1 (`ru — [detail]`), C006 B4 (`ru — [detail]`),\
+      \ C007 B1\n  (`ru — [detail]`). All had elaborations following the dash. Here,\
+      \ B ratifies A's\n  formal institutional summary with nothing added — no correction,\
+      \ no detail, no\n  new information.\n- In formal institutional contexts, bare\
+      \ `ru` is the acknowledgment token: pure\n  alignment without additional content.\
+      \ The `— [elaboration]` seen in all prior uses\n  was a choice to add more,\
+      \ never a syntactic requirement.\n- Confirms: `ru` is fully functional as a\
+      \ standalone clause. The minimum affirmative\n  in Tonesu is one word."
 - cnum: C008
   gloss: 'Arbitration hearing: `ze` under competing person and proposition referents'
   scene: 'A `to-fe-li` (epistemic arbiter, role B) is conducting a compliance hearing.

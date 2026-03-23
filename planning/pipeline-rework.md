@@ -1,7 +1,7 @@
 # Pipeline Rework Plan
 
 *Created: 2026-03-20*
-*Status: Phase 5 complete — Phase 4 remaining (deferred)*
+*Status: All phases complete*
 
 ---
 
@@ -288,7 +288,7 @@ After all phases, the pipeline would be:
 - [x] **Phase 2** — Wire extraction into `build.py` as Step 0 *(2026-03-22)*
 - [x] **Phase 2** — Verify roundtrip: extract → annotate → derive → build produces identical output *(2026-03-22)*
 - [x] **Phase 3** — Derive `batches.yaml` from extracted sentence data *(2026-03-21)*
-- [ ] **Phase 4** — Write conversation extraction parser
+- [x] **Phase 4** — Write conversation extraction parser *(2026-03-22)*
 - [x] **Phase 5** — Generate `colloquial.md` from `colloquial.yaml` *(2026-03-21)*
 - [x] Update `.github/copilot-instructions.md` to reflect new workflow *(2026-03-21)*
 - [x] Update `planning/pipeline-rework.md` status as phases complete *(2026-03-21)*

@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
 """
-extract_conversations.py — Extract conversations.yaml from c*-plus.md intake files.
+extract_conversations.py — Extract conversations.yaml from conversation markdown.
 
-Reads corpus/conversations/c*-plus.md (current intake files).
-Preserves frozen entries (c001-c004.md, c005-c007.md) unchanged.
-Preserves computed fields (words_attested, first_attests) from existing YAML.
+Reads ALL corpus/conversations/c*.md files and re-extracts every conversation
+record.  The markdown files are the single source of truth.
 
-Mirrors the design of extract_sentences.py:
-  - Only intake files (matching c*-plus.md) are re-parsed
-  - Existing entries from legacy files are kept verbatim
-  - Merge key: cnum
+Computed fields (words_attested, first_attests) are preserved from the existing
+conversations.yaml so downstream pipeline steps can re-derive them.
+
+Merge key: cnum.
 """
 import re
 import sys
@@ -352,60 +351,45 @@ def main() -> None:
     if CONV_YAML.exists():
         existing_data = yaml.safe_load(CONV_YAML.read_text(encoding="utf-8")) or {}
 
-    all_conversations: list[dict] = existing_data.get("conversations", [])
+    all_existing: list[dict] = existing_data.get("conversations", [])
 
-    # Build lookup: cnum → existing entry (all conversations)
+    # Build lookup: cnum → existing entry (for merging computed fields)
     existing_by_cnum: dict[str, dict] = {
-        c["cnum"]: c for c in all_conversations if "cnum" in c
+        c["cnum"]: c for c in all_existing if "cnum" in c
     }
 
-    # Identify which cnums come from intake files (c*-plus.md)
-    intake_cnums: set[str] = {
-        c["cnum"]
-        for c in all_conversations
-        if "source_file" in c and c["source_file"].endswith("-plus.md")
-    }
-
-    # Parse all intake files
-    intake_files = sorted(CONV_DIR.glob("c*-plus.md"))
+    # Parse ALL conversation markdown files
+    conv_files = sorted(
+        f for f in CONV_DIR.glob("c*.md")
+        if f.name not in ("TEMPLATE.md", "index.md")
+    )
     extracted: list[dict] = []
-    for f in intake_files:
+    for f in conv_files:
         extracted.extend(_parse_intake_file(f))
 
     extracted_cnums = {c["cnum"] for c in extracted}
 
-    # Merge extracted with existing computed fields
-    merged_extracted = _merge(extracted, existing_by_cnum)
+    # Merge: preserve computed fields from existing YAML
+    merged = _merge(extracted, existing_by_cnum)
 
-    # Result = frozen legacy + merged extracted
-    frozen = [c for c in all_conversations if c.get("cnum") not in intake_cnums]
-    # Add newly seen cnums (not previously in YAML)
-    new_from_md = [c for c in merged_extracted if c["cnum"] not in existing_by_cnum]
-    updated = [c for c in merged_extracted if c["cnum"] in existing_by_cnum]
+    # Sort by C-number
+    merged.sort(key=lambda c: int(c["cnum"][1:]))
 
-    # Reconstruct in stable order: frozen first (original order), then updated, then new
-    frozen_cnums = {c["cnum"] for c in frozen}
-    updated_by_cnum = {c["cnum"]: c for c in updated}
+    n_files = len(conv_files)
+    n_total = len(merged)
+    n_new = len(extracted_cnums - set(existing_by_cnum))
 
-    result_conversations: list[dict] = []
-    for c in all_conversations:
-        cnum = c["cnum"]
-        if cnum in frozen_cnums:
-            result_conversations.append(c)
-        elif cnum in updated_by_cnum:
-            result_conversations.append(updated_by_cnum.pop(cnum))
-    # Append any new cnums from MD not previously in YAML
-    result_conversations.extend(new_from_md)
+    print(f"Parsed {n_files} file(s), extracted {n_total} conversations")
+    if n_new:
+        new_cnums = sorted(extracted_cnums - set(existing_by_cnum), key=lambda x: int(x[1:]))
+        print(f"  New: {new_cnums}")
 
-    n_intake = len(extracted)
-    n_frozen = len(frozen)
-    n_total = len(result_conversations)
+    # Detect missing (existed in YAML but not found in markdown)
+    missing = sorted(set(existing_by_cnum) - extracted_cnums, key=lambda x: int(x[1:]))
+    if missing:
+        print(f"  WARNING: in YAML but not in markdown: {missing}")
 
-    print(f"Extracted {n_intake} conversations from intake file(s)")
-    print(f"Frozen: {n_frozen} conversations from legacy files")
-    print(f"Total: {n_total}")
-
-    out: dict = {"conversations": result_conversations}
+    out: dict = {"conversations": merged}
     CONV_YAML.write_text(
         _dump(out),
         encoding="utf-8",

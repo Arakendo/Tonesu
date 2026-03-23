@@ -8,8 +8,8 @@ Runs the full rebuild pipeline in the correct dependency order:
                                         markdown into sentences.yaml
           extract_batches.py         — derive batches.yaml from sentences.yaml
                                         and markdown headings
-          extract_conversations.py   — extract conversation records from c*-plus.md
-                                        intake files into conversations.yaml
+          extract_conversations.py   — extract conversation records from all
+                                        c*.md files into conversations.yaml
   Step 1  generate_registry_md.py    — sync registry/derived/*.md from entries.yaml
                                         (GitHub-browsable human-readable files)
           generate_colloquial_md.py — generate registry/colloquial.md from
@@ -41,7 +41,7 @@ SCRIPTS_DIR = REPO / "scripts"
 STEPS = [
     (0, "extract_sentences.py",       "Extract sentences from v4-current -> sentences.yaml"),
     (0, "extract_batches.py",         "Derive batches.yaml from sentences.yaml + markdown headings"),
-    (0, "extract_conversations.py",   "Extract conversations from c*-plus.md -> conversations.yaml"),
+    (0, "extract_conversations.py",   "Extract conversations from c*.md -> conversations.yaml"),
     (1, "generate_registry_md.py",    "Sync registry/derived/*.md from entries.yaml"),
     (1, "generate_colloquial_md.py",  "Generate registry/colloquial.md from colloquial.yaml"),
     (2, "annotate_words_attested.py", "Annotate words_attested on sentences and turns"),
