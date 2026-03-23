@@ -12,6 +12,18 @@ The name **Tonesu** is a contraction of `to-ne-su` (pattern · relation · struc
 
 ---
 
+## Setting — Concordia
+
+Tonesu was built as the working language of **Concordia**, the fictional universe at the centre of an ongoing novel series.
+
+Concordia is a far-future interstellar civilisation organised around feudal great houses — powerful dynastic factions that compete over resources, territory, and legitimacy through a web of alliances, wars, and political intrigue. The setting draws on the house politics and ecological fatalism of the **Dune** novels and the grinding, mech-on-mech warfare of the **MechWarrior / BattleTech** tradition: titanic war machines piloted by noble warriors, battles that reshape the political map, and a culture in which martial skill and lineage carry equal weight.
+
+What makes Concordia distinct is the presence of **AI as a co-equal civilisational partner**. Humanity did not subjugate its artificial minds, nor were they confined to servitude. Over generations, AIs and humans negotiated a shared social compact — seats on great-house councils, recognised personhood, obligations of loyalty running in both directions. The tensions this creates — questions of identity, trust, succession, and what it means to hold power — are the engine of the stories.
+
+Tonesu emerged from this world as a **lingua franca across that boundary**. A language that works equally well for a human noble deliberating policy and an AI reasoning about consequence cannot afford epistemic ambiguity. Every claim must declare what kind of claim it is. Every word must be compositionally auditable. The grammar does not assume a shared biological substrate — only a shared commitment to clarity.
+
+---
+
 ## Design commitments
 
 | Commitment | |
