@@ -68,7 +68,7 @@ clusters.
 
     What does `ka-to-su-ki` mean as a whole? In what situation does B say it?
 
-!!! success "Answer"
+??? success "Answer"
     `ka` + `to-su-ki` = "take the action of entering organized knowledge."
     `to-su-ki` = knowledge-structure-motion = moving into structured understanding.
 
@@ -125,7 +125,7 @@ they're asking about `vo`.
 !!! question "Exercise — What does `lo-mu no-de` mean?"
     Break it into its roots. What does each contribute? What's the full meaning?
 
-!!! success "Answer"
+??? success "Answer"
     `lo-` + `mu` (artifact) + `no-` (negation) + `de` (decay) = "The device is
     not-decayed" = the device is intact / undamaged.
 
@@ -188,7 +188,7 @@ something happens. `ta-ti-mi` = "at this time now." `ta-ti-de` = "in the past."
 
 !!! question "Exercise — What is sentence (4) doing differently from sentence (3)?"
 
-!!! success "Answer"
+??? success "Answer"
     Sentence (3), `ta-ti-mi  fe-ki?`, is a direct yes/no question: does it cross the
     limit now? Speaker B is asking.
 
@@ -262,7 +262,7 @@ In (4), `lo-ze` = "patient:it" — pointing back to the water facility mentioned
     Using `lo-mu`, `vo`, and `to-si`, write a question asking about the condition or
     quality of a device.
 
-!!! success "Answer"
+??? success "Answer"
     Following the C001 B1 pattern (topic + quality-dimension + query marker):
 
     `lo-mu  vo  to-si?`
