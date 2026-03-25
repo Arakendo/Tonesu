@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.lp-slot { display:inline-block; min-width:2em; border-bottom:2px solid blue; padding:0 .1em; }
+.lp-slot--active { border-color:orange; outline:1px dashed orange; }
+.lp-slot--inactive { opacity:.5; }
+.lp-slot--correct { background:#afa; border-color:green; }
+.lp-slot--wrong { background:#faa; border-color:red; }
+.lp-chip { margin:.2em; padding:.2em .5em; cursor:pointer; }
+.lp-chip--correct { background:#afa; }
+.lp-chip--wrong { background:#faa; }
+.lp-feedback--correct { color:green; }
+.lp-feedback--wrong { color:red; }
+</style>
+</head>
+<body>
+<p>Stage-2 Exercise 1 test:</p>
+<!-- Same structure as what MkDocs generates -->
+<p><div class="tn-learn-picker"
+     data-template="___-___"
+     data-answers='["to","li"]'
+     data-mode="both"
+     data-ok="to-li — knowledge-person — scholar ✓"
+     data-items='[{"form":"to","gloss":"knowledge"},{"form":"li","gloss":"person"},{"form":"ki","gloss":"motion"},{"form":"ne","gloss":"relation"},{"form":"mu","gloss":"artifact"},{"form":"su","gloss":"structure"}]'>
+</div></p>
+
+<div id="log" style="margin-top:1em;font-family:monospace;font-size:.85em;background:#f5f5f5;padding:.5em"></div>
+
+<script>
+var log = document.getElementById('log');
+function addLog(msg) { log.innerHTML += msg + '<br>'; }
+
+// Paste the full picker JS here inline for testing
+</script>
+<script src="../www/docs/js/learn-picker.js"></script>
+<script>
+// Add logging hooks by monkey-patching after script loads
+window.onerror = function(msg, src, line, col, err) {
+  addLog('ERROR: ' + msg + ' at line ' + line);
+  return false;
+};
+document.querySelectorAll('.tn-learn-picker').forEach(function(el) {
+  addLog('Found picker: ' + el.className + ' has lpInit=' + el.dataset.lpInit);
+  // force re-init for test
+  delete el.dataset.lpInit;
+  el.classList.remove('lp-wrap');
+});
+// The script already ran init() via DOMContentLoaded, check if it worked
+addLog('Pickers initialized. Check for slots:');
+document.querySelectorAll('.lp-slot').forEach(function(s) {
+  addLog('  slot id=' + s.id + ' classes=' + s.className);
+});
+</script>
+</body>
+</html>
