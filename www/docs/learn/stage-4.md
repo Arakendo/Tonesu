@@ -66,7 +66,7 @@ understanding.
 
 ---
 
-!!! question "Exercise 1 — Build `de-be`"
+!!! question "Exercise 1 — *Repair*"
     Repair is *growth that reverses decay*: pick the two roots in order.
 
     <div class="tn-learn-picker"
@@ -125,7 +125,7 @@ compound, `ne` modifies the whole.
 
 ---
 
-!!! question "Exercise 2 — Build `ne-ra-ki`"
+!!! question "Exercise 2 — *Attunement*"
     Attunement is *entering a state of relational energetic alignment*: relation +
     force + motion/change. Three roots, in order.
 

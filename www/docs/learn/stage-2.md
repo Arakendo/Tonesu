@@ -60,7 +60,7 @@ structured form of X. As a head: `X-su` = the organized system that X produces. 
 
 ---
 
-!!! question "Exercise 1 — Build `to-li`"
+!!! question "Exercise 1 — *Scholar*"
     A scholar is a *knowledge-person*. Pick the roots in order: modifier first, head last.
 
     <div class="tn-learn-picker"
@@ -117,7 +117,7 @@ Once you know a pattern, any root can fill the modifier slot. `ra-li` (power-per
 
 ---
 
-!!! question "Exercise 2 — Build `to-su`"
+!!! question "Exercise 2 — *Organized knowledge system*"
     An organized knowledge system. Which two roots, in which order?
 
     <div class="tn-learn-picker"
@@ -178,7 +178,7 @@ force / is powered." `ra-ki-li` = powered-motion-person = pilot. `ra-mu` = power
 
 ---
 
-!!! question "Exercise 3 — Build `to-ki-mu`"
+!!! question "Exercise 3 — *Computing device*"
     A computing device: knowledge + change + artifact. Three roots, in order.
     The outlined slot is active — fill them left to right.
 
