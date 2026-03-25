@@ -120,7 +120,7 @@
             slot.textContent = '___';
             fb.hidden = true;
             fb.className = 'lp-feedback';
-          }, 1400);
+          }, 5000);
         }
       });
     });
@@ -297,7 +297,7 @@
               chip.classList.remove('lp-chip--wrong');
               fb.hidden = true;
               fb.className = 'lp-feedback';
-            }, 1400);
+            }, 5000);
           }
         });
       });
