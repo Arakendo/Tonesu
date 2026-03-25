@@ -319,6 +319,77 @@
     activateSlot(0);
   }
 
+  // ── Multiple-choice question widget ──────────────────────────────────────
+  //
+  //   data-options  — JSON array of {id, text}; `backtick` in text → <code>
+  //   data-answer   — id of the correct option
+  //   data-ok       — correct-answer feedback (plain text)
+  //   data-nok      — wrong-answer feedback (plain text, optional)
+
+  function mdInline(str) {
+    return String(str).replace(/`([^`]+)`/g, '<code>$1</code>');
+  }
+
+  function renderMCQ(el) {
+    var options = JSON.parse(el.getAttribute('data-options') || '[]');
+    var answer  = (el.getAttribute('data-answer') || '').trim();
+    var okMsg   = el.getAttribute('data-ok')  || 'Correct \u2713';
+    var nokMsg  = el.getAttribute('data-nok') || 'Not quite \u2014 try again.';
+    var uid     = makeUID();
+    var fbId    = uid + '-fb';
+    var labels  = ['A', 'B', 'C', 'D', 'E', 'F'];
+
+    var optHTML = options.map(function (opt, i) {
+      return '<button class="lp-mcq-option" type="button" data-id="' + esc(opt.id) + '">'
+        + '<span class="lp-mcq-label">' + (labels[i] || String(i + 1)) + '</span>'
+        + '<span class="lp-mcq-text">' + mdInline(opt.text) + '</span>'
+        + '</button>';
+    }).join('');
+
+    el.innerHTML =
+      '<div class="lp-mcq-options" role="group" aria-label="Choose an answer">'
+      + optHTML + '</div>'
+      + '<div class="lp-feedback" id="' + fbId + '" role="status" hidden></div>';
+
+    var fb      = document.getElementById(fbId);
+    var buttons = Array.prototype.slice.call(el.querySelectorAll('.lp-mcq-option'));
+    var locked  = false;
+
+    buttons.forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        if (locked) return;
+        var id = btn.getAttribute('data-id');
+        buttons.forEach(function (b) {
+          b.classList.remove('lp-mcq-option--selected',
+                             'lp-mcq-option--wrong',
+                             'lp-mcq-option--correct');
+        });
+        fb.hidden = true;
+        fb.className = 'lp-feedback';
+        btn.classList.add('lp-mcq-option--selected');
+
+        if (id === answer) {
+          btn.classList.add('lp-mcq-option--correct');
+          fb.textContent = okMsg;
+          fb.classList.add('lp-feedback--correct');
+          fb.hidden = false;
+          locked = true;
+          buttons.forEach(function (b) { b.disabled = true; });
+        } else {
+          btn.classList.add('lp-mcq-option--wrong');
+          fb.textContent = nokMsg;
+          fb.classList.add('lp-feedback--wrong');
+          fb.hidden = false;
+          setTimeout(function () {
+            btn.classList.remove('lp-mcq-option--selected', 'lp-mcq-option--wrong');
+            fb.hidden = true;
+            fb.className = 'lp-feedback';
+          }, 5000);
+        }
+      });
+    });
+  }
+
   // ── Dispatcher ────────────────────────────────────────────────────────────
 
   function renderPicker(el) {
@@ -338,6 +409,11 @@
 
   function init() {
     document.querySelectorAll('.tn-learn-picker').forEach(renderPicker);
+    document.querySelectorAll('.tn-learn-mcq').forEach(function (el) {
+      if (el.dataset.lpInit) return;
+      el.dataset.lpInit = '1';
+      renderMCQ(el);
+    });
   }
 
   // MkDocs Material uses an RxJS document$ observable for SPA navigation.

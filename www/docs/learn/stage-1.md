@@ -62,13 +62,19 @@ clusters.
 
 ---
 
-!!! question "Exercise — Parse `ka-to-su-ki`"
-    Given: `ka` = intentional action, `to` = knowledge/pattern, `su` = structure,
-    `ki` = motion.
+!!! question "Exercise — *Acknowledged*"
+    In Cluster 1, sentence (4): `ka-to-su-ki` — *Understood.*
 
-    What does `ka-to-su-ki` mean as a whole? In what situation does B say it?
+    Roots: `ka` (intentional action) · `to` (knowledge) · `su` (structure) · `ki` (motion).
+    What does the compound mean, and when does B say it?
 
-??? success "Answer"
+    <div class="tn-learn-mcq"
+         data-answer="b"
+         data-ok="Correct — ka wraps to-su-ki (knowledge-structure-motion). Not merely heard (se level) but understood and acted on (to level)."
+         data-options='[{"id":"a","text":"Going now — the agent departs after an instruction"},{"id":"b","text":"Acknowledged — B has understood at `to` level and will act on it, not merely detected at `se` level"},{"id":"c","text":"Examine the system — an imperative directed at A"},{"id":"d","text":"Detecting a fault — a raw `se`-level perceptual report"}]'>
+    </div>
+
+??? success "Explanation"
     `ka` + `to-su-ki` = "take the action of entering organized knowledge."
     `to-su-ki` = knowledge-structure-motion = moving into structured understanding.
 
@@ -193,9 +199,21 @@ something happens. `ta-ti-mi` = "at this time now." `ta-ti-de` = "in the past."
 
 ---
 
-!!! question "Exercise — What is sentence (4) doing differently from sentence (3)?"
+!!! question "Exercise — *Epistemic level*"
+    In Cluster 3:
 
-??? success "Answer"
+    - `(3)  ta-ti-mi  fe-ki?` — Does it cross the limit now?
+    - `(4)  la-mi  si  [fe-ki  ta-ti-mi]` — I assess: it crosses the limit now.
+
+    Both describe the same event. What is sentence (4) doing differently from (3)?
+
+    <div class="tn-learn-mcq"
+         data-answer="b"
+         data-ok="Correct — (3) is B's direct yes/no question. (4) is A's answer, held at si (hypothesis) level — not flat assertion. The brackets wrap the embedded proposition whose epistemic status is being stated."
+         data-options='[{"id":"a","text":"Both say the same thing — (4) just adds the speaker explicitly with `la-mi`"},{"id":"b","text":"(3) is B asking a yes/no question; (4) is A answering at `si` hypothesis level — not flat assertion"},{"id":"c","text":"Sentence (4) quotes (3) as a reported claim; `[...]` are quotation marks"},{"id":"d","text":"(4) corrects (3) — it asserts with certainty what (3) only asked"}]'>
+    </div>
+
+??? success "Explanation"
     Sentence (3), `ta-ti-mi  fe-ki?`, is a direct yes/no question: does it cross the
     limit now? Speaker B is asking.
 
