@@ -4,9 +4,9 @@ title: "Grammar Pattern Probes"
 
 # Grammar Pattern Probes
 
-*Theme: [Grammar & syntax](../../grammar/overview/)* · 9 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview.md)* · 9 sentences.
 
-[← Grammar & syntax](../../grammar/overview/) · [← Corpus](../../overview.md)
+[← Grammar & syntax](../../grammar/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

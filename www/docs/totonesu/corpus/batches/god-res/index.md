@@ -4,9 +4,9 @@ title: "Theological Residuals"
 
 # Theological Residuals
 
-*Theme: [Theology & philosophy](../../theology/overview/)* · 7 sentences.
+*Theme: [Theology & philosophy](../../theology/overview.md)* · 7 sentences.
 
-[← Theology & philosophy](../../theology/overview/) · [← Corpus](../../overview.md)
+[← Theology & philosophy](../../theology/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

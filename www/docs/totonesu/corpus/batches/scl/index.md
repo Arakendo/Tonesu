@@ -4,9 +4,9 @@ title: "Sequential Connector Tests"
 
 # Sequential Connector Tests
 
-*Theme: [Grammar & syntax](../../grammar/overview/)* · 17 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview.md)* · 17 sentences.
 
-[← Grammar & syntax](../../grammar/overview/) · [← Corpus](../../overview.md)
+[← Grammar & syntax](../../grammar/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

@@ -4,9 +4,9 @@ title: "Divine Attribute Stress Test (S349–S356)"
 
 # Divine Attribute Stress Test (S349–S356)
 
-*Theme: [Theology & philosophy](../../theology/overview/)* · 8 sentences.
+*Theme: [Theology & philosophy](../../theology/overview.md)* · 8 sentences.
 
-[← Theology & philosophy](../../theology/overview/) · [← Corpus](../../overview.md)
+[← Theology & philosophy](../../theology/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

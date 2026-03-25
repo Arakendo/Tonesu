@@ -4,11 +4,11 @@ title: "Sanguinius at the Eternity Gate, Part I: The Admission"
 
 # Sanguinius at the Eternity Gate, Part I: The Admission
 
-*Theme: [Foundations](../../foundations/overview/)* · 13 sentences.
+*Theme: [Foundations](../../foundations/overview.md)* · 13 sentences.
 
-:material-book-open-variant: [Full translation analysis](../../translations/literature/sanguinius-speech/)
+:material-book-open-variant: [Full translation analysis](../../translations/literature/sanguinius-speech/index.md)
 
-[← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
+[← Foundations](../../foundations/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

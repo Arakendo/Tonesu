@@ -4,9 +4,9 @@ title: "Cross-Domain Sentences"
 
 # Cross-Domain Sentences
 
-*Theme: [Domains](../../domains/overview/)* · 5 sentences.
+*Theme: [Domains](../../domains/overview.md)* · 5 sentences.
 
-[← Domains](../../domains/overview/) · [← Corpus](../../overview.md)
+[← Domains](../../domains/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

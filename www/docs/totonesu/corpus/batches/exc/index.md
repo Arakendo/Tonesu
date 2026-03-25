@@ -4,9 +4,9 @@ title: "Exclusive Particle Test"
 
 # Exclusive Particle Test
 
-*Theme: [Grammar & syntax](../../grammar/overview/)* · 10 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview.md)* · 10 sentences.
 
-[← Grammar & syntax](../../grammar/overview/) · [← Corpus](../../overview.md)
+[← Grammar & syntax](../../grammar/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

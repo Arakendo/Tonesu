@@ -85,6 +85,11 @@ def _rel(from_md: Path, to_path: Path, anchor: str = "") -> str:
         rel    = Path(os.path.relpath(target, _url_base(from_md)))
         href   = rel.as_posix() + "/"
     if anchor:
+        if to_path.suffix != ".md":
+            # Directory target with anchor: use explicit index.md so MkDocs
+            # link validation can verify the anchor.
+            rel_index = Path(os.path.relpath(to_path / "index.md", from_md.parent))
+            return rel_index.as_posix() + f"#{anchor}"
         href = href.rstrip("/") + f"#{anchor}"
     return href
 
@@ -426,8 +431,19 @@ def _batch_page_slug(page_key: str) -> str:
     return page_key.lower().replace(" ", "-")
 
 
+_CONV_SENTINEL = "_CONV"  # sentinel batch code for conversation turns
+
+
+def _conv_link(from_md: Path, turn_id: str) -> str:
+    """Build a link to a conversation turn anchor from any registry page."""
+    conv_page = CORPUS_DIR / "conversations" / "overview.md"
+    return f"[{turn_id}]({_rel(from_md, conv_page, anchor=turn_id)})"
+
+
 def _corpus_link_from_registry(id_str: str, batch_code: str = "") -> str:
-    """Build a corpus link from registry/words/ → corpus/batches/."""
+    """Build a corpus link from registry/words/ → corpus/batches/ (or conversations)."""
+    if batch_code == _CONV_SENTINEL or id_str.startswith("C"):
+        return _conv_link(WORD_DIR / "W000.md", id_str)
     slug = _batch_page_slug(batch_page_key(batch_code))
     return f"[{id_str}]({_rel(WORD_DIR / 'W000.md', BATCH_DIR / slug, anchor=id_str)})"
 
@@ -552,6 +568,8 @@ def generate_index_page(
             snums = attest_index.get(wnum, [])
             def _idx_link(sn: str) -> str:
                 bc   = (sentence_batch_map or {}).get(sn, "")
+                if bc == _CONV_SENTINEL or sn.startswith("C"):
+                    return _conv_link(OUT_DIR / "overview.md", sn)
                 slug = _batch_page_slug(batch_page_key(bc))
                 return f"[{sn}]({_rel(OUT_DIR / 'overview.md', BATCH_DIR / slug, anchor=sn)})"
             if snums:
@@ -603,6 +621,8 @@ def generate_english_page(
             snums = attest_index.get(wnum, [])
             def _idx_link(sn: str) -> str:
                 bc   = (sentence_batch_map or {}).get(sn, "")
+                if bc == _CONV_SENTINEL or sn.startswith("C"):
+                    return _conv_link(OUT_DIR / "english.md", sn)
                 slug = _batch_page_slug(batch_page_key(bc))
                 return f"[{sn}]({_rel(OUT_DIR / 'english.md', BATCH_DIR / slug, anchor=sn)})"
             if snums:
@@ -660,6 +680,8 @@ def generate_by_domain_page(
                 snums = attest_index.get(wnum, [])
                 def _idx_link(sn: str) -> str:
                     bc   = (sentence_batch_map or {}).get(sn, "")
+                    if bc == _CONV_SENTINEL or sn.startswith("C"):
+                        return _conv_link(OUT_DIR / "by-domain.md", sn)
                     slug = _batch_page_slug(batch_page_key(bc))
                     return f"[{sn}]({_rel(OUT_DIR / 'by-domain.md', BATCH_DIR / slug, anchor=sn)})"
                 if snums:
@@ -723,6 +745,8 @@ def generate_by_root_page(
                 snums = attest_index.get(wnum, [])
                 def _idx_link(sn: str) -> str:
                     bc   = (sentence_batch_map or {}).get(sn, "")
+                    if bc == _CONV_SENTINEL or sn.startswith("C"):
+                        return _conv_link(OUT_DIR / "by-root.md", sn)
                     slug = _batch_page_slug(batch_page_key(bc))
                     return f"[{sn}]({_rel(OUT_DIR / 'by-root.md', BATCH_DIR / slug, anchor=sn)})"
                 if snums:
@@ -976,13 +1000,13 @@ def generate_corpus_index(sentences: list, conv_data: dict | None, page_groups: 
     for theme in THEME_ORDER:
         s = theme_stats[theme]
         slug = theme_slugs[theme]
-        lines.append(f"| [{theme}](../{slug}/overview/) | {s['sents']} | {len(s['pages'])} |")
+        lines.append(f"| [{theme}]({slug}/overview.md) | {s['sents']} | {len(s['pages'])} |")
 
     lines += [
         "",
-        f"[Conversations](../conversations/overview/) — {n_turns} turns",
+        f"[Conversations](conversations/overview.md) — {n_turns} turns",
         "",
-        "[Translation Analyses](../translations/overview/) — in-depth verse-by-verse commentary",
+        "[Translation Analyses](translations/overview.md) — in-depth verse-by-verse commentary",
         "",
     ]
     return "\n".join(lines)
@@ -1033,7 +1057,7 @@ def generate_theme_page(
         n_batches = len(group_batches) if group_batches else 1
         title = _page_group_title(key, group_batches)
         lines.append(
-            f"| [{title}](../../batches/{slug}/) | {n_batches} | {len(group_sents)} |"
+            f"| [{title}](../batches/{slug}/index.md) | {n_batches} | {len(group_sents)} |"
         )
 
     lines += ["", "---", "", NOTE]
@@ -1070,7 +1094,7 @@ def generate_batch_page(
     trans_rel = _TRANSLATION_MAP.get(first_batch or "") or _TRANSLATION_MAP.get(trans_prefix)
     trans_link = ""
     if trans_rel:
-        trans_link = f"../../translations/{trans_rel.lower()}/"
+        trans_link = f"../../translations/{trans_rel.lower()}/index.md"
 
     lines = [
         "---",
@@ -1081,7 +1105,7 @@ def generate_batch_page(
         "",
     ]
 
-    info_parts = [f"*Theme: [{theme}](../../{theme_slug}/overview/)*", f"{len(sents)} sentences."]
+    info_parts = [f"*Theme: [{theme}](../../{theme_slug}/overview.md)*", f"{len(sents)} sentences."]
     lines.append(" · ".join(info_parts))
     lines.append("")
 
@@ -1089,7 +1113,7 @@ def generate_batch_page(
         lines += [f":material-book-open-variant: [Full translation analysis]({trans_link})", ""]
 
     lines += [
-        f"[← {theme}](../../{theme_slug}/overview/) · [← Corpus](../../overview.md)",
+        f"[← {theme}](../../{theme_slug}/overview.md) · [← Corpus](../../overview.md)",
         "",
         "---",
         "",
@@ -1321,7 +1345,7 @@ def copy_translation_files() -> list[dict]:
                 "category": cat,
                 "slug": slug,
                 "title": display,
-                "rel_path": f"../{cat.lower()}/{slug}/",
+                "rel_path": f"{cat.lower()}/{slug}/index.md",
             })
     return entries
 
@@ -1513,12 +1537,13 @@ def main():
         snum = sent.get("snum", "")
         if snum:
             sentence_batch_map[snum] = sent.get("batch") or ""
-    # Include conversation turns
+    # Include conversation turns — use _CONV_SENTINEL so they link to the
+    # conversations page (not _foundations) in all registry cross-links.
     for conv in (conv_data or {}).get("conversations", []):
         cnum = conv.get("cnum", "")
         for turn in conv.get("turns", []):
             turn_id = f"{cnum}-{turn.get('turn', '')}"
-            sentence_batch_map[turn_id] = ""
+            sentence_batch_map[turn_id] = _CONV_SENTINEL
 
     # Group sentences and batch metadata by page key
     page_groups = _group_sentences_by_page(sentences)
@@ -1602,6 +1627,26 @@ def main():
     word_pages = 0
     for entry in entries:
         if not visible(entry):
+            # Write a stub tombstone so MkDocs sees a clean page (no stale content).
+            wnum = entry["wnum"]
+            form = entry.get("form", "")
+            gloss = entry.get("gloss", "")
+            tombstone = "\n".join([
+                "---",
+                f"title: {form} ({wnum}) — retired",
+                "---",
+                "",
+                f"# `{form}` · {wnum} · 🚫 Retired",
+                "",
+                f"{gloss}",
+                "",
+                "[← Word Registry](../overview.md)",
+                "",
+                "---",
+                "",
+                NOTE,
+            ])
+            (WORD_DIR / f"{wnum}.md").write_text(tombstone, encoding="utf-8")
             continue
         page_text = generate_word_page(
             entry, attest_index, sent_lookup, turn_lookup, sentence_batch_map, sent_notes

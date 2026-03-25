@@ -4,9 +4,9 @@ title: "Moral & Metaphysical Paradox"
 
 # Moral & Metaphysical Paradox
 
-*Theme: [Theology & philosophy](../../theology/overview/)* · 4 sentences.
+*Theme: [Theology & philosophy](../../theology/overview.md)* · 4 sentences.
 
-[← Theology & philosophy](../../theology/overview/) · [← Corpus](../../overview.md)
+[← Theology & philosophy](../../theology/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

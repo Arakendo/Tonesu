@@ -4,9 +4,9 @@ title: "Particle & Axiom Tests"
 
 # Particle & Axiom Tests
 
-*Theme: [Grammar & syntax](../../grammar/overview/)* · 12 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview.md)* · 12 sentences.
 
-[← Grammar & syntax](../../grammar/overview/) · [← Corpus](../../overview.md)
+[← Grammar & syntax](../../grammar/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

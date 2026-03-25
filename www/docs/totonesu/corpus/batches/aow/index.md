@@ -4,11 +4,11 @@ title: "*The Art of War* (Sun Tzu, Chapters 1 & 3) — Deception, Rapidity, and 
 
 # *The Art of War* (Sun Tzu, Chapters 1 & 3) — Deception, Rapidity, and the Know-Yourself Triptych
 
-*Theme: [Foundations](../../foundations/overview/)* · 6 sentences.
+*Theme: [Foundations](../../foundations/overview.md)* · 6 sentences.
 
-:material-book-open-variant: [Full translation analysis](../../translations/literature/art-of-war/)
+:material-book-open-variant: [Full translation analysis](../../translations/literature/art-of-war/index.md)
 
-[← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
+[← Foundations](../../foundations/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

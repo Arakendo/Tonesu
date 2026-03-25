@@ -4,11 +4,11 @@ title: "Last Supper / Eucharist Institution"
 
 # Last Supper / Eucharist Institution
 
-*Theme: [Translation](../../translation/overview/)* · 21 sentences.
+*Theme: [Translation](../../translation/overview.md)* · 21 sentences.
 
-:material-book-open-variant: [Full translation analysis](../../translations/bible/last-supper/)
+:material-book-open-variant: [Full translation analysis](../../translations/bible/last-supper/index.md)
 
-[← Translation](../../translation/overview/) · [← Corpus](../../overview.md)
+[← Translation](../../translation/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

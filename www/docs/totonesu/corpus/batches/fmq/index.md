@@ -4,9 +4,9 @@ title: "Famous Quote Operator Tests"
 
 # Famous Quote Operator Tests
 
-*Theme: [Foundations](../../foundations/overview/)* · 8 sentences.
+*Theme: [Foundations](../../foundations/overview.md)* · 8 sentences.
 
-[← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
+[← Foundations](../../foundations/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

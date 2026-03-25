@@ -4,11 +4,11 @@ title: "Cookie Recipe — Chocolate Chip Cookies"
 
 # Cookie Recipe — Chocolate Chip Cookies
 
-*Theme: [Foundations](../../foundations/overview/)* · 6 sentences.
+*Theme: [Foundations](../../foundations/overview.md)* · 6 sentences.
 
-:material-book-open-variant: [Full translation analysis](../../translations/everyday/chocolate-chip-cookies/)
+:material-book-open-variant: [Full translation analysis](../../translations/everyday/chocolate-chip-cookies/index.md)
 
-[← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
+[← Foundations](../../foundations/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

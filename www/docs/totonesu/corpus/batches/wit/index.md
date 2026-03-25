@@ -4,11 +4,11 @@ title: "Wittgenstein, Tractatus Logico-Philosophicus §1"
 
 # Wittgenstein, Tractatus Logico-Philosophicus §1
 
-*Theme: [Theology & philosophy](../../theology/overview/)* · 1 sentences.
+*Theme: [Theology & philosophy](../../theology/overview.md)* · 1 sentences.
 
-:material-book-open-variant: [Full translation analysis](../../translations/philosophy/tractatus/)
+:material-book-open-variant: [Full translation analysis](../../translations/philosophy/tractatus/index.md)
 
-[← Theology & philosophy](../../theology/overview/) · [← Corpus](../../overview.md)
+[← Theology & philosophy](../../theology/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

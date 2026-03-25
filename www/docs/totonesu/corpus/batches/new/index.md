@@ -4,11 +4,11 @@ title: "Newton's First Law of Motion"
 
 # Newton's First Law of Motion
 
-*Theme: [Grammar & syntax](../../grammar/overview/)* · 2 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview.md)* · 2 sentences.
 
-:material-book-open-variant: [Full translation analysis](../../translations/science/newton-first-law/)
+:material-book-open-variant: [Full translation analysis](../../translations/science/newton-first-law/index.md)
 
-[← Grammar & syntax](../../grammar/overview/) · [← Corpus](../../overview.md)
+[← Grammar & syntax](../../grammar/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

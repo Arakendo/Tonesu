@@ -148,5 +148,5 @@ In `a-o-toli`, `o-toli` (the collective of scholars) is formed first; `a-` then 
 
 - **Default reading:** Unmarked nouns default to contextually natural interpretation. In narrative, names and established referents usually carry implicit `i-` (particular); in definitions and instruction, unmarked roots often carry implicit `a-` (abstract).
 - **No mark, no commitment:** An unmarked noun is ambiguous by design. Mark only when disambiguation is needed.
-- **Scope and evidentiality:** An `i-` marked noun inside an [evidential frame](notation.md#-evidential-frame) `(...)` is reported as particular ("I heard about the specific scholar"), distinct from `(a-toli)` ("I heard about the concept").
+- **Scope and evidentiality:** An `i-` marked noun inside an [evidential frame](notation.md#evidential-frame) `(...)` is reported as particular ("I heard about the specific scholar"), distinct from `(a-toli)` ("I heard about the concept").
 

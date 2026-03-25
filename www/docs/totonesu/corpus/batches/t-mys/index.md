@@ -4,9 +4,9 @@ title: "Abstract & Mystery Domain"
 
 # Abstract & Mystery Domain
 
-*Theme: [Domains](../../domains/overview/)* · 7 sentences.
+*Theme: [Domains](../../domains/overview.md)* · 7 sentences.
 
-[← Domains](../../domains/overview/) · [← Corpus](../../overview.md)
+[← Domains](../../domains/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

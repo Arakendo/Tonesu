@@ -4,11 +4,11 @@ title: "*The Prince* (Machiavelli) + Dark Triad Psychology"
 
 # *The Prince* (Machiavelli) + Dark Triad Psychology
 
-*Theme: [Foundations](../../foundations/overview/)* · 6 sentences.
+*Theme: [Foundations](../../foundations/overview.md)* · 6 sentences.
 
-:material-book-open-variant: [Full translation analysis](../../translations/literature/machiavelli-dark-triad/)
+:material-book-open-variant: [Full translation analysis](../../translations/literature/machiavelli-dark-triad/index.md)
 
-[← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
+[← Foundations](../../foundations/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

@@ -190,4 +190,4 @@ CVCC exceptional anchors embody three commitments:
 
 ---
 
-*See [Named roots](named-roots.md) for the full CVC inventory (digits, colors, scale prefixes). See the [Assemblage-First Rule](words.md#assemblage-first) in Building Words for the general word-formation context.*
+*See [Named roots](named-roots.md) for the full CVC inventory (digits, colors, scale prefixes). See the [Assemblage-First Rule](named-roots.md#the-assemblage-first-rule) in Special Forms for the general word-formation context.*

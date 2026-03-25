@@ -4,9 +4,9 @@ title: "Rock, Mineral, Soil"
 
 # Rock, Mineral, Soil
 
-*Theme: [Translation](../../translation/overview/)* · 14 sentences.
+*Theme: [Translation](../../translation/overview.md)* · 14 sentences.
 
-[← Translation](../../translation/overview/) · [← Corpus](../../overview.md)
+[← Translation](../../translation/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

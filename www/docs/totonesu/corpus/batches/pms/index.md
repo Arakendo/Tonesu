@@ -4,9 +4,9 @@ title: "Particle Modifier Stress Test"
 
 # Particle Modifier Stress Test
 
-*Theme: [Grammar & syntax](../../grammar/overview/)* · 4 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview.md)* · 4 sentences.
 
-[← Grammar & syntax](../../grammar/overview/) · [← Corpus](../../overview.md)
+[← Grammar & syntax](../../grammar/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

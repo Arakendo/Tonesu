@@ -4,11 +4,11 @@ title: "PRF"
 
 # PRF
 
-*Theme: [Foundations](../../foundations/overview/)* · 6 sentences.
+*Theme: [Foundations](../../foundations/overview.md)* · 6 sentences.
 
-:material-book-open-variant: [Full translation analysis](../../translations/philosophy/proof-structure/)
+:material-book-open-variant: [Full translation analysis](../../translations/philosophy/proof-structure/index.md)
 
-[← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
+[← Foundations](../../foundations/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

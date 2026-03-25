@@ -4,11 +4,11 @@ title: "Exodus 3 — Burning Bush"
 
 # Exodus 3 — Burning Bush
 
-*Theme: [Translation](../../translation/overview/)* · 26 sentences.
+*Theme: [Translation](../../translation/overview.md)* · 26 sentences.
 
-:material-book-open-variant: [Full translation analysis](../../translations/bible/exodus-3-1-15/)
+:material-book-open-variant: [Full translation analysis](../../translations/bible/exodus-3-1-15/index.md)
 
-[← Translation](../../translation/overview/) · [← Corpus](../../overview.md)
+[← Translation](../../translation/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

@@ -4,9 +4,9 @@ title: "Permission vs Capability Modality"
 
 # Permission vs Capability Modality
 
-*Theme: [Foundations](../../foundations/overview/)* · 7 sentences.
+*Theme: [Foundations](../../foundations/overview.md)* · 7 sentences.
 
-[← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
+[← Foundations](../../foundations/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

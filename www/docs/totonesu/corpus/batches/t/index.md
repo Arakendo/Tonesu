@@ -4,9 +4,9 @@ title: "Foundational Sentences"
 
 # Foundational Sentences
 
-*Theme: [Foundations](../../foundations/overview/)* · 5 sentences.
+*Theme: [Foundations](../../foundations/overview.md)* · 5 sentences.
 
-[← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
+[← Foundations](../../foundations/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

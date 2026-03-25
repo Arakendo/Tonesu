@@ -4,11 +4,11 @@ title: "John 1:1 — Identity Operator Stress Test"
 
 # John 1:1 — Identity Operator Stress Test
 
-*Theme: [Translation](../../translation/overview/)* · 3 sentences.
+*Theme: [Translation](../../translation/overview.md)* · 3 sentences.
 
-:material-book-open-variant: [Full translation analysis](../../translations/bible/john-1-1/)
+:material-book-open-variant: [Full translation analysis](../../translations/bible/john-1-1/index.md)
 
-[← Translation](../../translation/overview/) · [← Corpus](../../overview.md)
+[← Translation](../../translation/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

@@ -4,11 +4,11 @@ title: "SOL"
 
 # SOL
 
-*Theme: [Foundations](../../foundations/overview/)* · 12 sentences.
+*Theme: [Foundations](../../foundations/overview.md)* · 12 sentences.
 
-:material-book-open-variant: [Full translation analysis](../../translations/literature/ars-goetia-binding/)
+:material-book-open-variant: [Full translation analysis](../../translations/literature/ars-goetia-binding/index.md)
 
-[← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
+[← Foundations](../../foundations/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

@@ -4,11 +4,11 @@ title: "Matthew 16:25 — Causal Inversion Paradox"
 
 # Matthew 16:25 — Causal Inversion Paradox
 
-*Theme: [Grammar & syntax](../../grammar/overview/)* · 2 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview.md)* · 2 sentences.
 
-:material-book-open-variant: [Full translation analysis](../../translations/bible/matthew-16-25/)
+:material-book-open-variant: [Full translation analysis](../../translations/bible/matthew-16-25/index.md)
 
-[← Grammar & syntax](../../grammar/overview/) · [← Corpus](../../overview.md)
+[← Grammar & syntax](../../grammar/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

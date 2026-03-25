@@ -4,9 +4,9 @@ title: "Valence Frame Test"
 
 # Valence Frame Test
 
-*Theme: [Grammar & syntax](../../grammar/overview/)* · 3 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview.md)* · 3 sentences.
 
-[← Grammar & syntax](../../grammar/overview/) · [← Corpus](../../overview.md)
+[← Grammar & syntax](../../grammar/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

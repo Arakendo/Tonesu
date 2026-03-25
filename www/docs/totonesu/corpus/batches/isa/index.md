@@ -4,11 +4,11 @@ title: "Isaiah 53:4–6 — Substitutionary Causation"
 
 # Isaiah 53:4–6 — Substitutionary Causation
 
-*Theme: [Foundations](../../foundations/overview/)* · 7 sentences.
+*Theme: [Foundations](../../foundations/overview.md)* · 7 sentences.
 
-:material-book-open-variant: [Full translation analysis](../../translations/bible/isaiah-53/)
+:material-book-open-variant: [Full translation analysis](../../translations/bible/isaiah-53/index.md)
 
-[← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
+[← Foundations](../../foundations/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

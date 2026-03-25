@@ -4,9 +4,9 @@ title: "Phonology & Naming"
 
 # Phonology & Naming
 
-*Theme: [Domains](../../domains/overview/)* · 6 sentences.
+*Theme: [Domains](../../domains/overview.md)* · 6 sentences.
 
-[← Domains](../../domains/overview/) · [← Corpus](../../overview.md)
+[← Domains](../../domains/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

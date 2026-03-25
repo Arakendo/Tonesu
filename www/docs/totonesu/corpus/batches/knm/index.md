@@ -4,9 +4,9 @@ title: "Kind Naming (Biology)"
 
 # Kind Naming (Biology)
 
-*Theme: [Domains](../../domains/overview/)* · 59 sentences.
+*Theme: [Domains](../../domains/overview.md)* · 59 sentences.
 
-[← Domains](../../domains/overview/) · [← Corpus](../../overview.md)
+[← Domains](../../domains/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

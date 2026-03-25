@@ -4,9 +4,9 @@ title: "Geography & Terrain"
 
 # Geography & Terrain
 
-*Theme: [Domains](../../domains/overview/)* · 10 sentences.
+*Theme: [Domains](../../domains/overview.md)* · 10 sentences.
 
-[← Domains](../../domains/overview/) · [← Corpus](../../overview.md)
+[← Domains](../../domains/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

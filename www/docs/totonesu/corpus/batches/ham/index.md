@@ -4,11 +4,11 @@ title: "Shakespeare, Hamlet Act III Scene I — "To be, or not to be""
 
 # Shakespeare, Hamlet Act III Scene I — "To be, or not to be"
 
-*Theme: [Translation](../../translation/overview/)* · 3 sentences.
+*Theme: [Translation](../../translation/overview.md)* · 3 sentences.
 
-:material-book-open-variant: [Full translation analysis](../../translations/literature/hamlet-to-be/)
+:material-book-open-variant: [Full translation analysis](../../translations/literature/hamlet-to-be/index.md)
 
-[← Translation](../../translation/overview/) · [← Corpus](../../overview.md)
+[← Translation](../../translation/overview.md) · [← Corpus](../../overview.md)
 
 ---
 

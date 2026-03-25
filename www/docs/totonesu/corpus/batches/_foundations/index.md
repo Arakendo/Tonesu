@@ -4,9 +4,9 @@ title: "Early & Unbatched Sentences"
 
 # Early & Unbatched Sentences
 
-*Theme: [Foundations](../../foundations/overview/)* · 37 sentences.
+*Theme: [Foundations](../../foundations/overview.md)* · 37 sentences.
 
-[← Foundations](../../foundations/overview/) · [← Corpus](../../overview.md)
+[← Foundations](../../foundations/overview.md) · [← Corpus](../../overview.md)
 
 ---
 
