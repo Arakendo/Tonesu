@@ -1117,3 +1117,150 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
 .tn-showcase code {
   font-size: .9em;
 }
+
+/* ── Learn section — fill-in-the-blank chip picker ───────── */
+
+.tn-learn-picker.lp-wrap {
+  margin: .8rem 0 1rem;
+}
+
+/* Template line: monospace code block look */
+.lp-template-line {
+  font-family: var(--tonesu-font-mono);
+  font-size: 1em;
+  background: var(--md-code-bg-color);
+  border: 1px solid var(--md-typeset-table-color);
+  border-radius: 5px;
+  padding: .55rem .85rem;
+  margin-bottom: .6rem;
+  line-height: 1.7;
+  white-space: pre-wrap;
+  word-break: break-word;
+  color: var(--md-code-fg-color);
+}
+
+/* Blank slot */
+.lp-slot {
+  display: inline-block;
+  min-width: 2.4em;
+  text-align: center;
+  border-bottom: 2px solid var(--md-accent-fg-color);
+  padding: 0 .15em;
+  margin: 0 .1em;
+  font-style: normal;
+  transition: background .15s, color .15s, border-color .15s;
+}
+
+.lp-slot--empty {
+  color: var(--md-default-fg-color--lighter);
+}
+
+.lp-slot--filled {
+  color: var(--md-accent-fg-color);
+  border-color: var(--md-accent-fg-color);
+}
+
+.lp-slot--correct {
+  color: #7bd88f;
+  border-color: #7bd88f;
+  background: color-mix(in sRGB, #7bd88f 12%, transparent);
+  border-radius: 3px;
+}
+
+.lp-slot--wrong {
+  color: #fc618d;
+  border-color: #fc618d;
+  background: color-mix(in sRGB, #fc618d 12%, transparent);
+  border-radius: 3px;
+}
+
+/* Chip row */
+.lp-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+  margin-bottom: .5rem;
+}
+
+/* Individual chip */
+.lp-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: .3em;
+  padding: .28rem .65rem;
+  border: 1px solid var(--md-typeset-table-color);
+  border-radius: 999px;
+  background: var(--md-code-bg-color);
+  color: var(--md-default-fg-color);
+  font-family: inherit;
+  font-size: .85rem;
+  cursor: pointer;
+  user-select: none;
+  transition: border-color .15s, background .15s, color .15s, opacity .15s;
+  line-height: 1.4;
+}
+
+.lp-chip:hover:not(:disabled) {
+  border-color: var(--md-accent-fg-color);
+  background: color-mix(in sRGB, var(--md-accent-fg-color) 10%, var(--md-code-bg-color));
+}
+
+.lp-chip:disabled {
+  opacity: .45;
+  cursor: default;
+}
+
+.lp-chip--selected {
+  border-color: var(--md-accent-fg-color);
+  background: color-mix(in sRGB, var(--md-accent-fg-color) 14%, var(--md-code-bg-color));
+}
+
+.lp-chip--correct {
+  border-color: #7bd88f;
+  background: color-mix(in sRGB, #7bd88f 15%, var(--md-code-bg-color));
+  color: #7bd88f;
+}
+
+.lp-chip--wrong {
+  border-color: #fc618d;
+  background: color-mix(in sRGB, #fc618d 12%, var(--md-code-bg-color));
+  color: #fc618d;
+}
+
+/* Chip content */
+.lp-chip-form {
+  font-family: var(--tonesu-font-mono);
+  font-size: 1em;
+  color: var(--md-accent-fg-color);
+  /* inherit any correct/wrong color override from parent */
+}
+.lp-chip--correct .lp-chip-form,
+.lp-chip--wrong   .lp-chip-form { color: inherit; }
+
+.lp-chip-gloss {
+  font-size: .8em;
+  color: var(--md-default-fg-color--light);
+}
+.lp-chip--correct .lp-chip-gloss,
+.lp-chip--wrong   .lp-chip-gloss { color: inherit; opacity: .85; }
+
+.lp-chip-sep {
+  font-size: .75em;
+  color: var(--md-default-fg-color--lightest);
+  line-height: 1;
+}
+
+/* Feedback line */
+.lp-feedback {
+  font-size: .82rem;
+  padding: .3rem 0;
+  min-height: 1.4em;
+}
+
+.lp-feedback--correct {
+  color: #7bd88f;
+}
+
+.lp-feedback--wrong {
+  color: #fc618d;
+}
