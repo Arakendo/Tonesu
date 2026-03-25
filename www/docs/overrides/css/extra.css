@@ -1151,8 +1151,25 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
   transition: background .15s, color .15s, border-color .15s;
 }
 
-.lp-slot--empty {
+.lp-slot--empty,
+.lp-slot--inactive {
   color: var(--md-default-fg-color--lighter);
+}
+
+/* Active slot in multi-blank: slightly brighter, subtle pulse border */
+.lp-slot--active {
+  color: var(--md-default-fg-color--light);
+  border-color: var(--md-accent-fg-color);
+  border-bottom-width: 2px;
+  outline: 1px dashed var(--md-accent-fg-color);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* Inactive slots (future) in multi-blank: dimmer border */
+.lp-slot--inactive {
+  border-color: var(--md-default-fg-color--lightest);
+  opacity: .6;
 }
 
 .lp-slot--filled {

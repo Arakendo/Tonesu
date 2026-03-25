@@ -1,22 +1,22 @@
 // learn-picker.js — Fill-in-the-blank chip selector for Tonesu learn pages
 //
-// Usage: place a div with class "tn-learn-picker" and data attributes:
+// ── Single-blank mode ────────────────────────────────────────────────────
+//   data-answer   — form value of the correct chip (string)
+//   data-items    — JSON array of {form, gloss}
+//   data-template — text with one "___" blank: "la-___  ki  pa-li-pu"
 //
-//   data-items   — JSON array of {form, gloss} objects (the chips)
-//   data-answer  — the `form` value of the correct chip
-//   data-mode    — "form" | "gloss" | "both"  (what each chip displays)
-//   data-template — sentence fragment with "___" marking the blank
-//                   e.g.  "la-___  ki  pa-li-pu  ta-ti-be"
-//   data-ok      — (optional) custom correct-answer message
-//   data-nok     — (optional) custom wrong-answer message
+// ── Multi-blank mode ─────────────────────────────────────────────────────
+//   data-answers  — JSON array of correct forms in slot order: '["to","ki","mu"]'
+//   data-items    — shared chip pool (JSON array of {form, gloss})
+//   data-items-N  — (optional) per-slot override pool for slot N
+//   data-template — text with N "___" blanks (for N answers): "___-___-___"
+//                   The "'" juncture character is literal text between blanks,
+//                   e.g. "___'___-su" → slot0 juncture slot1 -su
 //
-// Example:
-//   <div class="tn-learn-picker"
-//        data-template="___-si"
-//        data-answer="to"
-//        data-mode="both"
-//        data-items='[{"form":"to","gloss":"knowledge"},{"form":"ki","gloss":"motion"},{"form":"mu","gloss":"artifact"},{"form":"de","gloss":"decay"}]'>
-//   </div>
+// ── Shared attributes ────────────────────────────────────────────────────
+//   data-mode     — "form" | "gloss" | "both"
+//   data-ok       — custom message when all slots are correct
+//   data-nok      — custom wrong-attempt message
 
 (function () {
   'use strict';
@@ -33,54 +33,49 @@
 
   function chipHTML(item, mode) {
     var formPart  = '<code class="lp-chip-form">' + esc(item.form) + '</code>';
-    var glossPart = '<span class="lp-chip-gloss">' + esc(item.gloss) + '</span>';
+    var glossPart = '<span class="lp-chip-gloss">' + esc(item.gloss || '') + '</span>';
     var sep       = '<span class="lp-chip-sep" aria-hidden="true">·</span>';
     if (mode === 'form')  return formPart;
     if (mode === 'gloss') return glossPart;
-    return formPart + sep + glossPart;   // both
+    return formPart + sep + glossPart;
   }
 
-  // ── Render a single picker element ───────────────────────────────────────
+  function makeUID() {
+    return 'lp-' + Math.random().toString(36).slice(2, 8);
+  }
 
-  function renderPicker(el) {
-    if (el.dataset.lpInit) return;
-    el.dataset.lpInit = '1';
+  function shuffle(arr) {
+    return arr.slice().sort(function () { return Math.random() - 0.5; });
+  }
 
+  // ── Single-blank picker ───────────────────────────────────────────────────
+
+  function renderSinglePicker(el, uid) {
     var items    = JSON.parse(el.getAttribute('data-items')  || '[]');
     var answer   = (el.getAttribute('data-answer') || '').trim();
     var mode     = el.getAttribute('data-mode')    || 'both';
-    var template = el.getAttribute('data-template')|| '___';
+    var template = el.getAttribute('data-template') || '___';
     var okMsg    = el.getAttribute('data-ok')  || 'Correct \u2713';
-    var nokMsg   = el.getAttribute('data-nok') || 'Not quite — try again.';
+    var nokMsg   = el.getAttribute('data-nok') || 'Not quite \u2014 try again.';
 
-    // Shuffle chips so the first item isn't always the answer
-    var shuffled = items.slice().sort(function () { return Math.random() - 0.5; });
-
-    // Split template on ___
     var parts  = template.split('___');
-    var before = parts[0] !== undefined ? parts[0] : '';
-    var after  = parts[1] !== undefined ? parts[1] : '';
-
-    // Unique IDs for ARIA
-    var uid    = 'lp-' + Math.random().toString(36).slice(2, 8);
+    var before = parts[0] || '';
+    var after  = parts[1] || '';
     var slotId = uid + '-slot';
     var fbId   = uid + '-fb';
 
-    // Build chip buttons
-    var chipsHTML = shuffled.map(function (item) {
+    var chipsHTML = shuffle(items).map(function (item) {
       return '<button class="lp-chip" type="button"'
         + ' data-form="' + esc(item.form) + '"'
         + ' aria-label="' + esc(item.form) + (item.gloss ? ': ' + esc(item.gloss) : '') + '">'
-        + chipHTML(item, mode)
-        + '</button>';
+        + chipHTML(item, mode) + '</button>';
     }).join('');
 
-    el.className += ' lp-wrap';
     el.innerHTML =
       '<div class="lp-template-line" aria-live="polite">'
-      + '<span class="lp-tpl-prefix">' + esc(before) + '</span>'
-      + '<span class="lp-slot lp-slot--empty" id="' + slotId + '" aria-label="blank">___</span>'
-      + '<span class="lp-tpl-suffix">' + esc(after) + '</span>'
+      + '<span class="lp-tpl-seg">' + esc(before) + '</span>'
+      + '<span class="lp-slot lp-slot--empty" id="' + slotId + '">___</span>'
+      + '<span class="lp-tpl-seg">' + esc(after) + '</span>'
       + '</div>'
       + '<div class="lp-chips" role="group" aria-label="Choose a root">'
       + chipsHTML
@@ -95,10 +90,7 @@
     chips.forEach(function (chip) {
       chip.addEventListener('click', function () {
         if (locked) return;
-
         var form = chip.dataset.form;
-
-        // Clear previous attempt
         chips.forEach(function (c) {
           c.classList.remove('lp-chip--selected', 'lp-chip--wrong', 'lp-chip--correct');
         });
@@ -106,7 +98,6 @@
         fb.className = 'lp-feedback';
         slot.className = 'lp-slot lp-slot--filled';
         slot.textContent = form;
-
         chip.classList.add('lp-chip--selected');
 
         if (form === answer) {
@@ -123,7 +114,6 @@
           fb.textContent = nokMsg;
           fb.classList.add('lp-feedback--wrong');
           fb.hidden = false;
-          // Auto-reset after a short delay so the learner sees the feedback
           setTimeout(function () {
             chip.classList.remove('lp-chip--selected', 'lp-chip--wrong');
             slot.className = 'lp-slot lp-slot--empty';
@@ -134,6 +124,214 @@
         }
       });
     });
+  }
+
+  // ── Multi-blank picker ────────────────────────────────────────────────────
+  //
+  // Slots are filled sequentially: slot N only becomes active once slot N-1
+  // has been correctly filled. A correctly used chip is disabled (greyed out)
+  // so the learner cannot accidentally re-use it. Wrong guesses reset the slot
+  // after 1.4 s without consuming the chip.
+  //
+  // If all slots share the same data-items pool, one chip row is rendered.
+  // For per-slot overrides (data-items-0, data-items-1 …), each slot gets its
+  // own chip row; only the active slot's row is visible at any time.
+
+  function renderMultiPicker(el, uid) {
+    var answers  = JSON.parse(el.getAttribute('data-answers'));
+    var baseItems = JSON.parse(el.getAttribute('data-items') || '[]');
+    var mode     = el.getAttribute('data-mode')     || 'both';
+    var template = el.getAttribute('data-template') ||
+                   answers.map(function () { return '___'; }).join('-');
+    var okMsg    = el.getAttribute('data-ok')  || 'Correct \u2713';
+    var nokMsg   = el.getAttribute('data-nok') || 'Try again.';
+
+    var n        = answers.length;
+    var segments = template.split('___');   // n+1 text segments
+
+    // Resolve per-slot item pools
+    var slotPools = answers.map(function (_, i) {
+      var override = el.getAttribute('data-items-' + i);
+      return override ? JSON.parse(override) : baseItems;
+    });
+    var perSlot = slotPools.some(function (pool, i) {
+      return JSON.stringify(pool) !== JSON.stringify(slotPools[0]);
+    });
+    var shuffledPools = slotPools.map(shuffle);
+
+    // ── Build template line ───────────────────────────────────────────────
+    var tplHTML = '<div class="lp-template-line">';
+    for (var i = 0; i < n; i++) {
+      tplHTML += '<span class="lp-tpl-seg">' + esc(segments[i]) + '</span>';
+      var cls = 'lp-slot ' + (i === 0 ? 'lp-slot--active' : 'lp-slot--inactive');
+      tplHTML += '<span class="' + cls + '" id="' + uid + '-s' + i + '">___</span>';
+    }
+    tplHTML += '<span class="lp-tpl-seg">' + esc(segments[n] || '') + '</span>';
+    tplHTML += '</div>';
+
+    // ── Build chip row(s) ─────────────────────────────────────────────────
+    var chipsHTML;
+    if (!perSlot) {
+      // Single shared chip row
+      chipsHTML = '<div class="lp-chips" id="' + uid + '-chips" role="group" '
+                + 'aria-label="Choose a root">'
+                + shuffledPools[0].map(function (item) {
+                    return '<button class="lp-chip" type="button"'
+                      + ' data-form="' + esc(item.form) + '">'
+                      + chipHTML(item, mode) + '</button>';
+                  }).join('')
+                + '</div>';
+    } else {
+      // Per-slot chip rows; only slot-0 visible initially
+      chipsHTML = answers.map(function (_, i) {
+        var vis = i === 0 ? '' : ' style="display:none"';
+        return '<div class="lp-chips lp-chips-slot" id="' + uid + '-chips-' + i + '"'
+               + vis + ' role="group" aria-label="Choose a root">'
+               + shuffledPools[i].map(function (item) {
+                   return '<button class="lp-chip" type="button"'
+                     + ' data-form="' + esc(item.form) + '">'
+                     + chipHTML(item, mode) + '</button>';
+                 }).join('')
+               + '</div>';
+      }).join('');
+    }
+
+    el.innerHTML = tplHTML + chipsHTML
+      + '<div class="lp-feedback" id="' + uid + '-fb" role="status" hidden></div>';
+
+    // ── State ─────────────────────────────────────────────────────────────
+    var current = 0;
+    var placed  = new Array(n).fill(null);
+    var done    = false;
+
+    var slots = answers.map(function (_, i) {
+      return document.getElementById(uid + '-s' + i);
+    });
+    var fb = document.getElementById(uid + '-fb');
+
+    function getActiveChips() {
+      if (!perSlot) {
+        return Array.prototype.slice.call(
+          document.getElementById(uid + '-chips').querySelectorAll('.lp-chip'));
+      }
+      var row = document.getElementById(uid + '-chips-' + current);
+      return row ? Array.prototype.slice.call(row.querySelectorAll('.lp-chip')) : [];
+    }
+
+    function activateSlot(idx) {
+      slots.forEach(function (s, i) {
+        s.classList.remove('lp-slot--active', 'lp-slot--inactive',
+                           'lp-slot--filled', 'lp-slot--wrong');
+        if (placed[i] === answers[i]) {
+          s.classList.add('lp-slot--correct');
+        } else if (i === idx) {
+          s.classList.add('lp-slot--active');
+        } else {
+          s.classList.add('lp-slot--inactive');
+        }
+      });
+      if (perSlot) {
+        for (var i = 0; i < n; i++) {
+          var row = document.getElementById(uid + '-chips-' + i);
+          if (row) row.style.display = (i === idx) ? '' : 'none';
+        }
+      }
+    }
+
+    function attachListeners(chips) {
+      chips.forEach(function (chip) {
+        chip.addEventListener('click', function () {
+          if (done || chip.disabled) return;
+
+          var form = chip.dataset.form;
+          var expected = answers[current];
+          var slot = slots[current];
+
+          // Clear previous wrong state on this slot's chips
+          getActiveChips().forEach(function (c) {
+            c.classList.remove('lp-chip--selected', 'lp-chip--wrong');
+          });
+          fb.hidden = true;
+          fb.className = 'lp-feedback';
+
+          // Fill slot
+          slot.classList.remove('lp-slot--active', 'lp-slot--wrong', 'lp-slot--inactive');
+          slot.classList.add('lp-slot--filled');
+          slot.textContent = form;
+          placed[current] = form;
+          chip.classList.add('lp-chip--selected');
+
+          if (form === expected) {
+            // ── Correct slot ─────────────────────────────────────────────
+            slot.classList.remove('lp-slot--filled');
+            slot.classList.add('lp-slot--correct');
+            chip.classList.remove('lp-chip--selected');
+            chip.classList.add('lp-chip--correct');
+            chip.disabled = true;
+
+            current++;
+            if (current >= n) {
+              done = true;
+              fb.textContent = okMsg;
+              fb.classList.add('lp-feedback--correct');
+              fb.hidden = false;
+              // Disable all chips
+              Array.prototype.slice.call(
+                el.querySelectorAll('.lp-chip')).forEach(function (c) { c.disabled = true; });
+            } else {
+              activateSlot(current);
+            }
+          } else {
+            // ── Wrong guess ───────────────────────────────────────────────
+            slot.classList.remove('lp-slot--filled');
+            slot.classList.add('lp-slot--wrong');
+            chip.classList.remove('lp-chip--selected');
+            chip.classList.add('lp-chip--wrong');
+            fb.textContent = nokMsg;
+            fb.classList.add('lp-feedback--wrong');
+            fb.hidden = false;
+            setTimeout(function () {
+              placed[current] = null;
+              slot.className = 'lp-slot lp-slot--active';
+              slot.textContent = '___';
+              chip.classList.remove('lp-chip--wrong');
+              fb.hidden = true;
+              fb.className = 'lp-feedback';
+            }, 1400);
+          }
+        });
+      });
+    }
+
+    // Attach listeners to all chip rows upfront
+    if (!perSlot) {
+      attachListeners(getActiveChips());
+    } else {
+      for (var j = 0; j < n; j++) {
+        var row = document.getElementById(uid + '-chips-' + j);
+        if (row) {
+          attachListeners(
+            Array.prototype.slice.call(row.querySelectorAll('.lp-chip')));
+        }
+      }
+    }
+
+    activateSlot(0);
+  }
+
+  // ── Dispatcher ────────────────────────────────────────────────────────────
+
+  function renderPicker(el) {
+    if (el.dataset.lpInit) return;
+    el.dataset.lpInit = '1';
+    el.classList.add('lp-wrap');
+
+    var uid = makeUID();
+    if (el.getAttribute('data-answers')) {
+      renderMultiPicker(el, uid);
+    } else {
+      renderSinglePicker(el, uid);
+    }
   }
 
   // ── Page-level init ───────────────────────────────────────────────────────

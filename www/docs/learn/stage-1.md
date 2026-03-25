@@ -307,3 +307,11 @@ In (4), `lo-ze` = "patient:it" — pointing back to the water facility mentioned
 **Two roots from compounds above** — `ne` (relation/connection) and `su`
 (structure/order) — appear in `ne-mu` and `si-su-mu` in Cluster 1. They'll be treated
 as first-class vocabulary in Stage 2, where compounding is the topic.
+
+---
+
+## Next
+
+[Stage 2 — Compound construction](stage-2.md) makes the head-final rule explicit,
+introduces the `'` juncture marker, and drills compound building with interactive
+exercises.
