@@ -6303,10 +6303,8 @@ sentences:
   tonesu: la-si-ki-li'be-go-li  lu  lo-na-Moses  ro-ra-lu-ki
   gloss_line: null
   natural: The angel of the LORD appeared to Moses in fire.
-  words_attested:
-  - W158
-  first_attests:
-  - W158
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
   source_anchor: S401
@@ -6322,10 +6320,8 @@ sentences:
   tonesu: la-zo-su  ra-lu-ki  no  de
   gloss_line: null
   natural: The bush burned but was not consumed.
-  words_attested:
-  - W151
-  first_attests:
-  - W151
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
   source_anchor: S402
@@ -6342,9 +6338,7 @@ sentences:
   tonesu: la-na-Moses  to  [to-si  go  la-zo-su  ra-lu-ki  no  de]
   gloss_line: null
   natural: 'Moses reasoned: what is the cause that the bush burns but does not decrease?'
-  words_attested:
-  - W026
-  - W151
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -6375,8 +6369,7 @@ sentences:
   tonesu: la-na-Moses  si  lo-pa-mi
   gloss_line: null
   natural: 'Moses answered: "Here I am."'
-  words_attested:
-  - W110
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -6393,12 +6386,8 @@ sentences:
   tonesu: la-Elohim  ka-si  /  no-ki-di  /  lo-ki-ne  ka-de-ne  /  pa-mi  pa-vo-fe
   gloss_line: null
   natural: 'God commanded: do not approach; your sandals; this place is holy.'
-  words_attested:
-  - W110
-  - W152
-  - W153
-  first_attests:
-  - W153
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
   source_anchor: S406
@@ -6431,10 +6420,8 @@ sentences:
   tonesu: la-na-Moses  ka-ko  lo-se-lu-ze  /  fa-ra  go  ka-se  lo-Elohim
   gloss_line: null
   natural: Moses hid his face; he was afraid to look at God.
-  words_attested:
-  - W154
-  first_attests:
-  - W154
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
   source_anchor: S408
@@ -6449,10 +6436,8 @@ sentences:
   tonesu: la-Elohim  se  lo-fa-de-ra'zo-li-mi  pa-na-Egypt
   gloss_line: null
   natural: 'God: I have perceived my people''s suffering in Egypt.'
-  words_attested:
-  - W155
-  first_attests:
-  - W155
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
   source_anchor: S409
@@ -6468,10 +6453,8 @@ sentences:
   tonesu: la-Elohim  ki  wi  ka-pa-ki  lo-zo-li-mi  pa-na-Egypt  di-pa-vo
   gloss_line: null
   natural: 'God: I will bring my people out to a good and open land.'
-  words_attested:
-  - W160
-  first_attests:
-  - W160
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
   source_anchor: S410
@@ -6486,8 +6469,7 @@ sentences:
   tonesu: la-Elohim  ka-si  lo-na-Moses  /  ki  /  wi  la-tu  ki  lo-na-Pharaoh  ka-pa-ki  lo-zo-li-mi
   gloss_line: null
   natural: 'God: Go. I am sending you to Pharaoh to liberate my people.'
-  words_attested:
-  - W160
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -6502,9 +6484,7 @@ sentences:
   tonesu: la-na-Moses  to-si  la-mi  wi  ka-pa-ki  lo-zo-li-mi?
   gloss_line: null
   natural: 'Moses: who am I to do this?'
-  words_attested:
-  - W026
-  - W160
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -6519,8 +6499,7 @@ sentences:
   tonesu: la-Elohim  ne  pa-tu  /  du  la-tu  ka-pa-ki  lo-zo-li-mi,  la-tu  ki  lo-pa-su-mi
   gloss_line: null
   natural: 'God: I will be with you; you will return to this mountain.'
-  words_attested:
-  - W160
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -6536,8 +6515,7 @@ sentences:
   tonesu: la-na-Moses  to-si  na-Elohim?
   gloss_line: null
   natural: 'Moses: what name shall I give them?'
-  words_attested:
-  - W026
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -6552,10 +6530,8 @@ sentences:
   tonesu: la-mi  go-ne  lo-mi
   gloss_line: null
   natural: 'God: "I am who I am."'
-  words_attested:
-  - W159
-  first_attests:
-  - W159
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
   source_anchor: S415
@@ -6607,15 +6583,8 @@ sentences:
   tonesu: ti-mi  ne  ka-pa-ki'ti-re
   gloss_line: null
   natural: The Passover time has arrived.
-  words_attested:
-  - W103
-  - W109
-  - W160
-  - W167
-  first_attests:
-  - W103
-  - W109
-  - W167
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
   source_anchor: S418
@@ -6646,10 +6615,7 @@ sentences:
   tonesu: '[na-Jesus:]  "ki  /  ka-su  lo-ka-pa-ki''ti-re  lu-yu"'
   gloss_line: null
   natural: (Jesus:) "Go and prepare the Passover for us all."
-  words_attested:
-  - W103
-  - W160
-  - W167
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -6665,11 +6631,7 @@ sentences:
   tonesu: '[na-Peter  ro-na-John:]  "pa-wi  to-si  ka-su  lo-ka-pa-ki''ti-re?"'
   gloss_line: null
   natural: (Peter and John:) "Where shall we prepare the Passover?"
-  words_attested:
-  - W026
-  - W103
-  - W160
-  - W167
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -6686,10 +6648,7 @@ sentences:
   tonesu: la-na-Peter  ro-na-John  se  lo-ze  /  la-yu  ka-su  lo-ka-pa-ki'ti-re
   gloss_line: null
   natural: They found the place and prepared the Passover.
-  words_attested:
-  - W103
-  - W160
-  - W167
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -6704,8 +6663,7 @@ sentences:
   tonesu: ti  ki  ze  /  la-na-Jesus  ne  ro-pu-si-ki-li-ze  ko-pa'be
   gloss_line: null
   natural: When the hour came, Jesus was with the apostles in the upper room.
-  words_attested:
-  - W048
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -6722,13 +6680,8 @@ sentences:
   tonesu: '[na-Jesus:]  "fa-wi-mi  nu-vo  ka-zo-ra-ma  lo-ka-pa-ki''ti-re  ro-yu  ti-fe  fa-de-ra-mi"'
   gloss_line: null
   natural: '"I have eagerly desired to eat this Passover with you before I suffer."'
-  words_attested:
-  - W037
-  - W103
-  - W160
-  - W167
-  first_attests:
-  - W037
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
   source_anchor: S424
@@ -6762,11 +6715,8 @@ sentences:
   tonesu: la-na-Jesus  ka-ne  lo-ko-mu  /  la-ze  ka-vo-si
   gloss_line: null
   natural: He took the cup and gave thanks.
-  words_attested:
-  - W052
-  - W168
-  first_attests:
-  - W168
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
   source_anchor: S426
@@ -6797,10 +6747,8 @@ sentences:
   tonesu: '[na-Jesus:]  "la-mi  no  ka-zo-ra-ma  lo-du-zo-su  ti  ki  pa-be''ka-li-su"'
   gloss_line: null
   natural: '"I will not drink of the fruit of the vine until the kingdom of God comes."'
-  words_attested:
-  - W142
-  first_attests:
-  - W142
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
   source_anchor: S428
@@ -6816,11 +6764,8 @@ sentences:
   tonesu: la-na-Jesus  ka-ne  lo-ka-du-zo-su  /  la-ze  ka-vo-si
   gloss_line: null
   natural: He took a loaf of bread and gave thanks.
-  words_attested:
-  - W161
-  - W168
-  first_attests:
-  - W161
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
   source_anchor: S429
@@ -6891,9 +6836,7 @@ sentences:
   tonesu: la-na-Jesus  ti-de  ka-zo-ra-ma  ka-ne  lo-ko-mu
   gloss_line: null
   natural: After supper he took the cup.
-  words_attested:
-  - W041
-  - W052
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -6928,10 +6871,8 @@ sentences:
   tonesu: de-zo-ki'ma-mi  go-lu-yu
   gloss_line: null
   natural: '"which is poured out for you."'
-  words_attested:
-  - W186
-  first_attests:
-  - W186
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
   source_anchor: S435
@@ -6965,10 +6906,8 @@ sentences:
   tonesu: '[na-Jesus:]  "ka-zo-ra-ma  lo-de-ki''ma  pu-yu  /  zo-ki''ma-mi  ne  ze  go-ne-to-fe"'
   gloss_line: null
   natural: '"Drink from it, all of you; for this is my blood of the covenant."'
-  words_attested:
-  - W162
-  first_attests:
-  - W162
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
   source_anchor: S437
@@ -6985,9 +6924,7 @@ sentences:
   tonesu: '[na-Jesus:]  "la-ze  ka-ne-de  lo-mi  ti-be  /  ne  ro-mi  pa-mi"'
   gloss_line: null
   natural: '"The one who will betray me is with me here."'
-  words_attested:
-  - W040
-  - W092
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -7006,8 +6943,7 @@ sentences:
   tonesu: to-su  helm  ra
   gloss_line: null
   natural: '"Knowledge is power." (Francis Bacon, attributed)'
-  words_attested:
-  - W030
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -7093,8 +7029,7 @@ sentences:
   tonesu: zo-li  helms  to-zo
   gloss_line: null
   natural: '"Man is a rational animal." (Aristotle, *Nicomachean Ethics* / *Politics*)'
-  words_attested:
-  - W148
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -7298,10 +7233,8 @@ sentences:
   tonesu: la-mi wi-vo / no la-mi ka-ze
   gloss_line: null
   natural: Romans 7:19a — "For I do not do the good I want to do."
-  words_attested:
-  - W190
-  first_attests:
-  - W190
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
   source_anchor: S452
@@ -7433,10 +7366,8 @@ sentences:
   tonesu: ti  helm  be-vo / ti  helm  de-vo
   gloss_line: null
   natural: 'Dickens: "It was the spring of hope / it was the winter of despair."'
-  words_attested:
-  - W121
-  first_attests:
-  - W121
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
   source_anchor: S458
@@ -7533,8 +7464,7 @@ sentences:
   tonesu: 'pa / no-pa : ne to-si'
   gloss_line: null
   natural: Hamlet III.i — "To be, or not to be, that is the question." — universal
-  words_attested:
-  - W026
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -7555,8 +7485,7 @@ sentences:
   tonesu: 'la-mi pa / la-mi no-pa : ne to-si'
   gloss_line: null
   natural: Hamlet III.i — "To be, or not to be, that is the question." — personal
-  words_attested:
-  - W026
+  words_attested: []
   first_attests: []
   gap_refs:
   - GAP-HAM-002
@@ -7576,11 +7505,8 @@ sentences:
   tonesu: 'de lo-no-ko-ra / ka-ra lo-de-no-fe : ne to-si'
   gloss_line: null
   natural: Hamlet III.i — "To suffer... or to take arms against a sea of troubles"
-  words_attested:
-  - W026
-  - W222
-  first_attests:
-  - W222
+  words_attested: []
+  first_attests: []
   gap_refs:
   - GAP-HAM-001
   source_file: sentences/v4-current/s398-s548.md
@@ -7738,8 +7664,7 @@ sentences:
   gloss_line: null
   natural: 'Stanza 1, lines 1-2: "Because I could not stop for Death — / He kindly
     stopped for me —"'
-  words_attested:
-  - W190
+  words_attested: []
   first_attests: []
   gap_refs:
   - GAP-EMD-001
@@ -7765,8 +7690,7 @@ sentences:
   tonesu: la-ki-pa-mu ko lo-mi lo-de-zo-li lo-no-de-zo-li
   gloss_line: null
   natural: 'Stanza 1, lines 3-4: "The Carriage held but just Ourselves — / And Immortality."'
-  words_attested:
-  - W086
+  words_attested: []
   first_attests: []
   gap_refs:
   - GAP-EMD-004
@@ -7792,8 +7716,7 @@ sentences:
   gloss_line: null
   natural: 'Stanza 6 grave scene: "We paused before a House that seemed / A Swelling
     of the Ground —"'
-  words_attested:
-  - W048
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -7917,8 +7840,7 @@ sentences:
   tonesu: la-ra-lu-ki be ; la-su-lu ki be ; la-si ki pa-no-ko
   gloss_line: null
   natural: Fire burned; smoke rose; the signal reached far.
-  words_attested:
-  - W151
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -7932,8 +7854,7 @@ sentences:
   tonesu: la-du-zo-su ki ; la-zo-su be ; la-du ki
   gloss_line: null
   natural: The seed sprouted; the plant grew; the fruit formed.
-  words_attested:
-  - W142
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -7947,8 +7868,7 @@ sentences:
   tonesu: la-to be ; la-to-ki be ; la-zo-li-pu vo be
   gloss_line: null
   natural: Knowledge grew; judgment sharpened; the people flourished.
-  words_attested:
-  - W020
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -8018,8 +7938,7 @@ sentences:
   tonesu: la-yu ki ; la-ti ki ti-de
   gloss_line: null
   natural: 'DIAGNOSTIC: reversed chain — "We departed; the clock had moved."'
-  words_attested:
-  - W041
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -8033,9 +7952,7 @@ sentences:
   tonesu: go {la-ze ka-si  ro  la-zo-li se}, la-to-ki pa
   gloss_line: null
   natural: 'DIAGNOSTIC: complex premise — CANNOT use `;`'
-  words_attested:
-  - W020
-  - W148
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -8077,8 +7994,7 @@ sentences:
   tonesu: la-ne-su ki ; la-zi ki ; la-pu-li be
   gloss_line: null
   natural: The agreement formed; exchange began; both grew.
-  words_attested:
-  - W031
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -8092,8 +8008,7 @@ sentences:
   tonesu: la-du-zo-su pa ; la-ti ki ; la-du ki
   gloss_line: null
   natural: Seed is placed; time moves; fruit arises.
-  words_attested:
-  - W142
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -8121,8 +8036,7 @@ sentences:
   tonesu: la-to-su ki ; la-ze de
   gloss_line: null
   natural: 'DIAGNOSTIC: "The plan was made; it failed." (adversative sequence)'
-  words_attested:
-  - W030
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -8298,8 +8212,7 @@ sentences:
   tonesu: a-to helm to-su
   gloss_line: null
   natural: '`a-to` vs `to-su` — differentiation test.'
-  words_attested:
-  - W030
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -8463,8 +8376,7 @@ sentences:
   tonesu: la-du-zo-su ko lo-u-su
   gloss_line: null
   natural: '"The seed holds deep structure."'
-  words_attested:
-  - W142
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -8486,8 +8398,7 @@ sentences:
   tonesu: ta go {no la-mi de-ki lo-de-zo-li} — la-de-zo-li wi-vo de-ki lu-mi —
   gloss_line: null
   natural: Dickinson stanza 1, lines 1-2, with `—` restored
-  words_attested:
-  - W190
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -8511,8 +8422,7 @@ sentences:
   tonesu: la-ki-pa-mu ko lo-mi lo-de-zo-li — lo-no-de-zo-li
   gloss_line: null
   natural: Dickinson stanza 1, lines 3-4, with `—` restored
-  words_attested:
-  - W086
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -8538,8 +8448,7 @@ sentences:
   tonesu: la-mi la-de-zo-li de-ki ne-di-ko-pa — ko-pa helm be-ma-pa —
   gloss_line: null
   natural: Dickinson stanza 6 grave scene, with `—` restored
-  words_attested:
-  - W048
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -8658,8 +8567,7 @@ sentences:
   tonesu: la-de-zo-li — wi-vo de-ki lu-mi
   gloss_line: null
   natural: Post-agent NP suspension (subject announced, predicate held)
-  words_attested:
-  - W190
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -8681,8 +8589,7 @@ sentences:
   tonesu: la-ki-pa-mu ko lo-ti-no-fe —
   gloss_line: null
   natural: Terminal suspension (complete sentence + `—`, nothing follows)
-  words_attested:
-  - W086
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -9493,9 +9400,7 @@ sentences:
   tonesu: la-su-mu-li  ka-be  lo-ra-su  ti-de
   gloss_line: null
   natural: 'Active baseline: "The engineer built the structure."'
-  words_attested:
-  - W002
-  - W041
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -9512,8 +9417,7 @@ sentences:
   tonesu: lo-ra-su  de  ti-de
   gloss_line: null
   natural: 'Non-intentional process: "The structure collapsed."'
-  words_attested:
-  - W041
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -9535,8 +9439,7 @@ sentences:
   tonesu: lo-ra-su  ka-be  ti-de
   gloss_line: null
   natural: 'Intentional passive: "The structure was built."'
-  words_attested:
-  - W041
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -9561,8 +9464,7 @@ sentences:
   tonesu: ro-ra-ki-mu  lo-ra-su  ka-be  ti-de
   gloss_line: null
   natural: 'Instrument-present passive: "The structure was built using the engine."'
-  words_attested:
-  - W041
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -9583,8 +9485,7 @@ sentences:
   tonesu: 'ra-su : ka-be  ti-de'
   gloss_line: null
   natural: 'Topic-frame passive: "As for the structure: [it was] built."'
-  words_attested:
-  - W041
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -9607,8 +9508,7 @@ sentences:
   tonesu: la-li-pu  ka-be  lo-su  ti-de
   gloss_line: null
   natural: 'Institutional active: "The council enacted the law."'
-  words_attested:
-  - W041
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -9700,9 +9600,7 @@ sentences:
   tonesu: lo-to-si  ka-ki  ti-de
   gloss_line: null
   natural: 'Sacred-historical passive: "A teaching was transmitted."'
-  words_attested:
-  - W026
-  - W041
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -9724,9 +9622,7 @@ sentences:
   tonesu: go ha-be  lo-zo-li  de  ti-de
   gloss_line: null
   natural: 'A''s opening claim: "The fever caused the patient''s deterioration."'
-  words_attested:
-  - W041
-  - W148
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -9743,9 +9639,7 @@ sentences:
   tonesu: no — go si-zo  lo-zo-li  de  ti-de
   gloss_line: null
   natural: 'B rejects: Round 1, denial is fresh.'
-  words_attested:
-  - W041
-  - W148
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -9765,8 +9659,7 @@ sentences:
   tonesu: ya, la-mi  se  lo-ha-be ; go ha-be  lo-ko-su  de  ti-de
   gloss_line: null
   natural: A escalates with perceptual evidence.
-  words_attested:
-  - W041
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -9787,8 +9680,7 @@ sentences:
   tonesu: no — la-tu  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
   gloss_line: null
   natural: 'B counters with perceptual redirect: Round 2, `no —` still adequate.'
-  words_attested:
-  - W041
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -9810,8 +9702,7 @@ sentences:
   tonesu: ya, la-to-su  si  {go ha-be  lo-ko-su  de}
   gloss_line: null
   natural: 'A''s Round 3 structural appeal: "The canonical record says thermal cause."'
-  words_attested:
-  - W030
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -9837,8 +9728,7 @@ sentences:
   tonesu: no — go si-zo-be  lo-ko-su  de  ti-de
   gloss_line: null
   natural: 'B''s stale form: what `no —` would produce.'
-  words_attested:
-  - W041
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -9862,8 +9752,7 @@ sentences:
   tonesu: ke, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
   gloss_line: null
   natural: 'B''s `ke` form: second qualifying attestation.'
-  words_attested:
-  - W041
+  words_attested: []
   first_attests: []
   gap_refs:
   - OQ-COR-001
@@ -9889,8 +9778,7 @@ sentences:
   tonesu: ke! la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
   gloss_line: null
   natural: '`ke!` in the heated version.'
-  words_attested:
-  - W041
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -9909,8 +9797,7 @@ sentences:
   tonesu: ya, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
   gloss_line: null
   natural: 'Contrast: `ya` alone does not substitute for `ke`.'
-  words_attested:
-  - W041
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -9936,8 +9823,7 @@ sentences:
   tonesu: ya, ke, la-mi  se  lo-si-zo-be ; go si-zo-be  lo-ko-su  de  ti-de
   gloss_line: null
   natural: '`ya, ke,` stacking test.'
-  words_attested:
-  - W041
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -9965,8 +9851,7 @@ sentences:
   tonesu: la-li-pu  ne  wi-fe  lo-ra-pa
   gloss_line: null
   natural: 'A''s Round 1: "The delegation asserts rights over the resource territory."'
-  words_attested:
-  - W100
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -9986,8 +9871,7 @@ sentences:
   tonesu: no — la-pa-pu  ne  wi-fe  lo-ra-pa
   gloss_line: null
   natural: 'B''s Round 1 denial: `no —` is fresh.'
-  words_attested:
-  - W100
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -10006,9 +9890,7 @@ sentences:
   tonesu: ya, la-si-su  ko  {la-li-pu  ne  wi-fe  lo-ra-pa}  ti-de
   gloss_line: null
   natural: 'A''s Round 2 escalation: appeal to treaty text.'
-  words_attested:
-  - W041
-  - W100
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -10027,9 +9909,7 @@ sentences:
   tonesu: no — la-si-su  ko  {la-pa-pu  ne  wi-fe  lo-ra-pa}  ti-de
   gloss_line: null
   natural: 'B''s Round 2 counter: `no —` still adequate.'
-  words_attested:
-  - W041
-  - W100
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -10049,9 +9929,7 @@ sentences:
   tonesu: ya, la-to-su  si  {la-li-pu  ne  wi-fe  lo-ra-pa}
   gloss_line: null
   natural: 'A''s Round 3: appeal to canonical interpretive tradition.'
-  words_attested:
-  - W030
-  - W100
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -10074,8 +9952,7 @@ sentences:
   tonesu: no — la-pa-pu  ne  wi-fe  lo-ra-pa
   gloss_line: null
   natural: 'B''s stale form: what `no —` produces.'
-  words_attested:
-  - W100
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -10100,9 +9977,7 @@ sentences:
   tonesu: ke, la-pa-pu  ne  wi-fe  lo-ra-pa ; la-to-su  si  {pa-pu  ne  wi-fe}
   gloss_line: null
   natural: 'B''s `ke` form: third qualifying attestation.'
-  words_attested:
-  - W030
-  - W100
+  words_attested: []
   first_attests: []
   gap_refs:
   - OQ-COR-001
@@ -10154,9 +10029,7 @@ sentences:
   tonesu: ke, la-pa-pu  ne  wi-fe  lo-ra-pa ; la-to-su  si  {pa-pu  ne  wi-fe}
   gloss_line: null
   natural: 'Written formal register: `ke` in treaty-record notation.'
-  words_attested:
-  - W030
-  - W100
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -10179,10 +10052,8 @@ sentences:
   tonesu: no-fa  ne  /  ne-no-ra  ne
   gloss_line: null
   natural: No raw affect / peaceful-relation prevails.
-  words_attested:
-  - W171
-  first_attests:
-  - W171
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S588
@@ -10215,10 +10086,8 @@ sentences:
   tonesu: no-fa-wi-ra  ne  /  fa-su  ne
   gloss_line: null
   natural: No driven-forceful-affect / structured-affect prevails.
-  words_attested:
-  - W173
-  first_attests:
-  - W173
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S590
@@ -10234,10 +10103,8 @@ sentences:
   tonesu: no-su  ne  /  su-ne  ne
   gloss_line: null
   natural: No structure / structure-of-connection prevails.
-  words_attested:
-  - W174
-  first_attests:
-  - W174
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S591
@@ -10271,13 +10138,8 @@ sentences:
   tonesu: ne-no-ra  ne  to-fe-ka  /  ru-fe,  fa-wi-ra  ne
   gloss_line: null
   natural: 'Peaceful-relation is deliberate-mislabeling / only: driven-affect prevails.'
-  words_attested:
-  - W029
-  - W171
-  - W172
-  first_attests:
-  - W029
-  - W172
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S593
@@ -10295,8 +10157,7 @@ sentences:
   tonesu: go {fa-wi-ra},  la-mi  ra-be
   gloss_line: null
   natural: '[Cause: passion] → I grow in force.'
-  words_attested:
-  - W172
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -10330,10 +10191,8 @@ sentences:
   tonesu: go {wi-ra},  la-mi  wi-du-be
   gloss_line: null
   natural: '[Cause: directed-power] → I grow in willed-achievement.'
-  words_attested:
-  - W177
-  first_attests:
-  - W177
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S596
@@ -10349,12 +10208,8 @@ sentences:
   tonesu: go {wi-du},  lo-mi  ko-ne-mu  de-ki
   gloss_line: null
   natural: '[Cause: victory] → my chains enter breaking.'
-  words_attested:
-  - W175
-  - W176
-  first_attests:
-  - W175
-  - W176
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S597
@@ -10371,8 +10226,7 @@ sentences:
   tonesu: la-ara  lo-mi  ka-pa-ki
   gloss_line: null
   natural: The Force liberates me.
-  words_attested:
-  - W160
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -10392,12 +10246,8 @@ sentences:
   tonesu: wi-ra-su  ne  to-su  lo-wi-ra
   gloss_line: null
   natural: The magical arts form a systematic discipline of directed power.
-  words_attested:
-  - W030
-  - W177
-  - W179
-  first_attests:
-  - W179
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S599
@@ -10414,11 +10264,8 @@ sentences:
   tonesu: ko-fe-ki  ne  wi-ra-su  lo-ko-fe
   gloss_line: null
   natural: Abjuration is the magic of creating and maintaining containing limits.
-  words_attested:
-  - W179
-  - W180
-  first_attests:
-  - W180
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S600
@@ -10435,11 +10282,8 @@ sentences:
   tonesu: pa-be-ki  ne  wi-ra-su  lo-be-pa
   gloss_line: null
   natural: Conjuration is the magic of making things emerge into new places.
-  words_attested:
-  - W179
-  - W181
-  first_attests:
-  - W181
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S601
@@ -10455,11 +10299,8 @@ sentences:
   tonesu: to-se-ki  ne  wi-ra-su  lo-so-to
   gloss_line: null
   natural: Divination is the magic of perception-knowledge.
-  words_attested:
-  - W179
-  - W182
-  first_attests:
-  - W182
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S602
@@ -10477,11 +10318,8 @@ sentences:
   tonesu: wi-fa-ki  ne  wi-ra-su  lo-fa-wi
   gloss_line: null
   natural: Enchantment is the magic of altering the affect-will.
-  words_attested:
-  - W179
-  - W183
-  first_attests:
-  - W183
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S603
@@ -10498,11 +10336,8 @@ sentences:
   tonesu: ra-be-ki  ne  wi-ra-su  lo-ra-be
   gloss_line: null
   natural: Evocation is the magic of channeling and releasing raw force.
-  words_attested:
-  - W179
-  - W184
-  first_attests:
-  - W184
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S604
@@ -10520,11 +10355,8 @@ sentences:
   tonesu: ge-se-ki  ne  wi-ra-su  lo-ge-se
   gloss_line: null
   natural: Illusion is the magic of crafting how things appear.
-  words_attested:
-  - W179
-  - W185
-  first_attests:
-  - W185
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S605
@@ -10542,12 +10374,8 @@ sentences:
   tonesu: de-zo-ki  ne  wi-ra-su  lo-de-zo
   gloss_line: null
   natural: Necromancy is the magic of transformation through death.
-  words_attested:
-  - W178
-  - W179
-  - W186
-  first_attests:
-  - W178
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S606
@@ -10565,11 +10393,8 @@ sentences:
   tonesu: ge-ki  ne  wi-ra-su  lo-ge
   gloss_line: null
   natural: Transmutation is the magic of altering fundamental properties.
-  words_attested:
-  - W179
-  - W187
-  first_attests:
-  - W187
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S607
@@ -10587,9 +10412,7 @@ sentences:
   tonesu: la-ra-be-ki  be  lo-ra  /  la-ge-se-ki  be  lo-ge-se
   gloss_line: null
   natural: Evocation generates real force; Illusion generates quality-of-perception.
-  words_attested:
-  - W184
-  - W185
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -10611,11 +10434,8 @@ sentences:
   tonesu: wi-li  ne  wi-su  /  wi-li  ne  wi-vo
   gloss_line: null
   natural: A person's will has a structure-dimension and a value-dimension.
-  words_attested:
-  - W188
-  - W190
-  first_attests:
-  - W188
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S609
@@ -10633,9 +10453,7 @@ sentences:
   tonesu: la-na-Paladin  ne  wi-su  /  ne  wi-vo
   gloss_line: null
   natural: The Paladin's will is organized by structure and oriented toward value.
-  words_attested:
-  - W188
-  - W190
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -10652,11 +10470,8 @@ sentences:
   gloss_line: null
   natural: The Cleric's will operates at the structural limit and is oriented toward
     value.
-  words_attested:
-  - W190
-  - W192
-  first_attests:
-  - W192
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S611
@@ -10673,11 +10488,8 @@ sentences:
   gloss_line: null
   natural: The Ranger's will rejects structural constraint yet is fully oriented toward
     value.
-  words_attested:
-  - W189
-  - W190
-  first_attests:
-  - W189
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S612
@@ -10693,11 +10505,8 @@ sentences:
   tonesu: la-na-Soldier  ne  wi-su  /  ne  wi-vo-fe
   gloss_line: null
   natural: The Soldier's will is organized by structure but takes no strong value-position.
-  words_attested:
-  - W188
-  - W193
-  first_attests:
-  - W193
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S613
@@ -10713,9 +10522,7 @@ sentences:
   tonesu: la-na-Druid  ne  wi-su-fe  /  ne  wi-vo-fe
   gloss_line: null
   natural: The Druid's will operates at both the structural and the value limit.
-  words_attested:
-  - W192
-  - W193
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -10732,9 +10539,7 @@ sentences:
   tonesu: la-na-Rogue  ne  wi-no-su  /  ne  wi-vo-fe
   gloss_line: null
   natural: The Rogue's will rejects structure but takes no strong value-position.
-  words_attested:
-  - W189
-  - W193
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -10751,11 +10556,8 @@ sentences:
   tonesu: la-na-Tyrant  ne  wi-su  /  ne  wi-de
   gloss_line: null
   natural: 'Lawful Evil: Tyrant.'
-  words_attested:
-  - W188
-  - W191
-  first_attests:
-  - W191
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S616
@@ -10774,9 +10576,7 @@ sentences:
   gloss_line: null
   natural: The Villain's will takes no strong position on structure, yet is directed
     toward harm.
-  words_attested:
-  - W191
-  - W192
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -10793,9 +10593,7 @@ sentences:
   tonesu: la-na-Demon  ne  wi-no-su  /  ne  wi-de
   gloss_line: null
   natural: The Demon's will rejects all structure and is directed toward harm.
-  words_attested:
-  - W189
-  - W191
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -10814,10 +10612,8 @@ sentences:
   tonesu: la-na-GreatWheel  ne  pa-ne-su
   gloss_line: null
   natural: The Great Wheel is the cosmological framework.
-  words_attested:
-  - W196
-  first_attests:
-  - W196
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S619
@@ -10833,8 +10629,7 @@ sentences:
   tonesu: 'a-pa  :  pa-fe'
   gloss_line: null
   natural: A plane is a bounded metaphysical space.
-  words_attested:
-  - W138
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -10854,8 +10649,7 @@ sentences:
   tonesu: la-na-Material  ne  pa-ma
   gloss_line: null
   natural: The Material Plane is the realm of matter.
-  words_attested:
-  - W194
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -10888,10 +10682,8 @@ sentences:
   tonesu: la-na-Astral  ne  to-pa
   gloss_line: null
   natural: The Astral Plane is thought-space.
-  words_attested:
-  - W195
-  first_attests:
-  - W195
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S623
@@ -10942,9 +10734,7 @@ sentences:
   tonesu: la-na-Celestia  ne  o-pa  /  ne  wi-su  ne  wi-vo
   gloss_line: null
   natural: Celestia is an Outer Plane — it has lawful structure and beneficent will.
-  words_attested:
-  - W188
-  - W190
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -10961,9 +10751,7 @@ sentences:
   tonesu: la-na-Baator  ne  o-pa  /  ne  wi-su  ne  wi-de
   gloss_line: null
   natural: Baator is an Outer Plane — it has lawful structure and harm-directed will.
-  words_attested:
-  - W188
-  - W191
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -10982,9 +10770,7 @@ sentences:
   gloss_line: null
   natural: The Outlands is both law-neutral and ethics-neutral — the neutral hub of
     the cosmological wheel.
-  words_attested:
-  - W192
-  - W193
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -11005,8 +10791,7 @@ sentences:
     [patient]relational-will-bond
   natural: When the course of human events has grown enough — a people dissolve the
     political bonds connecting them.
-  words_attested:
-  - W092
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -11023,10 +10808,8 @@ sentences:
   tonesu: la-yu  to  lo-su-to
   gloss_line: '[agent]we know [patient]self-evident-truth'
   natural: We hold that these are self-evident truths.
-  words_attested:
-  - W199
-  first_attests:
-  - W199
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S630
@@ -11043,8 +10826,7 @@ sentences:
   tonesu: la-go-li  be  lo-o-zo-li  su-ne
   gloss_line: '[agent]origin-person increases [patient]collective-persons equal-relation'
   natural: The creator made all persons equal in relational standing.
-  words_attested:
-  - W174
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -11082,11 +10864,8 @@ sentences:
   tonesu: zo  /  pa-ki-su  /  ka-se  fa-vo
   gloss_line: life / liberty-state / deliberate-seeking happiness
   natural: Life / Liberty / the pursuit of happiness.
-  words_attested:
-  - W197
-  - W198
-  first_attests:
-  - W198
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S633
@@ -11106,9 +10885,7 @@ sentences:
     / [agent]governance just-will origin consent
   natural: For unalienable rights, persons institute governance; governance derives
     just power from consent.
-  words_attested:
-  - W147
-  - W190
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -11129,11 +10906,8 @@ sentences:
     change [patient]governance
   natural: When governance becomes destructive, the people have the right to change
     or abolish it.
-  words_attested:
-  - W118
-  - W147
-  first_attests:
-  - W118
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S635
@@ -11151,8 +10925,7 @@ sentences:
   tonesu: la-o-zo-li  be  ka-li-su  ka-be  go  to
   gloss_line: '[agent]all-persons increase governance as-new origin reason/principles'
   natural: The people institute a new governance grounded in reason and principles.
-  words_attested:
-  - W147
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -11173,9 +10946,7 @@ sentences:
   tonesu: la-na-Colonies  ne  pa-ki-su  /  ne  no-ne-fe
   gloss_line: '[agent]the-Colonies are liberty-state / are no-relational-bound'
   natural: The Colonies are in a state of liberty and are free of all binding connection.
-  words_attested:
-  - W075
-  - W198
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -11196,9 +10967,7 @@ sentences:
   gloss_line: unalienable-rights are self-originating / self-evident-truth is Tonesu
   natural: Unalienable rights are self-originating (like the divine I AM) / self-evident
     truth is the condition of organized knowledge.
-  words_attested:
-  - W159
-  - W199
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -11222,16 +10991,8 @@ sentences:
     [patient]information-signal from person'
   natural: A service-provider of an online platform is not a content-originator of
     information-signals from persons.
-  words_attested:
-  - W020
-  - W026
-  - W031
-  - W148
-  - W200
-  - W202
-  first_attests:
-  - W200
-  - W202
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S639
@@ -11250,12 +11011,7 @@ sentences:
   tonesu: la-to-ki'ne-su  ne  si-mu  lu-zo-li  /  ne  no-si-go-li
   gloss_line: '[agent]online-platform is relay-device [beneficiary]persons / is not-content-originator'
   natural: An online platform is a relay device for persons / is not a content-originator.
-  words_attested:
-  - W020
-  - W031
-  - W039
-  - W148
-  - W202
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -11276,13 +11032,8 @@ sentences:
     is content-originator
   natural: If a service-provider deliberately categorizes information, then the service-provider
     is a content-originator.
-  words_attested:
-  - W026
-  - W122
-  - W200
-  - W201
-  first_attests:
-  - W201
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S641
@@ -11303,14 +11054,8 @@ sentences:
     [relation]content-originator'
   natural: The rule has not comprehended the boundary between service-provider and
     content-originator.
-  words_attested:
-  - W025
-  - W028
-  - W100
-  - W200
-  - W201
-  first_attests:
-  - W025
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S642
@@ -11331,9 +11076,7 @@ sentences:
   gloss_line: '[agent]the-rule is not-self-evident / is rule-about-categorization'
   natural: The rule is not a self-evident proposition / it is a rule about deliberate
     categorization.
-  words_attested:
-  - W100
-  - W122
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -11356,13 +11099,7 @@ sentences:
     not comprehends [patient]boundary service-provider [relation]content-originator'
   natural: The rule is a prescription about categorization / but the rule has not
     defined the boundary between service-provider and content-originator.
-  words_attested:
-  - W025
-  - W028
-  - W100
-  - W122
-  - W200
-  - W201
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -11383,11 +11120,8 @@ sentences:
   tonesu: wi-fe  la-i-zo-li  ko  lo-su-zo-ko
   gloss_line: rule [agent]particular-person maintains [patient]coverage-structure
   natural: The rule — an applicable person shall maintain health coverage.
-  words_attested:
-  - W100
-  - W204
-  first_attests:
-  - W204
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S645
@@ -11405,13 +11139,8 @@ sentences:
   gloss_line: origin [agent]person not-maintain [patient]coverage, therefore penalty
     [beneficiary]governance
   natural: Because the person does not maintain coverage, a payment accrues to governance.
-  words_attested:
-  - W100
-  - W147
-  - W203
-  - W204
-  first_attests:
-  - W203
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S646
@@ -11432,13 +11161,8 @@ sentences:
     holds [patient]payment is a-tax'
   natural: Congress held the payment is not a tax / Roberts held the same payment
     is a tax.
-  words_attested:
-  - W100
-  - W147
-  - W203
-  - W205
-  first_attests:
-  - W205
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S647
@@ -11461,11 +11185,7 @@ sentences:
     tax'
   natural: The payment sits at the boundary of being a penalty / and at the boundary
     of being a tax.
-  words_attested:
-  - W028
-  - W100
-  - W203
-  - W205
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -11486,11 +11206,7 @@ sentences:
   tonesu: la-na-Roberts  wi-fe'ka-to-fe  lo-wi-fe'de  ne  ka-li-de
   gloss_line: '[agent]Roberts norm-categorizes [patient]payment as tax'
   natural: Roberts normatively categorized the payment as a tax.
-  words_attested:
-  - W100
-  - W122
-  - W203
-  - W205
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -11514,13 +11230,7 @@ sentences:
     penalty and tax
   natural: '`~wi-fe''de` is a structural fact / but the rule has not comprehended
     the boundary between penalty and tax.'
-  words_attested:
-  - W025
-  - W028
-  - W100
-  - W199
-  - W203
-  - W205
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -11545,11 +11255,8 @@ sentences:
   tonesu: la-ra-ka-li  ra-ka  lo-zo-li
   gloss_line: '[agent]fighter applies-force [patient]persons'
   natural: A fighter applies force against persons.
-  words_attested:
-  - W148
-  - W206
-  first_attests:
-  - W206
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S651
@@ -11567,10 +11274,8 @@ sentences:
   tonesu: la-to-ra-li  ra-be  go  to
   gloss_line: '[agent]wizard force-emerges from knowledge'
   natural: A wizard manifests force from knowledge.
-  words_attested:
-  - W207
-  first_attests:
-  - W207
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S652
@@ -11587,10 +11292,8 @@ sentences:
   tonesu: la-se-de-li  se-de
   gloss_line: '[agent]rogue evades-detection'
   natural: A rogue evades detection.
-  words_attested:
-  - W208
-  first_attests:
-  - W208
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S653
@@ -11608,10 +11311,8 @@ sentences:
   tonesu: la-vo-ra-li  ra-be  go  vo
   gloss_line: '[agent]cleric force-emerges from worth'
   natural: A cleric manifests force from worth.
-  words_attested:
-  - W209
-  first_attests:
-  - W209
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S654
@@ -11628,10 +11329,8 @@ sentences:
   tonesu: la-zo-re-li  ko  lo-re-zo
   gloss_line: '[agent]druid is-within [patient]life-cycle'
   natural: A druid is contained within the life-cycle.
-  words_attested:
-  - W210
-  first_attests:
-  - W210
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S655
@@ -11648,10 +11347,8 @@ sentences:
   tonesu: la-wi-vo-li  wi  lo-vo  /  ra-be
   gloss_line: '[agent]paladin wills [patient]worth / force-manifests'
   natural: A paladin wills toward worth / and force manifests.
-  words_attested:
-  - W211
-  first_attests:
-  - W211
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S656
@@ -11669,11 +11366,8 @@ sentences:
   tonesu: la-zo-ki-li  ki  lo-pa-fe
   gloss_line: '[agent]ranger moves [patient]frontier'
   natural: A ranger moves to the frontier.
-  words_attested:
-  - W138
-  - W212
-  first_attests:
-  - W212
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S657
@@ -11690,11 +11384,8 @@ sentences:
   tonesu: la-so-vo-li  so-vo  lu-zo-li
   gloss_line: '[agent]bard sonic-worth [beneficiary]persons'
   natural: A bard creates sonic worth for persons.
-  words_attested:
-  - W148
-  - W213
-  first_attests:
-  - W213
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S658
@@ -11712,10 +11403,8 @@ sentences:
   tonesu: ha-ki  lo-ko-ha-mu
   gloss_line: heat-change [patient]oven
   natural: Heat-change the containment-heat-device.
-  words_attested:
-  - W214
-  first_attests:
-  - W214
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S659
@@ -11731,11 +11420,8 @@ sentences:
   tonesu: ma-ne-ki  lo-ki'ma-zo-ra-ma  pa-ko-mu  lu-su-ne
   gloss_line: mix [patient]liquid-food [location]vessel [result]harmony
   natural: 'Combine the liquid food-materials in the vessel, result: structural harmony.'
-  words_attested:
-  - W174
-  - W215
-  first_attests:
-  - W215
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S660
@@ -11752,8 +11438,7 @@ sentences:
   tonesu: pa-no-ne-ko-mu  ma-ne-ki  lo-su'ma-zo-ra-ma
   gloss_line: '[location]separate-vessel mix [patient]solid-food'
   natural: At the unrelated vessel, combine the solid food-materials.
-  words_attested:
-  - W215
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -11771,8 +11456,7 @@ sentences:
   tonesu: ma-ne-ki  lo-ki'ma-zo-ra-ma  ne  lo-su'ma-zo-ra-ma
   gloss_line: mix [patient]liquid-food and [patient]solid-food
   natural: Combine [liquid food-materials] bonded-with [solid food-materials].
-  words_attested:
-  - W215
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -11793,8 +11477,7 @@ sentences:
     [result]heat-set
   natural: 'Move the structured food-matter to the oven; the oven heat-changes the
     structured food-matter, result: thermally-set.'
-  words_attested:
-  - W214
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -11815,10 +11498,8 @@ sentences:
   gloss_line: move [patient]baked-food ; thermal-decrease ; baked-food complete-structure
   natural: Move the thermally-treated food [from oven]; thermal decrease; the thermally-treated
     food is completed-formation.
-  words_attested:
-  - W216
-  first_attests:
-  - W216
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S664
@@ -11836,10 +11517,8 @@ sentences:
   tonesu: lo-ki  su-ti  no-ra
   gloss_line: null
   natural: The machine is currently in an inactive configuration.
-  words_attested:
-  - W101
-  first_attests:
-  - W101
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S665
@@ -11945,8 +11624,7 @@ sentences:
   tonesu: la-ki  wi-re  lu-su-ti-be
   gloss_line: null
   natural: The machine self-regulates toward its target configuration.
-  words_attested:
-  - W099
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -11966,11 +11644,8 @@ sentences:
   tonesu: la-Solomon  ne  wi-ra  lo-yom bun nu wi-ra-li
   gloss_line: null
   natural: Solomon held authority over 72 spirits of directed power.
-  words_attested:
-  - W177
-  - W217
-  first_attests:
-  - W217
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S672
@@ -11988,12 +11663,8 @@ sentences:
   tonesu: la-Solomon  ka-be-ne  lo-wi-ra-li  lu-ko-mu
   gloss_line: null
   natural: Solomon bound the spirits, confining them in a vessel.
-  words_attested:
-  - W052
-  - W217
-  - W218
-  first_attests:
-  - W218
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S673
@@ -12009,8 +11680,7 @@ sentences:
   tonesu: la-Solomon  ka-fe-si  lo-ko-mu  go-si
   gloss_line: null
   natural: Solomon sealed the vessel with his sign.
-  words_attested:
-  - W052
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12027,9 +11697,7 @@ sentences:
   tonesu: la-li-Bavel  se-ka  lo-ko-mu
   gloss_line: null
   natural: The Babylonians found the vessel through investigation.
-  words_attested:
-  - W034
-  - W052
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12046,8 +11714,7 @@ sentences:
   tonesu: la-li-Bavel  ka-no-ko  lo-ko-mu
   gloss_line: null
   natural: The Babylonians opened the vessel.
-  words_attested:
-  - W052
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12063,9 +11730,7 @@ sentences:
   tonesu: la-wi-ra-li  ki  go-ka-no-ko'ko-mu
   gloss_line: null
   natural: The spirits moved forth, [released by] the opening of the vessel.
-  words_attested:
-  - W052
-  - W217
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12083,8 +11748,7 @@ sentences:
   tonesu: 'ti-re-Saturn : la-to-ra-li  ka  lo-wi-ka'
   gloss_line: null
   natural: In the Saturn time-slot, the practitioner performs the ritual work.
-  words_attested:
-  - W207
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12105,13 +11769,8 @@ sentences:
   tonesu: 'gal nu lu-ti : la-to-ra-li  ne  ne-fe  ka-no-de-su  lo-su-ti'
   gloss_line: null
   natural: For three day-periods, the practitioner must cleanse their current state.
-  words_attested:
-  - W042
-  - W101
-  - W120
-  - W207
-  first_attests:
-  - W120
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S679
@@ -12130,9 +11789,7 @@ sentences:
   tonesu: la-to-ra-li  ne  ne-fe  lo-yim-vo-mu
   gloss_line: null
   natural: The practitioner must [wear] white garments.
-  words_attested:
-  - W042
-  - W207
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12152,9 +11809,7 @@ sentences:
   tonesu: 'ti-re-Mercury : la-to-ra-li  ka  lu-ka-mu'
   gloss_line: null
   natural: In the Mercury time-slot, the practitioner makes the instruments.
-  words_attested:
-  - W047
-  - W207
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12174,9 +11829,7 @@ sentences:
   tonesu: la-to-ra-li  ka-fe-vo  lo-ka-mu  go-wi-ka
   gloss_line: null
   natural: The practitioner consecrates the instruments through ritual.
-  words_attested:
-  - W047
-  - W207
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12196,9 +11849,7 @@ sentences:
   tonesu: la-fe-vo'si-ko-mu-Saturn  ne  wi-ra  lo-wi-ra-li-Saturn
   gloss_line: null
   natural: The pentacle of Saturn holds directed power over the spirits of Saturn.
-  words_attested:
-  - W065
-  - W177
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12221,8 +11872,7 @@ sentences:
   tonesu: a-zo-li  ne  de-zo
   gloss_line: null
   natural: All persons are mortal.
-  words_attested:
-  - W178
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12241,8 +11891,7 @@ sentences:
   tonesu: la-Sokrates  ne  zo-li
   gloss_line: null
   natural: Socrates is a person.
-  words_attested:
-  - W148
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12261,9 +11910,7 @@ sentences:
   gloss_line: null
   natural: 'Because all persons are mortal, and because Socrates is a person: Socrates
     is mortal.'
-  words_attested:
-  - W148
-  - W178
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12285,9 +11932,7 @@ sentences:
   tonesu: la-li  to-ki ;  lo-li  su-ti
   gloss_line: null
   natural: I am reasoning; I am in a current state.
-  words_attested:
-  - W020
-  - W101
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12308,9 +11953,7 @@ sentences:
   tonesu: go {la-li  to-ki},  lo-li  su-ti
   gloss_line: null
   natural: 'Because I am reasoning: I have a determinate present state.'
-  words_attested:
-  - W020
-  - W101
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12334,9 +11977,7 @@ sentences:
   gloss_line: null
   natural: 'If there were no motion, there would be no cyclic recurrence. Cyclic recurrence
     [currently] obtains. By the foregoing principle: motion.'
-  words_attested:
-  - W089
-  - W101
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12362,8 +12003,7 @@ sentences:
   tonesu: i-zo-li  ne  de-zo
   gloss_line: null
   natural: A particular person is mortal.
-  words_attested:
-  - W178
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12387,8 +12027,7 @@ sentences:
   tonesu: go {la-li  ki},  la-li  ne  fa-vo
   gloss_line: null
   natural: 'Because I move: I have happiness.'
-  words_attested:
-  - W197
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12462,8 +12101,7 @@ sentences:
   tonesu: la-li  to  {la-Sokrates  ne  de-zo}
   gloss_line: null
   natural: I hold [that Sokrates is mortal] as my conception.
-  words_attested:
-  - W178
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12485,9 +12123,7 @@ sentences:
   tonesu: la-li  to-su  {la-Sokrates  ne  de-zo}
   gloss_line: null
   natural: I have organized knowledge [that Sokrates is mortal].
-  words_attested:
-  - W030
-  - W178
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12511,12 +12147,8 @@ sentences:
   tonesu: la-na-Aharon  ka  lo-zo-su-mu ;  zo-su-mu  ki ;  ne  zo-ki-ma
   gloss_line: null
   natural: Aaron cast the staff; the staff changed; [it was] a snake.
-  words_attested:
-  - W220
-  - W221
-  first_attests:
-  - W220
-  - W221
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S696
@@ -12541,9 +12173,7 @@ sentences:
   tonesu: la-na-Faro  si-ki  lo-to-ra-li
   gloss_line: null
   natural: Pharaoh directed a summons to the sorcerers.
-  words_attested:
-  - W023
-  - W207
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12564,9 +12194,7 @@ sentences:
   tonesu: la-to-ra-li  ka  lo-zo-su-mu-ne  go-si  wi-ra-su
   gloss_line: null
   natural: The sorcerers cast their staffs by means of their secret arts.
-  words_attested:
-  - W179
-  - W207
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12589,8 +12217,7 @@ sentences:
   tonesu: zo-su-mu-ne  ki ;  ne  zo-ki-ma
   gloss_line: null
   natural: Their staffs changed; [they were] snakes.
-  words_attested:
-  - W220
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12666,10 +12293,8 @@ sentences:
   tonesu: a-ka-ra  ne  go-si  ka-si-de
   gloss_line: null
   natural: All warfare operates through deception.
-  words_attested:
-  - W224
-  first_attests:
-  - W224
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S702
@@ -12692,8 +12317,7 @@ sentences:
   tonesu: ka-ra  ne  go-si  ki
   gloss_line: null
   natural: Warfare operates through speed.
-  words_attested:
-  - W222
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12716,11 +12340,8 @@ sentences:
   gloss_line: null
   natural: 'As for supreme excellence: the adversary is in a state of defeat, not
     via combat.'
-  words_attested:
-  - W222
-  - W223
-  first_attests:
-  - W223
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S704
@@ -12746,9 +12367,7 @@ sentences:
   gloss_line: null
   natural: 'If I have organized knowledge of the adversary and of myself: all combat
     is free of defeat.'
-  words_attested:
-  - W030
-  - W223
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12778,10 +12397,7 @@ sentences:
   gloss_line: null
   natural: 'If I know myself but not the adversary: combat is [sometimes] victory
     / [sometimes] defeat.'
-  words_attested:
-  - W030
-  - W222
-  - W223
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12808,9 +12424,7 @@ sentences:
   gloss_line: null
   natural: 'If I have neither knowledge of the adversary nor of myself: all combat
     results in defeat.'
-  words_attested:
-  - W030
-  - W223
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12834,10 +12448,7 @@ sentences:
   tonesu: 'wi-ra  :  fa-ra  su  nu-be  fa-vo'
   gloss_line: null
   natural: 'As for authority: fear has more structural reliability than love.'
-  words_attested:
-  - W154
-  - W177
-  - W197
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12865,11 +12476,8 @@ sentences:
   gloss_line: null
   natural: The sovereign appears as one of worth to others / [but] the sovereign IS
     deception.
-  words_attested:
-  - W224
-  - W225
-  first_attests:
-  - W225
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S709
@@ -12921,8 +12529,7 @@ sentences:
   tonesu: wi {la-mi  ra-be},  la-mi  ka-si-de  lo  ze
   gloss_line: null
   natural: In order for me to gain power, I deceive others.
-  words_attested:
-  - W224
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -12949,10 +12556,8 @@ sentences:
   tonesu: go {fa-no},  la-mi  ka-no-su  lo  ze
   gloss_line: null
   natural: Because affect is inactive, I act without structural constraint on others.
-  words_attested:
-  - W095
-  first_attests:
-  - W095
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S712
@@ -12982,9 +12587,7 @@ sentences:
   gloss_line: null
   natural: I am of supreme excellence; [and] in order to gain power, I deceive; [and]
     because affect is inactive, I act without structure.
-  words_attested:
-  - W095
-  - W224
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -13014,12 +12617,8 @@ sentences:
   gloss_line: null
   natural: 'Only have scholars systematized knowledge of the world; [pivot]: scholars
     act on the world.'
-  words_attested:
-  - W003
-  - W030
-  - W135
-  first_attests:
-  - W135
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S714
@@ -13050,9 +12649,7 @@ sentences:
   gloss_line: null
   natural: '[You,] collective-producers of the world — bind yourselves together! →
     Workers of the world, unite!'
-  words_attested:
-  - W135
-  - W218
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -13081,10 +12678,8 @@ sentences:
   tonesu: fa-ra-su  ne  fa-de-mu  lo  o-zo-li
   gloss_line: null
   natural: Religion is the affect-fading device for the collective-of-persons.
-  words_attested:
-  - W226
-  first_attests:
-  - W226
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S716
@@ -13112,8 +12707,7 @@ sentences:
   tonesu: du-be-go-li  ne  de-li  lo  be-go-li
   gloss_line: null
   natural: The product-of-the-producer is an adversary to the producer.
-  words_attested:
-  - W223
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -13174,9 +12768,7 @@ sentences:
   tonesu: de-zo'ka-be  ne  wi-ra  ;  ru-fe,  be  go-si  ko-de  lo  ka-be-zo
   gloss_line: null
   natural: 'Dead labor is directed power; only: [it] grows by devouring living labor.'
-  words_attested:
-  - W177
-  - W178
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -13212,9 +12804,7 @@ sentences:
   tonesu: ma-ne-ki  lo-du-zo-ki  pa-ko-mu  lu-su-ne
   gloss_line: null
   natural: 'Beat the eggs in the bowl, result: uniform mixture.'
-  words_attested:
-  - W174
-  - W215
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -13237,10 +12827,8 @@ sentences:
   tonesu: ha-ki  lo-su-ha-mu ;  ki  lo-su'ma-zo-ra-ma  pa-su-ha-mu
   gloss_line: null
   natural: Heat the pan; add the solid food material [fat/butter] to the pan.
-  words_attested:
-  - W227
-  first_attests:
-  - W227
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S721
@@ -13310,9 +12898,7 @@ sentences:
   gloss_line: null
   natural: 'If [the food is in the snapshot-state: not-thermally-set], move the cooked
     food [off heat].'
-  words_attested:
-  - W101
-  - W216
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -13339,8 +12925,7 @@ sentences:
   tonesu: ha-zo-ra-ma  ne  vo
   gloss_line: null
   natural: The cooked food has worth. / The scrambled eggs are good.
-  words_attested:
-  - W216
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -13364,10 +12949,8 @@ sentences:
   tonesu: go {ki-fe-mu},  la-pe-ma  ne  ki-be
   gloss_line: On account of strings, particles have the property of being vibration-modes.
   natural: Particles are vibration modes of strings.
-  words_attested:
-  - W228
-  first_attests:
-  - W228
+  words_attested: []
+  first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
   source_anchor: S726
@@ -13387,8 +12970,7 @@ sentences:
   tonesu: la-pa  ne  bol bol nu pa-di
   gloss_line: Space has the property of eleven spatial-directions.
   natural: Space has eleven dimensions.
-  words_attested:
-  - W229
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -13410,8 +12992,7 @@ sentences:
   tonesu: mol nu pa-di  ne  lu
   gloss_line: Four dimensions have the property of visibility/observability.
   natural: Four dimensions are observable (the large dimensions of spacetime).
-  words_attested:
-  - W229
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -13453,8 +13034,7 @@ sentences:
   tonesu: go {ki-fe-mu},  la-o-ra  be
   gloss_line: On account of strings, all forces arise/emerge.
   natural: All forces emerge from strings.
-  words_attested:
-  - W228
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md
@@ -13477,9 +13057,7 @@ sentences:
   tonesu: (go {ki-fe-mu},  la-o-ra  ne  su-ne)
   gloss_line: (On account of strings, all forces have the property of structural-harmony.)
   natural: It is theorized that strings unify all forces.
-  words_attested:
-  - W174
-  - W228
+  words_attested: []
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s549-plus.md

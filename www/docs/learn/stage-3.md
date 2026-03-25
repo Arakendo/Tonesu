@@ -366,8 +366,8 @@ was wrong and here is the correction.
 | `ya,` | marker | attention signal |
 | `ke,` / `ke!` | marker | pivot |
 | `ru-fe,` | marker | exclusive scope |
-| `(…)` | notation | evidential frame — reported / unattributed |
-| `[…]` | notation | aside / annotation |
+| `(…)` / `vund … vunds` | notation | evidential frame — reported / unattributed |
+| `[…]` / `zeld … zelds` | notation | aside / annotation |
 | `~` / `ven` | notation | approximation |
 | `—` / `el` | notation | prosodic suspension |
 
