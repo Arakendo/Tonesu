@@ -1,13 +1,15 @@
-# Stage 6 — Production
+# Stage 6 — Epistemic discipline
 
-Writing original sentences from prompts. Applying CLQ contraction rules.
-Understanding when formal vs colloquial register is appropriate. Translation challenges:
-given an English sentence (or a passage from an existing translation), produce Tonesu
-and justify each structural choice.
+Not just grammar — the philosophical core of the language.
 
-The Bible, Tao Te Ching, and other translation files in the corpus are rich material
-here — working through a genuine translation forces you to encounter the full range of
-what Tonesu must express.
+Topics: when to use `se` (perception) vs `si` (signal/hypothesis) vs `to` (established
+knowledge); when *not* to upgrade a claim; how epistemic misuse looks and why it
+matters; the evidential frame `()` as a tool for intellectual honesty; `~` approximation
+when precision should give way; `helm` vs `helms` vs `ne` — the three-way
+attribution/equivalence/identity spectrum.
+
+Material: the fallacy batch (S374–S397) and theological batch (THO) are rich sources
+here — they were designed to stress-test exactly these distinctions.
 
 !!! note "In development"
     This stage is not yet written. Start with [Stage 0 — First Contact](stage-0.md)

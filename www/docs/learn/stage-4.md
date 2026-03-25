@@ -306,10 +306,9 @@ the correct grouping; it is not optional here.
 
 ## Next
 
-[Stage 5](stage-5.md) extends the registry into domain-specific vocabulary and
-introduces the scope prefixes `a-`, `i-`, `u-`, `o-`, `e-` — the five scope
-modifiers that let any compound shift from concrete to abstract, particular to
-universal.
-
-!!! note "In development"
-    Stage 5 is not yet written.
+[Stage 5 — Scope prefixes](stage-5.md) introduces the five V-prefix scope
+modifiers: `a-` (abstract/universal), `i-` (particular/precise), `u-`
+(interior/foundational), `o-` (collective), and `e-` (in-process). One prefix
+character shifts an entire compound's register — from a disciplinary scholar
+(`to-li`) to a sage (`a-to-li`), from a count of people (`pu-li`) to a community
+as a unified body (`o-li`).
