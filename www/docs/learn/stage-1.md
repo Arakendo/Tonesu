@@ -64,6 +64,7 @@ clusters.
 
 !!! question "Exercise — *Acknowledged*"
     In Cluster 1, sentence (4): `ka-to-su-ki` — *Understood.*
+    (A = reporting engineer · B = director giving orders)
 
     Roots: `ka` (intentional action) · `to` (knowledge) · `su` (structure) · `ki` (motion).
     What does the compound mean, and when does B say it?
@@ -200,12 +201,12 @@ something happens. `ta-ti-mi` = "at this time now." `ta-ti-de` = "in the past."
 ---
 
 !!! question "Exercise — *Epistemic level*"
-    In Cluster 3:
+    In Cluster 3 (A = reporting engineer · B = director):
 
-    - `(3)  ta-ti-mi  fe-ki?` — Does it cross the limit now?
-    - `(4)  la-mi  si  [fe-ki  ta-ti-mi]` — I assess: it crosses the limit now.
+    - `(3)  ta-ti-mi  fe-ki?` — Does it cross the limit now?  *(B asking)*
+    - `(4)  la-mi  si  [fe-ki  ta-ti-mi]` — I assess: it crosses the limit now.  *(A answering)*
 
-    Both describe the same event. What is sentence (4) doing differently from (3)?
+    What is sentence (4) doing differently from (3)?
 
     <div class="tn-learn-mcq"
          data-answer="b"
