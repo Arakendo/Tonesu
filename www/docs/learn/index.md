@@ -29,7 +29,7 @@ compounds, test your parse reasoning, and construct new words.
 | [Stage 4 — Derived vocabulary](stage-4.md) | Work through the registry; parse derived entries from roots. | ✅ Available |
 | [Stage 5 — Scope prefixes](stage-5.md) | The five V-prefix scope modifiers: universal, particular, interior, collective, in-process. | ✅ Available |
 | [Stage 6 — Epistemic discipline](stage-6.md) | The philosophical core: calibrated claims, evidential frames, when to hedge. | ✅ Available |
-| [Stage 7 — Production](stage-7.md) | Original sentences, register, translation challenges. | 🔄 In development |
+| [Stage 7 — Production](stage-7.md) | Original sentences, register, translation challenges. | ✅ Available |
 
 Start at [Stage 0](stage-0.md).
 
