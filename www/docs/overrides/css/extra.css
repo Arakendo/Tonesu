@@ -1332,7 +1332,7 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
   background: var(--md-code-bg-color);
   color: var(--md-default-fg-color);
   font-family: inherit;
-  font-size: .875rem;
+  font-size: .8rem;
   text-align: left;
   cursor: pointer;
   transition: border-color .15s, background .15s;
