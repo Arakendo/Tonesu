@@ -1281,3 +1281,30 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
 .lp-feedback--wrong {
   color: #fc618d;
 }
+
+/* ── Exercise question admonition — purple instead of default green ── */
+[data-md-color-scheme="slate"] .md-typeset .admonition.question,
+[data-md-color-scheme="slate"] .md-typeset details.question {
+  border-color: #948ae3;
+}
+[data-md-color-scheme="slate"] .md-typeset .question > .admonition-title,
+[data-md-color-scheme="slate"] .md-typeset .question > summary {
+  background-color: color-mix(in sRGB, #948ae3 12%, transparent);
+}
+[data-md-color-scheme="slate"] .md-typeset .question > .admonition-title::before,
+[data-md-color-scheme="slate"] .md-typeset .question > summary::before {
+  background-color: #948ae3;
+}
+
+[data-md-color-scheme="default"] .md-typeset .admonition.question,
+[data-md-color-scheme="default"] .md-typeset details.question {
+  border-color: #6851a2;
+}
+[data-md-color-scheme="default"] .md-typeset .question > .admonition-title,
+[data-md-color-scheme="default"] .md-typeset .question > summary {
+  background-color: color-mix(in sRGB, #6851a2 12%, transparent);
+}
+[data-md-color-scheme="default"] .md-typeset .question > .admonition-title::before,
+[data-md-color-scheme="default"] .md-typeset .question > summary::before {
+  background-color: #6851a2;
+}
