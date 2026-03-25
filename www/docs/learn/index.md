@@ -25,8 +25,8 @@ compounds, test your parse reasoning, and construct new words.
 | [Stage 0 — First Contact](stage-0.md) | Three real sentences. See what you can work out before reading on. | ✅ Available |
 | [Stage 1 — Roots in context](stage-1.md) | Roots introduced through sentences, in clusters of 3–6. Reuse heavily. | ✅ Available |
 | [Stage 2 — Compound construction](stage-2.md) | Head-final composition, the `'` juncture marker, ambiguity drills. | ✅ Available |
-| [Stage 3 — Grammar and notation](stage-3.md) | Particles and notation marks together — they are experienced together. | 🔄 In development |
-| [Stage 4 — Derived vocabulary](stage-4.md) | Work through the registry; parse derived entries from roots. | 🔄 In development |
+| [Stage 3 — Grammar and notation](stage-3.md) | Particles and notation marks together — they are experienced together. | ✅ Available |
+| [Stage 4 — Derived vocabulary](stage-4.md) | Work through the registry; parse derived entries from roots. | ✅ Available |
 | [Stage 5 — Epistemic discipline](stage-5.md) | The philosophical core: calibrated claims, evidential frames, when to hedge. | 🔄 In development |
 | [Stage 6 — Production](stage-6.md) | Original sentences, register, translation challenges. | 🔄 In development |
 

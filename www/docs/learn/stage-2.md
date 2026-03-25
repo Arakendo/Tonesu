@@ -287,11 +287,6 @@ roots, use it when the default right-branching parse gives you the wrong meaning
 
 ## Next
 
-[Stage 3 — Grammar and notation](stage-3.md) formally introduces the particle system
-(`la-`, `lo-`, `lu-`) and the notation marks together. They're learned together because
-they're used together.
-
-
-!!! note "In development"
-    This stage is not yet written. Start with [Stage 0 — First Contact](stage-0.md)
-    and return here as the curriculum develops.
+[Stage 3 — Grammar and notation](stage-3.md) formally introduces the full particle
+system and the notation marks together. They're learned together because they're
+used together in every real sentence.
