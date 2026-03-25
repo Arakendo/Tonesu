@@ -106,11 +106,14 @@ solid for natural reading.
 !!! question "Exercise 1 — Fill in the blank"
     What root completes this compound?
 
-    ```
-    ___-si
-    ```
-
     The result should mean: *a signal that seeks knowledge* — a question.
+
+    <div class="tn-learn-picker"
+         data-template="___-si"
+         data-answer="to"
+         data-mode="both"
+         data-items='[{"form":"to","gloss":"knowledge"},{"form":"ki","gloss":"motion"},{"form":"mu","gloss":"artifact"},{"form":"de","gloss":"decay"}]'>
+    </div>
 
 ??? success "Answer"
     `to-si` — knowledge (`to`) + signal (`si`).
@@ -126,9 +129,12 @@ solid for natural reading.
     Sentence (2) says *I'm going to the city*. Fill in the blank to say *you're going
     to the city*:
 
-    ```
-    la-___  ki  pa-li-pu  ta-ti-be
-    ```
+    <div class="tn-learn-picker"
+         data-template="la-___  ki  pa-li-pu  ta-ti-be"
+         data-answer="tu"
+         data-mode="both"
+         data-items='[{"form":"mi","gloss":"I / speaker"},{"form":"tu","gloss":"you / addressee"},{"form":"ze","gloss":"third person"},{"form":"li","gloss":"person"}]'>
+    </div>
 
 ??? success "Answer"
     `la-tu` — the second-person root is `tu`.

@@ -123,9 +123,16 @@ they're asking about `vo`.
 ---
 
 !!! question "Exercise — What does `lo-mu no-de` mean?"
-    Break it into its roots. What does each contribute? What's the full meaning?
+    Select the correct meaning:
 
-??? success "Answer"
+    <div class="tn-learn-picker"
+         data-template="lo-mu  no-de  →  ___"
+         data-answer="intact"
+         data-mode="gloss"
+         data-items='[{"form":"intact","gloss":"undamaged / intact"},{"form":"broken","gloss":"damaged / broken"},{"form":"moving","gloss":"in motion"},{"form":"unknown","gloss":"unknown status"}]'>
+    </div>
+
+??? success "Explanation"
     `lo-` + `mu` (artifact) + `no-` (negation) + `de` (decay) = "The device is
     not-decayed" = the device is intact / undamaged.
 
@@ -259,10 +266,17 @@ In (4), `lo-ze` = "patient:it" — pointing back to the water facility mentioned
 ---
 
 !!! question "Exercise — Construct a question about a device"
-    Using `lo-mu`, `vo`, and `to-si`, write a question asking about the condition or
-    quality of a device.
+    The pattern is `lo-mu  ___  to-si?` — topic, quality-dimension, query marker.
+    Which root fills the blank to ask *what quality / condition* the device has?
 
-??? success "Answer"
+    <div class="tn-learn-picker"
+         data-template="lo-mu  ___  to-si?"
+         data-answer="vo"
+         data-mode="both"
+         data-items='[{"form":"vo","gloss":"value / quality"},{"form":"ru","gloss":"unity / wholeness"},{"form":"fe","gloss":"boundary / limit"},{"form":"se","gloss":"perception / sense"}]'>
+    </div>
+
+??? success "Explanation"
     Following the C001 B1 pattern (topic + quality-dimension + query marker):
 
     `lo-mu  vo  to-si?`

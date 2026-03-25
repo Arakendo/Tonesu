@@ -161,6 +161,7 @@ extra_javascript:
   - js/datatables-init.js
   - js/root-builder.js
   - js/web-speech.js
+  - js/learn-picker.js
 
 extra:
   generator: false
