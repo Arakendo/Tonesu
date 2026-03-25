@@ -27,8 +27,9 @@ compounds, test your parse reasoning, and construct new words.
 | [Stage 2 — Compound construction](stage-2.md) | Head-final composition, the `'` juncture marker, ambiguity drills. | ✅ Available |
 | [Stage 3 — Grammar and notation](stage-3.md) | Particles and notation marks together — they are experienced together. | ✅ Available |
 | [Stage 4 — Derived vocabulary](stage-4.md) | Work through the registry; parse derived entries from roots. | ✅ Available |
-| [Stage 5 — Epistemic discipline](stage-5.md) | The philosophical core: calibrated claims, evidential frames, when to hedge. | 🔄 In development |
-| [Stage 6 — Production](stage-6.md) | Original sentences, register, translation challenges. | 🔄 In development |
+| [Stage 5 — Scope prefixes](stage-5.md) | The five V-prefix scope modifiers: universal, particular, interior, collective, in-process. | ✅ Available |
+| [Stage 6 — Epistemic discipline](stage-6.md) | The philosophical core: calibrated claims, evidential frames, when to hedge. | ✅ Available |
+| [Stage 7 — Production](stage-7.md) | Original sentences, register, translation challenges. | 🔄 In development |
 
 Start at [Stage 0](stage-0.md).
 
