@@ -103,41 +103,42 @@ solid for natural reading.
 
 ## Two exercises
 
-### Parse this compound
+!!! question "Exercise 1 — Fill in the blank"
+    What root completes this compound?
 
-> **`to-si`**
->
-> Break it into its roots. What does each root mean? What does the compound mean as a whole?
-> How does it work in sentence (3)?
+    ```
+    ___-si
+    ```
+
+    The result should mean: *a signal that seeks knowledge* — a question.
 
 ??? success "Answer"
-    `to` (knowledge / thought) + `si` (signal / information-carrier) = a knowledge-seeking
-    signal = an inquiry.
+    `to-si` — knowledge (`to`) + signal (`si`).
 
-    In sentence (3), `to-si —` is placed before the full proposition `la-tu ki pa-li-pu
-    ta-ti-be`. The proposition itself is complete and well-formed. `to-si` marks it as the
-    thing whose truth-value is being sought. Result: a question.
-
-    Head-final rule in action: `si` (signal) is the head; it is characterized by `to`
-    (knowledge-seeking). A signal that seeks knowledge.
+    `to` characterizes the signal: it's knowledge-seeking. Head-final rule: `si`
+    (signal) is the head; `to` describes what kind. In sentence (3), `to-si —` is
+    placed before the full proposition. It marks the whole thing as "information I'm
+    seeking." Result: a question.
 
 ---
 
-### What changed?
+!!! question "Exercise 2 — Fill in the blank"
+    Sentence (2) says *I'm going to the city*. Fill in the blank to say *you're going
+    to the city*:
 
-> Sentence (2) says *I'm going to the city*. How would you say *you're going to the city*?
-> Write the sentence.
+    ```
+    la-___  ki  pa-li-pu  ta-ti-be
+    ```
 
 ??? success "Answer"
-    Replace `la-mi` with `la-tu`:
+    `la-tu` — the second-person root is `tu`.
 
     ```
     la-tu  ki  pa-li-pu  ta-ti-be
     ```
 
-    Tonesu encodes who acts by swapping the root after `la-`. The rest of the sentence
-    is unchanged. This is the full scope of "conjugation" in Tonesu: there is none — only
-    the agent root changes.
+    Tonesu has no conjugation. Who acts is encoded by swapping the root after `la-`.
+    Everything else stays the same.
 
 ---
 
