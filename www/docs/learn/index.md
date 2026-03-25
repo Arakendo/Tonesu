@@ -23,7 +23,7 @@ compounds, test your parse reasoning, and construct new words.
 | Stage | What it covers | Status |
 |-------|---------------|--------|
 | [Stage 0 — First Contact](stage-0.md) | Three real sentences. See what you can work out before reading on. | ✅ Available |
-| [Stage 1 — Roots in context](stage-1.md) | Roots introduced through sentences, in clusters of 3–6. Reuse heavily. | 🔄 In development |
+| [Stage 1 — Roots in context](stage-1.md) | Roots introduced through sentences, in clusters of 3–6. Reuse heavily. | ✅ Available |
 | [Stage 2 — Compound construction](stage-2.md) | Head-final composition, the `'` juncture marker, ambiguity drills. | 🔄 In development |
 | [Stage 3 — Grammar and notation](stage-3.md) | Particles and notation marks together — they are experienced together. | 🔄 In development |
 | [Stage 4 — Derived vocabulary](stage-4.md) | Work through the registry; parse derived entries from roots. | 🔄 In development |

@@ -15,7 +15,7 @@ These sentences come from C001 and C002 — engineers responding to equipment fa
 A is reporting in; B is directing.
 
 ```
-(1)  la-mi  pa-re-mu  lo-de  ka-se-past
+(1)  la-mi  pa-re-mu  lo-de  ka-se  ta-ti-de
      I found damage in the backup unit.
 
 (2)  ka-se  lo-si-su-mu
@@ -27,7 +27,7 @@ A is reporting in; B is directing.
 (4)  ka-to-su-ki
      Understood.
 
-(5)  ka-ki-now
+(5)  ka-ki  ta-ti-mi
      I'm going now.
 ```
 
@@ -52,8 +52,8 @@ interpret it. Detecting a fault. Seeing something. `to` is what you make of it;
 
 **Imperatives.** Sentences (2), (3), and (5) have no `la-tu`. That's the imperative:
 a direct instruction drops the addressee marker. The action stands alone.
-You can also drop the speaker: `ka-ki-now` omits `la-mi` because in the moment,
-who else would be going?
+You can also drop the speaker: `la-mi  ka-ki  ta-ti-mi` commonly appears as bare
+`ka-ki  ta-ti-mi` — `la-mi` omitted because in the moment, who else would be going?
 
 **Compounds in this cluster you'll see again:** `re-mu` (backup artifact), `si-su-mu`
 (signal-structure-artifact = antenna array), `ne-mu` (relation-artifact = connector).
@@ -90,7 +90,7 @@ equipment. One engineer finds the relay unstable; another finds the connector br
 (2)  lo-ne-mu  de
      The connector is broken.
 
-(3)  lo-si-mu  ru  ta-now
+(3)  lo-si-mu  ru  ta-ti-mi
      The relay is stable now.
 
 (4)  de  vo  to-si?
@@ -139,16 +139,16 @@ These sentences are from C001 A2–B2 — a tightening deadline. A has found tha
 backup unit is failing; B wants to know if it's already too late.
 
 ```
-(1)  lo-re-mu  de-now
+(1)  lo-re-mu  de  ta-ti-mi
      The backup unit is decaying.
 
-(2)  ti-fe  ki-now
-     [It] approaches the time-limit.
+(2)  ti-fe  ki  ta-ti-mi
+     [It] approaches the time-limit now.
 
-(3)  ta-now  fe-ki?
-     Does it cross the limit today?
+(3)  ta-ti-mi  fe-ki?
+     Does it cross the limit now?
 
-(4)  la-mi  si  [fe-ki-now]
+(4)  la-mi  si  [fe-ki  ta-ti-mi]
      I assess: it crosses the limit now.
 ```
 
@@ -169,22 +169,29 @@ cycles in when the primary fails. `re` (repetition) tells you its role before yo
 anything else about it.
 
 **`fe-ki`.** Boundary (`fe`) + motion (`ki`) = reaching or crossing a threshold.
-When `ki-now` says the motion is happening now, the line has been reached.
+`ta-ti-mi` locks the motion to the present moment: it's crossing *now*.
 
-**Time markers.** You've seen `-now` and `-past` attaching to roots, and `ta-now` as a
-standalone time phrase. They mark *when*. `-now` = currently / at present. `-past` =
-at a past time. `ta-now` = at this time / today. The `ta-` prefix builds a time phrase;
-`-now` and `-past` mark the deictic moment directly on a root.
+**Time as a compound.** `ti` pairs with the grow/decay pair to mark temporal direction:
+
+| Compound | Roots | Meaning |
+|----------|-------|---------|
+| `ti-be` | time + grow/approach | upcoming time, future |
+| `ti-mi` | time + self/speaker | now, the present moment |
+| `ti-de` | time + decay/elapsed | past time |
+
+You saw `ta-ti-be` in Stage 0 ("the upcoming time"). Here you see `ta-ti-mi` ("at the
+present moment"). The `ta-` prefix builds a time phrase: `ta-` + time-compound = *when*
+something happens. `ta-ti-mi` = "at this time now." `ta-ti-de` = "in the past."
 
 ---
 
 ??? question "Exercise — What is sentence (4) doing differently from sentence (3)?"
 
 ??? success "Answer"
-    Sentence (3), `ta-now fe-ki?`, is a direct yes/no question: does it cross the
-    limit today? Speaker B is asking.
+    Sentence (3), `ta-ti-mi  fe-ki?`, is a direct yes/no question: does it cross the
+    limit now? Speaker B is asking.
 
-    Sentence (4), `la-mi si [fe-ki-now]`, is A's answer — but notice A doesn't
+    Sentence (4), `la-mi  si  [fe-ki  ta-ti-mi]`, is A's answer — but notice A doesn't
     assert it flatly. `la-mi si [...]` marks the epistemic level: *signal*, not
     certainty. A is saying: "My read is that it crosses now — I'm treating this as a
     strong hypothesis, not established fact."
@@ -202,13 +209,13 @@ These sentences come from C001, C003, and C004 — expressing what you know, wha
 intend, and pointing at things already established in the conversation.
 
 ```
-(1)  la-mi  si  [fe-ki-now]
+(1)  la-mi  si  [fe-ki  ta-ti-mi]
      I assess [as hypothesis]: it crosses the limit now.
 
-(2)  la-mi  si  [lo-mu  be-now]
+(2)  la-mi  si  [lo-mu  be  ta-ti-mi]
      I assess: the machine is still operating.
 
-(3)  lo-ma-su  be-now  pa-ze
+(3)  lo-ma-su  be  ta-ti-mi  pa-ze
      A new water facility is there now.
 
 (4)  la-mi  wi  [ka-se  lo-ze]
@@ -236,7 +243,7 @@ signal (`si`) = inquiry. Now `si` appears as a standalone epistemic marker.
 | `si` | signal / hypothesis | I have a reading; not certainty |
 | `to` | established knowledge | I'm confident; this is my model |
 
-When A says `la-mi si [fe-ki-now]` in C001, the `si` level is doing real work:
+When A says `la-mi si [fe-ki ta-ti-mi]` in C001, the `si` level is doing real work:
 A is not guessing and not certain — A has a strong inference.
 
 **`wi` and purpose clauses.** `la-mi wi [ka-se lo-ze]` = "Agent:I intend [action:examine
@@ -275,7 +282,7 @@ In (4), `lo-ze` = "patient:it" — pointing back to the water facility mentioned
 | `ru` | unity / wholeness | `no-ru` (unstable), `no` prefix |
 | `vo` | value / quality | `de` (damage), `to-si` (content question) |
 | `no` | negation / absence | any root it precedes |
-| `ti` | time / sequence | `be` (upcoming), `fe` (deadline) |
+| `ti` | time / sequence | `be` (upcoming), `mi` (now), `de` (past), `fe` (deadline) |
 | `re` | repetition / cycle | `mu` (backup artifact) |
 | `fe` | boundary / limit | `ti` (deadline), `ki` (crossing) |
 | `si` | signal / representation | `to` (in `to-si`); epistemic modal |
