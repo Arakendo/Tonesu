@@ -1308,3 +1308,85 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
 [data-md-color-scheme="default"] .md-typeset .question > summary::before {
   background-color: #6851a2;
 }
+
+/* ── Learn section — multiple-choice question widget ─────── */
+.tn-learn-mcq {
+  margin: .8rem 0 1rem;
+}
+
+.lp-mcq-options {
+  display: flex;
+  flex-direction: column;
+  gap: .4rem;
+  margin-bottom: .5rem;
+}
+
+.lp-mcq-option {
+  display: flex;
+  align-items: flex-start;
+  gap: .65rem;
+  width: 100%;
+  padding: .5rem .75rem;
+  border: 1px solid var(--md-typeset-table-color);
+  border-radius: 6px;
+  background: var(--md-code-bg-color);
+  color: var(--md-default-fg-color);
+  font-family: inherit;
+  font-size: .875rem;
+  text-align: left;
+  cursor: pointer;
+  transition: border-color .15s, background .15s;
+  line-height: 1.5;
+}
+
+.lp-mcq-option:hover:not(:disabled) {
+  border-color: var(--md-accent-fg-color);
+  background: color-mix(in sRGB, var(--md-accent-fg-color) 8%, var(--md-code-bg-color));
+}
+
+.lp-mcq-option:disabled {
+  opacity: .55;
+  cursor: default;
+}
+
+.lp-mcq-label {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.5em;
+  height: 1.5em;
+  border-radius: 4px;
+  border: 1px solid var(--md-typeset-table-color);
+  font-size: .78rem;
+  font-weight: 700;
+  color: var(--md-default-fg-color--light);
+  flex-shrink: 0;
+  margin-top: .05em;
+}
+
+.lp-mcq-text {
+  flex: 1;
+}
+
+.lp-mcq-option--selected .lp-mcq-label {
+  border-color: var(--md-accent-fg-color);
+  color: var(--md-accent-fg-color);
+}
+
+.lp-mcq-option--correct {
+  border-color: #7bd88f;
+  background: color-mix(in sRGB, #7bd88f 12%, var(--md-code-bg-color));
+}
+.lp-mcq-option--correct .lp-mcq-label {
+  border-color: #7bd88f;
+  color: #7bd88f;
+}
+
+.lp-mcq-option--wrong {
+  border-color: #fc618d;
+  background: color-mix(in sRGB, #fc618d 10%, var(--md-code-bg-color));
+}
+.lp-mcq-option--wrong .lp-mcq-label {
+  border-color: #fc618d;
+  color: #fc618d;
+}
