@@ -182,16 +182,14 @@ valence attached. The head root supplies the character.
 ---
 
 !!! question "Exercise 3 — Which form means *fear or awe*?"
-    One of these compounds names a forceful, overwhelming affect — the one that
-    stops you or lifts you. Pick it.
+    One of these `fa-*` compounds names a forceful, overwhelming affect — the one
+    that stops you or lifts you. The head root tells you the character of the feeling.
 
-    <div class="tn-learn-picker"
-         data-template="___"
-         data-answer="fa-ra"
-         data-mode="form"
-         data-ok="fa-ra — affect + force = forceful affect, fear or awe ✓"
-         data-nok="Check the head root: vo = value (happiness), ra = force (overwhelming affect), de = decay (fading)."
-         data-items='[{"form":"fa-vo","gloss":"fa + vo"},{"form":"fa-ra","gloss":"fa + ra"},{"form":"fa-de","gloss":"fa + de"}]'>
+    <div class="tn-learn-mcq"
+         data-answer="b"
+         data-ok="Correct — fa-ra: affect + force = an affect of overwhelming magnitude. Terror or awe depending on context ✓"
+         data-nok="The head root supplies the character: vo = worth/value, ra = force/power, de = decay. Which head names overwhelming force?"
+         data-options='[{"id":"a","text":"`fa-vo` — affect of positive valuation: happiness, joy (affect + worth)"},{"id":"b","text":"`fa-ra` — affect of overwhelming force: fear or awe (affect + power)"},{"id":"c","text":"`fa-de` — fading affect: waning emotional investment (affect + decay)"}]'>
     </div>
 
 ??? success "Explanation"
@@ -201,7 +199,7 @@ valence attached. The head root supplies the character.
     `fa-vo` = affect + worth = happiness, positive-valence experience.
     `fa-de` = affect + decay = fading affect, the waning of feeling.
 
-    `fa-no` (W095, not in the picker) = affect + absence = numb — the affect is
+    `fa-no` (W095, not in the exercise) = affect + absence = numb — the affect is
     absent rather than present in any character.
 
 ---

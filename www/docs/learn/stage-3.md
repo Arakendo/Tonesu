@@ -202,16 +202,17 @@ second as the rejected alternative. Both must be the same grammatical type.
 ---
 
 !!! question "Exercise 3 — Content or polar?"
-    Which form asks "what quality of damage?" — seeking the unknown argument, not
-    the truth value?
+    Which form asks *"what quality of damage?"* — seeking the unknown argument,
+    not the truth value of the proposition?
 
-    <div class="tn-learn-picker"
-         data-template="___"
-         data-answer="de  vo  to-si?"
-         data-mode="form"
-         data-ok="Correct — to-si in the argument slot = content question: asking for the unknown value ✓"
-         data-nok="That form fronts to-si before the proposition — that asks whether the proposition is true (polar)."
-         data-items='[{"form":"de  vo  to-si?","gloss":"to-si in argument slot"},{"form":"to-si — de  vo?","gloss":"to-si fronted"}]'>
+    - A content question puts `to-si` where the unknown belongs (in the argument slot).
+    - A polar question fronts `to-si` before the full proposition.
+
+    <div class="tn-learn-mcq"
+         data-answer="a"
+         data-ok="Correct — to-si in the argument slot is a content question: the unknown is the quality value itself ✓"
+         data-nok="Fronting to-si before the proposition asks whether the proposition is true (yes/no), not what the missing value is."
+         data-options='[{"id":"a","text":"`de  vo  to-si?` — to-si fills the argument slot: asking for the unknown quality"},{"id":"b","text":"`to-si — de  vo?` — to-si fronted before the proposition: asking whether the decay has that quality"}]'>
     </div>
 
 ??? success "Explanation"

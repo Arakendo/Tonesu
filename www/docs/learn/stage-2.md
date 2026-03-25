@@ -247,18 +247,19 @@ roots, use it when the default right-branching parse gives you the wrong meaning
 
 !!! question "Exercise 4 — Which form means *learner*?"
     The *agent of the learning process* (someone who actively does learning) is
-    not the same as *one who journeys through knowledge*. Which written form
-    encodes which meaning?
+    not the same as *one who journeys through knowledge*. The `'` juncture changes
+    the grouping — and therefore the meaning.
 
-    Select the form that means *learner*:
+    - `to-ki-li` — default right-branch: `to + [ki-li]`
+    - `to-ki'li` — juncture after `ki`: `[to-ki] + li`
 
-    <div class="tn-learn-picker"
-         data-template="___"
-         data-answer="to-ki'li"
-         data-mode="form"
-         data-ok="Correct — to-ki'li: [to-ki] (learning-process) + li (person) ✓"
-         data-nok="Look at where the ' sits — which chain does it force to bind first?"
-         data-items='[{"form":"to-ki-li","gloss":"default right-branch"},{"form":"to-ki&#39;li","gloss":"juncture form"}]'>
+    Which form means *learner*?
+
+    <div class="tn-learn-mcq"
+         data-answer="b"
+         data-ok="Correct — to-ki'li: [to-ki] (learning-process) + li (person) = agent of the learning process ✓"
+         data-nok="Think about what the ' does: it forces to-ki to bind as a unit first, making li the head of [to-ki]."
+         data-options='[{"id":"a","text":"`to-ki-li` — one who journeys through knowledge (to + [ki-li] = knowledge + traveling-person)"},{"id":"b","text":"`to-ki&#39;li` — learner, agent of the learning process ([to-ki] + li = learning-process + person)"}]'>
     </div>
 
 ??? success "Explanation"
