@@ -1,4 +1,4 @@
-# Domains
+# Domain System
 
 A **domain** is a conceptual namespace that groups related vocabulary under a shared substrate and organizing principle. Domains are first-class linguistic objects in Tonesu — they act as productive roots from which specialized terminology grows through compounding, rather than requiring new primitives.
 

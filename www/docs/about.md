@@ -6,7 +6,7 @@ title: About
 
 Tonesu is a constructed language built on a closed set of **34 two-letter primitive roots**. All vocabulary is assembled from those roots by compounding — the language does not admit improvised atoms. The word shape itself tells you what kind of thing it is: primitive root, compound, digit, or physical constant.
 
-The name **Tonesu** is a contraction of `to-ne-su` (pattern · relation · structure) — itself a demonstration of the dual-register design: a compositional root compound that contracts into a natural spoken form.
+The name **Tonesu** is the solid written form of `to-ne-su` (pattern · relation · structure) — itself a demonstration of the design: a compositional root compound whose meaning is audible in its parts.
 
 > Tonesu does not enforce truth. It enforces clarity about the epistemic status of claims.
 

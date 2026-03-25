@@ -25,7 +25,7 @@ Tense is expressed by the temporal particle `ta` and the time-reference compound
 
 | Form | Meaning |
 |------|---------|
-| `ta-now` | at the present moment |
+| `ta-ti-mi` | at the present moment (deictic now — W109) |
 | `ti-de` | past time; previously |
 | `ti-be` | proximate future; next |
 | `ti-re` | next scheduled occurrence |

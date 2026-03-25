@@ -54,22 +54,21 @@ nav:
     - tonesu/index.md
     - The language:
       - Sounds: tonesu/sounds.md
-      - Grammar: tonesu/grammar.md
-      - Morphology: tonesu/morphology.md
-      - Building words: tonesu/words.md
-      - Patterns and quick reference: tonesu/patterns.md
-      - Notation: tonesu/notation.md
-      - Scope prefixes: tonesu/scope.md
       - Primitives: tonesu/primitives.md
-      - Named roots: tonesu/named-roots.md
-      - Exceptional anchors: tonesu/anchors.md
-      - Domains: tonesu/domains.md
+      - Building words: tonesu/words.md
+      - Grammar: tonesu/grammar.md
+      - Scope prefixes: tonesu/scope.md
+      - Notation: tonesu/notation.md
+      - Morphology: tonesu/morphology.md
+      - Quick reference: tonesu/patterns.md
+      - Special forms: tonesu/named-roots.md
+      - Domain system: tonesu/domains.md
     - Vocabulary:
-      - Tonesu Registry: tonesu/registry/overview.md
-      - English index: tonesu/registry/english.md
-      - Tonesu by domain: tonesu/registry/by-domain.md
-      - Tonesu by root: tonesu/registry/by-root.md
-      - Colloquial registry: tonesu/registry/colloquial.md
+      - Word registry: tonesu/registry/overview.md
+      - English lookup: tonesu/registry/english.md
+      - By domain: tonesu/registry/by-domain.md
+      - By root: tonesu/registry/by-root.md
+      - Colloquial forms: tonesu/registry/colloquial.md
       - Colloquial lookup: tonesu/registry/colloquial-english.md
       - Word Builder: tonesu/builder.md
   - Totonesu:
@@ -95,11 +94,11 @@ nav:
       - Translation Analyses: totonesu/corpus/translations/overview.md
   - To'tonesu:
     - to-tonesu/index.md
-    - Patterns: to-tonesu/patterns.md
+    - Pattern analysis: to-tonesu/patterns.md
     - Principles: to-tonesu/principles.md
     - Design notes: to-tonesu/design.md
     - Knowledge & claims: to-tonesu/knowledge.md
-    - Domains: to-tonesu/domains/index.md
+    - Domain exploration: to-tonesu/domains/index.md
     - Sciences:
       - Biology: to-tonesu/domains/biology.md
       - Mathematics: to-tonesu/domains/mathematics.md

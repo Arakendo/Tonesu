@@ -39,5 +39,5 @@ Start here if you want to survey what vocabulary exists and how it was built.
 
 - Every word shape signals its tier: CV = primitive root · CV-CV... = compound · CVC = digit/colour/shortform · CVCC = a physical or mathematical constant.
 - Modifier precedes head. `to-li` = scholar; `to` modifies `li`. Always right-branching.
-- The `'` juncture mark overrides default right-branching: `A'B-C` = A modifies B as a pre-bound unit, then that modifies C.
+- The `'` juncture mark controls grouping inside a compound. Everything to the left of `'` locks as a unit before combining with what follows: `A-B'C-D` = {A-B} modifies {C-D}. Without `'`, the default is right-branching: `A-B-C` = A modifies {B-C}.
 - The primitive set is **closed**: no new CV roots. New vocabulary is always compounded.

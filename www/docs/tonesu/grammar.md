@@ -42,6 +42,8 @@ Short, phonologically distinct syllables. They never merge with roots ambiguousl
 
 Where a particle overlaps with a primitive root (`pa`, `ne`, `ka`, `go`, `du`, `no`) the overlap is always **transparent** — the particle meaning is derived from the root meaning.
 
+Nouns can also carry a **scope prefix** (`a-`, `i-`, `u-`, `o-`, `e-`) before the noun root to specify whether the referent is abstract, particular, foundational, collective, or emergent. Scope prefixes combine with role particles: `la-i-toli` = the specific scholar (as agent). See [Scope prefixes](scope.md).
+
 ---
 
 ## Modifiers precede their head
@@ -59,11 +61,13 @@ voki           →  act with care        (quality-motion compound)
 
 This is one of the most important distinctions in Tonesu. Both forms predicate a quality of an entity — but they make different claims.
 
-**`lo-X Q` — contingent state** (X is currently in state Q; this can change)
+**Decision rule:** Can X *exit* this state? → use `lo`. Is Q part of X's constitution? → use `la`.
+
+The minimal pair — same noun, same quality, different claim:
 
 ```
-loli   vo     →  The person is valued.           (social esteem — contingent)
-lopa   havo   →  The room is warm.               (current temperature)
+lali  vo   →  a person has worth          (intrinsic — la)
+loli  vo   →  the person is valued        (contingent — lo)
 ```
 
 **`la-X Q` — intrinsic property** (X constitutively possesses quality Q)
@@ -73,13 +77,11 @@ lali   vo     →  A person has worth.             (inherent; cannot be revoked)
 larakimu  hafe  →  The engine has a thermal limit.  (structural property)
 ```
 
-**Decision rule:** Can X *exit* this state? → use `lo`. Is Q part of X's constitution? → use `la`.
-
-The minimal pair — same noun, same quality, different claim:
+**`lo-X Q` — contingent state** (X is currently in state Q; this can change)
 
 ```
-lali  vo   →  a person has worth          (intrinsic — la)
-loli  vo   →  the person is valued        (contingent — lo)
+loli   vo     →  The person is valued.           (social esteem — contingent)
+lopa   havo   →  The room is warm.               (current temperature)
 ```
 
 ---

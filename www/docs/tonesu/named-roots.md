@@ -1,10 +1,10 @@
-# Named Roots: Digits, Colors, Scales, and Constants
+# Special Forms: Digits, Colors, Scales, and Constants
 
-Named roots are **closed-class lexical anchors** that sit outside the primitive set. They are not compositional — they are assigned fixed meanings by convention or necessity. They are stratified phonologically to distinguish them from primitives and compounds.
+Special forms are **closed-class lexical anchors** that sit outside the primitive set. They are not compositional — they are assigned fixed meanings by convention or necessity. They are stratified phonologically to distinguish them from primitives and compounds.
 
 ---
 
-## Why Named Roots Exist
+## Why Special Forms Exist
 
 Tonesu uses three phonological tiers for roots:
 
@@ -12,9 +12,9 @@ Tonesu uses three phonological tiers for roots:
 |------|---------|---------|-------|
 | **Primitive** | CV | Ontological roots; the core concept set | Closed (~34 forms) |
 | **Compositional** | CV-CV+ | Combinations of primitives; productive | Open (infinite) |
-| **Named Roots** | CVC / CVCC | Descriptors, constants; ergonomic anchors | Closed (dozens) |
+| **Special forms** | CVC / CVCC | Descriptors, constants; ergonomic anchors | Closed (dozens) |
 
-**Named roots exist because:**
+**Special forms exist because:**
 - Some values are defined by physical convention (AU, the mole), not by ontology
 - Some values are irrational or transcendental (π, e, φ) — no compositional expression
 - Some categories are closed and frequent enough to warrant shortforms (colors, digits, scales)
@@ -41,7 +41,7 @@ Before any concept gets a named root, it must **fail compositional expression** 
 
 ## Phonological Stratification
 
-Named roots occupy two distinct phonological tiers to make category instantly recognizable:
+Special forms occupy two distinct phonological tiers to make category instantly recognizable:
 
 ### CVC Tier (Closed Consonant)
 
@@ -281,6 +281,29 @@ bun nu yarm             → 2 parsecs (stellar neighborhood)
 pir nu yarm             → 1 kiloparsec (galactic structure)
 ```
 
+### Atomic Mass Anchors
+
+| Constant | Form | Value | Notes |
+|----------|------|-------|-------|
+| Electron mass (m_e) | `dolm` | 9.109×10⁻³¹ kg | Atomic physics workhorse |
+| Proton mass (m_p) | `dolf` | 1.672×10⁻²⁷ kg | Factor ~1836 heavier than electron |
+
+```
+dolm nu ma                → electron mass in mass units
+dolf nu ma                → proton mass in mass units
+```
+
+### Phonological Constraints for CVCC
+
+CVCC forms are designed to be immediately distinct from all other tiers. Preferred CC codas: `-lm`, `-ls`, `-ln`, `-rm`, `-rs`, `-rn`, `-lf`, `-rf`, `-ns`, `-ms` (sonorant-heavy clusters for cross-linguistic ease). No near-homophones across the set.
+
+| Group | Forms |
+|-------|-------|
+| Mathematical | `varn` · `worn` · `werm` · `vins` · `valm` · `walf` |
+| Physical | `vern` · `birm` · `velf` · `holm` · `vils` · `yolm` |
+| Conventional / observational | `wels` · `telf` · `holf` · `yarm` · `hulm` |
+| Atomic mass | `dolm` · `dolf` |
+
 ### Light-Year (Compositional)
 
 The light-year **has** a compositional expression and receives no CVCC form:
@@ -292,13 +315,11 @@ gal bun nu lu-ki ti-re nu pa
                         → 3.2 light-years (using compositional form)
 ```
 
-For the full CVCC inventory with rationale and phonological constraints, see [Exceptional Anchors](anchors.md).
-
 ---
 
 ## Visual-Pattern Modifiers
 
-Light-distribution patterns on surfaces use compositional compounds (not named roots), but function as pre-nominal color-like modifiers:
+Light-distribution patterns on surfaces use compositional compounds (not special forms), but function as pre-nominal color-like modifiers:
 
 | Pattern | Compound | Shape | Example |
 |---------|----------|-------|---------|
@@ -336,7 +357,7 @@ The `'` is required whenever the noun is a multi-root compound to avoid ambiguit
 
 ## Design Philosophy
 
-Named roots embody a key principle: **preserve the purity of the primitive set by using closed-class, well-defined anchors for everything else.**
+Special forms embody a key principle: **preserve the purity of the primitive set by using closed-class, well-defined anchors for everything else.**
 
 The result:
 - **CV primitives** remain a small, manageable, ontologically pure set

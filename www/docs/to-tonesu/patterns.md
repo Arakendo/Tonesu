@@ -1,4 +1,4 @@
-# Patterns
+# Pattern Analysis
 
 Tonesu is built around a small set of productive templates. Learn a pattern and you can generate — and correctly read — a whole family of compounds you've never encountered before.
 

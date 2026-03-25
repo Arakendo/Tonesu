@@ -1,4 +1,4 @@
-# Patterns and Quick Reference
+# Quick Reference
 
 A **pattern** in Tonesu is a productive rule for interpreting or building compounds. Once you learn the patterns, you can understand and construct unfamiliar words from their parts — no dictionary lookup required.
 

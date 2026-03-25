@@ -2,7 +2,7 @@
 title: Domains
 ---
 
-# Domains
+# Domain Exploration
 
 *Exploratory sections where Tonesu vocabulary is stress-tested against real-world subject areas. Each section is a working space — for vocabulary lists, design notes, translation experiments, and open questions.*
 

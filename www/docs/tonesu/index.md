@@ -2,7 +2,7 @@
 
 The language itself — formalized. This section covers everything that is fixed and normative: the sounds, the grammar rules, the registered words, the notation.
 
-If you are new here, start with [Sounds](sounds.md) and [Grammar](grammar.md).
+If you are new here, start with [Sounds](sounds.md), then [Primitives](primitives.md), then [Building words](words.md), then [Grammar](grammar.md). The primitives page is especially important — understanding the 34 roots makes every compound readable on first encounter.
 
 ---
 

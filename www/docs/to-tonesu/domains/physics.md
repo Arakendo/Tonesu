@@ -10,6 +10,5 @@ title: Physics
 
 ---
 
-## Notes
-
-*Nothing here yet. Add exploration sessions, vocabulary lists, and design notes as they develop.*
+!!! note "In development"
+    This section is a planned exploration space. Vocabulary lists, worked examples, and design notes will be added as the domain is developed.

@@ -49,7 +49,7 @@ i-ne         that specific relationship
 Often used when drawing attention or re-establishing reference:
 
 ```
-lo-i-toli  ka-examine-ka  lo-i-zomu
+la-i-toli  ka-seka  lo-i-zomu
 The scholar (that one) examines the device (that one).
 ```
 
@@ -133,14 +133,14 @@ a-toli  ka-{transform}    →  The concept (subject) transforms.
 
 ## Combining Scope Prefixes
 
-Only one scope prefix may attach to a single root. To express combinations, use compounding:
+Scope prefixes nest — they do not stack on a bare root. To combine two scopes, form the inner prefix-compound first, then apply the outer prefix to that compound.
 
 ```
-a-o-toli    ✓  abstract-collective → the abstract concept of scholars  
-o-e-zo      ✓  collective-emergent → newly emerging group of living things
+a-o-toli    ✓  a- + (o-toli) → abstract scope on the compound "scholar-collective"
+o-e-zo      ✓  o- + (e-zo)   → collective scope on the compound "newly-alive-thing"
 ```
 
-(These are compounds with two affixes. The parse is `a- + (o-toli)` = abstract scope applied to the compound `o-toli`.)
+In `a-o-toli`, `o-toli` (the collective of scholars) is formed first; `a-` then scopes that whole compound, not the bare root `toli`. The outer prefix always targets a complete form.
 
 ---
 
