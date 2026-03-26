@@ -69,11 +69,10 @@ Words are composed from a **closed set of 34 two-letter roots** following a sing
 <div class="tn-example-grid" markdown>
 
 <div markdown>
-
-```
-zo   living thing
-li   social agent
-```
+<dl class="tn-roots">
+<dt>zo</dt><dd>living thing</dd>
+<dt>li</dt><dd>social agent</dd>
+</dl>
 
 **`zoli`** — human being  
 `zo` modifies `li`: organism-person
@@ -81,12 +80,11 @@ li   social agent
 </div>
 
 <div markdown>
-
-```
-ki   motion / change
-pa   place / space
-mu   object / device
-```
+<dl class="tn-roots">
+<dt>ki</dt><dd>motion / change</dd>
+<dt>pa</dt><dd>place / space</dd>
+<dt>mu</dt><dd>object / device</dd>
+</dl>
 
 **`kipamu`** — vehicle  
 motion-place-device
@@ -94,11 +92,10 @@ motion-place-device
 </div>
 
 <div markdown>
-
-```
-no   negation / absence
-ha   heat / warmth
-```
+<dl class="tn-roots">
+<dt>no</dt><dd>negation / absence</dd>
+<dt>ha</dt><dd>heat / warmth</dd>
+</dl>
 
 **`noha`** — cold  
 absence-of-heat
@@ -106,10 +103,9 @@ absence-of-heat
 </div>
 
 <div markdown>
-
-```
-ra-no-fe
-```
+<dl class="tn-roots tn-roots--compound">
+<dt>ra-no-fe</dt>
+</dl>
 
 **`ranofe`** — omnipotence  
 force + no-boundary:  
