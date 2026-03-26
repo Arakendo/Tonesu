@@ -1097,39 +1097,27 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
   }
 }
 
-/* Root-gloss definition list — replaces code blocks in example cards */
-.tn-roots {
-  display: grid;
-  grid-template-columns: auto 1fr;
-  column-gap: 0.8rem;
-  row-gap: 0.2rem;
-  margin: 0 0 0.75rem;
-  padding: 0.55rem 0.75rem;
-  background: var(--md-code-bg-color);
-  border-radius: 4px;
-  font-family: var(--tonesu-font-mono);
-  font-size: 0.85rem;
-  list-style: none;
+/* Strip code-block chrome from root-list blocks in example cards.
+   Keep monospace + content, ditch the box and overflow behaviour. */
+.tn-example-grid pre {
+  background: transparent;
+  border-left: 2px solid var(--md-accent-fg-color);
+  border-radius: 0;
+  box-shadow: none;
+  padding: 0.3rem 0 0.3rem 0.65rem;
+  margin: 0 0 0.6rem;
+  overflow: visible;
+  white-space: normal;
 }
 
-.tn-roots dt {
-  color: var(--md-accent-fg-color);
-  font-weight: 700;
-  white-space: nowrap;
-}
-
-.tn-roots dd {
-  color: var(--md-default-fg-color--light);
-  margin: 0;
-}
-
-/* Single compound display — no gloss column */
-.tn-roots--compound {
-  grid-template-columns: 1fr;
-}
-
-.tn-roots--compound dt {
-  font-size: 1rem;
+.tn-example-grid pre > code {
+  background: transparent;
+  padding: 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-size: 0.82rem;
+  line-height: 1.7;
+  color: var(--md-default-fg-color);
 }
 
 /* ── Front-page showcase block ──────────────────────────── */
