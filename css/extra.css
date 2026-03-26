@@ -1091,6 +1091,47 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
   }
 }
 
+@media (max-width: 400px) {
+  .tn-example-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* Root-gloss definition list — replaces code blocks in example cards */
+.tn-roots {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 0.8rem;
+  row-gap: 0.2rem;
+  margin: 0 0 0.75rem;
+  padding: 0.55rem 0.75rem;
+  background: var(--md-code-bg-color);
+  border-radius: 4px;
+  font-family: var(--tonesu-font-mono);
+  font-size: 0.85rem;
+  list-style: none;
+}
+
+.tn-roots dt {
+  color: var(--md-accent-fg-color);
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.tn-roots dd {
+  color: var(--md-default-fg-color--light);
+  margin: 0;
+}
+
+/* Single compound display — no gloss column */
+.tn-roots--compound {
+  grid-template-columns: 1fr;
+}
+
+.tn-roots--compound dt {
+  font-size: 1rem;
+}
+
 /* ── Front-page showcase block ──────────────────────────── */
 .tn-showcase {
   border-left: 3px solid var(--md-accent-fg-color);
