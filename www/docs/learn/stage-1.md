@@ -129,14 +129,14 @@ they're asking about `vo`.
 
 ---
 
-!!! question "Exercise — What does `lo-mu no-de` mean?"
-    Select the correct meaning:
+!!! question "Exercise — *What does `lo-mu no-de` mean?*"
+    `lo-mu  no-de` — what is the device's condition?
 
-    <div class="tn-learn-picker"
-         data-template="lo-mu  no-de  →  ___"
-         data-answer="intact"
-         data-mode="gloss"
-         data-items='[{"form":"intact","gloss":"undamaged / intact"},{"form":"broken","gloss":"damaged / broken"},{"form":"moving","gloss":"in motion"},{"form":"unknown","gloss":"unknown status"}]'>
+    <div class="tn-learn-mcq"
+         data-answer="a"
+         data-ok="Correct — no- negates any root: no-de = not-decay. The device is not-decayed = intact / undamaged ✓"
+         data-nok="Check the prefix: no- flips the root that follows it. no-de = not-de = not-decay. What does that make the device?"
+         data-options='[{"id":"a","text":"undamaged / intact — the device is not-decayed"},{"id":"b","text":"damaged / broken — the device is decaying"},{"id":"c","text":"in motion — the device is moving"},{"id":"d","text":"unknown status — the device condition is unassessed"}]'>
     </div>
 
 ??? success "Explanation"

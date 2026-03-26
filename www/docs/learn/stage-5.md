@@ -249,57 +249,41 @@ o-ne-su     =   o  +  [ne-su]     =   collective-(network)           =   distrib
 No juncture marker is needed for V-prefix compounds — the parse is unambiguous
 at any depth because the bare-vowel syllable can only appear word-initially.
 
-### The `a-`/`la-` merge hazard
-
-One phonological constraint governs `a-` specifically. The agent marker `la-` ends
-in `a`. A following `a-X` compound also begins with `a`. In agent position:
-
-```
-la-a-to  …   →   [la | ato]   →   merges to  lato  =  la-to  in fast speech
-```
-
-`la-to` = agent-marker + root `to` — a different reading, not recoverable from
-context. The `a-` prefix is silently dropped.
-
-**Rule:** `a-` forms are phonologically unreliable in agent position after `la-`.
-Safe positions:
-
-| Position | Form | Status |
-|----------|------|--------|
-| Agent (after `la-`) | `la-a-to …` | ⚠️ merge hazard — avoid |
-| Predicate | `a-to  ne  no-fe` | ✓ safe |
-| Patient (after `lo-`) | `lo-a-to` | ✓ safe (`lo-a` → `loa`, distinct) |
-| Embedded (after `go {`) | `go  {a-to …},` | ✓ safe |
-
-The other four prefixes (`i- u- o- e-`) contrast clearly with `la-`'s final `a`
-and are safe in all positions: `la-i-to`, `la-u-to`, `la-o-li`, `la-e-ki` all
-parse reliably.
+**One phonetic note on `a-`.** `la-` ends in `a`, so `la-a-X` has adjacent
+identical vowels that merge in fast speech — `la-a-to` becomes `lato`, dropping
+the prefix. If you need an `a-`-prefixed form in agent position, predicate or
+patient position removes the ambiguity. The other four prefixes (`i- u- o- e-`)
+don't share the vowel of `la-` and are safe everywhere.
 
 ---
 
-!!! question "Exercise 4 — *Where is `a-` safe?*"
-    `a-to` in agent position after `la-` produces a vowel merge — `la-a-to` collapses
-    to `la-to`. In which position is `a-to` phonologically reliable?
+!!! question "Exercise 4 — *Which prefix?*"
+    A philosopher has always known, in some wordless way, that structure precedes
+    naming. She has never formulated it as a proposition. Which scope form captures
+    this mode of knowing — tacit, pre-articulate, foundational?
 
     <div class="tn-learn-mcq"
-         data-answer="b"
-         data-ok="Correct — predicate position: a-to ne no-fe has no preceding a-final particle, so the vowel boundary is clean ✓"
-         data-nok="la-a-to merges to la-to (agent-marker + root to) in fast speech — the a- prefix is lost. Use a- forms in predicate or patient position instead."
-         data-options='[{"id":"a","text":"Agent position: `la-a-to ...` — agent-marker directly before a-prefix"},{"id":"b","text":"Predicate position: `a-to  ne  no-fe` — no preceding particle ending in a"},{"id":"c","text":"Either — the merge only matters in very fast speech and can be ignored"}]'>
+         data-answer="c"
+         data-ok="Correct — u-to: interior/foundational knowing. Not a held proposition (to), not a universal category claim (a-to), not a forming hypothesis (e-to) ✓"
+         data-nok="Check the prefix semantics: a- = abstract/universal (the category of knowing); i- = particular instance; e- = in-process/forming. The tacit, pre-propositional mode is u-."
+         data-options='[{"id":"a","text":"`a-to` — abstract knowing: the universal category of knowing as such"},{"id":"b","text":"`e-to` — knowing in formation: a hypothesis still taking shape"},{"id":"c","text":"`u-to` — interior knowing: the tacit, foundational mode — not yet a proposition"},{"id":"d","text":"`i-to` — this precise fact: a specific, articulable knowledge-item"}]'>
     </div>
 
 ??? success "Explanation"
-    `la-` ends in `a`; `a-to` starts with `a`. The sequence `la-a-to` has adjacent
-    identical vowels at the particle/prefix boundary — in normal speech this merges
-    to `lato`, parsing as `la-to` (agent + root `to`).
+    `u-` = interior/foundational: what is latent, structural, or pre-articulate.
+    `u-to` is the mode of knowing that does not surface as a held proposition —
+    the philosopher *has* this knowing, but it precedes any `la-mi to {…}` claim.
 
-    Predicate position is clean: `a-to ne no-fe` — no particle immediately precedes
-    the `a-` prefix. Patient position is also safe: `lo-a-to` → `loa-to`,
-    distinguishable because `lo-` ends in `o`.
+    Corpus: S507 — `la-na-Laozi  u-to  lo-su-no-fe` = "Laozi had interior knowing
+    of the boundless Way." This is precisely the pre-discursive orientation Laozi
+    describes: the insight that the nameable Way is not the eternal Way is itself
+    wordless.
 
-    The other four V-prefixes (`i- u- o- e-`) don't share the vowel of `la-`, so
-    they are safe in agent position: `la-i-to`, `la-u-to`, `la-o-li`, `la-e-ki`
-    all parse reliably.
+    `a-to` (option A) would say *knowing-in-general, as an abstract category* — a
+    philosophical claim about the nature of knowing, not the mode of a knower.
+    `e-to` (option B) would say the knowing is still forming — not settled yet.
+    `i-to` (option D) would say it is a discrete, articulable fact — the opposite
+    of tacit.
 
 ---
 

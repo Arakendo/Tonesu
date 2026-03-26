@@ -69,15 +69,11 @@ go  {la-mi  se  lo-X  ta-ti-mi}  ,     →  because now I perceive X,
 du  la-mi  to  {lo-X}                  →  I now hold X as established
 ```
 
-The fallacious shortcut:
-```
-la-mi  si  {lo-X}  ,  (du  la-mi  to  {lo-X})
-```
-*I hypothesize X; (therefore, allegedly: I know X.)*  (S373 modal fallacy)
-
-The `(du …)` wrapper marks the conclusion as reported/ungrounded. A speaker who
-drops the `()` is claiming that hypothesis alone yields certainty — making the
-forbidden upgrade structurally explicit and therefore challengeable.
+Asserting `to` directly from `si` without new perceptual grounding is the
+**modal fallacy**: certitude from hypothesis alone. The structure of Tonesu makes
+this move visible and therefore challengeable — Cluster 2 introduces the notation
+that marks an inference as ungrounded, which is the honest form when you are
+presenting someone else's path from `si` to `to` rather than your own.
 
 ---
 
@@ -156,21 +152,6 @@ In the second form, `la-mi  to` claims first-person certainty, then grounds it w
 certainty from an anonymous report. The grammar does not block this, but any
 interlocutor can challenge it: "why does a reported source yield your personal `to`?"
 
-### `~` stacking with `()`
-
-`~` (ven) is the pre-positional approximation hedge. It can wrap the frame or sit
-inside it, and the two positions are semantically distinct:
-
-```
-~ (la-Elohim  ra-no-fe)      →   it is reportedly (and I'm uncertain about the report
-                                  itself) that God is all-powerful
-(~ la-Elohim  ra-no-fe)      →   it is reported: God is approximately all-powerful
-```
-
-`~` outside brackets: the speaker hedges the entire act of reporting.
-`~` inside brackets: the content of the report is hedged. The report itself is taken
-at face value; only its claim is approximate.
-
 ---
 
 !!! question "Exercise 2 — *Laundered or honest?*"
@@ -224,12 +205,53 @@ Compare `~` with the evidential frame: `()` suspends attribution; `~` hedges
 precision while still asserting. `ven du-to` is still an assertion — just a hedged
 one. `(du-to)` is a report — attributed to no one.
 
+### `~` and `()` together
+
+`~` can sit outside or inside an evidential frame, and the two positions mean
+different things:
+
+```
+ven (la-Elohim  ra-no-fe)    →   I'm uncertain this report is reliable:
+                                   reportedly God is all-powerful
+(ven la-Elohim  ra-no-fe)    →   It is reported: God is approximately all-powerful
+```
+
+`ven` outside: the speaker hedges the reliability of the report itself.
+`ven` inside: the speaker accepts the frame — there is a report — but only the
+precision of its content is in question. Two different things are hedged.
+
 ### When `~` is wrong
 
 `~` is wrong when you *do* have the precision. Do not hedge to seem modest. If you
 measured the temperature as 38°C, `ven nu-ha-be-fe` is evasion, not epistemic care.
 The tool is honest to the resolution of your actual knowledge. Applying it where you
 have precision is itself a form of miscalibration in the other direction.
+
+---
+
+!!! question "Exercise 3 — *Inside or outside?*"
+    A report is circulating that God is all-powerful. You accept that there *is* such
+    a report, but you're not confident the source is reliable. Where does `ven` go?
+
+    <div class="tn-learn-mcq"
+         data-answer="a"
+         data-ok="Correct — ven outside: ven (la-Elohim ra-no-fe). You're hedging the reliability of the report itself, not the precision of its content ✓"
+         data-nok="Check which thing is being hedged. ven inside () hedges the content. ven outside () hedges whether the report itself should be trusted."
+         data-options='[{"id":"a","text":"`ven (la-Elohim  ra-no-fe)` — ven outside: I am uncertain this report is reliable"},{"id":"b","text":"`(ven la-Elohim  ra-no-fe)` — ven inside: the report is accepted; only its content is approximate"},{"id":"c","text":"Neither — drop () and assert la-mi no-si if you doubt the source"}]'>
+    </div>
+
+??? success "Explanation"
+    `ven` outside brackets hedges the act of reporting: you are unsure whether
+    the report is reliable as a report — `ven (claim)` = I'm not sure this is even
+    a trustworthy report that...
+
+    `ven` inside brackets (`(ven claim)`) means you accept the frame — there is a
+    report — but the content of the report is approximate. The report's existence
+    is not in doubt; only its precision.
+
+    Option C would assert your own personal epistemic state directly, which is a
+    different move: no longer a report about what others say, but a first-person
+    commitment about your own basis for the claim.
 
 ---
 
@@ -312,7 +334,7 @@ arguably circular claim. The choice of `go` over `helms` is correct and meaningf
 
 ---
 
-!!! question "Exercise 3 — *Property, functional, or definitional?*"
+!!! question "Exercise 4 — *Property, functional, or definitional?*"
     `Knowledge is power` — Bacon's pragmatic claim about what knowledge does in
     human affairs. Which operator is correct?
 
@@ -338,7 +360,7 @@ arguably circular claim. The choice of `go` over `helms` is correct and meaningf
 
 ---
 
-!!! question "Exercise 4 — *Calibrate the claim*"
+!!! question "Exercise 5 — *Calibrate the claim*"
     Complete: `la-mi  ___  {lo-de  no-ru}` — I am *assessing*, not certain: the
     decay is unstable.
 
@@ -383,4 +405,8 @@ arguably circular claim. The choice of `go` over `helms` is correct and meaningf
 [Stage 7 — Production](stage-7.md) moves from analysis to output: writing original
 sentences from prompts, applying colloquial register contractions, navigating the
 formal/informal register split, and working through translation challenges.
+
+For a broader view of the design intent behind this stage — the epistemic pipeline,
+`tofeka` (deliberate boundary-crossing), Popper's demarcation, and the full fallacy
+corpus — see [Knowledge & Claims](../to-tonesu/knowledge.md).
 
