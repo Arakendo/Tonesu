@@ -630,8 +630,335 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
 }
 
 /* ── Root builder ────────────────────────────────────────── */
+/*
+ * All colours use CSS custom properties so the builder respects both
+ * the dark (Filter Spectrum) and light (Filter Sun) themes.
+ */
 .rb-container {
   font-family: inherit;
+}
+
+.rb-loading  { color: var(--md-default-fg-color--light); }
+.rb-error    { color: var(--md-code-hl-keyword-color); }
+
+/* Header: controls + compound display */
+.rb-header {
+  background: var(--md-code-bg-color);
+  border: 1px solid var(--md-typeset-table-color);
+  border-radius: 6px;
+  padding: .75rem 1rem;
+  margin-bottom: 1rem;
+}
+
+.rb-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem 1.25rem;
+  margin-bottom: .6rem;
+}
+
+.rb-btn-group {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .3rem;
+}
+
+.rb-group-label {
+  font-size: .72rem;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  color: var(--md-default-fg-color--lighter);
+  margin-right: .15rem;
+}
+
+.rb-ctrl-btn {
+  background: color-mix(in sRGB, var(--md-code-bg-color) 70%, var(--md-default-bg-color));
+  border: 1px solid var(--md-typeset-table-color);
+  border-radius: 4px;
+  color: var(--md-default-fg-color--light);
+  cursor: pointer;
+  font-size: .8rem;
+  padding: .2rem .55rem;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.rb-ctrl-btn:hover {
+  background: color-mix(in sRGB, var(--md-typeset-table-color) 40%, var(--md-code-bg-color));
+  border-color: var(--md-default-fg-color--lighter);
+  color: var(--md-default-fg-color);
+}
+.rb-ctrl-btn.is-active {
+  background: color-mix(in sRGB, var(--md-accent-fg-color) 13%, transparent);
+  border-color: var(--md-accent-fg-color);
+  color: var(--md-accent-fg-color);
+}
+
+/* Compound display row */
+.rb-display {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: .4rem;
+  min-height: 2rem;
+}
+
+.rb-word {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--md-accent-fg-color);
+  letter-spacing: .02em;
+}
+
+.rb-parse {
+  font-size: .9rem;
+  color: var(--md-default-fg-color--lighter);
+}
+
+.rb-placeholder {
+  color: var(--md-default-fg-color--lightest);
+  font-size: .9rem;
+}
+
+.rb-icon-btn, .rb-clear-btn {
+  background: transparent;
+  border: 1px solid var(--md-typeset-table-color);
+  border-radius: 4px;
+  color: var(--md-default-fg-color--light);
+  cursor: pointer;
+  font-size: .8rem;
+  padding: .15rem .45rem;
+  transition: border-color .15s, color .15s;
+}
+.rb-icon-btn:hover, .rb-clear-btn:hover {
+  border-color: var(--md-code-hl-keyword-color);
+  color: var(--md-code-hl-keyword-color);
+}
+.rb-clear-btn { margin-left: auto; }
+
+/* Main layout: palette full-width top, chain + lookup 50/50 below */
+.rb-main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.rb-panel--palette {
+  grid-column: 1 / -1;
+}
+
+@media (max-width: 560px) {
+  .rb-main { grid-template-columns: 1fr; }
+}
+
+.rb-panel {
+  background: var(--md-code-bg-color);
+  border: 1px solid var(--md-typeset-table-color);
+  border-radius: 6px;
+  padding: .75rem;
+}
+
+.rb-panel-title {
+  font-size: .72rem;
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  color: var(--md-default-fg-color--lighter);
+  margin-bottom: .6rem;
+  padding-bottom: .3rem;
+  border-bottom: 1px solid var(--md-typeset-table-color);
+}
+
+.rb-empty {
+  color: var(--md-default-fg-color--lightest);
+  font-size: .85rem;
+  margin: 0;
+}
+
+/* Family filter strip */
+.rb-family-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .25rem;
+  margin-bottom: .6rem;
+}
+
+.rb-fam-btn {
+  background: transparent;
+  border: 1px solid var(--md-typeset-table-color);
+  border-radius: 4px;
+  color: var(--md-default-fg-color--lighter);
+  cursor: pointer;
+  font-size: .75rem;
+  padding: .15rem .4rem;
+  transition: border-color .15s, color .15s;
+}
+.rb-fam-btn:hover {
+  color: var(--md-default-fg-color);
+  border-color: var(--fam-color, var(--md-default-fg-color--lighter));
+}
+.rb-fam-btn.is-active {
+  border-color: var(--fam-color, var(--md-accent-fg-color));
+  color: var(--fam-color, var(--md-accent-fg-color));
+  background: color-mix(in sRGB, var(--fam-color, var(--md-accent-fg-color)) 12%, transparent);
+}
+
+/* Root button grid */
+.rb-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: .3rem;
+}
+
+.rb-root-btn {
+  background: color-mix(in sRGB, var(--root-color, var(--md-default-fg-color--lighter)) 14%, var(--md-code-bg-color));
+  border: 1px solid var(--root-color, var(--md-typeset-table-color));
+  border-radius: 5px;
+  color: var(--root-color, var(--md-default-fg-color));
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: .4rem;
+  padding: .2rem .5rem;
+  transition: background .15s, transform .1s;
+  font-size: .9rem;
+  font-weight: 600;
+  line-height: 1;
+  width: 100%;
+  text-align: left;
+}
+.rb-root-btn:hover {
+  background: color-mix(in sRGB, var(--root-color, var(--md-default-fg-color--lighter)) 28%, var(--md-code-bg-color));
+  transform: translateY(-1px);
+}
+.rb-root-btn .rb-root-gloss {
+  font-size: .55rem;
+  font-weight: 400;
+  color: var(--md-default-fg-color--light);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.25;
+}
+
+/* Chain chips */
+.rb-chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .4rem;
+  margin-bottom: .6rem;
+}
+
+.rb-chip {
+  display: flex;
+  align-items: center;
+  gap: .3rem;
+  background: color-mix(in sRGB, var(--chip-color, var(--md-default-fg-color--lighter)) 15%, var(--md-code-bg-color));
+  border: 1px solid var(--chip-color, var(--md-typeset-table-color));
+  border-radius: 5px;
+  padding: .25rem .5rem;
+}
+
+.rb-chip--modifier {
+  background: color-mix(in sRGB, var(--md-accent-fg-color) 8%, transparent);
+  border-color: color-mix(in sRGB, var(--md-accent-fg-color) 40%, transparent);
+  --chip-color: var(--md-accent-fg-color);
+}
+
+.rb-chip-cv {
+  color: var(--chip-color, var(--md-default-fg-color));
+  font-weight: 700;
+  font-size: .95rem;
+}
+
+.rb-chip-gloss {
+  color: var(--md-default-fg-color--light);
+  font-size: .7rem;
+}
+
+.rb-chip-rm {
+  background: transparent;
+  border: none;
+  color: var(--md-default-fg-color--lightest);
+  cursor: pointer;
+  font-size: .85rem;
+  line-height: 1;
+  padding: 0 .1rem;
+  transition: color .15s;
+}
+.rb-chip-rm:hover { color: var(--md-code-hl-keyword-color); }
+
+.rb-juncture {
+  background: transparent;
+  border: 1px dashed var(--md-default-fg-color--lightest);
+  border-radius: 3px;
+  color: var(--md-default-fg-color--lightest);
+  cursor: pointer;
+  font-size: .85rem;
+  line-height: 1;
+  padding: .15rem .25rem;
+  transition: color .15s, border-color .15s;
+  align-self: center;
+}
+.rb-juncture:hover {
+  color: var(--md-accent-fg-color);
+  border-color: var(--md-accent-fg-color);
+}
+.rb-juncture.is-active {
+  color: var(--md-accent-fg-color);
+  border-color: var(--md-accent-fg-color);
+  background: color-mix(in sRGB, var(--md-accent-fg-color) 13%, transparent);
+}
+
+.rb-gloss-line {
+  color: var(--md-default-fg-color--lighter);
+  font-size: .8rem;
+  margin: 0;
+}
+
+/* Lookup panel */
+.rb-free {
+  background: color-mix(in sRGB, var(--md-code-hl-special-color) 10%, transparent);
+  border: 1px solid color-mix(in sRGB, var(--md-code-hl-special-color) 33%, transparent);
+  border-radius: 5px;
+  color: var(--md-code-hl-special-color);
+  font-size: .85rem;
+  padding: .5rem .75rem;
+}
+
+.rb-subhead {
+  color: var(--md-default-fg-color--lighter);
+  font-size: .72rem;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  margin: .5rem 0 .3rem;
+}
+
+.rb-entry-card {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: .2rem .3rem;
+  padding: .3rem 0;
+  border-bottom: 1px solid var(--md-typeset-table-color);
+  font-size: .85rem;
+}
+.rb-entry-card:last-child { border-bottom: none; }
+
+.rb-entry-word {
+  color: var(--md-accent-fg-color);
+  font-weight: 600;
+  text-decoration: none;
+}
+.rb-entry-word:hover { text-decoration: underline; }
+
+.rb-entry-sep { color: var(--md-typeset-table-color); }
+
+.rb-entry-gloss { color: var(--md-default-fg-color--light); flex: 1; }
+
+.rb-entry-wnum {
+  color: var(--md-typeset-table-color);
+  font-size: .72rem;
+  margin-left: auto;
 }
 
 /* ── Speaker buttons (Web Speech API) ────────────────────── */
@@ -663,209 +990,6 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
   color: var(--md-accent-fg-color);
 }
 
-.rb-loading  { color: #bab6c0; }
-.rb-error    { color: #fc618d; }
-
-/* Header: controls + compound display */
-.rb-header {
-  background: #191919;
-  border: 1px solid #333;
-  border-radius: 6px;
-  padding: .75rem 1rem;
-  margin-bottom: 1rem;
-}
-
-.rb-controls {
-  display: flex;
-  flex-wrap: wrap;
-  gap: .5rem 1.25rem;
-  margin-bottom: .6rem;
-}
-
-.rb-btn-group {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: .3rem;
-}
-
-.rb-group-label {
-  font-size: .72rem;
-  text-transform: uppercase;
-  letter-spacing: .05em;
-  color: #69676c;
-  margin-right: .15rem;
-}
-
-.rb-ctrl-btn {
-  background: #2a2a2a;
-  border: 1px solid #444;
-  border-radius: 4px;
-  color: #bab6c0;
-  cursor: pointer;
-  font-size: .8rem;
-  padding: .2rem .55rem;
-  transition: background .15s, border-color .15s, color .15s;
-}
-.rb-ctrl-btn:hover { background: #333; border-color: #666; color: #f7f1ff; }
-.rb-ctrl-btn.is-active {
-  background: #fce56622;
-  border-color: #fce566;
-  color: #fce566;
-}
-
-/* Compound display row */
-.rb-display {
-  display: flex;
-  align-items: baseline;
-  flex-wrap: wrap;
-  gap: .4rem;
-  min-height: 2rem;
-}
-
-.rb-word {
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: #fce566;
-  letter-spacing: .02em;
-}
-
-.rb-parse {
-  font-size: .9rem;
-  color: #69676c;
-}
-
-.rb-placeholder {
-  color: #555;
-  font-size: .9rem;
-}
-
-.rb-icon-btn, .rb-clear-btn {
-  background: transparent;
-  border: 1px solid #444;
-  border-radius: 4px;
-  color: #bab6c0;
-  cursor: pointer;
-  font-size: .8rem;
-  padding: .15rem .45rem;
-  transition: border-color .15s, color .15s;
-}
-.rb-icon-btn:hover, .rb-clear-btn:hover {
-  border-color: #fc618d;
-  color: #fc618d;
-}
-.rb-clear-btn { margin-left: auto; }
-
-/* Main layout: palette full-width top, chain + lookup 50/50 below */
-.rb-main {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1rem;
-}
-
-.rb-panel--palette {
-  grid-column: 1 / -1;
-}
-
-@media (max-width: 560px) {
-  .rb-main { grid-template-columns: 1fr; }
-}
-
-.rb-panel {
-  background: #191919;
-  border: 1px solid #333;
-  border-radius: 6px;
-  padding: .75rem;
-}
-
-.rb-panel-title {
-  font-size: .72rem;
-  text-transform: uppercase;
-  letter-spacing: .07em;
-  color: #69676c;
-  margin-bottom: .6rem;
-  padding-bottom: .3rem;
-  border-bottom: 1px solid #2d2d2d;
-}
-
-.rb-empty {
-  color: #555;
-  font-size: .85rem;
-  margin: 0;
-}
-
-/* Family filter strip */
-.rb-family-strip {
-  display: flex;
-  flex-wrap: wrap;
-  gap: .25rem;
-  margin-bottom: .6rem;
-}
-
-.rb-fam-btn {
-  background: transparent;
-  border: 1px solid #333;
-  border-radius: 4px;
-  color: #69676c;
-  cursor: pointer;
-  font-size: .75rem;
-  padding: .15rem .4rem;
-  transition: border-color .15s, color .15s;
-}
-.rb-fam-btn:hover { color: #f7f1ff; border-color: var(--fam-color, #888); }
-.rb-fam-btn.is-active {
-  border-color: var(--fam-color, #fce566);
-  color: var(--fam-color, #fce566);
-  background: color-mix(in sRGB, var(--fam-color, #fce566) 12%, transparent);
-}
-
-/* Root button grid */
-.rb-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-  gap: .3rem;
-}
-
-.rb-root-btn {
-  background: color-mix(in sRGB, var(--root-color, #888) 14%, #191919);
-  border: 1px solid var(--root-color, #888);
-  border-radius: 5px;
-  color: var(--root-color, #f7f1ff);
-  cursor: pointer;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  gap: .4rem;
-  padding: .2rem .5rem;
-  transition: background .15s, transform .1s;
-  font-size: .9rem;
-  font-weight: 600;
-  line-height: 1;
-  width: 100%;
-  text-align: left;
-}
-.rb-root-btn:hover {
-  background: color-mix(in sRGB, var(--root-color, #888) 28%, #191919);
-  transform: translateY(-1px);
-}
-.rb-root-btn .rb-root-gloss {
-  font-size: .55rem;
-  font-weight: 400;
-  color: #bab6c0;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  line-height: 1.25;
-}
-
-/* Chain chips */
-.rb-chip-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: .4rem;
-  margin-bottom: .6rem;
-}
-
 /* ── Word-page metadata table (Domain / Class / Type / …) ── */
 /* Markdown requires a header row, but these tables use empty <th> cells.
    Hide the blank header and style the label column as property keys.       */
@@ -894,116 +1018,6 @@ table.dataTable thead th.dt-orderable-desc span.dt-column-order::after {
 }
 .md-typeset table:has(> thead > tr > th:empty) tbody tr:first-child td {
   border-top: 1px solid var(--md-typeset-table-color);
-}
-
-.rb-chip {
-  display: flex;
-  align-items: center;
-  gap: .3rem;
-  background: color-mix(in sRGB, var(--chip-color, #888) 15%, #191919);
-  border: 1px solid var(--chip-color, #888);
-  border-radius: 5px;
-  padding: .25rem .5rem;
-}
-
-.rb-chip--modifier {
-  background: #fce56614;
-  border-color: #fce56666;
-  --chip-color: #fce566;
-}
-
-.rb-chip-cv {
-  color: var(--chip-color, #f7f1ff);
-  font-weight: 700;
-  font-size: .95rem;
-}
-
-.rb-chip-gloss {
-  color: #bab6c0;
-  font-size: .7rem;
-}
-
-.rb-chip-rm {
-  background: transparent;
-  border: none;
-  color: #555;
-  cursor: pointer;
-  font-size: .85rem;
-  line-height: 1;
-  padding: 0 .1rem;
-  transition: color .15s;
-}
-.rb-chip-rm:hover { color: #fc618d; }
-
-.rb-juncture {
-  background: transparent;
-  border: 1px dashed #555;
-  border-radius: 3px;
-  color: #555;
-  cursor: pointer;
-  font-size: .85rem;
-  line-height: 1;
-  padding: .15rem .25rem;
-  transition: color .15s, border-color .15s;
-  align-self: center;
-}
-.rb-juncture:hover { color: #fce566; border-color: #fce566; }
-.rb-juncture.is-active {
-  color: #fce566;
-  border-color: #fce566;
-  background: #fce56622;
-}
-
-.rb-gloss-line {
-  color: #69676c;
-  font-size: .8rem;
-  margin: 0;
-}
-
-/* Lookup panel */
-.rb-free {
-  background: #7bd88f1a;
-  border: 1px solid #7bd88f55;
-  border-radius: 5px;
-  color: #7bd88f;
-  font-size: .85rem;
-  padding: .5rem .75rem;
-}
-
-.rb-subhead {
-  color: #69676c;
-  font-size: .72rem;
-  text-transform: uppercase;
-  letter-spacing: .05em;
-  margin: .5rem 0 .3rem;
-}
-
-.rb-entry-card {
-  display: flex;
-  align-items: baseline;
-  flex-wrap: wrap;
-  gap: .2rem .3rem;
-  padding: .3rem 0;
-  border-bottom: 1px solid #2a2a2a;
-  font-size: .85rem;
-}
-.rb-entry-card:last-child { border-bottom: none; }
-
-.rb-entry-word {
-  color: #fce566;
-  font-weight: 600;
-  text-decoration: none;
-}
-.rb-entry-word:hover { text-decoration: underline; }
-
-.rb-entry-sep { color: #444; }
-
-.rb-entry-gloss { color: #bab6c0; flex: 1; }
-
-.rb-entry-wnum {
-  color: #444;
-  font-size: .72rem;
-  margin-left: auto;
 }
 
 /* ── Homepage word-family and scope demo grids ─────────── */
