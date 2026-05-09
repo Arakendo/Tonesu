@@ -298,11 +298,12 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `si` — signal / representation
 
-9 compounds
+10 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `si-de` · side | [W098](words/W098.md) | ✅ | past signal, signal of record <br><small>[C008-A1](../../totonesu/corpus/conversations/overview.md#C008-A1) · [C008-B1](../../totonesu/corpus/conversations/overview.md#C008-B1) · [C008-B3](../../totonesu/corpus/conversations/overview.md#C008-B3) · [S106](../../totonesu/corpus/batches/_foundations/index.md#S106) · [S172](../../totonesu/corpus/batches/sa/index.md#S172) · [S174](../../totonesu/corpus/batches/sa/index.md#S174) · [S175](../../totonesu/corpus/batches/sa/index.md#S175)</small> |
+| `si-de-vo` · sidevo | [W232](words/W232.md) | ✅ | ridicule; signal of value-decrease; public marking of target as worthless |
 | `si-fe` · sife | [W070](words/W070.md) | ✅ | signal threshold, detection boundary <br><small>[C006-B1](../../totonesu/corpus/conversations/overview.md#C006-B1) · [C007-A1](../../totonesu/corpus/conversations/overview.md#C007-A1) · [C007-B1](../../totonesu/corpus/conversations/overview.md#C007-B1) · [S067](../../totonesu/corpus/batches/t-cmp/index.md#S067)</small> |
 | `si-go-li` · sigoli | [W201](words/W201.md) | ✅ | content originator; signal-origin-agent; speaker <br><small>[S641](../../totonesu/corpus/batches/cda/index.md#S641) · [S642](../../totonesu/corpus/batches/cda/index.md#S642) · [S644](../../totonesu/corpus/batches/cda/index.md#S644)</small> |
 | `si-ki` · siki | [W023](words/W023.md) | ✅ | transmit a signal <br><small>[S076](../../totonesu/corpus/batches/t-mys/index.md#S076) · [S082](../../totonesu/corpus/batches/t-rel/index.md#S082) · [S103](../../totonesu/corpus/batches/_foundations/index.md#S103) · [S104](../../totonesu/corpus/batches/_foundations/index.md#S104) · [S105](../../totonesu/corpus/batches/_foundations/index.md#S105) · [S697](../../totonesu/corpus/batches/exo/index.md#S697)</small> |

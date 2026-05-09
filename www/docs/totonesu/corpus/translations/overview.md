@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-38 translation analyses.
+39 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -58,6 +58,7 @@ gap analysis, and key findings.
 
 ## Philosophy
 
+- [alinsky-rules-for-radicals](philosophy/alinsky-rules-for-radicals/index.md)
 - [liar-paradox](philosophy/liar-paradox/index.md)
 - [lojban-type-contrasts](philosophy/lojban-type-contrasts/index.md)
 - [proof-structure](philosophy/proof-structure/index.md)

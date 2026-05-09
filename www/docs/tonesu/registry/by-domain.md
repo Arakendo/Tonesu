@@ -400,6 +400,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `wi-vo` · wivo | [W190](words/W190.md) | ✅ | good; will toward value/benefit; beneficent moral disposition <br><small>[S452](../../totonesu/corpus/batches/rom/index.md#S452) · [S471](../../totonesu/corpus/batches/emd/index.md#S471) · [S514](../../totonesu/corpus/batches/emd/index.md#S514) · [S521](../../totonesu/corpus/batches/emd/index.md#S521) · [S609](../../totonesu/corpus/batches/dnd/index.md#S609) · [S610](../../totonesu/corpus/batches/dnd/index.md#S610) · [S611](../../totonesu/corpus/batches/dnd/index.md#S611) · [S612](../../totonesu/corpus/batches/dnd/index.md#S612) · [S626](../../totonesu/corpus/batches/dnd/index.md#S626) · [S634](../../totonesu/corpus/batches/doi/index.md#S634)</small> |
 | `wi-vo-fe` · wivofe | [W193](words/W193.md) | ✅ | ethics-neutral; will at the value limit; neither primarily beneficent nor harmful <br><small>[S613](../../totonesu/corpus/batches/dnd/index.md#S613) · [S614](../../totonesu/corpus/batches/dnd/index.md#S614) · [S615](../../totonesu/corpus/batches/dnd/index.md#S615) · [S628](../../totonesu/corpus/batches/dnd/index.md#S628)</small> |
 
+## Ethics / Social
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `si-de-vo` · sidevo | [W232](words/W232.md) | ✅ | ridicule; signal of value-decrease; public marking of target as worthless |
+
 ## Finance / Economic
 
 1 compound
@@ -550,6 +558,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `ra-su-li` · rasuli | [W225](words/W225.md) | ✅ | sovereign; commander; ruler who commands organized force <br><small>[S709](../../totonesu/corpus/batches/map/index.md#S709)</small> |
+
+## Rhetoric / Social
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `si-de-vo` · sidevo | [W232](words/W232.md) | ✅ | ridicule; signal of value-decrease; public marking of target as worthless |
 
 ## Science / Formal
 

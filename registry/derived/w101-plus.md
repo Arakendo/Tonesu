@@ -2372,3 +2372,18 @@ Status:        🚫 retired
 ```
 
 ---
+
+**W232**
+```
+Form:          si-de-vo
+Type:          compound
+Class:         action / quality / event
+Definition:    si (signal/representation) + de-vo (W121, value-diminishment/evil-quality) = a signal that publicly marks its target as lacking worth or deserving shame. The mechanism of ridicule: the signal does not merely assert de-vo but performs it in a social field where the audience receives the marking. Distinct from ka-si-de (W224, deliberate deception/misdirection) which operates on epistemic content; si-de-vo operates on social standing/value perception. Also distinct from de-vo bare (the quality itself): si-de-vo is the act of signaling it toward a target.
+Register:      standard
+Domain:        Rhetoric / Social / Ethics
+Status:        ✅ active
+First use:     ALI-001-E (S781): si-de-vo ne ra-vo-be ka-mu lo-zo-li — "Ridicule is the most potent instrument available to human persons." (Alinsky Rule 5)
+Related:       si (primitive: signal/representation), de-vo (W121: evil/value-diminishment quality), ka-si-de (W224: deliberate deception — related but distinct: epistemic vs social-value register), si-no-vo-li (W126: hypocrite — related social-value signal compound)
+```
+
+---

@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 131 |
+| [w101-plus.md](w101-plus.md) | W101+ | 132 |
 
-**Total: 219 W-series entries** — active: 175 · proposed: 2 · pending: 39 · cold: 0 · retired: 3
+**Total: 220 W-series entries** — active: 176 · proposed: 2 · pending: 39 · cold: 0 · retired: 3
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -143,6 +143,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `se-no-to` | W090 | percept without cognitive model (unresolved signal) | ⏳ | [w051-w100](w051-w100.md) |
 | `se-to` | W062 | perceptual insight, vision | ✅ | [w051-w100](w051-w100.md) |
 | `si-de` | W098 | past signal, signal of record | ✅ | [w051-w100](w051-w100.md) |
+| `si-de-vo` | W232 | ridicule; signal of value-decrease; public marking of target as worthless | ✅ | [w101-plus](w101-plus.md) |
 | `si-fe` | W070 | signal threshold, detection boundary | ✅ | [w051-w100](w051-w100.md) |
 | `si-go-li` | W201 | content originator; signal-origin-agent; speaker | ✅ | [w101-plus](w101-plus.md) |
 | `si-ki` | W023 | transmit a signal | ✅ | [w001-w050](w001-w050.md) |
@@ -324,6 +325,9 @@ Concept-first lookup: find the compound you need by domain.
 **Ethics / Philosophy**
 `pa-ki-su` W198 liberty · `wi-de` W191 evil · `wi-no-su` W189 chaotic · `wi-su` W188 lawful · `wi-su-fe` W192 law-neutral · `wi-vo` W190 good · `wi-vo-fe` W193 ethics-neutral
 
+**Ethics / Social**
+`si-de-vo` W232 ridicule
+
 **Finance / Economic**
 `ka-li-de` W205 tax
 
@@ -375,6 +379,9 @@ Concept-first lookup: find the compound you need by domain.
 **Political / Social**
 `ra-su-li` W225 sovereign
 
+**Rhetoric / Social**
+`si-de-vo` W232 ridicule
+
 **Science / Formal**
 `ki-fe-mu` W228 fundamental string · `pa-di` W229 dimension
 
@@ -418,7 +425,7 @@ Quick lookup by lead primitive root.
 | `ra` | ra-ki-mu W012, ra-ki W038, ra-vo W071, ra-ma W082, ra-lu-ki W151, ra-su-li W225 |
 | `re` | re-ka-ne-li W134 |
 | `se` | se-ka W034, se-to W062, se-no-to W090, se-lu W130 |
-| `si` | si-ne-ki W021, si-ki W023, si-mu W039, si-ko-mu W067, si-fe W070, si-de W098, si-no-vo-li W126, si-ki-li W158, si-go-li W201 |
+| `si` | si-ne-ki W021, si-ki W023, si-mu W039, si-ko-mu W067, si-fe W070, si-de W098, si-no-vo-li W126, si-ki-li W158, si-go-li W201, si-de-vo W232 |
 | `su` | su-mu-li W002, su-ru W085, su-ti W101, su'ma W113, su-fa W133, su-ne W174, su-to W199, su-ka-li W200, su-zo-ko W204, su-ha-mu W227 |
 | `ti` | ti-fe W037, ti-be W040, ti-de W041, ti-mu W057, ti-re W103, ti-mi W109 |
 | `to` | to-ne-su W000, to-li W003, to-su-mu W010, to-ki-mu W011, to-ki W020, to-su-ki W025, to-si W026, to-ko W027, to-fe W028, to-fe-ka W029, to-su W030, to-fe-li W032, to-re-su W064, to-fe-su W072, to-ru W083, to-go W089, to-fe-su-ki W097, to-ko-re W166, to-to-ne-su W169, to'to-ne-su W170, to-pa W195, to-ki'ne-su W202 |

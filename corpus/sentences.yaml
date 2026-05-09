@@ -14631,3 +14631,220 @@ sentences:
     occurring. What is occurring is `wi-ra` — the imposition of will through the demand
     for public performance. S775 showed what is *not* demanded (deception); S776 names
     what *is*: power over the co-signer''s voice.'
+- snum: S777
+  gloss: ALI-001-A — Rule 1
+  batch: ALI-001
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: directed-power is [actual-force] / [adversary models directed-power]
+  natural: Power is both your actual force and what the adversary believes your directed
+    power to be.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S777
+  notes: 'The `/` parallel marks the two constitutive components of power: actual
+    `ra` (raw force, primitive) vs attributed `wi-ra` (the adversary''s cognitive
+    model of your directed power). The gap between `ra` and attributed `wi-ra` is
+    the leverage space the rule names.'
+- snum: S778
+  gloss: ALI-001-B — Rule 2
+  batch: ALI-001
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: because [collective acts outside organized-knowledge] → directed-power
+    decreases
+  natural: When your people operate outside their domain of competence, your collective
+    power diminishes.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S778
+  notes: '`lo-no-to-su` = patient + negation + organized-knowledge = acting toward
+    the absence of competence. Causal declarative form: the imperative ("never") follows
+    from the causal observation. Compare S779 — the Tonesu forms are mirrors.'
+- snum: S779
+  gloss: ALI-001-C — Rule 3
+  batch: ALI-001
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: because [adversary acts outside organized-knowledge] → adversary's directed-power
+    decreases
+  natural: Force the adversary to operate outside their domain of competence and their
+    power diminishes.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S779
+  notes: Mirror of S778 with `de-li` substituted for `o-li` and `lo-de-li` added to
+    specify whose power decreases. Rules 2 and 3 are the same causal principle applied
+    to two agents. Tonesu makes the symmetry structurally explicit where English states
+    them as two separate prescriptions.
+- snum: S780
+  gloss: ALI-001-D — Rule 4
+  batch: ALI-001
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: '[force] demands [adversary enacts rules of/for adversary]'
+  natural: Force demands that the adversary act according to its own stated rules.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S780
+  notes: '`la-ra` = second cross-batch attestation of the depersonified force agent
+    (first: SLZ-001-B S766). `wi-fe lo-de-li` = rules belonging to the adversary;
+    possessive `lo-[NP]` follows `wi-fe` in the same pattern as `to-su lo-[NP]` (AOW-001,
+    S703+).'
+- snum: S781
+  gloss: ALI-001-E — Rule 5
+  batch: ALI-001
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: value-decrease-signal is highest-force action-instrument of human-persons
+  natural: Ridicule is the most potent instrument available to human persons.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S781
+  notes: '`si-de-vo` = W232 (new). Parse: `si` (signal) + `[de-vo]` (W121, value-diminishment)
+    = a signal that publicly marks the target as worthless/shameful. `ra-vo-be` =
+    `ra` + `vo` + `be` = force of highest increasing quality = most potent; superlative
+    pattern first use. `ka-mu` (W047) = action-instrument. `lo-zo-li` = scope: human
+    persons.'
+- snum: S782
+  gloss: ALI-001-F — Rule 6
+  batch: ALI-001
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: because [collective has positive-affect toward tactic] → tactic is good/valuable
+  natural: A tactic is good when the people who deploy it take pleasure in it.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S782
+  notes: '`fa-vo` (W197) = positive-valence affect, enjoyment. `lo-wi-to` marks the
+    tactic as the patient/object of the affect. The causal structure makes this definitional:
+    tactical quality is grounded in the practitioners'' `fa-vo`, not in abstract effectiveness.
+    Pair with S783.'
+- snum: S783
+  gloss: ALI-001-G — Rule 7
+  batch: ALI-001
+  batch_sub: G
+  status: normative
+  tonesu: ''
+  gloss_line: because [tactic cycles beyond temporal-boundary] → positive-affect decreases
+  natural: A tactic that runs without temporal limit exhausts the enjoyment that sustains
+    it.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S783
+  notes: '`re` = cycling/repetition applied to `wi-to` (the tactic). `no-ti-fe` =
+    no-temporal-boundary = deadline-absent = "too long"; `no-X-fe` extremal pattern
+    on `ti-fe` (W037, temporal boundary); first use. `fa-vo de` = positive affect
+    decreases. Minimal pair with S782: same affect measure, opposite direction.'
+- snum: S784
+  gloss: ALI-001-H — Rule 8
+  batch: ALI-001
+  batch_sub: H
+  status: normative
+  tonesu: ''
+  gloss_line: collective applies directed-power cyclically toward adversary
+  natural: The collective applies directed pressure to the adversary without relent.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S784
+  notes: '`wi-ra re` = directed-power cycling = sustained continuous pressure. Third
+    function of `re` in corpus: (1) ROM-001 habitual-compulsive, (2) SLZ-002 S774
+    continuation, (3) here: cyclic sustained political pressure without cessation.'
+- snum: S785
+  gloss: ALI-001-I — Rule 9
+  batch: ALI-001
+  batch_sub: I
+  status: normative
+  tonesu: ''
+  gloss_line: warning-signal is highest-fear / actual-force is lower-fear
+  natural: The threat signal carries greater dread than the act of force itself.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S785
+  notes: 'First explicit `fa-ra` grading across a `/` parallel. Left: `fe-si` (W024,
+    warning signal) = `fa-ra-vo-be` (highest-intensity fear). Right: `ka-ra` (W222,
+    actual combat/force) = `fa-ra-de` (diminishing fear). `fa-ra-vo-be` extends the
+    `ra-vo-be` superlative pattern (first introduced S781).'
+- snum: S786
+  gloss: ALI-001-J — Rule 10
+  batch: ALI-001
+  batch_sub: J
+  status: normative
+  tonesu: ''
+  gloss_line: 'because [directed-power toward negative at highest-force] → result:
+    [negative changes to positive]'
+  natural: Apply sufficient directed force toward a negative and it transmutes into
+    a positive.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S786
+  notes: '`de-vo` (W121) = the negative. `vo` = the positive. `ki` = motion/change
+    = transforms. `ra-vo-be` = at highest force = "hard enough." First dialectical
+    transmutation in corpus: `de-vo → vo` via `go/du` causal frame. The `du {}` formal
+    result-clause marks this as a structural outcome, not mere conjunction.'
+- snum: S787
+  gloss: ALI-001-K — Rule 11
+  batch: ALI-001
+  batch_sub: K
+  status: normative
+  tonesu: ''
+  gloss_line: 'because [collective attacks and achieves victory] → required: [collective
+    grows tactic/plan]'
+  natural: 'A victorious attack carries a structural requirement: the collective must
+    build something.'
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S787
+  notes: '`ka-ra wi-du` = attack + victory = successful attack. `ne-fe` (W042) = dependency
+    condition/requirement. `be wi-to` = grows a plan = constructive (building) alternative.
+    First use of `ne-fe` as the required output of a completed successful causal chain
+    — the obligation is generated by winning, not prior to it.'
+- snum: S788
+  gloss: ALI-001-L — Rule 12
+  batch: ALI-001
+  batch_sub: L
+  status: normative
+  tonesu: ''
+  gloss_line: act-toward target ; dissolve target-from-network ; singularize-as-person
+    target ; cast-as-adversary target
+  natural: Select a target; sever it from its support network; reduce it to one individual;
+    make it the adversary.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S788
+  notes: 'Four `;`-chained `ka-[TYPE] lo-pa-wi` operations — longest tactical sequence
+    in corpus. `ka-ne-de` (W092) = deliberate bond-dissolution = freeze/isolate (sever
+    from `lo-ne-su`, its network). `ka-ru-li` = `ka` + `ru` (unity) + `li` (person)
+    = deliberately singularize-as-person = personalize. `ka-wi-de-li` = `ka` + W124
+    = deliberately cast as adversary = polarize. The `;` connector is correct: the
+    operations are ordered (left-to-right tactical sequence) but not causally entailed.'

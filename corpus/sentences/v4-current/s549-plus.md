@@ -4506,3 +4506,251 @@ Contrast with S753: S753 = crowd misperception wrapped in `si`; S754 = the under
 **Verdict:** irreducibly formal — all forms are below threshold, scope-prefix grammatical operators, or load-bearing epistemic particles.
 
 *CLQ entries registered from this batch: none.*
+
+---
+
+## ALI-001 — Alinsky, *Rules for Radicals* (1971) — The Tactical Rules (S777–S788)
+
+### S777 — ALI-001-A — Rule 1
+
+**Source:** "Power is not only what you have, but what the enemy thinks you have."
+
+**Notation:** `wi-ra  ne  ra  /  [la-de-li  to  wi-ra]`
+
+**Written:** `wira ne ra / [ladeli to wira]`
+
+**Gloss:** directed-power is [actual-force] / [adversary models directed-power]
+
+**Natural reading:** Power is both your actual force and what the adversary believes your directed power to be.
+
+**Notes:** The `/` parallel marks the two constitutive components of power: actual `ra` (raw force, primitive) vs attributed `wi-ra` (the adversary's cognitive model of your directed power). The gap between `ra` and attributed `wi-ra` is the leverage space the rule names.
+
+---
+
+### S778 — ALI-001-B — Rule 2
+
+**Source:** "Never go outside the expertise of your people."
+
+**Notation:** `go {la-o-li  ka  lo-no-to-su},  wi-ra  de`
+
+**Written:** `go {laoli ka lonotosu}, wira de`
+
+**Gloss:** because [collective acts outside organized-knowledge] → directed-power decreases
+
+**Natural reading:** When your people operate outside their domain of competence, your collective power diminishes.
+
+**Notes:** `lo-no-to-su` = patient + negation + organized-knowledge = acting toward the absence of competence. Causal declarative form: the imperative ("never") follows from the causal observation. Compare S779 — the Tonesu forms are mirrors.
+
+---
+
+### S779 — ALI-001-C — Rule 3
+
+**Source:** "Whenever possible, go outside the expertise of the enemy."
+
+**Notation:** `go {la-de-li  ka  lo-no-to-su},  wi-ra  de  lo-de-li`
+
+**Written:** `go {ladeli ka lonotosu}, wira de lodeli`
+
+**Gloss:** because [adversary acts outside organized-knowledge] → adversary's directed-power decreases
+
+**Natural reading:** Force the adversary to operate outside their domain of competence and their power diminishes.
+
+**Notes:** Mirror of S778 with `de-li` substituted for `o-li` and `lo-de-li` added to specify whose power decreases. Rules 2 and 3 are the same causal principle applied to two agents. Tonesu makes the symmetry structurally explicit where English states them as two separate prescriptions.
+
+---
+
+### S780 — ALI-001-D — Rule 4
+
+**Source:** "Make the enemy live up to its own book of rules."
+
+**Notation:** `la-ra  wi-ra  [la-de-li  ka  wi-fe  lo-de-li]`
+
+**Written:** `lara wira [ladeli ka wife lodeli]`
+
+**Gloss:** [force] demands [adversary enacts rules of/for adversary]
+
+**Natural reading:** Force demands that the adversary act according to its own stated rules.
+
+**Notes:** `la-ra` = second cross-batch attestation of the depersonified force agent (first: SLZ-001-B S766). `wi-fe lo-de-li` = rules belonging to the adversary; possessive `lo-[NP]` follows `wi-fe` in the same pattern as `to-su lo-[NP]` (AOW-001, S703+).
+
+---
+
+### S781 — ALI-001-E — Rule 5
+
+**Source:** "Ridicule is man's most potent weapon."
+
+**Notation:** `si-de-vo  ne  ra-vo-be  ka-mu  lo-zo-li`
+
+**Written:** `sidevo ne ravobe kamu lozoli`
+
+**Gloss:** value-decrease-signal is highest-force action-instrument of human-persons
+
+**Natural reading:** Ridicule is the most potent instrument available to human persons.
+
+**Notes:** `si-de-vo` = W232 (new). Parse: `si` (signal) + `[de-vo]` (W121, value-diminishment) = a signal that publicly marks the target as worthless/shameful. `ra-vo-be` = `ra` + `vo` + `be` = force of highest increasing quality = most potent; superlative pattern first use. `ka-mu` (W047) = action-instrument. `lo-zo-li` = scope: human persons.
+
+---
+
+### S782 — ALI-001-F — Rule 6
+
+**Source:** "A good tactic is one your people enjoy."
+
+**Notation:** `go {la-o-li  fa-vo  lo-wi-to},  wi-to  ne  vo`
+
+**Written:** `go {laoli favo lowito}, wito ne vo`
+
+**Gloss:** because [collective has positive-affect toward tactic] → tactic is good/valuable
+
+**Natural reading:** A tactic is good when the people who deploy it take pleasure in it.
+
+**Notes:** `fa-vo` (W197) = positive-valence affect, enjoyment. `lo-wi-to` marks the tactic as the patient/object of the affect. The causal structure makes this definitional: tactical quality is grounded in the practitioners' `fa-vo`, not in abstract effectiveness. Pair with S783.
+
+---
+
+### S783 — ALI-001-G — Rule 7
+
+**Source:** "A tactic that drags on too long becomes a drag."
+
+**Notation:** `go {wi-to  re  no-ti-fe},  fa-vo  de`
+
+**Written:** `go {wito re notife}, favo de`
+
+**Gloss:** because [tactic cycles beyond temporal-boundary] → positive-affect decreases
+
+**Natural reading:** A tactic that runs without temporal limit exhausts the enjoyment that sustains it.
+
+**Notes:** `re` = cycling/repetition applied to `wi-to` (the tactic). `no-ti-fe` = no-temporal-boundary = deadline-absent = "too long"; `no-X-fe` extremal pattern on `ti-fe` (W037, temporal boundary); first use. `fa-vo de` = positive affect decreases. Minimal pair with S782: same affect measure, opposite direction.
+
+---
+
+### S784 — ALI-001-H — Rule 8
+
+**Source:** "Keep the pressure on."
+
+**Notation:** `la-o-li  wi-ra  re  lo-de-li`
+
+**Written:** `laoli wira re lodeli`
+
+**Gloss:** collective applies directed-power cyclically toward adversary
+
+**Natural reading:** The collective applies directed pressure to the adversary without relent.
+
+**Notes:** `wi-ra re` = directed-power cycling = sustained continuous pressure. Third function of `re` in corpus: (1) ROM-001 habitual-compulsive, (2) SLZ-002 S774 continuation, (3) here: cyclic sustained political pressure without cessation.
+
+---
+
+### S785 — ALI-001-I — Rule 9
+
+**Source:** "The threat is usually more terrifying than the thing itself."
+
+**Notation:** `fe-si  ne  fa-ra-vo-be  /  ka-ra  ne  fa-ra-de`
+
+**Written:** `fesi ne faravobe / kara ne farade`
+
+**Gloss:** warning-signal is highest-fear / actual-force is lower-fear
+
+**Natural reading:** The threat signal carries greater dread than the act of force itself.
+
+**Notes:** First explicit `fa-ra` grading across a `/` parallel. Left: `fe-si` (W024, warning signal) = `fa-ra-vo-be` (highest-intensity fear). Right: `ka-ra` (W222, actual combat/force) = `fa-ra-de` (diminishing fear). `fa-ra-vo-be` extends the `ra-vo-be` superlative pattern (first introduced S781).
+
+---
+
+### S786 — ALI-001-J — Rule 10
+
+**Source:** "If you push a negative hard enough, it will push through and become a positive."
+
+**Notation:** `go {wi-ra  lo-de-vo  ra-vo-be},  du {de-vo  ki  vo}`
+
+**Written:** `go {wira lodevo ravobe}, du {devo ki vo}`
+
+**Gloss:** because [directed-power toward negative at highest-force] → result: [negative changes to positive]
+
+**Natural reading:** Apply sufficient directed force toward a negative and it transmutes into a positive.
+
+**Notes:** `de-vo` (W121) = the negative. `vo` = the positive. `ki` = motion/change = transforms. `ra-vo-be` = at highest force = "hard enough." First dialectical transmutation in corpus: `de-vo → vo` via `go/du` causal frame. The `du {}` formal result-clause marks this as a structural outcome, not mere conjunction.
+
+---
+
+### S787 — ALI-001-K — Rule 11
+
+**Source:** "The price of a successful attack is a constructive alternative."
+
+**Notation:** `go {la-o-li  ka-ra  wi-du},  ne-fe  [lo-o-li  be  wi-to]`
+
+**Written:** `go {laoli kara widu}, nefe [looli be wito]`
+
+**Gloss:** because [collective attacks and achieves victory] → required: [collective grows tactic/plan]
+
+**Natural reading:** A victorious attack carries a structural requirement: the collective must build something.
+
+**Notes:** `ka-ra wi-du` = attack + victory = successful attack. `ne-fe` (W042) = dependency condition/requirement. `be wi-to` = grows a plan = constructive (building) alternative. First use of `ne-fe` as the required output of a completed successful causal chain — the obligation is generated by winning, not prior to it.
+
+---
+
+### S788 — ALI-001-L — Rule 12
+
+**Source:** "Pick the target, freeze it, personalize it, and polarize it."
+
+**Notation:** `ka  lo-pa-wi  ;  ka-ne-de  lo-pa-wi  lo-ne-su  ;  ka-ru-li  lo-pa-wi  ;  ka-wi-de-li  lo-pa-wi`
+
+**Written:** `ka lopawi ; kanede lopawi lonesu ; karuli lopawi ; kawideli lopawi`
+
+**Gloss:** act-toward target ; dissolve target-from-network ; singularize-as-person target ; cast-as-adversary target
+
+**Natural reading:** Select a target; sever it from its support network; reduce it to one individual; make it the adversary.
+
+**Notes:** Four `;`-chained `ka-[TYPE] lo-pa-wi` operations — longest tactical sequence in corpus. `ka-ne-de` (W092) = deliberate bond-dissolution = freeze/isolate (sever from `lo-ne-su`, its network). `ka-ru-li` = `ka` + `ru` (unity) + `li` (person) = deliberately singularize-as-person = personalize. `ka-wi-de-li` = `ka` + W124 = deliberately cast as adversary = polarize. The `;` connector is correct: the operations are ordered (left-to-right tactical sequence) but not causally entailed.
+
+---
+
+## ALI-001 Batch Summary
+
+| S# | Rule | Core claim | Structural notes |
+|----|------|-----------|-----------------|
+| S777 | 1: Power attribution | `wi-ra ne ra / [la-de-li to wi-ra]` | `/` parallel: actual force vs attributed force |
+| S778 | 2: Stay in expertise | `go {la-o-li ka lo-no-to-su}, wi-ra de` | Causal declarative |
+| S779 | 3: Push adversary out | `go {la-de-li ka lo-no-to-su}, wi-ra de lo-de-li` | Mirror of S778; symmetry explicit |
+| S780 | 4: Hoist by own rules | `la-ra wi-ra [la-de-li ka wi-fe lo-de-li]` | `la-ra` depersonified agent (2nd use) |
+| S781 | 5: Ridicule as weapon | `si-de-vo ne ra-vo-be ka-mu lo-zo-li` | W232 `si-de-vo`; `ra-vo-be` superlative first use |
+| S782 | 6: Tactics people enjoy | `go {la-o-li fa-vo lo-wi-to}, wi-to ne vo` | `fa-vo` as tactic-quality measure |
+| S783 | 7: Time limits matter | `go {wi-to re no-ti-fe}, fa-vo de` | `no-ti-fe` extremal; S782/S783 minimal pair |
+| S784 | 8: Keep pressure on | `la-o-li wi-ra re lo-de-li` | `re` on `wi-ra` = sustained pressure |
+| S785 | 9: Threat > act | `fe-si ne fa-ra-vo-be / ka-ra ne fa-ra-de` | First `fa-ra` grading across `/` parallel |
+| S786 | 10: Push negative to positive | `go {wi-ra lo-de-vo ra-vo-be}, du {de-vo ki vo}` | First dialectical transmutation |
+| S787 | 11: Victory requires alternative | `go {la-o-li ka-ra wi-du}, ne-fe [lo-o-li be wi-to]` | `ne-fe` as post-victory structural requirement |
+| S788 | 12: Target sequence | `ka lo-pa-wi ; ka-ne-de … ; ka-ru-li … ; ka-wi-de-li …` | 4-op `;` chain; longest tactical sequence |
+
+**New W-entries:** W232 `si-de-vo` (ridicule, signal of value-decrease).
+
+**Compositional first uses:** `ra-vo-be` (superlative on `ra-vo`); `no-ti-fe` (`no-X-fe` extremal on temporal compound); `ka-ru-li` (personalize); `ka-wi-de-li` (polarize / cast-as-adversary).
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `wi-ra` (W177) | none | — | 2-root — below CLQ threshold |
+| `de-li` (W223) | none | — | 2-root — below CLQ threshold |
+| `wi-to` (W045) | none | — | 2-root — below CLQ threshold |
+| `to-su` (W030) | none | — | 2-root — below CLQ threshold |
+| `wi-fe` (W100) | none | — | 2-root — below CLQ threshold |
+| `ka-ra` (W222) | none | — | 2-root — below CLQ threshold |
+| `wi-du` (W175) | none | — | 2-root — below CLQ threshold |
+| `si-de-vo` (W232) | none | — | 3-root — meets threshold; no shortform established; defer |
+| `fe-si` (W024) | none | — | 2-root — below CLQ threshold |
+| `fa-ra` (W154) | none | — | 2-root — below CLQ threshold |
+| `fa-vo` (W197) | none | — | 2-root — below CLQ threshold |
+| `ne-fe` (W042) | none | — | 2-root — below CLQ threshold |
+| `pa-wi` (W088) | none | — | 2-root — below CLQ threshold |
+| `ka-ne-de` (W092) | none | — | 3-root — meets threshold; no shortform established |
+| `de-vo` (W121) | none | — | 2-root — below CLQ threshold |
+| `ra-vo-be` | none | — | 3-root compositional first use; no shortform established; defer |
+| `no-ti-fe` | none | — | 3-root extremal compositional; no shortform established |
+| `ka-ru-li` | none | — | 3-root compositional first use; no shortform established |
+| `ka-wi-de-li` | none | — | 4-root compositional first use; no shortform established |
+| `go {…}, X` pattern | none | — | Semantically load-bearing causal frame |
+
+**Verdict:** irreducibly formal — all registered compounds below threshold, compositional first uses deferred, causal operators load-bearing.
+
+*CLQ entries registered from this batch: none.*
