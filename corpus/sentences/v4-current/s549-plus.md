@@ -5489,3 +5489,210 @@ Contrast with S753: S753 = crowd misperception wrapped in `si`; S754 = the under
 **Verdict:** irreducibly formal — `wi-no-fe` extremal outside CLQ scope, compositional first uses deferred, particles outside scope.
 
 *CLQ entries registered from this batch: none.*
+
+---
+
+## ORD-001 — Browning, *Ordinary Men* (S825–S834)
+
+### S825 — ORD-001-A
+
+**Source:** "If the men of Reserve Police Battalion 101 could become killers under such circumstances, what group of men cannot?" — Epilogue (Browning, *Ordinary Men*, direct quotation)
+
+**Notation:** `go {go-su ne ra},  la-o-li  ka-de-zo  lo-li`
+
+**Written:** `go {gosu nera}, laoli kadezo loli`
+
+**Gloss:** because [circumstances have force], the-collective-persons deliberately-kill the-persons
+
+**Natural reading:** Because circumstances have force, [any] group of persons kills.
+
+**Notes:** Causal-universal rendering of Browning's central rhetorical question. `go-su` (W235) first use as causal agent in `go {}` frame. `ka-de-zo` (W128) first non-Biblical use. Patient `lo-li` is generic — any persons, under situational determination.
+
+---
+
+### S826 — ORD-001-B
+
+**Source:** "They were not ordered to become killers; they chose." — Close paraphrase of Browning's documented finding at Józefów (Chapter 2): Major Trapp offered an opt-out; most did not take it.
+
+**Notation:** `la-o-li  no  ne-fe  lo-ka-de-zo ;  wi-ka  lo-ka-de-zo`
+
+**Written:** `laoli no nefe lokadezo ; wika lokadezo`
+
+**Gloss:** the-collective-persons not [are] required to deliberately-kill; [they] will-act to deliberately-kill
+
+**Natural reading:** They were not required to kill; they chose to kill.
+
+**Notes:** `wi-ka` = will-act = voluntarily chosen action. First use. Contrast with `su-ka` in S831. The `;` marks: absence of structural requirement does not prevent the action — gap between `ne-fe` (compulsion) and `wi-ka` (choice).
+
+---
+
+### S827 — ORD-001-C
+
+**Source:** "Within virtually every social collective, the peer group exerts tremendous pressure on behavior and sets moral norms." — Close paraphrase of Browning's Epilogue.
+
+**Notation:** `la-o-li  ra  lo-wi-ka ;  ka  lo-vo-fe`
+
+**Written:** `laoli ra lowika ; ka lovofe`
+
+**Gloss:** the-collective-persons force [toward] chosen-acts; [and] govern the-moral-norms
+
+**Natural reading:** Collective persons exert force over what individuals choose to do; [and] govern moral norms.
+
+**Notes:** `wi-ka` as patient of `ra` = individual choice as the object of group pressure. `vo-fe` = goodness-boundary = moral norm. First use of both `wi-ka` as patient and `vo-fe`. The `;` marks sequence without asserting causation.
+
+---
+
+### S828 — ORD-001-D
+
+**Source:** "Most of those who did not shoot on the first occasion became shooters by the end." — Close paraphrase (Chapter 8, "Initiation to Mass Murder").
+
+**Notation:** `la-o-li  no  ka-de-zo  lo-ze ;  ka-de-zo  lo-ze`
+
+**Written:** `laoli no kadezo loze ; kadezo loze`
+
+**Gloss:** the-collective-persons not deliberately-kill the-particular-persons; [then] deliberately-kill the-particular-persons
+
+**Natural reading:** Those who did not kill [at first]; killed [by the end].
+
+**Notes:** Temporal sequence `;` without mechanism specified — the mechanism of habituation is withheld, giving the sentence structural inevitability. `la-o-li` carries through both clauses by ellipsis. The shift `no ka-de-zo → ka-de-zo` is the gradual normalization encoded minimally.
+
+---
+
+### S829 — ORD-001-E
+
+**Source:** "The fundamental problem is not to explain how they were different from us, but how ordinary people commit the most extraordinary evil." — Summary of Browning's Epilogue reframing.
+
+**Notation:** `la-su-li  ka  lo-vo-no'ra`
+
+**Written:** `lasuli ka lovono'ra`
+
+**Gloss:** the-structure-persons deliberately-perform the-extraordinary-evil
+
+**Natural reading:** Ordinary persons commit extraordinary evil.
+
+**Notes:** `su-li` (W234) first use. `vo-no'ra` = `[vo-no]` (evil, pre-bound) + `ra` (force, head) = evil-force = extraordinary evil. Juncture required: without it, `vo-no-ra` right-branches as `vo` + `[no-ra]` = goodness's powerlessness — wrong. First use of juncture `'` to bind an evil compound.
+
+---
+
+### S830 — ORD-001-F
+
+**Source:** Universality claim implicit in Browning's Epilogue: the lesson of Reserve Police Battalion 101 is not Germany-specific.
+
+**Notation:** `no  ko {ze-pa} /  pa-no-fe`
+
+**Written:** `no ko {zepa} / panofe`
+
+**Gloss:** not only within [a particular place] / [but] everywhere
+
+**Natural reading:** Not only within one particular place — everywhere.
+
+**Notes:** `pa-no-fe` = place-without-boundary = everywhere. First `[X]-no-fe` extremal on `pa` (place). Completes the place-axis: `go-su` (bounded causal circumstances) vs. `pa-no-fe` (unbounded). `ze-pa` = particular-place = a specific location (first use).
+
+---
+
+### S831 — ORD-001-G
+
+**Source:** "Victims were categorized before they were killed." — Summary of Browning's documented dehumanization protocol (Chapters 2–3).
+
+**Notation:** `la-o-li  su-ka  lo-li ;  ka-de-zo  lo-li`
+
+**Written:** `laoli suka loli ; kadezo loli`
+
+**Gloss:** the-collective-persons structure-act-upon the-persons; [then] deliberately-kill the-persons
+
+**Natural reading:** Collective persons categorized persons; [then] killed [them].
+
+**Notes:** `su-ka` = impose structure upon = categorize. First use. Contrast with `wi-ka` (S826, S827): `su-ka` is external structural imposition; `wi-ka` is internal volitional act. The `;` encodes the temporal protocol: categorization precedes killing.
+
+---
+
+### S832 — ORD-001-H
+
+**Source:** "Career, in-group conformity, and deference to authority were more powerful determinants of behavior than prior ideology or individual conscience." — Summary of Browning's Epilogue.
+
+**Notation:** `la-go-su  ra  lo-mi-vo-to`
+
+**Written:** `lagosu ra lomivoto`
+
+**Gloss:** the-origin-structure forces-over the-self-goodness-knowing
+
+**Natural reading:** Circumstance overpowers conscience.
+
+**Notes:** `mi-vo-to` (W236) first use: `mi` (self) + `vo` (goodness) + `to` (knowledge) = self-goodness-knowing = conscience. Right-branching: `mi` modifies `[vo-to]` (goodness-knowing) = self's moral knowledge. `la-go-su` (W235) as institutional/non-sentient agent. Maximum compression of Browning's three-factor explanation.
+
+---
+
+### S833 — ORD-001-I
+
+**Source:** "They were not a preselected group of committed Nazis... they were, above all, ordinary men." — Close paraphrase of Browning's characterization (Introduction and Conclusion).
+
+**Notation:** `la-o-li  no  ne  to-su-ra-li /  ne  su-li`
+
+**Written:** `laoli no ne tosurali / ne suli`
+
+**Gloss:** the-collective-persons not [are] doctrine-force-persons / [are] structure-persons
+
+**Natural reading:** They were not ideological fanatics; they were ordinary persons.
+
+**Notes:** `to-su-ra-li` = `to-su` (W030, doctrine) + `ra` (force) + `li` (person) = doctrine-force-person = ideological fanatic. `su-li` (W234) first use as predicate. 4th `/` function: identity-definition by negation-and-assertion — the antithetical pair establishes what they ARE by denying what they are NOT.
+
+---
+
+### S834 — ORD-001-J
+
+**Source:** "Situational factors, not prior ideology, determined who among them would kill." — Summary of Browning's principal explanatory thesis vs. Goldhagen's dispositional alternative (Afterword).
+
+**Notation:** `la-go-su-ra  ka  lo-ka-de-zo'li /  no  la-ti-de'to-su`
+
+**Written:** `lagosura ka lokadezo'li / no latide'tosu`
+
+**Gloss:** the-situational-force governs the-deliberate-killers / not [from] the-prior-doctrine
+
+**Natural reading:** Situational force determines who kills; not prior ideology.
+
+**Notes:** `go-su-ra` = `go-su` (W235) + `ra` = situational force. `ka-de-zo'li` = `[ka-de-zo]` (W128, deliberate killing, pre-bound) + `li` (person) = killer/perpetrator. Juncture required: without it `ka-de-zo-li` right-branches as `ka` + `[de-zo-li]` = wrong. `ti-de'to-su` = `[ti-de]` (W041) + `to-su` (W030) = prior-doctrine/ideology. Juncture required: without it `ti-de-to-su` right-branches as `ti` + `[de-to-su]` = wrong. Both junctures prevent mis-parse. Agent-vs-agent `/` — first of this type: two competing causal agents across the partition.
+
+---
+
+## ORD-001 Batch Summary
+
+| S# | Quote / Claim | Core notation | Structural notes |
+|----|---------------|---------------|------------------|
+| S825 | Central thesis: circumstances → killing | `go {gosu nera}, laoli kadezo loli` | `go-su` (W235) first use as causal agent; `ka-de-zo` (W128) first non-Biblical use |
+| S826 | Not required but chose | `laoli no nefe lokadezo ; wika lokadezo` | `wi-ka` first use; `wi-ka` / `ne-fe` moral-agency contrast |
+| S827 | Group forces behavior, sets norms | `laoli ra lowika ; ka lovofe` | `wi-ka` as patient; `vo-fe` (moral norm) first use |
+| S828 | Those who didn't kill, killed later | `laoli no kadezo loze ; kadezo loze` | Temporal `;`; mechanism withheld; habituation encoded structurally |
+| S829 | Ordinary persons commit extraordinary evil | `lasuli ka lovono'ra` | `su-li` (W234) first use; `vo-no'ra` juncture compound first use |
+| S830 | Not one place — everywhere | `no ko {zepa} / panofe` | `pa-no-fe` first place-extremal; `ze-pa` first use |
+| S831 | Categorize then kill | `laoli suka loli ; kadezo loli` | `su-ka` (structural imposition) first use; contrast `wi-ka` |
+| S832 | Circumstance overpowers conscience | `lagosu ra lomivoto` | `mi-vo-to` (W236, conscience) first use; `la-go-su` as agent |
+| S833 | Not fanatics; ordinary men | `laoli no ne tosurali / ne suli` | `su-li` (W234) first use as predicate; 4th `/` function |
+| S834 | Situational force, not prior ideology | `lapasura ka lokadezo'li / no latide'tosu` | Agent-vs-agent `/`; `ti-de'to-su` juncture; `ka-de-zo'li` juncture |
+
+**New W-entries:** W234 `su-li` = ordinary/structure-embedded person · W235 `go-su` = circumstances/situational context · W236 `mi-vo-to` = conscience/self-goodness-knowing.
+
+**Compositional first uses:** `wi-ka` (chosen act, S826); `su-ka` (structural imposition, S831); `vo-fe` (moral norm, S827); `vo-no'ra` (extraordinary evil, S829); `pa-no-fe` (everywhere, S830); `to-su-ra-li` (ideological fanatic, S833); `ti-de'to-su` (prior ideology, S834); `go-su-ra` (situational force, S834); `ze-pa` (particular place, S830); `ka-de-zo'li` (killer/perpetrator, S834).
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `ka-de-zo` (W128) | none | — | 3-root — meets CLQ threshold; established; no shortform registered; defer |
+| `su-li` (W234) | none | — | 2-root — below 3-morpheme CLQ threshold |
+| `go-su` (W235) | none | — | 2-root — below CLQ threshold |
+| `mi-vo-to` (W236) | none | — | 3-root first use; defer |
+| `wi-ka` | none | — | 2-root — below CLQ threshold |
+| `su-ka` | none | — | 2-root — below CLQ threshold |
+| `vo-fe` | none | — | 2-root — below CLQ threshold |
+| `vo-no'ra` | none | — | 3-root with juncture; first use; defer |
+| `pa-no-fe` | none | — | `[X]-no-fe` extremal — outside CLQ scope; CLQ-EXT unresolved |
+| `to-su-ra-li` | none | — | 4-root compositional first use; defer |
+| `ti-de'to-su` | none | — | 4-root with juncture; first use; defer |
+| `go-su-ra` | none | — | 3-root compositional first use; defer |
+| `go {…}, X` pattern | none | — | Semantically load-bearing causal frame — outside CLQ scope |
+
+**Verdict:** irreducibly formal — 2-root entries below threshold; 3- and 4-root compositional first uses deferred; `pa-no-fe` extremal outside CLQ scope.
+
+*CLQ entries registered from this batch: none.*

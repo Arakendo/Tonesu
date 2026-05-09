@@ -10,7 +10,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## Person / Agent
 
-15 compounds
+16 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -23,6 +23,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `si-ki-li` · sikili | [W158](words/W158.md) | ✅ | messenger/angel, signal-motion-agent <br><small>[S401](../../totonesu/corpus/batches/exo/index.md#S401)</small> |
 | `si-no-vo-li` · sinovoli | [W126](words/W126.md) | ✅ | hypocrite, person of valueless signal |
 | `su-ka-li` · sukali | [W200](words/W200.md) | ✅ | service provider; platform operator <br><small>[S639](../../totonesu/corpus/batches/cda/index.md#S639) · [S641](../../totonesu/corpus/batches/cda/index.md#S641) · [S642](../../totonesu/corpus/batches/cda/index.md#S642) · [S644](../../totonesu/corpus/batches/cda/index.md#S644)</small> |
+| `su-li` · suli | [W234](words/W234.md) | ✅ | ordinary person; structure-embedded person; person shaped by institutional context |
 | `su-mu-li` · sumuli | [W002](words/W002.md) | ⏳ | engineer, architect <br><small>[S025](../../totonesu/corpus/batches/_foundations/index.md#S025) · [S164](../../totonesu/corpus/batches/p-gp/index.md#S164) · [S171](../../totonesu/corpus/batches/p-gp/index.md#S171) · [S559](../../totonesu/corpus/batches/pav/index.md#S559)</small> |
 | `to-fe-li` · tofeli | [W032](words/W032.md) | ⏳ | epistemic guardian/adjudicator <br><small>[S045](../../totonesu/corpus/batches/t-apo/index.md#S045) · [S175](../../totonesu/corpus/batches/sa/index.md#S175) · [S272](../../totonesu/corpus/batches/lgl/index.md#S272) · [S273](../../totonesu/corpus/batches/lgl/index.md#S273) · [S277](../../totonesu/corpus/batches/lgl/index.md#S277)</small> |
 | `to-li` · toli | [W003](words/W003.md) | ⏳ | scholar, expert, knower <br><small>[S010](../../totonesu/corpus/batches/_foundations/index.md#S010) · [S046](../../totonesu/corpus/batches/t-apo/index.md#S046) · [S086](../../totonesu/corpus/batches/t-wit/index.md#S086) · [S087](../../totonesu/corpus/batches/t-wit/index.md#S087) · [S369](../../totonesu/corpus/batches/fal/index.md#S369) · [S382](../../totonesu/corpus/batches/fal/index.md#S382) · [S389](../../totonesu/corpus/batches/fal/index.md#S389) · [S714](../../totonesu/corpus/batches/mrx/index.md#S714)</small> |
@@ -199,7 +200,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## Social / Institutional
 
-22 compounds
+23 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -218,6 +219,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `re-ka-ne-li` · rekaneli | [W134](words/W134.md) | ✅ | peacemaker, habitual bond-creator |
 | `si-no-vo-li` · sinovoli | [W126](words/W126.md) | ✅ | hypocrite, person of valueless signal |
 | `su-ka-li` · sukali | [W200](words/W200.md) | ✅ | service provider; platform operator <br><small>[S639](../../totonesu/corpus/batches/cda/index.md#S639) · [S641](../../totonesu/corpus/batches/cda/index.md#S641) · [S642](../../totonesu/corpus/batches/cda/index.md#S642) · [S644](../../totonesu/corpus/batches/cda/index.md#S644)</small> |
+| `su-li` · suli | [W234](words/W234.md) | ✅ | ordinary person; structure-embedded person; person shaped by institutional context |
 | `to-fe-su` · tofesu | [W072](words/W072.md) | ✅ | epistemic standards body/code <br><small>[C005-B3](../../totonesu/corpus/conversations/overview.md#C005-B3) · [C008-B3](../../totonesu/corpus/conversations/overview.md#C008-B3) · [S040](../../totonesu/corpus/batches/t-xx/index.md#S040) · [S156](../../totonesu/corpus/batches/cf/index.md#S156) · [S159](../../totonesu/corpus/batches/mg/index.md#S159) · [S160](../../totonesu/corpus/batches/mg/index.md#S160) · [S278](../../totonesu/corpus/batches/lgl/index.md#S278) · [S383](../../totonesu/corpus/batches/fal/index.md#S383) · [S384](../../totonesu/corpus/batches/fal/index.md#S384) · [S388](../../totonesu/corpus/batches/fal/index.md#S388) · [S389](../../totonesu/corpus/batches/fal/index.md#S389) · [S391](../../totonesu/corpus/batches/fal/index.md#S391) · [S392](../../totonesu/corpus/batches/fal/index.md#S392) · [S393](../../totonesu/corpus/batches/fal/index.md#S393) · [S397](../../totonesu/corpus/batches/fal/index.md#S397)</small> |
 | `to-ki'ne-su` · toki'nesu | [W202](words/W202.md) | ✅ | online platform; networked computing system; interactive computer service <br><small>[S639](../../totonesu/corpus/batches/cda/index.md#S639) · [S640](../../totonesu/corpus/batches/cda/index.md#S640)</small> |
 | `wi-de-li` · wideli | [W124](words/W124.md) | ✅ | adversary, enemy, opposing-will person <br><small>[S366](../../totonesu/corpus/batches/fal/index.md#S366)</small> |
@@ -360,6 +362,30 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `zo-ki-ma` · zokima | [W220](words/W220.md) | ✅ | snake / serpent / limbless locomoting organism <br><small>[S696](../../totonesu/corpus/batches/exo/index.md#S696) · [S699](../../totonesu/corpus/batches/exo/index.md#S699)</small> |
 | `zo-su-mu` · zosumu | [W221](words/W221.md) | ✅ | staff / rod / wooden implement <br><small>[S696](../../totonesu/corpus/batches/exo/index.md#S696)</small> |
 
+## Causation / Conditions
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `go-su` · gosu | [W235](words/W235.md) | ✅ | circumstances; situational context; causal-structural field <br><small>[S159](../../totonesu/corpus/batches/mg/index.md#S159) · [S160](../../totonesu/corpus/batches/mg/index.md#S160) · [S161](../../totonesu/corpus/batches/mg/index.md#S161) · [S510](../../totonesu/corpus/batches/vpc/index.md#S510)</small> |
+
+## Cognition / Knowledge
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `mi-vo-to` · mivoto | [W236](words/W236.md) | ✅ | conscience; self-goodness-knowing; inner moral sense |
+
+## Context / Social
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `go-su` · gosu | [W235](words/W235.md) | ✅ | circumstances; situational context; causal-structural field <br><small>[S159](../../totonesu/corpus/batches/mg/index.md#S159) · [S160](../../totonesu/corpus/batches/mg/index.md#S160) · [S161](../../totonesu/corpus/batches/mg/index.md#S161) · [S510](../../totonesu/corpus/batches/vpc/index.md#S510)</small> |
+
 ## Cosmology / Metaphysics
 
 3 compounds
@@ -399,6 +425,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `wi-su-fe` · wisufe | [W192](words/W192.md) | ✅ | law-neutral; will at the structural limit; neither rule-imposing nor rule-rejecting <br><small>[S611](../../totonesu/corpus/batches/dnd/index.md#S611) · [S614](../../totonesu/corpus/batches/dnd/index.md#S614) · [S617](../../totonesu/corpus/batches/dnd/index.md#S617) · [S628](../../totonesu/corpus/batches/dnd/index.md#S628)</small> |
 | `wi-vo` · wivo | [W190](words/W190.md) | ✅ | good; will toward value/benefit; beneficent moral disposition <br><small>[S452](../../totonesu/corpus/batches/rom/index.md#S452) · [S471](../../totonesu/corpus/batches/emd/index.md#S471) · [S514](../../totonesu/corpus/batches/emd/index.md#S514) · [S521](../../totonesu/corpus/batches/emd/index.md#S521) · [S609](../../totonesu/corpus/batches/dnd/index.md#S609) · [S610](../../totonesu/corpus/batches/dnd/index.md#S610) · [S611](../../totonesu/corpus/batches/dnd/index.md#S611) · [S612](../../totonesu/corpus/batches/dnd/index.md#S612) · [S626](../../totonesu/corpus/batches/dnd/index.md#S626) · [S634](../../totonesu/corpus/batches/doi/index.md#S634)</small> |
 | `wi-vo-fe` · wivofe | [W193](words/W193.md) | ✅ | ethics-neutral; will at the value limit; neither primarily beneficent nor harmful <br><small>[S613](../../totonesu/corpus/batches/dnd/index.md#S613) · [S614](../../totonesu/corpus/batches/dnd/index.md#S614) · [S615](../../totonesu/corpus/batches/dnd/index.md#S615) · [S628](../../totonesu/corpus/batches/dnd/index.md#S628)</small> |
+
+## Ethics / Self
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `mi-vo-to` · mivoto | [W236](words/W236.md) | ✅ | conscience; self-goodness-knowing; inner moral sense |
 
 ## Ethics / Social
 

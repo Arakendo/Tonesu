@@ -2402,3 +2402,48 @@ Related:       ka-li-su (W147: governance/dominion — activity form), o-li (col
 ```
 
 ---
+
+**W234**
+```
+Form:          su-li
+Type:          compound
+Class:         person / role
+Definition:    su (structure/organization) + li (person) = structure-person = a person whose character is determined by their institutional and social structural embedding rather than by exceptional individual traits. The title compound of Browning's Ordinary Men thesis: perpetrators were not exceptional monsters but persons whose behavior was shaped by their organizational context (pa-su, W235). Distinct from all other li-compounds: li-su-li (W001, leader/coordinator = structure of persons), to-su-li (expert = organized-knowledge person), to-li (W003, knower), wi-de-li (W124, adversary), ra-su-li (W225, sovereign) — su-li names the baseline: structurally-embedded ordinary person, one among many. Antonym in context: to-su-ra-li (ideological fanatic = doctrine-force-person), which names the exceptional case Browning argues was not operative.
+Register:      standard
+Domain:        Social / Human
+Status:        ✅ active
+First use:     ORD-001-I (S833): la-o-li no ne to-su-ra-li / ne su-li — "They were not ideological fanatics; they were ordinary men." (Browning, Ordinary Men)
+Related:       su (primitive: structure), li (primitive: person), pa-su (W235: circumstances), li-su-li (W001: leader/coordinator — distinct), to-su-li (expert — distinct), to-su-ra-li (ideological fanatic — contextual antonym)
+```
+
+---
+
+**W235**
+```
+Form:          go-su
+Type:          compound
+Class:         entity / concept
+Definition:    go (origin/cause) + su (structure/organization) = origin-structure = the organized causal-structural field in which events and agents are embedded = circumstances. Distinct from pa-su (W157: mountain = structured place): go-su names the causal-background field, not a geographical feature. The compound enables the situational axis of causal analysis: la-go-su as agent names circumstances as a causal force. go {go-su ne ra} = because circumstances have force (S825, Browning's central causal claim). la-go-su ra lo-mi-vo-to = circumstance overpowers conscience (S832). Note: the causal particle go and the root go in go-su are distinct tokens — the particle precedes {}, the compound appears inside or as agent-marked la-go-su. First explicit compound naming circumstance/situation as a structured causal entity. Extends: go-su-ra (situational force = go-su + ra, S834).
+Register:      standard
+Domain:        Context / Social
+Status:        ✅ active
+First use:     ORD-001-A (S825): go {go-su ne ra}, la-o-li ka-de-zo lo-li — "If the men of Reserve Police Battalion 101 could become killers under such circumstances, what group of men cannot?" (Browning, Ordinary Men)
+Related:       go (primitive: origin/cause), su (primitive: structure), pa-su (W157: mountain — different compound, distinct meaning), su-li (W234: ordinary person — shaped by go-su), mi-vo-to (W236: conscience — overridden by go-su), pa-no-fe (extremal: everywhere, no bounded context)
+```
+
+---
+
+**W236**
+```
+Form:          mi-vo-to
+Type:          compound
+Class:         entity / cognitive state
+Definition:    mi (self/speaker) + vo (goodness/value) + to (knowledge/pattern) = self-goodness-knowing = conscience. Right-branching parse: mi modifies [vo-to] (goodness-knowing) = self's goodness-knowing = the inner awareness of one's own moral standing. Conscience in Tonesu is compositionally transparent: it is the application of to (knowledge) in the vo (goodness) domain directed reflexively at mi (self). Not a separate faculty but self-applied moral knowledge. First used in contrast with pa-su (W235, circumstances): la-pa-su ra lo-mi-vo-to = circumstance overpowers conscience — the situational vs. moral-inner-sense axis. Third mi-compound in the corpus after lo-mi (S823, self-as-patient) and pa-mi (W110, speaker's location).
+Register:      standard
+Domain:        Ethics / Self
+Status:        ✅ active
+First use:     ORD-001-H (S832): la-pa-su ra lo-mi-vo-to — "Career, in-group conformity, and deference to authority were more powerful than conscience." (Browning, Ordinary Men)
+Related:       mi (primitive: self/speaker), vo (primitive: goodness/value), to (primitive: knowledge/pattern), go-su (W235: circumstances — what overrides conscience), pa-mi (W110: speaker's location — parallel mi-compound), vo-ne (W118: righteousness — related moral quality)
+```
+
+---

@@ -2364,7 +2364,9 @@ sentences:
   - W024
   - W072
   - W097
-  first_attests: []
+  - W235
+  first_attests:
+  - W235
   gap_refs: []
   source_file: sentences/v2-labeled/s101-s175.md
   source_anchor: S159
@@ -2382,6 +2384,7 @@ sentences:
   words_attested:
   - W024
   - W072
+  - W235
   first_attests: []
   gap_refs: []
   source_file: sentences/v2-labeled/s101-s175.md
@@ -2401,6 +2404,7 @@ sentences:
   words_attested:
   - W042
   - W064
+  - W235
   first_attests: []
   gap_refs: []
   source_file: sentences/v2-labeled/s101-s175.md
@@ -8407,7 +8411,8 @@ sentences:
   tonesu: a-su helms go-su
   gloss_line: null
   natural: '"Form as such is the causal ground of all structure."'
-  words_attested: []
+  words_attested:
+  - W235
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s398-s548.md
@@ -15577,3 +15582,178 @@ sentences:
     Agentless `zi-ka` (no `la-` phrase) gives the meeting the quality of structural
     inevitability — not caused by any specific will but inherent in the `pa-si` structure
     itself. The `ko {}` containment marks the meeting as enclosed and inescapable.'
+- snum: S825
+  gloss: Because circumstances have force, [any] group of persons kills.
+  batch: ORD-001
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: because [circumstances have force], the-collective-persons deliberately-kill
+    the-persons
+  natural: Because circumstances have force, [any] group of persons kills.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S825
+  notes: Causal-universal rendering of Browning's central rhetorical question. `go-su`
+    (W235) first use as causal agent in `go {}` frame. `ka-de-zo` (W128) first non-Biblical
+    use. Patient `lo-li` is generic — any persons, under situational determination.
+- snum: S826
+  gloss: They were not required to kill; they chose to kill.
+  batch: ORD-001
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: the-collective-persons not [are] required to deliberately-kill; [they]
+    will-act to deliberately-kill
+  natural: They were not required to kill; they chose to kill.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S826
+  notes: '`wi-ka` = will-act = voluntarily chosen action. First use. Contrast with
+    `su-ka` in S831. The `;` marks: absence of structural requirement does not prevent
+    the action — gap between `ne-fe` (compulsion) and `wi-ka` (choice).'
+- snum: S827
+  gloss: Collective persons exert force over what individuals choose to do; [and]
+    govern moral norms.
+  batch: ORD-001
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: the-collective-persons force [toward] chosen-acts; [and] govern the-moral-norms
+  natural: Collective persons exert force over what individuals choose to do; [and]
+    govern moral norms.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S827
+  notes: '`wi-ka` as patient of `ra` = individual choice as the object of group pressure.
+    `vo-fe` = goodness-boundary = moral norm. First use of both `wi-ka` as patient
+    and `vo-fe`. The `;` marks sequence without asserting causation.'
+- snum: S828
+  gloss: Those who did not kill [at first]; killed [by the end].
+  batch: ORD-001
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: the-collective-persons not deliberately-kill the-particular-persons;
+    [then] deliberately-kill the-particular-persons
+  natural: Those who did not kill [at first]; killed [by the end].
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S828
+  notes: Temporal sequence `;` without mechanism specified — the mechanism of habituation
+    is withheld, giving the sentence structural inevitability. `la-o-li` carries through
+    both clauses by ellipsis. The shift `no ka-de-zo → ka-de-zo` is the gradual normalization
+    encoded minimally.
+- snum: S829
+  gloss: Ordinary persons commit extraordinary evil.
+  batch: ORD-001
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: the-structure-persons deliberately-perform the-extraordinary-evil
+  natural: Ordinary persons commit extraordinary evil.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S829
+  notes: '`su-li` (W234) first use. `vo-no''ra` = `[vo-no]` (evil, pre-bound) + `ra`
+    (force, head) = evil-force = extraordinary evil. Juncture required: without it,
+    `vo-no-ra` right-branches as `vo` + `[no-ra]` = goodness''s powerlessness — wrong.
+    First use of juncture `''` to bind an evil compound.'
+- snum: S830
+  gloss: Not only within one particular place — everywhere.
+  batch: ORD-001
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: not only within [a particular place] / [but] everywhere
+  natural: Not only within one particular place — everywhere.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S830
+  notes: '`pa-no-fe` = place-without-boundary = everywhere. First `[X]-no-fe` extremal
+    on `pa` (place). Completes the place-axis: `go-su` (bounded causal circumstances)
+    vs. `pa-no-fe` (unbounded). `ze-pa` = particular-place = a specific location (first
+    use).'
+- snum: S831
+  gloss: Collective persons categorized persons; [then] killed [them].
+  batch: ORD-001
+  batch_sub: G
+  status: normative
+  tonesu: ''
+  gloss_line: the-collective-persons structure-act-upon the-persons; [then] deliberately-kill
+    the-persons
+  natural: Collective persons categorized persons; [then] killed [them].
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S831
+  notes: '`su-ka` = impose structure upon = categorize. First use. Contrast with `wi-ka`
+    (S826, S827): `su-ka` is external structural imposition; `wi-ka` is internal volitional
+    act. The `;` encodes the temporal protocol: categorization precedes killing.'
+- snum: S832
+  gloss: Circumstance overpowers conscience.
+  batch: ORD-001
+  batch_sub: H
+  status: normative
+  tonesu: ''
+  gloss_line: the-origin-structure forces-over the-self-goodness-knowing
+  natural: Circumstance overpowers conscience.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S832
+  notes: '`mi-vo-to` (W236) first use: `mi` (self) + `vo` (goodness) + `to` (knowledge)
+    = self-goodness-knowing = conscience. Right-branching: `mi` modifies `[vo-to]`
+    (goodness-knowing) = self''s moral knowledge. `la-go-su` (W235) as institutional/non-sentient
+    agent. Maximum compression of Browning''s three-factor explanation.'
+- snum: S833
+  gloss: They were not ideological fanatics; they were ordinary persons.
+  batch: ORD-001
+  batch_sub: I
+  status: normative
+  tonesu: ''
+  gloss_line: the-collective-persons not [are] doctrine-force-persons / [are] structure-persons
+  natural: They were not ideological fanatics; they were ordinary persons.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S833
+  notes: '`to-su-ra-li` = `to-su` (W030, doctrine) + `ra` (force) + `li` (person)
+    = doctrine-force-person = ideological fanatic. `su-li` (W234) first use as predicate.
+    4th `/` function: identity-definition by negation-and-assertion — the antithetical
+    pair establishes what they ARE by denying what they are NOT.'
+- snum: S834
+  gloss: Situational force determines who kills; not prior ideology.
+  batch: ORD-001
+  batch_sub: J
+  status: normative
+  tonesu: ''
+  gloss_line: the-situational-force governs the-deliberate-killers / not [from] the-prior-doctrine
+  natural: Situational force determines who kills; not prior ideology.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S834
+  notes: '`go-su-ra` = `go-su` (W235) + `ra` = situational force. `ka-de-zo''li` =
+    `[ka-de-zo]` (W128, deliberate killing, pre-bound) + `li` (person) = killer/perpetrator.
+    Juncture required: without it `ka-de-zo-li` right-branches as `ka` + `[de-zo-li]`
+    = wrong. `ti-de''to-su` = `[ti-de]` (W041) + `to-su` (W030) = prior-doctrine/ideology.
+    Juncture required: without it `ti-de-to-su` right-branches as `ti` + `[de-to-su]`
+    = wrong. Both junctures prevent mis-parse. Agent-vs-agent `/` — first of this
+    type: two competing causal agents across the partition.'

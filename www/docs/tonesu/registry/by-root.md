@@ -109,11 +109,12 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `go` — cause / origin
 
-1 compound
+2 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `go-ne` · gone | [W159](words/W159.md) | ✅ | self-originating relation / "I am who I am" <br><small>[S415](../../totonesu/corpus/batches/exo/index.md#S415) · [S638](../../totonesu/corpus/batches/doi/index.md#S638)</small> |
+| `go-su` · gosu | [W235](words/W235.md) | ✅ | circumstances; situational context; causal-structural field <br><small>[S159](../../totonesu/corpus/batches/mg/index.md#S159) · [S160](../../totonesu/corpus/batches/mg/index.md#S160) · [S161](../../totonesu/corpus/batches/mg/index.md#S161) · [S510](../../totonesu/corpus/batches/vpc/index.md#S510)</small> |
 
 ## `ha` — heat / thermal state
 
@@ -198,6 +199,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `ma-no-de` · manode | [W046](words/W046.md) | ✅ | medicine, treatment substance <br><small>[S063](../../totonesu/corpus/batches/t-prm/index.md#S063) · [S370](../../totonesu/corpus/batches/fal/index.md#S370)</small> |
 | `ma-ra` · mara | [W116](words/W116.md) | ⏳ | plasma, ionized matter |
 | `ma-zo-ki` · mazoki | [W146](words/W146.md) | ⏳ | crawler, ground-moving creature |
+
+## `mi` — first-person singular (I / me)
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `mi-vo-to` · mivoto | [W236](words/W236.md) | ✅ | conscience; self-goodness-knowing; inner moral sense |
 
 ## `mu` — object / artifact
 
@@ -316,7 +325,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `su` — structure / order
 
-10 compounds
+11 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -324,6 +333,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `su-fa` · sufa | [W133](words/W133.md) | ✅ | purity of heart, structured affect |
 | `su-ha-mu` · suhamu | [W227](words/W227.md) | ✅ | cooking pan; stovetop cooking surface; open heat-vessel <br><small>[S721](../../totonesu/corpus/batches/egg/index.md#S721)</small> |
 | `su-ka-li` · sukali | [W200](words/W200.md) | ✅ | service provider; platform operator <br><small>[S639](../../totonesu/corpus/batches/cda/index.md#S639) · [S641](../../totonesu/corpus/batches/cda/index.md#S641) · [S642](../../totonesu/corpus/batches/cda/index.md#S642) · [S644](../../totonesu/corpus/batches/cda/index.md#S644)</small> |
+| `su-li` · suli | [W234](words/W234.md) | ✅ | ordinary person; structure-embedded person; person shaped by institutional context |
 | `su-mu-li` · sumuli | [W002](words/W002.md) | ⏳ | engineer, architect <br><small>[S025](../../totonesu/corpus/batches/_foundations/index.md#S025) · [S164](../../totonesu/corpus/batches/p-gp/index.md#S164) · [S171](../../totonesu/corpus/batches/p-gp/index.md#S171) · [S559](../../totonesu/corpus/batches/pav/index.md#S559)</small> |
 | `su-ne` · sune | [W174](words/W174.md) | ✅ | harmony, structure-of-connection <br><small>[S591](../../totonesu/corpus/batches/stw/index.md#S591) · [S631](../../totonesu/corpus/batches/doi/index.md#S631) · [S660](../../totonesu/corpus/batches/ckg/index.md#S660) · [S720](../../totonesu/corpus/batches/egg/index.md#S720) · [S731](../../totonesu/corpus/batches/str/index.md#S731)</small> |
 | `su-ru` · suru | [W085](words/W085.md) | ✅ | integrated whole, unified structure <br><small>[S119](../../totonesu/corpus/batches/t-ax/index.md#S119)</small> |

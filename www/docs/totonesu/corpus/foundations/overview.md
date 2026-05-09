@@ -6,7 +6,7 @@ title: "Foundations"
 
 Core sentences from the earliest Tonesu attestations — basic agent-patient structures, property attribution, and foundational constructions.
 
-281 sentences.
+291 sentences.
 
 [← Corpus](../overview.md)
 
@@ -41,6 +41,7 @@ Core sentences from the earliest Tonesu attestations — basic agent-patient str
 | [Peterson, *12 Rules for Life* (2018) — The Twelve Rules](../batches/jbp/index.md) | 1 | 12 |
 | [Mao Zedong, Selected Quotations](../batches/mao/index.md) | 1 | 12 |
 | [George Orwell, *Nineteen Eighty-Four*](../batches/orw/index.md) | 1 | 12 |
+| [Browning, *Ordinary Men*](../batches/ord/index.md) | 1 | 10 |
 
 ---
 

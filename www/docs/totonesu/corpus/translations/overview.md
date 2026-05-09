@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-42 translation analyses.
+43 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -62,6 +62,7 @@ gap analysis, and key findings.
 - [liar-paradox](philosophy/liar-paradox/index.md)
 - [lojban-type-contrasts](philosophy/lojban-type-contrasts/index.md)
 - [mao-little-red-book](philosophy/mao-little-red-book/index.md)
+- [ordinary-men](philosophy/ordinary-men/index.md)
 - [orwell-1984](philosophy/orwell-1984/index.md)
 - [peterson-12-rules-for-life](philosophy/peterson-12-rules-for-life/index.md)
 - [proof-structure](philosophy/proof-structure/index.md)

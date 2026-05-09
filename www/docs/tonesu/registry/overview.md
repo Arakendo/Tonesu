@@ -4,7 +4,7 @@ title: Word Registry
 
 # Word Registry
 
-218 derived compounds, sorted alphabetically.
+221 derived compounds, sorted alphabetically.
 
 See also: [English index](english.md) · [By domain](by-domain.md) · [By root](by-root.md) · [Building words](../words.md)
 
@@ -41,6 +41,7 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `ge-ki` · geki | [W187](words/W187.md) | ✅ | transmutation; quality-change; fundamental alteration of properties <br><small>[S607](../../totonesu/corpus/batches/dnd/index.md#S607)</small> |
 | `ge-se-ki` · geseki | [W185](words/W185.md) | ✅ | illusion; quality-perception-change; magic of crafting apparent properties <br><small>[S605](../../totonesu/corpus/batches/dnd/index.md#S605) · [S608](../../totonesu/corpus/batches/dnd/index.md#S608)</small> |
 | `go-ne` · gone | [W159](words/W159.md) | ✅ | self-originating relation / "I am who I am" <br><small>[S415](../../totonesu/corpus/batches/exo/index.md#S415) · [S638](../../totonesu/corpus/batches/doi/index.md#S638)</small> |
+| `go-su` · gosu | [W235](words/W235.md) | ✅ | circumstances; situational context; causal-structural field <br><small>[S159](../../totonesu/corpus/batches/mg/index.md#S159) · [S160](../../totonesu/corpus/batches/mg/index.md#S160) · [S161](../../totonesu/corpus/batches/mg/index.md#S161) · [S510](../../totonesu/corpus/batches/vpc/index.md#S510)</small> |
 | `ha-de` · hade | [W044](words/W044.md) | ✅ | cooling, thermal decrease <br><small>[S060](../../totonesu/corpus/batches/t-prm/index.md#S060)</small> |
 | `ha-zo-ra-ma` · hazorama | [W216](words/W216.md) | ✅ | baked food / thermally-treated food <br><small>[S664](../../totonesu/corpus/batches/ckg/index.md#S664) · [S724](../../totonesu/corpus/batches/egg/index.md#S724) · [S725](../../totonesu/corpus/batches/egg/index.md#S725)</small> |
 | `ka-be-ne` · kabene | [W218](words/W218.md) | ✅ | binding / deliberate bond-creation <br><small>[S673](../../totonesu/corpus/batches/sol/index.md#S673) · [S715](../../totonesu/corpus/batches/mrx/index.md#S715)</small> |
@@ -76,6 +77,7 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `ma-no-de` · manode | [W046](words/W046.md) | ✅ | medicine, treatment substance <br><small>[S063](../../totonesu/corpus/batches/t-prm/index.md#S063) · [S370](../../totonesu/corpus/batches/fal/index.md#S370)</small> |
 | `ma-ra` · mara | [W116](words/W116.md) | ⏳ | plasma, ionized matter |
 | `ma-zo-ki` · mazoki | [W146](words/W146.md) | ⏳ | crawler, ground-moving creature |
+| `mi-vo-to` · mivoto | [W236](words/W236.md) | ✅ | conscience; self-goodness-knowing; inner moral sense |
 | `mu-ka` · muka | [W022](words/W022.md) | ✅ | use / operate a tool or artifact <br><small>[S120](../../totonesu/corpus/batches/t-ax/index.md#S120) · [S121](../../totonesu/corpus/batches/t-ax/index.md#S121)</small> |
 | `ne-de` · nede | [W091](words/W091.md) | ✅ | bond dissolution (no assigned cause) |
 | `ne-fe` · nefe | [W042](words/W042.md) | ✅ | dependency condition, requirement <br><small>[S058](../../totonesu/corpus/batches/t-prm/index.md#S058) · [S059](../../totonesu/corpus/batches/t-prm/index.md#S059) · [S060](../../totonesu/corpus/batches/t-prm/index.md#S060) · [S061](../../totonesu/corpus/batches/t-prm/index.md#S061) · [S062](../../totonesu/corpus/batches/t-prm/index.md#S062) · [S128](../../totonesu/corpus/batches/cf/index.md#S128) · [S131](../../totonesu/corpus/batches/cf/index.md#S131) · [S161](../../totonesu/corpus/batches/mg/index.md#S161) · [S208](../../totonesu/corpus/batches/odl/index.md#S208) · [S679](../../totonesu/corpus/batches/sol/index.md#S679) · [S680](../../totonesu/corpus/batches/sol/index.md#S680)</small> |
@@ -138,6 +140,7 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `su-fa` · sufa | [W133](words/W133.md) | ✅ | purity of heart, structured affect |
 | `su-ha-mu` · suhamu | [W227](words/W227.md) | ✅ | cooking pan; stovetop cooking surface; open heat-vessel <br><small>[S721](../../totonesu/corpus/batches/egg/index.md#S721)</small> |
 | `su-ka-li` · sukali | [W200](words/W200.md) | ✅ | service provider; platform operator <br><small>[S639](../../totonesu/corpus/batches/cda/index.md#S639) · [S641](../../totonesu/corpus/batches/cda/index.md#S641) · [S642](../../totonesu/corpus/batches/cda/index.md#S642) · [S644](../../totonesu/corpus/batches/cda/index.md#S644)</small> |
+| `su-li` · suli | [W234](words/W234.md) | ✅ | ordinary person; structure-embedded person; person shaped by institutional context |
 | `su-mu-li` · sumuli | [W002](words/W002.md) | ⏳ | engineer, architect <br><small>[S025](../../totonesu/corpus/batches/_foundations/index.md#S025) · [S164](../../totonesu/corpus/batches/p-gp/index.md#S164) · [S171](../../totonesu/corpus/batches/p-gp/index.md#S171) · [S559](../../totonesu/corpus/batches/pav/index.md#S559)</small> |
 | `su-ne` · sune | [W174](words/W174.md) | ✅ | harmony, structure-of-connection <br><small>[S591](../../totonesu/corpus/batches/stw/index.md#S591) · [S631](../../totonesu/corpus/batches/doi/index.md#S631) · [S660](../../totonesu/corpus/batches/ckg/index.md#S660) · [S720](../../totonesu/corpus/batches/egg/index.md#S720) · [S731](../../totonesu/corpus/batches/str/index.md#S731)</small> |
 | `su-ru` · suru | [W085](words/W085.md) | ✅ | integrated whole, unified structure <br><small>[S119](../../totonesu/corpus/batches/t-ax/index.md#S119)</small> |

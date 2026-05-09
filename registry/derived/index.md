@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 133 |
+| [w101-plus.md](w101-plus.md) | W101+ | 136 |
 
-**Total: 221 W-series entries** — active: 177 · proposed: 2 · pending: 39 · cold: 0 · retired: 3
+**Total: 224 W-series entries** — active: 180 · proposed: 2 · pending: 39 · cold: 0 · retired: 3
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -61,6 +61,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `ge-ki` | W187 | transmutation; quality-change; fundamental alteration of properties | ✅ | [w101-plus](w101-plus.md) |
 | `ge-se-ki` | W185 | illusion; quality-perception-change; magic of crafting apparent properties | ✅ | [w101-plus](w101-plus.md) |
 | `go-ne` | W159 | self-originating relation / "I am who I am" | ✅ | [w101-plus](w101-plus.md) |
+| `go-su` | W235 | circumstances; situational context; causal-structural field | ✅ | [w101-plus](w101-plus.md) |
 | `ha-de` | W044 | cooling, thermal decrease | ✅ | [w001-w050](w001-w050.md) |
 | `ha-zo-ra-ma` | W216 | baked food / thermally-treated food | ✅ | [w101-plus](w101-plus.md) |
 | `ka-be-ne` | W218 | binding / deliberate bond-creation | ✅ | [w101-plus](w101-plus.md) |
@@ -96,6 +97,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `ma-no-de` | W046 | medicine, treatment substance | ✅ | [w001-w050](w001-w050.md) |
 | `ma-ra` | W116 | plasma, ionized matter | ⏳ | [w101-plus](w101-plus.md) |
 | `ma-zo-ki` | W146 | crawler, ground-moving creature | ⏳ | [w101-plus](w101-plus.md) |
+| `mi-vo-to` | W236 | conscience; self-goodness-knowing; inner moral sense | ✅ | [w101-plus](w101-plus.md) |
 | `mu-ka` | W022 | use / operate a tool or artifact | ✅ | [w001-w050](w001-w050.md) |
 | `ne-de` | W091 | bond dissolution (no assigned cause) | ✅ | [w051-w100](w051-w100.md) |
 | `ne-fe` | W042 | dependency condition, requirement | ✅ | [w001-w050](w001-w050.md) |
@@ -158,6 +160,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `su-fa` | W133 | purity of heart, structured affect | ✅ | [w101-plus](w101-plus.md) |
 | `su-ha-mu` | W227 | cooking pan; stovetop cooking surface; open heat-vessel | ✅ | [w101-plus](w101-plus.md) |
 | `su-ka-li` | W200 | service provider; platform operator | ✅ | [w101-plus](w101-plus.md) |
+| `su-li` | W234 | ordinary person; structure-embedded person; person shaped by institutional context | ✅ | [w101-plus](w101-plus.md) |
 | `su-mu-li` | W002 | engineer, architect | ⏳ | [w001-w050](w001-w050.md) |
 | `su-ne` | W174 | harmony, structure-of-connection | ✅ | [w101-plus](w101-plus.md) |
 | `su-ru` | W085 | integrated whole, unified structure | ✅ | [w051-w100](w051-w100.md) |
@@ -258,7 +261,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 Concept-first lookup: find the compound you need by domain.
 
 **Person / Agent**
-`di-ki-li` W061 navigator · `li-be` W033 child · `li-su-li` W001 leader · `pa-ki` W156 liberation / liberator · `ra-su-li` W225 sovereign · `si-go-li` W201 content originator · `si-ki-li` W158 messenger/angel · `si-no-vo-li` W126 hypocrite · `su-ka-li` W200 service provider · `su-mu-li` W002 engineer · `to-fe-li` W032 epistemic guardian/adjudicator · `to-li` W003 scholar · `wi-de-li` W124 adversary · `zo-li` W148 human person · `zo-su-ka-li` W150 shepherd
+`di-ki-li` W061 navigator · `li-be` W033 child · `li-su-li` W001 leader · `pa-ki` W156 liberation / liberator · `ra-su-li` W225 sovereign · `si-go-li` W201 content originator · `si-ki-li` W158 messenger/angel · `si-no-vo-li` W126 hypocrite · `su-ka-li` W200 service provider · `su-li` W234 ordinary person · `su-mu-li` W002 engineer · `to-fe-li` W032 epistemic guardian/adjudicator · `to-li` W003 scholar · `wi-de-li` W124 adversary · `zo-li` W148 human person · `zo-su-ka-li` W150 shepherd
 
 **Kinship**
 `ne-zi-re` W131 spouse · `zo-ne` W076 biological kinship bond · `zo-ne-du` W078 offspring · `zo-ne-du-re` W081 descendant · `zo-ne-go` W077 parent · `zo-ne-go-re` W080 ancestor · `zo-ne-ru` W079 sibling
@@ -285,7 +288,7 @@ Concept-first lookup: find the compound you need by domain.
 `be-go-li-si` W149 creator-representation · `fa-ra-su` W226 religion · `fe-no-ka` W056 taboo · `fe-vo` W065 sacredness · `go-ne` W159 self-originating relation / "I am who I am" · `ka-li-su` W147 governance · `ka-pa-ki'ti-re` W167 Passover festival · `ka-vo-si` W168 thanksgiving / blessing · `pa-be'ka-li-su` W125 kingdom of heaven · `pa-vo-fe` W153 holy ground · `pa-wi-ka-su` W066 shrine · `se-to` W062 perceptual insight · `to-re-su` W064 canonical doctrine · `vo-ne` W118 righteousness · `wi-ka-su` W054 ritual · `wi-si` W063 prayer · `zo-ra` W117 life-energy · `zo-si` W069 spirit · `zo-to` W068 soul
 
 **Social / Institutional**
-`de-su` W119 fault · `de-vo` W121 evil · `fa-ra-su` W226 religion · `go-ne` W159 self-originating relation / "I am who I am" · `ka-li-su` W147 governance · `ka-no-de-su` W120 forgiveness · `li-pu-pa` W036 city · `ne-su` W031 network · `ne-to` W084 mutual acknowledgment · `ne-to-fe` W165 covenant · `ne-zi-re` W131 spouse · `pa-vo-fe` W153 holy ground · `re-ka-ne-li` W134 peacemaker · `si-no-vo-li` W126 hypocrite · `su-ka-li` W200 service provider · `to-fe-su` W072 epistemic standards body/code · `to-ki'ne-su` W202 online platform · `wi-de-li` W124 adversary · `wi-fe` W100 rule · `wi-re` W099 feedback loop · `wi-re-su` W074 operational protocol · `wi-to-su` W073 design specification
+`de-su` W119 fault · `de-vo` W121 evil · `fa-ra-su` W226 religion · `go-ne` W159 self-originating relation / "I am who I am" · `ka-li-su` W147 governance · `ka-no-de-su` W120 forgiveness · `li-pu-pa` W036 city · `ne-su` W031 network · `ne-to` W084 mutual acknowledgment · `ne-to-fe` W165 covenant · `ne-zi-re` W131 spouse · `pa-vo-fe` W153 holy ground · `re-ka-ne-li` W134 peacemaker · `si-no-vo-li` W126 hypocrite · `su-ka-li` W200 service provider · `su-li` W234 ordinary person · `to-fe-su` W072 epistemic standards body/code · `to-ki'ne-su` W202 online platform · `wi-de-li` W124 adversary · `wi-fe` W100 rule · `wi-re` W099 feedback loop · `wi-re-su` W074 operational protocol · `wi-to-su` W073 design specification
 
 **Organism / Biology**
 `de-ki'ma` W162 wine / fermented liquid · `de-zo` W178 death · `de-zo-ki` W186 necromancy · `du-zo-su` W142 fruit · `ha-zo-ra-ma` W216 baked food / thermally-treated food · `ka-de-zo` W128 kill · `ma-zo-ki` W146 crawler · `se-lu` W130 eye · `wi-zo` W145 wild animal · `zi-zo` W106 biological coupling event · `zi-zo-du` W108 du-role in biological coupling · `zi-zo-go` W107 go-role in biological coupling · `zo-de` W051 fatigue · `zo-ki'ma` W164 blood · `zo-li` W148 human person · `zo-ma` W163 body · `zo-no-ki` W043 rest · `zo-ra` W117 life-energy · `zo-ra-ma` W144 food · `zo-se-ki` W060 enter trance · `zo-si` W069 spirit · `zo-su-be` W143 seed · `zo-su-ka-li` W150 shepherd · `zo-to` W068 soul
@@ -314,6 +317,15 @@ Concept-first lookup: find the compound you need by domain.
 **Biological / Living**
 `zo-ki-ma` W220 snake / serpent / limbless locomoting organism · `zo-su-mu` W221 staff / rod / wooden implement
 
+**Causation / Conditions**
+`go-su` W235 circumstances
+
+**Cognition / Knowledge**
+`mi-vo-to` W236 conscience
+
+**Context / Social**
+`go-su` W235 circumstances
+
 **Cosmology / Metaphysics**
 `pa-ma` W194 material realm · `pa-ne-su` W196 cosmological framework · `to-pa` W195 thought-realm
 
@@ -325,6 +337,9 @@ Concept-first lookup: find the compound you need by domain.
 
 **Ethics / Philosophy**
 `pa-ki-su` W198 liberty · `wi-de` W191 evil · `wi-no-su` W189 chaotic · `wi-su` W188 lawful · `wi-su-fe` W192 law-neutral · `wi-vo` W190 good · `wi-vo-fe` W193 ethics-neutral
+
+**Ethics / Self**
+`mi-vo-to` W236 conscience
 
 **Ethics / Social**
 `si-de-vo` W232 ridicule
@@ -416,7 +431,7 @@ Quick lookup by lead primitive root.
 | `du` | du-zo-su W142 |
 | `fa` | fa-ki W093, fa-de W094, fa-no W095, fa-re W096, fa-ra-be W123, fa-wi-de W127, fa-wi-zi W136, fa-ra W154, fa-de-ra W155, fa-wi-ra W172, fa-su W173, fa-vo W197, fa-ra-su W226 |
 | `fe` | fe-si W024, fe-su W055, fe-no-ka W056, fe-vo W065, fe-vo'si-ko-mu W219 |
-| `go` | go-ne W159 |
+| `go` | go-ne W159, go-su W235 |
 | `ha` | ha-de W044, ha-zo-ra-ma W216 |
 | `ka` | ka-mu W047, ka-ne-de W092, ka-no-de-su W120, ka-to-fe W122, ka-de-zo W128, ka-li-su W147, ka-pa-ki W160, ka-du-zo-su W161, ka-pa-ki'ti-re W167, ka-vo-si W168, ka-li-de W205, ka-be-ne W218, ka-ra W222, ka-si-de W224, o-ka-su W233 |
 | `ki` | ki-pa W049, ki-pa-mu W086, ki'ma W114, ki-ne W152, ki-fe-mu W228 |
@@ -424,6 +439,7 @@ Quick lookup by lead primitive root.
 | `li` | li-su-li W001, li-be W033, li-pu-pa W036 |
 | `lu` | lu-mu W139, lu-ti W140 |
 | `ma` | ma-no-de W046, ma-ra W116, ma-zo-ki W146, ma-ne-ki W215 |
+| `mi` | mi-vo-to W236 |
 | `mu` | mu-ka W022 |
 | `ne` | ne-su W031, ne-fe W042, ne-ra W058, ne-ra-ki W059, ne-to W084, ne-de W091, ne-zi-re W131, ne-to-fe W165, ne-no-ra W171 |
 | `no` | no-ne-fe W075, no-su'ma W115, no-de-ma W129, no-lu-ti W141 |
@@ -433,7 +449,7 @@ Quick lookup by lead primitive root.
 | `re` | re-ka-ne-li W134 |
 | `se` | se-ka W034, se-to W062, se-no-to W090, se-lu W130 |
 | `si` | si-ne-ki W021, si-ki W023, si-mu W039, si-ko-mu W067, si-fe W070, si-de W098, si-no-vo-li W126, si-ki-li W158, si-go-li W201, si-de-vo W232 |
-| `su` | su-mu-li W002, su-ru W085, su-ti W101, su'ma W113, su-fa W133, su-ne W174, su-to W199, su-ka-li W200, su-zo-ko W204, su-ha-mu W227 |
+| `su` | su-mu-li W002, su-ru W085, su-ti W101, su'ma W113, su-fa W133, su-ne W174, su-to W199, su-ka-li W200, su-zo-ko W204, su-ha-mu W227, su-li W234 |
 | `ti` | ti-fe W037, ti-be W040, ti-de W041, ti-mu W057, ti-re W103, ti-mi W109 |
 | `to` | to-ne-su W000, to-li W003, to-su-mu W010, to-ki-mu W011, to-ki W020, to-su-ki W025, to-si W026, to-ko W027, to-fe W028, to-fe-ka W029, to-su W030, to-fe-li W032, to-re-su W064, to-fe-su W072, to-ru W083, to-go W089, to-fe-su-ki W097, to-ko-re W166, to-to-ne-su W169, to'to-ne-su W170, to-pa W195, to-ki'ne-su W202 |
 | `vo` | vo-ne W118, vo-mu W137 |
