@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 138 |
+| [w101-plus.md](w101-plus.md) | W101+ | 142 |
 
-**Total: 226 W-series entries** — active: 182 · proposed: 2 · pending: 39 · cold: 0 · retired: 3
+**Total: 230 W-series entries** — active: 186 · proposed: 2 · pending: 39 · cold: 0 · retired: 3
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -30,6 +30,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 
 | Form | W# | Gloss | St | File |
 |------|----|-------|----|------|
+| `a-ra-su` | W239 | totalitarianism; total-power-structure | ✅ | [w101-plus](w101-plus.md) |
 | `be-go-li-si` | W149 | creator-representation, image (tselem) | ⏳ | [w101-plus](w101-plus.md) |
 | `de-be` | W035 | repair, restore | ✅ | [w001-w050](w001-w050.md) |
 | `de-ki'ma` | W162 | wine / fermented liquid | ✅ | [w101-plus](w101-plus.md) |
@@ -126,12 +127,14 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `pa-ne-su` | W196 | cosmological framework; multiverse; the structured network of planes | ✅ | [w101-plus](w101-plus.md) |
 | `pa-nu` | W050 | size, spatial magnitude | ✅ | [w001-w050](w001-w050.md) |
 | `pa-ra` | W053 | energetic field, spatial force distribution | ✅ | [w051-w100](w051-w100.md) |
+| `pa-ra-de-su` | W242 | imperialism; territorial-deviant-power-structure | ✅ | [w101-plus](w101-plus.md) |
 | `pa-su` | W157 | mountain, structured place | ✅ | [w101-plus](w101-plus.md) |
 | `pa-vo-fe` | W153 | holy ground, value-bounded place | ✅ | [w101-plus](w101-plus.md) |
 | `pa-wi` | W088 | destination, intentional target place | ✅ | [w051-w100](w051-w100.md) |
 | `pa-wi-ka-su` | W066 | shrine, temple | ✅ | [w051-w100](w051-w100.md) |
 | `pa-zo-li` | W135 | the world, inhabited realm of human persons | ✅ | [w101-plus](w101-plus.md) |
 | `ra-be-ki` | W184 | evocation; force-manifestation-change; magic of channeling and releasing raw force | ✅ | [w101-plus](w101-plus.md) |
+| `ra-de-su` | W240 | tyranny; deviant-power-structure | ✅ | [w101-plus](w101-plus.md) |
 | `ra-ka-li` | W206 | fighter / combatant | ✅ | [w101-plus](w101-plus.md) |
 | `ra-ki` | W038 | storm, kinetic-force discharge | ⏳ | [w001-w050](w001-w050.md) |
 | `ra-ki-mu` | W012 | engine, motor, generator | ⏳ | [w001-w050](w001-w050.md) |
@@ -213,6 +216,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `wi-no-su` | W189 | chaotic; will unbound by structure; spontaneous / freedom-first moral disposition | ✅ | [w101-plus](w101-plus.md) |
 | `wi-o-li` | W238 | collective will; consent; public opinion as organized volition | ✅ | [w101-plus](w101-plus.md) |
 | `wi-ra` | W177 | directed power, authority (will-force) | ✅ | [w101-plus](w101-plus.md) |
+| `wi-ra-ki` | W241 | state terror; coercive directed force | ✅ | [w101-plus](w101-plus.md) |
 | `wi-ra-li` | W217 | spirit / directed-force-agent | ✅ | [w101-plus](w101-plus.md) |
 | `wi-ra-su` | W179 | magic; the systematic, disciplined practice of directed force | ✅ | [w101-plus](w101-plus.md) |
 | `wi-re` | W099 | feedback loop, iterative goal-cycle | ✅ | [w051-w100](w051-w100.md) |
@@ -296,7 +300,7 @@ Concept-first lookup: find the compound you need by domain.
 `de-ki'ma` W162 wine / fermented liquid · `de-zo` W178 death · `de-zo-ki` W186 necromancy · `du-zo-su` W142 fruit · `ha-zo-ra-ma` W216 baked food / thermally-treated food · `ka-de-zo` W128 kill · `ma-zo-ki` W146 crawler · `se-lu` W130 eye · `wi-zo` W145 wild animal · `zi-zo` W106 biological coupling event · `zi-zo-du` W108 du-role in biological coupling · `zi-zo-go` W107 go-role in biological coupling · `zo-de` W051 fatigue · `zo-ki'ma` W164 blood · `zo-li` W148 human person · `zo-ma` W163 body · `zo-no-ki` W043 rest · `zo-ra` W117 life-energy · `zo-ra-ma` W144 food · `zo-se-ki` W060 enter trance · `zo-si` W069 spirit · `zo-su-be` W143 seed · `zo-su-ka-li` W150 shepherd · `zo-to` W068 soul
 
 **Energy / Matter / Physics**
-`ha-de` W044 cooling · `ki'ma` W114 liquid (material state) · `lu-mu` W139 light-body · `ma-ne-ki` W215 mix / combine / blend · `ma-ra` W116 plasma · `ne-ra` W058 resonance · `ne-ra-ki` W059 attune · `no-su'ma` W115 gas (material state) · `nu-se` W102 measurement · `pa-ra` W053 energetic field · `ra-ki` W038 storm · `ra-ki-mu` W012 engine · `ra-lu-ki` W151 fire · `ra-ma` W082 fuel · `ra-vo` W071 signal intensity · `su'ma` W113 solid (material state) · `zi-ra` W104 physical interaction
+`ha-de` W044 cooling · `ki'ma` W114 liquid (material state) · `lu-mu` W139 light-body · `ma-ne-ki` W215 mix / combine / blend · `ma-ra` W116 plasma · `ne-ra` W058 resonance · `ne-ra-ki` W059 attune · `no-su'ma` W115 gas (material state) · `nu-se` W102 measurement · `pa-ra` W053 energetic field · `ra-ki` W038 storm · `ra-ki-mu` W012 engine · `ra-lu-ki` W151 fire · `ra-ma` W082 fuel · `ra-vo` W071 signal intensity · `su'ma` W113 solid (material state) · `wi-ra-ki` W241 state terror · `zi-ra` W104 physical interaction
 
 **Relation / State / Quality**
 `de-be` W035 repair · `ka-ne-de` W092 deliberate bond dissolution · `ne-de` W091 bond dissolution (no assigned cause) · `ne-fe` W042 dependency condition · `ne-no-ra` W171 peace · `no-de-ma` W129 salt · `no-ne-fe` W075 absence of dependency / no link · `pa-ki` W087 adrift · `pa-nu` W050 size · `su-fa` W133 purity of heart · `su-ne` W174 harmony · `su-ru` W085 integrated whole · `wi-du` W175 victory · `wi-ra` W177 directed power
@@ -404,7 +408,10 @@ Concept-first lookup: find the compound you need by domain.
 `ra-su-li` W225 sovereign
 
 **Politics / Governance**
-`o-ka-su` W233 collective-governance-structure
+`a-ra-su` W239 totalitarianism · `o-ka-su` W233 collective-governance-structure · `ra-de-su` W240 tyranny · `wi-ra-ki` W241 state terror
+
+**Politics / History**
+`pa-ra-de-su` W242 imperialism
 
 **Rhetoric / Social**
 `si-de-vo` W232 ridicule
@@ -425,7 +432,7 @@ Concept-first lookup: find the compound you need by domain.
 `ra-ka-li` W206 fighter / combatant · `se-de-li` W208 rogue / stealth agent · `so-vo-li` W213 bard / sonic artist · `to-ra-li` W207 wizard / mage · `vo-ra-li` W209 cleric / divine agent · `wi-vo-li` W211 paladin / oath-champion · `zo-ki-li` W212 ranger / wilderness guide · `zo-re-li` W210 druid / nature-cycle practitioner
 
 **Structures / Institutions**
-`o-ka-su` W233 collective-governance-structure
+`a-ra-su` W239 totalitarianism · `o-ka-su` W233 collective-governance-structure · `pa-ra-de-su` W242 imperialism · `ra-de-su` W240 tyranny
 
 **Will / Agency**
 `wi-o-li` W238 collective will
@@ -458,8 +465,8 @@ Quick lookup by lead primitive root.
 | `ne` | ne-su W031, ne-fe W042, ne-ra W058, ne-ra-ki W059, ne-to W084, ne-de W091, ne-zi-re W131, ne-to-fe W165, ne-no-ra W171 |
 | `no` | no-ne-fe W075, no-su'ma W115, no-de-ma W129, no-lu-ti W141 |
 | `nu` | nu-se W102 |
-| `pa` | pa-nu W050, pa-ra W053, pa-wi-ka-su W066, pa-ki W087, pa-wi W088, pa-mi W110, pa-be'ka-li-su W125, pa-zo-li W135, pa-fe W138, pa-vo-fe W153, pa-ki W156, pa-su W157, pa-ma W194, pa-ne-su W196, pa-ki-su W198, pa-di W229 |
-| `ra` | ra-ki-mu W012, ra-ki W038, ra-vo W071, ra-ma W082, ra-lu-ki W151, ra-su-li W225 |
+| `pa` | pa-nu W050, pa-ra W053, pa-wi-ka-su W066, pa-ki W087, pa-wi W088, pa-mi W110, pa-be'ka-li-su W125, pa-zo-li W135, pa-fe W138, pa-vo-fe W153, pa-ki W156, pa-su W157, pa-ma W194, pa-ne-su W196, pa-ki-su W198, pa-di W229, pa-ra-de-su W242 |
+| `ra` | ra-ki-mu W012, ra-ki W038, ra-vo W071, ra-ma W082, ra-lu-ki W151, ra-su-li W225, a-ra-su W239, ra-de-su W240 |
 | `re` | re-ka-ne-li W134 |
 | `se` | se-ka W034, se-to W062, se-no-to W090, se-lu W130 |
 | `si` | si-ne-ki W021, si-ki W023, si-mu W039, si-ko-mu W067, si-fe W070, si-de W098, si-no-vo-li W126, si-ki-li W158, si-go-li W201, si-de-vo W232, si-ne-su W237 |
@@ -467,6 +474,6 @@ Quick lookup by lead primitive root.
 | `ti` | ti-fe W037, ti-be W040, ti-de W041, ti-mu W057, ti-re W103, ti-mi W109 |
 | `to` | to-ne-su W000, to-li W003, to-su-mu W010, to-ki-mu W011, to-ki W020, to-su-ki W025, to-si W026, to-ko W027, to-fe W028, to-fe-ka W029, to-su W030, to-fe-li W032, to-re-su W064, to-fe-su W072, to-ru W083, to-go W089, to-fe-su-ki W097, to-ko-re W166, to-to-ne-su W169, to'to-ne-su W170, to-pa W195, to-ki'ne-su W202 |
 | `vo` | vo-ne W118, vo-mu W137 |
-| `wi` | wi-to W045, wi-ka-su W054, wi-si W063, wi-to-su W073, wi-re-su W074, wi-re W099, wi-fe W100, wi-de-li W124, wi-no-ra W132, wi-zo W145, wi-du W175, wi-ra W177, wi-fe'de W203, wi-ra-li W217, wi-no W230, wi-o-li W238 |
+| `wi` | wi-to W045, wi-ka-su W054, wi-si W063, wi-to-su W073, wi-re-su W074, wi-re W099, wi-fe W100, wi-de-li W124, wi-no-ra W132, wi-zo W145, wi-du W175, wi-ra W177, wi-fe'de W203, wi-ra-li W217, wi-no W230, wi-o-li W238, wi-ra-ki W241 |
 | `zi` | zi-ra W104, zi-ka W105, zi-zo W106, zi-zo-go W107, zi-zo-du W108 |
 | `zo` | zo-no-ki W043, zo-de W051, zo-se-ki W060, zo-to W068, zo-si W069, zo-ne W076, zo-ne-go W077, zo-ne-du W078, zo-ne-ru W079, zo-ne-go-re W080, zo-ne-du-re W081, zo-ra W117, zo-su-be W143, zo-ra-ma W144, zo-li W148, zo-su-ka-li W150, zo-ma W163, zo-ki'ma W164, zo-ki-ma W220, zo-su-mu W221 |

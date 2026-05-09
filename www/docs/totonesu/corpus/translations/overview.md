@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-44 translation analyses.
+45 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -64,6 +64,7 @@ gap analysis, and key findings.
 - [manufacturing-consent](philosophy/manufacturing-consent/index.md)
 - [mao-little-red-book](philosophy/mao-little-red-book/index.md)
 - [ordinary-men](philosophy/ordinary-men/index.md)
+- [origins-of-totalitarianism](philosophy/origins-of-totalitarianism/index.md)
 - [orwell-1984](philosophy/orwell-1984/index.md)
 - [peterson-12-rules-for-life](philosophy/peterson-12-rules-for-life/index.md)
 - [proof-structure](philosophy/proof-structure/index.md)

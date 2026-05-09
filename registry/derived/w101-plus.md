@@ -2479,3 +2479,67 @@ Related:       wi (primitive: will/intention), o-li (collective persons: V-prefi
 ```
 
 ---
+
+**W239**
+```
+Form:          a-ra-su
+Type:          compound
+Class:         entity / structure
+Definition:    a- (universal scope prefix) + ra (power/force) + su (structure/organization) = universal-power-structure = totalitarianism. The political structure whose defining feature is that power is applied universally — to every domain of human life, public and private. Distinct from ra-de-su (W240: tyranny = deviant power, which leaves private life intact) and o-ka-su (W233: the Party as collective governance institution). Arendt: totalitarianism is not a stronger tyranny but a historically novel form that destroys both the public and private sphere. Agent-marked: la-a-ra-su. Juncture form for movement sense: a-ra-su'ki (the motion/rise of the total-power-structure = a totalitarian movement).
+Composition:   a- (universal scope prefix) + ra (force/power) + su (structure/organization). Head-final: su (structure) is head; a-ra (universal power) specifies the type of structure — one whose power is total/universal.
+Register:      formal
+Domain:        Politics / Governance
+Status:        ✅ active
+First use:     ANT-001-A (S845): la-a-ra-su ne e-su / no ne ra-de-su — "Totalitarianism is a new form of rule — not tyranny." (Arendt, Origins of Totalitarianism)
+Related:       ra (primitive: power/force), su (primitive: structure), ra-de-su (W240: tyranny — deviant-power-structure, historically prior), o-ka-su (W233: collective governance institution, distinct), wi-ra (W177: directed institutional power, narrower), wi-ra-ki (W241: state terror — the essential instrument of a-ra-su)
+```
+
+---
+
+**W240**
+```
+Form:          ra-de-su
+Type:          compound
+Class:         entity / structure
+Definition:    ra (power/force) + de (deviation/decay) + su (structure/organization) = deviant-power-structure = tyranny. The political structure whose power deviates from legitimate exercise — arbitrary, unchecked, self-serving — but which does not penetrate the private sphere. Arendt: tyranny is historically prior to and categorically distinct from totalitarianism (a-ra-su W239). Tyranny leaves private life intact; totalitarianism destroys it. Right-branching: ra + [de-su] = power-of-[deviant-structure]. The -su tail parallels a-ra-su: both name political structure types, making the taxonomic contrast explicit.
+Composition:   ra (power/force) + de (deviation/decay/harm) + su (structure/organization). Head-final: su (structure) is head; ra-de (deviant power) specifies the character of the structure.
+Register:      formal
+Domain:        Politics / Governance
+Status:        ✅ active
+First use:     ANT-001-A (S845): la-a-ra-su ne e-su / no ne ra-de-su — "Totalitarianism is a new form — not tyranny." (Arendt, Origins of Totalitarianism)
+Related:       ra (primitive: power/force), de (primitive: decay/deviation), su (primitive: structure), a-ra-su (W239: totalitarianism — historically novel, distinct), wi-ra (W177: directed institutional power)
+```
+
+---
+
+**W241**
+```
+Form:          wi-ra-ki
+Type:          compound
+Class:         entity / process
+Definition:    wi (will/intention) + ra (force/power) + ki (motion/change) = directed-force-in-motion = state coercive terror. The volitional application of overwhelming force as a permanent condition — not terror as an instrument toward an end but terror as the permanent operating state of the totalitarian system. Distinct from ra-ki (W038: storm/natural kinetic-force discharge, non-volitional): wi-ra-ki is volitionally directed (wi), making it a deliberate policy, not a natural event. Arendt (S846): wi-ra-ki no ne ka-mu / wi-ra-ki helms a-ra-su — terror is not the means of totalitarianism; it IS totalitarianism.
+Composition:   wi (will/intentionality) + ra (force/power) + ki (motion/change). Head-final: ki (motion/change) is head; wi-ra (directed power/force) specifies the type of motion — power-force in volitional motion = coercive terror.
+Register:      formal
+Domain:        Politics / Governance
+Status:        ✅ active
+First use:     ANT-001-B (S846): la-wi-ra-ki no ne ka-mu / la-wi-ra-ki helms a-ra-su — "Terror is not the tool of totalitarianism; terror IS totalitarianism." (Arendt, Origins of Totalitarianism)
+Related:       wi (primitive: will/intention), ra (primitive: force/power), ki (primitive: motion/change), ra-ki (W038: natural storm/kinetic-discharge — non-volitional, distinct), a-ra-su (W239: totalitarianism — wi-ra-ki is its essence by S846), wi-ra (W177: directed institutional power)
+```
+
+---
+
+**W242**
+```
+Form:          pa-ra-de-su
+Type:          compound
+Class:         entity / structure
+Definition:    pa (territory/place) + ra (power/force) + de (deviation/harm) + su (structure/organization) = territorial-deviant-power-structure = imperialism. The organized structure of power applied to foreign territories through deviation from legitimate governance — the domination of distant populations by force. Right-branching: pa + [ra-de-su] = territorial + [deviant-power-structure] = territorial tyranny applied to colonial contexts. Arendt: European imperialism was the historical precursor to totalitarianism; the methods of colonial domination (race ideology, administrative murder, bureaucratic terror) were reimported into Europe. At the CLQ limit (4 roots): no juncture required as the right-branching parse is unambiguous.
+Composition:   pa (place/territory) + ra (power/force) + de (deviation/harm) + su (structure/organization). Head-final: su (structure) is head; pa-ra-de (territorial-deviant-power) specifies the character of the structure — a structure of deviant power organized over foreign territory.
+Register:      formal
+Domain:        Politics / History
+Status:        ✅ active
+First use:     ANT-001-I (S853): go {pa-ra-de-su}, la-ra-de ki lo-ne-pa — "Because of imperialism, deviant power moved home." (Arendt, Origins of Totalitarianism)
+Related:       pa (primitive: place/territory), ra (primitive: power/force), de (primitive: decay/deviation), su (primitive: structure), ra-de-su (W240: tyranny — same core without territorial dimension), a-ra-su (W239: totalitarianism — the form to which pa-ra-de-su gives rise), ra-de (deviant power: the practices/methods extracted from pa-ra-de-su)
+```
+
+---

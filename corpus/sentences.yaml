@@ -15973,3 +15973,226 @@ sentences:
     MAO S802, S807; ORW S818; ORD S833). First use of `no [clause]` in the left arm
     of a `/` construction; first use of `go {}` in the right arm of a "not-X / but-Y"
     structure.'
+- snum: S845
+  gloss: Totalitarianism is historically novel — not tyranny.
+  batch: ANT-001
+  batch_sub: A
+  status: normative
+  tonesu: la-a-ra-su ne e-su / no ne ra-de-su
+  gloss_line: '`[total-power-structure] [is] emergent-structure / not [is] deviant-power-structure`'
+  natural: '"Totalitarianism is a new [emergent] form of rule — not tyranny."'
+  words_attested:
+  - W239
+  - W240
+  first_attests:
+  - W239
+  - W240
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S845
+  notes: 'Arendt''s foundational claim: totalitarianism is not a variant of tyranny
+    but a historically novel form. `e-su` = emergent-structure: `e-` scope prefix
+    (emergent) + `su` (structure). `ra-de-su` = deviant-power-structure = tyranny
+    (W240 first use). Both end in `-su` (structure type) — Arendt''s taxonomic point:
+    two types of political structure, not the same. W239 `a-ra-su` and W240 `ra-de-su`
+    first use.'
+- snum: S846
+  gloss: Terror is not the means of totalitarian rule; it IS totalitarianism.
+  batch: ANT-001
+  batch_sub: B
+  status: normative
+  tonesu: la-wi-ra-ki no ne ka-mu / la-wi-ra-ki helms a-ra-su
+  gloss_line: '`[state-terror] not [is] tool / [state-terror] is-by-definition total-power-structure`'
+  natural: '"Terror is not [merely] a tool of totalitarianism; terror IS totalitarianism."'
+  words_attested:
+  - W047
+  - W239
+  - W241
+  first_attests:
+  - W241
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S846
+  notes: 'Arendt''s central thesis: unlike tyranny (which uses terror instrumentally),
+    totalitarianism IS terror — the permanent atomized state. `wi-ra-ki` (W241) =
+    directed-force-in-motion = state coercive terror: volitional (`wi`) power-force
+    (`ra`) in motion (`ki`), distinct from `ra-ki` (W038, non-volitional storm). `helms`
+    (strict definitional identity, G012) is warranted: Arendt''s equation is constitutive,
+    not merely comparative. First `helms` in ANT-001. W241 first use.'
+- snum: S847
+  gloss: The right to have rights IS the right to political membership.
+  batch: ANT-001
+  batch_sub: C
+  status: normative
+  tonesu: wi-fe lo-wi-fe helms wi-fe lo-ne-su-ki
+  gloss_line: '`right [to] right is-by-definition right [to] network-joining`'
+  natural: '"The right to have rights is [by definition] the right to belong to a
+    political community."'
+  words_attested:
+  - W100
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S847
+  notes: 'Arendt''s most famous formulation. Recursive `wi-fe lo-wi-fe` = "the right
+    to [have] rights" — the `lo-` patient prefix on inner `wi-fe` marks it as the
+    content of the outer right. `wi-fe lo-ne-su-ki` = the right to [join/enter] the
+    network = right to political membership (`ne-su-ki` = inchoative: entering network
+    membership). `helms` justified: Arendt''s definitional equation — without political
+    membership, no rights exist. Second `helms` in ANT-001.'
+- snum: S848
+  gloss: The stateless person has no rights.
+  batch: ANT-001
+  batch_sub: D
+  status: normative
+  tonesu: la-no-ne-su-li ne no-wi-fe
+  gloss_line: '`[no-network-person] [is] no-right`'
+  natural: '"The stateless person has no rights."'
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S848
+  notes: 'Direct consequence of S847. `no-ne-su-li` = person without political network
+    (no + ne-su W031 + li = person outside all network membership). `no-wi-fe` = rightlessness
+    (no + wi-fe W100). The predicate `ne no-wi-fe` = has the property of rightlessness
+    — not `no ne wi-fe` (denied the property) but `ne no-wi-fe` (the property held
+    is itself the negation of right). Arendt''s argument: rights are not inherent
+    in being human; they derive from political membership. First use of `no-ne-su-li`
+    and `no-wi-fe`.'
+- snum: S849
+  gloss: A single idea generates a total explanatory system.
+  batch: ANT-001
+  batch_sub: E
+  status: normative
+  tonesu: la-i-to ka-be lo-a-to-su
+  gloss_line: '`[particular-idea] creates [universal-knowledge-structure]`'
+  natural: '"A [single/particular] idea generates a total explanatory system."'
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S849
+  notes: 'Arendt on ideology: totalitarian ideology takes one premise (race war, class
+    struggle) and derives everything from it. `i-to` = the particular/single idea:
+    `i-` (precise/particular scope) + `to` (conceptual pattern). `a-to-su` = universal
+    organized knowledge: `a-` (universal scope) + `to-su` (organized knowledge W030)
+    = a total explanatory system. First corpus sentence opposing `i-` and `a-` scope
+    prefixes on the same root class (`to`) in a single causal frame.'
+- snum: S850
+  gloss: Totalitarian movements require loneliness, not hatred.
+  batch: ANT-001
+  batch_sub: F
+  status: normative
+  tonesu: la-a-ra-su'ki ne-fe no-ne-zo-li / no ne-fe fa-ra-be
+  gloss_line: '`[totalitarian-movement] requires no-bond-living-person / not requires
+    hostile-arousal`'
+  natural: '"Totalitarian movements require [the condition of] loneliness — not hatred."'
+  words_attested:
+  - W042
+  - W123
+  - W239
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S850
+  notes: 'Arendt''s mass-psychology claim: the mass basis of totalitarian movements
+    is atomized loneliness, not hatred. `a-ra-su''ki` = juncture compound: [a-ra-su]
+    modifies [ki] = the motion/rise of the total-power-structure = totalitarian movements.
+    Juncture required: without `''`, `a-ra-su-ki` right-branches as `a` + [ra-su-ki]
+    = all [power-structure-change], wrong reading. `no-ne-zo-li` = isolated/lonely
+    person: `no` + `ne-zo-li` (bond-to-living-persons) = without living bonds = loneliness/atomization.
+    `fa-ra-be` (W123) = hostile arousal = hatred. `ne-fe` (W042) = dependency condition
+    = requires. First use of `a-ra-su''ki` juncture and `no-ne-zo-li`.'
+- snum: S851
+  gloss: Totalitarianism destroys collective action.
+  batch: ANT-001
+  batch_sub: G
+  status: normative
+  tonesu: la-a-ra-su ka-de lo-o-ka
+  gloss_line: '`[totalitarianism] deliberately-destroys [collective-deliberate-action]`'
+  natural: '"Totalitarianism deliberately destroys collective action."'
+  words_attested:
+  - W239
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S851
+  notes: 'Atomization thesis: totalitarianism destroys all spontaneous group action.
+    `ka-de` = deliberate-act-of-decreasing = destroy (ka: deliberate + de: causing
+    decay). `o-ka` = collective deliberate action: `o-` (collective scope) + `ka`
+    (deliberate action) = the deliberate action of many as a collective. Distinct
+    from `o-ka-su` (W233, the Party as collective governance institution): `o-ka`
+    is the activity (acting-together), W233 is the institution. First use of `o-ka`
+    as collective-action nominalization.'
+- snum: S852
+  gloss: Political community requires plurality, not a single person.
+  batch: ANT-001
+  batch_sub: H
+  status: normative
+  tonesu: lo-ne-su ne-fe o-zo-li / no ne-fe i-zo-li
+  gloss_line: '`[political-community] requires collective-persons / not requires particular/single-person`'
+  natural: '"Political community requires [plural] persons — not [just] one person."'
+  words_attested:
+  - W031
+  - W042
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S852
+  notes: 'Arendt''s plurality thesis: politics is constituted by the fact that we
+    are many, different people. `ne-su` (W031) as subject-in-patient-frame: `lo-ne-su
+    ne-fe X` = the society requires X (standard `ne-fe` dependency frame per S058–S063).
+    `o-zo-li` = plural persons: `o-` (collective scope) + `zo-li` (W148, living persons).
+    `i-zo-li` = single person: `i-` (particular/singular scope) + `zo-li`. The `/`
+    contrast: community needs the collective, not the particular. First explicit corpus
+    opposition of `o-zo-li` and `i-zo-li`.'
+- snum: S853
+  gloss: Imperialism returned the methods of colonial domination home.
+  batch: ANT-001
+  batch_sub: I
+  status: normative
+  tonesu: go {pa-ra-de-su}, la-ra-de ki lo-ne-pa
+  gloss_line: '`because-of [territorial-deviant-power-structure], [deviant-power]
+    moved [to] bond-place`'
+  natural: '"Because of imperialism, [colonial methods of] deviant power moved home."'
+  words_attested:
+  - W242
+  first_attests:
+  - W242
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S853
+  notes: 'Arendt''s historical argument: the administrative murder, racial ideology,
+    and techniques of total domination practiced in European colonies were imported
+    back into Europe as totalitarianism. `pa-ra-de-su` = imperialism (W242): territorial-deviant-power-structure.
+    Right-branches: `pa` + [ra-de-su] = territorial + [deviant-power-structure]. `ra-de`
+    = deviant power / colonial methods (bare compound, no `su`). `ne-pa` = bond-place
+    = the place of relation = the metropole/home territory (where the empire "belongs").
+    `go {}` causal: premise in `{}` = imperialism; result = deviant power returned
+    home. First use of W242 `pa-ra-de-su` and `ne-pa`.'
+- snum: S854
+  gloss: Totalitarianism is structural circumstances, not planned conspiracy.
+  batch: ANT-001
+  batch_sub: J
+  status: normative
+  tonesu: la-a-ra-su ne go-su / no ne wi-to-de
+  gloss_line: '`[totalitarianism] [is] causal-structural-field / not [is] harm-directed-plan`'
+  natural: '"Totalitarianism is [a matter of] structural circumstances — not planned
+    conspiracy."'
+  words_attested:
+  - W235
+  - W239
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S854
+  notes: 'Arendt insists totalitarianism was not a secret conspiracy but an open mass
+    movement whose horror was structural and systemic. `go-su` (W235) = circumstances
+    / causal-structural field — first use in predicate position (prior ORD-001 uses
+    were agent-marked `la-go-su` or inside `go {}` frame; here as copular predicate:
+    the structure IS circumstances). `wi-to-de` = harm-directed-plan = conspiracy:
+    `wi` (will) + `to` (plan/artifact W045-type) + `de` (harm) = a scheme designed
+    toward harm. Cross-batch resonance with S844 (MCH-001-J: same structural-vs-conspiratorial
+    distinction in Chomsky''s propaganda model). First `go-su` predicate use; first
+    `wi-to-de`.'

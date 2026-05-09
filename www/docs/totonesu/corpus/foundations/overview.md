@@ -6,7 +6,7 @@ title: "Foundations"
 
 Core sentences from the earliest Tonesu attestations — basic agent-patient structures, property attribution, and foundational constructions.
 
-301 sentences.
+311 sentences.
 
 [← Corpus](../overview.md)
 
@@ -43,6 +43,7 @@ Core sentences from the earliest Tonesu attestations — basic agent-patient str
 | [George Orwell, *Nineteen Eighty-Four*](../batches/orw/index.md) | 1 | 12 |
 | [Browning, *Ordinary Men*](../batches/ord/index.md) | 1 | 10 |
 | [Chomsky & Herman, *Manufacturing Consent*](../batches/mch/index.md) | 1 | 10 |
+| [Hannah Arendt, *The Origins of Totalitarianism*](../batches/ant/index.md) | 1 | 10 |
 
 ---
 
