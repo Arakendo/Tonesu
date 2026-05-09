@@ -4754,3 +4754,246 @@ Contrast with S753: S753 = crowd misperception wrapped in `si`; S754 = the under
 **Verdict:** irreducibly formal — all registered compounds below threshold, compositional first uses deferred, causal operators load-bearing.
 
 *CLQ entries registered from this batch: none.*
+
+---
+
+## JBP-001 — Peterson, *12 Rules for Life* (2018) — The Twelve Rules (S789–S800)
+
+### S789 — JBP-001-A — Rule 1
+
+**Source:** "Stand up straight with your shoulders back."
+
+**Notation:** `ka  zo-ma-su  ne  si  lo-wi-ra`
+
+**Written:** `ka zoamasu ne si lowira`
+
+**Gloss:** act on body-posture to be a signal of directed-power
+
+**Natural reading:** Make your physical bearing a signal of directed authority.
+
+**Notes:** `zo-ma-su` = `zo-ma` (W163, body) + `su` (structure) = posture/body-structure; first use. `si lo-wi-ra` = signal of directed-power: posture is read by the social network as a claim about your position in the `wi-ra` hierarchy. Rule 1 is constitutive: `zo-ma-su` *is* the signal.
+
+---
+
+### S790 — JBP-001-B — Rule 2
+
+**Source:** "Treat yourself like someone you are responsible for helping."
+
+**Notation:** `wi-fe  lo-[ka  lo-mi]  helm  wi-fe  lo-[ka  lo-ze]`
+
+**Written:** `wife lo[ka lomi] helm wife lo[ka loze]`
+
+**Gloss:** rule for [acting toward me] = (functional equivalence) rule for [acting toward others]
+
+**Natural reading:** The standard that governs how you treat others is functionally the same standard that governs how you treat yourself.
+
+**Notes:** `helm` (G011) = functional equivalence. `wi-fe lo-[ka lo-mi]` = the rule governing action directed at me; `wi-fe lo-[ka lo-ze]` = the rule governing action directed at others. First use of `helm` in a bilateral self-other obligation claim.
+
+---
+
+### S791 — JBP-001-C — Rule 3
+
+**Source:** "Make friends with people who want the best for you."
+
+**Notation:** `ka-be-ne  lo-li  [wi-vo  lo-mi]`
+
+**Written:** `kabene loli [wivo lomi]`
+
+**Gloss:** deliberately bond with persons [who have beneficent-will toward me]
+
+**Natural reading:** Deliberately form bonds with people whose will is directed toward your benefit.
+
+**Notes:** `ka-be-ne` (W218) = deliberate bond-creation. `wi-vo lo-mi` (W190) = beneficent will directed toward me. The `[wi-vo lo-mi]` bracketed relative predicate on `li`: the persons who satisfy this condition are the right targets of deliberate bond-formation. The `ka` marks the selection as an act of will, not passive social drift.
+
+---
+
+### S792 — JBP-001-D — Rule 4
+
+**Source:** "Compare yourself to who you were yesterday, not to who someone else is today."
+
+**Notation:** `ka  nu-be  [zo-li-mi  ti-de]  /  no  [zo-li-ze  ti-mi]`
+
+**Written:** `ka nube [zolimi tide] / no [zoliize timi]`
+
+**Gloss:** act to compare [self-yesterday] / not [other-person-now]
+
+**Natural reading:** Compare yourself along the temporal axis — against who you were — not along the social axis against who another person is today.
+
+**Notes:** `nu-be` = comparison marker (MAP-001 first use). `zo-li-mi ti-de` = person-me + past = your past self. `zo-li-ze ti-mi` = person-them + now = another person at the present moment. The `/` makes the structural choice explicit: two comparison axes are available; the rule names the right one and negates the wrong one.
+
+---
+
+### S793 — JBP-001-E — Rule 5
+
+**Source:** "Do not let your children do anything that makes you dislike them."
+
+**Notation:** `ka  lo-li-be-mi  ne  vo  go {zo-ne  ne-fe  su}`
+
+**Written:** `ka lolibemi ne vo go {zone nefe su}`
+
+**Gloss:** act on your-children toward value because {kinship-bond requires structure}
+
+**Natural reading:** Shape your children's behavior toward what is good, because the kinship bond has a structural requirement.
+
+**Notes:** `lo-li-be-mi` = [your] children (patient). `ne vo` = be of value/be good. `go {zo-ne ne-fe su}` = the causal ground: the kinship bond (`zo-ne`, W076) requires (`ne-fe`, W042) structural integrity (`su`) to function. Peterson's argument: behaviors that erode the parent's positive affect toward the child damage the bond the child's development depends on.
+
+---
+
+### S794 — JBP-001-F — Rule 6
+
+**Source:** "Set your house in perfect order before you criticize the world."
+
+**Notation:** `ka  pa-mi-su  ;  ti-be  to-fe  lo-a-ne-su`
+
+**Written:** `ka pamisu ; tibe tofe loanesu`
+
+**Gloss:** act on your-immediate-domain-structure ; then epistemic-boundary toward the-world
+
+**Natural reading:** Order your immediate domain first; then you may make epistemic judgments about the wider world.
+
+**Notes:** `pa-mi-su` = `pa-mi` (W110, speaker's location) + `su` (structure/order) = the ordered structure of your immediate place; first use. `;` = sequential connector. `ti-be` (W040) = proximate future = "next/then." `to-fe lo-a-ne-su` = epistemic-boundary judgment toward the world. The `;` does not assert why the sequence is normatively correct — only that it is ordered.
+
+---
+
+### S795 — JBP-001-G — Rule 7
+
+**Source:** "Pursue what is meaningful, not what is expedient."
+
+**Notation:** `ka  lo-vo-be  /  no  lo-du-ki`
+
+**Written:** `ka lovobe / no loduki`
+
+**Gloss:** act toward [growing-value] / not [result-motion]
+
+**Natural reading:** Pursue what increases in value over time, not what offers the fastest path to an outcome.
+
+**Notes:** `vo-be` = value + growth = what increases in worth over time = meaningful; first use. `du-ki` = result + motion = path toward the quickest outcome = expedient; first use. The `/` structural parallel holds the two orientations formally together, making the choice explicit.
+
+---
+
+### S796 — JBP-001-H — Rule 8
+
+**Source:** "Tell the truth — or, at least, don't lie."
+
+**Notation:** `si-ki  to-ne-su  /  ke,  no  [la-mi  ka-si-no]`
+
+**Written:** `siki tonesu / ke, no [lami kasino]`
+
+**Gloss:** signal truth / pivot: not [that I deliberately false-signal]
+
+**Natural reading:** Signal truth — or if the ideal is not fully achievable, at minimum: I will not deliberately lie.
+
+**Notes:** Two-level structure: the ideal (`si-ki to-ne-su`) and the floor. `ke,` = silent pivot: the ideal claim is not re-performed; the following clause advances without denying its possibility. `no [la-mi ka-si-no]` = the floor: no deliberate false-signaling. `ka-si-no` = `ka` + `si` + `no` = deliberately signal false = to lie; first used SNG-001. First use of `ke,` inside a `/` construction: the `/` holds the two levels as formally paired components of one ethical commitment.
+
+---
+
+### S797 — JBP-001-I — Rule 9
+
+**Source:** "Assume that the person you are listening to might know something you don't."
+
+**Notation:** `ka  to  [la-ze  to  lo-no-to-mi]`
+
+**Written:** `ka to [laze to lonotoomi]`
+
+**Gloss:** act to model [that they know what falls outside my knowledge]
+
+**Natural reading:** Operate with the model that your interlocutor may hold knowledge you do not have.
+
+**Notes:** `ka to [...]` = deliberately adopt the model that [...] = "assume." `lo-no-to-mi` = patient + negation + knowledge + first-person = what falls outside my cognitive model = what I don't know. Peterson's argument: epistemic humility is not passive — `ka` makes it an act of will to instantiate a specific model of the other.
+
+---
+
+### S798 — JBP-001-J — Rule 10
+
+**Source:** "Be precise in your speech."
+
+**Notation:** `ka  si-mi  ne  i-to`
+
+**Written:** `ka simi ne ito`
+
+**Gloss:** act on your-signal to be precise-thought
+
+**Natural reading:** Make your signal carry precise and particular thought.
+
+**Notes:** `si-mi` = signal of first-person = your speech. `i-to` = `i-` (precise/particular scope prefix) + `to` (thought/pattern) = the precise particular thought. First use of `i-` prefix in a morphological-command role: `ka [X] ne i-to` = act on X to instantiate `i-`-grade thought. Previously `i-` appeared in attribute-scope uses only.
+
+---
+
+### S799 — JBP-001-K — Rule 11
+
+**Source:** "Do not bother children when they are skateboarding."
+
+**Notation:** `li-be  ne-fe  fa-ra-be  go {wi-ra  be}`
+
+**Written:** `libe nefe farabe go {wira be}`
+
+**Gloss:** children require growing-risk/fear because {directed-power grows}
+
+**Natural reading:** Children need increasing encounters with risk because directed capacity grows from it.
+
+**Notes:** Peterson's philosophical content: over-protective intervention in dangerous play prevents the development of `wi-ra`. `fa-ra-be` = `fa-ra` (W154) + `be` (increase) = growing risk-affect = escalating challenge; first use. `wi-ra be` = directed power grows. `ne-fe` (W042) = structural requirement — risk is not merely tolerable but developmentally necessary. First use of `fa-ra-be` in a `ne-fe` developmental requirement frame.
+
+---
+
+### S800 — JBP-001-L — Rule 12
+
+**Source:** "Pet a cat when you encounter one on the street."
+
+**Notation:** `fa-de-ra  be  /  se  fa-vo  lo-ru`
+
+**Written:** `fadera be / se favo loru`
+
+**Gloss:** suffering grows / perceive positive-affect from the singular
+
+**Natural reading:** Amid growing suffering, perceive the individual moment of positive affect.
+
+**Notes:** `fa-de-ra` (W155) = suffering. `fa-de-ra be` = suffering is increasing. `se fa-vo lo-ru` = perceive positive affect from the singular = attend to the individual small good that presents itself. The `/` marks co-presence: the two conditions are structurally paired without the `/` asserting their relationship type. This is a third distinct `/` function in the corpus: (1) constitutive pair (S777), (2) negated choice (S792), (3) co-presence without relationship specification (S800). The cat is `lo-ru` = the singular = the individual moment that presents itself regardless of background suffering.
+
+---
+
+## JBP-001 Batch Summary
+
+| S# | Rule | Core claim | Structural notes |
+|----|------|-----------|-----------------|
+| S789 | 1: Stand up straight | `ka zo-ma-su ne si lo-wi-ra` | `zo-ma-su` first use; posture = power signal |
+| S790 | 2: Self-obligation | `wi-fe lo-[ka lo-mi] helm wi-fe lo-[ka lo-ze]` | `helm` bilateral self/other obligation first use |
+| S791 | 3: Right friends | `ka-be-ne lo-li [wi-vo lo-mi]` | W218 in social selection; active choice |
+| S792 | 4: Compare to yesterday | `ka nu-be [zo-li-mi ti-de] / no [zo-li-ze ti-mi]` | Temporal vs social comparison axis via `/` |
+| S793 | 5: Children and bond | `ka lo-li-be-mi ne vo go {zo-ne ne-fe su}` | Kinship bond as structural imperative |
+| S794 | 6: Order your domain | `ka pa-mi-su ; ti-be to-fe lo-a-ne-su` | `pa-mi-su` first use; `;` normative sequence |
+| S795 | 7: Meaningful vs expedient | `ka lo-vo-be / no lo-du-ki` | `vo-be` / `du-ki` first uses; temporal orientation |
+| S796 | 8: Tell the truth | `si-ki to-ne-su / ke, no [la-mi ka-si-no]` | First `ke,` inside `/`; two-level commitment |
+| S797 | 9: Epistemic humility | `ka to [la-ze to lo-no-to-mi]` | Assumption as deliberate `ka` act |
+| S798 | 10: Precise speech | `ka si-mi ne i-to` | `i-` in morphological-command role (first) |
+| S799 | 11: Children need risk | `li-be ne-fe fa-ra-be go {wi-ra be}` | `fa-ra-be` first use; risk as requirement |
+| S800 | 12: Pet the cat | `fa-de-ra be / se fa-vo lo-ru` | `/` as co-presence (third distinct `/` function) |
+
+**New W-entries:** none (all vocabulary compositional from registered forms).
+
+**Compositional first uses:** `zo-ma-su` (posture, S789); `pa-mi-su` (immediate domain structure, S794); `vo-be` (growing value/meaningful, S795); `du-ki` (expedient/result-motion, S795); `i-to` (precise-thought, S798); `fa-ra-be` (growing risk-affect, S799).
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `zo-ma-su` | none | — | 3-root compositional first use; defer pending further attestations |
+| `wi-ra` (W177) | none | — | 2-root — below CLQ threshold |
+| `wi-fe` (W100) | none | — | 2-root — below CLQ threshold |
+| `ka-be-ne` (W218) | none | — | 3-root — meets threshold; no shortform established |
+| `wi-vo` (W190) | none | — | 2-root — below CLQ threshold |
+| `pa-mi-su` | none | — | 3-root compositional first use; defer |
+| `vo-be` | none | — | 2-root — below CLQ threshold |
+| `du-ki` | none | — | 2-root — below CLQ threshold |
+| `to-ne-su` (W000) | none | — | 3-root — active; no shortform established |
+| `ka-si-no` | none | — | 3-root compositional; defer |
+| `i-to` | none | — | Scope-prefix compound — grammatical operator; outside CLQ scope |
+| `fa-ra` (W154) | none | — | 2-root — below CLQ threshold |
+| `fa-de-ra` (W155) | none | — | 3-root — meets threshold; no shortform established |
+| `ke,` | none | — | Grammatical particle — outside CLQ scope |
+| `helm` | none | — | Punctuation/spoken operator — outside CLQ scope |
+
+**Verdict:** irreducibly formal — all forms below threshold, scope-prefix grammatical operators, punctuation operators, or compositional first uses deferred.
+
+*CLQ entries registered from this batch: none.*

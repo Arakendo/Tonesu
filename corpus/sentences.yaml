@@ -14848,3 +14848,228 @@ sentences:
     = deliberately singularize-as-person = personalize. `ka-wi-de-li` = `ka` + W124
     = deliberately cast as adversary = polarize. The `;` connector is correct: the
     operations are ordered (left-to-right tactical sequence) but not causally entailed.'
+- snum: S789
+  gloss: JBP-001-A — Rule 1
+  batch: JBP-001
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: act on body-posture to be a signal of directed-power
+  natural: Make your physical bearing a signal of directed authority.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S789
+  notes: '`zo-ma-su` = `zo-ma` (W163, body) + `su` (structure) = posture/body-structure;
+    first use. `si lo-wi-ra` = signal of directed-power: posture is read by the social
+    network as a claim about your position in the `wi-ra` hierarchy. Rule 1 is constitutive:
+    `zo-ma-su` *is* the signal.'
+- snum: S790
+  gloss: JBP-001-B — Rule 2
+  batch: JBP-001
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: rule for [acting toward me] = (functional equivalence) rule for [acting
+    toward others]
+  natural: The standard that governs how you treat others is functionally the same
+    standard that governs how you treat yourself.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S790
+  notes: '`helm` (G011) = functional equivalence. `wi-fe lo-[ka lo-mi]` = the rule
+    governing action directed at me; `wi-fe lo-[ka lo-ze]` = the rule governing action
+    directed at others. First use of `helm` in a bilateral self-other obligation claim.'
+- snum: S791
+  gloss: JBP-001-C — Rule 3
+  batch: JBP-001
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: deliberately bond with persons [who have beneficent-will toward me]
+  natural: Deliberately form bonds with people whose will is directed toward your
+    benefit.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S791
+  notes: '`ka-be-ne` (W218) = deliberate bond-creation. `wi-vo lo-mi` (W190) = beneficent
+    will directed toward me. The `[wi-vo lo-mi]` bracketed relative predicate on `li`:
+    the persons who satisfy this condition are the right targets of deliberate bond-formation.
+    The `ka` marks the selection as an act of will, not passive social drift.'
+- snum: S792
+  gloss: JBP-001-D — Rule 4
+  batch: JBP-001
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: act to compare [self-yesterday] / not [other-person-now]
+  natural: Compare yourself along the temporal axis — against who you were — not along
+    the social axis against who another person is today.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S792
+  notes: '`nu-be` = comparison marker (MAP-001 first use). `zo-li-mi ti-de` = person-me
+    + past = your past self. `zo-li-ze ti-mi` = person-them + now = another person
+    at the present moment. The `/` makes the structural choice explicit: two comparison
+    axes are available; the rule names the right one and negates the wrong one.'
+- snum: S793
+  gloss: JBP-001-E — Rule 5
+  batch: JBP-001
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: act on your-children toward value because {kinship-bond requires structure}
+  natural: Shape your children's behavior toward what is good, because the kinship
+    bond has a structural requirement.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S793
+  notes: '`lo-li-be-mi` = [your] children (patient). `ne vo` = be of value/be good.
+    `go {zo-ne ne-fe su}` = the causal ground: the kinship bond (`zo-ne`, W076) requires
+    (`ne-fe`, W042) structural integrity (`su`) to function. Peterson''s argument:
+    behaviors that erode the parent''s positive affect toward the child damage the
+    bond the child''s development depends on.'
+- snum: S794
+  gloss: JBP-001-F — Rule 6
+  batch: JBP-001
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: act on your-immediate-domain-structure ; then epistemic-boundary toward
+    the-world
+  natural: Order your immediate domain first; then you may make epistemic judgments
+    about the wider world.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S794
+  notes: '`pa-mi-su` = `pa-mi` (W110, speaker''s location) + `su` (structure/order)
+    = the ordered structure of your immediate place; first use. `;` = sequential connector.
+    `ti-be` (W040) = proximate future = "next/then." `to-fe lo-a-ne-su` = epistemic-boundary
+    judgment toward the world. The `;` does not assert why the sequence is normatively
+    correct — only that it is ordered.'
+- snum: S795
+  gloss: JBP-001-G — Rule 7
+  batch: JBP-001
+  batch_sub: G
+  status: normative
+  tonesu: ''
+  gloss_line: act toward [growing-value] / not [result-motion]
+  natural: Pursue what increases in value over time, not what offers the fastest path
+    to an outcome.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S795
+  notes: '`vo-be` = value + growth = what increases in worth over time = meaningful;
+    first use. `du-ki` = result + motion = path toward the quickest outcome = expedient;
+    first use. The `/` structural parallel holds the two orientations formally together,
+    making the choice explicit.'
+- snum: S796
+  gloss: JBP-001-H — Rule 8
+  batch: JBP-001
+  batch_sub: H
+  status: normative
+  tonesu: ''
+  gloss_line: 'signal truth / pivot: not [that I deliberately false-signal]'
+  natural: 'Signal truth — or if the ideal is not fully achievable, at minimum: I
+    will not deliberately lie.'
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S796
+  notes: 'Two-level structure: the ideal (`si-ki to-ne-su`) and the floor. `ke,` =
+    silent pivot: the ideal claim is not re-performed; the following clause advances
+    without denying its possibility. `no [la-mi ka-si-no]` = the floor: no deliberate
+    false-signaling. `ka-si-no` = `ka` + `si` + `no` = deliberately signal false =
+    to lie; first used SNG-001. First use of `ke,` inside a `/` construction: the
+    `/` holds the two levels as formally paired components of one ethical commitment.'
+- snum: S797
+  gloss: JBP-001-I — Rule 9
+  batch: JBP-001
+  batch_sub: I
+  status: normative
+  tonesu: ''
+  gloss_line: act to model [that they know what falls outside my knowledge]
+  natural: Operate with the model that your interlocutor may hold knowledge you do
+    not have.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S797
+  notes: '`ka to [...]` = deliberately adopt the model that [...] = "assume." `lo-no-to-mi`
+    = patient + negation + knowledge + first-person = what falls outside my cognitive
+    model = what I don''t know. Peterson''s argument: epistemic humility is not passive
+    — `ka` makes it an act of will to instantiate a specific model of the other.'
+- snum: S798
+  gloss: JBP-001-J — Rule 10
+  batch: JBP-001
+  batch_sub: J
+  status: normative
+  tonesu: ''
+  gloss_line: act on your-signal to be precise-thought
+  natural: Make your signal carry precise and particular thought.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S798
+  notes: '`si-mi` = signal of first-person = your speech. `i-to` = `i-` (precise/particular
+    scope prefix) + `to` (thought/pattern) = the precise particular thought. First
+    use of `i-` prefix in a morphological-command role: `ka [X] ne i-to` = act on
+    X to instantiate `i-`-grade thought. Previously `i-` appeared in attribute-scope
+    uses only.'
+- snum: S799
+  gloss: JBP-001-K — Rule 11
+  batch: JBP-001
+  batch_sub: K
+  status: normative
+  tonesu: ''
+  gloss_line: children require growing-risk/fear because {directed-power grows}
+  natural: Children need increasing encounters with risk because directed capacity
+    grows from it.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S799
+  notes: 'Peterson''s philosophical content: over-protective intervention in dangerous
+    play prevents the development of `wi-ra`. `fa-ra-be` = `fa-ra` (W154) + `be` (increase)
+    = growing risk-affect = escalating challenge; first use. `wi-ra be` = directed
+    power grows. `ne-fe` (W042) = structural requirement — risk is not merely tolerable
+    but developmentally necessary. First use of `fa-ra-be` in a `ne-fe` developmental
+    requirement frame.'
+- snum: S800
+  gloss: JBP-001-L — Rule 12
+  batch: JBP-001
+  batch_sub: L
+  status: normative
+  tonesu: ''
+  gloss_line: suffering grows / perceive positive-affect from the singular
+  natural: Amid growing suffering, perceive the individual moment of positive affect.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S800
+  notes: '`fa-de-ra` (W155) = suffering. `fa-de-ra be` = suffering is increasing.
+    `se fa-vo lo-ru` = perceive positive affect from the singular = attend to the
+    individual small good that presents itself. The `/` marks co-presence: the two
+    conditions are structurally paired without the `/` asserting their relationship
+    type. This is a third distinct `/` function in the corpus: (1) constitutive pair
+    (S777), (2) negated choice (S792), (3) co-presence without relationship specification
+    (S800). The cat is `lo-ru` = the singular = the individual moment that presents
+    itself regardless of background suffering.'
