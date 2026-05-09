@@ -3197,6 +3197,31 @@
         "vo",
         "to"
       ]
+    },
+    {
+      "wnum": "W237",
+      "form": "si-ne-su",
+      "written": "sinesu",
+      "gloss": "media institution; signal-network-structure; mass media as organized system",
+      "status": "active",
+      "domain": "Communication / Institutional",
+      "roots": [
+        "si",
+        "ne",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W238",
+      "form": "wi-o-li",
+      "written": "wioli",
+      "gloss": "collective will; consent; public opinion as organized volition",
+      "status": "active",
+      "domain": "Social / Political",
+      "roots": [
+        "wi",
+        "li"
+      ]
     }
   ]
 }
