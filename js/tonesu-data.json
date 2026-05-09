@@ -3160,6 +3160,43 @@
         "ka",
         "su"
       ]
+    },
+    {
+      "wnum": "W234",
+      "form": "su-li",
+      "written": "suli",
+      "gloss": "ordinary person; structure-embedded person; person shaped by institutional context",
+      "status": "active",
+      "domain": "Social / Human",
+      "roots": [
+        "su",
+        "li"
+      ]
+    },
+    {
+      "wnum": "W235",
+      "form": "go-su",
+      "written": "gosu",
+      "gloss": "circumstances; situational context; causal-structural field",
+      "status": "active",
+      "domain": "Context / Social",
+      "roots": [
+        "go",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W236",
+      "form": "mi-vo-to",
+      "written": "mivoto",
+      "gloss": "conscience; self-goodness-knowing; inner moral sense",
+      "status": "active",
+      "domain": "Ethics / Self",
+      "roots": [
+        "mi",
+        "vo",
+        "to"
+      ]
     }
   ]
 }
