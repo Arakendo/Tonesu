@@ -200,7 +200,7 @@ The juncture `'` is load-bearing: without it, `a-` would attach to `wi-fe` rathe
 | Written | Parse | Reading |
 |---------|-------|---------|
 | `lakaside ki lo kaside` | `la-ka-si-de ki lo-ka-si-de` | Knowing propaganda dissolves propaganda. |
-| `ke, latowide'atofeka no [ki lowife'atofeka]` | — | But knowing wife'atofeka does not dissolve wife'atofeka. |
+| `ke, latowife'atofeka no [ki lowife'atofeka]` | — | But knowing wife'atofeka does not dissolve wife'atofeka. |
 
 The difference is the `wi-fe` wrapper. The limits on knowing are framed as *entitlements* — the rightful shape of knowledge — rather than as external constraints. Inside the condition, the boundary does not feel like a limit. It presents as the structure of knowledge itself:
 
