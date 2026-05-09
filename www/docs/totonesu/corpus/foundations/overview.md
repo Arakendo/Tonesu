@@ -6,7 +6,7 @@ title: "Foundations"
 
 Core sentences from the earliest Tonesu attestations — basic agent-patient structures, property attribution, and foundational constructions.
 
-228 sentences.
+233 sentences.
 
 [← Corpus](../overview.md)
 
@@ -36,7 +36,7 @@ Core sentences from the earliest Tonesu attestations — basic agent-patient str
 | [Permission vs Capability Modality](../batches/perm/index.md) | 1 | 7 |
 | [Isaiah 53:4–6 — Substitutionary Causation](../batches/isa/index.md) | 1 | 7 |
 | [JAB](../batches/jab/index.md) | 1 | 6 |
-| [Solzhenitsyn, "Live Not By Lies" (1974)](../batches/slz/index.md) | 1 | 7 |
+| [Solzhenitsyn, "Live Not By Lies" (1974)](../batches/slz/index.md) | 2 | 12 |
 
 ---
 

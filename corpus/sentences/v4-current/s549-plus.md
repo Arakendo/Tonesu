@@ -4374,3 +4374,135 @@ Contrast with S753: S753 = crowd misperception wrapped in `si`; S754 = the under
 **Verdict:** irreducibly formal — all forms are below threshold, scope-prefix grammatical operators, load-bearing particles, or pending attestation.
 
 *CLQ entries registered from this batch: none.*
+
+---
+
+## SLZ-002 — The Mutual Knowledge Structure
+
+**Source:** Attributed to Alexander Solzhenitsyn (attribution contested; captures the epistemic structure he describes throughout his Soviet-era works, especially *The First Circle* and *The Gulag Archipelago*). The specific formulation: "We know that they are lying, they know that they are lying, they know that we know that they are lying, we know that they know that we know they are lying, and still they continue to lie."
+
+**Epistemic core:** This batch extends SLZ-001's `to-fe-ka` framework into **iterated mutual knowledge** — the distinctive feature of Soviet institutional lying. The puzzle: all parties know the fraud is fraud. No deception is occurring. Yet the performance of belief continues to be demanded and supplied. This resolves to a structural insight: the demand in this context is not for `si-no` (false-signal / deception, which requires target ignorance) but for the public act of `ka-to-fe-ka` despite full mutual awareness. The lie is not a communication of false belief — it is a demonstration of power over the co-signer's will.
+
+**Vocabulary framework:** All forms compositional from registered vocabulary. No new W-entries required.
+
+---
+
+### S772 — SLZ-002-A
+
+**Source:** "We know that they are lying / they know that they are lying."
+
+**Tonesu:** `la-mi  to  [la-ze  to-fe-ka] / la-ze  to  [la-ze  to-fe-ka]`
+
+**Written:** `lami to [laze tofeka] / laze to [laze tofeka]`
+
+**Gloss:** I know [they commit-fraud] / they know [they commit-fraud]
+
+**Natural reading:** I know they are committing fraud / they know they are committing fraud.
+
+**Notes:** Base parallel establishing symmetric first-level knowledge. `la-mi to [la-ze to-fe-ka]` = personal epistemic modal (`to` = knowledge) with clausal bracket: I know [that-they commit fraud]. `la-ze to [la-ze to-fe-ka]` = they know [that they themselves commit fraud] — the agent `la-ze` appears in both the outer frame and the inner bracket, marking the self-knowledge of the perpetrators. `/` = bi-clausal parallel: the two knowledge claims are structurally paired as the symmetric foundation for the nesting in S773. **First use of `to [CLAUSE]` in a `/` bi-clausal parallel construction.** Note the distinction from S767 (SLZ-001-C) where `si` and `no-to` were the paired modals: here both sides of `/` carry the same modal (`to`) with different agents.
+
+---
+
+### S773 — SLZ-002-B
+
+**Source:** "They know that we know that they are lying / we know that they know that we know they are lying."
+
+**Tonesu:** `la-ze  to  [la-mi  to  [la-ze  to-fe-ka]] / la-mi  to  [la-ze  to  [la-mi  to  [la-ze  to-fe-ka]]]`
+
+**Written:** `laze to [lami to [laze tofeka]] / lami to [laze to [lami to [laze tofeka]]]`
+
+**Gloss:** they know [I know [they commit-fraud]] / I know [they know [I know [they commit-fraud]]]
+
+**Natural reading:** They know that I know that they are committing fraud / I know that they know that I know they are committing fraud.
+
+**Notes:** **First iterated epistemic nesting at depth 3 and depth 4 in the running corpus.** The left clause of `/` is depth 3: `la-ze to [la-mi to [la-ze to-fe-ka]]` = they know [I know [they commit fraud]]. The right clause is depth 4: `la-mi to [la-ze to [la-mi to [la-ze to-fe-ka]]]` = I know [they know [I know [they commit fraud]]]. Brackets handle the depth unambiguously — each `[` opens a new clausal scope. The alternating `la-ze` / `la-mi` agents inside the nested brackets track whose knowledge is being indexed at each level. Parse invariants hold: every internal syllable begins with a consonant; compound boundaries are visible; bracket depth is marked by `[]`. The structural observation: at this depth the knowledge is informationally redundant — both parties have had full mutual knowledge since depth 1 (S772). The addition of depth 3 and 4 adds no new information. Its social function is performed, not informational.
+
+---
+
+### S774 — SLZ-002-C
+
+**Source:** "And still they continue to lie."
+
+**Tonesu:** `la-a-li  to  [la-ze  to-fe-ka] — la-ze  [ka-to-fe-ka]  re`
+
+**Written:** `laali to [laze tofeka] — laze [katofeka] re`
+
+**Gloss:** all-persons know [they commit-fraud] — they [commit-fraud] cyclically
+
+**Natural reading:** All persons know that they are committing fraud — and yet they continue committing it.
+
+**Notes:** `la-a-li` = `a-` (universal/abstract scope prefix) + `li` (person) = all-persons — **first use of `a-li` as a universal quantified agent NP**. This extends the `a-` prefix from abstract-attribute scope (SLZ-001 S765: `a-to-fe-ka`, `a-ne-su`) to NP quantification: `a-li` = every person / the universal set of persons. `to [la-ze to-fe-ka]` = know [that they commit fraud] — propositional knowledge claim as established. `—` = prosodic suspension marking the contrast before the continuation clause. `la-ze [ka-to-fe-ka] re` = they [commit-fraud] cyclically: `re` (primitive: repetition/cycle) used **for the first time as a post-verbal aspectual modifier** meaning "continue/repeatedly." Position mirrors `ti-de` (sentence-final temporal modifier): `la-ze [ka-to-fe-ka] re` = they [commit-fraud] + cyclically = they continue committing fraud. Universal knowledge of the fraud (`la-a-li to`) and the continuation of the fraud (`la-ze [ka-to-fe-ka] re`) are placed in tension by `—`: the suspension holds the paradox open rather than resolving it.
+
+---
+
+### S775 — SLZ-002-D
+
+**Source:** The structural insight — the demand is for performance, not belief.
+
+**Tonesu:** `la-ze  wi-ra  no  [si-no] / la-ze  wi-ra  [la-o-li  ka-to-fe-ka]`
+
+**Written:** `laze wira no [sino] / laze wira [laoli katofeka]`
+
+**Gloss:** they demand not [false-signal] / they demand [collective-persons commit-fraud]
+
+**Natural reading:** They are not demanding that anyone believe the lie / they are demanding that the collective performs it.
+
+**Notes:** Antithetical `/` parallel resolving the paradox of S774. `la-ze wi-ra no [si-no]` = they demand not [false-signaling/deception]: `wi-ra` (W177, directed-will/demand) takes a negated clausal argument `no [si-no]`. `si-no` = false-signal (compositional: `si` signal + `no` negation = outward signal of a false state = deception); established in SNG-001 (`ka-si-no` = to lie). The demand is explicitly *not* for `si-no` — which requires the target to not know the signal is false. `/` = structural midpoint of the antithetical pair. `la-ze wi-ra [la-o-li ka-to-fe-ka]` = they demand [that the collective commits fraud]: `la-o-li` = collective-persons (established SLZ-001 S766) as the required agents of the act. The structural distinction `si-no` (deception = false signal requiring target ignorance) vs `ka-to-fe-ka` (epistemic fraud = deliberate boundary violation regardless of mutual knowledge) is here made explicit: you cannot deceive someone who already knows. What is demanded instead is the public act of boundary-crossing. **First explicit contrast between `si-no` and `ka-to-fe-ka` as distinct epistemic violation types.**
+
+---
+
+### S776 — SLZ-002-E
+
+**Source:** The conclusion — universally-known fraud is an exercise of power.
+
+**Tonesu:** `[a-li  to]  to-fe-ka  ne  wi-ra`
+
+**Written:** `[alito] tofeka ne wira`
+
+**Gloss:** [all-knowing] fraud is directed-power
+
+**Natural reading:** Fraud known to all parties is directed power, not deception.
+
+**Notes:** **First bracketed-modifier + nominal `ne` predicate structure with `wi-ra` as property.** `[a-li to]` = modifier bracket: "universally-known" — `a-li` (all-persons) + `to` (know) = the property of being universally known. Modifier-before-head (standard Tonesu order): the bracket modifies `to-fe-ka` (W029, epistemic fraud). So the subject is: "[universally-known] fraud" — the specific category of fraud that operates under full mutual awareness. `ne` = copula (property attribution). `wi-ra` (W177, directed will / demand / authority) as the property: this kind of fraud *is* directed power. The claim is not that fraud equals power in general (`helms` would be required), but that `[a-li to] to-fe-ka` *has the property of* `wi-ra`. Structural argument: if all parties already know the fraud is fraud, then no epistemic boundary violation in the sense of *causing false belief* is occurring. What is occurring is `wi-ra` — the imposition of will through the demand for public performance. S775 showed what is *not* demanded (deception); S776 names what *is*: power over the co-signer's voice.
+
+---
+
+### Batch summary — SLZ-002
+
+| Entry | Tonesu | Written | Claim | Key feature |
+|-------|--------|---------|-------|-------------|
+| S772 (SLZ-002-A) | `la-mi  to  [la-ze  to-fe-ka] / la-ze  to  [la-ze  to-fe-ka]` | `lami to [laze tofeka] / laze to [laze tofeka]` | I know / they know (first parallel) | `to [CLAUSE]` in `/` bi-clausal parallel (first) |
+| S773 (SLZ-002-B) | `la-ze  to  [la-mi  to  [la-ze  to-fe-ka]] / la-mi  to  [la-ze  to  [la-mi  to  [la-ze  to-fe-ka]]]` | `laze to [lami to [laze tofeka]] / lami to [laze to [lami to [laze tofeka]]]` | They know I know / I know they know I know | Iterated epistemic nesting depth 3 + 4 (first) |
+| S774 (SLZ-002-C) | `la-a-li  to  [la-ze  to-fe-ka] — la-ze  [ka-to-fe-ka]  re` | `laali to [laze tofeka] — laze [katofeka] re` | All know — they continue anyway | `a-li` universal agent (first); `re` post-verbal aspectual modifier (first) |
+| S775 (SLZ-002-D) | `la-ze  wi-ra  no  [si-no] / la-ze  wi-ra  [la-o-li  ka-to-fe-ka]` | `laze wira no [sino] / laze wira [laoli katofeka]` | Not demanding belief / demanding performance | `si-no` vs `ka-to-fe-ka` explicit contrast (first) |
+| S776 (SLZ-002-E) | `[a-li  to]  to-fe-ka  ne  wi-ra` | `[alito] tofeka ne wira` | Universally-known fraud is directed power | Bracketed modifier on nominal subject; `wi-ra` as `ne`-predicate property |
+
+**New vocabulary:** none (all forms compositional from registered entries).
+
+**Compositional first uses:** `a-li` (universal quantified agent, `a-` + `li`); `re` as post-verbal aspectual modifier (continuation/cycle sense).
+
+**Key structural findings:**
+1. **Iterated epistemic nesting depth 3 and 4** (S773). First in running corpus. Brackets handle depth unambiguously; alternating `la-ze`/`la-mi` agents track whose knowledge is indexed at each level. The depth adds no new information content — its function is performed, not epistemic.
+2. **`a-li` as universal quantified agent** (S774). First use of `a-` scope prefix on `li` (person) to create a universal NP subject: "all persons." Extends `a-` from attribute-scope (SLZ-001) to NP quantification.
+3. **`re` as post-verbal aspectual modifier** (S774). First aspectual use of the repetition/cycle primitive in sentence-final position. Pattern mirrors `ti-de` temporal: `la-X [VERB] re` = X does VERB cyclically/repeatedly.
+4. **`si-no` vs `ka-to-fe-ka` explicit contrast** (S775). First sentence that names the difference: deception requires target ignorance; epistemic fraud does not. The demand under mutual knowledge is not for `si-no` but for `ka-to-fe-ka`.
+5. **Universally-known fraud as power** (S776). `[a-li to] to-fe-ka ne wi-ra`: the category of fraud that operates under full mutual knowledge is a property-attribution of `wi-ra` (directed will/power). The lie in this context is not epistemic but political — a demonstration of the power to compel performance regardless of what all parties know.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `to [CLAUSE]` | none | — | Epistemic modal — semantically load-bearing; relaxation changes grade |
+| `a-li` | none | — | Scope-prefix form — grammatical operator; outside CLQ scope |
+| `la-a-li` | none | — | Scope-prefix NP — grammatical operator; outside CLQ scope |
+| `to-fe-ka` (W029) | none | — | 3-root — below 4-morpheme contraction threshold |
+| `ka-to-fe-ka` | none | — | 4-root verbal compound — defer CLQ pending further attestations (see SLZ-001 CLQ note) |
+| `wi-ra` (W177) | none | — | 2-root — below threshold |
+| `si-no` | none | — | 2-root — below threshold |
+| `re` (aspectual) | none | — | Primitive — minimum possible |
+
+**Verdict:** irreducibly formal — all forms are below threshold, scope-prefix grammatical operators, or load-bearing epistemic particles.
+
+*CLQ entries registered from this batch: none.*

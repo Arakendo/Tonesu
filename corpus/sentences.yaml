@@ -14496,3 +14496,138 @@ sentences:
     Reading alongside S770: if fraud is constituted by co-signers (S770), and the
     condition for liberation is the refusal to co-sign (S771), then S769''s imperatives
     are not merely moral prescriptions but structural dismantling instructions.'
+- snum: S772
+  gloss: I know they are committing fraud / they know they are committing fraud.
+  batch: SLZ-002
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: I know [they commit-fraud] / they know [they commit-fraud]
+  natural: I know they are committing fraud / they know they are committing fraud.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S772
+  notes: 'Base parallel establishing symmetric first-level knowledge. `la-mi to [la-ze
+    to-fe-ka]` = personal epistemic modal (`to` = knowledge) with clausal bracket:
+    I know [that-they commit fraud]. `la-ze to [la-ze to-fe-ka]` = they know [that
+    they themselves commit fraud] — the agent `la-ze` appears in both the outer frame
+    and the inner bracket, marking the self-knowledge of the perpetrators. `/` = bi-clausal
+    parallel: the two knowledge claims are structurally paired as the symmetric foundation
+    for the nesting in S773. **First use of `to [CLAUSE]` in a `/` bi-clausal parallel
+    construction.** Note the distinction from S767 (SLZ-001-C) where `si` and `no-to`
+    were the paired modals: here both sides of `/` carry the same modal (`to`) with
+    different agents.'
+- snum: S773
+  gloss: They know that I know that they are committing fraud / I know that they know
+    that I know they are committing fraud.
+  batch: SLZ-002
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: they know [I know [they commit-fraud]] / I know [they know [I know [they
+    commit-fraud]]]
+  natural: They know that I know that they are committing fraud / I know that they
+    know that I know they are committing fraud.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S773
+  notes: '**First iterated epistemic nesting at depth 3 and depth 4 in the running
+    corpus.** The left clause of `/` is depth 3: `la-ze to [la-mi to [la-ze to-fe-ka]]`
+    = they know [I know [they commit fraud]]. The right clause is depth 4: `la-mi
+    to [la-ze to [la-mi to [la-ze to-fe-ka]]]` = I know [they know [I know [they commit
+    fraud]]]. Brackets handle the depth unambiguously — each `[` opens a new clausal
+    scope. The alternating `la-ze` / `la-mi` agents inside the nested brackets track
+    whose knowledge is being indexed at each level. Parse invariants hold: every internal
+    syllable begins with a consonant; compound boundaries are visible; bracket depth
+    is marked by `[]`. The structural observation: at this depth the knowledge is
+    informationally redundant — both parties have had full mutual knowledge since
+    depth 1 (S772). The addition of depth 3 and 4 adds no new information. Its social
+    function is performed, not informational.'
+- snum: S774
+  gloss: All persons know that they are committing fraud — and yet they continue committing
+    it.
+  batch: SLZ-002
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: all-persons know [they commit-fraud] — they [commit-fraud] cyclically
+  natural: All persons know that they are committing fraud — and yet they continue
+    committing it.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S774
+  notes: '`la-a-li` = `a-` (universal/abstract scope prefix) + `li` (person) = all-persons
+    — **first use of `a-li` as a universal quantified agent NP**. This extends the
+    `a-` prefix from abstract-attribute scope (SLZ-001 S765: `a-to-fe-ka`, `a-ne-su`)
+    to NP quantification: `a-li` = every person / the universal set of persons. `to
+    [la-ze to-fe-ka]` = know [that they commit fraud] — propositional knowledge claim
+    as established. `—` = prosodic suspension marking the contrast before the continuation
+    clause. `la-ze [ka-to-fe-ka] re` = they [commit-fraud] cyclically: `re` (primitive:
+    repetition/cycle) used **for the first time as a post-verbal aspectual modifier**
+    meaning "continue/repeatedly." Position mirrors `ti-de` (sentence-final temporal
+    modifier): `la-ze [ka-to-fe-ka] re` = they [commit-fraud] + cyclically = they
+    continue committing fraud. Universal knowledge of the fraud (`la-a-li to`) and
+    the continuation of the fraud (`la-ze [ka-to-fe-ka] re`) are placed in tension
+    by `—`: the suspension holds the paradox open rather than resolving it.'
+- snum: S775
+  gloss: They are not demanding that anyone believe the lie / they are demanding that
+    the collective performs it.
+  batch: SLZ-002
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: they demand not [false-signal] / they demand [collective-persons commit-fraud]
+  natural: They are not demanding that anyone believe the lie / they are demanding
+    that the collective performs it.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S775
+  notes: 'Antithetical `/` parallel resolving the paradox of S774. `la-ze wi-ra no
+    [si-no]` = they demand not [false-signaling/deception]: `wi-ra` (W177, directed-will/demand)
+    takes a negated clausal argument `no [si-no]`. `si-no` = false-signal (compositional:
+    `si` signal + `no` negation = outward signal of a false state = deception); established
+    in SNG-001 (`ka-si-no` = to lie). The demand is explicitly *not* for `si-no` —
+    which requires the target to not know the signal is false. `/` = structural midpoint
+    of the antithetical pair. `la-ze wi-ra [la-o-li ka-to-fe-ka]` = they demand [that
+    the collective commits fraud]: `la-o-li` = collective-persons (established SLZ-001
+    S766) as the required agents of the act. The structural distinction `si-no` (deception
+    = false signal requiring target ignorance) vs `ka-to-fe-ka` (epistemic fraud =
+    deliberate boundary violation regardless of mutual knowledge) is here made explicit:
+    you cannot deceive someone who already knows. What is demanded instead is the
+    public act of boundary-crossing. **First explicit contrast between `si-no` and
+    `ka-to-fe-ka` as distinct epistemic violation types.**'
+- snum: S776
+  gloss: Fraud known to all parties is directed power, not deception.
+  batch: SLZ-002
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: '[all-knowing] fraud is directed-power'
+  natural: Fraud known to all parties is directed power, not deception.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S776
+  notes: '**First bracketed-modifier + nominal `ne` predicate structure with `wi-ra`
+    as property.** `[a-li to]` = modifier bracket: "universally-known" — `a-li` (all-persons)
+    + `to` (know) = the property of being universally known. Modifier-before-head
+    (standard Tonesu order): the bracket modifies `to-fe-ka` (W029, epistemic fraud).
+    So the subject is: "[universally-known] fraud" — the specific category of fraud
+    that operates under full mutual awareness. `ne` = copula (property attribution).
+    `wi-ra` (W177, directed will / demand / authority) as the property: this kind
+    of fraud *is* directed power. The claim is not that fraud equals power in general
+    (`helms` would be required), but that `[a-li to] to-fe-ka` *has the property of*
+    `wi-ra`. Structural argument: if all parties already know the fraud is fraud,
+    then no epistemic boundary violation in the sense of *causing false belief* is
+    occurring. What is occurring is `wi-ra` — the imposition of will through the demand
+    for public performance. S775 showed what is *not* demanded (deception); S776 names
+    what *is*: power over the co-signer''s voice.'
