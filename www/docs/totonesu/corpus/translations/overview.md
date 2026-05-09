@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-40 translation analyses.
+41 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -61,6 +61,7 @@ gap analysis, and key findings.
 - [alinsky-rules-for-radicals](philosophy/alinsky-rules-for-radicals/index.md)
 - [liar-paradox](philosophy/liar-paradox/index.md)
 - [lojban-type-contrasts](philosophy/lojban-type-contrasts/index.md)
+- [mao-little-red-book](philosophy/mao-little-red-book/index.md)
 - [peterson-12-rules-for-life](philosophy/peterson-12-rules-for-life/index.md)
 - [proof-structure](philosophy/proof-structure/index.md)
 - [solzhenitsyn-live-not-by-lies](philosophy/solzhenitsyn-live-not-by-lies/index.md)

@@ -15073,3 +15073,237 @@ sentences:
     (S777), (2) negated choice (S792), (3) co-presence without relationship specification
     (S800). The cat is `lo-ru` = the singular = the individual moment that presents
     itself regardless of background suffering.'
+- snum: S801
+  gloss: Directed authority originates in and grows from the weapon.
+  batch: MAO-001
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: from [force-instrument/weapon] → directed-power grows
+  natural: Directed authority originates in and grows from the weapon.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S801
+  notes: '`ka-mu-ra` = `ka-mu` (W047, tool/action-instrument) + `ra` (force/energy)
+    = force-instrument = weapon; first use. `go {ka-mu-ra}` = the causal origin. `wi-ra
+    be` = directed-power grows. First `go {instrument}, wi-ra be` structure: the gun
+    is not the power but the origin from which power grows.'
+- snum: S802
+  gloss: Reactionaries present themselves as powerful; in reality they have no directed
+    power.
+  batch: MAO-001
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: '[deliberate-growth-preventers] are signal-of-power / they are no-power'
+  natural: Reactionaries present themselves as powerful; in reality they have no directed
+    power.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S802
+  notes: '`ka-no-be-li` = `ka` + `no` + `be` + `li` = person who deliberately acts
+    to prevent growth/progress = reactionary; Mao''s ideological definition encoded
+    compositionally; first use. Left arm: `ne si [wi-ra]` = appearance (power-signal).
+    Right arm: `la-ze ne no-wi-ra` = reality (no power). Fourth distinct `/` function
+    in corpus: appearance/reality divergence. Same entity simultaneously carries `si
+    [wi-ra]` (appears powerful) and `no-wi-ra` (lacks power). Distinct from: constitutive
+    pair (ALI S777), negated choice (JBP S792), co-presence (JBP S800).'
+- snum: S803
+  gloss: Revolution is not a pleasant event — it is an act of martial force.
+  batch: MAO-001
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: fundamental-alteration-governance is not pleasant / is combat
+  natural: Revolution is not a pleasant event — it is an act of martial force.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S803
+  notes: '`ge-ki-ka-li-su` = `ge-ki` (W187, fundamental alteration) + `ka-li-su` (W147,
+    governance) = revolution; first use. `ne no fa-vo` = has the property of not-pleasant.
+    `ne ka-ra` = has the property of combat. The `/` combines the negated left arm
+    with the positive right arm — first use of `no [X] / [Y]` structure in `/` construction.'
+- snum: S804
+  gloss: Act for the benefit of the collective people.
+  batch: MAO-001
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: act with beneficent-will toward collective-persons
+  natural: Act for the benefit of the collective people.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S804
+  notes: Agentless imperative. `ka` = deliberate action (agentless command form).
+    `wi-vo` (W190) = beneficent will toward good. `lo-o-li` = toward the collective
+    persons. The `o-` prefix on `li` marks the aggregate collective, not any individual.
+    Among the shortest imperative forms in the corpus.
+- snum: S805
+  gloss: Let many living things flourish; let many schools of thought engage one another.
+  batch: MAO-001
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: grow many-organisms ; intentional-exchange among many-knowledge-systems
+  natural: Let many living things flourish; let many schools of thought engage one
+    another.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S805
+  notes: '`pu-zo` = `pu` (quantity/plurality primitive) + `zo` (organism) = many living
+    things/flowers; first use of `pu` as compound-initial quantity prefix on a noun
+    compound. `be pu-zo` = agentless growth emergence (PAV-001 pattern). `zi-ka` (W105)
+    = intentional exchange event = contend. `pu-to-su` = many organized-knowledge-systems
+    = many schools of thought; first use.'
+- snum: S806
+  gloss: The collective people alone are the agents who produce world history.
+  batch: MAO-001
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: 'solely: the collective persons make [world-history]'
+  natural: The collective people alone are the agents who produce world history.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S806
+  notes: '`ru-fe,` = exclusive scope (clause-initial). `la-o-li` = collective persons
+    as `la-`-marked agent. `ka-be` = deliberate construction/making. `lo-pa-zo-li-ti-de`
+    = patient: `pa-zo-li` (W135, inhabited world) + `ti-de` (W041, past time) = world-past
+    = world history; first use. Third use of `ru-fe,` in an exclusive-historical-agency
+    role.'
+- snum: S807
+  gloss: We do not want war; but from war and only from war does the abolition of
+    war come.
+  batch: MAO-001
+  batch_sub: G
+  status: normative
+  tonesu: ''
+  gloss_line: 'I am-unwilling [toward] war / pivot: from [war] → result [no-war]'
+  natural: We do not want war; but from war and only from war does the abolition of
+    war come.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S807
+  notes: 'Left arm: stated position (refusal of war). `ke,` = silent pivot: the refusal
+    is contextually present in the left arm; `ke,` advances without re-performing
+    it. Right arm: `go {ka-ra}, du {no-ka-ra}` = from war results no-war. `no-ka-ra`
+    = abolition/absence of warfare. Second use of `ke,` inside a `/` construction
+    (first: JBP S796, ethical register); confirmed cross-register in political-military
+    domain.'
+- snum: S808
+  gloss: Direct your will; do not fear death; act against every obstacle; achieve
+    victory.
+  batch: MAO-001
+  batch_sub: H
+  status: normative
+  tonesu: ''
+  gloss_line: directed-will ; no fear of death ; act toward all-difficulty ; victory
+  natural: Direct your will; do not fear death; act against every obstacle; achieve
+    victory.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S808
+  notes: 'Four `;`-chained agentless imperatives — matches ALI S788 as longest tactical
+    sequence in corpus. `no fa-ra lo-de-zo` = no fear (W154) of death (W178) = fear
+    no sacrifice. `ka lo-a-de` = act toward universal-difficulty: `a-` (universal
+    scope) + `de` (decay/difficulty) = all obstacles; `a-de` first use. `wi-du` (W175)
+    = victory. The `;` marks ordered sequence, not causal entailment.'
+- snum: S809
+  gloss: The guerrilla must move embedded within the people as a fish moves through
+    the sea.
+  batch: MAO-001
+  batch_sub: I
+  status: normative
+  tonesu: ''
+  gloss_line: stealth-agent requires moving-within [collective] like [motion-organism
+    moves-within liquid-place]
+  natural: The guerrilla must move embedded within the people as a fish moves through
+    the sea.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S809
+  notes: '`se-de-li` (W208, rogue/stealth agent) = guerrilla in context. `ne-fe` (W042)
+    = structural requirement. `ki ko {o-li}` = move within the collective (containment).
+    `go-si` = in-the-manner-of = like; **first use as pure simile/manner adverbial.**
+    Previously `go-si` appeared in AOW-001 as predicate-property (`ne go-si [X]`);
+    here it introduces a manner-comparison clause. `zo-ki` = motion-organism = fish-proxy
+    (`zo` + `ki`). `pa-ki''ma` = `pa` (place) + `ki''ma` (W114, liquid) = sea/liquid-place;
+    first use.'
+- snum: S810
+  gloss: Deliberate practice alone is the test that determines what is true.
+  batch: MAO-001
+  batch_sub: J
+  status: normative
+  tonesu: ''
+  gloss_line: 'solely: action is the epistemic-criterion of truth'
+  natural: Deliberate practice alone is the test that determines what is true.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S810
+  notes: '`ru-fe,` = exclusively (clause-initial). `ka` = deliberate action / practice
+    (predicate noun). `to-fe` (W028) = epistemic boundary / the determining threshold
+    = criterion. `lo-to-ne-su` = of truth (W000). `ru-fe, ka to-fe lo-to-ne-su` =
+    solely, action is the epistemic criterion of truth. `to-fe` functioning as a criterion-predicate:
+    the boundary-marker between states of knowledge serves as the test that determines
+    which side a claim falls on.'
+- snum: S811
+  gloss: Without investigation, you have no right to speak.
+  batch: MAO-001
+  batch_sub: K
+  status: normative
+  tonesu: ''
+  gloss_line: from [no-investigation] → no right to signal
+  natural: Without investigation, you have no right to speak.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S811
+  notes: '`no-se-ka` = negation + `se-ka` (W034, examination/inspection) = no investigation.
+    `wi-fe` (W100) = right/rule/permission. `lo-si-ki` = patient of signal-transmission
+    = right to speak/signal. First `go {no-[X]}, no [Y]` negative-causal frame: absence
+    of the prior condition (investigation) causes absence of the derived right (speaking-rights).
+    The `go {}` marks a structural causal claim — no investigation is not merely correlated
+    with no speaking-right but *causes* it.'
+- snum: S812
+  gloss: The whole situation is in chaos; the situation is excellent.
+  batch: MAO-001
+  batch_sub: L
+  status: normative
+  tonesu: ''
+  gloss_line: the universal-network is chaotic / the current-state is growing-value
+  natural: The whole situation is in chaos; the situation is excellent.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S812
+  notes: '`a-ne-su` = `a-` (universal scope) + `ne-su` (W031, network) = the universal
+    network = everything / the whole situation. `wi-no-su` (W189) = chaotic / will
+    unbound by structure. `su-ti` (W101) = current state. `vo-be` = growing-value
+    = excellent; from JBP-001 S795 (ethical/developmental register) to political-historical
+    register; first cross-domain application. The `/` marks dialectical co-presence:
+    both predicates are simultaneously true. The Maoist claim: chaos and opportunity
+    are co-present, not contradictory. Distinguished from S803''s `/` (antithetical:
+    not-X / is-Y) by the fact that both arms here are positively affirmed as simultaneously
+    true descriptions of the same situation.'

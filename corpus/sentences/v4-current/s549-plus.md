@@ -4997,3 +4997,249 @@ Contrast with S753: S753 = crowd misperception wrapped in `si`; S754 = the under
 **Verdict:** irreducibly formal — all forms below threshold, scope-prefix grammatical operators, punctuation operators, or compositional first uses deferred.
 
 *CLQ entries registered from this batch: none.*
+
+---
+
+## MAO-001 — Mao Zedong, Selected Quotations (S801–S812)
+
+### S801 — MAO-001-A
+
+**Source:** "Political power grows out of the barrel of a gun." — *Problems of War and Strategy* (1938); LRB Chapter 5.
+
+**Notation:** `go {ka-mu-ra},  wi-ra  be`
+
+**Written:** `go {kamura}, wira be`
+
+**Gloss:** from [force-instrument/weapon] → directed-power grows
+
+**Natural reading:** Directed authority originates in and grows from the weapon.
+
+**Notes:** `ka-mu-ra` = `ka-mu` (W047, tool/action-instrument) + `ra` (force/energy) = force-instrument = weapon; first use. `go {ka-mu-ra}` = the causal origin. `wi-ra be` = directed-power grows. First `go {instrument}, wi-ra be` structure: the gun is not the power but the origin from which power grows.
+
+---
+
+### S802 — MAO-001-B
+
+**Source:** "All reactionaries are paper tigers." — LRB Chapter 6.
+
+**Notation:** `[ka-no-be-li]  ne  si [wi-ra]  /  la-ze  ne  no-wi-ra`
+
+**Written:** `[kanobeli] ne si [wira] / laze ne nowira`
+
+**Gloss:** [deliberate-growth-preventers] are signal-of-power / they are no-power
+
+**Natural reading:** Reactionaries present themselves as powerful; in reality they have no directed power.
+
+**Notes:** `ka-no-be-li` = `ka` + `no` + `be` + `li` = person who deliberately acts to prevent growth/progress = reactionary; Mao's ideological definition encoded compositionally; first use. Left arm: `ne si [wi-ra]` = appearance (power-signal). Right arm: `la-ze ne no-wi-ra` = reality (no power). Fourth distinct `/` function in corpus: appearance/reality divergence. Same entity simultaneously carries `si [wi-ra]` (appears powerful) and `no-wi-ra` (lacks power). Distinct from: constitutive pair (ALI S777), negated choice (JBP S792), co-presence (JBP S800).
+
+---
+
+### S803 — MAO-001-C
+
+**Source:** "A revolution is not a dinner party... A revolution is an insurrection, an act of violence." — *Report on an Investigation of the Peasant Movement in Hunan* (1927).
+
+**Notation:** `ge-ki-ka-li-su  ne  no  fa-vo  /  ne  ka-ra`
+
+**Written:** `gekikalisu ne no favo / ne kara`
+
+**Gloss:** fundamental-alteration-governance is not pleasant / is combat
+
+**Natural reading:** Revolution is not a pleasant event — it is an act of martial force.
+
+**Notes:** `ge-ki-ka-li-su` = `ge-ki` (W187, fundamental alteration) + `ka-li-su` (W147, governance) = revolution; first use. `ne no fa-vo` = has the property of not-pleasant. `ne ka-ra` = has the property of combat. The `/` combines the negated left arm with the positive right arm — first use of `no [X] / [Y]` structure in `/` construction.
+
+---
+
+### S804 — MAO-001-D
+
+**Source:** "Serve the People." — Title of speech (1944); LRB.
+
+**Notation:** `ka  wi-vo  lo-o-li`
+
+**Written:** `ka wivo loooli`
+
+**Gloss:** act with beneficent-will toward collective-persons
+
+**Natural reading:** Act for the benefit of the collective people.
+
+**Notes:** Agentless imperative. `ka` = deliberate action (agentless command form). `wi-vo` (W190) = beneficent will toward good. `lo-o-li` = toward the collective persons. The `o-` prefix on `li` marks the aggregate collective, not any individual. Among the shortest imperative forms in the corpus.
+
+---
+
+### S805 — MAO-001-E
+
+**Source:** "Let a hundred flowers bloom; let a hundred schools of thought contend." — *On the Correct Handling of Contradictions Among the People* (1957).
+
+**Notation:** `be  pu-zo  ;  zi-ka  pu-to-su`
+
+**Written:** `be puzo ; zika putosu`
+
+**Gloss:** grow many-organisms ; intentional-exchange among many-knowledge-systems
+
+**Natural reading:** Let many living things flourish; let many schools of thought engage one another.
+
+**Notes:** `pu-zo` = `pu` (quantity/plurality primitive) + `zo` (organism) = many living things/flowers; first use of `pu` as compound-initial quantity prefix on a noun compound. `be pu-zo` = agentless growth emergence (PAV-001 pattern). `zi-ka` (W105) = intentional exchange event = contend. `pu-to-su` = many organized-knowledge-systems = many schools of thought; first use.
+
+---
+
+### S806 — MAO-001-F
+
+**Source:** "The people, and the people alone, are the motive force in the making of world history." — *On Coalition Government* (1945).
+
+**Notation:** `ru-fe,  la-o-li  ka-be  lo-pa-zo-li-ti-de`
+
+**Written:** `rufe, laoli kabe lopazolitide`
+
+**Gloss:** solely: the collective persons make [world-history]
+
+**Natural reading:** The collective people alone are the agents who produce world history.
+
+**Notes:** `ru-fe,` = exclusive scope (clause-initial). `la-o-li` = collective persons as `la-`-marked agent. `ka-be` = deliberate construction/making. `lo-pa-zo-li-ti-de` = patient: `pa-zo-li` (W135, inhabited world) + `ti-de` (W041, past time) = world-past = world history; first use. Third use of `ru-fe,` in an exclusive-historical-agency role.
+
+---
+
+### S807 — MAO-001-G
+
+**Source:** "War can only be abolished through war." — *Problems of War and Strategy* (1938).
+
+**Notation:** `la-mi  wi-no  ka-ra  /  ke,  go {ka-ra},  du {no-ka-ra}`
+
+**Written:** `lami wino kara / ke, go {kara}, du {nokara}`
+
+**Gloss:** I am-unwilling [toward] war / pivot: from [war] → result [no-war]
+
+**Natural reading:** We do not want war; but from war and only from war does the abolition of war come.
+
+**Notes:** Left arm: stated position (refusal of war). `ke,` = silent pivot: the refusal is contextually present in the left arm; `ke,` advances without re-performing it. Right arm: `go {ka-ra}, du {no-ka-ra}` = from war results no-war. `no-ka-ra` = abolition/absence of warfare. Second use of `ke,` inside a `/` construction (first: JBP S796, ethical register); confirmed cross-register in political-military domain.
+
+---
+
+### S808 — MAO-001-H
+
+**Source:** "Be resolute, fear no sacrifice, surmount every difficulty, to win victory." — LRB.
+
+**Notation:** `wi-ra  ;  no  fa-ra  lo-de-zo  ;  ka  lo-a-de  ;  wi-du`
+
+**Written:** `wira ; no fara lodeze ; ka loade ; widu`
+
+**Gloss:** directed-will ; no fear of death ; act toward all-difficulty ; victory
+
+**Natural reading:** Direct your will; do not fear death; act against every obstacle; achieve victory.
+
+**Notes:** Four `;`-chained agentless imperatives — matches ALI S788 as longest tactical sequence in corpus. `no fa-ra lo-de-zo` = no fear (W154) of death (W178) = fear no sacrifice. `ka lo-a-de` = act toward universal-difficulty: `a-` (universal scope) + `de` (decay/difficulty) = all obstacles; `a-de` first use. `wi-du` (W175) = victory. The `;` marks ordered sequence, not causal entailment.
+
+---
+
+### S809 — MAO-001-I
+
+**Source:** "The guerrilla must move amongst the people as a fish swims in the sea." — attributed to Mao; guerrilla warfare writings.
+
+**Notation:** `se-de-li  ne-fe  ki  ko {o-li}  go-si  zo-ki  ki  ko {pa-ki'ma}`
+
+**Written:** `sedeli nefe ki ko {oli} gosi zoki ki ko {pakima}`
+
+**Gloss:** stealth-agent requires moving-within [collective] like [motion-organism moves-within liquid-place]
+
+**Natural reading:** The guerrilla must move embedded within the people as a fish moves through the sea.
+
+**Notes:** `se-de-li` (W208, rogue/stealth agent) = guerrilla in context. `ne-fe` (W042) = structural requirement. `ki ko {o-li}` = move within the collective (containment). `go-si` = in-the-manner-of = like; **first use as pure simile/manner adverbial.** Previously `go-si` appeared in AOW-001 as predicate-property (`ne go-si [X]`); here it introduces a manner-comparison clause. `zo-ki` = motion-organism = fish-proxy (`zo` + `ki`). `pa-ki'ma` = `pa` (place) + `ki'ma` (W114, liquid) = sea/liquid-place; first use.
+
+---
+
+### S810 — MAO-001-J
+
+**Source:** "Practice is the sole criterion for judging truth." — *On Practice* (1937).
+
+**Notation:** `ru-fe,  ka  to-fe  lo-to-ne-su`
+
+**Written:** `rufe, ka tofe lotonesu`
+
+**Gloss:** solely: action is the epistemic-criterion of truth
+
+**Natural reading:** Deliberate practice alone is the test that determines what is true.
+
+**Notes:** `ru-fe,` = exclusively (clause-initial). `ka` = deliberate action / practice (predicate noun). `to-fe` (W028) = epistemic boundary / the determining threshold = criterion. `lo-to-ne-su` = of truth (W000). `ru-fe, ka to-fe lo-to-ne-su` = solely, action is the epistemic criterion of truth. `to-fe` functioning as a criterion-predicate: the boundary-marker between states of knowledge serves as the test that determines which side a claim falls on.
+
+---
+
+### S811 — MAO-001-K
+
+**Source:** "No investigation, no right to speak." — *Oppose Book Worship* (1930).
+
+**Notation:** `go {no-se-ka},  no  wi-fe  lo-si-ki`
+
+**Written:** `go {noseka}, no wife losiki`
+
+**Gloss:** from [no-investigation] → no right to signal
+
+**Natural reading:** Without investigation, you have no right to speak.
+
+**Notes:** `no-se-ka` = negation + `se-ka` (W034, examination/inspection) = no investigation. `wi-fe` (W100) = right/rule/permission. `lo-si-ki` = patient of signal-transmission = right to speak/signal. First `go {no-[X]}, no [Y]` negative-causal frame: absence of the prior condition (investigation) causes absence of the derived right (speaking-rights). The `go {}` marks a structural causal claim — no investigation is not merely correlated with no speaking-right but *causes* it.
+
+---
+
+### S812 — MAO-001-L
+
+**Source:** "There is great disorder under heaven — the situation is excellent." — attributed to Mao Zedong, Cultural Revolution era (c. 1966–1967); note: not in canonical LRB text.
+
+**Notation:** `a-ne-su  ne  wi-no-su  /  su-ti  ne  vo-be`
+
+**Written:** `anesu ne winosu / suti ne vobe`
+
+**Gloss:** the universal-network is chaotic / the current-state is growing-value
+
+**Natural reading:** The whole situation is in chaos; the situation is excellent.
+
+**Notes:** `a-ne-su` = `a-` (universal scope) + `ne-su` (W031, network) = the universal network = everything / the whole situation. `wi-no-su` (W189) = chaotic / will unbound by structure. `su-ti` (W101) = current state. `vo-be` = growing-value = excellent; from JBP-001 S795 (ethical/developmental register) to political-historical register; first cross-domain application. The `/` marks dialectical co-presence: both predicates are simultaneously true. The Maoist claim: chaos and opportunity are co-present, not contradictory. Distinguished from S803's `/` (antithetical: not-X / is-Y) by the fact that both arms here are positively affirmed as simultaneously true descriptions of the same situation.
+
+---
+
+## MAO-001 Batch Summary
+
+| S# | Quote | Core claim | Structural notes |
+|----|-------|-----------|-----------------|
+| S801 | Power from the gun | `go {ka-mu-ra}, wi-ra be` | `ka-mu-ra` first use; origin claim for `wi-ra` |
+| S802 | Paper tigers | `[ka-no-be-li] ne si [wi-ra] / la-ze ne no-wi-ra` | `/` function 4: appearance/reality divergence |
+| S803 | Revolution ≠ dinner party | `ge-ki-ka-li-su ne no fa-vo / ne ka-ra` | `ge-ki-ka-li-su` first use; `no [X] / [Y]` first use |
+| S804 | Serve the people | `ka wi-vo lo-o-li` | Shortest MAO sentence; agentless imperative |
+| S805 | Hundred flowers | `be pu-zo ; zi-ka pu-to-su` | `pu-` quantity prefix first systematic use |
+| S806 | People make history | `ru-fe, la-o-li ka-be lo-pa-zo-li-ti-de` | `pa-zo-li-ti-de` first use; 3rd `ru-fe,` exclusive-agency |
+| S807 | War through war | `la-mi wi-no ka-ra / ke, go {ka-ra}, du {no-ka-ra}` | 2nd `ke,` inside `/`; cross-register confirmation |
+| S808 | Resolute will-chain | `wi-ra ; no fa-ra lo-de-zo ; ka lo-a-de ; wi-du` | 4-clause `;` chain; `a-de` first use |
+| S809 | Fish in the sea | `se-de-li ne-fe ki ko {o-li} go-si zo-ki ki ko {pa-ki'ma}` | `go-si` simile-adverbial first use; `pa-ki'ma` first use |
+| S810 | Practice as criterion | `ru-fe, ka to-fe lo-to-ne-su` | `to-fe` as criterion-predicate |
+| S811 | No investigation | `go {no-se-ka}, no wi-fe lo-si-ki` | First `go {no-X}, no Y` negative-causal frame |
+| S812 | Chaos + excellent | `a-ne-su ne wi-no-su / su-ti ne vo-be` | `/` as dialectical co-presence; `vo-be` cross-domain |
+
+**New W-entries:** none.
+
+**Compositional first uses:** `ka-mu-ra` (weapon, S801); `ka-no-be-li` (reactionary, S802); `ge-ki-ka-li-su` (revolution, S803); `pu-zo` / `pu-to-su` (many-X prefix pattern, S805); `pa-zo-li-ti-de` (world-history, S806); `a-de` (universal-difficulty, S808); `pa-ki'ma` (sea/liquid-place, S809); `zo-ki` (motion-organism/fish-proxy, S809).
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `wi-ra` (W177) | none | — | 2-root — below CLQ threshold |
+| `ka-mu-ra` | none | — | 3-root compositional first use; defer |
+| `ka-no-be-li` | none | — | 4-root compositional first use; defer |
+| `ge-ki-ka-li-su` | none | — | 4-root compositional first use; defer |
+| `ka-ra` (W222) | none | — | 2-root — below CLQ threshold |
+| `pu-zo` | none | — | 2-root — below CLQ threshold |
+| `pu-to-su` | none | — | 3-root — meets threshold; no shortform; defer |
+| `zi-ka` (W105) | none | — | 2-root — below CLQ threshold |
+| `pa-zo-li-ti-de` | none | — | 4-root compositional first use; defer |
+| `se-de-li` (W208) | none | — | 3-root — meets threshold; no shortform |
+| `pa-ki'ma` | none | — | 3-root (with juncture) — meets threshold; defer |
+| `zo-ki` | none | — | 2-root — below CLQ threshold |
+| `se-ka` (W034) | none | — | 2-root — below CLQ threshold |
+| `wi-no-su` (W189) | none | — | 3-root — meets threshold; no shortform |
+| `vo-be` | none | — | 2-root — below CLQ threshold |
+| `wi-fe` (W100) | none | — | 2-root — below CLQ threshold |
+| `go {…}, X` pattern | none | — | Semantically load-bearing causal frame |
+| `ru-fe,` | none | — | Grammatical particle — outside CLQ scope |
+
+**Verdict:** irreducibly formal — all registered compounds below threshold, compositional first uses deferred, causal operators load-bearing.
+
+*CLQ entries registered from this batch: none.*
