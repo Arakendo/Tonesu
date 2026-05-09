@@ -3222,6 +3222,58 @@
         "wi",
         "li"
       ]
+    },
+    {
+      "wnum": "W239",
+      "form": "a-ra-su",
+      "written": "arasu",
+      "gloss": "totalitarianism; total-power-structure",
+      "status": "active",
+      "domain": "Politics / Governance",
+      "roots": [
+        "ra",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W240",
+      "form": "ra-de-su",
+      "written": "radesu",
+      "gloss": "tyranny; deviant-power-structure",
+      "status": "active",
+      "domain": "Politics / Governance",
+      "roots": [
+        "ra",
+        "de",
+        "su"
+      ]
+    },
+    {
+      "wnum": "W241",
+      "form": "wi-ra-ki",
+      "written": "wiraki",
+      "gloss": "state terror; coercive directed force",
+      "status": "active",
+      "domain": "Politics / Governance",
+      "roots": [
+        "wi",
+        "ra",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W242",
+      "form": "pa-ra-de-su",
+      "written": "paradesu",
+      "gloss": "imperialism; territorial-deviant-power-structure",
+      "status": "active",
+      "domain": "Politics / History",
+      "roots": [
+        "pa",
+        "ra",
+        "de",
+        "su"
+      ]
     }
   ]
 }
