@@ -640,7 +640,7 @@ The evidential frame does not encode *how certain* the speaker is about the cont
 
 **Fallacy-resistance rationale:** the evidential frame attacks *smuggled certainty* — the rhetorical move of presenting weakly-grounded evidence as direct assertion. By visibly bracketing unattributed claims, `()` makes epistemic laundering structurally apparent.
 
-**Third-party epistemic claims (corollary, FAL-009):** bare epistemic predicates about third parties are speaker-certified claims by the same rule as first-person assertions. `la-na-X  lo-Y  to` (bare) = *the speaker* certifies that X holds Y as certain. `(la-na-X  lo-Y  to)` = the speaker reports that X is said to hold Y as certain. The asymmetry is identical to first-person laundering. Consequence: any sentence asserting another agent's epistemic stance without `()` is a direct speaker-certification of that stance, not a report about it.
+**Third-party epistemic claims (corollary, FAL-009):** bare epistemic predicates about third parties are speaker-certified claims by the same rule as first-person assertions. `la-na X  lo-Y  to` (bare) = *the speaker* certifies that X holds Y as certain. `(la-na X  lo-Y  to)` = the speaker reports that X is said to hold Y as certain. The asymmetry is identical to first-person laundering. Consequence: any sentence asserting another agent's epistemic stance without `()` is a direct speaker-certification of that stance, not a report about it.
 
 For actual identifiers in running prose, `na` is followed by a separate identifier token: `la-na Derek`, `lo-na Mira`, `he na Moses`. The reduced human-name form therefore keeps the protected identifier visually distinct even when a role-marker scopes over it.
 
@@ -774,7 +774,7 @@ ya, lo-ra-ki-mu de ti-de     →  attend: the engine has broken down.
 
 | Particle | Directed at | Effect |
 |----------|-------------|--------|
-| `he na-X` | a person (interpersonal) | summons / addresses the named entity |
+| `he na X` | a person (interpersonal) | summons / addresses the named entity |
 | `ya, {clause}` | a proposition (propositional) | directs attention toward the claim |
 
 `ya` does not assert the speaker's affect. `fa-be!` ("my affect rises") is an affective claim; `ya,` is a content-direction signal. Non-interchangeable.
@@ -1984,6 +1984,6 @@ la-si-su  ko  {la-Elohim  ne  go-no-fe}    →  The record contains: God is the 
 - [x] **Define passive / agentless clause structure (no agent present)** — resolved; four-form typology established: (1) non-intentional process `lo-P Q ti-de`, (2) intentional passive `lo-P ka-Q ti-de`, (3) emergence `lo-P be`, (4) instrument-present passive `ro-tool lo-P ka-Q ti-de`. `ka` does not require `la-`. See § Agentless and Passive Clauses; PAV-001 (S559–S568).
 - [x] ~~Causal framing (go/du pair) needs a grammar rule~~ — resolved; see § Causal Frame. `go {CAUSE-CLAUSE}  matrix-clause` is pre-clausal; SOV governs the matrix. Extended by `du`, `to-go`, `no-go` in the same frame family.
 - [x] ~~Parallel partition mark (`/`) — not in spec.~~ — Resolved; `/` admitted as the 9th notation mark, spoken form `vel` (G013); see § Bi-Clausal Parallel Construction and spec/phonology.md §/.
-- [x] **Vocative particle — no dedicated speech-act marker for direct address.** Resolved; `he` (G029) admitted CVP-001 (March 2026). `he na-X` is a vocative illocutionary act (a call); distinct from `na-X!` (exclamatory NP) and `la-na-X` (agent clause). See § Vocative Particle (`he`); registry/roots.md G029.
+- [x] **Vocative particle — no dedicated speech-act marker for direct address.** Resolved; `he` (G029) admitted CVP-001 (March 2026). `he na X` is a vocative illocutionary act (a call); distinct from `na X!` (exclamatory NP) and `la-na X` (agent clause). See § Vocative Particle (`he`); registry/roots.md G029.
 - [x] **Attention-signal particle — no dedicated pre-propositional attention marker.** Resolved; `ya` (G030) admitted CVP-001 (March 2026). `ya, {clause}` = attend to this; propositional, not interpersonal; no affect assertion; non-interchangeable with `he`. See § Attention-Signal Particle (`ya`); registry/roots.md G030.
 - [x] **Pivot particle — no marker for stale-denial discourse pivot.** Resolved; `ke` (G032) admitted DIP-001 (March 2026). `ke, {clause}` = implied denial + advancing affirmative claim; correct when denial is stale (information-freshness rule); `ke!` heated form; stacks as `ya, ke, {clause}`. Contrast: `no — {claim}` performs the denial explicitly (use when fresh). Three qualifying registers: DEB-001 S545, MED-001 S575, DIP-001 S585. See § Pivot Particle (`ke`); registry/roots.md G032.

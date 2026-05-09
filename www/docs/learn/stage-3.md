@@ -314,7 +314,7 @@ system. `~tonesu` = approximately truth = working conjecture.
 
 | Marker | Position | Function |
 |--------|----------|----------|
-| `he` | before name | vocative: `he na-re-ka!` = Re'ka! |
+| `he` | before name | vocative: `he na Re'ka!` = Re'ka! |
 | `ya,` | clause-initial | attention: attend to what follows |
 | `ke,` | clause-initial | pivot: prior claim denied (contextually), new claim advancing |
 | `ke!` | clause-initial | heated pivot |

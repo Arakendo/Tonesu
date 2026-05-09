@@ -144,9 +144,9 @@ Expressed by a relational particle between possessor and possessed. No morpholog
 Personal pronouns combine with the same particle:
 
 ```
-mi  poss  device           →  my device
-wi  poss  system           →  our system
-na-Derik  poss  tool       →  Derik's tool
+mi  poss  device          →  my device
+wi  poss  system          →  our system
+na Derik  poss  tool      →  Derik's tool
 ```
 
 ---

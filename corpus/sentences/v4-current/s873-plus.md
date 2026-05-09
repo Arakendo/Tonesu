@@ -1061,3 +1061,154 @@
 **Verdict:** irreducibly formal — the batch depends on legal-procedural distinctions whose structural separations are the point of the translation.
 
 *CLQ entries registered from this batch: none.*
+
+---
+
+## NAM-001 — Reduced Bare-Name Orthography (S916–S921)
+
+**Batch:** NAM-001  
+**Source:** naming-orthography stress test prompted by KAF-001 and KNM-001 precedent. Tests whether reduced bare-name NPs should keep the identifier as a separate token after `na` for human readability.  
+**Entries:** S916–S921 · **New vocabulary:** none
+
+**Key tests:**
+- `la-na Name` in agent position
+- `lo-na Name` in patient position
+- `ne-na Name` in relational/possessive position
+- reduced bare-name form inside an embedded clause
+- `he na Name` and bare `na Name!` contrast
+
+**Working claim:** The reduced bare-name form is easiest to parse when the role-marker scopes over `na`, while the protected identifier remains a separate token. That yields `la-na Derek`, `lo-na Derek`, `ne-na Derek`, `he na Derek`, rather than fused identifier notation like `la-na-Derek`.
+
+---
+
+### S916 — NAM-001-A
+
+**Source:** "Derek built the machine."
+
+**Tonesu:** `la-na Derek  ka-be  lo-mu`
+
+**Written:** `lana Derek kabe lomu`
+
+**Gloss:** agent-name Derek deliberate-build patient-machine
+
+**Natural reading:** Derek built the machine.
+
+**Notes:** First attestation of the reduced bare-name form in agent position with the identifier kept as a separate token. This is the KNM-001 pragmatic reduction made explicit as a live corpus sentence rather than a note: `la-` scopes over `na`, but `Derek` remains visually intact.
+
+---
+
+### S917 — NAM-001-B
+
+**Source:** "I saw Derek."
+
+**Tonesu:** `la-mi  se  lo-na Derek`
+
+**Written:** `lami se lona Derek`
+
+**Gloss:** agent-I perceive patient-name Derek
+
+**Natural reading:** I saw Derek.
+
+**Notes:** Patient position behaves the same way as agent position: `lo-na Derek` is readable as patient-scoped name phrase, and the identifier remains separate after `na`. This matters because the patient form is where fused written outputs like `lonaDerek` feel most visually misleading.
+
+---
+
+### S918 — NAM-001-C
+
+**Source:** "Mira saw Derek's machine."
+
+**Tonesu:** `la-na Mira  se  lo-mu  ne-na Derek`
+
+**Written:** `lana Mira se lomu nena Derek`
+
+**Gloss:** agent-name Mira perceive patient-machine relation-name Derek
+
+**Natural reading:** Mira saw Derek's machine.
+
+**Notes:** This extends the same orthography to relational/possessive `ne-na Derek`. The earlier Exodus material used the same structural role in fused notation (`ne-na-Yitro`); NAM-001 retests it in the spaced reduced form and confirms that the identifier remains easier to track as a separate token.
+
+---
+
+### S919 — NAM-001-D
+
+**Source:** "I know that Derek built the machine."
+
+**Tonesu:** `la-mi  to  [la-na Derek  ka-be  lo-mu]`
+
+**Written:** `lami to [lana Derek kabe lomu]`
+
+**Gloss:** agent-I know [agent-name Derek deliberate-build patient-machine]
+
+**Natural reading:** I know that Derek built the machine.
+
+**Notes:** Embedded-clause position does not create any new pressure. The reduced form remains clear under clause embedding: the boundary problem is visual, not grammatical, and the spaced identifier solves that visual pressure without requiring a new bracket type or role-marker redesign.
+
+---
+
+### S920 — NAM-001-E
+
+**Source:** "Derek, speak."
+
+**Tonesu:** `he  na Derek,  ka-si`
+
+**Written:** `he na Derek, kasi`
+
+**Gloss:** vocative name Derek deliberate-speak
+
+**Natural reading:** Derek, speak.
+
+**Notes:** Vocative position strongly favors the spaced identifier visually. `he na Derek` is immediately legible as direct address in a way that `he na-Derek` or `henaDerek` is not. This sentence confirms that the reader-facing argument for the spaced form is strongest in the speech-act frame, not only in ordinary predicate clauses.
+
+---
+
+### S921 — NAM-001-F
+
+**Source:** "Derek!"
+
+**Tonesu:** `na Derek!`
+
+**Written:** `na Derek!`
+
+**Gloss:** name Derek
+
+**Natural reading:** Derek!
+
+**Notes:** Bare exclamatory NP keeps the same convention: `na` introduces the identifier, but does not fuse with it. Together S920 and S921 reconfirm the CVP-001 distinction in the reader-friendly orthography: `he na Derek` is a vocative speech act, while `na Derek!` is the name uttered with force.
+
+---
+
+## NAM-001 Batch Summary
+
+**Entries:** S916–S921 · **New vocabulary:** none
+
+| Entry | Tonesu | Written form | Key feature |
+|-------|--------|-------------|-------------|
+| S916 (NAM-001-A) | `la-na Derek ka-be lo-mu` | `lana Derek kabe lomu` | Reduced bare-name agent form |
+| S917 (NAM-001-B) | `la-mi se lo-na Derek` | `lami se lona Derek` | Reduced bare-name patient form |
+| S918 (NAM-001-C) | `la-na Mira se lo-mu ne-na Derek` | `lana Mira se lomu nena Derek` | Reduced bare-name relational form |
+| S919 (NAM-001-D) | `la-mi to [la-na Derek ka-be lo-mu]` | `lami to [lana Derek kabe lomu]` | Embedded clause with reduced bare-name |
+| S920 (NAM-001-E) | `he na Derek, ka-si` | `he na Derek, kasi` | Vocative speech-act form |
+| S921 (NAM-001-F) | `na Derek!` | `na Derek!` | Bare exclamatory NP |
+
+**Key findings:**
+
+**Finding 1: the spaced identifier survives all tested roles.** Agent, patient, relation, embedded clause, vocative, and bare exclamatory NP all remain structurally clean with `na` followed by a separate identifier token.
+
+**Finding 2: the readability gain is real, not cosmetic.** The reduced forms `lana Derek`, `lona Derek`, and `nena Derek` remain visually segmentable, while fused forms like `lanaDerek` or `lonaDerek` obscure the protected-name boundary.
+
+**Finding 3: no new grammar device is needed.** The test pressure is orthographic and reader-facing, not structural. Existing grammar already handles the reduced bare-name NP; the corpus simply needed to make the spaced identifier convention explicit and cross-role.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `na Derek` | none | — | proper-name phrase — outside CLQ scope |
+| `la-na Derek` | none | — | grammatical scope + proper name — orthography test, not contraction target |
+| `lo-na Derek` | none | — | grammatical scope + proper name — orthography test, not contraction target |
+| `ne-na Derek` | none | — | relational scope + proper name — orthography test, not contraction target |
+
+**Verdict:** irreducibly formal — this batch tests reader-facing orthography and NP-boundary salience, not colloquial compression.
+
+*CLQ entries registered from this batch: none.*

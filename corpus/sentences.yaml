@@ -17508,3 +17508,106 @@ sentences:
     inquiry. The pair shows why Kafka''s opening feels structurally oppressive: the
     person is already inside the machinery of judgment before the content of the supposed
     fault becomes available.'
+- snum: S916
+  gloss: Derek built the machine.
+  batch: NAM-001
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: agent-name Derek deliberate-build patient-machine
+  natural: Derek built the machine.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S916
+  notes: 'First attestation of the reduced bare-name form in agent position with the
+    identifier kept as a separate token. This is the KNM-001 pragmatic reduction made
+    explicit as a live corpus sentence rather than a note: `la-` scopes over `na`,
+    but `Derek` remains visually intact.'
+- snum: S917
+  gloss: I saw Derek.
+  batch: NAM-001
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: agent-I perceive patient-name Derek
+  natural: I saw Derek.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S917
+  notes: 'Patient position behaves the same way as agent position: `lo-na Derek` is
+    readable as patient-scoped name phrase, and the identifier remains separate after
+    `na`. This matters because the patient form is where fused written outputs like
+    `lonaDerek` feel most visually misleading.'
+- snum: S918
+  gloss: Mira saw Derek's machine.
+  batch: NAM-001
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: agent-name Mira perceive patient-machine relation-name Derek
+  natural: Mira saw Derek's machine.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S918
+  notes: This extends the same orthography to relational/possessive `ne-na Derek`.
+    The earlier Exodus material used the same structural role in fused notation (`ne-na-Yitro`);
+    NAM-001 retests it in the spaced reduced form and confirms that the identifier
+    remains easier to track as a separate token.
+- snum: S919
+  gloss: I know that Derek built the machine.
+  batch: NAM-001
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: agent-I know [agent-name Derek deliberate-build patient-machine]
+  natural: I know that Derek built the machine.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S919
+  notes: 'Embedded-clause position does not create any new pressure. The reduced form
+    remains clear under clause embedding: the boundary problem is visual, not grammatical,
+    and the spaced identifier solves that visual pressure without requiring a new
+    bracket type or role-marker redesign.'
+- snum: S920
+  gloss: Derek, speak.
+  batch: NAM-001
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: vocative name Derek deliberate-speak
+  natural: Derek, speak.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S920
+  notes: Vocative position strongly favors the spaced identifier visually. `he na
+    Derek` is immediately legible as direct address in a way that `he na-Derek` or
+    `henaDerek` is not. This sentence confirms that the reader-facing argument for
+    the spaced form is strongest in the speech-act frame, not only in ordinary predicate
+    clauses.
+- snum: S921
+  gloss: Derek!
+  batch: NAM-001
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: name Derek
+  natural: Derek!
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S921
+  notes: 'Bare exclamatory NP keeps the same convention: `na` introduces the identifier,
+    but does not fuse with it. Together S920 and S921 reconfirm the CVP-001 distinction
+    in the reader-friendly orthography: `he na Derek` is a vocative speech act, while
+    `na Derek!` is the name uttered with force.'

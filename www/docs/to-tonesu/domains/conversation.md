@@ -30,7 +30,7 @@ Formal sentences are the easy case. Casual conversation is where vocabulary gaps
 |-------|--------------|
 | `fa-CON` | Affect registration across conversation (anger, grief, rising concern) |
 | `C001`–`C008` | Eight full conversations covering coordination, dispute, social, theological, legal contexts |
-| `CVP-001` | Vocative and direct address — `he na-Moses!` |
+| `CVP-001` | Vocative and direct address — `he na Moses!` |
 | `ODL-001` | Embodied states — hunger, fatigue — the most everyday of needs |
 
 ---

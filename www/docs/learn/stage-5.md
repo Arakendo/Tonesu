@@ -52,7 +52,7 @@ different register.
     knowledge = *scholar*. The V-prefix `a-` shifts the entire compound to the
     universal/abstract register: `a-to-li` = universal-(knowledge-person) = sage.
 
-    Corpus: S511 — `la-na-Laozi ne a-to-li` = "Laozi was a sage."
+    Corpus: S511 — `la-na Laozi ne a-to-li` = "Laozi was a sage."
 
     The prefix does not add a root — it re-registers the compound. The difference is
     categorical, not quantitative: a sage is not a better scholar; they inhabit a
@@ -149,12 +149,12 @@ boundary) · `a-fe` (limit as such, the abstract category of bounding).
 structural rather than surface-observable.
 
 ```
-la-na-Laozi  u-to  lo-su-no-fe
+la-na Laozi  u-to  lo-su-no-fe
 ```
 *Laozi had interior knowing of the boundless Way.*  (S507)
 
 `u-to` = interior knowing — the mode of engagement that is not assertable as a
-proposition. Not `la-na-Laozi to {…}` (I hold-as-known: …) but the prior,
+proposition. Not `la-na Laozi to {…}` (I hold-as-known: …) but the prior,
 wordless orientation. `to` (knowledge), `to-su` (organized system), and `u-to`
 (the tacit, foundational mode of knowing) occupy three distinct levels.
 
@@ -274,7 +274,7 @@ don't share the vowel of `la-` and are safe everywhere.
     `u-to` is the mode of knowing that does not surface as a held proposition —
     the philosopher *has* this knowing, but it precedes any `la-mi to {…}` claim.
 
-    Corpus: S507 — `la-na-Laozi  u-to  lo-su-no-fe` = "Laozi had interior knowing
+    Corpus: S507 — `la-na Laozi  u-to  lo-su-no-fe` = "Laozi had interior knowing
     of the boundless Way." This is precisely the pre-discursive orientation Laozi
     describes: the insight that the nameable Way is not the eternal Way is itself
     wordless.

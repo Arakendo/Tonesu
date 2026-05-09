@@ -1112,3 +1112,8 @@ batches:
   theme: Foundations
   range: S913–S915
   count: 3
+- code: NAM-001
+  title: Reduced Bare-Name Orthography
+  theme: Foundations
+  range: S916–S921
+  count: 6

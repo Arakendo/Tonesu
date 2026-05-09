@@ -106,6 +106,8 @@ lo-na Derek
 
 The hyphen in `la-na Derek` is the ordinary analytic boundary between the role-marker and `na`; the identifier following `na` is not fused into the same written token. This preserves the NP boundary and keeps the protected identifier visually intact.
 
+**Legacy note:** older corpus and translation material may still show fused identifier notation such as `na-Derek` or `la-na-Derek`. Treat those as grandfathered legacy notation, not as the forward-looking editorial target. New spec prose, new website-facing prose, and new corpus entries should use the spaced identifier form (`na Derek`, `la-na Derek`, `lo-na Derek`, `he na Derek`).
+
 **Correct:**
 ```
 title-engineer na Derek
