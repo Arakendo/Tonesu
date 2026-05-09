@@ -3135,6 +3135,19 @@
         "wi",
         "no"
       ]
+    },
+    {
+      "wnum": "W232",
+      "form": "si-de-vo",
+      "written": "sidevo",
+      "gloss": "ridicule; signal of value-decrease; public marking of target as worthless",
+      "status": "active",
+      "domain": "Rhetoric / Social / Ethics",
+      "roots": [
+        "si",
+        "de",
+        "vo"
+      ]
     }
   ]
 }
