@@ -21,6 +21,31 @@ Consolidated list of unresolved design decisions from across all spec and regist
 - [x] ~~Replace `plu` (three-letter root) with a CVC-compliant form.~~ → replaced with `pu`.
 - [x] ~~**Phonological status of apostrophe grouping marker `'` — prerequisite for spec adoption.**~~ → **Resolved: option (b) prosodic juncture.** `'` is a suprasegmental boundary feature, not a segmental phoneme. Principle 1 (one symbol/one sound) scoped to segmental phonology; `'` is governed as a prosodic marker in a separate phonology.md section. No consonant inventory change. First corpus attestation S045 (T-APO-001). Full definition in spec/phonology.md § Prosodic Juncture Marker.
 - [ ] **`~` mode disambiguation — epistemic vs structural.** `~` now covers two distinct imprecision modes: (1) *epistemic* — speaker uncertainty ("approximately X"); (2) *structural* — source-system strategic vagueness ("X is intentionally under-defined by the originating system"). In most contexts the mode is recoverable from domain and register. Open question: are there constructions where the two modes are genuinely ambiguous and produce different truth conditions? If so, does `~` need an explicit mode marker, or is `[]` annotation always sufficient? First identified: CDA-001 / ACA batch planning (March 2026). Currently held: context-recoverable; `[]` annotation available when required. See spec/phonology.md § `~` Approximation Mark.
+- [ ] **OQ-VPR-001: V-prefix reification pattern — `V'compound` vs `V-compound`; double-V admission.** **Provisional ruling: allowed.** **First identified: ORD-001 post-batch conversation (May 2026).**
+
+  **Background:** When a V-prefix (`a- i- u- o- e-`) attaches to a compound via juncture `'`, the semantic function may differ from plain compositional V-prefix scoping:
+  - `a-su-li` — `a-` scopes compositionally over the parsed compound: abstract/universal ordinary-person.
+  - `a'suli` — `'` crystallizes `suli` as a pre-stabilized semantic unit; `a-` scopes over that crystallized whole: *the abstraction of suli as a concept or ideological object*.
+
+  This is analogous to a use/mention distinction applied to compounds: `a-X` uses the compound; `a'X` partially reifies it — treating it as a lexical object to be abstracted over. The `'` functions as a **semantic crystallization boundary**, not just a disambiguation device.
+
+  **Table of V-prefix reification forms (productive pattern):**
+
+  | Form | Reading |
+  |------|---------|
+  | `a'[compound]` | the concept/ideology/abstraction of [compound]-as-object |
+  | `i'[compound]` | this particular instance of [compound]-as-identified-unit |
+  | `o'[compound]` | [compound]-kind as a collectively distributed phenomenon |
+  | `u'[compound]` | the interior/tacit form of [compound]-as-unit |
+  | `e'[compound]` | [compound]-as-unit in its emergent/forming state |
+
+  **Double-V phonological question:** When the compound already begins with a V-prefix (e.g. `arufeli` = `a-rufe-li`), the reification form would be `a'arufeli` — two consecutive V-initial segments separated by `'`. Parse invariant 1 says internal syllables begin with a consonant; but `'` creates a structural boundary, making the following segment sub-unit-initial rather than mid-compound.
+
+  **Provisional ruling (admitted):** Allow `V'V-compound` forms. The `'` boundary creates sufficient structural separation that the following V-segment is sub-unit-initial in its crystallized frame, not an internal syllable of the outer word. The parse remains unambiguous: left of `'` is the V-prefix; right of `'` is the pre-bound compound, which may itself carry its own V-prefix. No lookahead required. Example: `a'arufeli` = `a-[a-rufe-li]`. Invariant 1 is not violated — "internal syllable" is scoped to within a phonological unit; `'` ends that unit.
+
+  **Utility:** `V'compound` enables typed-semantic-grouping-like expressiveness — the kind of precision Tonesu needs as corpus grows into philosophical, political, and scientific territory requiring reification of compound-categories as discourse objects. The `a'X` / `a-X` distinction is genuinely useful and consistent with existing `'` machinery.
+
+  **Status:** Open — no corpus attestation of `V'V-compound` yet. Reification of consonant-initial compounds (`a'suli`, etc.) is admitted under existing rules without requiring this ruling. The `V'V` case remains marked but not blocked; require corpus attestation before closing.
 - [x] ~~**`[]` as analytic display markup for grammatically essential constituents — emergent use vs spec.**~~ → **Resolved (March 2026).** The spec's removal-invariance rule is scoped to written Tonesu prose; it does not apply to metalinguistic and corpus notation contexts. In corpus notation `[]` formally serves as a clausal-scope display bracket for grammatically essential constituents (complement clauses, object clauses, negation scope, relative clauses). Register makes the mode unambiguous: in corpus notation every token is a morpheme, so `[]` is visibly structural; in Tonesu prose the aside reading is default. No ambiguity case is possible — the two contexts are mutually exclusive. The `Written:` stripping convention already encodes the policy mechanically, and the `-` morpheme boundary mark is the exact structural precedent (same dual-register split, already specced). Added to spec/phonology.md § `[]` — Aside / Commentary Frame as the **Corpus notation use** paragraph.
 
 ---
