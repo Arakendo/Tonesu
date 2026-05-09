@@ -126,7 +126,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `ka` — intentional action
 
-14 compounds
+15 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -144,6 +144,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `ka-si-de` · kaside | [W224](words/W224.md) | ✅ | deliberate deception; strategic misdirection; intentional signal-corruption <br><small>[S702](../../totonesu/corpus/batches/aow/index.md#S702) · [S709](../../totonesu/corpus/batches/map/index.md#S709) · [S711](../../totonesu/corpus/batches/map/index.md#S711) · [S713](../../totonesu/corpus/batches/map/index.md#S713)</small> |
 | `ka-to-fe` · katofe | [W122](words/W122.md) | ✅ | judge, deliberate epistemic bounding <br><small>[S368](../../totonesu/corpus/batches/fal/index.md#S368) · [S641](../../totonesu/corpus/batches/cda/index.md#S641) · [S643](../../totonesu/corpus/batches/cda/index.md#S643) · [S644](../../totonesu/corpus/batches/cda/index.md#S644) · [S649](../../totonesu/corpus/batches/aca/index.md#S649)</small> |
 | `ka-vo-si` · kavosi | [W168](words/W168.md) | ✅ | thanksgiving / blessing, deliberate value-signal <br><small>[S426](../../totonesu/corpus/batches/lsp/index.md#S426) · [S429](../../totonesu/corpus/batches/lsp/index.md#S429)</small> |
+| `o-ka-su` · okasu | [W233](words/W233.md) | ✅ | collective-governance-structure; the Party; state apparatus |
 
 ## `ki` — motion
 

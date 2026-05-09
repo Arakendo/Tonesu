@@ -15307,3 +15307,273 @@ sentences:
     are co-present, not contradictory. Distinguished from S803''s `/` (antithetical:
     not-X / is-Y) by the fact that both arms here are positively affirmed as simultaneously
     true descriptions of the same situation.'
+- snum: S813
+  gloss: War is [functionally] Peace. Freedom is [functionally] Slavery. Ignorance
+    is [functionally] Strength.
+  batch: ORW-001
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: combat is-functionally no-combat ; unbounded-will is-functionally no-will
+    ; no-knowledge is-functionally force
+  natural: War is [functionally] Peace. Freedom is [functionally] Slavery. Ignorance
+    is [functionally] Strength.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S813
+  notes: Three `;`-chained `helm` (functional-equivalence) assertions — not `ne` (property)
+    or `helms` (strict identity). The Party slogans claim these pairs are *functionally
+    the same* under Party-created conditions. `helm` = the explanatory/functional
+    reading. First political use of `helm` as coercive-functional-equivalence predicate.
+    `wi-no-fe` = `wi` (will) + `no` (negation) + `fe` (limiting boundary) = will-without-limiting-boundary
+    = unbounded will = freedom; first non-theological use of the `[X]-no-fe` extremal
+    pattern. `no-wi` = absence of will = servitude. `no-to` = absence of knowledge
+    = ignorance. `ra` = force/energy (primitive) = strength.
+- snum: S814
+  gloss: The Party is watching you.
+  batch: ORW-001
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: the collective-governance-structure inspects the other
+  natural: The Party is watching you.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S814
+  notes: '`o-ka-su` (W233) = `o-` (collective scope prefix) + `ka` (governance/action)
+    + `su` (structure) = collective-governance-structure = the Party / state apparatus
+    as institutional body; first use; W-entry registered. `la-o-ka-su` = Party as
+    `la-`-marked agent. `se-ka` (W034) = deliberate inspection/watching. `lo-ze` =
+    patient: the other / you. The asymmetry of collective-governing-structure (`o-ka-su`)
+    watching the individual other (`ze`) is structurally encoded in the agent/patient
+    marking.'
+- snum: S815
+  gloss: Doublethink is by definition the directed power to deliberately hold knowledge
+    of [order] and of [not-order] simultaneously.
+  batch: ORW-001
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: deliberate-dual-knowing is-by-definition directed-power toward deliberately
+    knowing {order ; not-order}
+  natural: Doublethink is by definition the directed power to deliberately hold knowledge
+    of [order] and of [not-order] simultaneously.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S815
+  notes: '`ka-nu-to` = `ka` (deliberate) + `nu` (numeric/dual) + `to` (knowledge)
+    = deliberate dual-knowing = doublethink; first use. `helms` (strict definitional
+    identity) = correct: Orwell gives a structural definition. `wi-ra` = directed
+    power — what doublethink *is*, not merely produces. `lo-ka to {su ; no-su}` =
+    toward deliberately knowing {structure/order ; not-structure/not-order}. The `{}`
+    holds the simultaneous contradiction; `;` inside marks the two components as co-present
+    in the knowing-act.'
+- snum: S816
+  gloss: From control of the past comes control of the future. From control of the
+    present comes control of the past.
+  batch: ORW-001
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: from [directed-power over past-time] → directed-power over proximate-future
+    / from [directed-power over current-state] → directed-power over past-time
+  natural: From control of the past comes control of the future. From control of the
+    present comes control of the past.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S816
+  notes: '`ti-de` (W041) = past time. `ti-be` (W040) = morning/proximate future; used
+    here for "the future" — the proximate-future reading: Orwell''s claim is about
+    the *next* state that past-control generates. `su-ti` (W101) = current state.
+    Two `go {}` causal claims linked by `/` (constitutive pair: both halves together
+    define the full temporal-control thesis). The two arms mirror each other: `ti-de`
+    appears in both, once as the origin''s patient and once as the result''s patient
+    — a closed loop.'
+- snum: S817
+  gloss: Freedom is the right to signal what is true.
+  batch: ORW-001
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: unbounded-will has-property right-to-signal true-knowledge
+  natural: Freedom is the right to signal what is true.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S817
+  notes: '`wi-no-fe` = freedom (second use; `[wi]-no-fe` extremal; see S813). `ne`
+    = property attribution (freedom *has* this property; not a `helms` definition
+    or `helm` functional claim). `wi-fe lo-si-ki to-ne-su` = the right to signal true-knowledge.
+    The specific instance Orwell gives ("2+2=4") is an assertion of observable mathematical
+    truth against Party-imposed false claims; the abstract form captures the structural
+    point. Connects to MAO S811: where Mao *derives* absence of speaking-right from
+    absent investigation, Orwell asserts that `wi-fe lo-si-ki to-ne-su` is what freedom
+    structurally *is*.'
+- snum: S818
+  gloss: It is not that forbidden thought causes death — forbidden thought IS death.
+  batch: ORW-001
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: 'not from [thought-without-right] → death / pivot: thought-without-right
+    is-by-definition death'
+  natural: It is not that forbidden thought causes death — forbidden thought IS death.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S818
+  notes: '`to-no-wi-fe` = `to` (knowledge/thought) + `no` (negation) + `wi-fe` (W100,
+    right/rule) = thought-without-right = thoughtcrime; first use. Left arm denies
+    the causal claim (`no go {}` frame). Right arm asserts strict identity (`ke, ...
+    helms`). **Third use of `ke,` inside `/`**: JBP S796 (ethical), MAO S807 (political-military),
+    ORW S818 (epistemic-political). Cross-register pattern confirmed in three domains.
+    The `/` here is appearance/reality divergence (MAO S802 pattern): appearance =
+    thoughtcrime causes death (mere `go {}` causation); reality = thoughtcrime IS
+    death (`helms` identity).'
+- snum: S819
+  gloss: The Party's will is directed exclusively toward power itself.
+  batch: ORW-001
+  batch_sub: G
+  status: normative
+  tonesu: ''
+  gloss_line: 'solely: the collective-governance-structure directs-will toward directed-power'
+  natural: The Party's will is directed exclusively toward power itself.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S819
+  notes: '`ru-fe,` = exclusive scope (clause-initial). `la-o-ka-su` = Party as agent.
+    `wi-ra` = directed will (the Party wills). `lo-wi-ra` = patient: power itself.
+    The recursion: the Party''s `wi-ra` (directed will) is directed toward `wi-ra`
+    (power) as its own patient. `ru-fe,` marks the exclusivity of the purpose — no
+    other object. `ru-fe,` in exclusive-purpose role (fourth use; previous: EXC-001,
+    DOI-001, MAO S806 exclusive-agency; this is exclusive-purpose/telos). Structural
+    ground for S820.'
+- snum: S820
+  gloss: Directed power is not an instrument; it is an end.
+  batch: ORW-001
+  batch_sub: H
+  status: normative
+  tonesu: ''
+  gloss_line: directed-power has-property not-[deliberate-instrument] / has-property
+    [deliberate-result]
+  natural: Directed power is not an instrument; it is an end.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S820
+  notes: '`ka-mu` (W047) = deliberate-change instrument = means/tool. `ne no ka-mu`
+    = is not a means. `ka-du` = `ka` (deliberate action) + `du` (result root, as in
+    `wi-du` W175) = deliberate result = end/goal; first use. `ne ka-du` = is an end.
+    The `/` is antithetical (not-X / is-Y; same pattern as MAO S803): what power is
+    *not* / what power *is*. S820 gives the structural grounding for S819''s exclusive-scope
+    claim.'
+- snum: S821
+  gloss: From lack of consciousness, never revolt. From lack of revolt, never become
+    conscious.
+  batch: ORW-001
+  batch_sub: I
+  status: normative
+  tonesu: ''
+  gloss_line: from [not growing-in-organized-knowledge] → never revolt / from [not
+    revolting] → never grow-in-organized-knowledge
+  natural: From lack of consciousness, never revolt. From lack of revolt, never become
+    conscious.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S821
+  notes: '`be-to-su` = `be` (growth) + `to-su` (W030, organized knowledge) = growth-in-organized-knowledge
+    = becoming conscious; first use. `ka-ne-su` = `ka` (deliberate action) + `ne-su`
+    (W031, network/structure) = deliberate action against structure = revolt; first
+    use. `no-ti` = `no` (negation) + `ti` (time primitive) = at no time = never; distinct
+    from `ti-no-fe` (temporal extremal = eternal/boundless time); first use. **Proposed
+    fifth distinct `/` function: circular impossibility / mutual blocking.** Two mirrored
+    `go {}` claims where the premise of each is the negation of the result of the
+    other — a closed loop. Previous `/` functions: (1) constitutive pair (ALI S777),
+    (2) negated choice (JBP S792), (3) co-presence (JBP S800), (4) appearance/reality
+    divergence (MAO S802). S821 holds the closed trap as formally paired without asserting
+    any resolution.'
+- snum: S822
+  gloss: 'Orthodoxy is by definition: not deliberate thought; and not requiring deliberate
+    thought.'
+  batch: ORW-001
+  batch_sub: J
+  status: normative
+  tonesu: ''
+  gloss_line: organized-knowledge is-by-definition not-deliberate-thinking ; not structurally-requiring
+    deliberate-thinking
+  natural: 'Orthodoxy is by definition: not deliberate thought; and not requiring
+    deliberate thought.'
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S822
+  notes: '`to-su` (W030) = organized knowledge / doctrine = orthodoxy. `helms` = correct:
+    Syme gives a structural definition. `no ka-to` = not deliberate thinking (`ka`
+    + `to` = deliberate cognitive act). `no ne-fe lo-ka-to` = not structurally requiring
+    deliberate thinking. `helms` governs the full `;`-chained definition: both components
+    together are what orthodoxy *is*. Cross-reference: S822 and S815 both use `helms`
+    + `;`-chained structure — doublethink defines what you *must* know; orthodoxy
+    defines what you need not think.'
+- snum: S823
+  gloss: From wanting to keep a secret comes the structural requirement to deliberately
+    not-know it yourself.
+  batch: ORW-001
+  batch_sub: K
+  status: normative
+  tonesu: ''
+  gloss_line: 'from [willing toward unsignaled-knowledge] → structurally-required:
+    deliberate-not-knowing from/of oneself'
+  natural: From wanting to keep a secret comes the structural requirement to deliberately
+    not-know it yourself.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S823
+  notes: '`to-no-si` = `to` (knowledge) + `no` (negation) + `si` (signal) = unsignaled-knowledge
+    = secret; first use. `wi lo-to-no-si` = willing secrecy. The `go {}` makes this
+    structural: wanting secrecy *causes* the structural requirement. `ka-no-to` =
+    deliberate not-knowing = willful suppression of one''s own knowledge. `lo-mi`
+    = from/of oneself (reflexive). S823 is the practical instantiation of S815 (doublethink):
+    keeping a secret from others structurally requires keeping it from yourself —
+    the `ne-fe ka-no-to lo-mi` is the causal grounding for why S815''s `ka-nu-to`
+    is a `wi-ra` (directed power) rather than a mere capacity.'
+- snum: S824
+  gloss: There shall be meeting within the place of signal [the illuminated, surveilled
+    place].
+  batch: ORW-001
+  batch_sub: L
+  status: normative
+  tonesu: ''
+  gloss_line: intentional-exchange within [the signal-place]
+  natural: There shall be meeting within the place of signal [the illuminated, surveilled
+    place].
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S824
+  notes: '`zi-ka` (W105) = intentional exchange event = meeting. `ko {}` = containment/within.
+    `pa-si` = `pa` (place) + `si` (signal) = signal-place = the place where signal
+    is total = the surveilled/illuminated place; first use. The Tonesu reading is
+    ironic in the same way as Orwell''s: O''Brien promises "no darkness" — in `pa-si`,
+    there is no absence of signal = no privacy = no hiding. The "light" is total observation.
+    Agentless `zi-ka` (no `la-` phrase) gives the meeting the quality of structural
+    inevitability — not caused by any specific will but inherent in the `pa-si` structure
+    itself. The `ko {}` containment marks the meeting as enclosed and inescapable.'

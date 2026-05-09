@@ -3148,6 +3148,18 @@
         "de",
         "vo"
       ]
+    },
+    {
+      "wnum": "W233",
+      "form": "o-ka-su",
+      "written": "okasu",
+      "gloss": "collective-governance-structure; the Party; state apparatus",
+      "status": "active",
+      "domain": "Politics / Governance",
+      "roots": [
+        "ka",
+        "su"
+      ]
     }
   ]
 }

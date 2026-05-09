@@ -4,7 +4,7 @@ title: Word Registry
 
 # Word Registry
 
-217 derived compounds, sorted alphabetically.
+218 derived compounds, sorted alphabetically.
 
 See also: [English index](english.md) · [By domain](by-domain.md) · [By root](by-root.md) · [Building words](../words.md)
 
@@ -91,6 +91,7 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `no-ne-fe` · nonefe | [W075](words/W075.md) | ✅ | absence of dependency / no link <br><small>[C006-B2](../../totonesu/corpus/conversations/overview.md#C006-B2) · [C006-B3](../../totonesu/corpus/conversations/overview.md#C006-B3) · [S063](../../totonesu/corpus/batches/t-prm/index.md#S063) · [S637](../../totonesu/corpus/batches/doi/index.md#S637)</small> |
 | `no-su'ma` · nosu'ma | [W115](words/W115.md) | ⏳ | gas (material state) |
 | `nu-se` · nuse | [W102](words/W102.md) | ✅ | measurement, quantitative detection <br><small>[S187](../../totonesu/corpus/batches/pms/index.md#S187)</small> |
+| `o-ka-su` · okasu | [W233](words/W233.md) | ✅ | collective-governance-structure; the Party; state apparatus |
 | `pa-be'ka-li-su` · pabe'kalisu | [W125](words/W125.md) | ✅ | kingdom of heaven, upper-space governance |
 | `pa-be-ki` · pabeki | [W181](words/W181.md) | ✅ | conjuration; spatial-emergence-change; magic of making things emerge into new places <br><small>[S601](../../totonesu/corpus/batches/dnd/index.md#S601)</small> |
 | `pa-di` · padi | [W229](words/W229.md) | ✅ | dimension; spatial direction; independent axis of extension <br><small>[S213](../../totonesu/corpus/batches/odl/index.md#S213) · [S214](../../totonesu/corpus/batches/odl/index.md#S214) · [S239](../../totonesu/corpus/batches/num/index.md#S239) · [S727](../../totonesu/corpus/batches/str/index.md#S727) · [S728](../../totonesu/corpus/batches/str/index.md#S728)</small> |

@@ -559,6 +559,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 |------|----|--------|-------|
 | `ra-su-li` · rasuli | [W225](words/W225.md) | ✅ | sovereign; commander; ruler who commands organized force <br><small>[S709](../../totonesu/corpus/batches/map/index.md#S709)</small> |
 
+## Politics / Governance
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `o-ka-su` · okasu | [W233](words/W233.md) | ✅ | collective-governance-structure; the Party; state apparatus |
+
 ## Rhetoric / Social
 
 1 compound
@@ -607,6 +615,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `wi-vo-li` · wivoli | [W211](words/W211.md) | ✅ | paladin / oath-champion <br><small>[S656](../../totonesu/corpus/batches/dnd/index.md#S656)</small> |
 | `zo-ki-li` · zokili | [W212](words/W212.md) | ✅ | ranger / wilderness guide <br><small>[S657](../../totonesu/corpus/batches/dnd/index.md#S657)</small> |
 | `zo-re-li` · zoreli | [W210](words/W210.md) | ✅ | druid / nature-cycle practitioner <br><small>[S655](../../totonesu/corpus/batches/dnd/index.md#S655)</small> |
+
+## Structures / Institutions
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `o-ka-su` · okasu | [W233](words/W233.md) | ✅ | collective-governance-structure; the Party; state apparatus |
 
 ---
 

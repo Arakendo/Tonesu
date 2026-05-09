@@ -2387,3 +2387,18 @@ Related:       si (primitive: signal/representation), de-vo (W121: evil/value-di
 ```
 
 ---
+
+**W233**
+```
+Form:          o-ka-su
+Type:          compound
+Class:         institution / structure
+Definition:    o- (collective scope prefix) + ka (deliberate governance/action) + su (structure) = the collectively-organized governance structure = the Party, the state apparatus, or any collective governing body. Distinct from ka-li-su (W147, governance as an activity or system); o-ka-su refers to the institutional body that performs collective governance. The o- prefix marks the collective character of the institution — it is not a single ruler but a collective-structural entity. Agent-marked as la-o-ka-su in sentence-initial position.
+Register:      standard
+Domain:        Politics / Governance
+Status:        ✅ active
+First use:     ORW-001-B (S814): la-o-ka-su se-ka lo-ze — "Big Brother is watching you." (Orwell, Nineteen Eighty-Four)
+Related:       ka-li-su (W147: governance/dominion — activity form), o-li (collective persons — the governed), wi-ra (W177: directed power — what o-ka-su wields), ra-su-li (W225: sovereign — individual ruler, distinct from collective institution)
+```
+
+---

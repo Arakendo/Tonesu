@@ -5243,3 +5243,249 @@ Contrast with S753: S753 = crowd misperception wrapped in `si`; S754 = the under
 **Verdict:** irreducibly formal — all registered compounds below threshold, compositional first uses deferred, causal operators load-bearing.
 
 *CLQ entries registered from this batch: none.*
+
+---
+
+## ORW-001 — George Orwell, *Nineteen Eighty-Four* (S813–S824)
+
+### S813 — ORW-001-A
+
+**Source:** "War is Peace. Freedom is Slavery. Ignorance is Strength." — The three Party slogans; *Nineteen Eighty-Four*, Part One, Chapter 1.
+
+**Notation:** `ka-ra  helm  no-ka-ra  ;  wi-no-fe  helm  no-wi  ;  no-to  helm  ra`
+
+**Written:** `kara helm nokara ; winofe helm nowi ; noto helm ra`
+
+**Gloss:** combat is-functionally no-combat ; unbounded-will is-functionally no-will ; no-knowledge is-functionally force
+
+**Natural reading:** War is [functionally] Peace. Freedom is [functionally] Slavery. Ignorance is [functionally] Strength.
+
+**Notes:** Three `;`-chained `helm` (functional-equivalence) assertions — not `ne` (property) or `helms` (strict identity). The Party slogans claim these pairs are *functionally the same* under Party-created conditions. `helm` = the explanatory/functional reading. First political use of `helm` as coercive-functional-equivalence predicate. `wi-no-fe` = `wi` (will) + `no` (negation) + `fe` (limiting boundary) = will-without-limiting-boundary = unbounded will = freedom; first non-theological use of the `[X]-no-fe` extremal pattern. `no-wi` = absence of will = servitude. `no-to` = absence of knowledge = ignorance. `ra` = force/energy (primitive) = strength.
+
+---
+
+### S814 — ORW-001-B
+
+**Source:** "Big Brother is watching you." — *Nineteen Eighty-Four*, Part One, Chapter 1 (poster caption).
+
+**Notation:** `la-o-ka-su  se-ka  lo-ze`
+
+**Written:** `laokasu seka loze`
+
+**Gloss:** the collective-governance-structure inspects the other
+
+**Natural reading:** The Party is watching you.
+
+**Notes:** `o-ka-su` (W233) = `o-` (collective scope prefix) + `ka` (governance/action) + `su` (structure) = collective-governance-structure = the Party / state apparatus as institutional body; first use; W-entry registered. `la-o-ka-su` = Party as `la-`-marked agent. `se-ka` (W034) = deliberate inspection/watching. `lo-ze` = patient: the other / you. The asymmetry of collective-governing-structure (`o-ka-su`) watching the individual other (`ze`) is structurally encoded in the agent/patient marking.
+
+---
+
+### S815 — ORW-001-C
+
+**Source:** "Doublethink means the power of holding two contradictory beliefs in one's mind simultaneously, and accepting both of them." — *Nineteen Eighty-Four*, Part One, Chapter 3.
+
+**Notation:** `ka-nu-to  helms  wi-ra  lo-ka  to {su  ;  no-su}`
+
+**Written:** `kanutu helms wira loka to {su ; nosu}`
+
+**Gloss:** deliberate-dual-knowing is-by-definition directed-power toward deliberately knowing {order ; not-order}
+
+**Natural reading:** Doublethink is by definition the directed power to deliberately hold knowledge of [order] and of [not-order] simultaneously.
+
+**Notes:** `ka-nu-to` = `ka` (deliberate) + `nu` (numeric/dual) + `to` (knowledge) = deliberate dual-knowing = doublethink; first use. `helms` (strict definitional identity) = correct: Orwell gives a structural definition. `wi-ra` = directed power — what doublethink *is*, not merely produces. `lo-ka to {su ; no-su}` = toward deliberately knowing {structure/order ; not-structure/not-order}. The `{}` holds the simultaneous contradiction; `;` inside marks the two components as co-present in the knowing-act.
+
+---
+
+### S816 — ORW-001-D
+
+**Source:** "Who controls the past controls the future. Who controls the present controls the past." — *Nineteen Eighty-Four*, Party slogan; Part One, Chapter 3.
+
+**Notation:** `go {wi-ra  lo-ti-de},  wi-ra  lo-ti-be  /  go {wi-ra  lo-su-ti},  wi-ra  lo-ti-de`
+
+**Written:** `go {wira lotide}, wira lotibe / go {wira losuti}, wira lotide`
+
+**Gloss:** from [directed-power over past-time] → directed-power over proximate-future / from [directed-power over current-state] → directed-power over past-time
+
+**Natural reading:** From control of the past comes control of the future. From control of the present comes control of the past.
+
+**Notes:** `ti-de` (W041) = past time. `ti-be` (W040) = morning/proximate future; used here for "the future" — the proximate-future reading: Orwell's claim is about the *next* state that past-control generates. `su-ti` (W101) = current state. Two `go {}` causal claims linked by `/` (constitutive pair: both halves together define the full temporal-control thesis). The two arms mirror each other: `ti-de` appears in both, once as the origin's patient and once as the result's patient — a closed loop.
+
+---
+
+### S817 — ORW-001-E
+
+**Source:** "Freedom is the freedom to say that two plus two make four." — *Nineteen Eighty-Four*, Part One, Chapter 7 (Winston's diary).
+
+**Notation:** `wi-no-fe  ne  wi-fe  lo-si-ki  to-ne-su`
+
+**Written:** `winofe ne wife losiki tonesu`
+
+**Gloss:** unbounded-will has-property right-to-signal true-knowledge
+
+**Natural reading:** Freedom is the right to signal what is true.
+
+**Notes:** `wi-no-fe` = freedom (second use; `[wi]-no-fe` extremal; see S813). `ne` = property attribution (freedom *has* this property; not a `helms` definition or `helm` functional claim). `wi-fe lo-si-ki to-ne-su` = the right to signal true-knowledge. The specific instance Orwell gives ("2+2=4") is an assertion of observable mathematical truth against Party-imposed false claims; the abstract form captures the structural point. Connects to MAO S811: where Mao *derives* absence of speaking-right from absent investigation, Orwell asserts that `wi-fe lo-si-ki to-ne-su` is what freedom structurally *is*.
+
+---
+
+### S818 — ORW-001-F
+
+**Source:** "Thoughtcrime does not entail death: thoughtcrime IS death." — *Nineteen Eighty-Four*, Part One, Chapter 2.
+
+**Notation:** `no  go {to-no-wi-fe},  de-zo  /  ke,  to-no-wi-fe  helms  de-zo`
+
+**Written:** `no go {tonowife}, dezo / ke, tonowife helms dezo`
+
+**Gloss:** not from [thought-without-right] → death / pivot: thought-without-right is-by-definition death
+
+**Natural reading:** It is not that forbidden thought causes death — forbidden thought IS death.
+
+**Notes:** `to-no-wi-fe` = `to` (knowledge/thought) + `no` (negation) + `wi-fe` (W100, right/rule) = thought-without-right = thoughtcrime; first use. Left arm denies the causal claim (`no go {}` frame). Right arm asserts strict identity (`ke, ... helms`). **Third use of `ke,` inside `/`**: JBP S796 (ethical), MAO S807 (political-military), ORW S818 (epistemic-political). Cross-register pattern confirmed in three domains. The `/` here is appearance/reality divergence (MAO S802 pattern): appearance = thoughtcrime causes death (mere `go {}` causation); reality = thoughtcrime IS death (`helms` identity).
+
+---
+
+### S819 — ORW-001-G
+
+**Source:** "The Party seeks power entirely for its own sake." — O'Brien; *Nineteen Eighty-Four*, Part Three, Chapter 3.
+
+**Notation:** `ru-fe,  la-o-ka-su  wi-ra  lo-wi-ra`
+
+**Written:** `rufe, laokasu wira lowira`
+
+**Gloss:** solely: the collective-governance-structure directs-will toward directed-power
+
+**Natural reading:** The Party's will is directed exclusively toward power itself.
+
+**Notes:** `ru-fe,` = exclusive scope (clause-initial). `la-o-ka-su` = Party as agent. `wi-ra` = directed will (the Party wills). `lo-wi-ra` = patient: power itself. The recursion: the Party's `wi-ra` (directed will) is directed toward `wi-ra` (power) as its own patient. `ru-fe,` marks the exclusivity of the purpose — no other object. `ru-fe,` in exclusive-purpose role (fourth use; previous: EXC-001, DOI-001, MAO S806 exclusive-agency; this is exclusive-purpose/telos). Structural ground for S820.
+
+---
+
+### S820 — ORW-001-H
+
+**Source:** "Power is not a means; it is an end." — O'Brien; *Nineteen Eighty-Four*, Part Three, Chapter 3.
+
+**Notation:** `wi-ra  ne  no  ka-mu  /  ne  ka-du`
+
+**Written:** `wira ne no kamu / ne kadu`
+
+**Gloss:** directed-power has-property not-[deliberate-instrument] / has-property [deliberate-result]
+
+**Natural reading:** Directed power is not an instrument; it is an end.
+
+**Notes:** `ka-mu` (W047) = deliberate-change instrument = means/tool. `ne no ka-mu` = is not a means. `ka-du` = `ka` (deliberate action) + `du` (result root, as in `wi-du` W175) = deliberate result = end/goal; first use. `ne ka-du` = is an end. The `/` is antithetical (not-X / is-Y; same pattern as MAO S803): what power is *not* / what power *is*. S820 gives the structural grounding for S819's exclusive-scope claim.
+
+---
+
+### S821 — ORW-001-I
+
+**Source:** "Until they become conscious they will never rebel, and until after they have rebelled they cannot become conscious." — *Nineteen Eighty-Four*, Part One, Chapter 7 (Winston's diary; the proles paradox).
+
+**Notation:** `go {no  be-to-su},  no-ti  ka-ne-su  /  go {no  ka-ne-su},  no-ti  be-to-su`
+
+**Written:** `go {no betosu}, noti kanesu / go {no kanesu}, noti betosu`
+
+**Gloss:** from [not growing-in-organized-knowledge] → never revolt / from [not revolting] → never grow-in-organized-knowledge
+
+**Natural reading:** From lack of consciousness, never revolt. From lack of revolt, never become conscious.
+
+**Notes:** `be-to-su` = `be` (growth) + `to-su` (W030, organized knowledge) = growth-in-organized-knowledge = becoming conscious; first use. `ka-ne-su` = `ka` (deliberate action) + `ne-su` (W031, network/structure) = deliberate action against structure = revolt; first use. `no-ti` = `no` (negation) + `ti` (time primitive) = at no time = never; distinct from `ti-no-fe` (temporal extremal = eternal/boundless time); first use.
+
+**Proposed fifth distinct `/` function: circular impossibility / mutual blocking.** Two mirrored `go {}` claims where the premise of each is the negation of the result of the other — a closed loop. Previous `/` functions: (1) constitutive pair (ALI S777), (2) negated choice (JBP S792), (3) co-presence (JBP S800), (4) appearance/reality divergence (MAO S802). S821 holds the closed trap as formally paired without asserting any resolution.
+
+---
+
+### S822 — ORW-001-J
+
+**Source:** "Orthodoxy means not thinking — not needing to think. Orthodoxy is unconsciousness." — *Nineteen Eighty-Four*, Part One, Chapter 5 (Syme).
+
+**Notation:** `to-su  helms  no  ka-to  ;  no  ne-fe  lo-ka-to`
+
+**Written:** `tosu helms no kato ; no nefe lokato`
+
+**Gloss:** organized-knowledge is-by-definition not-deliberate-thinking ; not structurally-requiring deliberate-thinking
+
+**Natural reading:** Orthodoxy is by definition: not deliberate thought; and not requiring deliberate thought.
+
+**Notes:** `to-su` (W030) = organized knowledge / doctrine = orthodoxy. `helms` = correct: Syme gives a structural definition. `no ka-to` = not deliberate thinking (`ka` + `to` = deliberate cognitive act). `no ne-fe lo-ka-to` = not structurally requiring deliberate thinking. `helms` governs the full `;`-chained definition: both components together are what orthodoxy *is*. Cross-reference: S822 and S815 both use `helms` + `;`-chained structure — doublethink defines what you *must* know; orthodoxy defines what you need not think.
+
+---
+
+### S823 — ORW-001-K
+
+**Source:** "If you want to keep a secret, you must also hide it from yourself." — *Nineteen Eighty-Four*, Part Three, Chapter 2 (O'Brien).
+
+**Notation:** `go {wi  lo-to-no-si},  ne-fe  ka-no-to  lo-mi`
+
+**Written:** `go {wi lotonosi}, nefe kanoto lomi`
+
+**Gloss:** from [willing toward unsignaled-knowledge] → structurally-required: deliberate-not-knowing from/of oneself
+
+**Natural reading:** From wanting to keep a secret comes the structural requirement to deliberately not-know it yourself.
+
+**Notes:** `to-no-si` = `to` (knowledge) + `no` (negation) + `si` (signal) = unsignaled-knowledge = secret; first use. `wi lo-to-no-si` = willing secrecy. The `go {}` makes this structural: wanting secrecy *causes* the structural requirement. `ka-no-to` = deliberate not-knowing = willful suppression of one's own knowledge. `lo-mi` = from/of oneself (reflexive). S823 is the practical instantiation of S815 (doublethink): keeping a secret from others structurally requires keeping it from yourself — the `ne-fe ka-no-to lo-mi` is the causal grounding for why S815's `ka-nu-to` is a `wi-ra` (directed power) rather than a mere capacity.
+
+---
+
+### S824 — ORW-001-L
+
+**Source:** "We shall meet in the place where there is no darkness." — O'Brien to Winston, *Nineteen Eighty-Four*, Part One, Chapter 1 (the always-lit Ministry of Love).
+
+**Notation:** `zi-ka  ko {pa-si}`
+
+**Written:** `zika ko {pasi}`
+
+**Gloss:** intentional-exchange within [the signal-place]
+
+**Natural reading:** There shall be meeting within the place of signal [the illuminated, surveilled place].
+
+**Notes:** `zi-ka` (W105) = intentional exchange event = meeting. `ko {}` = containment/within. `pa-si` = `pa` (place) + `si` (signal) = signal-place = the place where signal is total = the surveilled/illuminated place; first use. The Tonesu reading is ironic in the same way as Orwell's: O'Brien promises "no darkness" — in `pa-si`, there is no absence of signal = no privacy = no hiding. The "light" is total observation. Agentless `zi-ka` (no `la-` phrase) gives the meeting the quality of structural inevitability — not caused by any specific will but inherent in the `pa-si` structure itself. The `ko {}` containment marks the meeting as enclosed and inescapable.
+
+---
+
+## ORW-001 Batch Summary
+
+| S# | Quote | Core claim | Structural notes |
+|----|-------|-----------|-----------------|
+| S813 | Three Party slogans | `ka-ra helm no-ka-ra ; wi-no-fe helm no-wi ; no-to helm ra` | `helm` political first use; `wi-no-fe` extremal first use |
+| S814 | Big Brother watching | `la-o-ka-su se-ka lo-ze` | `o-ka-su` (W233) first use |
+| S815 | Doublethink | `ka-nu-to helms wi-ra lo-ka to {su ; no-su}` | `ka-nu-to` first use; `helms` definitional + `;` inside `{}` |
+| S816 | Past/future/present control | `go {wira lotide}, wira lotibe / go {wira losuti}, wira lotide` | Mirrored `go {}` constitutive pair; `ti-be` W040 as future |
+| S817 | Freedom to assert truth | `wi-no-fe ne wife losiki tonesu` | `wi-no-fe` extremal second use; `wi-fe lo-si-ki to-ne-su` |
+| S818 | Thoughtcrime IS death | `no go {to-no-wi-fe}, dezo / ke, tonowife helms dezo` | Third `ke,` inside `/`; denied `go {}` → asserted `helms`; `to-no-wi-fe` first use |
+| S819 | Power for its own sake | `ru-fe, laokasu wira lowira` | Recursive `wi-ra lo-wi-ra`; `ru-fe,` exclusive-purpose role |
+| S820 | Power is an end | `wi-ra ne no kamu / ne kadu` | Antithetical `/`; `ka-du` first use |
+| S821 | Proles paradox | `go {no betosu}, noti kanesu / go {no kanesu}, noti betosu` | Proposed 5th `/` function; `be-to-su`, `ka-ne-su`, `no-ti` first uses |
+| S822 | Orthodoxy = not thinking | `tosu helms no kato ; no nefe lokato` | `helms` + `;`-chained dual definition |
+| S823 | Hide secret from yourself | `go {wi lotonosi}, nefe kanoto lomi` | `to-no-si` first use; causal grounding for S815 |
+| S824 | Place of no darkness | `zika ko {pasi}` | `pa-si` first use; panoptic irony; agentless prophecy form |
+
+**New W-entries:** W233 `o-ka-su` = collective-governance-structure.
+
+**Compositional first uses:** `wi-no-fe` (freedom, S813); `no-wi` (no-will/servitude, S813); `ka-nu-to` (doublethink, S815); `to-no-wi-fe` (thoughtcrime, S818); `ka-du` (deliberate-result/end, S820); `be-to-su` (becoming-conscious, S821); `ka-ne-su` (revolt, S821); `no-ti` (never, S821); `to-no-si` (secret/unsignaled-knowledge, S823); `pa-si` (signal-place, S824).
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `wi-no-fe` | none | — | `[X]-no-fe` extremal — outside CLQ scope; CLQ-EXT unresolved |
+| `ka-ra` (W222) | none | — | 2-root — below CLQ threshold |
+| `no-wi` | none | — | 2-root — below CLQ threshold |
+| `no-to` | none | — | 2-root — below CLQ threshold |
+| `o-ka-su` (W233) | none | — | 3-root — meets threshold; no shortform; defer |
+| `ka-nu-to` | none | — | 3-root first use; defer |
+| `to-no-wi-fe` | none | — | 4-root compositional first use; no shortform; defer |
+| `ka-du` | none | — | 2-root — below CLQ threshold |
+| `be-to-su` | none | — | 3-root first use; defer |
+| `ka-ne-su` | none | — | 3-root first use; defer |
+| `no-ti` | none | — | 2-root — below CLQ threshold |
+| `to-no-si` | none | — | 3-root first use; defer |
+| `pa-si` | none | — | 2-root — below CLQ threshold |
+| `helm` / `helms` | none | — | Grammatical/notation particles — outside CLQ scope |
+| `go {…}, X` pattern | none | — | Semantically load-bearing causal frame |
+| `ru-fe,` | none | — | Grammatical particle — outside CLQ scope |
+
+**Verdict:** irreducibly formal — `wi-no-fe` extremal outside CLQ scope, compositional first uses deferred, particles outside scope.
+
+*CLQ entries registered from this batch: none.*
