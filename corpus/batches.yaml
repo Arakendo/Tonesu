@@ -1077,3 +1077,8 @@ batches:
   theme: Foundations
   range: S855–S864
   count: 10
+- code: WFE-001
+  title: '`wife''atofeka` structural tests'
+  theme: Foundations
+  range: S865–S872
+  count: 8

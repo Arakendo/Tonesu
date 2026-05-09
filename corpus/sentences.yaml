@@ -16440,3 +16440,194 @@ sentences:
     (first used S852). Cross-resonance: S850 (totalitarianism requires `no-ne-zo-li`);
     S852 (community requires `o-zo-li`); S864 (community arises from `ne-zo-li`).
     Three different angles on the same Arendtian insight about plurality.'
+- snum: S865
+  gloss: The total-power-structure is legitimized epistemic closure.
+  batch: WFE-001
+  batch_sub: A
+  status: normative
+  tonesu: la-a-ra-su  ne  wife'atofeka
+  gloss_line: '`[total-power-structure] [is] [entitlement-framing-of-universal-knowledge-limitation]`'
+  natural: '"The totalitarian structure is legitimized epistemic closure."'
+  words_attested:
+  - W239
+  - W246
+  first_attests:
+  - W246
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S865
+  notes: 'W246 `wife''atofeka` first use. ne-predicate position test. `a-ra-su` (W239)
+    = total-power-structure; `wife''atofeka` = `[wi-fe]''[a-to-fe-ka]`: entitlement-framed
+    (wi-fe W100) universal (a-) knowledge-limitation (to-fe-ka). The juncture `''`
+    crystallizes `[a-to-fe-ka]` as a pre-bound unit; `wi-fe` scopes over it as left
+    modifier. Copula `ne` asserts that the total-power-structure instantiates this
+    structural condition. New structural pattern (see OQ-VPR-001 update): W-entry
+    compound (`wi-fe`) as juncture-bound left modifier of a V-prefix-initial compound
+    chain (`a-to-fe-ka`).'
+- snum: S866
+  gloss: Legitimized epistemic closure acts on what a people can know.
+  batch: WFE-001
+  batch_sub: B
+  status: normative
+  tonesu: la-wife'atofeka  to-ki  lo-o-li
+  gloss_line: '`[legitimized-epistemic-closure] knowledge-changes [collective-persons]`'
+  natural: '"Legitimized epistemic closure acts on what a people can know."'
+  words_attested:
+  - W020
+  - W246
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S866
+  notes: '`la-` agent position test: `la-wife''atofeka` — the `la-` prefix fuses to
+    the written form preserving `''` → `lawife''atofeka`. `to-ki` = knowledge-change
+    (verbal compound predicate). `o-li` = community-as-collective-unit (VPC-001 S508)
+    in patient position. The sentence establishes wife''atofeka as an agent that actively
+    shapes a people''s knowing, not merely a static state. First `la-wife''atofeka`
+    construction.'
+- snum: S867
+  gloss: Structural force maintains legitimized epistemic closure.
+  batch: WFE-001
+  batch_sub: C
+  status: normative
+  tonesu: la-su-ra  ki  lo-wife'atofeka
+  gloss_line: '`[structural-force] moves/acts-on [legitimized-epistemic-closure]`'
+  natural: '"Structural force drives / maintains legitimized epistemic closure."'
+  words_attested:
+  - W246
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S867
+  notes: '`lo-` patient position test: `lo-wife''atofeka` — `lo-` fuses to the written
+    form preserving `''` → `lowife''atofeka`. `su-ra` = structural force (su: structure
+    + ra: power — 2-root compositional, attested MCH-001). `ki` as intransitive verbal
+    predicate = applies change / drives the condition. Wife''atofeka is shown as not
+    self-sustaining: it is the epistemic expression of structural force applied to
+    the public''s knowing capacity. First `lo-wife''atofeka` construction.'
+- snum: S868
+  gloss: Knowing deception dissolves it; knowing wife'atofeka does not.
+  batch: WFE-001
+  batch_sub: D
+  status: normative
+  tonesu: la-to-ka-si-de  ki  lo-ka-si-de ;  ke,  la-to-wife'atofeka  no  [ki  lo-wife'atofeka]
+  gloss_line: '`[knowing-deliberate-signal-corruption] changes [deliberate-signal-corruption]
+    ; [pivot] [knowing-wife''atofeka] not [changes wife''atofeka]`'
+  natural: '"Knowing propaganda dissolves it; but knowing wife''atofeka does not dissolve
+    it."'
+  words_attested:
+  - W224
+  - W246
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S868
+  notes: 'Surviving-exposure claim. `to-ka-si-de` = knowledge-of-deliberate-signal-corruption
+    = knowing about propaganda; `to-wife''atofeka` = knowing-about-wife''atofeka (both
+    use `to-` + compound as "knowing about" — compositional with VPC-001 established
+    `to` = knowledge root). `ki` as "dissolves / changes the state of." `ke` pivot
+    (`ke,` clause-initial per COR-001) after `;` sequential connector: first sequential
+    context for the `ke` pivot. Key claim: propaganda dissolves when exposed because
+    it is merely false information; wife''atofeka survives exposure because the bounding
+    is framed as entitlement and knowing about it is itself inside the bounded domain.
+    First `to-wife''atofeka` and `to-ka-si-de` compounds.'
+- snum: S869
+  gloss: Wife'atofeka does not present as a boundary; it presents as structure.
+  batch: WFE-001
+  batch_sub: E
+  status: normative
+  tonesu: la-wife'atofeka  no  ne  to-fe ;  la-wife'atofeka  ne  to-su
+  gloss_line: '`[wife''atofeka] not [is] knowledge-boundary ; [wife''atofeka] [is]
+    organized-knowledge`'
+  natural: '"Legitimized epistemic closure does not present as a knowledge-limit;
+    it presents as the structure of knowledge itself."'
+  words_attested:
+  - W028
+  - W030
+  - W246
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S869
+  notes: 'Phenomenological collapse claim. `to-fe` (W028) = epistemic boundary — the
+    limit as such. `to-su` (W030) = organized knowledge / theory / model — knowledge-structure.
+    The `;` sequential connector pairs two observations about the same subject: wife''atofeka
+    actively denies being a limit (first clause) and actively presents as the shape
+    of knowledge (second clause). From inside, the boundary feels like the shape of
+    reality rather than an imposition — the `wi-fe` wrapper achieves this collapse.
+    Cross-reference: `to-no-fe` (S870) is the structural antithesis — omniscience
+    is also a `to-X` form, but without the `wi-fe` wrapper and with the extremal `no-fe`
+    suffix instead of a bounding `fe-ka`.'
+- snum: S870
+  gloss: Omniscience is the negation of legitimized epistemic closure.
+  batch: WFE-001
+  batch_sub: F
+  status: normative
+  tonesu: la-to-no-fe  ne  no-wife'atofeka
+  gloss_line: '`[omniscience] [is] not-legitimized-epistemic-closure`'
+  natural: '"Omniscience is the negation of legitimized epistemic closure."'
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S870
+  notes: 'Structural antithesis. `to-no-fe` = knowledge-without-boundary (the `[X]-no-fe`
+    extremal suffix pattern: knowledge that has no limiting boundary). `no-wife''atofeka`
+    = negation of wife''atofeka = the condition of not-being-in-legitimized-epistemic-closure.
+    The `no-` prefix on a juncture compound: `no-[wi-fe]''[a-to-fe-ka]` = without-entitlement-framed-knowledge-limitation.
+    Written form preserves `''`. Theologically significant: if `to-no-fe` = divine
+    omniscience, then `la-to-no-fe ne no-wife''atofeka` = omniscience is by its nature
+    the structural opposite of legitimized epistemic closure — unlimited knowing cannot
+    be wrapped in entitlement-bounded limitation. First `no-wife''atofeka` construction.'
+- snum: S871
+  gloss: Natality disrupts legitimized epistemic closure.
+  batch: WFE-001
+  batch_sub: G
+  status: normative
+  tonesu: la-be-ki  ki  lo-wife'atofeka
+  gloss_line: '`[natality] changes/acts-on [legitimized-epistemic-closure]`'
+  natural: '"Natality acts on / disrupts legitimized epistemic closure."'
+  words_attested:
+  - W244
+  - W246
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S871
+  notes: 'Resistance mechanism. `be-ki` (W244) = natality — the human capacity for
+    new beginning. `ki` as verbal predicate = applies change to. Arendt''s claim:
+    the fact that new persons are born means the epistemic closure is never total
+    — every birth introduces a potential for beginning outside the established knowing-frame.
+    Cross-reference: S863 (ANT-002-I) established `la-be-ki ne wi-fe / la-a-ra-su
+    no ka-de lo-be-ki` (natality resists totalitarianism). S871 makes the specifically
+    epistemic claim: be-ki acts against wife''atofeka as a condition. The compound
+    `lo-wife''atofeka` confirms patient-position admissibility (cf. S867).'
+- snum: S872
+  gloss: 'The precondition cascade: atomization → structural force → legitimized epistemic
+    closure.'
+  batch: WFE-001
+  batch_sub: H
+  status: normative
+  tonesu: la-no-ne-zo-li ;  la-su-ra ;  la-a-ra-su  ne  wife'atofeka
+  gloss_line: '`[atomized-person] ; [structural-force] ; [total-power-structure] [is]
+    [legitimized-epistemic-closure]`'
+  natural: '"Atomization; structural force; the total-power-structure is legitimized
+    epistemic closure."'
+  words_attested:
+  - W239
+  - W246
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S872
+  notes: 'Precondition cascade expressed via `;` sequential connector (SCL-002: A
+    ; B = "A and then B" — connection type not asserted). Three-stage sequence: (1)
+    `no-ne-zo-li` = atomized/lonely persons (no-ne-zo-li, first used S850 = "without
+    living-person-bonds"); (2) `su-ra` = structural force operating on them; (3) `a-ra-su
+    ne wife''atofeka` = the total-power-structure having achieved legitimized epistemic
+    closure. The `;` chain expresses the cascade as a temporal-causal sequence without
+    asserting the exact mechanism — consistent with SCL-002''s Humean distinction:
+    constant conjunction (`;`) vs asserted mechanism (`go`). The mechanism at each
+    step is shown by the cascade order, not asserted. Three-stage use of `;` as cascade
+    format is a new productive use (prior attested: two-stage S493 adversative; two-stage
+    S851/S863 ANT contexts).'

@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 145 |
+| [w101-plus.md](w101-plus.md) | W101+ | 146 |
 
-**Total: 233 W-series entries** — active: 189 · proposed: 2 · pending: 39 · cold: 0 · retired: 3
+**Total: 234 W-series entries** — active: 190 · proposed: 2 · pending: 39 · cold: 0 · retired: 3
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -233,6 +233,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `wi-vo-fe` | W193 | ethics-neutral; will at the value limit; neither primarily beneficent nor harmful | ✅ | [w101-plus](w101-plus.md) |
 | `wi-vo-li` | W211 | paladin / oath-champion | ✅ | [w101-plus](w101-plus.md) |
 | `wi-zo` | W145 | wild animal, autonomous organism | ⏳ | [w101-plus](w101-plus.md) |
+| `wife'atofeka` | W246 | legitimized epistemic closure; entitlement-framed universal knowledge-limitation | ✅ | [w101-plus](w101-plus.md) |
 | `zi-ka` | W105 | transaction, intentional exchange event | ⏳ | [w101-plus](w101-plus.md) |
 | `zi-ra` | W104 | physical interaction, mutual energy transfer | ⏳ | [w101-plus](w101-plus.md) |
 | `zi-zo` | W106 | biological coupling event | ⏳ | [w101-plus](w101-plus.md) |
@@ -380,6 +381,9 @@ Concept-first lookup: find the compound you need by domain.
 **Kitchen / Equipment**
 `su-ha-mu` W227 cooking pan
 
+**Knowledge / Epistemology**
+`wife'atofeka` W246 legitimized epistemic closure
+
 **Law / Governance**
 `ka-li-de` W205 tax · `su-zo-ko` W204 coverage · `wi-fe'de` W203 penalty
 
@@ -411,7 +415,7 @@ Concept-first lookup: find the compound you need by domain.
 `ti-go-su` W245 historical necessity
 
 **Philosophy / Politics**
-`be-ki` W244 natality
+`be-ki` W244 natality · `wife'atofeka` W246 legitimized epistemic closure
 
 **Physics / Theoretical**
 `ki-fe-mu` W228 fundamental string · `pa-di` W229 dimension
@@ -492,6 +496,6 @@ Quick lookup by lead primitive root.
 | `ti` | ti-fe W037, ti-be W040, ti-de W041, ti-mu W057, ti-re W103, ti-mi W109, ti-go-su W245 |
 | `to` | to-ne-su W000, to-li W003, to-su-mu W010, to-ki-mu W011, to-ki W020, to-su-ki W025, to-si W026, to-ko W027, to-fe W028, to-fe-ka W029, to-su W030, to-fe-li W032, to-re-su W064, to-fe-su W072, to-ru W083, to-go W089, to-fe-su-ki W097, to-ko-re W166, to-to-ne-su W169, to'to-ne-su W170, to-pa W195, to-ki'ne-su W202 |
 | `vo` | vo-ne W118, vo-mu W137 |
-| `wi` | wi-to W045, wi-ka-su W054, wi-si W063, wi-to-su W073, wi-re-su W074, wi-re W099, wi-fe W100, wi-de-li W124, wi-no-ra W132, wi-zo W145, wi-du W175, wi-ra W177, wi-fe'de W203, wi-ra-li W217, wi-no W230, wi-o-li W238, wi-ra-ki W241 |
+| `wi` | wi-to W045, wi-ka-su W054, wi-si W063, wi-to-su W073, wi-re-su W074, wi-re W099, wi-fe W100, wi-de-li W124, wi-no-ra W132, wi-zo W145, wi-du W175, wi-ra W177, wi-fe'de W203, wi-ra-li W217, wi-no W230, wi-o-li W238, wi-ra-ki W241, wife'atofeka W246 |
 | `zi` | zi-ra W104, zi-ka W105, zi-zo W106, zi-zo-go W107, zi-zo-du W108 |
 | `zo` | zo-no-ki W043, zo-de W051, zo-se-ki W060, zo-to W068, zo-si W069, zo-ne W076, zo-ne-go W077, zo-ne-du W078, zo-ne-ru W079, zo-ne-go-re W080, zo-ne-du-re W081, zo-ra W117, zo-su-be W143, zo-ra-ma W144, zo-li W148, zo-su-ka-li W150, zo-ma W163, zo-ki'ma W164, zo-ki-ma W220, zo-su-mu W221 |

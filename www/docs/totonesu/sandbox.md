@@ -241,3 +241,101 @@ Some observations from the constructs above:
 **Some English concepts don't compress into single words.** Nostalgia needed a phrase. This is fine — not every concept needs a lexical atom. The language is composable at the sentence level too.
 
 **New compounds are always readable on first encounter** — you don't need to have seen them before if you know the roots and patterns. That's the design guarantee.
+
+---
+
+## wife'atofeka — legitimized epistemic closure
+
+This compound emerged from working through Hannah Arendt's *Origins of Totalitarianism*. It is the most structurally complex form in the sandbox — a juncture compound where the left unit is a registered W-entry and the right unit is a V-prefix-initial chain.
+
+**Parse:** `[wi-fe]'[a-to-fe-ka]`
+
+<div class="tn-derive" markdown>
+
+`wi-fe` → entitlement / right (W100: will-boundary = the boundary created by a right-claim)
+
+`a-` → universal scope prefix (abstract/universal)  
+`to` → knowledge, conceptual pattern  
+`fe` → boundary, limit  
+`ka` → deliberate action
+
+`a-to-fe-ka` → universal deliberate knowledge-boundary-enactment
+
+`'` → juncture: crystallizes `[a-to-fe-ka]` as a pre-bound unit
+
+`[wi-fe]'[a-to-fe-ka]` → entitlement-framing of universal knowledge-boundary-enactment
+
+→ **wife'atofeka** : legitimized epistemic closure
+
+</div>
+
+**Why the juncture?**
+
+Without `'`, `wifeatofeka` would right-branch as `wi-[fe-a-to-fe-ka]` — entitlement modifying `fe-a-to-fe-ka` — and the `a-` universal prefix would try to attach to the `fe`-headed chain rather than to the knowledge-bounding unit. The juncture `'` creates a structural break: `[wi-fe]` is the pre-modifier; `[a-to-fe-ka]` is the pre-bound right unit with its own internal parse.
+
+**What it means**
+
+`wife'atofeka` is not the same as propaganda (`ka-si-de`) or simple coercion. The key is the `wi-fe` wrapper: the limits on knowing are framed as *entitlements* — as the rightful shape of knowledge — rather than as external constraints.
+
+The practical consequence: propaganda dissolves when exposed. `wife'atofeka` doesn't. If you know about it, that knowing is itself inside the bounded domain.
+
+<div class="tn-derive" markdown>
+
+`la-to-ka-si-de  ki  lo-ka-si-de`  
+→ Knowing propaganda dissolves propaganda.
+
+`ke,  la-to-wife'atofeka  no  [ki  lo-wife'atofeka]`  
+→ But knowing wife'atofeka does not dissolve wife'atofeka. (S868)
+
+</div>
+
+**The phenomenological collapse**
+
+From inside the condition, the boundary doesn't feel like a limit. It feels like the shape of reality:
+
+<div class="tn-derive" markdown>
+
+`la-wife'atofeka  no  ne  to-fe`  
+→ Legitimized epistemic closure does not present as a knowledge-boundary.
+
+`la-wife'atofeka  ne  to-su`  
+→ Legitimized epistemic closure presents as the structure of knowledge. (S869)
+
+</div>
+
+**Structural antithesis**
+
+The `[X]-no-fe` extremal pattern (omniscience = `to-no-fe` = knowledge without any limiting boundary) is the structural negation:
+
+<div class="tn-derive" markdown>
+
+`la-to-no-fe  ne  no-wife'atofeka`  
+→ Omniscience is the negation of legitimized epistemic closure. (S870)
+
+</div>
+
+**The precondition cascade**
+
+Arendt's analysis of how this condition arises — expressed as a three-stage `;` sequence:
+
+<div class="tn-derive" markdown>
+
+`la-no-ne-zo-li ;  la-su-ra ;  la-a-ra-su  ne  wife'atofeka`  
+→ Atomization; then structural force; then the total-power-structure is legitimized epistemic closure. (S872)
+
+</div>
+
+Each `;` marks a sequential stage — the Humean reading: constant conjunction, not asserted mechanism. The mechanism is shown by order, not claimed by grammar.
+
+**Resistance**
+
+Natality (`be-ki`, W244) — the human capacity for new beginning — acts against this condition:
+
+<div class="tn-derive" markdown>
+
+`la-be-ki  ki  lo-wife'atofeka`  
+→ Natality disrupts legitimized epistemic closure. (S871)
+
+</div>
+
+**Status:** W246 ✅ active. First corpus attestation: S865 (WFE-001-A).

@@ -2591,3 +2591,19 @@ Related:       ti (primitive: time), go (primitive: cause/origin), su (primitive
 ```
 
 ---
+
+**W246**
+```
+Form:          wife'atofeka
+Type:          compound
+Class:         entity / condition / structure
+Definition:    [wi-fe]'[a-to-fe-ka] — wi-fe (W100: entitlement/right) + juncture ' + a- (universal scope) + to (knowledge) + fe (boundary/limit) + ka (deliberate action) = entitlement-framed universal knowledge-limitation = legitimized epistemic closure. The condition in which the limits on what can be known are presented not as external power constraints but as the rightful shape of knowledge itself — entitlement (wi-fe) wraps around the deliberate universal bounding of knowing (a-to-fe-ka). Distinct from ka-si-de (W224: deliberate-signal-corruption = propaganda) by its structural nature: ka-si-de is detectable and dissolves when exposed; wife'atofeka survives exposure because the bounding is framed as legitimate and the act of knowing about it is itself within the bounded domain (S868). The wi-fe wrapper is constitutive: the same boundary without entitlement-framing is mere structural force (su-ra); with it, the limit feels like the shape of reality rather than an imposition (S869). Structural antithesis: to-no-fe (omniscience, the [X]-no-fe extremal = knowing without limiting boundary) — wife'atofeka is the condition to-no-fe negates (S870: la-to-no-fe ne no-wife'atofeka). Structural position: final stage of the precondition cascade — no-ne-zo-li (atomization) → su-ra (structural force) → wife'atofeka (S872). Resistance: be-ki (W244: natality) disrupts the condition (S871). New structural pattern: W-entry compound (wi-fe) as juncture-bound left modifier of a V-prefix-initial compound chain (a-to-fe-ka) — the ' prevents a- from attaching to wi-fe and ensures the pre-bound unit is [a-to-fe-ka].
+Composition:   [wi-fe]'[a-to-fe-ka]. Juncture compound: ' crystallizes [a-to-fe-ka] as a pre-bound unit. wi-fe (W100: entitlement/right) as pre-modifier: entitlement-framing applied to the whole of universal-knowledge-boundary-enactment. Within [a-to-fe-ka]: a- (universal scope prefix) + to (knowledge) + fe (boundary/limit) + ka (deliberate action); right-branching: to modifies [fe-ka] = deliberate-knowledge-boundary-enactment; a- scopes over the whole: universal-deliberate-knowledge-boundary-enactment. Outer layer: wi-fe modifies [a-to-fe-ka] = entitlement-framing of that universally-bounded-knowing.
+Register:      formal
+Domain:        Philosophy / Politics
+Status:        ✅ active
+First use:     WFE-001-A (S865): la-a-ra-su ne wife'atofeka — "The total-power-structure is legitimized epistemic closure."
+Related:       wi-fe (W100: entitlement/right — the constitutive wrapper), a-to-fe-ka (compositional: a- scope + to + fe + ka = universal-deliberate-knowledge-boundary-enactment), to-no-fe ([X]-no-fe extremal: omniscience — structural antithesis, S870), ka-si-de (W224: deliberate-signal-corruption — distinct by survivability of exposure, S868), no-ne-zo-li (atomization — precondition stage 1, S872), su-ra (structural force — precondition stage 2, S872), be-ki (W244: natality — resistance mechanism, S871), a-ra-su (W239: total-power-structure — the system that enacts wife'atofeka, S865)
+```
+
+---
