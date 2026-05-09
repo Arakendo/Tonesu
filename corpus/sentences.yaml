@@ -9230,7 +9230,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S549
   notes: 'Simple property attribution. Establishes the reference form from which exclusive
     "only God is good" must be derived. `la-Elohim ne vo` = "God has the property
@@ -9249,7 +9249,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S550
   notes: 'The negative-universal half of the exclusive claim. `la-li ne vo` = bare
     class attribution: "person[s] have worth." Fronted `no` negates the whole proposition:
@@ -9270,7 +9270,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S551
   notes: 'Matthew 19:17 structure: "Why do you call me good? No one is good but God
     alone." The `—` (prosodic suspension, EMD-002) creates an asymmetric juxtaposition:
@@ -9295,7 +9295,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S552
   notes: 'Testing whether `ru` in the inter-argument position (after agent NP, before
     predicate) functions as an exclusive focus particle. **Two competing parses:**
@@ -9325,7 +9325,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S553
   notes: 'Testing `ru` in its natural predicate position. `la-Elohim ne ru` = "God
     has the property of unity/singularity" = "God is one." This is the Tonesu form
@@ -9351,7 +9351,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S554
   notes: 'Primary candidate. `ru-fe` = unity (singularity, `ru`) + boundary/limit
     (`fe`) = "the singular bounding case" = "at the one limit" = "solely / exclusively."
@@ -9387,7 +9387,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S555
   notes: 'Method exclusive — `ru-fe` restricts the *causal means*: the only path to
     right action is via knowledge. `go to` = "via knowledge" (causal frame); `;` =
@@ -9416,7 +9416,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S556
   notes: 'Narrative exclusive context (catastrophe/battle survivor). `la-mi ne zo`
     = "I have the property of being a living thing" = "I am alive / I survived." `ne
@@ -9441,7 +9441,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S557
   notes: 'Deut 4:35 type — "YHWH, he is God; there is no other besides him." The Tonesu
     form uses the full theological vocabulary: `la-Elohim` (agent); `helms` (strict
@@ -9472,7 +9472,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S558
   notes: 'Both `ya` (attention-signal) and `ru-fe` (exclusive scope) are clause-initial
     particles with `,` after each. Can they stack? `ya, ru-fe, la-Elohim ne vo` =
@@ -9503,7 +9503,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S559
   notes: 'Standard active clause. All slots filled: `la-su-mu-li` = agent (engineer);
     `ka-be` = intentional creation/growth; `lo-ra-su` = patient (structure); `ti-de`
@@ -9521,7 +9521,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S560
   notes: 'No agent, no `ka`. Patient `lo-ra-su` + bare predicate `de` (decay/dissolution)
     + `ti-de` (past). This is a Type 1 patientive state applied as event: the structure
@@ -9544,7 +9544,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S561
   notes: 'No `la-` (no explicit agent). `ka-be` = intentional creation/growth. The
     patient `lo-ra-su` is the only argument. Compare to S559: this is S559 with the
@@ -9570,7 +9570,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S562
   notes: '`ro-ra-ki-mu` = instrument prefix (`ro-`) + engine (`ra-ki-mu`). No `la-`
     agent. Instrument is explicit; agent is absent. This tests whether `ro-` is a
@@ -9592,7 +9592,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S563
   notes: 'Patient extracted to topic position via the `:` frame. `ra-su` = topic NP
     (no `lo-` prefix — the `:` frame positions it outside the clause-internal argument
@@ -9616,7 +9616,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S564
   notes: '`li-pu` = person-collective = council/assembly; `su` = structure/order =
     law; `ka-be` = intentional creation. Fully active with an institutional agent.
@@ -9638,7 +9638,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S565
   notes: '`si-su` = signal-structure = written record/document. `ko` = containment.
     `{la-Elohim ne go-no-fe}` = propositional content in structural braces (scope
@@ -9660,7 +9660,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S566
   notes: '`pa` = space/place/presence = the world (as spatial totality). `be` = growth/expansion/becoming.
     No `ka`, no `la-`, no `ti-de` (untensed). This is the **emergence form**: patient-slot
@@ -9683,7 +9683,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S567
   notes: Explicit divine agent. `la-Elohim` = agent; `ka-be` = intentional creation;
     `lo-pa` = patient (world/space). No `ti-de` to match the untensed S566 for clean
@@ -9710,7 +9710,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S568
   notes: '`to-si` = knowledge-signal = transmitted teaching/doctrine. `ka-ki` = intentional
     action of moving = intentional transmission/conveyance. `ti-de` = past. No explicit
@@ -9734,7 +9734,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S569
   notes: 'A''s diagnostic hypothesis. Causal frame: `go ha-be` = "caused by heat-increase";
     `lo-zo-li de ti-de` = "the patient deteriorated." A asserts a thermal causal chain
@@ -9753,7 +9753,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S570
   notes: '`no —` is correct here. B''s denial of the thermal hypothesis is new information
     in this exchange — A has not heard it before, and the committee has not heard
@@ -9774,7 +9774,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S571
   notes: 'A brings new material: (1) personal observation — `la-mi se lo-ha-be` =
     "I perceived the fever" — grounding the thermal claim in direct sensory evidence;
@@ -9796,7 +9796,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S572
   notes: 'B''s Round 2 response. `no —` is still adequate here because A introduced
     new evidence (S571) — B''s counter must respond to it. The form: `la-tu se lo-si-zo-be`
@@ -9819,7 +9819,7 @@ sentences:
   - W030
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S573
   notes: 'A''s strongest move. Instead of further personal evidence, A appeals to
     `to-su` (established knowledge / the canonical diagnostic record). `la-to-su si
@@ -9846,7 +9846,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S574
   notes: 'DIAGNOSTIC. This is the form B would produce if following the Round 1–2
     correction pattern mechanically. The content is identical to B''s prior challenges
@@ -9872,7 +9872,7 @@ sentences:
   first_attests: []
   gap_refs:
   - OQ-COR-001
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S575
   notes: '`ke` is the correct form here. The denial of the thermal hypothesis is implied
     — the committee already holds it as B''s established position. B does not need
@@ -9898,7 +9898,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S576
   notes: 'Same content as S575, added force marker `!`. In a heated committee room
     where A has just appealed to the canonical record — "the doctrine is on my side"
@@ -9918,7 +9918,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S577
   notes: 'Testing whether `ya` (attention-signal) can do the work of `ke` (pivot particle)
     in this position. `ya, [clause]` = "attend to this claim." It directs the committee''s
@@ -9945,7 +9945,7 @@ sentences:
   - W041
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S578
   notes: 'Tests whether `ya` and `ke` stack as clause-initial scope operators. Compare
     to the established stack `ya, ru-fe, [clause]` (S558). The parallel: `ya` (pragmatic
@@ -9974,7 +9974,7 @@ sentences:
   - W100
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S579
   notes: 'A''s opening claim. `la-li-pu ne wi-fe lo-ra-pa` = "The delegation holds
     the willed boundary over the resource territory" = "The delegation has the rule/right
@@ -9995,7 +9995,7 @@ sentences:
   - W100
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S580
   notes: 'B''s counter-claim replaces A''s agent with `pa-pu` (the commons entity):
     "No — the commons holds the right over the resource territory." The denial is
@@ -10016,7 +10016,7 @@ sentences:
   - W100
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S581
   notes: 'A raises the evidential bar from assertion to documentary record. `la-si-su
     ko {…}` = "the treaty text contains [the proposition that…]." The `ti-de` marks
@@ -10037,7 +10037,7 @@ sentences:
   - W100
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S582
   notes: 'B reads the same treaty differently. Same document (`la-si-su`), same structure,
     different embedded proposition: the treaty contains commons-right, not delegation-right.
@@ -10059,7 +10059,7 @@ sentences:
   - W100
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S583
   notes: 'A escalates past the treaty text to the canonical interpretive tradition.
     `la-to-su si {…}` = "established knowledge signals [the proposition that…]." This
@@ -10083,7 +10083,7 @@ sentences:
   - W100
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S584
   notes: 'DIAGNOSTIC. This is the form B would produce at Round 3 if following the
     correction-pattern mechanically. Propositionally identical to S580 and S582. A
@@ -10111,7 +10111,7 @@ sentences:
   first_attests: []
   gap_refs:
   - OQ-COR-001
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S585
   notes: '`ke` is the correct and precise form. B''s denial of the delegation-rights
     claim is implied and already encoded in the session record — re-performing it
@@ -10136,7 +10136,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S586
   notes: 'In treaty negotiation, the formal session record distinguishes two types
     of delegational response: (1) a **lodged objection** — "Delegation B reiterated
@@ -10164,7 +10164,7 @@ sentences:
   - W100
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S587
   notes: 'Same form as S585, considered now as a written submission rather than spoken
     utterance. In formal treaty record, `ke` would appear at the head of a counter-position
@@ -10189,7 +10189,7 @@ sentences:
   first_attests:
   - W171
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S588
   notes: '`/` bi-clausal parallel. `no-fa` = negation of affective substrate = no
     raw reactive emotion. `ne-no-ra` = relation-without-force = peace (W171, first
@@ -10207,7 +10207,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S589
   notes: 'Cleanest line. `no-to` = absence of conceptual pattern = ignorance (composable).
     `to` = knowledge (primitive). Near-tautological in the best sense: `no-{no-to}`
@@ -10225,7 +10225,7 @@ sentences:
   first_attests:
   - W173
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S590
   notes: 'First attestations of `fa-wi-ra` (W172, passion = affect-will-force) and
     `fa-su` (W173, serenity = affect-structure). The negation reveals what passion
@@ -10244,7 +10244,7 @@ sentences:
   first_attests:
   - W174
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S591
   notes: '`no-su` = absence of structure = chaos. `su-ne` = structure-of-relation
     = harmony (W174, first attestation). The parallel reveals the definitions: chaos
@@ -10261,7 +10261,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S592
   notes: 'First explicit registration of `de-zo` (W178, death = organism-decrease,
     non-agentive). First corpus attestation of `ara` (scope-derivation: `a-` + `ra`
@@ -10284,7 +10284,7 @@ sentences:
   - W029
   - W172
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S593
   notes: 'Direct structural inversion of S588: both sentences contain `ne-no-ra ne`,
     but here it is attributed `to-fe-ka` (W029, deliberate epistemic mislabeling =
@@ -10304,7 +10304,7 @@ sentences:
   - W172
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S594
   notes: First link of the Sith causal chain. `go {fa-wi-ra}` = by means of passion
     (necessary causal mechanism — `go`, not `;`; the Sith assert ontological production,
@@ -10321,7 +10321,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S595
   notes: '`go {ra}` = by means of force/strength. `la-mi wi-ra-be` = I grow in directed-power.
     `wi-ra-be` = `wi-ra` (W177, will-force = directed power) + `be` (increasing).
@@ -10340,7 +10340,7 @@ sentences:
   first_attests:
   - W177
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S596
   notes: '`go {wi-ra}` = by means of directed power. `la-mi wi-du-be` = I grow in
     victory. `wi-du-be` = `wi-du` (W175, victory = will-result) + `be` (increasing).
@@ -10361,7 +10361,7 @@ sentences:
   - W175
   - W176
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S597
   notes: 'Agency shift: `la-mi` → `lo-mi`. `lo-mi ko-ne-mu` = the chains that constrain
     me (patient-frame: what affects me). `de-ki` = decrease-enter = enter the state
@@ -10380,7 +10380,7 @@ sentences:
   - W160
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S598
   notes: '`la-ara` = the Force (universal-energy `ara`) as grammatical agent (`la-`).
     `lo-mi` = me as patient. `ka-pa-ki` = liberation act (deliberate action producing
@@ -10404,7 +10404,7 @@ sentences:
   first_attests:
   - W179
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S599
   notes: 'Framing sentence for the batch. `wi-ra-su` (W179) introduced here: `wi-(ra-su)`
     = will of [force-structure] = the disciplined, intentional practice of structured
@@ -10425,7 +10425,7 @@ sentences:
   first_attests:
   - W180
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S600
   notes: '`ko-fe-ki` (W180): `ko-(fe-ki)` = containing of [limit-change] = the art
     of manipulating protective limits. `lo-ko-fe` = containing-limit as patient =
@@ -10446,7 +10446,7 @@ sentences:
   first_attests:
   - W181
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S601
   notes: '`pa-be-ki` (W181): `pa-(be-ki)` = spatial [emergence-change] = the art of
     making things appear in space. `lo-be-pa` = spatial-emergence as patient = what
@@ -10466,7 +10466,7 @@ sentences:
   first_attests:
   - W182
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S602
   notes: '`to-se-ki` (W182): `to-(se-ki)` = pattern [perception-change] = the art
     of transforming perception to access hidden knowledge. The patient `lo-so-to`
@@ -10488,7 +10488,7 @@ sentences:
   first_attests:
   - W183
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S603
   notes: '`wi-fa-ki` (W183): `wi-(fa-ki)` = willed [affect-shift] = intentional deployment
     of affect-register manipulation. Builds directly on `fa-ki` (W093, affect-register
@@ -10509,7 +10509,7 @@ sentences:
   first_attests:
   - W184
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S604
   notes: '`ra-be-ki` (W184): `ra-(be-ki)` = force [manifestation-change] = the art
     of directing how force manifests. Careful parse avoids `ra-ki` (W038, storm).
@@ -10531,7 +10531,7 @@ sentences:
   first_attests:
   - W185
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S605
   notes: '`ge-se-ki` (W185): `ge-(se-ki)` = quality [perception-change] = the art
     of altering how qualities are perceived. Patient `lo-ge-se` = quality-of-perception
@@ -10554,7 +10554,7 @@ sentences:
   first_attests:
   - W178
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S606
   notes: '`de-zo-ki` (W186): `de-(zo-ki)` = death-threshold [organism-change] = the
     art of transforming living things across or through the death state. Builds on
@@ -10576,7 +10576,7 @@ sentences:
   first_attests:
   - W187
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S607
   notes: '`ge-ki` (W187): `ge` + `ki` = quality-change. The only 2-root school compound
     — all others (W180-W186) are 3-root. The structural simplicity is appropriate:
@@ -10597,7 +10597,7 @@ sentences:
   - W185
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S608
   notes: 'Bi-clausal parallel `/` used as contrast frame (not antithetical but structural
     opposition). `be` = emergent-process verb. Both schools use `be` as the predicate:
@@ -10622,7 +10622,7 @@ sentences:
   first_attests:
   - W188
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S609
   notes: 'Framing sentence. `wi-li` = will-of-a-person = an agent''s dispositional
     character. The `/` parallel expresses simultaneous co-predication on two independent
@@ -10643,7 +10643,7 @@ sentences:
   - W190
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S610
   notes: 'W188 + W190. Maximum on both axes. The Paladin keeps oaths (`wi-su`), protects
     the innocent (`wi-vo`). The most constrained and most demanding alignment: structure
@@ -10663,7 +10663,7 @@ sentences:
   first_attests:
   - W192
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S611
   notes: W192 + W190. First attestation of `wi-su-fe` (W192). The Cleric pursues maximum
     good (`wi-vo`) without being bound by rigid structure (`wi-su-fe` = at the structural
@@ -10684,7 +10684,7 @@ sentences:
   first_attests:
   - W189
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S612
   notes: W189 + W190. First attestation of `wi-no-su` (W189). Structural freedom in
     service of genuine benefit. The Ranger operates outside institutional law, serves
@@ -10704,7 +10704,7 @@ sentences:
   first_attests:
   - W193
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S613
   notes: 'W188 + W193. First attestation of `wi-vo-fe` (W193). The Soldier follows
     orders (`wi-su`) without strong moral investment in outcomes (`wi-vo-fe` = at
@@ -10723,7 +10723,7 @@ sentences:
   - W193
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S614
   notes: 'W192 + W193. The only alignment using BOTH neutral terms. Structural symmetry:
     both sides of `/` have the same form (`ne wi-X-fe`). This mirrors TN''s position
@@ -10742,7 +10742,7 @@ sentences:
   - W193
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S615
   notes: 'W189 + W193. Maximum structural freedom, indifferent ethics. The Rogue pursues
     personal interest without concern for order or virtue. CN is associated with maximum
@@ -10762,7 +10762,7 @@ sentences:
   first_attests:
   - W191
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S616
   notes: 'W188 + W191. **First standalone attestation of `wi-de` (W191).** Confirms
     the compound hierarchy: `wi-de` (evil quality) was previously only a component
@@ -10784,7 +10784,7 @@ sentences:
   - W192
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S617
   notes: 'W192 + W191. Structure is purely instrumental for the Villain — uses order
     when useful, chaos when not. The ethics axis is maximally negative: harm-directed
@@ -10803,7 +10803,7 @@ sentences:
   - W191
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S618
   notes: 'W189 + W191. Maximum on both extremes. CE is the alignment of destruction
     for its own sake. The bi-axial sentence makes explicit: the chaos and the evil
@@ -10824,7 +10824,7 @@ sentences:
   first_attests:
   - W196
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S619
   notes: 'W196 first attestation. `pa-ne-su` = space-relation-structure = the cosmological
     system constituted by the structured network of inter-plane relations. Right-branching:
@@ -10842,7 +10842,7 @@ sentences:
   - W138
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S620
   notes: 'Topic frame construction (`:`) — `a-pa` (scope-derived: `a-` + `pa` = abstract/universal
     space) is the topic; `pa-fe` (bounded space) is the predicate. **`a-pa` merge
@@ -10863,7 +10863,7 @@ sentences:
   - W194
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S621
   notes: 'W194 first attestation. `pa-ma` = matter-space = the cosmological domain
     where `ma` (matter/substance) is the primary constituent. Contrast with `pa-su`
@@ -10879,7 +10879,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S622
   notes: First corpus attestation of `e-pa` (`e-` = emergent/transitional + `pa` =
     space). The Ethereal Plane overlaps the Material and Inner Planes and is the liminal
@@ -10898,7 +10898,7 @@ sentences:
   first_attests:
   - W195
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S623
   notes: 'W195 first attestation. `to-pa` = thought-realm = the space where `to` (thought/pattern)
     is the primary constituent. In D&D, condensed thought becomes solid matter in
@@ -10916,7 +10916,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S624
   notes: First corpus attestation of `u-pa` (`u-` = interior/foundational + `pa` =
     space). The Inner Planes are the elemental substrate of D&D cosmology — the foundational
@@ -10933,7 +10933,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S625
   notes: 'First corpus attestation of `o-pa` (`o-` = collective/distributed + `pa`
     = space). The Outer Planes are arranged in a ring — the "wheel" — each distinct
@@ -10952,7 +10952,7 @@ sentences:
   - W190
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S626
   notes: 'Co-predicative `/`: Celestia is an `o-pa` (Outer Plane) AND has `wi-su`
     (W188, lawful will) + `wi-vo` (W190, good will). DND-002 alignment vocabulary
@@ -10971,7 +10971,7 @@ sentences:
   - W191
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S627
   notes: 'Formally parallel to S626 — same `(o-pa / ne wi-su ne wi-X)` frame, `wi-de`
     (W191) replacing `wi-vo`. The structural parallelism shows Celestia and Baator
@@ -10992,7 +10992,7 @@ sentences:
   - W193
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S628
   notes: 'W192 + W193. Identical double-neutral construction to S614 (TN druid, DND-002).
     The Outlands is the cosmological embodiment of True Neutrality; S628 and S614
@@ -11014,7 +11014,7 @@ sentences:
   - W092
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S629
   notes: '`go  ka-be  zo-li-su` = causal-temporal framing: as origin-cause events
     accumulate/increase in people-structure. `ka-ne-de` (W092) = deliberate relational
@@ -11033,7 +11033,7 @@ sentences:
   first_attests:
   - W199
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S630
   notes: 'W199 first attestation. `la-yu` = we (agentive). `to` used as verb: to know
     / hold as knowledge. `su-to` (W199) = self-evident proposition = truth whose ground
@@ -11052,7 +11052,7 @@ sentences:
   - W174
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S631
   notes: '`go-li` = origin-person = creator (composable; no W-entry needed). `be`
     = deliberate increase = made/established. `o-zo-li` = collective-persons = all
@@ -11071,7 +11071,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S632
   notes: '`lu-` beneficiary frame: the rights are what the persons receive as endowment.
     `vo-ne-no-fe` = THO-001 extremal construction: `vo-ne` (W118, righteous-relational-standing
@@ -11093,7 +11093,7 @@ sentences:
   first_attests:
   - W198
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S633
   notes: W197 (`fa-vo`, happiness) and W198 (`pa-ki-su`, liberty) first attestations.
     Three-item `/` parallel list — the Declaration's canonical triad. `zo` (primitive)
@@ -11116,7 +11116,7 @@ sentences:
   - W190
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S634
   notes: '`go  vo-ne-no-fe,` = purpose framing: for the sake of unalienable rights.
     `be` = institute / establish. `/` parallel: first clause = persons establish governance;
@@ -11140,7 +11140,7 @@ sentences:
   first_attests:
   - W118
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S635
   notes: '`go  ka-li-su  ne  ka-de` = causal-conditional: governance''s relational
     state (`ne`) becomes `ka-de` (deliberately destructive). `,` boundary. `la-o-zo-li  vo-ne`
@@ -11160,7 +11160,7 @@ sentences:
   - W147
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S636
   notes: '`be` = institute / increase. `ka-be` = deliberately-established, freshly-instituted
     = new. `go  to` = grounded in / derived from `to` (primitive: thought/reason/conceptual
@@ -11183,7 +11183,7 @@ sentences:
   - W198
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S637
   notes: '`pa-ki-su` (W198) = liberty-state = Free. `no-ne-fe` (W075) = no-relation-boundary
     = independent. `/` parallel pairs the positive claim (liberty as a structured
@@ -11206,7 +11206,7 @@ sentences:
   - W199
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S638
   notes: 'Cross-batch synthesis: DOI-001 × THO-001 × W000. `vo-ne-no-fe` predicated
     on `go-ne` (W159, self-originating relation = "I AM WHO I AM"): unalienable rights
@@ -11238,7 +11238,7 @@ sentences:
   - W200
   - W202
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S639
   notes: 'Direct rendering of §230(c)(1). Three roles introduced: `su-ka-li` (W200,
     service-provider = "provider"), `to-ki''ne-su` (W202, online platform = "interactive
@@ -11263,7 +11263,7 @@ sentences:
   - W202
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S640
   notes: '`si-mu` (W039) = relay device, signal transceiver — precisely captures the
     platform''s structural role: it transmits, not originates. `lu-zo-li` = for-the-benefit-of
@@ -11289,7 +11289,7 @@ sentences:
   first_attests:
   - W201
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S641
   notes: 'The editorial-judgment exception. `go {premise}, du {result}` causal conditional.
     `ka-to-fe` (W122) = deliberate epistemic bounding = editorial judgment / curation.
@@ -11317,7 +11317,7 @@ sentences:
   first_attests:
   - W025
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S642
   notes: '`to-su-ki` (W025) = comprehend, enter organized knowledge. `lo-to-fe su-ka-li
     ne si-go-li` = the epistemic-boundary of [the relation between] service-provider
@@ -11341,7 +11341,7 @@ sentences:
   - W122
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S643
   notes: '`su-to` (W199) = self-evident proposition. §230(c)(1) does not assert that
     platforms ARE NOT publishers — it mandates that they MUST NOT BE TREATED AS publishers.
@@ -11370,7 +11370,7 @@ sentences:
   - W201
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S644
   notes: 'Synthesis of CDA-001. `/  ke,` construction: first clause (from S643) establishes
     what §230 IS (a prescriptive categorization rule); `ke,` pivots to the unresolved
@@ -11394,7 +11394,7 @@ sentences:
   first_attests:
   - W204
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S645
   notes: 'W204 (`su-zo-ko`) first attestation. The mandate itself is structurally
     clean: there is a rule (`wi-fe`), an agent (`i-zo-li` = the particular person
@@ -11418,7 +11418,7 @@ sentences:
   first_attests:
   - W203
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S646
   notes: 'W203 (`wi-fe''de`) first attestation. `wi-fe''de` = juncture compound: `[wi-fe]`
     + `de` = rule-decrease = the decrease imposed by the rule. Written `wife''de`
@@ -11445,7 +11445,7 @@ sentences:
   first_attests:
   - W205
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S647
   notes: 'W205 (`ka-li-de`) first attestation. The parallel `/` construction puts
     identical sentence structure on both sides with the single difference: `no-ka-li-de`
@@ -11473,7 +11473,7 @@ sentences:
   - W205
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S648
   notes: '`ne to-fe X` = "occupies the epistemic boundary of X" = exists at the edge
     of the X-category. The Roberts finding compressed: §5000A(b) was deliberately
@@ -11498,7 +11498,7 @@ sentences:
   - W205
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S649
   notes: '`wi-fe''ka-to-fe` = W100 + W122 juncture compound = the rule-that-assigns-categories
     = normative categorization. Roberts did not *discover* that §5000A(b) is a tax
@@ -11528,7 +11528,7 @@ sentences:
   - W205
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S650
   notes: 'The `~` is in its **structural mode** (spec/phonology.md § `~` Approximation
     Mark, structural sub-section): imprecision belonging to the source system, not
@@ -11556,7 +11556,7 @@ sentences:
   first_attests:
   - W206
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S651
   notes: 'W206 (`ra-ka-li`) first attestation. `ra-ka` = volitional force-action =
     the fighter''s predicate (purposeful combat). `lo-zo-li` (W148, human persons)
@@ -11577,7 +11577,7 @@ sentences:
   first_attests:
   - W207
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S652
   notes: 'W207 (`to-ra-li`) first attestation. `ra-be` = force-increase/emergence
     = force manifests. `go to` = from/because of knowledge = the force''s source is
@@ -11597,7 +11597,7 @@ sentences:
   first_attests:
   - W208
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S653
   notes: 'W208 (`se-de-li`) first attestation. Bare predicate `se-de` — the rogue
     evades detection in general, no specific target identified. The sentence is minimal
@@ -11618,7 +11618,7 @@ sentences:
   first_attests:
   - W209
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S654
   notes: 'W209 (`vo-ra-li`) first attestation. Structural parallel to S652 (wizard):
     `ra-be go vo` vs `ra-be go to`. The cleric''s force comes from `vo` (sacred worth/value);
@@ -11638,7 +11638,7 @@ sentences:
   first_attests:
   - W210
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S655
   notes: 'W210 (`zo-re-li`) first attestation. `ko` = containment predicate (is within
     / belongs to). `lo-re-zo` = patient: `re-zo` = cycle-of-organisms = life-cycle
@@ -11658,7 +11658,7 @@ sentences:
   first_attests:
   - W211
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S656
   notes: 'W211 (`wi-vo-li`) first attestation. Bi-clausal parallel (`/`): first clause
     = the oath (`wi lo-vo` = wills toward worth); second clause = the combat action
@@ -11680,7 +11680,7 @@ sentences:
   first_attests:
   - W212
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S657
   notes: 'W212 (`zo-ki-li`) first attestation. `ki` = motion/movement as predicate.
     `lo-pa-fe` (W138, boundary-space/frontier) = the ranger''s canonical destination.
@@ -11701,7 +11701,7 @@ sentences:
   first_attests:
   - W213
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S658
   notes: 'W213 (`so-vo-li`) first attestation. `so-vo` = sonic worth = the bard''s
     act (acoustic performance that creates value). `lu-zo-li` (W148, persons) = beneficiary
@@ -11722,7 +11722,7 @@ sentences:
   first_attests:
   - W214
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S659
   notes: 'W214 (`ko-ha-mu`) first attestation. Bare-verb imperative; no `la-` agent
     (instruction register: agent = immediate addressee). `ha-ki` = thermal-change
@@ -11742,7 +11742,7 @@ sentences:
   first_attests:
   - W215
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S660
   notes: 'W215 (`ma-ne-ki`) first attestation. `ma-ne-ki` = matter-[relational-motion]
     = the action of bringing matter into relational unity through motion = mix/combine.
@@ -11761,7 +11761,7 @@ sentences:
   - W215
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S661
   notes: '`no-ne-ko-mu` = non-relation-vessel = a vessel unconnected to the previous
     = a separate bowl. `pa-no-ne-ko-mu` sentence-initial = location shift. `su''ma-zo-ra-ma`
@@ -11780,7 +11780,7 @@ sentences:
   - W215
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S662
   notes: First double-patient construction in the corpus. `lo-X ne lo-Y` = patient
     X bonded-to patient Y = X and Y jointly as the patient of the combining action.
@@ -11802,7 +11802,7 @@ sentences:
   - W214
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S663
   notes: '`;` separates placement (imperative) from baking (oven-as-agent). `zo-ra-ma-su`
     = structured food material = the mixed dough ready for baking (W144 + `su`). `la-ko-ha-mu`
@@ -11825,7 +11825,7 @@ sentences:
   first_attests:
   - W216
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S664
   notes: 'W216 (`ha-zo-ra-ma`) first attestation. Phase-change landmark: in S663 the
     material was `zo-ra-ma-su` (raw dough); here, post-baking, it is `ha-zo-ra-ma`
@@ -11846,7 +11846,7 @@ sentences:
   first_attests:
   - W101
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S665
   notes: 'W101 (`su-ti`) first corpus attestation. `lo-X su-ti Y` = X is currently
     in state Y (static snapshot — no change implied). Y here is `no-ra` (zero-force
@@ -11865,7 +11865,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S666
   notes: '`su-ti-de` = past configuration (W101 + temporal suffix `-de` = past/decay).
     First attestation of the past-state derived form. Timeline: was powered (S666),
@@ -11881,7 +11881,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S667
   notes: '`su-ti-be` = expected future/target configuration (W101 + suffix `-be` =
     growth/expected). First attestation of the target-state derived form. The three
@@ -11899,7 +11899,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S668
   notes: 'First corpus attestation of `wi-fe-ka` (W100 derived: willed-boundary as
     applied to a specific act = the act is prohibited by rule). Patient `be-ra` =
@@ -11917,7 +11917,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S669
   notes: '`no-wi-fe-ka` = not-rule-forbidden = permitted (compositional: `no-` + `wi-fe-ka`).
     First attestation. Patient `no-be-ra` = no-growth-force = decreasing power. Minimal
@@ -11935,7 +11935,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S670
   notes: 'Extension of the DIP-001 rights-claim pattern (`la-X ne wi-fe lo-Y` = X
     holds rule over Y): `ne wi-fe-ka` attributes the prohibiting form specifically
@@ -11954,7 +11954,7 @@ sentences:
   - W099
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S671
   notes: 'Connects W101 (`su-ti-be`, target state) with W099 (`wi-re`, feedback regulation),
     confirming the structural relationship noted in W101''s registry entry: "a feedback
@@ -11977,7 +11977,7 @@ sentences:
   first_attests:
   - W217
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S672
   notes: 'Authority construction via DIP-001 pattern: `la-X  ne  wi-ra  lo-Y` = X
     holds directed-power over Y. `wi-ra` (W177) serves as the mediating property connecting
@@ -12000,7 +12000,7 @@ sentences:
   first_attests:
   - W218
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S673
   notes: 'W218 (`ka-be-ne`, deliberate bond-creation) first corpus attestation. `lu-ko-mu`
     uses the result/beneficiary slot as a spatial destination: the vessel is what
@@ -12018,7 +12018,7 @@ sentences:
   - W052
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S674
   notes: '`ka-fe-si` = deliberately-impose-boundary-signal = seal (compositional:
     `ka` + `fe-si` W024; no registry entry). `go-si` = "by means of / originating
@@ -12037,7 +12037,7 @@ sentences:
   - W052
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S675
   notes: '`li-Bavel` = person-of-Bavel = Babylonian (Bavel = Hebrew name for Babylon).
     Group NP with `la-` agent prefix: Babylonians-as-agent. W034 (`se-ka`, examination/deliberate
@@ -12055,7 +12055,7 @@ sentences:
   - W052
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S676
   notes: '`ka-no-ko` = deliberately-act-toward-no-containment = open a sealed container.
     Compositional: `ka` (deliberate) + `no` (negation) + `ko` (containment/interior).
@@ -12073,7 +12073,7 @@ sentences:
   - W217
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S677
   notes: '`go-ka-no-ko''ko-mu` = "caused by [the opening]-of-[the vessel]." First
     `go-[action''object]` causal nominalization in the corpus: `''` juncture binds
@@ -12092,7 +12092,7 @@ sentences:
   - W207
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S678
   notes: 'First use of the proper-noun time-slot pattern: `ti-re-[Planet]` = the recurring
     time-slot attributed to that planet by tradition. `ti-re` (W103, recurring time
@@ -12118,7 +12118,7 @@ sentences:
   first_attests:
   - W120
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S679
   notes: 'Duration topic frame: `gal nu lu-ti` (three day-units, using `lu-ti` W140)
     as the sentence-initial topic = "for three days." `ne ne-fe` = holds as requirement
@@ -12140,7 +12140,7 @@ sentences:
   - W207
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S680
   notes: 'W137 (`vo-mu`) first corpus attestation — status promoted from proposed
     (⚠️) to active (✅). `yim-vo-mu` = white-garment compound: `yim` (CVC color, white)
@@ -12162,7 +12162,7 @@ sentences:
   - W207
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S681
   notes: 'Second use of the `ti-re-[Planet]` pattern — confirming it is productive
     across the planetary-hour system without requiring separate entries per planet.
@@ -12184,7 +12184,7 @@ sentences:
   - W207
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S682
   notes: '`ka-fe-vo` = deliberately make sacred = consecrate. Compositional: `ka`
     (deliberate action) + `fe-vo` (W065, sacredness / set-apart quality). No new registry
@@ -12206,7 +12206,7 @@ sentences:
   - W177
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S683
   notes: 'W219 (`fe-vo''si-ko-mu`, consecrated inscribed object / pentacle) first
     corpus attestation. The `''` juncture is mandatory — without it the chain defaults
@@ -12230,7 +12230,7 @@ sentences:
   - W178
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S684
   notes: 'First corpus use of the `a-` scope prefix in a syllogistic major premise.
     `a-zo-li` = universal-person = "persons in the abstract / all persons" — `a-`
@@ -12250,7 +12250,7 @@ sentences:
   - W148
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S685
   notes: Minor premise of the classical syllogism. `Sokrates` = phonologically adapted
     proper name (Greek /Sōkrátēs/ → Tonesu `Sokrates`, stress-initial, five-letter
@@ -12271,7 +12271,7 @@ sentences:
   - W178
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S686
   notes: 'First stacked double-`go {P}, go {P}, C` in corpus. Stack trace: first `go`
     opens a subordinate clause level; `ne de-zo` (the complete predicated property
@@ -12295,7 +12295,7 @@ sentences:
   - W101
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S687
   notes: 'Intentionally weaker form of the Cogito. `;` = Humean constant conjunction
     — two sequential observations recorded without any claim that the first grounds
@@ -12318,7 +12318,7 @@ sentences:
   - W101
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S688
   notes: 'Correct Cogito (Descartes, *Meditationes*, 1641). `go` = epistemic grounding
     — the reasoning in the premise clause is the constitutive ground for the existence-claim
@@ -12344,7 +12344,7 @@ sentences:
   - W101
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S689
   notes: 'Reductio ad absurdum structure in three clauses joined by `;`. Clause 1:
     `to-go {no-ki}, no-re` = counterfactual conditional — if motion-absence held:
@@ -12371,7 +12371,7 @@ sentences:
   - W178
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S690
   notes: 'Existential reading via `i-` (precise/particular scope prefix): "the particular-persons
     [that exist here] have the mortality property." Contrast with S684 (`a-zo-li ne
@@ -12396,7 +12396,7 @@ sentences:
   - W197
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S691
   notes: 'Test of event nominalization under causal framing. Lojban equivalent: `lo
     nu mi klama cu pluka mi` ("the event of my going pleases me") — where `lo nu mi
@@ -12421,7 +12421,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S692
   notes: 'Predicate negation (maps to Lojban `na''e`). `su-mu` = structural artifact
     = building/constructed object (compositional: `su` [structure] + `mu` [artifact],
@@ -12444,7 +12444,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S693
   notes: 'Claim negation (maps to Lojban `na`). Fronted `no` denies the entire proposition
     — the whole predication `la-su-mu ne pom` fails. Established by S550 precedent
@@ -12471,7 +12471,7 @@ sentences:
   - W178
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S694
   notes: 'Propositional belief attribution (maps to Lojban `mi jinvi lo du''u la .sokrates.
     morsi`). `to` (primitive: thought/concept/pattern) + `{proposition}` as the belief-content
@@ -12495,7 +12495,7 @@ sentences:
   - W178
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S695
   notes: 'Propositional knowledge attribution (maps to Lojban `mi djuno lo du''u la
     .sokrates. morsi`). `to-su` (W030, organized knowledge/framework) + `{proposition}`
@@ -12523,7 +12523,7 @@ sentences:
   - W220
   - W221
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S696
   notes: 'Three-clause sequential chain via `;` (constant conjunction without causal
     claim): (1) Aaron deliberately-acted on the staff = cast it; (2) the staff underwent
@@ -12551,7 +12551,7 @@ sentences:
   - W207
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S697
   notes: '`na-Faro` = Pharaoh; first proper-name attestation (Hebrew: Par''oh). `si-ki`
     = directed signal = summons/call (signal aimed at a recipient). `lo-to-ra-li`
@@ -12574,7 +12574,7 @@ sentences:
   - W207
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S698
   notes: '`lo-zo-su-mu-ne` = patient: their staffs; `ne` (bond/connection) appended
     as possessive = the staffs bonded to them. `go-si` = signal-means = "by way of
@@ -12598,7 +12598,7 @@ sentences:
   - W220
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S699
   notes: 'Subject-initial, agentless parallel transformation chain: mirrors the second
     two clauses of S696 but applied to the sorcerers'' staffs (`zo-su-mu-ne` = their
@@ -12619,7 +12619,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S700
   notes: '`zo-ki-ma-na-Aharon` = Aaron''s-serpent = the transformed serpent belonging
     to Aaron (possessive chain: thing + `na-` + name). `ko-de` = containment-decrease
@@ -12645,7 +12645,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S701
   notes: 'Bi-clausal parallel (`/`) pairing Pharaoh''s internal volitional state with
     his external non-reception. `wi-fe-ki` = will-boundary-inchoative = the will entering
@@ -12676,7 +12676,7 @@ sentences:
   first_attests:
   - W224
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S702
   notes: 'Sun Tzu, Chapter 1.18 (Giles: "All warfare is based on deception"; Chinese:
     兵者，詭道也). `a-ka-ra` = `a-` scope prefix (abstract/universal) + `ka-ra` (W222: combat)
@@ -12701,7 +12701,7 @@ sentences:
   - W222
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S703
   notes: 'Sun Tzu on the centrality of rapidity (cp. Chapter 11: 兵之情主速, "The essential
     character of warfare prizes speed"). Parallel structure to S702: both are `[subject]
@@ -12727,7 +12727,7 @@ sentences:
   first_attests:
   - W223
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S704
   notes: 'Sun Tzu, Chapter 3.2 (Giles: "supreme excellence consists in breaking the
     enemy''s resistance without fighting"). `ra-no-fe` = [ra]-no-fe extremal = unbounded
@@ -12756,7 +12756,7 @@ sentences:
   - W223
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S705
   notes: 'Sun Tzu, Chapter 3.18 (Giles: "If you know the enemy and know yourself,
     you need not fear the result of a hundred battles"). Know-yourself triptych, Part
@@ -12789,7 +12789,7 @@ sentences:
   - W223
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S706
   notes: 'Sun Tzu, Chapter 3.18 (Giles: "If you know yourself but not the enemy, for
     every victory gained you will also suffer a defeat"). Know-yourself triptych,
@@ -12818,7 +12818,7 @@ sentences:
   - W223
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s549-s707.md
   source_anchor: S707
   notes: 'Sun Tzu, Chapter 3.18 (Giles: "If you know neither the enemy nor yourself,
     you will succumb in every battle"). Know-yourself triptych, Part 3: neither known
@@ -12845,7 +12845,7 @@ sentences:
   - W197
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S708
   notes: 'Machiavelli, *The Prince* Ch 17 (Giles/Ricci: "it is much safer to be feared
     than loved"). `wi-ra` (W177: directed power/authority) as topic NP; `:` topic
@@ -12876,7 +12876,7 @@ sentences:
   first_attests:
   - W225
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S709
   notes: 'Machiavelli, *The Prince* Ch 18 ("It is not necessary for a prince to have
     the above-named qualities, but it is very necessary to appear to have them").
@@ -12904,7 +12904,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S710
   notes: 'Dark Triad — Narcissism. The narcissist''s core implicit claim: the self
     has unbounded force-worth. `mi` = self, first person (primitive). `ne` = property
@@ -12930,7 +12930,7 @@ sentences:
   - W224
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S711
   notes: 'Dark Triad — Machiavellianism. `wi {}` = purpose frame ("in order that /
     so that"), looking forward to intended outcome. `wi {la-mi ra-be}` = with the
@@ -12959,7 +12959,7 @@ sentences:
   first_attests:
   - W095
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S712
   notes: 'Dark Triad — Psychopathy. `go {fa-no}` = because [condition: affect-inactive].
     First use of `go {}` with an **agentless state predicate** as premise: `fa-no`
@@ -12992,7 +12992,7 @@ sentences:
   - W224
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S713
   notes: 'Dark Triad synthesis. All three traits in a `;` triple chain: narcissism
     (`mi ne ra-no-fe-vo`) → Machiavellianism (`wi {la-mi ra-be}, la-mi ka-si-de`)
@@ -13026,7 +13026,7 @@ sentences:
   first_attests:
   - W135
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S714
   notes: 'Marx, *Theses on Feuerbach* §XI (1845): "Philosophers have only interpreted
     the world, in various ways; the point is to change it." `ru-fe,` = exclusive scope
@@ -13060,7 +13060,7 @@ sentences:
   - W218
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S715
   notes: 'Marx & Engels, *The Communist Manifesto* (1848), closing line: "Workers
     of the world, unite!" **FIRST CORPUS IMPERATIVE.** Grammar rule: omit `la-tu`
@@ -13091,7 +13091,7 @@ sentences:
   first_attests:
   - W226
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S716
   notes: 'Marx, *A Contribution to the Critique of Hegel''s Philosophy of Right* (1844):
     "Religion is the opium of the people." `fa-ra-su` = W226 (new entry, first attestation):
@@ -13121,7 +13121,7 @@ sentences:
   - W223
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S717
   notes: 'Marx, *Economic and Philosophic Manuscripts of 1844* (alienated labor):
     "The worker becomes poorer the more wealth he produces … The worker puts his life
@@ -13150,7 +13150,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S718
   notes: 'Marx, *Critique of the Gotha Programme* (1875): "From each according to
     his abilities, to each according to his needs!" `la-a-zo-li` = agent-marked `a-zo-li`:
@@ -13184,7 +13184,7 @@ sentences:
   - W178
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S719
   notes: 'Marx, *Capital* Vol I (1867): "Capital is dead labour, that, vampire-like,
     only lives by sucking living labour, and lives the more, the more labour it sucks."
@@ -13222,7 +13222,7 @@ sentences:
   - W215
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S720
   notes: '`du-zo-ki` = compositional first use: `du` (result/effect, primitive) +
     `zo-ki` (motile organism: `zo` living thing + `ki` motion = motile = animal/bird).
@@ -13247,7 +13247,7 @@ sentences:
   first_attests:
   - W227
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S721
   notes: 'W227 `su-ha-mu` first attestation. `su-ha-mu` = structured heat-artifact
     = cooking pan / skillet: `su` (structure/open-arrangement) + `ha` (heat) + `mu`
@@ -13273,7 +13273,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S722
   notes: 'Agent-dropped imperative: pour/add. `du-zo-ki` second appearance (established
     S720). `pa-su-ha-mu` = into/onto the pan (same spatial locative as S721). The
@@ -13293,7 +13293,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S723
   notes: '`ma-ki` = compositional first use: `ma` (matter/substance, primitive) +
     `ki` (motion, primitive) = matter-in-motion = the continuous physical displacement
@@ -13320,7 +13320,7 @@ sentences:
   - W216
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S724
   notes: 'First `go {su-ti [state]}` conditional on a state-check. Grammar §Conditional:
     `go {premise}, result` where premise is a causal/conditional ground. Here the
@@ -13348,7 +13348,7 @@ sentences:
   - W216
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S725
   notes: 'Recipe-completion verdict. `ha-zo-ra-ma ne vo` = thermally-treated food
     has the property of worth = is good/ready. Contrast with CKG-001 S664 verdict:
@@ -13374,7 +13374,7 @@ sentences:
   first_attests:
   - W228
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S726
   notes: 'Core claim of string theory. `ki-fe-mu` (W228, first use) = the fundamental
     string: 1D oscillating entity (`ki` motion + `fe` boundary + `mu` artifact). `pe-ma`
@@ -13396,7 +13396,7 @@ sentences:
   - W229
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S727
   notes: '`pa-di` (W229, first use) = dimension: `pa` (space) + `di` (direction) =
     spatial direction = an independent axis of extension. `bol bol` = 11 in positional
@@ -13419,7 +13419,7 @@ sentences:
   - W229
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S728
   notes: '`mol` = 4 (digit). The four observable large dimensions: in M-theory, three
     spatial (pa-di) + one temporal (ti-di) form the familiar 4D spacetime. `pa-di`
@@ -13439,7 +13439,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S729
   notes: '`yom` = 7 (digit). `ko-pa-di` (first use) = compactified dimension: `ko`
     (containment/enclosure) + `pa-di` (spatial direction W229) = an enclosed/rolled-
@@ -13462,7 +13462,7 @@ sentences:
   - W228
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S730
   notes: 'Parallel to S726 (`go {ki-fe-mu}, la-pe-ma ne ki-be`): same causal frame
     (strings as ground), different result. `o-ra` = `o-` (collective scope prefix)
@@ -13487,7 +13487,7 @@ sentences:
   - W228
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S731
   notes: 'The evidential frame `()` wraps the whole sentence, marking its content
     as reported/theorized — not directly asserted or empirically confirmed. This is
@@ -13512,7 +13512,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S732
   notes: 'First use of W230 `wi-no` (unwillingness). The speech''s opening line: a
     commander admitting reluctance before a battle that cannot be won. `la-mi` = I
@@ -13533,7 +13533,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S733
   notes: 'Capability negation + numeric contrast. `la-o-li` = agent: collective-us
     (`o-` collective prefix + `li` person). `no be-vo` = lack capacity (`be-vo` =
@@ -13557,7 +13557,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S734
   notes: 'Truth-pledge with vocative-relative address. `la-mi no [ka-si-no]` = I not
     [deliberately-false-signal]: `ka`(action)+`si`(signal)+`no`(negation) = deliberate
@@ -13583,7 +13583,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S735
   notes: 'Vocative relative + permissive imperative. Structural heart of the speech.
     `he` (G029) = vocative. Relative clause: `[wi ka-ki-de] o-tu` = "[purposing to
@@ -13605,7 +13605,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S736
   notes: 'First use of W231 `de-vo` (shame). Antithetical parallel with `/` (G013,
     vel). This is the antithetical bi-clausal form admitted DKN-001: the two flanking
@@ -13629,7 +13629,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S737
   notes: 'Three-clause dignified release. `;` = sequential connector (constant conjunction).
     `ka-ki-de` = flee/go (imperative, see S735). `la-mi fa-vo lo-o-tu` = I am in positive-affect
@@ -13655,7 +13655,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S738
   notes: 'Identity split + compelled volition. Two-clause sentence joined by `;`.
     First clause: `la-pe-mi ne zo-li` = "my-component is human-person." `pe` (component/part,
@@ -13685,7 +13685,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S739
   notes: 'Epistemic double negation + exclusive scope affirmation. `no-to` = negated
     conceptual knowing = "I don''t know" (confirmed canonical: C007 B2, multiple attestations).
@@ -13712,7 +13712,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S740
   notes: 'Paired `wi`-vow declarations with reinforcing `/`. Both clauses express
     the same volitional act from two angles: first as noun-choice ("I will my death"
@@ -13739,7 +13739,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S741
   notes: 'Tricolon vow — the climax of the speech. Three `;`-joined clauses, each
     `la-mi wi [ka-X]` = "I commit to [deliberate-X]". The repetition of the full `la-mi
@@ -13765,7 +13765,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S742
   notes: 'Causal-negation pivot — the moral rationale for the vow. `no [go {X}]` =
     "not because of [X]" = causal negation (negated causal frame). `be-vo lo-wi-du-mi`
@@ -13789,7 +13789,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S743
   notes: 'Polar interrogative — fronted `to-si` polar question construction in an
     oratorical/address context. `to-si` (fronted before the proposition) = polar question
@@ -13811,7 +13811,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S744
   notes: 'Minimal defiant refusal — first single-word corpus sentence. The collective
     response of the assembled defenders to S743. `no` (primitive root) = negation/absence.
@@ -13833,7 +13833,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S745
   notes: 'Capability baseline — no normative content. `be-vo` = generative/productive
     quality = capacity/ability (compositional: be = growth/increase, vo = worth/quality
@@ -13851,7 +13851,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S746
   notes: 'Prohibition baseline — no capability claim. `wi-fe-ka` (W100 derived) =
     willed boundary on a specific action = the action is prohibited by a rule. Second
@@ -13873,7 +13873,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S747
   notes: '**Core minimal pair A — capability present, permission absent.** Two simultaneously
     true, structurally independent claims joined by `—` (prosodic suspension). Left:
@@ -13897,7 +13897,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S748
   notes: '**Core minimal pair B — capability absent, permission present.** Inverted
     from S747. `no-wi-fe-ka [X]` = no rule-boundary on [X] = X is permitted (first
@@ -13921,7 +13921,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S749
   notes: 'Personal rights-claim using the `la-X ne wi-fe lo-Y` pattern (DIP-001, S579–S582).
     `ka-fe-zo` = deliberate-act-of-living-boundary = medical treatment (ka = intentional
@@ -13946,7 +13946,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S750
   notes: 'Exclusive authority claim. `ru-fe,` (G031) scopes the subsequent proposition
     to a single holder. `zo-fe-li` = living-boundary-person = physician/healer (zo
@@ -13969,7 +13969,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S751
   notes: '**Active authority exercise vs normative property.** Closes the three-level
     modal landscape confirmed by this batch: 1. **Capacity** (`be-vo`, S745–S748)
@@ -13996,7 +13996,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S752
   notes: 'Hebrew parallelism encoded as bi-clausal `/`. Left clause: `fa-de` (affect-decrease
     = grief/sorrow; right-branching: `fa-(de)` = affect [decrease]; compositional;
@@ -14019,7 +14019,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S753
   notes: 'MAP-001 appearance predication `la-X si [Q]` (first attested MAP-001 S708–S709),
     used here to mark the crowd''s misreading. `si` = outward signal/surface-appearance
@@ -14045,7 +14045,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S754
   notes: '**First attestation of substitutionary causal logic.** Two `;`-connected
     intentional passives, each with `go {cause}` attribution. The causal source in
@@ -14074,7 +14074,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S755
   notes: '`ko` = containment/reception predicate (passive reception, no agentive intentionality
     required; attested S068–S071). `lo-wi-fe''de` = the penalty (W203: `wi-fe''de`
@@ -14097,7 +14097,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S756
   notes: '`zo-vo-ki` = living-worth-entry = entering health = to be healed (compositional:
     `zo-(vo-ki)` = living [worth-entry]; first use). `go {ra-de  lo-zo-li}` = because
@@ -14124,7 +14124,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S757
   notes: '- `ka-ki-no` = deliberate-motion-absence = aimless wandering / going astray:
     `ka-(ki-no)` = intentional [motion-absence] = choosing aimless movement. First
@@ -14156,7 +14156,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S758
   notes: '`ka-ne-ki` = deliberate-connection-entry = intentionally causing something
     to converge / to place upon (compositional: `ka-(ne-ki)` = intentional [connection-entry];
@@ -14186,7 +14186,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S759
   notes: '`ta {~ha-lu-ti}` = temporal frame + concept-approximate descriptor: approximately
     [warm-daytime] = "brillig." `lu-ti` (W140) = daytime; `ha` = heat; `~ha-lu-ti`
@@ -14209,7 +14209,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S760
   notes: '`a-"borogoves"` = universal scope prefix `a-` applied to a quoted noun —
     first attestation of V-prefix on a `""` token. `ne ~fa-de` = copula + concept-approximate
@@ -14233,7 +14233,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S761
   notes: '`he na-li-be-mi!` = vocative + kind-term-possessive NP: `he` (vocative particle
     G029) + `na-` (kind-term prefix) + `li-be` (W033, child/growing person) + `-mi`
@@ -14257,7 +14257,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S762
   notes: '`bol, bun!` = digits as combat cadence: `bol` = 1, `bun` = 2 (digit inventory,
     spec/grammar.md). Repeated twice for the double-pass. `la-"vorpal" ra-mu` = agent
@@ -14283,7 +14283,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S763
   notes: '`ta ti-de :` = temporal topic frame: "at past time, [the following]." `ka-ne-de`
     (W092) = deliberate bond dissolution = to sever, leave behind. `[de-zo]` = **result-state
@@ -14312,7 +14312,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S764
   notes: '`ya, "frabjous"!` = attention-signal + quoted exclamation: `ya` (attention
     marker, clause-initial + comma) opens the exclamatory sequence. The quoted tokens
@@ -14338,7 +14338,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S765
   notes: 'The concession-plus-exclusive-commitment structure. `[a-to-fe-ka be lo-a-ne-su]`
     = bracketed concession: universal-fraud can exist in the universal network. `a-`
@@ -14365,7 +14365,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S766
   notes: 'The coercion structure. `la-ra` = the agent is `ra` (force, primitive root)
     — **first use of a bare primitive root as the sentence agent.** The primitive
@@ -14390,7 +14390,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S767
   notes: '**First `si [PROP] / no-to [PROP]` epistemic-grade contrast in running corpus.**
     This is the `si to-fe-ka` hard case. `la-mi si [la-ra-su-li to-fe-ka]` = I have
@@ -14415,7 +14415,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S768
   notes: '`la-ra-su-li` = `ra-su-li` (W225) with `la-` agent. `ka-ko` = deliberate
     containing/holding = control. `lo-to-fe-li` = patient: `to-fe-li` (W032, epistemic
@@ -14439,7 +14439,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S769
   notes: 'Paired imperative in bi-clausal parallel. `no [ka-to-fe-ka]!` = negated-verb
     imperative: "don''t [commit-fraud]!" — stripped bare imperative following SNG-001
@@ -14463,7 +14463,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S770
   notes: 'Reflexive constitutive property attribution via `ne` copula. `la-to-fe-ka`
     = fraud (subject). `ne` = copula (property attribution). `[ka-ne lo-to-fe-ka]
@@ -14487,7 +14487,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S771
   notes: 'Closing causal chain. `go {PREMISE} — RESULT` = standard causal frame (established
     PRF-001). Premise: `[wi-no lo-to-fe-ka]` = bracketed nominalization of the state
@@ -14512,7 +14512,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S772
   notes: 'Base parallel establishing symmetric first-level knowledge. `la-mi to [la-ze
     to-fe-ka]` = personal epistemic modal (`to` = knowledge) with clausal bracket:
@@ -14538,7 +14538,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S773
   notes: '**First iterated epistemic nesting at depth 3 and depth 4 in the running
     corpus.** The left clause of `/` is depth 3: `la-ze to [la-mi to [la-ze to-fe-ka]]`
@@ -14565,7 +14565,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S774
   notes: '`la-a-li` = `a-` (universal/abstract scope prefix) + `li` (person) = all-persons
     — **first use of `a-li` as a universal quantified agent NP**. This extends the
@@ -14593,7 +14593,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S775
   notes: 'Antithetical `/` parallel resolving the paradox of S774. `la-ze wi-ra no
     [si-no]` = they demand not [false-signaling/deception]: `wi-ra` (W177, directed-will/demand)
@@ -14620,7 +14620,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S776
   notes: '**First bracketed-modifier + nominal `ne` predicate structure with `wi-ra`
     as property.** `[a-li to]` = modifier bracket: "universally-known" — `a-li` (all-persons)
@@ -14648,7 +14648,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S777
   notes: 'The `/` parallel marks the two constitutive components of power: actual
     `ra` (raw force, primitive) vs attributed `wi-ra` (the adversary''s cognitive
@@ -14667,7 +14667,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S778
   notes: '`lo-no-to-su` = patient + negation + organized-knowledge = acting toward
     the absence of competence. Causal declarative form: the imperative ("never") follows
@@ -14685,7 +14685,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S779
   notes: Mirror of S778 with `de-li` substituted for `o-li` and `lo-de-li` added to
     specify whose power decreases. Rules 2 and 3 are the same causal principle applied
@@ -14702,7 +14702,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S780
   notes: '`la-ra` = second cross-batch attestation of the depersonified force agent
     (first: SLZ-001-B S766). `wi-fe lo-de-li` = rules belonging to the adversary;
@@ -14719,7 +14719,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S781
   notes: '`si-de-vo` = W232 (new). Parse: `si` (signal) + `[de-vo]` (W121, value-diminishment)
     = a signal that publicly marks the target as worthless/shameful. `ra-vo-be` =
@@ -14737,7 +14737,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S782
   notes: '`fa-vo` (W197) = positive-valence affect, enjoyment. `lo-wi-to` marks the
     tactic as the patient/object of the affect. The causal structure makes this definitional:
@@ -14755,7 +14755,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S783
   notes: '`re` = cycling/repetition applied to `wi-to` (the tactic). `no-ti-fe` =
     no-temporal-boundary = deadline-absent = "too long"; `no-X-fe` extremal pattern
@@ -14772,7 +14772,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S784
   notes: '`wi-ra re` = directed-power cycling = sustained continuous pressure. Third
     function of `re` in corpus: (1) ROM-001 habitual-compulsive, (2) SLZ-002 S774
@@ -14788,7 +14788,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S785
   notes: 'First explicit `fa-ra` grading across a `/` parallel. Left: `fe-si` (W024,
     warning signal) = `fa-ra-vo-be` (highest-intensity fear). Right: `ka-ra` (W222,
@@ -14807,7 +14807,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S786
   notes: '`de-vo` (W121) = the negative. `vo` = the positive. `ki` = motion/change
     = transforms. `ra-vo-be` = at highest force = "hard enough." First dialectical
@@ -14826,7 +14826,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S787
   notes: '`ka-ra wi-du` = attack + victory = successful attack. `ne-fe` (W042) = dependency
     condition/requirement. `be wi-to` = grows a plan = constructive (building) alternative.
@@ -14845,7 +14845,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S788
   notes: 'Four `;`-chained `ka-[TYPE] lo-pa-wi` operations — longest tactical sequence
     in corpus. `ka-ne-de` (W092) = deliberate bond-dissolution = freeze/isolate (sever
@@ -14864,7 +14864,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S789
   notes: '`zo-ma-su` = `zo-ma` (W163, body) + `su` (structure) = posture/body-structure;
     first use. `si lo-wi-ra` = signal of directed-power: posture is read by the social
@@ -14883,7 +14883,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S790
   notes: '`helm` (G011) = functional equivalence. `wi-fe lo-[ka lo-mi]` = the rule
     governing action directed at me; `wi-fe lo-[ka lo-ze]` = the rule governing action
@@ -14900,7 +14900,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S791
   notes: '`ka-be-ne` (W218) = deliberate bond-creation. `wi-vo lo-mi` (W190) = beneficent
     will directed toward me. The `[wi-vo lo-mi]` bracketed relative predicate on `li`:
@@ -14918,7 +14918,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S792
   notes: '`nu-be` = comparison marker (MAP-001 first use). `zo-li-mi ti-de` = person-me
     + past = your past self. `zo-li-ze ti-mi` = person-them + now = another person
@@ -14936,7 +14936,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S793
   notes: '`lo-li-be-mi` = [your] children (patient). `ne vo` = be of value/be good.
     `go {zo-ne ne-fe su}` = the causal ground: the kinship bond (`zo-ne`, W076) requires
@@ -14956,7 +14956,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S794
   notes: '`pa-mi-su` = `pa-mi` (W110, speaker''s location) + `su` (structure/order)
     = the ordered structure of your immediate place; first use. `;` = sequential connector.
@@ -14975,7 +14975,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S795
   notes: '`vo-be` = value + growth = what increases in worth over time = meaningful;
     first use. `du-ki` = result + motion = path toward the quickest outcome = expedient;
@@ -14993,7 +14993,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S796
   notes: 'Two-level structure: the ideal (`si-ki to-ne-su`) and the floor. `ke,` =
     silent pivot: the ideal claim is not re-performed; the following clause advances
@@ -15013,7 +15013,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S797
   notes: '`ka to [...]` = deliberately adopt the model that [...] = "assume." `lo-no-to-mi`
     = patient + negation + knowledge + first-person = what falls outside my cognitive
@@ -15030,7 +15030,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S798
   notes: '`si-mi` = signal of first-person = your speech. `i-to` = `i-` (precise/particular
     scope prefix) + `to` (thought/pattern) = the precise particular thought. First
@@ -15049,7 +15049,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S799
   notes: 'Peterson''s philosophical content: over-protective intervention in dangerous
     play prevents the development of `wi-ra`. `fa-ra-be` = `fa-ra` (W154) + `be` (increase)
@@ -15068,7 +15068,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S800
   notes: '`fa-de-ra` (W155) = suffering. `fa-de-ra be` = suffering is increasing.
     `se fa-vo lo-ru` = perceive positive affect from the singular = attend to the
@@ -15089,7 +15089,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S801
   notes: '`ka-mu-ra` = `ka-mu` (W047, tool/action-instrument) + `ra` (force/energy)
     = force-instrument = weapon; first use. `go {ka-mu-ra}` = the causal origin. `wi-ra
@@ -15108,7 +15108,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S802
   notes: '`ka-no-be-li` = `ka` + `no` + `be` + `li` = person who deliberately acts
     to prevent growth/progress = reactionary; Mao''s ideological definition encoded
@@ -15128,7 +15128,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S803
   notes: '`ge-ki-ka-li-su` = `ge-ki` (W187, fundamental alteration) + `ka-li-su` (W147,
     governance) = revolution; first use. `ne no fa-vo` = has the property of not-pleasant.
@@ -15145,7 +15145,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S804
   notes: Agentless imperative. `ka` = deliberate action (agentless command form).
     `wi-vo` (W190) = beneficent will toward good. `lo-o-li` = toward the collective
@@ -15163,7 +15163,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S805
   notes: '`pu-zo` = `pu` (quantity/plurality primitive) + `zo` (organism) = many living
     things/flowers; first use of `pu` as compound-initial quantity prefix on a noun
@@ -15181,7 +15181,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S806
   notes: '`ru-fe,` = exclusive scope (clause-initial). `la-o-li` = collective persons
     as `la-`-marked agent. `ka-be` = deliberate construction/making. `lo-pa-zo-li-ti-de`
@@ -15201,7 +15201,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S807
   notes: 'Left arm: stated position (refusal of war). `ke,` = silent pivot: the refusal
     is contextually present in the left arm; `ke,` advances without re-performing
@@ -15222,7 +15222,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S808
   notes: 'Four `;`-chained agentless imperatives — matches ALI S788 as longest tactical
     sequence in corpus. `no fa-ra lo-de-zo` = no fear (W154) of death (W178) = fear
@@ -15243,7 +15243,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S809
   notes: '`se-de-li` (W208, rogue/stealth agent) = guerrilla in context. `ne-fe` (W042)
     = structural requirement. `ki ko {o-li}` = move within the collective (containment).
@@ -15263,7 +15263,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S810
   notes: '`ru-fe,` = exclusively (clause-initial). `ka` = deliberate action / practice
     (predicate noun). `to-fe` (W028) = epistemic boundary / the determining threshold
@@ -15282,7 +15282,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S811
   notes: '`no-se-ka` = negation + `se-ka` (W034, examination/inspection) = no investigation.
     `wi-fe` (W100) = right/rule/permission. `lo-si-ki` = patient of signal-transmission
@@ -15301,7 +15301,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S812
   notes: '`a-ne-su` = `a-` (universal scope) + `ne-su` (W031, network) = the universal
     network = everything / the whole situation. `wi-no-su` (W189) = chaotic / will
@@ -15326,7 +15326,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S813
   notes: Three `;`-chained `helm` (functional-equivalence) assertions — not `ne` (property)
     or `helms` (strict identity). The Party slogans claim these pairs are *functionally
@@ -15347,7 +15347,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S814
   notes: '`o-ka-su` (W233) = `o-` (collective scope prefix) + `ka` (governance/action)
     + `su` (structure) = collective-governance-structure = the Party / state apparatus
@@ -15370,7 +15370,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S815
   notes: '`ka-nu-to` = `ka` (deliberate) + `nu` (numeric/dual) + `to` (knowledge)
     = deliberate dual-knowing = doublethink; first use. `helms` (strict definitional
@@ -15393,7 +15393,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S816
   notes: '`ti-de` (W041) = past time. `ti-be` (W040) = morning/proximate future; used
     here for "the future" — the proximate-future reading: Orwell''s claim is about
@@ -15413,7 +15413,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S817
   notes: '`wi-no-fe` = freedom (second use; `[wi]-no-fe` extremal; see S813). `ne`
     = property attribution (freedom *has* this property; not a `helms` definition
@@ -15435,7 +15435,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S818
   notes: '`to-no-wi-fe` = `to` (knowledge/thought) + `no` (negation) + `wi-fe` (W100,
     right/rule) = thought-without-right = thoughtcrime; first use. Left arm denies
@@ -15456,7 +15456,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S819
   notes: '`ru-fe,` = exclusive scope (clause-initial). `la-o-ka-su` = Party as agent.
     `wi-ra` = directed will (the Party wills). `lo-wi-ra` = patient: power itself.
@@ -15477,7 +15477,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S820
   notes: '`ka-mu` (W047) = deliberate-change instrument = means/tool. `ne no ka-mu`
     = is not a means. `ka-du` = `ka` (deliberate action) + `du` (result root, as in
@@ -15499,7 +15499,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S821
   notes: '`be-to-su` = `be` (growth) + `to-su` (W030, organized knowledge) = growth-in-organized-knowledge
     = becoming conscious; first use. `ka-ne-su` = `ka` (deliberate action) + `ne-su`
@@ -15526,7 +15526,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S822
   notes: '`to-su` (W030) = organized knowledge / doctrine = orthodoxy. `helms` = correct:
     Syme gives a structural definition. `no ka-to` = not deliberate thinking (`ka`
@@ -15549,7 +15549,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S823
   notes: '`to-no-si` = `to` (knowledge) + `no` (negation) + `si` (signal) = unsignaled-knowledge
     = secret; first use. `wi lo-to-no-si` = willing secrecy. The `go {}` makes this
@@ -15572,7 +15572,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S824
   notes: '`zi-ka` (W105) = intentional exchange event = meeting. `ko {}` = containment/within.
     `pa-si` = `pa` (place) + `si` (signal) = signal-place = the place where signal
@@ -15594,7 +15594,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S825
   notes: Causal-universal rendering of Browning's central rhetorical question. `go-su`
     (W235) first use as causal agent in `go {}` frame. `ka-de-zo` (W128) first non-Biblical
@@ -15611,7 +15611,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S826
   notes: '`wi-ka` = will-act = voluntarily chosen action. First use. Contrast with
     `su-ka` in S831. The `;` marks: absence of structural requirement does not prevent
@@ -15629,7 +15629,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S827
   notes: '`wi-ka` as patient of `ra` = individual choice as the object of group pressure.
     `vo-fe` = goodness-boundary = moral norm. First use of both `wi-ka` as patient
@@ -15646,7 +15646,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S828
   notes: Temporal sequence `;` without mechanism specified — the mechanism of habituation
     is withheld, giving the sentence structural inevitability. `la-o-li` carries through
@@ -15663,7 +15663,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S829
   notes: '`su-li` (W234) first use. `vo-no''ra` = `[vo-no]` (evil, pre-bound) + `ra`
     (force, head) = evil-force = extraordinary evil. Juncture required: without it,
@@ -15680,7 +15680,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S830
   notes: '`pa-no-fe` = place-without-boundary = everywhere. First `[X]-no-fe` extremal
     on `pa` (place). Completes the place-axis: `go-su` (bounded causal circumstances)
@@ -15698,7 +15698,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S831
   notes: '`su-ka` = impose structure upon = categorize. First use. Contrast with `wi-ka`
     (S826, S827): `su-ka` is external structural imposition; `wi-ka` is internal volitional
@@ -15714,7 +15714,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S832
   notes: '`mi-vo-to` (W236) first use: `mi` (self) + `vo` (goodness) + `to` (knowledge)
     = self-goodness-knowing = conscience. Right-branching: `mi` modifies `[vo-to]`
@@ -15731,7 +15731,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S833
   notes: '`to-su-ra-li` = `to-su` (W030, doctrine) + `ra` (force) + `li` (person)
     = doctrine-force-person = ideological fanatic. `su-li` (W234) first use as predicate.
@@ -15748,7 +15748,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S834
   notes: '`go-su-ra` = `go-su` (W235) + `ra` = situational force. `ka-de-zo''li` =
     `[ka-de-zo]` (W128, deliberate killing, pre-bound) + `li` (person) = killer/perpetrator.
@@ -15771,7 +15771,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S835
   notes: '`si-ne-su` (W237) first use. `ne-fe` (W042) encodes the structural-role
     reading of "serve as" — the media''s function is a built-in structural requirement.
@@ -15791,7 +15791,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S836
   notes: '`si-ne-su''si-fe` = [media]-signal-threshold = media-filter. Juncture `''`
     pre-binds `si-ne-su` (W237) as a unit modifying `si-fe` (W070, signal threshold);
@@ -15812,7 +15812,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S837
   notes: '`wi-o-li` (W238) first use. Right-branching: `wi` + `[o-li]` = will of [collective-persons]
     = the organized will of the collective = consent / public opinion. `ka lo-wi-o-li`
@@ -15832,7 +15832,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S838
   notes: '`vo-de-zo-li` = good-suffering-person = worthy victim; first use. `no-vo-de-zo-li`
     = not-good-suffering-person = unworthy victim; first use. Right-branching: `vo`
@@ -15854,7 +15854,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S839
   notes: '`to-su-fe` = organized-knowledge-boundary = the limiting edge of acceptable
     discourse = the spectrum limit; first use. `to-su-ki` = organized-knowledge-motion
@@ -15875,7 +15875,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S840
   notes: '`ne-ra-ki` (W059) = resonance-attunement inchoative = to enter mutual-modification
     coupling. Previously in the resonance/mecha domain (S083) and physics. MCH-001
@@ -15896,7 +15896,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S841
   notes: '`ra-si` = force-signal = signal deployed with and as force = organized criticism
     / flak; first use. `ka-ra-si` = deliberate force-signal = the institutionally-deployed
@@ -15917,7 +15917,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S842
   notes: 'Structural parallel with S836: both `la-wi-ra` (power) and `la-to-su-ra`
     (doctrine-force) `ka-be lo-si-ne-su''si-fe` (build the media''s filters). The
@@ -15938,7 +15938,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S843
   notes: '`si-no-su` = signal-not-structure = counter-structural signal = a signal
     that falls outside or challenges the established structural order = dissent voice;
@@ -15960,7 +15960,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S844
   notes: '`ne-ki` = relation-inchoative = to enter coordination = to conspire/collude.
     `no [la-wi-ra ne-ki]` = not [power coordinates] = denies the conspiracy model
@@ -15988,7 +15988,7 @@ sentences:
   - W239
   - W240
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S845
   notes: 'Arendt''s foundational claim: totalitarianism is not a variant of tyranny
     but a historically novel form. `e-su` = emergent-structure: `e-` scope prefix
@@ -16011,7 +16011,7 @@ sentences:
   first_attests:
   - W241
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S846
   notes: 'Arendt''s central thesis: unlike tyranny (which uses terror instrumentally),
     totalitarianism IS terror — the permanent atomized state. `wi-ra-ki` (W241) =
@@ -16032,7 +16032,7 @@ sentences:
   - W100
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S847
   notes: 'Arendt''s most famous formulation. Recursive `wi-fe lo-wi-fe` = "the right
     to [have] rights" — the `lo-` patient prefix on inner `wi-fe` marks it as the
@@ -16051,7 +16051,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S848
   notes: 'Direct consequence of S847. `no-ne-su-li` = person without political network
     (no + ne-su W031 + li = person outside all network membership). `no-wi-fe` = rightlessness
@@ -16071,7 +16071,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S849
   notes: 'Arendt on ideology: totalitarian ideology takes one premise (race war, class
     struggle) and derives everything from it. `i-to` = the particular/single idea:
@@ -16094,7 +16094,7 @@ sentences:
   - W239
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S850
   notes: 'Arendt''s mass-psychology claim: the mass basis of totalitarian movements
     is atomized loneliness, not hatred. `a-ra-su''ki` = juncture compound: [a-ra-su]
@@ -16116,7 +16116,7 @@ sentences:
   - W239
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S851
   notes: 'Atomization thesis: totalitarianism destroys all spontaneous group action.
     `ka-de` = deliberate-act-of-decreasing = destroy (ka: deliberate + de: causing
@@ -16138,7 +16138,7 @@ sentences:
   - W042
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S852
   notes: 'Arendt''s plurality thesis: politics is constituted by the fact that we
     are many, different people. `ne-su` (W031) as subject-in-patient-frame: `lo-ne-su
@@ -16161,7 +16161,7 @@ sentences:
   first_attests:
   - W242
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S853
   notes: 'Arendt''s historical argument: the administrative murder, racial ideology,
     and techniques of total domination practiced in European colonies were imported
@@ -16185,7 +16185,7 @@ sentences:
   - W239
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S854
   notes: 'Arendt insists totalitarianism was not a secret conspiracy but an open mass
     movement whose horror was structural and systemic. `go-su` (W235) = circumstances
@@ -16209,7 +16209,7 @@ sentences:
   first_attests:
   - W243
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S855
   notes: 'W243 `ka-de-pa` first use. Arendt: the camps are not incidental to totalitarianism
     but its essential institution — the juridical space where the claim that humans
@@ -16234,7 +16234,7 @@ sentences:
   - W241
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S856
   notes: 'Arendt''s twin-pillar analysis. Ideology performs an operational function:
     it names the "objective enemy" (the Jew, the Kulak) who must be eliminated regardless
@@ -16259,7 +16259,7 @@ sentences:
   - W239
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S857
   notes: 'Arendt''s social-base thesis: previous revolutionary movements drew from
     class-organized groups with interests and solidarity structures. Totalitarianism
@@ -16282,7 +16282,7 @@ sentences:
   - W239
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S858
   notes: 'Arendt''s "everything is possible" — the totalitarian claim that breaks
     with all previous political experience. Prior governments, even tyrannies, operated
@@ -16303,7 +16303,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S859
   notes: 'Arendt''s historical argument: statelessness was produced by the systemic
     breakdown of the nation-state — the political form that tied rights to national
@@ -16330,7 +16330,7 @@ sentences:
   - W238
   - W245
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S860
   notes: 'W245 `ti-go-su` first use. Arendt: totalitarianism claims to execute the
     Law of Nature or History — a supra-human force whose verdict cannot be questioned.
@@ -16351,7 +16351,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S861
   notes: 'Arendt''s institutional analysis: the visible government institutions (parliament,
     ministries, army) are hollow in totalitarian states — the real center is the secret
@@ -16373,7 +16373,7 @@ sentences:
   - W224
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S862
   notes: 'Arendt: totalitarian propaganda does not aim to inform or argue — it systematically
     replaces reality with a consistent alternative fiction. Its technique is not persuasion
@@ -16404,7 +16404,7 @@ sentences:
   first_attests:
   - W244
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S863
   notes: 'W244 `be-ki` first use. Arendt''s closing claim in *Origins*: the "miracle
     that saves the world" is natality — the human capacity for new beginning that
@@ -16429,7 +16429,7 @@ sentences:
   - W031
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S864
   notes: 'Closing sentence — Arendt''s positive vision. The political is constituted
     by the fact that we are many, different persons bound to each other in a common
@@ -16454,7 +16454,7 @@ sentences:
   first_attests:
   - W246
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S865
   notes: 'W246 `wife''atofeka` first use. ne-predicate position test. `a-ra-su` (W239)
     = total-power-structure; `wife''atofeka` = `[wi-fe]''[a-to-fe-ka]`: entitlement-framed
@@ -16477,7 +16477,7 @@ sentences:
   - W246
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S866
   notes: '`la-` agent position test: `la-wife''atofeka` — the `la-` prefix fuses to
     the written form preserving `''` → `lawife''atofeka`. `to-ki` = knowledge-change
@@ -16497,7 +16497,7 @@ sentences:
   - W246
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S867
   notes: '`lo-` patient position test: `lo-wife''atofeka` — `lo-` fuses to the written
     form preserving `''` → `lowife''atofeka`. `su-ra` = structural force (su: structure
@@ -16520,7 +16520,7 @@ sentences:
   - W246
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S868
   notes: 'Surviving-exposure claim. `to-ka-si-de` = knowledge-of-deliberate-signal-corruption
     = knowing about propaganda; `to-wife''atofeka` = knowing-about-wife''atofeka (both
@@ -16547,7 +16547,7 @@ sentences:
   - W246
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S869
   notes: 'Phenomenological collapse claim. `to-fe` (W028) = epistemic boundary — the
     limit as such. `to-su` (W030) = organized knowledge / theory / model — knowledge-structure.
@@ -16569,7 +16569,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S870
   notes: 'Structural antithesis. `to-no-fe` = knowledge-without-boundary (the `[X]-no-fe`
     extremal suffix pattern: knowledge that has no limiting boundary). `no-wife''atofeka`
@@ -16592,7 +16592,7 @@ sentences:
   - W246
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S871
   notes: 'Resistance mechanism. `be-ki` (W244) = natality — the human capacity for
     new beginning. `ki` as verbal predicate = applies change to. Arendt''s claim:
@@ -16618,7 +16618,7 @@ sentences:
   - W246
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s549-plus.md
+  source_file: sentences/v4-current/s708-plus.md
   source_anchor: S872
   notes: 'Precondition cascade expressed via `;` sequential connector (SCL-002: A
     ; B = "A and then B" — connection type not asserted). Three-stage sequence: (1)
