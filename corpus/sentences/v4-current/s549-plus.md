@@ -4200,3 +4200,177 @@ Contrast with S753: S753 = crowd misperception wrapped in `si`; S754 = the under
 **Verdict:** irreducibly formal — all forms are below threshold, load-bearing, or outside CLQ scope.
 
 *CLQ entries registered from this batch: none.*
+
+---
+
+## SLZ-001 — Solzhenitsyn, "Live Not By Lies" (1974)
+
+**Source:** Alexander Solzhenitsyn, *"Zhit' ne po lzhi"* ("Live Not By Lies"), February 12, 1974. Written on the day of his arrest; distributed samizdat. English translation sourced from public domain / standard editions.
+
+**Epistemic core:** This batch targets the `to-fe-ka` / `to-fe-ki` / `si to-fe-ka` triad in its most politically charged natural context. Solzhenitsyn's claim is not simply "lying is wrong" but structurally sharper: **the state coerces subjects to become the active agents of fraud**, not merely passive witnesses. The distinguishing feature is the **forced co-authorship** of lies — you are required not just to tolerate but to propagate through your own voice. The hardest structural case: `si [to-fe-ka]` — the witness who has signal-certainty of fraud but is blocked from `to`-grade knowledge because the state controls the epistemic institutions.
+
+**Vocabulary framework:** All forms compositional from registered vocabulary. No new W-entries required.
+
+---
+
+### S765 — SLZ-001-A
+
+**Source:** "Let the lie come into the world, even dominate the world — but not through me."
+
+**Tonesu:** `[a-to-fe-ka  be  lo-a-ne-su] — ru-fe, [la-mi  wi-no  [la-mi  ka-to-fe-ka]]`
+
+**Written:** `[atofeka be loanesu] — rufe, [lami wino [lami katofeka]]`
+
+**Gloss:** [universal-fraud can-exist in universal-network] — solely: [I am-unwilling [that-I commit-fraud]]
+
+**Natural reading:** Let epistemic fraud exist in the world — solely: I am unwilling to commit it myself.
+
+**Notes:** The concession-plus-exclusive-commitment structure. `[a-to-fe-ka be lo-a-ne-su]` = bracketed concession: universal-fraud can exist in the universal network. `a-` (scope prefix: abstract/universal) applied to `to-fe-ka` (W029) = fraud at the world-scale; `a-` applied to `ne-su` (W031) = the universal network of relations = the world/society. `be` = can-exist / has capacity to be (existence predicate). `lo-a-ne-su` = patient-locative: in the universal-network — first use of `lo-` wrapping a scope-prefix compound. `—` = prosodic suspension before the pivot. `ru-fe,` = solely/exclusively (clause-initial + comma) — the exclusive constraint follows. `[la-mi wi-no [la-mi ka-to-fe-ka]]` = [I am-unwilling [that-I commit-fraud]]: `wi-no` (W230, unwillingness) takes a clausal argument bracketed `[la-mi ka-to-fe-ka]` = [I commit epistemic-fraud]. `ka-to-fe-ka` = the act of committing epistemic fraud (`ka` deliberate-action + `to-fe-ka` W029). **First use of `ru-fe,` as a personal ethical commitment marker rather than a factual exclusion.** First use of `a-` scope prefix on `to-fe-ka` and `ne-su`.
+
+---
+
+### S766 — SLZ-001-B
+
+**Source:** "Violence does not always lunge for your throat; more often it demands only that subjects pledge allegiance to lies."
+
+**Tonesu:** `la-ra  wi-ra  [la-o-li  ka-to-fe-ka]`
+
+**Written:** `lara wira [laoli katofeka]`
+
+**Gloss:** [force] demands [that-collective-persons commit-fraud]
+
+**Natural reading:** Force demands that the collective commits epistemic fraud.
+
+**Notes:** The coercion structure. `la-ra` = the agent is `ra` (force, primitive root) — **first use of a bare primitive root as the sentence agent.** The primitive `ra` without a person-suffix makes violence/force itself the grammatical agent, not any specific actor: Solzhenitsyn's point that coercion is structural, not personal. `wi-ra` (W177, directed-will/demand) = demand predicate. `[la-o-li ka-to-fe-ka]` = the demanded proposition: [collective-persons commit fraud]. `la-o-li` = `o-` (collective prefix) + `li` (person) = the collective = all subjects. `ka-to-fe-ka` = deliberate commission of epistemic fraud. The structural claim: violence's power over truth operates not by direct lying but by making the citizenry the agents of its own fraud.
+
+---
+
+### S767 — SLZ-001-C
+
+**Source:** The witness position — signal-certainty of fraud, blocked from formal knowledge because the state controls the evidence.
+
+**Tonesu:** `la-mi  si  [la-ra-su-li  to-fe-ka] / la-mi  no-to  [lo-ze]`
+
+**Written:** `lami si [larasuli tofeka] / lami noto [loze]`
+
+**Gloss:** I perceive [rulers commit-fraud] / I don't-know [it]
+
+**Natural reading:** I have signal-certainty that the rulers are committing epistemic fraud / I cannot formally know it.
+
+**Notes:** **First `si [PROP] / no-to [PROP]` epistemic-grade contrast in running corpus.** This is the `si to-fe-ka` hard case. `la-mi si [la-ra-su-li to-fe-ka]` = I have signal/outward-certainty [that the rulers commit fraud]: `si` used as epistemic modal in the personal frame established in MAP-001 (`la-X si [Q]`). `la-ra-su-li` = `ra-su-li` (W225, sovereign/ruler) with `la-` agent marker — the rulers are the agents of fraud inside the bracketed claim. `/` = bi-clausal antithetical parallel: perception contrasted with inability to formalize. `la-mi no-to [lo-ze]` = I don't-know [it]: `no-to` = negated knowledge compound (established SNG-002 S739); `lo-ze` = it/that = back-reference to the fraud proposition just stated. Why the step cannot be made: see S768.
+
+---
+
+### S768 — SLZ-001-D
+
+**Source:** Institutional capture — the state controls its own epistemic arbiters.
+
+**Tonesu:** `la-ra-su-li  ka-ko  lo-to-fe-li — ru-fe, [la-mi  si  [to-fe-ka]]`
+
+**Written:** `larasuli kako lotofeli — rufe, [lami si [tofeka]]`
+
+**Gloss:** [rulers] control [epistemic-arbiter] — solely: [I perceive [fraud]]
+
+**Natural reading:** The rulers control the epistemic arbiter — my only access is signal-level certainty of the fraud.
+
+**Notes:** `la-ra-su-li` = `ra-su-li` (W225) with `la-` agent. `ka-ko` = deliberate containing/holding = control. `lo-to-fe-li` = patient: `to-fe-li` (W032, epistemic arbiter/guardian) — the institution is captured. `—` = prosodic suspension before the consequence. `ru-fe, [la-mi si [to-fe-ka]]` = solely: [I perceive [fraud]] — **first use of `ru-fe,` as an epistemic-grade exclusion marker**: the exclusive clause specifies that `si`-grade is the *only* epistemic access available, not a free choice. Extends `ru-fe,` from factual-scope exclusion (SNG-002 S739) to grade-scope exclusion: "solely this grade, and no higher." The semantic-map.md passage anticipated this: without a functioning `to-fe-li`, the formal step from `si` to `to` cannot be made. `to-fe-ka` inside the bracket is bare (no agent marking) — the fraud itself is the nominalized referent, not a new predication.
+
+---
+
+### S769 — SLZ-001-E
+
+**Source:** "The most primitive way: Do not lie. Do not take part in the lie."
+
+**Tonesu:** `no  [ka-to-fe-ka]! / no  [ka-ne  lo-to-fe-ka]!`
+
+**Written:** `no [katofeka]! / no [kane lotofeka]!`
+
+**Gloss:** not [commit-fraud]! / not [bond-to fraud]!
+
+**Natural reading:** Do not commit fraud! / Do not bind yourself to fraud!
+
+**Notes:** Paired imperative in bi-clausal parallel. `no [ka-to-fe-ka]!` = negated-verb imperative: "don't [commit-fraud]!" — stripped bare imperative following SNG-001 S734. `ka-ne lo-to-fe-ka` = deliberate-relating to fraud = to bond/align with fraud = complicity. `ka-ne` is the action form of the `ne` (relation) primitive: `ka` (deliberate action) + `ne` (relation) = the act of forming a bond. Confirmed by contrast with `ka-ne-de` (W092, deliberate-relation-dissolution = severing): `ka-ne` is the bonding direction. **First use of `ka-ne` as a complicity verb.** The bi-clausal `/` pairs active commission (`ka-to-fe-ka`) with passive co-signing (`ka-ne lo-to-fe-ka`): Solzhenitsyn's moral distinction between actively lying and participating in the social apparatus of lies. Both are prohibited; they are structurally distinct acts.
+
+---
+
+### S770 — SLZ-001-F
+
+**Source:** "The lie does not rule through itself — it rules through people who co-sign it."
+
+**Tonesu:** `la-to-fe-ka  ne  [ka-ne  lo-to-fe-ka]  o-li`
+
+**Written:** `latofeka ne [kane lotofeka] oli`
+
+**Gloss:** [fraud] is [[bond-to-fraud] persons]
+
+**Natural reading:** Fraud is constituted by those who bind themselves to it.
+
+**Notes:** Reflexive constitutive property attribution via `ne` copula. `la-to-fe-ka` = fraud (subject). `ne` = copula (property attribution). `[ka-ne lo-to-fe-ka] o-li` = the predicate: modifier-before-head (standard Tonesu order) — the relative bracket `[ka-ne lo-to-fe-ka]` (those-who-bind-to-fraud) modifies `o-li` (collective persons). `lo-to-fe-ka` inside the bracket refers back to the sentence subject `to-fe-ka` — **first reflexive self-referential `ne` copula in the corpus**: fraud is characterized by reference to itself (fraud is constituted by those who sustain fraud). The `ne` here is property attribution, not strict identity (`helms`) — the claim is constitutive: fraud *has the property of being* its co-signers. Corollary from S770: if fraud is constituted by its co-signers, then the S769 imperatives are sufficient to dissolve it.
+
+---
+
+### S771 — SLZ-001-G
+
+**Source:** "The simplest and most accessible key to our liberation: personal non-participation in lies."
+
+**Tonesu:** `go {[wi-no  lo-to-fe-ka]} — wi-du  be-vo`
+
+**Written:** `go {[wino lotofeka]} — widu bevo`
+
+**Gloss:** because {[fraud-refusal]} — liberation is-possible
+
+**Natural reading:** Because [refusing fraud] — liberation becomes possible.
+
+**Notes:** Closing causal chain. `go {PREMISE} — RESULT` = standard causal frame (established PRF-001). Premise: `[wi-no lo-to-fe-ka]` = bracketed nominalization of the state of unwillingness toward fraud: `wi-no` (W230, unwillingness) + `lo-` patient `lo-to-fe-ka` (toward/against fraud), consistent with SNG-001 S732 (`la-mi wi-no lo-fe-su`). Nominalizing the state inside `{}` gives: "because [the condition of refusing fraud]." Result: `wi-du be-vo` = `wi-du` (W175, liberation/overcoming) + `be-vo` (capacity/possibility) = liberation is possible. **First use of `wi-no` as a nominalized causal premise.** The essay's argument in one causal frame: the single personal act of refusal is the sufficient condition for the possibility of liberation. Reading alongside S770: if fraud is constituted by co-signers (S770), and the condition for liberation is the refusal to co-sign (S771), then S769's imperatives are not merely moral prescriptions but structural dismantling instructions.
+
+---
+
+### Batch summary — SLZ-001
+
+| Entry | Tonesu | Written | Claim | Key feature |
+|-------|--------|---------|-------|-------------|
+| S765 (SLZ-001-A) | `[a-to-fe-ka  be  lo-a-ne-su] — ru-fe, [la-mi  wi-no  [la-mi  ka-to-fe-ka]]` | `[atofeka be loanesu] — rufe, [lami wino [lami katofeka]]` | Let fraud exist in the world — solely: I am unwilling to commit it | `a-` on W029; `ru-fe,` as personal commitment; `lo-a-ne-su` first |
+| S766 (SLZ-001-B) | `la-ra  wi-ra  [la-o-li  ka-to-fe-ka]` | `lara wira [laoli katofeka]` | Force demands the collective commit fraud | `la-ra`: bare primitive as agent (first) |
+| S767 (SLZ-001-C) | `la-mi  si  [la-ra-su-li  to-fe-ka] / la-mi  no-to  [lo-ze]` | `lami si [larasuli tofeka] / lami noto [loze]` | I perceive fraud / I cannot formally know it | `si [PROP] / no-to [lo-ze]` epistemic-grade contrast (first) |
+| S768 (SLZ-001-D) | `la-ra-su-li  ka-ko  lo-to-fe-li — ru-fe, [la-mi  si  [to-fe-ka]]` | `larasuli kako lotofeli — rufe, [lami si [tofeka]]` | Rulers control the arbiter — only signal-certainty remains | `ru-fe,` as grade-exclusion marker (first) |
+| S769 (SLZ-001-E) | `no  [ka-to-fe-ka]! / no  [ka-ne  lo-to-fe-ka]!` | `no [katofeka]! / no [kane lotofeka]!` | Don't commit fraud / don't bind to fraud | `ka-ne` complicity verb (first); commission vs co-signing distinction |
+| S770 (SLZ-001-F) | `la-to-fe-ka  ne  [ka-ne  lo-to-fe-ka]  o-li` | `latofeka ne [kane lotofeka] oli` | Fraud is those who bind to it | Reflexive self-referential `ne` copula (first) |
+| S771 (SLZ-001-G) | `go {[wi-no  lo-to-fe-ka]} — wi-du  be-vo` | `go {[wino lotofeka]} — widu bevo` | Refusing fraud makes liberation possible | `wi-no` as nominalized causal premise (first) |
+
+**New vocabulary:** none (all forms compositional from registered entries).
+
+**Compositional first uses:** `a-to-fe-ka` (`a-` + W029); `a-ne-su` (`a-` + W031); `lo-a-ne-su` (`lo-` wrapping scope-prefix compound); `ka-to-fe-ka` (`ka` + W029, the act of committing fraud); `ka-ne` (deliberate bonding/complicity, `ka` + `ne` primitive).
+
+**Key structural findings:**
+1. **`la-ra` — bare primitive as agent.** First time a primitive root appears as a bare NP agent without any person or role suffix. Depersonification: coercion is structural, not personal.
+2. **`si [PROP] / no-to [PROP]` epistemic-grade contrast.** First explicit bi-clausal parallel of two epistemic grades over the same proposition: signal-certainty vs. inability to certify. The `si to-fe-ka` situation is now a nameable epistemic state in Tonesu.
+3. **`ru-fe,` as grade-exclusion.** S768 extends `ru-fe,` from factual-scope exclusion to epistemic-grade exclusion: "solely: [I perceive]" = only `si`-grade access, forced by institutional capture.
+4. **Reflexive `ne` copula.** S770 is the first sentence where the predicate of a `ne` copula includes a back-reference to the subject. Constitutive self-reference via property attribution.
+5. **Commission vs. complicity.** S769 separates `ka-to-fe-ka` (active commission) from `ka-ne lo-to-fe-ka` (bonding/co-signing) using `/` parallel. Two structurally distinct moral prohibitions.
+6. **S770 → S769 → S771 structural argument.** Fraud is constituted by co-signers (S770); the imperative is to refuse co-signing (S769); refusal is the condition of liberation (S771). The three sentences form a compressed practical syllogism in running corpus.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `a-to-fe-ka` | none | — | Scope-prefix form — grammatical operator; outside CLQ scope |
+| `a-ne-su` | none | — | Scope-prefix form — grammatical operator; outside CLQ scope |
+| `ka-to-fe-ka` | none | — | 4-root verbal compound — CLQ candidate possible (context-disambiguated use of `tofeka` as verb); defer pending further attestations |
+| `wi-no` (W230) | none | — | 2-root — below 3-morpheme contraction threshold |
+| `wi-ra` (W177) | none | — | 2-root — below threshold |
+| `ka-ne` | none | — | 2-root — below threshold |
+| `ka-ko` | none | — | 2-root — below threshold |
+| `wi-du` (W175) | none | — | 2-root — below threshold |
+| `be-vo` | none | — | 2-root — below threshold |
+| `no-to` | none | — | 2-root — below threshold |
+| `ra-su-li` (W225) | none | — | 3-root — below 4-morpheme threshold |
+| `to-fe-li` (W032) | none | — | 3-root — below threshold |
+| `[wi-no lo-to-fe-ka]` | none | — | Bracket nominalization — outside CLQ scope |
+| `go {premise} — result` | none | — | Structural causal operator — semantically load-bearing; relaxation changes the claim |
+| `ru-fe,` | none | — | Scope particle — semantically load-bearing; relaxation changes the claim |
+
+**Verdict:** irreducibly formal — all forms are below threshold, scope-prefix grammatical operators, load-bearing particles, or pending attestation.
+
+*CLQ entries registered from this batch: none.*
