@@ -3274,6 +3274,44 @@
         "de",
         "su"
       ]
+    },
+    {
+      "wnum": "W243",
+      "form": "ka-de-pa",
+      "written": "kadepa",
+      "gloss": "concentration camp; deliberate-harm-place",
+      "status": "active",
+      "domain": "Politics / History",
+      "roots": [
+        "ka",
+        "de",
+        "pa"
+      ]
+    },
+    {
+      "wnum": "W244",
+      "form": "be-ki",
+      "written": "beki",
+      "gloss": "natality; capacity for new beginning; beginning-in-motion",
+      "status": "active",
+      "domain": "Philosophy / Politics",
+      "roots": [
+        "be",
+        "ki"
+      ]
+    },
+    {
+      "wnum": "W245",
+      "form": "ti-go-su",
+      "written": "tigosu",
+      "gloss": "historical necessity; law of History; temporal-causal-structure",
+      "status": "active",
+      "domain": "Philosophy / History",
+      "roots": [
+        "ti",
+        "go",
+        "su"
+      ]
     }
   ]
 }
