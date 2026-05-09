@@ -378,6 +378,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 |------|----|--------|-------|
 | `mi-vo-to` · mivoto | [W236](words/W236.md) | ✅ | conscience; self-goodness-knowing; inner moral sense |
 
+## Communication / Institutional
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `si-ne-su` · sinesu | [W237](words/W237.md) | ✅ | media institution; signal-network-structure; mass media as organized system |
+
 ## Context / Social
 
 1 compound
@@ -536,6 +544,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 |------|----|--------|-------|
 | `pa-di` · padi | [W229](words/W229.md) | ✅ | dimension; spatial direction; independent axis of extension <br><small>[S213](../../totonesu/corpus/batches/odl/index.md#S213) · [S214](../../totonesu/corpus/batches/odl/index.md#S214) · [S239](../../totonesu/corpus/batches/num/index.md#S239) · [S727](../../totonesu/corpus/batches/str/index.md#S727) · [S728](../../totonesu/corpus/batches/str/index.md#S728)</small> |
 
+## Media / Signal
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `si-ne-su` · sinesu | [W237](words/W237.md) | ✅ | media institution; signal-network-structure; mass media as organized system |
+
 ## Meta / Language
 
 2 compounds
@@ -626,6 +642,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 |------|----|--------|-------|
 | `fe-vo'si-ko-mu` · fevo'sikomu | [W219](words/W219.md) | ✅ | consecrated inscribed object / pentacle / talisman |
 
+## Social / Political
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `wi-o-li` · wioli | [W238](words/W238.md) | ✅ | collective will; consent; public opinion as organized volition |
+
 ## Social / Relational
 
 2 compounds
@@ -657,6 +681,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `o-ka-su` · okasu | [W233](words/W233.md) | ✅ | collective-governance-structure; the Party; state apparatus |
+
+## Will / Agency
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `wi-o-li` · wioli | [W238](words/W238.md) | ✅ | collective will; consent; public opinion as organized volition |
 
 ---
 

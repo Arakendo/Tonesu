@@ -4,7 +4,7 @@ title: Word Registry
 
 # Word Registry
 
-221 derived compounds, sorted alphabetically.
+223 derived compounds, sorted alphabetically.
 
 See also: [English index](english.md) · [By domain](by-domain.md) · [By root](by-root.md) · [Building words](../words.md)
 
@@ -134,6 +134,7 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `si-ko-mu` · sikomu | [W067](words/W067.md) | ✅ | individual document, encoded record <br><small>[S014](../../totonesu/corpus/batches/_foundations/index.md#S014) · [S069](../../totonesu/corpus/batches/t-ko/index.md#S069) · [S070](../../totonesu/corpus/batches/t-ko/index.md#S070)</small> |
 | `si-mu` · simu | [W039](words/W039.md) | ✅ | relay device, signal transceiver <br><small>[C002-A1](../../totonesu/corpus/conversations/overview.md#C002-A1) · [C002-A3](../../totonesu/corpus/conversations/overview.md#C002-A3) · [S043](../../totonesu/corpus/batches/t-xx/index.md#S043) · [S108](../../totonesu/corpus/batches/t-phn/index.md#S108) · [S110](../../totonesu/corpus/batches/t-phn/index.md#S110) · [S154](../../totonesu/corpus/batches/fa-con/index.md#S154) · [S165](../../totonesu/corpus/batches/p-gp/index.md#S165) · [S640](../../totonesu/corpus/batches/cda/index.md#S640)</small> |
 | `si-ne-ki` · sineki | [W021](words/W021.md) | ⏳ | signal-transmission process |
+| `si-ne-su` · sinesu | [W237](words/W237.md) | ✅ | media institution; signal-network-structure; mass media as organized system |
 | `si-no-vo-li` · sinovoli | [W126](words/W126.md) | ✅ | hypocrite, person of valueless signal |
 | `so-vo-li` · sovoli | [W213](words/W213.md) | ✅ | bard / sonic artist <br><small>[S658](../../totonesu/corpus/batches/dnd/index.md#S658)</small> |
 | `su'ma` · su'ma | [W113](words/W113.md) | ⏳ | solid (material state) |
@@ -190,6 +191,7 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `wi-no` · wino | [W230](words/W230.md) | ✅ | unwillingness; not-wanting; reluctance |
 | `wi-no-ra` · winora | [W132](words/W132.md) | ✅ | meekness, will-without-force |
 | `wi-no-su` · winosu | [W189](words/W189.md) | ✅ | chaotic; will unbound by structure; spontaneous / freedom-first moral disposition <br><small>[S612](../../totonesu/corpus/batches/dnd/index.md#S612) · [S615](../../totonesu/corpus/batches/dnd/index.md#S615) · [S618](../../totonesu/corpus/batches/dnd/index.md#S618)</small> |
+| `wi-o-li` · wioli | [W238](words/W238.md) | ✅ | collective will; consent; public opinion as organized volition |
 | `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) <br><small>[S596](../../totonesu/corpus/batches/stw/index.md#S596) · [S599](../../totonesu/corpus/batches/dnd/index.md#S599) · [S672](../../totonesu/corpus/batches/sol/index.md#S672) · [S683](../../totonesu/corpus/batches/sol/index.md#S683) · [S708](../../totonesu/corpus/batches/map/index.md#S708) · [S719](../../totonesu/corpus/batches/mrx/index.md#S719)</small> |
 | `wi-ra-li` · wirali | [W217](words/W217.md) | ✅ | spirit / directed-force-agent <br><small>[S672](../../totonesu/corpus/batches/sol/index.md#S672) · [S673](../../totonesu/corpus/batches/sol/index.md#S673) · [S677](../../totonesu/corpus/batches/sol/index.md#S677)</small> |
 | `wi-ra-su` · wirasu | [W179](words/W179.md) | ✅ | magic; the systematic, disciplined practice of directed force <br><small>[S599](../../totonesu/corpus/batches/dnd/index.md#S599) · [S600](../../totonesu/corpus/batches/dnd/index.md#S600) · [S601](../../totonesu/corpus/batches/dnd/index.md#S601) · [S602](../../totonesu/corpus/batches/dnd/index.md#S602) · [S603](../../totonesu/corpus/batches/dnd/index.md#S603) · [S604](../../totonesu/corpus/batches/dnd/index.md#S604) · [S605](../../totonesu/corpus/batches/dnd/index.md#S605) · [S606](../../totonesu/corpus/batches/dnd/index.md#S606) · [S607](../../totonesu/corpus/batches/dnd/index.md#S607) · [S698](../../totonesu/corpus/batches/exo/index.md#S698)</small> |

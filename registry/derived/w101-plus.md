@@ -2447,3 +2447,35 @@ Related:       mi (primitive: self/speaker), vo (primitive: goodness/value), to 
 ```
 
 ---
+
+**W237**
+```
+Form:          si-ne-su
+Type:          compound
+Class:         entity / institution
+Definition:    si (signal) + ne (relation/network) + su (structure/organization) = signal-network-structure = the organized relational structure of signal transmission = mass media as an institution. Names not any single outlet or channel but the structural system through which signals reach the collective: the organized network of signal production, selection, and transmission. Enables la-si-ne-su as agent (the media does X) and lo-si-ne-su'si-fe (media-filter, juncture required) as patient. Introduced in the Chomsky-Herman batch to enable the propaganda model argument: power (la-wi-ra) and ideology (la-to-su-ra) both construct the signal thresholds (si-ne-su'si-fe) of the media system. Distinct from si (bare signal), ne-su (W031: connection-structure — narrower, relational rather than institutional).
+Composition:   si (signal/communication) + ne (relation/network) + su (structure/organization). Head-final: su (structure) is head; si-ne (signal-network) specifies the type. Right-branching: si modifies [ne-su] = signal of the [network-structure] = the signal-network-structure = media institution.
+Register:      standard
+Domain:        Communication / Institutional
+Status:        ✅ active
+First use:     MCH-001-A (S835): si-ne-su ne-fe si lo-o-li ; ka-be lo-to-su ko {o-li} — "The mass media serve as a system for communicating messages to the general populace." (Chomsky & Herman, Manufacturing Consent)
+Related:       si (primitive: signal), ne (primitive: relation), su (primitive: structure), si-fe (W070: signal threshold — applies as media filter: si-ne-su'si-fe), wi-o-li (W238: collective will = what si-ne-su shapes), ne-su (W031: connection structure — narrower)
+```
+
+---
+
+**W238**
+```
+Form:          wi-o-li
+Type:          compound
+Class:         entity / social state
+Definition:    wi (will/intention) + o-li (collective persons, V-prefix scope) = will-of-the-collective = the organized volition of a group as a whole = consent / public opinion. Right-branching: wi modifies [o-li] = will of [collective-persons]. Distinct from wi (bare individual will), wi-ra (W177: directed will/power = will directed outward with force), wi-no-fe (freedom = will-without-limiting-boundary). wi-o-li is the collective dimension of wi: what the group-as-a-whole wills = their agreement, their consent, their organized shared intention. ka lo-wi-o-li = deliberate production of collective will = manufacturing consent (S837, MCH-001-C). Enables the propaganda model's central argument in four morphemes: la-wi-ra ka lo-wi-o-li = power manufactures consent.
+Composition:   wi (will/intention) + o-li (V-prefix scope modifier o- + person root li = collective-persons). Head-final: o-li (collective persons) is head; wi (will) specifies what is collective — the will. wi-o-li = will-of-collective-persons = consent.
+Register:      standard
+Domain:        Social / Political
+Status:        ✅ active
+First use:     MCH-001-C (S837): la-wi-ra ka lo-wi-o-li — "The powerful manufacture consent." (Chomsky & Herman, Manufacturing Consent, title concept from Walter Lippmann)
+Related:       wi (primitive: will/intention), o-li (collective persons: V-prefix o- + li), wi-ra (W177: directed-will/power — individual force-directed, distinct), wi-no-fe (freedom = wi-without-fe, distinct), ka-wi-o-li (manufacturing consent = deliberate wi-o-li production, compositional)
+```
+
+---

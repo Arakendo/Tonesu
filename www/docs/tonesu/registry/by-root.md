@@ -308,7 +308,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `si` — signal / representation
 
-10 compounds
+11 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -321,6 +321,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `si-ko-mu` · sikomu | [W067](words/W067.md) | ✅ | individual document, encoded record <br><small>[S014](../../totonesu/corpus/batches/_foundations/index.md#S014) · [S069](../../totonesu/corpus/batches/t-ko/index.md#S069) · [S070](../../totonesu/corpus/batches/t-ko/index.md#S070)</small> |
 | `si-mu` · simu | [W039](words/W039.md) | ✅ | relay device, signal transceiver <br><small>[C002-A1](../../totonesu/corpus/conversations/overview.md#C002-A1) · [C002-A3](../../totonesu/corpus/conversations/overview.md#C002-A3) · [S043](../../totonesu/corpus/batches/t-xx/index.md#S043) · [S108](../../totonesu/corpus/batches/t-phn/index.md#S108) · [S110](../../totonesu/corpus/batches/t-phn/index.md#S110) · [S154](../../totonesu/corpus/batches/fa-con/index.md#S154) · [S165](../../totonesu/corpus/batches/p-gp/index.md#S165) · [S640](../../totonesu/corpus/batches/cda/index.md#S640)</small> |
 | `si-ne-ki` · sineki | [W021](words/W021.md) | ⏳ | signal-transmission process |
+| `si-ne-su` · sinesu | [W237](words/W237.md) | ✅ | media institution; signal-network-structure; mass media as organized system |
 | `si-no-vo-li` · sinovoli | [W126](words/W126.md) | ✅ | hypocrite, person of valueless signal |
 
 ## `su` — structure / order
@@ -394,7 +395,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `wi` — will / intention
 
-15 compounds
+16 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -405,6 +406,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `wi-ka-su` · wikasu | [W054](words/W054.md) | ✅ | ritual, structured intentional practice <br><small>[S073](../../totonesu/corpus/batches/t-mys/index.md#S073)</small> |
 | `wi-no` · wino | [W230](words/W230.md) | ✅ | unwillingness; not-wanting; reluctance |
 | `wi-no-ra` · winora | [W132](words/W132.md) | ✅ | meekness, will-without-force |
+| `wi-o-li` · wioli | [W238](words/W238.md) | ✅ | collective will; consent; public opinion as organized volition |
 | `wi-ra` · wira | [W177](words/W177.md) | ✅ | directed power, authority (will-force) <br><small>[S596](../../totonesu/corpus/batches/stw/index.md#S596) · [S599](../../totonesu/corpus/batches/dnd/index.md#S599) · [S672](../../totonesu/corpus/batches/sol/index.md#S672) · [S683](../../totonesu/corpus/batches/sol/index.md#S683) · [S708](../../totonesu/corpus/batches/map/index.md#S708) · [S719](../../totonesu/corpus/batches/mrx/index.md#S719)</small> |
 | `wi-ra-li` · wirali | [W217](words/W217.md) | ✅ | spirit / directed-force-agent <br><small>[S672](../../totonesu/corpus/batches/sol/index.md#S672) · [S673](../../totonesu/corpus/batches/sol/index.md#S673) · [S677](../../totonesu/corpus/batches/sol/index.md#S677)</small> |
 | `wi-re` · wire | [W099](words/W099.md) | ✅ | feedback loop, iterative goal-cycle <br><small>[S179](../../totonesu/corpus/batches/opx/index.md#S179) · [S671](../../totonesu/corpus/batches/sut/index.md#S671)</small> |

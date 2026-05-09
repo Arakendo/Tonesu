@@ -12,7 +12,7 @@
 | [s279-s334.md](s279-s334.md) | S279–S334 | KNM-005 (bird taxonomy) · PLT-001 (plants) · MAT-001/002 (rock/soil/water) · KNM-006–008 (fish/ungulates/arthropods) · FNG-001 (fungi) |
 | [s335-s397.md](s335-s397.md) | S335–S397 | GRM-001/002 (grammar) · THO-001 (divine attributes) · GOD-RES · FAL-001–007 (fallacy corpus) |
 | [s398-s548.md](s398-s548.md) | S398–S548 | EXO-001 through DEB-001 (22 batches, closed) |
-| [s549-plus.md](s549-plus.md) | S549+ | *(ongoing)* |
+| [s549-plus.md](s549-plus.md) | S549+ | *(ongoing)* · MCH-001 (Manufacturing Consent S835–S844, W237–W238) |
 
 See [../index.md](../index.md) for entry format.
 

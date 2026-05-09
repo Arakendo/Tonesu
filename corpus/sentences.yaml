@@ -15757,3 +15757,219 @@ sentences:
     Juncture required: without it `ti-de-to-su` right-branches as `ti` + `[de-to-su]`
     = wrong. Both junctures prevent mis-parse. Agent-vs-agent `/` — first of this
     type: two competing causal agents across the partition.'
+- snum: S835
+  gloss: The media institution is structurally required to communicate to the collective
+    and install beliefs within it.
+  batch: MCH-001
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: signal-network-structure structurally-requires signaling toward collective-persons;
+    [and] deliberately-constructs organized-knowledge into [the collective]
+  natural: The media institution is structurally required to communicate to the collective
+    and install beliefs within it.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S835
+  notes: '`si-ne-su` (W237) first use. `ne-fe` (W042) encodes the structural-role
+    reading of "serve as" — the media''s function is a built-in structural requirement.
+    `si lo-o-li` = signal to the collective = communicate to the general populace.
+    `;` then `ka-be lo-to-su ko {o-li}` = deliberately construct organized-knowledge
+    within [the collective] = inculcate values. `ko {o-li}` as locative frame parallels
+    the established `ki ko {}` motion-within-containment pattern (MAO S809). The two
+    structural roles: communicate (surface) and install beliefs (deep).'
+- snum: S836
+  gloss: Power builds the filters of the media system.
+  batch: MCH-001
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: directed-power deliberately-constructs the media-filters
+  natural: Power builds the filters of the media system.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S836
+  notes: '`si-ne-su''si-fe` = [media]-signal-threshold = media-filter. Juncture `''`
+    pre-binds `si-ne-su` (W237) as a unit modifying `si-fe` (W070, signal threshold);
+    without juncture, `si-ne-su-si-fe` right-branches incorrectly as `si + [ne-su-si-fe]`.
+    `si-fe` (W070) reused in propaganda-model register as "filter" — the threshold
+    that determines what signals pass through. First application of `si-fe` to the
+    mass media domain; previously established in measurement/physics contexts (S067).
+    `la-wi-ra ka-be` = directed-power deliberately-constructs = power actively builds
+    the filter system. The filter is not natural; it is constructed by power.'
+- snum: S837
+  gloss: Power manufactures consent.
+  batch: MCH-001
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: directed-power deliberately-produces the collective-will
+  natural: Power manufactures consent.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S837
+  notes: '`wi-o-li` (W238) first use. Right-branching: `wi` + `[o-li]` = will of [collective-persons]
+    = the organized will of the collective = consent / public opinion. `ka lo-wi-o-li`
+    = deliberate production of collective will = manufacturing consent. `la-wi-ra`
+    = directed-power as institutional agent. Four morphemes encode the title concept
+    with full compositional transparency: what is manufactured (`wi-o-li`), how (`ka`),
+    and by whom (`la-wi-ra`).'
+- snum: S838
+  gloss: The media constructs some victims as worthy and others as unworthy.
+  batch: MCH-001
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: the-media deliberately-constructs the-worthy-suffering-persons / deliberately-constructs
+    the-unworthy-suffering-persons
+  natural: The media constructs some victims as worthy and others as unworthy.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S838
+  notes: '`vo-de-zo-li` = good-suffering-person = worthy victim; first use. `no-vo-de-zo-li`
+    = not-good-suffering-person = unworthy victim; first use. Right-branching: `vo`
+    modifies `[de-zo-li]` = goodness-of [suffering-person]. The `/` marks the parallel
+    construction: the same deliberate act (`ka-be`) produces two categories. Chomsky''s
+    argument is that "worth" is not inherent to victims but *constructed* by the media
+    — `ka-be` encodes this. Agent `la-si-ne-su` carries through to both arms.'
+- snum: S839
+  gloss: Power constrains the spectrum of acceptable discourse but does not constrain
+    debate within it.
+  batch: MCH-001
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: directed-power deliberately-bounds the organized-knowledge-boundary;
+    not-deliberately-bounds the organized-knowledge-motion
+  natural: Power constrains the spectrum of acceptable discourse but does not constrain
+    debate within it.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S839
+  notes: '`to-su-fe` = organized-knowledge-boundary = the limiting edge of acceptable
+    discourse = the spectrum limit; first use. `to-su-ki` = organized-knowledge-motion
+    = movement within the discourse space = debate and discussion; first use. `ka-fe`
+    = deliberate boundary-imposition; first systematic predicate use of `ka + fe`.
+    `no-ka-fe` = does not constrain. The `;` is Humean conjunction: both facts are
+    stated without asserting that one causes the other. The structural encoding of
+    the spectrum argument: power bounds the outer limit AND leaves inner debate free
+    as a legitimizing appearance.'
+- snum: S840
+  gloss: The media enters into symbiotic relation with power.
+  batch: MCH-001
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: the-media enters-into-resonant-coupling with directed-power
+  natural: The media enters into symbiotic relation with power.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S840
+  notes: '`ne-ra-ki` (W059) = resonance-attunement inchoative = to enter mutual-modification
+    coupling. Previously in the resonance/mecha domain (S083) and physics. MCH-001
+    transfers it to political economy: the "symbiotic relationship" between media
+    and powerful sources is structurally identical to resonant coupling — both parties
+    are modified by the relation. `ne-ra-ki` asserts mutual transformation, not one-way
+    dependence. `lo-wi-ra` = patient: directed-power = the institutional power sources.
+    First cross-domain application of `ne-ra-ki` to political-economic register; `ne-ra-ki`
+    confirmed as domain-general.'
+- snum: S841
+  gloss: Power deploys organized criticism to discipline the media.
+  batch: MCH-001
+  batch_sub: G
+  status: normative
+  tonesu: ''
+  gloss_line: directed-power deliberately-force-signals against the-media
+  natural: Power deploys organized criticism to discipline the media.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S841
+  notes: '`ra-si` = force-signal = signal deployed with and as force = organized criticism
+    / flak; first use. `ka-ra-si` = deliberate force-signal = the institutionally-deployed
+    attack-signal. Right-branching: `ka` + `[ra-si]` = deliberately [force-signal].
+    Distinct from bare `si` (signal) and bare `ra` (force): `ra-si` specifically names
+    force expressed *through* signaling — criticism, litigation, political pressure
+    — all signals carrying force. `lo-si-ne-su` = patient: the media system. The filter
+    mechanism: flak disciplines media coverage by deploying attack-signals against
+    it whenever coverage challenges institutional interests.'
+- snum: S842
+  gloss: Prevailing ideology constructs the filters of the media.
+  batch: MCH-001
+  batch_sub: H
+  status: normative
+  tonesu: ''
+  gloss_line: doctrine-force deliberately-constructs the media-filters
+  natural: Prevailing ideology constructs the filters of the media.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S842
+  notes: 'Structural parallel with S836: both `la-wi-ra` (power) and `la-to-su-ra`
+    (doctrine-force) `ka-be lo-si-ne-su''si-fe` (build the media''s filters). The
+    parallelism encodes the propaganda model''s multi-filter argument: economic power
+    and ideological coercion are both filter-builders on the same system. `to-su-ra`
+    = doctrine-force = prevailing ideology as coercive structural force; standalone
+    first use (ORD-001 established `to-su-ra-li` = ideological fanatic; here `to-su-ra`
+    without `-li` names the ideology-as-force rather than the person embodying it).
+    Agent: `la-to-su-ra` = ideology acting as institutional agent.'
+- snum: S843
+  gloss: The media does not transmit dissenting voices.
+  batch: MCH-001
+  batch_sub: I
+  status: normative
+  tonesu: ''
+  gloss_line: the-media not-signals about the counter-structural-signals
+  natural: The media does not transmit dissenting voices.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S843
+  notes: '`si-no-su` = signal-not-structure = counter-structural signal = a signal
+    that falls outside or challenges the established structural order = dissent voice;
+    first use. Right-branching: `si` + `[no-su]` = signal of [not-structure]. Distinct
+    from `ka-ne-su` (ORW-001 S821, revolt = deliberate action against structure) —
+    `si-no-su` is a signal, not an action; it names the voice, not the revolt. `no-si
+    lo-si-no-su` = does not signal [about] dissent-signals = does not cover or transmit
+    dissenting voices. No active suppression claimed — only absence of transmission,
+    consistent with S844''s non-conspiracy framing.'
+- snum: S844
+  gloss: Not conspiracy — by structural force, power dominates the media.
+  batch: MCH-001
+  batch_sub: J
+  status: normative
+  tonesu: ''
+  gloss_line: not [directed-power coordinates] / from [structural-force], directed-power
+    forces-over the-media
+  natural: Not conspiracy — by structural force, power dominates the media.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s549-plus.md
+  source_anchor: S844
+  notes: '`ne-ki` = relation-inchoative = to enter coordination = to conspire/collude.
+    `no [la-wi-ra ne-ki]` = not [power coordinates] = denies the conspiracy model
+    using clause negation. `su-ra` = structure-force = the force inherent in structural
+    arrangement, independent of deliberate coordination; first use. `go {su-ra}` =
+    from [structural force] = by the compulsion of how the system is structured. `la-wi-ra
+    ra lo-si-ne-su` = directed-power forces-over the media = power dominates the media
+    structurally. The `/` partitions the authors'' two simultaneous claims: deny conspiracy
+    / assert structural mechanism. Fifth use of the "not-X / but-Y" `/` pattern (previous:
+    MAO S802, S807; ORW S818; ORD S833). First use of `no [clause]` in the left arm
+    of a `/` construction; first use of `go {}` in the right arm of a "not-X / but-Y"
+    structure.'

@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 136 |
+| [w101-plus.md](w101-plus.md) | W101+ | 138 |
 
-**Total: 224 W-series entries** — active: 180 · proposed: 2 · pending: 39 · cold: 0 · retired: 3
+**Total: 226 W-series entries** — active: 182 · proposed: 2 · pending: 39 · cold: 0 · retired: 3
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -154,6 +154,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `si-ko-mu` | W067 | individual document, encoded record | ✅ | [w051-w100](w051-w100.md) |
 | `si-mu` | W039 | relay device, signal transceiver | ✅ | [w001-w050](w001-w050.md) |
 | `si-ne-ki` | W021 | signal-transmission process | ⏳ | [w001-w050](w001-w050.md) |
+| `si-ne-su` | W237 | media institution; signal-network-structure; mass media as organized system | ✅ | [w101-plus](w101-plus.md) |
 | `si-no-vo-li` | W126 | hypocrite, person of valueless signal | ✅ | [w101-plus](w101-plus.md) |
 | `so-vo-li` | W213 | bard / sonic artist | ✅ | [w101-plus](w101-plus.md) |
 | `su'ma` | W113 | solid (material state) | ⏳ | [w101-plus](w101-plus.md) |
@@ -210,6 +211,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `wi-no` | W230 | unwillingness; not-wanting; reluctance | ✅ | [w101-plus](w101-plus.md) |
 | `wi-no-ra` | W132 | meekness, will-without-force | ✅ | [w101-plus](w101-plus.md) |
 | `wi-no-su` | W189 | chaotic; will unbound by structure; spontaneous / freedom-first moral disposition | ✅ | [w101-plus](w101-plus.md) |
+| `wi-o-li` | W238 | collective will; consent; public opinion as organized volition | ✅ | [w101-plus](w101-plus.md) |
 | `wi-ra` | W177 | directed power, authority (will-force) | ✅ | [w101-plus](w101-plus.md) |
 | `wi-ra-li` | W217 | spirit / directed-force-agent | ✅ | [w101-plus](w101-plus.md) |
 | `wi-ra-su` | W179 | magic; the systematic, disciplined practice of directed force | ✅ | [w101-plus](w101-plus.md) |
@@ -323,6 +325,9 @@ Concept-first lookup: find the compound you need by domain.
 **Cognition / Knowledge**
 `mi-vo-to` W236 conscience
 
+**Communication / Institutional**
+`si-ne-su` W237 media institution
+
 **Context / Social**
 `go-su` W235 circumstances
 
@@ -377,6 +382,9 @@ Concept-first lookup: find the compound you need by domain.
 **Mathematics / Geometry**
 `pa-di` W229 dimension
 
+**Media / Signal**
+`si-ne-su` W237 media institution
+
 **Meta / Language**
 `to'to-ne-su` W170 meta-truth · `to-to-ne-su` W169 knowledge of truth
 
@@ -407,6 +415,9 @@ Concept-first lookup: find the compound you need by domain.
 **Signal / Inscription**
 `fe-vo'si-ko-mu` W219 consecrated inscribed object / pentacle / talisman
 
+**Social / Political**
+`wi-o-li` W238 collective will
+
 **Social / Relational**
 `de-li` W223 adversary · `ka-si-de` W224 deliberate deception
 
@@ -415,6 +426,9 @@ Concept-first lookup: find the compound you need by domain.
 
 **Structures / Institutions**
 `o-ka-su` W233 collective-governance-structure
+
+**Will / Agency**
+`wi-o-li` W238 collective will
 
 ---
 
@@ -448,11 +462,11 @@ Quick lookup by lead primitive root.
 | `ra` | ra-ki-mu W012, ra-ki W038, ra-vo W071, ra-ma W082, ra-lu-ki W151, ra-su-li W225 |
 | `re` | re-ka-ne-li W134 |
 | `se` | se-ka W034, se-to W062, se-no-to W090, se-lu W130 |
-| `si` | si-ne-ki W021, si-ki W023, si-mu W039, si-ko-mu W067, si-fe W070, si-de W098, si-no-vo-li W126, si-ki-li W158, si-go-li W201, si-de-vo W232 |
+| `si` | si-ne-ki W021, si-ki W023, si-mu W039, si-ko-mu W067, si-fe W070, si-de W098, si-no-vo-li W126, si-ki-li W158, si-go-li W201, si-de-vo W232, si-ne-su W237 |
 | `su` | su-mu-li W002, su-ru W085, su-ti W101, su'ma W113, su-fa W133, su-ne W174, su-to W199, su-ka-li W200, su-zo-ko W204, su-ha-mu W227, su-li W234 |
 | `ti` | ti-fe W037, ti-be W040, ti-de W041, ti-mu W057, ti-re W103, ti-mi W109 |
 | `to` | to-ne-su W000, to-li W003, to-su-mu W010, to-ki-mu W011, to-ki W020, to-su-ki W025, to-si W026, to-ko W027, to-fe W028, to-fe-ka W029, to-su W030, to-fe-li W032, to-re-su W064, to-fe-su W072, to-ru W083, to-go W089, to-fe-su-ki W097, to-ko-re W166, to-to-ne-su W169, to'to-ne-su W170, to-pa W195, to-ki'ne-su W202 |
 | `vo` | vo-ne W118, vo-mu W137 |
-| `wi` | wi-to W045, wi-ka-su W054, wi-si W063, wi-to-su W073, wi-re-su W074, wi-re W099, wi-fe W100, wi-de-li W124, wi-no-ra W132, wi-zo W145, wi-du W175, wi-ra W177, wi-fe'de W203, wi-ra-li W217, wi-no W230 |
+| `wi` | wi-to W045, wi-ka-su W054, wi-si W063, wi-to-su W073, wi-re-su W074, wi-re W099, wi-fe W100, wi-de-li W124, wi-no-ra W132, wi-zo W145, wi-du W175, wi-ra W177, wi-fe'de W203, wi-ra-li W217, wi-no W230, wi-o-li W238 |
 | `zi` | zi-ra W104, zi-ka W105, zi-zo W106, zi-zo-go W107, zi-zo-du W108 |
 | `zo` | zo-no-ki W043, zo-de W051, zo-se-ki W060, zo-to W068, zo-si W069, zo-ne W076, zo-ne-go W077, zo-ne-du W078, zo-ne-ru W079, zo-ne-go-re W080, zo-ne-du-re W081, zo-ra W117, zo-su-be W143, zo-ra-ma W144, zo-li W148, zo-su-ka-li W150, zo-ma W163, zo-ki'ma W164, zo-ki-ma W220, zo-su-mu W221 |

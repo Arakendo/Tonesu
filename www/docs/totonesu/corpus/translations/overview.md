@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-43 translation analyses.
+44 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -61,6 +61,7 @@ gap analysis, and key findings.
 - [alinsky-rules-for-radicals](philosophy/alinsky-rules-for-radicals/index.md)
 - [liar-paradox](philosophy/liar-paradox/index.md)
 - [lojban-type-contrasts](philosophy/lojban-type-contrasts/index.md)
+- [manufacturing-consent](philosophy/manufacturing-consent/index.md)
 - [mao-little-red-book](philosophy/mao-little-red-book/index.md)
 - [ordinary-men](philosophy/ordinary-men/index.md)
 - [orwell-1984](philosophy/orwell-1984/index.md)
