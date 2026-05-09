@@ -4,7 +4,7 @@ title: "`wife'atofeka` structural tests"
 
 # `wife'atofeka` structural tests
 
-*Theme: [Foundations](../../foundations/overview.md)* · 8 sentences.
+*Theme: [Foundations](../../foundations/overview.md)* · 16 sentences.
 
 [← Foundations](../../foundations/overview.md) · [← Corpus](../../overview.md)
 
@@ -75,6 +75,65 @@ title: "`wife'atofeka` structural tests"
 
 !!! annotation "Notes"
     Precondition cascade expressed via `;` sequential connector (SCL-002: A ; B = "A and then B" — connection type not asserted). Three-stage sequence: (1) `no-ne-zo-li` = atomized/lonely persons (no-ne-zo-li, first used S850 = "without living-person-bonds"); (2) `su-ra` = structural force operating on them; (3) `a-ra-su ne wife'atofeka` = the total-power-structure having achieved legitimized epistemic closure. The `;` chain expresses the cascade as a temporal-causal sequence without asserting the exact mechanism — consistent with SCL-002's Humean distinction: constant conjunction (`;`) vs asserted mechanism (`go`). The mechanism at each step is shown by the cascade order, not asserted. Three-stage use of `;` as cascade format is a new productive use (prior attested: two-stage S493 adversative; two-stage S851/S863 ANT contexts).
+
+## WFE-002 · Reflexive Application: Self-Licensing Circularity
+
+<span id="S873"></span>
+**S873**
+*Epistemic closure legitimizes itself.*
+
+<span id="S874"></span>
+**S874**
+*Propaganda does not operate by means of propaganda.*
+
+<span id="S875"></span>
+**S875**
+*Epistemic closure is self-licensing / propaganda is not self-licensing.*
+
+<span id="S876"></span>
+**S876**
+*Given a person knows that epistemic closure is self-licensing, that person is still inside epistemic closure.*
+
+<span id="S877"></span>
+**S877**
+*Omniscience knows that epistemic closure is self-licensing / and is not inside epistemic closure.*
+
+<span id="S878"></span>
+**S878**
+*Natality does not operate through epistemic closure.*
+
+<span id="S879"></span>
+**S879**
+*The structured analysis of epistemic closure is itself epistemic closure.*
+
+<span id="S880"></span>
+**S880**
+*Only natality does not operate through epistemic closure.*
+
+### Batch Summary
+
+**Entries:** S873–S880 · **New vocabulary:** none
+
+| Entry | Tonesu | Written form | Key feature |
+|-------|--------|-------------|-------------|
+| S873 (WFE-002-A) | `la-wife'atofeka ne go-si wife'atofeka` | `lawife'atofeka ne gosi wife'atofeka` | First `la-X ne go-si X` self-referential instrumental; self-licensing baseline |
+| S874 (WFE-002-B) | `la-ka-si-de no ne go-si ka-si-de` | `lakaside no ne gosi kaside` | Propaganda not self-licensing; minimal pair with S873 |
+| S875 (WFE-002-C) | `la-wife'atofeka ne go-si wife'atofeka / la-ka-si-de no ne go-si ka-si-de` | `lawife'atofeka ne gosi wife'atofeka / lakaside no ne gosi kaside` | Canonical diagnostic `/` parallel: self-licensing vs not |
+| S876 (WFE-002-D) | `go {la-zo-li to [wife'atofeka ne go-si wife'atofeka]}, la-zo-li ne wife'atofeka` | `go {lazoli to [wife'atofeka ne gosi wife'atofeka]}, lazoli ne wife'atofeka` | Meta-awareness inside closure; first `wife'atofeka ne go-si wife'atofeka` as `to` clausal object |
+| S877 (WFE-002-E) | `la-to-no-fe to [wife'atofeka ne go-si wife'atofeka] / no ne wife'atofeka` | `latonofe to [wife'atofeka ne gosi wife'atofeka] / no ne wife'atofeka` | Omniscience outside recursion; argument-drop after `/`; second clausal use |
+| S878 (WFE-002-F) | `la-be-ki ne no-go-si wife'atofeka` | `labeki ne nogosi wife'atofeka` | First `no-go-si [compound]` negated instrumental; natality as structural exit |
+| S879 (WFE-002-G) | `la-to-su lo-wife'atofeka ne wife'atofeka` | `latosu lowife'atofeka ne wife'atofeka` | Scholarly critique inside closure; `to-su lo-[W-entry compound]` first use |
+| S880 (WFE-002-H) | `ru-fe, la-be-ki ne no-go-si wife'atofeka` | `rufe, labeki ne nogosi wife'atofeka` | Exclusive exit: `ru-fe,` scopes over S878; only finite escape is structural |
+
+**Key structural findings:**
+
+**Finding 1: `wife'atofeka` is self-licensing; propaganda is not.** The `la-X ne go-si X` test cleanly distinguishes the two. `wife'atofeka ne go-si wife'atofeka` (S873) — the entitlement-frame licenses itself. `la-ka-si-de no ne go-si ka-si-de` (S874) — propaganda requires an external truth-ground. The distinction is structural, not a matter of content or intent. The canonical form is the diagnostic parallel S875.
+
+**Finding 2: Meta-awareness does not escape.** S876 shows the conditional `go {knowing the self-licensing fact} → inside the closure` holds. Three levels now attested as failing: object-level exposure (S868), meta-awareness of non-dissolution (S868), meta-awareness of self-licensing (S876). All finite epistemic moves remain inside.
+
+**Finding 3: Two escape conditions exist; one is available to finite agents.** Omniscience escapes epistemically (S877) — no `fe` boundary means the self-licensing structure cannot apply. Natality escapes structurally (S878, S880) — the new beginning is not licensed by any prior structure. `ru-fe,` (S880) marks natality as the only finite exit.
+
+**Finding 4: `no-go-si [X]` (negated instrumental) is productive.** First use S878/S880. Pattern: `no-go-si [compound]` = "not-by-means-of [X]." Follows the `no-[compound]` negation pattern; new slot in the instrumental paradigm alongside `go-si [X]`.
 
 ---
 

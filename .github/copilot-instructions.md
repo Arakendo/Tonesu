@@ -28,6 +28,8 @@ Files in `registry/derived/` and `corpus/sentences/` are split when they reach ~
 - **Sentence corpus**: close the current range file, create the next `sNNN-plus.md`, update `corpus/sentences/index.md` entry counts.
 Never renumber existing W-numbers or S-numbers when splitting.
 
+**Before writing any new entries to an active intake file**, check its current entry count (e.g. `(Get-Content <file>).Count` or grep for sentence/W-number headers). If the file already exceeds ~50 entries, close it first (rename to its full range) and create a new `sNNN-plus.md` or `wNNN-plus.md` before adding the new content.
+
 ### Key files within folders
 
 | What you need | Where to look |
