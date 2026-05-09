@@ -1087,3 +1087,28 @@ batches:
   theme: Foundations
   range: S873–S880
   count: 8
+- code: ADL-001
+  title: Adversarial Designation and Action-Space Activation
+  theme: Foundations
+  range: S881–S888
+  count: 8
+- code: ADL-002
+  title: Affect, Ritualization, and Public Consent
+  theme: Foundations
+  range: S889–S896
+  count: 8
+- code: ADL-003
+  title: Purification, Sacrificial Discharge, and Scapegoat Logic
+  theme: Foundations
+  range: S897–S904
+  count: 8
+- code: ADL-004
+  title: Codification, Records, and Administrative Normalization
+  theme: Foundations
+  range: S905–S912
+  count: 8
+- code: KAF-001
+  title: 'Kafka, The Trial: Arrest Before Explanation'
+  theme: Foundations
+  range: S913–S915
+  count: 3

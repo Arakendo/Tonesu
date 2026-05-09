@@ -29,6 +29,7 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 
 - [ ] **Performative / expressive register (EM-001)** — Reactive cries and expressive exclamations: "Ugh!", "Oh no…", "At last!" Not propositional — no standard `la-{agent} verb lo-{patient}` frame. Options: (a) bare topic frames (`ya, [state]`), (b) bare fragments with `—`, (c) new particle. Decision can be taken during the batch. Good source: stage directions / dramatic text.
 - [ ] **Social / chosen kinship vocabulary** — "My spouse", "my adoptive parent", "my crew". No vocabulary exists. Sketch candidates first (`wi-ne`? → partner by bond; `zo-ne`? → chosen/formed relation), then run 6-sentence batch that forces them into use.
+- [ ] **Proper-name scoping / written-form stress test** — Pressure point: `la-na-X` / `lo-na-X` are structurally legal but produce visually compressed written forms like `lanaX` / `lonaX`, especially in translation prose. Run a small naming batch that contrasts agent (`la-na-X`), patient (`lo-na-X`), vocative (`he na-X`), predicate-nominal (`na-X!` vs clause use), relational (`ne-na-X`), and embedded-clause uses. Goal: decide whether the current rule is fine as-is, whether brace-grouping should be preferred for some named NPs, or whether a notation-level convention is needed without changing grammar. Seed pressure: KAF-001.
 
 ---
 

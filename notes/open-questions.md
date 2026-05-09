@@ -189,6 +189,8 @@ Consolidated list of unresolved design decisions from across all spec and regist
 
 ## Naming
 
+- [ ] **Proper-name role-marker collision in written form.** The current grammar allows `la-na-X`, `lo-na-X`, `lu-na-X`, etc., and KNM-001 explicitly confirmed that the role-marker scopes over the full named NP. That rule is structurally clean, but in running written form it produces visually compressed strings like `lanaYosef` / `lonaYosef`, which can feel like the role-marker is being slammed onto the identifier rather than scoping over an NP. The issue is not grammatical ambiguity so much as **orthographic and NP-boundary salience**. Open questions: (1) Is plain `role-marker + na-X` the canonical written form despite the visual compression? (2) Should named NPs prefer an explicit grouping strategy in some contexts — e.g. brace-scoped `{kind na identifier}` or another display convention — even when no kind-term is semantically needed? (3) Is this only a corpus-notation / presentation problem, leaving core grammar untouched? First strong pressure: KAF-001 (`la-na-Yosef`, `lo-na-Yosef`, May 2026). Do not redesign from taste alone; run a dedicated batch that contrasts agent, patient, vocative, relational, and embedded-clause uses of named NPs, then decide whether the current rule stands, needs a notation-level refinement, or needs a true grammatical adjustment.
+
 ---
 
 ## Website / Discoverability

@@ -16816,3 +16816,693 @@ sentences:
     `no-go-si wife''atofeka`. All finite epistemic moves — critical analysis (S879),
     meta-awareness (S876), and object-level exposure (S868) — remain inside the closure.
     Only the structural novelty of new beginning (`be-ki`) is constitutively outside.'
+- snum: S881
+  gloss: Adversary-designation does not by itself change the action-boundary.
+  batch: ADL-001
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: '[adversary-designation] NOT changes [action-boundary]'
+  natural: Adversary-designation does not by itself change the action-boundary.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S881
+  notes: 'Baseline descriptive case. `de-li''si` = `[de-li]''[si]` = adversary-designation:
+    the signal or label that marks a target as adversarial. The juncture is required:
+    without `''`, `de-li-si` right-branches as `de` + `[li-si]` = decrease + person-signal,
+    wrong reading. `ka-fe` (S858) = deliberate-action-boundary = the limit of what
+    may be done. The sentence defines the null case: descriptive classification alone
+    does not yet alter permissibility. **First use of `de-li''si`.**'
+- snum: S882
+  gloss: When adversary-designation is granted legitimacy, it changes the action-boundary.
+  batch: ADL-001
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: '[adversary-designation] IS legitimacy/right ; [adversary-designation]
+    changes [action-boundary]'
+  natural: When adversary-designation is granted legitimacy, it changes the action-boundary.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S882
+  notes: 'The activation threshold. `ne wi-fe` does not mean the designation is factually
+    correct; it means the designation is treated as normatively rightful or authorized.
+    The second clause gives the diagnostic consequence: the label now changes `ka-fe`.
+    This is the structural distinction the batch is testing: classification versus
+    action-space transformation.'
+- snum: S883
+  gloss: Ideology designates an adversary / ideology designates a legitimized enemy.
+  batch: ADL-001
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: '[ideology] designates [adversary] / [ideology] designates [legitimized-adversary]'
+  natural: Ideology designates an adversary / ideology designates a legitimized enemy.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S883
+  notes: 'Canonical minimal pair. Left clause: descriptive adversarial classification
+    (`de-li`). Right clause: `wi-fe''de-li` = `[wi-fe]''[de-li]` = legitimacy-framed
+    adversary = enemyhood presented as rightful. The juncture is required so `wi-fe`
+    scopes over the whole adversary category rather than right-branching internally.
+    This is the cleanest corpus distinction between truth-tracking enemy-identification
+    and coercive moral recategorization. **First use of `wi-fe''de-li`.**'
+- snum: S884
+  gloss: Once ideology designates a legitimized enemy, it redraws what may be done.
+  batch: ADL-001
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: because [ideology designates legitimized-adversary], ideology changes
+    [action-boundary]
+  natural: Once ideology designates a legitimized enemy, it redraws what may be done.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S884
+  notes: 'Explicit causal link from designation to permissibility shift. This is the
+    bridge missing in the existing Arendt sentence S856 (`to-su si lo-de-li / wi-ra-ki
+    ka-de lo-de-li`): ADL-001-D names the middle operator. The label does not merely
+    supply a target; it transforms the permissible field around the target.'
+- snum: S885
+  gloss: Repeated legitimized-enemy designation makes directed power grow.
+  batch: ADL-001
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: because [ideology repeatedly designates legitimized-adversary], [directed-power]
+    grows
+  natural: Repeated legitimized-enemy designation makes directed power grow.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S885
+  notes: 'Repetition test. `re` on `si` marks recurrent or sustained designation activity.
+    The result is not merely additional description but growth of `wi-ra` (W177, directed
+    power/authority). This is the first pressure test for the user''s repetition question:
+    repeated designation helps stabilize coercive power.'
+- snum: S886
+  gloss: When the secret police designates a legitimized enemy, terror grows.
+  batch: ADL-001
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: because [secret-police designates legitimized-adversary], [state-terror]
+    grows
+  natural: When the secret police designates a legitimized enemy, terror grows.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S886
+  notes: 'Institutional reinforcement test. `mi-ne-su` (S861) = secret police / inner
+    coercive network. `wi-ra-ki` (W241) = state terror. The sentence makes the escalatory
+    mechanism explicit: institutional enemy-designation increases terror capacity.
+    Cross-batch resonance with ANT-002-F/H: ideology names, coercive institutions
+    operationalize.'
+- snum: S887
+  gloss: Under forceful circumstances and legitimized-enemy designation, ordinary
+    persons bind themselves to coercive power.
+  batch: ADL-001
+  batch_sub: G
+  status: normative
+  tonesu: ''
+  gloss_line: because [circumstances are force ; ideology designates legitimized-adversary],
+    [ordinary-person] deliberately-binds [directed-power]
+  natural: Under forceful circumstances and legitimized-enemy designation, ordinary
+    persons bind themselves to coercive power.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S887
+  notes: 'Browning bridge. `go-su` (W235) + `ne ra` gives structural pressure; `su-li`
+    (W234) keeps the subject as ordinary, structure-embedded persons rather than fanatics.
+    `ka-ne lo-wi-ra` reuses the complicity/binding logic from SLZ-001: the ordinary
+    person becomes a co-signer of coercive power. This tests the interaction of designation
+    systems with ordinary-person compliance under pressure.'
+- snum: S888
+  gloss: The legitimized enemy operates by means of epistemic closure.
+  batch: ADL-001
+  batch_sub: H
+  status: normative
+  tonesu: ''
+  gloss_line: '[legitimized-adversary] IS by-means-of [legitimized-epistemic-closure]'
+  natural: The legitimized enemy operates by means of epistemic closure.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S888
+  notes: 'Recursive stabilization test. The point is not that every adversary-label
+    is false, but that the legitimacy-framed enemy category can be sustained through
+    `wife''atofeka` — the condition in which the boundary of what counts as knowable
+    or challengeable is itself presented as rightful. This links the designation mechanism
+    to WFE-001/002: once enemyhood is wrapped in closure, contradiction exposure alone
+    will not necessarily dissolve it.'
+- snum: S889
+  gloss: Adversary-designation is not itself legitimacy; legitimacy-conferring enemy-designation
+    is.
+  batch: ADL-002
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: '[adversary-designation] NOT IS legitimacy/right / [legitimized-enemy-designation]
+    IS legitimacy/right'
+  natural: Adversary-designation is not itself legitimacy; legitimacy-conferring enemy-designation
+    is.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S889
+  notes: 'Act-level distinction. `wi-fe''de-li''si` = `[wi-fe]''[de-li''si]` = legitimacy-framed
+    adversary-designation = the label-act that carries authorization, not mere description.
+    This is distinct from `wi-fe''de-li` (ADL-001-C), which names the resulting enemy
+    category. The `/` makes the structural contrast explicit: the same broad semantic
+    field of designation, but only one form carries `wi-fe` as constitutive. **First
+    use of `wi-fe''de-li''si`.**'
+- snum: S890
+  gloss: Legitimized enemy-designation depends on atomization, not on hatred.
+  batch: ADL-002
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: '[legitimized-enemy-designation] depends-on [atomized-persons] / NOT
+    depends-on [hostile-arousal]'
+  natural: Legitimized enemy-designation depends on atomization, not on hatred.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S890
+  notes: 'Arendt bridge at the designation level. `no-ne-zo-li` (S850) gives the atomized/lonely
+    social condition; `fa-ra-be` (W123) gives hatred/hostile arousal. The claim is
+    not that affect is irrelevant, but that durable designation systems require isolated,
+    unbonded persons more fundamentally than intense hatred. This sharpens the user''s
+    emotional-intensity question: emotion amplifies, but atomization stabilizes.'
+- snum: S891
+  gloss: Ritual strengthens legitimacy-conferring enemy-designation.
+  batch: ADL-002
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: '[ritual] grows/strengthens [legitimized-enemy-designation]'
+  natural: Ritual strengthens legitimacy-conferring enemy-designation.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S891
+  notes: '`wi-ka-su` (W054) = ritual, structured intentional practice. The sentence
+    tests symbolic ritualization directly: repetition is not only informational but
+    performative. Ritual does not merely restate the label; it thickens it through
+    repeated enacted practice. Cross-batch resonance with W054: ritual is an organized
+    practice, not just a plan or statement.'
+- snum: S892
+  gloss: Repeated media signaling of legitimacy-conferring enemy-designation grows
+    public consent.
+  batch: ADL-002
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: because [media repeatedly signals legitimized-enemy-designation], [collective-will/consent]
+    grows
+  natural: Repeated media signaling of legitimacy-conferring enemy-designation grows
+    public consent.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S892
+  notes: 'Public-repetition test. `si-ne-su` (W237) = mass media as institutional
+    signal-network; `re si` marks repeated signaling; `wi-o-li` (W238) = consent/public
+    opinion. This is the clearest corpus answer to the user''s repetition + institutional
+    reinforcement question: repeated institutional signaling turns designation into
+    collective uptake.'
+- snum: S893
+  gloss: When ritual and media repetition stabilize the designation, the collective
+    repeats the legitimized-enemy category itself.
+  batch: ADL-002
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: because [ritual strengthens legitimized-enemy-designation ; media repeatedly
+    signals legitimized-enemy-designation], [collective-persons] repeatedly signal
+    [legitimized-enemy]
+  natural: When ritual and media repetition stabilize the designation, the collective
+    repeats the legitimized-enemy category itself.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S893
+  notes: 'Diffusion test. ADL-002-C/D treat ritual and media as upstream stabilizers;
+    ADL-002-E tests downstream uptake by the public. The result is not just passive
+    agreement but active repetition: the collective begins to circulate the enemy
+    category on its own. This is where designation becomes socially ambient rather
+    than institutionally confined.'
+- snum: S894
+  gloss: Once a person is recategorized as a legitimized enemy, that person becomes
+    rightless.
+  batch: ADL-002
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: given [person IS legitimized-enemy], that-person IS rightlessness
+  natural: Once a person is recategorized as a legitimized enemy, that person becomes
+    rightless.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S894
+  notes: 'Right-withdrawal test. `no-wi-fe` (S848) = rightlessness. This is the cleanest
+    Arendtian downstream effect of action-space activation: the target is no longer
+    just opposed but stripped of the entitlement-claims that ordinarily limit coercion.
+    The sentence also answers the user''s action-space question directly: the label
+    changes what is permissible by changing the target''s rights-status.'
+- snum: S895
+  gloss: Once a person is recategorized as a legitimized enemy, that person is treated
+    as outside political membership.
+  batch: ADL-002
+  batch_sub: G
+  status: normative
+  tonesu: ''
+  gloss_line: given [person IS legitimized-enemy], that-person IS no-network-person
+  natural: Once a person is recategorized as a legitimized enemy, that person is treated
+    as outside political membership.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S895
+  notes: 'Membership-exclusion test. `no-ne-su-li` (S848) = stateless / person outside
+    political network-membership. The sentence is not a claim that every enemy is
+    literally stateless; it tests the structural direction: the legitimized enemy
+    is pushed outside the community''s binding membership logic. This is the closest
+    corpus form to the user''s question about reclassifying the target outside legitimate
+    plurality.'
+- snum: S896
+  gloss: Even when the collective knows the designation operates through epistemic
+    closure, the media still repeat it.
+  batch: ADL-002
+  batch_sub: H
+  status: normative
+  tonesu: ''
+  gloss_line: given [collective-persons know [legitimized-enemy-designation IS by-means-of
+    legitimized-epistemic-closure]], [media] repeatedly signals [legitimized-enemy-designation]
+  natural: Even when the collective knows the designation operates through epistemic
+    closure, the media still repeat it.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S896
+  notes: Contradiction-survival / meta-awareness test. This extends the WFE-002 logic
+    from individual and scholarly awareness to public awareness of the designation
+    mechanism itself. The point is not that awareness is absent; the point is that
+    awareness alone does not dissolve repetition when the designation is stabilized
+    by `wife'atofeka`. This is the closest current corpus answer to the user's question
+    about survival under contradiction exposure.
+- snum: S897
+  gloss: Legitimized enemy-designation locates fault in the target rather than in
+    the collective.
+  batch: ADL-003
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: '[legitimized-enemy-designation] signals [fault] from-person / NOT signals
+    [fault] from-collective-persons'
+  natural: Legitimized enemy-designation locates fault in the target rather than in
+    the collective.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S897
+  notes: This is the scapegoat pivot in its cleanest form. `de-su` = fault/wrong;
+    `go-X` marks source-origination. The designation no longer says only "this person
+    is dangerous"; it says "the community's wrong comes from this person." That source-shift
+    is what licenses purification language in the next sentences.
+- snum: S898
+  gloss: Once the target is made the source of fault, the collective seeks to purify
+    the social network.
+  batch: ADL-003
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: because [legitimized-enemy-designation signals fault from-person], [collective-persons]
+    deliberately-remove-fault [social-network]
+  natural: Once the target is made the source of fault, the collective seeks to purify
+    the social network.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S898
+  notes: '`ka-no-de-su` was first used for forgiveness/purification; ADL-003 extends
+    it into political cleansing language without changing the compound''s structural
+    core. `ne-su` here is the social network or community-body. The point is not theological
+    purification but public purification: fault-removal becomes a collective political
+    project.'
+- snum: S899
+  gloss: Sacrificing the target is treated as making the community clean of fault.
+  batch: ADL-003
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: because [collective-persons sacrifice person], [social-network] NOT
+    IS fault
+  natural: Sacrificing the target is treated as making the community clean of fault.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S899
+  notes: '`ka-de` (sacrifice/surrender) is re-used here in political rather than religious
+    or self-sacrificial register. The sentence does not endorse the claim; it formalizes
+    the public logic of sacrificial discharge. Harm to the target is narrated as a
+    change in the moral condition of the group.'
+- snum: S900
+  gloss: After sacrificing the target, the collective constructs that suffering as
+    a worthy victim.
+  batch: ADL-003
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: because [collective-persons sacrifice person], [collective-persons]
+    deliberately-construct [worthy-victim]
+  natural: After sacrificing the target, the collective constructs that suffering
+    as a worthy victim.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S900
+  notes: This reuses `vo-de-zo-li` from MCH-001 in a new register. There, media constructed
+    worthy versus unworthy victims for audience management. Here, the collective reconstructs
+    the harmed target's suffering as socially good or necessary. The same victim-worth
+    mechanism can therefore operate inside sacrificial politics, not just media selection.
+- snum: S901
+  gloss: The harm of the legitimized enemy is narrated as the community's repair.
+  batch: ADL-003
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: because [person IS legitimized-enemy ; person decays/suffers], [social-network]
+    grows
+  natural: The harm of the legitimized enemy is narrated as the community's repair.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S901
+  notes: This is the repair-logic sentence. `de` on the person gives destructive harm
+    or wasting; `be` on the network gives growth or repair. The causal frame captures
+    the political claim that group health increases when the designated target is
+    made to suffer. That is the core moral inversion of scapegoat logic.
+- snum: S902
+  gloss: After one sacrificial target is removed, legitimacy-conferring enemy-designation
+    repeats toward another.
+  batch: ADL-003
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: because [collective-persons sacrifice person], [legitimized-enemy-designation]
+    repeatedly signals [another-particular-target]
+  natural: After one sacrificial target is removed, legitimacy-conferring enemy-designation
+    repeats toward another.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S902
+  notes: 'Discharge failure test. If the mechanism actually resolved the underlying
+    problem, the designation would end. Instead `re si` returns: the system seeks
+    another particular target. This is the structural reason scapegoating is iterative
+    rather than terminal.'
+- snum: S903
+  gloss: Purification discourse strengthens legitimacy-conferring enemy-designation.
+  batch: ADL-003
+  batch_sub: G
+  status: normative
+  tonesu: ''
+  gloss_line: '[purification / deliberate-fault-removal] grows/strengthens [legitimized-enemy-designation]'
+  natural: Purification discourse strengthens legitimacy-conferring enemy-designation.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S903
+  notes: Parallel to ADL-002-C. Ritual strengthened the designation by repetition;
+    here purification language strengthens it by moral transfiguration. Once coercion
+    is described as cleansing, the designation acquires a repair-function and becomes
+    harder to challenge from within the shared frame.
+- snum: S904
+  gloss: The underlying fault belongs to the network, not to the singled-out person.
+  batch: ADL-003
+  batch_sub: H
+  status: normative
+  tonesu: ''
+  gloss_line: '[fault] IS from-social-network / NOT IS from-person'
+  natural: The underlying fault belongs to the network, not to the singled-out person.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S904
+  notes: 'Structural correction sentence. ADL-003-A showed how designation mislocates
+    fault; ADL-003-H states the inverse diagnosis directly. The relevant wrong is
+    systemic and relational. That is why sacrificial discharge fails: it attacks a
+    person for a fault generated by the network itself.'
+- snum: S905
+  gloss: The state apparatus normatively categorizes a person as a legitimized enemy.
+  batch: ADL-004
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: '[state-apparatus] normatively-categorizes [person] as [legitimized-enemy]'
+  natural: The state apparatus normatively categorizes a person as a legitimized enemy.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S905
+  notes: This is the legal-administrative threshold sentence. ADL-001 showed ideology
+    designating the enemy; ADL-004-A moves the same operation into `o-ka-su` (W233,
+    state apparatus) using `wi-fe'ka-to-fe`, the established rule-of-categorization
+    compound from CDA/ACA. The result is not merely hostile naming but an administratively
+    operative category.
+- snum: S906
+  gloss: Once the apparatus categorizes the target as a legitimized enemy, the document
+    carries that category.
+  batch: ADL-004
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: because [state-apparatus normatively-categorizes person as legitimized-enemy],
+    [document] signals [legitimized-enemy]
+  natural: Once the apparatus categorizes the target as a legitimized enemy, the document
+    carries that category.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S906
+  notes: '`si-ko-mu` (W067) is the individual encoded record. The significance is
+    temporal and procedural: the designation no longer exists only in speech or ritual
+    repetition. It now has documentary persistence. Bureaucratic power begins when
+    the category can survive the moment of accusation by being written down.'
+- snum: S907
+  gloss: After public affect fades, the record still repeats the designation.
+  batch: ADL-004
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: because [collective-persons' affect fades], [record] repeatedly signals
+    [legitimized-enemy]
+  natural: After public affect fades, the record still repeats the designation.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S907
+  notes: '`fa-de` (W094) = affect fading; `si-de` (W098) = signal of record / recorded
+    signal. This is the cooling test for bureaucracy. ADL-002 showed designation surviving
+    through ritual and media repetition; ADL-004-C adds a colder stabilizer: the written
+    record keeps replaying the category even when the crowd''s emotional intensity
+    falls.'
+- snum: S908
+  gloss: Administrative judgment on the record extends the designation to another
+    case.
+  batch: ADL-004
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: because [state-apparatus performs categorical-judgment on record], [state-apparatus]
+    normatively-categorizes [another-particular-person] as [legitimized-enemy]
+  natural: Administrative judgment on the record extends the designation to another
+    case.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S908
+  notes: '`ka-to-fe` supplies the bureaucratic threshold: once officials are judging
+    records rather than merely echoing slogans, the designation becomes portable across
+    cases. This is how a category generalizes. One file does not stay one file; it
+    becomes precedent-like material for the next classification.'
+- snum: S909
+  gloss: Once document and rule align, the target becomes rightless; renewed hatred
+    is not required.
+  batch: ADL-004
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: because [document signals legitimized-enemy ; rule IS normative-categorization],
+    [person] IS rightlessness / NOT depends-on [hostile-arousal]
+  natural: Once document and rule align, the target becomes rightless; renewed hatred
+    is not required.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S909
+  notes: This is the administrative version of ADL-002-B/F. Rights-withdrawal no longer
+    depends on affective re-intensification once the documentary and normative layers
+    are aligned. The combination of file plus rule can do the excluding work on its
+    own.
+- snum: S910
+  gloss: Once document and rule align, the target is processed as outside political
+    membership.
+  batch: ADL-004
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: because [document signals legitimized-enemy ; rule IS normative-categorization],
+    [person] IS outside-network-person
+  natural: Once document and rule align, the target is processed as outside political
+    membership.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S910
+  notes: 'ADL-002-G linked enemyhood to membership exclusion at the social-political
+    level. ADL-004-F shows the specifically bureaucratic form of that exclusion: membership
+    loss is now administered through record plus rule. The crucial shift is from crowd
+    judgment to procedural handling.'
+- snum: S911
+  gloss: The state apparatus presents the categorization-rule as self-evident truth,
+    but it is only a rule of categorization.
+  batch: ADL-004
+  batch_sub: G
+  status: normative
+  tonesu: ''
+  gloss_line: '[state-apparatus] signals [self-evident-truth] to [collective-persons]
+    / [rule] IS [rule-about-deliberate-categorization]'
+  natural: The state apparatus presents the categorization-rule as self-evident truth,
+    but it is only a rule of categorization.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S911
+  notes: 'This is the normalization sentence. The apparatus launders norm into apparent
+    fact by signaling `su-to` outward while the actual structure remains `wi-fe''ka-to-fe`.
+    The contrast comes directly from CDA-001''s legal distinction: a contingent rule
+    can be contested and revised; self-evident truth cannot. Administrative stabilization
+    depends on making the former feel like the latter.'
+- snum: S912
+  gloss: The record of the legitimized enemy operates as directed power, not neutral
+    truth.
+  batch: ADL-004
+  batch_sub: H
+  status: normative
+  tonesu: ''
+  gloss_line: '[record] signals [legitimized-enemy] / [it] IS directed-power'
+  natural: The record of the legitimized enemy operates as directed power, not neutral
+    truth.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S912
+  notes: Closing compression of the batch. The point of the record is not archival
+    neutrality. Once it carries `wi-fe'de-li`, it becomes an instrument of `wi-ra`
+    (W177, directed power). Administrative normalization is coercion in documentary
+    form.
+- snum: S913
+  gloss: Someone signals that Yosef is at fault; the state apparatus detains Yosef.
+  batch: KAF-001
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: '[a-particular-other] signals [Yosef IS fault] ; [state-apparatus] deliberately-contains
+    [Yosef]'
+  natural: Someone signals that Yosef is at fault; the state apparatus detains Yosef.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S913
+  notes: 'The batch starts with accusation as **signal**, not proof: `si [la-na-Yosef
+    ne de-su]` says the apparatus of accusation is already active without yet granting
+    public intelligibility or adjudicated certainty. `de-su` is used predicatively
+    here in the fault/wrong register. `ka-ko` reuses the established control/containment
+    compound in a custodial register: detention is rendered as deliberate containment
+    rather than a separate lexical primitive. The source''s longer clause about having
+    done nothing wrong is left implicit so the structural pressure stays on the accusation-to-detention
+    sequence.'
+- snum: S914
+  gloss: Yosef may not leave / the state apparatus is containing him.
+  batch: KAF-001
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: '[rule-forbidden] [Yosef deliberately-departs] / [state-apparatus] deliberately-contains
+    [Yosef]'
+  natural: Yosef may not leave / the state apparatus is containing him.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S914
+  notes: 'This is the key Kafka sentence in Tonesu form. `wi-fe-ka [la-X ka-ki-de]`
+    cleanly separates **normative prohibition** from **physical inability**, following
+    PERM-001. `ka-ki-de` is the deliberate-departure form already established in permission/capability
+    work. The second clause then states the custodial fact: containment is the mechanism
+    by which the prohibition is made real. That yields a more precise analysis than
+    a single English verb like "arrest," which bundles rule, force, and status together.'
+- snum: S915
+  gloss: The state apparatus does not disclose that Yosef is at fault / the state
+    apparatus is already judging Yosef.
+  batch: KAF-001
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: '[state-apparatus] NOT signals [Yosef IS fault] / [state-apparatus]
+    deliberately-judges [Yosef]'
+  natural: The state apparatus does not disclose that Yosef is at fault / the state
+    apparatus is already judging Yosef.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s873-plus.md
+  source_anchor: S915
+  notes: 'This renders the most important Kafka asymmetry: explanation is withheld
+    while adjudication is already operative. `no si [la-na-Yosef ne de-su]` is not
+    a denial that an accusation exists; it is a refusal to disclose or restate it.
+    `ka-to-fe` then names the underway process as deliberate adjudication, not neutral
+    inquiry. The pair shows why Kafka''s opening feels structurally oppressive: the
+    person is already inside the machinery of judgment before the content of the supposed
+    fault becomes available.'
