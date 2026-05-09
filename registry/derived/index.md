@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 142 |
+| [w101-plus.md](w101-plus.md) | W101+ | 145 |
 
-**Total: 230 W-series entries** — active: 186 · proposed: 2 · pending: 39 · cold: 0 · retired: 3
+**Total: 233 W-series entries** — active: 189 · proposed: 2 · pending: 39 · cold: 0 · retired: 3
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -32,6 +32,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 |------|----|-------|----|------|
 | `a-ra-su` | W239 | totalitarianism; total-power-structure | ✅ | [w101-plus](w101-plus.md) |
 | `be-go-li-si` | W149 | creator-representation, image (tselem) | ⏳ | [w101-plus](w101-plus.md) |
+| `be-ki` | W244 | natality; capacity for new beginning; beginning-in-motion | ✅ | [w101-plus](w101-plus.md) |
 | `de-be` | W035 | repair, restore | ✅ | [w001-w050](w001-w050.md) |
 | `de-ki'ma` | W162 | wine / fermented liquid | ✅ | [w101-plus](w101-plus.md) |
 | `de-li` | W223 | adversary; agent of harm; opposing agent | ✅ | [w101-plus](w101-plus.md) |
@@ -66,6 +67,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `ha-de` | W044 | cooling, thermal decrease | ✅ | [w001-w050](w001-w050.md) |
 | `ha-zo-ra-ma` | W216 | baked food / thermally-treated food | ✅ | [w101-plus](w101-plus.md) |
 | `ka-be-ne` | W218 | binding / deliberate bond-creation | ✅ | [w101-plus](w101-plus.md) |
+| `ka-de-pa` | W243 | concentration camp; deliberate-harm-place | ✅ | [w101-plus](w101-plus.md) |
 | `ka-de-zo` | W128 | kill, deliberate ending of life | ✅ | [w101-plus](w101-plus.md) |
 | `ka-du-zo-su` | W161 | bread, deliberately crafted plant-product | ✅ | [w101-plus](w101-plus.md) |
 | `ka-li-de` | W205 | tax; governance revenue extraction; governance-sanctioned decrease | ✅ | [w101-plus](w101-plus.md) |
@@ -174,6 +176,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `ti-be` | W040 | morning; proximate future | ✅ | [w001-w050](w001-w050.md) |
 | `ti-de` | W041 | past time; yesterday | ✅ | [w001-w050](w001-w050.md) |
 | `ti-fe` | W037 | deadline, temporal boundary | ✅ | [w001-w050](w001-w050.md) |
+| `ti-go-su` | W245 | historical necessity; law of History; temporal-causal-structure | ✅ | [w101-plus](w101-plus.md) |
 | `ti-mi` | W109 | now, present moment (deictic) | ⏳ | [w101-plus](w101-plus.md) |
 | `ti-mu` | W057 | relic, ancient artifact | ✅ | [w051-w100](w051-w100.md) |
 | `ti-re` | W103 | recurring time, scheduled cycle | ✅ | [w101-plus](w101-plus.md) |
@@ -320,6 +323,9 @@ Concept-first lookup: find the compound you need by domain.
 **Artifact / Daily Life**
 `zo-su-mu` W221 staff / rod / wooden implement
 
+**Becoming / Beginning**
+`be-ki` W244 natality
+
 **Biological / Living**
 `zo-ki-ma` W220 snake / serpent / limbless locomoting organism · `zo-su-mu` W221 staff / rod / wooden implement
 
@@ -401,8 +407,17 @@ Concept-first lookup: find the compound you need by domain.
 **Normative**
 `wi-fe'de` W203 penalty
 
+**Philosophy / History**
+`ti-go-su` W245 historical necessity
+
+**Philosophy / Politics**
+`be-ki` W244 natality
+
 **Physics / Theoretical**
 `ki-fe-mu` W228 fundamental string · `pa-di` W229 dimension
+
+**Places / Institutions**
+`ka-de-pa` W243 concentration camp
 
 **Political / Social**
 `ra-su-li` W225 sovereign
@@ -411,7 +426,7 @@ Concept-first lookup: find the compound you need by domain.
 `a-ra-su` W239 totalitarianism · `o-ka-su` W233 collective-governance-structure · `ra-de-su` W240 tyranny · `wi-ra-ki` W241 state terror
 
 **Politics / History**
-`pa-ra-de-su` W242 imperialism
+`ka-de-pa` W243 concentration camp · `pa-ra-de-su` W242 imperialism
 
 **Rhetoric / Social**
 `si-de-vo` W232 ridicule
@@ -434,6 +449,9 @@ Concept-first lookup: find the compound you need by domain.
 **Structures / Institutions**
 `a-ra-su` W239 totalitarianism · `o-ka-su` W233 collective-governance-structure · `pa-ra-de-su` W242 imperialism · `ra-de-su` W240 tyranny
 
+**Time / Causation**
+`ti-go-su` W245 historical necessity
+
 **Will / Agency**
 `wi-o-li` W238 collective will
 
@@ -446,7 +464,7 @@ Quick lookup by lead primitive root.
 | Lead root | Key entries (W#) |
 |-----------|-----------------|
 | `?` | wi-ra-su W179, ko-fe-ki W180, pa-be-ki W181, to-se-ki W182, wi-fa-ki W183, ra-be-ki W184, ge-se-ki W185, de-zo-ki W186, ge-ki W187, wi-su W188, wi-no-su W189, wi-vo W190, wi-de W191, wi-su-fe W192, wi-vo-fe W193, ra-ka-li W206, to-ra-li W207, se-de-li W208, vo-ra-li W209, zo-re-li W210, wi-vo-li W211, zo-ki-li W212, so-vo-li W213 |
-| `be` | be-go-li-si W149 |
+| `be` | be-go-li-si W149, be-ki W244 |
 | `de` | de-be W035, de-su W119, de-vo W121, de-ki'ma W162, de-zo W178, de-li W223 |
 | `di` | di-ki-li W061 |
 | `du` | du-zo-su W142 |
@@ -454,7 +472,7 @@ Quick lookup by lead primitive root.
 | `fe` | fe-si W024, fe-su W055, fe-no-ka W056, fe-vo W065, fe-vo'si-ko-mu W219 |
 | `go` | go-ne W159, go-su W235 |
 | `ha` | ha-de W044, ha-zo-ra-ma W216 |
-| `ka` | ka-mu W047, ka-ne-de W092, ka-no-de-su W120, ka-to-fe W122, ka-de-zo W128, ka-li-su W147, ka-pa-ki W160, ka-du-zo-su W161, ka-pa-ki'ti-re W167, ka-vo-si W168, ka-li-de W205, ka-be-ne W218, ka-ra W222, ka-si-de W224, o-ka-su W233 |
+| `ka` | ka-mu W047, ka-ne-de W092, ka-no-de-su W120, ka-to-fe W122, ka-de-zo W128, ka-li-su W147, ka-pa-ki W160, ka-du-zo-su W161, ka-pa-ki'ti-re W167, ka-vo-si W168, ka-li-de W205, ka-be-ne W218, ka-ra W222, ka-si-de W224, o-ka-su W233, ka-de-pa W243 |
 | `ki` | ki-pa W049, ki-pa-mu W086, ki'ma W114, ki-ne W152, ki-fe-mu W228 |
 | `ko` | ko-pa W048, ko-mu W052, ko-ne-mu W176, ko-ha-mu W214 |
 | `li` | li-su-li W001, li-be W033, li-pu-pa W036 |
@@ -471,7 +489,7 @@ Quick lookup by lead primitive root.
 | `se` | se-ka W034, se-to W062, se-no-to W090, se-lu W130 |
 | `si` | si-ne-ki W021, si-ki W023, si-mu W039, si-ko-mu W067, si-fe W070, si-de W098, si-no-vo-li W126, si-ki-li W158, si-go-li W201, si-de-vo W232, si-ne-su W237 |
 | `su` | su-mu-li W002, su-ru W085, su-ti W101, su'ma W113, su-fa W133, su-ne W174, su-to W199, su-ka-li W200, su-zo-ko W204, su-ha-mu W227, su-li W234 |
-| `ti` | ti-fe W037, ti-be W040, ti-de W041, ti-mu W057, ti-re W103, ti-mi W109 |
+| `ti` | ti-fe W037, ti-be W040, ti-de W041, ti-mu W057, ti-re W103, ti-mi W109, ti-go-su W245 |
 | `to` | to-ne-su W000, to-li W003, to-su-mu W010, to-ki-mu W011, to-ki W020, to-su-ki W025, to-si W026, to-ko W027, to-fe W028, to-fe-ka W029, to-su W030, to-fe-li W032, to-re-su W064, to-fe-su W072, to-ru W083, to-go W089, to-fe-su-ki W097, to-ko-re W166, to-to-ne-su W169, to'to-ne-su W170, to-pa W195, to-ki'ne-su W202 |
 | `vo` | vo-ne W118, vo-mu W137 |
 | `wi` | wi-to W045, wi-ka-su W054, wi-si W063, wi-to-su W073, wi-re-su W074, wi-re W099, wi-fe W100, wi-de-li W124, wi-no-ra W132, wi-zo W145, wi-du W175, wi-ra W177, wi-fe'de W203, wi-ra-li W217, wi-no W230, wi-o-li W238, wi-ra-ki W241 |

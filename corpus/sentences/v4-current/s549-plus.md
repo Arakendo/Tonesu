@@ -6119,3 +6119,215 @@ la-a-ra-su ne go-su / no ne wi-to-de
 **Verdict:** irreducibly formal — all W-entries are specialized political-philosophy vocabulary; scope-prefix compounds below threshold; 3+-root compositional first uses deferred.
 
 *CLQ entries registered from this batch: none.*
+
+---
+
+## ANT-002 — Hannah Arendt, *The Origins of Totalitarianism* — continued (S855–S864)
+
+**Purpose:** Second pass on Arendt's *Origins*. Covers: camp as juridical rightless space; ideology+terror as twin pillars; masses vs. organized classes; the "everything is possible" claim; nation-state decline → statelessness; historical necessity displacing collective will; secret police as inner core; propaganda vs. reasoning; natality as antidote; politics as space of living-person plurality.
+
+---
+
+**S855 — The camp is a juridical space of rightlessness.** *(ANT-002-A)*
+
+```
+la-ka-de-pa ne no-wi-fe
+```
+
+**Written:** `lakadepa ne nowife`
+
+**Gloss:** `[deliberate-harm-place] [is] no-right`
+
+**Natural reading:** "The camp is rightlessness."
+
+**Notes:** W243 `ka-de-pa` first use. Arendt: the camps are not incidental to totalitarianism but its essential institution — the juridical space where the claim that humans can be made superfluous is enacted. `ka-de-pa` = deliberate-harm-place: `ka` (deliberate action) + `de` (harm/destruction) + `pa` (place) = the designed space of deliberate destruction. Distinct from `de-pa` (merely harmful place, not necessarily designed) by the `ka` specification. `ne no-wi-fe` = has the property of rightlessness. The camp is not a place where rights are violated; it IS the institutionalized form of rightlessness.
+
+---
+
+**S856 — Ideology designates the enemy; terror destroys them.** *(ANT-002-B)*
+
+```
+la-to-su si lo-de-li / la-wi-ra-ki ka-de lo-de-li
+```
+
+**Written:** `latosu si lodeli / lawiraki kade lodeli`
+
+**Gloss:** `[ideology] signals [deviant/harmful-person] / [state-terror] destroys [deviant/harmful-person]`
+
+**Natural reading:** "Ideology designates the enemy; terror destroys them."
+
+**Notes:** Arendt's twin-pillar analysis. Ideology performs an operational function: it names the "objective enemy" (the Jew, the Kulak) who must be eliminated regardless of individual behavior or guilt. Terror then executes this designation. `to-su` (W030) = organized knowledge = ideology. `si` = signals/designates. `de-li` (W223) = adversary/agent-of-harm = the ideologically designated enemy — Arendt's "objective enemy" is precisely the agent whose existence ideology marks as harmful. `wi-ra-ki` (W241) = state terror. The `/` shows the division of labor: ideology targets; terror eliminates. W223 `de-li` reuse; first use in ideological-designation context.
+
+---
+
+**S857 — Totalitarian movements depend on unorganized masses, not organized classes.** *(ANT-002-C)*
+
+```
+la-a-ra-su'ki ne-fe no-su-o-li / no ne-fe su-o-li
+```
+
+**Written:** `laarasu'ki nefe nosuoli / no nefe suoli`
+
+**Gloss:** `[totalitarian-movement] depends-on [unstructured-collective-persons] / not depends-on [structured-collective-persons]`
+
+**Natural reading:** "Totalitarian movements depend on the atomized masses — not on organized classes."
+
+**Notes:** Arendt's social-base thesis: previous revolutionary movements drew from class-organized groups with interests and solidarity structures. Totalitarianism drew from atomized masses — people with no organizational attachment, no class solidarity, no stable identity. `a-ra-su'ki` = juncture compound (first used S850) = totalitarian movements. `ne-fe` (W042) = depends on/requires. `no-su-o-li` = unstructured-collective-persons = the atomized masses: `no` negates `su` (structure) within the compound. `su-o-li` = structured-collective-persons = organized class or interest group. First use of `no-su-o-li` and `su-o-li`.
+
+---
+
+**S858 — Totalitarianism destroys the limits of what can be done.** *(ANT-002-D)*
+
+```
+la-a-ra-su ka-de lo-ka-fe
+```
+
+**Written:** `laarasu kade lokafe`
+
+**Gloss:** `[totalitarianism] deliberately-destroys [deliberate-action-boundary]`
+
+**Natural reading:** "Totalitarianism destroys the limits of the possible — everything can be done."
+
+**Notes:** Arendt's "everything is possible" — the totalitarian claim that breaks with all previous political experience. Prior governments, even tyrannies, operated within unstated limits. Totalitarianism claims the right to remake human nature, destroy entire peoples, reorganize life itself. `ka-fe` = deliberate-action-boundary = the limit of what can be deliberately done = the possible: `ka` (deliberate action) + `fe` (boundary). `ka-de lo-ka-fe` = deliberately destroys the limit-of-action. First use of `ka-fe`.
+
+---
+
+**S859 — The decline of the nation-state produced stateless persons.** *(ANT-002-E)*
+
+```
+go {la-na-ne-su ki lo-de}, la-no-ne-su-li be
+```
+
+**Written:** `go {lananesu ki lode}, lanonesuli be`
+
+**Gloss:** `because [identity-network-structure moves toward decay], [no-network-person] comes-to-be`
+
+**Natural reading:** "Because the nation-state declined, stateless persons came to exist."
+
+**Notes:** Arendt's historical argument: statelessness was produced by the systemic breakdown of the nation-state — the political form that tied rights to national belonging. When nation-states collapsed or stripped citizenship from groups, those people fell through the floor of the international system because no other institution existed to guarantee rights. `na-ne-su` = identity-network-structure = the nation-state: `na` (individual identity) + `ne-su` (W031). `ki lo-de` = moves toward decay = declines (motion-toward-patient frame). `la-no-ne-su-li be` = stateless persons come-to-be: intransitive `be` = begins to exist/emerge. First use of `na-ne-su` and intransitive `be`.
+
+---
+
+**S860 — The law of History, not collective will, is the claimed authority.** *(ANT-002-F)*
+
+```
+la-ti-go-su ne ra / no ne wi-o-li
+```
+
+**Written:** `latigosu ne ra / no ne wioli`
+
+**Gloss:** `[temporal-causal-structure / historical-necessity] [is] power / not [is] collective-will`
+
+**Natural reading:** "The law of History is the authority — not collective will."
+
+**Notes:** W245 `ti-go-su` first use. Arendt: totalitarianism claims to execute the Law of Nature or History — a supra-human force whose verdict cannot be questioned. This is what distinguishes totalitarianism's self-justification from ordinary tyranny (which claims a human's right to rule). `ti-go-su` = temporal-causal-structure = historical necessity: `ti` (time) + `go` (cause/origin) + `su` (structure). `ne ra` = is power/authority. `wi-o-li` (W238) = collective will/consent. `/` contrast: History's law (unquestionable) vs human collective will (which can be opposed).
+
+---
+
+**S861 — The secret police is the true core of totalitarianism.** *(ANT-002-G)*
+
+```
+la-mi-ne-su ne u-a-ra-su
+```
+
+**Written:** `laminesu ne uarasu`
+
+**Gloss:** `[inner-network-structure / secret-police] [is] foundational-total-power-structure`
+
+**Natural reading:** "The secret police is the true foundational core of totalitarianism."
+
+**Notes:** Arendt's institutional analysis: the visible government institutions (parliament, ministries, army) are hollow in totalitarian states — the real center is the secret police, which enacts terror without legal constraint. `mi-ne-su` = inner/hidden-network-structure = the secret police: `mi` (inner/self) + `ne-su` (W031) = the inner organizational network operating hidden from public view. `u-a-ra-su` = foundational-total-power-structure: `u-` scope prefix (interior/foundational) + `a-ra-su` (W239). First use of `mi-ne-su` and `u-a-ra-su`.
+
+---
+
+**S862 — Propaganda signals falsehood, not truth.** *(ANT-002-H)*
+
+```
+la-ka-si-de si lo-no-to / no si lo-to
+```
+
+**Written:** `lakaside si lonoto / no si loto`
+
+**Gloss:** `[deliberate-signal-corruption / propaganda] signals [non-knowledge/falsehood] / not signals [knowledge/truth]`
+
+**Natural reading:** "Propaganda signals falsehood — not truth."
+
+**Notes:** Arendt: totalitarian propaganda does not aim to inform or argue — it systematically replaces reality with a consistent alternative fiction. Its technique is not persuasion but the constant assertion of falsehood until reality-testing itself breaks down. `ka-si-de` (W224) = deliberate-signal-corruption = propaganda as a practice of systematic deception: first attested AOW-001-A (S702) in Art of War context; here in political propaganda context (the generalization is exact — propaganda IS deliberate signal-corruption at political scale). `si lo-no-to` = signals non-knowledge = asserts falsehood. `no-to` = non-knowledge = falsehood: `no` (negation) + `to` (knowledge/pattern) = the absence-of-knowledge = what is not true. `no si lo-to` = does not signal knowledge = does not convey truth. The `/` partition contrasts what propaganda does (assert falsehood) against what it does not do (signal truth). W224 `ka-si-de` reuse in political context; first use of `no-to`.
+
+---
+
+**S863 — Natality is a capacity totalitarianism cannot destroy.** *(ANT-002-I)*
+
+```
+la-be-ki ne wi-fe / la-a-ra-su no ka-de lo-be-ki
+```
+
+**Written:** `labeki ne wife / laarasu no kade lobeki`
+
+**Gloss:** `[natality / beginning-motion] [is] right/capacity / [totalitarianism] not destroys [natality]`
+
+**Natural reading:** "Natality is a [fundamental] capacity — and totalitarianism cannot destroy it."
+
+**Notes:** W244 `be-ki` first use. Arendt's closing claim in *Origins*: the "miracle that saves the world" is natality — the human capacity for new beginning that is ontologically given with every birth. `be-ki` = beginning-motion = natality: `be` (beginning/becoming) + `ki` (motion/change) = beginning-in-motion = the movement of beginning given with every birth. `ne wi-fe` = is a right/capacity. Second clause: `la-a-ra-su no ka-de lo-be-ki` = totalitarianism cannot destroy natality — the same `ka-de` (deliberately-destroy, S851, S858) negated. The one thing that resists total domination. Cross-resonance with S858: totalitarianism destroys the limit of action — but it cannot destroy the capacity for beginning.
+
+---
+
+**S864 — Political community arises from living bonds, not from any single person.** *(ANT-002-J)*
+
+```
+la-ne-su be lo-ne-zo-li / no be lo-i-zo-li
+```
+
+**Written:** `lanesu be lonezoli / no be loizoli`
+
+**Gloss:** `[political-community] arises-from [living-persons-bonds] / not arises-from [single-person]`
+
+**Natural reading:** "Political community arises from the bonds between living persons — not from any single person."
+
+**Notes:** Closing sentence — Arendt's positive vision. The political is constituted by the fact that we are many, different persons bound to each other in a common world. `be lo-X` = arises-from / begins-from X (source frame). `ne-zo-li` = living-person-bonds = the social fabric: `ne` (bond/relation) + `zo-li` (W148, living persons) = the bonds between living persons. Positive first use — the negated form `no-ne-zo-li` was S850 (loneliness as the absence of `ne-zo-li`). `i-zo-li` = single person (first used S852). Cross-resonance: S850 (totalitarianism requires `no-ne-zo-li`); S852 (community requires `o-zo-li`); S864 (community arises from `ne-zo-li`). Three different angles on the same Arendtian insight about plurality.
+
+---
+
+## Batch Summary
+
+| Sentence | ID | Key claim | Structural note |
+|----------|----|-----------|-----------------|
+| S855 | ANT-002-A | The camp is rightlessness | W243 `ka-de-pa`; `ne no-wi-fe` |
+| S856 | ANT-002-B | Ideology names; terror destroys | W223 `de-li` reuse; `/` division of labor |
+| S857 | ANT-002-C | Movements need masses, not classes | `no-su-o-li` vs `su-o-li`; `ne-fe` |
+| S858 | ANT-002-D | Totalitarianism dissolves limits of action | `ka-fe` first use |
+| S859 | ANT-002-E | Nation-state decline → stateless persons | `na-ne-su`; intransitive `be` |
+| S860 | ANT-002-F | Law of History, not collective will | W245 `ti-go-su`; `wi-o-li` (W238) cross-ref |
+| S861 | ANT-002-G | Secret police is the true core | `mi-ne-su`; `u-a-ra-su`; `u-` scope prefix |
+| S862 | ANT-002-H | Propaganda signals falsehood, not truth | W224 `ka-si-de` reuse; `no-to` first use |
+| S863 | ANT-002-I | Natality resists totalitarianism | W244 `be-ki`; `be lo-X` source frame |
+| S864 | ANT-002-J | Politics arises from living bonds | `ne-zo-li` positive first use; `be lo-X` |
+
+**New W-entries:** W243 `ka-de-pa` (concentration camp) · W244 `be-ki` (natality) · W245 `ti-go-su` (historical necessity)
+
+**Reused entries:** W223 `de-li` (S856, first ideological-designation use); W224 `ka-si-de` (S862, first political-propaganda use)
+
+**Compositional first uses:** `no-su-o-li`, `su-o-li` (S857); `ka-fe` (S858); `na-ne-su` (S859); intransitive `be` (S859); `mi-ne-su`, `u-a-ra-su` (S861); `no-to` (S862); `ne-zo-li` positive (S864)
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `ka-de-pa` (W243) | none | — | 3-root institutional-historical register; no stub |
+| `be-ki` (W244) | none | — | 2-root — below CLQ threshold |
+| `ti-go-su` (W245) | none | — | 3-root philosophical-political register; no stub |
+| `de-li` (W223) | none | — | W223 reuse — 2-root below CLQ threshold |
+| `ka-si-de` (W224) | none | — | W224 reuse — 3-root below new-stub threshold |
+| `ka-fe` | none | — | 2-root — below CLQ threshold |
+| `na-ne-su` | none | — | 3-root; specialized; no stub |
+| `mi-ne-su` | none | — | 3-root; specialized institutional; no stub |
+| `u-a-ra-su` | none | — | 4-morpheme scope-prefix compound; first use; defer |
+| `no-to` | none | — | 2-root — below CLQ threshold |
+| `no-su-o-li` | none | — | 4-morpheme first use; defer |
+| `ne-zo-li` | none | — | 3-morpheme; first positive use; defer |
+
+**Verdict:** irreducibly formal — all W-entries are specialized political-philosophy vocabulary; 2-root forms below threshold; 3+-root and 4-morpheme first uses deferred.
+
+*CLQ entries registered from this batch: none.*

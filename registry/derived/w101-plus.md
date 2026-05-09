@@ -2543,3 +2543,51 @@ Related:       pa (primitive: place/territory), ra (primitive: power/force), de 
 ```
 
 ---
+
+**W243**
+```
+Form:          ka-de-pa
+Type:          compound
+Class:         entity / place
+Definition:    ka (deliberate action) + de (harm/destruction) + pa (place/territory) = deliberate-harm-place = the concentration camp. The designed space of deliberate destruction — not a place where harm incidentally occurs but one constituted for that purpose. Arendt: the camps are the essential institution of totalitarianism, not an instrument toward an end but the space where the totalitarian claim ("everything is possible") is enacted and where legal personhood is systematically dismantled. The camp IS rightlessness (la-ka-de-pa ne no-wi-fe, S855). Distinct from de-pa (merely harmful place, not necessarily designed) by the ka (deliberate) specification — the deliberate design is constitutive.
+Composition:   ka (deliberate action) + de (harm/destruction/decay) + pa (place/territory). Head-final: pa (place) is head; ka-de (deliberately-harmful) specifies what kind of place — a place of deliberate harm/destruction.
+Register:      formal
+Domain:        Politics / History
+Status:        ✅ active
+First use:     ANT-002-A (S855): la-ka-de-pa ne no-wi-fe — "The camp is rightlessness." (Arendt, Origins of Totalitarianism)
+Related:       ka (primitive: deliberate action), de (primitive: harm/decay), pa (primitive: place), de-pa (harmful place — not necessarily deliberate, subset), no-wi-fe (W100 pattern + no: rightlessness — the essential property of ka-de-pa per S855), ka-de (deliberately-destroy: the verb used to describe the camp's action in S851, S858)
+```
+
+---
+
+**W244**
+```
+Form:          be-ki
+Type:          compound
+Class:         entity / capacity / process
+Definition:    be (beginning/becoming) + ki (motion/change) = beginning-in-motion = natality. The human capacity for new beginning that is ontologically rooted in the fact of birth. Arendt (Origins of Totalitarianism): "The miracle that saves the world... is ultimately the fact of natality, in which the faculty of action is ontologically rooted." Every new birth is a new beginning; be-ki is the capacity that makes action possible and that resists total domination — totalitarianism cannot destroy the capacity for beginning (la-a-ra-su no ka-de lo-be-ki, S863). The 2-root form captures Arendt's insight: beginning IS a kind of motion/change; the onset of something new is inherently a form of ki. Central also to The Human Condition (1958) where natality grounds political action; this first use is in the Origins context.
+Composition:   be (beginning/becoming) + ki (motion/change). Head-final: ki (motion/change) is head; be (beginning) specifies the type of motion — the motion of beginning = beginning-in-motion = natality.
+Register:      formal
+Domain:        Philosophy / Politics
+Status:        ✅ active
+First use:     ANT-002-I (S863): la-be-ki ne wi-fe / la-a-ra-su no ka-de lo-be-ki — "Natality is a capacity — totalitarianism cannot destroy it." (Arendt, Origins of Totalitarianism)
+Related:       be (primitive: beginning/becoming), ki (primitive: motion/change), be-ki (W244: first use here), a-ra-su (W239: totalitarianism — cannot destroy be-ki), ka-de (deliberate-destroy: negated in S863 to show natality's irreducibility), wi-fe (W100: right/capacity — be-ki ne wi-fe = natality is a capacity)
+```
+
+---
+
+**W245**
+```
+Form:          ti-go-su
+Type:          compound
+Class:         entity / abstract / structure
+Definition:    ti (time) + go (cause/origin) + su (structure/organization) = temporal-causal-structure = the organized causal structure of historical time = historical necessity / the law of History. Arendt: totalitarianism claims to execute the Law of Nature or History — a supra-human causal structure that renders individual human judgment and collective will (wi-o-li W238) irrelevant. The claim to be executing ti-go-su is what totalitarianism uses to displace both human law and human will (S860: la-ti-go-su ne ra / no ne wi-o-li). Distinct from go-su (W235: circumstances = situational causal field, human-scale, historically particular) by the ti (temporal) prefix and the su (structural/organized) suffix — ti-go-su implies an organized, law-like, trans-generational causal structure, not merely a set of situational conditions. The same distinction Arendt draws between contingent circumstances and the totalitarian's claimed necessity of History.
+Composition:   ti (time) + go (cause/origin) + su (structure/organization). Head-final: su (structure) is head; ti-go (time-causation) specifies the type of structure — a structure organized by temporal causation = historical necessity.
+Register:      formal
+Domain:        Philosophy / History
+Status:        ✅ active
+First use:     ANT-002-F (S860): la-ti-go-su ne ra / no ne wi-o-li — "The law of History is the authority — not collective will." (Arendt, Origins of Totalitarianism)
+Related:       ti (primitive: time), go (primitive: cause/origin), su (primitive: structure), go-su (W235: circumstances/causal-field — human-scale, distinct), wi-o-li (W238: collective will — what ti-go-su displaces per S860), a-ra-su (W239: totalitarianism — claims to execute ti-go-su)
+```
+
+---
