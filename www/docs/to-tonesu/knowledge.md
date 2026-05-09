@@ -173,3 +173,99 @@ Political argument in Tonesu looks like academic peer review. The dominant polit
 The moderator's question — "Is your claim `si`, `to`, or `tosu`?" — is a realistic institutional procedure, not an absurdity.
 
 Tonesu's answer to dishonesty is not enforcement but transparency: make the commitments visible, track the patterns, and let the discourse do the rest.
+
+---
+
+## Beyond tofeka: legitimized epistemic closure
+
+All of the above assumes the accountability mechanisms are accessible — that a speaker *can* be called on their epistemic commitments. But there is a structural condition in which the accountability apparatus itself operates inside a legitimized boundary. Tonesu has a compound for this:
+
+**wife'atofeka** (wi-fe · a-to-fe-ka) — legitimized epistemic closure.
+
+| Parse | Reading |
+|-------|---------|
+| `wi-fe` | entitlement / right (will-boundary: the boundary a right-claim creates) |
+| `a-` | universal scope prefix |
+| `to-fe-ka` | deliberate epistemic boundary-crossing |
+| `[wi-fe]'[a-to-fe-ka]` | entitlement-framing of universal knowledge-boundary-enactment |
+
+The juncture `'` is load-bearing: without it, `a-` would attach to `wi-fe` rather than crystallizing `[a-to-fe-ka]` as a pre-bound unit. The compound is written `wife'atofeka`; the apostrophe is part of the word.
+
+### Why it is not propaganda
+
+`tofeka` (to-fe-ka) — deliberate epistemic misrepresentation — dissolves under exposure. Once a speaker knows they are being deceived, the mechanism fails. Propaganda is parasitic on the target's ignorance.
+
+`wife'atofeka` does not dissolve under exposure. Knowing about it does not remove you from it. The mechanism:
+
+| Written | Parse | Reading |
+|---------|-------|---------|
+| `lakaside ki lo kaside` | `la-ka-si-de ki lo-ka-si-de` | Knowing propaganda dissolves propaganda. |
+| `ke, latowide'atofeka no [ki lowife'atofeka]` | — | But knowing wife'atofeka does not dissolve wife'atofeka. |
+
+The difference is the `wi-fe` wrapper. The limits on knowing are framed as *entitlements* — the rightful shape of knowledge — rather than as external constraints. Inside the condition, the boundary does not feel like a limit. It presents as the structure of knowledge itself:
+
+```
+lawife'atofeka no ne tofe
+→ Epistemic closure does not present as a knowledge-boundary.
+
+lawife'atofeka ne tosu
+→ Epistemic closure presents as the structure of knowledge.
+```
+
+### Self-licensing
+
+The structural signature of `wife'atofeka` — what distinguishes it from any other epistemic condition — is that it licenses itself:
+
+```
+lawife'atofeka ne gosi wife'atofeka
+→ Epistemic closure operates by means of epistemic closure.
+```
+
+Compare propaganda:
+
+```
+lakaside no ne gosi kaside
+→ Propaganda does not operate by means of propaganda.
+```
+
+Propaganda requires an external truth-ground to distort. `wife'atofeka` has no such dependency: the legitimating frame and the thing being legitimated are the same structure. This is the canonical diagnostic: `lawife'atofeka ne gosi wife'atofeka / lakaside no ne gosi kaside`.
+
+### Three levels of failure
+
+Meta-awareness does not exit the condition:
+
+| Level | Sentence | Result |
+|-------|----------|--------|
+| Object-level exposure | I know the specific false claim | Fails — still inside |
+| Meta-awareness | I know that knowing does not dissolve it | Fails — still inside |
+| Knowing the mechanism | I know it is self-licensing | Fails — still inside |
+
+The conditional form: `go {lazoli to [wife'atofeka ne gosi wife'atofeka]}, lazoli ne wife'atofeka` — given a person knows that epistemic closure is self-licensing, that person is still inside epistemic closure.
+
+The scholarly study of the condition is also inside it: `latosu lowife'atofeka ne wife'atofeka` — structured knowledge about epistemic closure is itself epistemic closure.
+
+### The exits
+
+Two escape conditions are available:
+
+**Omniscience** (`tonofe`, to-no-fe — knowledge without any limiting boundary). An unbounded knower has no `fe` boundary; the self-licensing structure cannot apply: `latonofe to [wife'atofeka ne gosi wife'atofeka] / no ne wife'atofeka`. Not available to finite beings.
+
+**Natality** (`beki`, be-ki — the capacity for new beginning). Natality does not operate *through* epistemic closure — it is constitutively novel: `labeki ne nogosi wife'atofeka`. A new beginning is not licensed by the prior legitimizing structure, because it is by definition structurally new.
+
+The exclusive claim: `rufe, labeki ne nogosi wife'atofeka` — for finite agents, natality is the only exit. All finite epistemic moves (exposure, meta-awareness, critical analysis) remain inside. Only the structural novelty of genuine new beginning (`beki`) is constitutively outside.
+
+### Where this shows up
+
+The concept emerged from Hannah Arendt's analysis of totalitarianism — specifically the observation that ideological systems require subjects to be active agents of legitimation, not merely passive witnesses. The `wi-fe` wrapper encodes Arendt's key insight: the coercion is not experienced as coercion but as right. The cascade: atomization → structural force → the total-power-structure presents itself as the legitimate shape of knowledge (`lanoNezoli ; lasura ; laarase ne wife'atofeka`).
+
+The compound is not limited to this context. It applies wherever the entitlement-frame around a knowledge-limit is successfully naturalized:
+
+- Institutional credentialing that defines what counts as valid inquiry
+- Legal frameworks that determine what evidence is admissible
+- Professional consensus that sets the epistemic boundary for a field
+- Cultural inheritance that treats certain questions as settled by definition
+
+In each case, the diagnostic question is the same: does the legitimizing frame dissolve under exposure, or does it absorb it?
+
+`lawife'atofeka ne gosi wife'atofeka` — if yes, it licenses itself.
+
