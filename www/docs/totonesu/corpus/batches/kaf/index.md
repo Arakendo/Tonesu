@@ -32,9 +32,9 @@ title: "Kafka, The Trial: Arrest Before Explanation"
 
 | Entry | Tonesu | Written form | Key feature |
 |-------|--------|-------------|-------------|
-| S913 (KAF-001-A) | `la-ze si [la-na-Yosef ne de-su] ; la-o-ka-su ka-ko lo-na-Yosef` | `laze si [lanaYosef ne desu] ; laokasu kako lonaYosef` | Accusation as signal, then detention as containment |
-| S914 (KAF-001-B) | `wi-fe-ka [la-na-Yosef ka-ki-de] / la-o-ka-su ka-ko lo-na-Yosef` | `wifeka [lanaYosef kakide] / laokasu kako lonaYosef` | Arrest rendered as prohibited departure plus custody |
-| S915 (KAF-001-C) | `la-o-ka-su no si [la-na-Yosef ne de-su] / la-o-ka-su ka-to-fe lo-na-Yosef` | `laokasu no si [lanaYosef ne desu] / laokasu katofe lonaYosef` | Explanation withheld while judgment is already operative |
+| S913 (KAF-001-A) | `la-ze si [la-na Yosef ne de-su] ; la-o-ka-su ka-ko lo-na Yosef` | `laze si [lana Yosef ne desu] ; laokasu kako lona Yosef` | Accusation as signal, then detention as containment |
+| S914 (KAF-001-B) | `wi-fe-ka [la-na Yosef ka-ki-de] / la-o-ka-su ka-ko lo-na Yosef` | `wifeka [lana Yosef kakide] / laokasu kako lona Yosef` | Arrest rendered as prohibited departure plus custody |
+| S915 (KAF-001-C) | `la-o-ka-su no si [la-na Yosef ne de-su] / la-o-ka-su ka-to-fe lo-na Yosef` | `laokasu no si [lana Yosef ne desu] / laokasu katofe lona Yosef` | Explanation withheld while judgment is already operative |
 
 **Key structural findings:**
 

@@ -575,7 +575,7 @@ A ; B ; C
 - Post-clause: `la-su ki — la-mi se lo-ze` (structure changed — I perceived it)
 - Mid-patient-list, creating revelation-arrival: `lo-mi lo-de-zo-li — lo-no-de-zo-li` (us, Death — Immortality)
 - Pre-reveal mid-sentence: `de-ki ne-di-ko-pa — ko-pa helm be-ma-pa`
-- After bare NP fragment: `na-Moses —` (name spoken and suspended)
+- After bare NP fragment: `na Moses —` (name spoken and suspended)
 - Post-agent NP before predicate: `la-de-zo-li — wi-vo de-ki lu-mi`
 - Terminal, after a grammatically complete sentence: sentence closed grammatically, phenomenologically open
 

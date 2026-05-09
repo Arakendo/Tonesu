@@ -60,24 +60,24 @@ Corpus sentences from this batch: **S913–S915**.
 ### S913 — opening setup — "Someone accuses Josef K.; the apparatus detains him."
 
 ```
-la-ze  si  [la-na-Yosef  ne  de-su] ;  la-o-ka-su  ka-ko  lo-na-Yosef
+la-ze  si  [la-na Yosef  ne  de-su] ;  la-o-ka-su  ka-ko  lo-na Yosef
 ```
 
-**Written:** `laze si [lanaYosef ne desu] ; laokasu kako lonaYosef`
+**Written:** `laze si [lana Yosef ne desu] ; laokasu kako lona Yosef`
 
 **Reading:** "Someone signals that Yosef is at fault; the state apparatus detains Yosef."
 
-**Notes:** The opening is modeled first as accusation, then as detention. `si [la-na-Yosef ne de-su]` makes the charge a **signaled claim**, not yet an adjudicated fact. `ka-ko` then supplies the custodial mechanism: Yosef is deliberately contained. The source's fuller line about innocence is left implicit here so the batch can keep the focus on the accusation-to-detention sequence itself.
+**Notes:** The opening is modeled first as accusation, then as detention. `si [la-na Yosef ne de-su]` makes the charge a **signaled claim**, not yet an adjudicated fact. `ka-ko` then supplies the custodial mechanism: Yosef is deliberately contained. The batch uses the existing reduced-name convention `la-na Derek` rather than a fused `la-na-Yosef`: the role-marker scopes over `na`, while the protected identifier remains visually separate. The source's fuller line about innocence is left implicit here so the batch can keep the focus on the accusation-to-detention sequence itself.
 
 ---
 
 ### S914 — arrest formula — "You may not leave; you are under arrest."
 
 ```
-wi-fe-ka  [la-na-Yosef  ka-ki-de] / la-o-ka-su  ka-ko  lo-na-Yosef
+wi-fe-ka  [la-na Yosef  ka-ki-de] / la-o-ka-su  ka-ko  lo-na Yosef
 ```
 
-**Written:** `wifeka [lanaYosef kakide] / laokasu kako lonaYosef`
+**Written:** `wifeka [lana Yosef kakide] / laokasu kako lona Yosef`
 
 **Reading:** "Yosef may not leave / the state apparatus is containing Yosef."
 
@@ -88,14 +88,14 @@ wi-fe-ka  [la-na-Yosef  ka-ki-de] / la-o-ka-su  ka-ko  lo-na-Yosef
 ### S915 — opaque procedure — "They refuse explanation; the proceedings are already underway."
 
 ```
-la-o-ka-su  no  si  [la-na-Yosef  ne  de-su] / la-o-ka-su  ka-to-fe  lo-na-Yosef
+la-o-ka-su  no  si  [la-na Yosef  ne  de-su] / la-o-ka-su  ka-to-fe  lo-na Yosef
 ```
 
-**Written:** `laokasu no si [lanaYosef ne desu] / laokasu katofe lonaYosef`
+**Written:** `laokasu no si [lana Yosef ne desu] / laokasu katofe lona Yosef`
 
 **Reading:** "The state apparatus does not disclose that Yosef is at fault / the state apparatus is already judging Yosef."
 
-**Notes:** This captures the core Kafka asymmetry. `no si [...]` is not a denial that accusation exists; it is the refusal to make its content available. `ka-to-fe lo-na-Yosef` then names the underway process as deliberate adjudication. The person is already inside the machinery of judgment before the supposed fault becomes intelligible to him. That is what gives the opening its procedural claustrophobia.
+**Notes:** This captures the core Kafka asymmetry. `no si [...]` is not a denial that accusation exists; it is the refusal to make its content available. `ka-to-fe lo-na Yosef` then names the underway process as deliberate adjudication. The person is already inside the machinery of judgment before the supposed fault becomes intelligible to him. That is what gives the opening its procedural claustrophobia.
 
 ---
 
@@ -103,9 +103,9 @@ la-o-ka-su  no  si  [la-na-Yosef  ne  de-su] / la-o-ka-su  ka-to-fe  lo-na-Yosef
 
 | # | English | Tonesu | Notes |
 |---|---------|--------|-------|
-| S913 | Someone accuses Yosef; the apparatus detains him | `la-ze si [la-na-Yosef ne de-su] ; la-o-ka-su ka-ko lo-na-Yosef` | accusation as signal; detention as containment |
-| S914 | Yosef may not leave; he is under arrest | `wi-fe-ka [la-na-Yosef ka-ki-de] / la-o-ka-su ka-ko lo-na-Yosef` | arrest analyzed as prohibited departure plus custody |
-| S915 | The apparatus refuses explanation; judgment is already active | `la-o-ka-su no si [la-na-Yosef ne de-su] / la-o-ka-su ka-to-fe lo-na-Yosef` | withheld fault paired with operative adjudication |
+| S913 | Someone accuses Yosef; the apparatus detains him | `la-ze si [la-na Yosef ne de-su] ; la-o-ka-su ka-ko lo-na Yosef` | accusation as signal; detention as containment |
+| S914 | Yosef may not leave; he is under arrest | `wi-fe-ka [la-na Yosef ka-ki-de] / la-o-ka-su ka-ko lo-na Yosef` | arrest analyzed as prohibited departure plus custody |
+| S915 | The apparatus refuses explanation; judgment is already active | `la-o-ka-su no si [la-na Yosef ne de-su] / la-o-ka-su ka-to-fe lo-na Yosef` | withheld fault paired with operative adjudication |
 
 **Key finding:** Kafka's opening works in Tonesu when "arrest" is unpacked into a sequence: accusation as signal, departure as rule-prohibited, detention as containment, and proceedings as active judgment before explanation.
 

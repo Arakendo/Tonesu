@@ -981,15 +981,15 @@
 
 **Source:** "Someone accuses Josef K.; the apparatus detains him."
 
-**Tonesu:** `la-ze  si  [la-na-Yosef  ne  de-su] ;  la-o-ka-su  ka-ko  lo-na-Yosef`
+**Tonesu:** `la-ze  si  [la-na Yosef  ne  de-su] ;  la-o-ka-su  ka-ko  lo-na Yosef`
 
-**Written:** `laze si [lanaYosef ne desu] ; laokasu kako lonaYosef`
+**Written:** `laze si [lana Yosef ne desu] ; laokasu kako lona Yosef`
 
 **Gloss:** [a-particular-other] signals [Yosef IS fault] ; [state-apparatus] deliberately-contains [Yosef]
 
 **Natural reading:** Someone signals that Yosef is at fault; the state apparatus detains Yosef.
 
-**Notes:** The batch starts with accusation as **signal**, not proof: `si [la-na-Yosef ne de-su]` says the apparatus of accusation is already active without yet granting public intelligibility or adjudicated certainty. `de-su` is used predicatively here in the fault/wrong register. `ka-ko` reuses the established control/containment compound in a custodial register: detention is rendered as deliberate containment rather than a separate lexical primitive. The source's longer clause about having done nothing wrong is left implicit so the structural pressure stays on the accusation-to-detention sequence.
+**Notes:** The batch starts with accusation as **signal**, not proof: `si [la-na Yosef ne de-su]` says the apparatus of accusation is already active without yet granting public intelligibility or adjudicated certainty. `de-su` is used predicatively here in the fault/wrong register. `ka-ko` reuses the established control/containment compound in a custodial register: detention is rendered as deliberate containment rather than a separate lexical primitive. The reduced proper-name form follows the KNM-001 precedent `la-na Derek`: the role-marker attaches to `na`, while the protected identifier remains a separate token. The source's longer clause about having done nothing wrong is left implicit so the structural pressure stays on the accusation-to-detention sequence.
 
 ---
 
@@ -997,9 +997,9 @@
 
 **Source:** "You may not leave; you are under arrest."
 
-**Tonesu:** `wi-fe-ka  [la-na-Yosef  ka-ki-de] / la-o-ka-su  ka-ko  lo-na-Yosef`
+**Tonesu:** `wi-fe-ka  [la-na Yosef  ka-ki-de] / la-o-ka-su  ka-ko  lo-na Yosef`
 
-**Written:** `wifeka [lanaYosef kakide] / laokasu kako lonaYosef`
+**Written:** `wifeka [lana Yosef kakide] / laokasu kako lona Yosef`
 
 **Gloss:** [rule-forbidden] [Yosef deliberately-departs] / [state-apparatus] deliberately-contains [Yosef]
 
@@ -1013,15 +1013,15 @@
 
 **Source:** "We are not here to tell you the fault; the proceedings are already under way."
 
-**Tonesu:** `la-o-ka-su  no  si  [la-na-Yosef  ne  de-su] / la-o-ka-su  ka-to-fe  lo-na-Yosef`
+**Tonesu:** `la-o-ka-su  no  si  [la-na Yosef  ne  de-su] / la-o-ka-su  ka-to-fe  lo-na Yosef`
 
-**Written:** `laokasu no si [lanaYosef ne desu] / laokasu katofe lonaYosef`
+**Written:** `laokasu no si [lana Yosef ne desu] / laokasu katofe lona Yosef`
 
 **Gloss:** [state-apparatus] NOT signals [Yosef IS fault] / [state-apparatus] deliberately-judges [Yosef]
 
 **Natural reading:** The state apparatus does not disclose that Yosef is at fault / the state apparatus is already judging Yosef.
 
-**Notes:** This renders the most important Kafka asymmetry: explanation is withheld while adjudication is already operative. `no si [la-na-Yosef ne de-su]` is not a denial that an accusation exists; it is a refusal to disclose or restate it. `ka-to-fe` then names the underway process as deliberate adjudication, not neutral inquiry. The pair shows why Kafka's opening feels structurally oppressive: the person is already inside the machinery of judgment before the content of the supposed fault becomes available.
+**Notes:** This renders the most important Kafka asymmetry: explanation is withheld while adjudication is already operative. `no si [la-na Yosef ne de-su]` is not a denial that an accusation exists; it is a refusal to disclose or restate it. `ka-to-fe` then names the underway process as deliberate adjudication, not neutral inquiry. The pair shows why Kafka's opening feels structurally oppressive: the person is already inside the machinery of judgment before the content of the supposed fault becomes available.
 
 ---
 
@@ -1031,9 +1031,9 @@
 
 | Entry | Tonesu | Written form | Key feature |
 |-------|--------|-------------|-------------|
-| S913 (KAF-001-A) | `la-ze si [la-na-Yosef ne de-su] ; la-o-ka-su ka-ko lo-na-Yosef` | `laze si [lanaYosef ne desu] ; laokasu kako lonaYosef` | Accusation as signal, then detention as containment |
-| S914 (KAF-001-B) | `wi-fe-ka [la-na-Yosef ka-ki-de] / la-o-ka-su ka-ko lo-na-Yosef` | `wifeka [lanaYosef kakide] / laokasu kako lonaYosef` | Arrest rendered as prohibited departure plus custody |
-| S915 (KAF-001-C) | `la-o-ka-su no si [la-na-Yosef ne de-su] / la-o-ka-su ka-to-fe lo-na-Yosef` | `laokasu no si [lanaYosef ne desu] / laokasu katofe lonaYosef` | Explanation withheld while judgment is already operative |
+| S913 (KAF-001-A) | `la-ze si [la-na Yosef ne de-su] ; la-o-ka-su ka-ko lo-na Yosef` | `laze si [lana Yosef ne desu] ; laokasu kako lona Yosef` | Accusation as signal, then detention as containment |
+| S914 (KAF-001-B) | `wi-fe-ka [la-na Yosef ka-ki-de] / la-o-ka-su ka-ko lo-na Yosef` | `wifeka [lana Yosef kakide] / laokasu kako lona Yosef` | Arrest rendered as prohibited departure plus custody |
+| S915 (KAF-001-C) | `la-o-ka-su no si [la-na Yosef ne de-su] / la-o-ka-su ka-to-fe lo-na Yosef` | `laokasu no si [lana Yosef ne desu] / laokasu katofe lona Yosef` | Explanation withheld while judgment is already operative |
 
 **Key structural findings:**
 

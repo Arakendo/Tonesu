@@ -96,6 +96,16 @@ Proper names resist normal lexical mutation:
 - Names may be phonologically adapted (within phonotactic rules) but not semantically reanalyzed
 - Titles and relational markers attach externally, leaving the name intact
 
+**Orthography of `na` phrases:** `na` introduces an identifier token that remains orthographically separate from the identifier itself.
+
+```
+na Derek
+la-na Derek
+lo-na Derek
+```
+
+The hyphen in `la-na Derek` is the ordinary analytic boundary between the role-marker and `na`; the identifier following `na` is not fused into the same written token. This preserves the NP boundary and keeps the protected identifier visually intact.
+
 **Correct:**
 ```
 title-engineer na Derek
@@ -189,6 +199,14 @@ Familiarity, respect, rank, and kinship are expressed as external grammar, never
 elder-title na Alaren
 student-of na Mira
 group-member na Derik
+```
+
+When a role-marker scopes over a reduced bare-name NP, the same separation is preserved:
+
+```
+la-na Derik
+lo-na Derik
+he na Derik
 ```
 
 ---

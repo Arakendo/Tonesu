@@ -17455,14 +17455,16 @@ sentences:
   gap_refs: []
   source_file: sentences/v4-current/s873-plus.md
   source_anchor: S913
-  notes: 'The batch starts with accusation as **signal**, not proof: `si [la-na-Yosef
+  notes: 'The batch starts with accusation as **signal**, not proof: `si [la-na Yosef
     ne de-su]` says the apparatus of accusation is already active without yet granting
     public intelligibility or adjudicated certainty. `de-su` is used predicatively
     here in the fault/wrong register. `ka-ko` reuses the established control/containment
     compound in a custodial register: detention is rendered as deliberate containment
-    rather than a separate lexical primitive. The source''s longer clause about having
-    done nothing wrong is left implicit so the structural pressure stays on the accusation-to-detention
-    sequence.'
+    rather than a separate lexical primitive. The reduced proper-name form follows
+    the KNM-001 precedent `la-na Derek`: the role-marker attaches to `na`, while the
+    protected identifier remains a separate token. The source''s longer clause about
+    having done nothing wrong is left implicit so the structural pressure stays on
+    the accusation-to-detention sequence.'
 - snum: S914
   gloss: Yosef may not leave / the state apparatus is containing him.
   batch: KAF-001
@@ -17500,7 +17502,7 @@ sentences:
   source_file: sentences/v4-current/s873-plus.md
   source_anchor: S915
   notes: 'This renders the most important Kafka asymmetry: explanation is withheld
-    while adjudication is already operative. `no si [la-na-Yosef ne de-su]` is not
+    while adjudication is already operative. `no si [la-na Yosef ne de-su]` is not
     a denial that an accusation exists; it is a refusal to disclose or restate it.
     `ka-to-fe` then names the underway process as deliberate adjudication, not neutral
     inquiry. The pair shows why Kafka''s opening feels structurally oppressive: the

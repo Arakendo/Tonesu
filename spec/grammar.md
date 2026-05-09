@@ -642,6 +642,8 @@ The evidential frame does not encode *how certain* the speaker is about the cont
 
 **Third-party epistemic claims (corollary, FAL-009):** bare epistemic predicates about third parties are speaker-certified claims by the same rule as first-person assertions. `la-na-X  lo-Y  to` (bare) = *the speaker* certifies that X holds Y as certain. `(la-na-X  lo-Y  to)` = the speaker reports that X is said to hold Y as certain. The asymmetry is identical to first-person laundering. Consequence: any sentence asserting another agent's epistemic stance without `()` is a direct speaker-certification of that stance, not a report about it.
 
+For actual identifiers in running prose, `na` is followed by a separate identifier token: `la-na Derek`, `lo-na Mira`, `he na Moses`. The reduced human-name form therefore keeps the protected identifier visually distinct even when a role-marker scopes over it.
+
 **Grammar:** the inner clause follows all standard grammar rules. The evidential frame is a clause-level meta-operator — it does not alter the agent/patient/predicate structure of the wrapped content. Imperatives and questions may not be wrapped; `()` is a declarative epistemic frame only.
 
 **Spoken form:** **`vund`** (G014) at the `(` position; **`vunds`** (G015) at the `)` position. Prosodic bracketing accompanies the spoken forms; in casual speech prosody alone is sufficient. In formal, legal, and dictation register `vund`/`vunds` are required for unambiguous parsing of nested evidential frames.
@@ -731,21 +733,21 @@ ya, ru-fe, la-Elohim ne vo               →  attend to this — only God has wo
 `he` is a **direct-address speech act marker**. It precedes the name or NP being addressed and signals that the following NP is the *target* of an illocutionary call — the speaker is summoning or addressing that entity directly.
 
 ```
-he na-Moses!        →  Moses! (a direct call)
-he na-Moses, ki di-pa-su        →  Moses, go up the mountain.
+he na Moses!        →  Moses! (a direct call)
+he na Moses, ki di-pa-su        →  Moses, go up the mountain.
 ```
 
 **Three-way structural distinction:**
 
 | Form | Reading | Type |
 |------|---------|------|
-| `na-Moses!` | the name uttered with force | exclamatory NP — not a speech act |
-| `he na-Moses!` | I am calling you directly | vocative speech act — illocutionary |
-| `la-na-Moses ka-si` | Moses spoke | predicate clause — Moses is grammatical agent |
+| `na Moses!` | the name uttered with force | exclamatory NP — not a speech act |
+| `he na Moses!` | I am calling you directly | vocative speech act — illocutionary |
+| `la-na Moses ka-si` | Moses spoke | predicate clause — Moses is grammatical agent |
 
-`he` is the only form that produces a standalone direct address as a complete speech act. `na-X!` with `!` adds force but does not change the NP type; `la-na-X` makes X a grammatical agent, not an addressee.
+`he` is the only form that produces a standalone direct address as a complete speech act. `na X!` with `!` adds force but does not change the NP type; `la-na X` makes X a grammatical agent, not an addressee.
 
-**Syntactic position:** clause-initial, before the addressed NP. If a predicate clause follows, `,` separates the address frame from the clause: `he na-X, {clause}`. The `he` frame adds no arguments to the following clause; the addressee is not a grammatical participant in the following predicate.
+**Syntactic position:** clause-initial, before the addressed NP. If a predicate clause follows, `,` separates the address frame from the clause: `he na X, {clause}`. The `he` frame adds no arguments to the following clause; the addressee is not a grammatical participant in the following predicate.
 
 **Constraints:**
 - `he` cannot combine with role-markers: `la-he`, `lo-he` are inadmissible.
