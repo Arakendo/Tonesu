@@ -22,6 +22,8 @@ OUT       = REPO / "corpus" / "batches.yaml"
 
 # ── Heading parsers ──────────────────────────────────────────────────────────
 
+_RE_BATCH_LINE = re.compile(r"^\*\*Batch:\*\*\s*([A-Za-z]+-\d+)")
+
 def _extract_titles_from_markdown() -> tuple[dict[str, str], dict[str, str]]:
     """Scan markdown files for ## headings; return (titles, purposes) dicts."""
     titles: dict[str, str] = {}
@@ -38,8 +40,16 @@ def _extract_titles_from_markdown() -> tuple[dict[str, str], dict[str, str]]:
                 continue
 
             code, title = _parse_heading(line)
-            if code and title and code not in titles:
-                titles[code] = title
+            if title:
+                resolved_code = code
+                if not resolved_code:
+                    for j in range(i + 1, min(i + 6, len(lines))):
+                        bm = _RE_BATCH_LINE.match(lines[j].strip())
+                        if bm:
+                            resolved_code = bm.group(1)
+                            break
+                if resolved_code and resolved_code not in titles:
+                    titles[resolved_code] = title
 
             # Extract purpose from the next few lines
             if code:

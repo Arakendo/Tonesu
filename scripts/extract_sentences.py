@@ -46,6 +46,7 @@ _RE_BATCH_SUB = re.compile(r"^([A-Za-z]+-\d+)-([A-Z])$")
 # Batch code from ## heading:  "— Batch: CODE"  |  "## CODE: ..."  |  "## CODE — ..."
 _RE_HEADING_BATCH_EXPLICIT = re.compile(r"—\s*Batch:\s*([A-Za-z]+-\d+)")
 _RE_HEADING_BATCH_PREFIX = re.compile(r"^##\s+([A-Za-z]+-\d+)\s*[:\s—]")
+_RE_BATCH_LINE = re.compile(r"^\*\*Batch:\*\*\s*([A-Za-z]+-\d+)")
 # Batch code from purpose line:  *Batch purpose (CODE): ...*
 _RE_PURPOSE_BATCH = re.compile(r"^\*Batch purpose\s*\(([^)]+)\)")
 
@@ -88,9 +89,11 @@ def _match_sentence_header(line: str):
     if m:
         snum = f"S{m.group(1)}"
         text = m.group(2).strip()
-        bm = _RE_BATCH_SUB.match(text)
+        bm = re.match(r"([A-Za-z]+-\d+-[A-Z])(?:\s*:\s*(.*))?$", text)
         if bm:
-            return snum, None, bm.group(1), bm.group(2)
+            batch, batch_sub = _split_batch(bm.group(1))
+            gloss = (bm.group(2) or "").strip() or None
+            return snum, gloss, batch, batch_sub
         return snum, text, None, None
 
     # ── Formats A & B: bold **S### — ...** ──
@@ -340,12 +343,18 @@ def extract_v4(v4_dir: Path) -> list[dict]:
                 if b:
                     ctx_batch = b
                     ctx_batch_counter = 0
-                # Also check next few lines for *Batch purpose (CODE):*
+                # Also check next few lines for explicit batch metadata.
                 elif not b:
                     for j in range(1, 5):
                         if i + j >= len(lines):
                             break
-                        pm = _RE_PURPOSE_BATCH.match(lines[i + j].strip())
+                        next_line = lines[i + j].strip()
+                        bm = _RE_BATCH_LINE.match(next_line)
+                        if bm:
+                            ctx_batch = bm.group(1)
+                            ctx_batch_counter = 0
+                            break
+                        pm = _RE_PURPOSE_BATCH.match(next_line)
                         if pm:
                             ctx_batch = pm.group(1)
                             ctx_batch_counter = 0

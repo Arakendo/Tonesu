@@ -708,3 +708,648 @@
 **Verdict:** irreducibly formal — LOR-001 works only if diagnosis, category error, power, and righteousness remain separate.
 
 *CLQ entries registered from this batch: none.*
+
+---
+
+## Rules of Engagement Doctrine (S1051-S1057)
+
+**Batch:** ROE-001  
+**Source:** Tonesu-native military rules-of-engagement doctrine draft, written to expose distinctions that compressed ROE slogans and field cards usually blur.  
+**Entries:** S1051-S1057 · **New vocabulary:** none
+
+**Key tests:**
+- `si` vs `to` for signal-grade hostility versus certified hostile status
+- `wi-fe-ka` and `no-wi-fe-ka` for forbidden and permitted force actions
+- `ka-fe-si` for warning as an action distinct from attack
+- `ka-ko` for containment/capture as distinct from killing
+- `wi-ra` for command authority that still does not erase epistemic limits
+- `to-fe-li` for routing and review rather than battlefield self-certification
+
+**Central claim:** A good ROE doctrine is not a single permission statement about when to shoot. It is an escalation ladder. Tonesu can make that explicit by separating suspicion, warning, return force, containment, authority, adjudication, and review.
+
+---
+
+### S1051 — ROE-001-A: Uncertified hostile status forbids killing
+
+**Source:** "Signal-grade hostile status is not enough for killing."
+
+**Tonesu:** `go {la-ra-ka-li  si  [la-ze  ne  wi-de-li] / la-ra-ka-li  no-to  [lo-ze]},  wi-fe-ka  [la-ra-ka-li  ka-de-zo  lo-ze]`
+
+**Written:** `go {larakali si [laze ne wideli] / larakali noto [loze]}, wifeka [larakali kadezo loze]`
+
+**Gloss:** because {combatant signals [person is adversary] / combatant not-knows [it]}, forbidden [combatant deliberately-kills person]
+
+**Natural reading:** If a combatant only has signal-grade grounds that a person is an enemy and lacks knowledge-grade certainty, killing that person is forbidden.
+
+**Notes:** This is the doctrine's first boundary. Mere hostile appearance or partial evidence does not authorize lethal action.
+
+---
+
+### S1052 — ROE-001-B: Uncertified danger requires warning
+
+**Source:** "Signal-grade danger requires warning."
+
+**Tonesu:** `go {la-ra-ka-li  si  [la-ze  zo-ra  de] / la-ra-ka-li  no-to  [lo-ze]},  la-ra-ka-li  ne-fe  lo-ka-fe-si  ne-ze`
+
+**Written:** `go {larakali si [laze zora de] / larakali noto [loze]}, larakali nefe lokafesi നെze`
+
+**Gloss:** because {combatant signals [person life-energy decays] / combatant not-knows [it]}, combatant requires warning to-person
+
+**Natural reading:** If a combatant has only signal-grade danger and not knowledge-grade certainty, the combatant is required to warn the person.
+
+**Notes:** Tonesu treats warning as a real doctrinal action, not as a rhetorical courtesy attached to force.
+
+---
+
+### S1053 — ROE-001-C: Active attack permits return force
+
+**Source:** "Active attack permits return force."
+
+**Tonesu:** `go {la-ze  ka-ra  lo-ra-ka-li},  no-wi-fe-ka  [la-ra-ka-li  ka-ra  lo-ze]`
+
+**Written:** `go {laze kara lorakali}, nowifeka [larakali kara loze]`
+
+**Gloss:** because {person combats combatant}, permitted [combatant combats person]
+
+**Natural reading:** If a person is attacking the combatant, return force becomes permitted.
+
+**Notes:** This is return force, not a blanket permission to kill. The doctrine stays at the level of force-response first.
+
+---
+
+### S1054 — ROE-001-D: Containment outranks killing when possible
+
+**Source:** "If containment is possible, killing remains forbidden and containment is permitted."
+
+**Tonesu:** `go {la-ra-ka-li  be-vo  [ka-ko  lo-ze]},  wi-fe-ka  [la-ra-ka-li  ka-de-zo  lo-ze]  /  no-wi-fe-ka  [la-ra-ka-li  ka-ko  lo-ze]`
+
+**Written:** `go {larakali bevo [kako loze]}, wifeka [larakali kadezo loze] / nowifeka [larakali kako loze]`
+
+**Gloss:** because {combatant capable [to-contain person]}, forbidden [combatant deliberately-kills person] / permitted [combatant deliberately-contains person]
+
+**Natural reading:** If the combatant can contain the person, killing is forbidden and containment is permitted.
+
+**Notes:** This is the doctrine's anti-shortcut rule. Capture is not a soft add-on to lethal force; it is the higher-priority action when still available.
+
+---
+
+### S1055 — ROE-001-E: Authority does not erase certification
+
+**Source:** "Even an authorized order does not permit killing without knowledge-grade certainty."
+
+**Tonesu:** `go {la-i-zo-li  ne  wi-ra  lo-ra-ka-li ; la-i-zo-li  wi-ra  [la-ra-ka-li  ka-de-zo  lo-ze] ; la-ra-ka-li  no-to  [lo-ze]},  wi-fe-ka  [la-ra-ka-li  ka-de-zo  lo-ze]`
+
+**Written:** `go {laizoli ne wira lorakali ; laizoli wira [larakali kadezo loze] ; larakali noto [loze]}, wifeka [larakali kadezo loze]`
+
+**Gloss:** because {person is authority to-combatant ; person commands [combatant deliberately-kills person] ; combatant not-knows [it]}, forbidden [combatant deliberately-kills person]
+
+**Natural reading:** Even if an authorized person orders the combatant to kill, killing remains forbidden without knowledge-grade certainty.
+
+**Notes:** This is the military-specific payoff. Command authority matters, but it does not dissolve the epistemic boundary around lethal force.
+
+---
+
+### S1056 — ROE-001-F: Uncertain hostile cases route upward
+
+**Source:** "Uncertain hostile cases must be reported upward."
+
+**Tonesu:** `go {la-ra-ka-li  si  [la-ze  ne  wi-de-li] / la-ra-ka-li  no-to  [lo-ze]},  la-ra-ka-li  ka-si  lo-to-fe-li  lo-ze`
+
+**Written:** `go {larakali si [laze ne wideli] / larakali noto [loze]}, larakali kasi lotofeli loze`
+
+**Gloss:** because {combatant signals [person is adversary] / combatant not-knows [it]}, combatant reports to-arbiter it
+
+**Natural reading:** If the combatant has only signal-grade grounds that the person is hostile and lacks knowledge-grade certainty, the combatant reports the case to the arbiter.
+
+**Notes:** Tonesu turns escalation into part of the doctrine itself. Uncertainty is not a gap in the doctrine; it is a condition the doctrine explicitly routes.
+
+---
+
+### S1057 — ROE-001-G: Lethal action triggers review
+
+**Source:** "After lethal action, the case must be reviewed."
+
+**Tonesu:** `go {la-ra-ka-li  ka-de-zo  lo-ze},  la-ra-ka-li  ka-si  lo-to-fe-li  lo-ze`
+
+**Written:** `go {larakali kadezo loze}, larakali kasi lotofeli loze`
+
+**Gloss:** because {combatant deliberately-kills person}, combatant reports to-arbiter it
+
+**Natural reading:** If the combatant kills the person, the combatant reports the case to the arbiter.
+
+**Notes:** The doctrine does not let battlefield force certify itself. Lethal action must re-enter review.
+
+---
+
+## ROE-001 Batch Summary
+
+**Entries:** S1051-S1057 · **New vocabulary:** none
+
+| Entry | Source focus | Tonesu | Key feature |
+|-------|--------------|--------|-------------|
+| S1051 (ROE-001-A) | uncertified hostility | `go {la-ra-ka-li si [la-ze ne wi-de-li] / la-ra-ka-li no-to [lo-ze]}, wi-fe-ka [la-ra-ka-li ka-de-zo lo-ze]` | signal-grade hostility is insufficient for killing |
+| S1052 (ROE-001-B) | warning rule | `go {la-ra-ka-li si [la-ze zo-ra de] / la-ra-ka-li no-to [lo-ze]}, la-ra-ka-li ne-fe lo-ka-fe-si ne-ze` | warning is a required action under uncertainty |
+| S1053 (ROE-001-C) | return force | `go {la-ze ka-ra lo-ra-ka-li}, no-wi-fe-ka [la-ra-ka-li ka-ra lo-ze]` | active attack permits force response |
+| S1054 (ROE-001-D) | capture over killing | `go {la-ra-ka-li be-vo [ka-ko lo-ze]}, wi-fe-ka [la-ra-ka-li ka-de-zo lo-ze] / no-wi-fe-ka [la-ra-ka-li ka-ko lo-ze]` | containment outranks lethal action |
+| S1055 (ROE-001-E) | authority limit | `go {la-i-zo-li ne wi-ra lo-ra-ka-li ; la-i-zo-li wi-ra [la-ra-ka-li ka-de-zo lo-ze] ; la-ra-ka-li no-to [lo-ze]}, wi-fe-ka [la-ra-ka-li ka-de-zo lo-ze]` | command does not erase epistemic boundary |
+| S1056 (ROE-001-F) | uncertainty routing | `go {la-ra-ka-li si [la-ze ne wi-de-li] / la-ra-ka-li no-to [lo-ze]}, la-ra-ka-li ka-si lo-to-fe-li lo-ze` | uncertain hostile cases route upward |
+| S1057 (ROE-001-G) | post-action review | `go {la-ra-ka-li ka-de-zo lo-ze}, la-ra-ka-li ka-si lo-to-fe-li lo-ze` | lethal action re-enters adjudication |
+
+**Key structural findings:**
+
+**Finding 1: ROE works best as an escalation ladder, not a kill-permission slogan.** Tonesu separates warning, response force, containment, lethal action, and review into distinct stages.
+
+**Finding 2: signal-grade hostility is not enough.** `si` without `to` blocks lethal force and instead creates warning and routing duties.
+
+**Finding 3: command authority does not dissolve epistemic limits.** `wi-ra` matters, but it does not cancel the difference between uncertified suspicion and certified hostile status.
+
+**Finding 4: containment is structurally different from killing.** A doctrine that does not separate `ka-ko` from `ka-de-zo` is already morally and operationally compressed.
+
+**Finding 5: adjudication is part of force doctrine, not an afterthought.** `to-fe-li` appears both before lethal action in uncertain cases and after lethal action in review.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `wi-fe-ka` | none | — | prohibition marker — load-bearing |
+| `no-wi-fe-ka` | none | — | permission marker — load-bearing |
+| `ka-fe-si` | none | — | warning act — load-bearing |
+| `ka-ko` | none | — | containment/capture act — load-bearing |
+| `ka-de-zo` | none | — | lethal action term — load-bearing |
+| `to-fe-li` | none | — | adjudicative role — load-bearing |
+
+**Verdict:** irreducibly formal — ROE-001 only works if signal, authority, warning, containment, killing, and review remain distinct.
+
+*CLQ entries registered from this batch: none.*
+
+---
+
+## Rules of Engagement Doctrine — Edge Cases (S1058-S1063)
+
+**Batch:** ROE-002  
+**Source:** Tonesu-native follow-on batch stress-testing ROE-001 against battlefield transitions and edge cases that compressed ROE doctrine usually mishandles.  
+**Entries:** S1058-S1063 · **New vocabulary:** none
+
+**Key tests:**
+- contradictory authorized orders as a routing condition
+- active hostile act outranking merely signaled hostility
+- retreat after warning
+- lethal permission when active attack continues and containment is impossible
+- surrender as a status change from lethal to custodial handling
+- structural verdict on status-change doctrine rather than static labels
+
+**Central claim:** ROE does not fail on the easy case. It fails when attack, retreat, surrender, and contradictory authority arrive in sequence. Tonesu can keep those states distinct instead of pretending they are all one hostile condition.
+
+---
+
+### S1058 — ROE-002-A: Contradictory authorized orders route upward
+
+**Source:** "Contradictory authorized orders route upward."
+
+**Tonesu:** `go {la-i-zo-li  ne  wi-ra  lo-ra-ka-li ; la-ze  ne  wi-ra  lo-ra-ka-li ; la-i-zo-li  wi-ra  [la-ra-ka-li  ka-ra  lo-wi-de-li] / la-ze  wi-ra  no  [la-ra-ka-li  ka-ra  lo-wi-de-li]},  la-ra-ka-li  ka-si  lo-to-fe-li  lo-ze`
+
+**Written:** `go {laizoli ne wira lorakali ; laze ne wira lorakali ; laizoli wira [larakali kara lowideli] / laze wira no [larakali kara lowideli]}, larakali kasi lotofeli loze`
+
+**Gloss:** because {person is authority to-combatant ; other-person is authority to-combatant ; person commands [combatant combats adversary] / other-person commands not [combatant combats adversary]}, combatant reports to-arbiter it
+
+**Natural reading:** If one authorized person orders engagement and another authorized person forbids that same engagement, the combatant reports the conflict to the arbiter.
+
+**Notes:** ROE should not hide a secret priority rule when command conflict appears. Tonesu treats contradiction as a routing condition.
+
+---
+
+### S1059 — ROE-002-B: Active attack outranks suspected hostility
+
+**Source:** "One active attacker outranks one merely suspected hostile."
+
+**Tonesu:** `go {la-i-zo-li  ka-ra  lo-ra-ka-li ; la-ra-ka-li  si  [la-ze  ne  wi-de-li] / la-ra-ka-li  no-to  [lo-ze]},  no-wi-fe-ka  [la-ra-ka-li  ka-ra  lo-i-zo-li]  /  wi-fe-ka  [la-ra-ka-li  ka-de-zo  lo-ze]`
+
+**Written:** `go {laizoli kara lorakali ; larakali si [laze ne wideli] / larakali noto [loze]}, nowifeka [larakali kara loizoli] / wifeka [larakali kadezo loze]`
+
+**Gloss:** because {person combats combatant ; combatant signals [other-person is adversary] / combatant not-knows [it]}, permitted [combatant combats person] / forbidden [combatant deliberately-kills other-person]
+
+**Natural reading:** If one person is actively attacking the combatant and another person is only signal-grade hostile, return force against the attacker is permitted while killing the merely suspected hostile remains forbidden.
+
+**Notes:** This is an ROE triage sentence. Actual hostile act outranks suspected hostile status.
+
+---
+
+### S1060 — ROE-002-C: Retreat after warning blocks lethal action
+
+**Source:** "If the warned person retreats and no longer attacks, killing is forbidden."
+
+**Tonesu:** `go {la-ra-ka-li  ka-fe-si  ne-ze ; la-ze  ka-ki-de ; la-ze  no  ka-ra  lo-ra-ka-li},  wi-fe-ka  [la-ra-ka-li  ka-de-zo  lo-ze]`
+
+**Written:** `go {larakali kafesi neze ; laze kakide ; laze no kara lorakali}, wifeka [larakali kadezo loze]`
+
+**Gloss:** because {combatant warns to-person ; person retreats ; person not combats combatant}, forbidden [combatant deliberately-kills person]
+
+**Natural reading:** If the combatant warns the person, and the person retreats and no longer attacks, killing is forbidden.
+
+**Notes:** ROE should track the change in attack-state. Warning followed by retreat is not the same situation as continued attack.
+
+---
+
+### S1061 — ROE-002-D: Active attack plus impossible containment permits lethal action
+
+**Source:** "If attack continues and containment is impossible, lethal action becomes permitted."
+
+**Tonesu:** `go {la-ze  ka-ra  lo-ra-ka-li ; la-ra-ka-li  no  be-vo  [ka-ko  lo-ze]},  no-wi-fe-ka  [la-ra-ka-li  ka-de-zo  lo-ze]`
+
+**Written:** `go {laze kara lorakali ; larakali no bevo [kako loze]}, nowifeka [larakali kadezo loze]`
+
+**Gloss:** because {person combats combatant ; combatant not capable [to-contain person]}, permitted [combatant deliberately-kills person]
+
+**Natural reading:** If the person continues attacking and the combatant cannot contain the person, lethal action becomes permitted.
+
+**Notes:** This is the ladder's hard endpoint. Lethal force appears only after active attack and failed containment-capacity are both explicit.
+
+---
+
+### S1062 — ROE-002-E: Surrender shifts force from lethal to custodial
+
+**Source:** "If the person surrenders and no longer attacks, killing is forbidden and containment is permitted."
+
+**Tonesu:** `go {la-ze  ka-de ; la-ze  no  ka-ra  lo-ra-ka-li},  wi-fe-ka  [la-ra-ka-li  ka-de-zo  lo-ze]  /  no-wi-fe-ka  [la-ra-ka-li  ka-ko  lo-ze]`
+
+**Written:** `go {laze kade ; laze no kara lorakali}, wifeka [larakali kadezo loze] / nowifeka [larakali kako loze]`
+
+**Gloss:** because {person surrenders ; person not combats combatant}, forbidden [combatant deliberately-kills person] / permitted [combatant deliberately-contains person]
+
+**Natural reading:** If the person surrenders and no longer attacks, killing is forbidden and containment is permitted.
+
+**Notes:** The doctrine treats surrender as a real status change. A surrendered person is not just a hostile who has temporarily stopped moving.
+
+---
+
+### S1063 — ROE-002-F: Structural verdict on battlefield status changes
+
+**Source:** "The rule-set does not comprehend the boundary among suspicion, attack, retreat, and surrender."
+
+**Tonesu:** `la-wi-fe-su  no  to-su-ki  lo-to-fe  {si ; ka-ra ; ka-ki-de ; ka-de}`
+
+**Written:** `lawifesu no tosuki lotofe {si ; kara ; kakide ; kade}`
+
+**Gloss:** rule-system not comprehends epistemic-boundary {signal ; combat ; retreat ; surrender}
+
+**Natural reading:** The rule-set does not comprehend the boundary among suspicion, attack, retreat, and surrender.
+
+**Notes:** This is the batch verdict. ROE fails when it treats changing battlefield states as one static hostile label.
+
+---
+
+## ROE-002 Batch Summary
+
+**Entries:** S1058-S1063 · **New vocabulary:** none
+
+| Entry | Source focus | Tonesu | Key feature |
+|-------|--------------|--------|-------------|
+| S1058 (ROE-002-A) | contradictory orders | `go {la-i-zo-li ne wi-ra lo-ra-ka-li ; la-ze ne wi-ra lo-ra-ka-li ; la-i-zo-li wi-ra [la-ra-ka-li ka-ra lo-wi-de-li] / la-ze wi-ra no [la-ra-ka-li ka-ra lo-wi-de-li]}, la-ra-ka-li ka-si lo-to-fe-li lo-ze` | contradictory authority routes upward |
+| S1059 (ROE-002-B) | actual attack vs suspicion | `go {la-i-zo-li ka-ra lo-ra-ka-li ; la-ra-ka-li si [la-ze ne wi-de-li] / la-ra-ka-li no-to [lo-ze]}, no-wi-fe-ka [la-ra-ka-li ka-ra lo-i-zo-li] / wi-fe-ka [la-ra-ka-li ka-de-zo lo-ze]` | active attack outranks suspected hostility |
+| S1060 (ROE-002-C) | retreat after warning | `go {la-ra-ka-li ka-fe-si ne-ze ; la-ze ka-ki-de ; la-ze no ka-ra lo-ra-ka-li}, wi-fe-ka [la-ra-ka-li ka-de-zo lo-ze]` | retreat blocks lethal action |
+| S1061 (ROE-002-D) | no containment available | `go {la-ze ka-ra lo-ra-ka-li ; la-ra-ka-li no be-vo [ka-ko lo-ze]}, no-wi-fe-ka [la-ra-ka-li ka-de-zo lo-ze]` | lethal permission requires failed containment |
+| S1062 (ROE-002-E) | surrender | `go {la-ze ka-de ; la-ze no ka-ra lo-ra-ka-li}, wi-fe-ka [la-ra-ka-li ka-de-zo lo-ze] / no-wi-fe-ka [la-ra-ka-li ka-ko lo-ze]` | surrender shifts lethal to custodial status |
+| S1063 (ROE-002-F) | structural verdict | `la-wi-fe-su no to-su-ki lo-to-fe {si ; ka-ra ; ka-ki-de ; ka-de}` | doctrine fails when status changes collapse |
+
+**Key structural findings:**
+
+**Finding 1: contradictory authority is a routing problem, not a hidden-rank problem.** ROE should escalate command conflict instead of pretending a silent priority order.
+
+**Finding 2: hostile act outranks hostile appearance.** Active attack changes force status in a way that signal-grade suspicion does not.
+
+**Finding 3: retreat and surrender are doctrinally different from continued attack.** Tonesu can mark those transitions directly instead of leaving them implicit.
+
+**Finding 4: lethal permission appears only at the hard endpoint of the ladder.** Active attack plus failed containment is not the same as bare hostility.
+
+**Finding 5: good ROE doctrine tracks state changes, not labels.** The real problem is not naming enemies; it is correctly reading transitions in action-status.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `ka-ki-de` | none | — | retreat term — load-bearing |
+| `ka-de` | none | — | surrender term — load-bearing |
+| `ka-ko` | none | — | custodial containment term — load-bearing |
+| `ka-de-zo` | none | — | lethal action term — load-bearing |
+| `to-fe-li` | none | — | adjudicative routing role — load-bearing |
+
+**Verdict:** irreducibly formal — ROE-002 only works if authority, attack, retreat, surrender, containment, and lethal force remain distinct.
+
+*CLQ entries registered from this batch: none.*
+
+---
+
+## Rules of Engagement Doctrine — Noncombatants and Collateral Harm (S1064-S1069)
+
+**Batch:** ROE-003  
+**Source:** Tonesu-native follow-on batch testing whether the doctrine can keep target and non-target harm distinct when civilians or children are present.  
+**Entries:** S1064-S1069 · **New vocabulary:** none
+
+**Key tests:**
+- generic noncombatant status without adding a new "civilian" noun
+- child-presence as the hardest noncombatant case
+- adversary using a child as containment/shield
+- routing when adversary and noncombatant are intermixed
+- review when force on the target also harms a non-target
+- permission returning only after target and child are separated again
+
+**Central claim:** ROE doctrine fails on civilian harm when it treats every person near the target as part of the target. Tonesu can keep adversary, noncombatant, child, and harmed-by-force status distinct.
+
+---
+
+### S1064 — ROE-003-A: Noncombatant status forbids killing
+
+**Source:** "If the person is not a combatant and is not attacking, killing is forbidden."
+
+**Tonesu:** `go {la-ze  no  ne  ra-ka-li ; la-ze  no  ka-ra  lo-ra-ka-li},  wi-fe-ka  [la-ra-ka-li  ka-de-zo  lo-ze]`
+
+**Written:** `go {laze no ne rakali ; laze no kara lorakali}, wifeka [larakali kadezo loze]`
+
+**Gloss:** because {person not is combatant ; person not combats combatant}, forbidden [combatant deliberately-kills person]
+
+**Natural reading:** If the person is not a combatant and is not attacking the combatant, killing that person is forbidden.
+
+**Notes:** This is the doctrine's civilian baseline. The language does not need a new fixed word for civilian if the status distinction itself is what matters.
+
+---
+
+### S1065 — ROE-003-B: Mixed target and noncombatant presence routes upward
+
+**Source:** "If the adversary is intermixed with a noncombatant, the case routes upward."
+
+**Tonesu:** `go {la-wi-de-li  ne  lo-li ; lo-li  no  ne  ra-ka-li},  la-ra-ka-li  ka-si  lo-to-fe-li  lo-wi-de-li`
+
+**Written:** `go {lawideli ne loli ; loli no ne rakali}, larakali kasi lotofeli lowideli`
+
+**Gloss:** because {adversary is-in-relation-with person ; person not is combatant}, combatant reports to-arbiter adversary
+
+**Natural reading:** If the adversary is intermixed with a person who is not a combatant, the combatant routes the adversary case upward to the arbiter.
+
+**Notes:** This is the doctrinal version of a crowd or bystander problem. Mixed presence blocks the shortcut from enemy-identification to immediate lethal action.
+
+---
+
+### S1066 — ROE-003-C: Child shield blocks lethal shortcut
+
+**Source:** "If the adversary is containing a child while attacking, killing is forbidden."
+
+**Tonesu:** `go {la-wi-de-li  ka-ko  lo-li-be ; la-wi-de-li  ka-ra  lo-ra-ka-li},  wi-fe-ka  [la-ra-ka-li  ka-de-zo  lo-wi-de-li]`
+
+**Written:** `go {lawideli kako lolibe ; lawideli kara lorakali}, wifeka [larakali kadezo lowideli]`
+
+**Gloss:** because {adversary deliberately-contains child ; adversary combats combatant}, forbidden [combatant deliberately-kills adversary]
+
+**Natural reading:** If the adversary is holding a child while attacking the combatant, killing the adversary is forbidden.
+
+**Notes:** This makes the human-shield case explicit. The child's presence is not a minor detail attached to the target; it changes the force status.
+
+---
+
+### S1067 — ROE-003-D: Child harm during force triggers review
+
+**Source:** "If force against the adversary also harms a child, the harmed child case must be reviewed."
+
+**Tonesu:** `go {la-ra-ka-li  ka-ra  lo-wi-de-li ; lo-li-be  zo-ra  de},  la-ra-ka-li  ka-si  lo-to-fe-li  lo-li-be`
+
+**Written:** `go {larakali kara lowideli ; lolibe zora de}, larakali kasi lotofeli lolibe`
+
+**Gloss:** because {combatant combats adversary ; child life-energy decreases}, combatant reports to-arbiter child
+
+**Natural reading:** If force against the adversary also decreases a child's life-energy, the combatant reports that child-harm case to the arbiter.
+
+**Notes:** This is the collateral-review rule. Non-target harm is not absorbed into the target file as if it were the same event.
+
+---
+
+### S1068 — ROE-003-E: Separation restores target-only force logic
+
+**Source:** "If the adversary is no longer containing the child and continues attacking, return force is permitted."
+
+**Tonesu:** `go {la-wi-de-li  no  ka-ko  lo-li-be ; la-wi-de-li  ka-ra  lo-ra-ka-li},  no-wi-fe-ka  [la-ra-ka-li  ka-ra  lo-wi-de-li]`
+
+**Written:** `go {lawideli no kako lolibe ; lawideli kara lorakali}, nowifeka [larakali kara lowideli]`
+
+**Gloss:** because {adversary not deliberately-contains child ; adversary combats combatant}, permitted [combatant combats adversary]
+
+**Natural reading:** If the adversary is no longer holding the child and continues attacking, return force against the adversary is permitted.
+
+**Notes:** The doctrine should reopen force only when the target and the protected noncombatant are structurally separated again.
+
+---
+
+### S1069 — ROE-003-F: Structural verdict on target and non-target collapse
+
+**Source:** "The rule-set does not comprehend the boundary among adversary, noncombatant, child, and harmed-by-force."
+
+**Tonesu:** `la-wi-fe-su  no  to-su-ki  lo-to-fe  {wi-de-li ; no  ne  ra-ka-li ; li-be ; zo-ra  de}`
+
+**Written:** `lawifesu no tosuki lotofe {wideli ; no ne rakali ; libe ; zora de}`
+
+**Gloss:** rule-system not comprehends epistemic-boundary {adversary ; not-is-combatant ; child ; life-energy-decrease}
+
+**Natural reading:** The rule-set does not comprehend the boundary among adversary, noncombatant, child, and harm-by-force.
+
+**Notes:** This is the batch verdict. Collateral damage happens when doctrine collapses target and non-target statuses into one operational bucket.
+
+---
+
+## ROE-003 Batch Summary
+
+**Entries:** S1064-S1069 · **New vocabulary:** none
+
+| Entry | Source focus | Tonesu | Key feature |
+|-------|--------------|--------|-------------|
+| S1064 (ROE-003-A) | generic noncombatant | `go {la-ze no ne ra-ka-li ; la-ze no ka-ra lo-ra-ka-li}, wi-fe-ka [la-ra-ka-li ka-de-zo lo-ze]` | noncombatant status forbids killing |
+| S1065 (ROE-003-B) | mixed presence | `go {la-wi-de-li ne lo-li ; lo-li no ne ra-ka-li}, la-ra-ka-li ka-si lo-to-fe-li lo-wi-de-li` | intermixed noncombatants route the case upward |
+| S1066 (ROE-003-C) | child shield | `go {la-wi-de-li ka-ko lo-li-be ; la-wi-de-li ka-ra lo-ra-ka-li}, wi-fe-ka [la-ra-ka-li ka-de-zo lo-wi-de-li]` | child shield blocks lethal shortcut |
+| S1067 (ROE-003-D) | collateral review | `go {la-ra-ka-li ka-ra lo-wi-de-li ; lo-li-be zo-ra de}, la-ra-ka-li ka-si lo-to-fe-li lo-li-be` | child harm triggers separate review |
+| S1068 (ROE-003-E) | re-separated target | `go {la-wi-de-li no ka-ko lo-li-be ; la-wi-de-li ka-ra lo-ra-ka-li}, no-wi-fe-ka [la-ra-ka-li ka-ra lo-wi-de-li]` | force reopens only after separation |
+| S1069 (ROE-003-F) | structural verdict | `la-wi-fe-su no to-su-ki lo-to-fe {wi-de-li ; no ne ra-ka-li ; li-be ; zo-ra de}` | doctrine fails when target and non-target collapse |
+
+**Key structural findings:**
+
+**Finding 1: civilian status is a doctrinal state, not a lexical primitive.** Tonesu can state "not a combatant" directly instead of hiding behind a vague class label.
+
+**Finding 2: mixed presence changes the rule.** Once target and non-target are intermixed, the doctrine should route instead of shortcut.
+
+**Finding 3: shield cases expose whether the doctrine really distinguishes target from protected person.** A child held by the adversary is not an attribute of the adversary.
+
+**Finding 4: collateral harm requires its own review path.** Harm to a child is not automatically accounted for by reviewing force against the adversary.
+
+**Finding 5: force can reopen after separation.** Good doctrine does not freeze forever; it tracks whether the noncombatant is still inside the danger-structure.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `ra-ka-li` | none | — | combatant role term — load-bearing |
+| `li-be` | none | — | child term — load-bearing |
+| `ka-ko` | none | — | containment/shield term — load-bearing |
+| `ka-de-zo` | none | — | lethal action term — load-bearing |
+| `to-fe-li` | none | — | review/routing role — load-bearing |
+
+**Verdict:** irreducibly formal — ROE-003 only works if adversary, noncombatant, child, containment, and harm-review remain explicitly distinct.
+
+*CLQ entries registered from this batch: none.*
+
+---
+
+## Rules of Engagement Doctrine — Tragic Override and Orwellian Drift (S1070-S1075)
+
+**Batch:** ROE-004  
+**Source:** Tonesu-native follow-on batch testing the nightmare line where authority claims intentional civilian killing is required to prevent broader catastrophe.  
+**Entries:** S1070-S1075 · **New vocabulary:** none
+
+**Key tests:**
+- claimed necessity (`ne-fe`) versus ordinary permission (`no-wi-fe-ka`)
+- intentional noncombatant killing as fault-bearing even under catastrophic rationale
+- refusal to derive righteousness (`vo-ne`) from necessity
+- explicit line where authority turns tragedy into fraud (`ka-to-fe-ka`)
+- structural boundary between tragic override and Orwellian recoding
+
+**Central claim:** Tonesu can describe a claimed supreme emergency without laundering it into moral cleanliness. The Orwellian break does not happen when tragedy is admitted; it happens when necessity is recoded as permission, righteousness, or no-fault.
+
+---
+
+### S1070 — ROE-004-A: Claimed necessity routes upward
+
+**Source:** "If authority claims killing a child is required to prevent wider death, the case routes upward."
+
+**Tonesu:** `go {la-i-zo-li  ne  ne-fe  lo-ka-de-zo  lo-li-be ; go {no  [la-ra-ka-li  ka-de-zo  lo-li-be]},  lo-o-li  zo-ra  de},  la-ra-ka-li  ka-si  lo-to-fe-li  lo-ze`
+
+**Written:** `go {laizoli ne nefe lokadezo lolibe ; go {no [larakali kadezo lolibe]}, looli zora de}, larakali kasi lotofeli loze`
+
+**Gloss:** because {authority is requirement [deliberate-killing child] ; because {not [combatant deliberately-kills child]}, collective-persons life-energy decreases}, combatant reports to-arbiter it
+
+**Natural reading:** If an authority claims killing a child is required because otherwise collective life-energy will decrease, the combatant routes the case upward to the arbiter.
+
+**Notes:** Tonesu does not let catastrophic rationale become a field-level shortcut. Claimed necessity is first a routing condition.
+
+---
+
+### S1071 — ROE-004-B: Claimed necessity does not become ordinary permission
+
+**Source:** "If authority declares child-killing required, ordinary permission does not arise."
+
+**Tonesu:** `go {la-i-zo-li  ne  ne-fe  lo-ka-de-zo  lo-li-be},  wi-fe-ka  [la-ra-ka-li  ka-de-zo  lo-li-be]`
+
+**Written:** `go {laizoli ne nefe lokadezo lolibe}, wifeka [larakali kadezo lolibe]`
+
+**Gloss:** because {authority is requirement [deliberate-killing child]}, forbidden [combatant deliberately-kills child]
+
+**Natural reading:** Even if an authority declares killing a child required, the combatant does not thereby gain ordinary permission to kill the child.
+
+**Notes:** This is the doctrinal line. A tragic claim is not yet a permission statement.
+
+---
+
+### S1072 — ROE-004-C: Intentional child-killing under claimed necessity remains fault-bearing
+
+**Source:** "If the combatant kills the child under claimed necessity, fault remains."
+
+**Tonesu:** `go {la-ra-ka-li  ka-de-zo  lo-li-be ; la-i-zo-li  ne  ne-fe  lo-ka-de-zo  lo-li-be},  la-ra-ka-li  ne  de-su`
+
+**Written:** `go {larakali kadezo lolibe ; laizoli ne nefe lokadezo lolibe}, larakali ne desu`
+
+**Gloss:** because {combatant deliberately-kills child ; authority is requirement [deliberate-killing child]}, combatant is fault
+
+**Natural reading:** If the combatant intentionally kills the child under an authority's claimed necessity, the combatant remains at fault.
+
+**Notes:** This is the batch's first hard payoff. Necessity does not erase `de-su`.
+
+---
+
+### S1073 — ROE-004-D: Tragic override does not become righteousness
+
+**Source:** "If the combatant kills the child to avert wider death, the act is not righteousness."
+
+**Tonesu:** `go {la-ra-ka-li  ka-de-zo  lo-li-be ; go {no  [la-ra-ka-li  ka-de-zo  lo-li-be]},  lo-o-li  zo-ra  de},  la-ra-ka-li  no  vo-ne`
+
+**Written:** `go {larakali kadezo lolibe ; go {no [larakali kadezo lolibe]}, looli zora de}, larakali no vone`
+
+**Gloss:** because {combatant deliberately-kills child ; because {not [combatant deliberately-kills child]}, collective-persons life-energy decreases}, combatant not righteousness
+
+**Natural reading:** If the combatant kills the child in order to avert wider death, the combatant is not thereby righteous.
+
+**Notes:** This is the comparison point against the righteousness tests. Tonesu refuses to derive `vo-ne` from catastrophic necessity.
+
+---
+
+### S1074 — ROE-004-E: Recoding fault as no-fault is fraud
+
+**Source:** "If authority demands that the collective treat the child-killer as not at fault, authority commits fraud."
+
+**Tonesu:** `go {la-ra-ka-li  ka-de-zo  lo-li-be ; la-i-zo-li  wi-ra  [la-o-li  to  [la-ra-ka-li  no  ne  de-su]]},  la-i-zo-li  ka-to-fe-ka`
+
+**Written:** `go {larakali kadezo lolibe ; laizoli wira [laoli to [larakali no ne desu]]}, laizoli katofeka`
+
+**Gloss:** because {combatant deliberately-kills child ; authority demands [collective-persons know [combatant not is fault]]}, authority commits-fraud
+
+**Natural reading:** If the combatant kills the child and authority demands that the collective treat the combatant as not at fault, the authority commits epistemic fraud.
+
+**Notes:** This is where the doctrine crosses into Orwellian territory. The problem is no longer tragic necessity; it is demanded recoding of the moral record.
+
+---
+
+### S1075 — ROE-004-F: Structural verdict on tragic override boundaries
+
+**Source:** "The rule-set does not comprehend the boundary among necessity, permission, righteousness, and no-fault."
+
+**Tonesu:** `la-wi-fe-su  no  to-su-ki  lo-to-fe  {ne-fe ; no-wi-fe-ka ; vo-ne ; no  ne  de-su}`
+
+**Written:** `lawifesu no tosuki lotofe {nefe ; nowifeka ; vone ; no ne desu}`
+
+**Gloss:** rule-system not comprehends epistemic-boundary {requirement ; permission ; righteousness ; not-is-fault}
+
+**Natural reading:** The rule-set does not comprehend the boundary among necessity, permission, righteousness, and no-fault.
+
+**Notes:** This is the batch verdict. The nightmare line becomes Orwellian only when these four categories collapse.
+
+---
+
+## ROE-004 Batch Summary
+
+**Entries:** S1070-S1075 · **New vocabulary:** none
+
+| Entry | Source focus | Tonesu | Key feature |
+|-------|--------------|--------|-------------|
+| S1070 (ROE-004-A) | claimed catastrophe | `go {la-i-zo-li ne ne-fe lo-ka-de-zo lo-li-be ; go {no [la-ra-ka-li ka-de-zo lo-li-be]}, lo-o-li zo-ra de}, la-ra-ka-li ka-si lo-to-fe-li lo-ze` | catastrophic necessity routes upward |
+| S1071 (ROE-004-B) | no ordinary permission | `go {la-i-zo-li ne ne-fe lo-ka-de-zo lo-li-be}, wi-fe-ka [la-ra-ka-li ka-de-zo lo-li-be]` | necessity does not become field permission |
+| S1072 (ROE-004-C) | fault retained | `go {la-ra-ka-li ka-de-zo lo-li-be ; la-i-zo-li ne ne-fe lo-ka-de-zo lo-li-be}, la-ra-ka-li ne de-su` | fault remains under claimed necessity |
+| S1073 (ROE-004-D) | no righteousness | `go {la-ra-ka-li ka-de-zo lo-li-be ; go {no [la-ra-ka-li ka-de-zo lo-li-be]}, lo-o-li zo-ra de}, la-ra-ka-li no vo-ne` | tragedy does not become righteousness |
+| S1074 (ROE-004-E) | Orwellian drift | `go {la-ra-ka-li ka-de-zo lo-li-be ; la-i-zo-li wi-ra [la-o-li to [la-ra-ka-li no ne de-su]]}, la-i-zo-li ka-to-fe-ka` | recoding fault as no-fault is fraud |
+| S1075 (ROE-004-F) | structural verdict | `la-wi-fe-su no to-su-ki lo-to-fe {ne-fe ; no-wi-fe-ka ; vo-ne ; no ne de-su}` | doctrine fails when necessity, permission, righteousness, and no-fault collapse |
+
+**Key structural findings:**
+
+**Finding 1: Tonesu does not automatically emit Orwellian structure.** It first emits a tragic-override structure: claimed necessity, routing, retained fault.
+
+**Finding 2: the hard line is between `ne-fe` and `no-wi-fe-ka`.** What is claimed as required does not automatically become what is permitted in ordinary doctrine.
+
+**Finding 3: righteousness is harder than necessity.** `vo-ne` does not follow from catastrophe-aversion.
+
+**Finding 4: Orwellian drift begins at recoding.** Once authority demands that the collective treat intentional child-killing as no-fault, the structure becomes `ka-to-fe-ka`, not tragic candor.
+
+**Finding 5: the relevant comparison to righteous tests is negative.** In the DND and Biblical ethics material, `wi-vo` and `vo-ne` track beneficent will and right relation; ROE-004 shows those predicates do not arise from admitted atrocity merely because the rationale is catastrophic.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `ne-fe` | none | — | necessity/requirement term — load-bearing |
+| `no-wi-fe-ka` | none | — | permission term — load-bearing |
+| `de-su` | none | — | fault term — load-bearing |
+| `vo-ne` | none | — | righteousness term — load-bearing |
+| `ka-to-fe-ka` | none | — | epistemic fraud term — load-bearing |
+
+**Verdict:** irreducibly formal — ROE-004 only works if necessity, permission, righteousness, fault, and fraud remain sharply distinct.
+
+*CLQ entries registered from this batch: none.*

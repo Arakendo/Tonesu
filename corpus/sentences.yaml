@@ -18697,9 +18697,9 @@ sentences:
     under transmutation. DND-005 does not invent a new fantasy canon; it simply lets
     the existing compounds sort themselves honestly.
 - snum: S976
-  gloss: 'DND-006-A: Shield'
-  batch: null
-  batch_sub: null
+  gloss: Shield
+  batch: DND-006
+  batch_sub: A
   status: normative
   tonesu: ''
   gloss_line: Shield-[named] IS abjuration / contains manifest-force
@@ -18713,9 +18713,9 @@ sentences:
     force; it contains it. That matches the DND-001 analysis exactly: abjuration adds
     a boundary rather than subtracting a threat.'
 - snum: S977
-  gloss: 'DND-006-B: Mage Armor'
-  batch: null
-  batch_sub: null
+  gloss: Mage Armor
+  batch: DND-006
+  batch_sub: B
   status: normative
   tonesu: ''
   gloss_line: Mage-Armor-[named] IS abjuration / contains person by-means-of ward-boundary
@@ -18729,9 +18729,9 @@ sentences:
     family. Both are `ko-fe-ki`; Mage Armor simply fixes the protective limit around
     the body instead of intercepting an incoming strike.
 - snum: S978
-  gloss: 'DND-006-C: Counterspell'
-  batch: null
-  batch_sub: null
+  gloss: Counterspell
+  batch: DND-006
+  batch_sub: C
   status: normative
   tonesu: ''
   gloss_line: Counterspell-[named] IS abjuration / forbidden [magic emerges]
@@ -18745,9 +18745,9 @@ sentences:
     a body or a projectile, but on another magical event. The spell creates a limit
     around emergence itself.
 - snum: S979
-  gloss: 'DND-006-D: Dispel Magic'
-  batch: null
-  batch_sub: null
+  gloss: Dispel Magic
+  batch: DND-006
+  batch_sub: D
   status: normative
   tonesu: ''
   gloss_line: Dispel-Magic-[named] IS abjuration / decreases structure by-means-of
@@ -18762,9 +18762,9 @@ sentences:
   notes: Counterspell blocks emergence before completion; Dispel Magic attacks an
     already-standing structure. The difference is temporal, not taxonomic.
 - snum: S980
-  gloss: 'DND-006-E: Find Familiar'
-  batch: null
-  batch_sub: null
+  gloss: Find Familiar
+  batch: DND-006
+  batch_sub: E
   status: normative
   tonesu: ''
   gloss_line: Find-Familiar-[named] IS conjuration / organism emerges by-means-of
@@ -18778,9 +18778,9 @@ sentences:
   notes: This is a clean conjuration case because the spell is less about raw creation
     than about bringing a bonded presence into the caster's operational space.
 - snum: S981
-  gloss: 'DND-006-F: Misty Step'
-  batch: null
-  batch_sub: null
+  gloss: Misty Step
+  batch: DND-006
+  batch_sub: F
   status: normative
   tonesu: ''
   gloss_line: Misty-Step-[named] IS conjuration / person moves by-means-of spatial-emergence
@@ -18794,9 +18794,9 @@ sentences:
   notes: DND-001 already argued that teleportation belongs under `pa-be-ki`. This
     spell is the short-range proof of that claim.
 - snum: S982
-  gloss: 'DND-006-G: Dimension Door'
-  batch: null
-  batch_sub: null
+  gloss: Dimension Door
+  batch: DND-006
+  batch_sub: G
   status: normative
   tonesu: ''
   gloss_line: Dimension-Door-[named] IS conjuration / passage emerges
@@ -18809,9 +18809,9 @@ sentences:
   notes: 'This spell pressures the same family from a different angle: instead of
     relocating the caster directly, it manifests the path itself.'
 - snum: S983
-  gloss: 'DND-006-H: Fireball'
-  batch: null
-  batch_sub: null
+  gloss: Fireball
+  batch: DND-006
+  batch_sub: H
   status: normative
   tonesu: ''
   gloss_line: Fireball-[named] IS evocation / manifest-force emerges at place
@@ -18825,9 +18825,9 @@ sentences:
   notes: The spell is iconic precisely because it proves the DND-001 evocation analysis.
     What the caster does is manifest force. The damage is downstream.
 - snum: S984
-  gloss: 'DND-006-I: Lightning Bolt'
-  batch: null
-  batch_sub: null
+  gloss: Lightning Bolt
+  batch: DND-006
+  batch_sub: I
   status: normative
   tonesu: ''
   gloss_line: Lightning-Bolt-[named] IS evocation / manifest-force moves in direction
@@ -18841,9 +18841,9 @@ sentences:
   notes: 'Fireball and Lightning Bolt share operator family but differ in spatial
     pattern: concentrated emergence at a point versus directed emergence along a path.'
 - snum: S985
-  gloss: 'DND-006-J: Detect Magic'
-  batch: null
-  batch_sub: null
+  gloss: Detect Magic
+  batch: DND-006
+  batch_sub: J
   status: normative
   tonesu: ''
   gloss_line: Detect-Magic-[named] IS divination / perceives magic
@@ -18856,9 +18856,9 @@ sentences:
   notes: 'This is the simplest divination spell in the set: raw extension of perception
     toward magical structure.'
 - snum: S986
-  gloss: 'DND-006-K: Identify'
-  batch: null
-  batch_sub: null
+  gloss: Identify
+  batch: DND-006
+  batch_sub: K
   status: normative
   tonesu: ''
   gloss_line: Identify-[named] IS divination / comprehends boundary related-to artifact
@@ -18872,9 +18872,9 @@ sentences:
   notes: Detect Magic tells you that magic is present; Identify organizes the object's
     operative boundary into knowledge.
 - snum: S987
-  gloss: 'DND-006-L: Detect Thoughts'
-  batch: null
-  batch_sub: null
+  gloss: Detect Thoughts
+  batch: DND-006
+  batch_sub: L
   status: normative
   tonesu: ''
   gloss_line: Detect-Thoughts-[named] IS divination / perceives thought
@@ -18887,9 +18887,9 @@ sentences:
   notes: This extends divination from magical traces to mental content. The head remains
     `se-ki`; only the target of perception changes.
 - snum: S988
-  gloss: 'DND-006-M: Invisibility'
-  batch: null
-  batch_sub: null
+  gloss: Invisibility
+  batch: DND-006
+  batch_sub: M
   status: normative
   tonesu: ''
   gloss_line: Invisibility-[named] IS illusion / not perceives person
@@ -18902,9 +18902,9 @@ sentences:
   notes: This is the cleanest illusion spell because it does not need epistemic fraud.
     It changes perception-level access itself.
 - snum: S989
-  gloss: 'DND-006-N: Mirror Image'
-  batch: null
-  batch_sub: null
+  gloss: Mirror Image
+  batch: DND-006
+  batch_sub: N
   status: normative
   tonesu: ''
   gloss_line: Mirror-Image-[named] IS illusion / appearance emerges more-than one
@@ -18917,9 +18917,9 @@ sentences:
   notes: The spell is useful because it shows illusion as appearance multiplication
     without corresponding addition of real bodies.
 - snum: S990
-  gloss: 'DND-006-O: Charm Person'
-  batch: null
-  batch_sub: null
+  gloss: Charm Person
+  batch: DND-006
+  batch_sub: O
   status: normative
   tonesu: ''
   gloss_line: Charm-Person-[named] IS enchantment / shifts affect-will toward value
@@ -18933,9 +18933,9 @@ sentences:
   notes: The spell does not change facts or appearance. It changes the target's orientation
     of feeling and intent.
 - snum: S991
-  gloss: 'DND-006-P: Suggestion'
-  batch: null
-  batch_sub: null
+  gloss: Suggestion
+  batch: DND-006
+  batch_sub: P
   status: normative
   tonesu: ''
   gloss_line: Suggestion-[named] IS enchantment / thought emerges in will
@@ -18949,9 +18949,9 @@ sentences:
   notes: This is a good companion to Charm Person. The former changes valence; this
     spell implants direction.
 - snum: S992
-  gloss: 'DND-006-Q: Speak with Dead'
-  batch: null
-  batch_sub: null
+  gloss: Speak with Dead
+  batch: DND-006
+  batch_sub: Q
   status: normative
   tonesu: ''
   gloss_line: Speak-With-Dead-[named] IS necromancy / sound emerges from death-threshold
@@ -18965,9 +18965,9 @@ sentences:
   notes: This is necromancy without animation. It pressures the death-boundary while
     leaving the body largely where it is.
 - snum: S993
-  gloss: 'DND-006-R: Animate Dead'
-  batch: null
-  batch_sub: null
+  gloss: Animate Dead
+  batch: DND-006
+  batch_sub: R
   status: normative
   tonesu: ''
   gloss_line: Animate-Dead-[named] IS necromancy / motion emerges from death-threshold
@@ -18981,9 +18981,9 @@ sentences:
   notes: 'The minimal pair with S992 is intentional: speak/sound versus motion. Same
     operator family, different restored function.'
 - snum: S994
-  gloss: 'DND-006-S: Fly'
-  batch: null
-  batch_sub: null
+  gloss: Fly
+  batch: DND-006
+  batch_sub: S
   status: normative
   tonesu: ''
   gloss_line: Fly-[named] IS transmutation / person moves related-to upper-space
@@ -18996,9 +18996,9 @@ sentences:
   notes: This spell is not about creating force-projectiles or new appearances. It
     changes what the body can do.
 - snum: S995
-  gloss: 'DND-006-T: Polymorph'
-  batch: null
-  batch_sub: null
+  gloss: Polymorph
+  batch: DND-006
+  batch_sub: T
   status: normative
   tonesu: ''
   gloss_line: Polymorph-[named] IS transmutation / changes organism related-to organism-form
@@ -19012,8 +19012,8 @@ sentences:
   notes: 'This is the most direct transmutation spell in the list: the organism''s
     property-set is reauthored at the level of form.'
 - snum: S996
-  gloss: 'DND-007-A: Alarm'
-  batch: DND-006
+  gloss: Alarm
+  batch: DND-007
   batch_sub: A
   status: normative
   tonesu: ''
@@ -19029,8 +19029,8 @@ sentences:
   notes: This is an abjuration spell whose real social use is surveillance and perimeter
     control rather than defense-in-combat.
 - snum: S997
-  gloss: 'DND-007-B: Arcane Lock'
-  batch: DND-006
+  gloss: Arcane Lock
+  batch: DND-007
   batch_sub: B
   status: normative
   tonesu: ''
@@ -19045,8 +19045,8 @@ sentences:
   notes: Unlike Alarm, this spell does not merely observe boundary crossing. It hardens
     the boundary itself.
 - snum: S998
-  gloss: 'DND-007-C: Tiny Hut'
-  batch: DND-006
+  gloss: Tiny Hut
+  batch: DND-007
   batch_sub: C
   status: normative
   tonesu: ''
@@ -19060,8 +19060,8 @@ sentences:
   notes: 'This is the camp, travel, and settlement version of the boundary family:
     not stopping an attack, but creating inhabitable protected space.'
 - snum: S999
-  gloss: 'DND-007-D: Private Sanctum'
-  batch: DND-006
+  gloss: Private Sanctum
+  batch: DND-007
   batch_sub: D
   status: normative
   tonesu: ''
@@ -19077,8 +19077,8 @@ sentences:
   notes: This pushes abjuration into privacy, statecraft, and institutional secrecy.
     The limit being managed is perceptual access.
 - snum: S1000
-  gloss: 'DND-007-E: Create Food and Water'
-  batch: DND-006
+  gloss: Create Food and Water
+  batch: DND-007
   batch_sub: E
   status: normative
   tonesu: ''
@@ -19094,8 +19094,8 @@ sentences:
   notes: This is one of the strongest world-building spells in the batch because it
     pressures scarcity, logistics, religion, and state dependence all at once.
 - snum: S1001
-  gloss: 'DND-007-F: Sending'
-  batch: DND-006
+  gloss: Sending
+  batch: DND-007
   batch_sub: F
   status: normative
   tonesu: ''
@@ -19110,8 +19110,8 @@ sentences:
   notes: The spell matters for diplomacy, war, religion, and administration because
     it manifests signal-presence without normal travel delay.
 - snum: S1002
-  gloss: 'DND-007-G: Teleportation Circle'
-  batch: DND-006
+  gloss: Teleportation Circle
+  batch: DND-007
   batch_sub: G
   status: normative
   tonesu: ''
@@ -19126,8 +19126,8 @@ sentences:
   source_anchor: S1002
   notes: Dimension Door was a single event. Teleportation Circle is infrastructure.
 - snum: S1003
-  gloss: 'DND-007-H: Continual Flame'
-  batch: DND-006
+  gloss: Continual Flame
+  batch: DND-007
   batch_sub: H
   status: normative
   tonesu: ''
@@ -19141,8 +19141,8 @@ sentences:
   notes: 'This is a civic spell more than a battle spell: lighting streets, temples,
     vaults, and towers.'
 - snum: S1004
-  gloss: 'DND-007-I: Comprehend Languages'
-  batch: DND-006
+  gloss: Comprehend Languages
+  batch: DND-007
   batch_sub: I
   status: normative
   tonesu: ''
@@ -19158,8 +19158,8 @@ sentences:
   notes: This is a world-building spell because trade, diplomacy, scripture, and law
     all change once language barriers can be bypassed.
 - snum: S1005
-  gloss: 'DND-007-J: Locate Object'
-  batch: DND-006
+  gloss: Locate Object
+  batch: DND-007
   batch_sub: J
   status: normative
   tonesu: ''
@@ -19173,8 +19173,8 @@ sentences:
   source_anchor: S1005
   notes: This is the mercantile and forensic counterpart to Detect Magic.
 - snum: S1006
-  gloss: 'DND-007-K: Speak with Animals'
-  batch: DND-006
+  gloss: Speak with Animals
+  batch: DND-007
   batch_sub: K
   status: normative
   tonesu: ''
@@ -19189,8 +19189,8 @@ sentences:
   source_anchor: S1006
   notes: This matters for hunting, herding, scouting, religion, and mythic ecology.
 - snum: S1007
-  gloss: 'DND-007-L: Speak with Plants'
-  batch: DND-006
+  gloss: Speak with Plants
+  batch: DND-007
   batch_sub: L
   status: normative
   tonesu: ''
@@ -19206,8 +19206,8 @@ sentences:
   notes: If the setting takes this spell seriously, forestry, agriculture, and sacred-grove
     politics all change.
 - snum: S1008
-  gloss: 'DND-007-M: Calm Emotions'
-  batch: DND-006
+  gloss: Calm Emotions
+  batch: DND-007
   batch_sub: M
   status: normative
   tonesu: ''
@@ -19221,8 +19221,8 @@ sentences:
   notes: This is a spell for courts, diplomacy, riots, mourning, and public order,
     not only adventuring.
 - snum: S1009
-  gloss: 'DND-007-N: Heroism'
-  batch: DND-006
+  gloss: Heroism
+  batch: DND-007
   batch_sub: N
   status: normative
   tonesu: ''
@@ -19237,8 +19237,8 @@ sentences:
   notes: 'This is the positive counterpart to Calm Emotions: not reducing disturbance,
     but generating stable valor.'
 - snum: S1010
-  gloss: 'DND-007-O: Command'
-  batch: DND-006
+  gloss: Command
+  batch: DND-007
   batch_sub: O
   status: normative
   tonesu: ''
@@ -19252,8 +19252,8 @@ sentences:
   source_anchor: S1010
   notes: Suggestion inserted thought. Command inserts immediate directed action.
 - snum: S1011
-  gloss: 'DND-007-P: Geas'
-  batch: DND-006
+  gloss: Geas
+  batch: DND-007
   batch_sub: P
   status: normative
   tonesu: ''
@@ -19268,8 +19268,8 @@ sentences:
   notes: 'This is the strongest governance spell in the batch: magical duty rather
     than mere persuasion.'
 - snum: S1012
-  gloss: 'DND-007-Q: Plant Growth'
-  batch: DND-006
+  gloss: Plant Growth
+  batch: DND-007
   batch_sub: Q
   status: normative
   tonesu: ''
@@ -19283,8 +19283,8 @@ sentences:
   notes: This is one of the strongest agricultural world-building spells in the entire
     game.
 - snum: S1013
-  gloss: 'DND-007-R: Water Breathing'
-  batch: DND-006
+  gloss: Water Breathing
+  batch: DND-007
   batch_sub: R
   status: normative
   tonesu: ''
@@ -19300,8 +19300,8 @@ sentences:
   notes: 'The exact physiology stays implicit, but the world-building result is clear:
     submerged travel and labor become ordinary.'
 - snum: S1014
-  gloss: 'DND-007-S: Revivify'
-  batch: DND-006
+  gloss: Revivify
+  batch: DND-007
   batch_sub: S
   status: normative
   tonesu: ''
@@ -19317,8 +19317,8 @@ sentences:
   notes: 'This is the emergency-medical version of necromancy: death-boundary work
     in rescue rather than domination.'
 - snum: S1015
-  gloss: 'DND-007-T: Raise Dead'
-  batch: DND-006
+  gloss: Raise Dead
+  batch: DND-007
   batch_sub: T
   status: normative
   tonesu: ''
@@ -19334,8 +19334,8 @@ sentences:
   notes: Revivify restores vitality at the edge; Raise Dead restores the person more
     fully. Both remain death-domain alteration, not a separate magical operator.
 - snum: S1016
-  gloss: 'KAR-001-A: Exclusive accession criterion'
-  batch: DND-007
+  gloss: Exclusive accession criterion
+  batch: KAR-001
   batch_sub: A
   status: normative
   tonesu: ''
@@ -19350,8 +19350,8 @@ sentences:
     The tale makes accession depend on one public test rather than on diffuse noble
     preference.
 - snum: S1017
-  gloss: 'KAR-001-B: Others fail the criterion'
-  batch: DND-007
+  gloss: Others fail the criterion
+  batch: KAR-001
   batch_sub: B
   status: normative
   tonesu: ''
@@ -19365,8 +19365,8 @@ sentences:
   notes: The criterion matters because it excludes. Without the failure of others,
     the sign would not function politically.
 - snum: S1018
-  gloss: 'KAR-001-C: Arthur performs the act'
-  batch: DND-007
+  gloss: Arthur performs the act
+  batch: KAR-001
   batch_sub: C
   status: normative
   tonesu: ''
@@ -19379,8 +19379,8 @@ sentences:
   source_anchor: S1018
   notes: This is the bare event. By itself it is only the first half of legitimacy.
 - snum: S1019
-  gloss: 'KAR-001-D: Signal without full establishment'
-  batch: DND-007
+  gloss: Signal without full establishment
+  batch: KAR-001
   batch_sub: D
   status: normative
   tonesu: ''
@@ -19396,8 +19396,8 @@ sentences:
   notes: This is the key pressure point in the episode. The event is visible, but
     the political conclusion is not automatic.
 - snum: S1020
-  gloss: 'KAR-001-E: Demand for repetition'
-  batch: DND-007
+  gloss: Demand for repetition
+  batch: KAR-001
   batch_sub: E
   status: normative
   tonesu: ''
@@ -19412,8 +19412,8 @@ sentences:
   notes: Repetition is not decorative. It is the community's attempt to turn a surprising
     event into a credible public criterion.
 - snum: S1021
-  gloss: 'KAR-001-F: Repeated public act'
-  batch: DND-007
+  gloss: Repeated public act
+  batch: KAR-001
   batch_sub: F
   status: normative
   tonesu: ''
@@ -19427,8 +19427,8 @@ sentences:
   notes: The public-witness dimension enters here. The second act is socially stronger
     than the first because it is jointly seen.
 - snum: S1022
-  gloss: 'KAR-001-G: Public establishment'
-  batch: DND-007
+  gloss: Public establishment
+  batch: KAR-001
   batch_sub: G
   status: normative
   tonesu: ''
@@ -19444,8 +19444,8 @@ sentences:
   notes: 'This is where `si` becomes `to`. The causal structure matters: public repetition
     converts sign into accepted conclusion.'
 - snum: S1023
-  gloss: 'KAR-001-H: Category assignment, not magical essence'
-  batch: DND-007
+  gloss: Category assignment, not magical essence
+  batch: KAR-001
   batch_sub: H
   status: normative
   tonesu: ''
@@ -19461,9 +19461,9 @@ sentences:
   notes: This is the Tonesu-native payoff. The tale is not about magical essence transfer.
     It is about a public sign licensing a political category.
 - snum: S1024
-  gloss: 'KAR-002-A: Arthur establishes the Round Table as council'
-  batch: null
-  batch_sub: null
+  gloss: Arthur establishes the Round Table as council
+  batch: KAR-002
+  batch_sub: A
   status: normative
   tonesu: ''
   gloss_line: Arthur intentionally-creates RoundTable / RoundTable is council
@@ -19476,9 +19476,9 @@ sentences:
   notes: The point is institutional. The Round Table is not mainly a piece of furniture;
     it is a structured council form.
 - snum: S1025
-  gloss: 'KAR-002-B: Equal standing among members'
-  batch: null
-  batch_sub: null
+  gloss: Equal standing among members
+  batch: KAR-002
+  batch_sub: B
   status: normative
   tonesu: ''
   gloss_line: RoundTable establishes council-members equal-relation
@@ -19491,9 +19491,9 @@ sentences:
   notes: '`su-ne` is the real payoff. The legend''s roundness matters because it encodes
     relational parity, not because circles are magically special.'
 - snum: S1026
-  gloss: 'KAR-002-C: Kingship remains, counsel equalizes relation'
-  batch: null
-  batch_sub: null
+  gloss: Kingship remains, counsel equalizes relation
+  batch: KAR-002
+  batch_sub: C
   status: normative
   tonesu: ''
   gloss_line: Arthur is ruler / council is equal-relation
@@ -19506,9 +19506,9 @@ sentences:
   notes: This rejects a false choice. The Round Table does not erase kingship; it
     prevents kingship from exhausting the political form.
 - snum: S1027
-  gloss: 'KAR-002-D: Shared deliberation'
-  batch: null
-  batch_sub: null
+  gloss: Shared deliberation
+  batch: KAR-002
+  batch_sub: D
   status: normative
   tonesu: ''
   gloss_line: council speaks-to Arthur ; Arthur speaks-to council
@@ -19521,9 +19521,9 @@ sentences:
   notes: Governance is dialogical here. The structure matters because counsel flows
     both directions instead of appearing as one-way command.
 - snum: S1028
-  gloss: 'KAR-002-E: Counsel bounds rule'
-  batch: null
-  batch_sub: null
+  gloss: Counsel bounds rule
+  batch: KAR-002
+  batch_sub: E
   status: normative
   tonesu: ''
   gloss_line: RoundTable not decreases ruler / contains ruler by-means-of council
@@ -19537,8 +19537,8 @@ sentences:
   notes: The strongest Tonesu-native reading is bounded rule, not flat equality of
     office. The ruler remains, but the institution places form around power.
 - snum: S1029
-  gloss: 'KAR-003-A: Secrecy enters the council'
-  batch: KAR-002
+  gloss: Secrecy enters the council
+  batch: KAR-003
   batch_sub: A
   status: normative
   tonesu: ''
@@ -19552,8 +19552,8 @@ sentences:
   notes: '`to-no-si` is enough to start the failure. A council-form depends on shareable
     speech; secrecy is already a structural break inside reciprocal counsel.'
 - snum: S1030
-  gloss: 'KAR-003-B: Betrayal of the ruler'
-  batch: KAR-002
+  gloss: Betrayal of the ruler
+  batch: KAR-003
   batch_sub: B
   status: normative
   tonesu: ''
@@ -19568,8 +19568,8 @@ sentences:
     chosen bond-dissolution. In Arthurian context the ruler is Arthur, but the political
     role matters more than the personal name here.'
 - snum: S1031
-  gloss: 'KAR-003-C: Equal standing collapses under secrecy and betrayal'
-  batch: KAR-002
+  gloss: Equal standing collapses under secrecy and betrayal
+  batch: KAR-003
   batch_sub: C
   status: normative
   tonesu: ''
@@ -19586,8 +19586,8 @@ sentences:
     it required trust and public reciprocity. Once betrayal enters, the parity-form
     breaks.
 - snum: S1032
-  gloss: 'KAR-003-D: Reciprocal counsel fails'
-  batch: KAR-002
+  gloss: Reciprocal counsel fails
+  batch: KAR-003
   batch_sub: D
   status: normative
   tonesu: ''
@@ -19602,8 +19602,8 @@ sentences:
   notes: KAR-002's reciprocal speech has now inverted. The institution fails visibly
     when deliberation stops moving in both directions.
 - snum: S1033
-  gloss: 'KAR-003-E: The form survives, the institution decays'
-  batch: KAR-002
+  gloss: The form survives, the institution decays
+  batch: KAR-003
   batch_sub: E
   status: normative
   tonesu: ''
@@ -19617,8 +19617,8 @@ sentences:
   notes: This is the Tonesu-native payoff. The visible form can remain while the governing
     relation fails. The problem is not roundness; the problem is broken counsel.
 - snum: S1034
-  gloss: 'KAR-004-A: Open combat begins'
-  batch: KAR-003
+  gloss: Open combat begins
+  batch: KAR-004
   batch_sub: A
   status: normative
   tonesu: ''
@@ -19632,8 +19632,8 @@ sentences:
   notes: This is the open-war threshold. The failed court relation has now become
     direct force between named agents.
 - snum: S1035
-  gloss: 'KAR-004-B: Civil conflict becomes killing'
-  batch: KAR-003
+  gloss: Civil conflict becomes killing
+  batch: KAR-004
   batch_sub: B
   status: normative
   tonesu: ''
@@ -19647,8 +19647,8 @@ sentences:
   notes: This is the civil-war pivot. Once the political form has collapsed into combat,
     killing is no longer exceptional but structurally normal inside the polity.
 - snum: S1036
-  gloss: 'KAR-004-C: Mordred kills Arthur'
-  batch: KAR-003
+  gloss: Mordred kills Arthur
+  batch: KAR-004
   batch_sub: C
   status: normative
   tonesu: ''
@@ -19662,8 +19662,8 @@ sentences:
   notes: The betrayal sequence reaches its terminal act here. What began as hidden
     bond-dissolution ends as direct organism-decrease.
 - snum: S1037
-  gloss: 'KAR-004-D: Arthur kills Mordred and dies'
-  batch: KAR-003
+  gloss: Arthur kills Mordred and dies
+  batch: KAR-004
   batch_sub: D
   status: normative
   tonesu: ''
@@ -19677,8 +19677,8 @@ sentences:
   notes: 'The Tonesu distinction matters: `ka-de-zo` marks the intentional killing
     of Mordred; `de-zo` marks Arthur''s terminal death as the resulting condition.'
 - snum: S1038
-  gloss: 'KAR-004-E: Governance collapses after the ruler''s death'
-  batch: KAR-003
+  gloss: Governance collapses after the ruler's death
+  batch: KAR-004
   batch_sub: E
   status: normative
   tonesu: ''
@@ -19693,8 +19693,8 @@ sentences:
     it ends with the decay of governance after the ruler is gone and the deliberative
     institution has already failed.
 - snum: S1039
-  gloss: 'MAG-001-A: The slogan claim'
-  batch: KAR-004
+  gloss: The slogan claim
+  batch: MAG-001
   batch_sub: A
   status: normative
   tonesu: ''
@@ -19708,8 +19708,8 @@ sentences:
   notes: This is the meme in its compressed form. The rest of the batch tests whether
     that compression survives once warning, prohibition, and consequence are separated.
 - snum: S1040
-  gloss: 'MAG-001-B: Magnus had signal of betrayal'
-  batch: KAR-004
+  gloss: Magnus had signal of betrayal
+  batch: MAG-001
   batch_sub: B
   status: normative
   tonesu: ''
@@ -19723,8 +19723,8 @@ sentences:
   notes: The batch keeps this at `si` grade. Magnus is presented as having signal
     or warning-grade access to the coming betrayal, not exhaustive or public certification.
 - snum: S1041
-  gloss: 'MAG-001-C: Magnus warned the ruler'
-  batch: KAR-004
+  gloss: Magnus warned the ruler
+  batch: MAG-001
   batch_sub: C
   status: normative
   tonesu: ''
@@ -19738,8 +19738,8 @@ sentences:
   notes: Warning is its own act. This matters because the slogan is partly sustained
     by the intuition that a sincere warning should count in Magnus's favor.
 - snum: S1042
-  gloss: 'MAG-001-D: Magnus crossed the forbidden boundary to warn'
-  batch: KAR-004
+  gloss: Magnus crossed the forbidden boundary to warn
+  batch: MAG-001
   batch_sub: D
   status: normative
   tonesu: ''
@@ -19754,8 +19754,8 @@ sentences:
   notes: This is the key turn. The warning does not arrive by neutral means; it is
     carried through a boundary already marked as forbidden.
 - snum: S1043
-  gloss: 'MAG-001-E: The ward decayed because of the crossing'
-  batch: KAR-004
+  gloss: The ward decayed because of the crossing
+  batch: MAG-001
   batch_sub: E
   status: normative
   tonesu: ''
@@ -19769,8 +19769,8 @@ sentences:
   notes: Tonesu makes the consequence structurally visible without changing the warning
     claim. A true warning can still be the cause of catastrophic boundary-failure.
 - snum: S1044
-  gloss: 'MAG-001-F: Warning and fault coexist'
-  batch: KAR-004
+  gloss: Warning and fault coexist
+  batch: MAG-001
   batch_sub: F
   status: normative
   tonesu: ''
@@ -19784,8 +19784,8 @@ sentences:
   notes: This is the Tonesu-native payoff. The slogan fails because warning and fault
     are not mutually exclusive categories.
 - snum: S1045
-  gloss: 'LOR-001-A: The slogan claim'
-  batch: MAG-001
+  gloss: The slogan claim
+  batch: LOR-001
   batch_sub: A
   status: normative
   tonesu: ''
@@ -19799,8 +19799,8 @@ sentences:
   notes: This is the meme in its compressed form. The rest of the batch tests whether
     that "rightness" is epistemic, theological, or moral.
 - snum: S1046
-  gloss: 'LOR-001-B: The regime miscategorized religion'
-  batch: MAG-001
+  gloss: The regime miscategorized religion
+  batch: LOR-001
   batch_sub: B
   status: normative
   tonesu: ''
@@ -19814,8 +19814,8 @@ sentences:
   notes: This is the pressure point behind the slogan. The anti-religious state does
     not merely disagree with religion; it places religion in the wrong epistemic category.
 - snum: S1047
-  gloss: 'LOR-001-C: Lorgar knew the miscategorization'
-  batch: MAG-001
+  gloss: Lorgar knew the miscategorization
+  batch: LOR-001
   batch_sub: C
   status: normative
   tonesu: ''
@@ -19829,8 +19829,8 @@ sentences:
   notes: The batch shifts from slogan to proposition. What Lorgar is right about must
     be something explicit enough to know, not just a vibe of dissent.
 - snum: S1048
-  gloss: 'LOR-001-D: Religion bears real force'
-  batch: MAG-001
+  gloss: Religion bears real force
+  batch: LOR-001
   batch_sub: D
   status: normative
   tonesu: ''
@@ -19844,8 +19844,8 @@ sentences:
   notes: This does not yet say religion is righteous. It says religion is operative,
     consequential, and not safely reducible to empty fiction.
 - snum: S1049
-  gloss: 'LOR-001-E: Force is not righteousness'
-  batch: MAG-001
+  gloss: Force is not righteousness
+  batch: LOR-001
   batch_sub: E
   status: normative
   tonesu: ''
@@ -19859,8 +19859,8 @@ sentences:
   notes: This is the decisive separation. An operative sacred order is not automatically
     a morally right one.
 - snum: S1050
-  gloss: 'LOR-001-F: Diagnosis and righteousness part ways'
-  batch: MAG-001
+  gloss: Diagnosis and righteousness part ways
+  batch: LOR-001
   batch_sub: F
   status: normative
   tonesu: ''
@@ -19873,3 +19873,431 @@ sentences:
   source_anchor: S1050
   notes: This is the Tonesu-native payoff. The diagnosis can be right while the person
     making it is not rightly aligned.
+- snum: S1051
+  gloss: Uncertified hostile status forbids killing
+  batch: ROE-001
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: because {combatant signals [person is adversary] / combatant not-knows
+    [it]}, forbidden [combatant deliberately-kills person]
+  natural: If a combatant only has signal-grade grounds that a person is an enemy
+    and lacks knowledge-grade certainty, killing that person is forbidden.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1051
+  notes: This is the doctrine's first boundary. Mere hostile appearance or partial
+    evidence does not authorize lethal action.
+- snum: S1052
+  gloss: Uncertified danger requires warning
+  batch: ROE-001
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: because {combatant signals [person life-energy decays] / combatant not-knows
+    [it]}, combatant requires warning to-person
+  natural: If a combatant has only signal-grade danger and not knowledge-grade certainty,
+    the combatant is required to warn the person.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1052
+  notes: Tonesu treats warning as a real doctrinal action, not as a rhetorical courtesy
+    attached to force.
+- snum: S1053
+  gloss: Active attack permits return force
+  batch: ROE-001
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: because {person combats combatant}, permitted [combatant combats person]
+  natural: If a person is attacking the combatant, return force becomes permitted.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1053
+  notes: This is return force, not a blanket permission to kill. The doctrine stays
+    at the level of force-response first.
+- snum: S1054
+  gloss: Containment outranks killing when possible
+  batch: ROE-001
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: because {combatant capable [to-contain person]}, forbidden [combatant
+    deliberately-kills person] / permitted [combatant deliberately-contains person]
+  natural: If the combatant can contain the person, killing is forbidden and containment
+    is permitted.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1054
+  notes: This is the doctrine's anti-shortcut rule. Capture is not a soft add-on to
+    lethal force; it is the higher-priority action when still available.
+- snum: S1055
+  gloss: Authority does not erase certification
+  batch: ROE-001
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: because {person is authority to-combatant ; person commands [combatant
+    deliberately-kills person] ; combatant not-knows [it]}, forbidden [combatant deliberately-kills
+    person]
+  natural: Even if an authorized person orders the combatant to kill, killing remains
+    forbidden without knowledge-grade certainty.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1055
+  notes: This is the military-specific payoff. Command authority matters, but it does
+    not dissolve the epistemic boundary around lethal force.
+- snum: S1056
+  gloss: Uncertain hostile cases route upward
+  batch: ROE-001
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: because {combatant signals [person is adversary] / combatant not-knows
+    [it]}, combatant reports to-arbiter it
+  natural: If the combatant has only signal-grade grounds that the person is hostile
+    and lacks knowledge-grade certainty, the combatant reports the case to the arbiter.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1056
+  notes: Tonesu turns escalation into part of the doctrine itself. Uncertainty is
+    not a gap in the doctrine; it is a condition the doctrine explicitly routes.
+- snum: S1057
+  gloss: Lethal action triggers review
+  batch: ROE-001
+  batch_sub: G
+  status: normative
+  tonesu: ''
+  gloss_line: because {combatant deliberately-kills person}, combatant reports to-arbiter
+    it
+  natural: If the combatant kills the person, the combatant reports the case to the
+    arbiter.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1057
+  notes: The doctrine does not let battlefield force certify itself. Lethal action
+    must re-enter review.
+- snum: S1058
+  gloss: Contradictory authorized orders route upward
+  batch: ROE-002
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: because {person is authority to-combatant ; other-person is authority
+    to-combatant ; person commands [combatant combats adversary] / other-person commands
+    not [combatant combats adversary]}, combatant reports to-arbiter it
+  natural: If one authorized person orders engagement and another authorized person
+    forbids that same engagement, the combatant reports the conflict to the arbiter.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1058
+  notes: ROE should not hide a secret priority rule when command conflict appears.
+    Tonesu treats contradiction as a routing condition.
+- snum: S1059
+  gloss: Active attack outranks suspected hostility
+  batch: ROE-002
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: because {person combats combatant ; combatant signals [other-person
+    is adversary] / combatant not-knows [it]}, permitted [combatant combats person]
+    / forbidden [combatant deliberately-kills other-person]
+  natural: If one person is actively attacking the combatant and another person is
+    only signal-grade hostile, return force against the attacker is permitted while
+    killing the merely suspected hostile remains forbidden.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1059
+  notes: This is an ROE triage sentence. Actual hostile act outranks suspected hostile
+    status.
+- snum: S1060
+  gloss: Retreat after warning blocks lethal action
+  batch: ROE-002
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: because {combatant warns to-person ; person retreats ; person not combats
+    combatant}, forbidden [combatant deliberately-kills person]
+  natural: If the combatant warns the person, and the person retreats and no longer
+    attacks, killing is forbidden.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1060
+  notes: ROE should track the change in attack-state. Warning followed by retreat
+    is not the same situation as continued attack.
+- snum: S1061
+  gloss: Active attack plus impossible containment permits lethal action
+  batch: ROE-002
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: because {person combats combatant ; combatant not capable [to-contain
+    person]}, permitted [combatant deliberately-kills person]
+  natural: If the person continues attacking and the combatant cannot contain the
+    person, lethal action becomes permitted.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1061
+  notes: This is the ladder's hard endpoint. Lethal force appears only after active
+    attack and failed containment-capacity are both explicit.
+- snum: S1062
+  gloss: Surrender shifts force from lethal to custodial
+  batch: ROE-002
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: because {person surrenders ; person not combats combatant}, forbidden
+    [combatant deliberately-kills person] / permitted [combatant deliberately-contains
+    person]
+  natural: If the person surrenders and no longer attacks, killing is forbidden and
+    containment is permitted.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1062
+  notes: The doctrine treats surrender as a real status change. A surrendered person
+    is not just a hostile who has temporarily stopped moving.
+- snum: S1063
+  gloss: Structural verdict on battlefield status changes
+  batch: ROE-002
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: rule-system not comprehends epistemic-boundary {signal ; combat ; retreat
+    ; surrender}
+  natural: The rule-set does not comprehend the boundary among suspicion, attack,
+    retreat, and surrender.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1063
+  notes: This is the batch verdict. ROE fails when it treats changing battlefield
+    states as one static hostile label.
+- snum: S1064
+  gloss: Noncombatant status forbids killing
+  batch: ROE-003
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: because {person not is combatant ; person not combats combatant}, forbidden
+    [combatant deliberately-kills person]
+  natural: If the person is not a combatant and is not attacking the combatant, killing
+    that person is forbidden.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1064
+  notes: This is the doctrine's civilian baseline. The language does not need a new
+    fixed word for civilian if the status distinction itself is what matters.
+- snum: S1065
+  gloss: Mixed target and noncombatant presence routes upward
+  batch: ROE-003
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: because {adversary is-in-relation-with person ; person not is combatant},
+    combatant reports to-arbiter adversary
+  natural: If the adversary is intermixed with a person who is not a combatant, the
+    combatant routes the adversary case upward to the arbiter.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1065
+  notes: This is the doctrinal version of a crowd or bystander problem. Mixed presence
+    blocks the shortcut from enemy-identification to immediate lethal action.
+- snum: S1066
+  gloss: Child shield blocks lethal shortcut
+  batch: ROE-003
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: because {adversary deliberately-contains child ; adversary combats combatant},
+    forbidden [combatant deliberately-kills adversary]
+  natural: If the adversary is holding a child while attacking the combatant, killing
+    the adversary is forbidden.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1066
+  notes: This makes the human-shield case explicit. The child's presence is not a
+    minor detail attached to the target; it changes the force status.
+- snum: S1067
+  gloss: Child harm during force triggers review
+  batch: ROE-003
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: because {combatant combats adversary ; child life-energy decreases},
+    combatant reports to-arbiter child
+  natural: If force against the adversary also decreases a child's life-energy, the
+    combatant reports that child-harm case to the arbiter.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1067
+  notes: This is the collateral-review rule. Non-target harm is not absorbed into
+    the target file as if it were the same event.
+- snum: S1068
+  gloss: Separation restores target-only force logic
+  batch: ROE-003
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: because {adversary not deliberately-contains child ; adversary combats
+    combatant}, permitted [combatant combats adversary]
+  natural: If the adversary is no longer holding the child and continues attacking,
+    return force against the adversary is permitted.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1068
+  notes: The doctrine should reopen force only when the target and the protected noncombatant
+    are structurally separated again.
+- snum: S1069
+  gloss: Structural verdict on target and non-target collapse
+  batch: ROE-003
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: rule-system not comprehends epistemic-boundary {adversary ; not-is-combatant
+    ; child ; life-energy-decrease}
+  natural: The rule-set does not comprehend the boundary among adversary, noncombatant,
+    child, and harm-by-force.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1069
+  notes: This is the batch verdict. Collateral damage happens when doctrine collapses
+    target and non-target statuses into one operational bucket.
+- snum: S1070
+  gloss: Claimed necessity routes upward
+  batch: ROE-004
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: because {authority is requirement [deliberate-killing child] ; because
+    {not [combatant deliberately-kills child]}, collective-persons life-energy decreases},
+    combatant reports to-arbiter it
+  natural: If an authority claims killing a child is required because otherwise collective
+    life-energy will decrease, the combatant routes the case upward to the arbiter.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1070
+  notes: Tonesu does not let catastrophic rationale become a field-level shortcut.
+    Claimed necessity is first a routing condition.
+- snum: S1071
+  gloss: Claimed necessity does not become ordinary permission
+  batch: ROE-004
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: because {authority is requirement [deliberate-killing child]}, forbidden
+    [combatant deliberately-kills child]
+  natural: Even if an authority declares killing a child required, the combatant does
+    not thereby gain ordinary permission to kill the child.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1071
+  notes: This is the doctrinal line. A tragic claim is not yet a permission statement.
+- snum: S1072
+  gloss: Intentional child-killing under claimed necessity remains fault-bearing
+  batch: ROE-004
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: because {combatant deliberately-kills child ; authority is requirement
+    [deliberate-killing child]}, combatant is fault
+  natural: If the combatant intentionally kills the child under an authority's claimed
+    necessity, the combatant remains at fault.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1072
+  notes: This is the batch's first hard payoff. Necessity does not erase `de-su`.
+- snum: S1073
+  gloss: Tragic override does not become righteousness
+  batch: ROE-004
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: because {combatant deliberately-kills child ; because {not [combatant
+    deliberately-kills child]}, collective-persons life-energy decreases}, combatant
+    not righteousness
+  natural: If the combatant kills the child in order to avert wider death, the combatant
+    is not thereby righteous.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1073
+  notes: This is the comparison point against the righteousness tests. Tonesu refuses
+    to derive `vo-ne` from catastrophic necessity.
+- snum: S1074
+  gloss: Recoding fault as no-fault is fraud
+  batch: ROE-004
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: because {combatant deliberately-kills child ; authority demands [collective-persons
+    know [combatant not is fault]]}, authority commits-fraud
+  natural: If the combatant kills the child and authority demands that the collective
+    treat the combatant as not at fault, the authority commits epistemic fraud.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1074
+  notes: This is where the doctrine crosses into Orwellian territory. The problem
+    is no longer tragic necessity; it is demanded recoding of the moral record.
+- snum: S1075
+  gloss: Structural verdict on tragic override boundaries
+  batch: ROE-004
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: rule-system not comprehends epistemic-boundary {requirement ; permission
+    ; righteousness ; not-is-fault}
+  natural: The rule-set does not comprehend the boundary among necessity, permission,
+    righteousness, and no-fault.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1075
+  notes: This is the batch verdict. The nightmare line becomes Orwellian only when
+    these four categories collapse.

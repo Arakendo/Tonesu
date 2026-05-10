@@ -1168,32 +1168,62 @@ batches:
   range: S969–S975
   count: 7
 - code: DND-006
-  title: ''
+  title: D&D — Twenty Core Spells
+  theme: Foundations
+  range: S976–S995
+  count: 20
+- code: DND-007
+  title: D&D — Civic and Worldbuilding Spells
   theme: Foundations
   range: S996–S1015
   count: 20
-- code: DND-007
-  title: ''
+- code: KAR-001
+  title: King Arthur — Sword in the Stone
   theme: Foundations
   range: S1016–S1023
   count: 8
 - code: KAR-002
-  title: ''
+  title: King Arthur — Round Table
+  theme: Foundations
+  range: S1024–S1028
+  count: 5
+- code: KAR-003
+  title: King Arthur — Betrayal and Court Fracture
   theme: Foundations
   range: S1029–S1033
   count: 5
-- code: KAR-003
-  title: ''
+- code: KAR-004
+  title: King Arthur — Final Battle and Fall
   theme: Foundations
   range: S1034–S1038
   count: 5
-- code: KAR-004
-  title: ''
+- code: MAG-001
+  title: Warhammer 40,000 — Magnus Did No Wrong
   theme: Foundations
   range: S1039–S1044
   count: 6
-- code: MAG-001
-  title: ''
+- code: LOR-001
+  title: Warhammer 40,000 — Lorgar Was Right
   theme: Foundations
   range: S1045–S1050
+  count: 6
+- code: ROE-001
+  title: Rules of Engagement Doctrine
+  theme: Foundations
+  range: S1051–S1057
+  count: 7
+- code: ROE-002
+  title: Rules of Engagement Doctrine — Edge Cases
+  theme: Foundations
+  range: S1058–S1063
+  count: 6
+- code: ROE-003
+  title: Rules of Engagement Doctrine — Noncombatants and Collateral Harm
+  theme: Foundations
+  range: S1064–S1069
+  count: 6
+- code: ROE-004
+  title: Rules of Engagement Doctrine — Tragic Override and Orwellian Drift
+  theme: Foundations
+  range: S1070–S1075
   count: 6

@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-59 translation analyses.
+60 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -37,6 +37,7 @@ gap analysis, and key findings.
 - [cda-section230](law/cda-section230/index.md)
 - [gdpr-article6](law/gdpr-article6/index.md)
 - [lease-entry-notice](law/lease-entry-notice/index.md)
+- [rules-of-engagement-doctrine](law/rules-of-engagement-doctrine/index.md)
 
 ## Literature
 

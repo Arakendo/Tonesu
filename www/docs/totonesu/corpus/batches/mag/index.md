@@ -1,8 +1,8 @@
 ---
-title: "MAG"
+title: "Warhammer 40,000 — Magnus Did No Wrong"
 ---
 
-# MAG
+# Warhammer 40,000 — Magnus Did No Wrong
 
 *Theme: [Foundations](../../foundations/overview.md)* · 6 sentences.
 
@@ -12,31 +12,31 @@ title: "MAG"
 
 ---
 
-## MAG-001 · 
+## MAG-001 · Warhammer 40,000 — Magnus Did No Wrong
 
-<span id="S1045"></span>
-**S1045**
-*Lorgar was right.*
+<span id="S1039"></span>
+**S1039**
+*Magnus is not at fault.*
 
-<span id="S1046"></span>
-**S1046**
-*The regime deliberately miscategorized religion.*
+<span id="S1040"></span>
+**S1040**
+*Magnus has signal that Horus will betray the ruler.*
 
-<span id="S1047"></span>
-**S1047**
-*Lorgar knew the regime was miscategorizing religion.*
+<span id="S1041"></span>
+**S1041**
+*Magnus warns the ruler.*
 
-<span id="S1048"></span>
-**S1048**
-*Religion bears directed power.*
+<span id="S1042"></span>
+**S1042**
+*Magnus crosses the forbidden boundary so that he can warn the ruler.*
 
-<span id="S1049"></span>
-**S1049**
-*Religion bears force, but religion is not by definition righteousness.*
+<span id="S1043"></span>
+**S1043**
+*Because Magnus crosses the forbidden boundary, the ward decays.*
 
-<span id="S1050"></span>
-**S1050**
-*Lorgar knew religion bore force, and Lorgar was not righteous.*
+<span id="S1044"></span>
+**S1044**
+*Magnus warns the ruler, and Magnus is still at fault.*
 
 ### Batch Summary
 

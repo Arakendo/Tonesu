@@ -4,7 +4,7 @@ title: "D&D — The Eight Schools of Magic"
 
 # D&D — The Eight Schools of Magic
 
-*Theme: [Foundations](../../foundations/overview.md)* · 73 sentences.
+*Theme: [Foundations](../../foundations/overview.md)* · 85 sentences.
 
 :material-book-open-variant: [Full translation analysis](../../translations/literature/dnd-schools-of-magic/index.md)
 
@@ -442,7 +442,126 @@ Written: `latosu lowirasu suka lopa ne lobeki ; suka lora ne lobeki ; suka loto 
 
 **Compositional first uses:** none required; the batch is a taxonomy-repair test using already-attested school names.
 
-## DND-006 · 
+## DND-006 · D&D — Twenty Core Spells
+
+<span id="S976"></span>
+**S976**
+*Shield is a boundary art / it contains incoming force.*
+
+<span id="S977"></span>
+**S977**
+*Mage Armor is a boundary art / it encloses the person within a ward-boundary.*
+
+<span id="S978"></span>
+**S978**
+*Counterspell is a boundary art / it forbids another spell's emergence.*
+
+<span id="S979"></span>
+**S979**
+*Dispel Magic is a boundary art / it reduces the structure held in a magical effect.*
+
+<span id="S980"></span>
+**S980**
+*Find Familiar is a manifestation art / a bonded creature comes into presence.*
+
+<span id="S981"></span>
+**S981**
+*Misty Step is a manifestation art / the person moves by re-emerging in space.*
+
+<span id="S982"></span>
+**S982**
+*Dimension Door is a manifestation art / a traversable passage appears.*
+
+<span id="S983"></span>
+**S983**
+*Fireball is a force-manifestation art / concentrated force appears at a place.*
+
+<span id="S984"></span>
+**S984**
+*Lightning Bolt is a force-manifestation art / manifest force is driven in a line.*
+
+<span id="S985"></span>
+**S985**
+*Detect Magic is a knowledge-perception art / it perceives magical presence.*
+
+<span id="S986"></span>
+**S986**
+*Identify is a knowledge-perception art / it comprehends the defining boundary of the object.*
+
+<span id="S987"></span>
+**S987**
+*Detect Thoughts is a knowledge-perception art / it perceives active thought.*
+
+<span id="S988"></span>
+**S988**
+*Invisibility is an appearance-art / the person is no longer detected.*
+
+<span id="S989"></span>
+**S989**
+*Mirror Image is an appearance-art / it produces multiple apparent forms.*
+
+<span id="S990"></span>
+**S990**
+*Charm Person is an affect-will art / it shifts the target's affect-will toward favor.*
+
+<span id="S991"></span>
+**S991**
+*Suggestion is an affect-will art / a thought is made to arise within the target's will.*
+
+<span id="S992"></span>
+**S992**
+*Speak with Dead is a death-domain alteration art / speech emerges from the dead.*
+
+<span id="S993"></span>
+**S993**
+*Animate Dead is a death-domain alteration art / motion is made to arise from the dead.*
+
+<span id="S994"></span>
+**S994**
+*Fly is a property-change art / it changes the person's movement into upper-space.*
+
+<span id="S995"></span>
+**S995**
+*Polymorph is a property-change art / it changes a creature into another living form.*
+
+### Batch Summary
+
+**Entries:** S976–S995 · **New vocabulary:** none
+
+| Entry | Spell | Tonesu | Key feature |
+|-------|-------|--------|-------------|
+| S976 (DND-006-A) | Shield | `la-na Shield ne ko-fe-ki / ko lo-ra-be` | blocks incoming force by boundary containment |
+| S977 (DND-006-B) | Mage Armor | `la-na MageArmor ne ko-fe-ki / ko lo-ze gosi ko-fe` | persistent ward around the body |
+| S978 (DND-006-C) | Counterspell | `la-na Counterspell ne ko-fe-ki / wi-fe-ka [lo-wi-ra-su be]` | blocks another spell's emergence |
+| S979 (DND-006-D) | Dispel Magic | `la-na DispelMagic ne ko-fe-ki / de lo-su gosi wi-ra-su` | reduces standing magical structure |
+| S980 (DND-006-E) | Find Familiar | `la-na FindFamiliar ne pa-be-ki / be lo-zo gosi ka-be-ne` | bonded creature brought into presence |
+| S981 (DND-006-F) | Misty Step | `la-na MistyStep ne pa-be-ki / ki lo-ze gosi be-pa` | short-range relocation by re-emergence |
+| S982 (DND-006-G) | Dimension Door | `la-na DimensionDoor ne pa-be-ki / be lo-ki-pa` | passage manifests through space |
+| S983 (DND-006-H) | Fireball | `la-na Fireball ne ra-be-ki / be lo-ra-be ne lo-pa` | force emergence at a chosen place |
+| S984 (DND-006-I) | Lightning Bolt | `la-na LightningBolt ne ra-be-ki / ki lo-ra-be ne lo-di` | force driven along a direction |
+| S985 (DND-006-J) | Detect Magic | `la-na DetectMagic ne to-se-ki / se lo-wi-ra-su` | perception extended toward magical presence |
+| S986 (DND-006-K) | Identify | `la-na Identify ne to-se-ki / to-su-ki lo-to-fe ne lo-mu` | organizes the object's operative boundary into knowledge |
+| S987 (DND-006-L) | Detect Thoughts | `la-na DetectThoughts ne to-se-ki / se lo-to` | perception extended to thought |
+| S988 (DND-006-M) | Invisibility | `la-na Invisibility ne ge-se-ki / no se lo-ze` | target removed from normal detection |
+| S989 (DND-006-N) | Mirror Image | `la-na MirrorImage ne ge-se-ki / be lo-ge-se nu-be lo-ru` | multiple appearances without multiple bodies |
+| S990 (DND-006-O) | Charm Person | `la-na CharmPerson ne wi-fa-ki / fa-ki lo-fa-wi ne vo` | affect-will shifted toward favor |
+| S991 (DND-006-P) | Suggestion | `la-na Suggestion ne wi-fa-ki / to be ne lo-wi` | thought inserted into will |
+| S992 (DND-006-Q) | Speak with Dead | `la-na SpeakWithDead ne de-zo-ki / so be go lo-de-zo` | speech restored across death-threshold |
+| S993 (DND-006-R) | Animate Dead | `la-na AnimateDead ne de-zo-ki / ki be go lo-de-zo` | motion restored across death-threshold |
+| S994 (DND-006-S) | Fly | `la-na Fly ne ge-ki / ki lo-ze ne lo-pa-be` | bodily motion changed into upper-space |
+| S995 (DND-006-T) | Polymorph | `la-na Polymorph ne ge-ki / ge-ki lo-zo ne zo-ma` | organism-form rewritten |
+
+**Key structural findings:**
+
+**Finding 1: the five-family redesign survives contact with actual spells.** Shield and Counterspell cluster naturally under boundary arts; Fireball and Lightning Bolt under manifestation arts; Detect Magic and Invisibility separate cleanly because one extends knowledge-perception while the other rewrites appearance.
+
+**Finding 2: iconic spells do not require a special spell-name lexicon.** The named spell can remain a proper-name anchor while the analysis cashes out in ordinary operator-family vocabulary.
+
+**Finding 3: spell effects clarify the DND-005 repair.** The old eight-school list was abstractly debatable. Individual spell effects make the repair concrete: Counterspell is obviously about limit-governing, Fireball is obviously about force-emergence, Charm Person is obviously about affect-will, and Polymorph is obviously about property-change.
+
+**Finding 4: necromancy is still just a domain-specialized alteration family.** Speak with Dead and Animate Dead do not require a distinct magical operator. They remain `de-zo-ki` cases: alteration at the death-boundary.
+
+## DND-007 · D&D — Civic and Worldbuilding Spells
 
 <span id="S996"></span>
 **S996**
@@ -523,77 +642,6 @@ Written: `latosu lowirasu suka lopa ne lobeki ; suka lora ne lobeki ; suka loto 
 <span id="S1015"></span>
 **S1015**
 *Raise Dead is a death-domain alteration art / the dead person is restored to living status.*
-
-### Batch Summary
-
-**Entries:** S976–S995 · **New vocabulary:** none
-
-| Entry | Spell | Tonesu | Key feature |
-|-------|-------|--------|-------------|
-| S976 (DND-006-A) | Shield | `la-na Shield ne ko-fe-ki / ko lo-ra-be` | blocks incoming force by boundary containment |
-| S977 (DND-006-B) | Mage Armor | `la-na MageArmor ne ko-fe-ki / ko lo-ze gosi ko-fe` | persistent ward around the body |
-| S978 (DND-006-C) | Counterspell | `la-na Counterspell ne ko-fe-ki / wi-fe-ka [lo-wi-ra-su be]` | blocks another spell's emergence |
-| S979 (DND-006-D) | Dispel Magic | `la-na DispelMagic ne ko-fe-ki / de lo-su gosi wi-ra-su` | reduces standing magical structure |
-| S980 (DND-006-E) | Find Familiar | `la-na FindFamiliar ne pa-be-ki / be lo-zo gosi ka-be-ne` | bonded creature brought into presence |
-| S981 (DND-006-F) | Misty Step | `la-na MistyStep ne pa-be-ki / ki lo-ze gosi be-pa` | short-range relocation by re-emergence |
-| S982 (DND-006-G) | Dimension Door | `la-na DimensionDoor ne pa-be-ki / be lo-ki-pa` | passage manifests through space |
-| S983 (DND-006-H) | Fireball | `la-na Fireball ne ra-be-ki / be lo-ra-be ne lo-pa` | force emergence at a chosen place |
-| S984 (DND-006-I) | Lightning Bolt | `la-na LightningBolt ne ra-be-ki / ki lo-ra-be ne lo-di` | force driven along a direction |
-| S985 (DND-006-J) | Detect Magic | `la-na DetectMagic ne to-se-ki / se lo-wi-ra-su` | perception extended toward magical presence |
-| S986 (DND-006-K) | Identify | `la-na Identify ne to-se-ki / to-su-ki lo-to-fe ne lo-mu` | organizes the object's operative boundary into knowledge |
-| S987 (DND-006-L) | Detect Thoughts | `la-na DetectThoughts ne to-se-ki / se lo-to` | perception extended to thought |
-| S988 (DND-006-M) | Invisibility | `la-na Invisibility ne ge-se-ki / no se lo-ze` | target removed from normal detection |
-| S989 (DND-006-N) | Mirror Image | `la-na MirrorImage ne ge-se-ki / be lo-ge-se nu-be lo-ru` | multiple appearances without multiple bodies |
-| S990 (DND-006-O) | Charm Person | `la-na CharmPerson ne wi-fa-ki / fa-ki lo-fa-wi ne vo` | affect-will shifted toward favor |
-| S991 (DND-006-P) | Suggestion | `la-na Suggestion ne wi-fa-ki / to be ne lo-wi` | thought inserted into will |
-| S992 (DND-006-Q) | Speak with Dead | `la-na SpeakWithDead ne de-zo-ki / so be go lo-de-zo` | speech restored across death-threshold |
-| S993 (DND-006-R) | Animate Dead | `la-na AnimateDead ne de-zo-ki / ki be go lo-de-zo` | motion restored across death-threshold |
-| S994 (DND-006-S) | Fly | `la-na Fly ne ge-ki / ki lo-ze ne lo-pa-be` | bodily motion changed into upper-space |
-| S995 (DND-006-T) | Polymorph | `la-na Polymorph ne ge-ki / ge-ki lo-zo ne zo-ma` | organism-form rewritten |
-
-**Key structural findings:**
-
-**Finding 1: the five-family redesign survives contact with actual spells.** Shield and Counterspell cluster naturally under boundary arts; Fireball and Lightning Bolt under manifestation arts; Detect Magic and Invisibility separate cleanly because one extends knowledge-perception while the other rewrites appearance.
-
-**Finding 2: iconic spells do not require a special spell-name lexicon.** The named spell can remain a proper-name anchor while the analysis cashes out in ordinary operator-family vocabulary.
-
-**Finding 3: spell effects clarify the DND-005 repair.** The old eight-school list was abstractly debatable. Individual spell effects make the repair concrete: Counterspell is obviously about limit-governing, Fireball is obviously about force-emergence, Charm Person is obviously about affect-will, and Polymorph is obviously about property-change.
-
-**Finding 4: necromancy is still just a domain-specialized alteration family.** Speak with Dead and Animate Dead do not require a distinct magical operator. They remain `de-zo-ki` cases: alteration at the death-boundary.
-
-## DND-007 · 
-
-<span id="S1016"></span>
-**S1016**
-*Only the person who draws SwordInStone is ruler.*
-
-<span id="S1017"></span>
-**S1017**
-*The others do not draw SwordInStone.*
-
-<span id="S1018"></span>
-**S1018**
-*Arthur draws SwordInStone.*
-
-<span id="S1019"></span>
-**S1019**
-*The people have a signal that Arthur drew SwordInStone, but they do not yet hold it as established that Arthur is ruler.*
-
-<span id="S1020"></span>
-**S1020**
-*The people call to Arthur so that he will draw SwordInStone again.*
-
-<span id="S1021"></span>
-**S1021**
-*Arthur draws SwordInStone again, and the people see him.*
-
-<span id="S1022"></span>
-**S1022**
-*Because Arthur draws SwordInStone again and the people witness him, the people hold it established that Arthur is ruler.*
-
-<span id="S1023"></span>
-**S1023**
-*SwordInStone does not create a ruler; the people classify Arthur as ruler through it.*
 
 ### Batch Summary
 
