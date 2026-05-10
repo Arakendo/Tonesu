@@ -6,7 +6,7 @@ title: "Foundations"
 
 Core sentences from the earliest Tonesu attestations — basic agent-patient structures, property attribution, and foundational constructions.
 
-425 sentences.
+495 sentences.
 
 [← Corpus](../overview.md)
 
@@ -14,11 +14,11 @@ Core sentences from the earliest Tonesu attestations — basic agent-patient str
 
 | Batch group | Batches | Sentences |
 |-------------|---------|-----------|
-| [Early & Unbatched Sentences](../batches/_foundations/index.md) | 1 | 37 |
+| [Early & Unbatched Sentences](../batches/_foundations/index.md) | 1 | 62 |
 | [Foundational Sentences](../batches/t/index.md) | 5 | 5 |
 | [Famous Quote Operator Tests](../batches/fmq/index.md) | 1 | 8 |
 | [Star Wars — The Jedi Code](../batches/stw/index.md) | 2 | 11 |
-| [D&D — The Eight Schools of Magic](../batches/dnd/index.md) | 4 | 38 |
+| [D&D — The Eight Schools of Magic](../batches/dnd/index.md) | 7 | 73 |
 | [Declaration of Independence — Preamble](../batches/doi/index.md) | 1 | 10 |
 | [Communications Decency Act — Section 230(c)(1)](../batches/cda/index.md) | 1 | 6 |
 | [ACA Individual Mandate (26 U.S.C. §5000A)](../batches/aca/index.md) | 1 | 6 |
@@ -56,6 +56,7 @@ Core sentences from the earliest Tonesu attestations — basic agent-patient str
 | [ROB](../batches/rob/index.md) | 2 | 16 |
 | [MRP](../batches/mrp/index.md) | 1 | 6 |
 | [PSY](../batches/psy/index.md) | 1 | 6 |
+| [KAR](../batches/kar/index.md) | 2 | 10 |
 
 ---
 

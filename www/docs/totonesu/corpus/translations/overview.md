@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-54 translation analyses.
+57 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -48,11 +48,14 @@ gap analysis, and key findings.
 - [dnd-classes](literature/dnd-classes/index.md)
 - [dnd-great-wheel](literature/dnd-great-wheel/index.md)
 - [dnd-schools-of-magic](literature/dnd-schools-of-magic/index.md)
+- [dnd-spells](literature/dnd-spells/index.md)
 - [doi-declaration](literature/doi-declaration/index.md)
 - [greater-key-preparations](literature/greater-key-preparations/index.md)
 - [hamlet-to-be](literature/hamlet-to-be/index.md)
 - [jabberwocky](literature/jabberwocky/index.md)
 - [kafka-the-trial](literature/kafka-the-trial/index.md)
+- [king-arthur-round-table](literature/king-arthur-round-table/index.md)
+- [king-arthur-sword-in-stone](literature/king-arthur-sword-in-stone/index.md)
 - [machiavelli-dark-triad](literature/machiavelli-dark-triad/index.md)
 - [marx](literature/marx/index.md)
 - [minority-report](literature/minority-report/index.md)

@@ -4,7 +4,7 @@ title: "D&D — The Eight Schools of Magic"
 
 # D&D — The Eight Schools of Magic
 
-*Theme: [Foundations](../../foundations/overview.md)* · 38 sentences.
+*Theme: [Foundations](../../foundations/overview.md)* · 73 sentences.
 
 :material-book-open-variant: [Full translation analysis](../../translations/literature/dnd-schools-of-magic/index.md)
 
@@ -353,6 +353,284 @@ title: "D&D — The Eight Schools of Magic"
 | S656 (DND-004-F) | `lawivoli wi lovo / rabe` | Paladin | W211 (`wi-vo-li`) first att. |
 | S657 (DND-004-G) | `lazokili ki lopafe` | Ranger | W212 (`zo-ki-li`) first att. |
 | S658 (DND-004-H) | `lasovoli sovo luzoli` | Bard | W213 (`so-vo-li`) first att. |
+
+## DND-005 · 
+
+<span id="S969"></span>
+**S969**
+`de-zo-ki  ne  ge-ki  go-si  de-zo`
+Written: `dezoki ne geki gosi dezo`
+*Necromancy is transmutation constrained to the death-domain.*
+
+!!! annotation "Notes"
+    This makes the key DND-001 finding explicit in sentence form. `de-zo-ki` and `ge-ki` share the same `-ki` head, so necromancy is not a fundamentally different operation from transmutation. It is transmutation operating through the `de-zo` domain: organism-change at the death threshold.
+
+<span id="S970"></span>
+**S970**
+`pa-be-ki  ne  be-ki  go-si  pa  /  ra-be-ki  ne  be-ki  go-si  ra`
+Written: `pabeki ne beki gosi pa / rabeki ne beki gosi ra`
+*Conjuration and Evocation are two manifestation arts distinguished by domain.*
+
+!!! annotation "Notes"
+    The shared head `be-ki` is the point. Conjuration and evocation are not unrelated schools; they are parallel manifestation arts. `pa` marks spatial emergence, while `ra` marks force-emergence.
+
+<span id="S971"></span>
+**S971**
+`to-se-ki  ne  se-ki  go-si  to  /  ge-se-ki  ne  se-ki  go-si  ge`
+Written: `toseki ne seki gosi to / geseki ne seki gosi ge`
+*Divination and Illusion are two perception arts distinguished by aim.*
+
+!!! annotation "Notes"
+    Again the shared head is decisive. Both schools are `se-ki` arts: transformed perception. The difference is whether perception is being extended toward knowledge (`to`) or altered toward appearance (`ge`).
+
+<span id="S972"></span>
+**S972**
+`ko-fe-ki  ne  fe-ki  go-si  ko`
+Written: `kofeki ne feki gosi ko`
+*Abjuration remains a boundary art.*
+
+!!! annotation "Notes"
+    Abjuration survives the recategorization cleanly. It is still best understood as limit-change operating through containment. Unlike necromancy, conjuration, or illusion, it does not collapse into a paired sibling school under the present inventory.
+
+<span id="S973"></span>
+**S973**
+`wi-fa-ki  ne  fa-ki  go-si  wi`
+Written: `wifaki ne faki gosi wi`
+*Enchantment remains an affect-will art.*
+
+!!! annotation "Notes"
+    Enchantment also remains coherent as its own family. `fa-ki` gives the affect-shift head, and `wi` specifies that the shift is intentionally imposed through will. The school therefore targets the affect-will substrate rather than space, force, or perception.
+
+<span id="S974"></span>
+**S974**
+`la-to-su  lo-wi-ra-su  ne  no-su-to  /  ke,  la-to-su  lo-wi-ra-su  no  to-su-ki  lo-to-fe  {ki ; be ; se}  ne  {de-zo ; pa ; ra ; to ; ge}`
+Written: `latosu lowirasu ne nosuto / ke, latosu lowirasu no tosuki lotofe {ki ; be ; se} ne {dezo ; pa ; ra ; to ; ge}`
+*The legacy school list does not comprehend the boundary between operator and domain.*
+
+!!! annotation "Notes"
+    This is the structural verdict on the eight-school list. The old taxonomy functions, but it is not `su-to`: it mixes operator heads (`ki`, `be`, `se`) with domain modifiers (`de-zo`, `pa`, `ra`, `to`, `ge`) as if they were the same kind of category.
+
+<span id="S975"></span>
+**S975**
+`la-to-su  lo-wi-ra-su  su-ka  lo-pa  ne  lo-be-ki ; su-ka  lo-ra  ne  lo-be-ki ; su-ka  lo-to  ne  lo-se-ki ; su-ka  lo-ge  ne  lo-se-ki ; su-ka  lo-de-zo  ne  lo-ge-ki`
+Written: `latosu lowirasu suka lopa ne lobeki ; suka lora ne lobeki ; suka loto ne loseki ; suka loge ne loseki ; suka lodezo ne logeki`
+*A better magical curriculum groups domains under shared operator families.*
+
+!!! annotation "Notes"
+    This is the practical redesign. A better curriculum groups space and force under manifestation art, knowledge and appearance under perception art, and death-domain under transmutation. DND-005 does not invent a new fantasy canon; it simply lets the existing compounds sort themselves honestly.
+
+### Batch Summary
+
+| Entry | Form | Test |
+|-------|------|------|
+| S969 (DND-005-A) | `de-zo-ki ne ge-ki go-si de-zo` | necromancy as domain-restricted transmutation |
+| S970 (DND-005-B) | `pa-be-ki ne be-ki go-si pa / ra-be-ki ne be-ki go-si ra` | conjuration and evocation as manifestation siblings |
+| S971 (DND-005-C) | `to-se-ki ne se-ki go-si to / ge-se-ki ne se-ki go-si ge` | divination and illusion as perception siblings |
+| S972 (DND-005-D) | `ko-fe-ki ne fe-ki go-si ko` | abjuration as boundary art |
+| S973 (DND-005-E) | `wi-fa-ki ne fa-ki go-si wi` | enchantment as affect-will art |
+| S974 (DND-005-F) | `la-to-su lo-wi-ra-su ne no-su-to / ke, la-to-su lo-wi-ra-su no to-su-ki lo-to-fe {ki ; be ; se} ne {de-zo ; pa ; ra ; to ; ge}` | structural verdict on the legacy list |
+| S975 (DND-005-G) | `la-to-su lo-wi-ra-su su-ka lo-pa ne lo-be-ki ; su-ka lo-ra ne lo-be-ki ; su-ka lo-to ne lo-se-ki ; su-ka lo-ge ne lo-se-ki ; su-ka lo-de-zo ne lo-ge-ki` | operator-first curriculum grouping |
+
+**Key findings:**
+
+1. **Necromancy is better treated as a domain specialization than as a peer school.**
+2. **Conjuration/Evocation and Divination/Illusion pair naturally under shared heads.**
+3. **Abjuration and Enchantment remain coherent standalone families.**
+4. **The strongest Tonesu-native repair is operator first, domain second.**
+
+**New W-entries:** none
+
+**Compositional first uses:** none required; the batch is a taxonomy-repair test using already-attested school names.
+
+## DND-006 · 
+
+<span id="S996"></span>
+**S996**
+*Alarm is a boundary art / a signal arises when someone enters the enclosed space.*
+
+<span id="S997"></span>
+**S997**
+*Arcane Lock is a boundary art / it seals a passage by a fixed structural limit.*
+
+<span id="S998"></span>
+**S998**
+*Tiny Hut is a boundary art / it encloses persons within a warded shelter.*
+
+<span id="S999"></span>
+**S999**
+*Private Sanctum is a boundary art / it forbids outside perception into the enclosed space.*
+
+<span id="S1000"></span>
+**S1000**
+*Create Food and Water is a manifestation art / food and water are brought into presence.*
+
+<span id="S1001"></span>
+**S1001**
+*Sending is a manifestation art / a message is made to arrive to another person.*
+
+<span id="S1002"></span>
+**S1002**
+*Teleportation Circle is a manifestation art / it establishes a repeatable passage.*
+
+<span id="S1003"></span>
+**S1003**
+*Continual Flame is a force-manifestation art / it sustains enduring light.*
+
+<span id="S1004"></span>
+**S1004**
+*Comprehend Languages is a knowledge-perception art / it turns another's signal into intelligible knowledge.*
+
+<span id="S1005"></span>
+**S1005**
+*Locate Object is a knowledge-perception art / it extends perception to the sought object.*
+
+<span id="S1006"></span>
+**S1006**
+*Speak with Animals is a knowledge-perception art / it makes animal signals intelligible.*
+
+<span id="S1007"></span>
+**S1007**
+*Speak with Plants is a knowledge-perception art / it makes plant-signals intelligible.*
+
+<span id="S1008"></span>
+**S1008**
+*Calm Emotions is an affect-will art / it reduces emotional agitation.*
+
+<span id="S1009"></span>
+**S1009**
+*Heroism is an affect-will art / it strengthens the will toward courageous good.*
+
+<span id="S1010"></span>
+**S1010**
+*Command is an affect-will art / it causes an act to arise within the target's will.*
+
+<span id="S1011"></span>
+**S1011**
+*Geas is an affect-will art / it plants a binding obligation inside the target's will.*
+
+<span id="S1012"></span>
+**S1012**
+*Plant Growth is a property-change art / plants are made to flourish.*
+
+<span id="S1013"></span>
+**S1013**
+*Water Breathing is a property-change art / it changes the body's relation to water so underwater life becomes possible.*
+
+<span id="S1014"></span>
+**S1014**
+*Revivify is a death-domain alteration art / vitality is restored from the edge of death.*
+
+<span id="S1015"></span>
+**S1015**
+*Raise Dead is a death-domain alteration art / the dead person is restored to living status.*
+
+### Batch Summary
+
+**Entries:** S976–S995 · **New vocabulary:** none
+
+| Entry | Spell | Tonesu | Key feature |
+|-------|-------|--------|-------------|
+| S976 (DND-006-A) | Shield | `la-na Shield ne ko-fe-ki / ko lo-ra-be` | blocks incoming force by boundary containment |
+| S977 (DND-006-B) | Mage Armor | `la-na MageArmor ne ko-fe-ki / ko lo-ze gosi ko-fe` | persistent ward around the body |
+| S978 (DND-006-C) | Counterspell | `la-na Counterspell ne ko-fe-ki / wi-fe-ka [lo-wi-ra-su be]` | blocks another spell's emergence |
+| S979 (DND-006-D) | Dispel Magic | `la-na DispelMagic ne ko-fe-ki / de lo-su gosi wi-ra-su` | reduces standing magical structure |
+| S980 (DND-006-E) | Find Familiar | `la-na FindFamiliar ne pa-be-ki / be lo-zo gosi ka-be-ne` | bonded creature brought into presence |
+| S981 (DND-006-F) | Misty Step | `la-na MistyStep ne pa-be-ki / ki lo-ze gosi be-pa` | short-range relocation by re-emergence |
+| S982 (DND-006-G) | Dimension Door | `la-na DimensionDoor ne pa-be-ki / be lo-ki-pa` | passage manifests through space |
+| S983 (DND-006-H) | Fireball | `la-na Fireball ne ra-be-ki / be lo-ra-be ne lo-pa` | force emergence at a chosen place |
+| S984 (DND-006-I) | Lightning Bolt | `la-na LightningBolt ne ra-be-ki / ki lo-ra-be ne lo-di` | force driven along a direction |
+| S985 (DND-006-J) | Detect Magic | `la-na DetectMagic ne to-se-ki / se lo-wi-ra-su` | perception extended toward magical presence |
+| S986 (DND-006-K) | Identify | `la-na Identify ne to-se-ki / to-su-ki lo-to-fe ne lo-mu` | organizes the object's operative boundary into knowledge |
+| S987 (DND-006-L) | Detect Thoughts | `la-na DetectThoughts ne to-se-ki / se lo-to` | perception extended to thought |
+| S988 (DND-006-M) | Invisibility | `la-na Invisibility ne ge-se-ki / no se lo-ze` | target removed from normal detection |
+| S989 (DND-006-N) | Mirror Image | `la-na MirrorImage ne ge-se-ki / be lo-ge-se nu-be lo-ru` | multiple appearances without multiple bodies |
+| S990 (DND-006-O) | Charm Person | `la-na CharmPerson ne wi-fa-ki / fa-ki lo-fa-wi ne vo` | affect-will shifted toward favor |
+| S991 (DND-006-P) | Suggestion | `la-na Suggestion ne wi-fa-ki / to be ne lo-wi` | thought inserted into will |
+| S992 (DND-006-Q) | Speak with Dead | `la-na SpeakWithDead ne de-zo-ki / so be go lo-de-zo` | speech restored across death-threshold |
+| S993 (DND-006-R) | Animate Dead | `la-na AnimateDead ne de-zo-ki / ki be go lo-de-zo` | motion restored across death-threshold |
+| S994 (DND-006-S) | Fly | `la-na Fly ne ge-ki / ki lo-ze ne lo-pa-be` | bodily motion changed into upper-space |
+| S995 (DND-006-T) | Polymorph | `la-na Polymorph ne ge-ki / ge-ki lo-zo ne zo-ma` | organism-form rewritten |
+
+**Key structural findings:**
+
+**Finding 1: the five-family redesign survives contact with actual spells.** Shield and Counterspell cluster naturally under boundary arts; Fireball and Lightning Bolt under manifestation arts; Detect Magic and Invisibility separate cleanly because one extends knowledge-perception while the other rewrites appearance.
+
+**Finding 2: iconic spells do not require a special spell-name lexicon.** The named spell can remain a proper-name anchor while the analysis cashes out in ordinary operator-family vocabulary.
+
+**Finding 3: spell effects clarify the DND-005 repair.** The old eight-school list was abstractly debatable. Individual spell effects make the repair concrete: Counterspell is obviously about limit-governing, Fireball is obviously about force-emergence, Charm Person is obviously about affect-will, and Polymorph is obviously about property-change.
+
+**Finding 4: necromancy is still just a domain-specialized alteration family.** Speak with Dead and Animate Dead do not require a distinct magical operator. They remain `de-zo-ki` cases: alteration at the death-boundary.
+
+## DND-007 · 
+
+<span id="S1016"></span>
+**S1016**
+*Only the person who draws SwordInStone is ruler.*
+
+<span id="S1017"></span>
+**S1017**
+*The others do not draw SwordInStone.*
+
+<span id="S1018"></span>
+**S1018**
+*Arthur draws SwordInStone.*
+
+<span id="S1019"></span>
+**S1019**
+*The people have a signal that Arthur drew SwordInStone, but they do not yet hold it as established that Arthur is ruler.*
+
+<span id="S1020"></span>
+**S1020**
+*The people call to Arthur so that he will draw SwordInStone again.*
+
+<span id="S1021"></span>
+**S1021**
+*Arthur draws SwordInStone again, and the people see him.*
+
+<span id="S1022"></span>
+**S1022**
+*Because Arthur draws SwordInStone again and the people witness him, the people hold it established that Arthur is ruler.*
+
+<span id="S1023"></span>
+**S1023**
+*SwordInStone does not create a ruler; the people classify Arthur as ruler through it.*
+
+### Batch Summary
+
+**Entries:** S996–S1015 · **New vocabulary:** none
+
+| Entry | Spell | Tonesu | Key feature |
+|-------|-------|--------|-------------|
+| S996 (DND-007-A) | Alarm | `la-na Alarm ne ko-fe-ki / si be go {la-ze ki lo-ko-pa}` | signalized perimeter ward |
+| S997 (DND-007-B) | Arcane Lock | `la-na ArcaneLock ne ko-fe-ki / ko lo-ki-pa gosi su-fe` | hardened closure on a passage |
+| S998 (DND-007-C) | Tiny Hut | `la-na TinyHut ne ko-fe-ki / ko lo-zo-li gosi ko-fe` | inhabitable protective shelter |
+| S999 (DND-007-D) | Private Sanctum | `la-na PrivateSanctum ne ko-fe-ki / wi-fe-ka [la-ze se lo-ko-pa]` | privacy boundary blocking perception |
+| S1000 (DND-007-E) | Create Food and Water | `la-na CreateFoodAndWater ne pa-be-ki / be lo-ka-du-zo-su ; be lo-ma-ki` | sustenance manifested directly |
+| S1001 (DND-007-F) | Sending | `la-na Sending ne pa-be-ki / si be ne lo-ze` | direct message arrival |
+| S1002 (DND-007-G) | Teleportation Circle | `la-na TeleportationCircle ne pa-be-ki / be lo-ki-pa re` | repeatable travel infrastructure |
+| S1003 (DND-007-H) | Continual Flame | `la-na ContinualFlame ne ra-be-ki / lu be re` | persistent magical lighting |
+| S1004 (DND-007-I) | Comprehend Languages | `la-na ComprehendLanguages ne to-se-ki / to-su-ki lo-si ne lo-ze` | translation into knowledge |
+| S1005 (DND-007-J) | Locate Object | `la-na LocateObject ne to-se-ki / se lo-mu` | extended perception to a sought thing |
+| S1006 (DND-007-K) | Speak with Animals | `la-na SpeakWithAnimals ne to-se-ki / to-su-ki lo-si go zo` | animal signals become intelligible |
+| S1007 (DND-007-L) | Speak with Plants | `la-na SpeakWithPlants ne to-se-ki / to-su-ki lo-si go zo-su` | plant signals become intelligible |
+| S1008 (DND-007-M) | Calm Emotions | `la-na CalmEmotions ne wi-fa-ki / de lo-fa-ra-be` | emotional agitation reduced |
+| S1009 (DND-007-N) | Heroism | `la-na Heroism ne wi-fa-ki / be lo-wi ne vo` | courageous good-directed will strengthened |
+| S1010 (DND-007-O) | Command | `la-na Command ne wi-fa-ki / wi-ka be ne lo-wi` | immediate act inserted into will |
+| S1011 (DND-007-P) | Geas | `la-na Geas ne wi-fa-ki / wi-fe be ne lo-wi` | lasting obligation planted in will |
+| S1012 (DND-007-Q) | Plant Growth | `la-na PlantGrowth ne ge-ki / be lo-zo-su` | agricultural flourishing |
+| S1013 (DND-007-R) | Water Breathing | `la-na WaterBreathing ne ge-ki / no-wi-fe-ka [la-ze ki ne lo-ma-ki]` | bodily relation to water changed |
+| S1014 (DND-007-S) | Revivify | `la-na Revivify ne de-zo-ki / zo-ra be go lo-de-zo` | vitality restored at death-edge |
+| S1015 (DND-007-T) | Raise Dead | `la-na RaiseDead ne de-zo-ki / zo be go lo-de-zo` | person restored from death-threshold |
+
+**Key structural findings:**
+
+**Finding 1: the operator families pay off more strongly in civic magic than in combat magic.** Perimeter wards, sealed doors, instant communication, translation, crop growth, and resurrection all sort naturally once the families are treated as reusable effect-patterns.
+
+**Finding 2: world-building spells change institutions, not just encounters.** Alarm and Arcane Lock change policing and property; Sending changes diplomacy; Create Food and Water changes logistics; Plant Growth changes agriculture; Raise Dead changes religion, medicine, and inheritance.
+
+**Finding 3: affect/will arts become politically important very quickly.** Calm Emotions, Heroism, Command, and Geas make courts, armies, priesthoods, and tyrannies look different once the spell system is taken seriously.
+
+**Finding 4: death-domain alteration is not inherently villainous.** Revivify and Raise Dead reinforce the DND-001/DND-005 claim that necromancy is domain-limited alteration. Its moral valence depends on use, not on a unique magical operator.
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: "D&D — The Eight Schools of Magic"
-batch_codes: [DND-001]
+batch_codes: [DND-001, DND-005]
 ---
 
 # Translation Test: Dungeons & Dragons — The Eight Schools of Magic
 
 ## Source: Dungeons & Dragons 5th Edition (Wizards of the Coast / Gary Gygax)
-## Status: Draft — first pass
+## Status: Draft — DND-001 / DND-005
 
 ---
 
@@ -241,6 +241,131 @@ la-ra-be-ki  be  lo-ra  /  la-ge-se-ki  be  lo-ge-se
 The Star Wars batch established `ara` = `a-` + `ra` = universal energy / the Force. The D&D schools of magic are, viewed through Tonesu, eight ways of directing that underlying `ra`. `wi-ra-su` (magic) = the systematic discipline of directing `ra` through `wi` (intention) and organizing it as `su` (structure). The D&D tradition's Force-sensitive parallel: a wizard who masters all eight schools has achieved comprehensive `wi-ra-su` — the structured, intentional command of `ra` in every mode.
 
 The moral contrast from the STW batch also applies here: the Sith Code's causal chain (`ra → wi-ra → wi-du` = strength → power → victory) is a sequence of evocation and enchantment steps — the Sith are essentially high-level evokers and enchanters. The Jedi Code's `ne-no-ra ne` / `fa-su ne` parallels abjuration and enchantment in their constructive mode — building force-free relations and structured affect rather than weaponizing them.
+
+---
+
+## Can Tonesu Do Better Than The Eight Schools?
+
+Yes. The existing D&D schools translate cleanly into Tonesu, but once they are translated their structural mismatch becomes hard to ignore.
+
+The problem is that D&D's eight schools are not all operating at the same level:
+
+- **Transmutation** (`ge-ki`) is a general operation class: changing properties.
+- **Necromancy** (`de-zo-ki`) is a domain-restricted subcase of that same operation: organism-change at the death boundary.
+- **Conjuration** (`pa-be-ki`) and **Evocation** (`ra-be-ki`) are both manifestation arts that differ by domain.
+- **Divination** (`to-se-ki`) and **Illusion** (`ge-se-ki`) are both perception-linked arts that differ by purpose.
+- **Abjuration** and **Enchantment** remain relatively coherent single schools because they already name distinct kinds of intervention.
+
+In other words: D&D mixes **operation type** and **target domain** in one flat list. Tonesu makes that visible because the compounds are compositional enough to show which distinctions are parallel and which are not.
+
+### The Tonesu-native redesign
+
+The cleaner Tonesu answer is not another flat list of eight. It is a two-level system:
+
+1. **operator families** — what the magic does
+2. **domain specializations** — what the magic does it to
+
+At the top level, the translated compounds naturally collapse into five better categories:
+
+| Tonesu-native family | Core pattern | Includes D&D schools | Why the grouping is cleaner |
+|----------------------|--------------|----------------------|-----------------------------|
+| **Boundary arts** | `ko-fe-ki` | Abjuration | Boundary creation, containment, warding, blocking, banishment all belong to one limit-governing operator family |
+| **Manifestation arts** | `X-be-ki` | Conjuration, Evocation | Both schools are emergence/manifestation practices; the difference is spatial (`pa`) vs energetic (`ra`) domain |
+| **Perception arts** | `X-se-ki` | Divination, Illusion | Both manipulate the perception/knowledge interface; the difference is knowledge-reaching (`to`) vs appearance-crafting (`ge`) |
+| **Affect / will arts** | `wi-fa-ki` | Enchantment | This school stays distinct because it targets the affect-will substrate rather than space, force, or perception |
+| **Alteration arts** | `X-ki` | Transmutation, Necromancy | `ge-ki` is the general property-change art; `de-zo-ki` is a domain-specific subbranch operating at the life/death boundary |
+
+This is already a better taxonomy than the D&D list because the categories now line up at the same abstraction level.
+
+### What changes in practice
+
+Under a Tonesu-native classification, **Necromancy stops being a peer of Transmutation** and becomes a specialized branch inside the alteration family. That is not a cosmetic change. It means the moral weight of necromancy is treated as coming from the **domain** (`de-zo`) rather than from a fundamentally different magical operation.
+
+Likewise, **Conjuration and Evocation stop pretending to be unrelated disciplines**. Both are manifestation arts:
+
+- `pa-be-ki` = making presence emerge in space
+- `ra-be-ki` = making force emerge into action
+
+And **Divination and Illusion stop being opposites** and become siblings:
+
+- `to-se-ki` = transforming perception in order to know more
+- `ge-se-ki` = transforming perception in order to alter appearance
+
+The shared head `se-ki` is doing real taxonomic work here.
+
+### The strongest Tonesu insight
+
+The best redesign is therefore not "replace eight bad names with eight better names." It is:
+
+> stop treating every magical discipline as a separate island, and instead classify magic by the operator family first and the affected domain second.
+
+That yields a matrix rather than a flat list.
+
+| Operator family | Domain examples | Resulting disciplines |
+|-----------------|-----------------|-----------------------|
+| `X-ki` alteration | `ge`, `de-zo` | transmutation, necromancy |
+| `X-be-ki` manifestation | `pa`, `ra` | conjuration, evocation |
+| `X-se-ki` perception | `to`, `ge` | divination, illusion |
+| `ko-fe-ki` boundary | `fe` as threshold / enclosure | abjuration |
+| `wi-fa-ki` affect-will | `fa-wi` substrate | enchantment |
+
+In a mature Tonesu magical academy, that is probably what the curriculum would look like: five major colleges, with domain specializations under each, not eight legacy bins inherited from historical fantasy tradition.
+
+### Verdict on the redesign
+
+So yes — Tonesu can produce better categories.
+
+Not because it is more fantasy-themed than D&D, but because its compounds make it harder to hide when a taxonomy is mixing:
+
+- a general operator (`ge-ki`)
+- a domain-limited subcase (`de-zo-ki`)
+- two sibling manifestation forms (`pa-be-ki`, `ra-be-ki`)
+- and two sibling perception forms (`to-se-ki`, `ge-se-ki`)
+
+The translated D&D schools are good names. The Tonesu-native redesign is a better classification system.
+
+---
+
+## DND-005 — Tonesu-native Recategorization (S969-S975)
+
+The prose redesign above is now formalized as a corpus follow-up batch. DND-005 does not coin replacement school names. It tests whether the already-translated school names sort more honestly once Tonesu is allowed to classify by shared head first and domain modifier second.
+
+### DND-005 Table
+
+| Entry | Tonesu | Written | Function |
+|------|--------|---------|----------|
+| S969 | `de-zo-ki ne ge-ki go-si de-zo` | `dezoki ne geki gosi dezo` | necromancy as death-domain transmutation |
+| S970 | `pa-be-ki ne be-ki go-si pa / ra-be-ki ne be-ki go-si ra` | `pabeki ne beki gosi pa / rabeki ne beki gosi ra` | conjuration and evocation as manifestation siblings |
+| S971 | `to-se-ki ne se-ki go-si to / ge-se-ki ne se-ki go-si ge` | `toseki ne seki gosi to / geseki ne seki gosi ge` | divination and illusion as perception siblings |
+| S972 | `ko-fe-ki ne fe-ki go-si ko` | `kofeki ne feki gosi ko` | abjuration as boundary art |
+| S973 | `wi-fa-ki ne fa-ki go-si wi` | `wifaki ne faki gosi wi` | enchantment as affect-will art |
+| S974 | `la-to-su lo-wi-ra-su ne no-su-to / ke, la-to-su lo-wi-ra-su no to-su-ki lo-to-fe {ki ; be ; se} ne {de-zo ; pa ; ra ; to ; ge}` | `latosu lowirasu ne nosuto / ke, latosu lowirasu no tosuki lotofe {ki ; be ; se} ne {dezo ; pa ; ra ; to ; ge}` | legacy taxonomy mixes operator and domain |
+| S975 | `la-to-su lo-wi-ra-su su-ka lo-pa ne lo-be-ki ; su-ka lo-ra ne lo-be-ki ; su-ka lo-to ne lo-se-ki ; su-ka lo-ge ne lo-se-ki ; su-ka lo-de-zo ne lo-ge-ki` | `latosu lowirasu suka lopa ne lobeki ; suka lora ne lobeki ; suka loto ne loseki ; suka loge ne loseki ; suka lodezo ne logeki` | operator-first curriculum grouping |
+
+### What DND-005 confirms
+
+#### 1. Necromancy is not a peer of Transmutation
+
+S969 turns the earlier observation into a direct claim: `de-zo-ki` is best read as `ge-ki` constrained by the death-domain. That is the cleanest proof that the D&D list mixes levels of abstraction.
+
+#### 2. Shared heads are doing the taxonomic work
+
+S970 and S971 are the strongest pair in the batch.
+
+- `pa-be-ki` and `ra-be-ki` share `be-ki`
+- `to-se-ki` and `ge-se-ki` share `se-ki`
+
+Once those heads are treated as the main classifier, the legacy eight-school flat list becomes harder to defend.
+
+#### 3. Two schools stay cleanly singular
+
+S972 and S973 show why Abjuration and Enchantment survive the redesign mostly intact. They are already coherent operator families rather than obvious domain-restricted subcases of a broader sibling pair.
+
+#### 4. The better curriculum is operator first, domain second
+
+S974 gives the negative verdict on the legacy list; S975 gives the positive repair. A Tonesu-native magical curriculum groups the arts by shared operator family, then nests domains beneath those families.
+
+That is the real redesign: not eight new labels, but a cleaner hierarchy.
 
 ---
 
