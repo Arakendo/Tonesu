@@ -402,3 +402,309 @@
 **Verdict:** irreducibly formal — KAR-004 works only if combat, killing, death, and governance collapse remain distinct.
 
 *CLQ entries registered from this batch: none.*
+
+---
+
+## Warhammer 40,000 — Magnus Did No Wrong (S1039–S1044)
+
+**Batch:** MAG-001  
+**Source:** Warhammer 40,000 / Horus Heresy meme claim "Magnus did no wrong," treated as a culpability test rather than a faction slogan.  
+**Entries:** S1039–S1044 · **New vocabulary:** none
+
+**Key tests:**
+- `de-su` for fault as a distinct moral product
+- `si` for signal-grade knowledge of coming betrayal
+- `ka-fe-si` for warning as an act distinct from command or force
+- `fe-no-ka` for the forbidden boundary Magnus crosses
+- separation of truthful warning from faultless action
+
+**Central claim:** The slogan survives because it compresses too much into one moral judgment. Magnus can be right about danger, can warn sincerely, can cross a forbidden boundary, and can still incur fault. Tonesu can keep those apart.
+
+---
+
+### S1039 — MAG-001-A: The slogan claim
+
+**Source:** "Magnus did no wrong."
+
+**Tonesu:** `la-na Magnus  no  ne  de-su`
+
+**Written:** `lana Magnus no ne desu`
+
+**Gloss:** Magnus not is fault
+
+**Natural reading:** Magnus is not at fault.
+
+**Notes:** This is the meme in its compressed form. The rest of the batch tests whether that compression survives once warning, prohibition, and consequence are separated.
+
+---
+
+### S1040 — MAG-001-B: Magnus had signal of betrayal
+
+**Source:** "Magnus had signal that Horus would betray the ruler."
+
+**Tonesu:** `la-na Magnus  si  [ta-ti-be  la-na Horus  ka-ne-de  lo-ne-ra-su-li]`
+
+**Written:** `lana Magnus si [tatibe lana Horus kanede lonerasuli]`
+
+**Gloss:** Magnus signals [future Horus deliberately-dissolves-bond of-ruler]
+
+**Natural reading:** Magnus has signal that Horus will betray the ruler.
+
+**Notes:** The batch keeps this at `si` grade. Magnus is presented as having signal or warning-grade access to the coming betrayal, not exhaustive or public certification.
+
+---
+
+### S1041 — MAG-001-C: Magnus warned the ruler
+
+**Source:** "Magnus warned the ruler."
+
+**Tonesu:** `la-na Magnus  ka-fe-si  ne-ra-su-li`
+
+**Written:** `lana Magnus kafesi nerasuli`
+
+**Gloss:** Magnus deliberately-warns to-ruler
+
+**Natural reading:** Magnus warns the ruler.
+
+**Notes:** Warning is its own act. This matters because the slogan is partly sustained by the intuition that a sincere warning should count in Magnus's favor.
+
+---
+
+### S1042 — MAG-001-D: Magnus crossed the forbidden boundary to warn
+
+**Source:** "To give the warning, Magnus crossed the forbidden boundary."
+
+**Tonesu:** `la-na Magnus  fe-ki  lo-fe-no-ka  /  wi  [la-na Magnus  ka-fe-si  ne-ra-su-li]`
+
+**Written:** `lana Magnus feki lofenoka / wi [lana Magnus kafesi nerasuli]`
+
+**Gloss:** Magnus crosses forbidden-boundary / in-order-that [Magnus deliberately-warns to-ruler]
+
+**Natural reading:** Magnus crosses the forbidden boundary so that he can warn the ruler.
+
+**Notes:** This is the key turn. The warning does not arrive by neutral means; it is carried through a boundary already marked as forbidden.
+
+---
+
+### S1043 — MAG-001-E: The ward decayed because of the crossing
+
+**Source:** "Because Magnus crossed the forbidden boundary, the ward decayed."
+
+**Tonesu:** `go {la-na Magnus  fe-ki  lo-fe-no-ka},  lo-fe-su  de`
+
+**Written:** `go {lana Magnus feki lofenoka}, lofesu de`
+
+**Gloss:** because {Magnus crosses forbidden-boundary}, ward decays
+
+**Natural reading:** Because Magnus crosses the forbidden boundary, the ward decays.
+
+**Notes:** Tonesu makes the consequence structurally visible without changing the warning claim. A true warning can still be the cause of catastrophic boundary-failure.
+
+---
+
+### S1044 — MAG-001-F: Warning and fault coexist
+
+**Source:** "Magnus warned truly, and Magnus was still at fault."
+
+**Tonesu:** `la-na Magnus  ka-fe-si  ne-ra-su-li  /  la-na Magnus  ne  de-su`
+
+**Written:** `lana Magnus kafesi nerasuli / lana Magnus ne desu`
+
+**Gloss:** Magnus deliberately-warns to-ruler / Magnus is fault
+
+**Natural reading:** Magnus warns the ruler, and Magnus is still at fault.
+
+**Notes:** This is the Tonesu-native payoff. The slogan fails because warning and fault are not mutually exclusive categories.
+
+---
+
+## MAG-001 Batch Summary
+
+**Entries:** S1039–S1044 · **New vocabulary:** none
+
+| Entry | Source focus | Tonesu | Key feature |
+|-------|--------------|--------|-------------|
+| S1039 (MAG-001-A) | slogan claim | `la-na Magnus no ne de-su` | compressed no-fault claim |
+| S1040 (MAG-001-B) | signal of betrayal | `la-na Magnus si [ta-ti-be la-na Horus ka-ne-de lo-ne-ra-su-li]` | warning-grade knowledge |
+| S1041 (MAG-001-C) | warning act | `la-na Magnus ka-fe-si ne-ra-su-li` | warning as distinct action |
+| S1042 (MAG-001-D) | forbidden means | `la-na Magnus fe-ki lo-fe-no-ka / wi [la-na Magnus ka-fe-si ne-ra-su-li]` | prohibited boundary crossed for purpose |
+| S1043 (MAG-001-E) | consequence | `go {la-na Magnus fe-ki lo-fe-no-ka}, lo-fe-su de` | ward failure follows transgression |
+| S1044 (MAG-001-F) | coexistence claim | `la-na Magnus ka-fe-si ne-ra-su-li / la-na Magnus ne de-su` | warning and fault coexist |
+
+**Key structural findings:**
+
+**Finding 1: the meme compresses categories that Tonesu can keep separate.** Warning, prohibition, consequence, and fault are not one thing.
+
+**Finding 2: being right about danger is not the same as being faultless in method.** `si` and `ka-fe-si` can hold while `de-su` still applies.
+
+**Finding 3: the real pressure is not intent alone but boundary-crossing.** `fe-no-ka` lets the batch say exactly why the warning act becomes culpable.
+
+**Finding 4: the strongest Tonesu reading is tragic culpability, not total innocence or pure villainy.** Magnus is not best described as wholly innocent; he is better described as right in warning and wrong in means.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `de-su` | none | — | fault term — load-bearing |
+| `ka-fe-si` | none | — | warning term — load-bearing |
+| `fe-no-ka` | none | — | forbidden-boundary term — load-bearing |
+| `ka-ne-de` | none | — | betrayal term — load-bearing |
+
+**Verdict:** irreducibly formal — MAG-001 works only if warning, prohibition, betrayal, and fault remain distinct.
+
+*CLQ entries registered from this batch: none.*
+
+---
+
+## Warhammer 40,000 — Lorgar Was Right (S1045–S1050)
+
+**Batch:** LOR-001  
+**Source:** Warhammer 40,000 / Horus Heresy meme claim "Lorgar was right," treated as an epistemic and theological diagnosis rather than a moral endorsement.  
+**Entries:** S1045–S1050 · **New vocabulary:** none
+
+**Key tests:**
+- `vo-ne` for the slogan's compressed "rightness" claim
+- `ka-to-fe-ka` for deliberate epistemic miscategorization
+- `fa-ra-su` for religion as an institutional and metaphysical category
+- `to [PROP]` for proposition-level diagnosis rather than vague agreement
+- separation of correct diagnosis from righteous alignment
+
+**Central claim:** The slogan only survives if "right" is narrowed to diagnosis. Lorgar can correctly identify that anti-religious state doctrine misclassifies religion and that religion bears real force, while still failing the stronger moral claim that he was righteous or rightly aligned.
+
+---
+
+### S1045 — LOR-001-A: The slogan claim
+
+**Source:** "Lorgar was right."
+
+**Tonesu:** `la-na Lorgar  vo-ne`
+
+**Written:** `lana Lorgar vone`
+
+**Gloss:** Lorgar right-relational-standing
+
+**Natural reading:** Lorgar was right.
+
+**Notes:** This is the meme in its compressed form. The rest of the batch tests whether that "rightness" is epistemic, theological, or moral.
+
+---
+
+### S1046 — LOR-001-B: The regime miscategorized religion
+
+**Source:** "The regime miscategorized religion."
+
+**Tonesu:** `la-o-ka-su  ka-to-fe-ka  lo-fa-ra-su`
+
+**Written:** `laokasu katofeka lofarasu`
+
+**Gloss:** regime deliberately-commits-epistemic-fraud religion
+
+**Natural reading:** The regime deliberately miscategorized religion.
+
+**Notes:** This is the pressure point behind the slogan. The anti-religious state does not merely disagree with religion; it places religion in the wrong epistemic category.
+
+---
+
+### S1047 — LOR-001-C: Lorgar knew the miscategorization
+
+**Source:** "Lorgar knew the regime was miscategorizing religion."
+
+**Tonesu:** `la-na Lorgar  to  [la-o-ka-su  ka-to-fe-ka  lo-fa-ra-su]`
+
+**Written:** `lana Lorgar to [laokasu katofeka lofarasu]`
+
+**Gloss:** Lorgar knows [regime deliberately-commits-epistemic-fraud religion]
+
+**Natural reading:** Lorgar knew the regime was miscategorizing religion.
+
+**Notes:** The batch shifts from slogan to proposition. What Lorgar is right about must be something explicit enough to know, not just a vibe of dissent.
+
+---
+
+### S1048 — LOR-001-D: Religion bears real force
+
+**Source:** "Religion bears real force."
+
+**Tonesu:** `la-fa-ra-su  ne  wi-ra`
+
+**Written:** `lafarasu ne wira`
+
+**Gloss:** religion is directed-power
+
+**Natural reading:** Religion bears directed power.
+
+**Notes:** This does not yet say religion is righteous. It says religion is operative, consequential, and not safely reducible to empty fiction.
+
+---
+
+### S1049 — LOR-001-E: Force is not righteousness
+
+**Source:** "Religion bears force, but religion is not by definition righteousness."
+
+**Tonesu:** `la-fa-ra-su  ne  wi-ra  /  la-fa-ra-su  no  helms  vo-ne`
+
+**Written:** `lafarasu ne wira / lafarasu no helms vone`
+
+**Gloss:** religion is directed-power / religion not is-by-definition right-relational-standing
+
+**Natural reading:** Religion bears force, but religion is not by definition righteousness.
+
+**Notes:** This is the decisive separation. An operative sacred order is not automatically a morally right one.
+
+---
+
+### S1050 — LOR-001-F: Diagnosis and righteousness part ways
+
+**Source:** "Lorgar knew religion bore force, and Lorgar was not righteous."
+
+**Tonesu:** `la-na Lorgar  to  [la-fa-ra-su  ne  wi-ra]  /  la-na Lorgar  no  vo-ne`
+
+**Written:** `lana Lorgar to [lafarasu ne wira] / lana Lorgar no vone`
+
+**Gloss:** Lorgar knows [religion is directed-power] / Lorgar not right-relational-standing
+
+**Natural reading:** Lorgar knew religion bore force, and Lorgar was not righteous.
+
+**Notes:** This is the Tonesu-native payoff. The diagnosis can be right while the person making it is not rightly aligned.
+
+---
+
+## LOR-001 Batch Summary
+
+**Entries:** S1045–S1050 · **New vocabulary:** none
+
+| Entry | Source focus | Tonesu | Key feature |
+|-------|--------------|--------|-------------|
+| S1045 (LOR-001-A) | slogan claim | `la-na Lorgar vo-ne` | compressed rightness claim |
+| S1046 (LOR-001-B) | regime error | `la-o-ka-su ka-to-fe-ka lo-fa-ra-su` | religion placed in the wrong category |
+| S1047 (LOR-001-C) | explicit diagnosis | `la-na Lorgar to [la-o-ka-su ka-to-fe-ka lo-fa-ra-su]` | proposition-level knowledge |
+| S1048 (LOR-001-D) | operative sacred force | `la-fa-ra-su ne wi-ra` | religion as consequential power |
+| S1049 (LOR-001-E) | force vs righteousness | `la-fa-ra-su ne wi-ra / la-fa-ra-su no helms vo-ne` | power does not imply moral rightness |
+| S1050 (LOR-001-F) | final verdict | `la-na Lorgar to [la-fa-ra-su ne wi-ra] / la-na Lorgar no vo-ne` | right diagnosis, wrong alignment |
+
+**Key structural findings:**
+
+**Finding 1: the slogan collapses diagnosis and endorsement.** Tonesu can separate being right about a proposition from being righteous.
+
+**Finding 2: the strongest charitable reading is epistemic, not moral.** Lorgar can correctly identify `ka-to-fe-ka` against religion without earning `vo-ne`.
+
+**Finding 3: the deep issue is category placement.** Once religion is treated as an operative structure with `wi-ra`, anti-religious doctrine cannot dismiss it as harmless illusion without distortion.
+
+**Finding 4: the strongest Tonesu reading is "Lorgar diagnosed something real," not "Lorgar should be followed."** The slogan survives only in the narrower sense.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `vo-ne` | none | — | rightness/righteousness term — load-bearing |
+| `ka-to-fe-ka` | none | — | fraud/miscategorization act — load-bearing |
+| `fa-ra-su` | none | — | religion term — load-bearing |
+| `wi-ra` | none | — | directed-power term — load-bearing |
+
+**Verdict:** irreducibly formal — LOR-001 works only if diagnosis, category error, power, and righteousness remain separate.
+
+*CLQ entries registered from this batch: none.*

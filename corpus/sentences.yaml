@@ -19692,3 +19692,184 @@ sentences:
   notes: This is the final constitutional verdict. The story does not end with a duel;
     it ends with the decay of governance after the ruler is gone and the deliberative
     institution has already failed.
+- snum: S1039
+  gloss: 'MAG-001-A: The slogan claim'
+  batch: KAR-004
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: Magnus not is fault
+  natural: Magnus is not at fault.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1039
+  notes: This is the meme in its compressed form. The rest of the batch tests whether
+    that compression survives once warning, prohibition, and consequence are separated.
+- snum: S1040
+  gloss: 'MAG-001-B: Magnus had signal of betrayal'
+  batch: KAR-004
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: Magnus signals [future Horus deliberately-dissolves-bond of-ruler]
+  natural: Magnus has signal that Horus will betray the ruler.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1040
+  notes: The batch keeps this at `si` grade. Magnus is presented as having signal
+    or warning-grade access to the coming betrayal, not exhaustive or public certification.
+- snum: S1041
+  gloss: 'MAG-001-C: Magnus warned the ruler'
+  batch: KAR-004
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: Magnus deliberately-warns to-ruler
+  natural: Magnus warns the ruler.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1041
+  notes: Warning is its own act. This matters because the slogan is partly sustained
+    by the intuition that a sincere warning should count in Magnus's favor.
+- snum: S1042
+  gloss: 'MAG-001-D: Magnus crossed the forbidden boundary to warn'
+  batch: KAR-004
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: Magnus crosses forbidden-boundary / in-order-that [Magnus deliberately-warns
+    to-ruler]
+  natural: Magnus crosses the forbidden boundary so that he can warn the ruler.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1042
+  notes: This is the key turn. The warning does not arrive by neutral means; it is
+    carried through a boundary already marked as forbidden.
+- snum: S1043
+  gloss: 'MAG-001-E: The ward decayed because of the crossing'
+  batch: KAR-004
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: because {Magnus crosses forbidden-boundary}, ward decays
+  natural: Because Magnus crosses the forbidden boundary, the ward decays.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1043
+  notes: Tonesu makes the consequence structurally visible without changing the warning
+    claim. A true warning can still be the cause of catastrophic boundary-failure.
+- snum: S1044
+  gloss: 'MAG-001-F: Warning and fault coexist'
+  batch: KAR-004
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: Magnus deliberately-warns to-ruler / Magnus is fault
+  natural: Magnus warns the ruler, and Magnus is still at fault.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1044
+  notes: This is the Tonesu-native payoff. The slogan fails because warning and fault
+    are not mutually exclusive categories.
+- snum: S1045
+  gloss: 'LOR-001-A: The slogan claim'
+  batch: MAG-001
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: Lorgar right-relational-standing
+  natural: Lorgar was right.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1045
+  notes: This is the meme in its compressed form. The rest of the batch tests whether
+    that "rightness" is epistemic, theological, or moral.
+- snum: S1046
+  gloss: 'LOR-001-B: The regime miscategorized religion'
+  batch: MAG-001
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: regime deliberately-commits-epistemic-fraud religion
+  natural: The regime deliberately miscategorized religion.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1046
+  notes: This is the pressure point behind the slogan. The anti-religious state does
+    not merely disagree with religion; it places religion in the wrong epistemic category.
+- snum: S1047
+  gloss: 'LOR-001-C: Lorgar knew the miscategorization'
+  batch: MAG-001
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: Lorgar knows [regime deliberately-commits-epistemic-fraud religion]
+  natural: Lorgar knew the regime was miscategorizing religion.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1047
+  notes: The batch shifts from slogan to proposition. What Lorgar is right about must
+    be something explicit enough to know, not just a vibe of dissent.
+- snum: S1048
+  gloss: 'LOR-001-D: Religion bears real force'
+  batch: MAG-001
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: religion is directed-power
+  natural: Religion bears directed power.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1048
+  notes: This does not yet say religion is righteous. It says religion is operative,
+    consequential, and not safely reducible to empty fiction.
+- snum: S1049
+  gloss: 'LOR-001-E: Force is not righteousness'
+  batch: MAG-001
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: religion is directed-power / religion not is-by-definition right-relational-standing
+  natural: Religion bears force, but religion is not by definition righteousness.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1049
+  notes: This is the decisive separation. An operative sacred order is not automatically
+    a morally right one.
+- snum: S1050
+  gloss: 'LOR-001-F: Diagnosis and righteousness part ways'
+  batch: MAG-001
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: Lorgar knows [religion is directed-power] / Lorgar not right-relational-standing
+  natural: Lorgar knew religion bore force, and Lorgar was not righteous.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1024-plus.md
+  source_anchor: S1050
+  notes: This is the Tonesu-native payoff. The diagnosis can be right while the person
+    making it is not rightly aligned.

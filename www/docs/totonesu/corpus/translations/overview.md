@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-57 translation analyses.
+59 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -56,7 +56,9 @@ gap analysis, and key findings.
 - [kafka-the-trial](literature/kafka-the-trial/index.md)
 - [king-arthur-round-table](literature/king-arthur-round-table/index.md)
 - [king-arthur-sword-in-stone](literature/king-arthur-sword-in-stone/index.md)
+- [lorgar-was-right](literature/lorgar-was-right/index.md)
 - [machiavelli-dark-triad](literature/machiavelli-dark-triad/index.md)
+- [magnus-did-no-wrong](literature/magnus-did-no-wrong/index.md)
 - [marx](literature/marx/index.md)
 - [minority-report](literature/minority-report/index.md)
 - [psycho-pass](literature/psycho-pass/index.md)

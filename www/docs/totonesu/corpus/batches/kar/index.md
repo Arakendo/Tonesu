@@ -4,7 +4,7 @@ title: "KAR"
 
 # KAR
 
-*Theme: [Foundations](../../foundations/overview.md)* · 10 sentences.
+*Theme: [Foundations](../../foundations/overview.md)* · 16 sentences.
 
 :material-book-open-variant: [Full translation analysis](../../translations/literature/king-arthur-round-table/index.md)
 
@@ -99,6 +99,54 @@ title: "KAR"
 **Finding 3: the cleanest failure sign is loss of reciprocal speech.** When council no longer addresses ruler and ruler no longer addresses council, the institution has already failed as counsel.
 
 **Finding 4: Tonesu separates constitutional form from institutional health.** S1033 states that directly: the Round Table as visible form may remain, while the council as political relation decays.
+
+## KAR-004 · 
+
+<span id="S1039"></span>
+**S1039**
+*Magnus is not at fault.*
+
+<span id="S1040"></span>
+**S1040**
+*Magnus has signal that Horus will betray the ruler.*
+
+<span id="S1041"></span>
+**S1041**
+*Magnus warns the ruler.*
+
+<span id="S1042"></span>
+**S1042**
+*Magnus crosses the forbidden boundary so that he can warn the ruler.*
+
+<span id="S1043"></span>
+**S1043**
+*Because Magnus crosses the forbidden boundary, the ward decays.*
+
+<span id="S1044"></span>
+**S1044**
+*Magnus warns the ruler, and Magnus is still at fault.*
+
+### Batch Summary
+
+**Entries:** S1034–S1038 · **New vocabulary:** none
+
+| Entry | Source focus | Tonesu | Key feature |
+|-------|--------------|--------|-------------|
+| S1034 (KAR-004-A) | final battle opens | `la-na Arthur ka-ra lo-na Mordred ; la-na Mordred ka-ra lo-na Arthur` | combat becomes explicit |
+| S1035 (KAR-004-B) | civil war | `go {ka-ra}, la-o-li ka-de-zo lo-li` | combat normalizes killing |
+| S1036 (KAR-004-C) | Arthur falls | `la-na Mordred ka-de-zo lo-na Arthur` | betrayal culminates in killing |
+| S1037 (KAR-004-D) | Mordred falls, Arthur dies | `la-na Arthur ka-de-zo lo-na Mordred ; la-na Arthur ne de-zo` | kill vs death distinguished |
+| S1038 (KAR-004-E) | rule collapses | `go {la-na Arthur ne de-zo ; lo-li-pu de}, lo-ka-li-su de` | governance decay as terminal outcome |
+
+**Key structural findings:**
+
+**Finding 1: the last Arthur step is not just battle but conversion of politics into combat.** Once counsel fails, force becomes the only remaining grammar of rule.
+
+**Finding 2: Tonesu keeps killing and death distinct.** `ka-de-zo` names deliberate lethal action; `de-zo` names the terminal death-state that follows.
+
+**Finding 3: civil war is structurally clearer than heroic duel.** S1035 makes the important claim: when combat enters the polity, persons kill persons inside the same social field.
+
+**Finding 4: the true ending is governance decay.** The Arthurian fall is complete only when the ruler dies and `lo-ka-li-su` itself decays.
 
 ---
 
