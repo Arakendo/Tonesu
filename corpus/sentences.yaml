@@ -17987,3 +17987,314 @@ sentences:
     is honestly approximated rather than stated as exact `valm`. This batch therefore
     gives current prose attestations for circumference, full-turn, and diagonal quantities
     without forcing an ungrounded area formula.
+- snum: S941
+  gloss: 'Classic Law 1a: machine may not harm a person.'
+  batch: ROB-001
+  batch_sub: A
+  status: normative
+  tonesu: wi-fe-ka  [la-mu  ka-de  lo-i-zo-li]
+  gloss_line: null
+  natural: 'Classic Law 1a: machine may not harm a person.'
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S941
+  notes: 'This is the cleanest direct paraphrase of the first half of Asimov''s first
+    law. `wi-fe-ka [clause]` keeps the rule at clause level: what is prohibited is
+    not the machine as such but the act of deliberate harm against a particular person.
+    `mu` is sufficient here; the pressure is on law architecture, not on inventing
+    a dedicated humanoid-machine lexeme.'
+- snum: S942
+  gloss: 'Classic Law 1b: danger to a person''s life creates a rescue duty.'
+  batch: ROB-001
+  batch_sub: B
+  status: normative
+  tonesu: go {la-i-zo-li  zo-ra  de},  la-mu  ne-fe  lo-ka-no-de  lo-i-zo-li
+  gloss_line: null
+  natural: 'Classic Law 1b: danger to a person''s life creates a rescue duty.'
+  words_attested:
+  - W042
+  - W117
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S942
+  notes: 'The English source famously hides the inaction clause inside the word "allow."
+    Tonesu forces the duty out into its own sentence: if a person''s life-energy is
+    under threat, the machine is required to preserve that person. `ka-no-de` (deliberate
+    preservation) gives the rescue side explicitly instead of implying it through
+    the negation of harm.'
+- snum: S943
+  gloss: 'Classic Law 2: a human demand binds unless the first law blocks it.'
+  batch: ROB-001
+  batch_sub: C
+  status: normative
+  tonesu: go {la-i-zo-li  wi-ra  [la-mu  wi-ka] ; no-wi-fe-ka  [la-mu  ka-de  lo-i-zo-li]},  la-mu  ne-fe  lo-wi-ka
+  gloss_line: null
+  natural: 'Classic Law 2: a human demand binds unless the first law blocks it.'
+  words_attested:
+  - W042
+  - W177
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S943
+  notes: 'This is a functional paraphrase of the second law rather than a direct quotation.
+    `wi-ra` is used in its demand predicate sense: the person demands that the machine
+    act. The result clause uses `ne-fe` to convert that demand into a requirement
+    on the machine, but only after the no-harm condition is checked.'
+- snum: S944
+  gloss: 'Classic Law 3: self-preservation is subordinate.'
+  batch: ROB-001
+  batch_sub: D
+  status: normative
+  tonesu: go {lo-mu  ne-fe  lo-no-de ; no-wi-fe-ka  [la-mu  ka-de  lo-i-zo-li] ; no  la-i-zo-li  wi-ra  [la-mu  wi-ka]},  la-mu  no-de
+  gloss_line: null
+  natural: 'Classic Law 3: self-preservation is subordinate.'
+  words_attested:
+  - W042
+  - W177
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S944
+  notes: The third law is rendered as a dependency condition, not as a machine's pseudo-instinct.
+    `lo-mu ne-fe lo-no-de` = the machine requires preservation/continued integrity.
+    The act of self-preservation is then allowed only when neither person-safety nor
+    a current human demand blocks it.
+- snum: S945
+  gloss: Structural verdict on the classic hierarchy.
+  batch: ROB-001
+  batch_sub: E
+  status: normative
+  tonesu: la-wi-fe-su  ne  no-su-to  /  ke,  la-wi-fe-su  no  to-su-ki  lo-to-fe  {wi-ra
+    ; wi-fe ; si ; to}
+  gloss_line: null
+  natural: Structural verdict on the classic hierarchy.
+  words_attested:
+  - W025
+  - W028
+  - W100
+  - W177
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S945
+  notes: The classic hierarchy works as a memorable rule battery, but in Tonesu it
+    reveals its compression cost. It does not fully comprehend the boundaries among
+    demand/authority (`wi-ra`), prohibition (`wi-fe`), and epistemic grade (`si` vs
+    `to`). That is the fault-line the redesigned laws address.
+- snum: S946
+  gloss: 'Tonesu-native Law 1: persons are rights-bearers, so machine harm is forbidden.'
+  batch: ROB-001
+  batch_sub: F
+  status: normative
+  tonesu: la-i-zo-li  ne  wi-fe  /  wi-fe-ka  [la-mu  ka-de  lo-i-zo-li]
+  gloss_line: null
+  natural: 'Tonesu-native Law 1: persons are rights-bearers, so machine harm is forbidden.'
+  words_attested:
+  - W100
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S946
+  notes: 'The redesign starts by making the normative basis explicit: the person is
+    not merely a protected biological object but a rights-bearer. The prohibition
+    on machine harm then follows from that status instead of standing as an unexplained
+    species preference.'
+- snum: S947
+  gloss: 'Tonesu-native Law 2: rescue duty is stated separately from the harm ban.'
+  batch: ROB-001
+  batch_sub: G
+  status: normative
+  tonesu: go {la-i-zo-li  zo-ra  de},  la-mu  ne-fe  lo-ka-no-de  lo-i-zo-li
+  gloss_line: null
+  natural: 'Tonesu-native Law 2: rescue duty is stated separately from the harm ban.'
+  words_attested:
+  - W042
+  - W117
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S947
+  notes: This repeats the rescue clause because the redesign keeps it as a first-class
+    law rather than leaving it buried inside a negated-harm formula. Tonesu's compositional
+    system is more honest when prohibition and required preservation are kept distinct.
+- snum: S948
+  gloss: 'Tonesu-native Law 3: only recognized authority can issue binding demands
+    to a machine.'
+  batch: ROB-001
+  batch_sub: H
+  status: normative
+  tonesu: go {la-i-zo-li  ne  wi-ra  lo-mu ; la-i-zo-li  wi-ra  [la-mu  wi-ka] ; no-wi-fe-ka  [la-mu  ka-de  lo-i-zo-li]},  la-mu  ne-fe  lo-wi-ka
+  gloss_line: null
+  natural: 'Tonesu-native Law 3: only recognized authority can issue binding demands
+    to a machine.'
+  words_attested:
+  - W042
+  - W177
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S948
+  notes: This is the first substantive improvement over the classic second law. Mere
+    human demand is no longer enough. The speaker must stand in an explicit authority
+    relation to the machine, and the demanded act remains subordinate to the person-safety
+    rule.
+- snum: S949
+  gloss: 'Tonesu-native Law 4: signal-grade danger without knowledge-grade certainty
+    must be escalated.'
+  batch: ROB-001
+  batch_sub: I
+  status: normative
+  tonesu: go {la-mu  si  [la-i-zo-li  zo-ra  de] / la-mu  no-to  [lo-ze]},  la-mu  ka-si  lo-to-fe-li  lo-ze
+  gloss_line: null
+  natural: 'Tonesu-native Law 4: signal-grade danger without knowledge-grade certainty
+    must be escalated.'
+  words_attested:
+  - W032
+  - W117
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S949
+  notes: 'This is the most Tonesu-native sentence in the batch. If the machine has
+    signal-level evidence of danger but lacks knowledge-grade certainty, it must route
+    the case to an epistemic arbiter. The classic laws force a false binary between
+    acting and not acting; Tonesu adds a third option: escalate under uncertainty.'
+- snum: S950
+  gloss: 'Tonesu-native Law 5: self-maintenance is a dependency condition subordinate
+    to person-safety and authority.'
+  batch: ROB-001
+  batch_sub: J
+  status: normative
+  tonesu: go {lo-mu  ne-fe  lo-no-de ; no-wi-fe-ka  [la-mu  ka-de  lo-i-zo-li] ; no  la-i-zo-li  ne  wi-ra  lo-mu},  la-mu  no-de
+  gloss_line: null
+  natural: 'Tonesu-native Law 5: self-maintenance is a dependency condition subordinate
+    to person-safety and authority.'
+  words_attested:
+  - W042
+  - W177
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S950
+  notes: The machine's own integrity is still protected, but the law states the condition
+    in dependency terms (`ne-fe`) rather than in anthropomorphic "self-preservation"
+    language. The absence of a current authority relation is enough here; maintenance
+    is the default only when higher-order human claims are not active.
+- snum: S951
+  gloss: Conflicting authorized demands route upward.
+  batch: ROB-002
+  batch_sub: A
+  status: normative
+  tonesu: go {la-i-zo-li  ne  wi-ra  lo-mu ; la-ze  ne  wi-ra  lo-mu ; la-i-zo-li  wi-ra  [la-mu  wi-ka]
+    / la-ze  wi-ra  no  [la-mu  wi-ka]},  la-mu  ka-si  lo-to-fe-li  lo-ze
+  gloss_line: null
+  natural: Conflicting authorized demands route upward.
+  words_attested:
+  - W032
+  - W177
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S951
+  notes: 'ROB-001 established that recognized authority matters. This sentence adds
+    the next failure case: two authorized persons issue opposed demands. Tonesu does
+    not force the machine to pretend one command is self-validating; it routes the
+    conflict to `to-fe-li`.'
+- snum: S952
+  gloss: Known danger outranks only-signaled danger.
+  batch: ROB-002
+  batch_sub: B
+  status: normative
+  tonesu: go {la-i-zo-li  zo-ra  de ; la-mu  si  [la-ze  zo-ra  de] / la-mu  no-to  [lo-ze]},  la-mu  ne-fe  lo-ka-no-de  lo-i-zo-li
+  gloss_line: null
+  natural: Known danger outranks only-signaled danger.
+  words_attested:
+  - W042
+  - W117
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S952
+  notes: This is a triage sentence, but an epistemically grounded one. A person whose
+    life-danger is already established outranks another case that is only signal-grade
+    and not yet knowledge-certified. Tonesu therefore prioritizes certainty class
+    before pretending to have a single undifferentiated "emergency" category.
+- snum: S953
+  gloss: Signal-grade danger licenses warning, not containment.
+  batch: ROB-002
+  batch_sub: C
+  status: normative
+  tonesu: go {la-mu  si  [la-i-zo-li  zo-ra  de] / la-mu  no-to  [lo-ze]},  la-mu  ka-fe-si  ne-i-zo-li  /  no-wi-fe-ka  [la-mu  ka-ko  lo-i-zo-li]
+  gloss_line: null
+  natural: Signal-grade danger licenses warning, not containment.
+  words_attested:
+  - W117
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S953
+  notes: This is the practical counterpart to S949. If the machine only has signal-grade
+    evidence of danger, it may warn the person, but it may not yet contain them. Tonesu
+    cleanly separates alerting from coercion.
+- snum: S954
+  gloss: If the arbiter does not certify the danger, containment stays forbidden.
+  batch: ROB-002
+  batch_sub: D
+  status: normative
+  tonesu: go {la-mu  ka-si  lo-to-fe-li  lo-ze ; la-to-fe-li  no-to  [lo-ze]},  wi-fe-ka  [la-mu  ka-ko  lo-i-zo-li]
+  gloss_line: null
+  natural: If the arbiter does not certify the danger, containment stays forbidden.
+  words_attested:
+  - W032
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S954
+  notes: The routing step is not ceremonial. If the arbiter does not hold the danger
+    proposition as established, coercive containment remains prohibited. This makes
+    false-positive handling explicit instead of leaving it to an implied operator
+    override.
+- snum: S955
+  gloss: If the arbiter certifies the danger, protective containment becomes permitted.
+  batch: ROB-002
+  batch_sub: E
+  status: normative
+  tonesu: go {la-mu  ka-si  lo-to-fe-li  lo-ze ; la-to-fe-li  to  [lo-ze]},  no-wi-fe-ka  [la-mu  ka-ko  lo-i-zo-li]
+  gloss_line: null
+  natural: If the arbiter certifies the danger, protective containment becomes permitted.
+  words_attested:
+  - W032
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S955
+  notes: This is the positive partner to S954. Once the danger proposition crosses
+    into `to` under institutional adjudication, containment may become permitted as
+    a protective measure. The contrast shows that the decisive boundary is epistemic
+    certification, not machine urgency alone.
+- snum: S956
+  gloss: 'Structural verdict: edge cases require routing before coercion.'
+  batch: ROB-002
+  batch_sub: F
+  status: normative
+  tonesu: la-wi-fe-su  no  to-su-ki  lo-to-fe  {wi-ra ; si ; to}  /  ke,  la-mu  ne-fe  lo-ka-si  lo-to-fe-li
+  gloss_line: null
+  natural: 'Structural verdict: edge cases require routing before coercion.'
+  words_attested:
+  - W025
+  - W028
+  - W032
+  - W042
+  - W177
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S956
+  notes: 'ROB-001 argued that authority and epistemic grade had been compressed. ROB-002
+    turns that diagnosis into procedure: where authority or certainty is unresolved,
+    the machine must route the case before coercive action. In Tonesu, escalation
+    is part of the law-set, not a patch applied after it fails.'
