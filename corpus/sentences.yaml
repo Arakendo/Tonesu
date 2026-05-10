@@ -17933,3 +17933,57 @@ sentences:
     notion `ti-re`. The batch therefore confirms that the same identity pattern works
     across counting (`wels`), distance (`holf`), and time (`hulm`) without any new
     grammar.
+- snum: S938
+  gloss: Approximate circumference quantity.
+  batch: GQM-001
+  batch_sub: A
+  status: normative
+  tonesu: ~varn  nu  pa-re  helms  3.14159  nu  pa-re
+  gloss_line: null
+  natural: Approximate circumference quantity.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S938
+  notes: First running-corpus use of the full geometry quantity phrase `varn nu pa-re`,
+    the anchor-inventory model for circumference quantity. Because the right side
+    is a finite decimal, the left side is correctly hedged as `~varn nu pa-re`, not
+    bare `varn nu pa-re`. This extends the CVA-001 approximation rule from bare constants
+    to complete geometry measurement phrases.
+- snum: S939
+  gloss: Exact full-turn identity.
+  batch: GQM-001
+  batch_sub: B
+  status: normative
+  tonesu: worn  nu  pa  helms  bun  varn  nu  pa
+  gloss_line: null
+  natural: Exact full-turn identity.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S939
+  notes: 'First running-corpus use of `worn nu pa` (the full-turn / tau quantity).
+    The identity is exact: the full-turn constant equals two pi-quantities of space,
+    so `helms` is correct and no approximation mark belongs here. This sentence gives
+    the geometry side of the `worn = 2π` relation directly in prose rather than only
+    in anchor-inventory notes.'
+- snum: S940
+  gloss: Approximate unit-square diagonal quantity.
+  batch: GQM-001
+  batch_sub: C
+  status: normative
+  tonesu: ~valm  nu  pa  helms  1.41421  nu  pa
+  gloss_line: null
+  natural: Approximate unit-square diagonal quantity.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S940
+  notes: First running-corpus use of `valm nu pa`, the anchor-inventory form for the
+    diagonal of a unit square. As with S938, the decimal is finite, so the quantity
+    is honestly approximated rather than stated as exact `valm`. This batch therefore
+    gives current prose attestations for circumference, full-turn, and diagonal quantities
+    without forcing an ungrounded area formula.

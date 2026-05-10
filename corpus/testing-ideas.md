@@ -23,6 +23,7 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 
 - [x] **CVCC anchors in running prose** — filed as CVA-001 (S932–S934). First sentence-level technical use of `~varn`, `vern`, and `~dolm` with decimal/scientific notation inside ordinary corpus prose. Core question resolved: numeric expressions can sit directly before `nu` measurement domains, and approximation belongs on the constant term (`~varn`, `~dolm`) rather than being left implicit.
 - [x] **Conventional / observational CVCC units in running prose** — filed as CUA-001 (S935–S937). Extends the same prose test to exact unit anchors: `wels nu ru-pe-ma`, `holf nu pa`, and `hulm nu ti`. Core question resolved: conventionally fixed unit anchors use the same `helms` identity pattern as exact physical constants.
+- [x] **Geometry quantities in running prose** — filed as GQM-001 (S938–S940). Activates `~varn nu pa-re`, `worn nu pa`, and `~valm nu pa` as full sentence constituents. Core question resolved: approximation and exact identity work on whole geometry quantity phrases, not just on bare constants.
 
 ---
 
