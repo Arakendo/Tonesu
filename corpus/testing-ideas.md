@@ -21,7 +21,8 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 
 ## Ready to run — new tier in use
 
-- [ ] **CVCC anchors in running prose** — `varn` (π), `vern` (c), `birm` (ħ), etc. exist in inventory but appear in essentially zero running corpus sentences. Batch using them in actual calculation prose: area of a circle, relativistic mass, Planck's constant. Opens the question of how to embed numeric expressions like `vern = 2.998 × 10⁸ fe-ri`.
+- [x] **CVCC anchors in running prose** — filed as CVA-001 (S932–S934). First sentence-level technical use of `~varn`, `vern`, and `~dolm` with decimal/scientific notation inside ordinary corpus prose. Core question resolved: numeric expressions can sit directly before `nu` measurement domains, and approximation belongs on the constant term (`~varn`, `~dolm`) rather than being left implicit.
+- [x] **Conventional / observational CVCC units in running prose** — filed as CUA-001 (S935–S937). Extends the same prose test to exact unit anchors: `wels nu ru-pe-ma`, `holf nu pa`, and `hulm nu ti`. Core question resolved: conventionally fixed unit anchors use the same `helms` identity pattern as exact physical constants.
 
 ---
 

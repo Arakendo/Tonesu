@@ -271,3 +271,160 @@
 **Verdict:** irreducibly formal — the batch exists to separate legal bases that ordinary prose tends to collapse, and the `~` reading on S930 is itself part of the analysis.
 
 *CLQ entries registered from this batch: none.*
+
+---
+
+## CVCC Anchors in Running Prose (S932–S934) *(CVA-001)*
+
+**Purpose:** First actual running-corpus use of CVCC mathematical and physical anchors inside sentence-level technical prose rather than inventory lists. This batch tests whether standard decimal/scientific notation can sit cleanly inside Tonesu clauses, whether `~` is the honest way to cite approximate constant values, and whether `helms` is the right identity operator for exact measurement definitions.
+
+---
+
+**S932 — Approximate pi in calculation register.** *(CVA-001-A)*
+
+```
+~varn  helms  3.14159
+```
+
+Written: `~varn helms 3.14159`
+
+**Notes:** First sentence-level use of a CVCC constant with the canonical `~` approximation mark in technical prose. The subject is not exact `varn` but `~varn`: the calculation is being carried out with a finite decimal approximation of $\pi$, not with the transcendental constant in full precision. `helms` is correct because the sentence is stipulating the value used in this calculation, not merely saying that it behaves like that value. This resolves the practical question raised in the anchor inventory note: the honest scientific form is `~varn`, not bare `varn`, whenever a finite decimal stands in for $\pi$.
+
+---
+
+**S933 — Exact SI definition of the speed of light.** *(CVA-001-B)*
+
+```
+vern  helms  299792458  nu  pa-ti
+```
+
+Written: `vern helms 299792458 nu pati`
+
+**Notes:** First running-corpus use of `vern` (speed of light). `nu pa-ti` is the measurement-domain phrase for distance-time quantity, matching the anchor-inventory usage model `vern nu pa-ti`. Unlike S932, this one is unhedged: the SI value of $c$ is exact by definition, so `helms` is the right operator and `~` would be wrong. The sentence confirms that a bare decimal/integer numeral can combine directly with a `nu`-measurement phrase inside ordinary prose without forcing a separate display-equation register.
+
+---
+
+**S934 — Approximate electron mass in scientific notation.** *(CVA-001-C)*
+
+```
+~dolm  helms  9.109 × 10^-31  nu  ma
+```
+
+Written: `~dolm helms 9.109 × 10^-31 nu ma`
+
+**Notes:** First running-corpus use of `dolm` (electron mass anchor). `nu ma` supplies the mass domain directly, with no extra unit word required. The scientific-notation block is intentionally written in standard international math notation, which `spec/word-formation.md` explicitly permits for technical prose. The approximation mark belongs on the constant term (`~dolm`), not buried inside the numeric string, because what is being cited is an approximate measured value of the electron mass.
+
+---
+
+## CVA-001 Batch Summary
+
+| Entry | Form | Test |
+|-------|------|------|
+| S932 (CVA-001-A) | `~varn helms 3.14159` | approximate CVCC constant with decimal notation |
+| S933 (CVA-001-B) | `vern helms 299792458 nu pa-ti` | exact CVCC constant with `nu` measurement phrase |
+| S934 (CVA-001-C) | `~dolm helms 9.109 × 10^-31 nu ma` | scientific notation plus approximate atomic-mass anchor |
+
+**Key findings:**
+
+1. **`~` belongs on the constant term, not the digits.** `~varn` and `~dolm` are the honest forms when a finite numeral stands in for an inexact or measured value.
+2. **`helms` is right for technical identity statements.** The batch uses it for both exact SI definition (S933) and stipulated approximate-value assignment in a calculation context (S932, S934).
+3. **Standard math notation integrates cleanly with prose Tonesu.** Plain decimals and scientific notation can appear directly before `nu` measurement domains without needing a separate grammar device.
+4. **CVCC anchors are now usable in real sentence flow.** The constants no longer live only in the anchor inventory; they behave as ordinary technical nouns in the corpus.
+
+**New W-entries:** none
+
+**Compositional first uses:** `pa-ti` (distance-time measurement domain) in running corpus prose.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `~varn` | none | — | CVCC anchor + approximation mark; technical load-bearing |
+| `vern` | none | — | CVCC anchor; already atomic minimum |
+| `~dolm` | none | — | CVCC anchor + approximation mark; technical load-bearing |
+| `pa-ti` | none | — | 2-root measurement domain — below threshold |
+| `nu ma` | none | — | base measurement phrase — below threshold |
+
+**Verdict:** irreducibly formal — the entire point of the batch is exact technical calibration, and the CVCC anchors are already the minimal fast forms.
+
+*CLQ entries registered from this batch: none.*
+
+---
+
+## Conventional and Observational CVCC Anchors (S935–S937) *(CUA-001)*
+
+**Purpose:** Extends CVCC anchor use from mathematical/physical constants to the conventional and observational unit side of the same tier. This batch tests whether unit anchors like `wels`, `holf`, and `hulm` behave cleanly inside sentence-level technical prose when paired with explicit `nu` measurement domains.
+
+---
+
+**S935 — Exact mole definition in counting register.** *(CUA-001-A)*
+
+```
+wels  nu  ru-pe-ma  helms  6.02214076 × 10^23  nu  ru-pe-ma
+```
+
+Written: `wels nu rupema helms 6.02214076 × 10^23 nu rupema`
+
+**Notes:** First running-corpus use of `wels` (mole). The subject is the full measurement NP `wels nu ru-pe-ma`: one mole in the atomic counting domain. This is exact, not approximate, because the modern SI definition fixes the mole by exact entity count. The sentence confirms that a CVCC unit anchor can sit on the left side of `helms` just as cleanly as a physical constant.
+
+---
+
+**S936 — Exact astronomical-unit definition.** *(CUA-001-B)*
+
+```
+holf  nu  pa  helms  149597870700  nu  pa
+```
+
+Written: `holf nu pa helms 149597870700 nu pa`
+
+**Notes:** First running-corpus use of `holf` (astronomical unit). `nu pa` supplies the distance domain on both sides of the identity, making the clause explicitly dimensional rather than treating `holf` as a bare symbol. Like S935, this is exact by definition rather than estimated observation, so `helms` is the right operator and `~` would misstate the status of the value.
+
+---
+
+**S937 — Exact Julian-year calibration.** *(CUA-001-C)*
+
+```
+hulm  nu  ti  helms  31557600  nu  ti
+```
+
+Written: `hulm nu ti helms 31557600 nu ti`
+
+**Notes:** First running-corpus use of `hulm` (Julian year). This sentence distinguishes the calibrated astronomical time anchor from the ordinary compositional cycle notion `ti-re`. The batch therefore confirms that the same identity pattern works across counting (`wels`), distance (`holf`), and time (`hulm`) without any new grammar.
+
+---
+
+## CUA-001 Batch Summary
+
+| Entry | Form | Test |
+|-------|------|------|
+| S935 (CUA-001-A) | `wels nu ru-pe-ma helms 6.02214076 × 10^23 nu ru-pe-ma` | exact counting-unit anchor in prose |
+| S936 (CUA-001-B) | `holf nu pa helms 149597870700 nu pa` | exact observational distance anchor in prose |
+| S937 (CUA-001-C) | `hulm nu ti helms 31557600 nu ti` | exact calibrated time anchor in prose |
+
+**Key findings:**
+
+1. **CVCC unit anchors integrate cleanly with `nu` phrases.** `wels`, `holf`, and `hulm` work as the heads of full measurement NPs in ordinary clause position.
+2. **`helms` remains the correct operator for definition-level unit statements.** All three values are conventionally fixed, so approximation would be structurally false.
+3. **The same identity template scales across distinct domains.** Counting, distance, and time all use the same clause pattern without extra machinery.
+4. **The CVCC tier now has live corpus evidence on both sides of its design brief.** CVA-001 covered constants; CUA-001 covers conventional/observational units.
+
+**New W-entries:** none
+
+**Compositional first uses:** `ru-pe-ma` as an explicit right-side counting domain in a `helms` identity sentence.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `wels nu ru-pe-ma` | none | — | CVCC anchor + measurement phrase; technical minimum |
+| `holf nu pa` | none | — | CVCC anchor + base distance domain; technical minimum |
+| `hulm nu ti` | none | — | CVCC anchor + base time domain; technical minimum |
+| `ru-pe-ma` | none | — | registered compositional counting domain; technical load-bearing |
+
+**Verdict:** irreducibly formal — these clauses exist to preserve calibration-level exactness, and the anchor forms are already the shortest legitimate units.
+
+*CLQ entries registered from this batch: none.*

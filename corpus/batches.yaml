@@ -1127,3 +1127,13 @@ batches:
   theme: Foundations
   range: S925–S931
   count: 7
+- code: CVA-001
+  title: ''
+  theme: Foundations
+  range: S932–S934
+  count: 3
+- code: CUA-001
+  title: ''
+  theme: Foundations
+  range: S935–S937
+  count: 3

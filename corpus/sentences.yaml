@@ -17820,3 +17820,116 @@ sentences:
     not all of one kind and they overlap structurally. `~vo-ne` is the most obvious
     outlier, but the real issue is broader: the article gives multiple ways to suspend
     prohibition without making their boundary relations explicit.'
+- snum: S932
+  gloss: Approximate pi in calculation register.
+  batch: CVA-001
+  batch_sub: A
+  status: normative
+  tonesu: ~varn  helms  3.14159
+  gloss_line: null
+  natural: Approximate pi in calculation register.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S932
+  notes: 'First sentence-level use of a CVCC constant with the canonical `~` approximation
+    mark in technical prose. The subject is not exact `varn` but `~varn`: the calculation
+    is being carried out with a finite decimal approximation of $\pi$, not with the
+    transcendental constant in full precision. `helms` is correct because the sentence
+    is stipulating the value used in this calculation, not merely saying that it behaves
+    like that value. This resolves the practical question raised in the anchor inventory
+    note: the honest scientific form is `~varn`, not bare `varn`, whenever a finite
+    decimal stands in for $\pi$.'
+- snum: S933
+  gloss: Exact SI definition of the speed of light.
+  batch: CVA-001
+  batch_sub: B
+  status: normative
+  tonesu: vern  helms  299792458  nu  pa-ti
+  gloss_line: null
+  natural: Exact SI definition of the speed of light.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S933
+  notes: 'First running-corpus use of `vern` (speed of light). `nu pa-ti` is the measurement-domain
+    phrase for distance-time quantity, matching the anchor-inventory usage model `vern
+    nu pa-ti`. Unlike S932, this one is unhedged: the SI value of $c$ is exact by
+    definition, so `helms` is the right operator and `~` would be wrong. The sentence
+    confirms that a bare decimal/integer numeral can combine directly with a `nu`-measurement
+    phrase inside ordinary prose without forcing a separate display-equation register.'
+- snum: S934
+  gloss: Approximate electron mass in scientific notation.
+  batch: CVA-001
+  batch_sub: C
+  status: normative
+  tonesu: ~dolm  helms  9.109 × 10^-31  nu  ma
+  gloss_line: null
+  natural: Approximate electron mass in scientific notation.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S934
+  notes: First running-corpus use of `dolm` (electron mass anchor). `nu ma` supplies
+    the mass domain directly, with no extra unit word required. The scientific-notation
+    block is intentionally written in standard international math notation, which
+    `spec/word-formation.md` explicitly permits for technical prose. The approximation
+    mark belongs on the constant term (`~dolm`), not buried inside the numeric string,
+    because what is being cited is an approximate measured value of the electron mass.
+- snum: S935
+  gloss: Exact mole definition in counting register.
+  batch: CUA-001
+  batch_sub: A
+  status: normative
+  tonesu: wels  nu  ru-pe-ma  helms  6.02214076 × 10^23  nu  ru-pe-ma
+  gloss_line: null
+  natural: Exact mole definition in counting register.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S935
+  notes: 'First running-corpus use of `wels` (mole). The subject is the full measurement
+    NP `wels nu ru-pe-ma`: one mole in the atomic counting domain. This is exact,
+    not approximate, because the modern SI definition fixes the mole by exact entity
+    count. The sentence confirms that a CVCC unit anchor can sit on the left side
+    of `helms` just as cleanly as a physical constant.'
+- snum: S936
+  gloss: Exact astronomical-unit definition.
+  batch: CUA-001
+  batch_sub: B
+  status: normative
+  tonesu: holf  nu  pa  helms  149597870700  nu  pa
+  gloss_line: null
+  natural: Exact astronomical-unit definition.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S936
+  notes: First running-corpus use of `holf` (astronomical unit). `nu pa` supplies
+    the distance domain on both sides of the identity, making the clause explicitly
+    dimensional rather than treating `holf` as a bare symbol. Like S935, this is exact
+    by definition rather than estimated observation, so `helms` is the right operator
+    and `~` would misstate the status of the value.
+- snum: S937
+  gloss: Exact Julian-year calibration.
+  batch: CUA-001
+  batch_sub: C
+  status: normative
+  tonesu: hulm  nu  ti  helms  31557600  nu  ti
+  gloss_line: null
+  natural: Exact Julian-year calibration.
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S937
+  notes: First running-corpus use of `hulm` (Julian year). This sentence distinguishes
+    the calibrated astronomical time anchor from the ordinary compositional cycle
+    notion `ti-re`. The batch therefore confirms that the same identity pattern works
+    across counting (`wels`), distance (`holf`), and time (`hulm`) without any new
+    grammar.
