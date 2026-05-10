@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-52 translation analyses.
+54 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -55,6 +55,8 @@ gap analysis, and key findings.
 - [kafka-the-trial](literature/kafka-the-trial/index.md)
 - [machiavelli-dark-triad](literature/machiavelli-dark-triad/index.md)
 - [marx](literature/marx/index.md)
+- [minority-report](literature/minority-report/index.md)
+- [psycho-pass](literature/psycho-pass/index.md)
 - [sanguinius-speech](literature/sanguinius-speech/index.md)
 - [star-wars-codes](literature/star-wars-codes/index.md)
 - [tale-of-two-cities](literature/tale-of-two-cities/index.md)

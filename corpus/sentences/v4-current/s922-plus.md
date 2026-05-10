@@ -794,3 +794,239 @@ Written: `lawifesu no tosuki lotofe {wira ; si ; to} / ke, lamu nefe lokasi loto
 **Verdict:** irreducibly formal — the edge cases live exactly at the boundary where conversational compression would erase legal and epistemic distinctions.
 
 *CLQ entries registered from this batch: none.*
+
+---
+
+## Minority Report — Predictive Detention (S957-S962) *(MRP-001)*
+
+**Purpose:** Tests whether Tonesu can represent pre-crime logic without collapsing prediction into guilt. The batch pressures five distinctions that English predictive-policing narratives routinely blur: future event vs present fault, signal vs certification, accusation vs adjudication, report-conflict vs settled knowledge, and warning vs confinement.
+
+---
+
+**S957 — The apparatus predicts a future killing.** *(MRP-001-A)*
+
+```
+la-o-ka-su  si  [ta-ti-be  la-na Anderton  ka-de  lo-na Crow]
+```
+
+Written: `laokasu si [tatibe lana Anderton kade lona Crow]`
+
+**Notes:** The opening premise is stated at signal-grade, not knowledge-grade. `ta-ti-be` gives open-timeline future reference: the apparatus is signaling a predicted killing, not describing a completed act. This is the core Minority Report move in Tonesu form.
+
+---
+
+**S958 — A predicted future act is not yet established fault.** *(MRP-001-B)*
+
+```
+la-o-ka-su  si  [ta-ti-be  la-na Anderton  ka-de  lo-na Crow]  /  la-na Anderton  no  ne  de-su
+```
+
+Written: `laokasu si [tatibe lana Anderton kade lona Crow] / lana Anderton no ne desu`
+
+**Notes:** Tonesu refuses the silent jump from forecast to guilt. The left clause is a signaled future proposition; the right clause states the present legal-ethical status directly: Anderton is not yet at fault. The distinction is not rhetorical but structural.
+
+---
+
+**S959 — Detention before adjudication turns prediction into accusation.** *(MRP-001-C)*
+
+```
+go {la-o-ka-su  ka-ko  lo-na Anderton  ta-ti-de  lo-ka-to-fe},  la-o-ka-su  si  [la-na Anderton  ne  de-su]
+```
+
+Written: `go {laokasu kako lona Anderton tatide lokatofe}, laokasu si [lana Anderton ne desu]`
+
+**Notes:** This is the Kafka pressure point inside Minority Report. If the apparatus confines a person before adjudication, it has already converted the prediction into an accusation. `ta-ti-de lo-ka-to-fe` makes the temporal violation explicit: the custody comes before the judgment process.
+
+---
+
+**S960 — Conflicting predictive records block certification.** *(MRP-001-D)*
+
+```
+go {la-o-si-ko-mu  si  [ta-ti-be  la-na Anderton  ka-de  lo-na Crow]  /  la-o-si-ko-mu  si  no  [ta-ti-be  la-na Anderton  ka-de  lo-na Crow]},  la-o-ka-su  no  to  [ta-ti-be  la-na Anderton  ka-de  lo-na Crow]
+```
+
+Written: `go {laosikomu si [tatibe lana Anderton kade lona Crow] / laosikomu si no [tatibe lana Anderton kade lona Crow]}, laokasu no to [tatibe lana Anderton kade lona Crow]`
+
+**Notes:** A Minority Report case is not a colorful exception; it is the decisive epistemic event. If the record-set signals both a future killing and its negation, the apparatus cannot honestly hold the killing proposition at `to` level. The system is structurally in dispute with itself.
+
+---
+
+**S961 — Under uncertified prediction, the case must route upward and detention stays forbidden.** *(MRP-001-E)*
+
+```
+go {la-o-ka-su  no  to  [ta-ti-be  la-na Anderton  ka-de  lo-na Crow]},  la-o-ka-su  ka-si  lo-to-fe-li  lo-ze  /  wi-fe-ka  [la-o-ka-su  ka-ko  lo-na Anderton]
+```
+
+Written: `laokasu no to [tatibe lana Anderton kade lona Crow], laokasu kasi lotofeli loze / wifeka [laokasu kako lona Anderton]`
+
+**Notes:** This is the Tonesu-native repair. If the predictive claim is not established, the apparatus must route the proposition to `to-fe-li`; it may not detain the target merely because a forecast exists. Minority Report becomes a procedural problem, not a license for preemptive custody.
+
+---
+
+**S962 — Structural verdict: pre-crime collapses prediction, fault, and punishment.** *(MRP-001-F)*
+
+```
+la-wi-fe-su  no  to-su-ki  lo-to-fe  {si ; ti-be ; de-su ; ka-ko}  /  ke,  la-o-ka-su  ne-fe  lo-ka-si  lo-to-fe-li
+```
+
+Written: `lawifesu no tosuki lotofe {si ; tibe ; desu ; kako} / ke, laokasu nefe lokaci lotofeli`
+
+**Notes:** The legal failure is not merely futuristic surveillance. It is category collapse. A pre-crime regime treats signal, future time, guilt, and confinement as if they were one continuous object. Tonesu exposes the breakpoints and makes routing to adjudication the only defensible next step.
+
+---
+
+## MRP-001 Batch Summary
+
+| Entry | Form | Test |
+|-------|------|------|
+| S957 (MRP-001-A) | `la-o-ka-su si [ta-ti-be la-na Anderton ka-de lo-na Crow]` | future killing as signaled prediction |
+| S958 (MRP-001-B) | `la-o-ka-su si [ta-ti-be la-na Anderton ka-de lo-na Crow] / la-na Anderton no ne de-su` | prediction is not present guilt |
+| S959 (MRP-001-C) | `go {la-o-ka-su ka-ko lo-na Anderton ta-ti-de lo-ka-to-fe}, la-o-ka-su si [la-na Anderton ne de-su]` | detention-before-judgment becomes accusation |
+| S960 (MRP-001-D) | `go {la-o-si-ko-mu si [ta-ti-be la-na Anderton ka-de lo-na Crow] / la-o-si-ko-mu si no [ta-ti-be la-na Anderton ka-de lo-na Crow]}, la-o-ka-su no to [ta-ti-be la-na Anderton ka-de lo-na Crow]` | conflicting records block certification |
+| S961 (MRP-001-E) | `go {la-o-ka-su no to [ta-ti-be la-na Anderton ka-de lo-na Crow]}, la-o-ka-su ka-si lo-to-fe-li lo-ze / wi-fe-ka [la-o-ka-su ka-ko lo-na Anderton]` | uncertified prediction routes upward; detention forbidden |
+| S962 (MRP-001-F) | `la-wi-fe-su no to-su-ki lo-to-fe {si ; ti-be ; de-su ; ka-ko} / ke, la-o-ka-su ne-fe lo-ka-si lo-to-fe-li` | structural verdict on pre-crime |
+
+**Key findings:**
+
+1. **Future prediction is not present fault.** Tonesu can state both in one sentence without blur.
+2. **Preemptive detention is not neutral prevention.** It is already accusation when it precedes adjudication.
+3. **A minority report is epistemically decisive.** Conflicting predictive records prevent honest `to`-grade certification.
+4. **The lawful response to uncertain prediction is routing, not confinement.**
+
+**New W-entries:** none
+
+**Compositional first uses:** none required; the batch recombines existing future-frame, accusation, detention, certification-status, and adjudication machinery.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `o-ka-su` | none | — | procedural apparatus role — load-bearing |
+| `si-ko-mu` | none | — | predictive record artifact — load-bearing |
+| `to-fe-li` | none | — | adjudicative institution — load-bearing |
+| `si / to / no-to-fe` | none | — | epistemic distinctions are the point |
+| `ka-ko` | none | — | custodial containment — legally decisive |
+
+**Verdict:** irreducibly formal — pre-crime logic matters exactly where the language must keep prediction, guilt, and confinement separate.
+
+*CLQ entries registered from this batch: none.*
+
+---
+
+## Psycho-Pass — Crime Coefficient and Unpublished Thresholds (S963-S968) *(PSY-001)*
+
+**Purpose:** Extends the predictive-policing sequence from future-action forecasts to black-box risk classification. This batch tests whether Tonesu can represent a system that classifies persons by thresholded affect-signal and then enforces that classification without publishing the standard that authorizes it.
+
+---
+
+**S963 — The system signals a person's hostile arousal above threshold.** *(PSY-001-A)*
+
+```
+la-na Sibyl  si  [lo-na Kogami  fa-ra-be  nu-be  lo-si-fe]
+```
+
+Written: `lana Sibyl si [lona Kogami farabe nube losife]`
+
+**Notes:** The first Psycho-Pass move is not guilt but thresholded signal. `fa-ra-be nu-be lo-si-fe` keeps the claim in the domain of measured affect-risk crossing a limit, not a proved completed wrong.
+
+---
+
+**S964 — Classification precedes detention.** *(PSY-001-B)*
+
+```
+go {la-na Sibyl  si  [lo-na Kogami  fa-ra-be  nu-be  lo-si-fe]},  la-o-ka-su  su-ka  lo-na Kogami ; la-o-ka-su  ka-ko  lo-na Kogami
+```
+
+Written: `go {lana Sibyl si [lona Kogami farabe nube losife]}, laokasu suka lona Kogami ; laokasu kako lona Kogami`
+
+**Notes:** This is the Psycho-Pass protocol in Tonesu form: threshold signal, then structural classification, then custody. `su-ka` matters here because the system is not reading a completed act; it is imposing a category on a person and letting that category drive confinement.
+
+---
+
+**S965 — High coefficient is not present fault.** *(PSY-001-C)*
+
+```
+la-na Sibyl  si  [lo-na Kogami  fa-ra-be  nu-be  lo-si-fe]  /  lo-na Kogami  no  ne  de-su
+```
+
+Written: `lana Sibyl si [lona Kogami farabe nube losife] / lona Kogami no ne desu`
+
+**Notes:** This is the batch's central correction. A thresholded danger-signal is not yet fault. Tonesu refuses the Psycho-Pass move where score, category, and guilt silently merge.
+
+---
+
+**S966 — An unpublished threshold standard cannot bind.** *(PSY-001-D)*
+
+```
+go {lo-to-fe-su  no  to-fe-su-ki},  wi-fe-ka  [la-o-ka-su  ka-ko  lo-na Kogami]
+```
+
+Written: `go {lotofesu no tofesuki}, wifeka [laokasu kako lona Kogami]`
+
+**Notes:** This is the publication-state gap made concrete. If the standard has not crossed into published `to-su` status, it has no legitimate binding force. PSY-001 therefore activates `to-fe-su-ki` exactly where the repo's open question predicted it would matter.
+
+---
+
+**S967 — Unpublished threshold plus lethal enforcement is epistemic abuse.** *(PSY-001-E)*
+
+```
+go {lo-to-fe-su  no  to-fe-su-ki ; la-o-ka-su  ka-de  lo-na Kogami  go-si  [la-na Sibyl  si  [lo-na Kogami  fa-ra-be  nu-be  lo-si-fe]]},  la-o-ka-su  ne  to-fe-ka
+```
+
+Written: `go {lotofesu no tofesuki ; laokasu kade lona Kogami gosi [lana Sibyl si [lona Kogami farabe nube losife]]}, laokasu ne tofeka`
+
+**Notes:** This is the hardest legal claim in the batch. If the apparatus kills on the basis of a thresholded signal whose authorizing standard was never published, the regime is not merely severe; it is committing epistemic inflation at the meta-level. It treats internal adoption as if it had certified public force.
+
+---
+
+**S968 — Structural verdict: Psycho-Pass collapses signal, category, and punishment.** *(PSY-001-F)*
+
+```
+la-wi-fe-su  no  to-su-ki  lo-to-fe  {si ; su-ka ; ka-ko ; ka-de}  /  ke,  lo-to-fe-su  ne-fe  to-fe-su-ki ; la-o-ka-su  ne-fe  lo-ka-si  lo-to-fe-li
+```
+
+Written: `lawifesu no tosuki lotofe {si ; suka ; kako ; kade} / ke, lotofesu nefe tofesuki ; laokasu nefe lokaci lotofeli`
+
+**Notes:** Psycho-Pass is not just a surveillance story. It is a category-collapse story: signal becomes classification, classification becomes custody, and custody can become death. Tonesu breaks those steps apart and makes publication plus adjudication the lawful path.
+
+---
+
+## PSY-001 Batch Summary
+
+| Entry | Form | Test |
+|-------|------|------|
+| S963 (PSY-001-A) | `la-na Sibyl si [lo-na Kogami fa-ra-be nu-be lo-si-fe]` | thresholded affect-risk signal |
+| S964 (PSY-001-B) | `go {la-na Sibyl si [lo-na Kogami fa-ra-be nu-be lo-si-fe]}, la-o-ka-su su-ka lo-na Kogami ; la-o-ka-su ka-ko lo-na Kogami` | classification precedes detention |
+| S965 (PSY-001-C) | `la-na Sibyl si [lo-na Kogami fa-ra-be nu-be lo-si-fe] / lo-na Kogami no ne de-su` | score is not guilt |
+| S966 (PSY-001-D) | `go {lo-to-fe-su no to-fe-su-ki}, wi-fe-ka [la-o-ka-su ka-ko lo-na Kogami]` | unpublished standard cannot bind |
+| S967 (PSY-001-E) | `go {lo-to-fe-su no to-fe-su-ki ; la-o-ka-su ka-de lo-na Kogami go-si [la-na Sibyl si [lo-na Kogami fa-ra-be nu-be lo-si-fe]]}, la-o-ka-su ne to-fe-ka` | lethal enforcement under unpublished threshold is epistemic abuse |
+| S968 (PSY-001-F) | `la-wi-fe-su no to-su-ki lo-to-fe {si ; su-ka ; ka-ko ; ka-de} / ke, lo-to-fe-su ne-fe to-fe-su-ki ; la-o-ka-su ne-fe lo-ka-si lo-to-fe-li` | structural verdict on black-box policing |
+
+**Key findings:**
+
+1. **A thresholded affect-signal is not the same thing as fault.**
+2. **Classification is an act, not a neutral reading.** `su-ka` makes that visible.
+3. **Unpublished standards are illegitimate by structure, not only by politics.**
+4. **Lethal enforcement under unpublished thresholds is meta-level `to-fe-ka`.**
+
+**New W-entries:** none
+
+**Compositional first uses:** `to-fe-su-ki` in the constitutional/publication-state sense.
+
+---
+
+## Colloquial Register Analysis
+
+| Form used | CLQ entry | Colloquial form | Notes |
+|-----------|-----------|-----------------|-------|
+| `fa-ra-be` | none | — | affect-risk proxy — load-bearing |
+| `su-ka` | none | — | classification predicate — load-bearing |
+| `to-fe-su-ki` | none | — | publication event — formally decisive |
+| `to-fe-ka` | none | — | epistemic abuse charge — formally decisive |
+| `ka-ko` / `ka-de` | none | — | coercive outcomes must stay explicit |
+
+**Verdict:** irreducibly formal — PSY-001 works only if threshold, category, publication, and enforcement stay separable.
+
+*CLQ entries registered from this batch: none.*

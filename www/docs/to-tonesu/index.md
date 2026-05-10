@@ -12,4 +12,5 @@ The juncture `'` in the name marks deliberate analytic distance — the same way
 - **[Principles](principles.md)** — the design principles that guide decisions in Tonesu: what the language is trying to do and why
 - **[Design notes](design.md)** — specific decisions traced from pressure to resolution: why `tofeka`, why the `s-` family is the densest, what the consonant families reveal about the ontology
 - **[Knowledge & claims](knowledge.md)** — how Tonesu tracks epistemic status, makes fallacies visible, and connects to Popper's philosophy of science
+- **[Predictive policing](predictive-policing.md)** — why Tonesu resists black-box pre-crime systems by forcing signal, classification, publication, and coercion apart
 - **[Domains](domains/index.md)** — exploratory sections where Tonesu vocabulary is stress-tested against real-world subject areas: biology, theology & religion, law, sociology, mathematics, physics, ethics, philosophy

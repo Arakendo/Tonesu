@@ -18298,3 +18298,258 @@ sentences:
     turns that diagnosis into procedure: where authority or certainty is unresolved,
     the machine must route the case before coercive action. In Tonesu, escalation
     is part of the law-set, not a patch applied after it fails.'
+- snum: S957
+  gloss: The apparatus predicts a future killing.
+  batch: MRP-001
+  batch_sub: A
+  status: normative
+  tonesu: la-o-ka-su  si  [ta-ti-be  la-na Anderton  ka-de  lo-na Crow]
+  gloss_line: null
+  natural: The apparatus predicts a future killing.
+  words_attested:
+  - W233
+  first_attests:
+  - W233
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S957
+  notes: 'The opening premise is stated at signal-grade, not knowledge-grade. `ta-ti-be`
+    gives open-timeline future reference: the apparatus is signaling a predicted killing,
+    not describing a completed act. This is the core Minority Report move in Tonesu
+    form.'
+- snum: S958
+  gloss: A predicted future act is not yet established fault.
+  batch: MRP-001
+  batch_sub: B
+  status: normative
+  tonesu: la-o-ka-su  si  [ta-ti-be  la-na Anderton  ka-de  lo-na Crow]  /  la-na
+    Anderton  no  ne  de-su
+  gloss_line: null
+  natural: A predicted future act is not yet established fault.
+  words_attested:
+  - W119
+  - W233
+  first_attests:
+  - W119
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S958
+  notes: 'Tonesu refuses the silent jump from forecast to guilt. The left clause is
+    a signaled future proposition; the right clause states the present legal-ethical
+    status directly: Anderton is not yet at fault. The distinction is not rhetorical
+    but structural.'
+- snum: S959
+  gloss: Detention before adjudication turns prediction into accusation.
+  batch: MRP-001
+  batch_sub: C
+  status: normative
+  tonesu: go {la-o-ka-su  ka-ko  lo-na Anderton  ta-ti-de  lo-ka-to-fe},  la-o-ka-su  si  [la-na
+    Anderton  ne  de-su]
+  gloss_line: null
+  natural: Detention before adjudication turns prediction into accusation.
+  words_attested:
+  - W119
+  - W122
+  - W233
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S959
+  notes: 'This is the Kafka pressure point inside Minority Report. If the apparatus
+    confines a person before adjudication, it has already converted the prediction
+    into an accusation. `ta-ti-de lo-ka-to-fe` makes the temporal violation explicit:
+    the custody comes before the judgment process.'
+- snum: S960
+  gloss: Conflicting predictive records block certification.
+  batch: MRP-001
+  batch_sub: D
+  status: normative
+  tonesu: go {la-o-si-ko-mu  si  [ta-ti-be  la-na Anderton  ka-de  lo-na Crow]  /  la-o-si-ko-mu  si  no  [ta-ti-be  la-na
+    Anderton  ka-de  lo-na Crow]},  la-o-ka-su  no  to  [ta-ti-be  la-na Anderton  ka-de  lo-na
+    Crow]
+  gloss_line: null
+  natural: Conflicting predictive records block certification.
+  words_attested:
+  - W233
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S960
+  notes: A Minority Report case is not a colorful exception; it is the decisive epistemic
+    event. If the record-set signals both a future killing and its negation, the apparatus
+    cannot honestly hold the killing proposition at `to` level. The system is structurally
+    in dispute with itself.
+- snum: S961
+  gloss: Under uncertified prediction, the case must route upward and detention stays
+    forbidden.
+  batch: MRP-001
+  batch_sub: E
+  status: normative
+  tonesu: go {la-o-ka-su  no  to  [ta-ti-be  la-na Anderton  ka-de  lo-na Crow]},  la-o-ka-su  ka-si  lo-to-fe-li  lo-ze  /  wi-fe-ka  [la-o-ka-su  ka-ko  lo-na
+    Anderton]
+  gloss_line: null
+  natural: Under uncertified prediction, the case must route upward and detention
+    stays forbidden.
+  words_attested:
+  - W032
+  - W233
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S961
+  notes: This is the Tonesu-native repair. If the predictive claim is not established,
+    the apparatus must route the proposition to `to-fe-li`; it may not detain the
+    target merely because a forecast exists. Minority Report becomes a procedural
+    problem, not a license for preemptive custody.
+- snum: S962
+  gloss: 'Structural verdict: pre-crime collapses prediction, fault, and punishment.'
+  batch: MRP-001
+  batch_sub: F
+  status: normative
+  tonesu: la-wi-fe-su  no  to-su-ki  lo-to-fe  {si ; ti-be ; de-su ; ka-ko}  /  ke,  la-o-ka-su  ne-fe  lo-ka-si  lo-to-fe-li
+  gloss_line: null
+  natural: 'Structural verdict: pre-crime collapses prediction, fault, and punishment.'
+  words_attested:
+  - W025
+  - W028
+  - W032
+  - W040
+  - W042
+  - W119
+  - W233
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S962
+  notes: The legal failure is not merely futuristic surveillance. It is category collapse.
+    A pre-crime regime treats signal, future time, guilt, and confinement as if they
+    were one continuous object. Tonesu exposes the breakpoints and makes routing to
+    adjudication the only defensible next step.
+- snum: S963
+  gloss: The system signals a person's hostile arousal above threshold.
+  batch: PSY-001
+  batch_sub: A
+  status: normative
+  tonesu: la-na Sibyl  si  [lo-na Kogami  fa-ra-be  nu-be  lo-si-fe]
+  gloss_line: null
+  natural: The system signals a person's hostile arousal above threshold.
+  words_attested:
+  - W070
+  - W123
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S963
+  notes: The first Psycho-Pass move is not guilt but thresholded signal. `fa-ra-be
+    nu-be lo-si-fe` keeps the claim in the domain of measured affect-risk crossing
+    a limit, not a proved completed wrong.
+- snum: S964
+  gloss: Classification precedes detention.
+  batch: PSY-001
+  batch_sub: B
+  status: normative
+  tonesu: go {la-na Sibyl  si  [lo-na Kogami  fa-ra-be  nu-be  lo-si-fe]},  la-o-ka-su  su-ka  lo-na
+    Kogami ; la-o-ka-su  ka-ko  lo-na Kogami
+  gloss_line: null
+  natural: Classification precedes detention.
+  words_attested:
+  - W070
+  - W123
+  - W233
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S964
+  notes: 'This is the Psycho-Pass protocol in Tonesu form: threshold signal, then
+    structural classification, then custody. `su-ka` matters here because the system
+    is not reading a completed act; it is imposing a category on a person and letting
+    that category drive confinement.'
+- snum: S965
+  gloss: High coefficient is not present fault.
+  batch: PSY-001
+  batch_sub: C
+  status: normative
+  tonesu: la-na Sibyl  si  [lo-na Kogami  fa-ra-be  nu-be  lo-si-fe]  /  lo-na Kogami  no  ne  de-su
+  gloss_line: null
+  natural: High coefficient is not present fault.
+  words_attested:
+  - W070
+  - W119
+  - W123
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S965
+  notes: This is the batch's central correction. A thresholded danger-signal is not
+    yet fault. Tonesu refuses the Psycho-Pass move where score, category, and guilt
+    silently merge.
+- snum: S966
+  gloss: An unpublished threshold standard cannot bind.
+  batch: PSY-001
+  batch_sub: D
+  status: normative
+  tonesu: go {lo-to-fe-su  no  to-fe-su-ki},  wi-fe-ka  [la-o-ka-su  ka-ko  lo-na
+    Kogami]
+  gloss_line: null
+  natural: An unpublished threshold standard cannot bind.
+  words_attested:
+  - W072
+  - W097
+  - W233
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S966
+  notes: This is the publication-state gap made concrete. If the standard has not
+    crossed into published `to-su` status, it has no legitimate binding force. PSY-001
+    therefore activates `to-fe-su-ki` exactly where the repo's open question predicted
+    it would matter.
+- snum: S967
+  gloss: Unpublished threshold plus lethal enforcement is epistemic abuse.
+  batch: PSY-001
+  batch_sub: E
+  status: normative
+  tonesu: go {lo-to-fe-su  no  to-fe-su-ki ; la-o-ka-su  ka-de  lo-na Kogami  go-si  [la-na
+    Sibyl  si  [lo-na Kogami  fa-ra-be  nu-be  lo-si-fe]]},  la-o-ka-su  ne  to-fe-ka
+  gloss_line: null
+  natural: Unpublished threshold plus lethal enforcement is epistemic abuse.
+  words_attested:
+  - W029
+  - W070
+  - W072
+  - W097
+  - W123
+  - W233
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S967
+  notes: This is the hardest legal claim in the batch. If the apparatus kills on the
+    basis of a thresholded signal whose authorizing standard was never published,
+    the regime is not merely severe; it is committing epistemic inflation at the meta-level.
+    It treats internal adoption as if it had certified public force.
+- snum: S968
+  gloss: 'Structural verdict: Psycho-Pass collapses signal, category, and punishment.'
+  batch: PSY-001
+  batch_sub: F
+  status: normative
+  tonesu: la-wi-fe-su  no  to-su-ki  lo-to-fe  {si ; su-ka ; ka-ko ; ka-de}  /  ke,  lo-to-fe-su  ne-fe  to-fe-su-ki
+    ; la-o-ka-su  ne-fe  lo-ka-si  lo-to-fe-li
+  gloss_line: null
+  natural: 'Structural verdict: Psycho-Pass collapses signal, category, and punishment.'
+  words_attested:
+  - W025
+  - W028
+  - W032
+  - W042
+  - W072
+  - W097
+  - W233
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s922-plus.md
+  source_anchor: S968
+  notes: 'Psycho-Pass is not just a surveillance story. It is a category-collapse
+    story: signal becomes classification, classification becomes custody, and custody
+    can become death. Tonesu breaks those steps apart and makes publication plus adjudication
+    the lawful path.'
