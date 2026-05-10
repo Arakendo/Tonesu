@@ -1117,3 +1117,13 @@ batches:
   theme: Foundations
   range: S916–S921
   count: 6
+- code: LSE-001
+  title: Lease Entry Notice Clause
+  theme: Foundations
+  range: S922–S924
+  count: 3
+- code: GDPR-001
+  title: 'GDPR Article 6(1): Lawful Bases for Processing'
+  theme: Foundations
+  range: S925–S931
+  count: 7
