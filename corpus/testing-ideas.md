@@ -163,6 +163,193 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 - [x] **Robotics edge cases** — filed as ROB-002 (S951–S956). Extends ROB-001 into conflicting-authority, suspected-danger, and adjudicated-containment cases. Key finding: in Tonesu, routing is part of the law-set; coercion tracks certification, not mere suspicion.
 - [x] **Minority Report / pre-crime detention** — filed as MRP-001 (S957–S962). Predictive killing claims stay at `si`/future status rather than silently becoming fault; detention before adjudication is exposed as accusation; conflicting predictive records block `to`-grade certification; uncertified prediction routes to `to-fe-li` instead of justifying custody.
 - [x] **Psycho-Pass / crime coefficient regime** — filed as PSY-001 (S963–S968). Makes person-classification explicit via `su-ka`, treats thresholded affect-risk as signal rather than guilt, activates `to-fe-su-ki` for the publication-state gap, and frames lethal enforcement under unpublished thresholds as meta-level `to-fe-ka`.
+- [ ] **Comparative legitimacy morphology — governments and action-groups** — Compare historically notable governments, movements, militias, parties, revolutionary committees, religious orders, unions, activist blocs, and corporate governance systems to see whether Tonesu can map their force topology without getting hypnotized by ideology labels. The target is not "left vs right" or "good vs evil" summary; the target is structural mapping: who claims authority, who bears burden, who may use force, who is classified, who enforces participation, who is excluded, and what turns belief into action or action into legitimacy.
+
+	**Why this track matters:** this is one of the clearest places where Tonesu should outperform ordinary political shorthand. Many historically famous groups describe themselves in incompatible moral vocabularies while operating through surprisingly similar structures of authorization, coercion, classification, bureaucracy, ritual legitimacy, and delegated violence. If the language can map those similarities and differences cleanly, that is a serious test of whether its institutional vocabulary is actually doing real work.
+
+	**Arendt pressure:** use this track to pressure distinctions around authority, power, violence, administration, mass participation, bureaucratic distance, and the conversion of ordinary compliance into historically consequential action. The question is not whether the corpus agrees with Arendt; the question is whether Tonesu can make the same structural distinctions visible enough that Arendt-like analysis can even be stated cleanly.
+
+	**Core comparison questions:**
+	- who claims legitimate authority, and on what basis?
+	- who has permission to compel, punish, exclude, or classify?
+	- who is expected to participate, comply, denounce, report, or witness?
+	- where is violence direct, and where is it laundered through procedure, paperwork, or delegated enforcement?
+	- what turns doctrine, fear, injury, loyalty, or emergency into authorized group action?
+	- what separates public consent, coerced compliance, and routinized obedience?
+
+	**Recommended first spread:**
+	1. **Formal state authority** — cabinet, ministry, court, police, army, or civil-service chain.
+	2. **Mass political movement** — rally, party apparatus, cadre network, or street mobilization.
+	3. **Paramilitary / street-force group** — militia, squad, armed wing, or semi-official enforcement flank.
+	4. **Revolutionary committee** — provisional authority claiming emergency legitimacy through rupture.
+	5. **Corporate / institutional governance** — board, executive layer, compliance office, shareholder or donor legitimacy.
+	6. **Religious / moral authority structure** — church hierarchy, order, tribunal, or mission network.
+	7. **Synthesis batch** — compare force, legitimacy, participation, classification, and exclusion across the preceding slices.
+
+	**Separation rule:** always separate these axes explicitly:
+	- ideology content
+	- force topology
+	- legitimacy claim
+	- institutional relation
+	- civilian participation structure
+	- classification regime
+	- exclusion mechanism
+
+	**Source selection rubric:** choose cases by structural divergence, not by fame alone. The point is to prevent the track from becoming five versions of "bad government did bad things" or five ideology labels with different flags.
+
+	**Score each candidate on these axes before selecting it:**
+	- authority basis: constitutional office, party mandate, emergency committee, religious claim, property/control right, donor/shareholder structure, or charismatic command
+	- force relation: direct state force, deputized force, affiliated militia, implied coercion, disciplinary exclusion, or no independent force arm
+	- participation model: mass voluntary support, cadre discipline, compulsory membership, bureaucratic function, ritual allegiance, or spectator compliance
+	- classification burden: weak sorting, status registry, enemy-tagging, purity or loyalty screen, legal disability class, or elimination target
+	- enforcement surface: open violence, arrest/detention, paperwork/review, licensing or employment consequence, social denunciation, or resource cutoff
+	- legitimacy rhetoric: law, emergency, necessity, destiny, faith, popular will, expertise, security, profit/stewardship, or restoration
+	- institutional density: improvised network, party apparatus, ministry chain, tribunal/review body, compliance office, or sacramental/hierarchical order
+	- evidence surface: statute/decree, party platform, organizational charter, tribunal record, internal memo, public speech, memoir, newspaper, or later historiography
+
+	**Coverage rule:**
+	1. At least one chosen case must center formal legal authority.
+	2. At least one must center a movement or organization whose power exceeds its formal legal status.
+	3. At least one must show force routed indirectly through paperwork, administration, denunciation, or delegated enforcement.
+	4. At least one must show classification machinery as central rather than incidental.
+	5. At least one must make ordinary participation morally consequential without requiring every participant to perform overt violence.
+	6. At least one must center a fused party-state or other hybrid structure where formal office and movement apparatus are hard to separate.
+	7. At least one must center a clandestine, cellular, or weakly visible authority structure rather than an openly legible institution.
+	8. Do not pick two cases that share the same authority basis and enforcement surface unless they diverge sharply on participation model or classification burden.
+
+	**Preferred first-pass spread:**
+	1. one formal state apparatus
+	2. one mass movement or party structure
+	3. one paramilitary or semi-official force adjunct
+	4. one emergency or revolutionary authority claim
+	5. one party-state or fused hybrid regime structure
+	6. one labor, guild, or union governance structure
+	7. one clandestine or cell-based authority structure
+	8. one non-state institutional governance system
+	9. one moral or religious authority structure
+
+	**Primary-source priority:**
+	1. founding charter, statute, decree, constitution, or canonical rule text
+	2. procedural manual, tribunal record, organizational directive, or internal regulation
+	3. contemporary public speech, proclamation, catechism, or platform text
+	4. contemporary witness material used only when the operating rule cannot be recovered from a governing text
+	5. later historical synthesis only as framing, not as the operative source surface
+
+	**Disqualifying clustering patterns:**
+	- three regimes selected only because they are all totalitarian without differing on force topology
+	- multiple cases whose only real difference is national setting while the party-state structure is the same
+	- cases known mainly through retrospective moral summary with no recoverable operative texts
+	- purely symbolic movements with no meaningful participation, exclusion, or enforcement mechanism
+	- corporate or religious examples chosen only for notoriety rather than for structurally distinct governance logic
+
+	**Hard requirements:**
+	- do not let "left" / "right" / "religious" / "democratic" / "revolutionary" stand in for structural analysis
+	- include at least one case where legality and legitimacy visibly diverge
+	- include at least one case where violence is indirect or bureaucratically mediated rather than openly performed
+	- include at least one case where mass participation is voluntary in form but coercive in effect
+	- distinguish action, permission, authorization, and retrospective justification instead of collapsing them
+	- keep state actors, party actors, militias, and private institutional actors distinct even when they cooperate
+
+	**Likely Tonesu pressure points:** `wi-ra` vs `wi-fe` vs `wi-fe-su`; `su-ra` / `ka-ra` / `o-ra`; `su-ka` for person-classification; `to-fe-ka` and `to-fe-su-ki` for declared rule vs obscured rule; `to-fe-li` when review or tribunal structure appears; `ka-be-ne` for binding/loyalty structures; `si` / `to` gaps where rumor, doctrine, and certification diverge.
+
+	**Possible batch sketch:**
+	1. **GOV-001** — formal state authority
+	2. **MOV-001** — mass political movement
+	3. **PAR-001** — paramilitary or street-force structure
+	4. **REV-001** — revolutionary committee or provisional authority
+	5. **HYB-001** — party-state or fused hybrid governance
+	6. **LAB-001** — labor, guild, or union governance structure
+	7. **CEL-001** — clandestine or cell-based authority structure
+	8. **COR-001** — corporate or institutional governance structure
+	9. **REL-001** — religious or moral authority structure
+	10. **CMP-001** — synthesis of legitimacy, force, participation, and classification
+
+	**First-pass option pool:** choose for source recoverability plus structural divergence, not for notoriety alone.
+	1. **GOV-001 options** — Napoleonic prefect / ministry state; Prussian civil-service bureaucracy; British wartime emergency administration.
+	2. **MOV-001 options** — early Bolshevik party apparatus before full state capture; Jacobin club network; early Fascist mass movement before consolidated office.
+	3. **PAR-001 options** — Italian Blackshirts; SA before internal state consolidation; auxiliary colonial policing or settler militia structures where force is semi-official rather than purely private.
+	4. **REV-001 options** — Committee of Public Safety; Petrograd Revolutionary Military Committee; Paris Commune emergency governance organs.
+	5. **HYB-001 options** — Nazi party-state fusion; Soviet party-state consolidation; Ba'athist fusion of party, security, and administrative office.
+	6. **LAB-001 options** — Polish Solidarity; medieval or early-modern guild governance; major strike-committee structures that temporarily govern labor participation rather than merely negotiate demands.
+	7. **CEL-001 options** — FLN cell structure in Algeria; Provisional IRA command and local cells; resistance-cell networks where authority is real but institutionally obscured.
+	8. **COR-001 options** — East India Company charter governance; VOC governance if source recovery is cleaner; company-town or concessionary corporate rule only if the governance surface is explicit enough.
+	9. **REL-001 options** — Jesuit order constitutions; Roman Inquisition tribunal procedure; Geneva consistory or other disciplinary religious governance with recoverable rule texts.
+
+	**Strong provisional slate if you want one now:** Committee of Public Safety; East India Company; Jesuit order; Napoleonic administrative state; Polish Solidarity; early Bolshevik party apparatus; Italian Blackshirts; Nazi party-state fusion; FLN cells.
+
+	**Source-hunting plan for the nine:** start from operative texts that show how each structure authorizes action, classifies people, and routes enforcement. Prefer one governing text plus one procedural or implementation text per batch when possible.
+
+	1. **GOV-001 — Napoleonic administrative state**
+	Target source types: prefect law or decree, ministry circular, Council of State administrative procedure, constitutional text on executive authority.
+	Best first hunt: prefect system establishment text plus one implementation circular showing reporting or enforcement chain.
+	Fallbacks: code prefaces, official legal compilations, or archival government collections.
+	Packet trigger: if the operative French text is only recoverable through archive scans or image PDFs, preserve a source packet with the exact quoted clauses.
+
+	2. **MOV-001 — early Bolshevik party apparatus**
+	Target source types: party rules, congress resolutions, central committee directives, soviet-party relationship statements from the pre-consolidation window.
+	Best first hunt: party statute plus one directive showing how party line becomes operative action before full state fusion.
+	Fallbacks: Marxists Internet Archive text when it reproduces canonical primary documents cleanly; otherwise contemporary document collections.
+	Packet trigger: if translations vary materially, preserve the exact edition or transcription used.
+
+	3. **PAR-001 — Italian Blackshirts**
+	Target source types: squad regulations, Fascist militia statute, royal decree formalizing militia status, interior-ministry or police coordination texts.
+	Best first hunt: one text from the semi-private squad phase and one text from the semi-official incorporation phase.
+	Fallbacks: parliamentary records or official gazette notices.
+	Packet trigger: if a source is only reproducible through brittle scans or quoted excerpts in secondary scholarship, preserve the operative lines in a packet.
+
+	4. **REV-001 — Committee of Public Safety**
+	Target source types: National Convention decrees, committee powers resolutions, revolutionary tribunal or surveillance committee directives.
+	Best first hunt: decree constituting or empowering the Committee of Public Safety plus one enforcement-side decree showing emergency legitimacy translated into procedure.
+	Fallbacks: French Revolution document collections with citation to the original decree date.
+	Packet trigger: preserve date-specific decree excerpts if different compilations normalize wording differently.
+
+	5. **HYB-001 — Nazi party-state fusion**
+	Target source types: enabling or coordination laws, party-state administrative decrees, civil-service purification measures, police/security coordination texts.
+	Best first hunt: one fusion text on party-state relation plus one classification/enforcement text.
+	Fallbacks: Avalon Project, German federal archive reproductions, or Nuremberg document collections for authenticated texts.
+	Packet trigger: always preserve a packet when using translated excerpts from this batch, because wording precision around authority and classification matters.
+
+	6. **LAB-001 — Polish Solidarity**
+	Target source types: union charter, Gdansk agreements, strike committee resolutions, internal governance rules, state recognition terms.
+	Best first hunt: founding agreement plus one internal rule or resolution showing how labor participation becomes governance rather than only protest.
+	Fallbacks: official reprints, union archive reproductions, or museum/solidarity archive scans.
+	Packet trigger: if using translated labor documents with multiple English renderings, preserve the exact adopted wording.
+
+	7. **CEL-001 — FLN cells in Algeria**
+	Target source types: FLN platform, command directives, zone/sector instructions, French intelligence or legal texts only where they reproduce FLN operational structure directly.
+	Best first hunt: internal FLN statement of organization plus one directive showing command, secrecy, and civilian participation routing.
+	Fallbacks: collected revolutionary documents or postwar edited primary document sets.
+	Packet trigger: high. Cell-structure material is often brittle, excerpted, or scattered; preserve packets whenever the operative chain of command is reconstructed from fragile sources.
+
+	8. **COR-001 — East India Company**
+	Target source types: royal charter, company bylaws or court-of-directors instructions, territorial administration regulations, military or revenue governance rules.
+	Best first hunt: charter text plus one governance document showing the jump from commercial privilege to territorial rule.
+	Fallbacks: British Library or parliamentary reproductions, charter collections, or colonial administrative compilations.
+	Packet trigger: if source texts come from scanned early-modern printings with unstable OCR, preserve packet excerpts and citation details.
+
+	9. **REL-001 — Jesuit order**
+	Target source types: Constitutions of the Society of Jesus, rules on obedience and mission assignment, internal governance instructions, tribunal/disciplinary texts if a different religious structure is selected.
+	Best first hunt: constitutional rule text plus one procedural instruction showing how moral authority becomes assignment, discipline, or review.
+	Fallbacks: Vatican or order-hosted texts, scholarly critical editions when they reproduce the primary source directly.
+	Packet trigger: if the operative Latin text and English translation diverge in governance terms, preserve both quoted surfaces in a packet.
+
+	**Hunt order recommendation:**
+	1. **Phase 1 — clean morphology controls:** REV-001, COR-001, REL-001, GOV-001.
+	2. **Phase 2 — participatory and movement pressure:** LAB-001, MOV-001.
+	3. **Phase 3 — force/topology complexity:** PAR-001, HYB-001, CEL-001.
+
+	**Why this order:** it maximizes recoverable operative texts, structural divergence, low ideology-noise-to-signal ratio, and strong authority/action separation before the track enters fused, clandestine, or semantically radioactive cases.
+
+	**Do-not-start-early warning:**
+	- **PAR-001** is important, but delay it until packet discipline and anti-overcompletion habits are already established; fascist paramilitary material creates strong discourse gravity.
+	- **HYB-001** is advanced-topology mode. Fused legitimacy, classification, party-state overlap, and proceduralized coercion all appear at once; if it comes too early, it will distort the rest of the track into Nazi-comparison cleanup.
+	- **CEL-001** is later by design because clandestine authority structures are epistemically harder: fragmented sources, memoir contamination, intelligence reconstruction, and propaganda layers.
+
+	**Working rule:** each batch should begin with one authority-defining text and one action-routing text. If you cannot find both, the candidate is not yet ready to file.
+
+	**Success signals:** readers can recover who actually governs, who merely appears to govern, where force enters, where legitimacy is claimed, and how ordinary people are converted into participants, functionaries, targets, or excluded classes.
+
+	**Failure signals:** everything collapses into ideology labels; the same words are used for authority, violence, and legitimacy indiscriminately; bureaucratic violence becomes invisible; or the corpus can describe slogans but not actual power structure.
 - [ ] **News-item paragraph** — Neutral journalism register. Exercises `()` evidential frame at normal depth (FAL-006 tested adversarial depth-3; this is the complement). "It is reported that…", "sources say…", attribution chains.
 - [x] **Legal contract clause** — filed as LSE-001 (S922–S924). Uses a lease-entry notice clause to test `wi-fe` in its natural habitat without inventing a landlord lexeme: recorded notice (`si-de`), exact 24-hour duration (`bun mol nu re-ti`), and contract-bounded inspection/repair permission via `ne-to-fe` + `no-wi-fe-ka`.
 - [x] **Lojban type contrasts** — Canonical CLL/lojban.org sentences exercising Lojban's distinctive type machinery: `su'o` existential (`i-` prefix), `lo nu X` event nominalization (causal frame vs. first-class nominal), `na` vs `na'e` claim/predicate negation, `jinvi`/`djuno` + `du'u` belief-vs-knowledge (`to` vs `to-su`). Filed as LOJ-001 (S690–S695).
@@ -281,6 +468,38 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 	- reserve the synthesis batch for structural comparison, not argument
 
 	**Success condition:** the corpus should make it obvious when two regimes produce the same lived burden through different authority shapes, and when superficially similar "mandates" are actually different legal species.
+
+	**International follow-on track:** if the COVID work expands beyond the U.S. comparison already filed, treat that as a separate track rather than as more COV-FED / COV-STA / COV-MUN / COV-ORG specimens. Once the comparison crosses national systems, the pressure is no longer only "which layer issued the burden?" but also "what kind of state or administrative structure makes this burden legible at all?"
+
+	**International core question:** when different countries impose a similar public-health burden, is it being framed as a national pass, a workplace-document rule, a travel-control mechanism, an administrative risk-tier system, or a state/provincial public-health order?
+
+	**Recommended first-country spread:**
+	1. **France** — national access-pass regime (`pass sanitaire` / `pass vaccinal`). Structural value: document-gated access to venues and transport under central national authority.
+	2. **Italy** — `Green Pass` / `Super Green Pass`. Structural value: visible class-splitting between ordinary status proof and a stricter proof tier, spanning both workplace and public-life access.
+	3. **Canada** — prefer either a federal travel mandate or one strong provincial passport, depending official-source quality. Structural value: federalism outside the U.S. pattern, especially movement-control and delegated public-health administration.
+	4. **Singapore** — vaccination-differentiated access or safe-management regime. Structural value: tightly administered eligibility and managed-entry logic rather than rights-heavy statutory rhetoric.
+	5. **Australia** — preferred over New Zealand for the first pass. Structural value: stronger internal spread across Commonwealth, state, and border-control layers, making it better for testing federal/state interaction, movement restrictions, and public-health-order diversity in one national setting.
+
+	**Why Australia over New Zealand:** New Zealand is still valuable, but Australia is the better first addition because it is more structurally varied for this purpose. It can supply border-control, state-order, and proof-of-entry style material without collapsing the whole international set into one highly centralized emergency narrative.
+
+	**International coverage rule:**
+	1. At least one chosen country should represent a national pass or proof-of-entry regime.
+	2. At least one should represent workplace or employment-conditioned compliance.
+	3. At least one should represent travel, border, or inter-regional movement control.
+	4. At least one should show a non-U.S. federal or quasi-federal split between national and subnational authority.
+	5. Do not choose five countries whose only real difference is branding on the same vaccination-pass model.
+
+	**Recommended batch sketch:**
+	1. **COV-INT-001** — France: venue / transport access-pass specimen.
+	2. **COV-INT-002** — Italy: Green Pass class-split specimen.
+	3. **COV-INT-003** — Canada: federal travel-control or provincial passport specimen.
+	4. **COV-INT-004** — Singapore: vaccination-differentiated managed-entry specimen.
+	5. **COV-INT-005** — Australia: border, state-order, or proof-of-entry specimen.
+	6. **COV-INT-CMP-001** — synthesis batch comparing which country-level governance patterns actually differ, and which merely rename the same compliance burden.
+
+	**Selection objective:** the international track should not just widen the map; it should widen the governance shapes. The point is to show that "COVID mandate" is not one legal species internationally any more than it was one legal species inside the U.S. track.
+
+	**Source discipline:** prefer official statute text, health-ministry or executive-order pages, government gazettes, archived government guidance, and filing-grade institutional artifacts. Avoid retrospective news summaries unless they only serve as discovery aids and the operative lines can be recovered from an official source.
 - [ ] **Communications Decency Act Section 230(c)(2)** — The "Good Samaritan" good-faith moderation provision (the companion to 230(c)(1)). Tests conditional immunity with an explicit agent-volition component. Do after 230(c)(1).
 - [ ] **California Consumer Privacy Act (CCPA) Section 1798.100** — Rights-based language: right to know, right to delete. More structured than GDPR. Exposes: what a "right" means structurally (obligation on the other party), scope of "personal information", obligations vs permissions. Good for contrast against GDPR after that batch.
 - [ ] **USA Freedom Act Section 501** — Written to fix PATRIOT Act problems; layered amendments + dense cross-references. High risk of discovering new levels of structural suffering. Do last, as a boss fight.

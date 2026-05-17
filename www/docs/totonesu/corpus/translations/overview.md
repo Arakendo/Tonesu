@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-64 translation analyses.
+77 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -35,9 +35,18 @@ gap analysis, and key findings.
 
 - [aca-mandate](law/aca-mandate/index.md)
 - [cda-section230](law/cda-section230/index.md)
+- [florida-covid-vaccine-documentation-prohibition](law/florida-covid-vaccine-documentation-prohibition/index.md)
 - [gdpr-article6](law/gdpr-article6/index.md)
+- [la-county-targeted-safer-at-home-order](law/la-county-targeted-safer-at-home-order/index.md)
 - [lease-entry-notice](law/lease-entry-notice/index.md)
+- [legal-reference-apparatus](law/legal-reference-apparatus/index.md)
+- [mit-student-reentry-vaccination-testing-policy](law/mit-student-reentry-vaccination-testing-policy/index.md)
+- [nyc-key-to-nyc-vaccination-requirement](law/nyc-key-to-nyc-vaccination-requirement/index.md)
+- [osha-covid-vaccination-testing-ets](law/osha-covid-vaccination-testing-ets/index.md)
+- [patriot-act-section-215](law/patriot-act-section-215/index.md)
+- [princeton-student-employee-vaccination-requirement](law/princeton-student-employee-vaccination-requirement/index.md)
 - [rules-of-engagement-doctrine](law/rules-of-engagement-doctrine/index.md)
+- [united-airlines-employee-vaccination-requirement](law/united-airlines-employee-vaccination-requirement/index.md)
 
 ## Literature
 
@@ -86,8 +95,10 @@ gap analysis, and key findings.
 
 ## Science
 
+- [complex-plane](science/complex-plane/index.md)
 - [conventional-unit-anchors](science/conventional-unit-anchors/index.md)
 - [cvcc-anchors](science/cvcc-anchors/index.md)
+- [euclid-proposition-1](science/euclid-proposition-1/index.md)
 - [geometry-quantities](science/geometry-quantities/index.md)
 - [laws-of-robotics](science/laws-of-robotics/index.md)
 - [newton-first-law](science/newton-first-law/index.md)
@@ -96,6 +107,8 @@ gap analysis, and key findings.
 ## Stress
 
 - [archive-collapse](stress/archive-collapse/index.md)
+- [chosen-kinship](stress/chosen-kinship/index.md)
+- [expressive-register](stress/expressive-register/index.md)
 - [moon-on-the-river](stress/moon-on-the-river/index.md)
 - [returning-brother](stress/returning-brother/index.md)
 

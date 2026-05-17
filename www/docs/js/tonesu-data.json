@@ -3360,6 +3360,63 @@
         "ra",
         "su"
       ]
+    },
+    {
+      "wnum": "W250",
+      "form": "ka-be-ne-go",
+      "written": "kabenego",
+      "gloss": "adoptive parent, chosen parent",
+      "status": "active",
+      "domain": "kinship / social / legal",
+      "roots": [
+        "ka",
+        "be",
+        "ne",
+        "go"
+      ]
+    },
+    {
+      "wnum": "W251",
+      "form": "ka-be-ne-du",
+      "written": "kabenedu",
+      "gloss": "adopted child, chosen child",
+      "status": "active",
+      "domain": "kinship / social / legal",
+      "roots": [
+        "ka",
+        "be",
+        "ne",
+        "du"
+      ]
+    },
+    {
+      "wnum": "W252",
+      "form": "ka-be-ne-ru",
+      "written": "kabeneru",
+      "gloss": "chosen sibling",
+      "status": "active",
+      "domain": "kinship / social",
+      "roots": [
+        "ka",
+        "be",
+        "ne",
+        "ru"
+      ]
+    },
+    {
+      "wnum": "W253",
+      "form": "ka-be-ne-li-pu",
+      "written": "kabenelipu",
+      "gloss": "bonded collective, sworn crew, chosen family group",
+      "status": "active",
+      "domain": "social / kinship / collective",
+      "roots": [
+        "ka",
+        "be",
+        "ne",
+        "li",
+        "pu"
+      ]
     }
   ]
 }

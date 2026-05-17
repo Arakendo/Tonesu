@@ -128,11 +128,15 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `ka` — intentional action
 
-17 compounds
+21 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `ka-be-ne` · kabene | [W218](words/W218.md) | ✅ | binding / deliberate bond-creation <br><small>[S673](../../totonesu/corpus/batches/sol/index.md#S673) · [S715](../../totonesu/corpus/batches/mrx/index.md#S715)</small> |
+| `ka-be-ne-du` · kabenedu | [W251](words/W251.md) | ✅ | adopted child, chosen child |
+| `ka-be-ne-go` · kabenego | [W250](words/W250.md) | ✅ | adoptive parent, chosen parent |
+| `ka-be-ne-li-pu` · kabenelipu | [W253](words/W253.md) | ✅ | bonded collective, sworn crew, chosen family group |
+| `ka-be-ne-ru` · kabeneru | [W252](words/W252.md) | ✅ | chosen sibling |
 | `ka-de-pa` · kadepa | [W243](words/W243.md) | ✅ | concentration camp; deliberate-harm-place <br><small>[S855](../../totonesu/corpus/batches/ant/index.md#S855)</small> |
 | `ka-de-zo` · kadezo | [W128](words/W128.md) | ✅ | kill, deliberate ending of life |
 | `ka-du-zo-su` · kaduzosu | [W161](words/W161.md) | ✅ | bread, deliberately crafted plant-product <br><small>[S429](../../totonesu/corpus/batches/lsp/index.md#S429)</small> |

@@ -165,6 +165,8 @@ Without `'`, the default parse is right-branching: each new element modifies the
 
 Thirteen marks supplement `'`. Unlike `'`, these operate **outside** compound boundaries — at clause, sentence, or metalanguage level. Each mark carries a **use** classification: **spoken + written** marks are live in spontaneous discourse and writing alike; **written** marks are primary to written and formal-analytic contexts, with spoken forms available for dictation and pedagogy. Sentence and phrase marks have no phoneme equivalents; speech realizes them through pitch, stress, and prosodic phrasing. The marks `:` and `::` serve primarily as metalanguage notation and appear in Tonesu sentences only in the role specified for each. The marks `-` and `{}` are normative in metalinguistic, pedagogical, and technical contexts; conventional compound writing remains solid.
 
+Superscript and subscript are **not** additional Tonesu notation marks in this inventory. When they appear, they belong to the borrowed international technical-notation register described in `spec/word-formation.md § Written Form`, for uses such as exponents, indices, chemical formulas, and citation pointers in written scientific or legal documents.
+
 | Mark | Name | Use | Function |
 |------|------|-----|----------|
 | `,` | clause separator | spoken + written | prosodic pause between a frame clause and its matrix, or between list items; spoken form `wald` (G024) |

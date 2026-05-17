@@ -6,7 +6,7 @@ title: "Foundations"
 
 Core sentences from the earliest Tonesu attestations — basic agent-patient structures, property attribution, and foundational constructions.
 
-673 sentences.
+791 sentences.
 
 [← Corpus](../overview.md)
 
@@ -14,7 +14,7 @@ Core sentences from the earliest Tonesu attestations — basic agent-patient str
 
 | Batch group | Batches | Sentences |
 |-------------|---------|-----------|
-| [Early & Unbatched Sentences](../batches/_foundations/index.md) | 1 | 37 |
+| [Early & Unbatched Sentences](../batches/_foundations/index.md) | 1 | 74 |
 | [Foundational Sentences](../batches/t/index.md) | 5 | 5 |
 | [Famous Quote Operator Tests](../batches/fmq/index.md) | 1 | 8 |
 | [Star Wars — The Jedi Code](../batches/stw/index.md) | 2 | 11 |
@@ -64,6 +64,12 @@ Core sentences from the earliest Tonesu attestations — basic agent-patient str
 | [The Archive Collapse [S1116–S1121]](../batches/acc/index.md) | 6 | 41 |
 | [The Returning Brother [S1157–S1162]](../batches/rbr/index.md) | 5 | 30 |
 | [Moon on the River [S1187–S1192]](../batches/lyr/index.md) | 5 | 30 |
+| [Performative / Expressive Register [S1220–S1225]](../batches/em/index.md) | 1 | 6 |
+| [Chosen Kinship [S1226–S1231]](../batches/ckn/index.md) | 2 | 12 |
+| [Euclid I.1 [S1238–S1243]](../batches/euc/index.md) | 1 | 6 |
+| [Complex Plane / Imaginary Axis Probe [S1244–S1248]](../batches/cpx/index.md) | 6 | 30 |
+| [Legal Reference Apparatus Probe [S1274–S1278]](../batches/lrf/index.md) | 1 | 5 |
+| [USA PATRIOT Act Section 215: Tangible Things Collection [S1279–S1284]](../batches/pat/index.md) | 4 | 22 |
 
 ---
 

@@ -33,10 +33,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## Kinship
 
-7 compounds
+11 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
+| `ka-be-ne-du` · kabenedu | [W251](words/W251.md) | ✅ | adopted child, chosen child |
+| `ka-be-ne-go` · kabenego | [W250](words/W250.md) | ✅ | adoptive parent, chosen parent |
+| `ka-be-ne-li-pu` · kabenelipu | [W253](words/W253.md) | ✅ | bonded collective, sworn crew, chosen family group |
+| `ka-be-ne-ru` · kabeneru | [W252](words/W252.md) | ✅ | chosen sibling |
 | `ne-zi-re` · nezire | [W131](words/W131.md) | ✅ | spouse, bonded coupling partner |
 | `zo-ne` · zone | [W076](words/W076.md) | ⏳ | biological kinship bond <br><small>[S240](../../totonesu/corpus/batches/num/index.md#S240) · [S241](../../totonesu/corpus/batches/num/index.md#S241) · [S328](../../totonesu/corpus/batches/fng/index.md#S328) · [S329](../../totonesu/corpus/batches/fng/index.md#S329) · [S330](../../totonesu/corpus/batches/fng/index.md#S330) · [S331](../../totonesu/corpus/batches/fng/index.md#S331) · [S332](../../totonesu/corpus/batches/fng/index.md#S332) · [S333](../../totonesu/corpus/batches/fng/index.md#S333) · [S334](../../totonesu/corpus/batches/fng/index.md#S334) · [S336](../../totonesu/corpus/batches/grm/index.md#S336) · [S337](../../totonesu/corpus/batches/grm/index.md#S337) · [S338](../../totonesu/corpus/batches/grm/index.md#S338) · [S341](../../totonesu/corpus/batches/grm/index.md#S341) · [S345](../../totonesu/corpus/batches/grm/index.md#S345) · [S347](../../totonesu/corpus/batches/grm/index.md#S347)</small> |
 | `zo-ne-du` · zonedu | [W078](words/W078.md) | ✅ | offspring, child (kinship) <br><small>[S094](../../totonesu/corpus/batches/_foundations/index.md#S094) · [S377](../../totonesu/corpus/batches/fal/index.md#S377)</small> |
@@ -200,7 +204,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## Social / Institutional
 
-23 compounds
+27 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -208,6 +212,10 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `de-vo` · devo | [W121](words/W121.md) | ✅ | evil; shame; worth/value-diminishment quality <br><small>[S458](../../totonesu/corpus/batches/dkn/index.md#S458)</small> |
 | `fa-ra-su` · farasu | [W226](words/W226.md) | ✅ | religion; structured reverence practice; institutionalized awe-discipline <br><small>[S716](../../totonesu/corpus/batches/mrx/index.md#S716)</small> |
 | `go-ne` · gone | [W159](words/W159.md) | ✅ | self-originating relation / "I am who I am" <br><small>[S415](../../totonesu/corpus/batches/exo/index.md#S415) · [S638](../../totonesu/corpus/batches/doi/index.md#S638)</small> |
+| `ka-be-ne-du` · kabenedu | [W251](words/W251.md) | ✅ | adopted child, chosen child |
+| `ka-be-ne-go` · kabenego | [W250](words/W250.md) | ✅ | adoptive parent, chosen parent |
+| `ka-be-ne-li-pu` · kabenelipu | [W253](words/W253.md) | ✅ | bonded collective, sworn crew, chosen family group |
+| `ka-be-ne-ru` · kabeneru | [W252](words/W252.md) | ✅ | chosen sibling |
 | `ka-li-su` · kalisu | [W147](words/W147.md) | ⏳ | governance, dominion, coordinated stewardship <br><small>[S374](../../totonesu/corpus/batches/fal/index.md#S374) · [S376](../../totonesu/corpus/batches/fal/index.md#S376) · [S379](../../totonesu/corpus/batches/fal/index.md#S379) · [S380](../../totonesu/corpus/batches/fal/index.md#S380) · [S381](../../totonesu/corpus/batches/fal/index.md#S381) · [S382](../../totonesu/corpus/batches/fal/index.md#S382) · [S384](../../totonesu/corpus/batches/fal/index.md#S384) · [S386](../../totonesu/corpus/batches/fal/index.md#S386) · [S387](../../totonesu/corpus/batches/fal/index.md#S387) · [S388](../../totonesu/corpus/batches/fal/index.md#S388) · [S389](../../totonesu/corpus/batches/fal/index.md#S389) · [S391](../../totonesu/corpus/batches/fal/index.md#S391) · [S392](../../totonesu/corpus/batches/fal/index.md#S392) · [S394](../../totonesu/corpus/batches/fal/index.md#S394) · [S396](../../totonesu/corpus/batches/fal/index.md#S396) · [S397](../../totonesu/corpus/batches/fal/index.md#S397) · [S634](../../totonesu/corpus/batches/doi/index.md#S634) · [S635](../../totonesu/corpus/batches/doi/index.md#S635) · [S636](../../totonesu/corpus/batches/doi/index.md#S636) · [S646](../../totonesu/corpus/batches/aca/index.md#S646) · [S647](../../totonesu/corpus/batches/aca/index.md#S647)</small> |
 | `ka-no-de-su` · kanodesu | [W120](words/W120.md) | ✅ | forgiveness, deliberate removal of fault <br><small>[S679](../../totonesu/corpus/batches/sol/index.md#S679)</small> |
 | `li-pu-pa` · lipupa | [W036](words/W036.md) | ✅ | city, inhabited settlement <br><small>[S061](../../totonesu/corpus/batches/t-prm/index.md#S061)</small> |

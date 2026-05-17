@@ -2655,3 +2655,71 @@ Related:       no (primitive: negation), li (primitive: person/social agent), ra
 ```
 
 ---
+
+**W250**
+```
+Form:          ka-be-ne-go
+Type:          compound
+Class:         relation / role / kinship
+Definition:    adoptive parent; chosen parent; the parent-role established by deliberate bond-creation rather than by biological descent. A person who stands to the reference person as parent through recognized relational formation, not through `zo-ne-go` biological origin.
+Composition:   ka-be-ne (W218: deliberate bond-creation) + go (source/origin role) = bond-created parent. Head-final: go (source, parent-role) is head; ka-be-ne specifies that the parent relation is created by deliberate bond rather than by biological kinship. The compound is deliberately parallel to zo-ne-go (W077: biological parent).
+Register:      standard / social / legal
+Domain:        kinship / social / legal
+Status:        ✅ active
+First use:     CKN-001 (S1228); reused CKN-002 (S1234).
+Notes:         Registered from the chosen-kinship probe after CKN-001 and CKN-002 confirmed that the `ka-be-ne-*` family remains legible outside glossary contrast and inside live dialogue. Contrast: zo-ne-go (W077) = biological parent; ka-be-ne-go = adoptive or chosen parent. The form is sex-neutral, matching the rest of the Tonesu kinship system.
+Related:       ka-be-ne (W218: deliberate bond-creation), go (primitive: source/origin role), zo-ne-go (W077: biological parent), ka-be-ne-du (W251), ka-be-ne-ru (W252)
+```
+
+---
+
+**W251**
+```
+Form:          ka-be-ne-du
+Type:          compound
+Class:         relation / role / kinship
+Definition:    adopted child; chosen child; the child-role established by deliberate bond-creation rather than by biological descent. A person who stands to the reference person as child through recognized relational formation, not through `zo-ne-du` biological descent.
+Composition:   ka-be-ne (W218: deliberate bond-creation) + du (result/child role) = bond-created child. Head-final: du (result, child-role) is head; ka-be-ne specifies that the child relation is created by deliberate bond rather than by biological kinship. The compound is deliberately parallel to zo-ne-du (W078: biological child).
+Register:      standard / social / legal
+Domain:        kinship / social / legal
+Status:        ✅ active
+First use:     CKN-001 (S1229); reused CKN-002 (S1235).
+Notes:         Symmetric counterpart to ka-be-ne-go (W250). Registered from CKN-001 and reinforced by CKN-002, where it survived intimate second-person address rather than only third-person labeling. Contrast: zo-ne-du (W078) = biological child; ka-be-ne-du = adopted or chosen child.
+Related:       ka-be-ne (W218: deliberate bond-creation), du (primitive: result/child role), zo-ne-du (W078: biological child), ka-be-ne-go (W250), ka-be-ne-ru (W252)
+```
+
+---
+
+**W252**
+```
+Form:          ka-be-ne-ru
+Type:          compound
+Class:         relation / role / kinship
+Definition:    chosen sibling; the sibling-role established by deliberate bond-creation rather than by biological kinship. A person who is treated as sibling through recognized durable bond, not through `zo-ne-ru` shared descent.
+Composition:   ka-be-ne (W218: deliberate bond-creation) + ru (unity / sibling role) = bond-created sibling. Head-final: ru (unity-role, sibling-role in kinship compounds) is head; ka-be-ne specifies that the sibling relation is created by deliberate bond rather than by biological kinship. The compound is deliberately parallel to zo-ne-ru (W079: biological sibling).
+Register:      standard / social
+Domain:        kinship / social
+Status:        ✅ active
+First use:     CKN-001 (S1230); reused CKN-002 (S1233).
+Notes:         This was the hardest member of the family because siblinghood is lateral rather than directional. Registered after CKN-001 and CKN-002 showed that the form survives explicit denial/correction dialogue without collapsing into either mere friendship or biological kinship. Contrast: zo-ne-ru (W079) = biological sibling; ka-be-ne-ru = chosen sibling.
+Related:       ka-be-ne (W218: deliberate bond-creation), ru (primitive: unity), zo-ne-ru (W079: biological sibling), ka-be-ne-go (W250), ka-be-ne-du (W251)
+```
+
+---
+
+**W253**
+```
+Form:          ka-be-ne-li-pu
+Type:          compound
+Class:         entity / collective / social role
+Definition:    bonded collective; sworn crew; chosen family group; a collective whose defining character is a deliberately created durable bond among its members. Used when a group is being claimed not merely as `li-pu` (a crew, group, or collective) but as a chosen-family or sworn-bond collective.
+Composition:   ka-be-ne (W218: deliberate bond-creation) + li-pu (collective of persons) = bond-created collective. Head-final: li-pu (crew / collective) is head; ka-be-ne specifies that the collective is constituted by deliberate durable relational bonding rather than by neutral aggregation.
+Register:      formal / social
+Domain:        social / kinship / collective
+Status:        ✅ active
+First use:     CKN-001 (S1231); reused CKN-002 (S1236).
+Notes:         The most context-dependent member of the family. Registered because CKN-001 and CKN-002 showed a stable specialized use: ordinary li-pu remains the default term, while ka-be-ne-li-pu is reserved for vowed, sworn, or chosen-family collective identity. It should not replace plain li-pu in ordinary group reference.
+Related:       ka-be-ne (W218: deliberate bond-creation), li-pu (collective / crew), ne-su (W031: network / society), ka-be-ne-go (W250), ka-be-ne-du (W251), ka-be-ne-ru (W252)
+```
+
+---

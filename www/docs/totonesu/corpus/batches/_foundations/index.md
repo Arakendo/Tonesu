@@ -4,7 +4,7 @@ title: "Early & Unbatched Sentences"
 
 # Early & Unbatched Sentences
 
-*Theme: [Foundations](../../foundations/overview.md)* · 37 sentences.
+*Theme: [Foundations](../../foundations/overview.md)* · 74 sentences.
 
 [← Foundations](../../foundations/overview.md) · [← Corpus](../../overview.md)
 
@@ -603,6 +603,154 @@ title: "Early & Unbatched Sentences"
     - `wi-fe-no-fe` = rules-without-boundary = `wi-fe` (W100) + `no-fe` (without limit). Default right-branching: `wi` modifies [`fe-no-fe`] = will applied to [boundary-without-limit] = unlimited imposition = totalitarianism. This bare-asserted conclusion is outside `()` — the speaker presents it without reservation.
     - **Grammar doing the work:** the real position is `()`-framed; the distortion is bare-asserted. In Tonesu, anything outside `()` claims first-person certainty. The structural contrast — `(reported premise)  ,  du  [bare confident conclusion]` — makes the gap visible: the `du` (result/therefore) asserts the conclusion follows directly from what was only a reported claim.
     - Corrected form: `(la-ze  lo-wi-fe  be-si)  ,  (du  la-ze  lo-wi-fe-no-fe  wi)` — place both premise and conclusion inside `()`. Both are reported/uncertain. The result is the weaker, epistemically honest version.
+
+<span id="S1301"></span>
+**S1301**
+*COV-FED-001-A: The federal burden is routed through a written employer policy*
+
+<span id="S1302"></span>
+**S1302**
+*COV-FED-001-B: Vaccination enters the rule as a tracked status with records*
+
+<span id="S1303"></span>
+**S1303**
+*COV-FED-001-C: If vaccination is not required, testing proof may stand in its place*
+
+<span id="S1304"></span>
+**S1304**
+*COV-FED-001-D: Non-vaccinated workplace presence triggers a recurring testing protocol*
+
+<span id="S1305"></span>
+**S1305**
+*COV-FED-001-E: Non-vaccinated indoor or vehicle presence triggers face covering*
+
+<span id="S1306"></span>
+**S1306**
+*COV-FED-001-F: No workplace presence means no testing or face-covering burden*
+
+<span id="S1307"></span>
+**S1307**
+*COV-FED-001-G: Return after a seven-day absence requires a recent test record*
+
+<span id="S1308"></span>
+**S1308**
+*COV-FED-001-H: The face-covering rule lifts when the worker is alone in a room*
+
+<span id="S1309"></span>
+**S1309**
+*COV-FED-001-I: The outdoors carveout depends on no enclosure and no shared vehicle exposure*
+
+<span id="S1310"></span>
+**S1310**
+*COV-STA-001-A: State law forbids businesses from demanding status proof for entry*
+
+<span id="S1311"></span>
+**S1311**
+*COV-STA-001-B: The same ban binds governmental entities*
+
+<span id="S1312"></span>
+**S1312**
+*COV-STA-001-C: Educational institutions are also blocked from making status proof a condition of attendance*
+
+<span id="S1313"></span>
+**S1313**
+*COV-STA-001-D: The statute still allows screening protocols that follow government guidance*
+
+<span id="S1314"></span>
+**S1314**
+*COV-STA-001-E: Violating the rule routes to state-imposed penalty*
+
+<span id="S1315"></span>
+**S1315**
+*COV-MUN-001-A: Without vaccination proof, the venue operator bars indoor entry*
+
+<span id="S1316"></span>
+**S1316**
+*COV-MUN-001-B: Brief limited-purpose entry is exempt*
+
+<span id="S1317"></span>
+**S1317**
+*COV-MUN-001-C: The venue must keep a written enforcement protocol*
+
+<span id="S1318"></span>
+**S1318**
+*COV-MUN-001-D: The venue must post visible notice before entry*
+
+<span id="S1319"></span>
+**S1319**
+*COV-MUN-001-E: Repeated violation increases local penalties*
+
+<span id="S1320"></span>
+**S1320**
+*COV-MUN-002-A: The safer-at-home order turns home-departure into the controlled default*
+
+<span id="S1321"></span>
+**S1321**
+*COV-MUN-002-B: Emergency and permitted-service roles reopen departure from home*
+
+<span id="S1322"></span>
+**S1322**
+*COV-MUN-002-C: Cross-household gathering is prohibited*
+
+<span id="S1323"></span>
+**S1323**
+*COV-MUN-002-D: Outside-home co-presence triggers face covering*
+
+<span id="S1324"></span>
+**S1324**
+*COV-MUN-002-E: School outbreak status triggers closure*
+
+<span id="S1325"></span>
+**S1325**
+*COV-ORG-001-A: Campus presence is gated by vaccination-status*
+
+<span id="S1326"></span>
+**S1326**
+*COV-ORG-001-B: Arrival on campus triggers testing regardless of vaccination-status*
+
+<span id="S1327"></span>
+**S1327**
+*COV-ORG-001-C: Authorized institutional testing may run by self-test or observed testing*
+
+<span id="S1328"></span>
+**S1328**
+*COV-ORG-001-D: If the person lacks vaccination-status and lacks exemption, vaccination becomes required*
+
+<span id="S1329"></span>
+**S1329**
+*COV-ORG-001-E: Return after absence triggers retesting, but vaccinated persons may resume on-site activity immediately*
+
+<span id="S1330"></span>
+**S1330**
+*COV-ORG-002-A: Student campus presence is conditioned on vaccination and proof*
+
+<span id="S1331"></span>
+**S1331**
+*COV-ORG-002-B: On-campus work is likewise conditioned on vaccination and proof*
+
+<span id="S1332"></span>
+**S1332**
+*COV-ORG-002-C: The institution keeps an administrative record of four employee status lanes*
+
+<span id="S1333"></span>
+**S1333**
+*COV-ORG-002-D: Accommodation does not erase burden; it converts it into restrictions and intensified testing*
+
+<span id="S1334"></span>
+**S1334**
+*COV-ORG-002-E: Without vaccination and without accommodation, remote work is not an approved fallback*
+
+<span id="S1335"></span>
+**S1335**
+*COV-ORG-003-A: The employer makes vaccination a condition of work*
+
+<span id="S1336"></span>
+**S1336**
+*COV-ORG-003-B: The filing narrows the rule to U.S.-based employees*
+
+<span id="S1337"></span>
+**S1337**
+*COV-ORG-003-C: The rule includes a real but unspecified exemption lane*
 
 ---
 

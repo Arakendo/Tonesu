@@ -276,6 +276,14 @@ Because hyphens carry no grammatical meaning, written forms strip cleanly: `to's
 
 **Mathematical expressions:** Tonesu uses standard international mathematical notation (Arabic digits 0–9, operators `+  −  ×  ÷  =  <  >  ^`, parentheses, etc.) for standalone expressions and inline formulas. CVC digit and CVCC constant forms are the *spoken* and *prose* representations — for counting, measurement, and embedding quantities in sentences. When a formula needs to appear as a formula, you write `3 + varn = 3 + 3.14159…` not `gal pa ne varn nu pa-re`. The two registers do not conflict: prose Tonesu speaks quantities via CVC; displayed math writes them via universal symbology. This applies to all technical and scientific writing where equations appear as distinct display elements rather than as sentence constituents.
 
+**Superscript and subscript in technical notation:** Superscript and subscript are admitted as part of that same international notation register. They are **written-only typographic conventions**, not new native Tonesu notation marks, and they do not receive dedicated spoken forms.
+
+- **Superscript** is allowed for exponents and repeated-application shorthand in formulas and technical summaries: `10^23`, `x^2`, `walf^4`; display variants like `10²³` and `walf⁴` are acceptable where typography permits, but `^` remains the canonical plain-text form.
+- **Subscript** is allowed for indexed variables, conventional scientific labels, and chemical formulas: `x_1`, `m_e`, `m_p`, `k₂`, `H₂O`, `CO₂`.
+- **Reference indexing** may also use superscript or subscript numerals in written scholarly, legal, and technical documents when functioning purely as citation/footnote pointers. These are document-organization devices, not grammatical operators.
+
+When plain-text portability matters, prefer `^` for superscript content and underscore-style indexing (`x_1`, `m_e`) for subscript content. Unicode superscripts/subscripts are acceptable display forms, not required base forms.
+
 ---
 
 ## CVC Descriptor Modifiers

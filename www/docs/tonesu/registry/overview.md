@@ -4,7 +4,7 @@ title: Word Registry
 
 # Word Registry
 
-234 derived compounds, sorted alphabetically.
+238 derived compounds, sorted alphabetically.
 
 See also: [English index](english.md) · [By domain](by-domain.md) · [By root](by-root.md) · [Building words](../words.md)
 
@@ -47,6 +47,10 @@ See also: [English index](english.md) · [By domain](by-domain.md) · [By root](
 | `ha-de` · hade | [W044](words/W044.md) | ✅ | cooling, thermal decrease <br><small>[S060](../../totonesu/corpus/batches/t-prm/index.md#S060)</small> |
 | `ha-zo-ra-ma` · hazorama | [W216](words/W216.md) | ✅ | baked food / thermally-treated food <br><small>[S664](../../totonesu/corpus/batches/ckg/index.md#S664) · [S724](../../totonesu/corpus/batches/egg/index.md#S724) · [S725](../../totonesu/corpus/batches/egg/index.md#S725)</small> |
 | `ka-be-ne` · kabene | [W218](words/W218.md) | ✅ | binding / deliberate bond-creation <br><small>[S673](../../totonesu/corpus/batches/sol/index.md#S673) · [S715](../../totonesu/corpus/batches/mrx/index.md#S715)</small> |
+| `ka-be-ne-du` · kabenedu | [W251](words/W251.md) | ✅ | adopted child, chosen child |
+| `ka-be-ne-go` · kabenego | [W250](words/W250.md) | ✅ | adoptive parent, chosen parent |
+| `ka-be-ne-li-pu` · kabenelipu | [W253](words/W253.md) | ✅ | bonded collective, sworn crew, chosen family group |
+| `ka-be-ne-ru` · kabeneru | [W252](words/W252.md) | ✅ | chosen sibling |
 | `ka-de-pa` · kadepa | [W243](words/W243.md) | ✅ | concentration camp; deliberate-harm-place <br><small>[S855](../../totonesu/corpus/batches/ant/index.md#S855)</small> |
 | `ka-de-zo` · kadezo | [W128](words/W128.md) | ✅ | kill, deliberate ending of life |
 | `ka-du-zo-su` · kaduzosu | [W161](words/W161.md) | ✅ | bread, deliberately crafted plant-product <br><small>[S429](../../totonesu/corpus/batches/lsp/index.md#S429)</small> |

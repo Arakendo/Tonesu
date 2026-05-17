@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 149 |
+| [w101-plus.md](w101-plus.md) | W101+ | 153 |
 
-**Total: 237 W-series entries** — active: 193 · proposed: 2 · pending: 39 · cold: 0 · retired: 3
+**Total: 241 W-series entries** — active: 197 · proposed: 2 · pending: 39 · cold: 0 · retired: 3
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -67,6 +67,10 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `ha-de` | W044 | cooling, thermal decrease | ✅ | [w001-w050](w001-w050.md) |
 | `ha-zo-ra-ma` | W216 | baked food / thermally-treated food | ✅ | [w101-plus](w101-plus.md) |
 | `ka-be-ne` | W218 | binding / deliberate bond-creation | ✅ | [w101-plus](w101-plus.md) |
+| `ka-be-ne-du` | W251 | adopted child, chosen child | ✅ | [w101-plus](w101-plus.md) |
+| `ka-be-ne-go` | W250 | adoptive parent, chosen parent | ✅ | [w101-plus](w101-plus.md) |
+| `ka-be-ne-li-pu` | W253 | bonded collective, sworn crew, chosen family group | ✅ | [w101-plus](w101-plus.md) |
+| `ka-be-ne-ru` | W252 | chosen sibling | ✅ | [w101-plus](w101-plus.md) |
 | `ka-de-pa` | W243 | concentration camp; deliberate-harm-place | ✅ | [w101-plus](w101-plus.md) |
 | `ka-de-zo` | W128 | kill, deliberate ending of life | ✅ | [w101-plus](w101-plus.md) |
 | `ka-du-zo-su` | W161 | bread, deliberately crafted plant-product | ✅ | [w101-plus](w101-plus.md) |
@@ -277,7 +281,7 @@ Concept-first lookup: find the compound you need by domain.
 `di-ki-li` W061 navigator · `li-be` W033 child · `li-su-li` W001 leader · `pa-ki` W156 liberation / liberator · `ra-su-li` W225 sovereign · `si-go-li` W201 content originator · `si-ki-li` W158 messenger/angel · `si-no-vo-li` W126 hypocrite · `su-ka-li` W200 service provider · `su-li` W234 ordinary person · `su-mu-li` W002 engineer · `to-fe-li` W032 epistemic guardian/adjudicator · `to-li` W003 scholar · `wi-de-li` W124 adversary · `zo-li` W148 human person · `zo-su-ka-li` W150 shepherd
 
 **Kinship**
-`ne-zi-re` W131 spouse · `zo-ne` W076 biological kinship bond · `zo-ne-du` W078 offspring · `zo-ne-du-re` W081 descendant · `zo-ne-go` W077 parent · `zo-ne-go-re` W080 ancestor · `zo-ne-ru` W079 sibling
+`ka-be-ne-du` W251 adopted child · `ka-be-ne-go` W250 adoptive parent · `ka-be-ne-li-pu` W253 bonded collective · `ka-be-ne-ru` W252 chosen sibling · `ne-zi-re` W131 spouse · `zo-ne` W076 biological kinship bond · `zo-ne-du` W078 offspring · `zo-ne-du-re` W081 descendant · `zo-ne-go` W077 parent · `zo-ne-go-re` W080 ancestor · `zo-ne-ru` W079 sibling
 
 **Place / Space**
 `ki-pa` W049 corridor · `ko-pa` W048 room · `li-pu-pa` W036 city · `pa-be'ka-li-su` W125 kingdom of heaven · `pa-fe` W138 vault · `pa-ki-su` W198 liberty · `pa-ma` W194 material realm · `pa-mi` W110 here · `pa-ne-su` W196 cosmological framework · `pa-ra` W053 energetic field · `pa-su` W157 mountain · `pa-vo-fe` W153 holy ground · `pa-wi` W088 destination · `pa-wi-ka-su` W066 shrine · `pa-zo-li` W135 the world · `to-pa` W195 thought-realm
@@ -301,7 +305,7 @@ Concept-first lookup: find the compound you need by domain.
 `be-go-li-si` W149 creator-representation · `fa-ra-su` W226 religion · `fe-no-ka` W056 taboo · `fe-vo` W065 sacredness · `go-ne` W159 self-originating relation / "I am who I am" · `ka-li-su` W147 governance · `ka-pa-ki'ti-re` W167 Passover festival · `ka-vo-si` W168 thanksgiving / blessing · `pa-be'ka-li-su` W125 kingdom of heaven · `pa-vo-fe` W153 holy ground · `pa-wi-ka-su` W066 shrine · `se-to` W062 perceptual insight · `to-re-su` W064 canonical doctrine · `vo-ne` W118 righteousness · `wi-ka-su` W054 ritual · `wi-si` W063 prayer · `zo-ra` W117 life-energy · `zo-si` W069 spirit · `zo-to` W068 soul
 
 **Social / Institutional**
-`de-su` W119 fault · `de-vo` W121 evil · `fa-ra-su` W226 religion · `go-ne` W159 self-originating relation / "I am who I am" · `ka-li-su` W147 governance · `ka-no-de-su` W120 forgiveness · `li-pu-pa` W036 city · `ne-su` W031 network · `ne-to` W084 mutual acknowledgment · `ne-to-fe` W165 covenant · `ne-zi-re` W131 spouse · `pa-vo-fe` W153 holy ground · `re-ka-ne-li` W134 peacemaker · `si-no-vo-li` W126 hypocrite · `su-ka-li` W200 service provider · `su-li` W234 ordinary person · `to-fe-su` W072 epistemic standards body/code · `to-ki'ne-su` W202 online platform · `wi-de-li` W124 adversary · `wi-fe` W100 rule · `wi-re` W099 feedback loop · `wi-re-su` W074 operational protocol · `wi-to-su` W073 design specification
+`de-su` W119 fault · `de-vo` W121 evil · `fa-ra-su` W226 religion · `go-ne` W159 self-originating relation / "I am who I am" · `ka-be-ne-du` W251 adopted child · `ka-be-ne-go` W250 adoptive parent · `ka-be-ne-li-pu` W253 bonded collective · `ka-be-ne-ru` W252 chosen sibling · `ka-li-su` W147 governance · `ka-no-de-su` W120 forgiveness · `li-pu-pa` W036 city · `ne-su` W031 network · `ne-to` W084 mutual acknowledgment · `ne-to-fe` W165 covenant · `ne-zi-re` W131 spouse · `pa-vo-fe` W153 holy ground · `re-ka-ne-li` W134 peacemaker · `si-no-vo-li` W126 hypocrite · `su-ka-li` W200 service provider · `su-li` W234 ordinary person · `to-fe-su` W072 epistemic standards body/code · `to-ki'ne-su` W202 online platform · `wi-de-li` W124 adversary · `wi-fe` W100 rule · `wi-re` W099 feedback loop · `wi-re-su` W074 operational protocol · `wi-to-su` W073 design specification
 
 **Organism / Biology**
 `de-ki'ma` W162 wine / fermented liquid · `de-zo` W178 death · `de-zo-ki` W186 necromancy · `du-zo-su` W142 fruit · `ha-zo-ra-ma` W216 baked food / thermally-treated food · `ka-de-zo` W128 kill · `ma-zo-ki` W146 crawler · `se-lu` W130 eye · `wi-zo` W145 wild animal · `zi-zo` W106 biological coupling event · `zi-zo-du` W108 du-role in biological coupling · `zi-zo-go` W107 go-role in biological coupling · `zo-de` W051 fatigue · `zo-ki'ma` W164 blood · `zo-li` W148 human person · `zo-ma` W163 body · `zo-no-ki` W043 rest · `zo-ra` W117 life-energy · `zo-ra-ma` W144 food · `zo-se-ki` W060 enter trance · `zo-si` W069 spirit · `zo-su-be` W143 seed · `zo-su-ka-li` W150 shepherd · `zo-to` W068 soul
@@ -482,7 +486,7 @@ Quick lookup by lead primitive root.
 | `fe` | fe-si W024, fe-su W055, fe-no-ka W056, fe-vo W065, fe-vo'si-ko-mu W219 |
 | `go` | go-ne W159, go-su W235 |
 | `ha` | ha-de W044, ha-zo-ra-ma W216 |
-| `ka` | ka-mu W047, ka-ne-de W092, ka-no-de-su W120, ka-to-fe W122, ka-de-zo W128, ka-li-su W147, ka-pa-ki W160, ka-du-zo-su W161, ka-pa-ki'ti-re W167, ka-vo-si W168, ka-li-de W205, ka-be-ne W218, ka-ra W222, ka-si-de W224, o-ka-su W233, ka-de-pa W243, ka-ra-mu W247 |
+| `ka` | ka-mu W047, ka-ne-de W092, ka-no-de-su W120, ka-to-fe W122, ka-de-zo W128, ka-li-su W147, ka-pa-ki W160, ka-du-zo-su W161, ka-pa-ki'ti-re W167, ka-vo-si W168, ka-li-de W205, ka-be-ne W218, ka-ra W222, ka-si-de W224, o-ka-su W233, ka-de-pa W243, ka-ra-mu W247, ka-be-ne-go W250, ka-be-ne-du W251, ka-be-ne-ru W252, ka-be-ne-li-pu W253 |
 | `ki` | ki-pa W049, ki-pa-mu W086, ki'ma W114, ki-ne W152, ki-fe-mu W228 |
 | `ko` | ko-pa W048, ko-mu W052, ko-ne-mu W176, ko-ha-mu W214 |
 | `li` | li-su-li W001, li-be W033, li-pu-pa W036 |
