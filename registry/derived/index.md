@@ -16,9 +16,9 @@ New entries always go into **[w101-plus.md](w101-plus.md)** regardless of eventu
 |------|-------|---------|
 | [w001-w050.md](w001-w050.md) | W000–W050 | 38 |
 | [w051-w100.md](w051-w100.md) | W051–W100 | 50 |
-| [w101-plus.md](w101-plus.md) | W101+ | 146 |
+| [w101-plus.md](w101-plus.md) | W101+ | 150 |
 
-**Total: 234 W-series entries** — active: 190 · proposed: 2 · pending: 39 · cold: 0 · retired: 3
+**Total: 238 W-series entries** — active: 194 · proposed: 2 · pending: 39 · cold: 0 · retired: 3
 
 Status key: ✅ active/accepted · ⏳ pending · ⚠️ proposed · ❄️ cold · 🚫 retired
 
@@ -78,6 +78,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `ka-pa-ki` | W160 | liberation act, deliberate place-motion | ✅ | [w101-plus](w101-plus.md) |
 | `ka-pa-ki'ti-re` | W167 | Passover festival, recurring liberation event | ✅ | [w101-plus](w101-plus.md) |
 | `ka-ra` | W222 | deliberate force; combat; martial action; warfare | ✅ | [w101-plus](w101-plus.md) |
+| `ka-ra-mu` | W247 | weapon; violent implement; deliberate-force-artifact | ✅ | [w101-plus](w101-plus.md) |
 | `ka-si-de` | W224 | deliberate deception; strategic misdirection; intentional signal-corruption | ✅ | [w101-plus](w101-plus.md) |
 | `ka-to-fe` | W122 | judge, deliberate epistemic bounding | ✅ | [w101-plus](w101-plus.md) |
 | `ka-vo-si` | W168 | thanksgiving / blessing, deliberate value-signal | ✅ | [w101-plus](w101-plus.md) |
@@ -112,6 +113,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `ne-to-fe` | W165 | covenant, formally bounded agreement | ✅ | [w101-plus](w101-plus.md) |
 | `ne-zi-re` | W131 | spouse, bonded coupling partner | ✅ | [w101-plus](w101-plus.md) |
 | `no-de-ma` | W129 | salt, preservative matter | ✅ | [w101-plus](w101-plus.md) |
+| `no-li-ra-su` | W249 | bureaucracy; rule by nobody; power-structure without personal accountability | ✅ | [w101-plus](w101-plus.md) |
 | `no-lu-ti` | W141 | nighttime, dark-period | ⏳ | [w101-plus](w101-plus.md) |
 | `no-ne-fe` | W075 | absence of dependency / no link | ✅ | [w051-w100](w051-w100.md) |
 | `no-su'ma` | W115 | gas (material state) | ⏳ | [w101-plus](w101-plus.md) |
@@ -169,6 +171,7 @@ Sorted by form. Use this to look up a known compound. For concept-first lookup, 
 | `su-li` | W234 | ordinary person; structure-embedded person; person shaped by institutional context | ✅ | [w101-plus](w101-plus.md) |
 | `su-mu-li` | W002 | engineer, architect | ⏳ | [w001-w050](w001-w050.md) |
 | `su-ne` | W174 | harmony, structure-of-connection | ✅ | [w101-plus](w101-plus.md) |
+| `su-ra` | W248 | authority; structured/institutionally-ordered power | ✅ | [w101-plus](w101-plus.md) |
 | `su-ru` | W085 | integrated whole, unified structure | ✅ | [w051-w100](w051-w100.md) |
 | `su-ti` | W101 | current state, instantaneous configuration | ⏳ | [w101-plus](w101-plus.md) |
 | `su-to` | W199 | self-evident proposition; truth whose ground is its own structure | ✅ | [w101-plus](w101-plus.md) |
@@ -280,7 +283,7 @@ Concept-first lookup: find the compound you need by domain.
 `ki-pa` W049 corridor · `ko-pa` W048 room · `li-pu-pa` W036 city · `pa-be'ka-li-su` W125 kingdom of heaven · `pa-fe` W138 vault · `pa-ki-su` W198 liberty · `pa-ma` W194 material realm · `pa-mi` W110 here · `pa-ne-su` W196 cosmological framework · `pa-ra` W053 energetic field · `pa-su` W157 mountain · `pa-vo-fe` W153 holy ground · `pa-wi` W088 destination · `pa-wi-ka-su` W066 shrine · `pa-zo-li` W135 the world · `to-pa` W195 thought-realm
 
 **Artifact / Device**
-`fe-vo'si-ko-mu` W219 consecrated inscribed object / pentacle / talisman · `ka-du-zo-su` W161 bread · `ka-mu` W047 tool · `ki-ne` W152 sandal · `ki-pa-mu` W086 vehicle · `ko-ha-mu` W214 oven / thermal containment device · `ko-mu` W052 vessel · `ko-ne-mu` W176 chain · `ma-no-de` W046 medicine · `ra-ki-mu` W012 engine · `si-ko-mu` W067 individual document · `si-mu` W039 relay device · `to-ki'ne-su` W202 online platform · `to-ki-mu` W011 computer · `to-su-mu` W010 database · `vo-mu` W137 garment · `wi-to` W045 plan (single-instance purposive artifact)
+`fe-vo'si-ko-mu` W219 consecrated inscribed object / pentacle / talisman · `ka-du-zo-su` W161 bread · `ka-mu` W047 tool · `ka-ra-mu` W247 weapon / violent implement · `ki-ne` W152 sandal · `ki-pa-mu` W086 vehicle · `ko-ha-mu` W214 oven / thermal containment device · `ko-mu` W052 vessel · `ko-ne-mu` W176 chain · `ma-no-de` W046 medicine · `ra-ki-mu` W012 engine · `si-ko-mu` W067 individual document · `si-mu` W039 relay device · `to-ki'ne-su` W202 online platform · `to-ki-mu` W011 computer · `to-su-mu` W010 database · `vo-mu` W137 garment · `wi-to` W045 plan (single-instance purposive artifact)
 
 **Time**
 `lu-ti` W140 daytime · `no-lu-ti` W141 nighttime · `ti-be` W040 morning · `ti-de` W041 past time · `ti-fe` W037 deadline · `ti-mi` W109 now · `ti-mu` W057 relic · `ti-re` W103 recurring time
@@ -415,7 +418,7 @@ Concept-first lookup: find the compound you need by domain.
 `ti-go-su` W245 historical necessity
 
 **Philosophy / Politics**
-`be-ki` W244 natality · `wife'atofeka` W246 legitimized epistemic closure
+`be-ki` W244 natality · `ka-ra-mu` W247 weapon / violent implement · `no-li-ra-su` W249 bureaucracy / rule by nobody · `su-ra` W248 authority · `wife'atofeka` W246 legitimized epistemic closure
 
 **Physics / Theoretical**
 `ki-fe-mu` W228 fundamental string · `pa-di` W229 dimension
@@ -476,7 +479,7 @@ Quick lookup by lead primitive root.
 | `fe` | fe-si W024, fe-su W055, fe-no-ka W056, fe-vo W065, fe-vo'si-ko-mu W219 |
 | `go` | go-ne W159, go-su W235 |
 | `ha` | ha-de W044, ha-zo-ra-ma W216 |
-| `ka` | ka-mu W047, ka-ne-de W092, ka-no-de-su W120, ka-to-fe W122, ka-de-zo W128, ka-li-su W147, ka-pa-ki W160, ka-du-zo-su W161, ka-pa-ki'ti-re W167, ka-vo-si W168, ka-li-de W205, ka-be-ne W218, ka-ra W222, ka-si-de W224, o-ka-su W233, ka-de-pa W243 |
+| `ka` | ka-mu W047, ka-ne-de W092, ka-no-de-su W120, ka-to-fe W122, ka-de-zo W128, ka-li-su W147, ka-pa-ki W160, ka-du-zo-su W161, ka-pa-ki'ti-re W167, ka-vo-si W168, ka-li-de W205, ka-be-ne W218, ka-ra W222, ka-ra-mu W247, ka-si-de W224, o-ka-su W233, ka-de-pa W243 |
 | `ki` | ki-pa W049, ki-pa-mu W086, ki'ma W114, ki-ne W152, ki-fe-mu W228 |
 | `ko` | ko-pa W048, ko-mu W052, ko-ne-mu W176, ko-ha-mu W214 |
 | `li` | li-su-li W001, li-be W033, li-pu-pa W036 |
@@ -485,14 +488,14 @@ Quick lookup by lead primitive root.
 | `mi` | mi-vo-to W236 |
 | `mu` | mu-ka W022 |
 | `ne` | ne-su W031, ne-fe W042, ne-ra W058, ne-ra-ki W059, ne-to W084, ne-de W091, ne-zi-re W131, ne-to-fe W165, ne-no-ra W171 |
-| `no` | no-ne-fe W075, no-su'ma W115, no-de-ma W129, no-lu-ti W141 |
+| `no` | no-ne-fe W075, no-su'ma W115, no-de-ma W129, no-li-ra-su W249, no-lu-ti W141 |
 | `nu` | nu-se W102 |
 | `pa` | pa-nu W050, pa-ra W053, pa-wi-ka-su W066, pa-ki W087, pa-wi W088, pa-mi W110, pa-be'ka-li-su W125, pa-zo-li W135, pa-fe W138, pa-vo-fe W153, pa-ki W156, pa-su W157, pa-ma W194, pa-ne-su W196, pa-ki-su W198, pa-di W229, pa-ra-de-su W242 |
 | `ra` | ra-ki-mu W012, ra-ki W038, ra-vo W071, ra-ma W082, ra-lu-ki W151, ra-su-li W225, a-ra-su W239, ra-de-su W240 |
 | `re` | re-ka-ne-li W134 |
 | `se` | se-ka W034, se-to W062, se-no-to W090, se-lu W130 |
 | `si` | si-ne-ki W021, si-ki W023, si-mu W039, si-ko-mu W067, si-fe W070, si-de W098, si-no-vo-li W126, si-ki-li W158, si-go-li W201, si-de-vo W232, si-ne-su W237 |
-| `su` | su-mu-li W002, su-ru W085, su-ti W101, su'ma W113, su-fa W133, su-ne W174, su-to W199, su-ka-li W200, su-zo-ko W204, su-ha-mu W227, su-li W234 |
+| `su` | su-mu-li W002, su-ru W085, su-ti W101, su'ma W113, su-fa W133, su-ne W174, su-ra W248, su-to W199, su-ka-li W200, su-zo-ko W204, su-ha-mu W227, su-li W234 |
 | `ti` | ti-fe W037, ti-be W040, ti-de W041, ti-mu W057, ti-re W103, ti-mi W109, ti-go-su W245 |
 | `to` | to-ne-su W000, to-li W003, to-su-mu W010, to-ki-mu W011, to-ki W020, to-su-ki W025, to-si W026, to-ko W027, to-fe W028, to-fe-ka W029, to-su W030, to-fe-li W032, to-re-su W064, to-fe-su W072, to-ru W083, to-go W089, to-fe-su-ki W097, to-ko-re W166, to-to-ne-su W169, to'to-ne-su W170, to-pa W195, to-ki'ne-su W202 |
 | `vo` | vo-ne W118, vo-mu W137 |

@@ -16,7 +16,7 @@ This file is a pointer; it is not used by the pipeline.
 | Bible | [matthew-16-25.md](translations/Bible/matthew-16-25.md) | MAT-001 | draft |
 | Bible | [matthew-5-7.md](translations/Bible/matthew-5-7.md) | — | draft |
 | Bible | [romans-7-19.md](translations/Bible/romans-7-19.md) | ROM-001 | draft |
-| Literature | [basho-frog.md](translations/Literature/basho-frog.md) | BSH-001 | draft |
+| Literature | [basho-frog.md](translations/Literature/basho-frog.md) | BSH-001/002 | draft |
 | Literature | [dickinson-death.md](translations/Literature/dickinson-death.md) | DEB-001 | draft |
 | Literature | [hamlet-to-be.md](translations/Literature/hamlet-to-be.md) | HAM-001 | draft |
 | Literature | [tale-of-two-cities.md](translations/Literature/tale-of-two-cities.md) | — | draft |

@@ -17,7 +17,10 @@
 | [s873-s921.md](s873-s921.md) | S873–S921 | WFE-002 through NAM-001 (closed) |
 | [s922-s975.md](s922-s975.md) | S922–S975 | LSE-001 through DND-005 (closed) |
 | [s976-s1023.md](s976-s1023.md) | S976–S1023 | DND-006 through KAR-001 (closed) |
-| [s1024-plus.md](s1024-plus.md) | S1024+ | *(ongoing)* · KAR-002 (Round Table S1024–S1028) |
+| [s1024-s1075.md](s1024-s1075.md) | S1024–S1075 | KAR-002 through ROE-004 (closed) |
+| [s1076-s1148.md](s1076-s1148.md) | S1076–S1148 | ANV-001 through ANV-006 (*On Violence*, Arendt S1076–S1115) · ACC-001 through ACC-005 (*The Archive Collapse* S1116–S1148) |
+| [s1149-s1198.md](s1149-s1198.md) | S1149–S1198 | ACC-006 (*The Archive Collapse* S1149–S1156) · RBR-001 through RBR-005 (*The Returning Brother* S1157–S1186) · LYR-001 through LYR-002 (*Moon on the River* S1187–S1198) |
+| [s1199-plus.md](s1199-plus.md) | S1199+ | *(ongoing)* · LYR-003 through LYR-005 (*Moon on the River* S1199–S1216) · BSH-002 (*Bashō — The Frog Haiku* S1217–S1219) |
 
 See [../index.md](../index.md) for entry format.
 

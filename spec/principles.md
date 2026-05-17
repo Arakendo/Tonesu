@@ -66,7 +66,11 @@ The language has a formal register (explicit, transparent, compositional) and a 
 
 The primitive root set and domain rules must be stable before the vocabulary registry grows. A large vocabulary built on an unstable foundation requires wholesale revision. Fewer, better-defined primitives are always preferable to more primitives added prematurely.
 
-*Corollary: resist the temptation to add a new primitive root every time a compound feels awkward. Awkward compounds are a diagnostic, not a problem to be solved by root proliferation.*
+Tonesu is **allowed to have weak points**. A language does not need to be equally strong at every semantic task to be well-designed. If a proposed addition would slightly improve a weak area but blur, flatten, or compromise an area where the language is already unusually strong, the addition should be rejected. The goal is not uniform adequacy through feature accumulation; the goal is a coherent system with clear strengths, honest limits, and pressures that remain legible.
+
+When a weak spot appears, the first question is not "what new primitive, particle, or construction should be added?" but "can the existing **dual-register system** already absorb this pressure?" Some expressive, ergonomic, or narrative weak points are better handled by colloquial contraction, idiom, or register-specific practice than by altering the formal core. Principle 7 is therefore a pressure-release valve as well as a stylistic feature.
+
+*Corollary: resist the temptation to add a new primitive root, particle, or expressive shortcut every time a compound feels awkward or a narrative edge case feels exposed. Awkward compounds and exposed weak points are diagnostics first, not automatic prompts for expansion. Do not trade away high-value structural strengths in order to chase local completeness.*
 
 ---
 

@@ -5,13 +5,15 @@ batch_codes: [BSH]
 
 ## Source: Matsuo Bashō (松尾芭蕉), 1686
 ## Original: Japanese (classical; kanji + hiragana)
-## Status: Draft — first pass
+## Status: Draft — first pass retained; second pass after EMD-002 added
 
 ---
 
 ## Purpose
 
 The frog haiku is the **kireji / pure juxtaposition stress test**. It is the most translated poem in East Asian literature and has no consensus English version after 340 years, for a specific linguistic reason: the **kireji** `や` (ya) is structurally untranslatable into any European language. Tonesu has two candidate tools — `/` and `:` — and this batch determines which one applies, with consequences for the interpretation of the entire poem.
+
+**Update note (May 2026):** BSH-001 below preserves the original first-pass analysis written before `—` was admitted in EMD-002. BSH-002, appended at the end of this file, revisits the same haiku after prosodic suspension became available as a third and potentially better kireji candidate.
 
 Primary tests:
 - **Kireji as structural mark** — does `/` (parallel partition) or `:` (topic frame) correctly encode the `ya` cut? The two marks encode different readings; choosing between them forces a decision that Japanese leaves open for 340 years
@@ -205,3 +207,102 @@ The most minimal rendering. Agent (`la-zo-se-ma`) is dropped — the frog disapp
 - **GAP-BSH-002**: Tonesu cannot produce a zero-predicate noun-sentence; `pa` (existential) is the minimum addition; this is a structurally unavoidable translation loss
 - **GAP-BSH-003**: no discourse-anaphora pronoun for recently-established referents; `re-fe-ma-ki` must be spelled out twice; this inflates compound length
 - **GAP-BSH-004**: ~~agent-drop for pure motion-event clauses — is `ki lo-X` without `la-{agent}` grammatical? S470 tests the limit; not yet resolved~~ **Resolved (March 2026):** Grammar §Ellipsis Pattern 3 licenses agent drop when fully context-recoverable. In the batch `zo-se-ma` is established in S468/S469; S470's drop is discourse-licensed. The compression beyond source is a translator's choice, not a grammar violation.
+
+---
+
+## BSH-002 — Second Pass After Prosodic Suspension [S1217–S1219]
+
+**Purpose:** Revisit the frog haiku after EMD-002 admitted `—` as a prosodic suspension mark. BSH-001 showed that forcing a choice between `/` and `:` exposed the poem's interpretive fork, but it also over-committed the translation. This second pass asks whether `—` can preserve more of Bashō's withheld relation by suspending the pond-image without deciding whether what follows is co-equal juxtaposition, topic-comment, or something looser than either.
+
+Primary tests:
+- whether `—` is a better kireji candidate than `/` or `:` for the primary rendering
+- whether the poem benefits from suspension rather than explicit structural commitment
+- whether second mention of the pond can be reduced without losing the event too badly
+- whether the agent-dropped compression becomes more haiku-like once the opening cut is handled by `—`
+
+Secondary tests:
+- whether BSH-001 should now be read as interpretive expansions rather than primary renderings
+- whether `fe-ma-ki` is a useful partial-repeat compromise between full repetition and over-compression
+
+Corpus sentences from this batch: **S1217–S1219**.
+
+---
+
+## BSH-002 Vocabulary Framework
+
+| Form | Reading | Notes |
+|------|---------|-------|
+| `re-fe-ma-ki` | old pond | established from BSH-001 |
+| `fe-ma-ki` | pond | compositional first attested here as reduced second mention of the pond |
+| `zo-se-ma` | aquatic vertebrate / frog (by context) | same contextual frog solution as BSH-001 |
+| `ma-ki-so` | water-sound | established from BSH-001 |
+| `—` | prosodic suspension | EMD-002 / G028 reuse |
+
+---
+
+## BSH-002 Sentence Analyses
+
+### S1217 — Full haiku — kireji as `—` prosodic suspension (BSH-002-A)
+
+```
+re-fe-ma-ki  —  la-zo-se-ma  ki  lo-re-fe-ma-ki,  ma-ki-so  pa
+```
+
+**Written:** `refemaki — lazosema ki lorefemaki, makiso pa`
+
+**Reading:** Old pond — a frog enters the old pond, water-sound exists.
+
+**Notes:** This is now the strongest primary rendering. `—` suspends the old pond without deciding whether the next line is a co-equal partner (`/`) or a comment anchored to it (`:`). That gets closer to Bashō's deliberate under-specification. The cost is that the full pond compound still repeats, so the line remains heavier than the Japanese.
+
+### S1218 — Full haiku — suspension with reduced second pond mention (BSH-002-B)
+
+```
+re-fe-ma-ki  —  la-zo-se-ma  ki  lo-fe-ma-ki,  ma-ki-so  pa
+```
+
+**Written:** `refemaki — lazosema ki lofemaki, makiso pa`
+
+**Reading:** Old pond — a frog enters the pond, water-sound exists.
+
+**Notes:** This is the best economy compromise. The poem names the old pond once, then reduces the second mention to `fe-ma-ki` (pond) rather than repeating the full aged-boundary image. It is still more explicit than Japanese, but it avoids making the source sound as though it repeats itself more than it does.
+
+### S1219 — Suspension with agent suppressed (BSH-002-C)
+
+```
+re-fe-ma-ki  —  ki  lo-fe-ma-ki,  ma-ki-so  pa
+```
+
+**Written:** `refemaki — ki lofemaki, makiso pa`
+
+**Reading:** Old pond — motion into the pond, water-sound exists.
+
+**Notes:** This remains exploratory rather than primary. Once `—` carries the opening cut, the agent-dropped version sounds more poem-like than S470 did, but it still compresses beyond the source by removing the frog altogether.
+
+---
+
+## BSH-002 Comparison
+
+| S | Kireji | Agent | Pond repetition | Why keep it |
+|---|--------|-------|-----------------|-------------|
+| S1217 | `—` | explicit | full `re-fe-ma-ki` repeated | strongest structural fidelity to Bashō's withheld relation |
+| S1218 | `—` | explicit | reduced to `fe-ma-ki` on second mention | best balance of suspension and economy |
+| S1219 | `—` | dropped | reduced `fe-ma-ki` | most haiku-like compression, but furthest from source grammar |
+
+---
+
+## BSH-002 Batch Summary
+
+| Entry | Form | Test |
+|-------|------|------|
+| S1217 (BSH-002-A) | `refemaki — lazosema ki lorefemaki, makiso pa` | `—` as primary kireji candidate with full explicit frog event |
+| S1218 (BSH-002-B) | `refemaki — lazosema ki lofemaki, makiso pa` | reduced second pond mention under suspension |
+| S1219 (BSH-002-C) | `refemaki — ki lofemaki, makiso pa` | maximum compression under the new suspension mark |
+
+**Updated finding:** After EMD-002, `—` is the best primary Tonesu rendering of `ya`. `/` and `:` still matter, but they now look less like candidate translations and more like deliberate interpretive glosses of what Bashō leaves structurally open. `—` does not solve the zero-predicate or repetition problems, but it does remove the largest avoidable over-commitment in BSH-001.
+
+**What improved:** Tonesu no longer has to decide the haiku's deepest relation at the moment of the cut. That is a real gain. The poem remains heavier than Japanese because `ma-ki-so pa` still needs predication and the pond still needs some repeated mention, but the opening cut is now much closer to the source's suspended resonance.
+
+**Still unresolved:**
+- **GAP-BSH-001** remains: no dedicated frog discriminator
+- **GAP-BSH-002** remains: no zero-predicate noun-line equivalent
+- **GAP-BSH-003** remains partially relieved but not solved: `fe-ma-ki` reduces repetition, but there is still no true discourse pro-form for "that already-established pond"

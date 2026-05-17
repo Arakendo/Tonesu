@@ -2607,3 +2607,51 @@ Related:       wi-fe (W100: entitlement/right — the constitutive wrapper), a-t
 ```
 
 ---
+
+**W247**
+```
+Form:          ka-ra-mu
+Type:          compound
+Class:         entity / artifact
+Definition:    deliberate-force-artifact = weapon = violent implement. Any tool, instrument, or device designed to apply deliberate force (ka-ra, W222). Arendt's analysis of arms technology: weapons multiply the capacity for ka-ra without multiplying o-ra (collective power) — indeed substituting weapons for active political support indicates declining power. Follows the standard -mu (artifact/device) suffix pattern: ka-mu (W047: deliberate-action-device = instrument), to-ki-mu (W034: knowledge-change-device = computer).
+Composition:   ka-ra (W222: deliberate force/violence) + mu (artifact/object/device). Head-final: mu (artifact) is head; ka-ra specifies the type of artifact — one designed to apply deliberate force. Standard -mu derivation from a verbal compound.
+Register:      standard / technical / political philosophy
+Domain:        Philosophy / Politics / Technology
+Status:        ✅ active
+First use:     ANV-001-H (S1083): la-ka-ra-mu ka-be lo-ka-ra / no ka-be lo-o-ra — "Weapons increase [the capacity for] violence — they do not multiply collective power." (Arendt, On Violence)
+Related:       ka-ra (W222: deliberate force/violence — the process ka-ra-mu implements), mu (primitive: artifact/device), ka-mu (W047: deliberate-action-device = generic instrument), o-ra (compositional: collective power — what ka-ra-mu does not multiply, S1083), wi-pa (compositional: intended aim — what ka-ra-mu destroys when used as means, S1085)
+```
+
+---
+
+**W248**
+```
+Form:          su-ra
+Type:          compound
+Class:         entity / structure / relation
+Definition:    structured force = institutionally-ordered, recognized power = authority. Arendt's Authority: the legitimate, hierarchically structured power that operates through acknowledgment rather than compulsion — the recipient recognizes and complies without coercion. Distinct from o-ra (collective power, which arises from common action and requires no hierarchical structure) and ka-ra (W222, violence, which compels through implements). Arendt: "Authority precludes the use of external means of coercion; where force is used, authority itself has failed." su (structure/order) specifies that the force (ra) is ordered, institutionalized, and recognized within a hierarchy. Note: wife'atofeka (W246) references su-ra as "structural force" in the legitimized-epistemic-closure cascade — the pre-violence stage of the precondition sequence (S872).
+Composition:   su (structure/order) + ra (force/energy). Head-final: ra (force) is head; su specifies the mode of force — structured, institutionalized, hierarchically ordered. Contrast: ra-su = power-structure (the organization of power, as a system); su-ra = structured-power (power that IS structured = authority as a property of force).
+Register:      formal / political philosophy
+Domain:        Philosophy / Politics
+Status:        ✅ active
+First use:     ANV-001-I (S1084): su-ra ne no o-ra / ne no ka-ra — "Authority is neither collective power nor violence." (Arendt, On Violence)
+Related:       su (primitive: structure/order), ra (primitive: force/energy), o-ra (compositional: collective power — authority is not this, S1084), ka-ra (W222: violence — authority is not this, S1084), wi-ra-ki (W241: state terror — what authority degrades into when it fails), wife'atofeka (W246: legitimized epistemic closure — references su-ra as precondition stage 2 in S872)
+```
+
+---
+
+**W249**
+```
+Form:          no-li-ra-su
+Type:          compound
+Class:         entity / structure
+Definition:    no-person-power-structure = rule by nobody = bureaucracy. The political arrangement in which a power-structure (ra-su) is operated such that no person (no-li) can be identified as personally accountable. Arendt: "The greater the bureaucratization of public life, the greater will be the attraction of violence." The paradox: precisely because no one is responsible, violence can be applied without personal friction or constraint — accountability is the natural limit on individual violence, and bureaucracy removes it. Maximum condition: a-no-li-ra-su = absolute rule-by-nobody. The form captures the paradox structurally: the power-structure (ra-su) is modified by absence-of-person (no-li) — the structure exists but its agent is negated.
+Composition:   no (negation/absence) + li (person/social agent) + ra-su (power-structure, W240-class compound). Head-final: ra-su is head (the power-structure); no-li (no-person) is the modifier specifying the structural absence of personal accountability. Parse: [no-li]-[ra-su] = no-person as a unit, modifying ra-su = power-structure. The juncture is not needed because no-li right-bounds cleanly: no modifies li first (no-person), then [no-li] modifies [ra-su] (no-person power-structure).
+Register:      formal / political philosophy
+Domain:        Philosophy / Politics
+Status:        ✅ active
+First use:     ANV-001-E (S1080): la-no-li-ra-su ne a-ka-ra — "Bureaucracy — rule by nobody — is [the condition of] maximum violence." (Arendt, On Violence)
+Related:       no (primitive: negation), li (primitive: person/social agent), ra-su (power-structure, W240-class), ka-ra (W222: violence — a-ka-ra is the condition of W249), o-ra (compositional: collective power — the alternative to no-li-ra-su), wi-ra-ki (W241: state terror — the institutionally-directed violence that no-li-ra-su maximizes)
+```
+
+---
