@@ -4,9 +4,9 @@ title: Arendt Convergence
 
 # Arendt Convergence
 
-*How a language project that began with phonics irritation kept drifting toward Hannah Arendt's distinction-space.*
+*How Tonesu's anti-collapse design kept rediscovering some of Hannah Arendt's most important structural distinctions.*
 
-One of the stranger outcomes of Tonesu is that its semantic pressures repeatedly converged on distinctions associated with Hannah Arendt before the project was consciously trying to engage her.
+One of the clearest surprises in Tonesu's development is that a project aimed at reducing hidden semantic collapse kept arriving at distinctions that Hannah Arendt also treated as structurally decisive.
 
 That matters, but it should not be overstated.
 
@@ -99,24 +99,24 @@ The convergence claim is only interesting if readers can trace it back to concre
 
 | Theme | Tonesu distinction | Primary batches / surfaces | Why it matters |
 |-------|--------------------|----------------------------|----------------|
-| authority vs force | `wi-ra` vs `ka-ra` / `su-ra` | ANV-001 through ANV-006; PERM-001; ROB-001 | Keeps recognized authority distinct from coercive or merely effective force |
-| capability vs permission | `be-vo` vs `wi-fe` | PERM-001; ROB-001; GDPR-001 | Prevents law, power, and ability from collapsing into one predicate-space |
-| signal vs guilt | `si` vs `de-su` | MRP-001; PSY-001; KAF-001 | Stops forecast, threshold reading, or accusation from silently becoming fault |
-| classification as act | `su-ka` | PSY-001; ADL-001 through ADL-004 | Makes categorization visible as institutional action rather than neutral discovery |
-| publication vs hidden standard | `to-fe-su` / `to-fe-su-ki` | C005 design pressure; PSY-001; semantic-map legitimacy notes | Grounds the claim that unpublished thresholds may produce power without full legitimacy |
-| deliberate mislabeling | `to-fe-ka` vs `to-fe-ki` | Knowledge & claims; C005-C008; SLZ-001 / SLZ-002 | Gives the project a stable way to describe fraud, suppression, and managed uncertainty |
-| bureaucracy and routinization | burden-routing, record-carry, procedural normalization | ANV-001 through ANV-006; ACC-001 through ACC-006; ADL-004 | Shows how action can become historically consequential without dramatic overt command |
-| ordinary participation | repeated signaling, designation, consent-growth | ORD-001; ADL-001 / ADL-002; ACC track | Pressures the move from isolated command to socially distributed participation |
+| authority vs force | `wi-ra` vs `ka-ra` / `su-ra` | [ANV-001 through ANV-006](../totonesu/corpus/batches/anv/index.md); [PERM-001](../totonesu/corpus/batches/perm/index.md); [ROB-001](../totonesu/corpus/batches/rob/index.md) | Keeps recognized authority distinct from coercive or merely effective force |
+| capability vs permission | `be-vo` vs `wi-fe` | [PERM-001](../totonesu/corpus/batches/perm/index.md); [ROB-001](../totonesu/corpus/batches/rob/index.md); [GDPR-001](../totonesu/corpus/batches/gdpr/index.md) | Prevents law, power, and ability from collapsing into one predicate-space |
+| signal vs guilt | `si` vs `de-su` | [MRP-001](../totonesu/corpus/batches/mrp/index.md); [PSY-001](../totonesu/corpus/batches/psy/index.md); [KAF-001](../totonesu/corpus/batches/kaf/index.md) | Stops forecast, threshold reading, or accusation from silently becoming fault |
+| classification as act | `su-ka` | [PSY-001](../totonesu/corpus/batches/psy/index.md); [ADL-001 through ADL-004](../totonesu/corpus/batches/adl/index.md) | Makes categorization visible as institutional action rather than neutral discovery |
+| publication vs hidden standard | `to-fe-su` / `to-fe-su-ki` | [Predictive policing](predictive-policing.md); [PSY-001](../totonesu/corpus/batches/psy/index.md); [Knowledge & claims](knowledge.md) | Grounds the claim that unpublished thresholds may produce power without full legitimacy |
+| deliberate mislabeling | `to-fe-ka` vs `to-fe-ki` | [Knowledge & claims](knowledge.md); [SLZ-001 / SLZ-002](../totonesu/corpus/batches/slz/index.md); [C005-C008 conversations](../totonesu/corpus/conversations/overview.md) | Gives the project a stable way to describe fraud, suppression, and managed uncertainty |
+| bureaucracy and routinization | burden-routing, record-carry, procedural normalization | [ANV-001 through ANV-006](../totonesu/corpus/batches/anv/index.md); [ACC-001 through ACC-006](../totonesu/corpus/batches/acc/index.md); [ADL-004](../totonesu/corpus/batches/adl/index.md) | Shows how action can become historically consequential without dramatic overt command |
+| ordinary participation | repeated signaling, designation, consent-growth | [ORD-001](../totonesu/corpus/batches/ord/index.md); [ADL-001 / ADL-002](../totonesu/corpus/batches/adl/index.md); [Archive Collapse](../totonesu/corpus/translations/stress/archive-collapse/index.md) | Pressures the move from isolated command to socially distributed participation |
 
 ### Fast reading path
 
 If a reader wants the smallest evidence bundle that still justifies the page's thesis, this is the recommended order:
 
 1. **Knowledge & claims** for `to-fe`, `to-fe-ka`, `to-fe-ki`, and the anti-collapse epistemic baseline.
-2. **PERM-001** for the authority / permission / capability split.
-3. **PSY-001** for signal, classification, publication, and coercion under one compact regime test.
-4. **ANV-001 through ANV-006** for direct Arendt pressure around power, authority, violence, and bureaucracy.
-5. **ACC-001 through ACC-006** for synthetic institutional stress showing that the same distinction family survives outside explicit Arendt commentary.
+2. **[PERM-001](../totonesu/corpus/batches/perm/index.md)** for the authority / permission / capability split.
+3. **[PSY-001](../totonesu/corpus/batches/psy/index.md)** for signal, classification, publication, and coercion under one compact regime test.
+4. **[ANV-001 through ANV-006](../totonesu/corpus/batches/anv/index.md)** for direct Arendt pressure around power, authority, violence, and bureaucracy.
+5. **[ACC-001 through ACC-006](../totonesu/corpus/batches/acc/index.md)** for synthetic institutional stress showing that the same distinction family survives outside explicit Arendt commentary.
 
 That sequence is enough to see why the convergence claim is real, even before the broader historical-comparative governance track is complete.
 
