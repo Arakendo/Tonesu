@@ -17,6 +17,7 @@ the ground-truth source of record when answering questions or doing work.
 | `registry/derived/` | Derived compound full entries split by W-number range; `index.md` is the quick-reference. New entries always go into `w101-plus.md` first. |
 | `corpus/sentences/` | Numbered sentence corpus organized by format era. `v4-current/s549-plus.md` is the active intake file. Older eras in `v1-legacy/`, `v2-labeled/`, `v3-transition/`. |
 | `corpus/translations/` | Translation stress tests by source text. Each source gets its own subfolder (e.g. `Bible/`). |
+| `sources/` | Source packets and provenance artifacts for translation batches, notes, and tonesu.org pages that derive claims from external texts. |
 | `notes/` | Open questions, design notes, semantic map, basics summary, prior-art. Non-normative but important context. |
 | `www/docs/` | Website source files (Markdown pages, overrides, CSS). Built by `scripts/build.py` and MkDocs. |
 | `scripts/` | Build pipeline scripts. `build.py` is the main runner. See § Website build and deployment. |
@@ -52,6 +53,7 @@ Never renumber existing W-numbers or S-numbers when splitting.
 | Active sentence intake (new sentences here first) | `corpus/sentences/v4-current/s549-plus.md` |
 | Corpus index | `corpus/index.md` |
 | Bible translation stress tests | `corpus/translations/Bible/` |
+| Source packet convention | `sources/README.md` |
 | Digit, color, scale-prefix, and CVC/CVCC exceptional anchor inventory | `notes/anchor-inventory.md` |
 | Open design questions | `notes/open-questions.md` |
 | Language basics summary | `notes/basics.md` |
@@ -240,6 +242,16 @@ The website (`www/docs/`) is a public-facing showcase of Tonesu. The following r
 ### Written-form quick reference
 
 Strip hyphens: `to-li` → `toli` · `ra-ki-mu` → `rakimu` · `to-no-fe` → `tonofe` · `pawi'kasu` (juncture `'` is normative, stays) · `la-toli` → `latoli` · `lo-tosu` → `lotosu`.
+
+## Source packet conventions (`sources/`)
+
+When a translation batch, note, or tonesu.org page derives claims from an external text whose operative wording matters, preserve a ride-along source packet under `sources/`.
+
+Create a packet when the source is brittle, archived, scan-based, dynamically rendered, translation-sensitive, or otherwise awkward to recover cleanly later. Follow `sources/README.md` for the required fields and keep topic-level packet indexes in the relevant `sources/<topic>/README.md` file when a topic has multiple packets.
+
+### Local OCR note
+
+`tesseract` is installed in this workspace environment. When a source packet depends on a scan or poor inherited OCR, prefer checking the page images directly and use local OCR as a verification aid rather than relying only on Archive- or vendor-supplied OCR text.
 
 ---
 

@@ -28,6 +28,7 @@ These are the files you hand-author. Everything else is derived from them.
 | `corpus/translations/**/*.md` | Translation stress tests |
 | `spec/*.md` | Language specifications (grammar, phonology, morphology, etc.) |
 | `notes/*.md` | Design notes, open questions, semantic map |
+| `sources/**/*.md` | Source packets and provenance artifacts for externally derived claims |
 | `registry/domains.md` | Domain registry |
 | `registry/roots.md` | Named roots |
 | `registry/kinds.md` | Kind-term taxonomy |

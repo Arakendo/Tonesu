@@ -68,6 +68,7 @@ zolimu      zo-li-mu     organism-agent-device    →  robot / artificial lifefo
 | `registry/` | Word inventories — primitives, derived compounds, roots, domains |
 | `corpus/` | Sentence corpus and translation stress tests |
 | `notes/` | Open questions, design notes, semantic map |
+| `sources/` | Source packets and provenance artifacts for derived analyses and site content |
 | `www/docs/` | MkDocs source for [tonesu.org](https://tonesu.org/) |
 | `scripts/` | Pipeline scripts (YAML → annotated → registry → site) |
 
@@ -113,6 +114,8 @@ The [tonesu.org](https://tonesu.org/) site is generated from this repository by 
 - **Word builder** — interactive 3-panel tool for composing compounds from primitive roots
 - **Corpus** — 575+ annotated sentences across grammar, theology, mathematics, and everyday speech
 - **To'tonesu** — domain exploration pages (biology, law, physics, theology, mathematics, and more)
+
+When a page, batch, or translation on the site depends on brittle or non-obvious external material, preserve a ride-along source packet under `sources/` so the operative source surface remains recoverable.
 
 Built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/).
 | All 34 primitive roots | [`registry/primitives.md`](registry/primitives.md) |
