@@ -7,8 +7,8 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 ## Ready to run — registered vocabulary with no attestations
 
 - [x] **`wi-fe` / `su-ti` activation batch** — filed as SUT-001 (S665–S671). W101 (`su-ti`) first attested. Also first attestations of `su-ti-de`, `su-ti-be`, `wi-fe-ka`, `no-wi-fe-ka`, and policy-as-agent prohibition form (`la-wi-fe-su ne wi-fe-ka lo-Y`). W099 + W101 target-state regulation link.
-- [ ] **`zo-si` / `zo-to` disambiguation stress** — Candidates for registration. Batch that puts "creating from nothing" vs "transforming an existing thing" into contexts where the distinction matters. Either confirms the split or shows they collapse in practice.
-- [ ] **`ne-ra` second attestation** — Registered (W058) but thin on corpus. Find a second use context that isn't directly theological.
+- [x] **`zo-si` / `zo-to` disambiguation stress** — effectively resolved by early religion + later doctrinal and theological corpus use. `zo-to` and `zo-si` are both registered and attested; the split holds: a person has `zo-to`, a ghost is `zo-si`. Core confirming contexts: S084/S085, C005-A1/A2, S357/S360.
+- [x] **`ne-ra` second attestation** — effectively resolved. Non-theological uses now exist in conversation and political-economy register; `ne-ra` / `ne-ra-ki` are no longer thin on corpus. Key later pressure points: C006 and MCH-001.
 
 ---
 
@@ -29,8 +29,8 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 
 ## Needs a small design decision first, then run
 
-- [ ] **Performative / expressive register (EM-001)** — Reactive cries and expressive exclamations: "Ugh!", "Oh no…", "At last!" Not propositional — no standard `la-{agent} verb lo-{patient}` frame. Options: (a) bare topic frames (`ya, [state]`), (b) bare fragments with `—`, (c) new particle. Decision can be taken during the batch. Good source: stage directions / dramatic text.
-- [ ] **Social / chosen kinship vocabulary** — "My spouse", "my adoptive parent", "my crew". No vocabulary exists. Sketch candidates first (`wi-ne`? → partner by bond; `zo-ne`? → chosen/formed relation), then run 6-sentence batch that forces them into use.
+- [x] **Performative / expressive register (EM-001)** — filed as EM-001 (S1220–S1225). Resolved in favor of the existing default: pure outcry remains outside formal Tonesu grammar; the boundary is handled by `—`, `no si`, `no-so`, `fa-no-to`, lexical `no!`, and delayed proposition rather than a new expressive particle. Good source pressure confirmed via a sudden-injury dramatic boundary scene.
+- [x] **Social / chosen kinship vocabulary** — filed as CKN-001 through CKN-002 (S1226–S1237). Backlog assumption corrected first: spouse already exists as `ne-zi-re` (W131), and ordinary crew already exists as `li-pu`. The live gap was non-biological kin roles. CKN-001 proposed a parallel `ka-be-ne-*` family for chosen/adoptive kin, and CKN-002 pressure-tested it in emotionally loaded direct speech. Result: the family is now registered as W250 `ka-be-ne-go` (adoptive parent), W251 `ka-be-ne-du` (adopted child), W252 `ka-be-ne-ru` (chosen sibling), and W253 `ka-be-ne-li-pu` (bonded collective / sworn crew). `ka-be-ne-li-pu` remains the most formal member of the set.
 - [x] **Proper-name reduced-form orthography stress test** — filed as NAM-001 (S916–S921). Confirms spaced identifier after `na` across agent, patient, relational, embedded, vocative, and exclamatory-NP positions. Key finding: no new grammar device needed; the problem is reader-facing orthography, not clause structure. Remaining open: whether and how to grandfather older fused `na-Name` corpus examples.
 
 ---
@@ -157,7 +157,8 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 
 	**Design note:** treat this as a stress test on the dual register and on Tonesu's tolerance for controlled incompletion. Poetry should expose where the formal core is enough, where lyric work belongs to register practice, and where the language must simply accept a limit.
 
-- [ ] **Euclid — mathematical proof** — Infinite primes, or Book I Prop 1 (construct equilateral triangle). Short, precise, exercises nested `go`, `ne`, `wi-fe` (geometrical constraints). No mathematical prose translation series exists yet. Pairs with proof structure batch above.
+- [x] **Euclid — mathematical proof** — filed as EUC-001 (S1238–S1243): Euclid, *Elements* I.1, construct an equilateral triangle on a given bounded segment. No new vocabulary required. Key findings: GEO-001 shape vocabulary and PRF-001 proof chaining are sufficient for a real construction proof; named geometry objects remain readable with category-first naming (`[pa-ru na A]`, `[fe-di-fe na A-B]`, `[fe-re-ru na A-B]`); `ne` carries first-pass point-on-circle incidence; `su-ne` handles segment equality and `su-ne-ru` the equilateral conclusion.
+- [x] **Complex plane / imaginary axis probe** — filed as CPX-001 through CPX-006 (S1244–S1273). No new vocabulary required. Key findings: `walf` can function as a sentence-level mathematical constant; `{X, Y}` plus `helm` is workable for first-pass coordinate-pair rendering; `walf [point-term]` is workable as operator application; repeated `walf` application remains legible under direct stacking; `no [digit]` works as a signed coordinate-slot notation without fusing onto the CVC digit anchor; the fourth quarter-turn returns the point to its original coordinates; `fe-di-ne nu worn` is workable as a full-turn angle phrase; the `walf` cycle now links cleanly to `worn` / tau language. Still open: general pair arithmetic and possible shorthand for repeated operator powers.
 - [x] **Asimov / robotics-law hierarchy** — filed as ROB-001 (S941–S950). The batch first paraphrases the classic Three Laws into clause-level Tonesu deontics, then rewrites them using distinctions the language already makes explicit: rights (`wi-fe`), authority (`wi-ra`), uncertainty (`si` vs `to`), and maintenance as dependency (`ne-fe` + `no-de`). Key finding: the better Tonesu-native law-set is not more futuristic; it is less compressed.
 - [x] **Robotics edge cases** — filed as ROB-002 (S951–S956). Extends ROB-001 into conflicting-authority, suspected-danger, and adjudicated-containment cases. Key finding: in Tonesu, routing is part of the law-set; coercion tracks certification, not mere suspicion.
 - [x] **Minority Report / pre-crime detention** — filed as MRP-001 (S957–S962). Predictive killing claims stay at `si`/future status rather than silently becoming fault; detention before adjudication is exposed as accusation; conflicting predictive records block `to`-grade certification; uncertified prediction routes to `to-fe-li` instead of justifying custody.
@@ -189,8 +190,97 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 
 - [x] **CDA Section 230(c)(1)** — filed as CDA-001 (S639–S644). W200 (`su-ka-li`), W201 (`si-go-li`), W202 (`to-ki'ne-su`). "No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider." Key finding: `wi-fe'ka-to-fe` is the `~`-suppression mechanism; `~`-grade categories (`~su-ka-li`, `~si-go-li`, `~ka-to-fe`) underlie the statute's strategic vagueness. Reworked with `~` structural mode comparisons after `~` spec was extended.
 - [x] **GDPR Article 6(1)** — filed as GDPR-001 (S925–S931). Confirms that the article is best modeled as a permission battery over one repeated processing act, not a taxonomy of six data-kinds. Key split: contract (`ne-to-fe`) vs legal obligation (`wi-fe-su`) vs official authority (`wi-ra`). Key catch-all: `~vo-ne` for "legitimate interests."
-- [ ] **USA PATRIOT Act Section 215 — "tangible things" collection** — Infamous surveillance clause. "Relevant to an authorized investigation" contains the entire controversy. Exposes: epistemic inflation ("necessary" vs "relevant"), scope ambiguity over what counts as tangible, hidden assumptions about data relevance. Run after Section 230 for the chaos escalation.
+- [x] **Legal reference apparatus probe** — filed as LRF-001 (S1274–S1278). Synthetic annotated legal prose testing rule labels, note labels, and superscript note pointers before the USA Freedom Act boss fight. Key finding: superscript numerals are good legal reference apparatus; actual lexical content should remain in the rule line or note body rather than moving into super/subscript notation.
+- [x] **USA PATRIOT Act Section 215 — "tangible things" collection** — filed as PAT-001 (S1279–S1284), PAT-002 (S1285–S1289), PAT-003 (S1290–S1294), and PAT-004 (S1295–S1300). Key findings: PAT-001 shows the double widening from records to `a-mu` and from stronger grounding to `to-ne`; PAT-002 shows the presumption ladder that propagates relevance from target, to activity, to associates through `wi-fe'ka-to-fe`, with bare `ne` preserving the statute's under-specified "in contact with / known to" relation; PAT-003 shows that the statute's minimization language narrows only the back end, using `wi-fe-su`, `to-ko`, and `ka-si` to bound retention and dissemination after the widened intake is already authorized; PAT-004 shows that the statute also seals the existence of the order itself, allowing only supervised leakage through compliance necessity, attorney consultation, and director-permitted disclosure while copying the same gag forward to secondary recipients. No new W-entries.
 - [x] **ACA Individual Mandate — "minimum essential coverage"** — filed as ACA-001 (S645–S650). W203 (`wi-fe'de`), W204 (`su-zo-ko`), W205 (`ka-li-de`). The provision requiring coverage (26 U.S.C. §5000A). Famous for the "penalty vs tax" interpretive gymnastics. Exposes: category manipulation (exactly `to-fe-ka` territory), definitional ambiguity, causal vs normative claim confusion. Will produce at least one sentence that would be illegal in Tonesu.
+- [ ] **COVID-era mandate comparison track** — Compare how the same public-health burden is framed when the source of power changes: federal, state, municipal, and organizational. Treat this as a multi-batch comparative sequence rather than one omnibus translation.
+
+	**Core question:** when does a mandate present itself as law, as emergency administration, as funding-condition, as workplace rule, as condition of entry, or as private institutional policy? The comparison matters more than any single text.
+
+	**Why this track matters:** COVID-era mandates are ideal pressure for Tonesu because they repeatedly move the same practical demand across different authority sources without changing the everyday burden very much. That exposes where English silently conflates jurisdiction, coercion, permission, certification, exemption, and delegated enforcement.
+
+	**Target layers to compare:**
+	1. **Federal** — OSHA ETS / CMS conditions of participation / federal contractor guidance. Pressure point: federal power often appears indirectly through workplace safety, funding, procurement, or agency rulemaking rather than bare police power.
+	2. **State** — governor / health-department emergency orders, statewide mask or vaccination requirements, or state-level preemption/prohibition. Pressure point: emergency authority, statewide police power, and sunset / renewal mechanics.
+	3. **Municipal** — city vaccine-pass or indoor masking rules (for example NYC-style venue-entry requirements). Pressure point: local delegated authority, place-of-entry conditions, inspection/enforcement at the venue layer.
+	4. **Organizational** — employer, university, hospital, airline, or venue policies. Pressure point: contract/property/employment governance rather than public law in the narrow sense.
+
+	**Recommended batch structure:**
+	1. **COV-FED-001** — filed as COV-FED-001 (S1301–S1309): OSHA ETS employer-policy, recordkeeping, testing, face-covering, and scope-exception compliance mechanism.
+	2. **COV-STA-001** — filed as COV-STA-001 (S1310–S1314): Florida Statute 381.00316 anti-documentation rule across business, government, and educational institutions, with screening carveout and fine-based enforcement.
+	3. **COV-MUN-001** — filed as COV-MUN-001 (S1315–S1319): NYC EO 225 venue-entry vaccination rule for indoor entertainment, dining, and fitness settings, with quick-purpose exemption, posted notice, written protocol, and escalating local fines.
+	4. **COV-MUN-002** — filed as COV-MUN-002 (S1320–S1324): LA County targeted safer-at-home order through home-departure control, essential/service carveout, cross-household gathering ban, outside-home masking, and outbreak-triggered school closure.
+	5. **COV-ORG-001** — filed as COV-ORG-001 (S1325–S1329): MIT student reentry vaccination-and-testing policy through campus participation gating, universal arrival testing, internal testing administration, exemption-conditioned vaccination, and return-after-absence retesting.
+	6. **COV-ORG-002** — filed as COV-ORG-002 (S1330–S1334): Princeton student-and-employee vaccination requirement through campus/work vaccination-and-proof gating, administrative status reporting, accommodation-linked restrictions and intensified testing, and no remote-work fallback for unvaccinated non-accommodated workers.
+	7. **COV-ORG-003** — filed as COV-ORG-003 (S1335–S1337): United Airlines employee vaccination requirement through a proof-grade 2021 Form 10-K anchor preserving the work-condition rule skeleton, explicit U.S.-based scope, and a real but unspecified exemption lane.
+	8. **COV-CMP-001** — a synthesis batch stating what changed and what stayed structurally identical across the filed layers.
+
+	**Municipal subtype result:** LA-style stay-at-home / "non-essential persons" clauses were correctly treated as a distinct municipal subtype and filed as COV-MUN-002, not folded into COV-MUN-001. Structurally they regulate generalized presence and movement through essentiality categories, rather than vaccination-proofed entry into named indoor venues.
+
+	**COV-ORG selection rubric:** choose organizational specimens by governance shape, not by brand, politics, or notoriety. The point is to prevent the organizational layer from bunching up at one severity level or one enforcement style.
+
+	**Score each candidate on these axes before selecting it:**
+	- burden severity: recommendation/attestation vs masking/testing vs vaccine-or-test vs vaccination-only
+	- consequence type: warning/internal compliance vs denial of entry vs unpaid leave/suspension vs termination/deregistration
+	- alternative-path structure: many compliance lanes vs one fallback lane vs no practical alternative
+	- dependency level: optional venue/service vs recurring participation vs high-dependence employment/education/travel
+	- accommodation logic: broad, moderate, or narrow exemption path
+	- proof surface: self-attestation vs periodic test/admin record vs formal document check at access or review point
+
+	**Coverage rule:**
+	1. At least one chosen organizational specimen must be low-to-medium restriction.
+	2. At least one must have a real alternative lane (for example vaccine-or-test, remote-work option, or masking substitute).
+	3. At least one must be high restriction, where exclusion from work/class/travel/service is the actual enforcement mechanism.
+	4. Do not select two organizational specimens that share both the same burden severity and the same consequence type unless they differ sharply on accommodation logic or proof surface.
+
+	**Preferred spread if multiple organizational batches are filed:**
+	1. light-touch policy: screening, masking, or attestation with weak sanctions
+	2. middle policy: structured compliance with a real fallback lane
+	3. hard policy: vaccination-only or near-vaccination-only rule with exclusion or termination pressure
+
+	**Disqualifying clustering patterns:**
+	- three hospital or healthcare-employer policies from the same safety rationale
+	- three university mandates from the same semester with the same exemption model
+	- multiple vaccination-required policies whose only real difference is institution name
+	- symbolic policies with no meaningful enforcement path
+
+	**Selection objective:** the organizational layer should show different ways a private or semi-private actor can produce COVID compliance burdens, from soft recommendation up through hard exclusion, without collapsing every example into the most restrictive edge case.
+
+	**Current COV-ORG candidate pool:**
+	1. **MIT testing status / building access regime** — filed as COV-ORG-001 (S1325–S1329). The archived student reentry page proved that the organizational layer can combine participation gating, universal arrival testing, internal testing administration, exemption logic, and reentry retesting without collapsing into either public-law mandate or employment-termination pressure.
+	2. **Princeton student and employee vaccination requirement** — filed as COV-ORG-002 (S1330–S1334). This adds the hard organizational specimen the rubric called for: institution-wide vaccination-and-proof governance, a formal status-reporting checkpoint, burdened accommodation, and no remote-work fallback for unvaccinated non-accommodated workers.
+	3. **Delta employee health-plan surcharge for unvaccinated workers** — medium restriction candidate. Structural value: economic pressure rather than direct exclusion, showing that an organization can drive compliance through benefits-cost allocation instead of entry denial or firing.
+	4. **Netflix or production-zone vaccination rule** — medium-to-high restriction candidate. Structural value: role-scoped or zone-scoped access control rather than organization-wide universal compulsion; useful if the source trail is clean enough.
+	5. **United employee vaccination requirement** — filed as COV-ORG-003 (S1335–S1337) from the 2021 Form 10-K. Structural value: a proof-grade airline employer specimen that cleanly preserves the rule skeleton, U.S.-employee scope, and exemption lane, while also showing how much thinner annual-report language can be than contemporary policy reporting.
+
+	**Why these five:** together they span testing/access, financial pressure, zone-restricted access, student-participation exclusion, and employment mandate. That is the intended spread under the rubric; it avoids selecting five versions of the same vaccination-only rule.
+
+	**Preferred first filing order:**
+	1. MIT or Rutgers first if an official page can be recovered cleanly; they are likely to produce the least ambiguous first organizational batch.
+	2. Delta next only if the surcharge language can be recovered from an official source or filing-grade artifact.
+	3. United is now filed as COV-ORG-003 through a 2021 Form 10-K anchor, but the batch remains intentionally narrower than press-report descriptions because the annual report preserves only the rule skeleton.
+	4. Netflix/production-zone rule only if the official-source trail is strong enough; otherwise replace with another role-scoped organizational policy that is easier to source.
+
+	**Comparison dimensions to force explicitly:**
+	- source of authority: statute / agency / executive order / board / employer / venue
+	- regulated act: vaccination / masking / testing / proof-of-status / exclusion-from-entry / employment condition
+	- burden form: direct command vs condition of work, funding, entry, or participation
+	- exemption logic: medical / religious / age / remote-status / prior infection / hardship
+	- enforcement path: fine / denial of entry / job loss / funding loss / inspection / recordkeeping
+	- duration logic: emergency declaration, renewal, termination, or policy withdrawal
+	- certification state: attestation, card, test result, or administrative record
+	- conflict structure: federal-state preemption, state-local override, or public-private mismatch
+
+	**Likely Tonesu pressure points:** `wi-ra` vs `wi-fe-su`; `wi-fe-ka` / `no-wi-fe-ka`; `ne wi-fe` rights-claim counterpressure; `to-fe-su-ki` for published guidance vs unpublished internal thresholding; `si-de` / `si-ko-mu` for proof and documentation; `to-fe-li` when adjudicative review appears; `ka-ko` / entry-control patterns where the rule is really about access rather than bodily compulsion.
+
+	**Hard requirements:**
+	- do not collapse all mandates into one moral category
+	- keep public-law and private-policy sources distinct even where outcomes converge
+	- track whether the rule compels an act or conditions access to a space, job, benefit, or contract
+	- include at least one mandate and one anti-mandate / preemption text so the comparison is not all one-directional
+	- reserve the synthesis batch for structural comparison, not argument
+
+	**Success condition:** the corpus should make it obvious when two regimes produce the same lived burden through different authority shapes, and when superficially similar "mandates" are actually different legal species.
 - [ ] **Communications Decency Act Section 230(c)(2)** — The "Good Samaritan" good-faith moderation provision (the companion to 230(c)(1)). Tests conditional immunity with an explicit agent-volition component. Do after 230(c)(1).
 - [ ] **California Consumer Privacy Act (CCPA) Section 1798.100** — Rights-based language: right to know, right to delete. More structured than GDPR. Exposes: what a "right" means structurally (obligation on the other party), scope of "personal information", obligations vs permissions. Good for contrast against GDPR after that batch.
 - [ ] **USA Freedom Act Section 501** — Written to fix PATRIOT Act problems; layered amendments + dense cross-references. High risk of discovering new levels of structural suffering. Do last, as a boss fight.

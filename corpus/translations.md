@@ -16,6 +16,15 @@ This file is a pointer; it is not used by the pipeline.
 | Bible | [matthew-16-25.md](translations/Bible/matthew-16-25.md) | MAT-001 | draft |
 | Bible | [matthew-5-7.md](translations/Bible/matthew-5-7.md) | — | draft |
 | Bible | [romans-7-19.md](translations/Bible/romans-7-19.md) | ROM-001 | draft |
+| Law | [legal-reference-apparatus.md](translations/Law/legal-reference-apparatus.md) | LRF-001 | draft |
+| Law | [florida-covid-vaccine-documentation-prohibition.md](translations/Law/florida-covid-vaccine-documentation-prohibition.md) | COV-STA-001 | draft |
+| Law | [la-county-targeted-safer-at-home-order.md](translations/Law/la-county-targeted-safer-at-home-order.md) | COV-MUN-002 | draft |
+| Law | [nyc-key-to-nyc-vaccination-requirement.md](translations/Law/nyc-key-to-nyc-vaccination-requirement.md) | COV-MUN-001 | draft |
+| Law | [osha-covid-vaccination-testing-ets.md](translations/Law/osha-covid-vaccination-testing-ets.md) | COV-FED-001 | draft |
+| Law | [mit-student-reentry-vaccination-testing-policy.md](translations/Law/mit-student-reentry-vaccination-testing-policy.md) | COV-ORG-001 | draft |
+| Law | [princeton-student-employee-vaccination-requirement.md](translations/Law/princeton-student-employee-vaccination-requirement.md) | COV-ORG-002 | draft |
+| Law | [united-airlines-employee-vaccination-requirement.md](translations/Law/united-airlines-employee-vaccination-requirement.md) | COV-ORG-003 | draft |
+| Law | [patriot-act-section-215.md](translations/Law/patriot-act-section-215.md) | PAT-001/002/003/004 | draft |
 | Literature | [basho-frog.md](translations/Literature/basho-frog.md) | BSH-001/002 | draft |
 | Literature | [dickinson-death.md](translations/Literature/dickinson-death.md) | DEB-001 | draft |
 | Literature | [hamlet-to-be.md](translations/Literature/hamlet-to-be.md) | HAM-001 | draft |
@@ -24,6 +33,10 @@ This file is a pointer; it is not used by the pipeline.
 | Philosophy | [tao-te-ching-ch1.md](translations/Philosophy/tao-te-ching-ch1.md) | TAO-001 | draft |
 | Philosophy | [tractatus.md](translations/Philosophy/tractatus.md) | — | draft |
 | Science | [newton-first-law.md](translations/Science/newton-first-law.md) | NEW-001 | draft |
+| Science | [euclid-proposition-1.md](translations/Science/euclid-proposition-1.md) | EUC-001 | draft |
+| Science | [complex-plane.md](translations/Science/complex-plane.md) | CPX-001–006 | draft |
+| Stress | [expressive-register.md](translations/Stress/expressive-register.md) | EM-001 | draft |
+| Stress | [chosen-kinship.md](translations/Stress/chosen-kinship.md) | CKN-001–002 | draft |
 
 ---
 

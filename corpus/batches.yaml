@@ -1342,3 +1342,78 @@ batches:
   theme: Grammar & syntax
   range: S1217–S1219
   count: 3
+- code: EM-001
+  title: Performative / Expressive Register [S1220–S1225]
+  theme: Foundations
+  range: S1220–S1225
+  count: 6
+- code: CKN-001
+  title: Chosen Kinship [S1226–S1231]
+  theme: Foundations
+  range: S1226–S1231
+  count: 6
+- code: CKN-002
+  title: Chosen Kinship [S1232–S1237]
+  theme: Foundations
+  range: S1232–S1237
+  count: 6
+- code: EUC-001
+  title: Euclid I.1 [S1238–S1243]
+  theme: Foundations
+  range: S1238–S1243
+  count: 6
+- code: CPX-001
+  title: Complex Plane / Imaginary Axis Probe [S1244–S1248]
+  theme: Foundations
+  range: S1244–S1248
+  count: 5
+- code: CPX-002
+  title: Coordinate Pairs and Axis Placement [S1249–S1253]
+  theme: Foundations
+  range: S1249–S1253
+  count: 5
+- code: CPX-003
+  title: First Walf Multiplication [S1254–S1258]
+  theme: Foundations
+  range: S1254–S1258
+  count: 5
+- code: CPX-004
+  title: Repeated Walf Rotation and Signed Coordinates [S1259–S1263]
+  theme: Foundations
+  range: S1259–S1263
+  count: 5
+- code: CPX-005
+  title: Fourth Quarter-Turn and Return [S1264–S1268]
+  theme: Foundations
+  range: S1264–S1268
+  count: 5
+- code: CPX-006
+  title: Walf Cycle as Full Turn [S1269–S1273]
+  theme: Foundations
+  range: S1269–S1273
+  count: 5
+- code: LRF-001
+  title: Legal Reference Apparatus Probe [S1274–S1278]
+  theme: Foundations
+  range: S1274–S1278
+  count: 5
+- code: PAT-001
+  title: 'USA PATRIOT Act Section 215: Tangible Things Collection [S1279–S1284]'
+  theme: Foundations
+  range: S1279–S1284
+  count: 6
+- code: PAT-002
+  title: 'USA PATRIOT Act Section 215: Presumptive Relevance Ladder [S1285–S1289]'
+  theme: Foundations
+  range: S1285–S1289
+  count: 5
+- code: PAT-003
+  title: 'USA PATRIOT Act Section 215: Minimization Procedures and Downstream Use [S1290–S1294]'
+  theme: Foundations
+  range: S1290–S1294
+  count: 5
+- code: PAT-004
+  title: 'USA PATRIOT Act Section 215: Nondisclosure and Supervised Leakage [S1295–S1300]'
+  theme: Foundations
+  range: S1295–S1300
+  count: 6
