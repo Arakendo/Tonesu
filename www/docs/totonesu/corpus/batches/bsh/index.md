@@ -4,7 +4,7 @@ title: "Bashō, Frog Haiku (1686) — Kireji Stress Test"
 
 # Bashō, Frog Haiku (1686) — Kireji Stress Test
 
-*Theme: [Grammar & syntax](../../grammar/overview.md)* · 3 sentences.
+*Theme: [Grammar & syntax](../../grammar/overview.md)* · 6 sentences.
 
 :material-book-open-variant: [Full translation analysis](../../translations/literature/basho-frog/index.md)
 
@@ -63,6 +63,20 @@ Written: `refemaki : ki lomaki, makiso pa`
 **New vocabulary introduced:** `re-fe-ma-ki` (old pond; first attested S468); `ma-ki-so` (water-sound; first attested S468).
 
 **Open questions logged:** GAP-BSH-001 (frog compound / `zo-se-ma` discriminator); GAP-BSH-002 (zero-predicate noun-sentence impossible; `pa` minimally added); GAP-BSH-003 (no discourse-anaphora pronoun; `re-fe-ma-ki` repeated in full); GAP-BSH-004 (agent-drop for motion-event clause).
+
+## BSH-002 · Bashō, Frog Haiku [S1217–S1219]
+
+<span id="S1217"></span>
+**S1217**
+*Full haiku — kireji as `—` prosodic suspension*
+
+<span id="S1218"></span>
+**S1218**
+*Full haiku — suspension with reduced second pond mention*
+
+<span id="S1219"></span>
+**S1219**
+*Suspension with agent suppressed*
 
 ---
 

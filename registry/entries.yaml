@@ -7198,7 +7198,6 @@ entries:
   groups:
   - Philosophy / Politics
   - Knowledge / Epistemology
-
 - wnum: W247
   status: active
   form: ka-ra-mu
@@ -7224,13 +7223,12 @@ entries:
     instrument), o-ra (compositional: collective power — what ka-ra-mu does not multiply,
     S1083), wi-pa (compositional: intended aim — what ka-ra-mu destroys when used
     as means, S1085)'
-  first_use: 'ANV-001-H (S1083): la-ka-ra-mu ka-be lo-ka-ra / no ka-be lo-o-ra —
-    "Weapons increase [the capacity for] violence — they do not multiply collective
-    power." (Arendt, On Violence)'
+  first_use: 'ANV-001-H (S1083): la-ka-ra-mu ka-be lo-ka-ra / no ka-be lo-o-ra — "Weapons
+    increase [the capacity for] violence — they do not multiply collective power."
+    (Arendt, On Violence)'
   groups:
   - Philosophy / Politics
   - Technology
-
 - wnum: W248
   status: active
   form: su-ra
@@ -7250,10 +7248,10 @@ entries:
     is used, authority itself has failed." Note: wife''atofeka (W246) references su-ra
     as "structural force" in the legitimized-epistemic-closure precondition cascade
     (S872).'
-  composition: 'su (structure/order) + ra (force/energy). Head-final: ra (force)
-    is head; su specifies the mode — structured, institutionalized, hierarchically
-    ordered. Contrast: ra-su = power-structure (the system); su-ra = structured-power
-    (power that IS structured = authority).'
+  composition: 'su (structure/order) + ra (force/energy). Head-final: ra (force) is
+    head; su specifies the mode — structured, institutionalized, hierarchically ordered.
+    Contrast: ra-su = power-structure (the system); su-ra = structured-power (power
+    that IS structured = authority).'
   related: 'su (primitive: structure/order), ra (primitive: force/energy), o-ra (compositional:
     collective power — authority is not this, S1084), ka-ra (W222: violence — authority
     is not this, S1084), wi-ra-ki (W241: state terror — what authority degrades into
@@ -7263,7 +7261,6 @@ entries:
     collective power nor violence." (Arendt, On Violence)'
   groups:
   - Philosophy / Politics
-
 - wnum: W249
   status: active
   form: no-li-ra-su
@@ -7272,7 +7269,7 @@ entries:
   domain: Philosophy / Politics
   pos: compound
   register: formal
-  lead_root: no
+  lead_root: 'no'
   type: compound
   class: entity / structure
   definition: 'no (negation/absence) + li (person/agent) + ra-su (power-structure)
@@ -7285,11 +7282,11 @@ entries:
   composition: 'no (negation) + li (person/social agent) + ra-su (power-structure).
     Head-final: ra-su is head; no-li (no-person) modifies it = power-structure absent
     personal accountability.'
-  related: 'no (primitive: negation), li (primitive: person/social agent), ra-su
-    (power-structure class), ka-ra (W222: violence — a-ka-ra is the condition of W249),
-    o-ra (compositional: collective power — the alternative), wi-ra-ki (W241: state
-    terror — the violence W249 maximizes)'
-  first_use: 'ANV-001-E (S1080): la-no-li-ra-su ne a-ka-ra — "Bureaucracy — rule
-    by nobody — is the condition of maximum violence." (Arendt, On Violence)'
+  related: 'no (primitive: negation), li (primitive: person/social agent), ra-su (power-structure
+    class), ka-ra (W222: violence — a-ka-ra is the condition of W249), o-ra (compositional:
+    collective power — the alternative), wi-ra-ki (W241: state terror — the violence
+    W249 maximizes)'
+  first_use: 'ANV-001-E (S1080): la-no-li-ra-su ne a-ka-ra — "Bureaucracy — rule by
+    nobody — is the condition of maximum violence." (Arendt, On Violence)'
   groups:
   - Philosophy / Politics

@@ -8,7 +8,7 @@ In-depth verse-by-verse analyses of source text translations into Tonesu.
 Each document includes vocabulary frameworks, structural commentary,
 gap analysis, and key findings.
 
-60 translation analyses.
+64 translation analyses.
 
 [← Corpus](../overview.md)
 
@@ -74,6 +74,7 @@ gap analysis, and key findings.
 - [lojban-type-contrasts](philosophy/lojban-type-contrasts/index.md)
 - [manufacturing-consent](philosophy/manufacturing-consent/index.md)
 - [mao-little-red-book](philosophy/mao-little-red-book/index.md)
+- [on-violence](philosophy/on-violence/index.md)
 - [ordinary-men](philosophy/ordinary-men/index.md)
 - [origins-of-totalitarianism](philosophy/origins-of-totalitarianism/index.md)
 - [orwell-1984](philosophy/orwell-1984/index.md)
@@ -91,6 +92,12 @@ gap analysis, and key findings.
 - [laws-of-robotics](science/laws-of-robotics/index.md)
 - [newton-first-law](science/newton-first-law/index.md)
 - [string-theory](science/string-theory/index.md)
+
+## Stress
+
+- [archive-collapse](stress/archive-collapse/index.md)
+- [moon-on-the-river](stress/moon-on-the-river/index.md)
+- [returning-brother](stress/returning-brother/index.md)
 
 ---
 

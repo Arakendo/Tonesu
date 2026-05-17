@@ -128,7 +128,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `ka` — intentional action
 
-16 compounds
+17 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -144,6 +144,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `ka-pa-ki` · kapaki | [W160](words/W160.md) | ✅ | liberation act, deliberate place-motion <br><small>[S410](../../totonesu/corpus/batches/exo/index.md#S410) · [S411](../../totonesu/corpus/batches/exo/index.md#S411) · [S412](../../totonesu/corpus/batches/exo/index.md#S412) · [S413](../../totonesu/corpus/batches/exo/index.md#S413) · [S418](../../totonesu/corpus/batches/lsp/index.md#S418) · [S420](../../totonesu/corpus/batches/lsp/index.md#S420) · [S421](../../totonesu/corpus/batches/lsp/index.md#S421) · [S422](../../totonesu/corpus/batches/lsp/index.md#S422) · [S424](../../totonesu/corpus/batches/lsp/index.md#S424) · [S598](../../totonesu/corpus/batches/stw/index.md#S598)</small> |
 | `ka-pa-ki'ti-re` · kapaki'tire | [W167](words/W167.md) | ✅ | Passover festival, recurring liberation event <br><small>[S418](../../totonesu/corpus/batches/lsp/index.md#S418) · [S420](../../totonesu/corpus/batches/lsp/index.md#S420) · [S421](../../totonesu/corpus/batches/lsp/index.md#S421) · [S422](../../totonesu/corpus/batches/lsp/index.md#S422) · [S424](../../totonesu/corpus/batches/lsp/index.md#S424)</small> |
 | `ka-ra` · kara | [W222](words/W222.md) | ✅ | deliberate force; combat; martial action; warfare <br><small>[S464](../../totonesu/corpus/batches/ham/index.md#S464) · [S703](../../totonesu/corpus/batches/aow/index.md#S703) · [S704](../../totonesu/corpus/batches/aow/index.md#S704) · [S706](../../totonesu/corpus/batches/aow/index.md#S706)</small> |
+| `ka-ra-mu` · karamu | [W247](words/W247.md) | ✅ | weapon; violent implement; deliberate-force-artifact |
 | `ka-si-de` · kaside | [W224](words/W224.md) | ✅ | deliberate deception; strategic misdirection; intentional signal-corruption <br><small>[S702](../../totonesu/corpus/batches/aow/index.md#S702) · [S709](../../totonesu/corpus/batches/map/index.md#S709) · [S711](../../totonesu/corpus/batches/map/index.md#S711) · [S713](../../totonesu/corpus/batches/map/index.md#S713) · [S862](../../totonesu/corpus/batches/ant/index.md#S862) · [S868](../../totonesu/corpus/batches/wfe/index.md#S868)</small> |
 | `ka-to-fe` · katofe | [W122](words/W122.md) | ✅ | judge, deliberate epistemic bounding <br><small>[S368](../../totonesu/corpus/batches/fal/index.md#S368) · [S641](../../totonesu/corpus/batches/cda/index.md#S641) · [S643](../../totonesu/corpus/batches/cda/index.md#S643) · [S644](../../totonesu/corpus/batches/cda/index.md#S644) · [S649](../../totonesu/corpus/batches/aca/index.md#S649) · [S959](../../totonesu/corpus/batches/mrp/index.md#S959)</small> |
 | `ka-vo-si` · kavosi | [W168](words/W168.md) | ✅ | thanksgiving / blessing, deliberate value-signal <br><small>[S426](../../totonesu/corpus/batches/lsp/index.md#S426) · [S429](../../totonesu/corpus/batches/lsp/index.md#S429)</small> |
@@ -236,11 +237,12 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `no` — negation / absence
 
-4 compounds
+5 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `no-de-ma` · nodema | [W129](words/W129.md) | ✅ | salt, preservative matter |
+| `no-li-ra-su` · nolirasu | [W249](words/W249.md) | ✅ | bureaucracy; rule by nobody; power-structure without personal accountability |
 | `no-lu-ti` · noluti | [W141](words/W141.md) | ⏳ | nighttime, dark-period |
 | `no-ne-fe` · nonefe | [W075](words/W075.md) | ✅ | absence of dependency / no link <br><small>[C006-B2](../../totonesu/corpus/conversations/overview.md#C006-B2) · [C006-B3](../../totonesu/corpus/conversations/overview.md#C006-B3) · [S063](../../totonesu/corpus/batches/t-prm/index.md#S063) · [S637](../../totonesu/corpus/batches/doi/index.md#S637)</small> |
 | `no-su'ma` · nosu'ma | [W115](words/W115.md) | ⏳ | gas (material state) |
@@ -331,7 +333,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## `su` — structure / order
 
-11 compounds
+12 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
@@ -342,6 +344,7 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `su-li` · suli | [W234](words/W234.md) | ✅ | ordinary person; structure-embedded person; person shaped by institutional context |
 | `su-mu-li` · sumuli | [W002](words/W002.md) | ⏳ | engineer, architect <br><small>[S025](../../totonesu/corpus/batches/_foundations/index.md#S025) · [S164](../../totonesu/corpus/batches/p-gp/index.md#S164) · [S171](../../totonesu/corpus/batches/p-gp/index.md#S171) · [S559](../../totonesu/corpus/batches/pav/index.md#S559)</small> |
 | `su-ne` · sune | [W174](words/W174.md) | ✅ | harmony, structure-of-connection <br><small>[S591](../../totonesu/corpus/batches/stw/index.md#S591) · [S631](../../totonesu/corpus/batches/doi/index.md#S631) · [S660](../../totonesu/corpus/batches/ckg/index.md#S660) · [S720](../../totonesu/corpus/batches/egg/index.md#S720) · [S731](../../totonesu/corpus/batches/str/index.md#S731)</small> |
+| `su-ra` · sura | [W248](words/W248.md) | ✅ | authority; structured/institutionally-ordered power <br><small>[S867](../../totonesu/corpus/batches/wfe/index.md#S867) · [S872](../../totonesu/corpus/batches/wfe/index.md#S872)</small> |
 | `su-ru` · suru | [W085](words/W085.md) | ✅ | integrated whole, unified structure <br><small>[S119](../../totonesu/corpus/batches/t-ax/index.md#S119)</small> |
 | `su-ti` · suti | [W101](words/W101.md) | ⏳ | current state, instantaneous configuration <br><small>[S665](../../totonesu/corpus/batches/sut/index.md#S665) · [S679](../../totonesu/corpus/batches/sol/index.md#S679) · [S687](../../totonesu/corpus/batches/prf/index.md#S687) · [S688](../../totonesu/corpus/batches/prf/index.md#S688) · [S689](../../totonesu/corpus/batches/prf/index.md#S689) · [S724](../../totonesu/corpus/batches/egg/index.md#S724)</small> |
 | `su-to` · suto | [W199](words/W199.md) | ✅ | self-evident proposition; truth whose ground is its own structure <br><small>[S630](../../totonesu/corpus/batches/doi/index.md#S630) · [S638](../../totonesu/corpus/batches/doi/index.md#S638) · [S650](../../totonesu/corpus/batches/aca/index.md#S650)</small> |

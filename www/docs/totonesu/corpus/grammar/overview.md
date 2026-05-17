@@ -6,7 +6,7 @@ title: "Grammar & syntax"
 
 Systematic tests of particles, operators, valence frames, connectives, scope, aspect, and sentence-level constructions.
 
-230 sentences.
+233 sentences.
 
 [← Corpus](../overview.md)
 
@@ -31,7 +31,7 @@ Systematic tests of particles, operators, valence frames, connectives, scope, as
 | [Newton's First Law of Motion](../batches/new/index.md) | 1 | 2 |
 | [Matthew 16:25 — Causal Inversion Paradox](../batches/mth/index.md) | 1 | 2 |
 | [The Liar Paradox — Self-Referential Truth Stress Test](../batches/lpr/index.md) | 1 | 3 |
-| [Bashō, Frog Haiku (1686) — Kireji Stress Test](../batches/bsh/index.md) | 1 | 3 |
+| [Bashō, Frog Haiku (1686) — Kireji Stress Test](../batches/bsh/index.md) | 2 | 6 |
 | [Em-Dash Attestation](../batches/emd/index.md) | 2 | 13 |
 | [Sequential Connector Tests](../batches/scl/index.md) | 2 | 17 |
 | [V-Particle Productivity Test](../batches/vpt/index.md) | 1 | 10 |

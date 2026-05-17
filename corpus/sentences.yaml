@@ -16495,7 +16495,9 @@ sentences:
   natural: '"Structural force drives / maintains legitimized epistemic closure."'
   words_attested:
   - W246
-  first_attests: []
+  - W248
+  first_attests:
+  - W248
   gap_refs: []
   source_file: sentences/v4-current/s708-s872.md
   source_anchor: S867
@@ -16616,6 +16618,7 @@ sentences:
   words_attested:
   - W239
   - W246
+  - W248
   first_attests: []
   gap_refs: []
   source_file: sentences/v4-current/s708-s872.md
@@ -19471,7 +19474,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1024
   notes: The point is institutional. The Round Table is not mainly a piece of furniture;
     it is a structured council form.
@@ -19486,7 +19489,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1025
   notes: '`su-ne` is the real payoff. The legend''s roundness matters because it encodes
     relational parity, not because circles are magically special.'
@@ -19501,7 +19504,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1026
   notes: This rejects a false choice. The Round Table does not erase kingship; it
     prevents kingship from exhausting the political form.
@@ -19516,7 +19519,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1027
   notes: Governance is dialogical here. The structure matters because counsel flows
     both directions instead of appearing as one-way command.
@@ -19532,7 +19535,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1028
   notes: The strongest Tonesu-native reading is bounded rule, not flat equality of
     office. The ruler remains, but the institution places form around power.
@@ -19547,7 +19550,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1029
   notes: '`to-no-si` is enough to start the failure. A council-form depends on shareable
     speech; secrecy is already a structural break inside reciprocal counsel.'
@@ -19562,7 +19565,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1030
   notes: '`ka-ne-de` gives the failure its proper shape: not accidental drift, but
     chosen bond-dissolution. In Arthurian context the ruler is Arthur, but the political
@@ -19580,7 +19583,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1031
   notes: This is the Round Table pressure test. `su-ne` was never self-sustaining;
     it required trust and public reciprocity. Once betrayal enters, the parity-form
@@ -19597,7 +19600,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1032
   notes: KAR-002's reciprocal speech has now inverted. The institution fails visibly
     when deliberation stops moving in both directions.
@@ -19612,7 +19615,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1033
   notes: This is the Tonesu-native payoff. The visible form can remain while the governing
     relation fails. The problem is not roundness; the problem is broken counsel.
@@ -19627,7 +19630,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1034
   notes: This is the open-war threshold. The failed court relation has now become
     direct force between named agents.
@@ -19642,7 +19645,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1035
   notes: This is the civil-war pivot. Once the political form has collapsed into combat,
     killing is no longer exceptional but structurally normal inside the polity.
@@ -19657,7 +19660,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1036
   notes: The betrayal sequence reaches its terminal act here. What began as hidden
     bond-dissolution ends as direct organism-decrease.
@@ -19672,7 +19675,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1037
   notes: 'The Tonesu distinction matters: `ka-de-zo` marks the intentional killing
     of Mordred; `de-zo` marks Arthur''s terminal death as the resulting condition.'
@@ -19687,7 +19690,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1038
   notes: This is the final constitutional verdict. The story does not end with a duel;
     it ends with the decay of governance after the ruler is gone and the deliberative
@@ -19703,7 +19706,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1039
   notes: This is the meme in its compressed form. The rest of the batch tests whether
     that compression survives once warning, prohibition, and consequence are separated.
@@ -19718,7 +19721,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1040
   notes: The batch keeps this at `si` grade. Magnus is presented as having signal
     or warning-grade access to the coming betrayal, not exhaustive or public certification.
@@ -19733,7 +19736,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1041
   notes: Warning is its own act. This matters because the slogan is partly sustained
     by the intuition that a sincere warning should count in Magnus's favor.
@@ -19749,7 +19752,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1042
   notes: This is the key turn. The warning does not arrive by neutral means; it is
     carried through a boundary already marked as forbidden.
@@ -19764,7 +19767,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1043
   notes: Tonesu makes the consequence structurally visible without changing the warning
     claim. A true warning can still be the cause of catastrophic boundary-failure.
@@ -19779,7 +19782,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1044
   notes: This is the Tonesu-native payoff. The slogan fails because warning and fault
     are not mutually exclusive categories.
@@ -19794,7 +19797,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1045
   notes: This is the meme in its compressed form. The rest of the batch tests whether
     that "rightness" is epistemic, theological, or moral.
@@ -19809,7 +19812,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1046
   notes: This is the pressure point behind the slogan. The anti-religious state does
     not merely disagree with religion; it places religion in the wrong epistemic category.
@@ -19824,7 +19827,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1047
   notes: The batch shifts from slogan to proposition. What Lorgar is right about must
     be something explicit enough to know, not just a vibe of dissent.
@@ -19839,7 +19842,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1048
   notes: This does not yet say religion is righteous. It says religion is operative,
     consequential, and not safely reducible to empty fiction.
@@ -19854,7 +19857,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1049
   notes: This is the decisive separation. An operative sacred order is not automatically
     a morally right one.
@@ -19869,7 +19872,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1050
   notes: This is the Tonesu-native payoff. The diagnosis can be right while the person
     making it is not rightly aligned.
@@ -19886,7 +19889,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1051
   notes: This is the doctrine's first boundary. Mere hostile appearance or partial
     evidence does not authorize lethal action.
@@ -19903,7 +19906,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1052
   notes: Tonesu treats warning as a real doctrinal action, not as a rhetorical courtesy
     attached to force.
@@ -19918,7 +19921,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1053
   notes: This is return force, not a blanket permission to kill. The doctrine stays
     at the level of force-response first.
@@ -19935,7 +19938,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1054
   notes: This is the doctrine's anti-shortcut rule. Capture is not a soft add-on to
     lethal force; it is the higher-priority action when still available.
@@ -19953,7 +19956,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1055
   notes: This is the military-specific payoff. Command authority matters, but it does
     not dissolve the epistemic boundary around lethal force.
@@ -19970,7 +19973,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1056
   notes: Tonesu turns escalation into part of the doctrine itself. Uncertainty is
     not a gap in the doctrine; it is a condition the doctrine explicitly routes.
@@ -19987,7 +19990,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1057
   notes: The doctrine does not let battlefield force certify itself. Lethal action
     must re-enter review.
@@ -20005,7 +20008,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1058
   notes: ROE should not hide a secret priority rule when command conflict appears.
     Tonesu treats contradiction as a routing condition.
@@ -20024,7 +20027,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1059
   notes: This is an ROE triage sentence. Actual hostile act outranks suspected hostile
     status.
@@ -20041,7 +20044,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1060
   notes: ROE should track the change in attack-state. Warning followed by retreat
     is not the same situation as continued attack.
@@ -20058,7 +20061,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1061
   notes: This is the ladder's hard endpoint. Lethal force appears only after active
     attack and failed containment-capacity are both explicit.
@@ -20076,7 +20079,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1062
   notes: The doctrine treats surrender as a real status change. A surrendered person
     is not just a hostile who has temporarily stopped moving.
@@ -20093,7 +20096,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1063
   notes: This is the batch verdict. ROE fails when it treats changing battlefield
     states as one static hostile label.
@@ -20110,7 +20113,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1064
   notes: This is the doctrine's civilian baseline. The language does not need a new
     fixed word for civilian if the status distinction itself is what matters.
@@ -20127,7 +20130,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1065
   notes: This is the doctrinal version of a crowd or bystander problem. Mixed presence
     blocks the shortcut from enemy-identification to immediate lethal action.
@@ -20144,7 +20147,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1066
   notes: This makes the human-shield case explicit. The child's presence is not a
     minor detail attached to the target; it changes the force status.
@@ -20161,7 +20164,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1067
   notes: This is the collateral-review rule. Non-target harm is not absorbed into
     the target file as if it were the same event.
@@ -20178,7 +20181,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1068
   notes: The doctrine should reopen force only when the target and the protected noncombatant
     are structurally separated again.
@@ -20195,7 +20198,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1069
   notes: This is the batch verdict. Collateral damage happens when doctrine collapses
     target and non-target statuses into one operational bucket.
@@ -20213,7 +20216,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1070
   notes: Tonesu does not let catastrophic rationale become a field-level shortcut.
     Claimed necessity is first a routing condition.
@@ -20230,7 +20233,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1071
   notes: This is the doctrinal line. A tragic claim is not yet a permission statement.
 - snum: S1072
@@ -20246,7 +20249,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1072
   notes: This is the batch's first hard payoff. Necessity does not erase `de-su`.
 - snum: S1073
@@ -20263,7 +20266,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1073
   notes: This is the comparison point against the righteousness tests. Tonesu refuses
     to derive `vo-ne` from catastrophic necessity.
@@ -20280,7 +20283,7 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1074
   notes: This is where the doctrine crosses into Orwellian territory. The problem
     is no longer tragic necessity; it is demanded recoding of the moral record.
@@ -20297,7 +20300,2050 @@ sentences:
   words_attested: []
   first_attests: []
   gap_refs: []
-  source_file: sentences/v4-current/s1024-plus.md
+  source_file: sentences/v4-current/s1024-s1075.md
   source_anchor: S1075
   notes: This is the batch verdict. The nightmare line becomes Orwellian only when
     these four categories collapse.
+- snum: S1076
+  gloss: Power and violence are mutually exclusive opposites
+  batch: ANV-001
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Power and violence are mutually exclusive opposites
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1076
+  notes: null
+- snum: S1077
+  gloss: Violence is always instrumental; it requires external justification
+  batch: ANV-001
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Violence is always instrumental; it requires external justification
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1077
+  notes: null
+- snum: S1078
+  gloss: Power needs no justification — it springs from its own origin
+  batch: ANV-001
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Power needs no justification — it springs from its own origin
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1078
+  notes: null
+- snum: S1079
+  gloss: Violence can destroy power but cannot create it
+  batch: ANV-001
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Violence can destroy power but cannot create it
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1079
+  notes: null
+- snum: S1080
+  gloss: Bureaucracy — rule by nobody — is the condition of maximum violence
+  batch: ANV-001
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Bureaucracy — rule by nobody — is the condition of maximum violence
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1080
+  notes: null
+- snum: S1081
+  gloss: Where violence is absolute, power has vanished
+  batch: ANV-001
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where violence is absolute, power has vanished
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1081
+  notes: null
+- snum: S1082
+  gloss: Rage is not irrational — it perceives injustice
+  batch: ANV-001
+  batch_sub: G
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Rage is not irrational — it perceives injustice
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1082
+  notes: null
+- snum: S1083
+  gloss: Weapons multiply violence, not power
+  batch: ANV-001
+  batch_sub: H
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Weapons multiply violence, not power
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1083
+  notes: null
+- snum: S1084
+  gloss: Authority is neither power nor violence
+  batch: ANV-001
+  batch_sub: I
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Authority is neither power nor violence
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1084
+  notes: null
+- snum: S1085
+  gloss: Violent means destroy political ends
+  batch: ANV-001
+  batch_sub: J
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Violent means destroy political ends
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1085
+  notes: null
+- snum: S1086
+  gloss: Power is, by definition, acting together
+  batch: ANV-002
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Power is, by definition, acting together
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1086
+  notes: null
+- snum: S1087
+  gloss: When collective action breaks down, power vanishes
+  batch: ANV-002
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: When collective action breaks down, power vanishes
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1087
+  notes: null
+- snum: S1088
+  gloss: When power decays, violence appears
+  batch: ANV-002
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: When power decays, violence appears
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1088
+  notes: null
+- snum: S1089
+  gloss: Where violence appears, authority has already failed
+  batch: ANV-002
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where violence appears, authority has already failed
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1089
+  notes: null
+- snum: S1090
+  gloss: Violence can bring victory, but it cannot govern
+  batch: ANV-002
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Violence can bring victory, but it cannot govern
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1090
+  notes: null
+- snum: S1091
+  gloss: Tyranny is violent, but it lacks collective power
+  batch: ANV-002
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Tyranny is violent, but it lacks collective power
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1091
+  notes: null
+- snum: S1092
+  gloss: Power is not individual strength
+  batch: ANV-003
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Power is not individual strength
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1092
+  notes: null
+- snum: S1093
+  gloss: Power depends on consent, not weapons
+  batch: ANV-003
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Power depends on consent, not weapons
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1093
+  notes: null
+- snum: S1094
+  gloss: When consent decays, power decays
+  batch: ANV-003
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: When consent decays, power decays
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1094
+  notes: null
+- snum: S1095
+  gloss: Tyranny depends on weapons, not consent
+  batch: ANV-003
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Tyranny depends on weapons, not consent
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1095
+  notes: null
+- snum: S1096
+  gloss: Violence can impose rule, but it cannot create authority
+  batch: ANV-003
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Violence can impose rule, but it cannot create authority
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1096
+  notes: null
+- snum: S1097
+  gloss: Power belongs to the people together, not to one person
+  batch: ANV-003
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Power belongs to the people together, not to one person
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1097
+  notes: null
+- snum: S1098
+  gloss: Authority needs no violence
+  batch: ANV-004
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Authority needs no violence
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1098
+  notes: null
+- snum: S1099
+  gloss: When authority fails, decrees require violence
+  batch: ANV-004
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: When authority fails, decrees require violence
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1099
+  notes: null
+- snum: S1100
+  gloss: Where consent remains, decrees need no violence
+  batch: ANV-004
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where consent remains, decrees need no violence
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1100
+  notes: null
+- snum: S1101
+  gloss: Violence can impose decrees, but it cannot create consent
+  batch: ANV-004
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Violence can impose decrees, but it cannot create consent
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1101
+  notes: null
+- snum: S1102
+  gloss: Bureaucracy multiplies decrees, not power
+  batch: ANV-004
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Bureaucracy multiplies decrees, not power
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1102
+  notes: null
+- snum: S1103
+  gloss: Governance that requires violence is already failing
+  batch: ANV-004
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Governance that requires violence is already failing
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1103
+  notes: null
+- snum: S1104
+  gloss: Where authority remains, the people act willingly
+  batch: ANV-005
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where authority remains, the people act willingly
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1104
+  notes: null
+- snum: S1105
+  gloss: Where violence rules, the people act under imposition
+  batch: ANV-005
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where violence rules, the people act under imposition
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1105
+  notes: null
+- snum: S1106
+  gloss: Imposed action is not consent
+  batch: ANV-005
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Imposed action is not consent
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1106
+  notes: null
+- snum: S1107
+  gloss: At the extreme, power is all against one
+  batch: ANV-005
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: At the extreme, power is all against one
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1107
+  notes: null
+- snum: S1108
+  gloss: At the extreme, violence is one against all
+  batch: ANV-005
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: At the extreme, violence is one against all
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1108
+  notes: null
+- snum: S1109
+  gloss: Where one stands against all by violence, power has vanished
+  batch: ANV-005
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where one stands against all by violence, power has vanished
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1109
+  notes: null
+- snum: S1110
+  gloss: Violence may be justified
+  batch: ANV-006
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Violence may be justified
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1110
+  notes: null
+- snum: S1111
+  gloss: Violence never legitimates itself
+  batch: ANV-006
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Violence never legitimates itself
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1111
+  notes: null
+- snum: S1112
+  gloss: Where life is in danger, violence can be justified
+  batch: ANV-006
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where life is in danger, violence can be justified
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1112
+  notes: null
+- snum: S1113
+  gloss: Where no life is in danger, violence lacks that justification
+  batch: ANV-006
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where no life is in danger, violence lacks that justification
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1113
+  notes: null
+- snum: S1114
+  gloss: Terror begins where power has disappeared
+  batch: ANV-006
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Terror begins where power has disappeared
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1114
+  notes: null
+- snum: S1115
+  gloss: Terror is violence, not power
+  batch: ANV-006
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Terror is violence, not power
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1115
+  notes: null
+- snum: S1116
+  gloss: The archive holds the records
+  batch: ACC-001
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The archive holds the records
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1116
+  notes: null
+- snum: S1117
+  gloss: The archive routes the records to the adjudicator
+  batch: ACC-001
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The archive routes the records to the adjudicator
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1117
+  notes: null
+- snum: S1118
+  gloss: The adjudicator comprehends the records
+  batch: ACC-001
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The adjudicator comprehends the records
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1118
+  notes: null
+- snum: S1119
+  gloss: The adjudicator is authoritative
+  batch: ACC-001
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The adjudicator is authoritative
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1119
+  notes: null
+- snum: S1120
+  gloss: Where the adjudicator is authoritative, the people act willingly
+  batch: ACC-001
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where the adjudicator is authoritative, the people act willingly
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1120
+  notes: null
+- snum: S1121
+  gloss: When records route and action stays willing, collective power exists
+  batch: ACC-001
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: When records route and action stays willing, collective power exists
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1121
+  notes: null
+- snum: S1122
+  gloss: The records say the specific document reached the adjudicator
+  batch: ACC-002
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The records say the specific document reached the adjudicator
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1122
+  notes: null
+- snum: S1123
+  gloss: The records also say the specific document did not reach the adjudicator
+  batch: ACC-002
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The records also say the specific document did not reach the adjudicator
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1123
+  notes: null
+- snum: S1124
+  gloss: The adjudicator can see the contradiction but cannot know the disputed proposition
+  batch: ACC-002
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The adjudicator can see the contradiction but cannot know the disputed
+    proposition
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1124
+  notes: null
+- snum: S1125
+  gloss: The adjudicator gives no final ruling on the matter
+  batch: ACC-002
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The adjudicator gives no final ruling on the matter
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1125
+  notes: null
+- snum: S1126
+  gloss: Where the adjudicator gives no final ruling, violence does not emerge
+  batch: ACC-002
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where the adjudicator gives no final ruling, violence does not emerge
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1126
+  notes: null
+- snum: S1127
+  gloss: Where the adjudicator gives no final ruling, authority declines but does
+    not disappear
+  batch: ACC-002
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where the adjudicator gives no final ruling, authority declines but does
+    not disappear
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1127
+  notes: null
+- snum: S1128
+  gloss: One witness sees the specific document in the archive
+  batch: ACC-003
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: One witness sees the specific document in the archive
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1128
+  notes: null
+- snum: S1129
+  gloss: The other witness does not see the specific document in the archive
+  batch: ACC-003
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The other witness does not see the specific document in the archive
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1129
+  notes: null
+- snum: S1130
+  gloss: The people perceive the witness split
+  batch: ACC-003
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The people perceive the witness split
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1130
+  notes: null
+- snum: S1131
+  gloss: As for the archive, the people are split between trust and disbelief
+  batch: ACC-003
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: As for the archive, the people are split between trust and disbelief
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1131
+  notes: null
+- snum: S1132
+  gloss: Where the archive becomes an object of both trust and disbelief, public support
+    decays
+  batch: ACC-003
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where the archive becomes an object of both trust and disbelief, public
+    support decays
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1132
+  notes: null
+- snum: S1133
+  gloss: Where public support decays, collective power declines
+  batch: ACC-003
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where public support decays, collective power declines
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1133
+  notes: null
+- snum: S1134
+  gloss: Where public support decays, authority thins further
+  batch: ACC-003
+  batch_sub: G
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where public support decays, authority thins further
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1134
+  notes: null
+- snum: S1135
+  gloss: Where public support decays, decrees continue
+  batch: ACC-004
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where public support decays, decrees continue
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1135
+  notes: null
+- snum: S1136
+  gloss: Decrees continue, but governance no longer springs from its own origin
+  batch: ACC-004
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Decrees continue, but governance no longer springs from its own origin
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1136
+  notes: null
+- snum: S1137
+  gloss: Where governance no longer springs from its own origin, bureaucracy emerges
+  batch: ACC-004
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where governance no longer springs from its own origin, bureaucracy emerges
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1137
+  notes: null
+- snum: S1138
+  gloss: Bureaucracy multiplies decrees, not power
+  batch: ACC-004
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Bureaucracy multiplies decrees, not power
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1138
+  notes: null
+- snum: S1139
+  gloss: Where bureaucracy emerges, governance depends on decrees, not public support
+  batch: ACC-004
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where bureaucracy emerges, governance depends on decrees, not public support
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1139
+  notes: null
+- snum: S1140
+  gloss: Where governance depends on decrees rather than public support, collective
+    power declines
+  batch: ACC-004
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where governance depends on decrees rather than public support, collective
+    power declines
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1140
+  notes: null
+- snum: S1141
+  gloss: Where governance depends on decrees rather than public support, willing action
+    declines
+  batch: ACC-004
+  batch_sub: G
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where governance depends on decrees rather than public support, willing
+    action declines
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1141
+  notes: null
+- snum: S1142
+  gloss: Where willing action declines, imposed action emerges
+  batch: ACC-005
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where willing action declines, imposed action emerges
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1142
+  notes: null
+- snum: S1143
+  gloss: Where imposed action emerges, decrees depend on violence
+  batch: ACC-005
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where imposed action emerges, decrees depend on violence
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1143
+  notes: null
+- snum: S1144
+  gloss: Imposed action is not collective will
+  batch: ACC-005
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Imposed action is not collective will
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1144
+  notes: null
+- snum: S1145
+  gloss: Where power declines and violence remains, state terror emerges
+  batch: ACC-005
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where power declines and violence remains, state terror emerges
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1145
+  notes: null
+- snum: S1146
+  gloss: State terror is violence, not power
+  batch: ACC-005
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: State terror is violence, not power
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1146
+  notes: null
+- snum: S1147
+  gloss: Where state terror emerges, the people act under imposition
+  batch: ACC-005
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where state terror emerges, the people act under imposition
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1147
+  notes: null
+- snum: S1148
+  gloss: Where decrees depend on violence, governance decays further
+  batch: ACC-005
+  batch_sub: G
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where decrees depend on violence, governance decays further
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1076-s1148.md
+  source_anchor: S1148
+  notes: null
+- snum: S1149
+  gloss: The archive is repaired
+  batch: ACC-006
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The archive is repaired
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1149
+  notes: null
+- snum: S1150
+  gloss: Where the archive is repaired, the records return to the archive
+  batch: ACC-006
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where the archive is repaired, the records return to the archive
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1150
+  notes: null
+- snum: S1151
+  gloss: If the archive had not decayed, the records would have routed to the adjudicator
+  batch: ACC-006
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: If the archive had not decayed, the records would have routed to the adjudicator
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1151
+  notes: null
+- snum: S1152
+  gloss: Where the records return to the archive, the archive routes them to the adjudicator
+    again
+  batch: ACC-006
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where the records return to the archive, the archive routes them to the
+    adjudicator again
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1152
+  notes: null
+- snum: S1153
+  gloss: Where the archive routes the records again, memory-return emerges
+  batch: ACC-006
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where the archive routes the records again, memory-return emerges
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1153
+  notes: null
+- snum: S1154
+  gloss: The people remember the matter, but do not know it
+  batch: ACC-006
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The people remember the matter, but do not know it
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1154
+  notes: null
+- snum: S1155
+  gloss: Where the people remember the matter but do not know it, authority does not
+    spring from its own origin
+  batch: ACC-006
+  batch_sub: G
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where the people remember the matter but do not know it, authority does
+    not spring from its own origin
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1155
+  notes: null
+- snum: S1156
+  gloss: Where memory-return emerges without full knowledge, the loss does not disappear
+  batch: ACC-006
+  batch_sub: H
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Where memory-return emerges without full knowledge, the loss does not disappear
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1156
+  notes: null
+- snum: S1157
+  gloss: The returning sibling came home
+  batch: RBR-001
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The returning sibling came home
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1157
+  notes: null
+- snum: S1158
+  gloss: The other sibling saw the returning sibling and did not move
+  batch: RBR-001
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The other sibling saw the returning sibling and did not move
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1158
+  notes: null
+- snum: S1159
+  gloss: The other sibling said, “Good — you came.”
+  batch: RBR-001
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The other sibling said, “Good — you came.”
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1159
+  notes: null
+- snum: S1160
+  gloss: After that, silence remained in the room
+  batch: RBR-001
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: After that, silence remained in the room
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1160
+  notes: null
+- snum: S1161
+  gloss: The returning sibling saw the room and did not enter
+  batch: RBR-001
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The returning sibling saw the room and did not enter
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1161
+  notes: null
+- snum: S1162
+  gloss: The returning sibling said, “I remember our parent —”
+  batch: RBR-001
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The returning sibling said, “I remember our parent —”
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1162
+  notes: null
+- snum: S1163
+  gloss: The returning sibling remembers that time as leaving so food could come home
+  batch: RBR-002
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The returning sibling remembers that time as leaving so food could come
+    home
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1163
+  notes: null
+- snum: S1164
+  gloss: The other sibling remembers that time as the time you left and I remained
+    home
+  batch: RBR-002
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The other sibling remembers that time as the time you left and I remained
+    home
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1164
+  notes: null
+- snum: S1165
+  gloss: The returning sibling does not call the other sibling a liar, and the other
+    sibling does not call the returning sibling a liar
+  batch: RBR-002
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The returning sibling does not call the other sibling a liar, and the other
+    sibling does not call the returning sibling a liar
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1165
+  notes: null
+- snum: S1166
+  gloss: The other sibling said, “I remember the room. I remember our parent. I do
+    not remember you.”
+  batch: RBR-002
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The other sibling said, “I remember the room. I remember our parent. I
+    do not remember you.”
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1166
+  notes: null
+- snum: S1167
+  gloss: The returning sibling said, “I remember wanting food to come home — I do
+    not know if it was enough.”
+  batch: RBR-002
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The returning sibling said, “I remember wanting food to come home — I do
+    not know if it was enough.”
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1167
+  notes: null
+- snum: S1168
+  gloss: After those memories were spoken, silence returned to the room
+  batch: RBR-002
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: After those memories were spoken, silence returned to the room
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1168
+  notes: null
+- snum: S1169
+  gloss: The other sibling spoke to the room, not to the returning sibling
+  batch: RBR-003
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The other sibling spoke to the room, not to the returning sibling
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1169
+  notes: null
+- snum: S1170
+  gloss: The other sibling said, “Food came home — you did not.”
+  batch: RBR-003
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The other sibling said, “Food came home — you did not.”
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1170
+  notes: null
+- snum: S1171
+  gloss: The returning sibling looked at the door and did not answer the other sibling
+  batch: RBR-003
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The returning sibling looked at the door and did not answer the other sibling
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1171
+  notes: null
+- snum: S1172
+  gloss: The other sibling struck the door and not the returning sibling
+  batch: RBR-003
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The other sibling struck the door and not the returning sibling
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1172
+  notes: null
+- snum: S1173
+  gloss: After the door was struck, the returning sibling still did not enter the
+    room
+  batch: RBR-003
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: After the door was struck, the returning sibling still did not enter the
+    room
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1173
+  notes: null
+- snum: S1174
+  gloss: After that, neither sibling moved
+  batch: RBR-003
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: After that, neither sibling moved
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1174
+  notes: null
+- snum: S1175
+  gloss: The other sibling said, “Our parent called for you —”
+  batch: RBR-004
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The other sibling said, “Our parent called for you —”
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1175
+  notes: null
+- snum: S1176
+  gloss: The other sibling entered mourning
+  batch: RBR-004
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The other sibling entered mourning
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1176
+  notes: null
+- snum: S1177
+  gloss: The returning sibling said, “I came home.”
+  batch: RBR-004
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The returning sibling said, “I came home.”
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1177
+  notes: null
+- snum: S1178
+  gloss: After that speech, the other sibling did not answer
+  batch: RBR-004
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: After that speech, the other sibling did not answer
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1178
+  notes: null
+- snum: S1179
+  gloss: The returning sibling saw the other sibling and still did not enter the room
+  batch: RBR-004
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The returning sibling saw the other sibling and still did not enter the
+    room
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1179
+  notes: null
+- snum: S1180
+  gloss: Silence remained in the room, and the other sibling mourned
+  batch: RBR-004
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Silence remained in the room, and the other sibling mourned
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1180
+  notes: null
+- snum: S1181
+  gloss: The returning sibling entered the room
+  batch: RBR-005
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The returning sibling entered the room
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1181
+  notes: null
+- snum: S1182
+  gloss: The other sibling said, “You are my sibling.”
+  batch: RBR-005
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The other sibling said, “You are my sibling.”
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1182
+  notes: null
+- snum: S1183
+  gloss: The other sibling said, “I do not remove your fault.”
+  batch: RBR-005
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The other sibling said, “I do not remove your fault.”
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1183
+  notes: null
+- snum: S1184
+  gloss: The returning sibling said, “I know you do not remove my fault.”
+  batch: RBR-005
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The returning sibling said, “I know you do not remove my fault.”
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1184
+  notes: null
+- snum: S1185
+  gloss: The other sibling remembered our parent, and the returning sibling remembered
+    our parent
+  batch: RBR-005
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The other sibling remembered our parent, and the returning sibling remembered
+    our parent
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1185
+  notes: null
+- snum: S1186
+  gloss: Our parent did not come home
+  batch: RBR-005
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Our parent did not come home
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1186
+  notes: null
+- snum: S1187
+  gloss: The moon was there, and the river flowed
+  batch: LYR-001
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The moon was there, and the river flowed
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1187
+  notes: null
+- snum: S1188
+  gloss: Rain entered the river, and water-sound existed
+  batch: LYR-001
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Rain entered the river, and water-sound existed
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1188
+  notes: null
+- snum: S1189
+  gloss: The stone was still, and the river flowed
+  batch: LYR-001
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The stone was still, and the river flowed
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1189
+  notes: null
+- snum: S1190
+  gloss: Silence remained, and water-sound existed
+  batch: LYR-001
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Silence remained, and water-sound existed
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1190
+  notes: null
+- snum: S1191
+  gloss: The stars were there, and the stone was still
+  batch: LYR-001
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The stars were there, and the stone was still
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1191
+  notes: null
+- snum: S1192
+  gloss: The moon entered the river —
+  batch: LYR-001
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The moon entered the river —
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1192
+  notes: null
+- snum: S1193
+  gloss: The river held the moon, and the moon functioned as a stone
+  batch: LYR-002
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The river held the moon, and the moon functioned as a stone
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1193
+  notes: null
+- snum: S1194
+  gloss: Rain entered the river, and the stars entered the river
+  batch: LYR-002
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Rain entered the river, and the stars entered the river
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1194
+  notes: null
+- snum: S1195
+  gloss: Water-sound existed, and silence remained in the water-sound
+  batch: LYR-002
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Water-sound existed, and silence remained in the water-sound
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1195
+  notes: null
+- snum: S1196
+  gloss: The stone was still, and the stone functioned as the moon
+  batch: LYR-002
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The stone was still, and the stone functioned as the moon
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1196
+  notes: null
+- snum: S1197
+  gloss: The stars were there, and the stars functioned as rain
+  batch: LYR-002
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The stars were there, and the stars functioned as rain
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1197
+  notes: null
+- snum: S1198
+  gloss: The river functioned as stars —
+  batch: LYR-002
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The river functioned as stars —
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1149-s1198.md
+  source_anchor: S1198
+  notes: null
+- snum: S1199
+  gloss: The moon was there, and the river flowed
+  batch: LYR-003
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The moon was there, and the river flowed
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1199
+  notes: null
+- snum: S1200
+  gloss: The moon was there, and the river functioned as stars
+  batch: LYR-003
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The moon was there, and the river functioned as stars
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1200
+  notes: null
+- snum: S1201
+  gloss: Silence remained, and water-sound existed
+  batch: LYR-003
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Silence remained, and water-sound existed
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1201
+  notes: null
+- snum: S1202
+  gloss: Silence remained in the water-sound, and water-sound existed
+  batch: LYR-003
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Silence remained in the water-sound, and water-sound existed
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1202
+  notes: null
+- snum: S1203
+  gloss: The moon entered the river —
+  batch: LYR-003
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The moon entered the river —
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1203
+  notes: null
+- snum: S1204
+  gloss: The moon was there, and the river flowed —
+  batch: LYR-003
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The moon was there, and the river flowed —
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1204
+  notes: null
+- snum: S1205
+  gloss: You were not there, and the moon was there
+  batch: LYR-004
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: You were not there, and the moon was there
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1205
+  notes: null
+- snum: S1206
+  gloss: You did not speak, and silence remained
+  batch: LYR-004
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: You did not speak, and silence remained
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1206
+  notes: null
+- snum: S1207
+  gloss: You remembered the water-sound, and silence remained in the water-sound
+  batch: LYR-004
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: You remembered the water-sound, and silence remained in the water-sound
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1207
+  notes: null
+- snum: S1208
+  gloss: You saw the river, and the river functioned as stars
+  batch: LYR-004
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: You saw the river, and the river functioned as stars
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1208
+  notes: null
+- snum: S1209
+  gloss: You were not there, and the moon entered the river —
+  batch: LYR-004
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: You were not there, and the moon entered the river —
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1209
+  notes: null
+- snum: S1210
+  gloss: The moon was there, and you were not there —
+  batch: LYR-004
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The moon was there, and you were not there —
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1210
+  notes: null
+- snum: S1211
+  gloss: The river held the moon, and silence remained
+  batch: LYR-005
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The river held the moon, and silence remained
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1211
+  notes: null
+- snum: S1212
+  gloss: Water-sound existed, and the river flowed
+  batch: LYR-005
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Water-sound existed, and the river flowed
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1212
+  notes: null
+- snum: S1213
+  gloss: The river functioned as stars, and the moon was there
+  batch: LYR-005
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The river functioned as stars, and the moon was there
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1213
+  notes: null
+- snum: S1214
+  gloss: You were not there, and silence remained in the water-sound
+  batch: LYR-005
+  batch_sub: D
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: You were not there, and silence remained in the water-sound
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1214
+  notes: null
+- snum: S1215
+  gloss: The moon entered the river, and the river held the moon
+  batch: LYR-005
+  batch_sub: E
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The moon entered the river, and the river held the moon
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1215
+  notes: null
+- snum: S1216
+  gloss: The river held the moon, and you were not there —
+  batch: LYR-005
+  batch_sub: F
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: The river held the moon, and you were not there —
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1216
+  notes: null
+- snum: S1217
+  gloss: Full haiku — kireji as `—` prosodic suspension
+  batch: BSH-002
+  batch_sub: A
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Full haiku — kireji as `—` prosodic suspension
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1217
+  notes: null
+- snum: S1218
+  gloss: Full haiku — suspension with reduced second pond mention
+  batch: BSH-002
+  batch_sub: B
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Full haiku — suspension with reduced second pond mention
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1218
+  notes: null
+- snum: S1219
+  gloss: Suspension with agent suppressed
+  batch: BSH-002
+  batch_sub: C
+  status: normative
+  tonesu: ''
+  gloss_line: null
+  natural: Suspension with agent suppressed
+  words_attested: []
+  first_attests: []
+  gap_refs: []
+  source_file: sentences/v4-current/s1199-plus.md
+  source_anchor: S1219
+  notes: null

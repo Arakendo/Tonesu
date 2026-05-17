@@ -1227,3 +1227,118 @@ batches:
   theme: Foundations
   range: S1070–S1075
   count: 6
+- code: ANV-001
+  title: '*On Violence* (Hannah Arendt, 1970) [S1076–S1085]'
+  theme: Foundations
+  range: S1076–S1085
+  count: 10
+- code: ANV-002
+  title: '*On Violence* (Hannah Arendt, 1970) — continued [S1086–S1091]'
+  theme: Foundations
+  range: S1086–S1091
+  count: 6
+- code: ANV-003
+  title: '*On Violence* (Hannah Arendt, 1970) — continued [S1092–S1097]'
+  theme: Foundations
+  range: S1092–S1097
+  count: 6
+- code: ANV-004
+  title: '*On Violence* (Hannah Arendt, 1970) — continued [S1098–S1103]'
+  theme: Foundations
+  range: S1098–S1103
+  count: 6
+- code: ANV-005
+  title: '*On Violence* (Hannah Arendt, 1970) — continued [S1104–S1109]'
+  theme: Foundations
+  range: S1104–S1109
+  count: 6
+- code: ANV-006
+  title: '*On Violence* (Hannah Arendt, 1970) — continued [S1110–S1115]'
+  theme: Foundations
+  range: S1110–S1115
+  count: 6
+- code: ACC-001
+  title: The Archive Collapse [S1116–S1121]
+  theme: Foundations
+  range: S1116–S1121
+  count: 6
+- code: ACC-002
+  title: The Archive Collapse [S1122–S1127]
+  theme: Foundations
+  range: S1122–S1127
+  count: 6
+- code: ACC-003
+  title: The Archive Collapse [S1128–S1134]
+  theme: Foundations
+  range: S1128–S1134
+  count: 7
+- code: ACC-004
+  title: The Archive Collapse [S1135–S1141]
+  theme: Foundations
+  range: S1135–S1141
+  count: 7
+- code: ACC-005
+  title: The Archive Collapse [S1142–S1148]
+  theme: Foundations
+  range: S1142–S1148
+  count: 7
+- code: ACC-006
+  title: The Archive Collapse [S1149–S1156]
+  theme: Foundations
+  range: S1149–S1156
+  count: 8
+- code: RBR-001
+  title: The Returning Brother [S1157–S1162]
+  theme: Foundations
+  range: S1157–S1162
+  count: 6
+- code: RBR-002
+  title: The Returning Brother [S1163–S1168]
+  theme: Foundations
+  range: S1163–S1168
+  count: 6
+- code: RBR-003
+  title: The Returning Brother [S1169–S1174]
+  theme: Foundations
+  range: S1169–S1174
+  count: 6
+- code: RBR-004
+  title: The Returning Brother [S1175–S1180]
+  theme: Foundations
+  range: S1175–S1180
+  count: 6
+- code: RBR-005
+  title: The Returning Brother [S1181–S1186]
+  theme: Foundations
+  range: S1181–S1186
+  count: 6
+- code: LYR-001
+  title: Moon on the River [S1187–S1192]
+  theme: Foundations
+  range: S1187–S1192
+  count: 6
+- code: LYR-002
+  title: Moon on the River [S1193–S1198]
+  theme: Foundations
+  range: S1193–S1198
+  count: 6
+- code: LYR-003
+  title: Moon on the River [S1199–S1204]
+  theme: Foundations
+  range: S1199–S1204
+  count: 6
+- code: LYR-004
+  title: Moon on the River [S1205–S1210]
+  theme: Foundations
+  range: S1205–S1210
+  count: 6
+- code: LYR-005
+  title: Moon on the River [S1211–S1216]
+  theme: Foundations
+  range: S1211–S1216
+  count: 6
+- code: BSH-002
+  title: Bashō, Frog Haiku [S1217–S1219]
+  theme: Grammar & syntax
+  range: S1217–S1219
+  count: 3

@@ -6,7 +6,7 @@ title: "Foundations"
 
 Core sentences from the earliest Tonesu attestations — basic agent-patient structures, property attribution, and foundational constructions.
 
-532 sentences.
+673 sentences.
 
 [← Corpus](../overview.md)
 
@@ -60,6 +60,10 @@ Core sentences from the earliest Tonesu attestations — basic agent-patient str
 | [Warhammer 40,000 — Magnus Did No Wrong](../batches/mag/index.md) | 1 | 6 |
 | [Warhammer 40,000 — Lorgar Was Right](../batches/lor/index.md) | 1 | 6 |
 | [Rules of Engagement Doctrine](../batches/roe/index.md) | 4 | 25 |
+| [*On Violence* (Hannah Arendt, 1970) [S1076–S1085]](../batches/anv/index.md) | 6 | 40 |
+| [The Archive Collapse [S1116–S1121]](../batches/acc/index.md) | 6 | 41 |
+| [The Returning Brother [S1157–S1162]](../batches/rbr/index.md) | 5 | 30 |
+| [Moon on the River [S1187–S1192]](../batches/lyr/index.md) | 5 | 30 |
 
 ---
 

@@ -619,11 +619,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 
 ## Philosophy / Politics
 
-2 compounds
+5 compounds
 
 | Word | W# | Status | Gloss |
 |------|----|--------|-------|
 | `be-ki` · beki | [W244](words/W244.md) | ✅ | natality; capacity for new beginning; beginning-in-motion <br><small>[S863](../../totonesu/corpus/batches/ant/index.md#S863) · [S871](../../totonesu/corpus/batches/wfe/index.md#S871) · [S970](../../totonesu/corpus/batches/dnd/index.md#S970) · [S975](../../totonesu/corpus/batches/dnd/index.md#S975)</small> |
+| `ka-ra-mu` · karamu | [W247](words/W247.md) | ✅ | weapon; violent implement; deliberate-force-artifact |
+| `no-li-ra-su` · nolirasu | [W249](words/W249.md) | ✅ | bureaucracy; rule by nobody; power-structure without personal accountability |
+| `su-ra` · sura | [W248](words/W248.md) | ✅ | authority; structured/institutionally-ordered power <br><small>[S867](../../totonesu/corpus/batches/wfe/index.md#S867) · [S872](../../totonesu/corpus/batches/wfe/index.md#S872)</small> |
 | `wife'atofeka` · wife'atofeka | [W246](words/W246.md) | ✅ | legitimized epistemic closure; entitlement-framed universal knowledge-limitation <br><small>[S865](../../totonesu/corpus/batches/wfe/index.md#S865) · [S866](../../totonesu/corpus/batches/wfe/index.md#S866) · [S867](../../totonesu/corpus/batches/wfe/index.md#S867) · [S868](../../totonesu/corpus/batches/wfe/index.md#S868) · [S869](../../totonesu/corpus/batches/wfe/index.md#S869) · [S871](../../totonesu/corpus/batches/wfe/index.md#S871) · [S872](../../totonesu/corpus/batches/wfe/index.md#S872)</small> |
 
 ## Physics / Theoretical
@@ -738,6 +741,14 @@ See also: [Alphabetical list](overview.md) · [English index](english.md) · [By
 | `o-ka-su` · okasu | [W233](words/W233.md) | ✅ | collective-governance-structure; the Party; state apparatus <br><small>[S957](../../totonesu/corpus/batches/mrp/index.md#S957) · [S958](../../totonesu/corpus/batches/mrp/index.md#S958) · [S959](../../totonesu/corpus/batches/mrp/index.md#S959) · [S960](../../totonesu/corpus/batches/mrp/index.md#S960) · [S961](../../totonesu/corpus/batches/mrp/index.md#S961) · [S962](../../totonesu/corpus/batches/mrp/index.md#S962) · [S964](../../totonesu/corpus/batches/psy/index.md#S964) · [S966](../../totonesu/corpus/batches/psy/index.md#S966) · [S967](../../totonesu/corpus/batches/psy/index.md#S967) · [S968](../../totonesu/corpus/batches/psy/index.md#S968)</small> |
 | `pa-ra-de-su` · paradesu | [W242](words/W242.md) | ✅ | imperialism; territorial-deviant-power-structure <br><small>[S853](../../totonesu/corpus/batches/ant/index.md#S853)</small> |
 | `ra-de-su` · radesu | [W240](words/W240.md) | ✅ | tyranny; deviant-power-structure <br><small>[S845](../../totonesu/corpus/batches/ant/index.md#S845)</small> |
+
+## Technology
+
+1 compound
+
+| Word | W# | Status | Gloss |
+|------|----|--------|-------|
+| `ka-ra-mu` · karamu | [W247](words/W247.md) | ✅ | weapon; violent implement; deliberate-force-artifact |
 
 ## Time / Causation
 

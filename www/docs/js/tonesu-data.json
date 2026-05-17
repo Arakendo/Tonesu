@@ -3321,6 +3321,45 @@
       "status": "active",
       "domain": "Philosophy / Politics",
       "roots": []
+    },
+    {
+      "wnum": "W247",
+      "form": "ka-ra-mu",
+      "written": "karamu",
+      "gloss": "weapon; violent implement; deliberate-force-artifact",
+      "status": "active",
+      "domain": "Philosophy / Politics / Technology",
+      "roots": [
+        "ka",
+        "ra",
+        "mu"
+      ]
+    },
+    {
+      "wnum": "W248",
+      "form": "su-ra",
+      "written": "sura",
+      "gloss": "authority; structured/institutionally-ordered power",
+      "status": "active",
+      "domain": "Philosophy / Politics",
+      "roots": [
+        "su",
+        "ra"
+      ]
+    },
+    {
+      "wnum": "W249",
+      "form": "no-li-ra-su",
+      "written": "nolirasu",
+      "gloss": "bureaucracy; rule by nobody; power-structure without personal accountability",
+      "status": "active",
+      "domain": "Philosophy / Politics",
+      "roots": [
+        "no",
+        "li",
+        "ra",
+        "su"
+      ]
     }
   ]
 }
