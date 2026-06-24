@@ -165,6 +165,34 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 - [x] **Psycho-Pass / crime coefficient regime** — filed as PSY-001 (S963–S968). Makes person-classification explicit via `su-ka`, treats thresholded affect-risk as signal rather than guilt, activates `to-fe-su-ki` for the publication-state gap, and frames lethal enforcement under unpublished thresholds as meta-level `to-fe-ka`.
 - [ ] **Comparative legitimacy morphology — governments and action-groups** — Compare historically notable governments, movements, militias, parties, revolutionary committees, religious orders, unions, activist blocs, and corporate governance systems to see whether Tonesu can map their force topology without getting hypnotized by ideology labels. The target is not "left vs right" or "good vs evil" summary; the target is structural mapping: who claims authority, who bears burden, who may use force, who is classified, who enforces participation, who is excluded, and what turns belief into action or action into legitimacy.
 
+	**Current status:** substantially in progress. `GOV-001`, `MOV-001`, `PAR-001`, `REV-001`, `HYB-001`, `LAB-001`, `CEL-001`, `CGV-001`, and `REL-001` are now on the board in varying depth, and `CMP-001` has already filed first, second, and third synthesis passes on authority, routing, publication, force relation, upward reporting, witness burden, review-path survival, classification, exclusion, participation, and bureaucratic routinization.
+
+	**Website-facing deliverable still needed:** a compact public findings presentation that states what is already stable without pretending the whole comparative program is closed.
+
+	**Detailed status map:**
+	- **Anchor coverage already achieved:** the track now has live historical anchors for formal state authority (`GOV-001`), mass movement / party apparatus (`MOV-001`), paramilitary adjunct (`PAR-001`), emergency-revolutionary authority (`REV-001`), fused party-state authority (`HYB-001`), labor / union governance (`LAB-001`), clandestine cell structure (`CEL-001`), corporate / quasi-state governance (`CGV-001`), and religious / obedience governance (`REL-001`).
+	- **Synthesis coverage already achieved:** `CMP-001` now compares authority basis, downward routing, publication, force relation, review-path survival, classification, exclusion, participation model, and bureaucratic routinization.
+	- **Main interpretive result already visible:** the track is already showing that similar organizational shapes do not force identical legitimacy claims, and that office, militia, cell, delegate, obedience, and hybrid party-state forms remain structurally distinguishable in Tonesu.
+
+	**What is still left in corpus work:**
+	1. decide whether any anchor still needs a small wording-sensitive follow-up pass before the comparison layer is presented as settled enough for public summary
+	2. confirm whether `REL-001` page-image verification remains a real blocker or only a caveat to be marked explicitly
+
+	**What is still left in website work:**
+	1. tighten `CMP-001` into a compact public findings page rather than leaving it mainly as a bridge note
+	2. add a short axis-by-axis takeaway table so readers can see the stable distinctions without reconstructing them from corpus lines alone
+	3. keep `Arendt convergence` restrained by linking the comparative result to the broader claim without implying the whole governance program is finished
+	4. make any surviving source caveats explicit where needed, instead of letting the website read more certain than the packets justify
+
+	**Recommended execution order from here:**
+	1. review anchor caveats and mark any that remain open
+	2. rewrite the public `CMP-001` page around stable findings, not just track description
+	3. do one final pass on `Arendt convergence` and `legitimacy-morphology` so their wording matches the now-current `CMP-001` deliverable state
+
+	**Completion standard for this section:** this track counts as website-ready when the comparative corpus already covers authority, force, review, publication, classification, exclusion, participation, upward reporting, and witness burden well enough that the public pages can state a bounded finding rather than only a research program.
+
+	**What would still remain even after that:** not a missing deliverable, but a later expansion path. Additional comparative batches could still widen the evidence surface, but they would no longer be required for a first defensible public statement of findings.
+
 	**Why this track matters:** this is one of the clearest places where Tonesu should outperform ordinary political shorthand. Many historically famous groups describe themselves in incompatible moral vocabularies while operating through surprisingly similar structures of authorization, coercion, classification, bureaucracy, ritual legitimacy, and delegated violence. If the language can map those similarities and differences cleanly, that is a serious test of whether its institutional vocabulary is actually doing real work.
 
 	**Arendt pressure:** use this track to pressure distinctions around authority, power, violence, administration, mass participation, bureaucratic distance, and the conversion of ordinary compliance into historically consequential action. The question is not whether the corpus agrees with Arendt; the question is whether Tonesu can make the same structural distinctions visible enough that Arendt-like analysis can even be stated cleanly.
@@ -260,7 +288,7 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 	5. **HYB-001** — party-state or fused hybrid governance
 	6. **LAB-001** — labor, guild, or union governance structure
 	7. **CEL-001** — clandestine or cell-based authority structure
-	8. **COR-001** — corporate or institutional governance structure
+	8. **CGV-001** — corporate or institutional governance structure
 	9. **REL-001** — religious or moral authority structure
 	10. **CMP-001** — synthesis of legitimacy, force, participation, and classification
 
@@ -272,7 +300,7 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 	5. **HYB-001 options** — Nazi party-state fusion; Soviet party-state consolidation; Ba'athist fusion of party, security, and administrative office.
 	6. **LAB-001 options** — Polish Solidarity; medieval or early-modern guild governance; major strike-committee structures that temporarily govern labor participation rather than merely negotiate demands.
 	7. **CEL-001 options** — FLN cell structure in Algeria; Provisional IRA command and local cells; resistance-cell networks where authority is real but institutionally obscured.
-	8. **COR-001 options** — East India Company charter governance; VOC governance if source recovery is cleaner; company-town or concessionary corporate rule only if the governance surface is explicit enough.
+	8. **CGV-001 options** — East India Company charter governance; VOC governance if source recovery is cleaner; company-town or concessionary corporate rule only if the governance surface is explicit enough.
 	9. **REL-001 options** — Jesuit order constitutions; Roman Inquisition tribunal procedure; Geneva consistory or other disciplinary religious governance with recoverable rule texts.
 
 	**Strong provisional slate if you want one now:** Committee of Public Safety; East India Company; Jesuit order; Napoleonic administrative state; Polish Solidarity; early Bolshevik party apparatus; Italian Blackshirts; Nazi party-state fusion; FLN cells.
@@ -287,7 +315,8 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 
 	2. **MOV-001 — early Bolshevik party apparatus**
 	Target source types: party rules, congress resolutions, central committee directives, soviet-party relationship statements from the pre-consolidation window.
-	Best first hunt: party statute plus one directive showing how party line becomes operative action before full state fusion.
+	Current selected base pair: 1903 RSDLP organisational rules plus Lenin's *Advice of an Onlooker*; supporting packets: Lenin's *April Theses* and the introduction to the April Conference resolutions.
+	Current filed range: `S1431–S1455`.
 	Fallbacks: Marxists Internet Archive text when it reproduces canonical primary documents cleanly; otherwise contemporary document collections.
 	Packet trigger: if translations vary materially, preserve the exact edition or transcription used.
 
@@ -305,8 +334,9 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 
 	5. **HYB-001 — Nazi party-state fusion**
 	Target source types: enabling or coordination laws, party-state administrative decrees, civil-service purification measures, police/security coordination texts.
-	Best first hunt: one fusion text on party-state relation plus one classification/enforcement text.
-	Fallbacks: Avalon Project, German federal archive reproductions, or Nuremberg document collections for authenticated texts.
+	Current selected pair: the 1 December 1933 `Law to Secure the Unity of Party and State` plus the 7 April 1933 `Law for the Restoration of the Professional Civil Service`.
+	Current filed range: `S1456–S1471`.
+	Fallbacks: German federal archive reproductions, Nuremberg document collections, or other authenticated legal-text mirrors when older GHDI links are dead.
 	Packet trigger: always preserve a packet when using translated excerpts from this batch, because wording precision around authority and classification matters.
 
 	6. **LAB-001 — Polish Solidarity**
@@ -321,7 +351,7 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 	Fallbacks: collected revolutionary documents or postwar edited primary document sets.
 	Packet trigger: high. Cell-structure material is often brittle, excerpted, or scattered; preserve packets whenever the operative chain of command is reconstructed from fragile sources.
 
-	8. **COR-001 — East India Company**
+	8. **CGV-001 — East India Company**
 	Target source types: royal charter, company bylaws or court-of-directors instructions, territorial administration regulations, military or revenue governance rules.
 	Best first hunt: charter text plus one governance document showing the jump from commercial privilege to territorial rule.
 	Fallbacks: British Library or parliamentary reproductions, charter collections, or colonial administrative compilations.
@@ -334,9 +364,17 @@ Ideas for future batches, organized by readiness. Check off once a batch is writ
 	Packet trigger: if the operative Latin text and English translation diverge in governance terms, preserve both quoted surfaces in a packet.
 
 	**Hunt order recommendation:**
-	1. **Phase 1 — clean morphology controls:** REV-001, COR-001, REL-001, GOV-001.
+	1. **Phase 1 — clean morphology controls:** REV-001, CGV-001, REL-001, GOV-001.
 	2. **Phase 2 — participatory and movement pressure:** LAB-001, MOV-001.
 	3. **Phase 3 — force/topology complexity:** PAR-001, HYB-001, CEL-001.
+
+	**Current working queue after REV-001 filing:**
+	- **REV-001** — filed in corpus as S1403–S1416. The emergency-authority control now includes the explicit weekly, ten-day, monthly, and one-month-limit pressure points.
+	- **CGV-001** — filed in corpus as S1338–S1347 and extended by second-pass licensing/publication clauses in S1417–S1420, third-pass list-form / secretary-routing clauses in S1421–S1424, fourth-pass cargo-manifest clauses in S1425–S1427, and fifth-pass public-dispatch / express-mention / documentary-evidence clauses in S1428–S1430. East India Company charter governance now serves as the live corporate / quasi-state control, with remaining work narrowed to optional later refinement rather than missing core coverage.
+	- **REL-001** — source-grounded, with a verification caveat. Jesuit constitutional governance now has a selected authority packet from the Formula of the Institute and a selected obedience-routing packet from the 1838 `Institutum` instructions to provincials and superiors; the main remaining work is page-image verification before wording-sensitive drafting.
+	- **GOV-001** — started as the third phase-1 control. Use Napoleonic prefect / ministry administration as the formal state-bureaucracy specimen, with one constituting administrative text plus one reporting or implementation surface.
+
+	**Why this queue:** REV-001 already covers emergency legitimacy. CGV-001 and REL-001 widen the track quickly into corporate-territorial rule and moral-obedience governance without immediately jumping into fused party-state or clandestine cases. GOV-001 remains important, but it can wait until the non-state controls are underway.
 
 	**Why this order:** it maximizes recoverable operative texts, structural divergence, low ideology-noise-to-signal ratio, and strong authority/action separation before the track enters fused, clandestine, or semantically radioactive cases.
 

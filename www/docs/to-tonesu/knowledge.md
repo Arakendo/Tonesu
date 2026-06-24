@@ -256,7 +256,7 @@ The exclusive claim: `rufe, labeki ne nogosi wife'atofeka` — for finite agents
 
 ### Where this shows up
 
-The concept emerged from Hannah Arendt's analysis of totalitarianism — specifically the observation that ideological systems require subjects to be active agents of legitimation, not merely passive witnesses. The `wi-fe` wrapper encodes Arendt's key insight: the coercion is not experienced as coercion but as right. The cascade: atomization → structural force → the total-power-structure presents itself as the legitimate shape of knowledge (`lanoNezoli ; lasura ; laarase ne wife'atofeka`).
+One important source context for this concept is Hannah Arendt's analysis of totalitarianism - specifically the observation that ideological systems require subjects to be active agents of legitimation, not merely passive witnesses. In that context, the `wi-fe` wrapper helps state a pressure Arendt identified clearly: coercion can present itself not as coercion, but as right. The cascade: atomization -> structural force -> the total-power-structure presents itself as the legitimate shape of knowledge (`lanonezoli ; lasura ; laarasu ne wife'atofeka`).
 
 The compound is not limited to this context. It applies wherever the entitlement-frame around a knowledge-limit is successfully naturalized:
 

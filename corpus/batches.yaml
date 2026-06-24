@@ -1417,3 +1417,53 @@ batches:
   theme: Foundations
   range: S1295–S1300
   count: 6
+- code: CGV-001
+  title: East India Company Charter Governance [S1338–S1347]
+  theme: Foundations
+  range: S1338–S1430
+  count: 24
+- code: REL-001
+  title: Jesuit Constitutional Obedience [S1348–S1354]
+  theme: Foundations
+  range: S1348–S1354
+  count: 7
+- code: LAB-001
+  title: Polish Solidarity [S1355–S1368]
+  theme: Foundations
+  range: S1355–S1368
+  count: 14
+- code: GOV-001
+  title: Napoleonic Administrative State [S1369–S1385]
+  theme: Foundations
+  range: S1369–S1385
+  count: 17
+- code: PAR-001
+  title: Italian Blackshirts / MVSN [S1386–S1395]
+  theme: Foundations
+  range: S1386–S1402
+  count: 17
+- code: REV-001
+  title: Committee of Public Safety [S1403–S1416]
+  theme: Foundations
+  range: S1403–S1416
+  count: 14
+- code: MOV-001
+  title: Early Bolshevik Party Apparatus [S1431–S1440]
+  theme: Foundations
+  range: S1431–S1455
+  count: 25
+- code: HYB-001
+  title: Nazi Party-State Fusion, first pass [S1456–S1461]
+  theme: Foundations
+  range: S1456–S1471
+  count: 16
+- code: CEL-001
+  title: FLN Cells in Algeria, first pass [S1472–S1476]
+  theme: Foundations
+  range: S1472–S1476
+  count: 5
+- code: CMP-001
+  title: Comparative Legitimacy Morphology, first synthesis pass [S1477–S1480]
+  theme: Foundations
+  range: S1477–S1502
+  count: 26

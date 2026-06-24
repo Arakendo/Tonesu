@@ -6,7 +6,7 @@ title: "Foundations"
 
 Core sentences from the earliest Tonesu attestations — basic agent-patient structures, property attribution, and foundational constructions.
 
-791 sentences.
+956 sentences.
 
 [← Corpus](../overview.md)
 
@@ -70,6 +70,16 @@ Core sentences from the earliest Tonesu attestations — basic agent-patient str
 | [Complex Plane / Imaginary Axis Probe [S1244–S1248]](../batches/cpx/index.md) | 6 | 30 |
 | [Legal Reference Apparatus Probe [S1274–S1278]](../batches/lrf/index.md) | 1 | 5 |
 | [USA PATRIOT Act Section 215: Tangible Things Collection [S1279–S1284]](../batches/pat/index.md) | 4 | 22 |
+| [East India Company Charter Governance [S1338–S1347]](../batches/cgv/index.md) | 1 | 24 |
+| [Jesuit Constitutional Obedience [S1348–S1354]](../batches/rel/index.md) | 1 | 7 |
+| [Polish Solidarity [S1355–S1368]](../batches/lab/index.md) | 1 | 14 |
+| [Napoleonic Administrative State [S1369–S1385]](../batches/gov/index.md) | 1 | 17 |
+| [Italian Blackshirts / MVSN [S1386–S1395]](../batches/par/index.md) | 1 | 17 |
+| [Committee of Public Safety [S1403–S1416]](../batches/rev/index.md) | 1 | 14 |
+| [Early Bolshevik Party Apparatus [S1431–S1440]](../batches/mov/index.md) | 1 | 25 |
+| [Nazi Party-State Fusion, first pass [S1456–S1461]](../batches/hyb/index.md) | 1 | 16 |
+| [FLN Cells in Algeria, first pass [S1472–S1476]](../batches/cel/index.md) | 1 | 5 |
+| [Comparative Legitimacy Morphology, first synthesis pass [S1477–S1480]](../batches/cmp/index.md) | 1 | 26 |
 
 ---
 
