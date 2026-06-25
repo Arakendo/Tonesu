@@ -3,6 +3,8 @@
 > **A constructed language built on generative roots.**  
 > Every word is audible as its own definition.
 
+This repository contains the language specification, registries, corpus, source packets, and documentation source for tonesu.org.
+
 **→ [tonesu.org](https://tonesu.org/)** — live reference site with full registry, corpus, and grammar
 
 ---
